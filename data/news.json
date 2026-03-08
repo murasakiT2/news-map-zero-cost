@@ -1,0 +1,21 @@
+{
+  "generated_at": "2026-03-08T00:00:00Z",
+  "articles": [
+    {
+      "source": "sample",
+      "title": "Sample news for Japan",
+      "url": "https://example.com/japan",
+      "summary": "最初の表示確認用データです。GitHub Actions 実行後に上書きされます。",
+      "published_at": "2026-03-08T00:00:00Z",
+      "country_code": "JP",
+      "country_name": "Japan"
+    }
+  ],
+  "regions": [
+    {
+      "country_code": "JP",
+      "country_name": "Japan",
+      "news_count": 1
+    }
+  ]
+}

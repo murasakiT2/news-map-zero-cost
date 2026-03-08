@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="ja">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>World News Map</title>
+    <link rel="stylesheet" href="./styles.css" />
+    <script src="https://cdn.jsdelivr.net/npm/d3@7"></script>
+    <script src="https://cdn.jsdelivr.net/npm/topojson-client@3"></script>
+  </head>
+  <body>
+    <header class="header">
+      <div>
+        <h1>World News Map</h1>
+        <p>無料構成: GitHub Pages + GitHub Actions + RSS + 辞書ベース地域抽出</p>
+      </div>
+      <div class="meta" id="meta"></div>
+    </header>
+
+    <main class="layout">
+      <section class="map-panel">
+        <svg id="map" viewBox="0 0 1000 520" aria-label="world news map"></svg>
+      </section>
+
+      <aside class="side-panel">
+        <div class="panel-block">
+          <h2>地域の状況</h2>
+          <p id="selected-region">地図上の国を選択してください。</p>
+        </div>
+
+        <div class="panel-block">
+          <h2>ニュース</h2>
+          <ul id="news-list" class="news-list"></ul>
+        </div>
+      </aside>
+    </main>
+
+    <script type="module" src="./app.js"></script>
+  </body>
+</html>
