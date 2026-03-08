@@ -1,20 +1,1121 @@
 {
-  "generated_at": "2026-03-08T00:00:00Z",
+  "generated_at": "2026-03-08T14:19:16Z",
   "articles": [
     {
-      "source": "sample",
-      "title": "Sample news for Japan",
-      "url": "https://example.com/japan",
-      "summary": "最初の表示確認用データです。GitHub Actions 実行後に上書きされます。",
-      "published_at": "2026-03-08T00:00:00Z",
+      "source": "BBC World",
+      "title": "Explosion at US embassy in Oslo may have been terrorism, Norway police say",
+      "url": "https://www.bbc.com/news/articles/c5yjegg892lo?at_medium=RSS&at_campaign=rss",
+      "summary": "Police say they are investigating other motives after the blast caused minor damage to the embassy building.",
+      "published_at": "2026-03-08T12:30:16Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC Middle East",
+      "title": "In maps: Nine days of strikes across the Middle East",
+      "url": "https://www.bbc.com/news/articles/c4g0pnnj8xyo?at_medium=RSS&at_campaign=rss",
+      "summary": "Israel has continued strikes across Iran and Lebanon and the Iranian regime has carried out more attacks, as the war continues for a ninth d…",
+      "published_at": "2026-03-08T11:40:12Z",
+      "country_code": "IL",
+      "country_name": "Israel"
+    },
+    {
+      "source": "BBC World",
+      "title": "UK does not 'agree with Trump on every issue' - Cooper",
+      "url": "https://www.bbc.com/news/videos/cd03py027vyo?at_medium=RSS&at_campaign=rss",
+      "summary": "Foreign Secretary Yvette Cooper has hit back at President Trump's criticism of the UK response to the conflict in Iran.",
+      "published_at": "2026-03-08T11:13:22Z",
+      "country_code": "GB",
+      "country_name": "United Kingdom"
+    },
+    {
+      "source": "BBC World",
+      "title": "War fuels debate in Cyprus over UK military bases",
+      "url": "https://www.bbc.com/news/articles/cx2r1xldl1ko?at_medium=RSS&at_campaign=rss",
+      "summary": "“British Bases Out” is the slogan of Cypriot protesters after a drone strike targeted the RAF Akrotiri airbase.",
+      "published_at": "2026-03-08T08:03:40Z",
+      "country_code": "GB",
+      "country_name": "United Kingdom"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "Trump accuses Starmer of seeking to 'join wars after we've already won'",
+      "url": "https://www.bbc.com/news/articles/c9dn3j04lydo?at_medium=RSS&at_campaign=rss",
+      "summary": "The remarks come after a public back-and-forth between Trump and Sir Keir Starmer over UK involvement in the US's joint offensive with Israe…",
+      "published_at": "2026-03-08T07:11:03Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Watch: Huge flames in Tehran after air strikes on oil depots",
+      "url": "https://www.bbc.com/news/videos/c7vj9redqz2o?at_medium=RSS&at_campaign=rss",
+      "summary": "Social media footage shows flames leaping into the air and plumes of smoke above the city's skyline.",
+      "published_at": "2026-03-08T01:42:48Z",
+      "country_code": "IR",
+      "country_name": "Iran"
+    },
+    {
+      "source": "BBC World",
+      "title": "The heartwarming tale of a father, a daughter, and a wedding band wowing India",
+      "url": "https://www.bbc.com/news/articles/c7430kn9ze4o?at_medium=RSS&at_campaign=rss",
+      "summary": "Band Baaja Bitiya is the moving tale of a father who goes to rescue his daughter from her matrimonial home.",
+      "published_at": "2026-03-08T00:02:55Z",
+      "country_code": "IN",
+      "country_name": "India"
+    },
+    {
+      "source": "BBC World",
+      "title": "Dancers loved practising in this Singapore walkway. Then the complaints came",
+      "url": "https://www.bbc.com/news/articles/c4g4q9xl4p6o?at_medium=RSS&at_campaign=rss",
+      "summary": "In super-organised Singapore, disputes over public space are a battle between control and chaos.",
+      "published_at": "2026-03-07T23:11:02Z",
+      "country_code": "SG",
+      "country_name": "Singapore"
+    },
+    {
+      "source": "BBC World",
+      "title": "Iranian ambassador warns UK to be 'very careful' about further involvement in war",
+      "url": "https://www.bbc.com/news/articles/cq6qp458zv1o?at_medium=RSS&at_campaign=rss",
+      "summary": "Seyed Ali Mousavi says Iran has a \"right to self-defence\" if the UK directly joins US-Israeli attacks.",
+      "published_at": "2026-03-07T16:53:57Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC Middle East",
+      "title": "Why did Iran's president apologise?",
+      "url": "https://www.bbc.com/news/articles/cz7g2qrz8vdo?at_medium=RSS&at_campaign=rss",
+      "summary": "The apology may hint at a political repositioning inside Iran, writes BBC Persian's Amir Azmi.",
+      "published_at": "2026-03-07T16:51:14Z",
+      "country_code": "IR",
+      "country_name": "Iran"
+    },
+    {
+      "source": "BBC Middle East",
+      "title": "Why did US and Israel attack Iran and how long could the war last?",
+      "url": "https://www.bbc.com/news/articles/cx2dyz6p3weo?at_medium=RSS&at_campaign=rss",
+      "summary": "Conflict has spread across the Middle East since the US and Israel launched wide-ranging strikes on Iran on 28 February.",
+      "published_at": "2026-03-07T15:43:35Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Heavy rains and flooding kills at least 23 in Nairobi",
+      "url": "https://www.bbc.com/news/articles/cn87pl8e2l5o?at_medium=RSS&at_campaign=rss",
+      "summary": "Flights in and out of Nairobi Airport have been disrupted while some roads in the capital are submerged.",
+      "published_at": "2026-03-07T12:21:40Z",
+      "country_code": "KE",
+      "country_name": "Kenya"
+    },
+    {
+      "source": "BBC World",
+      "title": "Watch: Moment of drone strike close to Dubai Airport",
+      "url": "https://www.bbc.com/news/videos/c5yr734zml3o?at_medium=RSS&at_campaign=rss",
+      "summary": "Video filmed by a witness and verified by the BBC shows a drone crashing close to the airport.",
+      "published_at": "2026-03-07T10:31:28Z",
+      "country_code": "AE",
+      "country_name": "United Arab Emirates"
+    },
+    {
+      "source": "BBC World",
+      "title": "Russian strike on Kharkiv apartment block kills ten",
+      "url": "https://www.bbc.com/news/articles/cn8zd049l08o?at_medium=RSS&at_campaign=rss",
+      "summary": "Ukraine President Volodymyr Zelensky says other people - including children - are injured as rescuers continue to search through rubble.",
+      "published_at": "2026-03-07T07:54:22Z",
+      "country_code": "UA",
+      "country_name": "Ukraine"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "Deadly storms and tornadoes strike US state of Michigan",
+      "url": "https://www.bbc.com/news/videos/cx2r4wdgkzxo?at_medium=RSS&at_campaign=rss",
+      "summary": "A series of tornadoes tore through several cities, uprooting trees and destroying homes.",
+      "published_at": "2026-03-07T07:08:58Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "Footage shows US citizen shot dead by ICE agent in Texas traffic stop",
+      "url": "https://www.bbc.com/news/articles/cedzep6gp07o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Department of Homeland Security did not disclose Martinez was shot by one of its agents until almost a year later.",
+      "published_at": "2026-03-07T03:39:10Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "Canada's Mark Carney tries to strike a balance on Iran",
+      "url": "https://www.bbc.com/news/articles/cvg1124027go?at_medium=RSS&at_campaign=rss",
+      "summary": "The Iran war is posing a test for the Canadian prime minister's \"pragmatic but principled\" approach to world affairs.",
+      "published_at": "2026-03-07T02:13:25Z",
+      "country_code": "IR",
+      "country_name": "Iran"
+    },
+    {
+      "source": "BBC Middle East",
+      "title": "Trump demands 'unconditional surrender' from Iran as Putin speaks with Iran's president",
+      "url": "https://www.bbc.com/news/articles/c5yq82k1wk8o?at_medium=RSS&at_campaign=rss",
+      "summary": "The president also calls on Tehran to pick new leaders who are \"acceptable\" to the White House after six days of war.",
+      "published_at": "2026-03-07T02:04:06Z",
+      "country_code": "IR",
+      "country_name": "Iran"
+    },
+    {
+      "source": "BBC World",
+      "title": "China spent years building ties in Latin America. Can Trump make room for the US?",
+      "url": "https://www.bbc.com/news/articles/c5yvw0zwpd5o?at_medium=RSS&at_campaign=rss",
+      "summary": "US President Donald Trump will meet with ideologically-aligned Latin American leaders to try and counter China's influence in the region.",
+      "published_at": "2026-03-07T01:56:20Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "The final voyage of the Iranian warship sunk by the US",
+      "url": "https://www.bbc.com/news/articles/c4geelnw7w3o?at_medium=RSS&at_campaign=rss",
+      "summary": "The sinking of an Iranian ship by the US near Sri Lanka brings the conflict uncomfortably close to India.",
+      "published_at": "2026-03-07T00:59:39Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Armed robots take to the battlefield in Ukraine war",
+      "url": "https://www.bbc.com/news/articles/c62662gzlp8o?at_medium=RSS&at_campaign=rss",
+      "summary": "Ukraine has embarked on a programme to deploy armed robots on the battlefield against Russian forces.",
+      "published_at": "2026-03-07T00:36:19Z",
+      "country_code": "UA",
+      "country_name": "Ukraine"
+    },
+    {
+      "source": "BBC World",
+      "title": "AI-generated Iran war videos surge as creators use new tech to cash in",
+      "url": "https://www.bbc.com/news/articles/ckg8wvz427vo?at_medium=RSS&at_campaign=rss",
+      "summary": "The US-Israel war with Iran is being monetised by online creators with AI-generated misinformation.",
+      "published_at": "2026-03-07T00:32:35Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "After Iran, will Trump turn his eyes to Cuba?",
+      "url": "https://www.bbc.com/news/videos/c4gq8yd3qlxo?at_medium=RSS&at_campaign=rss",
+      "summary": "During a White House event with the Inter Miami CF soccer team, the US president said the island was “ready to fall”.",
+      "published_at": "2026-03-06T23:30:56Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "Watch: Obama, Biden and Clinton remember 'tenacious' Jesse Jackson",
+      "url": "https://www.bbc.com/news/videos/cjwz8py0l2go?at_medium=RSS&at_campaign=rss",
+      "summary": "The three former US presidents were among dozens of high profile figures present at the late civil rights activist's memorial.",
+      "published_at": "2026-03-06T23:26:17Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC Middle East",
+      "title": "Trump wants to pick Iran's new leader - will a hostile regime under fire agree?",
+      "url": "https://www.bbc.com/news/articles/c2k8339xn9jo?at_medium=RSS&at_campaign=rss",
+      "summary": "The president's vision of Iran's future could meet fierce opposition, writes chief international correspondent Lyse Doucet.",
+      "published_at": "2026-03-06T22:06:42Z",
+      "country_code": "IR",
+      "country_name": "Iran"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "Inside Venezuela's political transition two months after Maduro's ousting",
+      "url": "https://www.bbc.com/news/videos/c4g244g829zo?at_medium=RSS&at_campaign=rss",
+      "summary": "The BBC's Ione Wells reports from the country and speaks to recently freed opposition politicians about the government's future and relation…",
+      "published_at": "2026-03-06T21:38:47Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC Europe",
+      "title": "Russian athletes march at Paralympic opening ceremony",
+      "url": "https://www.bbc.com/sport/articles/c98gkg3kr1jo?at_medium=RSS&at_campaign=rss",
+      "summary": "Athletes from Russia and Belarus parade behind their nations' flags at the opening ceremony of the Milan-Cortina Winter Paralympics as the 5…",
+      "published_at": "2026-03-06T21:32:11Z",
+      "country_code": "RU",
+      "country_name": "Russia"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "Trump sets his sights on crisis-hit Cuba after Iran action",
+      "url": "https://www.bbc.com/news/articles/c14m5mj055jo?at_medium=RSS&at_campaign=rss",
+      "summary": "The US president has claimed the Cuban authorities “want to make a deal so bad”.",
+      "published_at": "2026-03-06T19:50:51Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC Latin America",
+      "title": "Mexico to deploy 100,000 security personnel for World Cup",
+      "url": "https://www.bbc.com/sport/football/articles/ce8wjwyjndyo?at_medium=RSS&at_campaign=rss",
+      "summary": "World Cup co-hosts Mexico plan to deploy nearly 100,000 security personnel to protect fans at this summer's tournament, amid ongoing cartel …",
+      "published_at": "2026-03-06T19:24:59Z",
+      "country_code": "MX",
+      "country_name": "Mexico"
+    },
+    {
+      "source": "BBC Asia",
+      "title": "Fatbikes are wreaking havoc in Sydney's wealthy beach suburbs",
+      "url": "https://www.bbc.com/news/articles/cy8l1d221evo?at_medium=RSS&at_campaign=rss",
+      "summary": "Teens are infuriating locals by riding over golf courses and doing wheelies on the Harbour Bridge.",
+      "published_at": "2026-03-06T18:56:47Z",
+      "country_code": "AU",
+      "country_name": "Australia"
+    },
+    {
+      "source": "BBC Europe",
+      "title": "Ukrainian bank workers released after detention in Hungary",
+      "url": "https://www.bbc.com/news/articles/cd03rj7n0nro?at_medium=RSS&at_campaign=rss",
+      "summary": "Kyiv has reacted furiously after officials in Budapest accused staff transporting cash to Ukraine of money laundering.",
+      "published_at": "2026-03-06T18:37:58Z",
+      "country_code": "UA",
+      "country_name": "Ukraine"
+    },
+    {
+      "source": "BBC World",
+      "title": "Beirut evacuees 'sleeping in tents and cars'",
+      "url": "https://www.bbc.com/news/videos/cg4g0gl23z4o?at_medium=RSS&at_campaign=rss",
+      "summary": "Some residents in the Beirut suburb of Dahieh have left their homes amid ongoing air strikes by Israel.",
+      "published_at": "2026-03-06T18:37:55Z",
+      "country_code": "IL",
+      "country_name": "Israel"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "Canada and US resume trade talks after months-long pause",
+      "url": "https://www.bbc.com/news/articles/cvg50j7y2l3o?at_medium=RSS&at_campaign=rss",
+      "summary": "Canada's minister for US-Canada trade Dominic LeBlanc is in Washington as talks over the future of the USMCA free trade deal ramp up.",
+      "published_at": "2026-03-06T17:25:33Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC Africa",
+      "title": "Ugandan students who fled Iran air strikes recall 'ground trembling'",
+      "url": "https://www.bbc.com/news/articles/cn8zd3q3090o?at_medium=RSS&at_campaign=rss",
+      "summary": "Some opted to remain in Iran, even after their government offered to bring them home.",
+      "published_at": "2026-03-06T17:14:56Z",
+      "country_code": "IR",
+      "country_name": "Iran"
+    },
+    {
+      "source": "BBC Africa",
+      "title": "'Massive' numbers killed by gunmen in latest Nigeria attack, senator tells BBC",
+      "url": "https://www.bbc.com/news/articles/c1d69z3p9g2o?at_medium=RSS&at_campaign=rss",
+      "summary": "Suspected Islamist militants reportedly seized control of a village for two days before being forced out by troops and air strikes.",
+      "published_at": "2026-03-06T17:06:14Z",
+      "country_code": "NG",
+      "country_name": "Nigeria"
+    },
+    {
+      "source": "BBC Europe",
+      "title": "Russia was behind parcel fires in UK and Europe, investigators say",
+      "url": "https://www.bbc.com/news/articles/c0rjx947zqzo?at_medium=RSS&at_campaign=rss",
+      "summary": "The attacks, which involved self-igniting packages, targeted couriers in Poland, Germany and at a DHL depot in the UK in 2024.",
+      "published_at": "2026-03-06T17:06:10Z",
+      "country_code": "GB",
+      "country_name": "United Kingdom"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "Rubbish piles and cooking with firewood - fuel shortages push Cubans to breaking point",
+      "url": "https://www.bbc.com/news/videos/cn0ewj0e7j1o?at_medium=RSS&at_campaign=rss",
+      "summary": "The BBC's Will Grant spoke to several Cubans as the country grapples with severe electricity shortages, which is attributed in part to US sa…",
+      "published_at": "2026-03-06T16:42:25Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC Middle East",
+      "title": "'We couldn't sleep because of fear': Residents flee as Israel pounds south Beirut",
+      "url": "https://www.bbc.com/news/articles/cwy9xlp46zgo?at_medium=RSS&at_campaign=rss",
+      "summary": "Communities across huge swathes of Lebanon have been told by Israel to leave their homes due to military action against Hezbollah.",
+      "published_at": "2026-03-06T16:23:57Z",
+      "country_code": "IL",
+      "country_name": "Israel"
+    },
+    {
+      "source": "BBC Middle East",
+      "title": "Israeli troops push into Lebanon for yet another war with Iran's proxy Hezbollah",
+      "url": "https://www.bbc.com/news/articles/cpv8xlvk3p4o?at_medium=RSS&at_campaign=rss",
+      "summary": "The BBC sees troops and tanks massing near the border, as speculation mounts that Israel is planning a full-scale ground invasion to fight H…",
+      "published_at": "2026-03-06T16:16:05Z",
+      "country_code": "IL",
+      "country_name": "Israel"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "US economy unexpectedly sheds 92,000 jobs in February",
+      "url": "https://www.bbc.com/news/articles/cjd98091g28o?at_medium=RSS&at_campaign=rss",
+      "summary": "The contraction came as a surprise with payrolls down in nearly every sector.",
+      "published_at": "2026-03-06T14:50:36Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Indonesia to ban social media and other online platforms for under 16s",
+      "url": "https://www.bbc.com/news/articles/cvg50168ddgo?at_medium=RSS&at_campaign=rss",
+      "summary": "It is the latest country to curb young people's access to digital spaces to try and protect them from abuse.",
+      "published_at": "2026-03-06T13:25:12Z",
+      "country_code": "ID",
+      "country_name": "Indonesia"
+    },
+    {
+      "source": "BBC Europe",
+      "title": "Azerbaijan furious with Iran as war spills over its border",
+      "url": "https://www.bbc.com/news/articles/c1e9qpy90g3o?at_medium=RSS&at_campaign=rss",
+      "summary": "President Ilham Aliyev says drone strikes are an \"act of terror\" as he places the armed forces on high alert.",
+      "published_at": "2026-03-06T11:39:00Z",
+      "country_code": "IR",
+      "country_name": "Iran"
+    },
+    {
+      "source": "BBC Europe",
+      "title": "US eases sanctions on Russian oil sales to India during Iran conflict",
+      "url": "https://www.bbc.com/news/articles/cy031d1ny7jo?at_medium=RSS&at_campaign=rss",
+      "summary": "Treasury Secretary Scott Bessent gives India a 30-day waiver to buy Russian crude as a \"stop gap measure\".",
+      "published_at": "2026-03-06T07:11:25Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "US and Venezuela agree to resume diplomatic ties after Maduro capture",
+      "url": "https://www.bbc.com/news/articles/cy9g1l5jx90o?at_medium=RSS&at_campaign=rss",
+      "summary": "The US said the two sides would make joint efforts to promote stability after the US seized Maduro and his wife.",
+      "published_at": "2026-03-06T04:23:12Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC Middle East",
+      "title": "Israel strikes Beirut after evacuation warning sparks panic",
+      "url": "https://www.bbc.com/news/articles/cj32750e7j6o?at_medium=RSS&at_campaign=rss",
+      "summary": "Huge traffic jams form after the unprecedented warning for people to leave the Hezbollah stronghold, as Israel steps up its strikes across L…",
+      "published_at": "2026-03-06T04:08:48Z",
+      "country_code": "IL",
+      "country_name": "Israel"
+    },
+    {
+      "source": "BBC Asia",
+      "title": "Sri Lanka takes control of second Iranian vessel a day after US sub attack",
+      "url": "https://www.bbc.com/news/articles/c747vezn7zwo?at_medium=RSS&at_campaign=rss",
+      "summary": "The South Asian country is caught in the middle of the US-Israeli military campaign against Iran.",
+      "published_at": "2026-03-06T02:05:43Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "Canadian teen died from drowning after dingo attack in Australia",
+      "url": "https://www.bbc.com/news/articles/cde4599n8zpo?at_medium=RSS&at_campaign=rss",
+      "summary": "The body of Piper James was found in January surrounded by dingoes on the island of K'Gari.",
+      "published_at": "2026-03-06T01:47:32Z",
+      "country_code": "AU",
+      "country_name": "Australia"
+    },
+    {
+      "source": "BBC Africa",
+      "title": "The young women who fought in Ethiopia's last civil war and don't want to see another one",
+      "url": "https://www.bbc.com/news/articles/cyv959eyjgjo?at_medium=RSS&at_campaign=rss",
+      "summary": "Female fighters recall how the conflict in the northern Tigray destroyed their lives, as fears grow that fighting could resume.",
+      "published_at": "2026-03-06T00:05:46Z",
+      "country_code": "ET",
+      "country_name": "Ethiopia"
+    },
+    {
+      "source": "BBC Asia",
+      "title": "'What is the game plan?': The Iran war is unsettling China and its ambitions",
+      "url": "https://www.bbc.com/news/articles/c2044vzrdpzo?at_medium=RSS&at_campaign=rss",
+      "summary": "China is not feeling the shock of war in the Middle East - yet. But it is feeling the ripples.",
+      "published_at": "2026-03-05T23:13:57Z",
+      "country_code": "CN",
+      "country_name": "China"
+    },
+    {
+      "source": "BBC Europe",
+      "title": "Finland plans to lift decades-old ban on hosting nuclear weapons",
+      "url": "https://www.bbc.com/news/articles/c14m5llnrlpo?at_medium=RSS&at_campaign=rss",
+      "summary": "The government says the nation's defence environment has \"significantly changed\" since Russia's invasion of Ukraine.",
+      "published_at": "2026-03-05T23:12:16Z",
+      "country_code": "RU",
+      "country_name": "Russia"
+    },
+    {
+      "source": "BBC Africa",
+      "title": "Regragui departs as Morocco appoint Ouahbi as new coach",
+      "url": "https://www.bbc.com/sport/football/articles/c62dnepz5g7o?at_medium=RSS&at_campaign=rss",
+      "summary": "Morocco part company with coach Walid Regragui four months before the World Cup finals, with Mohamed Ouahbi appointed in his place.",
+      "published_at": "2026-03-05T23:01:26Z",
+      "country_code": "MA",
+      "country_name": "Morocco"
+    },
+    {
+      "source": "BBC Middle East",
+      "title": "'We have been preparing': Why the boots on the ground in Iran could be Kurdish",
+      "url": "https://www.bbc.com/news/articles/cm215nnjyr0o?at_medium=RSS&at_campaign=rss",
+      "summary": "Iranian Kurdish opposition groups in exile in northern Iraq tell the BBC they have plans to cross the border but deny already doing so.",
+      "published_at": "2026-03-05T21:20:49Z",
+      "country_code": "IR",
+      "country_name": "Iran"
+    },
+    {
+      "source": "BBC Middle East",
+      "title": "'This is war': BBC speaks to Iranians at Iran-Turkey border",
+      "url": "https://www.bbc.com/news/videos/c86yeqg86yvo?at_medium=RSS&at_campaign=rss",
+      "summary": "BBC correspondent James Waterhouse speaks to people at the border, after US-Israeli strikes on Iran.",
+      "published_at": "2026-03-05T21:20:29Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC Middle East",
+      "title": "Checkpoints everywhere and internet blackouts: Life in Iran as US-Israeli strikes intensify",
+      "url": "https://www.bbc.com/news/articles/cj4zze5lzjpo?at_medium=RSS&at_campaign=rss",
+      "summary": "Iranians are coping with daily strikes and security crackdowns - all while trying to stay in touch with loved ones.",
+      "published_at": "2026-03-05T20:54:55Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC Middle East",
+      "title": "Iran's high-risk war strategy seems to centre on endurance and deterrence",
+      "url": "https://www.bbc.com/news/articles/c93jj3gz8x0o?at_medium=RSS&at_campaign=rss",
+      "summary": "Tehran's approach appears to rest on a belief it can absorb strikes longer than its adversaries sustain pain and costs, writes BBC Persian's…",
+      "published_at": "2026-03-05T18:40:22Z",
+      "country_code": "IR",
+      "country_name": "Iran"
+    },
+    {
+      "source": "BBC Europe",
+      "title": "US asked Ukraine for help fighting Iranian drones, Zelensky says",
+      "url": "https://www.bbc.com/news/articles/cr5llg0e9g9o?at_medium=RSS&at_campaign=rss",
+      "summary": "Ukraine's president says Kyiv will only help if doing so does not deplete its own air defences.",
+      "published_at": "2026-03-05T18:19:34Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC Africa",
+      "title": "Caf postpones Wafcon 2026 just 12 days before kick-off",
+      "url": "https://www.bbc.com/sport/football/articles/c24dg1m1v27o?at_medium=RSS&at_campaign=rss",
+      "summary": "The 2026 Women's Africa Cup of Nations is postponed just 12 days before the finals were due to kick off in Morocco.",
+      "published_at": "2026-03-05T18:02:40Z",
+      "country_code": "MA",
+      "country_name": "Morocco"
+    },
+    {
+      "source": "BBC Middle East",
+      "title": "Iran school and nearby military base struck multiple times, satellite image reveals",
+      "url": "https://www.bbc.com/news/articles/c5yqqyly9n0o?at_medium=RSS&at_campaign=rss",
+      "summary": "Iranian authorities say the attack, which took place on Saturday, killed 168 people.",
+      "published_at": "2026-03-05T17:46:24Z",
+      "country_code": "IR",
+      "country_name": "Iran"
+    },
+    {
+      "source": "BBC Europe",
+      "title": "Healey visits Cyprus after criticism of UK response to drone attacks",
+      "url": "https://www.bbc.com/news/articles/c0e55y0pzgwo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Cypriot government has criticised how the UK has handled information sharing after drone attacks.",
+      "published_at": "2026-03-05T14:55:33Z",
+      "country_code": "GB",
+      "country_name": "United Kingdom"
+    },
+    {
+      "source": "BBC Africa",
+      "title": "Ethiopia experiments with 'smart' police stations that have no officers",
+      "url": "https://www.bbc.com/news/articles/cjd9jgnrdpko?at_medium=RSS&at_campaign=rss",
+      "summary": "A project to introduce unmanned sites is part of a broader adoption of digital technologies.",
+      "published_at": "2026-03-05T12:34:22Z",
+      "country_code": "ET",
+      "country_name": "Ethiopia"
+    },
+    {
+      "source": "BBC Africa",
+      "title": "Inside Ethiopia's 'smart' police station",
+      "url": "https://www.bbc.com/news/videos/cz9qqzqkk82o?at_medium=RSS&at_campaign=rss",
+      "summary": "Ethiopia unveils its first unmanned, 'smart' police station where citizens can report crimes on automated touch screens.",
+      "published_at": "2026-03-05T12:29:16Z",
+      "country_code": "ET",
+      "country_name": "Ethiopia"
+    },
+    {
+      "source": "BBC Middle East",
+      "title": "Iran targets headquarters of Iranian Kurdish forces in Iraq",
+      "url": "https://www.bbc.com/news/articles/c2k88y1147jo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Iranian military's strikes come amid speculation that the US wants Iranian Kurdish groups to join its conflict with Iran.",
+      "published_at": "2026-03-05T11:35:09Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC Middle East",
+      "title": "US sub sinks Iranian warship in Indian Ocean, Hegseth says",
+      "url": "https://www.bbc.com/news/articles/c0e55g03v2zo?at_medium=RSS&at_campaign=rss",
+      "summary": "More than 100 personnel were thought to be aboard the vessel, which went down to the south of Sri Lanka.",
+      "published_at": "2026-03-05T06:52:36Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC Asia",
+      "title": "Global order is 'breaking down', Carney tells Australian parliament",
+      "url": "https://www.bbc.com/news/articles/cpqwwy8xvy3o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Canadian prime minister said Australia and Canada should work together as 'strategic cousins'.",
+      "published_at": "2026-03-05T03:57:55Z",
+      "country_code": "AU",
+      "country_name": "Australia"
+    },
+    {
+      "source": "BBC Asia",
+      "title": "China sets lowest economic growth target since 1991",
+      "url": "https://www.bbc.com/news/articles/cqxddwl93qjo?at_medium=RSS&at_campaign=rss",
+      "summary": "It is also the first time the target has been lowered since it was cut to \"around 5%\" in 2023.",
+      "published_at": "2026-03-05T03:10:52Z",
+      "country_code": "CN",
+      "country_name": "China"
+    },
+    {
+      "source": "BBC Latin America",
+      "title": "Venezuela and US to work together on mining developments, Rodríguez says",
+      "url": "https://www.bbc.com/news/articles/cj322v8pjp5o?at_medium=RSS&at_campaign=rss",
+      "summary": "Venezuela's interim president made the announcement after meeting with US interior minister Doug Burgum at the presidential palace in Caraca…",
+      "published_at": "2026-03-05T00:46:47Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC Africa",
+      "title": "The devastating conflict where both sides have reasons to keep fighting",
+      "url": "https://www.bbc.com/news/articles/czx70y0l75wo?at_medium=RSS&at_campaign=rss",
+      "summary": "A strong supply of weapons and a history of long wars make Sudan's conflict particularly troubling.",
+      "published_at": "2026-03-05T00:05:23Z",
+      "country_code": "SD",
+      "country_name": "Sudan"
+    },
+    {
+      "source": "BBC Latin America",
+      "title": "Dirty laundry and chocolate bars: How Venezuelan prisoners smuggled messages out of jail",
+      "url": "https://www.bbc.com/news/articles/c620n3degv2o?at_medium=RSS&at_campaign=rss",
+      "summary": "Prisoners recently released from detention in Venezuela describe the conditions under which they were held.",
+      "published_at": "2026-03-05T00:04:34Z",
+      "country_code": "VE",
+      "country_name": "Venezuela"
+    },
+    {
+      "source": "BBC Middle East",
+      "title": "US Senate vote fails to rein in Trump war powers on Iran",
+      "url": "https://www.bbc.com/news/articles/c5yjj28jjd0o?at_medium=RSS&at_campaign=rss",
+      "summary": "The measure, passed largely along party lines, would halt US military action until approved by Congress.",
+      "published_at": "2026-03-04T23:42:08Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC Europe",
+      "title": "Watch: Moment wolf rescued from canal in northern Italy",
+      "url": "https://www.bbc.com/news/videos/cy7jjnekeepo?at_medium=RSS&at_campaign=rss",
+      "summary": "Video released by the Italian fire brigade shows the wolf being rescued from under a bridge.",
+      "published_at": "2026-03-04T23:01:10Z",
+      "country_code": "IT",
+      "country_name": "Italy"
+    },
+    {
+      "source": "BBC Middle East",
+      "title": "How depleted weapons stockpiles could affect the Iran conflict",
+      "url": "https://www.bbc.com/news/articles/cdxzzqe82d2o?at_medium=RSS&at_campaign=rss",
+      "summary": "Weapons stocks will not alone decide the outcome of this conflict, but it's certainly a significant factor, writes the BBC's Jonathan Beale.",
+      "published_at": "2026-03-04T20:57:50Z",
+      "country_code": "IR",
+      "country_name": "Iran"
+    },
+    {
+      "source": "BBC Africa",
+      "title": "Allen century powers New Zealand to victory over South Africa in T20 World Cup semi-final",
+      "url": "https://www.bbc.com/sport/cricket/articles/cz9qqyg515do?at_medium=RSS&at_campaign=rss",
+      "summary": "Finn Allen strikes an unbeaten century as New Zealand demolish 2024 runners-up South Africa by nine wickets to reach a second Men's T20 Worl…",
+      "published_at": "2026-03-04T18:27:59Z",
+      "country_code": "NZ",
+      "country_name": "New Zealand"
+    },
+    {
+      "source": "BBC Middle East",
+      "title": "Iran postpones Khamenei funeral as US-Israeli bombardment continues",
+      "url": "https://www.bbc.com/news/articles/clygglq6v9go?at_medium=RSS&at_campaign=rss",
+      "summary": "An official says more preparations are needed for the three-day ceremony in Tehran, where the supreme leader will lie in state.",
+      "published_at": "2026-03-04T18:10:50Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC Europe",
+      "title": "Watershed moment as Russia's sporting exile ends",
+      "url": "https://www.bbc.com/sport/articles/ckgzzepvgx2o?at_medium=RSS&at_campaign=rss",
+      "summary": "Sports Editor Dan Roan analyses Russia's controversial return to global sporting action at the Winter Paralympics and what it might mean for…",
+      "published_at": "2026-03-04T17:57:28Z",
+      "country_code": "RU",
+      "country_name": "Russia"
+    },
+    {
+      "source": "BBC Middle East",
+      "title": "Israel tells people in large parts of southern Lebanon to leave ahead of attacks",
+      "url": "https://www.bbc.com/news/articles/cvg11pne0rro?at_medium=RSS&at_campaign=rss",
+      "summary": "Civilians are being displaced, taking shelter in tents, parks and cars, as Israel retaliates to Hezbollah rocket attack.",
+      "published_at": "2026-03-04T14:55:30Z",
+      "country_code": "IL",
+      "country_name": "Israel"
+    },
+    {
+      "source": "BBC Middle East",
+      "title": "Satellite images show Iranian navy and nuclear sites hit by US-Israeli strikes",
+      "url": "https://www.bbc.com/news/articles/cdxzzkkkwjqo?at_medium=RSS&at_campaign=rss",
+      "summary": "US-Israeli strikes have destroyed at least 11 Iranian naval vessels, images reviewed by BBC Verify show.",
+      "published_at": "2026-03-04T14:49:22Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "Trump's war on Iran: Shifting stories and unanswered questions",
+      "url": "https://www.bbc.com/news/videos/cd6zzyg64zqo?at_medium=RSS&at_campaign=rss",
+      "summary": "BBC's Analysis editor Ros Atkins looks at the mixed messaging given by President Donald Trump's administration for its actions in Iran.",
+      "published_at": "2026-03-04T14:09:20Z",
+      "country_code": "IR",
+      "country_name": "Iran"
+    },
+    {
+      "source": "BBC Asia",
+      "title": "What to know about the 'two sessions', China's biggest political meeting",
+      "url": "https://www.bbc.com/news/articles/c2lrxyke7kro?at_medium=RSS&at_campaign=rss",
+      "summary": "The carefully choreographed annual meetings signal the priorities of the world's second-largest economy.",
+      "published_at": "2026-03-04T10:47:18Z",
+      "country_code": "CN",
+      "country_name": "China"
+    },
+    {
+      "source": "BBC Europe",
+      "title": "Why Europe's leaders have struggled to speak as one on Iran",
+      "url": "https://www.bbc.com/news/articles/cn8z5zvlz5yo?at_medium=RSS&at_campaign=rss",
+      "summary": "European nations say they want to work better together but have differing priorities",
+      "published_at": "2026-03-03T16:26:21Z",
+      "country_code": "IR",
+      "country_name": "Iran"
+    },
+    {
+      "source": "BBC Middle East",
+      "title": "Battered and isolated, Hezbollah drags Lebanon into another war",
+      "url": "https://www.bbc.com/news/articles/c4gq3ykg7pvo?at_medium=RSS&at_campaign=rss",
+      "summary": "Its attack on Israel in support of Iran has led to fresh mass displacements and Israeli bombing, to the fury of many Lebanese.",
+      "published_at": "2026-03-03T15:42:28Z",
+      "country_code": "IL",
+      "country_name": "Israel"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "Trump voters back him on Iran - but that could change if war drags on",
+      "url": "https://www.bbc.com/news/articles/cvg35401nrqo?at_medium=RSS&at_campaign=rss",
+      "summary": "His supporters in one Texas town hail his actions in the Middle East - though some comments suggest seeds of trouble.",
+      "published_at": "2026-03-03T09:57:15Z",
+      "country_code": "IR",
+      "country_name": "Iran"
+    },
+    {
+      "source": "BBC Middle East",
+      "title": "Strait of Hormuz: What happens if Iran shuts global oil corridor?",
+      "url": "https://www.bbc.com/news/articles/c78n6p09pzno?at_medium=RSS&at_campaign=rss",
+      "summary": "Iran says it will \"set fire\" to ships trying to sail through the world's most vital oil transit point.",
+      "published_at": "2026-03-03T04:02:59Z",
+      "country_code": "IR",
+      "country_name": "Iran"
+    },
+    {
+      "source": "BBC Middle East",
+      "title": "What is behind the strategy to take out Iran's leadership?",
+      "url": "https://www.bbc.com/news/articles/cly8gqj9r6go?at_medium=RSS&at_campaign=rss",
+      "summary": "Security analyst Gordon Corera looks at what is likely to happen after much of Iran's most senior leadership is killed.",
+      "published_at": "2026-03-02T21:27:17Z",
+      "country_code": "IR",
+      "country_name": "Iran"
+    },
+    {
+      "source": "BBC Asia",
+      "title": "Jacinda Ardern's move to Australia renews spotlight on New Zealand's brain drain problem",
+      "url": "https://www.bbc.com/news/articles/clyx93597l4o?at_medium=RSS&at_campaign=rss",
+      "summary": "New Zealand has long struggled to keep its best and brightest with about 180 Kiwis leaving a day.",
+      "published_at": "2026-03-02T19:00:50Z",
+      "country_code": "AU",
+      "country_name": "Australia"
+    },
+    {
+      "source": "BBC Asia",
+      "title": "Could Kim's teen daughter become North Korea's next leader?",
+      "url": "https://www.bbc.com/news/articles/cgjzdlx983po?at_medium=RSS&at_campaign=rss",
+      "summary": "Kim Jue Ae is becoming more visible alongside her father, but much about her remains a mystery.",
+      "published_at": "2026-03-01T23:11:11Z",
+      "country_code": "KP",
+      "country_name": "North Korea"
+    },
+    {
+      "source": "BBC Middle East",
+      "title": "Iran's regime is still intact - the coming days will show if it can hold out",
+      "url": "https://www.bbc.com/news/articles/cx2lgvg5rl1o?at_medium=RSS&at_campaign=rss",
+      "summary": "Iran's surviving leaders are in crisis mode, battling to project security as US and Israel strikes continue.",
+      "published_at": "2026-03-01T18:05:06Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC Middle East",
+      "title": "Months of planning behind US-Israeli mission to target Iran's supreme leader",
+      "url": "https://www.bbc.com/news/articles/c86y5540vnno?at_medium=RSS&at_campaign=rss",
+      "summary": "A piece of crucial intelligence arrived just hours before the attack on a compound in central Tehran.",
+      "published_at": "2026-03-01T14:45:56Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC Africa",
+      "title": "Kosgei wins Tokyo Marathon in record time",
+      "url": "https://www.bbc.com/sport/athletics/articles/c9v0j7xd22no?at_medium=RSS&at_campaign=rss",
+      "summary": "Kenya's Brigid Kosgei sets a new course record of 2:14:29 with a commanding victory at the Tokyo Marathon.",
+      "published_at": "2026-03-01T08:49:15Z",
       "country_code": "JP",
       "country_name": "Japan"
+    },
+    {
+      "source": "BBC Middle East",
+      "title": "Lyse Doucet: This is an extraordinary moment Iran has been preparing for",
+      "url": "https://www.bbc.com/news/articles/c98g91wgdd8o?at_medium=RSS&at_campaign=rss",
+      "summary": "The killing of the supreme leader will be a huge jolt to the Islamic Republic, which will try hard to show it has a plan in place.",
+      "published_at": "2026-03-01T06:21:42Z",
+      "country_code": "IR",
+      "country_name": "Iran"
+    },
+    {
+      "source": "BBC Europe",
+      "title": "The AI videos supercharging Russia's online disinformation campaigns",
+      "url": "https://www.bbc.com/news/articles/cx2r7grrdwzo?at_medium=RSS&at_campaign=rss",
+      "summary": "Security experts have warned that Western governments are poorly equipped to counter a new frontier of online disinformation.",
+      "published_at": "2026-02-27T07:53:39Z",
+      "country_code": "RU",
+      "country_name": "Russia"
+    },
+    {
+      "source": "BBC Africa",
+      "title": "Zimbabwe eliminated from World Cup after defeat to India",
+      "url": "https://www.bbc.com/sport/cricket/articles/ce3gyx49z52o?at_medium=RSS&at_campaign=rss",
+      "summary": "Defending champions India pile on 256-4 as they eliminate Zimbabwe from the T20 World Cup with victory in Chennai.",
+      "published_at": "2026-02-26T17:19:24Z",
+      "country_code": "IN",
+      "country_name": "India"
+    },
+    {
+      "source": "BBC Africa",
+      "title": "Is Ethiopia heading back to war in Tigray?",
+      "url": "https://www.bbc.com/news/articles/cwygrnjz9wro?at_medium=RSS&at_campaign=rss",
+      "summary": "Many people are again leaving the region of Tigray just over three years after the civil war there ended.",
+      "published_at": "2026-02-26T12:39:00Z",
+      "country_code": "ET",
+      "country_name": "Ethiopia"
+    },
+    {
+      "source": "BBC Latin America",
+      "title": "'Fear is everywhere': BBC reports from Mexican city turned into war zone by drug cartel feud",
+      "url": "https://www.bbc.com/news/articles/cx2g3vmde0eo?at_medium=RSS&at_campaign=rss",
+      "summary": "Culiacán in northern Mexico has seen a surge in violence as rival factions of the Sinaloa cartel battle for control.",
+      "published_at": "2026-02-25T17:00:49Z",
+      "country_code": "MX",
+      "country_name": "Mexico"
+    },
+    {
+      "source": "BBC Latin America",
+      "title": "Brazil floods: 'I saw people trapped in their homes crying for help'",
+      "url": "https://www.bbc.com/news/articles/clygx788x7go?at_medium=RSS&at_campaign=rss",
+      "summary": "Dozens of people have died in landslides and flooding in the Brazilian state of Minas Gerais.",
+      "published_at": "2026-02-25T13:50:26Z",
+      "country_code": "BR",
+      "country_name": "Brazil"
+    },
+    {
+      "source": "BBC Africa",
+      "title": "Joshua crash driver case adjourned to March",
+      "url": "https://www.bbc.com/sport/boxing/articles/cq6q5209q09o?at_medium=RSS&at_campaign=rss",
+      "summary": "The driver of the car involved in a fatal crash involving British heavyweight boxer Anthony Joshua has appeared in court in Nigeria.",
+      "published_at": "2026-02-25T10:32:39Z",
+      "country_code": "NG",
+      "country_name": "Nigeria"
+    },
+    {
+      "source": "BBC Africa",
+      "title": "Drones hammer Sudan's gold and oil zone - the pivotal new front line",
+      "url": "https://www.bbc.com/news/articles/cjwz6z14w65o?at_medium=RSS&at_campaign=rss",
+      "summary": "Intensified attacks in the Kordofan region have led to mass casualties as peace remains elusive.",
+      "published_at": "2026-02-25T00:43:00Z",
+      "country_code": "SD",
+      "country_name": "Sudan"
+    },
+    {
+      "source": "BBC Europe",
+      "title": "Ukraine in maps: Tracking the war with Russia",
+      "url": "https://www.bbc.com/news/articles/c0l0k4389g2o?at_medium=RSS&at_campaign=rss",
+      "summary": "How Russia's gradual gains in the face of fierce Ukrainian opposition have affected the front line in recent months.",
+      "published_at": "2026-02-24T08:01:33Z",
+      "country_code": "RU",
+      "country_name": "Russia"
+    },
+    {
+      "source": "BBC Europe",
+      "title": "Bowen: Why Ukraine remains defiant and does not feel close to defeat",
+      "url": "https://www.bbc.com/news/articles/cd9g2ggq4epo?at_medium=RSS&at_campaign=rss",
+      "summary": "This month marks four gruelling years since the full‑scale invasion began and a genuine ceasefire still feels far from assured",
+      "published_at": "2026-02-24T06:02:26Z",
+      "country_code": "UA",
+      "country_name": "Ukraine"
+    },
+    {
+      "source": "BBC Latin America",
+      "title": "Is Mexico safe for football fans?",
+      "url": "https://www.bbc.com/news/videos/c1d6xge27pgo?at_medium=RSS&at_campaign=rss",
+      "summary": "Mexico's co-hosting of the Fifa World Cup could be compromised by drug cartel violence.",
+      "published_at": "2026-02-23T18:16:10Z",
+      "country_code": "MX",
+      "country_name": "Mexico"
+    },
+    {
+      "source": "BBC Latin America",
+      "title": "What the killing of drug lord 'El Mencho' means for Mexico",
+      "url": "https://www.bbc.com/news/videos/c0mg8d11pg3o?at_medium=RSS&at_campaign=rss",
+      "summary": "Nemesio Oseguera Cervantes, known as \"El Mencho\", was killed during a security operation to arrest him, Mexico's defence ministry has said.",
+      "published_at": "2026-02-23T07:12:06Z",
+      "country_code": "MX",
+      "country_name": "Mexico"
+    },
+    {
+      "source": "BBC Europe",
+      "title": "Four years into its full-scale war in Ukraine, Russia is feeling the effects",
+      "url": "https://www.bbc.com/news/articles/c4gj20xzw39o?at_medium=RSS&at_campaign=rss",
+      "summary": "Steve Rosenberg reports on the economic consequences of Russia's war, and how people are coping.",
+      "published_at": "2026-02-23T06:01:59Z",
+      "country_code": "RU",
+      "country_name": "Russia"
+    },
+    {
+      "source": "BBC Africa",
+      "title": "The two farms in Senegal that supply many of the UK's vegetables",
+      "url": "https://www.bbc.com/news/articles/cwy6171wvppo?at_medium=RSS&at_campaign=rss",
+      "summary": "During winter in Britain fresh produce is sent by cargo ship from the West African nation every week.",
+      "published_at": "2026-02-19T00:16:54Z",
+      "country_code": "GB",
+      "country_name": "United Kingdom"
+    },
+    {
+      "source": "BBC Latin America",
+      "title": "Search dogs, rescuers and helicopters as Mexico City holds earthquake drill",
+      "url": "https://www.bbc.com/news/videos/cq57w3q61jjo?at_medium=RSS&at_campaign=rss",
+      "summary": "About 8.2 million people participated in the first drill of the year, achieving an average evacuation time of 1 minute and 52 seconds.",
+      "published_at": "2026-02-18T22:57:44Z",
+      "country_code": "MX",
+      "country_name": "Mexico"
+    },
+    {
+      "source": "BBC Africa",
+      "title": "How the tide turned against the leader of South Africa's second-biggest party",
+      "url": "https://www.bbc.com/news/articles/c6209vqv3nlo?at_medium=RSS&at_campaign=rss",
+      "summary": "John Steenhuisen will not seek re-election as DA leader, leaving the race wide open for a successor.",
+      "published_at": "2026-02-17T01:07:00Z",
+      "country_code": "ZA",
+      "country_name": "South Africa"
+    },
+    {
+      "source": "BBC Europe",
+      "title": "The dart frog toxin allegedly used to kill Alexei Navalny",
+      "url": "https://www.bbc.com/news/videos/cwy6dlgg24ko?at_medium=RSS&at_campaign=rss",
+      "summary": "The toxin, epibatidine, can be found in frogs in the wild in South America or manufactured in a lab.",
+      "published_at": "2026-02-16T16:57:59Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC Europe",
+      "title": "Flying oranges: Italian town celebrates carnival with historic street battle",
+      "url": "https://www.bbc.com/news/videos/cnv6zy10vz4o?at_medium=RSS&at_campaign=rss",
+      "summary": "A town in northern Italy has started celebrating carnival with its annual Battle of the Oranges where people hurl the fruit at each other fo…",
+      "published_at": "2026-02-16T15:10:12Z",
+      "country_code": "IT",
+      "country_name": "Italy"
+    },
+    {
+      "source": "BBC Africa",
+      "title": "Kenyans drop flowers for Valentine's bouquets of cash. Not everyone is impressed",
+      "url": "https://www.bbc.com/news/articles/cn87g2v73jno?at_medium=RSS&at_campaign=rss",
+      "summary": "Bouquets of cash have been blooming in popularity in Kenya but recent warnings may slow the trend.",
+      "published_at": "2026-02-14T00:02:04Z",
+      "country_code": "KE",
+      "country_name": "Kenya"
+    },
+    {
+      "source": "BBC Africa",
+      "title": "A seat at the table or on the menu? Africa grapples with the new world order",
+      "url": "https://www.bbc.com/news/articles/c2d7wk98xkko?at_medium=RSS&at_campaign=rss",
+      "summary": "The US president has shaken up international relations and the continent is working out where it stands.",
+      "published_at": "2026-02-13T00:06:42Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC Africa",
+      "title": "At the scene: Muslims killed 'over rejection of extremist ideology' in Nigeria",
+      "url": "https://www.bbc.com/news/videos/czej7xpx0x9o?at_medium=RSS&at_campaign=rss",
+      "summary": "At least 78 bodies have been buried, while it's feared that more than 170 people were killed altogether.",
+      "published_at": "2026-02-05T17:15:30Z",
+      "country_code": "NG",
+      "country_name": "Nigeria"
+    },
+    {
+      "source": "BBC Africa",
+      "title": "South African national park closed due to floods",
+      "url": "https://www.bbc.com/news/videos/c20d9qdz7zwo?at_medium=RSS&at_campaign=rss",
+      "summary": "Ongoing floods in the north-eastern provinces of South Africa has led to the closure of the world-famous Kruger National Park.",
+      "published_at": "2026-01-16T16:52:14Z",
+      "country_code": "ZA",
+      "country_name": "South Africa"
     }
   ],
   "regions": [
     {
+      "country_code": "US",
+      "country_name": "United States",
+      "news_count": 32
+    },
+    {
+      "country_code": "IR",
+      "country_name": "Iran",
+      "news_count": 17
+    },
+    {
+      "country_code": "IL",
+      "country_name": "Israel",
+      "news_count": 7
+    },
+    {
+      "country_code": "RU",
+      "country_name": "Russia",
+      "news_count": 6
+    },
+    {
+      "country_code": "GB",
+      "country_name": "United Kingdom",
+      "news_count": 5
+    },
+    {
+      "country_code": "MX",
+      "country_name": "Mexico",
+      "news_count": 5
+    },
+    {
+      "country_code": "AU",
+      "country_name": "Australia",
+      "news_count": 4
+    },
+    {
+      "country_code": "ET",
+      "country_name": "Ethiopia",
+      "news_count": 4
+    },
+    {
+      "country_code": "UA",
+      "country_name": "Ukraine",
+      "news_count": 4
+    },
+    {
+      "country_code": "CN",
+      "country_name": "China",
+      "news_count": 3
+    },
+    {
+      "country_code": "NG",
+      "country_name": "Nigeria",
+      "news_count": 3
+    },
+    {
+      "country_code": "IN",
+      "country_name": "India",
+      "news_count": 2
+    },
+    {
+      "country_code": "IT",
+      "country_name": "Italy",
+      "news_count": 2
+    },
+    {
+      "country_code": "KE",
+      "country_name": "Kenya",
+      "news_count": 2
+    },
+    {
+      "country_code": "MA",
+      "country_name": "Morocco",
+      "news_count": 2
+    },
+    {
+      "country_code": "SD",
+      "country_name": "Sudan",
+      "news_count": 2
+    },
+    {
+      "country_code": "ZA",
+      "country_name": "South Africa",
+      "news_count": 2
+    },
+    {
+      "country_code": "AE",
+      "country_name": "United Arab Emirates",
+      "news_count": 1
+    },
+    {
+      "country_code": "BR",
+      "country_name": "Brazil",
+      "news_count": 1
+    },
+    {
+      "country_code": "ID",
+      "country_name": "Indonesia",
+      "news_count": 1
+    },
+    {
       "country_code": "JP",
       "country_name": "Japan",
+      "news_count": 1
+    },
+    {
+      "country_code": "KP",
+      "country_name": "North Korea",
+      "news_count": 1
+    },
+    {
+      "country_code": "NZ",
+      "country_name": "New Zealand",
+      "news_count": 1
+    },
+    {
+      "country_code": "SG",
+      "country_name": "Singapore",
+      "news_count": 1
+    },
+    {
+      "country_code": "VE",
+      "country_name": "Venezuela",
       "news_count": 1
     }
   ]
