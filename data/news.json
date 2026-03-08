@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-08T22:13:41Z",
+  "generated_at": "2026-03-08T22:46:14Z",
   "articles": [
     {
       "source": "BBC World",
@@ -12,7 +12,7 @@
     },
     {
       "source": "BBC US & Canada",
-      "title": "Thousands face long security queues at Houston and New Orleans airports",
+      "title": "Thousands face long security queues at airports in Houston and New Orleans",
       "url": "https://www.bbc.com/news/articles/cg4gpdr6xdgo?at_medium=RSS&at_campaign=rss",
       "summary": "The delays come amid increased spring travel and limited security personnel during a partial US government shutdown.",
       "published_at": "2026-03-08T21:50:18Z",
@@ -36,6 +36,15 @@
       "published_at": "2026-03-08T18:32:37Z",
       "country_code": "US",
       "country_name": "United States"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "Starmer and Trump speak for first time since president's Iran criticism",
+      "url": "https://www.bbc.com/news/articles/c05v28eqjyvo?at_medium=RSS&at_campaign=rss",
+      "summary": "The phone call comes after a week in which Donald Trump repeatedly expressed frustration at Keir Starmer's stance on Iran.",
+      "published_at": "2026-03-08T16:56:34Z",
+      "country_code": "IR",
+      "country_name": "Iran"
     },
     {
       "source": "BBC Middle East",
@@ -992,7 +1001,7 @@
     {
       "country_code": "IR",
       "country_name": "Iran",
-      "news_count": 18
+      "news_count": 19
     },
     {
       "country_code": "IL",
