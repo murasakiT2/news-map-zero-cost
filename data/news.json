@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-03-09T16:46:07Z",
+  "generated_at": "2026-03-09T17:40:09Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "US teacher killed after toilet paper prank goes wrong",
+      "url": "https://www.bbc.com/news/articles/cdr24g1p3vpo?at_medium=RSS&at_campaign=rss",
+      "summary": "Jason Hughes's family does not want the students prosecuted after the prank turned into a fatal car accident.",
+      "published_at": "2026-03-09T17:09:21Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "Australia urged to protect Iran women's football team as they prepare to fly home",
@@ -38,7 +47,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC US & Canada",
+      "source": "BBC World",
       "title": "Carney calls three by-elections in Canada that could grant him a majority",
       "url": "https://www.bbc.com/news/articles/cnv69zp3z4ro?at_medium=RSS&at_campaign=rss",
       "summary": "The Liberal government currently has 169 seats in parliament, just three shy of a majority in Canada's parliament.",
@@ -225,15 +234,6 @@
       "published_at": "2026-03-08T08:03:40Z",
       "country_code": "GB",
       "country_name": "United Kingdom"
-    },
-    {
-      "source": "BBC World",
-      "title": "Watch: Huge flames in Tehran after air strikes on oil depots",
-      "url": "https://www.bbc.com/news/videos/c7vj9redqz2o?at_medium=RSS&at_campaign=rss",
-      "summary": "Social media footage shows flames leaping into the air and plumes of smoke above the city's skyline.",
-      "published_at": "2026-03-08T01:42:48Z",
-      "country_code": "IR",
-      "country_name": "Iran"
     },
     {
       "source": "BBC World",
@@ -960,12 +960,12 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 28
+      "news_count": 29
     },
     {
       "country_code": "IR",
       "country_name": "Iran",
-      "news_count": 19
+      "news_count": 18
     },
     {
       "country_code": "IL",
