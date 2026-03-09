@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-03-09T14:50:42Z",
+  "generated_at": "2026-03-09T15:47:41Z",
   "articles": [
+    {
+      "source": "BBC Middle East",
+      "title": "Iranians deeply divided over Mojtaba Khamenei's rise to power",
+      "url": "https://www.bbc.com/news/articles/cwy8ldyp2zwo?at_medium=RSS&at_campaign=rss",
+      "summary": "While pro-establishment crowds celebrate Khamenei's appointment as his father's successor, others believe it signals no change to how Iran i…",
+      "published_at": "2026-03-09T15:27:35Z",
+      "country_code": "IR",
+      "country_name": "Iran"
+    },
+    {
+      "source": "BBC Middle East",
+      "title": "US missile hit military base near Iran school, video analysis shows",
+      "url": "https://www.bbc.com/news/articles/cvg548lyjnyo?at_medium=RSS&at_campaign=rss",
+      "summary": "A US Tomahawk missile hit a military base near a primary school in southern Iran where Iranian authorities said 168 people were killed, expe…",
+      "published_at": "2026-03-09T15:09:05Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "Australia urged to protect Iran women's football team as they prepare to fly home",
@@ -54,15 +72,6 @@
       "published_at": "2026-03-09T12:30:26Z",
       "country_code": "IR",
       "country_name": "Iran"
-    },
-    {
-      "source": "BBC Middle East",
-      "title": "Why did US and Israel attack Iran and how long could the war last?",
-      "url": "https://www.bbc.com/news/articles/cx2dyz6p3weo?at_medium=RSS&at_campaign=rss",
-      "summary": "Conflict has spread across the Middle East since the US and Israel launched wide-ranging strikes on Iran on 28 February.",
-      "published_at": "2026-03-09T12:05:12Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC World",
@@ -776,15 +785,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Middle East",
-      "title": "Months of planning behind US-Israeli mission to target Iran's supreme leader",
-      "url": "https://www.bbc.com/news/articles/c86y5540vnno?at_medium=RSS&at_campaign=rss",
-      "summary": "A piece of crucial intelligence arrived just hours before the attack on a compound in central Tehran.",
-      "published_at": "2026-03-01T14:45:56Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC Africa",
       "title": "Kosgei wins Tokyo Marathon in record time",
       "url": "https://www.bbc.com/sport/athletics/articles/c9v0j7xd22no?at_medium=RSS&at_campaign=rss",
@@ -978,12 +978,12 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 31
+      "news_count": 30
     },
     {
       "country_code": "IR",
       "country_name": "Iran",
-      "news_count": 18
+      "news_count": 19
     },
     {
       "country_code": "IL",
