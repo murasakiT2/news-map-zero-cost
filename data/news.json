@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-03-09T21:27:04Z",
+  "generated_at": "2026-03-09T21:53:33Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Australia urged to protect Iran women's football team as they prepare to fly home",
+      "url": "https://www.bbc.com/news/articles/cwy8e978xl8o?at_medium=RSS&at_campaign=rss",
+      "summary": "Concern has grown for team after one critic called them 'wartime traitors' for failing to salute during the Iranian anthem.",
+      "published_at": "2026-03-09T21:46:53Z",
+      "country_code": "AU",
+      "country_name": "Australia"
+    },
     {
       "source": "BBC World",
       "title": "Istanbul's mayor on trial for corruption charges",
@@ -18,15 +27,6 @@
       "published_at": "2026-03-09T17:09:21Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "Australia urged to protect Iran women's football team as they prepare to fly home",
-      "url": "https://www.bbc.com/news/articles/cwy8e978xl8o?at_medium=RSS&at_campaign=rss",
-      "summary": "Concern has grown for team after one critic called them 'wartime traitors' for failing to salute during the Iranian anthem.",
-      "published_at": "2026-03-09T16:29:46Z",
-      "country_code": "AU",
-      "country_name": "Australia"
     },
     {
       "source": "BBC US & Canada",
@@ -295,15 +295,6 @@
       "url": "https://www.bbc.com/news/videos/cx2r4wdgkzxo?at_medium=RSS&at_campaign=rss",
       "summary": "A series of tornadoes tore through several cities, uprooting trees and destroying homes.",
       "published_at": "2026-03-07T07:08:58Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "Footage shows US citizen shot dead by ICE agent in Texas traffic stop",
-      "url": "https://www.bbc.com/news/articles/cedzep6gp07o?at_medium=RSS&at_campaign=rss",
-      "summary": "The Department of Homeland Security did not disclose Martinez was shot by one of its agents until almost a year later.",
-      "published_at": "2026-03-07T03:39:10Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -740,15 +731,6 @@
       "country_name": "Israel"
     },
     {
-      "source": "BBC US & Canada",
-      "title": "Trump voters back him on Iran - but that could change if war drags on",
-      "url": "https://www.bbc.com/news/articles/cvg35401nrqo?at_medium=RSS&at_campaign=rss",
-      "summary": "His supporters in one Texas town hail his actions in the Middle East - though some comments suggest seeds of trouble.",
-      "published_at": "2026-03-03T09:57:15Z",
-      "country_code": "IR",
-      "country_name": "Iran"
-    },
-    {
       "source": "BBC Middle East",
       "title": "Strait of Hormuz: What happens if Iran shuts global oil corridor?",
       "url": "https://www.bbc.com/news/articles/c78n6p09pzno?at_medium=RSS&at_campaign=rss",
@@ -969,12 +951,12 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 30
+      "news_count": 29
     },
     {
       "country_code": "IR",
       "country_name": "Iran",
-      "news_count": 18
+      "news_count": 17
     },
     {
       "country_code": "IL",
