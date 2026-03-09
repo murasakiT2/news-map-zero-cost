@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-03-09T12:39:05Z",
+  "generated_at": "2026-03-09T13:58:43Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "N Korea cancels Pyongyang Marathon for 'some reasons'",
+      "url": "https://www.bbc.com/news/articles/crl4wx8ydxeo?at_medium=RSS&at_campaign=rss",
+      "summary": "The annual event, usually held in April, has been cancelled a month before it was due to take place, a tour agency says.",
+      "published_at": "2026-03-09T13:42:56Z",
+      "country_code": "KP",
+      "country_name": "North Korea"
+    },
+    {
+      "source": "BBC World",
+      "title": "Istanbul's ex-mayor on trial for corruption charges",
+      "url": "https://www.bbc.com/news/articles/c204ymjnn80o?at_medium=RSS&at_campaign=rss",
+      "summary": "Ekrem Imamoglu is seen as Turkish President Recep Tayyip Erdogan's main political rival.",
+      "published_at": "2026-03-09T13:19:31Z",
+      "country_code": "TR",
+      "country_name": "Turkey"
+    },
+    {
+      "source": "BBC Europe",
+      "title": "Blast outside Belgium synagogue was 'antisemitic act', mayor says",
+      "url": "https://www.bbc.com/news/articles/c39wy142j8ro?at_medium=RSS&at_campaign=rss",
+      "summary": "The explosion took place around 04:00 in front of the synagogue and caused no injuries, police say.",
+      "published_at": "2026-03-09T13:09:30Z",
+      "country_code": "BE",
+      "country_name": "Belgium"
+    },
+    {
+      "source": "BBC World",
+      "title": "Police release images of Oslo US embassy explosion suspect",
+      "url": "https://www.bbc.com/news/articles/ce8wk563473o?at_medium=RSS&at_campaign=rss",
+      "summary": "Norwegian police say their investigation so far shows Sunday's blast was caused by an improvised device.",
+      "published_at": "2026-03-09T12:45:09Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC Middle East",
       "title": "Why did US and Israel attack Iran and how long could the war last?",
@@ -36,15 +72,6 @@
       "published_at": "2026-03-09T10:15:06Z",
       "country_code": "UA",
       "country_name": "Ukraine"
-    },
-    {
-      "source": "BBC World",
-      "title": "Istanbul's ex-mayor to stand trial on corruption charges",
-      "url": "https://www.bbc.com/news/articles/c204ymjnn80o?at_medium=RSS&at_campaign=rss",
-      "summary": "Ekrem Imamoglu is seen as Turkish President Recep Tayyip Erdogan's main political rival.",
-      "published_at": "2026-03-09T08:23:41Z",
-      "country_code": "TR",
-      "country_name": "Turkey"
     },
     {
       "source": "BBC Asia",
@@ -978,7 +1005,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 30
+      "news_count": 31
     },
     {
       "country_code": "IR",
@@ -1056,6 +1083,11 @@
       "news_count": 1
     },
     {
+      "country_code": "BE",
+      "country_name": "Belgium",
+      "news_count": 1
+    },
+    {
       "country_code": "BR",
       "country_name": "Brazil",
       "news_count": 1
@@ -1068,6 +1100,11 @@
     {
       "country_code": "JP",
       "country_name": "Japan",
+      "news_count": 1
+    },
+    {
+      "country_code": "KP",
+      "country_name": "North Korea",
       "news_count": 1
     },
     {
