@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-03-09T13:58:43Z",
+  "generated_at": "2026-03-09T14:50:42Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Australia urged to protect Iran women's football team as they prepare to fly home",
+      "url": "https://www.bbc.com/news/articles/cwy8e978xl8o?at_medium=RSS&at_campaign=rss",
+      "summary": "Concern has grown for team after one critic called them 'wartime traitors' for failing to salute during the Iranian anthem.",
+      "published_at": "2026-03-09T14:11:03Z",
+      "country_code": "AU",
+      "country_name": "Australia"
+    },
     {
       "source": "BBC World",
       "title": "N Korea cancels Pyongyang Marathon for 'some reasons'",
@@ -36,6 +45,15 @@
       "published_at": "2026-03-09T12:45:09Z",
       "country_code": "US",
       "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Watch: Why the Iran war is pushing up oil prices",
+      "url": "https://www.bbc.com/news/videos/cpv8342e3xvo?at_medium=RSS&at_campaign=rss",
+      "summary": "As turmoil continues in the Middle East, the price of crude oil rose to more than $100 a barrel on Monday.",
+      "published_at": "2026-03-09T12:30:26Z",
+      "country_code": "IR",
+      "country_name": "Iran"
     },
     {
       "source": "BBC Middle East",
@@ -81,24 +99,6 @@
       "published_at": "2026-03-09T07:16:40Z",
       "country_code": "IN",
       "country_name": "India"
-    },
-    {
-      "source": "BBC World",
-      "title": "Australia urged to protect Iran women's football team as they prepare to fly home",
-      "url": "https://www.bbc.com/news/articles/cwy8e978xl8o?at_medium=RSS&at_campaign=rss",
-      "summary": "Concern has grown for team after one critic called them 'wartime traitors' for failing to salute during the Iranian anthem.",
-      "published_at": "2026-03-09T06:51:18Z",
-      "country_code": "AU",
-      "country_name": "Australia"
-    },
-    {
-      "source": "BBC Asia",
-      "title": "Australia urged to protect Iranian football team after Asian Cup elimination",
-      "url": "https://www.bbc.com/news/articles/cwy8e978xl8o?at_medium=RSS&at_campaign=rss",
-      "summary": "Concern has grown for team after one critic called them 'wartime traitors' for failing to salute during the Iranian anthem.",
-      "published_at": "2026-03-09T06:51:18Z",
-      "country_code": "AU",
-      "country_name": "Australia"
     },
     {
       "source": "BBC Middle East",
@@ -254,15 +254,6 @@
       "country_name": "Kenya"
     },
     {
-      "source": "BBC World",
-      "title": "Watch: Moment of drone strike close to Dubai Airport",
-      "url": "https://www.bbc.com/news/videos/c5yr734zml3o?at_medium=RSS&at_campaign=rss",
-      "summary": "Video filmed by a witness and verified by the BBC shows a drone crashing close to the airport.",
-      "published_at": "2026-03-07T10:31:28Z",
-      "country_code": "AE",
-      "country_name": "United Arab Emirates"
-    },
-    {
       "source": "BBC Europe",
       "title": "Russian strike on Kharkiv apartment block kills ten",
       "url": "https://www.bbc.com/news/articles/cn8zd049l08o?at_medium=RSS&at_campaign=rss",
@@ -414,15 +405,6 @@
       "published_at": "2026-03-06T18:37:58Z",
       "country_code": "UA",
       "country_name": "Ukraine"
-    },
-    {
-      "source": "BBC World",
-      "title": "Beirut evacuees 'sleeping in tents and cars'",
-      "url": "https://www.bbc.com/news/videos/cg4g0gl23z4o?at_medium=RSS&at_campaign=rss",
-      "summary": "Some residents in the Beirut suburb of Dahieh have left their homes amid ongoing air strikes by Israel.",
-      "published_at": "2026-03-06T18:37:55Z",
-      "country_code": "IL",
-      "country_name": "Israel"
     },
     {
       "source": "BBC US & Canada",
@@ -812,15 +794,6 @@
       "country_name": "Japan"
     },
     {
-      "source": "BBC Middle East",
-      "title": "Lyse Doucet: This is an extraordinary moment Iran has been preparing for",
-      "url": "https://www.bbc.com/news/articles/c98g91wgdd8o?at_medium=RSS&at_campaign=rss",
-      "summary": "The killing of the supreme leader will be a huge jolt to the Islamic Republic, which will try hard to show it has a plan in place.",
-      "published_at": "2026-03-01T06:21:42Z",
-      "country_code": "IR",
-      "country_name": "Iran"
-    },
-    {
       "source": "BBC Europe",
       "title": "The AI videos supercharging Russia's online disinformation campaigns",
       "url": "https://www.bbc.com/news/articles/cx2r7grrdwzo?at_medium=RSS&at_campaign=rss",
@@ -1015,7 +988,7 @@
     {
       "country_code": "IL",
       "country_name": "Israel",
-      "news_count": 7
+      "news_count": 6
     },
     {
       "country_code": "MX",
@@ -1033,11 +1006,6 @@
       "news_count": 5
     },
     {
-      "country_code": "AU",
-      "country_name": "Australia",
-      "news_count": 4
-    },
-    {
       "country_code": "ET",
       "country_name": "Ethiopia",
       "news_count": 4
@@ -1046,6 +1014,11 @@
       "country_code": "GB",
       "country_name": "United Kingdom",
       "news_count": 4
+    },
+    {
+      "country_code": "AU",
+      "country_name": "Australia",
+      "news_count": 3
     },
     {
       "country_code": "CN",
@@ -1076,11 +1049,6 @@
       "country_code": "SD",
       "country_name": "Sudan",
       "news_count": 2
-    },
-    {
-      "country_code": "AE",
-      "country_name": "United Arab Emirates",
-      "news_count": 1
     },
     {
       "country_code": "BE",
