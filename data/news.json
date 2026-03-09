@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-03-09T11:55:34Z",
+  "generated_at": "2026-03-09T12:39:05Z",
   "articles": [
+    {
+      "source": "BBC Middle East",
+      "title": "Why did US and Israel attack Iran and how long could the war last?",
+      "url": "https://www.bbc.com/news/articles/cx2dyz6p3weo?at_medium=RSS&at_campaign=rss",
+      "summary": "Conflict has spread across the Middle East since the US and Israel launched wide-ranging strikes on Iran on 28 February.",
+      "published_at": "2026-03-09T12:05:12Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "India offered sanctuary to Iranian ship three days before US sank it",
+      "url": "https://www.bbc.com/news/articles/c2e4yxj0pd3o?at_medium=RSS&at_campaign=rss",
+      "summary": "India says Tehran sought permission to dock three ships on the day the US and Israel began a war on Iran.",
+      "published_at": "2026-03-09T12:04:29Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC Middle East",
       "title": "In maps: Ten days of strikes across the Middle East",
@@ -12,7 +30,7 @@
     },
     {
       "source": "BBC World",
-      "title": "Ukrainian drone experts to share their knowledge in the Middle East",
+      "title": "Watch: Ukrainian anti-drone 'bullet' that could help defend Gulf",
       "url": "https://www.bbc.com/news/videos/cpv83ndmezno?at_medium=RSS&at_campaign=rss",
       "summary": "The BBC's Diplomatic Correspondent, James Landale, is in Ukraine to see the latest anti-drone technology the country has to offer.",
       "published_at": "2026-03-09T10:15:06Z",
@@ -198,15 +216,6 @@
       "published_at": "2026-03-07T16:51:14Z",
       "country_code": "IR",
       "country_name": "Iran"
-    },
-    {
-      "source": "BBC Middle East",
-      "title": "Why did US and Israel attack Iran and how long could the war last?",
-      "url": "https://www.bbc.com/news/articles/cx2dyz6p3weo?at_medium=RSS&at_campaign=rss",
-      "summary": "Conflict has spread across the Middle East since the US and Israel launched wide-ranging strikes on Iran on 28 February.",
-      "published_at": "2026-03-07T15:43:35Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC Africa",
@@ -396,15 +405,6 @@
       "published_at": "2026-03-06T17:25:33Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC Africa",
-      "title": "Ugandan students who fled Iran air strikes recall 'ground trembling'",
-      "url": "https://www.bbc.com/news/articles/cn8zd3q3090o?at_medium=RSS&at_campaign=rss",
-      "summary": "Some opted to remain in Iran, even after their government offered to bring them home.",
-      "published_at": "2026-03-06T17:14:56Z",
-      "country_code": "IR",
-      "country_name": "Iran"
     },
     {
       "source": "BBC Africa",
@@ -972,27 +972,18 @@
       "published_at": "2026-02-05T17:15:30Z",
       "country_code": "NG",
       "country_name": "Nigeria"
-    },
-    {
-      "source": "BBC Africa",
-      "title": "South African national park closed due to floods",
-      "url": "https://www.bbc.com/news/videos/c20d9qdz7zwo?at_medium=RSS&at_campaign=rss",
-      "summary": "Ongoing floods in the north-eastern provinces of South Africa has led to the closure of the world-famous Kruger National Park.",
-      "published_at": "2026-01-16T16:52:14Z",
-      "country_code": "ZA",
-      "country_name": "South Africa"
     }
   ],
   "regions": [
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 29
+      "news_count": 30
     },
     {
       "country_code": "IR",
       "country_name": "Iran",
-      "news_count": 19
+      "news_count": 18
     },
     {
       "country_code": "IL",
@@ -1060,11 +1051,6 @@
       "news_count": 2
     },
     {
-      "country_code": "ZA",
-      "country_name": "South Africa",
-      "news_count": 2
-    },
-    {
       "country_code": "AE",
       "country_name": "United Arab Emirates",
       "news_count": 1
@@ -1112,6 +1098,11 @@
     {
       "country_code": "VE",
       "country_name": "Venezuela",
+      "news_count": 1
+    },
+    {
+      "country_code": "ZA",
+      "country_name": "South Africa",
       "news_count": 1
     }
   ]
