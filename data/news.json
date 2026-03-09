@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-09T10:35:51Z",
+  "generated_at": "2026-03-09T11:28:15Z",
   "articles": [
     {
-      "source": "BBC Europe",
+      "source": "BBC World",
       "title": "Ukrainian drone experts to share their knowledge in the Middle East",
       "url": "https://www.bbc.com/news/videos/cpv83ndmezno?at_medium=RSS&at_campaign=rss",
       "summary": "The BBC's Diplomatic Correspondent, James Landale, is in Ukraine to see the latest anti-drone technology the country has to offer.",
@@ -144,15 +144,6 @@
       "published_at": "2026-03-08T15:03:16Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "UK does not 'agree with Trump on every issue' - Cooper",
-      "url": "https://www.bbc.com/news/videos/cd03py027vyo?at_medium=RSS&at_campaign=rss",
-      "summary": "Foreign Secretary Yvette Cooper has hit back at President Trump's criticism of the UK response to the conflict in Iran.",
-      "published_at": "2026-03-08T11:13:22Z",
-      "country_code": "GB",
-      "country_name": "United Kingdom"
     },
     {
       "source": "BBC World",
@@ -1009,11 +1000,6 @@
       "news_count": 7
     },
     {
-      "country_code": "GB",
-      "country_name": "United Kingdom",
-      "news_count": 5
-    },
-    {
       "country_code": "MX",
       "country_name": "Mexico",
       "news_count": 5
@@ -1036,6 +1022,11 @@
     {
       "country_code": "ET",
       "country_name": "Ethiopia",
+      "news_count": 4
+    },
+    {
+      "country_code": "GB",
+      "country_name": "United Kingdom",
       "news_count": 4
     },
     {
