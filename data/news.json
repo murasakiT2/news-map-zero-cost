@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-03-09T01:11:03Z",
+  "generated_at": "2026-03-09T03:44:50Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Oil prices surge above $110 and shares slide over Iran war",
+      "url": "https://www.bbc.com/news/articles/c79542n0grwo?at_medium=RSS&at_campaign=rss",
+      "summary": "Major disruption to energy supplies threatens to push up prices for consumers and businesses around the world.",
+      "published_at": "2026-03-09T02:19:19Z",
+      "country_code": "IR",
+      "country_name": "Iran"
+    },
     {
       "source": "BBC World",
       "title": "Spain's migrants welcome amnesty: 'It will help us in every way'",
@@ -236,7 +245,7 @@
       "country_name": "Iran"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "China spent years building ties in Latin America. Can Trump make room for the US?",
       "url": "https://www.bbc.com/news/articles/c5yvw0zwpd5o?at_medium=RSS&at_campaign=rss",
       "summary": "US President Donald Trump will meet with ideologically-aligned Latin American leaders to try and counter China's influence in the region.",
@@ -425,7 +434,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "Indonesia to ban social media and other online platforms for under 16s",
       "url": "https://www.bbc.com/news/articles/cvg50168ddgo?at_medium=RSS&at_campaign=rss",
       "summary": "It is the latest country to curb young people's access to digital spaces to try and protect them from abuse.",
@@ -452,7 +461,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Latin America",
       "title": "US and Venezuela agree to resume diplomatic ties after Maduro capture",
       "url": "https://www.bbc.com/news/articles/cy9g1l5jx90o?at_medium=RSS&at_campaign=rss",
       "summary": "The US said the two sides would make joint efforts to promote stability after the US seized Maduro and his wife.",
@@ -992,7 +1001,7 @@
     {
       "country_code": "IR",
       "country_name": "Iran",
-      "news_count": 19
+      "news_count": 20
     },
     {
       "country_code": "IL",
