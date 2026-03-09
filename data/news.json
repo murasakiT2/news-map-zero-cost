@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-03-09T07:32:20Z",
+  "generated_at": "2026-03-09T08:33:02Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Istanbul's ex-mayor to stand trial on corruption charges",
+      "url": "https://www.bbc.com/news/articles/c204ymjnn80o?at_medium=RSS&at_campaign=rss",
+      "summary": "Ekrem Imamoglu is seen as Turkish President Recep Tayyip Erdogan's main political rival.",
+      "published_at": "2026-03-09T08:23:41Z",
+      "country_code": "TR",
+      "country_name": "Turkey"
+    },
     {
       "source": "BBC Asia",
       "title": "India erupts in celebration after T20 cricket World Cup victory",
@@ -11,8 +20,17 @@
       "country_name": "India"
     },
     {
+      "source": "BBC World",
+      "title": "Australia urged to protect Iranian women's football team as they prepare to fly home",
+      "url": "https://www.bbc.com/news/articles/cwy8e978xl8o?at_medium=RSS&at_campaign=rss",
+      "summary": "Concern has grown for team after one critic called them 'wartime traitors' for failing to salute during the Iranian anthem.",
+      "published_at": "2026-03-09T06:51:18Z",
+      "country_code": "AU",
+      "country_name": "Australia"
+    },
+    {
       "source": "BBC Asia",
-      "title": "Australia urged to protect Iranian football team after elimination at Asian Cup",
+      "title": "Australia urged to protect Iranian football team after Asian Cup elimination",
       "url": "https://www.bbc.com/news/articles/cwy8e978xl8o?at_medium=RSS&at_campaign=rss",
       "summary": "Concern has grown for team after one critic called them 'wartime traitors' for failing to salute during the Iranian anthem.",
       "published_at": "2026-03-09T06:51:18Z",
@@ -63,6 +81,15 @@
       "published_at": "2026-03-08T20:38:47Z",
       "country_code": "GB",
       "country_name": "United Kingdom"
+    },
+    {
+      "source": "BBC Africa",
+      "title": "Kiplimo regains world half-marathon record in Lisbon",
+      "url": "https://www.bbc.com/sport/athletics/articles/c7vj9g4mp55o?at_medium=RSS&at_campaign=rss",
+      "summary": "Uganda's Jacob Kiplimo regains the world half-marathon record as he claimed victory in Lisbon on Sunday.",
+      "published_at": "2026-03-08T19:49:46Z",
+      "country_code": "PT",
+      "country_name": "Portugal"
     },
     {
       "source": "BBC World",
@@ -162,15 +189,6 @@
       "published_at": "2026-03-07T23:11:02Z",
       "country_code": "SG",
       "country_name": "Singapore"
-    },
-    {
-      "source": "BBC World",
-      "title": "Iranian ambassador warns UK to be 'very careful' about further involvement in war",
-      "url": "https://www.bbc.com/news/articles/cq6qp458zv1o?at_medium=RSS&at_campaign=rss",
-      "summary": "Seyed Ali Mousavi says Iran has a \"right to self-defence\" if the UK directly joins US-Israeli attacks.",
-      "published_at": "2026-03-07T16:53:57Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC Middle East",
@@ -969,7 +987,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 30
+      "news_count": 29
     },
     {
       "country_code": "IR",
@@ -997,6 +1015,11 @@
       "news_count": 5
     },
     {
+      "country_code": "AU",
+      "country_name": "Australia",
+      "news_count": 4
+    },
+    {
       "country_code": "ET",
       "country_name": "Ethiopia",
       "news_count": 4
@@ -1005,11 +1028,6 @@
       "country_code": "UA",
       "country_name": "Ukraine",
       "news_count": 4
-    },
-    {
-      "country_code": "AU",
-      "country_name": "Australia",
-      "news_count": 3
     },
     {
       "country_code": "CN",
@@ -1077,8 +1095,18 @@
       "news_count": 1
     },
     {
+      "country_code": "PT",
+      "country_name": "Portugal",
+      "news_count": 1
+    },
+    {
       "country_code": "SG",
       "country_name": "Singapore",
+      "news_count": 1
+    },
+    {
+      "country_code": "TR",
+      "country_name": "Turkey",
       "news_count": 1
     },
     {
