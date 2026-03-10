@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-03-10T17:39:03Z",
+  "generated_at": "2026-03-10T18:35:16Z",
   "articles": [
+    {
+      "source": "BBC Middle East",
+      "title": "War expands to central Beirut as Israeli strike kills Iranians in luxury hotel",
+      "url": "https://www.bbc.com/news/articles/c2k8y7vy78no?at_medium=RSS&at_campaign=rss",
+      "summary": "Israel's military says it targeted Quds Force operatives after a return to war with Lebanon's Hezbollah movement, but Iran says they were di…",
+      "published_at": "2026-03-10T18:33:03Z",
+      "country_code": "IL",
+      "country_name": "Israel"
+    },
+    {
+      "source": "BBC World",
+      "title": "Canada police investigate after shots fired at US consulate in Toronto",
+      "url": "https://www.bbc.com/news/articles/cwy8lrq9rg2o?at_medium=RSS&at_campaign=rss",
+      "summary": "It comes as Norwegian police investigate an explosion that occurred outside the US embassy in Oslo on Sunday.",
+      "published_at": "2026-03-10T18:26:33Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "Zendaya's ring and Stella McCartney's horses - the sights and trends at Paris Fashion Week",
@@ -12,19 +30,10 @@
     },
     {
       "source": "BBC Middle East",
-      "title": "War expands to central Beirut as Israel says Iranians hit in luxury hotel",
-      "url": "https://www.bbc.com/news/articles/c2k8y7vy78no?at_medium=RSS&at_campaign=rss",
-      "summary": "The Israeli military says it targeted a meeting of Quds Force operatives in a strike after a return to war with the Lebanese group Hezbollah…",
-      "published_at": "2026-03-10T16:56:17Z",
-      "country_code": "IL",
-      "country_name": "Israel"
-    },
-    {
-      "source": "BBC World",
-      "title": "Canada police investigate after shots fired at US consulate in Toronto",
-      "url": "https://www.bbc.com/news/articles/cwy8lrq9rg2o?at_medium=RSS&at_campaign=rss",
-      "summary": "It comes as Norwegian police investigate an explosion that occurred outside the US embassy in Oslo on Sunday.",
-      "published_at": "2026-03-10T16:51:39Z",
+      "title": "Air strikes cause black rain and 'unprecedented' pollution in Tehran, scientists say",
+      "url": "https://www.bbc.com/news/articles/cqxd1nv3re2o?at_medium=RSS&at_campaign=rss",
+      "summary": "Air strikes have damaged at least four oil facilities since US-Israeli attacks on Iran began last month.",
+      "published_at": "2026-03-10T16:42:31Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -54,6 +63,15 @@
       "published_at": "2026-03-10T14:17:37Z",
       "country_code": "SY",
       "country_name": "Syria"
+    },
+    {
+      "source": "BBC Middle East",
+      "title": "Syrian ex-colonel in UK court on crimes against humanity charge",
+      "url": "https://www.bbc.com/news/articles/cedz4jp379wo?at_medium=RSS&at_campaign=rss",
+      "summary": "Salem Michel Al-Salem, accused of crimes committed in Syria in 2011 and 2012, has been named for the first time.",
+      "published_at": "2026-03-10T14:17:37Z",
+      "country_code": "GB",
+      "country_name": "United Kingdom"
     },
     {
       "source": "BBC World",
@@ -731,15 +749,6 @@
       "country_name": "Iran"
     },
     {
-      "source": "BBC Middle East",
-      "title": "Battered and isolated, Hezbollah drags Lebanon into another war",
-      "url": "https://www.bbc.com/news/articles/c4gq3ykg7pvo?at_medium=RSS&at_campaign=rss",
-      "summary": "Its attack on Israel in support of Iran has led to fresh mass displacements and Israeli bombing, to the fury of many Lebanese.",
-      "published_at": "2026-03-03T15:42:28Z",
-      "country_code": "IL",
-      "country_name": "Israel"
-    },
-    {
       "source": "BBC Africa",
       "title": "Kosgei wins Tokyo Marathon in record time",
       "url": "https://www.bbc.com/sport/athletics/articles/c9v0j7xd22no?at_medium=RSS&at_campaign=rss",
@@ -933,7 +942,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 26
+      "news_count": 27
     },
     {
       "country_code": "IR",
@@ -943,7 +952,12 @@
     {
       "country_code": "IL",
       "country_name": "Israel",
-      "news_count": 7
+      "news_count": 6
+    },
+    {
+      "country_code": "GB",
+      "country_name": "United Kingdom",
+      "news_count": 5
     },
     {
       "country_code": "MX",
@@ -968,11 +982,6 @@
     {
       "country_code": "ET",
       "country_name": "Ethiopia",
-      "news_count": 4
-    },
-    {
-      "country_code": "GB",
-      "country_name": "United Kingdom",
       "news_count": 4
     },
     {
