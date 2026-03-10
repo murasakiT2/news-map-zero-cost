@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-03-10T20:22:34Z",
+  "generated_at": "2026-03-10T20:55:21Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Two more connected to Iranian football team stay in Australia, BBC understands",
+      "url": "https://www.bbc.com/news/articles/c93j2492d0do?at_medium=RSS&at_campaign=rss",
+      "summary": "It is understood most of the team left Australia on Tuesday night after losing their Sunday game in the Asian Cup.",
+      "published_at": "2026-03-10T20:39:21Z",
+      "country_code": "AU",
+      "country_name": "Australia"
+    },
     {
       "source": "BBC World",
       "title": "Air strikes cause black rain and 'unprecedented' pollution in Tehran, scientists say",
@@ -995,6 +1004,11 @@
       "news_count": 3
     },
     {
+      "country_code": "AU",
+      "country_name": "Australia",
+      "news_count": 2
+    },
+    {
       "country_code": "KE",
       "country_name": "Kenya",
       "news_count": 2
@@ -1012,11 +1026,6 @@
     {
       "country_code": "AE",
       "country_name": "United Arab Emirates",
-      "news_count": 1
-    },
-    {
-      "country_code": "AU",
-      "country_name": "Australia",
       "news_count": 1
     },
     {
