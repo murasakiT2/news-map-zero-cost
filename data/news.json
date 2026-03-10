@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-03-10T14:40:56Z",
+  "generated_at": "2026-03-10T15:51:27Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Italy buys rare Caravaggio portrait for €30m",
+      "url": "https://www.bbc.com/news/articles/c93j2ekgwqko?at_medium=RSS&at_campaign=rss",
+      "summary": "The purchase is part of wider plans to prevent major artworks from being bought by private collectors.",
+      "published_at": "2026-03-10T15:18:00Z",
+      "country_code": "IT",
+      "country_name": "Italy"
+    },
     {
       "source": "BBC World",
       "title": "Canada police investigate reports of shots fired at US consulate in Toronto",
@@ -9,6 +18,15 @@
       "published_at": "2026-03-10T14:22:03Z",
       "country_code": "US",
       "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Syrian ex-colonel in court on crimes against humanity charge",
+      "url": "https://www.bbc.com/news/articles/cedz4jp379wo?at_medium=RSS&at_campaign=rss",
+      "summary": "Salem Michel Al-Salem, accused of crimes committed in Syria in 2011 and 2012, has been named for the first time.",
+      "published_at": "2026-03-10T14:17:37Z",
+      "country_code": "SY",
+      "country_name": "Syria"
     },
     {
       "source": "BBC Middle East",
@@ -92,7 +110,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "High-profile US real estate brothers convicted in sex trafficking case",
       "url": "https://www.bbc.com/news/articles/c6271ngl014o?at_medium=RSS&at_campaign=rss",
       "summary": "Prosecutors accused the brothers of using their wealth to lure women to parties and luxury homes, then taking advantage of them.",
@@ -155,15 +173,6 @@
       "country_name": "Iran"
     },
     {
-      "source": "BBC World",
-      "title": "US teacher killed after toilet paper prank goes wrong",
-      "url": "https://www.bbc.com/news/articles/cdr24g1p3vpo?at_medium=RSS&at_campaign=rss",
-      "summary": "Jason Hughes's family does not want the students prosecuted after the prank turned into a fatal car accident.",
-      "published_at": "2026-03-09T17:09:21Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC Middle East",
       "title": "Iranians deeply divided over Mojtaba Khamenei's rise to power",
       "url": "https://www.bbc.com/news/articles/cwy8ldyp2zwo?at_medium=RSS&at_campaign=rss",
@@ -180,15 +189,6 @@
       "published_at": "2026-03-09T15:09:05Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "Carney calls three by-elections in Canada that could grant him a majority",
-      "url": "https://www.bbc.com/news/articles/cnv69zp3z4ro?at_medium=RSS&at_campaign=rss",
-      "summary": "The Liberal government currently has 169 seats in parliament, just three shy of a majority in Canada's parliament.",
-      "published_at": "2026-03-09T14:49:39Z",
-      "country_code": "CA",
-      "country_name": "Canada"
     },
     {
       "source": "BBC US & Canada",
@@ -915,7 +915,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 28
+      "news_count": 27
     },
     {
       "country_code": "IR",
@@ -963,14 +963,9 @@
       "news_count": 3
     },
     {
-      "country_code": "CA",
-      "country_name": "Canada",
-      "news_count": 2
-    },
-    {
       "country_code": "IT",
       "country_name": "Italy",
-      "news_count": 2
+      "news_count": 3
     },
     {
       "country_code": "KE",
@@ -1003,6 +998,11 @@
       "news_count": 1
     },
     {
+      "country_code": "CA",
+      "country_name": "Canada",
+      "news_count": 1
+    },
+    {
       "country_code": "ID",
       "country_name": "Indonesia",
       "news_count": 1
@@ -1030,6 +1030,11 @@
     {
       "country_code": "SG",
       "country_name": "Singapore",
+      "news_count": 1
+    },
+    {
+      "country_code": "SY",
+      "country_name": "Syria",
       "news_count": 1
     },
     {
