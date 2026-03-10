@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-03-10T12:36:14Z",
+  "generated_at": "2026-03-10T13:55:21Z",
   "articles": [
+    {
+      "source": "BBC Middle East",
+      "title": "'I just want to be able to sleep': Attacks in Iran rock cities and cut power",
+      "url": "https://www.bbc.com/news/articles/cev7llekwllo?at_medium=RSS&at_campaign=rss",
+      "summary": "Iranians in Tehran and Karaj tel the BBC they are exhausted and struggling to sleep after 10 days of Israeli and US attacks.",
+      "published_at": "2026-03-10T13:26:17Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC Middle East",
+      "title": "In maps: 11 days of strikes across the Middle East",
+      "url": "https://www.bbc.com/news/articles/c4g0pnnj8xyo?at_medium=RSS&at_campaign=rss",
+      "summary": "US-Israeli strikes hit Iran and Gulf states intercepted retaliatory strikes overnight as the war continues into an eleventh day.",
+      "published_at": "2026-03-10T13:02:14Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "Canada police investigate reports of shots fired at US consulate in Toronto",
@@ -45,15 +63,6 @@
       "published_at": "2026-03-10T10:34:11Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC Middle East",
-      "title": "Strait of Hormuz: What happens if Iran shuts global oil corridor?",
-      "url": "https://www.bbc.com/news/articles/c78n6p09pzno?at_medium=RSS&at_campaign=rss",
-      "summary": "Iran says it will \"set fire\" to ships trying to sail through the world's most vital oil transit point.",
-      "published_at": "2026-03-10T09:32:50Z",
-      "country_code": "IR",
-      "country_name": "Iran"
     },
     {
       "source": "BBC US & Canada",
@@ -153,15 +162,6 @@
       "published_at": "2026-03-09T17:09:21Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC Middle East",
-      "title": "In maps: Ten days of strikes across the Middle East",
-      "url": "https://www.bbc.com/news/articles/c4g0pnnj8xyo?at_medium=RSS&at_campaign=rss",
-      "summary": "Israel has continued strikes across Iran and Lebanon and the Iranian regime has carried out more attacks, as the war continues for a tenth d…",
-      "published_at": "2026-03-09T16:09:57Z",
-      "country_code": "IL",
-      "country_name": "Israel"
     },
     {
       "source": "BBC Middle East",
@@ -915,17 +915,17 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 26
+      "news_count": 28
     },
     {
       "country_code": "IR",
       "country_name": "Iran",
-      "news_count": 17
+      "news_count": 16
     },
     {
       "country_code": "IL",
       "country_name": "Israel",
-      "news_count": 7
+      "news_count": 6
     },
     {
       "country_code": "MX",
