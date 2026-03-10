@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-03-10T15:51:27Z",
+  "generated_at": "2026-03-10T16:45:44Z",
   "articles": [
+    {
+      "source": "BBC Middle East",
+      "title": "War expands to central Beirut as Israel says Iranians hit in luxury hotel",
+      "url": "https://www.bbc.com/news/articles/c2k8y7vy78no?at_medium=RSS&at_campaign=rss",
+      "summary": "The Israeli military says it targeted a meeting of Quds Force operatives in a strike after a return to war with the Lebanese group Hezbollah…",
+      "published_at": "2026-03-10T16:31:23Z",
+      "country_code": "IL",
+      "country_name": "Israel"
+    },
     {
       "source": "BBC World",
       "title": "Italy buys rare Caravaggio portrait for €30m",
@@ -29,10 +38,10 @@
       "country_name": "Syria"
     },
     {
-      "source": "BBC Middle East",
+      "source": "BBC World",
       "title": "'I just want to be able to sleep': Attacks in Iran rock cities and cut power",
       "url": "https://www.bbc.com/news/articles/cev7llekwllo?at_medium=RSS&at_campaign=rss",
-      "summary": "Iranians in Tehran and Karaj tel the BBC they are exhausted and struggling to sleep after 10 days of Israeli and US attacks.",
+      "summary": "Iranians in Tehran and Karaj tell the BBC they are exhausted and struggling to sleep after 10 days of Israeli and US attacks.",
       "published_at": "2026-03-10T13:26:17Z",
       "country_code": "US",
       "country_name": "United States"
@@ -66,7 +75,7 @@
     },
     {
       "source": "BBC US & Canada",
-      "title": "10 players from Jamaican club denied entry to US",
+      "title": "Ten players from Jamaican club denied entry to US",
       "url": "https://www.bbc.com/sport/football/articles/cddnlp5g8rro?at_medium=RSS&at_campaign=rss",
       "summary": "Jamaican side Mount Pleasant will be without 10 first-team players for their Champions Cup tie against LA Galaxy after they were denied visa…",
       "published_at": "2026-03-10T10:55:29Z",
@@ -597,15 +606,6 @@
     },
     {
       "source": "BBC Middle East",
-      "title": "'This is war': BBC speaks to Iranians at Iran-Turkey border",
-      "url": "https://www.bbc.com/news/videos/c86yeqg86yvo?at_medium=RSS&at_campaign=rss",
-      "summary": "BBC correspondent James Waterhouse speaks to people at the border, after US-Israeli strikes on Iran.",
-      "published_at": "2026-03-05T21:20:29Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC Middle East",
       "title": "Iran's high-risk war strategy seems to centre on endurance and deterrence",
       "url": "https://www.bbc.com/news/articles/c93jj3gz8x0o?at_medium=RSS&at_campaign=rss",
       "summary": "Tehran's approach appears to rest on a belief it can absorb strikes longer than its adversaries sustain pain and costs, writes BBC Persian's…",
@@ -915,7 +915,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 27
+      "news_count": 26
     },
     {
       "country_code": "IR",
@@ -925,7 +925,7 @@
     {
       "country_code": "IL",
       "country_name": "Israel",
-      "news_count": 6
+      "news_count": 7
     },
     {
       "country_code": "MX",
