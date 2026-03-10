@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-10T07:11:26Z",
+  "generated_at": "2026-03-10T07:58:46Z",
   "articles": [
     {
       "source": "BBC World",
@@ -27,6 +27,15 @@
       "published_at": "2026-03-10T00:24:39Z",
       "country_code": "CN",
       "country_name": "China"
+    },
+    {
+      "source": "BBC Middle East",
+      "title": "Strikes shake Iran cities as crowds rally in support of Mojtaba Khamenei",
+      "url": "https://www.bbc.com/news/articles/c3dzy4nede0o?at_medium=RSS&at_campaign=rss",
+      "summary": "Iran and Israel continue to exchange attacks, as supporters of Khamenei celebrate the decision to name him supreme leader.",
+      "published_at": "2026-03-09T23:15:28Z",
+      "country_code": "IL",
+      "country_name": "Israel"
     },
     {
       "source": "BBC World",
@@ -452,15 +461,6 @@
       "country_name": "Ukraine"
     },
     {
-      "source": "BBC Africa",
-      "title": "'Massive' numbers killed by gunmen in latest Nigeria attack, senator tells BBC",
-      "url": "https://www.bbc.com/news/articles/c1d69z3p9g2o?at_medium=RSS&at_campaign=rss",
-      "summary": "Suspected Islamist militants reportedly seized control of a village for two days before being forced out by troops and air strikes.",
-      "published_at": "2026-03-06T17:06:14Z",
-      "country_code": "NG",
-      "country_name": "Nigeria"
-    },
-    {
       "source": "BBC Europe",
       "title": "Russia was behind parcel fires in UK and Europe, investigators say",
       "url": "https://www.bbc.com/news/articles/c0rjx947zqzo?at_medium=RSS&at_campaign=rss",
@@ -531,15 +531,6 @@
       "published_at": "2026-03-06T04:23:12Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC Middle East",
-      "title": "Israel strikes Beirut after evacuation warning sparks panic",
-      "url": "https://www.bbc.com/news/articles/cj32750e7j6o?at_medium=RSS&at_campaign=rss",
-      "summary": "Huge traffic jams form after the unprecedented warning for people to leave the Hezbollah stronghold, as Israel steps up its strikes across L…",
-      "published_at": "2026-03-06T04:08:48Z",
-      "country_code": "IL",
-      "country_name": "Israel"
     },
     {
       "source": "BBC Asia",
@@ -650,24 +641,6 @@
       "country_name": "Ethiopia"
     },
     {
-      "source": "BBC Middle East",
-      "title": "Iran targets headquarters of Iranian Kurdish forces in Iraq",
-      "url": "https://www.bbc.com/news/articles/c2k88y1147jo?at_medium=RSS&at_campaign=rss",
-      "summary": "The Iranian military's strikes come amid speculation that the US wants Iranian Kurdish groups to join its conflict with Iran.",
-      "published_at": "2026-03-05T11:35:09Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC Middle East",
-      "title": "US sub sinks Iranian warship in Indian Ocean, Hegseth says",
-      "url": "https://www.bbc.com/news/articles/c0e55g03v2zo?at_medium=RSS&at_campaign=rss",
-      "summary": "More than 100 personnel were thought to be aboard the vessel, which went down to the south of Sri Lanka.",
-      "published_at": "2026-03-05T06:52:36Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC Asia",
       "title": "China sets lowest economic growth target since 1991",
       "url": "https://www.bbc.com/news/articles/cqxddwl93qjo?at_medium=RSS&at_campaign=rss",
@@ -765,15 +738,6 @@
       "published_at": "2026-03-02T21:27:17Z",
       "country_code": "IR",
       "country_name": "Iran"
-    },
-    {
-      "source": "BBC Middle East",
-      "title": "Iran's regime is still intact - the coming days will show if it can hold out",
-      "url": "https://www.bbc.com/news/articles/cx2lgvg5rl1o?at_medium=RSS&at_campaign=rss",
-      "summary": "Iran's surviving leaders are in crisis mode, battling to project security as US and Israel strikes continue.",
-      "published_at": "2026-03-01T18:05:06Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC Africa",
@@ -969,7 +933,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 30
+      "news_count": 27
     },
     {
       "country_code": "IR",
@@ -1017,11 +981,6 @@
       "news_count": 3
     },
     {
-      "country_code": "NG",
-      "country_name": "Nigeria",
-      "news_count": 3
-    },
-    {
       "country_code": "IT",
       "country_name": "Italy",
       "news_count": 2
@@ -1029,6 +988,11 @@
     {
       "country_code": "KE",
       "country_name": "Kenya",
+      "news_count": 2
+    },
+    {
+      "country_code": "NG",
+      "country_name": "Nigeria",
       "news_count": 2
     },
     {
