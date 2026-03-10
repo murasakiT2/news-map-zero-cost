@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-10T18:35:16Z",
+  "generated_at": "2026-03-10T19:31:41Z",
   "articles": [
     {
-      "source": "BBC Middle East",
+      "source": "BBC World",
       "title": "War expands to central Beirut as Israeli strike kills Iranians in luxury hotel",
       "url": "https://www.bbc.com/news/articles/c2k8y7vy78no?at_medium=RSS&at_campaign=rss",
       "summary": "Israel's military says it targeted Quds Force operatives after a return to war with Lebanon's Hezbollah movement, but Iran says they were di…",
@@ -21,6 +21,15 @@
     },
     {
       "source": "BBC World",
+      "title": "BBC visits key Dubai port in Iran's firing line",
+      "url": "https://www.bbc.com/news/videos/cgrzk874171o?at_medium=RSS&at_campaign=rss",
+      "summary": "Trade at the Middle East's biggest port has been hit hard since Iran's blockade of the Strait of Hormuz began.",
+      "published_at": "2026-03-10T17:07:01Z",
+      "country_code": "AE",
+      "country_name": "United Arab Emirates"
+    },
+    {
+      "source": "BBC World",
       "title": "Zendaya's ring and Stella McCartney's horses - the sights and trends at Paris Fashion Week",
       "url": "https://www.bbc.com/news/articles/ckg277pemzno?at_medium=RSS&at_campaign=rss",
       "summary": "Zendaya flashes a gold band on her wedding finger as she joins the A-list set at Paris Fashion Week.",
@@ -29,7 +38,7 @@
       "country_name": "France"
     },
     {
-      "source": "BBC Middle East",
+      "source": "BBC World",
       "title": "Air strikes cause black rain and 'unprecedented' pollution in Tehran, scientists say",
       "url": "https://www.bbc.com/news/articles/cqxd1nv3re2o?at_medium=RSS&at_campaign=rss",
       "summary": "Air strikes have damaged at least four oil facilities since US-Israeli attacks on Iran began last month.",
@@ -317,7 +326,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Middle East",
       "title": "Who is Mojtaba Khamenei, Iran's new supreme leader?",
       "url": "https://www.bbc.com/news/articles/c78xxg05w0zo?at_medium=RSS&at_campaign=rss",
       "summary": "Many expect the 56-year-old, who has largely kept a low profile, to continue his father's hardline policies.",
@@ -353,7 +362,7 @@
       "country_name": "Israel"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "Unanswered questions as search for Nancy Guthrie enters a new month",
       "url": "https://www.bbc.com/news/articles/cp32lwy4077o?at_medium=RSS&at_campaign=rss",
       "summary": "The disappearance of the mother of TV presenter Savannah Guthrie captivated the US, but police have not made any arrests.",
@@ -1008,6 +1017,11 @@
       "country_code": "SD",
       "country_name": "Sudan",
       "news_count": 2
+    },
+    {
+      "country_code": "AE",
+      "country_name": "United Arab Emirates",
+      "news_count": 1
     },
     {
       "country_code": "AU",
