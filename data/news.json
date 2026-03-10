@@ -1,14 +1,32 @@
 {
-  "generated_at": "2026-03-10T16:45:44Z",
+  "generated_at": "2026-03-10T17:39:03Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Zendaya's ring and Stella McCartney's horses - the sights and trends at Paris Fashion Week",
+      "url": "https://www.bbc.com/news/articles/ckg277pemzno?at_medium=RSS&at_campaign=rss",
+      "summary": "Zendaya flashes a gold band on her wedding finger as she joins the A-list set at Paris Fashion Week.",
+      "published_at": "2026-03-10T16:59:04Z",
+      "country_code": "FR",
+      "country_name": "France"
+    },
     {
       "source": "BBC Middle East",
       "title": "War expands to central Beirut as Israel says Iranians hit in luxury hotel",
       "url": "https://www.bbc.com/news/articles/c2k8y7vy78no?at_medium=RSS&at_campaign=rss",
       "summary": "The Israeli military says it targeted a meeting of Quds Force operatives in a strike after a return to war with the Lebanese group Hezbollah…",
-      "published_at": "2026-03-10T16:31:23Z",
+      "published_at": "2026-03-10T16:56:17Z",
       "country_code": "IL",
       "country_name": "Israel"
+    },
+    {
+      "source": "BBC World",
+      "title": "Canada police investigate after shots fired at US consulate in Toronto",
+      "url": "https://www.bbc.com/news/articles/cwy8lrq9rg2o?at_medium=RSS&at_campaign=rss",
+      "summary": "It comes as Norwegian police investigate an explosion that occurred outside the US embassy in Oslo on Sunday.",
+      "published_at": "2026-03-10T16:51:39Z",
+      "country_code": "US",
+      "country_name": "United States"
     },
     {
       "source": "BBC World",
@@ -20,13 +38,13 @@
       "country_name": "Italy"
     },
     {
-      "source": "BBC World",
-      "title": "Canada police investigate reports of shots fired at US consulate in Toronto",
-      "url": "https://www.bbc.com/news/articles/cwy8lrq9rg2o?at_medium=RSS&at_campaign=rss",
-      "summary": "It comes as Norwegian police investigate an explosion that occurred outside the US embassy in Oslo on Sunday.",
-      "published_at": "2026-03-10T14:22:03Z",
-      "country_code": "US",
-      "country_name": "United States"
+      "source": "BBC Europe",
+      "title": "Lebanese man jailed in Germany for Hezbollah membership",
+      "url": "https://www.bbc.com/news/articles/ce8nm768nrdo?at_medium=RSS&at_campaign=rss",
+      "summary": "The court heard how the 35-year-old had a key role procuring products for Hezbollah's drones programme.",
+      "published_at": "2026-03-10T14:55:23Z",
+      "country_code": "DE",
+      "country_name": "Germany"
     },
     {
       "source": "BBC World",
@@ -1000,6 +1018,16 @@
     {
       "country_code": "CA",
       "country_name": "Canada",
+      "news_count": 1
+    },
+    {
+      "country_code": "DE",
+      "country_name": "Germany",
+      "news_count": 1
+    },
+    {
+      "country_code": "FR",
+      "country_name": "France",
       "news_count": 1
     },
     {
