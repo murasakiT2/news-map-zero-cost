@@ -1,6 +1,33 @@
 {
-  "generated_at": "2026-03-10T11:07:32Z",
+  "generated_at": "2026-03-10T11:52:19Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Family of child injured in Canada school shooting sues OpenAI",
+      "url": "https://www.bbc.com/news/articles/c309y25prnlo?at_medium=RSS&at_campaign=rss",
+      "summary": "The family alleges the firm knew the perpetrator was planning a \"mass casualty event\" but failed to contact the authorities.",
+      "published_at": "2026-03-10T11:27:55Z",
+      "country_code": "CA",
+      "country_name": "Canada"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "10 players from Jamaican club denied entry to US",
+      "url": "https://www.bbc.com/sport/football/articles/cddnlp5g8rro?at_medium=RSS&at_campaign=rss",
+      "summary": "Jamaican side Mount Pleasant will be without 10 first-team players for their Champions Cup tie against LA Galaxy after they were denied visa…",
+      "published_at": "2026-03-10T10:55:29Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Uber rolls out women-only option in the US",
+      "url": "https://www.bbc.com/news/articles/cx2gvrzwdr7o?at_medium=RSS&at_campaign=rss",
+      "summary": "The feature allows both women riders and drivers to be matched with other women for trips on the ride-sharing app.",
+      "published_at": "2026-03-10T10:34:11Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC Middle East",
       "title": "Strait of Hormuz: What happens if Iran shuts global oil corridor?",
@@ -45,6 +72,15 @@
       "published_at": "2026-03-10T01:48:19Z",
       "country_code": "US",
       "country_name": "United States"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "How worried are Americans about rising petrol prices?",
+      "url": "https://www.bbc.com/news/videos/cedz4x07ezpo?at_medium=RSS&at_campaign=rss",
+      "summary": "The BBC spoke to New Yorkers about how the conflict in Iran is driving up prices at the pump - and how it's impacting their wallets.",
+      "published_at": "2026-03-10T01:05:39Z",
+      "country_code": "IR",
+      "country_name": "Iran"
     },
     {
       "source": "BBC World",
@@ -182,7 +218,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "Watch: Ukrainian anti-drone 'bullet' that could help defend Gulf",
       "url": "https://www.bbc.com/news/videos/cpv83ndmezno?at_medium=RSS&at_campaign=rss",
       "summary": "The BBC's Diplomatic Correspondent, James Landale, is in Ukraine to see the latest anti-drone technology the country has to offer.",
@@ -291,15 +327,6 @@
     },
     {
       "source": "BBC World",
-      "title": "Watch: Huge flames in Tehran after air strikes on oil depots",
-      "url": "https://www.bbc.com/news/videos/c7vj9redqz2o?at_medium=RSS&at_campaign=rss",
-      "summary": "Social media footage shows flames leaping into the air and plumes of smoke above the city's skyline.",
-      "published_at": "2026-03-08T01:42:48Z",
-      "country_code": "IR",
-      "country_name": "Iran"
-    },
-    {
-      "source": "BBC World",
       "title": "The heartwarming tale of a father, a daughter, and a wedding band wowing India",
       "url": "https://www.bbc.com/news/articles/c7430kn9ze4o?at_medium=RSS&at_campaign=rss",
       "summary": "Band Baaja Bitiya is the moving tale of a father who goes to rescue his daughter from her matrimonial home.",
@@ -351,15 +378,6 @@
       "published_at": "2026-03-07T07:08:58Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "Canada's Mark Carney tries to strike a balance on Iran",
-      "url": "https://www.bbc.com/news/articles/cvg1124027go?at_medium=RSS&at_campaign=rss",
-      "summary": "The Iran war is posing a test for the Canadian prime minister's \"pragmatic but principled\" approach to world affairs.",
-      "published_at": "2026-03-07T02:13:25Z",
-      "country_code": "IR",
-      "country_name": "Iran"
     },
     {
       "source": "BBC Middle East",
@@ -942,12 +960,12 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 29
+      "news_count": 31
     },
     {
       "country_code": "IR",
       "country_name": "Iran",
-      "news_count": 19
+      "news_count": 18
     },
     {
       "country_code": "IL",
@@ -990,6 +1008,11 @@
       "news_count": 3
     },
     {
+      "country_code": "CA",
+      "country_name": "Canada",
+      "news_count": 2
+    },
+    {
       "country_code": "IT",
       "country_name": "Italy",
       "news_count": 2
@@ -1022,11 +1045,6 @@
     {
       "country_code": "BR",
       "country_name": "Brazil",
-      "news_count": 1
-    },
-    {
-      "country_code": "CA",
-      "country_name": "Canada",
       "news_count": 1
     },
     {
