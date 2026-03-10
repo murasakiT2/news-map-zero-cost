@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-03-10T21:21:52Z",
+  "generated_at": "2026-03-10T21:48:15Z",
   "articles": [
+    {
+      "source": "BBC US & Canada",
+      "title": "Defence secretary Hegseth warns of 'most intense' day of US war on Iran",
+      "url": "https://www.bbc.com/news/articles/cgrzken84q5o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Pentagon also said that over the course of the 10-day conflict, 140 service members were wounded, eight severely. Seven have died.",
+      "published_at": "2026-03-10T21:37:43Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "'I don't know why we're doing it' - Americans divided on Iran war",
+      "url": "https://www.bbc.com/news/videos/cy8gm4vr70go?at_medium=RSS&at_campaign=rss",
+      "summary": "Ten days since President Trump first announced the attack, people from across the US tell the BBC what they think the best outcome of the co…",
+      "published_at": "2026-03-10T21:28:09Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "Two more connected to Iranian football team stay in Australia, BBC understands",
@@ -151,15 +169,6 @@
       "url": "https://www.bbc.com/news/articles/cx2gvrzwdr7o?at_medium=RSS&at_campaign=rss",
       "summary": "The feature allows both women riders and drivers to be matched with other women for trips on the ride-sharing app.",
       "published_at": "2026-03-10T10:34:11Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "Woodland 'can't waste energy' hiding PTSD diagnosis",
-      "url": "https://www.bbc.com/sport/golf/articles/cpw0epy0k1po?at_medium=RSS&at_campaign=rss",
-      "summary": "Former US Open champion Gary Woodland says he \"can't waste energy any more\" hiding his struggles with post-traumatic stress disorder.",
-      "published_at": "2026-03-10T09:06:57Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -534,15 +543,6 @@
     },
     {
       "source": "BBC Europe",
-      "title": "Ukrainian bank workers released after detention in Hungary",
-      "url": "https://www.bbc.com/news/articles/cd03rj7n0nro?at_medium=RSS&at_campaign=rss",
-      "summary": "Kyiv has reacted furiously after officials in Budapest accused staff transporting cash to Ukraine of money laundering.",
-      "published_at": "2026-03-06T18:37:58Z",
-      "country_code": "UA",
-      "country_name": "Ukraine"
-    },
-    {
-      "source": "BBC Europe",
       "title": "Russia was behind parcel fires in UK and Europe, investigators say",
       "url": "https://www.bbc.com/news/articles/c0rjx947zqzo?at_medium=RSS&at_campaign=rss",
       "summary": "The attacks, which involved self-igniting packages, targeted couriers in Poland, Germany and at a DHL depot in the UK in 2024.",
@@ -632,15 +632,6 @@
       "country_name": "China"
     },
     {
-      "source": "BBC Europe",
-      "title": "Finland plans to lift decades-old ban on hosting nuclear weapons",
-      "url": "https://www.bbc.com/news/articles/c14m5llnrlpo?at_medium=RSS&at_campaign=rss",
-      "summary": "The government says the nation's defence environment has \"significantly changed\" since Russia's invasion of Ukraine.",
-      "published_at": "2026-03-05T23:12:16Z",
-      "country_code": "RU",
-      "country_name": "Russia"
-    },
-    {
       "source": "BBC Africa",
       "title": "Regragui departs as Morocco appoint Ouahbi as new coach",
       "url": "https://www.bbc.com/sport/football/articles/c62dnepz5g7o?at_medium=RSS&at_campaign=rss",
@@ -666,15 +657,6 @@
       "published_at": "2026-03-05T18:40:22Z",
       "country_code": "IR",
       "country_name": "Iran"
-    },
-    {
-      "source": "BBC Europe",
-      "title": "US asked Ukraine for help fighting Iranian drones, Zelensky says",
-      "url": "https://www.bbc.com/news/articles/cr5llg0e9g9o?at_medium=RSS&at_campaign=rss",
-      "summary": "Ukraine's president says Kyiv will only help if doing so does not deplete its own air defences.",
-      "published_at": "2026-03-05T18:19:34Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC Middle East",
@@ -959,13 +941,13 @@
       "news_count": 16
     },
     {
-      "country_code": "RU",
-      "country_name": "Russia",
-      "news_count": 7
-    },
-    {
       "country_code": "IL",
       "country_name": "Israel",
+      "news_count": 6
+    },
+    {
+      "country_code": "RU",
+      "country_name": "Russia",
       "news_count": 6
     },
     {
@@ -979,11 +961,6 @@
       "news_count": 5
     },
     {
-      "country_code": "UA",
-      "country_name": "Ukraine",
-      "news_count": 5
-    },
-    {
       "country_code": "CN",
       "country_name": "China",
       "news_count": 4
@@ -991,6 +968,11 @@
     {
       "country_code": "ET",
       "country_name": "Ethiopia",
+      "news_count": 4
+    },
+    {
+      "country_code": "UA",
+      "country_name": "Ukraine",
       "news_count": 4
     },
     {
