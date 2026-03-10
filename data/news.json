@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-03-10T01:05:47Z",
+  "generated_at": "2026-03-10T03:36:33Z",
   "articles": [
+    {
+      "source": "BBC US & Canada",
+      "title": "Rising prices, mixed messages: Iran war is fraught with political risk for Trump",
+      "url": "https://www.bbc.com/news/articles/c93j2dw72q9o?at_medium=RSS&at_campaign=rss",
+      "summary": "The war's price, measured in damage to the economy and in political costs to Trump, is still coming into view.",
+      "published_at": "2026-03-10T02:37:46Z",
+      "country_code": "IR",
+      "country_name": "Iran"
+    },
+    {
+      "source": "BBC Asia",
+      "title": "Why is China set to approve a new law promoting 'ethnic unity'?",
+      "url": "https://www.bbc.com/news/articles/c6271gxpdkzo?at_medium=RSS&at_campaign=rss",
+      "summary": "A law that could threaten the rights of minority groups is a sign of the direction Xi is taking China.",
+      "published_at": "2026-03-10T00:24:39Z",
+      "country_code": "CN",
+      "country_name": "China"
+    },
     {
       "source": "BBC World",
       "title": "Australia urged to protect Iran women's football team as they prepare to fly home",
@@ -947,7 +965,7 @@
     {
       "country_code": "IR",
       "country_name": "Iran",
-      "news_count": 17
+      "news_count": 18
     },
     {
       "country_code": "IL",
@@ -980,6 +998,11 @@
       "news_count": 4
     },
     {
+      "country_code": "CN",
+      "country_name": "China",
+      "news_count": 3
+    },
+    {
       "country_code": "IN",
       "country_name": "India",
       "news_count": 3
@@ -992,11 +1015,6 @@
     {
       "country_code": "AU",
       "country_name": "Australia",
-      "news_count": 2
-    },
-    {
-      "country_code": "CN",
-      "country_name": "China",
       "news_count": 2
     },
     {
