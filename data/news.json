@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-03-10T11:52:19Z",
+  "generated_at": "2026-03-10T12:36:14Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Canada police investigate reports of shots fired at US consulate in Toronto",
+      "url": "https://www.bbc.com/news/articles/cwy8lrq9rg2o?at_medium=RSS&at_campaign=rss",
+      "summary": "It comes as Norwegian police investigate an explosion that occurred outside the US embassy in Oslo on Sunday.",
+      "published_at": "2026-03-10T12:30:22Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Lebanon calls for talks with Israel on plan to end Hezbollah conflict",
+      "url": "https://www.bbc.com/news/articles/cd9g5p3ppxlo?at_medium=RSS&at_campaign=rss",
+      "summary": "President Aoun outlines a path towards \"permanent security and stability\", as Israeli strikes targeting Hezbollah continue.",
+      "published_at": "2026-03-10T12:00:25Z",
+      "country_code": "IL",
+      "country_name": "Israel"
+    },
     {
       "source": "BBC World",
       "title": "Family of child injured in Canada school shooting sues OpenAI",
@@ -92,6 +110,15 @@
       "country_name": "China"
     },
     {
+      "source": "BBC US & Canada",
+      "title": "Trump says Iran war will be over 'very soon', but not this week",
+      "url": "https://www.bbc.com/news/videos/cx2g4l8mlgzo?at_medium=RSS&at_campaign=rss",
+      "summary": "At his press briefing, the US president claimed the operation was a \"tremendous success\", but added that he wants to ensure Iran cannot deve…",
+      "published_at": "2026-03-09T23:24:23Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
       "source": "BBC Middle East",
       "title": "Strikes shake Iran cities as crowds rally in support of Mojtaba Khamenei",
       "url": "https://www.bbc.com/news/articles/c3dzy4nede0o?at_medium=RSS&at_campaign=rss",
@@ -124,15 +151,6 @@
       "url": "https://www.bbc.com/news/articles/cdr24g1p3vpo?at_medium=RSS&at_campaign=rss",
       "summary": "Jason Hughes's family does not want the students prosecuted after the prank turned into a fatal car accident.",
       "published_at": "2026-03-09T17:09:21Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "Live Nation reaches settlement in US monopoly case",
-      "url": "https://www.bbc.com/news/articles/clygrnv2rdpo?at_medium=RSS&at_campaign=rss",
-      "summary": "The live events company, which owns Ticketmaster, will open parts of its business to rival companies.",
-      "published_at": "2026-03-09T16:13:14Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -218,7 +236,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Europe",
+      "source": "BBC World",
       "title": "Watch: Ukrainian anti-drone 'bullet' that could help defend Gulf",
       "url": "https://www.bbc.com/news/videos/cpv83ndmezno?at_medium=RSS&at_campaign=rss",
       "summary": "The BBC's Diplomatic Correspondent, James Landale, is in Ukraine to see the latest anti-drone technology the country has to offer.",
@@ -263,15 +281,6 @@
       "country_name": "Iran"
     },
     {
-      "source": "BBC US & Canada",
-      "title": "Thousands face long queues at airports in Houston and New Orleans",
-      "url": "https://www.bbc.com/news/articles/cg4gpdr6xdgo?at_medium=RSS&at_campaign=rss",
-      "summary": "The delays come amid increased spring travel and limited security personnel during a partial US government shutdown.",
-      "published_at": "2026-03-08T21:50:18Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC Europe",
       "title": "Finnish duo win wacky wife-carrying race",
       "url": "https://www.bbc.com/news/articles/c15x2ygk993o?at_medium=RSS&at_campaign=rss",
@@ -288,15 +297,6 @@
       "published_at": "2026-03-08T19:49:46Z",
       "country_code": "PT",
       "country_name": "Portugal"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "Starmer and Trump speak for first time since president's Iran criticism",
-      "url": "https://www.bbc.com/news/articles/c05v28eqjyvo?at_medium=RSS&at_campaign=rss",
-      "summary": "The phone call comes after a week in which Donald Trump repeatedly expressed frustration at Keir Starmer's stance on Iran.",
-      "published_at": "2026-03-08T16:56:34Z",
-      "country_code": "IR",
-      "country_name": "Iran"
     },
     {
       "source": "BBC Middle East",
@@ -327,6 +327,15 @@
     },
     {
       "source": "BBC World",
+      "title": "Watch: Huge flames in Tehran after air strikes on oil depots",
+      "url": "https://www.bbc.com/news/videos/c7vj9redqz2o?at_medium=RSS&at_campaign=rss",
+      "summary": "Social media footage shows flames leaping into the air and plumes of smoke above the city's skyline.",
+      "published_at": "2026-03-08T01:42:48Z",
+      "country_code": "IR",
+      "country_name": "Iran"
+    },
+    {
+      "source": "BBC Asia",
       "title": "The heartwarming tale of a father, a daughter, and a wedding band wowing India",
       "url": "https://www.bbc.com/news/articles/c7430kn9ze4o?at_medium=RSS&at_campaign=rss",
       "summary": "Band Baaja Bitiya is the moving tale of a father who goes to rescue his daughter from her matrimonial home.",
@@ -372,12 +381,12 @@
     },
     {
       "source": "BBC US & Canada",
-      "title": "Deadly storms and tornadoes strike US state of Michigan",
-      "url": "https://www.bbc.com/news/videos/cx2r4wdgkzxo?at_medium=RSS&at_campaign=rss",
-      "summary": "A series of tornadoes tore through several cities, uprooting trees and destroying homes.",
-      "published_at": "2026-03-07T07:08:58Z",
-      "country_code": "US",
-      "country_name": "United States"
+      "title": "Canada's Mark Carney tries to strike a balance on Iran",
+      "url": "https://www.bbc.com/news/articles/cvg1124027go?at_medium=RSS&at_campaign=rss",
+      "summary": "The Iran war is posing a test for the Canadian prime minister's \"pragmatic but principled\" approach to world affairs.",
+      "published_at": "2026-03-07T02:13:25Z",
+      "country_code": "IR",
+      "country_name": "Iran"
     },
     {
       "source": "BBC Middle East",
@@ -416,24 +425,6 @@
       "country_name": "Ukraine"
     },
     {
-      "source": "BBC US & Canada",
-      "title": "After Iran, will Trump turn his eyes to Cuba?",
-      "url": "https://www.bbc.com/news/videos/c4gq8yd3qlxo?at_medium=RSS&at_campaign=rss",
-      "summary": "During a White House event with the Inter Miami CF soccer team, the US president said the island was “ready to fall”.",
-      "published_at": "2026-03-06T23:30:56Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "Watch: Obama, Biden and Clinton remember 'tenacious' Jesse Jackson",
-      "url": "https://www.bbc.com/news/videos/cjwz8py0l2go?at_medium=RSS&at_campaign=rss",
-      "summary": "The three former US presidents were among dozens of high profile figures present at the late civil rights activist's memorial.",
-      "published_at": "2026-03-06T23:26:17Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC Middle East",
       "title": "Trump wants to pick Iran's new leader - will a hostile regime under fire agree?",
       "url": "https://www.bbc.com/news/articles/c2k8339xn9jo?at_medium=RSS&at_campaign=rss",
@@ -441,15 +432,6 @@
       "published_at": "2026-03-06T22:06:42Z",
       "country_code": "IR",
       "country_name": "Iran"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "Inside Venezuela's political transition two months after Maduro's ousting",
-      "url": "https://www.bbc.com/news/videos/c4g244g829zo?at_medium=RSS&at_campaign=rss",
-      "summary": "The BBC's Ione Wells reports from the country and speaks to recently freed opposition politicians about the government's future and relation…",
-      "published_at": "2026-03-06T21:38:47Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC Europe",
@@ -504,15 +486,6 @@
       "published_at": "2026-03-06T17:06:10Z",
       "country_code": "GB",
       "country_name": "United Kingdom"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "Rubbish piles and cooking with firewood - fuel shortages push Cubans to breaking point",
-      "url": "https://www.bbc.com/news/videos/cn0ewj0e7j1o?at_medium=RSS&at_campaign=rss",
-      "summary": "The BBC's Will Grant spoke to several Cubans as the country grapples with severe electricity shortages, which is attributed in part to US sa…",
-      "published_at": "2026-03-06T16:42:25Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC Middle East",
@@ -731,15 +704,6 @@
       "country_name": "New Zealand"
     },
     {
-      "source": "BBC US & Canada",
-      "title": "Trump's war on Iran: Shifting stories and unanswered questions",
-      "url": "https://www.bbc.com/news/videos/cd6zzyg64zqo?at_medium=RSS&at_campaign=rss",
-      "summary": "BBC's Analysis editor Ros Atkins looks at the mixed messaging given by President Donald Trump's administration for its actions in Iran.",
-      "published_at": "2026-03-04T14:09:20Z",
-      "country_code": "IR",
-      "country_name": "Iran"
-    },
-    {
       "source": "BBC Europe",
       "title": "Why Europe's leaders have struggled to speak as one on Iran",
       "url": "https://www.bbc.com/news/articles/cn8z5zvlz5yo?at_medium=RSS&at_campaign=rss",
@@ -756,15 +720,6 @@
       "published_at": "2026-03-03T15:42:28Z",
       "country_code": "IL",
       "country_name": "Israel"
-    },
-    {
-      "source": "BBC Middle East",
-      "title": "What is behind the strategy to take out Iran's leadership?",
-      "url": "https://www.bbc.com/news/articles/cly8gqj9r6go?at_medium=RSS&at_campaign=rss",
-      "summary": "Security analyst Gordon Corera looks at what is likely to happen after much of Iran's most senior leadership is killed.",
-      "published_at": "2026-03-02T21:27:17Z",
-      "country_code": "IR",
-      "country_name": "Iran"
     },
     {
       "source": "BBC Africa",
@@ -960,17 +915,17 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 31
+      "news_count": 26
     },
     {
       "country_code": "IR",
       "country_name": "Iran",
-      "news_count": 18
+      "news_count": 17
     },
     {
       "country_code": "IL",
       "country_name": "Israel",
-      "news_count": 6
+      "news_count": 7
     },
     {
       "country_code": "MX",
