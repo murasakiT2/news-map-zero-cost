@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-03-10T08:42:12Z",
+  "generated_at": "2026-03-10T09:34:07Z",
   "articles": [
+    {
+      "source": "BBC Middle East",
+      "title": "Strait of Hormuz: What happens if Iran shuts global oil corridor?",
+      "url": "https://www.bbc.com/news/articles/c78n6p09pzno?at_medium=RSS&at_campaign=rss",
+      "summary": "Iran says it will \"set fire\" to ships trying to sail through the world's most vital oil transit point.",
+      "published_at": "2026-03-10T09:32:50Z",
+      "country_code": "IR",
+      "country_name": "Iran"
+    },
     {
       "source": "BBC World",
       "title": "China exports surge despite Trump tariffs",
@@ -12,12 +21,12 @@
     },
     {
       "source": "BBC World",
-      "title": "Rising prices, mixed messages: Iran war is fraught with political risk for Trump",
+      "title": "Mixed messages from Trump leave more questions than answers over war's end",
       "url": "https://www.bbc.com/news/articles/c93j2dw72q9o?at_medium=RSS&at_campaign=rss",
-      "summary": "The war's price, measured in damage to the economy and in political costs to Trump, is still coming into view.",
+      "summary": "The US president has tried to soothe nerves over oil and markets, but his comments still lack clarity, writes Anthony Zurcher.",
       "published_at": "2026-03-10T02:37:46Z",
-      "country_code": "IR",
-      "country_name": "Iran"
+      "country_code": "US",
+      "country_name": "United States"
     },
     {
       "source": "BBC World",
@@ -723,15 +732,6 @@
     },
     {
       "source": "BBC Middle East",
-      "title": "Strait of Hormuz: What happens if Iran shuts global oil corridor?",
-      "url": "https://www.bbc.com/news/articles/c78n6p09pzno?at_medium=RSS&at_campaign=rss",
-      "summary": "Iran says it will \"set fire\" to ships trying to sail through the world's most vital oil transit point.",
-      "published_at": "2026-03-03T04:02:59Z",
-      "country_code": "IR",
-      "country_name": "Iran"
-    },
-    {
-      "source": "BBC Middle East",
       "title": "What is behind the strategy to take out Iran's leadership?",
       "url": "https://www.bbc.com/news/articles/cly8gqj9r6go?at_medium=RSS&at_campaign=rss",
       "summary": "Security analyst Gordon Corera looks at what is likely to happen after much of Iran's most senior leadership is killed.",
@@ -933,12 +933,12 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 27
+      "news_count": 28
     },
     {
       "country_code": "IR",
       "country_name": "Iran",
-      "news_count": 18
+      "news_count": 17
     },
     {
       "country_code": "IL",
