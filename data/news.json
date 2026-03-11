@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-03-11T03:36:21Z",
+  "generated_at": "2026-03-11T05:07:03Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Katy Perry loses trademark case against Australian designer Katie Perry",
+      "url": "https://www.bbc.com/news/articles/c9dn8l021l2o?at_medium=RSS&at_campaign=rss",
+      "summary": "The US singer lost the case in 2023 and later won on appeal, but now judges have ruled against her.",
+      "published_at": "2026-03-11T04:13:40Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC Asia",
       "title": "China and North Korea to resume passenger train service after six-year halt",
@@ -12,16 +21,16 @@
     },
     {
       "source": "BBC World",
-      "title": "Two more people connected to Iranian football team choose to stay in Australia",
-      "url": "https://www.bbc.com/news/articles/c93j2492d0do?at_medium=RSS&at_campaign=rss",
-      "summary": "It is understood most of the team left Australia on Tuesday night, but that a player and a member of support staff have joined five players …",
-      "published_at": "2026-03-11T01:56:05Z",
-      "country_code": "AU",
-      "country_name": "Australia"
+      "title": "Woman charged with attempted murder after shooting at Rihanna's home",
+      "url": "https://www.bbc.com/news/articles/cgjze644wjvo?at_medium=RSS&at_campaign=rss",
+      "summary": "The woman posted about the singer online prior to the attack, the BBC's US news partner CBS reports.",
+      "published_at": "2026-03-11T03:10:09Z",
+      "country_code": "US",
+      "country_name": "United States"
     },
     {
       "source": "BBC World",
-      "title": "Meghan to headline 'girls' weekend' in Australia for 300 women",
+      "title": "Meghan to headline £1,400 'girls' weekend' in Australia",
       "url": "https://www.bbc.com/news/articles/cwykl5d02rno?at_medium=RSS&at_campaign=rss",
       "summary": "The Duke and Duchess of Sussex are returning to Australia in April, their first visit since 2018.",
       "published_at": "2026-03-11T01:04:53Z",
@@ -128,7 +137,7 @@
       "country_name": "France"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "Lebanese man jailed in Germany for Hezbollah membership",
       "url": "https://www.bbc.com/news/articles/ce8nm768nrdo?at_medium=RSS&at_campaign=rss",
       "summary": "The court heard how the 35-year-old had a key role procuring products for Hezbollah's drones programme.",
@@ -173,7 +182,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Middle East",
       "title": "Lebanon calls for talks with Israel on plan to end Hezbollah conflict",
       "url": "https://www.bbc.com/news/articles/cd9g5p3ppxlo?at_medium=RSS&at_campaign=rss",
       "summary": "President Aoun outlines a path towards \"permanent security and stability\", as Israeli strikes targeting Hezbollah continue.",
@@ -263,7 +272,7 @@
       "country_name": "Israel"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Middle East",
       "title": "Iran's new leader has never been tested. He now faces an existential battle",
       "url": "https://www.bbc.com/news/articles/cwykdn0yn4wo?at_medium=RSS&at_campaign=rss",
       "summary": "Mojtaba Khamenei, 56, enters power as the Islamic republic faces its most serious crisis.",
@@ -897,7 +906,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 23
+      "news_count": 25
     },
     {
       "country_code": "IR",
@@ -935,11 +944,6 @@
       "news_count": 4
     },
     {
-      "country_code": "AU",
-      "country_name": "Australia",
-      "news_count": 3
-    },
-    {
       "country_code": "IN",
       "country_name": "India",
       "news_count": 3
@@ -948,6 +952,11 @@
       "country_code": "UA",
       "country_name": "Ukraine",
       "news_count": 3
+    },
+    {
+      "country_code": "AU",
+      "country_name": "Australia",
+      "news_count": 2
     },
     {
       "country_code": "IT",
