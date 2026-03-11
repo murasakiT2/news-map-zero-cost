@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-11T08:42:20Z",
+  "generated_at": "2026-03-11T09:32:57Z",
   "articles": [
     {
       "source": "BBC World",
@@ -12,7 +12,7 @@
     },
     {
       "source": "BBC Europe",
-      "title": "Inside the Russian explosives plot that targeted the UK",
+      "title": "'I am no spy': Courier in Russian exploding parcels plot against UK talks to BBC",
       "url": "https://www.bbc.com/news/articles/cpd83zwqlvno?at_medium=RSS&at_campaign=rss",
       "summary": "Aleksandr Suranovas, charged with carrying out an act of terrorism for Russia, speaks to the BBC.",
       "published_at": "2026-03-11T06:00:08Z",
@@ -470,15 +470,6 @@
       "country_name": "Iran"
     },
     {
-      "source": "BBC Middle East",
-      "title": "Trump demands 'unconditional surrender' from Iran as Putin speaks with Iran's president",
-      "url": "https://www.bbc.com/news/articles/c5yq82k1wk8o?at_medium=RSS&at_campaign=rss",
-      "summary": "The president also calls on Tehran to pick new leaders who are \"acceptable\" to the White House after six days of war.",
-      "published_at": "2026-03-07T02:04:06Z",
-      "country_code": "IR",
-      "country_name": "Iran"
-    },
-    {
       "source": "BBC Asia",
       "title": "China spent years building ties in Latin America. Can Trump make room for the US?",
       "url": "https://www.bbc.com/news/articles/c5yvw0zwpd5o?at_medium=RSS&at_campaign=rss",
@@ -569,15 +560,6 @@
       "country_name": "Ethiopia"
     },
     {
-      "source": "BBC Middle East",
-      "title": "'What is the game plan?': The Iran war is unsettling China and its ambitions",
-      "url": "https://www.bbc.com/news/articles/c2044vzrdpzo?at_medium=RSS&at_campaign=rss",
-      "summary": "China is not feeling the shock of war in the Middle East - yet. But it is feeling the ripples.",
-      "published_at": "2026-03-05T23:13:57Z",
-      "country_code": "CN",
-      "country_name": "China"
-    },
-    {
       "source": "BBC Africa",
       "title": "Regragui departs as Morocco appoint Ouahbi as new coach",
       "url": "https://www.bbc.com/sport/football/articles/c62dnepz5g7o?at_medium=RSS&at_campaign=rss",
@@ -601,15 +583,6 @@
       "url": "https://www.bbc.com/news/articles/c93jj3gz8x0o?at_medium=RSS&at_campaign=rss",
       "summary": "Tehran's approach appears to rest on a belief it can absorb strikes longer than its adversaries sustain pain and costs, writes BBC Persian's…",
       "published_at": "2026-03-05T18:40:22Z",
-      "country_code": "IR",
-      "country_name": "Iran"
-    },
-    {
-      "source": "BBC Middle East",
-      "title": "Iran school and nearby military base struck multiple times, satellite image reveals",
-      "url": "https://www.bbc.com/news/articles/c5yqqyly9n0o?at_medium=RSS&at_campaign=rss",
-      "summary": "Iranian authorities say the attack, which took place on Saturday, killed 168 people.",
-      "published_at": "2026-03-05T17:46:24Z",
       "country_code": "IR",
       "country_name": "Iran"
     },
@@ -866,7 +839,7 @@
     {
       "country_code": "IR",
       "country_name": "Iran",
-      "news_count": 15
+      "news_count": 13
     },
     {
       "country_code": "IL",
@@ -879,11 +852,6 @@
       "news_count": 5
     },
     {
-      "country_code": "CN",
-      "country_name": "China",
-      "news_count": 4
-    },
-    {
       "country_code": "ET",
       "country_name": "Ethiopia",
       "news_count": 4
@@ -892,6 +860,11 @@
       "country_code": "RU",
       "country_name": "Russia",
       "news_count": 4
+    },
+    {
+      "country_code": "CN",
+      "country_name": "China",
+      "news_count": 3
     },
     {
       "country_code": "GB",
