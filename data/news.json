@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-03-11T09:32:57Z",
+  "generated_at": "2026-03-11T10:29:10Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "India's top court allows removal of life support of man in vegetative state",
+      "url": "https://www.bbc.com/news/articles/c62v64rz6mko?at_medium=RSS&at_campaign=rss",
+      "summary": "Harish Rana has been in a vegetative state since 2013, when he fell from a balcony and suffered head injuries.",
+      "published_at": "2026-03-11T09:28:18Z",
+      "country_code": "IN",
+      "country_name": "India"
+    },
     {
       "source": "BBC World",
       "title": "From New Zealand to Orkney: Why we brought this classic car half way round the world",
@@ -29,7 +38,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Asia",
+      "source": "BBC World",
       "title": "China and North Korea to reopen passenger train service after pandemic halt",
       "url": "https://www.bbc.com/news/articles/cdxz8v58xvyo?at_medium=RSS&at_campaign=rss",
       "summary": "Tickets for the first train departing on Thursday have reportedly sold out.",
@@ -56,7 +65,7 @@
       "country_name": "Australia"
     },
     {
-      "source": "BBC US & Canada",
+      "source": "BBC Middle East",
       "title": "US strikes minelaying ships in Iran after warning of 'intense' day of bombing",
       "url": "https://www.bbc.com/news/articles/cgrzken84q5o?at_medium=RSS&at_campaign=rss",
       "summary": "US intelligence assets believe Iran is preparing to deploy naval mines in the Strait of Hormuz, the world's busiest oil shipping channel.",
@@ -857,6 +866,11 @@
       "news_count": 4
     },
     {
+      "country_code": "IN",
+      "country_name": "India",
+      "news_count": 4
+    },
+    {
       "country_code": "RU",
       "country_name": "Russia",
       "news_count": 4
@@ -869,11 +883,6 @@
     {
       "country_code": "GB",
       "country_name": "United Kingdom",
-      "news_count": 3
-    },
-    {
-      "country_code": "IN",
-      "country_name": "India",
       "news_count": 3
     },
     {
