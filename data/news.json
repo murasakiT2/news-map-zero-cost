@@ -1,12 +1,30 @@
 {
-  "generated_at": "2026-03-11T01:06:29Z",
+  "generated_at": "2026-03-11T03:36:21Z",
   "articles": [
+    {
+      "source": "BBC Asia",
+      "title": "China and North Korea to resume passenger train service after six-year halt",
+      "url": "https://www.bbc.com/news/articles/cdxz8v58xvyo?at_medium=RSS&at_campaign=rss",
+      "summary": "Tickets for the first train departing on Thursday have reportedly sold out.",
+      "published_at": "2026-03-11T03:10:29Z",
+      "country_code": "CN",
+      "country_name": "China"
+    },
     {
       "source": "BBC World",
       "title": "Two more people connected to Iranian football team choose to stay in Australia",
       "url": "https://www.bbc.com/news/articles/c93j2492d0do?at_medium=RSS&at_campaign=rss",
       "summary": "It is understood most of the team left Australia on Tuesday night, but that a player and a member of support staff have joined five players …",
-      "published_at": "2026-03-11T00:09:51Z",
+      "published_at": "2026-03-11T01:56:05Z",
+      "country_code": "AU",
+      "country_name": "Australia"
+    },
+    {
+      "source": "BBC World",
+      "title": "Meghan to headline 'girls' weekend' in Australia for 300 women",
+      "url": "https://www.bbc.com/news/articles/cwykl5d02rno?at_medium=RSS&at_campaign=rss",
+      "summary": "The Duke and Duchess of Sussex are returning to Australia in April, their first visit since 2018.",
+      "published_at": "2026-03-11T01:04:53Z",
       "country_code": "AU",
       "country_name": "Australia"
     },
@@ -108,15 +126,6 @@
       "published_at": "2026-03-10T16:59:04Z",
       "country_code": "FR",
       "country_name": "France"
-    },
-    {
-      "source": "BBC World",
-      "title": "Italy buys rare Caravaggio portrait for €30m",
-      "url": "https://www.bbc.com/news/articles/c93j2ekgwqko?at_medium=RSS&at_campaign=rss",
-      "summary": "The purchase is part of wider plans to prevent major artworks from being bought by private collectors.",
-      "published_at": "2026-03-10T15:18:00Z",
-      "country_code": "IT",
-      "country_name": "Italy"
     },
     {
       "source": "BBC World",
@@ -659,15 +668,6 @@
       "country_name": "Ethiopia"
     },
     {
-      "source": "BBC Asia",
-      "title": "China sets lowest economic growth target since 1991",
-      "url": "https://www.bbc.com/news/articles/cqxddwl93qjo?at_medium=RSS&at_campaign=rss",
-      "summary": "It is also the first time the target has been lowered since it was cut to \"around 5%\" in 2023.",
-      "published_at": "2026-03-05T03:10:52Z",
-      "country_code": "CN",
-      "country_name": "China"
-    },
-    {
       "source": "BBC Africa",
       "title": "The devastating conflict where both sides have reasons to keep fighting",
       "url": "https://www.bbc.com/news/articles/czx70y0l75wo?at_medium=RSS&at_campaign=rss",
@@ -935,13 +935,13 @@
       "news_count": 4
     },
     {
-      "country_code": "IN",
-      "country_name": "India",
+      "country_code": "AU",
+      "country_name": "Australia",
       "news_count": 3
     },
     {
-      "country_code": "IT",
-      "country_name": "Italy",
+      "country_code": "IN",
+      "country_name": "India",
       "news_count": 3
     },
     {
@@ -950,8 +950,8 @@
       "news_count": 3
     },
     {
-      "country_code": "AU",
-      "country_name": "Australia",
+      "country_code": "IT",
+      "country_name": "Italy",
       "news_count": 2
     },
     {
