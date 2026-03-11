@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-03-11T12:35:47Z",
+  "generated_at": "2026-03-11T13:58:42Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Record release of emergency oil reserves planned as prices surge",
+      "url": "https://www.bbc.com/news/articles/cly093xxlzzo?at_medium=RSS&at_campaign=rss",
+      "summary": "The G7 group of nations welcomes the idea of releasing oil in response to the surge in prices since the US-Israel war with Iran began",
+      "published_at": "2026-03-11T13:46:37Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC Africa",
       "title": "Floods and landslides kill 30 in southern Ethiopia",
@@ -18,15 +27,6 @@
       "published_at": "2026-03-11T12:27:27Z",
       "country_code": "UA",
       "country_name": "Ukraine"
-    },
-    {
-      "source": "BBC World",
-      "title": "G7 welcomes potential record release of oil reserves in bid to curb soaring prices",
-      "url": "https://www.bbc.com/news/articles/cly093xxlzzo?at_medium=RSS&at_campaign=rss",
-      "summary": "The group of nations welcomes the idea of releasing oil in response to the surge in prices since the US-Israel war with Iran began",
-      "published_at": "2026-03-11T12:07:11Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC World",
@@ -210,12 +210,12 @@
     },
     {
       "source": "BBC Europe",
-      "title": "Lebanese man jailed in Germany for Hezbollah membership",
-      "url": "https://www.bbc.com/news/articles/ce8nm768nrdo?at_medium=RSS&at_campaign=rss",
-      "summary": "The court heard how the 35-year-old had a key role procuring products for Hezbollah's drones programme.",
-      "published_at": "2026-03-10T14:55:23Z",
-      "country_code": "DE",
-      "country_name": "Germany"
+      "title": "Italy buys rare Caravaggio portrait for €30m",
+      "url": "https://www.bbc.com/news/articles/c93j2ekgwqko?at_medium=RSS&at_campaign=rss",
+      "summary": "The purchase is part of wider plans to prevent major artworks from being bought by private collectors.",
+      "published_at": "2026-03-10T15:18:00Z",
+      "country_code": "IT",
+      "country_name": "Italy"
     },
     {
       "source": "BBC Middle East",
@@ -331,24 +331,6 @@
       "url": "https://www.bbc.com/news/videos/cdjmkl9dr0mo?at_medium=RSS&at_campaign=rss",
       "summary": "Airports across the US are experiencing extended wait times due to the partial government shutdown, which began on 14 February.",
       "published_at": "2026-03-09T14:34:37Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC Europe",
-      "title": "Blast outside Belgium synagogue was 'antisemitic act', mayor says",
-      "url": "https://www.bbc.com/news/articles/c39wy142j8ro?at_medium=RSS&at_campaign=rss",
-      "summary": "The explosion took place around 04:00 in front of the synagogue and caused no injuries, police say.",
-      "published_at": "2026-03-09T13:09:30Z",
-      "country_code": "BE",
-      "country_name": "Belgium"
-    },
-    {
-      "source": "BBC Europe",
-      "title": "Police release images of Oslo US embassy explosion suspect",
-      "url": "https://www.bbc.com/news/articles/ce8wk563473o?at_medium=RSS&at_campaign=rss",
-      "summary": "Norwegian police say their investigation so far shows Sunday's blast was caused by an improvised device.",
-      "published_at": "2026-03-09T12:45:09Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -731,15 +713,6 @@
       "country_name": "Sudan"
     },
     {
-      "source": "BBC Europe",
-      "title": "Bowen: Why Ukraine remains defiant and does not feel close to defeat",
-      "url": "https://www.bbc.com/news/articles/cd9g2ggq4epo?at_medium=RSS&at_campaign=rss",
-      "summary": "This month marks four gruelling years since the full‑scale invasion began and a genuine ceasefire still feels far from assured",
-      "published_at": "2026-02-24T06:02:26Z",
-      "country_code": "UA",
-      "country_name": "Ukraine"
-    },
-    {
       "source": "BBC Latin America",
       "title": "Is Mexico safe for football fans?",
       "url": "https://www.bbc.com/news/videos/c1d6xge27pgo?at_medium=RSS&at_campaign=rss",
@@ -804,15 +777,6 @@
     },
     {
       "source": "BBC Africa",
-      "title": "Kenyans drop flowers for Valentine's bouquets of cash. Not everyone is impressed",
-      "url": "https://www.bbc.com/news/articles/cn87g2v73jno?at_medium=RSS&at_campaign=rss",
-      "summary": "Bouquets of cash have been blooming in popularity in Kenya but recent warnings may slow the trend.",
-      "published_at": "2026-02-14T00:02:04Z",
-      "country_code": "KE",
-      "country_name": "Kenya"
-    },
-    {
-      "source": "BBC Africa",
       "title": "At the scene: Muslims killed 'over rejection of extremist ideology' in Nigeria",
       "url": "https://www.bbc.com/news/videos/czej7xpx0x9o?at_medium=RSS&at_campaign=rss",
       "summary": "At least 78 bodies have been buried, while it's feared that more than 170 people were killed altogether.",
@@ -825,7 +789,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 22
+      "news_count": 21
     },
     {
       "country_code": "IR",
@@ -868,18 +832,13 @@
       "news_count": 3
     },
     {
-      "country_code": "UA",
-      "country_name": "Ukraine",
+      "country_code": "IT",
+      "country_name": "Italy",
       "news_count": 3
     },
     {
       "country_code": "AU",
       "country_name": "Australia",
-      "news_count": 2
-    },
-    {
-      "country_code": "IT",
-      "country_name": "Italy",
       "news_count": 2
     },
     {
@@ -898,6 +857,11 @@
       "news_count": 2
     },
     {
+      "country_code": "UA",
+      "country_name": "Ukraine",
+      "news_count": 2
+    },
+    {
       "country_code": "ZA",
       "country_name": "South Africa",
       "news_count": 2
@@ -908,28 +872,13 @@
       "news_count": 1
     },
     {
-      "country_code": "BE",
-      "country_name": "Belgium",
-      "news_count": 1
-    },
-    {
       "country_code": "BR",
       "country_name": "Brazil",
       "news_count": 1
     },
     {
-      "country_code": "DE",
-      "country_name": "Germany",
-      "news_count": 1
-    },
-    {
       "country_code": "JP",
       "country_name": "Japan",
-      "news_count": 1
-    },
-    {
-      "country_code": "KE",
-      "country_name": "Kenya",
       "news_count": 1
     },
     {
