@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-03-11T21:23:03Z",
+  "generated_at": "2026-03-11T21:53:02Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "New US ambassador to South Africa summoned over 'undiplomatic remarks'",
+      "url": "https://www.bbc.com/news/articles/c14m1vzmxz3o?at_medium=RSS&at_campaign=rss",
+      "summary": "Leo Brent Bozell apologises after weighing in on a dispute rooted in the country's apartheid past.",
+      "published_at": "2026-03-11T21:30:16Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC US & Canada",
       "title": "Pete Hegseth brings combative style as face of Trump's war in Iran",
@@ -182,7 +191,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "Meghan to appear at £1,400 per person 'girls' weekend' in Australia",
       "url": "https://www.bbc.com/news/articles/cwykl5d02rno?at_medium=RSS&at_campaign=rss",
       "summary": "The Duke and Duchess of Sussex are returning to Australia in April, their first visit since 2018.",
@@ -758,15 +767,6 @@
       "country_name": "Mexico"
     },
     {
-      "source": "BBC Africa",
-      "title": "How the tide turned against the leader of South Africa's second-biggest party",
-      "url": "https://www.bbc.com/news/articles/c6209vqv3nlo?at_medium=RSS&at_campaign=rss",
-      "summary": "John Steenhuisen will not seek re-election as DA leader, leaving the race wide open for a successor.",
-      "published_at": "2026-02-17T01:07:00Z",
-      "country_code": "ZA",
-      "country_name": "South Africa"
-    },
-    {
       "source": "BBC Europe",
       "title": "The dart frog toxin allegedly used to kill Alexei Navalny",
       "url": "https://www.bbc.com/news/videos/cwy6dlgg24ko?at_medium=RSS&at_campaign=rss",
@@ -792,13 +792,22 @@
       "published_at": "2026-02-05T17:15:30Z",
       "country_code": "NG",
       "country_name": "Nigeria"
+    },
+    {
+      "source": "BBC Africa",
+      "title": "South African national park closed due to floods",
+      "url": "https://www.bbc.com/news/videos/c20d9qdz7zwo?at_medium=RSS&at_campaign=rss",
+      "summary": "Ongoing floods in the north-eastern provinces of South Africa has led to the closure of the world-famous Kruger National Park.",
+      "published_at": "2026-01-16T16:52:14Z",
+      "country_code": "ZA",
+      "country_name": "South Africa"
     }
   ],
   "regions": [
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 24
+      "news_count": 25
     },
     {
       "country_code": "IR",
