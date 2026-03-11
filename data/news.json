@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-11T07:59:06Z",
+  "generated_at": "2026-03-11T08:42:20Z",
   "articles": [
     {
       "source": "BBC World",
@@ -9,6 +9,15 @@
       "published_at": "2026-03-11T06:23:42Z",
       "country_code": "NZ",
       "country_name": "New Zealand"
+    },
+    {
+      "source": "BBC Europe",
+      "title": "Inside the Russian explosives plot that targeted the UK",
+      "url": "https://www.bbc.com/news/articles/cpd83zwqlvno?at_medium=RSS&at_campaign=rss",
+      "summary": "Aleksandr Suranovas, charged with carrying out an act of terrorism for Russia, speaks to the BBC.",
+      "published_at": "2026-03-11T06:00:08Z",
+      "country_code": "GB",
+      "country_name": "United Kingdom"
     },
     {
       "source": "BBC World",
@@ -389,15 +398,6 @@
       "country_name": "Iran"
     },
     {
-      "source": "BBC Europe",
-      "title": "Finnish duo win wacky wife-carrying race",
-      "url": "https://www.bbc.com/news/articles/c15x2ygk993o?at_medium=RSS&at_campaign=rss",
-      "summary": "The UK's Wife Carrying Race in Surrey is \"certainly chaotic\", says its director.",
-      "published_at": "2026-03-08T20:38:47Z",
-      "country_code": "GB",
-      "country_name": "United Kingdom"
-    },
-    {
       "source": "BBC Africa",
       "title": "Kiplimo regains world half-marathon record in Lisbon",
       "url": "https://www.bbc.com/sport/athletics/articles/c7vj9g4mp55o?at_medium=RSS&at_campaign=rss",
@@ -423,15 +423,6 @@
       "published_at": "2026-03-08T15:03:16Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC Europe",
-      "title": "War fuels debate in Cyprus over UK military bases",
-      "url": "https://www.bbc.com/news/articles/cx2r1xldl1ko?at_medium=RSS&at_campaign=rss",
-      "summary": "“British Bases Out” is the slogan of Cypriot protesters after a drone strike targeted the RAF Akrotiri airbase.",
-      "published_at": "2026-03-08T08:03:40Z",
-      "country_code": "GB",
-      "country_name": "United Kingdom"
     },
     {
       "source": "BBC World",
@@ -504,15 +495,6 @@
       "published_at": "2026-03-07T00:59:39Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC Europe",
-      "title": "Armed robots take to the battlefield in Ukraine war",
-      "url": "https://www.bbc.com/news/articles/c62662gzlp8o?at_medium=RSS&at_campaign=rss",
-      "summary": "Ukraine has embarked on a programme to deploy armed robots on the battlefield against Russian forces.",
-      "published_at": "2026-03-07T00:36:19Z",
-      "country_code": "UA",
-      "country_name": "Ukraine"
     },
     {
       "source": "BBC Middle East",
@@ -907,23 +889,18 @@
       "news_count": 4
     },
     {
-      "country_code": "GB",
-      "country_name": "United Kingdom",
-      "news_count": 4
-    },
-    {
       "country_code": "RU",
       "country_name": "Russia",
       "news_count": 4
     },
     {
-      "country_code": "IN",
-      "country_name": "India",
+      "country_code": "GB",
+      "country_name": "United Kingdom",
       "news_count": 3
     },
     {
-      "country_code": "UA",
-      "country_name": "Ukraine",
+      "country_code": "IN",
+      "country_name": "India",
       "news_count": 3
     },
     {
@@ -949,6 +926,11 @@
     {
       "country_code": "SD",
       "country_name": "Sudan",
+      "news_count": 2
+    },
+    {
+      "country_code": "UA",
+      "country_name": "Ukraine",
       "news_count": 2
     },
     {
