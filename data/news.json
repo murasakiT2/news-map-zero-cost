@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-03-11T10:29:10Z",
+  "generated_at": "2026-03-11T11:06:49Z",
   "articles": [
+    {
+      "source": "BBC Middle East",
+      "title": "In maps: 12 days of strikes across the Middle East",
+      "url": "https://www.bbc.com/news/articles/c4g0pnnj8xyo?at_medium=RSS&at_campaign=rss",
+      "summary": "The US says it \"eliminated\" 16 Iranian ships as Israel carried out further attacks in Lebanon and Iran.",
+      "published_at": "2026-03-11T11:02:28Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "India's top court allows removal of life support of man in vegetative state",
@@ -146,15 +155,6 @@
       "country_name": "United Arab Emirates"
     },
     {
-      "source": "BBC World",
-      "title": "Zendaya's ring and Stella McCartney's horses - the sights and trends at Paris Fashion Week",
-      "url": "https://www.bbc.com/news/articles/ckg277pemzno?at_medium=RSS&at_campaign=rss",
-      "summary": "Zendaya flashes a gold band on her wedding finger as she joins the A-list set at Paris Fashion Week.",
-      "published_at": "2026-03-10T16:59:04Z",
-      "country_code": "FR",
-      "country_name": "France"
-    },
-    {
       "source": "BBC Europe",
       "title": "Lebanese man jailed in Germany for Hezbollah membership",
       "url": "https://www.bbc.com/news/articles/ce8nm768nrdo?at_medium=RSS&at_campaign=rss",
@@ -162,15 +162,6 @@
       "published_at": "2026-03-10T14:55:23Z",
       "country_code": "DE",
       "country_name": "Germany"
-    },
-    {
-      "source": "BBC World",
-      "title": "Syrian ex-colonel in court on crimes against humanity charge",
-      "url": "https://www.bbc.com/news/articles/cedz4jp379wo?at_medium=RSS&at_campaign=rss",
-      "summary": "Salem Michel Al-Salem, accused of crimes committed in Syria in 2011 and 2012, has been named for the first time.",
-      "published_at": "2026-03-10T14:17:37Z",
-      "country_code": "SY",
-      "country_name": "Syria"
     },
     {
       "source": "BBC Middle East",
@@ -187,15 +178,6 @@
       "url": "https://www.bbc.com/news/articles/cev7llekwllo?at_medium=RSS&at_campaign=rss",
       "summary": "Iranians in Tehran and Karaj tell the BBC they are exhausted and struggling to sleep after 10 days of Israeli and US attacks.",
       "published_at": "2026-03-10T13:26:17Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC Middle East",
-      "title": "In maps: 11 days of strikes across the Middle East",
-      "url": "https://www.bbc.com/news/articles/c4g0pnnj8xyo?at_medium=RSS&at_campaign=rss",
-      "summary": "US-Israeli strikes hit Iran and Gulf states intercepted retaliatory strikes overnight as the war continues into an eleventh day.",
-      "published_at": "2026-03-10T13:02:14Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -941,11 +923,6 @@
       "news_count": 1
     },
     {
-      "country_code": "FR",
-      "country_name": "France",
-      "news_count": 1
-    },
-    {
       "country_code": "JP",
       "country_name": "Japan",
       "news_count": 1
@@ -973,11 +950,6 @@
     {
       "country_code": "SG",
       "country_name": "Singapore",
-      "news_count": 1
-    },
-    {
-      "country_code": "SY",
-      "country_name": "Syria",
       "news_count": 1
     },
     {
