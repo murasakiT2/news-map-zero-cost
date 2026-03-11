@@ -1,12 +1,21 @@
 {
-  "generated_at": "2026-03-11T15:38:15Z",
+  "generated_at": "2026-03-11T16:39:58Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "'Even under missiles we carry on living' - how young Iranians are coping with war",
+      "url": "https://www.bbc.com/news/articles/c1mj1pyrzryo?at_medium=RSS&at_campaign=rss",
+      "summary": "Iranians say they are sheltering at home and rarely venturing out on near-empty streets as the US-Israeli bombing campaign continues.",
+      "published_at": "2026-03-11T16:00:34Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "Countries agree to record release of emergency oil reserves as prices surge",
       "url": "https://www.bbc.com/news/articles/cly093xxlzzo?at_medium=RSS&at_campaign=rss",
       "summary": "The G7 group of nations welcomes the idea of releasing oil in response to the surge in prices since the US-Israel war with Iran began",
-      "published_at": "2026-03-11T15:29:14Z",
+      "published_at": "2026-03-11T15:51:11Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -81,6 +90,15 @@
       "published_at": "2026-03-11T09:28:18Z",
       "country_code": "IN",
       "country_name": "India"
+    },
+    {
+      "source": "BBC Middle East",
+      "title": "Trump will welcome Iran at World Cup - Infantino",
+      "url": "https://www.bbc.com/sport/football/articles/ce3g4qq139ko?at_medium=RSS&at_campaign=rss",
+      "summary": "US President Donald Trump has said Iran are \"welcome\" to take part in this summer's World Cup despite the countries being at war, according …",
+      "published_at": "2026-03-11T07:46:33Z",
+      "country_code": "US",
+      "country_name": "United States"
     },
     {
       "source": "BBC World",
@@ -326,7 +344,7 @@
       "country_name": "Iran"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Middle East",
       "title": "US missile hit military base near Iran school, video analysis shows",
       "url": "https://www.bbc.com/news/articles/cvg548lyjnyo?at_medium=RSS&at_campaign=rss",
       "summary": "A US Tomahawk missile hit a military base near a primary school in southern Iran where Iranian authorities said 168 people were killed, expe…",
@@ -552,15 +570,6 @@
     },
     {
       "source": "BBC Middle East",
-      "title": "'We have been preparing': Why the boots on the ground in Iran could be Kurdish",
-      "url": "https://www.bbc.com/news/articles/cm215nnjyr0o?at_medium=RSS&at_campaign=rss",
-      "summary": "Iranian Kurdish opposition groups in exile in northern Iraq tell the BBC they have plans to cross the border but deny already doing so.",
-      "published_at": "2026-03-05T21:20:49Z",
-      "country_code": "IR",
-      "country_name": "Iran"
-    },
-    {
-      "source": "BBC Middle East",
       "title": "Iran's high-risk war strategy seems to centre on endurance and deterrence",
       "url": "https://www.bbc.com/news/articles/c93jj3gz8x0o?at_medium=RSS&at_campaign=rss",
       "summary": "Tehran's approach appears to rest on a belief it can absorb strikes longer than its adversaries sustain pain and costs, writes BBC Persian's…",
@@ -780,12 +789,12 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 21
+      "news_count": 23
     },
     {
       "country_code": "IR",
       "country_name": "Iran",
-      "news_count": 11
+      "news_count": 10
     },
     {
       "country_code": "IL",
