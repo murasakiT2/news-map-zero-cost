@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-03-11T05:07:03Z",
+  "generated_at": "2026-03-11T06:06:49Z",
   "articles": [
     {
       "source": "BBC World",
-      "title": "Katy Perry loses trademark case against Australian designer Katie Perry",
+      "title": "Australian designer Katie Perry wins trademark appeal vs Katy Perry",
       "url": "https://www.bbc.com/news/articles/c9dn8l021l2o?at_medium=RSS&at_campaign=rss",
       "summary": "The US singer lost the case in 2023 and later won on appeal, but now judges have ruled against her.",
-      "published_at": "2026-03-11T04:13:40Z",
+      "published_at": "2026-03-11T05:36:25Z",
       "country_code": "US",
       "country_name": "United States"
     },
     {
       "source": "BBC Asia",
-      "title": "China and North Korea to resume passenger train service after six-year halt",
+      "title": "China and North Korea to reopen passenger train service after pandemic halt",
       "url": "https://www.bbc.com/news/articles/cdxz8v58xvyo?at_medium=RSS&at_campaign=rss",
       "summary": "Tickets for the first train departing on Thursday have reportedly sold out.",
       "published_at": "2026-03-11T03:10:29Z",
@@ -30,7 +30,7 @@
     },
     {
       "source": "BBC World",
-      "title": "Meghan to headline £1,400 'girls' weekend' in Australia",
+      "title": "Meghan to headline £1,400 per person 'girls' weekend' in Australia",
       "url": "https://www.bbc.com/news/articles/cwykl5d02rno?at_medium=RSS&at_campaign=rss",
       "summary": "The Duke and Duchess of Sussex are returning to Australia in April, their first visit since 2018.",
       "published_at": "2026-03-11T01:04:53Z",
@@ -468,15 +468,6 @@
       "published_at": "2026-03-07T16:51:14Z",
       "country_code": "IR",
       "country_name": "Iran"
-    },
-    {
-      "source": "BBC Africa",
-      "title": "Heavy rains and flooding kills at least 23 in Nairobi",
-      "url": "https://www.bbc.com/news/articles/cn87pl8e2l5o?at_medium=RSS&at_campaign=rss",
-      "summary": "Flights in and out of Nairobi Airport have been disrupted while some roads in the capital are submerged.",
-      "published_at": "2026-03-07T12:21:40Z",
-      "country_code": "KE",
-      "country_name": "Kenya"
     },
     {
       "source": "BBC US & Canada",
@@ -964,11 +955,6 @@
       "news_count": 2
     },
     {
-      "country_code": "KE",
-      "country_name": "Kenya",
-      "news_count": 2
-    },
-    {
       "country_code": "NG",
       "country_name": "Nigeria",
       "news_count": 2
@@ -1021,6 +1007,11 @@
     {
       "country_code": "JP",
       "country_name": "Japan",
+      "news_count": 1
+    },
+    {
+      "country_code": "KE",
+      "country_name": "Kenya",
       "news_count": 1
     },
     {
