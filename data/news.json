@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-03-11T11:52:20Z",
+  "generated_at": "2026-03-11T12:35:47Z",
   "articles": [
+    {
+      "source": "BBC Africa",
+      "title": "Floods and landslides kill 30 in southern Ethiopia",
+      "url": "https://www.bbc.com/news/articles/ce947x4m0e1o?at_medium=RSS&at_campaign=rss",
+      "summary": "Forecasters say storms are becoming more intense in the region, partly due to global warming.",
+      "published_at": "2026-03-11T12:33:22Z",
+      "country_code": "ET",
+      "country_name": "Ethiopia"
+    },
+    {
+      "source": "BBC Europe",
+      "title": "Zelensky sends drone teams to Middle East, touting Ukraine's expertise",
+      "url": "https://www.bbc.com/news/articles/cgl5jeg5r15o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Ukrainian president said it was a \"good feeling\" when allies asked for help countering drones.",
+      "published_at": "2026-03-11T12:27:27Z",
+      "country_code": "UA",
+      "country_name": "Ukraine"
+    },
+    {
+      "source": "BBC World",
+      "title": "G7 welcomes potential record release of oil reserves in bid to curb soaring prices",
+      "url": "https://www.bbc.com/news/articles/cly093xxlzzo?at_medium=RSS&at_campaign=rss",
+      "summary": "The group of nations welcomes the idea of releasing oil in response to the surge in prices since the US-Israel war with Iran began",
+      "published_at": "2026-03-11T12:07:11Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Ukraine says it has hit Russian 'missile component' plant",
+      "url": "https://www.bbc.com/news/articles/ckg1eqw30l9o?at_medium=RSS&at_campaign=rss",
+      "summary": "Russia says the attack hit civilians and could not have been carried out without British help.",
+      "published_at": "2026-03-11T11:16:02Z",
+      "country_code": "RU",
+      "country_name": "Russia"
+    },
     {
       "source": "BBC Middle East",
       "title": "In maps: 12 days of strikes across the Middle East",
@@ -9,6 +45,24 @@
       "published_at": "2026-03-11T11:02:28Z",
       "country_code": "US",
       "country_name": "United States"
+    },
+    {
+      "source": "BBC Europe",
+      "title": "Wildlife to replace historical figures on banknotes - and you get a say",
+      "url": "https://www.bbc.com/news/articles/c4geyyg9en6o?at_medium=RSS&at_campaign=rss",
+      "summary": "The public will help choose which animals and birds will appear on the Bank of England's new notes.",
+      "published_at": "2026-03-11T10:36:33Z",
+      "country_code": "GB",
+      "country_name": "United Kingdom"
+    },
+    {
+      "source": "BBC World",
+      "title": "Mugabe's son drops bail request - what has happened to the family after losing power",
+      "url": "https://www.bbc.com/news/articles/cp32xx35lwwo?at_medium=RSS&at_campaign=rss",
+      "summary": "Bellarmine Mugabe will negotiate a plea deal after being accused of attempted murder and other charges in South Africa.",
+      "published_at": "2026-03-11T10:31:57Z",
+      "country_code": "ZA",
+      "country_name": "South Africa"
     },
     {
       "source": "BBC World",
@@ -30,7 +84,7 @@
     },
     {
       "source": "BBC Europe",
-      "title": "'I am no spy': Courier in Russian exploding parcels plot against UK talks to BBC",
+      "title": "Inside the Russian explosives plot that sent incendiary parcels to the UK",
       "url": "https://www.bbc.com/news/articles/cpd83zwqlvno?at_medium=RSS&at_campaign=rss",
       "summary": "Aleksandr Suranovas, charged with carrying out an act of terrorism for Russia, speaks to the BBC.",
       "published_at": "2026-03-11T06:00:08Z",
@@ -102,7 +156,7 @@
     },
     {
       "source": "BBC World",
-      "title": "Air strikes cause black rain and 'unprecedented' pollution in Tehran, scientists say",
+      "title": "Why air strikes on Tehran oil facilities are causing black rain",
       "url": "https://www.bbc.com/news/articles/cqxd1nv3re2o?at_medium=RSS&at_campaign=rss",
       "summary": "Air strikes have damaged at least four oil facilities since US-Israeli attacks on Iran began last month.",
       "published_at": "2026-03-10T19:39:58Z",
@@ -191,24 +245,6 @@
       "country_name": "Israel"
     },
     {
-      "source": "BBC US & Canada",
-      "title": "Family of child injured in Canada school shooting sues OpenAI",
-      "url": "https://www.bbc.com/news/articles/c309y25prnlo?at_medium=RSS&at_campaign=rss",
-      "summary": "The family alleges the firm knew the perpetrator was planning a \"mass casualty event\" but failed to contact the authorities.",
-      "published_at": "2026-03-10T11:27:55Z",
-      "country_code": "CA",
-      "country_name": "Canada"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "Uber rolls out women-only option in the US",
-      "url": "https://www.bbc.com/news/articles/cx2gvrzwdr7o?at_medium=RSS&at_campaign=rss",
-      "summary": "The feature allows both women riders and drivers to be matched with other women for trips on the ride-sharing app.",
-      "published_at": "2026-03-10T10:34:11Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC Asia",
       "title": "China exports surge despite Trump tariffs",
       "url": "https://www.bbc.com/news/articles/c3dzymj4yz7o?at_medium=RSS&at_campaign=rss",
@@ -223,15 +259,6 @@
       "url": "https://www.bbc.com/news/articles/c93j2dw72q9o?at_medium=RSS&at_campaign=rss",
       "summary": "The US president has tried to soothe nerves over oil and markets, but his comments still lack clarity, writes Anthony Zurcher.",
       "published_at": "2026-03-10T02:37:46Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "High-profile US real estate brothers convicted in sex trafficking case",
-      "url": "https://www.bbc.com/news/articles/c6271ngl014o?at_medium=RSS&at_campaign=rss",
-      "summary": "Prosecutors accused the brothers of using their wealth to lure women to parties and luxury homes, then taking advantage of them.",
-      "published_at": "2026-03-10T01:48:19Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -414,15 +441,6 @@
       "published_at": "2026-03-08T15:03:16Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "Watch: Huge flames in Tehran after air strikes on oil depots",
-      "url": "https://www.bbc.com/news/videos/c7vj9redqz2o?at_medium=RSS&at_campaign=rss",
-      "summary": "Social media footage shows flames leaping into the air and plumes of smoke above the city's skyline.",
-      "published_at": "2026-03-08T01:42:48Z",
-      "country_code": "IR",
-      "country_name": "Iran"
     },
     {
       "source": "BBC Asia",
@@ -714,15 +732,6 @@
     },
     {
       "source": "BBC Europe",
-      "title": "Ukraine in maps: Tracking the war with Russia",
-      "url": "https://www.bbc.com/news/articles/c0l0k4389g2o?at_medium=RSS&at_campaign=rss",
-      "summary": "How Russia's gradual gains in the face of fierce Ukrainian opposition have affected the front line in recent months.",
-      "published_at": "2026-02-24T08:01:33Z",
-      "country_code": "RU",
-      "country_name": "Russia"
-    },
-    {
-      "source": "BBC Europe",
       "title": "Bowen: Why Ukraine remains defiant and does not feel close to defeat",
       "url": "https://www.bbc.com/news/articles/cd9g2ggq4epo?at_medium=RSS&at_campaign=rss",
       "summary": "This month marks four gruelling years since the full‑scale invasion began and a genuine ceasefire still feels far from assured",
@@ -804,15 +813,6 @@
     },
     {
       "source": "BBC Africa",
-      "title": "A seat at the table or on the menu? Africa grapples with the new world order",
-      "url": "https://www.bbc.com/news/articles/c2d7wk98xkko?at_medium=RSS&at_campaign=rss",
-      "summary": "The US president has shaken up international relations and the continent is working out where it stands.",
-      "published_at": "2026-02-13T00:06:42Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC Africa",
       "title": "At the scene: Muslims killed 'over rejection of extremist ideology' in Nigeria",
       "url": "https://www.bbc.com/news/videos/czej7xpx0x9o?at_medium=RSS&at_campaign=rss",
       "summary": "At least 78 bodies have been buried, while it's feared that more than 170 people were killed altogether.",
@@ -825,12 +825,12 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 24
+      "news_count": 22
     },
     {
       "country_code": "IR",
       "country_name": "Iran",
-      "news_count": 13
+      "news_count": 12
     },
     {
       "country_code": "IL",
@@ -838,13 +838,18 @@
       "news_count": 6
     },
     {
+      "country_code": "ET",
+      "country_name": "Ethiopia",
+      "news_count": 5
+    },
+    {
       "country_code": "MX",
       "country_name": "Mexico",
       "news_count": 5
     },
     {
-      "country_code": "ET",
-      "country_name": "Ethiopia",
+      "country_code": "GB",
+      "country_name": "United Kingdom",
       "news_count": 4
     },
     {
@@ -863,8 +868,8 @@
       "news_count": 3
     },
     {
-      "country_code": "GB",
-      "country_name": "United Kingdom",
+      "country_code": "UA",
+      "country_name": "Ukraine",
       "news_count": 3
     },
     {
@@ -893,8 +898,8 @@
       "news_count": 2
     },
     {
-      "country_code": "UA",
-      "country_name": "Ukraine",
+      "country_code": "ZA",
+      "country_name": "South Africa",
       "news_count": 2
     },
     {
@@ -910,11 +915,6 @@
     {
       "country_code": "BR",
       "country_name": "Brazil",
-      "news_count": 1
-    },
-    {
-      "country_code": "CA",
-      "country_name": "Canada",
       "news_count": 1
     },
     {
@@ -955,11 +955,6 @@
     {
       "country_code": "VE",
       "country_name": "Venezuela",
-      "news_count": 1
-    },
-    {
-      "country_code": "ZA",
-      "country_name": "South Africa",
       "news_count": 1
     }
   ]
