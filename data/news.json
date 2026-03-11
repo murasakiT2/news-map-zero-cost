@@ -1,14 +1,41 @@
 {
-  "generated_at": "2026-03-10T23:47:39Z",
+  "generated_at": "2026-03-11T01:06:29Z",
   "articles": [
     {
+      "source": "BBC World",
+      "title": "Two more people connected to Iranian football team choose to stay in Australia",
+      "url": "https://www.bbc.com/news/articles/c93j2492d0do?at_medium=RSS&at_campaign=rss",
+      "summary": "It is understood most of the team left Australia on Tuesday night, but that a player and a member of support staff have joined five players …",
+      "published_at": "2026-03-11T00:09:51Z",
+      "country_code": "AU",
+      "country_name": "Australia"
+    },
+    {
       "source": "BBC US & Canada",
-      "title": "Defence secretary Hegseth warns of 'most intense' day of US war on Iran",
+      "title": "US strikes minelaying ships in Iran after warning of 'intense' day of bombing",
       "url": "https://www.bbc.com/news/articles/cgrzken84q5o?at_medium=RSS&at_campaign=rss",
-      "summary": "The Pentagon also said that over the course of the 10-day conflict, 140 service members were wounded, eight severely. Seven have died.",
-      "published_at": "2026-03-10T21:37:43Z",
+      "summary": "US intelligence assets believe Iran is preparing to deploy naval mines in the Strait of Hormuz, the world's busiest oil shipping channel.",
+      "published_at": "2026-03-11T00:06:06Z",
       "country_code": "US",
       "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "'Icky and heartbreaking': The $2 per hour worker behind the OnlyFans boom",
+      "url": "https://www.bbc.com/news/articles/cq571g9gd4lo?at_medium=RSS&at_campaign=rss",
+      "summary": "The BBC talks to a Philippines-based woman paid to pretend to be an OnlyFans star in online chats.",
+      "published_at": "2026-03-11T00:00:50Z",
+      "country_code": "PH",
+      "country_name": "Philippines"
+    },
+    {
+      "source": "BBC World",
+      "title": "From New Zealand to Orkney: Why we brought this classic car half way round the world",
+      "url": "https://www.bbc.com/news/articles/cge8vln5pp5o?at_medium=RSS&at_campaign=rss",
+      "summary": "Dutchman Hans Compter travelled around the world to deliver the Austin to Cathleen Hourie in Orkney.",
+      "published_at": "2026-03-10T23:00:56Z",
+      "country_code": "NZ",
+      "country_name": "New Zealand"
     },
     {
       "source": "BBC US & Canada",
@@ -18,15 +45,6 @@
       "published_at": "2026-03-10T21:28:09Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "Two more connected to Iranian football team stay in Australia, BBC understands",
-      "url": "https://www.bbc.com/news/articles/c93j2492d0do?at_medium=RSS&at_campaign=rss",
-      "summary": "It is understood most of the team left Australia on Tuesday night after losing their Sunday game in the Asian Cup.",
-      "published_at": "2026-03-10T20:39:21Z",
-      "country_code": "AU",
-      "country_name": "Australia"
     },
     {
       "source": "BBC World",
@@ -155,7 +173,7 @@
       "country_name": "Israel"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "Family of child injured in Canada school shooting sues OpenAI",
       "url": "https://www.bbc.com/news/articles/c309y25prnlo?at_medium=RSS&at_campaign=rss",
       "summary": "The family alleges the firm knew the perpetrator was planning a \"mass casualty event\" but failed to contact the authorities.",
@@ -335,7 +353,7 @@
       "country_name": "Iran"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "Spain's migrants welcome amnesty: 'It will help us in every way'",
       "url": "https://www.bbc.com/news/articles/crk8rdz5131o?at_medium=RSS&at_campaign=rss",
       "summary": "Madrid cites humanitarian and economic reasons to give undocumented workers legal status.",
@@ -947,6 +965,11 @@
       "news_count": 2
     },
     {
+      "country_code": "NZ",
+      "country_name": "New Zealand",
+      "news_count": 2
+    },
+    {
       "country_code": "SD",
       "country_name": "Sudan",
       "news_count": 2
@@ -997,8 +1020,8 @@
       "news_count": 1
     },
     {
-      "country_code": "NZ",
-      "country_name": "New Zealand",
+      "country_code": "PH",
+      "country_name": "Philippines",
       "news_count": 1
     },
     {
