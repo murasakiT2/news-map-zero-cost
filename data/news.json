@@ -1,6 +1,33 @@
 {
-  "generated_at": "2026-03-12T13:56:00Z",
+  "generated_at": "2026-03-12T14:42:49Z",
   "articles": [
+    {
+      "source": "BBC Middle East",
+      "title": "Israel pounds Beirut suburbs after Hezbollah launches rocket barrage",
+      "url": "https://www.bbc.com/news/articles/cx2gjq8qd09o?at_medium=RSS&at_campaign=rss",
+      "summary": "Some Israeli strikes also hit other parts of the Lebanese capital, with eight people reportedly killed along the seafront.",
+      "published_at": "2026-03-12T14:21:49Z",
+      "country_code": "IL",
+      "country_name": "Israel"
+    },
+    {
+      "source": "BBC Middle East",
+      "title": "Iran steps up attacks on energy targets as tankers hit",
+      "url": "https://www.bbc.com/news/articles/c743gpd9z72o?at_medium=RSS&at_campaign=rss",
+      "summary": "Iranian attacks are reported in Bahrain and Oman as two foreign fuel tankers are hit near Iraq.",
+      "published_at": "2026-03-12T14:02:55Z",
+      "country_code": "IR",
+      "country_name": "Iran"
+    },
+    {
+      "source": "BBC World",
+      "title": "How Iran war laid bare the world's reliance on Gulf oil and gas",
+      "url": "https://www.bbc.com/news/articles/c15x1y8d37vo?at_medium=RSS&at_campaign=rss",
+      "summary": "Countries around the world are feeling the impact of the conflict and the resulting energy price shock.",
+      "published_at": "2026-03-12T13:57:56Z",
+      "country_code": "IR",
+      "country_name": "Iran"
+    },
     {
       "source": "BBC World",
       "title": "Nineteen jailed over deadly Moscow concert attack",
@@ -12,15 +39,6 @@
     },
     {
       "source": "BBC World",
-      "title": "How Iran war laid bare the world's reliance on Gulf oil and gas",
-      "url": "https://www.bbc.com/news/articles/c15x1y8d37vo?at_medium=RSS&at_campaign=rss",
-      "summary": "Countries around the world are feeling the impact of the conflict and the resulting energy price shock.",
-      "published_at": "2026-03-12T13:11:26Z",
-      "country_code": "IR",
-      "country_name": "Iran"
-    },
-    {
-      "source": "BBC Middle East",
       "title": "'What if we're left with ruins?': Doubts creep in for Iranians who supported war",
       "url": "https://www.bbc.com/news/articles/c3094g50rnvo?at_medium=RSS&at_campaign=rss",
       "summary": "Teachers, engineers and shopkeepers tell the BBC they fear Iran falling into chaos.",
@@ -74,7 +92,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Middle East",
       "title": "'Fingers on the trigger': Deadly warnings for Iranians being urged to take action",
       "url": "https://www.bbc.com/news/articles/c5y5rldz897o?at_medium=RSS&at_campaign=rss",
       "summary": "Iran's police chief has warned that his forces would treat anyone taking to the streets \"at the enemy's request\" as an enemy.",
@@ -810,15 +828,6 @@
       "published_at": "2026-02-05T17:15:30Z",
       "country_code": "NG",
       "country_name": "Nigeria"
-    },
-    {
-      "source": "BBC Africa",
-      "title": "South African national park closed due to floods",
-      "url": "https://www.bbc.com/news/videos/c20d9qdz7zwo?at_medium=RSS&at_campaign=rss",
-      "summary": "Ongoing floods in the north-eastern provinces of South Africa has led to the closure of the world-famous Kruger National Park.",
-      "published_at": "2026-01-16T16:52:14Z",
-      "country_code": "ZA",
-      "country_name": "South Africa"
     }
   ],
   "regions": [
@@ -830,7 +839,7 @@
     {
       "country_code": "IR",
       "country_name": "Iran",
-      "news_count": 12
+      "news_count": 13
     },
     {
       "country_code": "ET",
@@ -840,6 +849,11 @@
     {
       "country_code": "GB",
       "country_name": "United Kingdom",
+      "news_count": 4
+    },
+    {
+      "country_code": "IL",
+      "country_name": "Israel",
       "news_count": 4
     },
     {
@@ -863,11 +877,6 @@
       "news_count": 3
     },
     {
-      "country_code": "IL",
-      "country_name": "Israel",
-      "news_count": 3
-    },
-    {
       "country_code": "NG",
       "country_name": "Nigeria",
       "news_count": 3
@@ -885,11 +894,6 @@
     {
       "country_code": "UA",
       "country_name": "Ukraine",
-      "news_count": 2
-    },
-    {
-      "country_code": "ZA",
-      "country_name": "South Africa",
       "news_count": 2
     },
     {
@@ -945,6 +949,11 @@
     {
       "country_code": "VE",
       "country_name": "Venezuela",
+      "news_count": 1
+    },
+    {
+      "country_code": "ZA",
+      "country_name": "South Africa",
       "news_count": 1
     }
   ]
