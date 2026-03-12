@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-03-12T19:35:53Z",
+  "generated_at": "2026-03-12T20:23:52Z",
   "articles": [
+    {
+      "source": "BBC US & Canada",
+      "title": "King expresses 'concern' over Alberta separatists in meeting with First Nations chiefs",
+      "url": "https://www.bbc.com/news/articles/cd9g4dpjwgvo?at_medium=RSS&at_campaign=rss",
+      "summary": "One First Nation has sued the province of Alberta, arguing that allowing a possible referendum on separating from Canada is a violation of i…",
+      "published_at": "2026-03-12T20:04:44Z",
+      "country_code": "CA",
+      "country_name": "Canada"
+    },
     {
       "source": "BBC World",
       "title": "Iran's new supreme leader vows to block Strait of Hormuz in first statement",
@@ -914,6 +923,11 @@
     {
       "country_code": "BR",
       "country_name": "Brazil",
+      "news_count": 1
+    },
+    {
+      "country_code": "CA",
+      "country_name": "Canada",
       "news_count": 1
     },
     {
