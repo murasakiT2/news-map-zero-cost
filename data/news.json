@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-03-12T06:08:58Z",
+  "generated_at": "2026-03-12T07:26:56Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "War in Ukraine spills into Hungarian election campaign",
+      "url": "https://www.bbc.com/news/articles/crm8rxwyyz8o?at_medium=RSS&at_campaign=rss",
+      "summary": "Hungary is going to the polls soon and Prime Minister Viktor Orbán has one public enemy in his sights - Ukraine's president.",
+      "published_at": "2026-03-12T06:00:39Z",
+      "country_code": "UA",
+      "country_name": "Ukraine"
+    },
     {
       "source": "BBC Middle East",
       "title": "Explosions reported on two foreign vessels in the Gulf, authorities say",
@@ -191,7 +200,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Africa",
       "title": "Mugabe's son drops bail request - what has happened to the family after losing power",
       "url": "https://www.bbc.com/news/articles/cp32xx35lwwo?at_medium=RSS&at_campaign=rss",
       "summary": "Bellarmine Mugabe will negotiate a plea deal after being accused of attempted murder and other charges in South Africa.",
@@ -342,15 +351,6 @@
       "published_at": "2026-03-10T17:50:52Z",
       "country_code": "RU",
       "country_name": "Russia"
-    },
-    {
-      "source": "BBC World",
-      "title": "BBC visits key Dubai port in Iran's firing line",
-      "url": "https://www.bbc.com/news/videos/cgrzk874171o?at_medium=RSS&at_campaign=rss",
-      "summary": "Trade at the Middle East's biggest port has been hit hard since Iran's blockade of the Strait of Hormuz began.",
-      "published_at": "2026-03-10T17:07:01Z",
-      "country_code": "AE",
-      "country_name": "United Arab Emirates"
     },
     {
       "source": "BBC Europe",
@@ -722,15 +722,6 @@
       "country_name": "Japan"
     },
     {
-      "source": "BBC Europe",
-      "title": "The AI videos supercharging Russia's online disinformation campaigns",
-      "url": "https://www.bbc.com/news/articles/cx2r7grrdwzo?at_medium=RSS&at_campaign=rss",
-      "summary": "Security experts have warned that Western governments are poorly equipped to counter a new frontier of online disinformation.",
-      "published_at": "2026-02-27T07:53:39Z",
-      "country_code": "RU",
-      "country_name": "Russia"
-    },
-    {
       "source": "BBC Africa",
       "title": "Zimbabwe eliminated from World Cup after defeat to India",
       "url": "https://www.bbc.com/sport/cricket/articles/ce3gyx49z52o?at_medium=RSS&at_campaign=rss",
@@ -894,11 +885,6 @@
       "news_count": 4
     },
     {
-      "country_code": "RU",
-      "country_name": "Russia",
-      "news_count": 4
-    },
-    {
       "country_code": "CN",
       "country_name": "China",
       "news_count": 3
@@ -906,6 +892,11 @@
     {
       "country_code": "IT",
       "country_name": "Italy",
+      "news_count": 3
+    },
+    {
+      "country_code": "RU",
+      "country_name": "Russia",
       "news_count": 3
     },
     {
@@ -929,14 +920,14 @@
       "news_count": 2
     },
     {
-      "country_code": "ZA",
-      "country_name": "South Africa",
+      "country_code": "UA",
+      "country_name": "Ukraine",
       "news_count": 2
     },
     {
-      "country_code": "AE",
-      "country_name": "United Arab Emirates",
-      "news_count": 1
+      "country_code": "ZA",
+      "country_name": "South Africa",
+      "news_count": 2
     },
     {
       "country_code": "BR",
@@ -966,11 +957,6 @@
     {
       "country_code": "SG",
       "country_name": "Singapore",
-      "news_count": 1
-    },
-    {
-      "country_code": "UA",
-      "country_name": "Ukraine",
       "news_count": 1
     },
     {
