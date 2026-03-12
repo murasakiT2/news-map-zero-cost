@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-12T15:47:06Z",
+  "generated_at": "2026-03-12T16:49:43Z",
   "articles": [
     {
       "source": "BBC World",
@@ -354,15 +354,6 @@
     },
     {
       "source": "BBC Asia",
-      "title": "Australian designer Katie Perry wins trademark appeal vs Katy Perry",
-      "url": "https://www.bbc.com/news/articles/c9dn8l021l2o?at_medium=RSS&at_campaign=rss",
-      "summary": "The US singer lost the case in 2023 and later won on appeal, but now judges have ruled against her.",
-      "published_at": "2026-03-11T05:36:25Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC Asia",
       "title": "China and North Korea to reopen passenger train service after pandemic halt",
       "url": "https://www.bbc.com/news/articles/cdxz8v58xvyo?at_medium=RSS&at_campaign=rss",
       "summary": "Tickets for the first train departing on Thursday have reportedly sold out.",
@@ -486,15 +477,6 @@
       "published_at": "2026-03-10T01:05:39Z",
       "country_code": "IR",
       "country_name": "Iran"
-    },
-    {
-      "source": "BBC Asia",
-      "title": "Why is China set to approve a new law promoting 'ethnic unity'?",
-      "url": "https://www.bbc.com/news/articles/c6271gxpdkzo?at_medium=RSS&at_campaign=rss",
-      "summary": "A law that could threaten the rights of minority groups is a sign of the direction Xi is taking China.",
-      "published_at": "2026-03-10T00:24:39Z",
-      "country_code": "CN",
-      "country_name": "China"
     },
     {
       "source": "BBC Middle East",
@@ -834,7 +816,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 29
+      "news_count": 28
     },
     {
       "country_code": "IR",
@@ -872,14 +854,14 @@
       "news_count": 4
     },
     {
-      "country_code": "CN",
-      "country_name": "China",
-      "news_count": 3
-    },
-    {
       "country_code": "NG",
       "country_name": "Nigeria",
       "news_count": 3
+    },
+    {
+      "country_code": "CN",
+      "country_name": "China",
+      "news_count": 2
     },
     {
       "country_code": "IT",
