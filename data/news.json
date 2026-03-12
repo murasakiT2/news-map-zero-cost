@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-12T03:42:20Z",
+  "generated_at": "2026-03-12T05:11:20Z",
   "articles": [
     {
       "source": "BBC World",
@@ -189,6 +189,24 @@
       "published_at": "2026-03-11T10:31:57Z",
       "country_code": "ZA",
       "country_name": "South Africa"
+    },
+    {
+      "source": "BBC Asia",
+      "title": "India's top court allows removal of life support of man in vegetative state",
+      "url": "https://www.bbc.com/news/articles/c62v64rz6mko?at_medium=RSS&at_campaign=rss",
+      "summary": "Harish Rana has been in a vegetative state since 2013, when he fell from a balcony and suffered head injuries.",
+      "published_at": "2026-03-11T09:28:18Z",
+      "country_code": "IN",
+      "country_name": "India"
+    },
+    {
+      "source": "BBC Asia",
+      "title": "India's IndiGo airline CEO resigns months after mass cancellation crisis",
+      "url": "https://www.bbc.com/news/articles/cgqg59vgw25o?at_medium=RSS&at_campaign=rss",
+      "summary": "The airline has said Peiter Elbers stepped down for \"personal reasons\", without sharing further details.",
+      "published_at": "2026-03-11T08:40:08Z",
+      "country_code": "IN",
+      "country_name": "India"
     },
     {
       "source": "BBC World",
@@ -443,15 +461,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Asia",
-      "title": "India erupts in celebration after T20 cricket World Cup victory",
-      "url": "https://www.bbc.com/news/articles/c5ykz3rzrk2o?at_medium=RSS&at_campaign=rss",
-      "summary": "India defeated New Zealand by 96 runs in the western city of Ahmedabad, on Sunday, to defend their T20 World Cup title.",
-      "published_at": "2026-03-09T07:16:40Z",
-      "country_code": "IN",
-      "country_name": "India"
-    },
-    {
       "source": "BBC Middle East",
       "title": "'Night turned into day': Iranians tell of strikes on oil depots",
       "url": "https://www.bbc.com/news/articles/clygpxq41l3o?at_medium=RSS&at_campaign=rss",
@@ -542,7 +551,7 @@
       "country_name": "Iran"
     },
     {
-      "source": "BBC Asia",
+      "source": "BBC Latin America",
       "title": "China spent years building ties in Latin America. Can Trump make room for the US?",
       "url": "https://www.bbc.com/news/articles/c5yvw0zwpd5o?at_medium=RSS&at_campaign=rss",
       "summary": "US President Donald Trump will meet with ideologically-aligned Latin American leaders to try and counter China's influence in the region.",
@@ -880,6 +889,11 @@
       "news_count": 4
     },
     {
+      "country_code": "IN",
+      "country_name": "India",
+      "news_count": 4
+    },
+    {
       "country_code": "RU",
       "country_name": "Russia",
       "news_count": 4
@@ -887,11 +901,6 @@
     {
       "country_code": "CN",
       "country_name": "China",
-      "news_count": 3
-    },
-    {
-      "country_code": "IN",
-      "country_name": "India",
       "news_count": 3
     },
     {
