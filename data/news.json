@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-03-12T14:42:49Z",
+  "generated_at": "2026-03-12T15:47:06Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Death toll from Ethiopia floods and landslides rises to more than 100",
+      "url": "https://www.bbc.com/news/articles/ce947x4m0e1o?at_medium=RSS&at_campaign=rss",
+      "summary": "Forecasters say storms are becoming more intense in the region, partly due to global warming.",
+      "published_at": "2026-03-12T14:46:09Z",
+      "country_code": "ET",
+      "country_name": "Ethiopia"
+    },
     {
       "source": "BBC Middle East",
       "title": "Israel pounds Beirut suburbs after Hezbollah launches rocket barrage",
@@ -72,15 +81,6 @@
       "published_at": "2026-03-12T11:44:37Z",
       "country_code": "IR",
       "country_name": "Iran"
-    },
-    {
-      "source": "BBC World",
-      "title": "Death toll from Ethiopia floods and landslides rises to more than 60",
-      "url": "https://www.bbc.com/news/articles/ce947x4m0e1o?at_medium=RSS&at_campaign=rss",
-      "summary": "Forecasters say storms are becoming more intense in the region, partly due to global warming.",
-      "published_at": "2026-03-12T10:33:24Z",
-      "country_code": "ET",
-      "country_name": "Ethiopia"
     },
     {
       "source": "BBC Middle East",
@@ -178,6 +178,15 @@
       "url": "https://www.bbc.com/news/articles/cr4576v66kno?at_medium=RSS&at_campaign=rss",
       "summary": "Modelling agent used businesses to recruit girls and arrange US visas to visit Jeffrey Epstein, Brazilian women tell BBC.",
       "published_at": "2026-03-12T00:05:52Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "A small US grocer is calling out the lower prices at big chains",
+      "url": "https://www.bbc.com/news/articles/cr57g1ddqmdo?at_medium=RSS&at_campaign=rss",
+      "summary": "It is 'impossible for us to compete', says the boss of a New York grocery store.",
+      "published_at": "2026-03-12T00:02:54Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -362,15 +371,6 @@
       "country_name": "China"
     },
     {
-      "source": "BBC US & Canada",
-      "title": "Woman charged with attempted murder after shooting at Rihanna's home",
-      "url": "https://www.bbc.com/news/articles/cgjze644wjvo?at_medium=RSS&at_campaign=rss",
-      "summary": "The woman posted about the singer online prior to the attack, the BBC's US news partner CBS reports.",
-      "published_at": "2026-03-11T03:10:09Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC Asia",
       "title": "Meghan to appear at £1,400 per person 'girls' weekend' in Australia",
       "url": "https://www.bbc.com/news/articles/cwykl5d02rno?at_medium=RSS&at_campaign=rss",
@@ -423,15 +423,6 @@
       "published_at": "2026-03-10T18:33:03Z",
       "country_code": "IL",
       "country_name": "Israel"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "Canada police investigate after shots fired at US consulate in Toronto",
-      "url": "https://www.bbc.com/news/articles/cwy8lrq9rg2o?at_medium=RSS&at_campaign=rss",
-      "summary": "It comes as Norwegian police investigate an explosion that occurred outside the US embassy in Oslo on Sunday.",
-      "published_at": "2026-03-10T18:26:33Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC Europe",
@@ -828,13 +819,22 @@
       "published_at": "2026-02-05T17:15:30Z",
       "country_code": "NG",
       "country_name": "Nigeria"
+    },
+    {
+      "source": "BBC Africa",
+      "title": "South African national park closed due to floods",
+      "url": "https://www.bbc.com/news/videos/c20d9qdz7zwo?at_medium=RSS&at_campaign=rss",
+      "summary": "Ongoing floods in the north-eastern provinces of South Africa has led to the closure of the world-famous Kruger National Park.",
+      "published_at": "2026-01-16T16:52:14Z",
+      "country_code": "ZA",
+      "country_name": "South Africa"
     }
   ],
   "regions": [
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 30
+      "news_count": 29
     },
     {
       "country_code": "IR",
@@ -897,6 +897,11 @@
       "news_count": 2
     },
     {
+      "country_code": "ZA",
+      "country_name": "South Africa",
+      "news_count": 2
+    },
+    {
       "country_code": "AE",
       "country_name": "United Arab Emirates",
       "news_count": 1
@@ -949,11 +954,6 @@
     {
       "country_code": "VE",
       "country_name": "Venezuela",
-      "news_count": 1
-    },
-    {
-      "country_code": "ZA",
-      "country_name": "South Africa",
       "news_count": 1
     }
   ]
