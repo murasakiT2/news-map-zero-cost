@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-03-12T11:47:53Z",
+  "generated_at": "2026-03-12T12:35:23Z",
   "articles": [
+    {
+      "source": "BBC US & Canada",
+      "title": "Questions mount for Hegseth over possible US involvement in strike on Iranian school",
+      "url": "https://www.bbc.com/news/articles/cn87ndd4rgyo?at_medium=RSS&at_campaign=rss",
+      "summary": "Democrats have written to ask the defence secretary whether the US was responsible, but he says the issue is being investigated.",
+      "published_at": "2026-03-12T12:22:22Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC Europe",
+      "title": "Russian court convicts 19 people over deadly Moscow concert attack",
+      "url": "https://www.bbc.com/news/articles/c0j5lx75vg3o?at_medium=RSS&at_campaign=rss",
+      "summary": "Gunmen opened fire at a concert hall near Moscow in 2024, killing 145 and injuring more than 500, the deadliest mass shooting in Russia in t…",
+      "published_at": "2026-03-12T12:00:27Z",
+      "country_code": "RU",
+      "country_name": "Russia"
+    },
     {
       "source": "BBC Middle East",
       "title": "In maps: Thirteen days of attacks in Iran and the Middle East",
@@ -128,7 +146,7 @@
       "country_name": "Spain"
     },
     {
-      "source": "BBC Africa",
+      "source": "BBC US & Canada",
       "title": "New US ambassador to South Africa summoned over 'undiplomatic remarks'",
       "url": "https://www.bbc.com/news/articles/c14m1vzmxz3o?at_medium=RSS&at_campaign=rss",
       "summary": "Leo Brent Bozell apologises after weighing in on a dispute rooted in the country's apartheid past.",
@@ -542,15 +560,6 @@
       "country_name": "Iran"
     },
     {
-      "source": "BBC US & Canada",
-      "title": "Canada's Mark Carney tries to strike a balance on Iran",
-      "url": "https://www.bbc.com/news/articles/cvg1124027go?at_medium=RSS&at_campaign=rss",
-      "summary": "The Iran war is posing a test for the Canadian prime minister's \"pragmatic but principled\" approach to world affairs.",
-      "published_at": "2026-03-07T02:13:25Z",
-      "country_code": "IR",
-      "country_name": "Iran"
-    },
-    {
       "source": "BBC Latin America",
       "title": "China spent years building ties in Latin America. Can Trump make room for the US?",
       "url": "https://www.bbc.com/news/articles/c5yvw0zwpd5o?at_medium=RSS&at_campaign=rss",
@@ -825,12 +834,12 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 29
+      "news_count": 30
     },
     {
       "country_code": "IR",
       "country_name": "Iran",
-      "news_count": 12
+      "news_count": 11
     },
     {
       "country_code": "ET",
@@ -858,13 +867,13 @@
       "news_count": 4
     },
     {
-      "country_code": "CN",
-      "country_name": "China",
-      "news_count": 3
-    },
-    {
       "country_code": "RU",
       "country_name": "Russia",
+      "news_count": 4
+    },
+    {
+      "country_code": "CN",
+      "country_name": "China",
       "news_count": 3
     },
     {
