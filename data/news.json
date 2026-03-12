@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-03-12T16:49:43Z",
+  "generated_at": "2026-03-12T17:41:42Z",
   "articles": [
+    {
+      "source": "BBC Middle East",
+      "title": "'Not appropriate' for Iran to be at World Cup - Trump",
+      "url": "https://www.bbc.com/sport/football/articles/c9q5rvp58yxo?at_medium=RSS&at_campaign=rss",
+      "summary": "US president Donald Trump says Iran are \"welcome\" at the 2026 World Cup but it is not \"appropriate\" for them to be there.",
+      "published_at": "2026-03-12T16:37:57Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "Death toll from Ethiopia floods and landslides rises to more than 100",
@@ -234,15 +243,6 @@
       "published_at": "2026-03-11T16:45:28Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC Middle East",
-      "title": "Iranian minister says country will not play in World Cup",
-      "url": "https://www.bbc.com/sport/football/articles/cx2d5r92rk0o?at_medium=RSS&at_campaign=rss",
-      "summary": "Iran is not in a position to participate in the 2026 World Cup, says the country's Minister of Sports and Youth.",
-      "published_at": "2026-03-11T16:15:39Z",
-      "country_code": "IR",
-      "country_name": "Iran"
     },
     {
       "source": "BBC Middle East",
@@ -816,12 +816,12 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 28
+      "news_count": 29
     },
     {
       "country_code": "IR",
       "country_name": "Iran",
-      "news_count": 13
+      "news_count": 12
     },
     {
       "country_code": "ET",
