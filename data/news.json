@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-03-12T17:41:42Z",
+  "generated_at": "2026-03-12T18:39:06Z",
   "articles": [
+    {
+      "source": "BBC Europe",
+      "title": "France's ghost car scandal that allowed one million illegal vehicles onto the roads",
+      "url": "https://www.bbc.com/news/articles/cpqw0jgn5xgo?at_medium=RSS&at_campaign=rss",
+      "summary": "Fake dealerships were manipulating the state vehicle licensing agency's official records, France's auditor has found.",
+      "published_at": "2026-03-12T17:44:09Z",
+      "country_code": "FR",
+      "country_name": "France"
+    },
     {
       "source": "BBC Middle East",
       "title": "'Not appropriate' for Iran to be at World Cup - Trump",
@@ -901,6 +910,11 @@
     {
       "country_code": "ES",
       "country_name": "Spain",
+      "news_count": 1
+    },
+    {
+      "country_code": "FR",
+      "country_name": "France",
       "news_count": 1
     },
     {
