@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-12T01:03:33Z",
+  "generated_at": "2026-03-12T03:42:20Z",
   "articles": [
     {
       "source": "BBC World",
@@ -189,15 +189,6 @@
       "published_at": "2026-03-11T10:31:57Z",
       "country_code": "ZA",
       "country_name": "South Africa"
-    },
-    {
-      "source": "BBC World",
-      "title": "India's top court allows removal of life support of man in vegetative state",
-      "url": "https://www.bbc.com/news/articles/c62v64rz6mko?at_medium=RSS&at_campaign=rss",
-      "summary": "Harish Rana has been in a vegetative state since 2013, when he fell from a balcony and suffered head injuries.",
-      "published_at": "2026-03-11T09:28:18Z",
-      "country_code": "IN",
-      "country_name": "India"
     },
     {
       "source": "BBC World",
@@ -889,11 +880,6 @@
       "news_count": 4
     },
     {
-      "country_code": "IN",
-      "country_name": "India",
-      "news_count": 4
-    },
-    {
       "country_code": "RU",
       "country_name": "Russia",
       "news_count": 4
@@ -901,6 +887,11 @@
     {
       "country_code": "CN",
       "country_name": "China",
+      "news_count": 3
+    },
+    {
+      "country_code": "IN",
+      "country_name": "India",
       "news_count": 3
     },
     {
