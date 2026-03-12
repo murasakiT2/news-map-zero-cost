@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-03-12T05:11:20Z",
+  "generated_at": "2026-03-12T06:08:58Z",
   "articles": [
+    {
+      "source": "BBC Middle East",
+      "title": "Explosions reported on two foreign vessels in the Gulf, authorities say",
+      "url": "https://www.bbc.com/news/articles/cr5l988qr47o?at_medium=RSS&at_campaign=rss",
+      "summary": "Pressure has intensified on the strait, one of the world's most important shipping lanes, since Israel and the US attacked Iran late last mo…",
+      "published_at": "2026-03-12T05:56:00Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "Justified or not? US military families on fears of Iran war",
@@ -34,15 +43,6 @@
       "url": "https://www.bbc.com/news/articles/c5yr0576ygvo?at_medium=RSS&at_campaign=rss",
       "summary": "Militaries are often cagey about their cyber activities. But the US has hinted at the role it has played.",
       "published_at": "2026-03-12T00:02:46Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC Middle East",
-      "title": "Ships hit in Strait of Hormuz as countries agree to release emergency oil reserves",
-      "url": "https://www.bbc.com/news/articles/cr5l988qr47o?at_medium=RSS&at_campaign=rss",
-      "summary": "Pressure has intensified on the strait, one of the world's most important shipping lanes, since Israel and the US attacked Iran late last mo…",
-      "published_at": "2026-03-11T23:07:46Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -126,6 +126,15 @@
       "published_at": "2026-03-11T15:38:35Z",
       "country_code": "US",
       "country_name": "United States"
+    },
+    {
+      "source": "BBC Asia",
+      "title": "UK couple die after being pulled from water at Australian beach",
+      "url": "https://www.bbc.com/news/articles/ce8n52p3mr4o?at_medium=RSS&at_campaign=rss",
+      "summary": "Local police say members of the public pulled the couple from the water and tried to save them.",
+      "published_at": "2026-03-11T15:12:50Z",
+      "country_code": "GB",
+      "country_name": "United Kingdom"
     },
     {
       "source": "BBC World",
@@ -448,15 +457,6 @@
       "url": "https://www.bbc.com/news/articles/cvg548lyjnyo?at_medium=RSS&at_campaign=rss",
       "summary": "A US Tomahawk missile hit a military base near a primary school in southern Iran where Iranian authorities said 168 people were killed, expe…",
       "published_at": "2026-03-09T15:09:05Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC Asia",
-      "title": "India offered sanctuary to Iranian ship three days before US sank it",
-      "url": "https://www.bbc.com/news/articles/c2e4yxj0pd3o?at_medium=RSS&at_campaign=rss",
-      "summary": "India says Tehran sought permission to dock three ships on the day the US and Israel began a war on Iran.",
-      "published_at": "2026-03-09T12:04:29Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -861,7 +861,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 31
+      "news_count": 30
     },
     {
       "country_code": "IR",
@@ -879,14 +879,14 @@
       "news_count": 5
     },
     {
-      "country_code": "MX",
-      "country_name": "Mexico",
+      "country_code": "GB",
+      "country_name": "United Kingdom",
       "news_count": 5
     },
     {
-      "country_code": "GB",
-      "country_name": "United Kingdom",
-      "news_count": 4
+      "country_code": "MX",
+      "country_name": "Mexico",
+      "news_count": 5
     },
     {
       "country_code": "IN",
