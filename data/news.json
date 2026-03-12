@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-03-12T11:03:47Z",
+  "generated_at": "2026-03-12T11:47:53Z",
   "articles": [
+    {
+      "source": "BBC Middle East",
+      "title": "In maps: Thirteen days of attacks in Iran and the Middle East",
+      "url": "https://www.bbc.com/news/articles/c4g0pnnj8xyo?at_medium=RSS&at_campaign=rss",
+      "summary": "Three more civilian ships were attacked in the Gulf overnight, killing at least one person.",
+      "published_at": "2026-03-12T11:44:37Z",
+      "country_code": "IR",
+      "country_name": "Iran"
+    },
     {
       "source": "BBC World",
       "title": "Death toll from Ethiopia floods and landslides rises to more than 60",
@@ -9,6 +18,15 @@
       "published_at": "2026-03-12T10:33:24Z",
       "country_code": "ET",
       "country_name": "Ethiopia"
+    },
+    {
+      "source": "BBC World",
+      "title": "'Fingers on the trigger': Deadly warnings for Iranians being urged to take action",
+      "url": "https://www.bbc.com/news/articles/c5y5rldz897o?at_medium=RSS&at_campaign=rss",
+      "summary": "Iran's police chief has warned that his forces would treat anyone taking to the streets \"at the enemy's request\" as an enemy.",
+      "published_at": "2026-03-12T10:07:43Z",
+      "country_code": "IR",
+      "country_name": "Iran"
     },
     {
       "source": "BBC World",
@@ -225,15 +243,6 @@
       "published_at": "2026-03-11T11:16:02Z",
       "country_code": "RU",
       "country_name": "Russia"
-    },
-    {
-      "source": "BBC Middle East",
-      "title": "In maps: 12 days of strikes across the Middle East",
-      "url": "https://www.bbc.com/news/articles/c4g0pnnj8xyo?at_medium=RSS&at_campaign=rss",
-      "summary": "The US says it \"eliminated\" 16 Iranian ships as Israel carried out further attacks in Lebanon and Iran.",
-      "published_at": "2026-03-11T11:02:28Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC Africa",
@@ -632,15 +641,6 @@
       "country_name": "Morocco"
     },
     {
-      "source": "BBC Middle East",
-      "title": "Iran's high-risk war strategy seems to centre on endurance and deterrence",
-      "url": "https://www.bbc.com/news/articles/c93jj3gz8x0o?at_medium=RSS&at_campaign=rss",
-      "summary": "Tehran's approach appears to rest on a belief it can absorb strikes longer than its adversaries sustain pain and costs, writes BBC Persian's…",
-      "published_at": "2026-03-05T18:40:22Z",
-      "country_code": "IR",
-      "country_name": "Iran"
-    },
-    {
       "source": "BBC Africa",
       "title": "Ethiopia experiments with 'smart' police stations that have no officers",
       "url": "https://www.bbc.com/news/articles/cjd9jgnrdpko?at_medium=RSS&at_campaign=rss",
@@ -825,12 +825,12 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 30
+      "news_count": 29
     },
     {
       "country_code": "IR",
       "country_name": "Iran",
-      "news_count": 11
+      "news_count": 12
     },
     {
       "country_code": "ET",
