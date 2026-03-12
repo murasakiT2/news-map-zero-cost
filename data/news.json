@@ -1,23 +1,50 @@
 {
-  "generated_at": "2026-03-12T12:35:23Z",
+  "generated_at": "2026-03-12T13:56:00Z",
   "articles": [
     {
-      "source": "BBC US & Canada",
+      "source": "BBC World",
+      "title": "Nineteen jailed over deadly Moscow concert attack",
+      "url": "https://www.bbc.com/news/articles/c0j5lx75vg3o?at_medium=RSS&at_campaign=rss",
+      "summary": "Gunmen opened fire at Crocus City Concert hall near Moscow in 2024, killing 149 and injuring more than 500.",
+      "published_at": "2026-03-12T13:29:01Z",
+      "country_code": "RU",
+      "country_name": "Russia"
+    },
+    {
+      "source": "BBC World",
+      "title": "How Iran war laid bare the world's reliance on Gulf oil and gas",
+      "url": "https://www.bbc.com/news/articles/c15x1y8d37vo?at_medium=RSS&at_campaign=rss",
+      "summary": "Countries around the world are feeling the impact of the conflict and the resulting energy price shock.",
+      "published_at": "2026-03-12T13:11:26Z",
+      "country_code": "IR",
+      "country_name": "Iran"
+    },
+    {
+      "source": "BBC Middle East",
+      "title": "'What if we're left with ruins?': Doubts creep in for Iranians who supported war",
+      "url": "https://www.bbc.com/news/articles/c3094g50rnvo?at_medium=RSS&at_campaign=rss",
+      "summary": "Teachers, engineers and shopkeepers tell the BBC they fear Iran falling into chaos.",
+      "published_at": "2026-03-12T12:49:14Z",
+      "country_code": "IR",
+      "country_name": "Iran"
+    },
+    {
+      "source": "BBC Africa",
+      "title": "One house, two faiths, one fasting season",
+      "url": "https://www.bbc.com/news/videos/cwygeypnevxo?at_medium=RSS&at_campaign=rss",
+      "summary": "Ramadan and Lent haven't overlapped since 1993 and couples like Olanrewaju and Kaosara in Nigeria are observing them together.",
+      "published_at": "2026-03-12T12:40:13Z",
+      "country_code": "NG",
+      "country_name": "Nigeria"
+    },
+    {
+      "source": "BBC World",
       "title": "Questions mount for Hegseth over possible US involvement in strike on Iranian school",
       "url": "https://www.bbc.com/news/articles/cn87ndd4rgyo?at_medium=RSS&at_campaign=rss",
       "summary": "Democrats have written to ask the defence secretary whether the US was responsible, but he says the issue is being investigated.",
       "published_at": "2026-03-12T12:22:22Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC Europe",
-      "title": "Russian court convicts 19 people over deadly Moscow concert attack",
-      "url": "https://www.bbc.com/news/articles/c0j5lx75vg3o?at_medium=RSS&at_campaign=rss",
-      "summary": "Gunmen opened fire at a concert hall near Moscow in 2024, killing 145 and injuring more than 500, the deadliest mass shooting in Russia in t…",
-      "published_at": "2026-03-12T12:00:27Z",
-      "country_code": "RU",
-      "country_name": "Russia"
     },
     {
       "source": "BBC Middle East",
@@ -36,6 +63,15 @@
       "published_at": "2026-03-12T10:33:24Z",
       "country_code": "ET",
       "country_name": "Ethiopia"
+    },
+    {
+      "source": "BBC Middle East",
+      "title": "What role has cyber warfare played in Iran?",
+      "url": "https://www.bbc.com/news/articles/c5yr0576ygvo?at_medium=RSS&at_campaign=rss",
+      "summary": "Militaries are often cagey about their cyber activities. But the US has hinted at the role it has played.",
+      "published_at": "2026-03-12T10:20:08Z",
+      "country_code": "US",
+      "country_name": "United States"
     },
     {
       "source": "BBC World",
@@ -128,15 +164,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
-      "title": "A small US grocer is calling out the lower prices at big chains",
-      "url": "https://www.bbc.com/news/articles/cr57g1ddqmdo?at_medium=RSS&at_campaign=rss",
-      "summary": "It is 'impossible for us to compete', says the boss of a New York grocery store.",
-      "published_at": "2026-03-12T00:02:54Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC Europe",
       "title": "Most underrated player on the planet? Valverde steps up for Real",
       "url": "https://www.bbc.com/sport/football/articles/c4gj45gxedzo?at_medium=RSS&at_campaign=rss",
@@ -173,7 +200,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Middle East",
       "title": "Bowen: Trump has called for an Iran uprising but the lessons from Iraq in 1991 loom large",
       "url": "https://www.bbc.com/news/articles/cn0znx4xrl9o?at_medium=RSS&at_campaign=rss",
       "summary": "The US president might learn that starting wars is much easier than ending them, writes the BBC's international editor.",
@@ -264,7 +291,7 @@
     },
     {
       "source": "BBC Africa",
-      "title": "Mugabe's son drops bail request - what has happened to the family after losing power",
+      "title": "The Mugabe family after losing power - arrests, accusations and arguments",
       "url": "https://www.bbc.com/news/articles/cp32xx35lwwo?at_medium=RSS&at_campaign=rss",
       "summary": "Bellarmine Mugabe will negotiate a plea deal after being accused of attempted murder and other charges in South Africa.",
       "published_at": "2026-03-11T10:31:57Z",
@@ -578,15 +605,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Middle East",
-      "title": "Trump wants to pick Iran's new leader - will a hostile regime under fire agree?",
-      "url": "https://www.bbc.com/news/articles/c2k8339xn9jo?at_medium=RSS&at_campaign=rss",
-      "summary": "The president's vision of Iran's future could meet fierce opposition, writes chief international correspondent Lyse Doucet.",
-      "published_at": "2026-03-06T22:06:42Z",
-      "country_code": "IR",
-      "country_name": "Iran"
-    },
-    {
       "source": "BBC Latin America",
       "title": "Trump sets his sights on crisis-hit Cuba after Iran action",
       "url": "https://www.bbc.com/news/articles/c14m5mj055jo?at_medium=RSS&at_campaign=rss",
@@ -603,24 +621,6 @@
       "published_at": "2026-03-06T19:24:59Z",
       "country_code": "MX",
       "country_name": "Mexico"
-    },
-    {
-      "source": "BBC Middle East",
-      "title": "'We couldn't sleep because of fear': Residents flee as Israel pounds south Beirut",
-      "url": "https://www.bbc.com/news/articles/cwy9xlp46zgo?at_medium=RSS&at_campaign=rss",
-      "summary": "Communities across huge swathes of Lebanon have been told by Israel to leave their homes due to military action against Hezbollah.",
-      "published_at": "2026-03-06T16:23:57Z",
-      "country_code": "IL",
-      "country_name": "Israel"
-    },
-    {
-      "source": "BBC Middle East",
-      "title": "Israeli troops push into Lebanon for yet another war with Iran's proxy Hezbollah",
-      "url": "https://www.bbc.com/news/articles/cpv8xlvk3p4o?at_medium=RSS&at_campaign=rss",
-      "summary": "The BBC sees troops and tanks massing near the border, as speculation mounts that Israel is planning a full-scale ground invasion to fight H…",
-      "published_at": "2026-03-06T16:16:05Z",
-      "country_code": "IL",
-      "country_name": "Israel"
     },
     {
       "source": "BBC Latin America",
@@ -776,15 +776,6 @@
       "country_name": "Mexico"
     },
     {
-      "source": "BBC Africa",
-      "title": "The two farms in Senegal that supply many of the UK's vegetables",
-      "url": "https://www.bbc.com/news/articles/cwy6171wvppo?at_medium=RSS&at_campaign=rss",
-      "summary": "During winter in Britain fresh produce is sent by cargo ship from the West African nation every week.",
-      "published_at": "2026-02-19T00:16:54Z",
-      "country_code": "GB",
-      "country_name": "United Kingdom"
-    },
-    {
       "source": "BBC Latin America",
       "title": "Search dogs, rescuers and helicopters as Mexico City holds earthquake drill",
       "url": "https://www.bbc.com/news/videos/cq57w3q61jjo?at_medium=RSS&at_campaign=rss",
@@ -839,7 +830,7 @@
     {
       "country_code": "IR",
       "country_name": "Iran",
-      "news_count": 11
+      "news_count": 12
     },
     {
       "country_code": "ET",
@@ -849,12 +840,7 @@
     {
       "country_code": "GB",
       "country_name": "United Kingdom",
-      "news_count": 5
-    },
-    {
-      "country_code": "IL",
-      "country_name": "Israel",
-      "news_count": 5
+      "news_count": 4
     },
     {
       "country_code": "IN",
@@ -877,13 +863,18 @@
       "news_count": 3
     },
     {
-      "country_code": "IT",
-      "country_name": "Italy",
-      "news_count": 2
+      "country_code": "IL",
+      "country_name": "Israel",
+      "news_count": 3
     },
     {
       "country_code": "NG",
       "country_name": "Nigeria",
+      "news_count": 3
+    },
+    {
+      "country_code": "IT",
+      "country_name": "Italy",
       "news_count": 2
     },
     {
