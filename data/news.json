@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-03-13T21:32:11Z",
+  "generated_at": "2026-03-13T22:19:23Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Under drone fire, exiled Kurds wait to confront Iranian regime",
+      "url": "https://www.bbc.com/news/articles/c79505804lpo?at_medium=RSS&at_campaign=rss",
+      "summary": "A group of fighters based in Iraq say they are \"ready to go home\", as they face drone attacks from Tehran.",
+      "published_at": "2026-03-13T22:02:39Z",
+      "country_code": "IR",
+      "country_name": "Iran"
+    },
+    {
+      "source": "BBC World",
+      "title": "Cuba confirms negotiations with US as country faces effects of oil blockade",
+      "url": "https://www.bbc.com/news/articles/cwy8zv9gp0go?at_medium=RSS&at_campaign=rss",
+      "summary": "Cuba's president confirmed the talks in a national broadcast as the country also said it would release 51 prisoners in \"goodwill\" gesture.",
+      "published_at": "2026-03-13T22:00:38Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC Europe",
       "title": "Trial starts in case of explosives sent to UK and Poland",
@@ -798,12 +816,12 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 31
+      "news_count": 32
     },
     {
       "country_code": "IR",
       "country_name": "Iran",
-      "news_count": 10
+      "news_count": 11
     },
     {
       "country_code": "ET",
