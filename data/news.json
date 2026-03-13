@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-03-13T10:00:27Z",
+  "generated_at": "2026-03-13T11:01:53Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Bodies of 84 Iranian sailors killed in US torpedo strike to be repatriated",
+      "url": "https://www.bbc.com/news/articles/c363lk4xk07o?at_medium=RSS&at_campaign=rss",
+      "summary": "The seamen died when Iranian warship the Iris Dena was sunk on 4 March by a US submarine near Sri Lanka.",
+      "published_at": "2026-03-13T10:43:21Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "Four killed after US refuelling plane crashes in Iraq, military confirms",
@@ -146,15 +155,6 @@
       "country_name": "United Arab Emirates"
     },
     {
-      "source": "BBC Middle East",
-      "title": "'Not appropriate' for Iran to be at World Cup - Trump",
-      "url": "https://www.bbc.com/sport/football/articles/c9q5rvp58yxo?at_medium=RSS&at_campaign=rss",
-      "summary": "US president Donald Trump says Iran are \"welcome\" at the 2026 World Cup but it is not \"appropriate\" for them to be there.",
-      "published_at": "2026-03-12T16:37:57Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC World",
       "title": "Death toll from Ethiopia floods and landslides rises to more than 100",
       "url": "https://www.bbc.com/news/articles/ce947x4m0e1o?at_medium=RSS&at_campaign=rss",
@@ -162,15 +162,6 @@
       "published_at": "2026-03-12T14:46:09Z",
       "country_code": "ET",
       "country_name": "Ethiopia"
-    },
-    {
-      "source": "BBC Middle East",
-      "title": "Iran steps up attacks on energy targets as tankers hit",
-      "url": "https://www.bbc.com/news/articles/c743gpd9z72o?at_medium=RSS&at_campaign=rss",
-      "summary": "Iranian attacks are reported in Bahrain and Oman as two foreign fuel tankers are hit near Iraq.",
-      "published_at": "2026-03-12T14:02:55Z",
-      "country_code": "IR",
-      "country_name": "Iran"
     },
     {
       "source": "BBC Asia",
@@ -209,7 +200,7 @@
       "country_name": "Nigeria"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "Questions mount for Hegseth over possible US involvement in strike on Iranian school",
       "url": "https://www.bbc.com/news/articles/cn87ndd4rgyo?at_medium=RSS&at_campaign=rss",
       "summary": "Democrats have written to ask the defence secretary whether the US was responsible, but he says the issue is being investigated.",
@@ -547,6 +538,15 @@
       "url": "https://www.bbc.com/news/articles/clygpxq41l3o?at_medium=RSS&at_campaign=rss",
       "summary": "Fuel depots were hit in Tehran and Karaj overnight, with videos showing huge fires and plumes of smoke in multiple locations.",
       "published_at": "2026-03-09T05:40:05Z",
+      "country_code": "IR",
+      "country_name": "Iran"
+    },
+    {
+      "source": "BBC Middle East",
+      "title": "Who is Mojtaba Khamenei, Iran's new supreme leader?",
+      "url": "https://www.bbc.com/news/articles/c78xxg05w0zo?at_medium=RSS&at_campaign=rss",
+      "summary": "Many expect the 56-year-old, who has largely kept a low profile, to continue his father's hardline policies.",
+      "published_at": "2026-03-08T21:51:48Z",
       "country_code": "IR",
       "country_name": "Iran"
     },
