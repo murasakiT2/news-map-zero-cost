@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-13T20:22:46Z",
+  "generated_at": "2026-03-13T20:58:30Z",
   "articles": [
     {
       "source": "BBC Europe",
@@ -27,6 +27,15 @@
       "published_at": "2026-03-13T17:27:59Z",
       "country_code": "US",
       "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Bahrain & Saudi Arabia Grands Prix to be cancelled",
+      "url": "https://www.bbc.com/sport/formula1/articles/c875vw1lwjzo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Bahrain and Saudi Arabia Grands Prix scheduled for next month are set to be cancelled as a result of the Middle East war.",
+      "published_at": "2026-03-13T17:12:12Z",
+      "country_code": "SA",
+      "country_name": "Saudi Arabia"
     },
     {
       "source": "BBC World",
@@ -913,6 +922,11 @@
     {
       "country_code": "PT",
       "country_name": "Portugal",
+      "news_count": 1
+    },
+    {
+      "country_code": "SA",
+      "country_name": "Saudi Arabia",
       "news_count": 1
     },
     {
