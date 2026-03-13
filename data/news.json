@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-03-13T17:05:12Z",
+  "generated_at": "2026-03-13T17:56:27Z",
   "articles": [
+    {
+      "source": "BBC US & Canada",
+      "title": "Canada sheds more than 100,000 jobs in first two months of year",
+      "url": "https://www.bbc.com/news/articles/c1d6lk1n91xo?at_medium=RSS&at_campaign=rss",
+      "summary": "February saw the sharpest drop in Canada's employment totals since the Covid-19 pandemic, mostly due to the US tariff squeeze",
+      "published_at": "2026-03-13T17:27:59Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Sheriff in Nancy Guthrie case believes they know kidnapper's motive",
+      "url": "https://www.bbc.com/news/articles/cx2lzlydg93o?at_medium=RSS&at_campaign=rss",
+      "summary": "The 84-year-old mother of US TV presenter Savannah Guthrie was kidnapped 41 days ago.",
+      "published_at": "2026-03-13T16:38:09Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC US & Canada",
       "title": "US easing of Russia oil sanctions draws criticism",
@@ -38,6 +56,15 @@
       "country_name": "France"
     },
     {
+      "source": "BBC Middle East",
+      "title": "Iranians react to new supreme leader's first address",
+      "url": "https://www.bbc.com/news/articles/czj1z0enk70o?at_medium=RSS&at_campaign=rss",
+      "summary": "People in Iran are questioning who's really in charge after Mojtaba Khamenei's first address came via a presenter on state TV.",
+      "published_at": "2026-03-13T15:53:48Z",
+      "country_code": "IR",
+      "country_name": "Iran"
+    },
+    {
       "source": "BBC World",
       "title": "As Iran regime change hopes fade, Netanyahu faces political test",
       "url": "https://www.bbc.com/news/articles/cvg5yp7v0ppo?at_medium=RSS&at_campaign=rss",
@@ -48,9 +75,9 @@
     },
     {
       "source": "BBC Middle East",
-      "title": "In maps: 14 days of attacks in Iran and the Middle East",
+      "title": "In maps: two weeks of attacks across Iran and the Middle East",
       "url": "https://www.bbc.com/news/articles/c4g0pnnj8xyo?at_medium=RSS&at_campaign=rss",
-      "summary": "Israel says it has launched a \"wide-scale wave of strikes\" on Tehran as the US-Israeli war with Iran enters a 14th day",
+      "summary": "The US-Israeli war with Iran has seen sustained attacks on Tehran and Beirut as retaliatory strikes are felt in Israel and Gulf states",
       "published_at": "2026-03-13T14:34:21Z",
       "country_code": "US",
       "country_name": "United States"
@@ -299,7 +326,7 @@
       "country_name": "Ukraine"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "Chinese national arrested over attempt to smuggle 2,000 queen ants from Kenya",
       "url": "https://www.bbc.com/news/articles/cz7gd57z33zo?at_medium=RSS&at_campaign=rss",
       "summary": "The suspect had packed some ants in test tubes while others were concealed in tissue paper rolls, prosecutor says.",
@@ -506,15 +533,6 @@
       "country_name": "Iran"
     },
     {
-      "source": "BBC Middle East",
-      "title": "'Night turned into day': Iranians tell of strikes on oil depots",
-      "url": "https://www.bbc.com/news/articles/clygpxq41l3o?at_medium=RSS&at_campaign=rss",
-      "summary": "Fuel depots were hit in Tehran and Karaj overnight, with videos showing huge fires and plumes of smoke in multiple locations.",
-      "published_at": "2026-03-09T05:40:05Z",
-      "country_code": "IR",
-      "country_name": "Iran"
-    },
-    {
       "source": "BBC Africa",
       "title": "Kiplimo regains world half-marathon record in Lisbon",
       "url": "https://www.bbc.com/sport/athletics/articles/c7vj9g4mp55o?at_medium=RSS&at_campaign=rss",
@@ -522,15 +540,6 @@
       "published_at": "2026-03-08T19:49:46Z",
       "country_code": "PT",
       "country_name": "Portugal"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "Unanswered questions as search for Nancy Guthrie enters a new month",
-      "url": "https://www.bbc.com/news/articles/cp32lwy4077o?at_medium=RSS&at_campaign=rss",
-      "summary": "The disappearance of the mother of TV presenter Savannah Guthrie captivated the US, but police have not made any arrests.",
-      "published_at": "2026-03-08T15:03:16Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC Asia",
@@ -771,7 +780,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 30
+      "news_count": 31
     },
     {
       "country_code": "IR",
