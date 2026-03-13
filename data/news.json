@@ -1,23 +1,41 @@
 {
-  "generated_at": "2026-03-13T08:00:25Z",
+  "generated_at": "2026-03-13T09:02:53Z",
   "articles": [
     {
       "source": "BBC US & Canada",
       "title": "US eases Russia oil sanctions as Iran war pushes up energy prices",
       "url": "https://www.bbc.com/news/articles/clyzj3g3pygo?at_medium=RSS&at_campaign=rss",
-      "summary": "US Treasury Secretary Scott Bessent said it was a temporary measure that will last until 11 April.",
-      "published_at": "2026-03-13T06:26:44Z",
+      "summary": "Washington says a 30-day waiver is only for sanctioned Russian oil already loaded on vessels at sea.",
+      "published_at": "2026-03-13T08:24:36Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "US refuelling plane crashes in Iraq, military says",
+      "url": "https://www.bbc.com/news/articles/cy0dz5ql17vo?at_medium=RSS&at_campaign=rss",
+      "summary": "The US Central Command says rescue efforts are under way after a refuelling aircraft went down over western Iraq.",
+      "published_at": "2026-03-13T08:04:34Z",
       "country_code": "US",
       "country_name": "United States"
     },
     {
       "source": "BBC Asia",
-      "title": "The US may move its anti-missile system out of South Korea - and it's sparking unease",
+      "title": "The US may move some of its anti-missile system - and it's sparking unease in South Korea",
       "url": "https://www.bbc.com/news/articles/cgmlk8dlekgo?at_medium=RSS&at_campaign=rss",
       "summary": "Reports say the US may be moving parts of its Thaad system to the Middle East, despite Seoul's opposition.",
       "published_at": "2026-03-13T05:19:53Z",
       "country_code": "US",
       "country_name": "United States"
+    },
+    {
+      "source": "BBC Middle East",
+      "title": "'There's no hiding place on a ship': The sailors stranded near Iran",
+      "url": "https://www.bbc.com/news/articles/ce3g0vz223no?at_medium=RSS&at_campaign=rss",
+      "summary": "Drones, cruise missiles and fighter jets have become a common sight for many sailors stranded on ships in the Gulf.",
+      "published_at": "2026-03-13T01:47:54Z",
+      "country_code": "IR",
+      "country_name": "Iran"
     },
     {
       "source": "BBC World",
@@ -61,6 +79,15 @@
       "url": "https://www.bbc.com/news/articles/cx2gjq8qd09o?at_medium=RSS&at_campaign=rss",
       "summary": "Some Israeli strikes also hit other parts of the Lebanese capital, with 12 people reportedly killed along the seafront.",
       "published_at": "2026-03-12T21:33:16Z",
+      "country_code": "IL",
+      "country_name": "Israel"
+    },
+    {
+      "source": "BBC Middle East",
+      "title": "'Follow the smoke': BBC spends day with emergency teams as Israel strikes south Lebanon",
+      "url": "https://www.bbc.com/news/articles/cx28v2y7de2o?at_medium=RSS&at_campaign=rss",
+      "summary": "The BBC visited the city of Nabatieh, witnessing the pace and scale of Israel's bombing as its war with Hezbollah continues to escalate.",
+      "published_at": "2026-03-12T20:53:35Z",
       "country_code": "IL",
       "country_name": "Israel"
     },
@@ -137,7 +164,7 @@
       "country_name": "Iran"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "How Iran war laid bare the world's reliance on Gulf oil and gas",
       "url": "https://www.bbc.com/news/articles/c15x1y8d37vo?at_medium=RSS&at_campaign=rss",
       "summary": "Countries around the world are feeling the impact of the conflict and the resulting energy price shock.",
@@ -515,15 +542,6 @@
       "country_name": "Iran"
     },
     {
-      "source": "BBC Middle East",
-      "title": "Who is Mojtaba Khamenei, Iran's new supreme leader?",
-      "url": "https://www.bbc.com/news/articles/c78xxg05w0zo?at_medium=RSS&at_campaign=rss",
-      "summary": "Many expect the 56-year-old, who has largely kept a low profile, to continue his father's hardline policies.",
-      "published_at": "2026-03-08T21:51:48Z",
-      "country_code": "IR",
-      "country_name": "Iran"
-    },
-    {
       "source": "BBC Africa",
       "title": "Kiplimo regains world half-marathon record in Lisbon",
       "url": "https://www.bbc.com/sport/athletics/articles/c7vj9g4mp55o?at_medium=RSS&at_campaign=rss",
@@ -558,15 +576,6 @@
       "published_at": "2026-03-07T23:11:02Z",
       "country_code": "SG",
       "country_name": "Singapore"
-    },
-    {
-      "source": "BBC Middle East",
-      "title": "Why did Iran's president apologise?",
-      "url": "https://www.bbc.com/news/articles/cz7g2qrz8vdo?at_medium=RSS&at_campaign=rss",
-      "summary": "The apology may hint at a political repositioning inside Iran, writes BBC Persian's Amir Azmi.",
-      "published_at": "2026-03-07T16:51:14Z",
-      "country_code": "IR",
-      "country_name": "Iran"
     },
     {
       "source": "BBC Latin America",
@@ -807,12 +816,12 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 30
+      "news_count": 31
     },
     {
       "country_code": "IR",
       "country_name": "Iran",
-      "news_count": 13
+      "news_count": 12
     },
     {
       "country_code": "ET",
@@ -835,6 +844,11 @@
       "news_count": 3
     },
     {
+      "country_code": "IL",
+      "country_name": "Israel",
+      "news_count": 3
+    },
+    {
       "country_code": "NG",
       "country_name": "Nigeria",
       "news_count": 3
@@ -847,11 +861,6 @@
     {
       "country_code": "FR",
       "country_name": "France",
-      "news_count": 2
-    },
-    {
-      "country_code": "IL",
-      "country_name": "Israel",
       "news_count": 2
     },
     {
