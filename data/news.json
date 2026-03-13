@@ -1,6 +1,33 @@
 {
-  "generated_at": "2026-03-12T23:47:04Z",
+  "generated_at": "2026-03-13T01:09:06Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "French vote tests polarised electorate with right hoping to win control of Paris",
+      "url": "https://www.bbc.com/news/articles/cdxzzqye9w0o?at_medium=RSS&at_campaign=rss",
+      "summary": "The highest-profile contest is for the mayorship of Paris - which has been under left-wing control for 25 years.",
+      "published_at": "2026-03-13T00:15:23Z",
+      "country_code": "FR",
+      "country_name": "France"
+    },
+    {
+      "source": "BBC World",
+      "title": "Mission accomplished? The 2003 boast that haunts today's Iran conflict",
+      "url": "https://www.bbc.com/news/articles/c1e9yy84we8o?at_medium=RSS&at_campaign=rss",
+      "summary": "The echoes between the conflicts are certainly there but there are also profound differences.",
+      "published_at": "2026-03-13T00:04:03Z",
+      "country_code": "IR",
+      "country_name": "Iran"
+    },
+    {
+      "source": "BBC World",
+      "title": "Americans on Iran strikes: 'What if this turns into a forever war?'",
+      "url": "https://www.bbc.com/news/articles/cy0d7vv1p71o?at_medium=RSS&at_campaign=rss",
+      "summary": "Six US voters tell the BBC how they feel about the major US military intervention in Iran.",
+      "published_at": "2026-03-13T00:03:34Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC Middle East",
       "title": "Israel pounds Beirut suburbs and south Lebanon after Hezbollah rocket barrage",
@@ -164,7 +191,7 @@
       "country_name": "Iran"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "War in Ukraine spills into Hungarian election campaign",
       "url": "https://www.bbc.com/news/articles/crm8rxwyyz8o?at_medium=RSS&at_campaign=rss",
       "summary": "Hungary is going to the polls soon and Prime Minister Viktor Orbán has one public enemy in his sights - Ukraine's president.",
@@ -191,7 +218,7 @@
       "country_name": "China"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "What did we learn from China's biggest political meeting?",
       "url": "https://www.bbc.com/news/articles/cvg80pedxeyo?at_medium=RSS&at_campaign=rss",
       "summary": "BBC correspondents give us their biggest takeaways from China's National People's Congress.",
@@ -308,15 +335,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
-      "title": "Countries agree to record release of emergency oil reserves as prices surge",
-      "url": "https://www.bbc.com/news/articles/cly093xxlzzo?at_medium=RSS&at_campaign=rss",
-      "summary": "The G7 group of nations welcomes the idea of releasing oil in response to the surge in prices since the US-Israel war with Iran began",
-      "published_at": "2026-03-11T15:51:11Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC US & Canada",
       "title": "Severe weather batters US including this tornado in Illinois",
       "url": "https://www.bbc.com/news/videos/c5yr05zprm6o?at_medium=RSS&at_campaign=rss",
@@ -405,15 +423,6 @@
       "published_at": "2026-03-11T06:00:08Z",
       "country_code": "GB",
       "country_name": "United Kingdom"
-    },
-    {
-      "source": "BBC Asia",
-      "title": "China and North Korea to reopen passenger train service after pandemic halt",
-      "url": "https://www.bbc.com/news/articles/cdxz8v58xvyo?at_medium=RSS&at_campaign=rss",
-      "summary": "Tickets for the first train departing on Thursday have reportedly sold out.",
-      "published_at": "2026-03-11T03:10:29Z",
-      "country_code": "CN",
-      "country_name": "China"
     },
     {
       "source": "BBC Asia",
@@ -821,7 +830,7 @@
     {
       "country_code": "IR",
       "country_name": "Iran",
-      "news_count": 12
+      "news_count": 13
     },
     {
       "country_code": "ET",
@@ -859,8 +868,8 @@
       "news_count": 2
     },
     {
-      "country_code": "CN",
-      "country_name": "China",
+      "country_code": "FR",
+      "country_name": "France",
       "news_count": 2
     },
     {
@@ -904,13 +913,13 @@
       "news_count": 1
     },
     {
-      "country_code": "ES",
-      "country_name": "Spain",
+      "country_code": "CN",
+      "country_name": "China",
       "news_count": 1
     },
     {
-      "country_code": "FR",
-      "country_name": "France",
+      "country_code": "ES",
+      "country_name": "Spain",
       "news_count": 1
     },
     {
