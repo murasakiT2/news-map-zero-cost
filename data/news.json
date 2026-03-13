@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-03-13T05:08:26Z",
+  "generated_at": "2026-03-13T06:07:08Z",
   "articles": [
+    {
+      "source": "BBC Asia",
+      "title": "The US may move its anti-missile system out of South Korea - and it's sparking unease",
+      "url": "https://www.bbc.com/news/articles/cgmlk8dlekgo?at_medium=RSS&at_campaign=rss",
+      "summary": "Media reports say the US may be moving its Thaad system to the Middle East, despite Seoul's opposition.",
+      "published_at": "2026-03-13T05:19:53Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC US & Canada",
       "title": "King expresses 'concern' over Alberta separatists in meeting with First Nations chiefs",
@@ -281,7 +290,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC US & Canada",
+      "source": "BBC World",
       "title": "Justified or not? US military families on fears of Iran war",
       "url": "https://www.bbc.com/news/videos/cqxd7lyngxjo?at_medium=RSS&at_campaign=rss",
       "summary": "BBC's North America editor Sarah Smith spoke to Gold Star mum Lynn, whose son died in the Iraq War, and veteran Jeremy.",
@@ -425,15 +434,6 @@
       "country_name": "South Africa"
     },
     {
-      "source": "BBC Asia",
-      "title": "India's top court allows removal of life support of man in vegetative state",
-      "url": "https://www.bbc.com/news/articles/c62v64rz6mko?at_medium=RSS&at_campaign=rss",
-      "summary": "Harish Rana has been in a vegetative state since 2013, when he fell from a balcony and suffered head injuries.",
-      "published_at": "2026-03-11T09:28:18Z",
-      "country_code": "IN",
-      "country_name": "India"
-    },
-    {
       "source": "BBC Europe",
       "title": "Inside the Russian explosives plot that sent incendiary parcels to the UK",
       "url": "https://www.bbc.com/news/articles/cpd83zwqlvno?at_medium=RSS&at_campaign=rss",
@@ -441,15 +441,6 @@
       "published_at": "2026-03-11T06:00:08Z",
       "country_code": "GB",
       "country_name": "United Kingdom"
-    },
-    {
-      "source": "BBC Asia",
-      "title": "Meghan to appear at £1,400 per person 'girls' weekend' in Australia",
-      "url": "https://www.bbc.com/news/articles/cwykl5d02rno?at_medium=RSS&at_campaign=rss",
-      "summary": "The Duke and Duchess of Sussex are returning to Australia in April, their first visit since 2018.",
-      "published_at": "2026-03-11T01:04:53Z",
-      "country_code": "AU",
-      "country_name": "Australia"
     },
     {
       "source": "BBC US & Canada",
@@ -495,6 +486,15 @@
       "published_at": "2026-03-10T17:50:52Z",
       "country_code": "RU",
       "country_name": "Russia"
+    },
+    {
+      "source": "BBC World",
+      "title": "BBC visits key Dubai port in Iran's firing line",
+      "url": "https://www.bbc.com/news/videos/cgrzk874171o?at_medium=RSS&at_campaign=rss",
+      "summary": "Trade at the Middle East's biggest port has been hit hard since Iran's blockade of the Strait of Hormuz began.",
+      "published_at": "2026-03-10T17:07:01Z",
+      "country_code": "AE",
+      "country_name": "United Arab Emirates"
     },
     {
       "source": "BBC Middle East",
@@ -843,7 +843,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 29
+      "news_count": 30
     },
     {
       "country_code": "IR",
@@ -871,19 +871,14 @@
       "news_count": 4
     },
     {
-      "country_code": "IN",
-      "country_name": "India",
+      "country_code": "AE",
+      "country_name": "United Arab Emirates",
       "news_count": 3
     },
     {
       "country_code": "NG",
       "country_name": "Nigeria",
       "news_count": 3
-    },
-    {
-      "country_code": "AE",
-      "country_name": "United Arab Emirates",
-      "news_count": 2
     },
     {
       "country_code": "FR",
@@ -893,6 +888,11 @@
     {
       "country_code": "IL",
       "country_name": "Israel",
+      "news_count": 2
+    },
+    {
+      "country_code": "IN",
+      "country_name": "India",
       "news_count": 2
     },
     {
@@ -914,11 +914,6 @@
       "country_code": "ZA",
       "country_name": "South Africa",
       "news_count": 2
-    },
-    {
-      "country_code": "AU",
-      "country_name": "Australia",
-      "news_count": 1
     },
     {
       "country_code": "BR",
