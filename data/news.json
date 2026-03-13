@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-03-13T11:01:53Z",
+  "generated_at": "2026-03-13T11:50:16Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Four crew members killed after US refuelling plane crashes in Iraq",
+      "url": "https://www.bbc.com/news/articles/cy0dz5ql17vo?at_medium=RSS&at_campaign=rss",
+      "summary": "The US Central Command says rescue efforts continue after a refuelling aircraft went down over western Iraq.",
+      "published_at": "2026-03-13T11:48:42Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC Middle East",
+      "title": "In maps: 14 days of attacks in Iran and the Middle East",
+      "url": "https://www.bbc.com/news/articles/c4g0pnnj8xyo?at_medium=RSS&at_campaign=rss",
+      "summary": "Israel says it has launched a \"wide-scale wave of strikes\" on Tehran as the US-Israeli war with Iran enters a 14th day",
+      "published_at": "2026-03-13T11:34:17Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "Bodies of 84 Iranian sailors killed in US torpedo strike to be repatriated",
@@ -11,16 +29,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
-      "title": "Four killed after US refuelling plane crashes in Iraq, military confirms",
-      "url": "https://www.bbc.com/news/articles/cy0dz5ql17vo?at_medium=RSS&at_campaign=rss",
-      "summary": "The US Central Command says rescue efforts continue after a refuelling aircraft went down over western Iraq.",
-      "published_at": "2026-03-13T09:55:20Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC US & Canada",
+      "source": "BBC Europe",
       "title": "US eases Russia oil sanctions as Iran war pushes up energy prices",
       "url": "https://www.bbc.com/news/articles/clyzj3g3pygo?at_medium=RSS&at_campaign=rss",
       "summary": "Washington says a 30-day waiver is only for sanctioned Russian oil already loaded on vessels at sea.",
@@ -210,15 +219,6 @@
     },
     {
       "source": "BBC Middle East",
-      "title": "In maps: Thirteen days of attacks in Iran and the Middle East",
-      "url": "https://www.bbc.com/news/articles/c4g0pnnj8xyo?at_medium=RSS&at_campaign=rss",
-      "summary": "Three more civilian ships were attacked in the Gulf overnight, killing at least one person.",
-      "published_at": "2026-03-12T11:44:37Z",
-      "country_code": "IR",
-      "country_name": "Iran"
-    },
-    {
-      "source": "BBC Middle East",
       "title": "What role has cyber warfare played in Iran?",
       "url": "https://www.bbc.com/news/articles/c5yr0576ygvo?at_medium=RSS&at_campaign=rss",
       "summary": "Militaries are often cagey about their cyber activities. But the US has hinted at the role it has played.",
@@ -326,15 +326,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Europe",
-      "title": "Most underrated player on the planet? Valverde steps up for Real",
-      "url": "https://www.bbc.com/sport/football/articles/c4gj45gxedzo?at_medium=RSS&at_campaign=rss",
-      "summary": "Jude Bellingham stood open mouthed in disbelief while Kylian Mbappe jumped out of his seat to celebrate as Real Madrid team-mate Federico Va…",
-      "published_at": "2026-03-11T23:57:02Z",
-      "country_code": "ES",
-      "country_name": "Spain"
-    },
-    {
       "source": "BBC US & Canada",
       "title": "New US ambassador to South Africa summoned over 'undiplomatic remarks'",
       "url": "https://www.bbc.com/news/articles/c14m1vzmxz3o?at_medium=RSS&at_campaign=rss",
@@ -353,7 +344,7 @@
       "country_name": "Iran"
     },
     {
-      "source": "BBC Europe",
+      "source": "BBC US & Canada",
       "title": "Three brothers arrested after explosion at US embassy in Oslo",
       "url": "https://www.bbc.com/news/articles/cx2grl7lrrmo?at_medium=RSS&at_campaign=rss",
       "summary": "Norway's police attorney says the authorities are investigating whether a foreign state actor was involved.",
@@ -389,7 +380,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Europe",
+      "source": "BBC Middle East",
       "title": "EU and UK demand Israel stop surge in West Bank settler violence since Iran war",
       "url": "https://www.bbc.com/news/articles/c620vwl97vyo?at_medium=RSS&at_campaign=rss",
       "summary": "Six Palestinians have been killed during attacks by settlers in the West Bank since the start of Israel's war, the UN says.",
@@ -477,15 +468,6 @@
       "published_at": "2026-03-10T18:33:03Z",
       "country_code": "IL",
       "country_name": "Israel"
-    },
-    {
-      "source": "BBC Europe",
-      "title": "Russia's deportation of Ukrainian children amounts to crime against humanity, UN says",
-      "url": "https://www.bbc.com/news/articles/cz7g5xnvl2eo?at_medium=RSS&at_campaign=rss",
-      "summary": "Vladimir Putin's direct involvement in the forcible deportation of Ukrainian children has been visible from the outset, the UN says.",
-      "published_at": "2026-03-10T17:50:52Z",
-      "country_code": "RU",
-      "country_name": "Russia"
     },
     {
       "source": "BBC Middle East",
@@ -825,12 +807,12 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 31
+      "news_count": 32
     },
     {
       "country_code": "IR",
       "country_name": "Iran",
-      "news_count": 12
+      "news_count": 11
     },
     {
       "country_code": "ET",
@@ -840,11 +822,6 @@
     {
       "country_code": "MX",
       "country_name": "Mexico",
-      "news_count": 4
-    },
-    {
-      "country_code": "RU",
-      "country_name": "Russia",
       "news_count": 4
     },
     {
@@ -860,6 +837,11 @@
     {
       "country_code": "NG",
       "country_name": "Nigeria",
+      "news_count": 3
+    },
+    {
+      "country_code": "RU",
+      "country_name": "Russia",
       "news_count": 3
     },
     {
@@ -905,11 +887,6 @@
     {
       "country_code": "CN",
       "country_name": "China",
-      "news_count": 1
-    },
-    {
-      "country_code": "ES",
-      "country_name": "Spain",
       "news_count": 1
     },
     {
