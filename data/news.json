@@ -1,41 +1,32 @@
 {
-  "generated_at": "2026-03-13T06:07:08Z",
+  "generated_at": "2026-03-13T07:15:21Z",
   "articles": [
-    {
-      "source": "BBC Asia",
-      "title": "The US may move its anti-missile system out of South Korea - and it's sparking unease",
-      "url": "https://www.bbc.com/news/articles/cgmlk8dlekgo?at_medium=RSS&at_campaign=rss",
-      "summary": "Media reports say the US may be moving its Thaad system to the Middle East, despite Seoul's opposition.",
-      "published_at": "2026-03-13T05:19:53Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "King expresses 'concern' over Alberta separatists in meeting with First Nations chiefs",
-      "url": "https://www.bbc.com/news/articles/cd9g4dpjwgvo?at_medium=RSS&at_campaign=rss",
-      "summary": "One First Nation has sued the province of Alberta, arguing that allowing a possible referendum on separating from Canada is a violation of i…",
-      "published_at": "2026-03-13T03:04:28Z",
-      "country_code": "CA",
-      "country_name": "Canada"
-    },
     {
       "source": "BBC US & Canada",
       "title": "US eases Russia oil sanctions as Iran war pushes up energy prices",
       "url": "https://www.bbc.com/news/articles/clyzj3g3pygo?at_medium=RSS&at_campaign=rss",
       "summary": "US Treasury Secretary Scott Bessent said it was a temporary measure that will last until 11 April.",
-      "published_at": "2026-03-13T02:50:52Z",
+      "published_at": "2026-03-13T06:26:44Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC Asia",
+      "title": "The US may move its anti-missile system out of South Korea - and it's sparking unease",
+      "url": "https://www.bbc.com/news/articles/cgmlk8dlekgo?at_medium=RSS&at_campaign=rss",
+      "summary": "Reports say the US may be moving parts of its Thaad system to the Middle East, despite Seoul's opposition.",
+      "published_at": "2026-03-13T05:19:53Z",
       "country_code": "US",
       "country_name": "United States"
     },
     {
       "source": "BBC World",
-      "title": "'There's no hiding place on a ship': The sailors stranded near Iran",
-      "url": "https://www.bbc.com/news/articles/ce3g0vz223no?at_medium=RSS&at_campaign=rss",
-      "summary": "Drones, cruise missiles and fighter jets have become a common sight for many sailors stranded on ships in the Gulf.",
-      "published_at": "2026-03-13T01:47:54Z",
-      "country_code": "IR",
-      "country_name": "Iran"
+      "title": "King expressed 'concern' over Alberta separatists, say First Nations chiefs after meeting",
+      "url": "https://www.bbc.com/news/articles/cd9g4dpjwgvo?at_medium=RSS&at_campaign=rss",
+      "summary": "One First Nation has sued the province of Alberta, arguing that allowing a possible referendum on separating from Canada is a violation of i…",
+      "published_at": "2026-03-13T03:04:28Z",
+      "country_code": "CA",
+      "country_name": "Canada"
     },
     {
       "source": "BBC World",
@@ -290,7 +281,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "Justified or not? US military families on fears of Iran war",
       "url": "https://www.bbc.com/news/videos/cqxd7lyngxjo?at_medium=RSS&at_campaign=rss",
       "summary": "BBC's North America editor Sarah Smith spoke to Gold Star mum Lynn, whose son died in the Iraq War, and veteran Jeremy.",
@@ -378,15 +369,6 @@
       "published_at": "2026-03-11T15:38:35Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC Asia",
-      "title": "UK couple die after being pulled from water at Australian beach",
-      "url": "https://www.bbc.com/news/articles/ce8n52p3mr4o?at_medium=RSS&at_campaign=rss",
-      "summary": "Local police say members of the public pulled the couple from the water and tried to save them.",
-      "published_at": "2026-03-11T15:12:50Z",
-      "country_code": "GB",
-      "country_name": "United Kingdom"
     },
     {
       "source": "BBC Europe",
@@ -486,15 +468,6 @@
       "published_at": "2026-03-10T17:50:52Z",
       "country_code": "RU",
       "country_name": "Russia"
-    },
-    {
-      "source": "BBC World",
-      "title": "BBC visits key Dubai port in Iran's firing line",
-      "url": "https://www.bbc.com/news/videos/cgrzk874171o?at_medium=RSS&at_campaign=rss",
-      "summary": "Trade at the Middle East's biggest port has been hit hard since Iran's blockade of the Strait of Hormuz began.",
-      "published_at": "2026-03-10T17:07:01Z",
-      "country_code": "AE",
-      "country_name": "United Arab Emirates"
     },
     {
       "source": "BBC Middle East",
@@ -848,17 +821,12 @@
     {
       "country_code": "IR",
       "country_name": "Iran",
-      "news_count": 14
+      "news_count": 13
     },
     {
       "country_code": "ET",
       "country_name": "Ethiopia",
       "news_count": 5
-    },
-    {
-      "country_code": "GB",
-      "country_name": "United Kingdom",
-      "news_count": 4
     },
     {
       "country_code": "MX",
@@ -871,14 +839,19 @@
       "news_count": 4
     },
     {
-      "country_code": "AE",
-      "country_name": "United Arab Emirates",
+      "country_code": "GB",
+      "country_name": "United Kingdom",
       "news_count": 3
     },
     {
       "country_code": "NG",
       "country_name": "Nigeria",
       "news_count": 3
+    },
+    {
+      "country_code": "AE",
+      "country_name": "United Arab Emirates",
+      "news_count": 2
     },
     {
       "country_code": "FR",
