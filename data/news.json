@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-03-13T11:50:16Z",
+  "generated_at": "2026-03-13T12:34:45Z",
   "articles": [
+    {
+      "source": "BBC Europe",
+      "title": "US eases Russia oil sanctions as Iran war pushes up energy prices",
+      "url": "https://www.bbc.com/news/articles/clyzj3g3pygo?at_medium=RSS&at_campaign=rss",
+      "summary": "Washington says a 30-day waiver is only for sanctioned Russian oil already loaded on vessels at sea.",
+      "published_at": "2026-03-13T12:23:17Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "Four crew members killed after US refuelling plane crashes in Iraq",
@@ -9,6 +18,15 @@
       "published_at": "2026-03-13T11:48:42Z",
       "country_code": "US",
       "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "'No-one will hire women' - India's top court rejects menstrual leave petition",
+      "url": "https://www.bbc.com/news/articles/c0436qkegdqo?at_medium=RSS&at_campaign=rss",
+      "summary": "The subject has polarised India for long, though some states and private companies offer menstrual leaves.",
+      "published_at": "2026-03-13T11:47:09Z",
+      "country_code": "IN",
+      "country_name": "India"
     },
     {
       "source": "BBC Middle East",
@@ -25,15 +43,6 @@
       "url": "https://www.bbc.com/news/articles/c363lk4xk07o?at_medium=RSS&at_campaign=rss",
       "summary": "The seamen died when Iranian warship the Iris Dena was sunk on 4 March by a US submarine near Sri Lanka.",
       "published_at": "2026-03-13T10:43:21Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC Europe",
-      "title": "US eases Russia oil sanctions as Iran war pushes up energy prices",
-      "url": "https://www.bbc.com/news/articles/clyzj3g3pygo?at_medium=RSS&at_campaign=rss",
-      "summary": "Washington says a 30-day waiver is only for sanctioned Russian oil already loaded on vessels at sea.",
-      "published_at": "2026-03-13T09:54:52Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -835,6 +844,11 @@
       "news_count": 3
     },
     {
+      "country_code": "IN",
+      "country_name": "India",
+      "news_count": 3
+    },
+    {
       "country_code": "NG",
       "country_name": "Nigeria",
       "news_count": 3
@@ -852,11 +866,6 @@
     {
       "country_code": "FR",
       "country_name": "France",
-      "news_count": 2
-    },
-    {
-      "country_code": "IN",
-      "country_name": "India",
       "news_count": 2
     },
     {
