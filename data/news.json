@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-03-13T14:35:59Z",
+  "generated_at": "2026-03-13T15:33:46Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "France returns sacred 'talking drum' looted during colonial rule to Ivory Coast",
+      "url": "https://www.bbc.com/news/articles/cvg3yv2e9p1o?at_medium=RSS&at_campaign=rss",
+      "summary": "The move forms part of a broader process of returning cultural artefacts to African countries that started in 2017.‎",
+      "published_at": "2026-03-13T15:02:57Z",
+      "country_code": "FR",
+      "country_name": "France"
+    },
     {
       "source": "BBC Middle East",
       "title": "In maps: 14 days of attacks in Iran and the Middle East",
@@ -18,15 +27,6 @@
       "published_at": "2026-03-13T14:29:12Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "France returns sacred 'talking drum' looted during colonial rule to Ivory Coast",
-      "url": "https://www.bbc.com/news/articles/cvg3yv2e9p1o?at_medium=RSS&at_campaign=rss",
-      "summary": "The move forms part of a broader process of returning cultural artefacts to African countries that started in 2017.‎",
-      "published_at": "2026-03-13T14:24:41Z",
-      "country_code": "FR",
-      "country_name": "France"
     },
     {
       "source": "BBC Europe",
@@ -597,15 +597,6 @@
     },
     {
       "source": "BBC Latin America",
-      "title": "Mexico to deploy 100,000 security personnel for World Cup",
-      "url": "https://www.bbc.com/sport/football/articles/ce8wjwyjndyo?at_medium=RSS&at_campaign=rss",
-      "summary": "World Cup co-hosts Mexico plan to deploy nearly 100,000 security personnel to protect fans at this summer's tournament, amid ongoing cartel …",
-      "published_at": "2026-03-06T19:24:59Z",
-      "country_code": "MX",
-      "country_name": "Mexico"
-    },
-    {
-      "source": "BBC Latin America",
       "title": "US and Venezuela agree to resume diplomatic ties after Maduro capture",
       "url": "https://www.bbc.com/news/articles/cy9g1l5jx90o?at_medium=RSS&at_campaign=rss",
       "summary": "The US said the two sides would make joint efforts to promote stability after the US seized Maduro and his wife.",
@@ -820,11 +811,6 @@
       "news_count": 5
     },
     {
-      "country_code": "MX",
-      "country_name": "Mexico",
-      "news_count": 4
-    },
-    {
       "country_code": "FR",
       "country_name": "France",
       "news_count": 3
@@ -837,6 +823,11 @@
     {
       "country_code": "IN",
       "country_name": "India",
+      "news_count": 3
+    },
+    {
+      "country_code": "MX",
+      "country_name": "Mexico",
       "news_count": 3
     },
     {
