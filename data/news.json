@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-03-13T01:09:06Z",
+  "generated_at": "2026-03-13T03:39:56Z",
   "articles": [
+    {
+      "source": "BBC US & Canada",
+      "title": "King expresses 'concern' over Alberta separatists in meeting with First Nations chiefs",
+      "url": "https://www.bbc.com/news/articles/cd9g4dpjwgvo?at_medium=RSS&at_campaign=rss",
+      "summary": "One First Nation has sued the province of Alberta, arguing that allowing a possible referendum on separating from Canada is a violation of i…",
+      "published_at": "2026-03-13T03:04:28Z",
+      "country_code": "CA",
+      "country_name": "Canada"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "US eases Russia oil sanctions as Iran war pushes up energy prices",
+      "url": "https://www.bbc.com/news/articles/clyzj3g3pygo?at_medium=RSS&at_campaign=rss",
+      "summary": "US Treasury Secretary Scott Bessent said it was a temporary measure that will last until 11 April.",
+      "published_at": "2026-03-13T02:50:52Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "'There's no hiding place on a ship': The sailors stranded near Iran",
+      "url": "https://www.bbc.com/news/articles/ce3g0vz223no?at_medium=RSS&at_campaign=rss",
+      "summary": "Drones, cruise missiles and fighter jets have become a common sight for many sailors stranded on ships in the Gulf.",
+      "published_at": "2026-03-13T01:47:54Z",
+      "country_code": "IR",
+      "country_name": "Iran"
+    },
+    {
+      "source": "BBC World",
+      "title": "UK MPs 'deeply troubled' by BBC World Service funding uncertainty",
+      "url": "https://www.bbc.com/news/articles/c1l76581d0ro?at_medium=RSS&at_campaign=rss",
+      "summary": "The current funding agreement between the BBC and the government expires at the end of this month.",
+      "published_at": "2026-03-13T01:47:19Z",
+      "country_code": "GB",
+      "country_name": "United Kingdom"
+    },
     {
       "source": "BBC World",
       "title": "French vote tests polarised electorate with right hoping to win control of Paris",
@@ -63,15 +99,6 @@
       "published_at": "2026-03-12T20:20:50Z",
       "country_code": "AE",
       "country_name": "United Arab Emirates"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "King expresses 'concern' over Alberta separatists in meeting with First Nations chiefs",
-      "url": "https://www.bbc.com/news/articles/cd9g4dpjwgvo?at_medium=RSS&at_campaign=rss",
-      "summary": "One First Nation has sued the province of Alberta, arguing that allowing a possible referendum on separating from Canada is a violation of i…",
-      "published_at": "2026-03-12T20:04:44Z",
-      "country_code": "CA",
-      "country_name": "Canada"
     },
     {
       "source": "BBC World",
@@ -403,15 +430,6 @@
       "url": "https://www.bbc.com/news/articles/c62v64rz6mko?at_medium=RSS&at_campaign=rss",
       "summary": "Harish Rana has been in a vegetative state since 2013, when he fell from a balcony and suffered head injuries.",
       "published_at": "2026-03-11T09:28:18Z",
-      "country_code": "IN",
-      "country_name": "India"
-    },
-    {
-      "source": "BBC Asia",
-      "title": "India's IndiGo airline CEO resigns months after mass cancellation crisis",
-      "url": "https://www.bbc.com/news/articles/cgqg59vgw25o?at_medium=RSS&at_campaign=rss",
-      "summary": "The airline has said Peiter Elbers stepped down for \"personal reasons\", without sharing further details.",
-      "published_at": "2026-03-11T08:40:08Z",
       "country_code": "IN",
       "country_name": "India"
     },
@@ -825,12 +843,12 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 28
+      "news_count": 29
     },
     {
       "country_code": "IR",
       "country_name": "Iran",
-      "news_count": 13
+      "news_count": 14
     },
     {
       "country_code": "ET",
@@ -838,8 +856,8 @@
       "news_count": 5
     },
     {
-      "country_code": "IN",
-      "country_name": "India",
+      "country_code": "GB",
+      "country_name": "United Kingdom",
       "news_count": 4
     },
     {
@@ -853,8 +871,8 @@
       "news_count": 4
     },
     {
-      "country_code": "GB",
-      "country_name": "United Kingdom",
+      "country_code": "IN",
+      "country_name": "India",
       "news_count": 3
     },
     {
