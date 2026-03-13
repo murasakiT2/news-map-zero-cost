@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-13T20:58:30Z",
+  "generated_at": "2026-03-13T21:32:11Z",
   "articles": [
     {
       "source": "BBC Europe",
@@ -9,15 +9,6 @@
       "published_at": "2026-03-13T20:19:22Z",
       "country_code": "GB",
       "country_name": "United Kingdom"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "Judge says 'no evidence' to justify Federal Reserve probe",
-      "url": "https://www.bbc.com/news/articles/cwy6z25y7z0o?at_medium=RSS&at_campaign=rss",
-      "summary": "The case has raised concerns about political pressure on the US central bank.",
-      "published_at": "2026-03-13T20:05:00Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC US & Canada",
@@ -807,7 +798,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 32
+      "news_count": 31
     },
     {
       "country_code": "IR",
