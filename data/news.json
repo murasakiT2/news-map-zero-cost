@@ -1,23 +1,32 @@
 {
-  "generated_at": "2026-03-13T09:02:53Z",
+  "generated_at": "2026-03-13T10:00:27Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Four killed after US refuelling plane crashes in Iraq, military confirms",
+      "url": "https://www.bbc.com/news/articles/cy0dz5ql17vo?at_medium=RSS&at_campaign=rss",
+      "summary": "The US Central Command says rescue efforts continue after a refuelling aircraft went down over western Iraq.",
+      "published_at": "2026-03-13T09:55:20Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC US & Canada",
       "title": "US eases Russia oil sanctions as Iran war pushes up energy prices",
       "url": "https://www.bbc.com/news/articles/clyzj3g3pygo?at_medium=RSS&at_campaign=rss",
       "summary": "Washington says a 30-day waiver is only for sanctioned Russian oil already loaded on vessels at sea.",
-      "published_at": "2026-03-13T08:24:36Z",
+      "published_at": "2026-03-13T09:54:52Z",
       "country_code": "US",
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
-      "title": "US refuelling plane crashes in Iraq, military says",
-      "url": "https://www.bbc.com/news/articles/cy0dz5ql17vo?at_medium=RSS&at_campaign=rss",
-      "summary": "The US Central Command says rescue efforts are under way after a refuelling aircraft went down over western Iraq.",
-      "published_at": "2026-03-13T08:04:34Z",
-      "country_code": "US",
-      "country_name": "United States"
+      "source": "BBC Asia",
+      "title": "South Korea police raid transport ministry over Jeju Air crash",
+      "url": "https://www.bbc.com/news/articles/cz0gzd0dx1do?at_medium=RSS&at_campaign=rss",
+      "summary": "More inquiries into the incident have been launched, as investigators discover more body parts and victims' belongings.",
+      "published_at": "2026-03-13T05:24:21Z",
+      "country_code": "KR",
+      "country_name": "South Korea"
     },
     {
       "source": "BBC Asia",
@@ -911,6 +920,11 @@
     {
       "country_code": "KE",
       "country_name": "Kenya",
+      "news_count": 1
+    },
+    {
+      "country_code": "KR",
+      "country_name": "South Korea",
       "news_count": 1
     },
     {
