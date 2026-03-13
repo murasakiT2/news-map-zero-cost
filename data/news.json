@@ -1,21 +1,30 @@
 {
-  "generated_at": "2026-03-13T12:34:45Z",
+  "generated_at": "2026-03-13T13:53:05Z",
   "articles": [
     {
       "source": "BBC Europe",
       "title": "US eases Russia oil sanctions as Iran war pushes up energy prices",
       "url": "https://www.bbc.com/news/articles/clyzj3g3pygo?at_medium=RSS&at_campaign=rss",
       "summary": "Washington says a 30-day waiver is only for sanctioned Russian oil already loaded on vessels at sea.",
-      "published_at": "2026-03-13T12:23:17Z",
+      "published_at": "2026-03-13T13:41:35Z",
       "country_code": "US",
       "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "France returns sacred 'talking drum' looted during colonial rule to Ivory Coast",
+      "url": "https://www.bbc.com/news/articles/cvg3yv2e9p1o?at_medium=RSS&at_campaign=rss",
+      "summary": "The move forms part of a broader process of returning cultural artefacts to African countries that started in 2017.‎",
+      "published_at": "2026-03-13T13:11:56Z",
+      "country_code": "FR",
+      "country_name": "France"
     },
     {
       "source": "BBC World",
       "title": "Four crew members killed after US refuelling plane crashes in Iraq",
       "url": "https://www.bbc.com/news/articles/cy0dz5ql17vo?at_medium=RSS&at_campaign=rss",
       "summary": "The US Central Command says rescue efforts continue after a refuelling aircraft went down over western Iraq.",
-      "published_at": "2026-03-13T11:48:42Z",
+      "published_at": "2026-03-13T12:37:17Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -299,15 +308,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Europe",
-      "title": "US launches probe into trading partners including the EU, China and India",
-      "url": "https://www.bbc.com/news/articles/c15x1dxp3wpo?at_medium=RSS&at_campaign=rss",
-      "summary": "The move comes weeks after the US Supreme Court struck down a key part of Trump's tariffs policies.",
-      "published_at": "2026-03-12T01:14:31Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC US & Canada",
       "title": "Justified or not? US military families on fears of Iran war",
       "url": "https://www.bbc.com/news/videos/cqxd7lyngxjo?at_medium=RSS&at_campaign=rss",
@@ -432,15 +432,6 @@
       "published_at": "2026-03-11T10:31:57Z",
       "country_code": "ZA",
       "country_name": "South Africa"
-    },
-    {
-      "source": "BBC Europe",
-      "title": "Inside the Russian explosives plot that sent incendiary parcels to the UK",
-      "url": "https://www.bbc.com/news/articles/cpd83zwqlvno?at_medium=RSS&at_campaign=rss",
-      "summary": "Aleksandr Suranovas, charged with carrying out an act of terrorism for Russia, speaks to the BBC.",
-      "published_at": "2026-03-11T06:00:08Z",
-      "country_code": "GB",
-      "country_name": "United Kingdom"
     },
     {
       "source": "BBC US & Canada",
@@ -816,7 +807,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 32
+      "news_count": 31
     },
     {
       "country_code": "IR",
@@ -834,8 +825,8 @@
       "news_count": 4
     },
     {
-      "country_code": "GB",
-      "country_name": "United Kingdom",
+      "country_code": "FR",
+      "country_name": "France",
       "news_count": 3
     },
     {
@@ -864,8 +855,8 @@
       "news_count": 2
     },
     {
-      "country_code": "FR",
-      "country_name": "France",
+      "country_code": "GB",
+      "country_name": "United Kingdom",
       "news_count": 2
     },
     {
