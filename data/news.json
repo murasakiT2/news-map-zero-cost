@@ -1,14 +1,32 @@
 {
-  "generated_at": "2026-03-14T01:08:50Z",
+  "generated_at": "2026-03-14T03:38:05Z",
   "articles": [
     {
       "source": "BBC World",
-      "title": "In photos: Tracing India's history through its chairs",
-      "url": "https://www.bbc.com/news/articles/cx2lvyd609xo?at_medium=RSS&at_campaign=rss",
-      "summary": "An exhibition in Mumbai displayed chairs that told the history of colonial invasions and art movements in India.",
-      "published_at": "2026-03-14T00:13:02Z",
-      "country_code": "IN",
-      "country_name": "India"
+      "title": "More US Marines and warships to be moved to Middle East, reports say",
+      "url": "https://www.bbc.com/news/articles/cq8gj9n12g8o?at_medium=RSS&at_campaign=rss",
+      "summary": "The reinforcements will come from an amphibious ready group that is usually based in Japan, an official told CBS, the BBC's US partner.",
+      "published_at": "2026-03-14T00:53:15Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Is Dubai's glossy image under threat? Not everyone thinks so",
+      "url": "https://www.bbc.com/news/articles/c86y2gpgn54o?at_medium=RSS&at_campaign=rss",
+      "summary": "Dubai has been seen as a safe haven by expats, tourists and influencers - but that's now being tested.",
+      "published_at": "2026-03-14T00:02:29Z",
+      "country_code": "AE",
+      "country_name": "United Arab Emirates"
+    },
+    {
+      "source": "BBC World",
+      "title": "How the Iran war exposed cracks in Trump's Republican coalition",
+      "url": "https://www.bbc.com/news/articles/cev7wn213rvo?at_medium=RSS&at_campaign=rss",
+      "summary": "The president's most dedicated supporters are on his side - but significant numbers of Republicans have serious doubts.",
+      "published_at": "2026-03-14T00:02:00Z",
+      "country_code": "IR",
+      "country_name": "Iran"
     },
     {
       "source": "BBC World",
@@ -192,15 +210,6 @@
     },
     {
       "source": "BBC World",
-      "title": "UK MPs 'deeply troubled' by BBC World Service funding uncertainty",
-      "url": "https://www.bbc.com/news/articles/c1l76581d0ro?at_medium=RSS&at_campaign=rss",
-      "summary": "The current funding agreement between the BBC and the government expires at the end of this month.",
-      "published_at": "2026-03-13T01:47:19Z",
-      "country_code": "GB",
-      "country_name": "United Kingdom"
-    },
-    {
-      "source": "BBC World",
       "title": "French vote tests polarised electorate with right hoping to win control of Paris",
       "url": "https://www.bbc.com/news/articles/cdxzzqye9w0o?at_medium=RSS&at_campaign=rss",
       "summary": "The highest-profile contest is for the mayorship of Paris - which has been under left-wing control for 25 years.",
@@ -261,15 +270,6 @@
       "published_at": "2026-03-12T20:20:50Z",
       "country_code": "AE",
       "country_name": "United Arab Emirates"
-    },
-    {
-      "source": "BBC World",
-      "title": "France's ghost car scandal that allowed one million illegal vehicles onto the roads",
-      "url": "https://www.bbc.com/news/articles/cpqw0jgn5xgo?at_medium=RSS&at_campaign=rss",
-      "summary": "Fake dealerships were manipulating the state vehicle licensing agency's official records, France's auditor has found.",
-      "published_at": "2026-03-12T17:44:09Z",
-      "country_code": "FR",
-      "country_name": "France"
     },
     {
       "source": "BBC Middle East",
@@ -416,7 +416,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "Epstein used modelling agent to recruit girls, Brazilian women tell BBC",
       "url": "https://www.bbc.com/news/articles/cr4576v66kno?at_medium=RSS&at_campaign=rss",
       "summary": "Modelling agent used businesses to recruit girls and arrange US visas to visit Jeffrey Epstein, Brazilian women tell BBC.",
@@ -807,12 +807,12 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 31
+      "news_count": 32
     },
     {
       "country_code": "IR",
       "country_name": "Iran",
-      "news_count": 11
+      "news_count": 12
     },
     {
       "country_code": "ET",
@@ -820,18 +820,13 @@
       "news_count": 5
     },
     {
+      "country_code": "AE",
+      "country_name": "United Arab Emirates",
+      "news_count": 3
+    },
+    {
       "country_code": "GB",
       "country_name": "United Kingdom",
-      "news_count": 4
-    },
-    {
-      "country_code": "IN",
-      "country_name": "India",
-      "news_count": 4
-    },
-    {
-      "country_code": "FR",
-      "country_name": "France",
       "news_count": 3
     },
     {
@@ -840,13 +835,18 @@
       "news_count": 3
     },
     {
+      "country_code": "IN",
+      "country_name": "India",
+      "news_count": 3
+    },
+    {
       "country_code": "MX",
       "country_name": "Mexico",
       "news_count": 3
     },
     {
-      "country_code": "AE",
-      "country_name": "United Arab Emirates",
+      "country_code": "FR",
+      "country_name": "France",
       "news_count": 2
     },
     {
