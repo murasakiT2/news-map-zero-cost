@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-03-13T23:49:13Z",
+  "generated_at": "2026-03-14T01:08:50Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "In photos: Tracing India's history through its chairs",
+      "url": "https://www.bbc.com/news/articles/cx2lvyd609xo?at_medium=RSS&at_campaign=rss",
+      "summary": "An exhibition in Mumbai displayed chairs that told the history of colonial invasions and art movements in India.",
+      "published_at": "2026-03-14T00:13:02Z",
+      "country_code": "IN",
+      "country_name": "India"
+    },
     {
       "source": "BBC World",
       "title": "Under drone fire, exiled Kurds wait to confront Iranian regime",
@@ -207,15 +216,6 @@
       "published_at": "2026-03-13T00:04:03Z",
       "country_code": "IR",
       "country_name": "Iran"
-    },
-    {
-      "source": "BBC World",
-      "title": "Americans on Iran strikes: 'What if this turns into a forever war?'",
-      "url": "https://www.bbc.com/news/articles/cy0d7vv1p71o?at_medium=RSS&at_campaign=rss",
-      "summary": "Six US voters tell the BBC how they feel about the major US military intervention in Iran.",
-      "published_at": "2026-03-13T00:03:34Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC Middle East",
@@ -740,15 +740,6 @@
       "country_name": "Brazil"
     },
     {
-      "source": "BBC Africa",
-      "title": "Drones hammer Sudan's gold and oil zone - the pivotal new front line",
-      "url": "https://www.bbc.com/news/articles/cjwz6z14w65o?at_medium=RSS&at_campaign=rss",
-      "summary": "Intensified attacks in the Kordofan region have led to mass casualties as peace remains elusive.",
-      "published_at": "2026-02-25T00:43:00Z",
-      "country_code": "SD",
-      "country_name": "Sudan"
-    },
-    {
       "source": "BBC Latin America",
       "title": "Is Mexico safe for football fans?",
       "url": "https://www.bbc.com/news/videos/c1d6xge27pgo?at_medium=RSS&at_campaign=rss",
@@ -816,7 +807,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 32
+      "news_count": 31
     },
     {
       "country_code": "IR",
@@ -834,6 +825,11 @@
       "news_count": 4
     },
     {
+      "country_code": "IN",
+      "country_name": "India",
+      "news_count": 4
+    },
+    {
       "country_code": "FR",
       "country_name": "France",
       "news_count": 3
@@ -841,11 +837,6 @@
     {
       "country_code": "IL",
       "country_name": "Israel",
-      "news_count": 3
-    },
-    {
-      "country_code": "IN",
-      "country_name": "India",
       "news_count": 3
     },
     {
@@ -871,11 +862,6 @@
     {
       "country_code": "RU",
       "country_name": "Russia",
-      "news_count": 2
-    },
-    {
-      "country_code": "SD",
-      "country_name": "Sudan",
       "news_count": 2
     },
     {
@@ -936,6 +922,11 @@
     {
       "country_code": "SA",
       "country_name": "Saudi Arabia",
+      "news_count": 1
+    },
+    {
+      "country_code": "SD",
+      "country_name": "Sudan",
       "news_count": 1
     },
     {
