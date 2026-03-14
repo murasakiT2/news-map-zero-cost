@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-03-14T20:49:13Z",
+  "generated_at": "2026-03-14T21:17:50Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Three more Iran football team members change minds over asylum",
+      "url": "https://www.bbc.com/news/articles/c98gz372683o?at_medium=RSS&at_campaign=rss",
+      "summary": "Four of seven members of the women's football delegation who originally sought to stay in Australia have now chosen to return home.",
+      "published_at": "2026-03-14T20:48:55Z",
+      "country_code": "AU",
+      "country_name": "Australia"
+    },
     {
       "source": "BBC World",
       "title": "German philosopher and social critic Jürgen Habermas dies at 96",
@@ -57,6 +66,15 @@
     },
     {
       "source": "BBC World",
+      "title": "Watch: Why Kharg Island is a lifeline for Iran",
+      "url": "https://www.bbc.com/news/videos/c4g7ddn9xz0o?at_medium=RSS&at_campaign=rss",
+      "summary": "BBC Security Brief's Mikey Kay breaks down why Kharg Island is so strategically important for Tehran.",
+      "published_at": "2026-03-14T01:21:14Z",
+      "country_code": "IR",
+      "country_name": "Iran"
+    },
+    {
+      "source": "BBC World",
       "title": "Is Dubai's glossy image under threat? Not everyone thinks so",
       "url": "https://www.bbc.com/news/articles/c86y2gpgn54o?at_medium=RSS&at_campaign=rss",
       "summary": "The city has been considered a safe haven by expats, tourists and influencers - but that's now being tested.",
@@ -83,7 +101,7 @@
       "country_name": "Iran"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Latin America",
       "title": "Cuba confirms negotiations with US as country faces effects of oil blockade",
       "url": "https://www.bbc.com/news/articles/cwy8zv9gp0go?at_medium=RSS&at_campaign=rss",
       "summary": "Cuba's president confirmed the talks in a national broadcast as the country also said it would release 51 prisoners in \"goodwill\" gesture.",
@@ -110,16 +128,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
-      "title": "Bahrain & Saudi Arabia Grands Prix to be cancelled",
-      "url": "https://www.bbc.com/sport/formula1/articles/c875vw1lwjzo?at_medium=RSS&at_campaign=rss",
-      "summary": "The Bahrain and Saudi Arabia Grands Prix scheduled for next month are set to be cancelled as a result of the Middle East war.",
-      "published_at": "2026-03-13T17:12:12Z",
-      "country_code": "SA",
-      "country_name": "Saudi Arabia"
-    },
-    {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "Sheriff in Nancy Guthrie case believes they know kidnapper's motive",
       "url": "https://www.bbc.com/news/articles/cx2lzlydg93o?at_medium=RSS&at_campaign=rss",
       "summary": "The 84-year-old mother of US TV presenter Savannah Guthrie was kidnapped 41 days ago.",
@@ -173,7 +182,7 @@
       "country_name": "Iran"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Middle East",
       "title": "As hopes of regime change in Iran fade, Netanyahu faces political test",
       "url": "https://www.bbc.com/news/articles/cvg5yp7v0ppo?at_medium=RSS&at_campaign=rss",
       "summary": "Israeli leaders are framing the bombing campaign as having transformed the Middle East in their favour as pressure to end the conflict build…",
@@ -200,7 +209,7 @@
       "country_name": "United Kingdom"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "'No-one will hire women' - India's top court rejects menstrual leave petition",
       "url": "https://www.bbc.com/news/articles/c0436qkegdqo?at_medium=RSS&at_campaign=rss",
       "summary": "The subject has polarised India for long, though some states and private companies offer menstrual leaves.",
@@ -209,7 +218,7 @@
       "country_name": "India"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Middle East",
       "title": "Bodies of 84 Iranian sailors killed in US torpedo strike to be repatriated",
       "url": "https://www.bbc.com/news/articles/c363lk4xk07o?at_medium=RSS&at_campaign=rss",
       "summary": "The seamen died when Iranian warship the Iris Dena was sunk on 4 March by a US submarine near Sri Lanka.",
@@ -443,7 +452,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC US & Canada",
+      "source": "BBC World",
       "title": "Justified or not? US military families on fears of Iran war",
       "url": "https://www.bbc.com/news/videos/cqxd7lyngxjo?at_medium=RSS&at_campaign=rss",
       "summary": "BBC's North America editor Sarah Smith spoke to Gold Star mum Lynn, whose son died in the Iraq War, and veteran Jeremy.",
@@ -821,7 +830,7 @@
     {
       "country_code": "IR",
       "country_name": "Iran",
-      "news_count": 10
+      "news_count": 11
     },
     {
       "country_code": "ET",
@@ -884,6 +893,11 @@
       "news_count": 2
     },
     {
+      "country_code": "AU",
+      "country_name": "Australia",
+      "news_count": 1
+    },
+    {
       "country_code": "BR",
       "country_name": "Brazil",
       "news_count": 1
@@ -936,11 +950,6 @@
     {
       "country_code": "PT",
       "country_name": "Portugal",
-      "news_count": 1
-    },
-    {
-      "country_code": "SA",
-      "country_name": "Saudi Arabia",
       "news_count": 1
     },
     {
