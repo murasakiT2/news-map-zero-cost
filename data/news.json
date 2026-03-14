@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-03-14T11:44:10Z",
+  "generated_at": "2026-03-14T12:28:04Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Hamas urges key ally Iran to halt attacks on Gulf states",
+      "url": "https://www.bbc.com/news/articles/cvg3xk6xgyzo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Palestinian armed group also affirms Tehran's right to defend itself from \"aggression\" by the US and Israel.",
+      "published_at": "2026-03-14T12:05:46Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Why has the US targeted Iran's Kharg Island?",
+      "url": "https://www.bbc.com/news/articles/c8jxzlwvd8ro?at_medium=RSS&at_campaign=rss",
+      "summary": "The tiny island is home to one of the most critical pieces of Iran's energy infrastructure.",
+      "published_at": "2026-03-14T11:39:38Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "Explosion at Amsterdam Jewish school 'a deliberate attack' says mayor",
@@ -128,7 +146,7 @@
       "country_name": "France"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Middle East",
       "title": "Iranians react to new supreme leader's first address",
       "url": "https://www.bbc.com/news/articles/czj1z0enk70o?at_medium=RSS&at_campaign=rss",
       "summary": "People in Iran are questioning who's really in charge after Mojtaba Khamenei's first address came via a presenter on state TV.",
@@ -144,15 +162,6 @@
       "published_at": "2026-03-13T15:35:26Z",
       "country_code": "IR",
       "country_name": "Iran"
-    },
-    {
-      "source": "BBC Middle East",
-      "title": "In maps: two weeks of attacks across Iran and the Middle East",
-      "url": "https://www.bbc.com/news/articles/c4g0pnnj8xyo?at_medium=RSS&at_campaign=rss",
-      "summary": "The US-Israeli war with Iran has seen sustained attacks on Tehran and Beirut as retaliatory strikes are felt in Israel and Gulf states",
-      "published_at": "2026-03-13T14:34:21Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC Middle East",
@@ -534,15 +543,6 @@
     },
     {
       "source": "BBC Middle East",
-      "title": "War expands to central Beirut as Israeli strike kills Iranians in luxury hotel",
-      "url": "https://www.bbc.com/news/articles/c2k8y7vy78no?at_medium=RSS&at_campaign=rss",
-      "summary": "Israel's military says it targeted Quds Force operatives after a return to war with Lebanon's Hezbollah movement, but Iran says they were di…",
-      "published_at": "2026-03-10T18:33:03Z",
-      "country_code": "IL",
-      "country_name": "Israel"
-    },
-    {
-      "source": "BBC Middle East",
       "title": "'I just want to be able to sleep': Attacks in Iran rock cities and cut power",
       "url": "https://www.bbc.com/news/articles/cev7llekwllo?at_medium=RSS&at_campaign=rss",
       "summary": "Iranians in Tehran and Karaj tell the BBC they are exhausted and struggling to sleep after 10 days of Israeli and US attacks.",
@@ -558,24 +558,6 @@
       "published_at": "2026-03-10T02:37:46Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC Middle East",
-      "title": "Iran's new leader has never been tested. He now faces an existential battle",
-      "url": "https://www.bbc.com/news/articles/cwykdn0yn4wo?at_medium=RSS&at_campaign=rss",
-      "summary": "Mojtaba Khamenei, 56, enters power as the Islamic republic faces its most serious crisis.",
-      "published_at": "2026-03-09T19:51:00Z",
-      "country_code": "IR",
-      "country_name": "Iran"
-    },
-    {
-      "source": "BBC Middle East",
-      "title": "Iranians deeply divided over Mojtaba Khamenei's rise to power",
-      "url": "https://www.bbc.com/news/articles/cwy8ldyp2zwo?at_medium=RSS&at_campaign=rss",
-      "summary": "While pro-establishment crowds celebrate Khamenei's appointment as his father's successor, others believe it signals no change to how Iran i…",
-      "published_at": "2026-03-09T15:27:35Z",
-      "country_code": "IR",
-      "country_name": "Iran"
     },
     {
       "source": "BBC Africa",
@@ -816,12 +798,12 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 32
+      "news_count": 33
     },
     {
       "country_code": "IR",
       "country_name": "Iran",
-      "news_count": 12
+      "news_count": 10
     },
     {
       "country_code": "ET",
@@ -839,11 +821,6 @@
       "news_count": 3
     },
     {
-      "country_code": "IL",
-      "country_name": "Israel",
-      "news_count": 3
-    },
-    {
       "country_code": "IN",
       "country_name": "India",
       "news_count": 3
@@ -856,6 +833,11 @@
     {
       "country_code": "FR",
       "country_name": "France",
+      "news_count": 2
+    },
+    {
+      "country_code": "IL",
+      "country_name": "Israel",
       "news_count": 2
     },
     {
