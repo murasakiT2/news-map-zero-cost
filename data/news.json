@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-03-14T17:48:59Z",
+  "generated_at": "2026-03-14T18:23:14Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "German philosopher and social critic Jürgen Habermas dies at 96",
+      "url": "https://www.bbc.com/news/articles/crk8yxd2g0no?at_medium=RSS&at_campaign=rss",
+      "summary": "One the most influential thinkers in post-war Germany, he linked philosophy and political action throughout his life.",
+      "published_at": "2026-03-14T18:02:15Z",
+      "country_code": "DE",
+      "country_name": "Germany"
+    },
+    {
+      "source": "BBC World",
+      "title": "Cuban protesters ransack Communist office as energy crisis deepens",
+      "url": "https://www.bbc.com/news/articles/c875zd7de5xo?at_medium=RSS&at_campaign=rss",
+      "summary": "Discontent is mounting over rolling blackouts and shortages of food, fuel and medicine, exacerbated by a US blockade.",
+      "published_at": "2026-03-14T17:57:49Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "Why has the US targeted Iran's Kharg Island?",
@@ -36,15 +54,6 @@
       "published_at": "2026-03-14T12:45:41Z",
       "country_code": "NL",
       "country_name": "Netherlands"
-    },
-    {
-      "source": "BBC World",
-      "title": "In photos: Tracing India's history through its chairs",
-      "url": "https://www.bbc.com/news/articles/cx2lvyd609xo?at_medium=RSS&at_campaign=rss",
-      "summary": "An exhibition in Mumbai displayed chairs that told the history of colonial invasions and art movements in India.",
-      "published_at": "2026-03-14T00:13:02Z",
-      "country_code": "IN",
-      "country_name": "India"
     },
     {
       "source": "BBC World",
@@ -807,7 +816,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 33
+      "news_count": 34
     },
     {
       "country_code": "IR",
@@ -820,11 +829,6 @@
       "news_count": 5
     },
     {
-      "country_code": "IN",
-      "country_name": "India",
-      "news_count": 4
-    },
-    {
       "country_code": "AE",
       "country_name": "United Arab Emirates",
       "news_count": 3
@@ -832,6 +836,11 @@
     {
       "country_code": "GB",
       "country_name": "United Kingdom",
+      "news_count": 3
+    },
+    {
+      "country_code": "IN",
+      "country_name": "India",
       "news_count": 3
     },
     {
@@ -882,6 +891,11 @@
     {
       "country_code": "CN",
       "country_name": "China",
+      "news_count": 1
+    },
+    {
+      "country_code": "DE",
+      "country_name": "Germany",
       "news_count": 1
     },
     {
