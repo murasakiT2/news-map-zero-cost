@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-03-14T21:47:02Z",
+  "generated_at": "2026-03-14T22:15:44Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Cuban protesters ransack Communist office as energy crisis deepens",
+      "url": "https://www.bbc.com/news/articles/c875zd7de5xo?at_medium=RSS&at_campaign=rss",
+      "summary": "Discontent is mounting over rolling blackouts and shortages of food, fuel and medicine, exacerbated by a US blockade.",
+      "published_at": "2026-03-14T22:07:50Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Russia exploiting Iran war, Zelensky says after fresh bombardment",
+      "url": "https://www.bbc.com/news/articles/c0mger2zkmwo?at_medium=RSS&at_campaign=rss",
+      "summary": "Volodymyr Zelensky cast concern over the supply of air-defence missiles after a heavy overnight attack kills at least five.",
+      "published_at": "2026-03-14T21:50:22Z",
+      "country_code": "RU",
+      "country_name": "Russia"
+    },
     {
       "source": "BBC World",
       "title": "Three more Iran football team members change minds over asylum",
@@ -18,15 +36,6 @@
       "published_at": "2026-03-14T18:02:15Z",
       "country_code": "DE",
       "country_name": "Germany"
-    },
-    {
-      "source": "BBC World",
-      "title": "Cuban protesters ransack Communist office as energy crisis deepens",
-      "url": "https://www.bbc.com/news/articles/c875zd7de5xo?at_medium=RSS&at_campaign=rss",
-      "summary": "Discontent is mounting over rolling blackouts and shortages of food, fuel and medicine, exacerbated by a US blockade.",
-      "published_at": "2026-03-14T17:57:49Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC World",
@@ -858,6 +867,11 @@
       "news_count": 3
     },
     {
+      "country_code": "RU",
+      "country_name": "Russia",
+      "news_count": 3
+    },
+    {
       "country_code": "FR",
       "country_name": "France",
       "news_count": 2
@@ -875,11 +889,6 @@
     {
       "country_code": "NG",
       "country_name": "Nigeria",
-      "news_count": 2
-    },
-    {
-      "country_code": "RU",
-      "country_name": "Russia",
       "news_count": 2
     },
     {
