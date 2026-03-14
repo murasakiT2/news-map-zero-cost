@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-03-14T08:57:35Z",
+  "generated_at": "2026-03-14T09:29:32Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Explosion at Amsterdam Jewish school 'a deliberate attack' says mayor",
+      "url": "https://www.bbc.com/news/articles/cwyg4j58gdyo?at_medium=RSS&at_campaign=rss",
+      "summary": "Security had been increased at Jewish public institutions following an earlier incident in Rotterdam.",
+      "published_at": "2026-03-14T08:11:15Z",
+      "country_code": "NL",
+      "country_name": "Netherlands"
+    },
     {
       "source": "BBC World",
       "title": "More US Marines and warships to be moved to Middle East, reports say",
@@ -254,7 +263,7 @@
       "country_name": "Palestine"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Middle East",
       "title": "Iran's new supreme leader vows to block Strait of Hormuz in first statement",
       "url": "https://www.bbc.com/news/articles/cdxg599655vo?at_medium=RSS&at_campaign=rss",
       "summary": "A message attributed to Mojtaba Khamenei also says Iran will continue targeting US bases in the region.",
@@ -902,6 +911,11 @@
     {
       "country_code": "MA",
       "country_name": "Morocco",
+      "news_count": 1
+    },
+    {
+      "country_code": "NL",
+      "country_name": "Netherlands",
       "news_count": 1
     },
     {
