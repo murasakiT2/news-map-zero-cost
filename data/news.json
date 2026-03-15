@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-03-15T11:45:33Z",
+  "generated_at": "2026-03-15T12:30:00Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Zelensky accuses EU allies of 'blackmail' in oil pipeline row",
+      "url": "https://www.bbc.com/news/articles/c3v7q6d0nq0o?at_medium=RSS&at_campaign=rss",
+      "summary": "Volodymyr Zelensky says restoring the flow of Russian oil via Ukraine into the EU would be like lifting sanctions on Russia.",
+      "published_at": "2026-03-15T12:00:35Z",
+      "country_code": "RU",
+      "country_name": "Russia"
+    },
     {
       "source": "BBC Europe",
       "title": "French vote tests polarised electorate with right hoping to win control of Paris",
@@ -72,15 +81,6 @@
       "published_at": "2026-03-14T22:55:40Z",
       "country_code": "IL",
       "country_name": "Israel"
-    },
-    {
-      "source": "BBC World",
-      "title": "France take title with thrilling last-gasp win over England",
-      "url": "https://www.bbc.com/sport/rugby-union/articles/cjwzel8y3elo?at_medium=RSS&at_campaign=rss",
-      "summary": "France claim a third Six Nations title in the past five years as Thomas Ramos' last-gasp kick decides a 94-point thriller against England in…",
-      "published_at": "2026-03-14T22:33:43Z",
-      "country_code": "GB",
-      "country_name": "United Kingdom"
     },
     {
       "source": "BBC World",
@@ -173,7 +173,7 @@
       "country_name": "United Arab Emirates"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Middle East",
       "title": "Under drone fire, exiled Kurds wait to confront Iranian regime",
       "url": "https://www.bbc.com/news/articles/c79505804lpo?at_medium=RSS&at_campaign=rss",
       "summary": "A group of fighters based in Iraq say they are \"ready to go home\", as they face drone attacks from Tehran.",
@@ -874,13 +874,18 @@
       "news_count": 4
     },
     {
-      "country_code": "GB",
-      "country_name": "United Kingdom",
+      "country_code": "RU",
+      "country_name": "Russia",
       "news_count": 4
     },
     {
       "country_code": "AE",
       "country_name": "United Arab Emirates",
+      "news_count": 3
+    },
+    {
+      "country_code": "GB",
+      "country_name": "United Kingdom",
       "news_count": 3
     },
     {
@@ -896,11 +901,6 @@
     {
       "country_code": "MX",
       "country_name": "Mexico",
-      "news_count": 3
-    },
-    {
-      "country_code": "RU",
-      "country_name": "Russia",
       "news_count": 3
     },
     {
