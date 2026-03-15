@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-15T19:02:57Z",
+  "generated_at": "2026-03-15T19:46:57Z",
   "articles": [
     {
       "source": "BBC World",
@@ -99,6 +99,15 @@
       "published_at": "2026-03-15T07:35:59Z",
       "country_code": "US",
       "country_name": "United States"
+    },
+    {
+      "source": "BBC Asia",
+      "title": "Caddy faces 'hardest weeks' on New Zealand trek",
+      "url": "https://www.bbc.com/news/articles/c795gq439lro?at_medium=RSS&at_campaign=rss",
+      "summary": "Dougie Haynes, originally from Oxford, says the hardest section of his trek comes with \"spectacular views\".",
+      "published_at": "2026-03-15T07:11:15Z",
+      "country_code": "NZ",
+      "country_name": "New Zealand"
     },
     {
       "source": "BBC World",
@@ -632,15 +641,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Asia",
-      "title": "The final voyage of the Iranian warship sunk by the US",
-      "url": "https://www.bbc.com/news/articles/c4geelnw7w3o?at_medium=RSS&at_campaign=rss",
-      "summary": "The sinking of an Iranian ship by the US near Sri Lanka brings the conflict uncomfortably close to India.",
-      "published_at": "2026-03-07T00:59:39Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC Latin America",
       "title": "US and Venezuela agree to resume diplomatic ties after Maduro capture",
       "url": "https://www.bbc.com/news/articles/cy9g1l5jx90o?at_medium=RSS&at_campaign=rss",
@@ -825,7 +825,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 31
+      "news_count": 30
     },
     {
       "country_code": "IR",
@@ -888,6 +888,11 @@
       "news_count": 2
     },
     {
+      "country_code": "NZ",
+      "country_name": "New Zealand",
+      "news_count": 2
+    },
+    {
       "country_code": "UA",
       "country_name": "Ukraine",
       "news_count": 2
@@ -935,11 +940,6 @@
     {
       "country_code": "NL",
       "country_name": "Netherlands",
-      "news_count": 1
-    },
-    {
-      "country_code": "NZ",
-      "country_name": "New Zealand",
       "news_count": 1
     },
     {
