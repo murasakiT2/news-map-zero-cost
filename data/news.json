@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-15T04:08:52Z",
+  "generated_at": "2026-03-15T05:48:41Z",
   "articles": [
     {
       "source": "BBC World",
@@ -63,6 +63,15 @@
       "published_at": "2026-03-14T20:48:55Z",
       "country_code": "AU",
       "country_name": "Australia"
+    },
+    {
+      "source": "BBC World",
+      "title": "Trump urges UK and other nations to send warships to Strait of Hormuz",
+      "url": "https://www.bbc.com/news/articles/cd039n9vj3vo?at_medium=RSS&at_campaign=rss",
+      "summary": "The US president says he hopes China, France, Japan and South Korea will also send ships to defend the key oil shipping route.",
+      "published_at": "2026-03-14T20:33:34Z",
+      "country_code": "US",
+      "country_name": "United States"
     },
     {
       "source": "BBC World",
@@ -182,7 +191,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "Ukraine and allies fear easing Russian sanctions will prolong war",
       "url": "https://www.bbc.com/news/articles/c1d6l67122wo?at_medium=RSS&at_campaign=rss",
       "summary": "Ukraine's president says the US decision \"certainly does not help achieve peace\".",
@@ -861,7 +870,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 36
+      "news_count": 37
     },
     {
       "country_code": "IR",
