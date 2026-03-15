@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-03-15T09:37:08Z",
+  "generated_at": "2026-03-15T10:19:44Z",
   "articles": [
+    {
+      "source": "BBC Africa",
+      "title": "Severe flooding kills 62 in Kenya, as heavy rains continue",
+      "url": "https://www.bbc.com/news/articles/cz6e5eng03yo?at_medium=RSS&at_campaign=rss",
+      "summary": "Eleven people were rescued overnight after a minibus taxi got stuck in rising floodwaters in Nairobi.",
+      "published_at": "2026-03-15T10:13:03Z",
+      "country_code": "KE",
+      "country_name": "Kenya"
+    },
     {
       "source": "BBC World",
       "title": "US names six crew killed in refuelling plane crash in Iraq",
@@ -378,15 +387,6 @@
       "published_at": "2026-03-12T17:28:20Z",
       "country_code": "AE",
       "country_name": "United Arab Emirates"
-    },
-    {
-      "source": "BBC Africa",
-      "title": "Death toll from Ethiopia floods and landslides rises to more than 100",
-      "url": "https://www.bbc.com/news/articles/ce947x4m0e1o?at_medium=RSS&at_campaign=rss",
-      "summary": "Forecasters say storms are becoming more intense in the region, partly due to global warming.",
-      "published_at": "2026-03-12T14:46:09Z",
-      "country_code": "ET",
-      "country_name": "Ethiopia"
     },
     {
       "source": "BBC Asia",
@@ -871,7 +871,7 @@
     {
       "country_code": "ET",
       "country_name": "Ethiopia",
-      "news_count": 5
+      "news_count": 4
     },
     {
       "country_code": "GB",
@@ -914,6 +914,11 @@
       "news_count": 2
     },
     {
+      "country_code": "KE",
+      "country_name": "Kenya",
+      "news_count": 2
+    },
+    {
       "country_code": "NG",
       "country_name": "Nigeria",
       "news_count": 2
@@ -951,11 +956,6 @@
     {
       "country_code": "JP",
       "country_name": "Japan",
-      "news_count": 1
-    },
-    {
-      "country_code": "KE",
-      "country_name": "Kenya",
       "news_count": 1
     },
     {
