@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-03-15T07:38:16Z",
+  "generated_at": "2026-03-15T08:25:34Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "US names six crew killed in refuelling plane crash in Iraq",
+      "url": "https://www.bbc.com/news/articles/cly0d510yz3o?at_medium=RSS&at_campaign=rss",
+      "summary": "The aircraft was on a combat mission as part of ongoing US operations against Iran when it crashed in western Iraq on Thursday.",
+      "published_at": "2026-03-15T08:08:30Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "'Gruesome' war bets fuel calls for crackdown on prediction markets",
@@ -524,15 +533,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC US & Canada",
-      "title": "Pete Hegseth brings combative style as face of Trump's war in Iran",
-      "url": "https://www.bbc.com/news/articles/cx2g4e5z0d3o?at_medium=RSS&at_campaign=rss",
-      "summary": "The former Fox host projects an image of unapologetic frontman for the world's most powerful military.",
-      "published_at": "2026-03-11T19:13:29Z",
-      "country_code": "IR",
-      "country_name": "Iran"
-    },
-    {
       "source": "BBC Middle East",
       "title": "Bowen: Trump has called for an Iran uprising but the lessons from Iraq in 1991 loom large",
       "url": "https://www.bbc.com/news/articles/cn0znx4xrl9o?at_medium=RSS&at_campaign=rss",
@@ -619,15 +619,6 @@
       "url": "https://www.bbc.com/news/articles/cev7llekwllo?at_medium=RSS&at_campaign=rss",
       "summary": "Iranians in Tehran and Karaj tell the BBC they are exhausted and struggling to sleep after 10 days of Israeli and US attacks.",
       "published_at": "2026-03-10T13:26:17Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "Mixed messages from Trump leave more questions than answers over war's end",
-      "url": "https://www.bbc.com/news/articles/c93j2dw72q9o?at_medium=RSS&at_campaign=rss",
-      "summary": "The US president has tried to soothe nerves over oil and markets, but his comments still lack clarity, writes Anthony Zurcher.",
-      "published_at": "2026-03-10T02:37:46Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -875,7 +866,7 @@
     {
       "country_code": "IR",
       "country_name": "Iran",
-      "news_count": 10
+      "news_count": 9
     },
     {
       "country_code": "ET",
