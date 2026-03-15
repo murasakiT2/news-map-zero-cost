@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-03-15T15:49:07Z",
+  "generated_at": "2026-03-15T16:20:47Z",
   "articles": [
     {
       "source": "BBC World",
-      "title": "Severe flooding kills 62 in Kenya, as heavy rains continue",
+      "title": "Severe flooding kills 66 in Kenya, as heavy rains continue",
       "url": "https://www.bbc.com/news/articles/cz6e5eng03yo?at_medium=RSS&at_campaign=rss",
       "summary": "Eleven people were rescued overnight after a minibus taxi got stuck in rising floodwaters in Nairobi.",
-      "published_at": "2026-03-15T13:19:04Z",
+      "published_at": "2026-03-15T16:12:11Z",
       "country_code": "KE",
       "country_name": "Kenya"
     },
@@ -75,15 +75,6 @@
     },
     {
       "source": "BBC World",
-      "title": "Iraq taking private plane to Mexico for World Cup play-off",
-      "url": "https://www.bbc.com/sport/football/articles/c0k10zzjk6yo?at_medium=RSS&at_campaign=rss",
-      "summary": "Iraq will travel to Mexico by private plane for their World Cup play-off despite calls from coach Graham Arnold to postpone the match amid t…",
-      "published_at": "2026-03-14T23:56:28Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
       "title": "BBC visits aftermath of Israeli strike on Lebanon that killed family as IDF targets Hezbollah",
       "url": "https://www.bbc.com/news/articles/c20lvn0ex6yo?at_medium=RSS&at_campaign=rss",
       "summary": "A relative tells BBC those killed were civilians and not Hezbollah operatives, but the Israel Defense Forces says it was targeting \"terroris…",
@@ -101,7 +92,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "Russia exploiting Iran war, Zelensky says after fresh bombardment",
       "url": "https://www.bbc.com/news/articles/c0mger2zkmwo?at_medium=RSS&at_campaign=rss",
       "summary": "Volodymyr Zelensky cast concern over the supply of air-defence missiles after a heavy overnight attack kills at least five.",
@@ -128,7 +119,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "German philosopher and social critic Jürgen Habermas dies at 96",
       "url": "https://www.bbc.com/news/articles/crk8yxd2g0no?at_medium=RSS&at_campaign=rss",
       "summary": "One the most influential thinkers in post-war Germany, he linked philosophy and political action throughout his life.",
@@ -155,7 +146,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Middle East",
       "title": "More US Marines and warships being moved to Middle East, reports say",
       "url": "https://www.bbc.com/news/articles/cq8gj9n12g8o?at_medium=RSS&at_campaign=rss",
       "summary": "The reinforcements will come from an amphibious ready group that is usually based in Japan, an official told CBS, the BBC's US partner.",
@@ -164,13 +155,22 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "Explosion at Amsterdam Jewish school 'a deliberate attack' says mayor",
       "url": "https://www.bbc.com/news/articles/cwyg4j58gdyo?at_medium=RSS&at_campaign=rss",
       "summary": "Security had been increased at Jewish public institutions following an earlier incident in Rotterdam.",
       "published_at": "2026-03-14T12:45:41Z",
       "country_code": "NL",
       "country_name": "Netherlands"
+    },
+    {
+      "source": "BBC World",
+      "title": "Watch: Why Kharg Island is a lifeline for Iran",
+      "url": "https://www.bbc.com/news/videos/c4g7ddn9xz0o?at_medium=RSS&at_campaign=rss",
+      "summary": "BBC Security Brief's Mikey Kay breaks down why Kharg Island is so strategically important for Tehran.",
+      "published_at": "2026-03-14T01:21:14Z",
+      "country_code": "IR",
+      "country_name": "Iran"
     },
     {
       "source": "BBC World",
@@ -182,7 +182,7 @@
       "country_name": "United Arab Emirates"
     },
     {
-      "source": "BBC Middle East",
+      "source": "BBC World",
       "title": "Under drone fire, exiled Kurds wait to confront Iranian regime",
       "url": "https://www.bbc.com/news/articles/c79505804lpo?at_medium=RSS&at_campaign=rss",
       "summary": "A group of fighters based in Iraq say they are \"ready to go home\", as they face drone attacks from Tehran.",
@@ -416,15 +416,6 @@
       "country_name": "Iran"
     },
     {
-      "source": "BBC Europe",
-      "title": "Nineteen jailed over deadly Moscow concert attack",
-      "url": "https://www.bbc.com/news/articles/c0j5lx75vg3o?at_medium=RSS&at_campaign=rss",
-      "summary": "Gunmen opened fire at Crocus City Concert hall near Moscow in 2024, killing 149 and injuring more than 500.",
-      "published_at": "2026-03-12T13:29:01Z",
-      "country_code": "RU",
-      "country_name": "Russia"
-    },
-    {
       "source": "BBC Middle East",
       "title": "'What if we're left with ruins?': Doubts creep in for Iranians who supported war",
       "url": "https://www.bbc.com/news/articles/c3094g50rnvo?at_medium=RSS&at_campaign=rss",
@@ -524,7 +515,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC US & Canada",
+      "source": "BBC World",
       "title": "Justified or not? US military families on fears of Iran war",
       "url": "https://www.bbc.com/news/videos/cqxd7lyngxjo?at_medium=RSS&at_campaign=rss",
       "summary": "BBC's North America editor Sarah Smith spoke to Gold Star mum Lynn, whose son died in the Iraq War, and veteran Jeremy.",
@@ -852,21 +843,16 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 35
+      "news_count": 34
     },
     {
       "country_code": "IR",
       "country_name": "Iran",
-      "news_count": 9
+      "news_count": 10
     },
     {
       "country_code": "ET",
       "country_name": "Ethiopia",
-      "news_count": 4
-    },
-    {
-      "country_code": "RU",
-      "country_name": "Russia",
       "news_count": 4
     },
     {
@@ -892,6 +878,11 @@
     {
       "country_code": "MX",
       "country_name": "Mexico",
+      "news_count": 3
+    },
+    {
+      "country_code": "RU",
+      "country_name": "Russia",
       "news_count": 3
     },
     {
