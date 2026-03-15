@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-03-14T23:47:26Z",
+  "generated_at": "2026-03-15T01:20:03Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "'Gruesome' war bets fuel calls for crackdown on prediction markets",
+      "url": "https://www.bbc.com/news/articles/cjwz8051y0lo?at_medium=RSS&at_campaign=rss",
+      "summary": "Predictions markets have hosted millions of dollars of bets related to the war in Iran.",
+      "published_at": "2026-03-15T00:01:31Z",
+      "country_code": "IR",
+      "country_name": "Iran"
+    },
+    {
+      "source": "BBC World",
+      "title": "Will Trump help or hinder Zimbabwe's white farmers in their compensation battle?",
+      "url": "https://www.bbc.com/news/articles/c8jxd91y2ylo?at_medium=RSS&at_campaign=rss",
+      "summary": "They have engaged a lobbying firm with close ties to the US president to argue their case.",
+      "published_at": "2026-03-15T00:01:25Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Iraq taking private plane to Mexico for World Cup play-off",
+      "url": "https://www.bbc.com/sport/football/articles/c0k10zzjk6yo?at_medium=RSS&at_campaign=rss",
+      "summary": "Iraq will travel to Mexico by private plane for their World Cup play-off despite calls from coach Graham Arnold to postpone the match amid t…",
+      "published_at": "2026-03-14T23:56:28Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "BBC visits aftermath of Israeli strike on Lebanon that killed family as IDF targets Hezbollah",
+      "url": "https://www.bbc.com/news/articles/c20lvn0ex6yo?at_medium=RSS&at_campaign=rss",
+      "summary": "A relative tells BBC those killed were civilians and not Hezbollah operatives, but the Israel Defence Forces says it was targeting \"terroris…",
+      "published_at": "2026-03-14T22:55:40Z",
+      "country_code": "IL",
+      "country_name": "Israel"
+    },
     {
       "source": "BBC World",
       "title": "Cuban protesters ransack Communist office as energy crisis deepens",
@@ -90,15 +126,6 @@
       "published_at": "2026-03-14T00:02:29Z",
       "country_code": "AE",
       "country_name": "United Arab Emirates"
-    },
-    {
-      "source": "BBC World",
-      "title": "How the Iran war exposed cracks in Trump's Republican coalition",
-      "url": "https://www.bbc.com/news/articles/cev7wn213rvo?at_medium=RSS&at_campaign=rss",
-      "summary": "The president's most dedicated supporters are on his side - but significant numbers of Republicans have serious doubts.",
-      "published_at": "2026-03-14T00:02:00Z",
-      "country_code": "IR",
-      "country_name": "Iran"
     },
     {
       "source": "BBC World",
@@ -461,7 +488,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "Justified or not? US military families on fears of Iran war",
       "url": "https://www.bbc.com/news/videos/cqxd7lyngxjo?at_medium=RSS&at_campaign=rss",
       "summary": "BBC's North America editor Sarah Smith spoke to Gold Star mum Lynn, whose son died in the Iraq War, and veteran Jeremy.",
@@ -834,7 +861,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 34
+      "news_count": 36
     },
     {
       "country_code": "IR",
@@ -857,6 +884,11 @@
       "news_count": 3
     },
     {
+      "country_code": "IL",
+      "country_name": "Israel",
+      "news_count": 3
+    },
+    {
       "country_code": "IN",
       "country_name": "India",
       "news_count": 3
@@ -874,11 +906,6 @@
     {
       "country_code": "FR",
       "country_name": "France",
-      "news_count": 2
-    },
-    {
-      "country_code": "IL",
-      "country_name": "Israel",
       "news_count": 2
     },
     {
