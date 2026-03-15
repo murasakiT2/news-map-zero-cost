@@ -1,8 +1,17 @@
 {
-  "generated_at": "2026-03-15T10:19:44Z",
+  "generated_at": "2026-03-15T10:54:14Z",
   "articles": [
     {
-      "source": "BBC Africa",
+      "source": "BBC World",
+      "title": "Israeli forces kill Palestinian couple and two of their children in occupied West Bank",
+      "url": "https://www.bbc.com/news/articles/cqxdndz75zvo?at_medium=RSS&at_campaign=rss",
+      "summary": "Mohammed, aged five, and Othman, aged seven, were killed alongside their parents, the Palestinian health ministry says.",
+      "published_at": "2026-03-15T10:38:22Z",
+      "country_code": "PS",
+      "country_name": "Palestine"
+    },
+    {
+      "source": "BBC World",
       "title": "Severe flooding kills 62 in Kenya, as heavy rains continue",
       "url": "https://www.bbc.com/news/articles/cz6e5eng03yo?at_medium=RSS&at_campaign=rss",
       "summary": "Eleven people were rescued overnight after a minibus taxi got stuck in rising floodwaters in Nairobi.",
@@ -236,7 +245,7 @@
       "country_name": "France"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Middle East",
       "title": "Iranians react to new supreme leader's first address",
       "url": "https://www.bbc.com/news/articles/czj1z0enk70o?at_medium=RSS&at_campaign=rss",
       "summary": "People in Iran are questioning who's really in charge after Mojtaba Khamenei's first address came via a presenter on state TV.",
@@ -538,15 +547,6 @@
       "url": "https://www.bbc.com/news/articles/cn0znx4xrl9o?at_medium=RSS&at_campaign=rss",
       "summary": "The US president might learn that starting wars is much easier than ending them, writes the BBC's international editor.",
       "published_at": "2026-03-11T16:45:28Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC Middle East",
-      "title": "'Even under missiles we carry on living' - how young Iranians are coping with war",
-      "url": "https://www.bbc.com/news/articles/c1mj1pyrzryo?at_medium=RSS&at_campaign=rss",
-      "summary": "Iranians say they are sheltering at home and rarely venturing out on near-empty streets as the US-Israeli bombing campaign continues.",
-      "published_at": "2026-03-11T16:00:34Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -861,7 +861,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 37
+      "news_count": 36
     },
     {
       "country_code": "IR",
@@ -924,6 +924,11 @@
       "news_count": 2
     },
     {
+      "country_code": "PS",
+      "country_name": "Palestine",
+      "news_count": 2
+    },
+    {
       "country_code": "UA",
       "country_name": "Ukraine",
       "news_count": 2
@@ -976,11 +981,6 @@
     {
       "country_code": "NZ",
       "country_name": "New Zealand",
-      "news_count": 1
-    },
-    {
-      "country_code": "PS",
-      "country_name": "Palestine",
       "news_count": 1
     },
     {
