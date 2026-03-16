@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-16T06:01:56Z",
+  "generated_at": "2026-03-16T07:52:06Z",
   "articles": [
     {
       "source": "BBC World",
@@ -74,7 +74,7 @@
       "country_name": "Australia"
     },
     {
-      "source": "BBC US & Canada",
+      "source": "BBC World",
       "title": "Michigan synagogue attacker's brother was Hezbollah commander, IDF says",
       "url": "https://www.bbc.com/news/articles/c4gj1135x7ro?at_medium=RSS&at_campaign=rss",
       "summary": "US officials previously said the man accused of ramming a truck full of explosives into a synagogue had recently lost family in Lebanon.",
@@ -108,6 +108,15 @@
       "published_at": "2026-03-15T16:12:11Z",
       "country_code": "KE",
       "country_name": "Kenya"
+    },
+    {
+      "source": "BBC Latin America",
+      "title": "Spain-Argentina Finalissima in Qatar cancelled",
+      "url": "https://www.bbc.com/sport/football/articles/cwy6903z140o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Finalissima between Argentina and Spain set to be held in Qatar this month is cancelled because of the war in the Middle East.",
+      "published_at": "2026-03-15T13:59:58Z",
+      "country_code": "ES",
+      "country_name": "Spain"
     },
     {
       "source": "BBC World",
@@ -960,6 +969,11 @@
     {
       "country_code": "DE",
       "country_name": "Germany",
+      "news_count": 1
+    },
+    {
+      "country_code": "ES",
+      "country_name": "Spain",
       "news_count": 1
     },
     {
