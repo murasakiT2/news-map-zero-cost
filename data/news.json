@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-03-16T17:53:35Z",
+  "generated_at": "2026-03-16T18:47:51Z",
   "articles": [
+    {
+      "source": "BBC Africa",
+      "title": "Fifa sanctions Nigeria and DR Congo over World Cup play-off",
+      "url": "https://www.bbc.com/sport/football/articles/cdxg10vzwp2o?at_medium=RSS&at_campaign=rss",
+      "summary": "Fifa fines the Nigeria Football Federation and DR Congo Football Association for separate disciplinary breaches by supporters.",
+      "published_at": "2026-03-16T18:13:30Z",
+      "country_code": "NG",
+      "country_name": "Nigeria"
+    },
+    {
+      "source": "BBC World",
+      "title": "'My mother cried out one last time': Palestinian boy, 12, describes how Israeli forces killed his family in car",
+      "url": "https://www.bbc.com/news/articles/c70n2x7p22do?at_medium=RSS&at_campaign=rss",
+      "summary": "Khaled Bani Odeh's parents and two brothers were shot dead as they drove home from a shopping trip in the occupied West Bank.",
+      "published_at": "2026-03-16T17:57:45Z",
+      "country_code": "PS",
+      "country_name": "Palestine"
+    },
     {
       "source": "BBC World",
       "title": "Wary allies show there's no quick fix to Trump's Iran crisis",
@@ -871,6 +889,11 @@
       "news_count": 3
     },
     {
+      "country_code": "NG",
+      "country_name": "Nigeria",
+      "news_count": 3
+    },
+    {
       "country_code": "IT",
       "country_name": "Italy",
       "news_count": 2
@@ -886,13 +909,13 @@
       "news_count": 2
     },
     {
-      "country_code": "NG",
-      "country_name": "Nigeria",
+      "country_code": "NZ",
+      "country_name": "New Zealand",
       "news_count": 2
     },
     {
-      "country_code": "NZ",
-      "country_name": "New Zealand",
+      "country_code": "PS",
+      "country_name": "Palestine",
       "news_count": 2
     },
     {
@@ -958,11 +981,6 @@
     {
       "country_code": "PK",
       "country_name": "Pakistan",
-      "news_count": 1
-    },
-    {
-      "country_code": "PS",
-      "country_name": "Palestine",
       "news_count": 1
     },
     {
