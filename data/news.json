@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-03-16T11:39:23Z",
+  "generated_at": "2026-03-16T12:45:42Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Iran hits key UAE oil port and Dubai airport",
+      "url": "https://www.bbc.com/news/articles/crl4gxgkkylo?at_medium=RSS&at_campaign=rss",
+      "summary": "The port of Fujairah plays a crucial role in helping keep global supplies moving when the Strait of Hormuz is blocked.",
+      "published_at": "2026-03-16T12:43:32Z",
+      "country_code": "AE",
+      "country_name": "United Arab Emirates"
+    },
+    {
+      "source": "BBC World",
+      "title": "French national jailed for 10 years in Azerbaijan for spying",
+      "url": "https://www.bbc.com/news/articles/c2lr5j84gd1o?at_medium=RSS&at_campaign=rss",
+      "summary": "Martin Ryan was accused of collecting secret information about Baku's military co-operation with Turkey and Pakistan.",
+      "published_at": "2026-03-16T11:47:16Z",
+      "country_code": "PK",
+      "country_name": "Pakistan"
+    },
     {
       "source": "BBC World",
       "title": "Who wants what from the Iran war?",
@@ -560,15 +578,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Middle East",
-      "title": "'Kill the regime but not people': BBC speaks to Iranians crossing into Turkey",
-      "url": "https://www.bbc.com/news/videos/clyx5dlnw44o?at_medium=RSS&at_campaign=rss",
-      "summary": "Dan Johnson hears from Iranians at a crossing in north-west Iran about their thoughts on the war and regime.",
-      "published_at": "2026-03-11T17:58:11Z",
-      "country_code": "TR",
-      "country_name": "Turkey"
-    },
-    {
       "source": "BBC US & Canada",
       "title": "Severe weather batters US including this tornado in Illinois",
       "url": "https://www.bbc.com/news/videos/c5yr05zprm6o?at_medium=RSS&at_campaign=rss",
@@ -587,15 +596,6 @@
       "country_name": "South Africa"
     },
     {
-      "source": "BBC Latin America",
-      "title": "Windies to leave India after 'distressing' wait",
-      "url": "https://www.bbc.com/sport/cricket/articles/clygr0y9yrgo?at_medium=RSS&at_campaign=rss",
-      "summary": "The West Indies team is to return home via commercial flights from India after a \"distressing\" wait following their exit from the men's T20 …",
-      "published_at": "2026-03-11T08:55:32Z",
-      "country_code": "IN",
-      "country_name": "India"
-    },
-    {
       "source": "BBC US & Canada",
       "title": "'I don't know why we're doing it' - Americans divided on Iran war",
       "url": "https://www.bbc.com/news/videos/cy8gm4vr70go?at_medium=RSS&at_campaign=rss",
@@ -603,15 +603,6 @@
       "published_at": "2026-03-10T21:28:09Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC Europe",
-      "title": "Steve Rosenberg: Russia seeks diplomatic and economic gains from Iran war",
-      "url": "https://www.bbc.com/news/articles/c4gjyg0djvmo?at_medium=RSS&at_campaign=rss",
-      "summary": "President Putin pits himself as a potential mediator but that's not an easy sell, writes the BBC's Russia editor.",
-      "published_at": "2026-03-10T19:35:29Z",
-      "country_code": "RU",
-      "country_name": "Russia"
     },
     {
       "source": "BBC Africa",
@@ -842,24 +833,24 @@
       "news_count": 16
     },
     {
-      "country_code": "IN",
-      "country_name": "India",
-      "news_count": 5
-    },
-    {
       "country_code": "ET",
       "country_name": "Ethiopia",
       "news_count": 4
     },
     {
-      "country_code": "IL",
-      "country_name": "Israel",
-      "news_count": 3
+      "country_code": "IN",
+      "country_name": "India",
+      "news_count": 4
     },
     {
       "country_code": "AE",
       "country_name": "United Arab Emirates",
-      "news_count": 2
+      "news_count": 3
+    },
+    {
+      "country_code": "IL",
+      "country_name": "Israel",
+      "news_count": 3
     },
     {
       "country_code": "IT",
@@ -879,11 +870,6 @@
     {
       "country_code": "NZ",
       "country_name": "New Zealand",
-      "news_count": 2
-    },
-    {
-      "country_code": "RU",
-      "country_name": "Russia",
       "news_count": 2
     },
     {
@@ -952,6 +938,11 @@
       "news_count": 1
     },
     {
+      "country_code": "PK",
+      "country_name": "Pakistan",
+      "news_count": 1
+    },
+    {
       "country_code": "PS",
       "country_name": "Palestine",
       "news_count": 1
@@ -959,6 +950,11 @@
     {
       "country_code": "PT",
       "country_name": "Portugal",
+      "news_count": 1
+    },
+    {
+      "country_code": "RU",
+      "country_name": "Russia",
       "news_count": 1
     },
     {
@@ -974,11 +970,6 @@
     {
       "country_code": "SG",
       "country_name": "Singapore",
-      "news_count": 1
-    },
-    {
-      "country_code": "TR",
-      "country_name": "Turkey",
       "news_count": 1
     },
     {
