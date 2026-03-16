@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-03-16T04:15:45Z",
+  "generated_at": "2026-03-16T06:01:56Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "'A new norm': BBC visits Doha market starting to fill up again two weeks into Iran war",
+      "url": "https://www.bbc.com/news/videos/cp32gez414yo?at_medium=RSS&at_campaign=rss",
+      "summary": "The BBC's International News correspondent, Barbara Plett Usher, visits Doha's Souq Waqif market as strikes in the region continue.",
+      "published_at": "2026-03-16T05:14:45Z",
+      "country_code": "IR",
+      "country_name": "Iran"
+    },
+    {
+      "source": "BBC World",
+      "title": "Iran taking steps to prevent anti-establishment protests, Tehran residents tell BBC",
+      "url": "https://www.bbc.com/news/articles/clygdwqw5dvo?at_medium=RSS&at_campaign=rss",
+      "summary": "Residents describe new security checkpoints around the capital, where they say people are stopped and searched.",
+      "published_at": "2026-03-16T04:43:43Z",
+      "country_code": "IR",
+      "country_name": "Iran"
+    },
     {
       "source": "BBC World",
       "title": "How US groups are driving a new generation of anti-abortion activism in the UK",
@@ -43,15 +61,6 @@
       "url": "https://www.bbc.com/news/articles/cgl5w09ey30o?at_medium=RSS&at_campaign=rss",
       "summary": "Iranian state media's coverage of the war includes inflations of enemy casualties and digital manipulation intended to glorify Iran.",
       "published_at": "2026-03-16T00:05:01Z",
-      "country_code": "IR",
-      "country_name": "Iran"
-    },
-    {
-      "source": "BBC World",
-      "title": "'A new norm': BBC visits Doha market starting to fill up again two weeks into Iran war",
-      "url": "https://www.bbc.com/news/videos/cp32gez414yo?at_medium=RSS&at_campaign=rss",
-      "summary": "The BBC's International News correspondent, Barbara Plett Usher, visits Doha's Souq Waqif market as strikes in the region continue.",
-      "published_at": "2026-03-15T23:14:40Z",
       "country_code": "IR",
       "country_name": "Iran"
     },
@@ -119,7 +128,7 @@
       "country_name": "France"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Middle East",
       "title": "Israeli forces kill Palestinian couple and two of their children in occupied West Bank",
       "url": "https://www.bbc.com/news/articles/cqxdndz75zvo?at_medium=RSS&at_campaign=rss",
       "summary": "Mohammed, aged five, and Othman, aged seven, were killed alongside their parents, the Palestinian health ministry says.",
@@ -542,7 +551,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "Justified or not? US military families on fears of Iran war",
       "url": "https://www.bbc.com/news/videos/cqxd7lyngxjo?at_medium=RSS&at_campaign=rss",
       "summary": "BBC's North America editor Sarah Smith spoke to Gold Star mum Lynn, whose son died in the Iraq War, and veteran Jeremy.",
@@ -866,7 +875,7 @@
     {
       "country_code": "IR",
       "country_name": "Iran",
-      "news_count": 15
+      "news_count": 16
     },
     {
       "country_code": "ET",
