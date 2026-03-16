@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-16T08:44:14Z",
+  "generated_at": "2026-03-16T09:54:27Z",
   "articles": [
     {
       "source": "BBC Asia",
@@ -776,15 +776,6 @@
       "country_name": "Mexico"
     },
     {
-      "source": "BBC Latin America",
-      "title": "Search dogs, rescuers and helicopters as Mexico City holds earthquake drill",
-      "url": "https://www.bbc.com/news/videos/cq57w3q61jjo?at_medium=RSS&at_campaign=rss",
-      "summary": "About 8.2 million people participated in the first drill of the year, achieving an average evacuation time of 1 minute and 52 seconds.",
-      "published_at": "2026-02-18T22:57:44Z",
-      "country_code": "MX",
-      "country_name": "Mexico"
-    },
-    {
       "source": "BBC Europe",
       "title": "The dart frog toxin allegedly used to kill Alexei Navalny",
       "url": "https://www.bbc.com/news/videos/cwy6dlgg24ko?at_medium=RSS&at_campaign=rss",
@@ -848,11 +839,6 @@
       "news_count": 3
     },
     {
-      "country_code": "MX",
-      "country_name": "Mexico",
-      "news_count": 3
-    },
-    {
       "country_code": "RU",
       "country_name": "Russia",
       "news_count": 3
@@ -875,6 +861,11 @@
     {
       "country_code": "KE",
       "country_name": "Kenya",
+      "news_count": 2
+    },
+    {
+      "country_code": "MX",
+      "country_name": "Mexico",
       "news_count": 2
     },
     {
