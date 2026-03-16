@@ -1,6 +1,60 @@
 {
-  "generated_at": "2026-03-15T23:49:35Z",
+  "generated_at": "2026-03-16T01:20:10Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "How US groups are driving a new generation of anti-abortion activism in the UK",
+      "url": "https://www.bbc.com/news/articles/cx2dl5j0w23o?at_medium=RSS&at_campaign=rss",
+      "summary": "The killing of Charlie Kirk galvanised a transatlantic campaign against abortion. But will it succeed in shifting Britain's pro-choice conse…",
+      "published_at": "2026-03-16T00:31:48Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Ukraine's urgent fight on the financial frontline",
+      "url": "https://www.bbc.com/news/articles/c20jyngz7ygo?at_medium=RSS&at_campaign=rss",
+      "summary": "The war-torn country is battling to secure crucial funding from the IMF and EU, as well as putting up taxes.",
+      "published_at": "2026-03-16T00:06:14Z",
+      "country_code": "UA",
+      "country_name": "Ukraine"
+    },
+    {
+      "source": "BBC World",
+      "title": "'We will go wherever they hide': Rooting out IS in Somalia",
+      "url": "https://www.bbc.com/news/articles/cj32d8e2m5eo?at_medium=RSS&at_campaign=rss",
+      "summary": "Somalia became a key part of IS's global network after fighters were driven out of strongholds in Syria and Iraq.",
+      "published_at": "2026-03-16T00:05:40Z",
+      "country_code": "IQ",
+      "country_name": "Iraq"
+    },
+    {
+      "source": "BBC World",
+      "title": "How passenger planes keep flying during a war",
+      "url": "https://www.bbc.com/news/articles/cn4gne35kvno?at_medium=RSS&at_campaign=rss",
+      "summary": "Airspace over Iran and the Gulf remains severely restricted following missile strikes, putting additional pressure on airlines.",
+      "published_at": "2026-03-16T00:05:11Z",
+      "country_code": "IR",
+      "country_name": "Iran"
+    },
+    {
+      "source": "BBC World",
+      "title": "What Iranians are being told about the war",
+      "url": "https://www.bbc.com/news/articles/cgl5w09ey30o?at_medium=RSS&at_campaign=rss",
+      "summary": "Iranian state media's coverage of the war includes inflations of enemy casualties and digital manipulation intended to glorify Iran.",
+      "published_at": "2026-03-16T00:05:01Z",
+      "country_code": "IR",
+      "country_name": "Iran"
+    },
+    {
+      "source": "BBC World",
+      "title": "'A new norm': BBC visits Doha market starting to fill up again two weeks into Iran war",
+      "url": "https://www.bbc.com/news/videos/cp32gez414yo?at_medium=RSS&at_campaign=rss",
+      "summary": "The BBC's International News correspondent, Barbara Plett Usher, visits Doha's Souq Waqif market as strikes in the region continue.",
+      "published_at": "2026-03-15T23:14:40Z",
+      "country_code": "IR",
+      "country_name": "Iran"
+    },
     {
       "source": "BBC World",
       "title": "Iran captain latest footballer to drop asylum bid, Iranian state media says",
@@ -92,7 +146,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "US names six crew killed in refuelling plane crash in Iraq",
       "url": "https://www.bbc.com/news/articles/cly0d510yz3o?at_medium=RSS&at_campaign=rss",
       "summary": "The aircraft was on a combat mission as part of ongoing US operations against Iran when it crashed in western Iraq on Thursday.",
@@ -138,15 +192,6 @@
     },
     {
       "source": "BBC World",
-      "title": "BBC visits aftermath of Israeli strike on Lebanon that killed family as IDF targets Hezbollah",
-      "url": "https://www.bbc.com/news/articles/c20lvn0ex6yo?at_medium=RSS&at_campaign=rss",
-      "summary": "A relative tells BBC those killed were civilians and not Hezbollah operatives, but the Israel Defense Forces says it was targeting \"terroris…",
-      "published_at": "2026-03-14T22:55:40Z",
-      "country_code": "IL",
-      "country_name": "Israel"
-    },
-    {
-      "source": "BBC World",
       "title": "Cuban protesters ransack Communist office as energy crisis deepens",
       "url": "https://www.bbc.com/news/articles/c875zd7de5xo?at_medium=RSS&at_campaign=rss",
       "summary": "Discontent is mounting over rolling blackouts and shortages of food, fuel and medicine, exacerbated by a US blockade.",
@@ -164,7 +209,7 @@
       "country_name": "Russia"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "Trump urges UK and other nations to send warships to Strait of Hormuz",
       "url": "https://www.bbc.com/news/articles/cd039n9vj3vo?at_medium=RSS&at_campaign=rss",
       "summary": "The US president says he hopes China, France, Japan and South Korea will also send ships to defend the key oil shipping route.",
@@ -182,7 +227,7 @@
       "country_name": "Germany"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Middle East",
       "title": "Why has the US targeted Iran's Kharg Island?",
       "url": "https://www.bbc.com/news/articles/c8jxzlwvd8ro?at_medium=RSS&at_campaign=rss",
       "summary": "The tiny island is home to one of the most critical pieces of Iran's energy infrastructure.",
@@ -191,7 +236,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Middle East",
       "title": "Hamas urges key ally Iran to halt attacks on Gulf states",
       "url": "https://www.bbc.com/news/articles/cvg3xk6xgyzo?at_medium=RSS&at_campaign=rss",
       "summary": "The Palestinian group also affirms Tehran's right to defend itself from \"aggression\" by the US and Israel.",
@@ -489,28 +534,10 @@
     },
     {
       "source": "BBC Asia",
-      "title": "China approves 'ethnic unity' law requiring minorities to learn Mandarin",
-      "url": "https://www.bbc.com/news/articles/cp9meeek051o?at_medium=RSS&at_campaign=rss",
-      "summary": "The law states that children should be taught Mandarin before kindergarten, until the end of high school.",
-      "published_at": "2026-03-12T08:41:47Z",
-      "country_code": "CN",
-      "country_name": "China"
-    },
-    {
-      "source": "BBC Asia",
       "title": "What did we learn from China's biggest political meeting?",
       "url": "https://www.bbc.com/news/articles/cvg80pedxeyo?at_medium=RSS&at_campaign=rss",
       "summary": "BBC correspondents give us their biggest takeaways from China's National People's Congress.",
       "published_at": "2026-03-12T08:10:16Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC Asia",
-      "title": "'The situation is dire': War on Iran squeezes India's cooking-gas supplies",
-      "url": "https://www.bbc.com/news/articles/cm2xg0p4y84o?at_medium=RSS&at_campaign=rss",
-      "summary": "The shockwaves of the US-Israeli strikes on Iran are being felt in India's kitchens.",
-      "published_at": "2026-03-12T07:51:02Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -839,7 +866,7 @@
     {
       "country_code": "IR",
       "country_name": "Iran",
-      "news_count": 12
+      "news_count": 15
     },
     {
       "country_code": "ET",
@@ -849,7 +876,7 @@
     {
       "country_code": "IL",
       "country_name": "Israel",
-      "news_count": 4
+      "news_count": 3
     },
     {
       "country_code": "IN",
@@ -864,6 +891,11 @@
     {
       "country_code": "RU",
       "country_name": "Russia",
+      "news_count": 3
+    },
+    {
+      "country_code": "UA",
+      "country_name": "Ukraine",
       "news_count": 3
     },
     {
@@ -902,11 +934,6 @@
       "news_count": 2
     },
     {
-      "country_code": "UA",
-      "country_name": "Ukraine",
-      "news_count": 2
-    },
-    {
       "country_code": "ZA",
       "country_name": "South Africa",
       "news_count": 2
@@ -922,13 +949,13 @@
       "news_count": 1
     },
     {
-      "country_code": "CN",
-      "country_name": "China",
+      "country_code": "DE",
+      "country_name": "Germany",
       "news_count": 1
     },
     {
-      "country_code": "DE",
-      "country_name": "Germany",
+      "country_code": "IQ",
+      "country_name": "Iraq",
       "news_count": 1
     },
     {
