@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-03-16T18:47:51Z",
+  "generated_at": "2026-03-16T19:46:55Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "UN receives reports alleging torture of detainees in Venezuela continues",
+      "url": "https://www.bbc.com/news/articles/c0e5v9n1qqwo?at_medium=RSS&at_campaign=rss",
+      "summary": "The UN is deeply concerned by allegations there have been incidents of torture after Nicolás Maduro's ouster.",
+      "published_at": "2026-03-16T19:08:13Z",
+      "country_code": "VE",
+      "country_name": "Venezuela"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "Two charged in death of anti-Iranian regime activist in Canada",
+      "url": "https://www.bbc.com/news/articles/c7952qyqwz4o?at_medium=RSS&at_campaign=rss",
+      "summary": "Police say the motive remains under investigation but noted the three had disputes on social media.",
+      "published_at": "2026-03-16T18:48:59Z",
+      "country_code": "CA",
+      "country_name": "Canada"
+    },
     {
       "source": "BBC Africa",
       "title": "Fifa sanctions Nigeria and DR Congo over World Cup play-off",
@@ -27,6 +45,15 @@
       "published_at": "2026-03-16T17:34:13Z",
       "country_code": "IR",
       "country_name": "Iran"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "Bank of America settles over Epstein claims",
+      "url": "https://www.bbc.com/news/articles/c4gen0xyvy8o?at_medium=RSS&at_campaign=rss",
+      "summary": "The lawsuit had accused the bank of facilitating Epstein's sex trafficking.",
+      "published_at": "2026-03-16T17:34:08Z",
+      "country_code": "US",
+      "country_name": "United States"
     },
     {
       "source": "BBC Latin America",
@@ -335,15 +362,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC US & Canada",
-      "title": "Trump urges UK and other nations to send warships to Strait of Hormuz",
-      "url": "https://www.bbc.com/news/articles/cd039n9vj3vo?at_medium=RSS&at_campaign=rss",
-      "summary": "The US president says he hopes China, France, Japan and South Korea will also send ships to defend the key oil shipping route.",
-      "published_at": "2026-03-14T20:33:34Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC Europe",
       "title": "German philosopher and social critic Jürgen Habermas dies at 96",
       "url": "https://www.bbc.com/news/articles/crk8yxd2g0no?at_medium=RSS&at_campaign=rss",
@@ -506,7 +524,7 @@
       "country_name": "Iran"
     },
     {
-      "source": "BBC US & Canada",
+      "source": "BBC Middle East",
       "title": "Mission accomplished? The 2003 boast that haunts today's Iran conflict",
       "url": "https://www.bbc.com/news/articles/c1e9yy84we8o?at_medium=RSS&at_campaign=rss",
       "summary": "The echoes between the conflicts are certainly there but there are also profound differences.",
@@ -821,15 +839,6 @@
       "country_name": "Mexico"
     },
     {
-      "source": "BBC Latin America",
-      "title": "Brazil floods: 'I saw people trapped in their homes crying for help'",
-      "url": "https://www.bbc.com/news/articles/clygx788x7go?at_medium=RSS&at_campaign=rss",
-      "summary": "Dozens of people have died in landslides and flooding in the Brazilian state of Minas Gerais.",
-      "published_at": "2026-02-25T13:50:26Z",
-      "country_code": "BR",
-      "country_name": "Brazil"
-    },
-    {
       "source": "BBC Europe",
       "title": "The dart frog toxin allegedly used to kill Alexei Navalny",
       "url": "https://www.bbc.com/news/videos/cwy6dlgg24ko?at_medium=RSS&at_campaign=rss",
@@ -929,13 +938,18 @@
       "news_count": 2
     },
     {
+      "country_code": "VE",
+      "country_name": "Venezuela",
+      "news_count": 2
+    },
+    {
       "country_code": "AU",
       "country_name": "Australia",
       "news_count": 1
     },
     {
-      "country_code": "BR",
-      "country_name": "Brazil",
+      "country_code": "CA",
+      "country_name": "Canada",
       "news_count": 1
     },
     {
@@ -1001,11 +1015,6 @@
     {
       "country_code": "SG",
       "country_name": "Singapore",
-      "news_count": 1
-    },
-    {
-      "country_code": "VE",
-      "country_name": "Venezuela",
       "news_count": 1
     },
     {
