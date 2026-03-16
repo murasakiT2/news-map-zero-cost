@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-03-16T10:44:19Z",
+  "generated_at": "2026-03-16T11:39:23Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Who wants what from the Iran war?",
+      "url": "https://www.bbc.com/news/articles/cgk2lm5znyro?at_medium=RSS&at_campaign=rss",
+      "summary": "Most people, although not everybody, want this war to end as quickly as possible. But on what terms?",
+      "published_at": "2026-03-16T11:00:03Z",
+      "country_code": "IR",
+      "country_name": "Iran"
+    },
     {
       "source": "BBC World",
       "title": "Ten killed in fire at India hospital intensive care unit",
@@ -65,7 +74,7 @@
       "country_name": "Iran"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Middle East",
       "title": "What Iranians are being told about the war",
       "url": "https://www.bbc.com/news/articles/cgl5w09ey30o?at_medium=RSS&at_campaign=rss",
       "summary": "Iranian state media's coverage of the war includes inflations of enemy casualties and digital manipulation intended to glorify Iran.",
@@ -110,7 +119,7 @@
       "country_name": "Iran"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Africa",
       "title": "Severe flooding kills 66 in Kenya, as heavy rains continue",
       "url": "https://www.bbc.com/news/articles/cz6e5eng03yo?at_medium=RSS&at_campaign=rss",
       "summary": "Eleven people were rescued overnight after a minibus taxi got stuck in rising floodwaters in Nairobi.",
@@ -819,15 +828,6 @@
       "published_at": "2026-02-05T17:15:30Z",
       "country_code": "NG",
       "country_name": "Nigeria"
-    },
-    {
-      "source": "BBC Africa",
-      "title": "South African national park closed due to floods",
-      "url": "https://www.bbc.com/news/videos/c20d9qdz7zwo?at_medium=RSS&at_campaign=rss",
-      "summary": "Ongoing floods in the north-eastern provinces of South Africa has led to the closure of the world-famous Kruger National Park.",
-      "published_at": "2026-01-16T16:52:14Z",
-      "country_code": "ZA",
-      "country_name": "South Africa"
     }
   ],
   "regions": [
@@ -839,7 +839,7 @@
     {
       "country_code": "IR",
       "country_name": "Iran",
-      "news_count": 15
+      "news_count": 16
     },
     {
       "country_code": "IN",
@@ -889,11 +889,6 @@
     {
       "country_code": "UA",
       "country_name": "Ukraine",
-      "news_count": 2
-    },
-    {
-      "country_code": "ZA",
-      "country_name": "South Africa",
       "news_count": 2
     },
     {
@@ -989,6 +984,11 @@
     {
       "country_code": "VE",
       "country_name": "Venezuela",
+      "news_count": 1
+    },
+    {
+      "country_code": "ZA",
+      "country_name": "South Africa",
       "news_count": 1
     }
   ]
