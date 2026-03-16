@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-16T22:34:14Z",
+  "generated_at": "2026-03-16T23:21:35Z",
   "articles": [
     {
       "source": "BBC US & Canada",
       "title": "Trump border patrol chief Greg Bovino to retire",
       "url": "https://www.bbc.com/news/articles/c75e24grnv3o?at_medium=RSS&at_campaign=rss",
-      "summary": "Greg Bovino, who led immigration operations in Minnesota that resulted in the fatal shootings of two US citizens, is stepping down.",
+      "summary": "He led operations in Democratic-led cities including Minneapolis, where two US citizens were fatally shot.",
       "published_at": "2026-03-16T21:17:22Z",
       "country_code": "US",
       "country_name": "United States"
@@ -126,6 +126,24 @@
       "published_at": "2026-03-16T14:09:58Z",
       "country_code": "RU",
       "country_name": "Russia"
+    },
+    {
+      "source": "BBC Asia",
+      "title": "Iranian footballer says 'everything will be fine' as she trains with Oz team",
+      "url": "https://www.bbc.com/news/articles/clyxwgll758o?at_medium=RSS&at_campaign=rss",
+      "summary": "The footballers were given visas to stay in Australia after concerns the team would face repercussions at home.",
+      "published_at": "2026-03-16T13:40:22Z",
+      "country_code": "AU",
+      "country_name": "Australia"
+    },
+    {
+      "source": "BBC Asia",
+      "title": "Chinese retailer rivalling Amazon launches in UK",
+      "url": "https://www.bbc.com/news/articles/ceqv4r3nvy2o?at_medium=RSS&at_campaign=rss",
+      "summary": "Joybuy, which has distribution centres in Luton and Milton Keynes, is entering six European markets.",
+      "published_at": "2026-03-16T13:29:36Z",
+      "country_code": "GB",
+      "country_name": "United Kingdom"
     },
     {
       "source": "BBC World",
@@ -606,15 +624,6 @@
     },
     {
       "source": "BBC Asia",
-      "title": "Chinese national arrested over attempt to smuggle 2,000 queen ants from Kenya",
-      "url": "https://www.bbc.com/news/articles/cz7gd57z33zo?at_medium=RSS&at_campaign=rss",
-      "summary": "The suspect had packed some ants in test tubes while others were concealed in tissue paper rolls, prosecutor says.",
-      "published_at": "2026-03-12T08:43:10Z",
-      "country_code": "KE",
-      "country_name": "Kenya"
-    },
-    {
-      "source": "BBC Asia",
       "title": "What did we learn from China's biggest political meeting?",
       "url": "https://www.bbc.com/news/articles/cvg80pedxeyo?at_medium=RSS&at_campaign=rss",
       "summary": "BBC correspondents give us their biggest takeaways from China's National People's Congress.",
@@ -912,13 +921,18 @@
       "news_count": 3
     },
     {
-      "country_code": "IT",
-      "country_name": "Italy",
+      "country_code": "AU",
+      "country_name": "Australia",
       "news_count": 2
     },
     {
-      "country_code": "KE",
-      "country_name": "Kenya",
+      "country_code": "GB",
+      "country_name": "United Kingdom",
+      "news_count": 2
+    },
+    {
+      "country_code": "IT",
+      "country_name": "Italy",
       "news_count": 2
     },
     {
@@ -952,11 +966,6 @@
       "news_count": 2
     },
     {
-      "country_code": "AU",
-      "country_name": "Australia",
-      "news_count": 1
-    },
-    {
       "country_code": "CA",
       "country_name": "Canada",
       "news_count": 1
@@ -972,11 +981,6 @@
       "news_count": 1
     },
     {
-      "country_code": "GB",
-      "country_name": "United Kingdom",
-      "news_count": 1
-    },
-    {
       "country_code": "IQ",
       "country_name": "Iraq",
       "news_count": 1
@@ -984,6 +988,11 @@
     {
       "country_code": "JP",
       "country_name": "Japan",
+      "news_count": 1
+    },
+    {
+      "country_code": "KE",
+      "country_name": "Kenya",
       "news_count": 1
     },
     {
