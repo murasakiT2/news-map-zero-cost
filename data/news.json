@@ -1,14 +1,23 @@
 {
-  "generated_at": "2026-03-17T21:05:00Z",
+  "generated_at": "2026-03-17T21:59:29Z",
   "articles": [
     {
       "source": "BBC World",
-      "title": "Israel says it killed Iranian security chief Ali Larijani in air strike",
-      "url": "https://www.bbc.com/news/articles/c24deezq6meo?at_medium=RSS&at_campaign=rss",
-      "summary": "Iran's Revolutionary Guards confirmed the death of a different commander, but did not comment on Larijani.",
-      "published_at": "2026-03-17T20:08:51Z",
-      "country_code": "IL",
-      "country_name": "Israel"
+      "title": "Top US counterterrorism official resigns over Iran war, urging Trump to 'reverse course'",
+      "url": "https://www.bbc.com/news/articles/cg4g66r3z40o?at_medium=RSS&at_campaign=rss",
+      "summary": "National Counterterrorism Center Director Joe Kent says Trump \"started this war due to pressure from Israel and its powerful American lobby\"…",
+      "published_at": "2026-03-17T21:48:08Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "Watch: Sean Penn receives 'Oscar' in Ukraine after skipping US ceremony",
+      "url": "https://www.bbc.com/news/videos/cgmlmv7vl0go?at_medium=RSS&at_campaign=rss",
+      "summary": "The Academy Award winning US actor won his third Oscar on Sunday, but skipped the ceremony to visit Ukraine.",
+      "published_at": "2026-03-17T21:04:26Z",
+      "country_code": "US",
+      "country_name": "United States"
     },
     {
       "source": "BBC Europe",
@@ -57,15 +66,6 @@
     },
     {
       "source": "BBC World",
-      "title": "Top US counterterrorism official resigns over Iran war, urging Trump to 'reverse course'",
-      "url": "https://www.bbc.com/news/articles/cg4g66r3z40o?at_medium=RSS&at_campaign=rss",
-      "summary": "National Counterterrorism Center Director Joe Kent says Trump \"started this war due to pressure from Israel and its powerful American lobby\"…",
-      "published_at": "2026-03-17T16:43:34Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
       "title": "What have US allies and China said about sending ships to the Strait of Hormuz?",
       "url": "https://www.bbc.com/news/articles/crm8g938erdo?at_medium=RSS&at_campaign=rss",
       "summary": "US allies have either pushed back or remained cautious on Trump's initial request to send ships to the crucial oil route.",
@@ -99,6 +99,15 @@
       "published_at": "2026-03-17T15:36:28Z",
       "country_code": "US",
       "country_name": "United States"
+    },
+    {
+      "source": "BBC Asia",
+      "title": "Kerr winner sends Australia into Asian Cup final",
+      "url": "https://www.bbc.com/sport/football/articles/czd89zegm9go?at_medium=RSS&at_campaign=rss",
+      "summary": "Captain Sam Kerr scores the winner as Australia beat China 2-1 to reach the final of the Asian Cup.",
+      "published_at": "2026-03-17T13:34:14Z",
+      "country_code": "CN",
+      "country_name": "China"
     },
     {
       "source": "BBC Europe",
@@ -461,15 +470,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Asia",
-      "title": "Caddy faces 'hardest weeks' on New Zealand trek",
-      "url": "https://www.bbc.com/news/articles/c795gq439lro?at_medium=RSS&at_campaign=rss",
-      "summary": "Dougie Haynes, originally from Oxford, says the hardest section of his trek comes with \"spectacular views\".",
-      "published_at": "2026-03-15T07:11:15Z",
-      "country_code": "NZ",
-      "country_name": "New Zealand"
-    },
-    {
       "source": "BBC US & Canada",
       "title": "'Gruesome' war bets fuel calls for crackdown on prediction markets",
       "url": "https://www.bbc.com/news/articles/cjwz8051y0lo?at_medium=RSS&at_campaign=rss",
@@ -596,15 +596,6 @@
       "country_name": "United Kingdom"
     },
     {
-      "source": "BBC Asia",
-      "title": "'No-one will hire women' - India's top court rejects menstrual leave petition",
-      "url": "https://www.bbc.com/news/articles/c0436qkegdqo?at_medium=RSS&at_campaign=rss",
-      "summary": "The subject has polarised India for long, though some states and private companies offer menstrual leaves.",
-      "published_at": "2026-03-13T11:47:09Z",
-      "country_code": "IN",
-      "country_name": "India"
-    },
-    {
       "source": "BBC Middle East",
       "title": "Bodies of 84 Iranian sailors killed in US torpedo strike to be repatriated",
       "url": "https://www.bbc.com/news/articles/c363lk4xk07o?at_medium=RSS&at_campaign=rss",
@@ -711,15 +702,6 @@
       "published_at": "2026-03-11T10:31:57Z",
       "country_code": "ZA",
       "country_name": "South Africa"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "'I don't know why we're doing it' - Americans divided on Iran war",
-      "url": "https://www.bbc.com/news/videos/cy8gm4vr70go?at_medium=RSS&at_campaign=rss",
-      "summary": "Ten days since President Trump first announced the attack, people from across the US tell the BBC what they think the best outcome of the co…",
-      "published_at": "2026-03-10T21:28:09Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC Africa",
@@ -925,7 +907,7 @@
     {
       "country_code": "IN",
       "country_name": "India",
-      "news_count": 6
+      "news_count": 5
     },
     {
       "country_code": "ET",
@@ -940,11 +922,6 @@
     {
       "country_code": "AE",
       "country_name": "United Arab Emirates",
-      "news_count": 3
-    },
-    {
-      "country_code": "IL",
-      "country_name": "Israel",
       "news_count": 3
     },
     {
@@ -988,8 +965,8 @@
       "news_count": 2
     },
     {
-      "country_code": "NZ",
-      "country_name": "New Zealand",
+      "country_code": "IL",
+      "country_name": "Israel",
       "news_count": 2
     },
     {
@@ -1018,6 +995,11 @@
       "news_count": 1
     },
     {
+      "country_code": "CN",
+      "country_name": "China",
+      "news_count": 1
+    },
+    {
       "country_code": "DE",
       "country_name": "Germany",
       "news_count": 1
@@ -1040,6 +1022,11 @@
     {
       "country_code": "NL",
       "country_name": "Netherlands",
+      "news_count": 1
+    },
+    {
+      "country_code": "NZ",
+      "country_name": "New Zealand",
       "news_count": 1
     },
     {
