@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-03-17T07:47:34Z",
+  "generated_at": "2026-03-17T08:39:18Z",
   "articles": [
+    {
+      "source": "BBC Europe",
+      "title": "Easter holidaymakers switching from Dubai to Spain as flights fill up",
+      "url": "https://www.bbc.com/news/articles/cm21gv3133zo?at_medium=RSS&at_campaign=rss",
+      "summary": "It comes after the war in Iran caused mass disruption to flights across the Middle East and UAE.",
+      "published_at": "2026-03-17T08:10:24Z",
+      "country_code": "ES",
+      "country_name": "Spain"
+    },
+    {
+      "source": "BBC World",
+      "title": "Trump seeks to delay meeting with Xi in China",
+      "url": "https://www.bbc.com/news/articles/cn9e0z7v3nxo?at_medium=RSS&at_campaign=rss",
+      "summary": "The escalating war in Iran has overshadowed many of the US' foreign policy objectives",
+      "published_at": "2026-03-17T07:52:40Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "Gas on the line: will the Iran war squeeze India's piped gas next?",
@@ -9,6 +27,15 @@
       "published_at": "2026-03-17T06:47:42Z",
       "country_code": "IN",
       "country_name": "India"
+    },
+    {
+      "source": "BBC Europe",
+      "title": "Arsenal trial and self-doubt: Valverde's journey to Real legend",
+      "url": "https://www.bbc.com/sport/football/articles/cd9g12yl111o?at_medium=RSS&at_campaign=rss",
+      "summary": "Rejected by Arsenal as a teenager, Federico Valverde has transformed himself into a Real Madrid legend - and was the main man in their Champ…",
+      "published_at": "2026-03-17T06:11:34Z",
+      "country_code": "ES",
+      "country_name": "Spain"
     },
     {
       "source": "BBC Latin America",
@@ -29,20 +56,20 @@
       "country_name": "Australia"
     },
     {
+      "source": "BBC Middle East",
+      "title": "Israel says 'limited' ground operations under way in Lebanon",
+      "url": "https://www.bbc.com/news/articles/clyz78kgp22o?at_medium=RSS&at_campaign=rss",
+      "summary": "Troops are targeting \"Hezbollah strongholds\" in south Lebanon, where strikes reportedly killed nine people on Monday.",
+      "published_at": "2026-03-17T05:03:13Z",
+      "country_code": "IL",
+      "country_name": "Israel"
+    },
+    {
       "source": "BBC World",
       "title": "Millions without electricity as Cuba's power grid collapses",
       "url": "https://www.bbc.com/news/articles/c07j40dyx53o?at_medium=RSS&at_campaign=rss",
       "summary": "Cuba's chronic fuel shortages have been exacerbated by a US blockade on oil shipments to the island.",
       "published_at": "2026-03-17T03:46:22Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC Asia",
-      "title": "Trump seeks to delay meeting with Xi in China",
-      "url": "https://www.bbc.com/news/articles/cn9e0z7v3nxo?at_medium=RSS&at_campaign=rss",
-      "summary": "The escalating war in Iran has overshadowed many of the US' foreign policy objectives",
-      "published_at": "2026-03-17T02:48:45Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -56,7 +83,7 @@
       "country_name": "India"
     },
     {
-      "source": "BBC US & Canada",
+      "source": "BBC World",
       "title": "Columbia University protester released after one year in immigration custody",
       "url": "https://www.bbc.com/news/articles/ckgzdkg0q9go?at_medium=RSS&at_campaign=rss",
       "summary": "Federal officials say Leqaa Kordia overstayed her student visa. Her lawyer says she was targeted for pro-Palestinian activism.",
@@ -83,7 +110,7 @@
       "country_name": "Sudan"
     },
     {
-      "source": "BBC US & Canada",
+      "source": "BBC World",
       "title": "From tornadoes to blizzards, severe weather batters parts of the US",
       "url": "https://www.bbc.com/news/articles/cj98meelzv3o?at_medium=RSS&at_campaign=rss",
       "summary": "Millions are under weather warnings as mix of snow, thunderstorms, and high winds hit parts of the eastern US, while the west coast faces ex…",
@@ -101,13 +128,22 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Latin America",
       "title": "UN receives reports alleging torture of detainees in Venezuela continues",
       "url": "https://www.bbc.com/news/articles/c0e5v9n1qqwo?at_medium=RSS&at_campaign=rss",
       "summary": "The UN is deeply concerned by allegations there have been incidents of torture after Nicolás Maduro's ouster.",
       "published_at": "2026-03-16T19:08:13Z",
       "country_code": "VE",
       "country_name": "Venezuela"
+    },
+    {
+      "source": "BBC Middle East",
+      "title": "How might the UK support shipping in the Strait of Hormuz?",
+      "url": "https://www.bbc.com/news/videos/cvgj29dgrxwo?at_medium=RSS&at_campaign=rss",
+      "summary": "Ben Chu from BBC Verify has been looking at what role the Royal Navy could play in the Strait of Hormuz.",
+      "published_at": "2026-03-16T18:52:34Z",
+      "country_code": "GB",
+      "country_name": "United Kingdom"
     },
     {
       "source": "BBC US & Canada",
@@ -182,15 +218,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Middle East",
-      "title": "In maps: Attacks across Iran and the Middle East enter third week",
-      "url": "https://www.bbc.com/news/articles/c4g0pnnj8xyo?at_medium=RSS&at_campaign=rss",
-      "summary": "The US-Israeli war with Iran has seen sustained attacks on Tehran and Beirut as retaliatory strikes are felt in Israel and Gulf states",
-      "published_at": "2026-03-16T16:21:47Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC US & Canada",
       "title": "Michigan synagogue attacker's brother was Hezbollah commander, IDF says",
       "url": "https://www.bbc.com/news/articles/c4gj1135x7ro?at_medium=RSS&at_campaign=rss",
@@ -209,7 +236,7 @@
       "country_name": "Russia"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Middle East",
       "title": "Iran hits key UAE oil port and Dubai airport",
       "url": "https://www.bbc.com/news/articles/crl4gxgkkylo?at_medium=RSS&at_campaign=rss",
       "summary": "The port of Fujairah plays a crucial role in helping keep global supplies moving when the Strait of Hormuz is blocked.",
@@ -227,7 +254,7 @@
       "country_name": "Pakistan"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Middle East",
       "title": "Who wants what from the Iran war?",
       "url": "https://www.bbc.com/news/articles/cgk2lm5znyro?at_medium=RSS&at_campaign=rss",
       "summary": "Most people, although not everybody, want this war to end as quickly as possible. But on what terms?",
@@ -255,15 +282,6 @@
     },
     {
       "source": "BBC World",
-      "title": "'A new norm': BBC visits Doha market starting to fill up again two weeks into Iran war",
-      "url": "https://www.bbc.com/news/videos/cp32gez414yo?at_medium=RSS&at_campaign=rss",
-      "summary": "The BBC's International News correspondent, Barbara Plett Usher, visits Doha's Souq Waqif market as strikes in the region continue.",
-      "published_at": "2026-03-16T05:14:45Z",
-      "country_code": "IR",
-      "country_name": "Iran"
-    },
-    {
-      "source": "BBC World",
       "title": "Iran taking steps to prevent anti-establishment protests, Tehran residents tell BBC",
       "url": "https://www.bbc.com/news/articles/clygdwqw5dvo?at_medium=RSS&at_campaign=rss",
       "summary": "Residents describe new security checkpoints around the capital, where they say people are stopped and searched.",
@@ -281,7 +299,7 @@
       "country_name": "Ukraine"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Africa",
       "title": "'We will go wherever they hide': Rooting out IS in Somalia",
       "url": "https://www.bbc.com/news/articles/cj32d8e2m5eo?at_medium=RSS&at_campaign=rss",
       "summary": "Somalia became a key part of IS's global network after fighters were driven out of strongholds in Syria and Iraq.",
@@ -351,15 +369,6 @@
       "published_at": "2026-03-15T10:38:22Z",
       "country_code": "PS",
       "country_name": "Palestine"
-    },
-    {
-      "source": "BBC Middle East",
-      "title": "BBC visits scene of deadly strike in Lebanon",
-      "url": "https://www.bbc.com/news/videos/c8jxzkre8mzo?at_medium=RSS&at_campaign=rss",
-      "summary": "As Israel continues to attack Hezbollah targets in Lebanon, correspondent Wyre Davies visits a home where eight people were killed.",
-      "published_at": "2026-03-15T10:20:50Z",
-      "country_code": "IL",
-      "country_name": "Israel"
     },
     {
       "source": "BBC Middle East",
@@ -570,39 +579,12 @@
     },
     {
       "source": "BBC Middle East",
-      "title": "'Follow the smoke': BBC spends day with emergency teams as Israel strikes south Lebanon",
-      "url": "https://www.bbc.com/news/articles/cx28v2y7de2o?at_medium=RSS&at_campaign=rss",
-      "summary": "The BBC visited the city of Nabatieh, witnessing the pace and scale of Israel's bombing as its war with Hezbollah continues to escalate.",
-      "published_at": "2026-03-12T20:53:35Z",
-      "country_code": "IL",
-      "country_name": "Israel"
-    },
-    {
-      "source": "BBC Middle East",
       "title": "Emirati minister tells BBC Iran must end strikes on Gulf",
       "url": "https://www.bbc.com/news/articles/cy8lzn2ejpjo?at_medium=RSS&at_campaign=rss",
       "summary": "The UAE says more than 1,800 drones and missiles have been projected at the country since the war began.",
       "published_at": "2026-03-12T20:20:50Z",
       "country_code": "AE",
       "country_name": "United Arab Emirates"
-    },
-    {
-      "source": "BBC Middle East",
-      "title": "How Iran war laid bare the world's reliance on Gulf oil and gas",
-      "url": "https://www.bbc.com/news/articles/c15x1y8d37vo?at_medium=RSS&at_campaign=rss",
-      "summary": "Countries around the world are feeling the impact of the conflict and the resulting energy price shock.",
-      "published_at": "2026-03-12T13:57:56Z",
-      "country_code": "IR",
-      "country_name": "Iran"
-    },
-    {
-      "source": "BBC Middle East",
-      "title": "'What if we're left with ruins?': Doubts creep in for Iranians who supported war",
-      "url": "https://www.bbc.com/news/articles/c3094g50rnvo?at_medium=RSS&at_campaign=rss",
-      "summary": "Teachers, engineers and shopkeepers tell the BBC they fear Iran falling into chaos.",
-      "published_at": "2026-03-12T12:49:14Z",
-      "country_code": "IR",
-      "country_name": "Iran"
     },
     {
       "source": "BBC Africa",
@@ -621,15 +603,6 @@
       "published_at": "2026-03-12T10:07:43Z",
       "country_code": "IR",
       "country_name": "Iran"
-    },
-    {
-      "source": "BBC Europe",
-      "title": "War in Ukraine spills into Hungarian election campaign",
-      "url": "https://www.bbc.com/news/articles/crm8rxwyyz8o?at_medium=RSS&at_campaign=rss",
-      "summary": "Hungary is going to the polls soon and Prime Minister Viktor Orbán has one public enemy in his sights - Ukraine's president.",
-      "published_at": "2026-03-12T09:03:39Z",
-      "country_code": "UA",
-      "country_name": "Ukraine"
     },
     {
       "source": "BBC Asia",
@@ -879,12 +852,12 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 31
+      "news_count": 30
     },
     {
       "country_code": "IR",
       "country_name": "Iran",
-      "news_count": 16
+      "news_count": 13
     },
     {
       "country_code": "IN",
@@ -902,8 +875,8 @@
       "news_count": 3
     },
     {
-      "country_code": "IL",
-      "country_name": "Israel",
+      "country_code": "ES",
+      "country_name": "Spain",
       "news_count": 3
     },
     {
@@ -919,6 +892,16 @@
     {
       "country_code": "AU",
       "country_name": "Australia",
+      "news_count": 2
+    },
+    {
+      "country_code": "GB",
+      "country_name": "United Kingdom",
+      "news_count": 2
+    },
+    {
+      "country_code": "IL",
+      "country_name": "Israel",
       "news_count": 2
     },
     {
@@ -947,11 +930,6 @@
       "news_count": 2
     },
     {
-      "country_code": "UA",
-      "country_name": "Ukraine",
-      "news_count": 2
-    },
-    {
       "country_code": "VE",
       "country_name": "Venezuela",
       "news_count": 2
@@ -964,16 +942,6 @@
     {
       "country_code": "DE",
       "country_name": "Germany",
-      "news_count": 1
-    },
-    {
-      "country_code": "ES",
-      "country_name": "Spain",
-      "news_count": 1
-    },
-    {
-      "country_code": "GB",
-      "country_name": "United Kingdom",
       "news_count": 1
     },
     {
@@ -1009,6 +977,11 @@
     {
       "country_code": "PT",
       "country_name": "Portugal",
+      "news_count": 1
+    },
+    {
+      "country_code": "UA",
+      "country_name": "Ukraine",
       "news_count": 1
     },
     {
