@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-03-17T14:13:21Z",
+  "generated_at": "2026-03-17T15:35:28Z",
   "articles": [
+    {
+      "source": "BBC US & Canada",
+      "title": "Top US counterterrorism official resigns over Iran war, urging Trump to 'reverse course'",
+      "url": "https://www.bbc.com/news/articles/cg4g66r3z40o?at_medium=RSS&at_campaign=rss",
+      "summary": "National Counterterrorism Center Director Joe Kent says Trump \"started this war due to pressure from Israel and its powerful American lobby\"…",
+      "published_at": "2026-03-17T14:49:18Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC Europe",
       "title": "Easter holidaymakers switching from Dubai to Spain as flights fill up",
@@ -254,15 +263,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC US & Canada",
-      "title": "Michigan synagogue attacker's brother was Hezbollah commander, IDF says",
-      "url": "https://www.bbc.com/news/articles/c4gj1135x7ro?at_medium=RSS&at_campaign=rss",
-      "summary": "US officials previously said the man accused of ramming a truck full of explosives into a synagogue had recently lost family in Lebanon.",
-      "published_at": "2026-03-16T16:13:29Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC Europe",
       "title": "Russia agrees to stop using Kenyan recruits in Ukraine conflict, Kenya says",
       "url": "https://www.bbc.com/news/articles/cev7rdwmky9o?at_medium=RSS&at_campaign=rss",
@@ -362,15 +362,6 @@
       "country_name": "Australia"
     },
     {
-      "source": "BBC US & Canada",
-      "title": "FCC chair threatens to revoke broadcasters' licences over Iran coverage",
-      "url": "https://www.bbc.com/news/articles/c626ye5gq16o?at_medium=RSS&at_campaign=rss",
-      "summary": "After Trump criticised media coverage of the Iran war, Carr says he can remove licences if they do not serve the public interest.",
-      "published_at": "2026-03-15T16:52:21Z",
-      "country_code": "IR",
-      "country_name": "Iran"
-    },
-    {
       "source": "BBC Latin America",
       "title": "Spain-Argentina Finalissima in Qatar cancelled",
       "url": "https://www.bbc.com/sport/football/articles/cwy6903z140o?at_medium=RSS&at_campaign=rss",
@@ -398,7 +389,7 @@
       "country_name": "Palestine"
     },
     {
-      "source": "BBC US & Canada",
+      "source": "BBC Middle East",
       "title": "US names six crew killed in refuelling plane crash in Iraq",
       "url": "https://www.bbc.com/news/articles/cly0d510yz3o?at_medium=RSS&at_campaign=rss",
       "summary": "The aircraft was on a combat mission as part of ongoing US operations against Iran when it crashed in western Iraq on Thursday.",
@@ -875,7 +866,7 @@
     {
       "country_code": "IR",
       "country_name": "Iran",
-      "news_count": 12
+      "news_count": 11
     },
     {
       "country_code": "IN",
