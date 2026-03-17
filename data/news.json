@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-03-17T05:17:47Z",
+  "generated_at": "2026-03-17T06:36:02Z",
   "articles": [
+    {
+      "source": "BBC Asia",
+      "title": "Why did only two Iranian football players stay in Australia?",
+      "url": "https://www.bbc.com/news/videos/czd8921rljpo?at_medium=RSS&at_campaign=rss",
+      "summary": "After Australia gave humanitarian visas to seven team members, only two decided to stay - the BBC's Katy Watson explains what happened.",
+      "published_at": "2026-03-17T05:22:11Z",
+      "country_code": "AU",
+      "country_name": "Australia"
+    },
     {
       "source": "BBC World",
       "title": "Millions without electricity as Cuba's power grid collapses",
@@ -9,15 +18,6 @@
       "published_at": "2026-03-17T03:46:22Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "Afghanistan accuses Pakistan of killing hundreds in hospital strike",
-      "url": "https://www.bbc.com/news/articles/c4g8n7e0l40o?at_medium=RSS&at_campaign=rss",
-      "summary": "Islamabad denies targeting any health facility and said its strikes were aimed at military installations.",
-      "published_at": "2026-03-17T03:17:57Z",
-      "country_code": "PK",
-      "country_name": "Pakistan"
     },
     {
       "source": "BBC Asia",
@@ -189,24 +189,6 @@
       "published_at": "2026-03-16T14:09:58Z",
       "country_code": "RU",
       "country_name": "Russia"
-    },
-    {
-      "source": "BBC Asia",
-      "title": "Iranian footballer says 'everything will be fine' as she trains with Australian team",
-      "url": "https://www.bbc.com/news/articles/clyxwgll758o?at_medium=RSS&at_campaign=rss",
-      "summary": "The footballers were given visas to stay in Australia after concerns the team would face repercussions at home.",
-      "published_at": "2026-03-16T13:40:22Z",
-      "country_code": "AU",
-      "country_name": "Australia"
-    },
-    {
-      "source": "BBC Asia",
-      "title": "Chinese retailer rivalling Amazon launches in UK",
-      "url": "https://www.bbc.com/news/articles/ceqv4r3nvy2o?at_medium=RSS&at_campaign=rss",
-      "summary": "Joybuy, which has distribution centres in Luton and Milton Keynes, is entering six European markets.",
-      "published_at": "2026-03-16T13:29:36Z",
-      "country_code": "GB",
-      "country_name": "United Kingdom"
     },
     {
       "source": "BBC World",
@@ -958,11 +940,6 @@
       "news_count": 2
     },
     {
-      "country_code": "GB",
-      "country_name": "United Kingdom",
-      "news_count": 2
-    },
-    {
       "country_code": "IT",
       "country_name": "Italy",
       "news_count": 2
@@ -975,11 +952,6 @@
     {
       "country_code": "NZ",
       "country_name": "New Zealand",
-      "news_count": 2
-    },
-    {
-      "country_code": "PK",
-      "country_name": "Pakistan",
       "news_count": 2
     },
     {
@@ -1018,6 +990,11 @@
       "news_count": 1
     },
     {
+      "country_code": "GB",
+      "country_name": "United Kingdom",
+      "news_count": 1
+    },
+    {
       "country_code": "IQ",
       "country_name": "Iraq",
       "news_count": 1
@@ -1040,6 +1017,11 @@
     {
       "country_code": "NL",
       "country_name": "Netherlands",
+      "news_count": 1
+    },
+    {
+      "country_code": "PK",
+      "country_name": "Pakistan",
       "news_count": 1
     },
     {
