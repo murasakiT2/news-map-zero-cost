@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-03-17T21:59:29Z",
+  "generated_at": "2026-03-17T22:35:34Z",
   "articles": [
+    {
+      "source": "BBC Africa",
+      "title": "Morocco awarded Afcon title after CAF overturns result",
+      "url": "https://www.bbc.com/sport/football/articles/ce949glzzglo?at_medium=RSS&at_campaign=rss",
+      "summary": "Morocco declared the winners of the 2025 Africa Cup of Nations after the Confederation of African Football overturns the result of their fin…",
+      "published_at": "2026-03-17T22:28:57Z",
+      "country_code": "MA",
+      "country_name": "Morocco"
+    },
     {
       "source": "BBC World",
       "title": "Top US counterterrorism official resigns over Iran war, urging Trump to 'reverse course'",
@@ -23,7 +32,7 @@
       "source": "BBC Europe",
       "title": "Italy warns stricken Russian tanker could explode in Med at any time",
       "url": "https://www.bbc.com/news/articles/cn9e9dxw3e1o?at_medium=RSS&at_campaign=rss",
-      "summary": "Italy is one of nine EU countries urging the European Commission to act over the Arctic Metagaz drifting out of control in the Med.",
+      "summary": "Italy is one of nine EU countries urging the European Commission to act over the Arctic Metagaz drifting out of control in the Mediterranean…",
       "published_at": "2026-03-17T19:21:00Z",
       "country_code": "IT",
       "country_name": "Italy"
@@ -970,6 +979,11 @@
       "news_count": 2
     },
     {
+      "country_code": "MA",
+      "country_name": "Morocco",
+      "news_count": 2
+    },
+    {
       "country_code": "SD",
       "country_name": "Sudan",
       "news_count": 2
@@ -1012,11 +1026,6 @@
     {
       "country_code": "JP",
       "country_name": "Japan",
-      "news_count": 1
-    },
-    {
-      "country_code": "MA",
-      "country_name": "Morocco",
       "news_count": 1
     },
     {
