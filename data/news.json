@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-03-17T12:44:31Z",
+  "generated_at": "2026-03-17T14:13:21Z",
   "articles": [
+    {
+      "source": "BBC Europe",
+      "title": "Easter holidaymakers switching from Dubai to Spain as flights fill up",
+      "url": "https://www.bbc.com/news/articles/cm21gv3133zo?at_medium=RSS&at_campaign=rss",
+      "summary": "It comes after the war in Iran caused mass disruption to flights across the Middle East and UAE.",
+      "published_at": "2026-03-17T13:33:44Z",
+      "country_code": "ES",
+      "country_name": "Spain"
+    },
+    {
+      "source": "BBC World",
+      "title": "US west coast prepares for 'dangerous' heatwave in early spring",
+      "url": "https://www.bbc.com/news/articles/cwy80zk8d8xo?at_medium=RSS&at_campaign=rss",
+      "summary": "Severe weather is plaguing the US from coast to coast, bringing a mix of extreme heat and bitter cold.",
+      "published_at": "2026-03-17T13:26:03Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "Pakistan air strike kills at least 100 at Kabul drug rehab centre",
@@ -18,15 +36,6 @@
       "published_at": "2026-03-17T12:00:43Z",
       "country_code": "NG",
       "country_name": "Nigeria"
-    },
-    {
-      "source": "BBC Europe",
-      "title": "Easter holidaymakers switching from Dubai to Spain as flights fill up",
-      "url": "https://www.bbc.com/news/articles/cm21gv3133zo?at_medium=RSS&at_campaign=rss",
-      "summary": "It comes after the war in Iran caused mass disruption to flights across the Middle East and UAE.",
-      "published_at": "2026-03-17T11:21:19Z",
-      "country_code": "ES",
-      "country_name": "Spain"
     },
     {
       "source": "BBC World",
@@ -861,7 +870,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 31
+      "news_count": 32
     },
     {
       "country_code": "IR",
