@@ -1,6 +1,51 @@
 {
-  "generated_at": "2026-03-17T18:46:55Z",
+  "generated_at": "2026-03-17T19:48:24Z",
   "articles": [
+    {
+      "source": "BBC Europe",
+      "title": "Italy warns stricken Russian tanker could explode in Med at any time",
+      "url": "https://www.bbc.com/news/articles/cn9e9dxw3e1o?at_medium=RSS&at_campaign=rss",
+      "summary": "Italy is one of nine EU countries urging the European Commission to act over the Arctic Metagaz drifting out of control in the Med.",
+      "published_at": "2026-03-17T19:21:00Z",
+      "country_code": "IT",
+      "country_name": "Italy"
+    },
+    {
+      "source": "BBC World",
+      "title": "Israel says it killed Iranian security chief Ali Larijani in air strike",
+      "url": "https://www.bbc.com/news/articles/c24deezq6meo?at_medium=RSS&at_campaign=rss",
+      "summary": "The deaths of Larijani and the head of the paramilitary Basij force have not been confirmed by Iranian authorities.",
+      "published_at": "2026-03-17T19:07:04Z",
+      "country_code": "IL",
+      "country_name": "Israel"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "US Attorney General Bondi formally summoned to Congress in Epstein case",
+      "url": "https://www.bbc.com/news/articles/cwyky51jwl0o?at_medium=RSS&at_campaign=rss",
+      "summary": "It comes weeks after a Republican lawmaker accused the justice department of a \"cover-up\" in releasing the Epstein files.",
+      "published_at": "2026-03-17T18:59:17Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC Europe",
+      "title": "Spanish king reopens debate on conquest of Mexico by acknowledging 'abuse'",
+      "url": "https://www.bbc.com/news/articles/c33j3ne2mjlo?at_medium=RSS&at_campaign=rss",
+      "summary": "King Felipe appears to have helped thaw frosty relations with Mexico while reviving a fierce debate over events 500 years ago.",
+      "published_at": "2026-03-17T18:55:17Z",
+      "country_code": "MX",
+      "country_name": "Mexico"
+    },
+    {
+      "source": "BBC World",
+      "title": "Air strike hit Kabul rehab centre as patients ate dinner, survivor tells BBC",
+      "url": "https://www.bbc.com/news/articles/ckg1kgz6wkgo?at_medium=RSS&at_campaign=rss",
+      "summary": "The exact number killed in Monday night's strike by Pakistan is still not known, but is feared to be in the hundreds.",
+      "published_at": "2026-03-17T18:45:54Z",
+      "country_code": "PK",
+      "country_name": "Pakistan"
+    },
     {
       "source": "BBC Europe",
       "title": "Iran and Russia are 'brothers in hatred', Zelensky tells MPs",
@@ -54,15 +99,6 @@
       "published_at": "2026-03-17T15:36:28Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "Israel says it killed Iranian security chief Ali Larijani in air strike",
-      "url": "https://www.bbc.com/news/articles/c24deezq6meo?at_medium=RSS&at_campaign=rss",
-      "summary": "The deaths of Larijani and the head of the paramilitary Basij force have not been confirmed by Iranian authorities.",
-      "published_at": "2026-03-17T15:31:43Z",
-      "country_code": "IL",
-      "country_name": "Israel"
     },
     {
       "source": "BBC Europe",
@@ -295,15 +331,6 @@
       "url": "https://www.bbc.com/news/articles/cev7r2egkplo?at_medium=RSS&at_campaign=rss",
       "summary": "Wiles will continue to work \"virtually full time at the White House\" while undergoing treatment, the US president said.",
       "published_at": "2026-03-16T17:17:19Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "US airline CEOs urge Congress to end shutdown and pay airport workers",
-      "url": "https://www.bbc.com/news/articles/c5yg12pk21no?at_medium=RSS&at_campaign=rss",
-      "summary": "Travellers faced long queues at some airports at the weekend, after transport security workers missed their first full paycheck on Friday.",
-      "published_at": "2026-03-16T16:55:28Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -930,6 +957,21 @@
       "news_count": 3
     },
     {
+      "country_code": "IT",
+      "country_name": "Italy",
+      "news_count": 3
+    },
+    {
+      "country_code": "MX",
+      "country_name": "Mexico",
+      "news_count": 3
+    },
+    {
+      "country_code": "PK",
+      "country_name": "Pakistan",
+      "news_count": 3
+    },
+    {
       "country_code": "PS",
       "country_name": "Palestine",
       "news_count": 3
@@ -955,23 +997,8 @@
       "news_count": 2
     },
     {
-      "country_code": "IT",
-      "country_name": "Italy",
-      "news_count": 2
-    },
-    {
-      "country_code": "MX",
-      "country_name": "Mexico",
-      "news_count": 2
-    },
-    {
       "country_code": "NZ",
       "country_name": "New Zealand",
-      "news_count": 2
-    },
-    {
-      "country_code": "PK",
-      "country_name": "Pakistan",
       "news_count": 2
     },
     {
