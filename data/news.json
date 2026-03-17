@@ -1,6 +1,33 @@
 {
-  "generated_at": "2026-03-16T23:49:18Z",
+  "generated_at": "2026-03-17T01:11:17Z",
   "articles": [
+    {
+      "source": "BBC US & Canada",
+      "title": "Columbia University protester released after one year in immigration custody",
+      "url": "https://www.bbc.com/news/articles/ckgzdkg0q9go?at_medium=RSS&at_campaign=rss",
+      "summary": "Federal officials say Leqaa Kordia overstayed her student visa. Her lawyer says she was targeted for pro-Palestinian activism.",
+      "published_at": "2026-03-17T01:08:24Z",
+      "country_code": "PS",
+      "country_name": "Palestine"
+    },
+    {
+      "source": "BBC Asia",
+      "title": "Trump seeks to delay meeting with Xi in China",
+      "url": "https://www.bbc.com/news/articles/cn9e0z7v3nxo?at_medium=RSS&at_campaign=rss",
+      "summary": "The escalating war in Iran has overshadowed much of the US' foreign policy objectives",
+      "published_at": "2026-03-17T00:50:12Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC Africa",
+      "title": "'Fire came from the sky and burned them' - life on the brink of civil war in South Sudan",
+      "url": "https://www.bbc.com/news/articles/cx2g4v9mzxro?at_medium=RSS&at_campaign=rss",
+      "summary": "Some 50,000 people are told to flee their homes as the army warns of a huge military offensive in Jonglei state.",
+      "published_at": "2026-03-17T00:08:56Z",
+      "country_code": "SD",
+      "country_name": "Sudan"
+    },
     {
       "source": "BBC US & Canada",
       "title": "From tornadoes to blizzards, severe weather batters parts of the US",
@@ -9,6 +36,15 @@
       "published_at": "2026-03-16T23:37:57Z",
       "country_code": "US",
       "country_name": "United States"
+    },
+    {
+      "source": "BBC Asia",
+      "title": "Afghanistan accuses Pakistan of killing hundreds in hospital strike",
+      "url": "https://www.bbc.com/news/articles/c4g8n7e0l40o?at_medium=RSS&at_campaign=rss",
+      "summary": "Islamabad denies targeting the rehab centre and said its strikes were aimed at military installations.",
+      "published_at": "2026-03-16T23:22:48Z",
+      "country_code": "PK",
+      "country_name": "Pakistan"
     },
     {
       "source": "BBC US & Canada",
@@ -888,7 +924,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 31
+      "news_count": 32
     },
     {
       "country_code": "IR",
@@ -921,6 +957,11 @@
       "news_count": 3
     },
     {
+      "country_code": "PS",
+      "country_name": "Palestine",
+      "news_count": 3
+    },
+    {
       "country_code": "AU",
       "country_name": "Australia",
       "news_count": 2
@@ -946,13 +987,18 @@
       "news_count": 2
     },
     {
-      "country_code": "PS",
-      "country_name": "Palestine",
+      "country_code": "PK",
+      "country_name": "Pakistan",
       "news_count": 2
     },
     {
       "country_code": "RU",
       "country_name": "Russia",
+      "news_count": 2
+    },
+    {
+      "country_code": "SD",
+      "country_name": "Sudan",
       "news_count": 2
     },
     {
@@ -1011,18 +1057,8 @@
       "news_count": 1
     },
     {
-      "country_code": "PK",
-      "country_name": "Pakistan",
-      "news_count": 1
-    },
-    {
       "country_code": "PT",
       "country_name": "Portugal",
-      "news_count": 1
-    },
-    {
-      "country_code": "SD",
-      "country_name": "Sudan",
       "news_count": 1
     },
     {
