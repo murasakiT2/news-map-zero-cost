@@ -1,8 +1,26 @@
 {
-  "generated_at": "2026-03-17T06:36:02Z",
+  "generated_at": "2026-03-17T07:47:34Z",
   "articles": [
     {
-      "source": "BBC Asia",
+      "source": "BBC World",
+      "title": "Gas on the line: will the Iran war squeeze India's piped gas next?",
+      "url": "https://www.bbc.com/news/articles/cj6dl175w01o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Iran war has already rattled LPG users. Will India’s piped gas network face the next squeeze?",
+      "published_at": "2026-03-17T06:47:42Z",
+      "country_code": "IN",
+      "country_name": "India"
+    },
+    {
+      "source": "BBC Latin America",
+      "title": "Young Venezuelans voice hope and frustration as post-Maduro future unfolds",
+      "url": "https://www.bbc.com/news/articles/c86y2jd70l3o?at_medium=RSS&at_campaign=rss",
+      "summary": "Young people who have only known one political system are adjusting to change after US forces seized Maduro.",
+      "published_at": "2026-03-17T06:00:36Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
       "title": "Why did only two Iranian football players stay in Australia?",
       "url": "https://www.bbc.com/news/videos/czd8921rljpo?at_medium=RSS&at_campaign=rss",
       "summary": "After Australia gave humanitarian visas to seven team members, only two decided to stay - the BBC's Katy Watson explains what happened.",
@@ -272,15 +290,6 @@
       "country_name": "Iraq"
     },
     {
-      "source": "BBC World",
-      "title": "How passenger planes keep flying during a war",
-      "url": "https://www.bbc.com/news/articles/cn4gne35kvno?at_medium=RSS&at_campaign=rss",
-      "summary": "Airspace over Iran and the Gulf remains severely restricted following missile strikes, putting additional pressure on airlines.",
-      "published_at": "2026-03-16T00:05:11Z",
-      "country_code": "IR",
-      "country_name": "Iran"
-    },
-    {
       "source": "BBC Middle East",
       "title": "What Iranians are being told about the war",
       "url": "https://www.bbc.com/news/articles/cgl5w09ey30o?at_medium=RSS&at_campaign=rss",
@@ -416,15 +425,6 @@
       "country_name": "Israel"
     },
     {
-      "source": "BBC Latin America",
-      "title": "Cuban protesters ransack Communist office as energy crisis deepens",
-      "url": "https://www.bbc.com/news/articles/c875zd7de5xo?at_medium=RSS&at_campaign=rss",
-      "summary": "Discontent is mounting over rolling blackouts and shortages of food, fuel and medicine, exacerbated by a US blockade.",
-      "published_at": "2026-03-14T22:07:50Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC Europe",
       "title": "German philosopher and social critic Jürgen Habermas dies at 96",
       "url": "https://www.bbc.com/news/articles/crk8yxd2g0no?at_medium=RSS&at_campaign=rss",
@@ -470,15 +470,6 @@
       "country_name": "Netherlands"
     },
     {
-      "source": "BBC World",
-      "title": "Watch: Why Kharg Island is a lifeline for Iran",
-      "url": "https://www.bbc.com/news/videos/c4g7ddn9xz0o?at_medium=RSS&at_campaign=rss",
-      "summary": "BBC Security Brief's Mikey Kay breaks down why Kharg Island is so strategically important for Tehran.",
-      "published_at": "2026-03-14T01:21:14Z",
-      "country_code": "IR",
-      "country_name": "Iran"
-    },
-    {
       "source": "BBC Middle East",
       "title": "Is Dubai's glossy image under threat? Not everyone thinks so",
       "url": "https://www.bbc.com/news/articles/c86y2gpgn54o?at_medium=RSS&at_campaign=rss",
@@ -495,15 +486,6 @@
       "published_at": "2026-03-13T22:02:39Z",
       "country_code": "IR",
       "country_name": "Iran"
-    },
-    {
-      "source": "BBC Latin America",
-      "title": "Cuba confirms negotiations with US as country faces effects of oil blockade",
-      "url": "https://www.bbc.com/news/articles/cwy8zv9gp0go?at_medium=RSS&at_campaign=rss",
-      "summary": "Cuba's president confirmed the talks in a national broadcast as the country also said it would release 51 prisoners in \"goodwill\" gesture.",
-      "published_at": "2026-03-13T22:00:38Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC Europe",
@@ -897,17 +879,17 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 32
+      "news_count": 31
     },
     {
       "country_code": "IR",
       "country_name": "Iran",
-      "news_count": 18
+      "news_count": 16
     },
     {
       "country_code": "IN",
       "country_name": "India",
-      "news_count": 5
+      "news_count": 6
     },
     {
       "country_code": "ET",
