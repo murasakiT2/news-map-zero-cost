@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-03-17T17:53:06Z",
+  "generated_at": "2026-03-17T18:46:55Z",
   "articles": [
+    {
+      "source": "BBC Europe",
+      "title": "Iran and Russia are 'brothers in hatred', Zelensky tells MPs",
+      "url": "https://www.bbc.com/news/articles/c15xeyny73wo?at_medium=RSS&at_campaign=rss",
+      "summary": "The president highlights how Tehran is selling drones to Moscow that have been used against Ukraine.",
+      "published_at": "2026-03-17T18:26:19Z",
+      "country_code": "RU",
+      "country_name": "Russia"
+    },
     {
       "source": "BBC World",
       "title": "Top US counterterrorism official resigns over Iran war, urging Trump to 'reverse course'",
@@ -926,6 +935,11 @@
       "news_count": 3
     },
     {
+      "country_code": "RU",
+      "country_name": "Russia",
+      "news_count": 3
+    },
+    {
       "country_code": "AU",
       "country_name": "Australia",
       "news_count": 2
@@ -958,11 +972,6 @@
     {
       "country_code": "PK",
       "country_name": "Pakistan",
-      "news_count": 2
-    },
-    {
-      "country_code": "RU",
-      "country_name": "Russia",
       "news_count": 2
     },
     {
