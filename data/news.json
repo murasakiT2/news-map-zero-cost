@@ -1,14 +1,23 @@
 {
-  "generated_at": "2026-03-17T22:35:34Z",
+  "generated_at": "2026-03-17T23:22:41Z",
   "articles": [
     {
       "source": "BBC Africa",
       "title": "Morocco awarded Afcon title after CAF overturns result",
       "url": "https://www.bbc.com/sport/football/articles/ce949glzzglo?at_medium=RSS&at_campaign=rss",
       "summary": "Morocco declared the winners of the 2025 Africa Cup of Nations after the Confederation of African Football overturns the result of their fin…",
-      "published_at": "2026-03-17T22:28:57Z",
+      "published_at": "2026-03-17T22:48:29Z",
       "country_code": "MA",
       "country_name": "Morocco"
+    },
+    {
+      "source": "BBC Asia",
+      "title": "Australia shock jock Kyle Sandilands sacked and top-rating show cancelled",
+      "url": "https://www.bbc.com/news/articles/c78x89x3jj0o?at_medium=RSS&at_campaign=rss",
+      "summary": "It comes after an on-air spat between Sandilands and his co-host Jackie 'O' Henderson a month ago.",
+      "published_at": "2026-03-17T22:40:34Z",
+      "country_code": "AU",
+      "country_name": "Australia"
     },
     {
       "source": "BBC World",
@@ -29,16 +38,16 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Europe",
-      "title": "Italy warns stricken Russian tanker could explode in Med at any time",
+      "source": "BBC World",
+      "title": "Italy warns Russian tanker could explode in Mediterranean at any time",
       "url": "https://www.bbc.com/news/articles/cn9e9dxw3e1o?at_medium=RSS&at_campaign=rss",
-      "summary": "Italy is one of nine EU countries urging the European Commission to act over the Arctic Metagaz drifting out of control in the Mediterranean…",
+      "summary": "Italy is one of nine EU countries urging the European Commission to act over the Arctic Metagaz, drifting out of control in the Mediterranea…",
       "published_at": "2026-03-17T19:21:00Z",
       "country_code": "IT",
       "country_name": "Italy"
     },
     {
-      "source": "BBC US & Canada",
+      "source": "BBC World",
       "title": "US Attorney General Bondi formally summoned to Congress in Epstein case",
       "url": "https://www.bbc.com/news/articles/cwyky51jwl0o?at_medium=RSS&at_campaign=rss",
       "summary": "It comes weeks after a Republican lawmaker accused the justice department of a \"cover-up\" in releasing the Epstein files.",
@@ -128,7 +137,7 @@
       "country_name": "Spain"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "US west coast prepares for 'dangerous' heatwave in early spring",
       "url": "https://www.bbc.com/news/articles/cwy80zk8d8xo?at_medium=RSS&at_campaign=rss",
       "summary": "Severe weather is plaguing the US from coast to coast, bringing a mix of extreme heat and bitter cold.",
@@ -155,7 +164,7 @@
       "country_name": "Nigeria"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "Trump seeks to delay meeting with Xi in China",
       "url": "https://www.bbc.com/news/articles/cn9e0z7v3nxo?at_medium=RSS&at_campaign=rss",
       "summary": "The escalating war in Iran has overshadowed many of the US' foreign policy objectives",
@@ -934,6 +943,11 @@
       "news_count": 3
     },
     {
+      "country_code": "AU",
+      "country_name": "Australia",
+      "news_count": 3
+    },
+    {
       "country_code": "IT",
       "country_name": "Italy",
       "news_count": 3
@@ -957,11 +971,6 @@
       "country_code": "RU",
       "country_name": "Russia",
       "news_count": 3
-    },
-    {
-      "country_code": "AU",
-      "country_name": "Australia",
-      "news_count": 2
     },
     {
       "country_code": "ES",
