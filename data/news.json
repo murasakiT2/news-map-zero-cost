@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-03-17T09:44:20Z",
+  "generated_at": "2026-03-17T10:40:08Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Trump seeks to delay meeting with Xi in China",
+      "url": "https://www.bbc.com/news/articles/cn9e0z7v3nxo?at_medium=RSS&at_campaign=rss",
+      "summary": "The escalating war in Iran has overshadowed many of the US' foreign policy objectives",
+      "published_at": "2026-03-17T10:33:49Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Millions without electricity as Cuba's power grid collapses",
+      "url": "https://www.bbc.com/news/articles/c07j40dyx53o?at_medium=RSS&at_campaign=rss",
+      "summary": "Cuba's chronic fuel shortages have been exacerbated by a US blockade on oil shipments to the island.",
+      "published_at": "2026-03-17T10:32:25Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Suspected suicide attacks kill at least 23 in north-east Nigeria",
+      "url": "https://www.bbc.com/news/articles/c4gqnjjy9edo?at_medium=RSS&at_campaign=rss",
+      "summary": "Multiple blasts struck some of the Maiduguri's busiest locations on Monday evening.",
+      "published_at": "2026-03-17T10:24:29Z",
+      "country_code": "NG",
+      "country_name": "Nigeria"
+    },
+    {
+      "source": "BBC Latin America",
+      "title": "UN receives reports alleging torture of detainees in Venezuela continues",
+      "url": "https://www.bbc.com/news/articles/c0e5v9n1qqwo?at_medium=RSS&at_campaign=rss",
+      "summary": "The UN is deeply concerned by allegations there have been incidents of torture after Nicolás Maduro's ouster.",
+      "published_at": "2026-03-17T10:12:10Z",
+      "country_code": "VE",
+      "country_name": "Venezuela"
+    },
     {
       "source": "BBC Middle East",
       "title": "Why did US and Israel attack Iran and how long could the war last?",
@@ -21,21 +57,21 @@
     },
     {
       "source": "BBC World",
-      "title": "Trump seeks to delay meeting with Xi in China",
-      "url": "https://www.bbc.com/news/articles/cn9e0z7v3nxo?at_medium=RSS&at_campaign=rss",
-      "summary": "The escalating war in Iran has overshadowed many of the US' foreign policy objectives",
-      "published_at": "2026-03-17T07:52:40Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
       "title": "Gas on the line: will the Iran war squeeze India's piped gas next?",
       "url": "https://www.bbc.com/news/articles/cj6dl175w01o?at_medium=RSS&at_campaign=rss",
       "summary": "The Iran war has already rattled LPG users. Will India’s piped gas network face the next squeeze?",
       "published_at": "2026-03-17T06:47:42Z",
       "country_code": "IN",
       "country_name": "India"
+    },
+    {
+      "source": "BBC World",
+      "title": "Dozens killed in air strike on Kabul rehab centre blamed on Pakistan",
+      "url": "https://www.bbc.com/news/articles/c4g8n7e0l40o?at_medium=RSS&at_campaign=rss",
+      "summary": "The BBC visited the facility and saw more than 30 bodies being carried out on stretchers.",
+      "published_at": "2026-03-17T06:19:03Z",
+      "country_code": "PK",
+      "country_name": "Pakistan"
     },
     {
       "source": "BBC Europe",
@@ -74,15 +110,6 @@
       "country_name": "Israel"
     },
     {
-      "source": "BBC World",
-      "title": "Millions without electricity as Cuba's power grid collapses",
-      "url": "https://www.bbc.com/news/articles/c07j40dyx53o?at_medium=RSS&at_campaign=rss",
-      "summary": "Cuba's chronic fuel shortages have been exacerbated by a US blockade on oil shipments to the island.",
-      "published_at": "2026-03-17T03:46:22Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC Asia",
       "title": "India's outsourcing industry is worth $300bn. Can it survive AI?",
       "url": "https://www.bbc.com/news/articles/c5yrq1090p8o?at_medium=RSS&at_campaign=rss",
@@ -102,12 +129,12 @@
     },
     {
       "source": "BBC World",
-      "title": "Trump's confidence is undimmed - but every Iran option comes with risk",
+      "title": "Surge in US petrol prices deepens political peril for Trump over Iran",
       "url": "https://www.bbc.com/news/articles/c70k29914q4o?at_medium=RSS&at_campaign=rss",
       "summary": "The odds of a quick resolution to the war appear to be dwindling by the day, and the political stakes for the president are only growing.",
       "published_at": "2026-03-17T00:24:01Z",
-      "country_code": "IR",
-      "country_name": "Iran"
+      "country_code": "US",
+      "country_name": "United States"
     },
     {
       "source": "BBC World",
@@ -135,15 +162,6 @@
       "published_at": "2026-03-16T21:17:22Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC Latin America",
-      "title": "UN receives reports alleging torture of detainees in Venezuela continues",
-      "url": "https://www.bbc.com/news/articles/c0e5v9n1qqwo?at_medium=RSS&at_campaign=rss",
-      "summary": "The UN is deeply concerned by allegations there have been incidents of torture after Nicolás Maduro's ouster.",
-      "published_at": "2026-03-16T19:08:13Z",
-      "country_code": "VE",
-      "country_name": "Venezuela"
     },
     {
       "source": "BBC Middle East",
@@ -236,7 +254,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "Russia agrees to stop using Kenyan recruits in Ukraine conflict, Kenya says",
       "url": "https://www.bbc.com/news/articles/cev7rdwmky9o?at_medium=RSS&at_campaign=rss",
       "summary": "Some 1,000 Kenyans are believed to have recruited to fight in Ukraine - many say they were lured under false pretences.",
@@ -342,15 +360,6 @@
       "published_at": "2026-03-15T16:52:21Z",
       "country_code": "IR",
       "country_name": "Iran"
-    },
-    {
-      "source": "BBC Africa",
-      "title": "Severe flooding kills 66 in Kenya, as heavy rains continue",
-      "url": "https://www.bbc.com/news/articles/cz6e5eng03yo?at_medium=RSS&at_campaign=rss",
-      "summary": "Eleven people were rescued overnight after a minibus taxi got stuck in rising floodwaters in Nairobi.",
-      "published_at": "2026-03-15T16:12:11Z",
-      "country_code": "KE",
-      "country_name": "Kenya"
     },
     {
       "source": "BBC Latin America",
@@ -852,12 +861,12 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 30
+      "news_count": 31
     },
     {
       "country_code": "IR",
       "country_name": "Iran",
-      "news_count": 13
+      "news_count": 12
     },
     {
       "country_code": "IN",
@@ -870,6 +879,11 @@
       "news_count": 4
     },
     {
+      "country_code": "NG",
+      "country_name": "Nigeria",
+      "news_count": 4
+    },
+    {
       "country_code": "AE",
       "country_name": "United Arab Emirates",
       "news_count": 3
@@ -877,11 +891,6 @@
     {
       "country_code": "ES",
       "country_name": "Spain",
-      "news_count": 3
-    },
-    {
-      "country_code": "NG",
-      "country_name": "Nigeria",
       "news_count": 3
     },
     {
@@ -920,6 +929,11 @@
       "news_count": 2
     },
     {
+      "country_code": "PK",
+      "country_name": "Pakistan",
+      "news_count": 2
+    },
+    {
       "country_code": "RU",
       "country_name": "Russia",
       "news_count": 2
@@ -955,11 +969,6 @@
       "news_count": 1
     },
     {
-      "country_code": "KE",
-      "country_name": "Kenya",
-      "news_count": 1
-    },
-    {
       "country_code": "MA",
       "country_name": "Morocco",
       "news_count": 1
@@ -967,11 +976,6 @@
     {
       "country_code": "NL",
       "country_name": "Netherlands",
-      "news_count": 1
-    },
-    {
-      "country_code": "PK",
-      "country_name": "Pakistan",
       "news_count": 1
     },
     {
