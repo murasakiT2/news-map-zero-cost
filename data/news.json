@@ -1,6 +1,33 @@
 {
-  "generated_at": "2026-03-17T23:52:09Z",
+  "generated_at": "2026-03-18T01:15:41Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "India's cheap weight-loss drugs could reshape global obesity fight",
+      "url": "https://www.bbc.com/news/articles/cx2g4411en3o?at_medium=RSS&at_campaign=rss",
+      "summary": "With India’s semaglutide patent expiring on 20 March, about 50 branded generics are expected to enter the market.",
+      "published_at": "2026-03-18T00:30:49Z",
+      "country_code": "IN",
+      "country_name": "India"
+    },
+    {
+      "source": "BBC Africa",
+      "title": "Morocco awarded Afcon title after CAF overturns result",
+      "url": "https://www.bbc.com/sport/football/articles/ce949glzzglo?at_medium=RSS&at_campaign=rss",
+      "summary": "Morocco declared the winners of the 2025 Africa Cup of Nations after the Confederation of African Football overturns the result of their fin…",
+      "published_at": "2026-03-18T00:23:36Z",
+      "country_code": "MA",
+      "country_name": "Morocco"
+    },
+    {
+      "source": "BBC World",
+      "title": "Total repression and air strikes bring unrelenting dread for Iranians",
+      "url": "https://www.bbc.com/news/articles/cn9e0wrglgdo?at_medium=RSS&at_campaign=rss",
+      "summary": "Tehran residents tell the BBC they're caught between US-Israeli bombing and an Iranian regime trying to reassert its power.",
+      "published_at": "2026-03-18T00:07:36Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC US & Canada",
       "title": "US west coast prepares for 'dangerous' heatwave in early spring",
@@ -9,15 +36,6 @@
       "published_at": "2026-03-17T23:49:14Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC Africa",
-      "title": "Morocco awarded Afcon title after CAF overturns result",
-      "url": "https://www.bbc.com/sport/football/articles/ce949glzzglo?at_medium=RSS&at_campaign=rss",
-      "summary": "Morocco declared the winners of the 2025 Africa Cup of Nations after the Confederation of African Football overturns the result of their fin…",
-      "published_at": "2026-03-17T23:35:15Z",
-      "country_code": "MA",
-      "country_name": "Morocco"
     },
     {
       "source": "BBC Asia",
@@ -36,6 +54,15 @@
       "published_at": "2026-03-17T21:48:08Z",
       "country_code": "US",
       "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Death of Ali Larijani deepens crisis at heart of Iran's leadership",
+      "url": "https://www.bbc.com/news/articles/cgqgxqekp89o?at_medium=RSS&at_campaign=rss",
+      "summary": "Larijani has long been seen as one of the Islamic Republic's most experienced and influential policy makers.",
+      "published_at": "2026-03-17T21:43:59Z",
+      "country_code": "IR",
+      "country_name": "Iran"
     },
     {
       "source": "BBC US & Canada",
@@ -915,17 +942,17 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 32
+      "news_count": 33
     },
     {
       "country_code": "IR",
       "country_name": "Iran",
-      "news_count": 11
+      "news_count": 12
     },
     {
       "country_code": "IN",
       "country_name": "India",
-      "news_count": 5
+      "news_count": 6
     },
     {
       "country_code": "ET",
