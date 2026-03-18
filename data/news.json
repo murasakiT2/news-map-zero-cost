@@ -1,14 +1,32 @@
 {
-  "generated_at": "2026-03-18T12:44:39Z",
+  "generated_at": "2026-03-18T14:15:35Z",
   "articles": [
     {
       "source": "BBC Africa",
-      "title": "Nigeria president begins first UK state visit in 37 years",
+      "title": "Celebrations in Morocco but devastation in Senegal after Afcon decision",
+      "url": "https://www.bbc.com/news/articles/crm8mem74mko?at_medium=RSS&at_campaign=rss",
+      "summary": "Moroccans feel justice has been done but the Senegalese are angry after being stripped of the title.",
+      "published_at": "2026-03-18T13:32:09Z",
+      "country_code": "MA",
+      "country_name": "Morocco"
+    },
+    {
+      "source": "BBC Africa",
+      "title": "King greets Nigerian president for first UK state visit in 37 years",
       "url": "https://www.bbc.com/news/articles/cedzqqp9x2do?at_medium=RSS&at_campaign=rss",
-      "summary": "King Charles and senior royals will provide a ceremonial welcome for Nigeria's President Tinubu on his state visit.",
-      "published_at": "2026-03-18T11:49:48Z",
+      "summary": "President Tinubu was also met by the Prince and Princess of Wales at a luxury spa hotel in Windsor.",
+      "published_at": "2026-03-18T12:47:50Z",
       "country_code": "GB",
       "country_name": "United Kingdom"
+    },
+    {
+      "source": "BBC Europe",
+      "title": "Norway prosecutor asks for seven years' jail for crown princess's son in rape trial",
+      "url": "https://www.bbc.com/news/articles/c74741pgleko?at_medium=RSS&at_campaign=rss",
+      "summary": "Prosecutors in the trial of Marius Borg Høiby argue he should be found guilty of 39 of the 40 charges he is accused of.",
+      "published_at": "2026-03-18T12:44:12Z",
+      "country_code": "NO",
+      "country_name": "Norway"
     },
     {
       "source": "BBC US & Canada",
@@ -81,15 +99,6 @@
       "published_at": "2026-03-18T04:36:46Z",
       "country_code": "IR",
       "country_name": "Iran"
-    },
-    {
-      "source": "BBC Africa",
-      "title": "Morocco awarded Afcon title after Caf overturns result",
-      "url": "https://www.bbc.com/sport/football/articles/ce949glzzglo?at_medium=RSS&at_campaign=rss",
-      "summary": "Morocco declared the winners of the 2025 Africa Cup of Nations after the Confederation of African Football overturns the result of their fin…",
-      "published_at": "2026-03-18T03:24:20Z",
-      "country_code": "MA",
-      "country_name": "Morocco"
     },
     {
       "source": "BBC Asia",
@@ -272,15 +281,6 @@
       "country_name": "Pakistan"
     },
     {
-      "source": "BBC Africa",
-      "title": "Suspected suicide attacks kill at least 23 in north-east Nigeria",
-      "url": "https://www.bbc.com/news/articles/c4gqnjjy9edo?at_medium=RSS&at_campaign=rss",
-      "summary": "Multiple blasts struck some of the Maiduguri's busiest locations on Monday evening.",
-      "published_at": "2026-03-17T12:00:43Z",
-      "country_code": "NG",
-      "country_name": "Nigeria"
-    },
-    {
       "source": "BBC Asia",
       "title": "Trump seeks to delay meeting with Xi in China",
       "url": "https://www.bbc.com/news/articles/cn9e0z7v3nxo?at_medium=RSS&at_campaign=rss",
@@ -380,15 +380,6 @@
       "country_name": "Sudan"
     },
     {
-      "source": "BBC US & Canada",
-      "title": "Trump border patrol chief Greg Bovino to retire",
-      "url": "https://www.bbc.com/news/articles/c75e24grnv3o?at_medium=RSS&at_campaign=rss",
-      "summary": "He led operations in Democratic-led cities including Minneapolis, where two US citizens were fatally shot.",
-      "published_at": "2026-03-16T21:17:22Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC Middle East",
       "title": "How might the UK support shipping in the Strait of Hormuz?",
       "url": "https://www.bbc.com/news/videos/cvgj29dgrxwo?at_medium=RSS&at_campaign=rss",
@@ -441,15 +432,6 @@
       "published_at": "2026-03-16T17:23:27Z",
       "country_code": "MX",
       "country_name": "Mexico"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "Trump's White House chief of staff Susie Wiles diagnosed with breast cancer",
-      "url": "https://www.bbc.com/news/articles/cev7r2egkplo?at_medium=RSS&at_campaign=rss",
-      "summary": "Wiles will continue to work \"virtually full time at the White House\" while undergoing treatment, the US president said.",
-      "published_at": "2026-03-16T17:17:19Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC Middle East",
@@ -945,22 +927,13 @@
       "published_at": "2026-02-16T15:10:12Z",
       "country_code": "IT",
       "country_name": "Italy"
-    },
-    {
-      "source": "BBC Africa",
-      "title": "At the scene: Muslims killed 'over rejection of extremist ideology' in Nigeria",
-      "url": "https://www.bbc.com/news/videos/czej7xpx0x9o?at_medium=RSS&at_campaign=rss",
-      "summary": "At least 78 bodies have been buried, while it's feared that more than 170 people were killed altogether.",
-      "published_at": "2026-02-05T17:15:30Z",
-      "country_code": "NG",
-      "country_name": "Nigeria"
     }
   ],
   "regions": [
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 35
+      "news_count": 33
     },
     {
       "country_code": "IR",
@@ -975,11 +948,6 @@
     {
       "country_code": "ET",
       "country_name": "Ethiopia",
-      "news_count": 4
-    },
-    {
-      "country_code": "NG",
-      "country_name": "Nigeria",
       "news_count": 4
     },
     {
@@ -1038,6 +1006,11 @@
       "news_count": 2
     },
     {
+      "country_code": "NG",
+      "country_name": "Nigeria",
+      "news_count": 2
+    },
+    {
       "country_code": "RU",
       "country_name": "Russia",
       "news_count": 2
@@ -1085,6 +1058,11 @@
     {
       "country_code": "KR",
       "country_name": "South Korea",
+      "news_count": 1
+    },
+    {
+      "country_code": "NO",
+      "country_name": "Norway",
       "news_count": 1
     },
     {
