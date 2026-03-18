@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-03-18T14:15:35Z",
+  "generated_at": "2026-03-18T15:44:23Z",
   "articles": [
+    {
+      "source": "BBC US & Canada",
+      "title": "Venezuelans in Miami and Caracas celebrate historic WBC victory over USA",
+      "url": "https://www.bbc.com/news/videos/c3wlw788glvo?at_medium=RSS&at_campaign=rss",
+      "summary": "Venezuela won its first-ever World Baseball Classic title, defeating the United States 3–2 in the championship game.",
+      "published_at": "2026-03-18T14:40:06Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC Latin America",
+      "title": "Venezuelans celebrate historic World Baseball Classic victory over USA",
+      "url": "https://www.bbc.com/news/videos/c3wlw788glvo?at_medium=RSS&at_campaign=rss",
+      "summary": "Venezuela won its first-ever World Baseball Classic title, defeating the United States 3–2 in the championship game.",
+      "published_at": "2026-03-18T14:40:06Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC Africa",
       "title": "Celebrations in Morocco but devastation in Senegal after Afcon decision",
@@ -11,16 +29,7 @@
       "country_name": "Morocco"
     },
     {
-      "source": "BBC Africa",
-      "title": "King greets Nigerian president for first UK state visit in 37 years",
-      "url": "https://www.bbc.com/news/articles/cedzqqp9x2do?at_medium=RSS&at_campaign=rss",
-      "summary": "President Tinubu was also met by the Prince and Princess of Wales at a luxury spa hotel in Windsor.",
-      "published_at": "2026-03-18T12:47:50Z",
-      "country_code": "GB",
-      "country_name": "United Kingdom"
-    },
-    {
-      "source": "BBC Europe",
+      "source": "BBC World",
       "title": "Norway prosecutor asks for seven years' jail for crown princess's son in rape trial",
       "url": "https://www.bbc.com/news/articles/c74741pgleko?at_medium=RSS&at_campaign=rss",
       "summary": "Prosecutors in the trial of Marius Borg Høiby argue he should be found guilty of 39 of the 40 charges he is accused of.",
@@ -72,15 +81,6 @@
       "published_at": "2026-03-18T05:54:28Z",
       "country_code": "KE",
       "country_name": "Kenya"
-    },
-    {
-      "source": "BBC Latin America",
-      "title": "Venezuela beats Team USA to claim World Baseball Classic",
-      "url": "https://www.bbc.com/sport/articles/cd707v24ex9o?at_medium=RSS&at_campaign=rss",
-      "summary": "The Venezuelans defeated Team USA 3-2 in Miami on Tuesday, in a thrilling final.",
-      "published_at": "2026-03-18T05:50:38Z",
-      "country_code": "VE",
-      "country_name": "Venezuela"
     },
     {
       "source": "BBC World",
@@ -351,15 +351,6 @@
       "published_at": "2026-03-17T01:12:50Z",
       "country_code": "IN",
       "country_name": "India"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "Columbia University protester released after one year in immigration custody",
-      "url": "https://www.bbc.com/news/articles/ckgzdkg0q9go?at_medium=RSS&at_campaign=rss",
-      "summary": "Federal officials say Leqaa Kordia overstayed her student visa. Her lawyer says she was targeted for pro-Palestinian activism.",
-      "published_at": "2026-03-17T01:08:24Z",
-      "country_code": "PS",
-      "country_name": "Palestine"
     },
     {
       "source": "BBC World",
@@ -933,7 +924,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 33
+      "news_count": 35
     },
     {
       "country_code": "IR",
@@ -961,11 +952,6 @@
       "news_count": 3
     },
     {
-      "country_code": "GB",
-      "country_name": "United Kingdom",
-      "news_count": 3
-    },
-    {
       "country_code": "IT",
       "country_name": "Italy",
       "news_count": 3
@@ -976,18 +962,13 @@
       "news_count": 3
     },
     {
-      "country_code": "PS",
-      "country_name": "Palestine",
-      "news_count": 3
-    },
-    {
-      "country_code": "VE",
-      "country_name": "Venezuela",
-      "news_count": 3
-    },
-    {
       "country_code": "ES",
       "country_name": "Spain",
+      "news_count": 2
+    },
+    {
+      "country_code": "GB",
+      "country_name": "United Kingdom",
       "news_count": 2
     },
     {
@@ -1011,6 +992,11 @@
       "news_count": 2
     },
     {
+      "country_code": "PS",
+      "country_name": "Palestine",
+      "news_count": 2
+    },
+    {
       "country_code": "RU",
       "country_name": "Russia",
       "news_count": 2
@@ -1023,6 +1009,11 @@
     {
       "country_code": "UA",
       "country_name": "Ukraine",
+      "news_count": 2
+    },
+    {
+      "country_code": "VE",
+      "country_name": "Venezuela",
       "news_count": 2
     },
     {
