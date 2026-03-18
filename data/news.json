@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-03-18T05:26:43Z",
+  "generated_at": "2026-03-18T06:38:18Z",
   "articles": [
+    {
+      "source": "BBC Asia",
+      "title": "Chinese national charged for trying to smuggle 2,000 ants from Kenya",
+      "url": "https://www.bbc.com/news/articles/c1mjmg0ymk9o?at_medium=RSS&at_campaign=rss",
+      "summary": "Zhang Kequn was found with the large consignment of ants in his luggage at a Nairobi airport.",
+      "published_at": "2026-03-18T05:54:28Z",
+      "country_code": "KE",
+      "country_name": "Kenya"
+    },
+    {
+      "source": "BBC World",
+      "title": "Will the Iran war squeeze India's piped gas next?",
+      "url": "https://www.bbc.com/news/articles/cj6dl175w01o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Iran war has already rattled LPG users. Will India’s piped gas network face the next squeeze?",
+      "published_at": "2026-03-18T05:45:58Z",
+      "country_code": "IN",
+      "country_name": "India"
+    },
     {
       "source": "BBC World",
       "title": "Death of Ali Larijani deepens crisis at heart of Iran's leadership",
@@ -234,15 +252,6 @@
       "published_at": "2026-03-17T09:12:08Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "Gas on the line: will the Iran war squeeze India's piped gas next?",
-      "url": "https://www.bbc.com/news/articles/cj6dl175w01o?at_medium=RSS&at_campaign=rss",
-      "summary": "The Iran war has already rattled LPG users. Will India’s piped gas network face the next squeeze?",
-      "published_at": "2026-03-17T06:47:42Z",
-      "country_code": "IN",
-      "country_name": "India"
     },
     {
       "source": "BBC Europe",
@@ -659,15 +668,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Asia",
-      "title": "The US may move some of its anti-missile system - and it's sparking unease in South Korea",
-      "url": "https://www.bbc.com/news/articles/cgmlk8dlekgo?at_medium=RSS&at_campaign=rss",
-      "summary": "Reports say the US may be moving parts of its Thaad system to the Middle East, despite Seoul's opposition.",
-      "published_at": "2026-03-13T05:19:53Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC Middle East",
       "title": "'There's no hiding place on a ship': The sailors stranded near Iran",
       "url": "https://www.bbc.com/news/articles/ce3g0vz223no?at_medium=RSS&at_campaign=rss",
@@ -942,7 +942,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 32
+      "news_count": 31
     },
     {
       "country_code": "IR",
@@ -1062,6 +1062,11 @@
     {
       "country_code": "JP",
       "country_name": "Japan",
+      "news_count": 1
+    },
+    {
+      "country_code": "KE",
+      "country_name": "Kenya",
       "news_count": 1
     },
     {
