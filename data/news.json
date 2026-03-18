@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-03-18T15:44:23Z",
+  "generated_at": "2026-03-18T16:49:58Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Oil nears $110 a barrel after gas field strike",
+      "url": "https://www.bbc.com/news/articles/c78x83lpgngo?at_medium=RSS&at_campaign=rss",
+      "summary": "Iran's military warned it would take \"decisive action\" in response to the strike on its energy infrastructure.",
+      "published_at": "2026-03-18T16:06:53Z",
+      "country_code": "IR",
+      "country_name": "Iran"
+    },
+    {
+      "source": "BBC World",
+      "title": "'Very difficult to stop': BBC visits scene of Iran cluster bomb strike on Israel",
+      "url": "https://www.bbc.com/news/articles/cwy9yldgn7qo?at_medium=RSS&at_campaign=rss",
+      "summary": "An elderly couple was killed after a bomb flew into their apartment in central Israel and exploded.",
+      "published_at": "2026-03-18T16:04:29Z",
+      "country_code": "IL",
+      "country_name": "Israel"
+    },
+    {
+      "source": "BBC World",
+      "title": "Celebrations in Morocco but devastation in Senegal after Africa Cup of Nations decision",
+      "url": "https://www.bbc.com/news/articles/crm8mem74mko?at_medium=RSS&at_campaign=rss",
+      "summary": "Moroccans feel justice has been done but the Senegalese are angry after being stripped of the title.",
+      "published_at": "2026-03-18T15:48:41Z",
+      "country_code": "MA",
+      "country_name": "Morocco"
+    },
+    {
+      "source": "BBC Africa",
+      "title": "Celebrations in Morocco but devastation in Senegal after Afcon decision",
+      "url": "https://www.bbc.com/news/articles/crm8mem74mko?at_medium=RSS&at_campaign=rss",
+      "summary": "Moroccans feel justice has been done but the Senegalese are angry after being stripped of the title.",
+      "published_at": "2026-03-18T15:48:41Z",
+      "country_code": "MA",
+      "country_name": "Morocco"
+    },
     {
       "source": "BBC US & Canada",
       "title": "Venezuelans in Miami and Caracas celebrate historic WBC victory over USA",
@@ -18,15 +54,6 @@
       "published_at": "2026-03-18T14:40:06Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC Africa",
-      "title": "Celebrations in Morocco but devastation in Senegal after Afcon decision",
-      "url": "https://www.bbc.com/news/articles/crm8mem74mko?at_medium=RSS&at_campaign=rss",
-      "summary": "Moroccans feel justice has been done but the Senegalese are angry after being stripped of the title.",
-      "published_at": "2026-03-18T13:32:09Z",
-      "country_code": "MA",
-      "country_name": "Morocco"
     },
     {
       "source": "BBC World",
@@ -326,7 +353,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "Why did only two Iranian football players stay in Australia?",
       "url": "https://www.bbc.com/news/videos/czd8921rljpo?at_medium=RSS&at_campaign=rss",
       "summary": "After Australia gave humanitarian visas to seven team members, only two decided to stay - the BBC's Katy Watson explains what happened.",
@@ -416,7 +443,7 @@
       "country_name": "Iran"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Latin America",
       "title": "Mexico City breaks Guinness Record with giant football training session",
       "url": "https://www.bbc.com/news/videos/cy7jrymgpjyo?at_medium=RSS&at_campaign=rss",
       "summary": "Mexico City set a Guinness record for the largest football training session as 9,500 participants filled the capital’s Zocalo square ahead o…",
@@ -470,7 +497,7 @@
       "country_name": "India"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Middle East",
       "title": "Iran taking steps to prevent anti-establishment protests, Tehran residents tell BBC",
       "url": "https://www.bbc.com/news/articles/clygdwqw5dvo?at_medium=RSS&at_campaign=rss",
       "summary": "Residents describe new security checkpoints around the capital, where they say people are stopped and searched.",
@@ -831,15 +858,6 @@
     },
     {
       "source": "BBC Africa",
-      "title": "Inside Ethiopia's 'smart' police station",
-      "url": "https://www.bbc.com/news/videos/cz9qqzqkk82o?at_medium=RSS&at_campaign=rss",
-      "summary": "Ethiopia unveils its first unmanned, 'smart' police station where citizens can report crimes on automated touch screens.",
-      "published_at": "2026-03-05T12:29:16Z",
-      "country_code": "ET",
-      "country_name": "Ethiopia"
-    },
-    {
-      "source": "BBC Africa",
       "title": "The devastating conflict where both sides have reasons to keep fighting",
       "url": "https://www.bbc.com/news/articles/czx70y0l75wo?at_medium=RSS&at_campaign=rss",
       "summary": "A strong supply of weapons and a history of long wars make Sudan's conflict particularly troubling.",
@@ -929,17 +947,12 @@
     {
       "country_code": "IR",
       "country_name": "Iran",
-      "news_count": 12
+      "news_count": 13
     },
     {
       "country_code": "IN",
       "country_name": "India",
       "news_count": 6
-    },
-    {
-      "country_code": "ET",
-      "country_name": "Ethiopia",
-      "news_count": 4
     },
     {
       "country_code": "AE",
@@ -952,8 +965,23 @@
       "news_count": 3
     },
     {
+      "country_code": "ET",
+      "country_name": "Ethiopia",
+      "news_count": 3
+    },
+    {
+      "country_code": "IL",
+      "country_name": "Israel",
+      "news_count": 3
+    },
+    {
       "country_code": "IT",
       "country_name": "Italy",
+      "news_count": 3
+    },
+    {
+      "country_code": "MA",
+      "country_name": "Morocco",
       "news_count": 3
     },
     {
@@ -969,16 +997,6 @@
     {
       "country_code": "GB",
       "country_name": "United Kingdom",
-      "news_count": 2
-    },
-    {
-      "country_code": "IL",
-      "country_name": "Israel",
-      "news_count": 2
-    },
-    {
-      "country_code": "MA",
-      "country_name": "Morocco",
       "news_count": 2
     },
     {
