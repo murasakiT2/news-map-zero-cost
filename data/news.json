@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-18T22:23:34Z",
+  "generated_at": "2026-03-18T22:54:09Z",
   "articles": [
     {
       "source": "BBC World",
@@ -272,7 +272,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "Spanish king reopens debate on conquest of Mexico by acknowledging 'abuse'",
       "url": "https://www.bbc.com/news/articles/c33j3ne2mjlo?at_medium=RSS&at_campaign=rss",
       "summary": "King Felipe appears to have helped thaw frosty relations with Mexico while reviving a fierce debate over events 500 years ago.",
@@ -477,15 +477,6 @@
       "published_at": "2026-03-16T17:34:13Z",
       "country_code": "IR",
       "country_name": "Iran"
-    },
-    {
-      "source": "BBC Latin America",
-      "title": "Mexico City breaks Guinness Record with giant football training session",
-      "url": "https://www.bbc.com/news/videos/cy7jrymgpjyo?at_medium=RSS&at_campaign=rss",
-      "summary": "Mexico City set a Guinness record for the largest football training session as 9,500 participants filled the capital’s Zocalo square ahead o…",
-      "published_at": "2026-03-16T17:23:27Z",
-      "country_code": "MX",
-      "country_name": "Mexico"
     },
     {
       "source": "BBC Middle East",
@@ -986,11 +977,6 @@
       "news_count": 2
     },
     {
-      "country_code": "MX",
-      "country_name": "Mexico",
-      "news_count": 2
-    },
-    {
       "country_code": "NG",
       "country_name": "Nigeria",
       "news_count": 2
@@ -1053,6 +1039,11 @@
     {
       "country_code": "KR",
       "country_name": "South Korea",
+      "news_count": 1
+    },
+    {
+      "country_code": "MX",
+      "country_name": "Mexico",
       "news_count": 1
     },
     {
