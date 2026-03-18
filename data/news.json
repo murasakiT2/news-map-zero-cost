@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-03-18T11:37:57Z",
+  "generated_at": "2026-03-18T12:44:39Z",
   "articles": [
+    {
+      "source": "BBC Africa",
+      "title": "Nigeria president begins first UK state visit in 37 years",
+      "url": "https://www.bbc.com/news/articles/cedzqqp9x2do?at_medium=RSS&at_campaign=rss",
+      "summary": "King Charles and senior royals will provide a ceremonial welcome for Nigeria's President Tinubu on his state visit.",
+      "published_at": "2026-03-18T11:49:48Z",
+      "country_code": "GB",
+      "country_name": "United Kingdom"
+    },
     {
       "source": "BBC US & Canada",
       "title": "Juliana Stratton wins Illinois Democratic primary for US Senate",
@@ -441,15 +450,6 @@
       "published_at": "2026-03-16T17:17:19Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC Africa",
-      "title": "Russia agrees to stop using Kenyan recruits in Ukraine conflict, Kenya says",
-      "url": "https://www.bbc.com/news/articles/cev7rdwmky9o?at_medium=RSS&at_campaign=rss",
-      "summary": "Some 1,000 Kenyans are believed to have recruited to fight in Ukraine - many say they were lured under false pretences.",
-      "published_at": "2026-03-16T14:09:58Z",
-      "country_code": "RU",
-      "country_name": "Russia"
     },
     {
       "source": "BBC Middle East",
@@ -993,6 +993,11 @@
       "news_count": 3
     },
     {
+      "country_code": "GB",
+      "country_name": "United Kingdom",
+      "news_count": 3
+    },
+    {
       "country_code": "IT",
       "country_name": "Italy",
       "news_count": 3
@@ -1008,11 +1013,6 @@
       "news_count": 3
     },
     {
-      "country_code": "RU",
-      "country_name": "Russia",
-      "news_count": 3
-    },
-    {
       "country_code": "VE",
       "country_name": "Venezuela",
       "news_count": 3
@@ -1020,11 +1020,6 @@
     {
       "country_code": "ES",
       "country_name": "Spain",
-      "news_count": 2
-    },
-    {
-      "country_code": "GB",
-      "country_name": "United Kingdom",
       "news_count": 2
     },
     {
@@ -1040,6 +1035,11 @@
     {
       "country_code": "MX",
       "country_name": "Mexico",
+      "news_count": 2
+    },
+    {
+      "country_code": "RU",
+      "country_name": "Russia",
       "news_count": 2
     },
     {
