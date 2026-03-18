@@ -1,6 +1,33 @@
 {
-  "generated_at": "2026-03-18T10:41:04Z",
+  "generated_at": "2026-03-18T11:37:57Z",
   "articles": [
+    {
+      "source": "BBC US & Canada",
+      "title": "Juliana Stratton wins Illinois Democratic primary for US Senate",
+      "url": "https://www.bbc.com/news/articles/cd9g9j3y2p0o?at_medium=RSS&at_campaign=rss",
+      "summary": "The 60-year-old Democrat, backed by Governor JB Pritzker, pulled off a surprise victory after months of trailing in the polls.",
+      "published_at": "2026-03-18T11:36:15Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC Middle East",
+      "title": "Why did US and Israel attack Iran and how long could the war last?",
+      "url": "https://www.bbc.com/news/articles/cx2dyz6p3weo?at_medium=RSS&at_campaign=rss",
+      "summary": "Conflict has spread across the Middle East since the US and Israel launched strikes on Iran on 28 February.",
+      "published_at": "2026-03-18T11:21:40Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "US judge orders Trump administration to reopen Voice of America",
+      "url": "https://www.bbc.com/news/articles/ce3g3j1y2ldo?at_medium=RSS&at_campaign=rss",
+      "summary": "Some 85% of VOA staff were laid off by Trump who accused the international broadcaster of bias.",
+      "published_at": "2026-03-18T11:01:43Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC Europe",
       "title": "Ukraine faces missile shortage due to Middle East war, says Zelensky",
@@ -270,15 +297,6 @@
       "published_at": "2026-03-17T10:12:10Z",
       "country_code": "VE",
       "country_name": "Venezuela"
-    },
-    {
-      "source": "BBC Middle East",
-      "title": "Why did US and Israel attack Iran and how long could the war last?",
-      "url": "https://www.bbc.com/news/articles/cx2dyz6p3weo?at_medium=RSS&at_campaign=rss",
-      "summary": "Conflict has spread across the Middle East since the US and Israel launched wide-ranging strikes on Iran on 28 February.",
-      "published_at": "2026-03-17T09:12:08Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC Europe",
@@ -942,7 +960,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 33
+      "news_count": 35
     },
     {
       "country_code": "IR",
