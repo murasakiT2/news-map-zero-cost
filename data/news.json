@@ -1,6 +1,33 @@
 {
-  "generated_at": "2026-03-18T01:15:41Z",
+  "generated_at": "2026-03-18T03:59:55Z",
   "articles": [
+    {
+      "source": "BBC Africa",
+      "title": "Morocco awarded Afcon title after CAF overturns result",
+      "url": "https://www.bbc.com/sport/football/articles/ce949glzzglo?at_medium=RSS&at_campaign=rss",
+      "summary": "Morocco declared the winners of the 2025 Africa Cup of Nations after the Confederation of African Football overturns the result of their fin…",
+      "published_at": "2026-03-18T03:24:20Z",
+      "country_code": "MA",
+      "country_name": "Morocco"
+    },
+    {
+      "source": "BBC Asia",
+      "title": "Suspected stray bullet from military drill hits girl at playground",
+      "url": "https://www.bbc.com/news/articles/crk8ke84820o?at_medium=RSS&at_campaign=rss",
+      "summary": "South Korea's military has since halted all shooting drills involving small firearms.",
+      "published_at": "2026-03-18T02:22:30Z",
+      "country_code": "KR",
+      "country_name": "South Korea"
+    },
+    {
+      "source": "BBC World",
+      "title": "Top US counterterrorism official resigns over Iran war, urging Trump to 'reverse course'",
+      "url": "https://www.bbc.com/news/articles/cg4g66r3z40o?at_medium=RSS&at_campaign=rss",
+      "summary": "National Counterterrorism Center Director Joe Kent says Trump \"started this war due to pressure from Israel and its powerful American lobby\"…",
+      "published_at": "2026-03-18T02:12:16Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "India's cheap weight-loss drugs could reshape global obesity fight",
@@ -9,15 +36,6 @@
       "published_at": "2026-03-18T00:30:49Z",
       "country_code": "IN",
       "country_name": "India"
-    },
-    {
-      "source": "BBC Africa",
-      "title": "Morocco awarded Afcon title after CAF overturns result",
-      "url": "https://www.bbc.com/sport/football/articles/ce949glzzglo?at_medium=RSS&at_campaign=rss",
-      "summary": "Morocco declared the winners of the 2025 Africa Cup of Nations after the Confederation of African Football overturns the result of their fin…",
-      "published_at": "2026-03-18T00:23:36Z",
-      "country_code": "MA",
-      "country_name": "Morocco"
     },
     {
       "source": "BBC World",
@@ -45,15 +63,6 @@
       "published_at": "2026-03-17T22:40:34Z",
       "country_code": "AU",
       "country_name": "Australia"
-    },
-    {
-      "source": "BBC World",
-      "title": "Top US counterterrorism official resigns over Iran war, urging Trump to 'reverse course'",
-      "url": "https://www.bbc.com/news/articles/cg4g66r3z40o?at_medium=RSS&at_campaign=rss",
-      "summary": "National Counterterrorism Center Director Joe Kent says Trump \"started this war due to pressure from Israel and its powerful American lobby\"…",
-      "published_at": "2026-03-17T21:48:08Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC World",
@@ -704,15 +713,6 @@
       "country_name": "Iran"
     },
     {
-      "source": "BBC Asia",
-      "title": "What did we learn from China's biggest political meeting?",
-      "url": "https://www.bbc.com/news/articles/cvg80pedxeyo?at_medium=RSS&at_campaign=rss",
-      "summary": "BBC correspondents give us their biggest takeaways from China's National People's Congress.",
-      "published_at": "2026-03-12T08:10:16Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC US & Canada",
       "title": "Justified or not? US military families on fears of Iran war",
       "url": "https://www.bbc.com/news/videos/cqxd7lyngxjo?at_medium=RSS&at_campaign=rss",
@@ -942,7 +942,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 33
+      "news_count": 32
     },
     {
       "country_code": "IR",
@@ -1062,6 +1062,11 @@
     {
       "country_code": "JP",
       "country_name": "Japan",
+      "news_count": 1
+    },
+    {
+      "country_code": "KR",
+      "country_name": "South Korea",
       "news_count": 1
     },
     {
