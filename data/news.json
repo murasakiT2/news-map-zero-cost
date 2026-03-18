@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-03-18T07:45:27Z",
+  "generated_at": "2026-03-18T08:36:44Z",
   "articles": [
+    {
+      "source": "BBC Europe",
+      "title": "Ukraine faces missile shortage due to Middle East war, says Zelensky",
+      "url": "https://www.bbc.com/news/articles/cp8r813x66jo?at_medium=RSS&at_campaign=rss",
+      "summary": "In an exclusive interview with the BBC, the Ukrainian president says Putin wants a \"long war\" between the US and Iran.",
+      "published_at": "2026-03-18T07:56:49Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC Asia",
       "title": "Chinese national charged for trying to smuggle 2,000 ants from Kenya",
@@ -101,7 +110,7 @@
       "country_name": "Australia"
     },
     {
-      "source": "BBC US & Canada",
+      "source": "BBC Europe",
       "title": "Watch: Sean Penn receives 'Oscar' in Ukraine after skipping US ceremony",
       "url": "https://www.bbc.com/news/videos/cgmlmv7vl0go?at_medium=RSS&at_campaign=rss",
       "summary": "The Academy Award winning US actor won his third Oscar on Sunday, but skipped the ceremony to visit Ukraine.",
@@ -407,7 +416,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Europe",
+      "source": "BBC Africa",
       "title": "Russia agrees to stop using Kenyan recruits in Ukraine conflict, Kenya says",
       "url": "https://www.bbc.com/news/articles/cev7rdwmky9o?at_medium=RSS&at_campaign=rss",
       "summary": "Some 1,000 Kenyans are believed to have recruited to fight in Ukraine - many say they were lured under false pretences.",
@@ -569,15 +578,6 @@
       "country_name": "Israel"
     },
     {
-      "source": "BBC Europe",
-      "title": "German philosopher and social critic Jürgen Habermas dies at 96",
-      "url": "https://www.bbc.com/news/articles/crk8yxd2g0no?at_medium=RSS&at_campaign=rss",
-      "summary": "One the most influential thinkers in post-war Germany, he linked philosophy and political action throughout his life.",
-      "published_at": "2026-03-14T18:02:15Z",
-      "country_code": "DE",
-      "country_name": "Germany"
-    },
-    {
       "source": "BBC Middle East",
       "title": "Why has the US targeted Iran's Kharg Island?",
       "url": "https://www.bbc.com/news/articles/c8jxzlwvd8ro?at_medium=RSS&at_campaign=rss",
@@ -603,15 +603,6 @@
       "published_at": "2026-03-14T13:27:32Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC Europe",
-      "title": "Explosion at Amsterdam Jewish school 'a deliberate attack' says mayor",
-      "url": "https://www.bbc.com/news/articles/cwyg4j58gdyo?at_medium=RSS&at_campaign=rss",
-      "summary": "Security had been increased at Jewish public institutions following an earlier incident in Rotterdam.",
-      "published_at": "2026-03-14T12:45:41Z",
-      "country_code": "NL",
-      "country_name": "Netherlands"
     },
     {
       "source": "BBC Middle East",
@@ -942,7 +933,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 31
+      "news_count": 32
     },
     {
       "country_code": "IR",
@@ -1050,11 +1041,6 @@
       "news_count": 1
     },
     {
-      "country_code": "DE",
-      "country_name": "Germany",
-      "news_count": 1
-    },
-    {
       "country_code": "IQ",
       "country_name": "Iraq",
       "news_count": 1
@@ -1072,11 +1058,6 @@
     {
       "country_code": "KR",
       "country_name": "South Korea",
-      "news_count": 1
-    },
-    {
-      "country_code": "NL",
-      "country_name": "Netherlands",
       "news_count": 1
     },
     {
