@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-03-18T20:25:52Z",
+  "generated_at": "2026-03-18T21:01:10Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "King praises 'living bridge' with Nigeria at glitzy banquet",
+      "url": "https://www.bbc.com/news/articles/cedzqqp9x2do?at_medium=RSS&at_campaign=rss",
+      "summary": "At the state banquet in Windsor Castle, King Charles praises the UK's partnership with Nigeria.",
+      "published_at": "2026-03-18T20:59:48Z",
+      "country_code": "GB",
+      "country_name": "United Kingdom"
+    },
     {
       "source": "BBC US & Canada",
       "title": "US holds interest rates as Iran war triggers oil shock",
@@ -966,6 +975,11 @@
       "news_count": 3
     },
     {
+      "country_code": "GB",
+      "country_name": "United Kingdom",
+      "news_count": 3
+    },
+    {
       "country_code": "IT",
       "country_name": "Italy",
       "news_count": 3
@@ -978,11 +992,6 @@
     {
       "country_code": "ES",
       "country_name": "Spain",
-      "news_count": 2
-    },
-    {
-      "country_code": "GB",
-      "country_name": "United Kingdom",
       "news_count": 2
     },
     {
