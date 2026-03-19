@@ -1,17 +1,26 @@
 {
-  "generated_at": "2026-03-19T11:05:58Z",
+  "generated_at": "2026-03-19T11:55:07Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "DR Congo and Rwanda agree to ease tensions after talks in US",
+      "url": "https://www.bbc.com/news/articles/c15x5ejgyl3o?at_medium=RSS&at_campaign=rss",
+      "summary": "The conflict has persisted despite a peace deal signed by DR Congo and Rwanda in December.",
+      "published_at": "2026-03-19T11:14:02Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "Cyprus leader calls for frank discussion on 'colonial' UK bases",
       "url": "https://www.bbc.com/news/articles/cy7166denxeo?at_medium=RSS&at_campaign=rss",
       "summary": "The UK's two military bases on Cyprus are a \"colonial consequence\" on the island, says President Nikos Christodoulides.",
-      "published_at": "2026-03-19T10:45:53Z",
+      "published_at": "2026-03-19T11:05:55Z",
       "country_code": "GB",
       "country_name": "United Kingdom"
     },
     {
-      "source": "BBC Middle East",
+      "source": "BBC US & Canada",
       "title": "Trump threatens to blow up 'entirety' of major Iran gas field if it attacks Qatar again",
       "url": "https://www.bbc.com/news/articles/c93j37egjdeo?at_medium=RSS&at_campaign=rss",
       "summary": "The attacks led to a spike of more than 25% in gas prices in Europe on Thursday.",
@@ -45,15 +54,6 @@
       "published_at": "2026-03-19T08:48:08Z",
       "country_code": "IN",
       "country_name": "India"
-    },
-    {
-      "source": "BBC World",
-      "title": "DR Congo and Rwanda agree to ease tensions after talks in US",
-      "url": "https://www.bbc.com/news/articles/c15x5ejgyl3o?at_medium=RSS&at_campaign=rss",
-      "summary": "The conflict has persisted despite a peace deal signed by DR Congo and Rwanda in December.",
-      "published_at": "2026-03-19T08:42:38Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC Asia",
@@ -250,15 +250,6 @@
       "url": "https://www.bbc.com/news/articles/cx2dyz6p3weo?at_medium=RSS&at_campaign=rss",
       "summary": "Conflict has spread across the Middle East since the US and Israel launched strikes on Iran on 28 February.",
       "published_at": "2026-03-18T11:21:40Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "US judge orders Trump administration to reopen Voice of America",
-      "url": "https://www.bbc.com/news/articles/ce3g3j1y2ldo?at_medium=RSS&at_campaign=rss",
-      "summary": "Some 85% of VOA staff were laid off by Trump who accused the international broadcaster of bias.",
-      "published_at": "2026-03-18T11:01:43Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -813,30 +804,12 @@
     },
     {
       "source": "BBC Africa",
-      "title": "The young women who fought in Ethiopia's last civil war and don't want to see another one",
-      "url": "https://www.bbc.com/news/articles/cyv959eyjgjo?at_medium=RSS&at_campaign=rss",
-      "summary": "Female fighters recall how the conflict in the northern Tigray destroyed their lives, as fears grow that fighting could resume.",
-      "published_at": "2026-03-06T00:05:46Z",
-      "country_code": "ET",
-      "country_name": "Ethiopia"
-    },
-    {
-      "source": "BBC Africa",
       "title": "Regragui departs as Morocco appoint Ouahbi as new coach",
       "url": "https://www.bbc.com/sport/football/articles/c62dnepz5g7o?at_medium=RSS&at_campaign=rss",
       "summary": "Morocco part company with coach Walid Regragui four months before the World Cup finals, with Mohamed Ouahbi appointed in his place.",
       "published_at": "2026-03-05T23:01:26Z",
       "country_code": "MA",
       "country_name": "Morocco"
-    },
-    {
-      "source": "BBC Africa",
-      "title": "Ethiopia experiments with 'smart' police stations that have no officers",
-      "url": "https://www.bbc.com/news/articles/cjd9jgnrdpko?at_medium=RSS&at_campaign=rss",
-      "summary": "A project to introduce unmanned sites is part of a broader adoption of digital technologies.",
-      "published_at": "2026-03-05T12:34:22Z",
-      "country_code": "ET",
-      "country_name": "Ethiopia"
     },
     {
       "source": "BBC Africa",
@@ -900,13 +873,22 @@
       "published_at": "2026-02-05T17:15:30Z",
       "country_code": "NG",
       "country_name": "Nigeria"
+    },
+    {
+      "source": "BBC Africa",
+      "title": "South African national park closed due to floods",
+      "url": "https://www.bbc.com/news/videos/c20d9qdz7zwo?at_medium=RSS&at_campaign=rss",
+      "summary": "Ongoing floods in the north-eastern provinces of South Africa has led to the closure of the world-famous Kruger National Park.",
+      "published_at": "2026-01-16T16:52:14Z",
+      "country_code": "ZA",
+      "country_name": "South Africa"
     }
   ],
   "regions": [
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 35
+      "news_count": 34
     },
     {
       "country_code": "IR",
@@ -927,11 +909,6 @@
       "country_code": "GB",
       "country_name": "United Kingdom",
       "news_count": 4
-    },
-    {
-      "country_code": "ET",
-      "country_name": "Ethiopia",
-      "news_count": 3
     },
     {
       "country_code": "IT",
@@ -964,6 +941,11 @@
       "news_count": 2
     },
     {
+      "country_code": "ZA",
+      "country_name": "South Africa",
+      "news_count": 2
+    },
+    {
       "country_code": "AE",
       "country_name": "United Arab Emirates",
       "news_count": 1
@@ -986,6 +968,11 @@
     {
       "country_code": "ES",
       "country_name": "Spain",
+      "news_count": 1
+    },
+    {
+      "country_code": "ET",
+      "country_name": "Ethiopia",
       "news_count": 1
     },
     {
@@ -1046,11 +1033,6 @@
     {
       "country_code": "UA",
       "country_name": "Ukraine",
-      "news_count": 1
-    },
-    {
-      "country_code": "ZA",
-      "country_name": "South Africa",
       "news_count": 1
     }
   ]
