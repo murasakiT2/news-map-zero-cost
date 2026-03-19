@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-03-19T08:03:04Z",
+  "generated_at": "2026-03-19T09:06:20Z",
   "articles": [
+    {
+      "source": "BBC Asia",
+      "title": "India's ceramic hub grinds to a halt as Iran war chokes gas supply",
+      "url": "https://www.bbc.com/news/articles/cgrzr9ynpn1o?at_medium=RSS&at_campaign=rss",
+      "summary": "Manufacturers stopped operations after supplies of propane and natural gas reduced sharply in recent days.",
+      "published_at": "2026-03-19T08:48:08Z",
+      "country_code": "IN",
+      "country_name": "India"
+    },
+    {
+      "source": "BBC World",
+      "title": "DR Congo and Rwanda agree to ease tensions after talks in US",
+      "url": "https://www.bbc.com/news/articles/c15x5ejgyl3o?at_medium=RSS&at_campaign=rss",
+      "summary": "The conflict has persisted despite a peace deal signed by DR Congo and Rwanda in December.",
+      "published_at": "2026-03-19T08:42:38Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC Middle East",
       "title": "Trump says US 'knew nothing' about Israel's attack on major Iran gas field",
@@ -101,7 +119,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "US holds interest rates as Iran war triggers inflation fears",
       "url": "https://www.bbc.com/news/articles/c36364d06x3o?at_medium=RSS&at_campaign=rss",
       "summary": "The US central bank is moving cautiously, despite pressure from the president to cut interest rates.",
@@ -110,7 +128,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Middle East",
       "title": "Israel destroys river bridges in southern Lebanon",
       "url": "https://www.bbc.com/news/articles/cvg8g98ezmzo?at_medium=RSS&at_campaign=rss",
       "summary": "The health ministry says that 968 people, including more than 100 children, have been killed since 2 March.",
@@ -128,7 +146,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Middle East",
       "title": "Iran's intelligence minister Esmail Khatib killed in air strike",
       "url": "https://www.bbc.com/news/articles/c2d1dz14k51o?at_medium=RSS&at_campaign=rss",
       "summary": "Israel said it had killed Khatib, whose death was confirmed by Iranian President Masoud Pezeshkian on Wednesday.",
@@ -137,7 +155,7 @@
       "country_name": "Israel"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "Russian archaeologist can be sent to Ukraine for trial, Polish judge rules",
       "url": "https://www.bbc.com/news/articles/c86y65j26xno?at_medium=RSS&at_campaign=rss",
       "summary": "Archaeologist Alexander Butyagin is accused of conducting illegal excavations in Crimea - Ukraine's peninsula annexed by Russia.",
@@ -153,15 +171,6 @@
       "published_at": "2026-03-18T16:04:29Z",
       "country_code": "IL",
       "country_name": "Israel"
-    },
-    {
-      "source": "BBC World",
-      "title": "Celebrations in Morocco but devastation in Senegal after Africa Cup of Nations decision",
-      "url": "https://www.bbc.com/news/articles/crm8mem74mko?at_medium=RSS&at_campaign=rss",
-      "summary": "Moroccans feel justice has been done but the Senegalese are angry after being stripped of the title.",
-      "published_at": "2026-03-18T15:48:41Z",
-      "country_code": "MA",
-      "country_name": "Morocco"
     },
     {
       "source": "BBC Africa",
@@ -297,15 +306,6 @@
       "published_at": "2026-03-18T00:30:49Z",
       "country_code": "IN",
       "country_name": "India"
-    },
-    {
-      "source": "BBC World",
-      "title": "Total repression and air strikes bring unrelenting dread for Iranians",
-      "url": "https://www.bbc.com/news/articles/cn9e0wrglgdo?at_medium=RSS&at_campaign=rss",
-      "summary": "Tehran residents tell the BBC they're caught between US-Israeli bombing and an Iranian regime trying to reassert its power.",
-      "published_at": "2026-03-18T00:07:36Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC Europe",
@@ -876,7 +876,7 @@
     {
       "country_code": "IN",
       "country_name": "India",
-      "news_count": 4
+      "news_count": 5
     },
     {
       "country_code": "ET",
@@ -894,14 +894,14 @@
       "news_count": 3
     },
     {
-      "country_code": "MA",
-      "country_name": "Morocco",
-      "news_count": 3
-    },
-    {
       "country_code": "NG",
       "country_name": "Nigeria",
       "news_count": 3
+    },
+    {
+      "country_code": "MA",
+      "country_name": "Morocco",
+      "news_count": 2
     },
     {
       "country_code": "RU",
