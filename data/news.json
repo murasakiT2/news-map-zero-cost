@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-19T23:20:37Z",
+  "generated_at": "2026-03-19T23:50:20Z",
   "articles": [
     {
       "source": "BBC World",
@@ -9,6 +9,15 @@
       "published_at": "2026-03-19T23:19:00Z",
       "country_code": "US",
       "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Seoul braces for the BTS Army as the world's biggest band returns",
+      "url": "https://www.bbc.com/news/articles/cge0dyjwezgo?at_medium=RSS&at_campaign=rss",
+      "summary": "RM, Jin, Suga, J-Hope, Jimin, V and Jung Kook will perform together for the first time since October 2022.",
+      "published_at": "2026-03-19T23:03:53Z",
+      "country_code": "KR",
+      "country_name": "South Korea"
     },
     {
       "source": "BBC World",
@@ -299,7 +308,7 @@
       "country_name": "Russia"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Middle East",
       "title": "'Very difficult to stop': BBC visits scene of Iran cluster bomb strike on Israel",
       "url": "https://www.bbc.com/news/articles/cwy9yldgn7qo?at_medium=RSS&at_campaign=rss",
       "summary": "An elderly couple was killed after a bomb flew into their apartment in central Israel and exploded.",
@@ -405,15 +414,6 @@
       "published_at": "2026-03-17T18:55:17Z",
       "country_code": "MX",
       "country_name": "Mexico"
-    },
-    {
-      "source": "BBC Asia",
-      "title": "Air strike hit Kabul rehab centre as patients ate dinner, survivor tells BBC",
-      "url": "https://www.bbc.com/news/articles/ckg1kgz6wkgo?at_medium=RSS&at_campaign=rss",
-      "summary": "The exact number killed in Monday night's strike by Pakistan is still not known, but is feared to be in the hundreds.",
-      "published_at": "2026-03-17T18:45:54Z",
-      "country_code": "PK",
-      "country_name": "Pakistan"
     },
     {
       "source": "BBC Europe",
@@ -1009,6 +1009,11 @@
       "news_count": 1
     },
     {
+      "country_code": "KR",
+      "country_name": "South Korea",
+      "news_count": 1
+    },
+    {
       "country_code": "MA",
       "country_name": "Morocco",
       "news_count": 1
@@ -1016,11 +1021,6 @@
     {
       "country_code": "NO",
       "country_name": "Norway",
-      "news_count": 1
-    },
-    {
-      "country_code": "PK",
-      "country_name": "Pakistan",
       "news_count": 1
     },
     {
