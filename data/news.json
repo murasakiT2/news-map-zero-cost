@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-03-19T22:17:41Z",
+  "generated_at": "2026-03-19T22:52:57Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Netanyahu says Israel 'acted alone' in attack on Iranian gas field",
+      "url": "https://www.bbc.com/news/articles/c2k3jgy9vq3o?at_medium=RSS&at_campaign=rss",
+      "summary": "Speaking at a news conference, the Israeli leader said Trump had requested that there be no further such attacks.",
+      "published_at": "2026-03-19T22:41:40Z",
+      "country_code": "IL",
+      "country_name": "Israel"
+    },
     {
       "source": "BBC World",
       "title": "Teenager among first to be executed over Iran's anti-government protests",
@@ -20,6 +29,15 @@
       "country_name": "United States"
     },
     {
+      "source": "BBC World",
+      "title": "US civil rights leader Cesar Chavez accused of sexual abuse",
+      "url": "https://www.bbc.com/news/articles/cp8r8rggxmmo?at_medium=RSS&at_campaign=rss",
+      "summary": "The allegations have prompted the cancellations of events and celebrations planned in his honour later this month.",
+      "published_at": "2026-03-19T21:37:45Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
       "source": "BBC US & Canada",
       "title": "Ros Atkins on... Trump's mixed messages on the war",
       "url": "https://www.bbc.com/news/videos/c747lk0geldo?at_medium=RSS&at_campaign=rss",
@@ -30,7 +48,7 @@
     },
     {
       "source": "BBC US & Canada",
-      "title": "Trump administration seeks $200bn in military funding in wake of Iran war",
+      "title": "White House seeks $200bn in military funding in wake of Iran war",
       "url": "https://www.bbc.com/news/articles/c5y73gwk1qdo?at_medium=RSS&at_campaign=rss",
       "summary": "President Donald Trump says the US needs \"vast amounts of ammunition\" as the world is \"very volatile.\"",
       "published_at": "2026-03-19T20:34:46Z",
@@ -92,7 +110,7 @@
       "country_name": "United Kingdom"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "Iran conflict looms large over Trump's meeting with Japan PM",
       "url": "https://www.bbc.com/news/articles/cde4e2xyelpo?at_medium=RSS&at_campaign=rss",
       "summary": "The meeting with Sanae Takaichi comes days after Trump criticised Japan for not answering his demands for help in the Strait of Hormuz.",
@@ -110,7 +128,7 @@
       "country_name": "United Kingdom"
     },
     {
-      "source": "BBC US & Canada",
+      "source": "BBC Asia",
       "title": "Trump compares attack on Iran to Pearl Harbor in meeting with Japanese PM",
       "url": "https://www.bbc.com/news/videos/cx248jvgwj8o?at_medium=RSS&at_campaign=rss",
       "summary": "In a meeting with Japanese Prime Minister, US President Donald Trump was asked why he didn't inform allies about his plan to attack Iran.",
@@ -345,30 +363,12 @@
     },
     {
       "source": "BBC Asia",
-      "title": "Chinese national charged for trying to smuggle 2,000 ants from Kenya",
-      "url": "https://www.bbc.com/news/articles/c1mjmg0ymk9o?at_medium=RSS&at_campaign=rss",
-      "summary": "Zhang Kequn was found with the large consignment of ants in his luggage at a Nairobi airport.",
-      "published_at": "2026-03-18T05:54:28Z",
-      "country_code": "KE",
-      "country_name": "Kenya"
-    },
-    {
-      "source": "BBC Asia",
       "title": "Will the Iran war squeeze India's piped gas next?",
       "url": "https://www.bbc.com/news/articles/cj6dl175w01o?at_medium=RSS&at_campaign=rss",
       "summary": "The Iran war has already rattled LPG users. Will India’s piped gas network face the next squeeze?",
       "published_at": "2026-03-18T05:45:58Z",
       "country_code": "IN",
       "country_name": "India"
-    },
-    {
-      "source": "BBC Asia",
-      "title": "Suspected stray bullet from military drill hits girl at playground",
-      "url": "https://www.bbc.com/news/articles/crk8ke84820o?at_medium=RSS&at_campaign=rss",
-      "summary": "South Korea's military has since halted all shooting drills involving small firearms.",
-      "published_at": "2026-03-18T02:22:30Z",
-      "country_code": "KR",
-      "country_name": "South Korea"
     },
     {
       "source": "BBC Asia",
@@ -585,15 +585,6 @@
       "published_at": "2026-03-16T16:21:47Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC Middle East",
-      "title": "Who wants what from the Iran war?",
-      "url": "https://www.bbc.com/news/articles/cgk2lm5znyro?at_medium=RSS&at_campaign=rss",
-      "summary": "Most people, although not everybody, want this war to end as quickly as possible. But on what terms?",
-      "published_at": "2026-03-16T11:00:03Z",
-      "country_code": "IR",
-      "country_name": "Iran"
     },
     {
       "source": "BBC Middle East",
@@ -915,17 +906,17 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 34
+      "news_count": 35
     },
     {
       "country_code": "IR",
       "country_name": "Iran",
-      "news_count": 16
+      "news_count": 15
     },
     {
       "country_code": "IL",
       "country_name": "Israel",
-      "news_count": 7
+      "news_count": 8
     },
     {
       "country_code": "GB",
@@ -1015,16 +1006,6 @@
     {
       "country_code": "JP",
       "country_name": "Japan",
-      "news_count": 1
-    },
-    {
-      "country_code": "KE",
-      "country_name": "Kenya",
-      "news_count": 1
-    },
-    {
-      "country_code": "KR",
-      "country_name": "South Korea",
       "news_count": 1
     },
     {
