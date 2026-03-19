@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-19T07:30:10Z",
+  "generated_at": "2026-03-19T08:03:04Z",
   "articles": [
     {
       "source": "BBC Middle East",
@@ -398,24 +398,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Europe",
-      "title": "Easter holidaymakers switching from Dubai to Spain as flights fill up",
-      "url": "https://www.bbc.com/news/articles/cm21gv3133zo?at_medium=RSS&at_campaign=rss",
-      "summary": "It comes after the war in Iran caused mass disruption to flights across the Middle East and UAE.",
-      "published_at": "2026-03-17T13:33:44Z",
-      "country_code": "ES",
-      "country_name": "Spain"
-    },
-    {
-      "source": "BBC Latin America",
-      "title": "Millions without electricity as Cuba's power grid collapses",
-      "url": "https://www.bbc.com/news/articles/c07j40dyx53o?at_medium=RSS&at_campaign=rss",
-      "summary": "Cuba's chronic fuel shortages have been exacerbated by a US blockade on oil shipments to the island.",
-      "published_at": "2026-03-17T10:32:25Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC Latin America",
       "title": "UN receives reports alleging torture of detainees in Venezuela continues",
       "url": "https://www.bbc.com/news/articles/c0e5v9n1qqwo?at_medium=RSS&at_campaign=rss",
@@ -533,15 +515,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Europe",
-      "title": "French national jailed for 10 years in Azerbaijan for spying",
-      "url": "https://www.bbc.com/news/articles/c2lr5j84gd1o?at_medium=RSS&at_campaign=rss",
-      "summary": "Martin Ryan was accused of collecting secret information about Baku's military co-operation with Turkey and Pakistan.",
-      "published_at": "2026-03-16T11:47:16Z",
-      "country_code": "PK",
-      "country_name": "Pakistan"
-    },
-    {
       "source": "BBC Middle East",
       "title": "Who wants what from the Iran war?",
       "url": "https://www.bbc.com/news/articles/cgk2lm5znyro?at_medium=RSS&at_campaign=rss",
@@ -567,15 +540,6 @@
       "published_at": "2026-03-16T04:43:43Z",
       "country_code": "IR",
       "country_name": "Iran"
-    },
-    {
-      "source": "BBC Europe",
-      "title": "Ukraine's urgent fight on the financial frontline",
-      "url": "https://www.bbc.com/news/articles/c20jyngz7ygo?at_medium=RSS&at_campaign=rss",
-      "summary": "The war-torn country is battling to secure crucial funding from the IMF and EU, as well as putting up taxes.",
-      "published_at": "2026-03-16T00:06:14Z",
-      "country_code": "UA",
-      "country_name": "Ukraine"
     },
     {
       "source": "BBC Africa",
@@ -648,15 +612,6 @@
       "published_at": "2026-03-13T22:02:39Z",
       "country_code": "IR",
       "country_name": "Iran"
-    },
-    {
-      "source": "BBC Europe",
-      "title": "Why has Trump eased sanctions on Russian oil - and will it help Putin?",
-      "url": "https://www.bbc.com/news/articles/cm2871wyz9ko?at_medium=RSS&at_campaign=rss",
-      "summary": "The US said easing sanctions on Russian oil would provide only a limited financial boost to Putin.",
-      "published_at": "2026-03-13T16:07:39Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC Middle East",
@@ -906,7 +861,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 34
+      "news_count": 32
     },
     {
       "country_code": "IR",
@@ -949,23 +904,8 @@
       "news_count": 3
     },
     {
-      "country_code": "ES",
-      "country_name": "Spain",
-      "news_count": 2
-    },
-    {
-      "country_code": "PK",
-      "country_name": "Pakistan",
-      "news_count": 2
-    },
-    {
       "country_code": "RU",
       "country_name": "Russia",
-      "news_count": 2
-    },
-    {
-      "country_code": "UA",
-      "country_name": "Ukraine",
       "news_count": 2
     },
     {
@@ -991,6 +931,11 @@
     {
       "country_code": "CN",
       "country_name": "China",
+      "news_count": 1
+    },
+    {
+      "country_code": "ES",
+      "country_name": "Spain",
       "news_count": 1
     },
     {
@@ -1029,6 +974,11 @@
       "news_count": 1
     },
     {
+      "country_code": "PK",
+      "country_name": "Pakistan",
+      "news_count": 1
+    },
+    {
       "country_code": "PS",
       "country_name": "Palestine",
       "news_count": 1
@@ -1041,6 +991,11 @@
     {
       "country_code": "SD",
       "country_name": "Sudan",
+      "news_count": 1
+    },
+    {
+      "country_code": "UA",
+      "country_name": "Ukraine",
       "news_count": 1
     },
     {
