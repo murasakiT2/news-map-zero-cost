@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-03-19T20:37:07Z",
+  "generated_at": "2026-03-19T21:25:56Z",
   "articles": [
+    {
+      "source": "BBC US & Canada",
+      "title": "Ros Atkins on... Trump's mixed messages on the war",
+      "url": "https://www.bbc.com/news/videos/c747lk0geldo?at_medium=RSS&at_campaign=rss",
+      "summary": "The BBC’s Analysis Editor looks at President Trump’s mixed messages on the war with Iran.",
+      "published_at": "2026-03-19T20:58:34Z",
+      "country_code": "IR",
+      "country_name": "Iran"
+    },
     {
       "source": "BBC US & Canada",
       "title": "Trump administration seeks $200bn in military funding in wake of Iran war",
@@ -342,15 +351,6 @@
       "published_at": "2026-03-18T02:22:30Z",
       "country_code": "KR",
       "country_name": "South Korea"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "Parades, rivers and the White House fountain: US celebrates St Patrick's Day",
-      "url": "https://www.bbc.com/news/videos/c4geg7jpv3yo?at_medium=RSS&at_campaign=rss",
-      "summary": "The Chicago River continued its more than 60-year tradition, dyed green to celebrate the city's Irish heritage.",
-      "published_at": "2026-03-18T01:03:32Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC Asia",
@@ -897,12 +897,12 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 34
+      "news_count": 33
     },
     {
       "country_code": "IR",
       "country_name": "Iran",
-      "news_count": 14
+      "news_count": 15
     },
     {
       "country_code": "IL",
