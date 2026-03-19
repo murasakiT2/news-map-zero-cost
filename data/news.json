@@ -1,12 +1,30 @@
 {
-  "generated_at": "2026-03-19T17:29:36Z",
+  "generated_at": "2026-03-19T18:08:55Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Iran conflict looms large over Trump's meeting with Japan PM",
+      "url": "https://www.bbc.com/news/articles/cde4e2xyelpo?at_medium=RSS&at_campaign=rss",
+      "summary": "The meeting with Sanae Takaichi comes days after Trump criticised Japan for not answering his demands for help in the Strait of Hormuz.",
+      "published_at": "2026-03-19T18:06:37Z",
+      "country_code": "JP",
+      "country_name": "Japan"
+    },
+    {
+      "source": "BBC Africa",
+      "title": "UK agrees deal to ease migrant returns to Nigeria",
+      "url": "https://www.bbc.com/news/articles/crm1w24p8p7o?at_medium=RSS&at_campaign=rss",
+      "summary": "It comes during the Nigerian president's state visit to the UK - the first by a west African leader in 37 years.",
+      "published_at": "2026-03-19T18:02:01Z",
+      "country_code": "GB",
+      "country_name": "United Kingdom"
+    },
     {
       "source": "BBC US & Canada",
       "title": "US states sue Trump over his move to scrap greenhouse gases ruling",
       "url": "https://www.bbc.com/news/articles/cr51n6j9qvzo?at_medium=RSS&at_campaign=rss",
       "summary": "The lawsuit seeks to overturn the Trump administration's reversal last month of the 2009 ruling that underpins all US policies aimed at lowe…",
-      "published_at": "2026-03-19T17:24:16Z",
+      "published_at": "2026-03-19T17:58:26Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -23,19 +41,10 @@
       "source": "BBC US & Canada",
       "title": "Trump administration seeks $200bn in military funding in wake of Iran war",
       "url": "https://www.bbc.com/news/articles/c5y73gwk1qdo?at_medium=RSS&at_campaign=rss",
-      "summary": "A top economic adviser estimates the war in Iran has already cost the US $12bn",
+      "summary": "The defence secretary told reporters on Thursday that \"it takes money to kill bad guys\".",
       "published_at": "2026-03-19T16:31:14Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "Japan PM to hold 'difficult' talks with Trump as Iran conflict looms large",
-      "url": "https://www.bbc.com/news/articles/cde4e2xyelpo?at_medium=RSS&at_campaign=rss",
-      "summary": "It comes days after Trump criticised Japan for not answering his demands for help in the Strait of Hormuz.",
-      "published_at": "2026-03-19T16:16:05Z",
-      "country_code": "JP",
-      "country_name": "Japan"
+      "country_code": "IR",
+      "country_name": "Iran"
     },
     {
       "source": "BBC World",
@@ -90,15 +99,6 @@
       "published_at": "2026-03-19T14:00:19Z",
       "country_code": "ES",
       "country_name": "Spain"
-    },
-    {
-      "source": "BBC Africa",
-      "title": "Starmer meets Nigerian president as record steel deal agreed",
-      "url": "https://www.bbc.com/news/articles/crm1w24p8p7o?at_medium=RSS&at_campaign=rss",
-      "summary": "The deal came as part of the president's state visit to the UK - the first by a west African leader in 37 years.",
-      "published_at": "2026-03-19T13:59:09Z",
-      "country_code": "GB",
-      "country_name": "United Kingdom"
     },
     {
       "source": "BBC World",
@@ -888,12 +888,12 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 33
+      "news_count": 32
     },
     {
       "country_code": "IR",
       "country_name": "Iran",
-      "news_count": 14
+      "news_count": 15
     },
     {
       "country_code": "IL",
