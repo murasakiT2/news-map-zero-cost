@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-03-19T21:52:52Z",
+  "generated_at": "2026-03-19T22:17:41Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Teenager among first to be executed over Iran's anti-government protests",
+      "url": "https://www.bbc.com/news/articles/ce9mzn7k722o?at_medium=RSS&at_campaign=rss",
+      "summary": "Saleh Mohammadi, a member of Iran's national wrestling team, was found guilty of killing police officers alongside two other men, state medi…",
+      "published_at": "2026-03-19T22:07:17Z",
+      "country_code": "IR",
+      "country_name": "Iran"
+    },
+    {
+      "source": "BBC World",
+      "title": "Denmark planned to blow up Greenland runways if US invaded, reports say",
+      "url": "https://www.bbc.com/news/articles/c33ln4mp1p2o?at_medium=RSS&at_campaign=rss",
+      "summary": "Denmark's public broadcaster reports that the US operation to seize Venezuela's leader sparked fears it would act against Greenland.",
+      "published_at": "2026-03-19T21:52:36Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC US & Canada",
       "title": "Ros Atkins on... Trump's mixed messages on the war",
@@ -38,7 +56,7 @@
       "country_name": "Norway"
     },
     {
-      "source": "BBC US & Canada",
+      "source": "BBC World",
       "title": "US considers lifting sanctions on some Iranian oil",
       "url": "https://www.bbc.com/news/articles/c9d415g55nno?at_medium=RSS&at_campaign=rss",
       "summary": "Treasury Secretary Scott Bessent broached waiving sanctions on oil already at sea, which would be a stunning reversal of longstanding Americ…",
@@ -146,7 +164,7 @@
       "country_name": "Spain"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "Cyprus leader calls for frank discussion on 'colonial' UK bases",
       "url": "https://www.bbc.com/news/articles/cy7166denxeo?at_medium=RSS&at_campaign=rss",
       "summary": "The UK's two military bases on Cyprus are a \"colonial consequence\" on the island, says President Nikos Christodoulides.",
@@ -209,7 +227,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "India's young are more educated than ever. So why are so many jobless?",
       "url": "https://www.bbc.com/news/articles/c17841zez8wo?at_medium=RSS&at_campaign=rss",
       "summary": "India’s educational enrolment has surged but jobs, especially good ones, are not keeping pace, a new report finds.",
@@ -897,12 +915,12 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 33
+      "news_count": 34
     },
     {
       "country_code": "IR",
       "country_name": "Iran",
-      "news_count": 15
+      "news_count": 16
     },
     {
       "country_code": "IL",
