@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-03-19T19:58:37Z",
+  "generated_at": "2026-03-19T20:37:07Z",
   "articles": [
+    {
+      "source": "BBC US & Canada",
+      "title": "Trump administration seeks $200bn in military funding in wake of Iran war",
+      "url": "https://www.bbc.com/news/articles/c5y73gwk1qdo?at_medium=RSS&at_campaign=rss",
+      "summary": "President Donald Trump says the US needs \"vast amounts of ammunition\" as the world is \"very volatile.\"",
+      "published_at": "2026-03-19T20:34:46Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "Canada's Conservative leader talks tariffs and martial arts with Joe Rogan",
+      "url": "https://www.bbc.com/news/articles/czx9l84v0j9o?at_medium=RSS&at_campaign=rss",
+      "summary": "Pierre Poilievre said he wanted to make the case for removing US tariffs on Canada directly to Americans \"on the biggest podcast in the worl…",
+      "published_at": "2026-03-19T20:16:15Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Norway crown princess to address Epstein links as son's rape trial closes",
+      "url": "https://www.bbc.com/news/articles/cvge3mxgvwwo?at_medium=RSS&at_campaign=rss",
+      "summary": "Mette-Marit gives a much-anticipated interview, due to be broadcast on Friday.",
+      "published_at": "2026-03-19T20:14:30Z",
+      "country_code": "NO",
+      "country_name": "Norway"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "US considers lifting sanctions on some Iranian oil",
+      "url": "https://www.bbc.com/news/articles/c9d415g55nno?at_medium=RSS&at_campaign=rss",
+      "summary": "Treasury Secretary Scott Bessent broached waiving sanctions on oil already at sea, which would be a stunning reversal of longstanding Americ…",
+      "published_at": "2026-03-19T19:55:51Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "Are US and Israel aligned on Iran war? Deciphering Trump's post after gas field attacks",
@@ -63,15 +99,6 @@
       "published_at": "2026-03-19T17:12:27Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "Trump administration seeks $200bn in military funding in wake of Iran war",
-      "url": "https://www.bbc.com/news/articles/c5y73gwk1qdo?at_medium=RSS&at_campaign=rss",
-      "summary": "The defence secretary told reporters on Thursday that \"it takes money to kill bad guys\".",
-      "published_at": "2026-03-19T16:31:14Z",
-      "country_code": "IR",
-      "country_name": "Iran"
     },
     {
       "source": "BBC World",
@@ -191,15 +218,6 @@
       "country_name": "China"
     },
     {
-      "source": "BBC US & Canada",
-      "title": "US intelligence chief says Iran's regime 'intact' but 'degraded'",
-      "url": "https://www.bbc.com/news/articles/c1d6dk569w6o?at_medium=RSS&at_campaign=rss",
-      "summary": "Lawmakers pressed intelligence officials about the Iran war, and if the Islamic Republic had posed an imminent threat.",
-      "published_at": "2026-03-18T22:18:19Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC Middle East",
       "title": "Israel destroys river bridges in southern Lebanon",
       "url": "https://www.bbc.com/news/articles/cvg8g98ezmzo?at_medium=RSS&at_campaign=rss",
@@ -288,15 +306,6 @@
       "published_at": "2026-03-18T13:12:51Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC Europe",
-      "title": "Norway prosecutor asks for seven years' jail for crown princess's son in rape trial",
-      "url": "https://www.bbc.com/news/articles/c74741pgleko?at_medium=RSS&at_campaign=rss",
-      "summary": "Prosecutors in the trial of Marius Borg Høiby argue he should be found guilty of 39 of the 40 charges he is accused of.",
-      "published_at": "2026-03-18T12:44:12Z",
-      "country_code": "NO",
-      "country_name": "Norway"
     },
     {
       "source": "BBC Europe",
@@ -888,12 +897,12 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 32
+      "news_count": 34
     },
     {
       "country_code": "IR",
       "country_name": "Iran",
-      "news_count": 15
+      "news_count": 14
     },
     {
       "country_code": "IL",
