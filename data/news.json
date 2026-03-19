@@ -1,14 +1,41 @@
 {
-  "generated_at": "2026-03-19T10:04:45Z",
+  "generated_at": "2026-03-19T11:05:58Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Cyprus leader calls for frank discussion on 'colonial' UK bases",
+      "url": "https://www.bbc.com/news/articles/cy7166denxeo?at_medium=RSS&at_campaign=rss",
+      "summary": "The UK's two military bases on Cyprus are a \"colonial consequence\" on the island, says President Nikos Christodoulides.",
+      "published_at": "2026-03-19T10:45:53Z",
+      "country_code": "GB",
+      "country_name": "United Kingdom"
+    },
+    {
+      "source": "BBC Middle East",
+      "title": "Trump threatens to blow up 'entirety' of major Iran gas field if it attacks Qatar again",
+      "url": "https://www.bbc.com/news/articles/c93j37egjdeo?at_medium=RSS&at_campaign=rss",
+      "summary": "The attacks led to a spike of more than 25% in gas prices in Europe on Thursday.",
+      "published_at": "2026-03-19T10:37:36Z",
+      "country_code": "IR",
+      "country_name": "Iran"
+    },
+    {
+      "source": "BBC World",
+      "title": "Japan PM to hold 'difficult' talks with Trump as Iran conflict looms large",
+      "url": "https://www.bbc.com/news/articles/cde4e2xyelpo?at_medium=RSS&at_campaign=rss",
+      "summary": "It comes days after Trump criticised Japan for not answering his demands for help in the Strait of Hormuz.",
+      "published_at": "2026-03-19T10:30:42Z",
+      "country_code": "JP",
+      "country_name": "Japan"
+    },
     {
       "source": "BBC World",
       "title": "Three Palestinian women killed as missile debris hits West Bank beauty salon",
       "url": "https://www.bbc.com/news/articles/c0ljl23plpzo?at_medium=RSS&at_campaign=rss",
-      "summary": "Several other people were injured when shrapnel struck the beauty salon in Beit Awwa, in the southern West Bank.",
-      "published_at": "2026-03-19T09:13:11Z",
-      "country_code": "PS",
-      "country_name": "Palestine"
+      "summary": "They were killed when shrapnel landed in Beit Awwa, while a Thai worked was also killed by shrapnel falling in Israel.",
+      "published_at": "2026-03-19T10:29:19Z",
+      "country_code": "IL",
+      "country_name": "Israel"
     },
     {
       "source": "BBC Asia",
@@ -29,15 +56,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Middle East",
-      "title": "Trump says US 'knew nothing' about Israel's attack on major Iran gas field",
-      "url": "https://www.bbc.com/news/articles/c93j37egjdeo?at_medium=RSS&at_campaign=rss",
-      "summary": "Qatar reports \"extensive damage\" at an energy industry site as Iran retaliates for gas field attack.",
-      "published_at": "2026-03-19T07:24:31Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC Asia",
       "title": "Indonesia detains four soldiers over acid attack on activist",
       "url": "https://www.bbc.com/news/articles/c20l07vx5nko?at_medium=RSS&at_campaign=rss",
@@ -45,15 +63,6 @@
       "published_at": "2026-03-19T06:21:39Z",
       "country_code": "ID",
       "country_name": "Indonesia"
-    },
-    {
-      "source": "BBC World",
-      "title": "How the Iran war has left Europe facing yet another energy crisis",
-      "url": "https://www.bbc.com/news/articles/c24de9e97vno?at_medium=RSS&at_campaign=rss",
-      "summary": "It is not the first time that there has been deep energy-linked frustration in the heart of Europe.",
-      "published_at": "2026-03-19T05:59:49Z",
-      "country_code": "IR",
-      "country_name": "Iran"
     },
     {
       "source": "BBC Africa",
@@ -74,7 +83,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "US aircraft carrier to sail to Crete for repairs after fire on board",
       "url": "https://www.bbc.com/news/articles/c0rjr28nxrwo?at_medium=RSS&at_campaign=rss",
       "summary": "The USS Gerald R Ford has played a significant role in US operations during the war with Iran.",
@@ -897,7 +906,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 36
+      "news_count": 35
     },
     {
       "country_code": "IR",
@@ -907,7 +916,7 @@
     {
       "country_code": "IL",
       "country_name": "Israel",
-      "news_count": 6
+      "news_count": 7
     },
     {
       "country_code": "IN",
@@ -915,13 +924,13 @@
       "news_count": 5
     },
     {
-      "country_code": "ET",
-      "country_name": "Ethiopia",
-      "news_count": 3
-    },
-    {
       "country_code": "GB",
       "country_name": "United Kingdom",
+      "news_count": 4
+    },
+    {
+      "country_code": "ET",
+      "country_name": "Ethiopia",
       "news_count": 3
     },
     {
@@ -942,11 +951,6 @@
     {
       "country_code": "MX",
       "country_name": "Mexico",
-      "news_count": 2
-    },
-    {
-      "country_code": "PS",
-      "country_name": "Palestine",
       "news_count": 2
     },
     {
@@ -995,6 +999,11 @@
       "news_count": 1
     },
     {
+      "country_code": "JP",
+      "country_name": "Japan",
+      "news_count": 1
+    },
+    {
       "country_code": "KE",
       "country_name": "Kenya",
       "news_count": 1
@@ -1017,6 +1026,11 @@
     {
       "country_code": "PK",
       "country_name": "Pakistan",
+      "news_count": 1
+    },
+    {
+      "country_code": "PS",
+      "country_name": "Palestine",
       "news_count": 1
     },
     {
