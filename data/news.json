@@ -1,6 +1,33 @@
 {
-  "generated_at": "2026-03-19T11:55:07Z",
+  "generated_at": "2026-03-19T12:38:40Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Three Palestinian women killed during Iranian missile attack",
+      "url": "https://www.bbc.com/news/articles/c0ljl23plpzo?at_medium=RSS&at_campaign=rss",
+      "summary": "They were killed when a beauty salon was hit in the southern West Bank, while a Thai worked was killed by shrapnel falling in Israel.",
+      "published_at": "2026-03-19T12:32:38Z",
+      "country_code": "IL",
+      "country_name": "Israel"
+    },
+    {
+      "source": "BBC World",
+      "title": "Former counter-terrorism head investigated by FBI over alleged leaks",
+      "url": "https://www.bbc.com/news/articles/c33j3gxvgmro?at_medium=RSS&at_campaign=rss",
+      "summary": "The former counter-terrorism head resigned on Tuesday over the war with Iran, saying the country posed \"no imminent threat\" to the US.",
+      "published_at": "2026-03-19T12:05:39Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC Middle East",
+      "title": "Why did US and Israel attack Iran and how long could the war last?",
+      "url": "https://www.bbc.com/news/articles/cx2dyz6p3weo?at_medium=RSS&at_campaign=rss",
+      "summary": "Conflict has spread across the Middle East since the US and Israel launched strikes on Iran on 28 February.",
+      "published_at": "2026-03-19T11:59:07Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "DR Congo and Rwanda agree to ease tensions after talks in US",
@@ -36,15 +63,6 @@
       "published_at": "2026-03-19T10:30:42Z",
       "country_code": "JP",
       "country_name": "Japan"
-    },
-    {
-      "source": "BBC World",
-      "title": "Three Palestinian women killed as missile debris hits West Bank beauty salon",
-      "url": "https://www.bbc.com/news/articles/c0ljl23plpzo?at_medium=RSS&at_campaign=rss",
-      "summary": "They were killed when shrapnel landed in Beit Awwa, while a Thai worked was also killed by shrapnel falling in Israel.",
-      "published_at": "2026-03-19T10:29:19Z",
-      "country_code": "IL",
-      "country_name": "Israel"
     },
     {
       "source": "BBC Asia",
@@ -241,15 +259,6 @@
       "url": "https://www.bbc.com/news/articles/cd9g9j3y2p0o?at_medium=RSS&at_campaign=rss",
       "summary": "The 60-year-old Democrat, backed by Governor JB Pritzker, pulled off a surprise victory after months of trailing in the polls.",
       "published_at": "2026-03-18T11:36:15Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC Middle East",
-      "title": "Why did US and Israel attack Iran and how long could the war last?",
-      "url": "https://www.bbc.com/news/articles/cx2dyz6p3weo?at_medium=RSS&at_campaign=rss",
-      "summary": "Conflict has spread across the Middle East since the US and Israel launched strikes on Iran on 28 February.",
-      "published_at": "2026-03-18T11:21:40Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -888,7 +897,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 34
+      "news_count": 35
     },
     {
       "country_code": "IR",
