@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-03-19T23:50:20Z",
+  "generated_at": "2026-03-20T01:10:56Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Gas shortage caused by Iran war may push India back to dirtier fuels",
+      "url": "https://www.bbc.com/news/articles/c1d6vyy9v61o?at_medium=RSS&at_campaign=rss",
+      "summary": "Reports from across India point to rising sales of biomass fuels like firewood and cow dung cakes.",
+      "published_at": "2026-03-20T00:59:29Z",
+      "country_code": "IN",
+      "country_name": "India"
+    },
+    {
+      "source": "BBC World",
+      "title": "Desperate for food drought-stricken Kenyans turn to the gingerbread tree",
+      "url": "https://www.bbc.com/news/articles/cvg521yj9lvo?at_medium=RSS&at_campaign=rss",
+      "summary": "Some 26 million people are \"facing extreme hunger\" in Kenya, Ethiopia and Somalia, warns humanitarian organisation Oxfam.",
+      "published_at": "2026-03-20T00:06:24Z",
+      "country_code": "KE",
+      "country_name": "Kenya"
+    },
     {
       "source": "BBC World",
       "title": "Are US and Israel aligned on Iran war? Deciphering Trump's post after gas field attacks",
@@ -9,15 +27,6 @@
       "published_at": "2026-03-19T23:19:00Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "Seoul braces for the BTS Army as the world's biggest band returns",
-      "url": "https://www.bbc.com/news/articles/cge0dyjwezgo?at_medium=RSS&at_campaign=rss",
-      "summary": "RM, Jin, Suga, J-Hope, Jimin, V and Jung Kook will perform together for the first time since October 2022.",
-      "published_at": "2026-03-19T23:03:53Z",
-      "country_code": "KR",
-      "country_name": "South Korea"
     },
     {
       "source": "BBC World",
@@ -173,7 +182,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Africa",
       "title": "Chad warns Sudan it will retaliate after drone strike on mourners kills 17",
       "url": "https://www.bbc.com/news/articles/c0mjn0g708ro?at_medium=RSS&at_campaign=rss",
       "summary": "President Idris Mahamat Déby orders the military to be on high alert and a \"total closure\" of the border.",
@@ -245,7 +254,7 @@
       "country_name": "Indonesia"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "Afghan evacuees in limbo in Qatar camp accuse US of betrayal",
       "url": "https://www.bbc.com/news/articles/c2lrke1wjdyo?at_medium=RSS&at_campaign=rss",
       "summary": "More than 1,100 Afghans evacuated by the US fear their route to promised resettlement is closed for good.",
@@ -263,7 +272,7 @@
       "country_name": "India"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "The Iran war is causing a global energy crisis - can China withstand it?",
       "url": "https://www.bbc.com/news/articles/cyv9lzn0816o?at_medium=RSS&at_campaign=rss",
       "summary": "With oil supply disrupted, Beijing's oil reserves and renewable energy push are being put to the test.",
@@ -596,15 +605,6 @@
       "country_name": "Iran"
     },
     {
-      "source": "BBC Africa",
-      "title": "'We will go wherever they hide': Rooting out IS in Somalia",
-      "url": "https://www.bbc.com/news/articles/cj32d8e2m5eo?at_medium=RSS&at_campaign=rss",
-      "summary": "Somalia became a key part of IS's global network after fighters were driven out of strongholds in Syria and Iraq.",
-      "published_at": "2026-03-16T00:05:40Z",
-      "country_code": "IQ",
-      "country_name": "Iraq"
-    },
-    {
       "source": "BBC Middle East",
       "title": "What Iranians are being told about the war",
       "url": "https://www.bbc.com/news/articles/cgl5w09ey30o?at_medium=RSS&at_campaign=rss",
@@ -919,13 +919,13 @@
       "news_count": 8
     },
     {
-      "country_code": "GB",
-      "country_name": "United Kingdom",
-      "news_count": 5
-    },
-    {
       "country_code": "IN",
       "country_name": "India",
+      "news_count": 6
+    },
+    {
+      "country_code": "GB",
+      "country_name": "United Kingdom",
       "news_count": 5
     },
     {
@@ -999,18 +999,13 @@
       "news_count": 1
     },
     {
-      "country_code": "IQ",
-      "country_name": "Iraq",
-      "news_count": 1
-    },
-    {
       "country_code": "JP",
       "country_name": "Japan",
       "news_count": 1
     },
     {
-      "country_code": "KR",
-      "country_name": "South Korea",
+      "country_code": "KE",
+      "country_name": "Kenya",
       "news_count": 1
     },
     {
