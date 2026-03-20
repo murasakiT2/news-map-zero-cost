@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-03-20T18:00:18Z",
+  "generated_at": "2026-03-20T19:09:27Z",
   "articles": [
+    {
+      "source": "BBC US & Canada",
+      "title": "Hottest March temperature in US history recorded in Arizona",
+      "url": "https://www.bbc.com/news/articles/cj40xgv5vpdo?at_medium=RSS&at_campaign=rss",
+      "summary": "A heatwave brought record high temperatures to parts of the American southwest.",
+      "published_at": "2026-03-20T17:43:11Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "Israel strikes Syria after Druze clashes",
@@ -200,15 +209,6 @@
       "country_name": "Iran"
     },
     {
-      "source": "BBC US & Canada",
-      "title": "Canada's Conservative leader talks tariffs and martial arts with Joe Rogan",
-      "url": "https://www.bbc.com/news/articles/czx9l84v0j9o?at_medium=RSS&at_campaign=rss",
-      "summary": "Pierre Poilievre said he wanted to make the case for removing US tariffs on Canada directly to Americans \"on the biggest podcast in the worl…",
-      "published_at": "2026-03-19T20:16:15Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC Europe",
       "title": "Norway crown princess to address Epstein links as son's rape trial closes",
       "url": "https://www.bbc.com/news/articles/cvge3mxgvwwo?at_medium=RSS&at_campaign=rss",
@@ -225,15 +225,6 @@
       "published_at": "2026-03-19T19:55:51Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "Iran conflict looms large over Trump's meeting with Japan PM",
-      "url": "https://www.bbc.com/news/articles/cde4e2xyelpo?at_medium=RSS&at_campaign=rss",
-      "summary": "The meeting with Sanae Takaichi comes days after Trump criticised Japan for not answering his demands for help in the Strait of Hormuz.",
-      "published_at": "2026-03-19T18:06:37Z",
-      "country_code": "JP",
-      "country_name": "Japan"
     },
     {
       "source": "BBC Africa",
@@ -1020,11 +1011,6 @@
     {
       "country_code": "IQ",
       "country_name": "Iraq",
-      "news_count": 1
-    },
-    {
-      "country_code": "JP",
-      "country_name": "Japan",
       "news_count": 1
     },
     {
