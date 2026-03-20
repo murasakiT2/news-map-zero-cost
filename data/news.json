@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-03-20T12:35:19Z",
+  "generated_at": "2026-03-20T13:54:13Z",
   "articles": [
+    {
+      "source": "BBC Middle East",
+      "title": "In maps: Attacks across Iran and the Middle East continue across third week",
+      "url": "https://www.bbc.com/news/articles/c4g0pnnj8xyo?at_medium=RSS&at_campaign=rss",
+      "summary": "The US-Israeli war with Iran has seen sustained attacks on Tehran and Beirut as retaliatory strikes are felt in Israel and Gulf states",
+      "published_at": "2026-03-20T13:41:54Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "I didn't know Epstein was a predator - Norway's crown princess",
+      "url": "https://www.bbc.com/news/videos/c78l5x0zl0wo?at_medium=RSS&at_campaign=rss",
+      "summary": "Norway's Crown Princess Mette-Marit has said that she wishes she had never met late US sex offender Jeffrey Epstein",
+      "published_at": "2026-03-20T12:38:01Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "Hungary's Orbán accused of disloyalty and blackmail over Ukraine loan veto",
@@ -198,15 +216,6 @@
       "published_at": "2026-03-19T19:09:35Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC Africa",
-      "title": "UK reveals aid priorities after major cuts to budget",
-      "url": "https://www.bbc.com/news/articles/cew7ll9v0wqo?at_medium=RSS&at_campaign=rss",
-      "summary": "Aid groups and MPs have raised concerns over the move to prioritise defence spending over aid.",
-      "published_at": "2026-03-19T19:08:16Z",
-      "country_code": "GB",
-      "country_name": "United Kingdom"
     },
     {
       "source": "BBC Asia",
@@ -615,15 +624,6 @@
     },
     {
       "source": "BBC Middle East",
-      "title": "In maps: Attacks across Iran and the Middle East enter third week",
-      "url": "https://www.bbc.com/news/articles/c4g0pnnj8xyo?at_medium=RSS&at_campaign=rss",
-      "summary": "The US-Israeli war with Iran has seen sustained attacks on Tehran and Beirut as retaliatory strikes are felt in Israel and Gulf states",
-      "published_at": "2026-03-16T16:21:47Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC Middle East",
       "title": "'A new norm': BBC visits Doha market starting to fill up again two weeks into Iran war",
       "url": "https://www.bbc.com/news/videos/cp32gez414yo?at_medium=RSS&at_campaign=rss",
       "summary": "The BBC's International News correspondent, Barbara Plett Usher, visits Doha's Souq Waqif market as strikes in the region continue.",
@@ -924,7 +924,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 35
+      "news_count": 36
     },
     {
       "country_code": "IR",
@@ -937,14 +937,14 @@
       "news_count": 6
     },
     {
-      "country_code": "GB",
-      "country_name": "United Kingdom",
-      "news_count": 5
-    },
-    {
       "country_code": "IN",
       "country_name": "India",
       "news_count": 5
+    },
+    {
+      "country_code": "GB",
+      "country_name": "United Kingdom",
+      "news_count": 4
     },
     {
       "country_code": "AU",
