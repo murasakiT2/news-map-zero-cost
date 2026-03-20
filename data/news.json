@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-03-20T15:34:13Z",
+  "generated_at": "2026-03-20T16:31:11Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Israel strikes Syria after Druze clashes",
+      "url": "https://www.bbc.com/news/articles/c248pgn158go?at_medium=RSS&at_campaign=rss",
+      "summary": "Syria condemned the strikes on weapons sites and government infrastructure as an \"outrageous\" assault on Syria's sovereignty.",
+      "published_at": "2026-03-20T16:02:50Z",
+      "country_code": "IL",
+      "country_name": "Israel"
+    },
+    {
+      "source": "BBC World",
+      "title": "Hungary's Orbán accused of disloyalty and blackmail over Ukraine loan veto",
+      "url": "https://www.bbc.com/news/articles/cq6jrvgqeejo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Hungarian leader says a pipeline carrying Russian oil through Ukraine to Hungary must be repaired before any funds can be released.",
+      "published_at": "2026-03-20T15:34:19Z",
+      "country_code": "UA",
+      "country_name": "Ukraine"
+    },
     {
       "source": "BBC World",
       "title": "Norway's crown princess breaks silence, claiming she was 'manipulated and deceived' by Epstein",
@@ -9,6 +27,15 @@
       "published_at": "2026-03-20T15:30:28Z",
       "country_code": "NO",
       "country_name": "Norway"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "Record-breaking heatwave hits the US West",
+      "url": "https://www.bbc.com/news/videos/c9d413gd74do?at_medium=RSS&at_campaign=rss",
+      "summary": "According to the US National Weather Service, the heatwave will continue in the West and expand eastward in the coming days.",
+      "published_at": "2026-03-20T15:20:57Z",
+      "country_code": "US",
+      "country_name": "United States"
     },
     {
       "source": "BBC Europe",
@@ -36,15 +63,6 @@
       "published_at": "2026-03-20T12:38:01Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "Hungary's Orbán accused of disloyalty and blackmail over Ukraine loan veto",
-      "url": "https://www.bbc.com/news/articles/cq6jrvgqeejo?at_medium=RSS&at_campaign=rss",
-      "summary": "The Hungarian leader says a pipeline carrying Russian oil through Ukraine to Hungary must be repaired before any funds can be released.",
-      "published_at": "2026-03-20T11:33:17Z",
-      "country_code": "UA",
-      "country_name": "Ukraine"
     },
     {
       "source": "BBC World",
@@ -183,15 +201,6 @@
     },
     {
       "source": "BBC US & Canada",
-      "title": "White House seeks $200bn in military funding in wake of Iran war",
-      "url": "https://www.bbc.com/news/articles/c5y73gwk1qdo?at_medium=RSS&at_campaign=rss",
-      "summary": "President Donald Trump says the US needs \"vast amounts of ammunition\" as the world is \"very volatile.\"",
-      "published_at": "2026-03-19T20:34:46Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC US & Canada",
       "title": "Canada's Conservative leader talks tariffs and martial arts with Joe Rogan",
       "url": "https://www.bbc.com/news/articles/czx9l84v0j9o?at_medium=RSS&at_campaign=rss",
       "summary": "Pierre Poilievre said he wanted to make the case for removing US tariffs on Canada directly to Americans \"on the biggest podcast in the worl…",
@@ -214,15 +223,6 @@
       "url": "https://www.bbc.com/news/articles/c9d415g55nno?at_medium=RSS&at_campaign=rss",
       "summary": "Treasury Secretary Scott Bessent broached waiving sanctions on oil already at sea, which would be a stunning reversal of longstanding Americ…",
       "published_at": "2026-03-19T19:55:51Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "US states sue Trump over his move to scrap greenhouse gases ruling",
-      "url": "https://www.bbc.com/news/articles/cr51n6j9qvzo?at_medium=RSS&at_campaign=rss",
-      "summary": "The lawsuit seeks to overturn the Trump administration's reversal last month of the 2009 ruling that underpins all US policies aimed at lowe…",
-      "published_at": "2026-03-19T19:09:35Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -632,15 +632,6 @@
       "country_name": "Mexico"
     },
     {
-      "source": "BBC Middle East",
-      "title": "'A new norm': BBC visits Doha market starting to fill up again two weeks into Iran war",
-      "url": "https://www.bbc.com/news/videos/cp32gez414yo?at_medium=RSS&at_campaign=rss",
-      "summary": "The BBC's International News correspondent, Barbara Plett Usher, visits Doha's Souq Waqif market as strikes in the region continue.",
-      "published_at": "2026-03-16T05:14:45Z",
-      "country_code": "IR",
-      "country_name": "Iran"
-    },
-    {
       "source": "BBC Africa",
       "title": "'We will go wherever they hide': Rooting out IS in Somalia",
       "url": "https://www.bbc.com/news/articles/cj32d8e2m5eo?at_medium=RSS&at_campaign=rss",
@@ -933,17 +924,17 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 36
+      "news_count": 35
     },
     {
       "country_code": "IR",
       "country_name": "Iran",
-      "news_count": 15
+      "news_count": 14
     },
     {
       "country_code": "IL",
       "country_name": "Israel",
-      "news_count": 6
+      "news_count": 7
     },
     {
       "country_code": "IN",
