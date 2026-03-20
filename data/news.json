@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-03-20T01:10:56Z",
+  "generated_at": "2026-03-20T03:41:09Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Australia PM heckled at Sydney mosque Ramadan event",
+      "url": "https://www.bbc.com/news/articles/cz90wy2190go?at_medium=RSS&at_campaign=rss",
+      "summary": "The government's response to the Israel-Gaza war and rising Islamophobia has angered many Muslim Australians.",
+      "published_at": "2026-03-20T02:54:21Z",
+      "country_code": "AU",
+      "country_name": "Australia"
+    },
+    {
+      "source": "BBC World",
+      "title": "Several injured as turbulence hits Delta flight into Sydney",
+      "url": "https://www.bbc.com/news/articles/c78l572p4n7o?at_medium=RSS&at_campaign=rss",
+      "summary": "Three flight attendants were taken to hospital after the Airbus A350 experienced turbulence during its descent into Sydney Airport.",
+      "published_at": "2026-03-20T01:26:01Z",
+      "country_code": "AU",
+      "country_name": "Australia"
+    },
     {
       "source": "BBC World",
       "title": "Gas shortage caused by Iran war may push India back to dirtier fuels",
@@ -164,7 +182,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Middle East",
       "title": "Three Palestinian women killed in beauty salon during Iranian missile attack",
       "url": "https://www.bbc.com/news/articles/c0ljl23plpzo?at_medium=RSS&at_campaign=rss",
       "summary": "Others were injured when the salon in the southern West Bank was hit, while a Thai worker was killed by falling shrapnel in Israel.",
@@ -218,22 +236,13 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Africa",
       "title": "DR Congo and Rwanda agree to ease tensions after talks in US",
       "url": "https://www.bbc.com/news/articles/c15x5ejgyl3o?at_medium=RSS&at_campaign=rss",
       "summary": "The conflict has persisted despite a peace deal signed by DR Congo and Rwanda in December.",
       "published_at": "2026-03-19T11:14:02Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "Trump threatens to blow up 'entirety' of major Iran gas field if it attacks Qatar again",
-      "url": "https://www.bbc.com/news/articles/c93j37egjdeo?at_medium=RSS&at_campaign=rss",
-      "summary": "The attacks led to a spike of more than 25% in gas prices in Europe on Thursday.",
-      "published_at": "2026-03-19T10:37:36Z",
-      "country_code": "IR",
-      "country_name": "Iran"
     },
     {
       "source": "BBC Asia",
@@ -378,15 +387,6 @@
       "published_at": "2026-03-18T07:56:49Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC Asia",
-      "title": "Will the Iran war squeeze India's piped gas next?",
-      "url": "https://www.bbc.com/news/articles/cj6dl175w01o?at_medium=RSS&at_campaign=rss",
-      "summary": "The Iran war has already rattled LPG users. Will India’s piped gas network face the next squeeze?",
-      "published_at": "2026-03-18T05:45:58Z",
-      "country_code": "IN",
-      "country_name": "India"
     },
     {
       "source": "BBC Asia",
@@ -911,7 +911,7 @@
     {
       "country_code": "IR",
       "country_name": "Iran",
-      "news_count": 15
+      "news_count": 14
     },
     {
       "country_code": "IL",
@@ -919,14 +919,19 @@
       "news_count": 8
     },
     {
-      "country_code": "IN",
-      "country_name": "India",
-      "news_count": 6
-    },
-    {
       "country_code": "GB",
       "country_name": "United Kingdom",
       "news_count": 5
+    },
+    {
+      "country_code": "IN",
+      "country_name": "India",
+      "news_count": 5
+    },
+    {
+      "country_code": "AU",
+      "country_name": "Australia",
+      "news_count": 3
     },
     {
       "country_code": "IT",
@@ -971,11 +976,6 @@
     {
       "country_code": "AE",
       "country_name": "United Arab Emirates",
-      "news_count": 1
-    },
-    {
-      "country_code": "AU",
-      "country_name": "Australia",
       "news_count": 1
     },
     {
