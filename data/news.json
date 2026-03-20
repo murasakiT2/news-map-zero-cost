@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-03-20T09:03:24Z",
+  "generated_at": "2026-03-20T10:01:38Z",
   "articles": [
+    {
+      "source": "BBC US & Canada",
+      "title": "Trump's Pearl Harbor remark overshadows Japan PM visit",
+      "url": "https://www.bbc.com/news/articles/c8dlpr074q3o?at_medium=RSS&at_campaign=rss",
+      "summary": "President Trump compared US strikes on Iran to the deadly 1941 Japanese attack and declaration of war as part of World War Two.",
+      "published_at": "2026-03-20T09:55:19Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC Asia",
       "title": "US deports Singaporean vlogger convicted of child sex offences",
@@ -110,7 +119,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC US & Canada",
+      "source": "BBC World",
       "title": "Ros Atkins on... Trump's mixed messages on the war",
       "url": "https://www.bbc.com/news/videos/c747lk0geldo?at_medium=RSS&at_campaign=rss",
       "summary": "The BBC’s Analysis Editor looks at President Trump’s mixed messages on the war with Iran.",
@@ -362,7 +371,7 @@
       "country_name": "Morocco"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "Venezuelans in Miami and Caracas celebrate historic WBC victory over USA",
       "url": "https://www.bbc.com/news/videos/c3wlw788glvo?at_medium=RSS&at_campaign=rss",
       "summary": "Venezuela won its first-ever World Baseball Classic title, defeating the United States 3–2 in the championship game.",
@@ -621,15 +630,6 @@
       "published_at": "2026-03-16T00:05:01Z",
       "country_code": "IR",
       "country_name": "Iran"
-    },
-    {
-      "source": "BBC Middle East",
-      "title": "BBC visits scene of deadly strike in Lebanon",
-      "url": "https://www.bbc.com/news/videos/c8jxzkre8mzo?at_medium=RSS&at_campaign=rss",
-      "summary": "As Israel continues to attack Hezbollah targets in Lebanon, correspondent Wyre Davies visits a home where eight people were killed.",
-      "published_at": "2026-03-15T10:20:50Z",
-      "country_code": "IL",
-      "country_name": "Israel"
     },
     {
       "source": "BBC US & Canada",
@@ -915,7 +915,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 35
+      "news_count": 36
     },
     {
       "country_code": "IR",
@@ -925,7 +925,7 @@
     {
       "country_code": "IL",
       "country_name": "Israel",
-      "news_count": 7
+      "news_count": 6
     },
     {
       "country_code": "GB",
