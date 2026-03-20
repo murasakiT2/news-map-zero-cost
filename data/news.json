@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-20T06:10:04Z",
+  "generated_at": "2026-03-20T07:27:31Z",
   "articles": [
     {
       "source": "BBC Asia",
@@ -39,12 +39,30 @@
     },
     {
       "source": "BBC World",
+      "title": "The global winners and losers of the war in Iran",
+      "url": "https://www.bbc.com/news/articles/c3wlwnn05zqo?at_medium=RSS&at_campaign=rss",
+      "summary": "As the conflict triggers economic disruption some risk being hit hard, while others stand to benefit.",
+      "published_at": "2026-03-20T00:08:53Z",
+      "country_code": "IR",
+      "country_name": "Iran"
+    },
+    {
+      "source": "BBC World",
       "title": "Desperate for food drought-stricken Kenyans turn to the gingerbread tree",
       "url": "https://www.bbc.com/news/articles/cvg521yj9lvo?at_medium=RSS&at_campaign=rss",
       "summary": "Some 26 million people are \"facing extreme hunger\" in Kenya, Ethiopia and Somalia, warns humanitarian organisation Oxfam.",
       "published_at": "2026-03-20T00:06:24Z",
       "country_code": "KE",
       "country_name": "Kenya"
+    },
+    {
+      "source": "BBC World",
+      "title": "Why UK governing Labour's Brexit focus has shifted from Leavers to Remainers",
+      "url": "https://www.bbc.com/news/articles/c4gjn1d74jlo?at_medium=RSS&at_campaign=rss",
+      "summary": "Will the pursuit of a closer relationship with the EU risk courting electoral disaster by alienating Brexit-backing voters?",
+      "published_at": "2026-03-20T00:01:51Z",
+      "country_code": "GB",
+      "country_name": "United Kingdom"
     },
     {
       "source": "BBC World",
@@ -79,15 +97,6 @@
       "url": "https://www.bbc.com/news/articles/c33ln4mp1p2o?at_medium=RSS&at_campaign=rss",
       "summary": "Denmark's public broadcaster reports that the US operation to seize Venezuela's leader sparked fears it would act against Greenland.",
       "published_at": "2026-03-19T21:52:36Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "US civil rights leader Cesar Chavez accused of sexual abuse",
-      "url": "https://www.bbc.com/news/articles/cp8r8rggxmmo?at_medium=RSS&at_campaign=rss",
-      "summary": "The allegations have prompted the cancellations of events and celebrations planned in his honour later this month.",
-      "published_at": "2026-03-19T21:37:45Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -128,7 +137,7 @@
       "country_name": "Norway"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "US considers lifting sanctions on some Iranian oil",
       "url": "https://www.bbc.com/news/articles/c9d415g55nno?at_medium=RSS&at_campaign=rss",
       "summary": "Treasury Secretary Scott Bessent broached waiving sanctions on oil already at sea, which would be a stunning reversal of longstanding Americ…",
@@ -173,20 +182,11 @@
       "country_name": "United Kingdom"
     },
     {
-      "source": "BBC Asia",
+      "source": "BBC World",
       "title": "Trump compares attack on Iran to Pearl Harbor in meeting with Japanese PM",
       "url": "https://www.bbc.com/news/videos/cx248jvgwj8o?at_medium=RSS&at_campaign=rss",
       "summary": "In a meeting with Japanese Prime Minister, US President Donald Trump was asked why he didn't inform allies about his plan to attack Iran.",
       "published_at": "2026-03-19T17:50:38Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "Former counter-terrorism head investigated by FBI over alleged leaks",
-      "url": "https://www.bbc.com/news/articles/c33j3gxvgmro?at_medium=RSS&at_campaign=rss",
-      "summary": "The former counter-terrorism head resigned on Tuesday over the war with Iran, saying the country posed \"no imminent threat\" to the US.",
-      "published_at": "2026-03-19T17:12:27Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -218,7 +218,7 @@
       "country_name": "Sudan"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Latin America",
       "title": "Spain's king welcomes Mexico's World Cup invite after 'abuse' comments",
       "url": "https://www.bbc.com/news/articles/cvglew9p891o?at_medium=RSS&at_campaign=rss",
       "summary": "News of the invitation emerges after the monarch acknowledged \"a lot of abuse\" during the Spanish conquest of Mexico.",
@@ -515,15 +515,6 @@
       "country_name": "Australia"
     },
     {
-      "source": "BBC Middle East",
-      "title": "Israel says 'limited' ground operations under way in Lebanon",
-      "url": "https://www.bbc.com/news/articles/clyz78kgp22o?at_medium=RSS&at_campaign=rss",
-      "summary": "Troops are targeting \"Hezbollah strongholds\" in south Lebanon, where strikes reportedly killed nine people on Monday.",
-      "published_at": "2026-03-17T05:03:13Z",
-      "country_code": "IL",
-      "country_name": "Israel"
-    },
-    {
       "source": "BBC Asia",
       "title": "India's outsourcing industry is worth $300bn. Can it survive AI?",
       "url": "https://www.bbc.com/news/articles/c5yrq1090p8o?at_medium=RSS&at_campaign=rss",
@@ -549,15 +540,6 @@
       "published_at": "2026-03-17T00:08:56Z",
       "country_code": "SD",
       "country_name": "Sudan"
-    },
-    {
-      "source": "BBC Middle East",
-      "title": "How might the UK support shipping in the Strait of Hormuz?",
-      "url": "https://www.bbc.com/news/videos/cvgj29dgrxwo?at_medium=RSS&at_campaign=rss",
-      "summary": "Ben Chu from BBC Verify has been looking at what role the Royal Navy could play in the Strait of Hormuz.",
-      "published_at": "2026-03-16T18:52:34Z",
-      "country_code": "GB",
-      "country_name": "United Kingdom"
     },
     {
       "source": "BBC Africa",
@@ -612,6 +594,15 @@
       "published_at": "2026-03-16T05:14:45Z",
       "country_code": "IR",
       "country_name": "Iran"
+    },
+    {
+      "source": "BBC Africa",
+      "title": "'We will go wherever they hide': Rooting out IS in Somalia",
+      "url": "https://www.bbc.com/news/articles/cj32d8e2m5eo?at_medium=RSS&at_campaign=rss",
+      "summary": "Somalia became a key part of IS's global network after fighters were driven out of strongholds in Syria and Iraq.",
+      "published_at": "2026-03-16T00:05:40Z",
+      "country_code": "IQ",
+      "country_name": "Iraq"
     },
     {
       "source": "BBC Middle East",
@@ -915,17 +906,17 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 36
+      "news_count": 34
     },
     {
       "country_code": "IR",
       "country_name": "Iran",
-      "news_count": 14
+      "news_count": 15
     },
     {
       "country_code": "IL",
       "country_name": "Israel",
-      "news_count": 8
+      "news_count": 7
     },
     {
       "country_code": "GB",
@@ -1005,6 +996,11 @@
     {
       "country_code": "ID",
       "country_name": "Indonesia",
+      "news_count": 1
+    },
+    {
+      "country_code": "IQ",
+      "country_name": "Iraq",
       "news_count": 1
     },
     {
