@@ -1,8 +1,17 @@
 {
-  "generated_at": "2026-03-20T11:01:43Z",
+  "generated_at": "2026-03-20T11:50:18Z",
   "articles": [
     {
-      "source": "BBC Latin America",
+      "source": "BBC World",
+      "title": "Hungary's Orbán accused of disloyalty and blackmail over Ukraine loan veto",
+      "url": "https://www.bbc.com/news/articles/cq6jrvgqeejo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Hungarian leader says a pipeline carrying Russian oil through Ukraine to Hungary must be repaired before any funds can be released.",
+      "published_at": "2026-03-20T11:33:17Z",
+      "country_code": "UA",
+      "country_name": "Ukraine"
+    },
+    {
+      "source": "BBC World",
       "title": "Mexican teen dies while being held in US immigration custody",
       "url": "https://www.bbc.com/news/articles/cp84n0kn902o?at_medium=RSS&at_campaign=rss",
       "summary": "Royer Perez-Jimenez died amid a surge of migrant deaths under Donald Trump's immigration crackdown.",
@@ -11,7 +20,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Europe",
+      "source": "BBC World",
       "title": "Norway's crown princess breaks silence on Epstein links: 'I was manipulated and deceived'",
       "url": "https://www.bbc.com/news/articles/cde5y63y3n7o?at_medium=RSS&at_campaign=rss",
       "summary": "Crown Princess Mette Marit tells Norwegian TV she wishes she had never met the late sex offender.",
@@ -20,7 +29,7 @@
       "country_name": "Norway"
     },
     {
-      "source": "BBC US & Canada",
+      "source": "BBC World",
       "title": "Trump makes Pearl Harbor remark in meeting with Japan's PM",
       "url": "https://www.bbc.com/news/articles/c8dlpr074q3o?at_medium=RSS&at_campaign=rss",
       "summary": "President Trump compared US strikes on Iran to the deadly 1941 Japanese attack and declaration of war as part of World War Two.",
@@ -75,7 +84,7 @@
     },
     {
       "source": "BBC World",
-      "title": "Desperate for food drought-stricken Kenyans turn to the gingerbread tree",
+      "title": "Desperate for food, drought-stricken Kenyans turn to the gingerbread tree",
       "url": "https://www.bbc.com/news/articles/cvg521yj9lvo?at_medium=RSS&at_campaign=rss",
       "summary": "Some 26 million people are \"facing extreme hunger\" in Kenya, Ethiopia and Somalia, warns humanitarian organisation Oxfam.",
       "published_at": "2026-03-20T00:06:24Z",
@@ -93,7 +102,7 @@
     },
     {
       "source": "BBC World",
-      "title": "Why UK governing Labour's Brexit focus has shifted from Leavers to Remainers",
+      "title": "Why the UK Labour party's Brexit focus has shifted from Leavers to Remainers",
       "url": "https://www.bbc.com/news/articles/c4gjn1d74jlo?at_medium=RSS&at_campaign=rss",
       "summary": "Will the pursuit of a closer relationship with the EU risk courting electoral disaster by alienating Brexit-backing voters?",
       "published_at": "2026-03-20T00:01:51Z",
@@ -164,7 +173,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "Norway crown princess to address Epstein links as son's rape trial closes",
       "url": "https://www.bbc.com/news/articles/cvge3mxgvwwo?at_medium=RSS&at_campaign=rss",
       "summary": "Mette-Marit gives a much-anticipated interview, due to be broadcast on Friday.",
@@ -987,6 +996,11 @@
       "news_count": 2
     },
     {
+      "country_code": "UA",
+      "country_name": "Ukraine",
+      "news_count": 2
+    },
+    {
       "country_code": "VE",
       "country_name": "Venezuela",
       "news_count": 2
@@ -1049,11 +1063,6 @@
     {
       "country_code": "PT",
       "country_name": "Portugal",
-      "news_count": 1
-    },
-    {
-      "country_code": "UA",
-      "country_name": "Ukraine",
       "news_count": 1
     }
   ]
