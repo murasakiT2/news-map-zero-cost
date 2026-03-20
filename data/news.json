@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-03-20T19:52:44Z",
+  "generated_at": "2026-03-20T20:20:58Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Ukraine-Hungary oil pipeline row threatens EU loan",
+      "url": "https://www.bbc.com/news/articles/cr71rkeg7xxo?at_medium=RSS&at_campaign=rss",
+      "summary": "Kyiv and Budapest disagree on how badly damaged a hub in western Ukraine bombed by Russia really is, as its oil flow remains suspended.",
+      "published_at": "2026-03-20T20:16:29Z",
+      "country_code": "RU",
+      "country_name": "Russia"
+    },
     {
       "source": "BBC US & Canada",
       "title": "Hottest March temperature in US history recorded in Arizona",
@@ -18,15 +27,6 @@
       "published_at": "2026-03-20T16:02:50Z",
       "country_code": "IL",
       "country_name": "Israel"
-    },
-    {
-      "source": "BBC World",
-      "title": "Hungary's Orbán accused of disloyalty and blackmail over Ukraine loan veto",
-      "url": "https://www.bbc.com/news/articles/cq6jrvgqeejo?at_medium=RSS&at_campaign=rss",
-      "summary": "The Hungarian leader says a pipeline carrying Russian oil through Ukraine to Hungary must be repaired before any funds can be released.",
-      "published_at": "2026-03-20T15:34:19Z",
-      "country_code": "UA",
-      "country_name": "Ukraine"
     },
     {
       "source": "BBC World",
@@ -949,6 +949,11 @@
       "news_count": 3
     },
     {
+      "country_code": "RU",
+      "country_name": "Russia",
+      "news_count": 3
+    },
+    {
       "country_code": "MX",
       "country_name": "Mexico",
       "news_count": 2
@@ -959,18 +964,8 @@
       "news_count": 2
     },
     {
-      "country_code": "RU",
-      "country_name": "Russia",
-      "news_count": 2
-    },
-    {
       "country_code": "SD",
       "country_name": "Sudan",
-      "news_count": 2
-    },
-    {
-      "country_code": "UA",
-      "country_name": "Ukraine",
       "news_count": 2
     },
     {
@@ -1031,6 +1026,11 @@
     {
       "country_code": "PT",
       "country_name": "Portugal",
+      "news_count": 1
+    },
+    {
+      "country_code": "UA",
+      "country_name": "Ukraine",
       "news_count": 1
     }
   ]
