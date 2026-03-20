@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-03-20T22:17:46Z",
+  "generated_at": "2026-03-20T22:52:55Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "As Islamophobia rises, Australia's Muslims celebrate Eid",
+      "url": "https://www.bbc.com/news/articles/cr410ezy312o?at_medium=RSS&at_campaign=rss",
+      "summary": "Recent events abroad and at home have fuelled an ongoing surge of Islamophobia in Australia.",
+      "published_at": "2026-03-20T22:36:13Z",
+      "country_code": "AU",
+      "country_name": "Australia"
+    },
     {
       "source": "BBC World",
       "title": "Ukraine-Hungary oil pipeline row threatens EU loan",
@@ -924,14 +933,14 @@
       "news_count": 5
     },
     {
-      "country_code": "GB",
-      "country_name": "United Kingdom",
+      "country_code": "AU",
+      "country_name": "Australia",
       "news_count": 4
     },
     {
-      "country_code": "AU",
-      "country_name": "Australia",
-      "news_count": 3
+      "country_code": "GB",
+      "country_name": "United Kingdom",
+      "news_count": 4
     },
     {
       "country_code": "ES",
