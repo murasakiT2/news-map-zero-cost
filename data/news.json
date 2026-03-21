@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-21T11:15:17Z",
+  "generated_at": "2026-03-21T11:42:21Z",
   "articles": [
     {
       "source": "BBC Middle East",
@@ -27,15 +27,6 @@
       "published_at": "2026-03-21T09:34:53Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "BTS comeback concert: Seoul gets ready to host 260,000 fans",
-      "url": "https://www.bbc.com/news/articles/cge0dyjwezgo?at_medium=RSS&at_campaign=rss",
-      "summary": "RM, Jin, Suga, J-Hope, Jimin, V and Jung Kook will perform together for the first time since October 2022.",
-      "published_at": "2026-03-21T06:59:23Z",
-      "country_code": "KR",
-      "country_name": "South Korea"
     },
     {
       "source": "BBC World",
@@ -963,11 +954,6 @@
       "news_count": 2
     },
     {
-      "country_code": "KR",
-      "country_name": "South Korea",
-      "news_count": 2
-    },
-    {
       "country_code": "MX",
       "country_name": "Mexico",
       "news_count": 2
@@ -1025,6 +1011,11 @@
     {
       "country_code": "KE",
       "country_name": "Kenya",
+      "news_count": 1
+    },
+    {
+      "country_code": "KR",
+      "country_name": "South Korea",
       "news_count": 1
     },
     {
