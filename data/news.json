@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-21T03:32:49Z",
+  "generated_at": "2026-03-21T05:01:34Z",
   "articles": [
     {
       "source": "BBC World",
@@ -164,7 +164,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "Mexican teen dies while being held in US immigration custody",
       "url": "https://www.bbc.com/news/articles/cp84n0kn902o?at_medium=RSS&at_campaign=rss",
       "summary": "Royer Perez-Jimenez died amid a surge of migrant deaths under Donald Trump's immigration crackdown.",
@@ -405,6 +405,15 @@
       "published_at": "2026-03-18T23:31:03Z",
       "country_code": "CN",
       "country_name": "China"
+    },
+    {
+      "source": "BBC World",
+      "title": "Watch: Gabbard faces scrutiny over Iran nuclear intelligence claims",
+      "url": "https://www.bbc.com/news/videos/clygyg14zj2o?at_medium=RSS&at_campaign=rss",
+      "summary": "The US Director of National Intelligence, Tulsi Gabbard, was questioned over what Democrats perceive as a discrepancy between White House an…",
+      "published_at": "2026-03-18T18:38:21Z",
+      "country_code": "US",
+      "country_name": "United States"
     },
     {
       "source": "BBC Middle East",
@@ -924,7 +933,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 35
+      "news_count": 36
     },
     {
       "country_code": "IR",
