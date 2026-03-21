@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-03-20T23:48:58Z",
+  "generated_at": "2026-03-21T01:06:42Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "The fight to control the narrative in the Afghan-Pakistan conflict",
+      "url": "https://www.bbc.com/news/articles/c5yxkj8gnr2o?at_medium=RSS&at_campaign=rss",
+      "summary": "The battle between the neighbouring countries is taking place as much online as it is on the ground.",
+      "published_at": "2026-03-21T00:25:07Z",
+      "country_code": "PK",
+      "country_name": "Pakistan"
+    },
+    {
+      "source": "BBC World",
+      "title": "US lifts sanctions on some Iranian oil as gas prices soar",
+      "url": "https://www.bbc.com/news/articles/c9d415g55nno?at_medium=RSS&at_campaign=rss",
+      "summary": "The treasury secretary says the move will quickly bring about 140m barrels of oil to global markets.",
+      "published_at": "2026-03-20T23:52:54Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "BTS comeback concert: Seoul gets ready to host 260,000 fans",
@@ -192,15 +210,6 @@
     },
     {
       "source": "BBC World",
-      "title": "Why the UK Labour party's Brexit focus has shifted from Leavers to Remainers",
-      "url": "https://www.bbc.com/news/articles/c4gjn1d74jlo?at_medium=RSS&at_campaign=rss",
-      "summary": "Will the pursuit of a closer relationship with the EU risk courting electoral disaster by alienating Brexit-backing voters?",
-      "published_at": "2026-03-20T00:01:51Z",
-      "country_code": "GB",
-      "country_name": "United Kingdom"
-    },
-    {
-      "source": "BBC World",
       "title": "Are US and Israel aligned on Iran war? Deciphering Trump's post after gas field attacks",
       "url": "https://www.bbc.com/news/articles/c8x7leknlywo?at_medium=RSS&at_campaign=rss",
       "summary": "What does Trump's Truth Social post after gas field attacks tell us about US-Israeli alignment?",
@@ -252,15 +261,6 @@
       "published_at": "2026-03-19T20:14:30Z",
       "country_code": "NO",
       "country_name": "Norway"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "US considers lifting sanctions on some Iranian oil",
-      "url": "https://www.bbc.com/news/articles/c9d415g55nno?at_medium=RSS&at_campaign=rss",
-      "summary": "Treasury Secretary Scott Bessent broached waiving sanctions on oil already at sea, which would be a stunning reversal of longstanding Americ…",
-      "published_at": "2026-03-19T19:55:51Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC Africa",
@@ -956,13 +956,13 @@
       "news_count": 4
     },
     {
-      "country_code": "GB",
-      "country_name": "United Kingdom",
-      "news_count": 4
-    },
-    {
       "country_code": "ES",
       "country_name": "Spain",
+      "news_count": 3
+    },
+    {
+      "country_code": "GB",
+      "country_name": "United Kingdom",
       "news_count": 3
     },
     {
@@ -1048,6 +1048,11 @@
     {
       "country_code": "MA",
       "country_name": "Morocco",
+      "news_count": 1
+    },
+    {
+      "country_code": "PK",
+      "country_name": "Pakistan",
       "news_count": 1
     },
     {
