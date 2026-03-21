@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-03-21T08:54:24Z",
+  "generated_at": "2026-03-21T09:22:25Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Russian drone attack kills two in Ukraine ahead of talks in US, officials say",
+      "url": "https://www.bbc.com/news/articles/crl18nwjzzzo?at_medium=RSS&at_campaign=rss",
+      "summary": "Two children, aged 11 and 15 were also injured in the attack which took place in Zaporizhzhia.",
+      "published_at": "2026-03-21T08:54:29Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC Middle East",
       "title": "UK allows US to use bases to strike Strait of Hormuz targets",
@@ -56,7 +65,7 @@
       "country_name": "Pakistan"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "US lifts sanctions on some Iranian oil as gas prices soar",
       "url": "https://www.bbc.com/news/articles/c9d415g55nno?at_medium=RSS&at_campaign=rss",
       "summary": "The treasury secretary says the move will quickly bring about 140m barrels of oil to global markets.",
@@ -542,15 +551,6 @@
       "country_name": "Venezuela"
     },
     {
-      "source": "BBC Europe",
-      "title": "Arsenal trial and self-doubt: Valverde's journey to Real legend",
-      "url": "https://www.bbc.com/sport/football/articles/cd9g12yl111o?at_medium=RSS&at_campaign=rss",
-      "summary": "Rejected by Arsenal as a teenager, Federico Valverde has transformed himself into a Real Madrid legend - and was the main man in their Champ…",
-      "published_at": "2026-03-17T06:11:34Z",
-      "country_code": "ES",
-      "country_name": "Spain"
-    },
-    {
       "source": "BBC Latin America",
       "title": "Young Venezuelans voice hope and frustration as post-Maduro future unfolds",
       "url": "https://www.bbc.com/news/articles/c86y2jd70l3o?at_medium=RSS&at_campaign=rss",
@@ -924,7 +924,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 36
+      "news_count": 37
     },
     {
       "country_code": "IR",
@@ -947,11 +947,6 @@
       "news_count": 3
     },
     {
-      "country_code": "ES",
-      "country_name": "Spain",
-      "news_count": 3
-    },
-    {
       "country_code": "GB",
       "country_name": "United Kingdom",
       "news_count": 3
@@ -970,6 +965,11 @@
       "country_code": "RU",
       "country_name": "Russia",
       "news_count": 3
+    },
+    {
+      "country_code": "ES",
+      "country_name": "Spain",
+      "news_count": 2
     },
     {
       "country_code": "KR",
