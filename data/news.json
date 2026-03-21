@@ -1,23 +1,32 @@
 {
-  "generated_at": "2026-03-21T22:14:00Z",
+  "generated_at": "2026-03-21T22:47:29Z",
   "articles": [
-    {
-      "source": "BBC Asia",
-      "title": "Pop megastars BTS electrify historic Seoul centre with comeback concert",
-      "url": "https://www.bbc.com/news/articles/cj371jr203ko?at_medium=RSS&at_campaign=rss",
-      "summary": "The world's biggest band returns after more than three years with a huge concert in the South Korean capital.",
-      "published_at": "2026-03-21T22:01:05Z",
-      "country_code": "KR",
-      "country_name": "South Korea"
-    },
     {
       "source": "BBC US & Canada",
       "title": "Robert Mueller, ex-FBI chief who led Trump-Russia investigation, dies at 81",
       "url": "https://www.bbc.com/news/articles/c8dlj6gv0q6o?at_medium=RSS&at_campaign=rss",
       "summary": "A former FBI director, Mueller led the high-profile inquiry into alleged Russian interference in the 2016 US election",
-      "published_at": "2026-03-21T21:20:08Z",
+      "published_at": "2026-03-21T22:28:56Z",
       "country_code": "US",
       "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Trump administration at crossroads in US-Israel war with Iran",
+      "url": "https://www.bbc.com/news/articles/clyxv87zwwpo?at_medium=RSS&at_campaign=rss",
+      "summary": "Statements from President Trump that the war is almost over are not matching up with the reality on the ground.",
+      "published_at": "2026-03-21T22:12:04Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC Asia",
+      "title": "Pop megastars BTS electrify historic centre of Seoul with comeback concert",
+      "url": "https://www.bbc.com/news/articles/cj371jr203ko?at_medium=RSS&at_campaign=rss",
+      "summary": "The world's biggest band returns after more than three years with a huge concert in the South Korean capital.",
+      "published_at": "2026-03-21T22:01:05Z",
+      "country_code": "KR",
+      "country_name": "South Korea"
     },
     {
       "source": "BBC World",
@@ -906,7 +915,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 37
+      "news_count": 38
     },
     {
       "country_code": "IR",
