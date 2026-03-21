@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-03-21T09:22:25Z",
+  "generated_at": "2026-03-21T09:51:36Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "'BTS is everything for us': K-pop fans gather in Seoul for comeback show",
+      "url": "https://www.bbc.com/news/videos/c9wqklg2rexo?at_medium=RSS&at_campaign=rss",
+      "summary": "Some 260,000 fans are expected to watch BTS perform together on Saturday for the first time since 2022.",
+      "published_at": "2026-03-21T09:34:53Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "Russian drone attack kills two in Ukraine ahead of talks in US, officials say",
@@ -66,7 +75,7 @@
     },
     {
       "source": "BBC US & Canada",
-      "title": "US lifts sanctions on some Iranian oil as gas prices soar",
+      "title": "US lifts sanctions on some Iranian oil as energy prices soar",
       "url": "https://www.bbc.com/news/articles/c9d415g55nno?at_medium=RSS&at_campaign=rss",
       "summary": "The treasury secretary says the move will quickly bring about 140m barrels of oil to global markets.",
       "published_at": "2026-03-20T23:52:54Z",
@@ -407,15 +416,6 @@
       "country_name": "China"
     },
     {
-      "source": "BBC World",
-      "title": "Watch: Gabbard faces scrutiny over Iran nuclear intelligence claims",
-      "url": "https://www.bbc.com/news/videos/clygyg14zj2o?at_medium=RSS&at_campaign=rss",
-      "summary": "The US Director of National Intelligence, Tulsi Gabbard, was questioned over what Democrats perceive as a discrepancy between White House an…",
-      "published_at": "2026-03-18T18:38:21Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC Middle East",
       "title": "Iran's intelligence minister Esmail Khatib killed in air strike",
       "url": "https://www.bbc.com/news/articles/c2d1dz14k51o?at_medium=RSS&at_campaign=rss",
@@ -558,15 +558,6 @@
       "published_at": "2026-03-17T06:00:36Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC Asia",
-      "title": "Why did only two Iranian football players stay in Australia?",
-      "url": "https://www.bbc.com/news/videos/czd8921rljpo?at_medium=RSS&at_campaign=rss",
-      "summary": "After Australia gave humanitarian visas to seven team members, only two decided to stay - the BBC's Katy Watson explains what happened.",
-      "published_at": "2026-03-17T05:22:11Z",
-      "country_code": "AU",
-      "country_name": "Australia"
     },
     {
       "source": "BBC Asia",
@@ -942,11 +933,6 @@
       "news_count": 5
     },
     {
-      "country_code": "AU",
-      "country_name": "Australia",
-      "news_count": 3
-    },
-    {
       "country_code": "GB",
       "country_name": "United Kingdom",
       "news_count": 3
@@ -965,6 +951,11 @@
       "country_code": "RU",
       "country_name": "Russia",
       "news_count": 3
+    },
+    {
+      "country_code": "AU",
+      "country_name": "Australia",
+      "news_count": 2
     },
     {
       "country_code": "ES",
