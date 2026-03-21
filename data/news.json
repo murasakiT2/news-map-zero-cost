@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-03-21T06:43:16Z",
+  "generated_at": "2026-03-21T07:26:44Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "BTS comeback concert: Seoul gets ready to host 260,000 fans",
+      "url": "https://www.bbc.com/news/articles/cge0dyjwezgo?at_medium=RSS&at_campaign=rss",
+      "summary": "RM, Jin, Suga, J-Hope, Jimin, V and Jung Kook will perform together for the first time since October 2022.",
+      "published_at": "2026-03-21T06:59:23Z",
+      "country_code": "KR",
+      "country_name": "South Korea"
+    },
     {
       "source": "BBC World",
       "title": "Watch: Thick smoke billows from South Korea car parts plant in deadly fire",
@@ -9,15 +18,6 @@
       "published_at": "2026-03-21T05:49:15Z",
       "country_code": "KR",
       "country_name": "South Korea"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "Trump says he is considering 'winding down' Iran war",
-      "url": "https://www.bbc.com/news/articles/cpd5l00z7n6o?at_medium=RSS&at_campaign=rss",
-      "summary": "But more troops and warships are being sent to the region and the White House is seeking billions more in funding for the war.",
-      "published_at": "2026-03-21T01:29:59Z",
-      "country_code": "IR",
-      "country_name": "Iran"
     },
     {
       "source": "BBC World",
@@ -54,15 +54,6 @@
       "published_at": "2026-03-20T23:52:54Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "BTS comeback concert: Seoul gets ready to host 260,000 fans",
-      "url": "https://www.bbc.com/news/articles/cge0dyjwezgo?at_medium=RSS&at_campaign=rss",
-      "summary": "RM, Jin, Suga, J-Hope, Jimin, V and Jung Kook will perform together for the first time since October 2022.",
-      "published_at": "2026-03-20T23:06:10Z",
-      "country_code": "KR",
-      "country_name": "South Korea"
     },
     {
       "source": "BBC World",
@@ -938,7 +929,7 @@
     {
       "country_code": "IR",
       "country_name": "Iran",
-      "news_count": 15
+      "news_count": 14
     },
     {
       "country_code": "IL",
