@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-03-22T18:59:23Z",
+  "generated_at": "2026-03-22T19:27:09Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Kenyans fighting illegally for Russia in Ukraine to be granted amnesty",
+      "url": "https://www.bbc.com/news/articles/cj94jmj2p28o?at_medium=RSS&at_campaign=rss",
+      "summary": "It is illegal for Kenyans to serve in foreign armies and can carry a sentence of up to 10 years in jail.",
+      "published_at": "2026-03-22T19:05:30Z",
+      "country_code": "RU",
+      "country_name": "Russia"
+    },
     {
       "source": "BBC World",
       "title": "Israeli settlers target Palestinian villages in occupied West Bank, attacking people and properties",
@@ -110,7 +119,7 @@
       "country_name": "Italy"
     },
     {
-      "source": "BBC Asia",
+      "source": "BBC World",
       "title": "Pop megastars BTS electrify historic centre of Seoul with comeback concert",
       "url": "https://www.bbc.com/news/articles/cj371jr203ko?at_medium=RSS&at_campaign=rss",
       "summary": "The world's biggest band returns after more than three years with a huge concert in the South Korean capital.",
@@ -236,7 +245,7 @@
       "country_name": "Norway"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "I didn't know Epstein was a predator - Norway's crown princess",
       "url": "https://www.bbc.com/news/videos/c78l5x0zl0wo?at_medium=RSS&at_campaign=rss",
       "summary": "Norway's Crown Princess Mette-Marit has said that she wishes she had never met late US sex offender Jeffrey Epstein",
@@ -873,15 +882,6 @@
       "published_at": "2026-02-05T17:15:30Z",
       "country_code": "NG",
       "country_name": "Nigeria"
-    },
-    {
-      "source": "BBC Africa",
-      "title": "South African national park closed due to floods",
-      "url": "https://www.bbc.com/news/videos/c20d9qdz7zwo?at_medium=RSS&at_campaign=rss",
-      "summary": "Ongoing floods in the north-eastern provinces of South Africa has led to the closure of the world-famous Kruger National Park.",
-      "published_at": "2026-01-16T16:52:14Z",
-      "country_code": "ZA",
-      "country_name": "South Africa"
     }
   ],
   "regions": [
@@ -911,6 +911,11 @@
       "news_count": 4
     },
     {
+      "country_code": "RU",
+      "country_name": "Russia",
+      "news_count": 4
+    },
+    {
       "country_code": "AU",
       "country_name": "Australia",
       "news_count": 3
@@ -923,11 +928,6 @@
     {
       "country_code": "NG",
       "country_name": "Nigeria",
-      "news_count": 3
-    },
-    {
-      "country_code": "RU",
-      "country_name": "Russia",
       "news_count": 3
     },
     {
@@ -953,11 +953,6 @@
     {
       "country_code": "VE",
       "country_name": "Venezuela",
-      "news_count": 2
-    },
-    {
-      "country_code": "ZA",
-      "country_name": "South Africa",
       "news_count": 2
     },
     {
@@ -1023,6 +1018,11 @@
     {
       "country_code": "UA",
       "country_name": "Ukraine",
+      "news_count": 1
+    },
+    {
+      "country_code": "ZA",
+      "country_name": "South Africa",
       "news_count": 1
     }
   ]
