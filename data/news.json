@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-03-22T20:15:24Z",
+  "generated_at": "2026-03-22T20:48:56Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Israel to expand ground and air attacks against Hezbollah in Lebanon",
+      "url": "https://www.bbc.com/news/articles/c30rl05evd8o?at_medium=RSS&at_campaign=rss",
+      "summary": "There are fears in Lebanon that Israel is preparing for a large-scale ground invasion.",
+      "published_at": "2026-03-22T20:23:07Z",
+      "country_code": "IL",
+      "country_name": "Israel"
+    },
     {
       "source": "BBC World",
       "title": "Russian attacks kill six in Ukraine, officials say",
@@ -128,15 +137,6 @@
       "country_name": "South Korea"
     },
     {
-      "source": "BBC World",
-      "title": "Did Australia's under-16s social media ban work?",
-      "url": "https://www.bbc.com/news/videos/cq8g9y5x1llo?at_medium=RSS&at_campaign=rss",
-      "summary": "Three months since it came into effect, teenagers tell the BBC how the world-first law has impacted their lives so far.",
-      "published_at": "2026-03-21T19:06:39Z",
-      "country_code": "AU",
-      "country_name": "Australia"
-    },
-    {
       "source": "BBC Middle East",
       "title": "Why there's no sign of the conflict in the Middle East 'winding down'",
       "url": "https://www.bbc.com/news/videos/cwywlv9ked0o?at_medium=RSS&at_campaign=rss",
@@ -160,15 +160,6 @@
       "url": "https://www.bbc.com/news/articles/c36rny6xgppo?at_medium=RSS&at_campaign=rss",
       "summary": "Downing Street says ministers approved the expansion after accusing Iran of \"reckless strikes\".",
       "published_at": "2026-03-21T10:47:17Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "'BTS is everything for us': K-pop fans gather in Seoul for comeback show",
-      "url": "https://www.bbc.com/news/videos/c9wqklg2rexo?at_medium=RSS&at_campaign=rss",
-      "summary": "Some 260,000 fans are expected to watch BTS perform together on Saturday for the first time since 2022.",
-      "published_at": "2026-03-21T09:34:53Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -749,15 +740,6 @@
       "country_name": "Iran"
     },
     {
-      "source": "BBC Middle East",
-      "title": "'What if we're left with ruins?': Doubts creep in for Iranians who supported war",
-      "url": "https://www.bbc.com/news/articles/c3094g50rnvo?at_medium=RSS&at_campaign=rss",
-      "summary": "Teachers, engineers and shopkeepers tell the BBC they fear Iran falling into chaos.",
-      "published_at": "2026-03-12T12:49:14Z",
-      "country_code": "IR",
-      "country_name": "Iran"
-    },
-    {
       "source": "BBC Africa",
       "title": "One house, two faiths, one fasting season",
       "url": "https://www.bbc.com/news/videos/cwygeypnevxo?at_medium=RSS&at_campaign=rss",
@@ -888,17 +870,17 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 34
+      "news_count": 33
     },
     {
       "country_code": "IR",
       "country_name": "Iran",
-      "news_count": 12
+      "news_count": 11
     },
     {
       "country_code": "IL",
       "country_name": "Israel",
-      "news_count": 7
+      "news_count": 8
     },
     {
       "country_code": "IN",
@@ -916,11 +898,6 @@
       "news_count": 4
     },
     {
-      "country_code": "AU",
-      "country_name": "Australia",
-      "news_count": 3
-    },
-    {
       "country_code": "GB",
       "country_name": "United Kingdom",
       "news_count": 3
@@ -929,6 +906,11 @@
       "country_code": "NG",
       "country_name": "Nigeria",
       "news_count": 3
+    },
+    {
+      "country_code": "AU",
+      "country_name": "Australia",
+      "news_count": 2
     },
     {
       "country_code": "KR",
