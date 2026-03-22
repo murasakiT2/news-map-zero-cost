@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-03-22T07:11:40Z",
+  "generated_at": "2026-03-22T07:53:59Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Iranian missiles injure 160 in towns near Israeli nuclear site",
+      "url": "https://www.bbc.com/news/articles/c9qdvnv13qdo?at_medium=RSS&at_campaign=rss",
+      "summary": "Israel is investigating how ballistic missiles got through the country's sophisticated air defences.",
+      "published_at": "2026-03-22T07:39:50Z",
+      "country_code": "IL",
+      "country_name": "Israel"
+    },
     {
       "source": "BBC World",
       "title": "Socialists battle to hold Paris as France holds mayoral elections",
@@ -56,15 +65,6 @@
       "country_name": "Italy"
     },
     {
-      "source": "BBC World",
-      "title": "Iranian strike hits near Israeli nuclear facility after Tehran says its site targeted",
-      "url": "https://www.bbc.com/news/articles/c9qdvnv13qdo?at_medium=RSS&at_campaign=rss",
-      "summary": "The chief of the International Atomic Energy Agency called for \"maximum military restraint\" following the strikes.",
-      "published_at": "2026-03-21T23:01:07Z",
-      "country_code": "IR",
-      "country_name": "Iran"
-    },
-    {
       "source": "BBC Asia",
       "title": "Pop megastars BTS electrify historic centre of Seoul with comeback concert",
       "url": "https://www.bbc.com/news/articles/cj371jr203ko?at_medium=RSS&at_campaign=rss",
@@ -90,6 +90,15 @@
       "published_at": "2026-03-21T19:06:39Z",
       "country_code": "AU",
       "country_name": "Australia"
+    },
+    {
+      "source": "BBC Middle East",
+      "title": "Why there's no sign of the conflict in the Middle East 'winding down'",
+      "url": "https://www.bbc.com/news/videos/cwywlv9ked0o?at_medium=RSS&at_campaign=rss",
+      "summary": "Iran's foreign minister said that it doesn't appear that the US is prepared to halt its aggression after President Trump said the US was con…",
+      "published_at": "2026-03-21T17:52:25Z",
+      "country_code": "US",
+      "country_name": "United States"
     },
     {
       "source": "BBC Middle East",
@@ -137,7 +146,7 @@
       "country_name": "South Korea"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "Russia's school propaganda was highlighted by Oscar-winning film - but does it work?",
       "url": "https://www.bbc.com/news/articles/c7vq5g64y98o?at_medium=RSS&at_campaign=rss",
       "summary": "The messages are clear: the full-scale invasion is a defensive war and patriotism means unquestionable loyalty.",
@@ -225,15 +234,6 @@
       "published_at": "2026-03-20T14:14:58Z",
       "country_code": "ES",
       "country_name": "Spain"
-    },
-    {
-      "source": "BBC Middle East",
-      "title": "In maps: Attacks across Iran and the Middle East continue across third week",
-      "url": "https://www.bbc.com/news/articles/c4g0pnnj8xyo?at_medium=RSS&at_campaign=rss",
-      "summary": "The US-Israeli war with Iran has seen sustained attacks on Tehran and Beirut as retaliatory strikes are felt in Israel and Gulf states",
-      "published_at": "2026-03-20T13:41:54Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC World",
@@ -659,15 +659,6 @@
       "country_name": "Mexico"
     },
     {
-      "source": "BBC Africa",
-      "title": "'We will go wherever they hide': Rooting out IS in Somalia",
-      "url": "https://www.bbc.com/news/articles/cj32d8e2m5eo?at_medium=RSS&at_campaign=rss",
-      "summary": "Somalia became a key part of IS's global network after fighters were driven out of strongholds in Syria and Iraq.",
-      "published_at": "2026-03-16T00:05:40Z",
-      "country_code": "IQ",
-      "country_name": "Iraq"
-    },
-    {
       "source": "BBC Middle East",
       "title": "What Iranians are being told about the war",
       "url": "https://www.bbc.com/news/articles/cgl5w09ey30o?at_medium=RSS&at_campaign=rss",
@@ -929,12 +920,12 @@
     {
       "country_code": "IR",
       "country_name": "Iran",
-      "news_count": 14
+      "news_count": 13
     },
     {
       "country_code": "IL",
       "country_name": "Israel",
-      "news_count": 6
+      "news_count": 7
     },
     {
       "country_code": "IN",
@@ -1024,11 +1015,6 @@
     {
       "country_code": "ID",
       "country_name": "Indonesia",
-      "news_count": 1
-    },
-    {
-      "country_code": "IQ",
-      "country_name": "Iraq",
       "news_count": 1
     },
     {
