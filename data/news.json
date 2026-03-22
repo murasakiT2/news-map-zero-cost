@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-22T22:48:43Z",
+  "generated_at": "2026-03-22T23:18:01Z",
   "articles": [
     {
       "source": "BBC World",
@@ -144,6 +144,15 @@
       "published_at": "2026-03-21T22:01:05Z",
       "country_code": "KR",
       "country_name": "South Korea"
+    },
+    {
+      "source": "BBC Asia",
+      "title": "Did Australia's under-16s social media ban work?",
+      "url": "https://www.bbc.com/news/videos/cq8g9y5x1llo?at_medium=RSS&at_campaign=rss",
+      "summary": "Three months since it came into effect, teenagers tell the BBC how the world-first law has impacted their lives so far.",
+      "published_at": "2026-03-21T19:06:39Z",
+      "country_code": "AU",
+      "country_name": "Australia"
     },
     {
       "source": "BBC Middle East",
@@ -405,15 +414,6 @@
       "published_at": "2026-03-19T13:15:23Z",
       "country_code": "GB",
       "country_name": "United Kingdom"
-    },
-    {
-      "source": "BBC Asia",
-      "title": "India's ceramic hub grinds to a halt as Iran war chokes gas supply",
-      "url": "https://www.bbc.com/news/articles/cgrzr9ynpn1o?at_medium=RSS&at_campaign=rss",
-      "summary": "Manufacturers stopped operations after supplies of propane and natural gas reduced sharply in recent days.",
-      "published_at": "2026-03-19T08:48:08Z",
-      "country_code": "IN",
-      "country_name": "India"
     },
     {
       "source": "BBC Asia",
@@ -883,11 +883,6 @@
       "news_count": 9
     },
     {
-      "country_code": "IN",
-      "country_name": "India",
-      "news_count": 4
-    },
-    {
       "country_code": "IT",
       "country_name": "Italy",
       "news_count": 4
@@ -898,19 +893,24 @@
       "news_count": 4
     },
     {
+      "country_code": "AU",
+      "country_name": "Australia",
+      "news_count": 3
+    },
+    {
       "country_code": "GB",
       "country_name": "United Kingdom",
+      "news_count": 3
+    },
+    {
+      "country_code": "IN",
+      "country_name": "India",
       "news_count": 3
     },
     {
       "country_code": "NG",
       "country_name": "Nigeria",
       "news_count": 3
-    },
-    {
-      "country_code": "AU",
-      "country_name": "Australia",
-      "news_count": 2
     },
     {
       "country_code": "KR",
