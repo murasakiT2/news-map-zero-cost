@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-03-22T21:46:30Z",
+  "generated_at": "2026-03-22T22:15:26Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Israeli settlers target Palestinian villages in occupied West Bank, attacking people and properties",
+      "url": "https://www.bbc.com/news/articles/cew719w80g7o?at_medium=RSS&at_campaign=rss",
+      "summary": "The violence began after 18-year-old settler Yehuda Sherman was killed after reportedly being hit by a vehicle driven by a Palestinian while…",
+      "published_at": "2026-03-22T21:52:28Z",
+      "country_code": "PS",
+      "country_name": "Palestine"
+    },
+    {
+      "source": "BBC World",
+      "title": "Why is Israel targeting Lebanon's bridges?",
+      "url": "https://www.bbc.com/news/videos/c2087lr223lo?at_medium=RSS&at_campaign=rss",
+      "summary": "Israeli forces have been instructed to destroy the crossings over the Litani river that were being used by Hezbollah to send reinforcements.",
+      "published_at": "2026-03-22T21:46:30Z",
+      "country_code": "IL",
+      "country_name": "Israel"
+    },
     {
       "source": "BBC World",
       "title": "National blackout hits Cuba for second time in a week",
@@ -45,15 +63,6 @@
       "published_at": "2026-03-22T19:05:30Z",
       "country_code": "RU",
       "country_name": "Russia"
-    },
-    {
-      "source": "BBC World",
-      "title": "Israeli settlers target Palestinian villages in occupied West Bank, attacking people and properties",
-      "url": "https://www.bbc.com/news/articles/cew719w80g7o?at_medium=RSS&at_campaign=rss",
-      "summary": "The violence began after 18-year-old settler Yehuda Sherman was killed after reportedly being hit by a vehicle driven by a Palestinian while…",
-      "published_at": "2026-03-22T18:37:07Z",
-      "country_code": "PS",
-      "country_name": "Palestine"
     },
     {
       "source": "BBC World",
@@ -880,7 +889,7 @@
     {
       "country_code": "IL",
       "country_name": "Israel",
-      "news_count": 8
+      "news_count": 9
     },
     {
       "country_code": "IN",
