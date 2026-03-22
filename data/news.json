@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-03-22T23:18:01Z",
+  "generated_at": "2026-03-22T23:48:16Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "France's Socialists hold onto power in major cities in election boost for mainstream",
+      "url": "https://www.bbc.com/news/articles/crk14m7mjddo?at_medium=RSS&at_campaign=rss",
+      "summary": "Paris and Marseille are held by the Socialists in local elections which saw the nationalist right win in Nice and certain towns.",
+      "published_at": "2026-03-22T23:27:59Z",
+      "country_code": "FR",
+      "country_name": "France"
+    },
     {
       "source": "BBC World",
       "title": "Israeli settlers target Palestinian villages in occupied West Bank, attacking people and properties",
@@ -70,15 +79,6 @@
       "url": "https://www.bbc.com/news/articles/c9qdvnv13qdo?at_medium=RSS&at_campaign=rss",
       "summary": "Israel is investigating how ballistic missiles got through the country's sophisticated air defences.",
       "published_at": "2026-03-22T17:35:19Z",
-      "country_code": "IL",
-      "country_name": "Israel"
-    },
-    {
-      "source": "BBC World",
-      "title": "'A direct hit' - BBC visits Israeli town after Iranian strike",
-      "url": "https://www.bbc.com/news/videos/c3v6k0l631vo?at_medium=RSS&at_campaign=rss",
-      "summary": "The BBC's Sebastian Usher reports from Dimona in southern Israel, which was hit by an Iranian missile.",
-      "published_at": "2026-03-22T14:21:19Z",
       "country_code": "IL",
       "country_name": "Israel"
     },
@@ -880,7 +880,7 @@
     {
       "country_code": "IL",
       "country_name": "Israel",
-      "news_count": 9
+      "news_count": 8
     },
     {
       "country_code": "IT",
@@ -911,6 +911,11 @@
       "country_code": "NG",
       "country_name": "Nigeria",
       "news_count": 3
+    },
+    {
+      "country_code": "FR",
+      "country_name": "France",
+      "news_count": 2
     },
     {
       "country_code": "KR",
@@ -965,11 +970,6 @@
     {
       "country_code": "ET",
       "country_name": "Ethiopia",
-      "news_count": 1
-    },
-    {
-      "country_code": "FR",
-      "country_name": "France",
       "news_count": 1
     },
     {
