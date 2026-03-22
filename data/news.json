@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-22T16:18:06Z",
+  "generated_at": "2026-03-22T16:52:07Z",
   "articles": [
     {
       "source": "BBC World",
@@ -128,7 +128,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC US & Canada",
+      "source": "BBC Middle East",
       "title": "US lifts sanctions on some Iranian oil as energy prices soar",
       "url": "https://www.bbc.com/news/articles/c9d415g55nno?at_medium=RSS&at_campaign=rss",
       "summary": "The treasury secretary says the move will quickly bring about 140m barrels of oil to global markets.",
@@ -209,15 +209,6 @@
       "country_name": "Russia"
     },
     {
-      "source": "BBC US & Canada",
-      "title": "Hottest March temperature in US history recorded in Arizona",
-      "url": "https://www.bbc.com/news/articles/cj40xgv5vpdo?at_medium=RSS&at_campaign=rss",
-      "summary": "A heatwave brought record high temperatures to parts of the American southwest.",
-      "published_at": "2026-03-20T17:43:11Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC Middle East",
       "title": "Israel strikes Syria after Druze clashes",
       "url": "https://www.bbc.com/news/articles/c248pgn158go?at_medium=RSS&at_campaign=rss",
@@ -234,15 +225,6 @@
       "published_at": "2026-03-20T15:30:28Z",
       "country_code": "NO",
       "country_name": "Norway"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "Record-breaking heatwave hits the US West",
-      "url": "https://www.bbc.com/news/videos/c9d413gd74do?at_medium=RSS&at_campaign=rss",
-      "summary": "According to the US National Weather Service, the heatwave will continue in the West and expand eastward in the coming days.",
-      "published_at": "2026-03-20T15:20:57Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC Europe",
@@ -605,6 +587,15 @@
       "country_name": "India"
     },
     {
+      "source": "BBC US & Canada",
+      "title": "Surge in US gas prices deepens political peril for Trump over Iran",
+      "url": "https://www.bbc.com/news/articles/c70k29914q4o?at_medium=RSS&at_campaign=rss",
+      "summary": "The odds of a quick resolution to the war appear to be dwindling by the day, and the political stakes for the president are only growing.",
+      "published_at": "2026-03-17T00:24:01Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
       "source": "BBC Africa",
       "title": "'Fire came from the sky and burned them' - life on the brink of civil war in South Sudan",
       "url": "https://www.bbc.com/news/articles/cx2g4v9mzxro?at_medium=RSS&at_campaign=rss",
@@ -648,6 +639,24 @@
       "published_at": "2026-03-16T17:23:27Z",
       "country_code": "MX",
       "country_name": "Mexico"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "Bespoke women's football stadiums? Why US sides are making the move",
+      "url": "https://www.bbc.com/sport/football/articles/cp85jp6megro?at_medium=RSS&at_campaign=rss",
+      "summary": "BBC Sport visits Kansas City Current and Denver Summit to learn why these US franchises are the first to build venues specifically for women…",
+      "published_at": "2026-03-15T07:35:59Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "'Gruesome' war bets fuel calls for crackdown on prediction markets",
+      "url": "https://www.bbc.com/news/articles/cjwz8051y0lo?at_medium=RSS&at_campaign=rss",
+      "summary": "Predictions markets have hosted millions of dollars of bets related to the war in Iran.",
+      "published_at": "2026-03-15T00:01:31Z",
+      "country_code": "IR",
+      "country_name": "Iran"
     },
     {
       "source": "BBC Africa",
@@ -893,7 +902,7 @@
     {
       "country_code": "IR",
       "country_name": "Iran",
-      "news_count": 11
+      "news_count": 12
     },
     {
       "country_code": "IL",
