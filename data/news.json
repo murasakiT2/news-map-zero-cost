@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-03-22T18:22:31Z",
+  "generated_at": "2026-03-22T18:59:23Z",
   "articles": [
     {
       "source": "BBC World",
       "title": "Israeli settlers target Palestinian villages in occupied West Bank, attacking people and properties",
       "url": "https://www.bbc.com/news/articles/cew719w80g7o?at_medium=RSS&at_campaign=rss",
       "summary": "The violence began after 18-year-old settler Yehuda Sherman was killed after reportedly being hit by a vehicle driven by a Palestinian while…",
-      "published_at": "2026-03-22T17:57:48Z",
+      "published_at": "2026-03-22T18:37:07Z",
       "country_code": "PS",
       "country_name": "Palestine"
     },
@@ -234,15 +234,6 @@
       "published_at": "2026-03-20T15:30:28Z",
       "country_code": "NO",
       "country_name": "Norway"
-    },
-    {
-      "source": "BBC Europe",
-      "title": "'Multiple factors' caused 2025 Spain and Portugal blackout, says report",
-      "url": "https://www.bbc.com/news/articles/cvg0r3z3lvqo?at_medium=RSS&at_campaign=rss",
-      "summary": "A new report has determined the causes of the unprecedented blackout which left the two countries without power for several hours last year.",
-      "published_at": "2026-03-20T14:14:58Z",
-      "country_code": "ES",
-      "country_name": "Spain"
     },
     {
       "source": "BBC World",
@@ -940,11 +931,6 @@
       "news_count": 3
     },
     {
-      "country_code": "ES",
-      "country_name": "Spain",
-      "news_count": 2
-    },
-    {
       "country_code": "KR",
       "country_name": "South Korea",
       "news_count": 2
@@ -992,6 +978,11 @@
     {
       "country_code": "CN",
       "country_name": "China",
+      "news_count": 1
+    },
+    {
+      "country_code": "ES",
+      "country_name": "Spain",
       "news_count": 1
     },
     {
