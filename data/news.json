@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-03-22T13:58:06Z",
+  "generated_at": "2026-03-22T14:26:15Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "'A direct hit' - BBC visits Israeli town after Iranian strike",
+      "url": "https://www.bbc.com/news/videos/c3v6k0l631vo?at_medium=RSS&at_campaign=rss",
+      "summary": "The BBC's Sebastian Usher reports from Dimona in southern Israel, which was hit by an Iranian missile.",
+      "published_at": "2026-03-22T14:21:19Z",
+      "country_code": "IL",
+      "country_name": "Israel"
+    },
     {
       "source": "BBC World",
       "title": "Sudan drone attack on key hospital killed 64 people during Eid, WHO says",
@@ -344,7 +353,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "Ros Atkins on... Trump's mixed messages on the war",
       "url": "https://www.bbc.com/news/videos/c747lk0geldo?at_medium=RSS&at_campaign=rss",
       "summary": "The BBC’s Analysis Editor looks at President Trump’s mixed messages on the war with Iran.",
@@ -889,7 +898,7 @@
     {
       "country_code": "IL",
       "country_name": "Israel",
-      "news_count": 7
+      "news_count": 8
     },
     {
       "country_code": "IN",
