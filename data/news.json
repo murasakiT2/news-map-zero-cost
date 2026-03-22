@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-03-22T17:47:51Z",
+  "generated_at": "2026-03-22T18:22:31Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Israeli settlers target Palestinian villages in occupied West Bank, attacking people and properties",
+      "url": "https://www.bbc.com/news/articles/cew719w80g7o?at_medium=RSS&at_campaign=rss",
+      "summary": "The violence began after 18-year-old settler Yehuda Sherman was killed after reportedly being hit by a vehicle driven by a Palestinian while…",
+      "published_at": "2026-03-22T17:57:48Z",
+      "country_code": "PS",
+      "country_name": "Palestine"
+    },
     {
       "source": "BBC World",
       "title": "Iranian missiles injure 180 in towns near Israeli nuclear site",
@@ -741,15 +750,6 @@
     },
     {
       "source": "BBC Middle East",
-      "title": "'Follow the smoke': BBC spends day with emergency teams as Israel strikes south Lebanon",
-      "url": "https://www.bbc.com/news/articles/cx28v2y7de2o?at_medium=RSS&at_campaign=rss",
-      "summary": "The BBC visited the city of Nabatieh, witnessing the pace and scale of Israel's bombing as its war with Hezbollah continues to escalate.",
-      "published_at": "2026-03-12T20:53:35Z",
-      "country_code": "IL",
-      "country_name": "Israel"
-    },
-    {
-      "source": "BBC Middle East",
       "title": "'What if we're left with ruins?': Doubts creep in for Iranians who supported war",
       "url": "https://www.bbc.com/news/articles/c3094g50rnvo?at_medium=RSS&at_campaign=rss",
       "summary": "Teachers, engineers and shopkeepers tell the BBC they fear Iran falling into chaos.",
@@ -907,7 +907,7 @@
     {
       "country_code": "IL",
       "country_name": "Israel",
-      "news_count": 8
+      "news_count": 7
     },
     {
       "country_code": "IN",
@@ -952,6 +952,11 @@
     {
       "country_code": "MX",
       "country_name": "Mexico",
+      "news_count": 2
+    },
+    {
+      "country_code": "PS",
+      "country_name": "Palestine",
       "news_count": 2
     },
     {
@@ -1017,11 +1022,6 @@
     {
       "country_code": "PK",
       "country_name": "Pakistan",
-      "news_count": 1
-    },
-    {
-      "country_code": "PS",
-      "country_name": "Palestine",
       "news_count": 1
     },
     {
