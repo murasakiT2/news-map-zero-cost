@@ -1,12 +1,21 @@
 {
-  "generated_at": "2026-03-22T10:51:08Z",
+  "generated_at": "2026-03-22T11:15:58Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Russian attacks kill six in Ukraine, officials say",
+      "url": "https://www.bbc.com/news/articles/crl18nwjzzzo?at_medium=RSS&at_campaign=rss",
+      "summary": "The deaths were reported in four south-eastern Ukrainian regions in the past 24 hours.",
+      "published_at": "2026-03-22T11:07:06Z",
+      "country_code": "UA",
+      "country_name": "Ukraine"
+    },
     {
       "source": "BBC World",
       "title": "Iranian missiles injure 160 in towns near Israeli nuclear site",
       "url": "https://www.bbc.com/news/articles/c9qdvnv13qdo?at_medium=RSS&at_campaign=rss",
       "summary": "Israel is investigating how ballistic missiles got through the country's sophisticated air defences.",
-      "published_at": "2026-03-22T10:28:47Z",
+      "published_at": "2026-03-22T10:57:44Z",
       "country_code": "IL",
       "country_name": "Israel"
     },
@@ -81,15 +90,6 @@
       "published_at": "2026-03-21T22:01:05Z",
       "country_code": "KR",
       "country_name": "South Korea"
-    },
-    {
-      "source": "BBC World",
-      "title": "Russian drone attack kills two in Ukraine ahead of talks in US, officials say",
-      "url": "https://www.bbc.com/news/articles/crl18nwjzzzo?at_medium=RSS&at_campaign=rss",
-      "summary": "Two children, aged 11 and 15, were also injured in the attack which took place in Zaporizhzhia.",
-      "published_at": "2026-03-21T19:39:57Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC World",
@@ -888,7 +888,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 36
+      "news_count": 35
     },
     {
       "country_code": "IR",
@@ -1013,6 +1013,11 @@
     {
       "country_code": "PT",
       "country_name": "Portugal",
+      "news_count": 1
+    },
+    {
+      "country_code": "UA",
+      "country_name": "Ukraine",
       "news_count": 1
     },
     {
