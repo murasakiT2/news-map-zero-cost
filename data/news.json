@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-03-22T23:48:16Z",
+  "generated_at": "2026-03-23T01:15:51Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Germany has a shortage of workers - so it's turning to India for help",
+      "url": "https://www.bbc.com/news/articles/c3wlww83yv4o?at_medium=RSS&at_campaign=rss",
+      "summary": "The European nation, struggling to find skilled staff, is giving jobs to young people from India.",
+      "published_at": "2026-03-23T00:03:25Z",
+      "country_code": "IN",
+      "country_name": "India"
+    },
     {
       "source": "BBC World",
       "title": "France's Socialists hold onto power in major cities in election boost for mainstream",
@@ -84,21 +93,21 @@
     },
     {
       "source": "BBC World",
+      "title": "'A direct hit' - BBC visits Israeli town after Iranian strike",
+      "url": "https://www.bbc.com/news/videos/c3v6k0l631vo?at_medium=RSS&at_campaign=rss",
+      "summary": "The BBC's Sebastian Usher reports from Dimona in southern Israel, which was hit by an Iranian missile.",
+      "published_at": "2026-03-22T14:21:19Z",
+      "country_code": "IL",
+      "country_name": "Israel"
+    },
+    {
+      "source": "BBC World",
       "title": "Sudan drone attack on key hospital killed 64 people during Eid, WHO says",
       "url": "https://www.bbc.com/news/articles/cr715xynkvvo?at_medium=RSS&at_campaign=rss",
       "summary": "The strike killed 64 people, including 13 children, two nurses and a doctor, according to the WHO head.",
       "published_at": "2026-03-22T12:15:05Z",
       "country_code": "SD",
       "country_name": "Sudan"
-    },
-    {
-      "source": "BBC World",
-      "title": "Socialists battle to hold Paris as France holds mayoral elections",
-      "url": "https://www.bbc.com/news/articles/c87wgw27201o?at_medium=RSS&at_campaign=rss",
-      "summary": "The capital could shift to the right after 25 years under the Socialists if Rachida Dati defeats Emmanuel Grégoire.",
-      "published_at": "2026-03-22T07:08:59Z",
-      "country_code": "FR",
-      "country_name": "France"
     },
     {
       "source": "BBC World",
@@ -119,7 +128,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "A secularism law some women say makes them feel like 'outsiders' heads to Canada's top court",
       "url": "https://www.bbc.com/news/articles/ceqw5j5lx32o?at_medium=RSS&at_campaign=rss",
       "summary": "Canada's Supreme Court will hear a challenge to Quebec's Bill 21, which bars some public sector workers, including teachers, from wearing re…",
@@ -198,15 +207,6 @@
       "published_at": "2026-03-21T01:05:03Z",
       "country_code": "RU",
       "country_name": "Russia"
-    },
-    {
-      "source": "BBC Asia",
-      "title": "The fight to control the narrative in the Afghan-Pakistan conflict",
-      "url": "https://www.bbc.com/news/articles/c5yxkj8gnr2o?at_medium=RSS&at_campaign=rss",
-      "summary": "The battle between the neighbouring countries is taking place as much online as it is on the ground.",
-      "published_at": "2026-03-21T00:25:07Z",
-      "country_code": "PK",
-      "country_name": "Pakistan"
     },
     {
       "source": "BBC World",
@@ -533,24 +533,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Europe",
-      "title": "Italy warns Russian tanker could explode in Mediterranean at any time",
-      "url": "https://www.bbc.com/news/articles/cn9e9dxw3e1o?at_medium=RSS&at_campaign=rss",
-      "summary": "Italy is one of nine EU countries urging the European Commission to act over the Arctic Metagaz, drifting out of control in the Mediterranea…",
-      "published_at": "2026-03-17T19:21:00Z",
-      "country_code": "IT",
-      "country_name": "Italy"
-    },
-    {
-      "source": "BBC Europe",
-      "title": "Spanish king reopens debate on conquest of Mexico by acknowledging 'abuse'",
-      "url": "https://www.bbc.com/news/articles/c33j3ne2mjlo?at_medium=RSS&at_campaign=rss",
-      "summary": "King Felipe appears to have helped thaw frosty relations with Mexico while reviving a fierce debate over events 500 years ago.",
-      "published_at": "2026-03-17T18:55:17Z",
-      "country_code": "MX",
-      "country_name": "Mexico"
-    },
-    {
       "source": "BBC Asia",
       "title": "What have US allies and China said about sending ships to the Strait of Hormuz?",
       "url": "https://www.bbc.com/news/articles/crm8g938erdo?at_medium=RSS&at_campaign=rss",
@@ -648,15 +630,6 @@
       "published_at": "2026-03-16T17:23:27Z",
       "country_code": "MX",
       "country_name": "Mexico"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "Bespoke women's football stadiums? Why US sides are making the move",
-      "url": "https://www.bbc.com/sport/football/articles/cp85jp6megro?at_medium=RSS&at_campaign=rss",
-      "summary": "BBC Sport visits Kansas City Current and Denver Summit to learn why these US franchises are the first to build venues specifically for women…",
-      "published_at": "2026-03-15T07:35:59Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC Africa",
@@ -870,7 +843,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 33
+      "news_count": 32
     },
     {
       "country_code": "IR",
@@ -880,11 +853,11 @@
     {
       "country_code": "IL",
       "country_name": "Israel",
-      "news_count": 8
+      "news_count": 9
     },
     {
-      "country_code": "IT",
-      "country_name": "Italy",
+      "country_code": "IN",
+      "country_name": "India",
       "news_count": 4
     },
     {
@@ -903,8 +876,8 @@
       "news_count": 3
     },
     {
-      "country_code": "IN",
-      "country_name": "India",
+      "country_code": "IT",
+      "country_name": "Italy",
       "news_count": 3
     },
     {
@@ -913,18 +886,8 @@
       "news_count": 3
     },
     {
-      "country_code": "FR",
-      "country_name": "France",
-      "news_count": 2
-    },
-    {
       "country_code": "KR",
       "country_name": "South Korea",
-      "news_count": 2
-    },
-    {
-      "country_code": "MX",
-      "country_name": "Mexico",
       "news_count": 2
     },
     {
@@ -973,6 +936,11 @@
       "news_count": 1
     },
     {
+      "country_code": "FR",
+      "country_name": "France",
+      "news_count": 1
+    },
+    {
       "country_code": "KE",
       "country_name": "Kenya",
       "news_count": 1
@@ -983,13 +951,13 @@
       "news_count": 1
     },
     {
-      "country_code": "NO",
-      "country_name": "Norway",
+      "country_code": "MX",
+      "country_name": "Mexico",
       "news_count": 1
     },
     {
-      "country_code": "PK",
-      "country_name": "Pakistan",
+      "country_code": "NO",
+      "country_name": "Norway",
       "news_count": 1
     },
     {
