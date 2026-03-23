@@ -1,12 +1,39 @@
 {
-  "generated_at": "2026-03-23T16:45:19Z",
+  "generated_at": "2026-03-23T17:43:02Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "'Like the plane got cut in half': Eyewitnesses describe chaos of LaGuardia crash",
+      "url": "https://www.bbc.com/news/articles/c78rdze8zvjo?at_medium=RSS&at_campaign=rss",
+      "summary": "Eyewitnesses have described the moment Air Canada flight AC8646 crashed into a fire truck on the runway of New York's LaGuardia airport.",
+      "published_at": "2026-03-23T17:31:32Z",
+      "country_code": "CA",
+      "country_name": "Canada"
+    },
+    {
+      "source": "BBC Middle East",
+      "title": "In maps: Attacks across the Middle East",
+      "url": "https://www.bbc.com/news/articles/c4g0pnnj8xyo?at_medium=RSS&at_campaign=rss",
+      "summary": "The US-Israel war with Iran has seen continued attacks on Tehran and the Gulf states as Trump postpones his threat to strike Iranian power p…",
+      "published_at": "2026-03-23T17:21:31Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Oil falls and shares rebound after Trump says talks have been held to end war",
+      "url": "https://www.bbc.com/news/articles/czex56kwxxzo?at_medium=RSS&at_campaign=rss",
+      "summary": "Energy prices fall and stock markets rebound after the US president says \"very good and productive\" talks have been held.",
+      "published_at": "2026-03-23T16:50:12Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC Latin America",
       "title": "Colombian Air Force plane crashes with scores of soldiers on board",
       "url": "https://www.bbc.com/news/articles/c8dlmrjn1l2o?at_medium=RSS&at_campaign=rss",
       "summary": "Colombia's defence minister says it was a 'tragic accident' but the cause is not yet clear.",
-      "published_at": "2026-03-23T16:25:40Z",
+      "published_at": "2026-03-23T16:48:28Z",
       "country_code": "CO",
       "country_name": "Colombia"
     },
@@ -15,7 +42,7 @@
       "title": "Ex-teacher accused of Scotland school abuse found guilty of sex attack in South Africa",
       "url": "https://www.bbc.com/news/articles/c98kdp0z9gyo?at_medium=RSS&at_campaign=rss",
       "summary": "A court in Cape Town found Iain Wares guilty of indecently assaulting a former student who accused him of sexual abuse in the 1980s.",
-      "published_at": "2026-03-23T16:16:48Z",
+      "published_at": "2026-03-23T16:48:13Z",
       "country_code": "ZA",
       "country_name": "South Africa"
     },
@@ -54,15 +81,6 @@
       "published_at": "2026-03-23T15:00:06Z",
       "country_code": "IR",
       "country_name": "Iran"
-    },
-    {
-      "source": "BBC World",
-      "title": "Oil falls and shares rebound after Trump says talks have been held to end war",
-      "url": "https://www.bbc.com/news/articles/czex56kwxxzo?at_medium=RSS&at_campaign=rss",
-      "summary": "Energy prices fall and stock markets rebound after the US president says \"very good and productive\" talks have been held.",
-      "published_at": "2026-03-23T14:19:58Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC World",
@@ -333,15 +351,6 @@
       "published_at": "2026-03-20T15:30:28Z",
       "country_code": "NO",
       "country_name": "Norway"
-    },
-    {
-      "source": "BBC Middle East",
-      "title": "In maps: Attacks across Iran and the Middle East continue across third week",
-      "url": "https://www.bbc.com/news/articles/c4g0pnnj8xyo?at_medium=RSS&at_campaign=rss",
-      "summary": "The US-Israeli war with Iran has seen sustained attacks on Tehran and Beirut as retaliatory strikes are felt in Israel and Gulf states",
-      "published_at": "2026-03-20T13:41:54Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC Europe",
@@ -817,14 +826,14 @@
       "news_count": 3
     },
     {
-      "country_code": "IT",
-      "country_name": "Italy",
+      "country_code": "CA",
+      "country_name": "Canada",
       "news_count": 3
     },
     {
-      "country_code": "CA",
-      "country_name": "Canada",
-      "news_count": 2
+      "country_code": "IT",
+      "country_name": "Italy",
+      "news_count": 3
     },
     {
       "country_code": "FR",
