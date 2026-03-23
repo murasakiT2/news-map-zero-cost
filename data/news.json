@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-03-23T17:43:02Z",
+  "generated_at": "2026-03-23T18:39:17Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "A pharmacist and a homesick lifestyle blogger: The 'alarming' civilian cost of war in Iran",
+      "url": "https://www.bbc.com/news/articles/c3v6ld7lv9no?at_medium=RSS&at_campaign=rss",
+      "summary": "The toll on civilians is mounting fast as the US-Israeli war on Iran continues.",
+      "published_at": "2026-03-23T18:31:26Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "Trump says 'good' talks ongoing with Iran - but offers few details",
+      "url": "https://www.bbc.com/news/articles/c75kl47zez3o?at_medium=RSS&at_campaign=rss",
+      "summary": "An early morning post from Trump soothed panicked markets, but the extent of any talks remains unclear.",
+      "published_at": "2026-03-23T18:06:50Z",
+      "country_code": "IR",
+      "country_name": "Iran"
+    },
+    {
+      "source": "BBC Latin America",
+      "title": "Colombian Air Force plane crashes with scores of soldiers on board",
+      "url": "https://www.bbc.com/news/articles/c8dlmrjn1l2o?at_medium=RSS&at_campaign=rss",
+      "summary": "Colombia's defence minister says it was a 'tragic accident' but the cause is not yet clear.",
+      "published_at": "2026-03-23T17:53:48Z",
+      "country_code": "CO",
+      "country_name": "Colombia"
+    },
+    {
+      "source": "BBC World",
+      "title": "Watch: Inside the Palestinian home attacked by settlers",
+      "url": "https://www.bbc.com/news/videos/cd9vnznv075o?at_medium=RSS&at_campaign=rss",
+      "summary": "Violence began after a teenage settler was killed, reportedly after being hit by a vehicle driven by a Palestinian.",
+      "published_at": "2026-03-23T17:53:17Z",
+      "country_code": "PS",
+      "country_name": "Palestine"
+    },
     {
       "source": "BBC World",
       "title": "'Like the plane got cut in half': Eyewitnesses describe chaos of LaGuardia crash",
@@ -27,15 +63,6 @@
       "published_at": "2026-03-23T16:50:12Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC Latin America",
-      "title": "Colombian Air Force plane crashes with scores of soldiers on board",
-      "url": "https://www.bbc.com/news/articles/c8dlmrjn1l2o?at_medium=RSS&at_campaign=rss",
-      "summary": "Colombia's defence minister says it was a 'tragic accident' but the cause is not yet clear.",
-      "published_at": "2026-03-23T16:48:28Z",
-      "country_code": "CO",
-      "country_name": "Colombia"
     },
     {
       "source": "BBC Africa",
@@ -72,15 +99,6 @@
       "published_at": "2026-03-23T15:04:25Z",
       "country_code": "CA",
       "country_name": "Canada"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "Trump says 'good' talks ongoing with Iran - but offers few details",
-      "url": "https://www.bbc.com/news/articles/c75kl47zez3o?at_medium=RSS&at_campaign=rss",
-      "summary": "An early morning post from Trump soothed panicked markets, but the extent of any talks remains unclear.",
-      "published_at": "2026-03-23T15:00:06Z",
-      "country_code": "IR",
-      "country_name": "Iran"
     },
     {
       "source": "BBC World",
@@ -171,15 +189,6 @@
       "published_at": "2026-03-22T20:23:07Z",
       "country_code": "IL",
       "country_name": "Israel"
-    },
-    {
-      "source": "BBC Europe",
-      "title": "Russian attacks kill six in Ukraine, officials say",
-      "url": "https://www.bbc.com/news/articles/crl18nwjzzzo?at_medium=RSS&at_campaign=rss",
-      "summary": "The deaths were reported in four south-eastern Ukrainian regions in the past 24 hours.",
-      "published_at": "2026-03-22T19:29:06Z",
-      "country_code": "UA",
-      "country_name": "Ukraine"
     },
     {
       "source": "BBC World",
@@ -295,15 +304,6 @@
       "url": "https://www.bbc.com/news/articles/c36rny6xgppo?at_medium=RSS&at_campaign=rss",
       "summary": "Downing Street says ministers approved the expansion after accusing Iran of \"reckless strikes\".",
       "published_at": "2026-03-21T10:47:17Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "'BTS is everything for us': K-pop fans gather in Seoul for comeback show",
-      "url": "https://www.bbc.com/news/videos/c9wqklg2rexo?at_medium=RSS&at_campaign=rss",
-      "summary": "Some 260,000 fans are expected to watch BTS perform together on Saturday for the first time since 2022.",
-      "published_at": "2026-03-21T09:34:53Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -851,6 +851,11 @@
       "news_count": 2
     },
     {
+      "country_code": "PS",
+      "country_name": "Palestine",
+      "news_count": 2
+    },
+    {
       "country_code": "SD",
       "country_name": "Sudan",
       "news_count": 2
@@ -908,16 +913,6 @@
     {
       "country_code": "NO",
       "country_name": "Norway",
-      "news_count": 1
-    },
-    {
-      "country_code": "PS",
-      "country_name": "Palestine",
-      "news_count": 1
-    },
-    {
-      "country_code": "UA",
-      "country_name": "Ukraine",
       "news_count": 1
     }
   ]
