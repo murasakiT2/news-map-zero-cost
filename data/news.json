@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-03-23T19:40:46Z",
+  "generated_at": "2026-03-23T20:28:43Z",
   "articles": [
+    {
+      "source": "BBC Europe",
+      "title": "Referendum defeat leaves Italy's Meloni looking more vulnerable",
+      "url": "https://www.bbc.com/news/articles/crl1ne8dj1eo?at_medium=RSS&at_campaign=rss",
+      "summary": "Meloni vowed to press on after losing a vote on constitutional reform many turned into a referendum on her government.",
+      "published_at": "2026-03-23T20:25:32Z",
+      "country_code": "IT",
+      "country_name": "Italy"
+    },
+    {
+      "source": "BBC World",
+      "title": "Oil falls and shares rebound after Trump says talks have been held to end war",
+      "url": "https://www.bbc.com/news/articles/czex56kwxxzo?at_medium=RSS&at_campaign=rss",
+      "summary": "Energy prices fall and stock markets rebound after the US president says \"very good and productive\" talks have been held.",
+      "published_at": "2026-03-23T20:21:51Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC US & Canada",
       "title": "ICE agents deploy to major US airports as security queues stretch for hours",
@@ -61,15 +79,6 @@
       "url": "https://www.bbc.com/news/articles/c4g0pnnj8xyo?at_medium=RSS&at_campaign=rss",
       "summary": "The US-Israel war with Iran has seen continued attacks on Tehran and the Gulf states as Trump postpones his threat to strike Iranian power p…",
       "published_at": "2026-03-23T17:21:31Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "Oil falls and shares rebound after Trump says talks have been held to end war",
-      "url": "https://www.bbc.com/news/articles/czex56kwxxzo?at_medium=RSS&at_campaign=rss",
-      "summary": "Energy prices fall and stock markets rebound after the US president says \"very good and productive\" talks have been held.",
-      "published_at": "2026-03-23T16:50:12Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -820,6 +829,11 @@
       "news_count": 5
     },
     {
+      "country_code": "IT",
+      "country_name": "Italy",
+      "news_count": 4
+    },
+    {
       "country_code": "NG",
       "country_name": "Nigeria",
       "news_count": 4
@@ -837,11 +851,6 @@
     {
       "country_code": "CA",
       "country_name": "Canada",
-      "news_count": 3
-    },
-    {
-      "country_code": "IT",
-      "country_name": "Italy",
       "news_count": 3
     },
     {
