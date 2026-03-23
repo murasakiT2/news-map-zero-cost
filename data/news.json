@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-03-23T08:00:56Z",
+  "generated_at": "2026-03-23T09:33:46Z",
   "articles": [
     {
-      "source": "BBC World",
-      "title": "Plane and ground vehicle collide at New York's LaGuardia Airport halting flights",
-      "url": "https://www.bbc.com/news/articles/cy01g522ww4o?at_medium=RSS&at_campaign=rss",
-      "summary": "An Air Canada Express plane suffered significant damage after the collision.",
-      "published_at": "2026-03-23T07:53:53Z",
-      "country_code": "CA",
-      "country_name": "Canada"
+      "source": "BBC Asia",
+      "title": "Australia's ABC staff to go on strike for first time in 20 years",
+      "url": "https://www.bbc.com/news/articles/c248597nqn8o?at_medium=RSS&at_campaign=rss",
+      "summary": "The 24-hour long strike is expected to disrupt live television and radio broadcasts.",
+      "published_at": "2026-03-23T09:16:35Z",
+      "country_code": "AU",
+      "country_name": "Australia"
     },
     {
       "source": "BBC World",
       "title": "Asia stocks slide as US and Iran threaten to escalate war",
       "url": "https://www.bbc.com/news/articles/czex56kwxxzo?at_medium=RSS&at_campaign=rss",
       "summary": "The International Energy Agency chief said the war could lead to the world's worst energy crisis in decades.",
-      "published_at": "2026-03-23T07:29:09Z",
+      "published_at": "2026-03-23T08:11:01Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -389,15 +389,6 @@
       "country_name": "Iran"
     },
     {
-      "source": "BBC Africa",
-      "title": "UK agrees deal to ease migrant returns to Nigeria",
-      "url": "https://www.bbc.com/news/articles/crm1w24p8p7o?at_medium=RSS&at_campaign=rss",
-      "summary": "It comes during the Nigerian president's state visit to the UK - the first by a west African leader in 37 years.",
-      "published_at": "2026-03-19T18:02:01Z",
-      "country_code": "GB",
-      "country_name": "United Kingdom"
-    },
-    {
       "source": "BBC US & Canada",
       "title": "Trump compares attack on Iran to Pearl Harbor in meeting with Japanese PM",
       "url": "https://www.bbc.com/news/videos/cx248jvgwj8o?at_medium=RSS&at_campaign=rss",
@@ -441,24 +432,6 @@
       "published_at": "2026-03-19T13:15:23Z",
       "country_code": "GB",
       "country_name": "United Kingdom"
-    },
-    {
-      "source": "BBC Asia",
-      "title": "Afghan evacuees in limbo in Qatar camp accuse US of betrayal",
-      "url": "https://www.bbc.com/news/articles/c2lrke1wjdyo?at_medium=RSS&at_campaign=rss",
-      "summary": "More than 1,100 Afghans evacuated by the US fear their route to promised resettlement is closed for good.",
-      "published_at": "2026-03-19T00:42:16Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC Asia",
-      "title": "India's young are more educated than ever. So why are so many jobless?",
-      "url": "https://www.bbc.com/news/articles/c17841zez8wo?at_medium=RSS&at_campaign=rss",
-      "summary": "India’s educational enrolment has surged but jobs, especially good ones, are not keeping pace, a new report finds.",
-      "published_at": "2026-03-19T00:02:04Z",
-      "country_code": "IN",
-      "country_name": "India"
     },
     {
       "source": "BBC Asia",
@@ -740,15 +713,6 @@
       "country_name": "South Africa"
     },
     {
-      "source": "BBC Africa",
-      "title": "Kiplimo regains world half-marathon record in Lisbon",
-      "url": "https://www.bbc.com/sport/athletics/articles/c7vj9g4mp55o?at_medium=RSS&at_campaign=rss",
-      "summary": "Uganda's Jacob Kiplimo regains the world half-marathon record as he claimed victory in Lisbon on Sunday.",
-      "published_at": "2026-03-08T19:49:46Z",
-      "country_code": "PT",
-      "country_name": "Portugal"
-    },
-    {
       "source": "BBC Latin America",
       "title": "China spent years building ties in Latin America. Can Trump make room for the US?",
       "url": "https://www.bbc.com/news/articles/c5yvw0zwpd5o?at_medium=RSS&at_campaign=rss",
@@ -837,13 +801,22 @@
       "published_at": "2026-02-05T17:15:30Z",
       "country_code": "NG",
       "country_name": "Nigeria"
+    },
+    {
+      "source": "BBC Africa",
+      "title": "South African national park closed due to floods",
+      "url": "https://www.bbc.com/news/videos/c20d9qdz7zwo?at_medium=RSS&at_campaign=rss",
+      "summary": "Ongoing floods in the north-eastern provinces of South Africa has led to the closure of the world-famous Kruger National Park.",
+      "published_at": "2026-01-16T16:52:14Z",
+      "country_code": "ZA",
+      "country_name": "South Africa"
     }
   ],
   "regions": [
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 34
+      "news_count": 33
     },
     {
       "country_code": "IR",
@@ -861,8 +834,8 @@
       "news_count": 4
     },
     {
-      "country_code": "GB",
-      "country_name": "United Kingdom",
+      "country_code": "AU",
+      "country_name": "Australia",
       "news_count": 3
     },
     {
@@ -876,18 +849,8 @@
       "news_count": 3
     },
     {
-      "country_code": "AU",
-      "country_name": "Australia",
-      "news_count": 2
-    },
-    {
-      "country_code": "CA",
-      "country_name": "Canada",
-      "news_count": 2
-    },
-    {
-      "country_code": "IN",
-      "country_name": "India",
+      "country_code": "GB",
+      "country_name": "United Kingdom",
       "news_count": 2
     },
     {
@@ -911,8 +874,18 @@
       "news_count": 2
     },
     {
+      "country_code": "ZA",
+      "country_name": "South Africa",
+      "news_count": 2
+    },
+    {
       "country_code": "AE",
       "country_name": "United Arab Emirates",
+      "news_count": 1
+    },
+    {
+      "country_code": "CA",
+      "country_name": "Canada",
       "news_count": 1
     },
     {
@@ -941,6 +914,11 @@
       "news_count": 1
     },
     {
+      "country_code": "IN",
+      "country_name": "India",
+      "news_count": 1
+    },
+    {
       "country_code": "KE",
       "country_name": "Kenya",
       "news_count": 1
@@ -961,18 +939,8 @@
       "news_count": 1
     },
     {
-      "country_code": "PT",
-      "country_name": "Portugal",
-      "news_count": 1
-    },
-    {
       "country_code": "UA",
       "country_name": "Ukraine",
-      "news_count": 1
-    },
-    {
-      "country_code": "ZA",
-      "country_name": "South Africa",
       "news_count": 1
     }
   ]
