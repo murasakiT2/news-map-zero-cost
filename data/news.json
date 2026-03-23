@@ -1,17 +1,26 @@
 {
-  "generated_at": "2026-03-23T14:07:45Z",
+  "generated_at": "2026-03-23T15:32:42Z",
   "articles": [
+    {
+      "source": "BBC Africa",
+      "title": "Ex-teacher accused of Scotland school abuse found guilty of sex attack in South Africa",
+      "url": "https://www.bbc.com/news/articles/c98kdp0z9gyo?at_medium=RSS&at_campaign=rss",
+      "summary": "A court in Cape Town found Iain Wares guilty of indecently assaulting a former student who accused him of sexual abuse in the 1980s.",
+      "published_at": "2026-03-23T14:50:10Z",
+      "country_code": "ZA",
+      "country_name": "South Africa"
+    },
     {
       "source": "BBC World",
       "title": "Oil falls and shares rebound after Trump says talks have been held to end war",
       "url": "https://www.bbc.com/news/articles/czex56kwxxzo?at_medium=RSS&at_campaign=rss",
       "summary": "Energy prices fall and stock markets rebound after the US president says \"very good and productive\" talks have been held.",
-      "published_at": "2026-03-23T13:15:42Z",
+      "published_at": "2026-03-23T14:19:58Z",
       "country_code": "US",
       "country_name": "United States"
     },
     {
-      "source": "BBC Europe",
+      "source": "BBC World",
       "title": "France's former Socialist Prime Minister Lionel Jospin dies at 88",
       "url": "https://www.bbc.com/news/articles/cp861v8mj8mo?at_medium=RSS&at_campaign=rss",
       "summary": "Jospin was head of government from 1997 to 2002 and is credited with bringing in the 35-hour working week.",
@@ -101,7 +110,7 @@
       "country_name": "Israel"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "Russian attacks kill six in Ukraine, officials say",
       "url": "https://www.bbc.com/news/articles/crl18nwjzzzo?at_medium=RSS&at_campaign=rss",
       "summary": "The deaths were reported in four south-eastern Ukrainian regions in the past 24 hours.",
@@ -137,7 +146,7 @@
       "country_name": "Israel"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Africa",
       "title": "Sudan drone attack on key hospital killed 64 people during Eid, WHO says",
       "url": "https://www.bbc.com/news/articles/cr715xynkvvo?at_medium=RSS&at_campaign=rss",
       "summary": "The strike killed 64 people, including 13 children, two nurses and a doctor, according to the WHO head.",
@@ -146,7 +155,7 @@
       "country_name": "Sudan"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "Robert Mueller, ex-FBI chief who led Trump-Russia investigation, dies at 81",
       "url": "https://www.bbc.com/news/articles/c8dlj6gv0q6o?at_medium=RSS&at_campaign=rss",
       "summary": "A former FBI director, Mueller led the high-profile inquiry into alleged Russian interference in the 2016 US election",
@@ -155,7 +164,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "Trump at a crossroads as US weighs tough options in Iran",
       "url": "https://www.bbc.com/news/articles/clyxv87zwwpo?at_medium=RSS&at_campaign=rss",
       "summary": "Statements from President Trump that the war is almost over are not matching up with the reality on the ground.",
@@ -822,6 +831,11 @@
       "news_count": 3
     },
     {
+      "country_code": "ZA",
+      "country_name": "South Africa",
+      "news_count": 3
+    },
+    {
       "country_code": "FR",
       "country_name": "France",
       "news_count": 2
@@ -844,11 +858,6 @@
     {
       "country_code": "SD",
       "country_name": "Sudan",
-      "news_count": 2
-    },
-    {
-      "country_code": "ZA",
-      "country_name": "South Africa",
       "news_count": 2
     },
     {
