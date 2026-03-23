@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-03-23T10:43:08Z",
+  "generated_at": "2026-03-23T11:37:02Z",
   "articles": [
+    {
+      "source": "BBC Europe",
+      "title": "France's former Socialist Prime Minister Lionel Jospin dies at 88",
+      "url": "https://www.bbc.com/news/articles/cp861v8mj8mo?at_medium=RSS&at_campaign=rss",
+      "summary": "Jospin was head of government from 1997 to 2002 and is credited with bringing in the 35-hour working week.",
+      "published_at": "2026-03-23T11:29:26Z",
+      "country_code": "FR",
+      "country_name": "France"
+    },
     {
       "source": "BBC World",
       "title": "Stocks slide and oil rises as US and Iran threaten to escalate war",
@@ -858,6 +867,11 @@
       "news_count": 3
     },
     {
+      "country_code": "FR",
+      "country_name": "France",
+      "news_count": 2
+    },
+    {
       "country_code": "GB",
       "country_name": "United Kingdom",
       "news_count": 2
@@ -915,11 +929,6 @@
     {
       "country_code": "ET",
       "country_name": "Ethiopia",
-      "news_count": 1
-    },
-    {
-      "country_code": "FR",
-      "country_name": "France",
       "news_count": 1
     },
     {
