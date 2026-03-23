@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-03-23T21:53:30Z",
+  "generated_at": "2026-03-23T22:21:37Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Colombian military plane with 125 people crashes",
+      "url": "https://www.bbc.com/news/articles/c8dlmrjn1l2o?at_medium=RSS&at_campaign=rss",
+      "summary": "Colombia's defence minister says it was a \"tragic accident\" but the cause is not yet clear.",
+      "published_at": "2026-03-23T21:54:15Z",
+      "country_code": "CO",
+      "country_name": "Colombia"
+    },
     {
       "source": "BBC World",
       "title": "ICE agents deploy to major US airports as security queues stretch for hours",
@@ -41,19 +50,10 @@
       "source": "BBC US & Canada",
       "title": "Isolation or neutrality: The impact of Quebec's secular law",
       "url": "https://www.bbc.com/news/videos/clyrjdm767no?at_medium=RSS&at_campaign=rss",
-      "summary": "As Quebec's secularism law, Bill 21, faces a challenge at the Supreme Court of Canada, some Muslim women in Quebec say they’ve paid the high…",
+      "summary": "As the province's secularism law, Bill 21, faces a challenge at the Supreme Court of Canada, some Muslim women say they’ve paid the highest …",
       "published_at": "2026-03-23T19:55:27Z",
       "country_code": "CA",
       "country_name": "Canada"
-    },
-    {
-      "source": "BBC World",
-      "title": "Colombian Air Force plane crashes with dozens on board",
-      "url": "https://www.bbc.com/news/articles/c8dlmrjn1l2o?at_medium=RSS&at_campaign=rss",
-      "summary": "Colombia's defence minister says it was a \"tragic accident\" but the cause is not yet clear.",
-      "published_at": "2026-03-23T19:04:15Z",
-      "country_code": "CO",
-      "country_name": "Colombia"
     },
     {
       "source": "BBC World",
@@ -281,15 +281,6 @@
       "country_name": "Canada"
     },
     {
-      "source": "BBC World",
-      "title": "Italy is voting on whether to change its constitution. What does this mean for Meloni?",
-      "url": "https://www.bbc.com/news/articles/cm29n1lvp64o?at_medium=RSS&at_campaign=rss",
-      "summary": "The dry subject matter of this weekend's vote seems obscure but for many it is a vote on the PM.",
-      "published_at": "2026-03-22T00:10:15Z",
-      "country_code": "IT",
-      "country_name": "Italy"
-    },
-    {
       "source": "BBC Asia",
       "title": "Pop megastars BTS electrify historic centre of Seoul with comeback concert",
       "url": "https://www.bbc.com/news/articles/cj371jr203ko?at_medium=RSS&at_campaign=rss",
@@ -493,15 +484,6 @@
       "url": "https://www.bbc.com/news/videos/cx248jvgwj8o?at_medium=RSS&at_campaign=rss",
       "summary": "In a meeting with Japanese Prime Minister, US President Donald Trump was asked why he didn't inform allies about his plan to attack Iran.",
       "published_at": "2026-03-19T17:50:38Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "California leaders react to Cesar Chavez abuse allegations",
-      "url": "https://www.bbc.com/news/videos/c8dlpm33jg9o?at_medium=RSS&at_campaign=rss",
-      "summary": "The US civil rights leader has been accused of sexual abuse prompting Los Angeles and other communities to consider renaming places, schools…",
-      "published_at": "2026-03-19T15:14:03Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -834,7 +816,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 35
+      "news_count": 34
     },
     {
       "country_code": "IR",
@@ -844,11 +826,6 @@
     {
       "country_code": "IL",
       "country_name": "Israel",
-      "news_count": 4
-    },
-    {
-      "country_code": "IT",
-      "country_name": "Italy",
       "news_count": 4
     },
     {
@@ -874,6 +851,11 @@
     {
       "country_code": "FR",
       "country_name": "France",
+      "news_count": 3
+    },
+    {
+      "country_code": "IT",
+      "country_name": "Italy",
       "news_count": 3
     },
     {
