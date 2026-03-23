@@ -1,6 +1,33 @@
 {
-  "generated_at": "2026-03-23T18:39:17Z",
+  "generated_at": "2026-03-23T19:40:46Z",
   "articles": [
+    {
+      "source": "BBC US & Canada",
+      "title": "ICE agents deploy to major US airports as security queues stretch for hours",
+      "url": "https://www.bbc.com/news/articles/cx298j7xg0yo?at_medium=RSS&at_campaign=rss",
+      "summary": "Hundreds of ICE agents have been deployed to 14 airports, in cities including New York, Atlanta and Houston.",
+      "published_at": "2026-03-23T19:29:12Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "'Like the plane got cut in half': Eyewitnesses describe chaos of LaGuardia crash",
+      "url": "https://www.bbc.com/news/articles/c78rdze8zvjo?at_medium=RSS&at_campaign=rss",
+      "summary": "Eyewitnesses have described the moment Air Canada flight AC8646 crashed into a fire truck on the runway of New York's LaGuardia airport.",
+      "published_at": "2026-03-23T19:28:28Z",
+      "country_code": "CA",
+      "country_name": "Canada"
+    },
+    {
+      "source": "BBC World",
+      "title": "Colombian Air Force plane crashes with 125 people on board",
+      "url": "https://www.bbc.com/news/articles/c8dlmrjn1l2o?at_medium=RSS&at_campaign=rss",
+      "summary": "Colombia's defence minister says it was a \"tragic accident\" but the cause is not yet clear.",
+      "published_at": "2026-03-23T19:04:15Z",
+      "country_code": "CO",
+      "country_name": "Colombia"
+    },
     {
       "source": "BBC World",
       "title": "A pharmacist and a homesick lifestyle blogger: The 'alarming' civilian cost of war in Iran",
@@ -20,31 +47,13 @@
       "country_name": "Iran"
     },
     {
-      "source": "BBC Latin America",
-      "title": "Colombian Air Force plane crashes with scores of soldiers on board",
-      "url": "https://www.bbc.com/news/articles/c8dlmrjn1l2o?at_medium=RSS&at_campaign=rss",
-      "summary": "Colombia's defence minister says it was a 'tragic accident' but the cause is not yet clear.",
-      "published_at": "2026-03-23T17:53:48Z",
-      "country_code": "CO",
-      "country_name": "Colombia"
-    },
-    {
       "source": "BBC World",
-      "title": "Watch: Inside the Palestinian home attacked by settlers",
+      "title": "Watch: Inside a Palestinian home attacked by settlers",
       "url": "https://www.bbc.com/news/videos/cd9vnznv075o?at_medium=RSS&at_campaign=rss",
       "summary": "Violence began after a teenage settler was killed, reportedly after being hit by a vehicle driven by a Palestinian.",
       "published_at": "2026-03-23T17:53:17Z",
       "country_code": "PS",
       "country_name": "Palestine"
-    },
-    {
-      "source": "BBC World",
-      "title": "'Like the plane got cut in half': Eyewitnesses describe chaos of LaGuardia crash",
-      "url": "https://www.bbc.com/news/articles/c78rdze8zvjo?at_medium=RSS&at_campaign=rss",
-      "summary": "Eyewitnesses have described the moment Air Canada flight AC8646 crashed into a fire truck on the runway of New York's LaGuardia airport.",
-      "published_at": "2026-03-23T17:31:32Z",
-      "country_code": "CA",
-      "country_name": "Canada"
     },
     {
       "source": "BBC Middle East",
@@ -798,7 +807,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 33
+      "news_count": 34
     },
     {
       "country_code": "IR",
