@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-03-23T21:02:01Z",
+  "generated_at": "2026-03-23T21:53:30Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "ICE agents deploy to major US airports as security queues stretch for hours",
+      "url": "https://www.bbc.com/news/articles/cx298j7xg0yo?at_medium=RSS&at_campaign=rss",
+      "summary": "Hundreds of ICE agents have been deployed to 14 airports, in cities including New York, Atlanta and Houston.",
+      "published_at": "2026-03-23T21:22:18Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "'Like the plane got cut in half': LaGuardia crash that killed two pilots now under investigation",
+      "url": "https://www.bbc.com/news/articles/c78rdze8zvjo?at_medium=RSS&at_campaign=rss",
+      "summary": "In the aftermath of the collision of Air Canada flight AC8646 with a fire truck in New York, US transportation chief Sean Duffy emphasized t…",
+      "published_at": "2026-03-23T21:13:47Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "Referendum defeat leaves Italy's Meloni looking more vulnerable",
@@ -21,25 +39,16 @@
     },
     {
       "source": "BBC US & Canada",
-      "title": "ICE agents deploy to major US airports as security queues stretch for hours",
-      "url": "https://www.bbc.com/news/articles/cx298j7xg0yo?at_medium=RSS&at_campaign=rss",
-      "summary": "Hundreds of ICE agents have been deployed to 14 airports, in cities including New York, Atlanta and Houston.",
-      "published_at": "2026-03-23T19:29:12Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "'Like the plane got cut in half': Eyewitnesses describe chaos of LaGuardia crash",
-      "url": "https://www.bbc.com/news/articles/c78rdze8zvjo?at_medium=RSS&at_campaign=rss",
-      "summary": "Eyewitnesses have described the moment Air Canada flight AC8646 crashed into a fire truck on the runway of New York's LaGuardia airport.",
-      "published_at": "2026-03-23T19:28:28Z",
+      "title": "Isolation or neutrality: The impact of Quebec's secular law",
+      "url": "https://www.bbc.com/news/videos/clyrjdm767no?at_medium=RSS&at_campaign=rss",
+      "summary": "As Quebec's secularism law, Bill 21, faces a challenge at the Supreme Court of Canada, some Muslim women in Quebec say they’ve paid the high…",
+      "published_at": "2026-03-23T19:55:27Z",
       "country_code": "CA",
       "country_name": "Canada"
     },
     {
       "source": "BBC World",
-      "title": "Colombian Air Force plane crashes with 125 people on board",
+      "title": "Colombian Air Force plane crashes with dozens on board",
       "url": "https://www.bbc.com/news/articles/c8dlmrjn1l2o?at_medium=RSS&at_campaign=rss",
       "summary": "Colombia's defence minister says it was a \"tragic accident\" but the cause is not yet clear.",
       "published_at": "2026-03-23T19:04:15Z",
@@ -65,7 +74,7 @@
       "country_name": "Iran"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Middle East",
       "title": "Watch: Inside a Palestinian home attacked by settlers",
       "url": "https://www.bbc.com/news/videos/cd9vnznv075o?at_medium=RSS&at_campaign=rss",
       "summary": "Violence began after a teenage settler was killed, reportedly after being hit by a vehicle driven by a Palestinian.",
@@ -90,6 +99,15 @@
       "published_at": "2026-03-23T16:48:13Z",
       "country_code": "ZA",
       "country_name": "South Africa"
+    },
+    {
+      "source": "BBC World",
+      "title": "Could Iranian missiles reach London and Paris?",
+      "url": "https://www.bbc.com/news/articles/cly73y5e788o?at_medium=RSS&at_campaign=rss",
+      "summary": "Some experts say Iran may be able to launch missiles to hit London, but they would likely be shot down long before arriving and the risk is …",
+      "published_at": "2026-03-23T16:45:52Z",
+      "country_code": "FR",
+      "country_name": "France"
     },
     {
       "source": "BBC Africa",
@@ -171,15 +189,6 @@
       "published_at": "2026-03-22T22:38:24Z",
       "country_code": "PS",
       "country_name": "Palestine"
-    },
-    {
-      "source": "BBC World",
-      "title": "Why is Israel targeting Lebanon's bridges?",
-      "url": "https://www.bbc.com/news/videos/c2087lr223lo?at_medium=RSS&at_campaign=rss",
-      "summary": "Israeli forces have been instructed to destroy the crossings over the Litani river that were being used by Hezbollah to send reinforcements.",
-      "published_at": "2026-03-22T21:46:30Z",
-      "country_code": "IL",
-      "country_name": "Israel"
     },
     {
       "source": "BBC World",
@@ -825,7 +834,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 34
+      "news_count": 35
     },
     {
       "country_code": "IR",
@@ -835,7 +844,7 @@
     {
       "country_code": "IL",
       "country_name": "Israel",
-      "news_count": 5
+      "news_count": 4
     },
     {
       "country_code": "IT",
@@ -865,7 +874,7 @@
     {
       "country_code": "FR",
       "country_name": "France",
-      "news_count": 2
+      "news_count": 3
     },
     {
       "country_code": "GB",
