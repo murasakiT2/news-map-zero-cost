@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-03-23T05:51:53Z",
+  "generated_at": "2026-03-23T06:57:51Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "The cutthroat battle for the US weight-loss drug market",
+      "url": "https://www.bbc.com/news/articles/c5yg6kyd9dzo?at_medium=RSS&at_campaign=rss",
+      "summary": "Weight-loss drug prices are falling in the US - but can the example be repeated?",
+      "published_at": "2026-03-23T06:03:48Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "Asia stocks slide as US and Iran threaten to escalate war",
@@ -21,7 +30,7 @@
     },
     {
       "source": "BBC World",
-      "title": "France's Socialists hold onto power in major cities in election boost for mainstream",
+      "title": "France's Socialists hold on to power in major cities in election boost for mainstream",
       "url": "https://www.bbc.com/news/articles/crk14m7mjddo?at_medium=RSS&at_campaign=rss",
       "summary": "Paris and Marseille are held by the Socialists in local elections which saw the nationalist right win in Nice and certain towns.",
       "published_at": "2026-03-22T23:27:59Z",
@@ -524,29 +533,11 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Asia",
-      "title": "India's cheap weight-loss drugs could reshape global obesity fight",
-      "url": "https://www.bbc.com/news/articles/cx2g4411en3o?at_medium=RSS&at_campaign=rss",
-      "summary": "With India’s semaglutide patent expiring on 20 March, about 50 branded generics are expected to enter the market.",
-      "published_at": "2026-03-18T00:30:49Z",
-      "country_code": "IN",
-      "country_name": "India"
-    },
-    {
       "source": "BBC Europe",
       "title": "Watch: Sean Penn receives 'Oscar' in Ukraine after skipping US ceremony",
       "url": "https://www.bbc.com/news/videos/cgmlmv7vl0go?at_medium=RSS&at_campaign=rss",
       "summary": "The Academy Award winning US actor won his third Oscar on Sunday, but skipped the ceremony to visit Ukraine.",
       "published_at": "2026-03-17T21:04:26Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC Asia",
-      "title": "What have US allies and China said about sending ships to the Strait of Hormuz?",
-      "url": "https://www.bbc.com/news/articles/crm8g938erdo?at_medium=RSS&at_campaign=rss",
-      "summary": "US allies have either pushed back or remained cautious on Trump's initial request to send ships to the crucial oil route.",
-      "published_at": "2026-03-17T16:35:29Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -576,15 +567,6 @@
       "published_at": "2026-03-17T06:00:36Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC Asia",
-      "title": "India's outsourcing industry is worth $300bn. Can it survive AI?",
-      "url": "https://www.bbc.com/news/articles/c5yrq1090p8o?at_medium=RSS&at_campaign=rss",
-      "summary": "Indian IT stocks have plunged as fears grow of AI disrupting back offices. But some say these are overblown.",
-      "published_at": "2026-03-17T01:12:50Z",
-      "country_code": "IN",
-      "country_name": "India"
     },
     {
       "source": "BBC US & Canada",
@@ -865,11 +847,6 @@
       "news_count": 9
     },
     {
-      "country_code": "IN",
-      "country_name": "India",
-      "news_count": 4
-    },
-    {
       "country_code": "RU",
       "country_name": "Russia",
       "news_count": 4
@@ -892,6 +869,11 @@
     {
       "country_code": "AU",
       "country_name": "Australia",
+      "news_count": 2
+    },
+    {
+      "country_code": "IN",
+      "country_name": "India",
       "news_count": 2
     },
     {
