@@ -1,21 +1,30 @@
 {
-  "generated_at": "2026-03-23T06:57:51Z",
+  "generated_at": "2026-03-23T08:00:56Z",
   "articles": [
     {
       "source": "BBC World",
-      "title": "The cutthroat battle for the US weight-loss drug market",
-      "url": "https://www.bbc.com/news/articles/c5yg6kyd9dzo?at_medium=RSS&at_campaign=rss",
-      "summary": "Weight-loss drug prices are falling in the US - but can the example be repeated?",
-      "published_at": "2026-03-23T06:03:48Z",
-      "country_code": "US",
-      "country_name": "United States"
+      "title": "Plane and ground vehicle collide at New York's LaGuardia Airport halting flights",
+      "url": "https://www.bbc.com/news/articles/cy01g522ww4o?at_medium=RSS&at_campaign=rss",
+      "summary": "An Air Canada Express plane suffered significant damage after the collision.",
+      "published_at": "2026-03-23T07:53:53Z",
+      "country_code": "CA",
+      "country_name": "Canada"
     },
     {
       "source": "BBC World",
       "title": "Asia stocks slide as US and Iran threaten to escalate war",
       "url": "https://www.bbc.com/news/articles/czex56kwxxzo?at_medium=RSS&at_campaign=rss",
       "summary": "The International Energy Agency chief said the war could lead to the world's worst energy crisis in decades.",
-      "published_at": "2026-03-23T05:12:14Z",
+      "published_at": "2026-03-23T07:29:09Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "The cutthroat battle for the US weight-loss drug market",
+      "url": "https://www.bbc.com/news/articles/c5yg6kyd9dzo?at_medium=RSS&at_campaign=rss",
+      "summary": "Weight-loss drug prices are falling in the US - but can the example be repeated?",
+      "published_at": "2026-03-23T06:03:48Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -872,6 +881,11 @@
       "news_count": 2
     },
     {
+      "country_code": "CA",
+      "country_name": "Canada",
+      "news_count": 2
+    },
+    {
       "country_code": "IN",
       "country_name": "India",
       "news_count": 2
@@ -899,11 +913,6 @@
     {
       "country_code": "AE",
       "country_name": "United Arab Emirates",
-      "news_count": 1
-    },
-    {
-      "country_code": "CA",
-      "country_name": "Canada",
       "news_count": 1
     },
     {
