@@ -1,8 +1,17 @@
 {
-  "generated_at": "2026-03-23T09:33:46Z",
+  "generated_at": "2026-03-23T10:43:08Z",
   "articles": [
     {
-      "source": "BBC Asia",
+      "source": "BBC World",
+      "title": "Stocks slide and oil rises as US and Iran threaten to escalate war",
+      "url": "https://www.bbc.com/news/articles/czex56kwxxzo?at_medium=RSS&at_campaign=rss",
+      "summary": "The International Energy Agency chief says the war could lead to the world's worst energy crisis in decades.",
+      "published_at": "2026-03-23T10:02:15Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
       "title": "Australia's ABC staff to go on strike for first time in 20 years",
       "url": "https://www.bbc.com/news/articles/c248597nqn8o?at_medium=RSS&at_campaign=rss",
       "summary": "The 24-hour long strike is expected to disrupt live television and radio broadcasts.",
@@ -12,16 +21,7 @@
     },
     {
       "source": "BBC World",
-      "title": "Asia stocks slide as US and Iran threaten to escalate war",
-      "url": "https://www.bbc.com/news/articles/czex56kwxxzo?at_medium=RSS&at_campaign=rss",
-      "summary": "The International Energy Agency chief said the war could lead to the world's worst energy crisis in decades.",
-      "published_at": "2026-03-23T08:11:01Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "The cutthroat battle for the US weight-loss drug market",
+      "title": "US weight loss drugmakers slash prices in fight to win customers",
       "url": "https://www.bbc.com/news/articles/c5yg6kyd9dzo?at_medium=RSS&at_campaign=rss",
       "summary": "Weight-loss drug prices are falling in the US - but can the example be repeated?",
       "published_at": "2026-03-23T06:03:48Z",
@@ -290,7 +290,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC US & Canada",
+      "source": "BBC Latin America",
       "title": "Mexican teen dies while being held in US immigration custody",
       "url": "https://www.bbc.com/news/articles/cp84n0kn902o?at_medium=RSS&at_campaign=rss",
       "summary": "Royer Perez-Jimenez died amid a surge of migrant deaths under Donald Trump's immigration crackdown.",
@@ -344,7 +344,7 @@
       "country_name": "Iran"
     },
     {
-      "source": "BBC US & Canada",
+      "source": "BBC Middle East",
       "title": "Are US and Israel aligned on Iran war? Deciphering Trump's post after gas field attacks",
       "url": "https://www.bbc.com/news/articles/c8x7leknlywo?at_medium=RSS&at_campaign=rss",
       "summary": "What does Trump's Truth Social post after gas field attacks tell us about US-Israeli alignment?",
@@ -605,6 +605,15 @@
       "country_name": "Mexico"
     },
     {
+      "source": "BBC US & Canada",
+      "title": "Bespoke women's football stadiums? Why US sides are making the move",
+      "url": "https://www.bbc.com/sport/football/articles/cp85jp6megro?at_medium=RSS&at_campaign=rss",
+      "summary": "BBC Sport visits Kansas City Current and Denver Summit to learn why these US franchises are the first to build venues specifically for women…",
+      "published_at": "2026-03-15T07:35:59Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
       "source": "BBC Africa",
       "title": "Will Trump help or hinder Zimbabwe's white farmers in their compensation battle?",
       "url": "https://www.bbc.com/news/articles/c8jxd91y2ylo?at_medium=RSS&at_campaign=rss",
@@ -816,7 +825,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 33
+      "news_count": 34
     },
     {
       "country_code": "IR",
