@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-23T20:28:43Z",
+  "generated_at": "2026-03-23T21:02:01Z",
   "articles": [
     {
-      "source": "BBC Europe",
+      "source": "BBC World",
       "title": "Referendum defeat leaves Italy's Meloni looking more vulnerable",
       "url": "https://www.bbc.com/news/articles/crl1ne8dj1eo?at_medium=RSS&at_campaign=rss",
       "summary": "Meloni vowed to press on after losing a vote on constitutional reform many turned into a referendum on her government.",
@@ -227,7 +227,7 @@
       "country_name": "Israel"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Middle East",
       "title": "'A direct hit' - BBC visits Israeli town after Iranian strike",
       "url": "https://www.bbc.com/news/videos/c3v6k0l631vo?at_medium=RSS&at_campaign=rss",
       "summary": "The BBC's Sebastian Usher reports from Dimona in southern Israel, which was hit by an Iranian missile.",
@@ -414,6 +414,15 @@
       "published_at": "2026-03-20T02:54:21Z",
       "country_code": "AU",
       "country_name": "Australia"
+    },
+    {
+      "source": "BBC Asia",
+      "title": "Gas shortage caused by Iran war may push India back to dirtier fuels",
+      "url": "https://www.bbc.com/news/articles/c1d6vyy9v61o?at_medium=RSS&at_campaign=rss",
+      "summary": "Reports from across India point to rising sales of biomass fuels like firewood and cow dung cakes.",
+      "published_at": "2026-03-20T00:59:29Z",
+      "country_code": "IN",
+      "country_name": "India"
     },
     {
       "source": "BBC Latin America",
@@ -864,6 +873,11 @@
       "news_count": 2
     },
     {
+      "country_code": "IN",
+      "country_name": "India",
+      "news_count": 2
+    },
+    {
       "country_code": "KR",
       "country_name": "South Korea",
       "news_count": 2
@@ -906,11 +920,6 @@
     {
       "country_code": "ET",
       "country_name": "Ethiopia",
-      "news_count": 1
-    },
-    {
-      "country_code": "IN",
-      "country_name": "India",
       "news_count": 1
     },
     {
