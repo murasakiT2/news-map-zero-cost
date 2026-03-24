@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-24T06:36:20Z",
+  "generated_at": "2026-03-24T07:47:36Z",
   "articles": [
     {
-      "source": "BBC Asia",
+      "source": "BBC World",
       "title": "China dials back on fuel price hikes to 'reduce burden' on drivers",
       "url": "https://www.bbc.com/news/articles/cwyvxejqyx4o?at_medium=RSS&at_campaign=rss",
       "summary": "It comes as countries across the region are taking various measures to weather the soaring cost of fuel.",
@@ -146,15 +146,6 @@
       "country_name": "South Africa"
     },
     {
-      "source": "BBC World",
-      "title": "Could Iranian missiles reach London and Paris?",
-      "url": "https://www.bbc.com/news/articles/cly73y5e788o?at_medium=RSS&at_campaign=rss",
-      "summary": "Some experts say Iran may be able to launch missiles to hit London, but they would likely be shot down long before arriving and the risk is …",
-      "published_at": "2026-03-23T16:45:52Z",
-      "country_code": "FR",
-      "country_name": "France"
-    },
-    {
       "source": "BBC Africa",
       "title": "Nigerian heritage key to my success - Itauma",
       "url": "https://www.bbc.com/sport/boxing/articles/clydn1elxw0o?at_medium=RSS&at_campaign=rss",
@@ -198,15 +189,6 @@
       "published_at": "2026-03-23T09:16:35Z",
       "country_code": "AU",
       "country_name": "Australia"
-    },
-    {
-      "source": "BBC World",
-      "title": "US weight-loss drugmakers slash prices in fight to win customers",
-      "url": "https://www.bbc.com/news/articles/c5yg6kyd9dzo?at_medium=RSS&at_campaign=rss",
-      "summary": "Weight-loss drug prices are falling in the US - but can the example be repeated?",
-      "published_at": "2026-03-23T06:03:48Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC Asia",
@@ -272,7 +254,7 @@
       "country_name": "Russia"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Middle East",
       "title": "Iranian missiles injure 180 in towns near Israeli nuclear site",
       "url": "https://www.bbc.com/news/articles/c9qdvnv13qdo?at_medium=RSS&at_campaign=rss",
       "summary": "Israel is investigating how ballistic missiles got through the country's sophisticated air defences.",
@@ -479,15 +461,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Europe",
-      "title": "Denmark planned to blow up Greenland runways if US invaded, reports say",
-      "url": "https://www.bbc.com/news/articles/c33ln4mp1p2o?at_medium=RSS&at_campaign=rss",
-      "summary": "Denmark's public broadcaster reports that the US operation to seize Venezuela's leader sparked fears it would act against Greenland.",
-      "published_at": "2026-03-19T21:52:36Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC US & Canada",
       "title": "Ros Atkins on... Trump's mixed messages on the war",
       "url": "https://www.bbc.com/news/videos/c747lk0geldo?at_medium=RSS&at_campaign=rss",
@@ -515,24 +488,6 @@
       "country_name": "Spain"
     },
     {
-      "source": "BBC Europe",
-      "title": "Cyprus leader calls for frank discussion on 'colonial' UK bases",
-      "url": "https://www.bbc.com/news/articles/cy7166denxeo?at_medium=RSS&at_campaign=rss",
-      "summary": "The UK's two military bases on Cyprus are a \"colonial consequence\" on the island, says President Nikos Christodoulides.",
-      "published_at": "2026-03-19T13:15:23Z",
-      "country_code": "GB",
-      "country_name": "United Kingdom"
-    },
-    {
-      "source": "BBC Europe",
-      "title": "Russian archaeologist can be sent to Ukraine for trial, Polish judge rules",
-      "url": "https://www.bbc.com/news/articles/c86y65j26xno?at_medium=RSS&at_campaign=rss",
-      "summary": "Archaeologist Alexander Butyagin is accused of conducting illegal excavations in Crimea - Ukraine's peninsula annexed by Russia.",
-      "published_at": "2026-03-18T16:39:00Z",
-      "country_code": "RU",
-      "country_name": "Russia"
-    },
-    {
       "source": "BBC Africa",
       "title": "Celebrations in Morocco but devastation in Senegal after Afcon decision",
       "url": "https://www.bbc.com/news/articles/crm8mem74mko?at_medium=RSS&at_campaign=rss",
@@ -547,15 +502,6 @@
       "url": "https://www.bbc.com/news/videos/c3wlw788glvo?at_medium=RSS&at_campaign=rss",
       "summary": "Venezuela won its first-ever World Baseball Classic title, defeating the United States 3–2 in the championship game.",
       "published_at": "2026-03-18T14:40:06Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC Europe",
-      "title": "Ukraine faces missile shortage due to Middle East war, says Zelensky",
-      "url": "https://www.bbc.com/news/articles/cp8r813x66jo?at_medium=RSS&at_campaign=rss",
-      "summary": "In an exclusive interview with the BBC, the Ukrainian president says Putin wants a \"long war\" between the US and Iran.",
-      "published_at": "2026-03-18T07:56:49Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -605,7 +551,7 @@
       "country_name": "Nigeria"
     },
     {
-      "source": "BBC Europe",
+      "source": "BBC Middle East",
       "title": "Wary allies show there's no quick fix to Trump's Iran crisis",
       "url": "https://www.bbc.com/news/articles/c8r17plnvy3o?at_medium=RSS&at_campaign=rss",
       "summary": "European leaders are hesitant to help Trump secure the Strait of Hormuz, but they know inaction on the Iran war is not really an option.",
@@ -825,17 +771,12 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 36
+      "news_count": 33
     },
     {
       "country_code": "IR",
       "country_name": "Iran",
       "news_count": 10
-    },
-    {
-      "country_code": "GB",
-      "country_name": "United Kingdom",
-      "news_count": 4
     },
     {
       "country_code": "IL",
@@ -848,18 +789,13 @@
       "news_count": 4
     },
     {
-      "country_code": "RU",
-      "country_name": "Russia",
-      "news_count": 4
-    },
-    {
       "country_code": "CA",
       "country_name": "Canada",
       "news_count": 3
     },
     {
-      "country_code": "FR",
-      "country_name": "France",
+      "country_code": "GB",
+      "country_name": "United Kingdom",
       "news_count": 3
     },
     {
@@ -868,8 +804,18 @@
       "news_count": 3
     },
     {
+      "country_code": "RU",
+      "country_name": "Russia",
+      "news_count": 3
+    },
+    {
       "country_code": "AU",
       "country_name": "Australia",
+      "news_count": 2
+    },
+    {
+      "country_code": "FR",
+      "country_name": "France",
       "news_count": 2
     },
     {
