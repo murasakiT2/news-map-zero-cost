@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-03-24T14:13:30Z",
+  "generated_at": "2026-03-24T15:38:24Z",
   "articles": [
+    {
+      "source": "BBC US & Canada",
+      "title": "US detainee Dennis Coyle released by Taliban after more than a year",
+      "url": "https://www.bbc.com/news/articles/c79j1wj4495o?at_medium=RSS&at_campaign=rss",
+      "summary": "Coyle, who was working as a language researcher, according to his family, was arrested in January 2025.",
+      "published_at": "2026-03-24T15:11:46Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC Asia",
+      "title": "Philippines declares energy emergency over Iran conflict",
+      "url": "https://www.bbc.com/news/articles/c3ex8ez3717o?at_medium=RSS&at_campaign=rss",
+      "summary": "The war has caused \"imminent danger\" to the country's energy supplies, President Ferdinand Marcos Jr says.",
+      "published_at": "2026-03-24T14:59:37Z",
+      "country_code": "PH",
+      "country_name": "Philippines"
+    },
     {
       "source": "BBC World",
       "title": "Israel says it will take control of large buffer zone in southern Lebanon",
@@ -789,7 +807,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 32
+      "news_count": 33
     },
     {
       "country_code": "IR",
@@ -899,6 +917,11 @@
     {
       "country_code": "MX",
       "country_name": "Mexico",
+      "news_count": 1
+    },
+    {
+      "country_code": "PH",
+      "country_name": "Philippines",
       "news_count": 1
     },
     {
