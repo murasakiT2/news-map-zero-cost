@@ -1,12 +1,48 @@
 {
-  "generated_at": "2026-03-24T15:38:24Z",
+  "generated_at": "2026-03-24T16:52:17Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Ukraine Unesco site damaged as Russia launches 400 drones in deadly daytime attack",
+      "url": "https://www.bbc.com/news/articles/cz90gpyw90wo?at_medium=RSS&at_campaign=rss",
+      "summary": "Cities across the west of Ukraine were hit, with residential buildings damaged and many injured.",
+      "published_at": "2026-03-24T16:28:54Z",
+      "country_code": "RU",
+      "country_name": "Russia"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "Pilots killed in LaGuardia plane crash named",
+      "url": "https://www.bbc.com/news/articles/cz67jq0enwpo?at_medium=RSS&at_campaign=rss",
+      "summary": "An Air Canada plane, carrying 73 passengers and four crew, collided with a firefighting vehicle shortly after landing at LaGuardia airport.",
+      "published_at": "2026-03-24T16:20:31Z",
+      "country_code": "CA",
+      "country_name": "Canada"
+    },
+    {
+      "source": "BBC World",
+      "title": "Iran war shows norms of international conflicts have been upended",
+      "url": "https://www.bbc.com/news/articles/c4gjv02g54ko?at_medium=RSS&at_campaign=rss",
+      "summary": "US threats against energy infrastructure, and Iran's retaliation on its Gulf neighbours, signal a clear change.",
+      "published_at": "2026-03-24T15:55:08Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC US & Canada",
       "title": "US detainee Dennis Coyle released by Taliban after more than a year",
       "url": "https://www.bbc.com/news/articles/c79j1wj4495o?at_medium=RSS&at_campaign=rss",
       "summary": "Coyle, who was working as a language researcher, according to his family, was arrested in January 2025.",
-      "published_at": "2026-03-24T15:11:46Z",
+      "published_at": "2026-03-24T15:50:42Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "'Helpful' and 'scary': Travellers react to ICE agents at airports",
+      "url": "https://www.bbc.com/news/videos/c30rnl807z2o?at_medium=RSS&at_campaign=rss",
+      "summary": "Immigration and Customs Enforcement agents have been deployed to US airports to assist TSA during the partial government shutdown.",
+      "published_at": "2026-03-24T15:49:50Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -54,15 +90,6 @@
       "published_at": "2026-03-24T11:20:06Z",
       "country_code": "CO",
       "country_name": "Colombia"
-    },
-    {
-      "source": "BBC World",
-      "title": "At least five killed in massive wave of Russian strikes across Ukraine, officials say",
-      "url": "https://www.bbc.com/news/articles/c87wxvn0z3vo?at_medium=RSS&at_campaign=rss",
-      "summary": "Officials said the attacks were among the worst in ten days, with damage reported in eleven regions across the country.",
-      "published_at": "2026-03-24T11:09:21Z",
-      "country_code": "UA",
-      "country_name": "Ukraine"
     },
     {
       "source": "BBC US & Canada",
@@ -263,7 +290,7 @@
       "country_name": "France"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "Australia's ABC staff to go on strike for first time in 20 years",
       "url": "https://www.bbc.com/news/articles/c248597nqn8o?at_medium=RSS&at_campaign=rss",
       "summary": "The 24-hour long strike is expected to disrupt live television and radio broadcasts.",
@@ -342,15 +369,6 @@
       "published_at": "2026-03-22T14:21:19Z",
       "country_code": "IL",
       "country_name": "Israel"
-    },
-    {
-      "source": "BBC Africa",
-      "title": "Sudan drone attack on key hospital killed 64 people during Eid, WHO says",
-      "url": "https://www.bbc.com/news/articles/cr715xynkvvo?at_medium=RSS&at_campaign=rss",
-      "summary": "The strike killed 64 people, including 13 children, two nurses and a doctor, according to the WHO head.",
-      "published_at": "2026-03-22T12:15:05Z",
-      "country_code": "SD",
-      "country_name": "Sudan"
     },
     {
       "source": "BBC US & Canada",
@@ -807,7 +825,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 33
+      "news_count": 35
     },
     {
       "country_code": "IR",
@@ -818,6 +836,11 @@
       "country_code": "IL",
       "country_name": "Israel",
       "news_count": 5
+    },
+    {
+      "country_code": "CA",
+      "country_name": "Canada",
+      "news_count": 4
     },
     {
       "country_code": "GB",
@@ -835,11 +858,6 @@
       "news_count": 3
     },
     {
-      "country_code": "CA",
-      "country_name": "Canada",
-      "news_count": 3
-    },
-    {
       "country_code": "FR",
       "country_name": "France",
       "news_count": 3
@@ -847,6 +865,11 @@
     {
       "country_code": "IT",
       "country_name": "Italy",
+      "news_count": 3
+    },
+    {
+      "country_code": "RU",
+      "country_name": "Russia",
       "news_count": 3
     },
     {
@@ -862,16 +885,6 @@
     {
       "country_code": "PS",
       "country_name": "Palestine",
-      "news_count": 2
-    },
-    {
-      "country_code": "RU",
-      "country_name": "Russia",
-      "news_count": 2
-    },
-    {
-      "country_code": "SD",
-      "country_name": "Sudan",
       "news_count": 2
     },
     {
@@ -925,8 +938,8 @@
       "news_count": 1
     },
     {
-      "country_code": "UA",
-      "country_name": "Ukraine",
+      "country_code": "SD",
+      "country_name": "Sudan",
       "news_count": 1
     }
   ]
