@@ -1,14 +1,41 @@
 {
-  "generated_at": "2026-03-24T16:52:17Z",
+  "generated_at": "2026-03-24T17:48:14Z",
   "articles": [
     {
+      "source": "BBC US & Canada",
+      "title": "US quadruple amputee accused of fatally shooting car passenger",
+      "url": "https://www.bbc.com/news/articles/cgqk18zgpxlo?at_medium=RSS&at_campaign=rss",
+      "summary": "Dayton Webber, 27, was driving the vehicle when he opened fire on a man in the front-seat, police say.",
+      "published_at": "2026-03-24T17:41:26Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
       "source": "BBC World",
-      "title": "Ukraine Unesco site damaged as Russia launches 400 drones in deadly daytime attack",
+      "title": "Russia launches 948 drones at Ukraine in largest attack over 24-hour period",
       "url": "https://www.bbc.com/news/articles/cz90gpyw90wo?at_medium=RSS&at_campaign=rss",
       "summary": "Cities across the west of Ukraine were hit, with residential buildings damaged and many injured.",
-      "published_at": "2026-03-24T16:28:54Z",
+      "published_at": "2026-03-24T17:32:20Z",
       "country_code": "RU",
       "country_name": "Russia"
+    },
+    {
+      "source": "BBC World",
+      "title": "Everyday life in Asia is being upended by Iran war fuel crisis",
+      "url": "https://www.bbc.com/news/articles/c1450zj6n48o?at_medium=RSS&at_campaign=rss",
+      "summary": "Asia relies heavily on oil and gas from the Gulf, and shortages and higher prices are starting to bite.",
+      "published_at": "2026-03-24T17:12:50Z",
+      "country_code": "IR",
+      "country_name": "Iran"
+    },
+    {
+      "source": "BBC World",
+      "title": "Israel says it will take control of large buffer zone in southern Lebanon",
+      "url": "https://www.bbc.com/news/articles/cy91j9qwp4do?at_medium=RSS&at_campaign=rss",
+      "summary": "Thousands of displaced Lebanese residents will not be allowed to return home until northern Israel is safe, Israel's defence minister says.",
+      "published_at": "2026-03-24T16:58:08Z",
+      "country_code": "IL",
+      "country_name": "Israel"
     },
     {
       "source": "BBC US & Canada",
@@ -54,15 +81,6 @@
       "published_at": "2026-03-24T14:59:37Z",
       "country_code": "PH",
       "country_name": "Philippines"
-    },
-    {
-      "source": "BBC World",
-      "title": "Israel says it will take control of large buffer zone in southern Lebanon",
-      "url": "https://www.bbc.com/news/articles/cy91j9qwp4do?at_medium=RSS&at_campaign=rss",
-      "summary": "Thousands of displaced Lebanese residents will not be allowed to return home until northern Israel is safe, he says.",
-      "published_at": "2026-03-24T12:51:01Z",
-      "country_code": "IL",
-      "country_name": "Israel"
     },
     {
       "source": "BBC World",
@@ -191,7 +209,7 @@
       "country_name": "Italy"
     },
     {
-      "source": "BBC Asia",
+      "source": "BBC World",
       "title": "Oil falls and shares rebound after Trump says talks have been held to end war",
       "url": "https://www.bbc.com/news/articles/czex56kwxxzo?at_medium=RSS&at_campaign=rss",
       "summary": "Energy prices fall and stock markets rebound after the US president says \"very good and productive\" talks have been held.",
@@ -281,7 +299,7 @@
       "country_name": "Canada"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "France's former Socialist Prime Minister Lionel Jospin dies at 88",
       "url": "https://www.bbc.com/news/articles/cp861v8mj8mo?at_medium=RSS&at_campaign=rss",
       "summary": "Jospin was head of government from 1997 to 2002 and is credited with bringing in the 35-hour working week.",
@@ -434,15 +452,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Asia",
-      "title": "Watch: Thick smoke billows from South Korea car parts plant in deadly fire",
-      "url": "https://www.bbc.com/news/videos/c87wg74wlgyo?at_medium=RSS&at_campaign=rss",
-      "summary": "Eleven people were killed and dozens injured when a huge blaze engulfed a car parts factory in the central city of Daejeon.",
-      "published_at": "2026-03-21T05:49:15Z",
-      "country_code": "KR",
-      "country_name": "South Korea"
-    },
-    {
       "source": "BBC Europe",
       "title": "Russia's school propaganda was highlighted by Oscar-winning film - but does it work?",
       "url": "https://www.bbc.com/news/articles/c7vq5g64y98o?at_medium=RSS&at_campaign=rss",
@@ -522,15 +531,6 @@
       "published_at": "2026-03-19T20:58:34Z",
       "country_code": "IR",
       "country_name": "Iran"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "Trump compares attack on Iran to Pearl Harbor in meeting with Japanese PM",
-      "url": "https://www.bbc.com/news/videos/cx248jvgwj8o?at_medium=RSS&at_campaign=rss",
-      "summary": "In a meeting with Japanese Prime Minister, US President Donald Trump was asked why he didn't inform allies about his plan to attack Iran.",
-      "published_at": "2026-03-19T17:50:38Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC Latin America",
@@ -830,7 +830,7 @@
     {
       "country_code": "IR",
       "country_name": "Iran",
-      "news_count": 9
+      "news_count": 10
     },
     {
       "country_code": "IL",
@@ -878,11 +878,6 @@
       "news_count": 2
     },
     {
-      "country_code": "KR",
-      "country_name": "South Korea",
-      "news_count": 2
-    },
-    {
       "country_code": "PS",
       "country_name": "Palestine",
       "news_count": 2
@@ -920,6 +915,11 @@
     {
       "country_code": "KE",
       "country_name": "Kenya",
+      "news_count": 1
+    },
+    {
+      "country_code": "KR",
+      "country_name": "South Korea",
       "news_count": 1
     },
     {
