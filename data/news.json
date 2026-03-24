@@ -1,12 +1,39 @@
 {
-  "generated_at": "2026-03-24T01:10:43Z",
+  "generated_at": "2026-03-24T03:44:54Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Colombian military plane crash kills at least 66",
+      "url": "https://www.bbc.com/news/articles/c8dlmrjn1l2o?at_medium=RSS&at_campaign=rss",
+      "summary": "Colombia's defence minister says it was a \"tragic accident\" but the cause is not yet clear.",
+      "published_at": "2026-03-24T02:52:21Z",
+      "country_code": "CO",
+      "country_name": "Colombia"
+    },
+    {
+      "source": "BBC World",
+      "title": "Ultimatums, diplomacy and a trip to Graceland as Trump eyes a deal with Iran",
+      "url": "https://www.bbc.com/news/articles/c895v5pq5p1o?at_medium=RSS&at_campaign=rss",
+      "summary": "America may be a nation at war, but the president's activities have been a mix of diplomacy and diversions - with the occasional swing towar…",
+      "published_at": "2026-03-24T02:41:31Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "US Senate confirms Markwayne Mullin as homeland security chief",
       "url": "https://www.bbc.com/news/articles/c98kd9x705eo?at_medium=RSS&at_campaign=rss",
       "summary": "The US senator will now oversee the embattled department after a series of immigration enforcement blunders.",
-      "published_at": "2026-03-24T00:47:09Z",
+      "published_at": "2026-03-24T02:01:21Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "US bans new foreign-made consumer internet routers",
+      "url": "https://www.bbc.com/news/articles/c74787w149zo?at_medium=RSS&at_campaign=rss",
+      "summary": "There are almost no major brands of internet routers that are manufactured in the US.",
+      "published_at": "2026-03-24T01:26:53Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -18,15 +45,6 @@
       "published_at": "2026-03-24T00:10:24Z",
       "country_code": "GB",
       "country_name": "United Kingdom"
-    },
-    {
-      "source": "BBC World",
-      "title": "Colombian military plane with 125 people crashes",
-      "url": "https://www.bbc.com/news/articles/c8dlmrjn1l2o?at_medium=RSS&at_campaign=rss",
-      "summary": "Colombia's defence minister says it was a \"tragic accident\" but the cause is not yet clear.",
-      "published_at": "2026-03-23T21:54:15Z",
-      "country_code": "CO",
-      "country_name": "Colombia"
     },
     {
       "source": "BBC World",
@@ -90,15 +108,6 @@
       "published_at": "2026-03-23T18:31:26Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "Trump says 'good' talks ongoing with Iran - but offers few details",
-      "url": "https://www.bbc.com/news/articles/c75kl47zez3o?at_medium=RSS&at_campaign=rss",
-      "summary": "An early morning post from Trump soothed panicked markets, but the extent of any talks remains unclear.",
-      "published_at": "2026-03-23T18:06:50Z",
-      "country_code": "IR",
-      "country_name": "Iran"
     },
     {
       "source": "BBC Middle East",
@@ -191,7 +200,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "Germany has a shortage of workers - so it's turning to India for help",
       "url": "https://www.bbc.com/news/articles/c3wlww83yv4o?at_medium=RSS&at_campaign=rss",
       "summary": "The European nation, struggling to find skilled staff, is giving jobs to young people from India.",
@@ -825,12 +834,12 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 35
+      "news_count": 37
     },
     {
       "country_code": "IR",
       "country_name": "Iran",
-      "news_count": 11
+      "news_count": 10
     },
     {
       "country_code": "GB",
