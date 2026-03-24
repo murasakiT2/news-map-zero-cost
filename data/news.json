@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-24T18:48:19Z",
+  "generated_at": "2026-03-24T19:46:59Z",
   "articles": [
     {
       "source": "BBC World",
@@ -9,6 +9,15 @@
       "published_at": "2026-03-24T18:12:36Z",
       "country_code": "RU",
       "country_name": "Russia"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "Small window open for US-Iran talks, but swift end to war still unlikely",
+      "url": "https://www.bbc.com/news/articles/c895xljyzewo?at_medium=RSS&at_campaign=rss",
+      "summary": "President Trump says the US is already dealing with a \"top person\" in Iran, but Tehran denies that any talks have begun.",
+      "published_at": "2026-03-24T18:04:04Z",
+      "country_code": "US",
+      "country_name": "United States"
     },
     {
       "source": "BBC World",
@@ -816,7 +825,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 34
+      "news_count": 35
     },
     {
       "country_code": "IR",
