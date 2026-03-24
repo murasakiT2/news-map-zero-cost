@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-03-24T07:47:36Z",
+  "generated_at": "2026-03-24T08:39:14Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Australia and EU agree sweeping trade deal in face of global uncertainty",
+      "url": "https://www.bbc.com/news/articles/cly6g6l6lq7o?at_medium=RSS&at_campaign=rss",
+      "summary": "Australia and the EU sign sweeping trade and security deals after years of negotiations.",
+      "published_at": "2026-03-24T08:30:08Z",
+      "country_code": "AU",
+      "country_name": "Australia"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "Explosion at Texas oil refinery creates huge smoke plume",
+      "url": "https://www.bbc.com/news/videos/cn43vnpkyv7o?at_medium=RSS&at_campaign=rss",
+      "summary": "There were no injuries reported, the refinery operator Valero told the BBC's US news partner CBS.",
+      "published_at": "2026-03-24T06:11:00Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "China dials back on fuel price hikes to 'reduce burden' on drivers",
@@ -47,6 +65,15 @@
       "country_name": "United States"
     },
     {
+      "source": "BBC Europe",
+      "title": "UK must back North Sea oil and gas drilling, says trade body",
+      "url": "https://www.bbc.com/news/articles/c4g8x7q4l8go?at_medium=RSS&at_campaign=rss",
+      "summary": "The group says the country \"urgently\" needs to produce its own oil and gas to secure supplies.",
+      "published_at": "2026-03-24T00:31:09Z",
+      "country_code": "GB",
+      "country_name": "United Kingdom"
+    },
+    {
       "source": "BBC World",
       "title": "UK universities flock to India - but will they succeed?",
       "url": "https://www.bbc.com/news/articles/c93w2pw3y0no?at_medium=RSS&at_campaign=rss",
@@ -54,6 +81,15 @@
       "published_at": "2026-03-24T00:10:24Z",
       "country_code": "GB",
       "country_name": "United Kingdom"
+    },
+    {
+      "source": "BBC Europe",
+      "title": "Real talk is nonsense but I may coach again - Klopp",
+      "url": "https://www.bbc.com/sport/football/articles/c8ejkj69jzro?at_medium=RSS&at_campaign=rss",
+      "summary": "Former Liverpool manager Jurgen Klopp says speculation he will return to management with Real Madrid this summer is \"nonsense\".",
+      "published_at": "2026-03-23T23:46:20Z",
+      "country_code": "ES",
+      "country_name": "Spain"
     },
     {
       "source": "BBC World",
@@ -282,15 +318,6 @@
     },
     {
       "source": "BBC US & Canada",
-      "title": "Robert Mueller, ex-FBI chief who led Trump-Russia investigation, dies at 81",
-      "url": "https://www.bbc.com/news/articles/c8dlj6gv0q6o?at_medium=RSS&at_campaign=rss",
-      "summary": "A former FBI director, Mueller led the high-profile inquiry into alleged Russian interference in the 2016 US election",
-      "published_at": "2026-03-22T01:04:57Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC US & Canada",
       "title": "Trump at a crossroads as US weighs tough options in Iran",
       "url": "https://www.bbc.com/news/articles/clyxv87zwwpo?at_medium=RSS&at_campaign=rss",
       "summary": "Statements from President Trump that the war is almost over are not matching up with the reality on the ground.",
@@ -387,15 +414,6 @@
       "published_at": "2026-03-20T20:16:29Z",
       "country_code": "RU",
       "country_name": "Russia"
-    },
-    {
-      "source": "BBC Europe",
-      "title": "Norway's crown princess breaks silence, claiming she was 'manipulated and deceived' by Epstein",
-      "url": "https://www.bbc.com/news/articles/cde5y63y3n7o?at_medium=RSS&at_campaign=rss",
-      "summary": "Crown Princess Mette Marit tells Norwegian TV she wishes she had never met the late sex offender.",
-      "published_at": "2026-03-20T15:30:28Z",
-      "country_code": "NO",
-      "country_name": "Norway"
     },
     {
       "source": "BBC Europe",
@@ -779,6 +797,11 @@
       "news_count": 10
     },
     {
+      "country_code": "GB",
+      "country_name": "United Kingdom",
+      "news_count": 4
+    },
+    {
       "country_code": "IL",
       "country_name": "Israel",
       "news_count": 4
@@ -789,13 +812,13 @@
       "news_count": 4
     },
     {
-      "country_code": "CA",
-      "country_name": "Canada",
+      "country_code": "AU",
+      "country_name": "Australia",
       "news_count": 3
     },
     {
-      "country_code": "GB",
-      "country_name": "United Kingdom",
+      "country_code": "CA",
+      "country_name": "Canada",
       "news_count": 3
     },
     {
@@ -809,8 +832,8 @@
       "news_count": 3
     },
     {
-      "country_code": "AU",
-      "country_name": "Australia",
+      "country_code": "ES",
+      "country_name": "Spain",
       "news_count": 2
     },
     {
@@ -854,11 +877,6 @@
       "news_count": 1
     },
     {
-      "country_code": "ES",
-      "country_name": "Spain",
-      "news_count": 1
-    },
-    {
       "country_code": "ET",
       "country_name": "Ethiopia",
       "news_count": 1
@@ -881,11 +899,6 @@
     {
       "country_code": "MX",
       "country_name": "Mexico",
-      "news_count": 1
-    },
-    {
-      "country_code": "NO",
-      "country_name": "Norway",
       "news_count": 1
     }
   ]
