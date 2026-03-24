@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-24T21:59:50Z",
+  "generated_at": "2026-03-24T22:35:05Z",
   "articles": [
     {
       "source": "BBC World",
@@ -27,6 +27,15 @@
       "published_at": "2026-03-24T20:55:58Z",
       "country_code": "CA",
       "country_name": "Canada"
+    },
+    {
+      "source": "BBC Africa",
+      "title": "Salah to leave Liverpool at end of season",
+      "url": "https://www.bbc.com/sport/football/articles/c0e7ww12w2qo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Egypt forward says Liverpool fans \"gave me the best time of my life\" and \"stood by me in the toughest times\".",
+      "published_at": "2026-03-24T20:34:23Z",
+      "country_code": "EG",
+      "country_name": "Egypt"
     },
     {
       "source": "BBC US & Canada",
@@ -900,6 +909,11 @@
     {
       "country_code": "CO",
       "country_name": "Colombia",
+      "news_count": 1
+    },
+    {
+      "country_code": "EG",
+      "country_name": "Egypt",
       "news_count": 1
     },
     {
