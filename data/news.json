@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-03-24T10:41:05Z",
+  "generated_at": "2026-03-24T11:38:04Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "At least five killed in massive wave of Russian strikes across Ukraine, officials say",
+      "url": "https://www.bbc.com/news/articles/c87wxvn0z3vo?at_medium=RSS&at_campaign=rss",
+      "summary": "Officials said the attacks were among the worst in ten days, with damage reported in eleven regions across the country.",
+      "published_at": "2026-03-24T11:09:21Z",
+      "country_code": "UA",
+      "country_name": "Ukraine"
+    },
     {
       "source": "BBC World",
       "title": "Australia and EU agree sweeping trade deal in face of global uncertainty",
@@ -191,7 +200,7 @@
       "country_name": "Nigeria"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Middle East",
       "title": "US' and Iran's options for ending war narrow the longer it goes on",
       "url": "https://www.bbc.com/news/articles/cn53zvlglg7o?at_medium=RSS&at_campaign=rss",
       "summary": "Iran shows no sign of climbdown, while air power alone cannot achieve the US' main goal.",
@@ -279,15 +288,6 @@
       "published_at": "2026-03-22T20:23:07Z",
       "country_code": "IL",
       "country_name": "Israel"
-    },
-    {
-      "source": "BBC Africa",
-      "title": "Kenyans fighting illegally for Russia in Ukraine to be granted amnesty",
-      "url": "https://www.bbc.com/news/articles/cj94jmj2p28o?at_medium=RSS&at_campaign=rss",
-      "summary": "It is illegal for Kenyans to serve in foreign armies and can carry a sentence of up to 10 years in jail.",
-      "published_at": "2026-03-22T19:05:30Z",
-      "country_code": "RU",
-      "country_name": "Russia"
     },
     {
       "source": "BBC Middle East",
@@ -832,11 +832,6 @@
       "news_count": 3
     },
     {
-      "country_code": "RU",
-      "country_name": "Russia",
-      "news_count": 3
-    },
-    {
       "country_code": "ES",
       "country_name": "Spain",
       "news_count": 2
@@ -849,6 +844,11 @@
     {
       "country_code": "PS",
       "country_name": "Palestine",
+      "news_count": 2
+    },
+    {
+      "country_code": "RU",
+      "country_name": "Russia",
       "news_count": 2
     },
     {
@@ -899,6 +899,11 @@
     {
       "country_code": "MX",
       "country_name": "Mexico",
+      "news_count": 1
+    },
+    {
+      "country_code": "UA",
+      "country_name": "Ukraine",
       "news_count": 1
     }
   ]
