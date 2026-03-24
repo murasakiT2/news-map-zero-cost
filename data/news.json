@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-03-24T22:35:05Z",
+  "generated_at": "2026-03-24T23:22:07Z",
   "articles": [
+    {
+      "source": "BBC Asia",
+      "title": "Sara Duterte impeachment hearings start as political death match heats up",
+      "url": "https://www.bbc.com/news/articles/cpwjrd1z5y0o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Philippines' VP faces another impeachment round with her 2028 presidential run on the line.",
+      "published_at": "2026-03-24T23:03:39Z",
+      "country_code": "PH",
+      "country_name": "Philippines"
+    },
     {
       "source": "BBC World",
       "title": "Russia launches 948 drones at Ukraine in largest attack over 24-hour period",
@@ -506,15 +515,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Asia",
-      "title": "Trump makes Pearl Harbor remark in meeting with Japan's PM",
-      "url": "https://www.bbc.com/news/articles/c8dlpr074q3o?at_medium=RSS&at_campaign=rss",
-      "summary": "President Trump compared US strikes on Iran to the deadly 1941 Japanese attack and declaration of war as part of World War Two.",
-      "published_at": "2026-03-20T09:55:19Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC Latin America",
       "title": "Colombia's budding tech scene needs a cash boost",
       "url": "https://www.bbc.com/news/articles/c4g2kyg4e78o?at_medium=RSS&at_campaign=rss",
@@ -834,7 +834,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 35
+      "news_count": 34
     },
     {
       "country_code": "IR",
@@ -884,6 +884,11 @@
     {
       "country_code": "ES",
       "country_name": "Spain",
+      "news_count": 2
+    },
+    {
+      "country_code": "PH",
+      "country_name": "Philippines",
       "news_count": 2
     },
     {
@@ -944,11 +949,6 @@
     {
       "country_code": "MX",
       "country_name": "Mexico",
-      "news_count": 1
-    },
-    {
-      "country_code": "PH",
-      "country_name": "Philippines",
       "news_count": 1
     },
     {
