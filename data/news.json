@@ -1,6 +1,33 @@
 {
-  "generated_at": "2026-03-24T11:38:04Z",
+  "generated_at": "2026-03-24T12:45:21Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Danes vote as Mette Frederiksen seeks third term as PM",
+      "url": "https://www.bbc.com/news/articles/cvgk02j4l4ko?at_medium=RSS&at_campaign=rss",
+      "summary": "Frederiksen enjoyed a surge in popularity for standing up to the US over Greenland but her support is down on 2022.",
+      "published_at": "2026-03-24T12:26:42Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Australia and EU agree sweeping trade deal in face of global uncertainty",
+      "url": "https://www.bbc.com/news/articles/cly6g6l6lq7o?at_medium=RSS&at_campaign=rss",
+      "summary": "Australia and the EU sign sweeping trade and security deals after years of negotiations.",
+      "published_at": "2026-03-24T12:14:15Z",
+      "country_code": "AU",
+      "country_name": "Australia"
+    },
+    {
+      "source": "BBC World",
+      "title": "Search for four missing soldiers after Colombia plane crash kills 66",
+      "url": "https://www.bbc.com/news/articles/c8ejkz89k1ro?at_medium=RSS&at_campaign=rss",
+      "summary": "The Hercules military transport plane crashed minutes after take-off near Colombia's southern border with Peru.",
+      "published_at": "2026-03-24T11:20:06Z",
+      "country_code": "CO",
+      "country_name": "Colombia"
+    },
     {
       "source": "BBC World",
       "title": "At least five killed in massive wave of Russian strikes across Ukraine, officials say",
@@ -9,15 +36,6 @@
       "published_at": "2026-03-24T11:09:21Z",
       "country_code": "UA",
       "country_name": "Ukraine"
-    },
-    {
-      "source": "BBC World",
-      "title": "Australia and EU agree sweeping trade deal in face of global uncertainty",
-      "url": "https://www.bbc.com/news/articles/cly6g6l6lq7o?at_medium=RSS&at_campaign=rss",
-      "summary": "Australia and the EU sign sweeping trade and security deals after years of negotiations.",
-      "published_at": "2026-03-24T08:30:08Z",
-      "country_code": "AU",
-      "country_name": "Australia"
     },
     {
       "source": "BBC US & Canada",
@@ -36,15 +54,6 @@
       "published_at": "2026-03-24T05:56:42Z",
       "country_code": "CN",
       "country_name": "China"
-    },
-    {
-      "source": "BBC World",
-      "title": "Colombian military plane crash kills at least 66",
-      "url": "https://www.bbc.com/news/articles/c8dlmrjn1l2o?at_medium=RSS&at_campaign=rss",
-      "summary": "Colombia's defence minister says it was a \"tragic accident\" but the cause is not yet clear.",
-      "published_at": "2026-03-24T02:52:21Z",
-      "country_code": "CO",
-      "country_name": "Colombia"
     },
     {
       "source": "BBC World",
@@ -245,7 +254,7 @@
       "country_name": "India"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "France's Socialists hold on to power in major cities in election boost for mainstream",
       "url": "https://www.bbc.com/news/articles/crk14m7mjddo?at_medium=RSS&at_campaign=rss",
       "summary": "Paris and Marseille are held by the Socialists in local elections which saw the nationalist right win in Nice and certain towns.",
@@ -254,7 +263,7 @@
       "country_name": "France"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Middle East",
       "title": "Israeli settlers target Palestinian villages in occupied West Bank, attacking people and properties",
       "url": "https://www.bbc.com/news/articles/cew719w80g7o?at_medium=RSS&at_campaign=rss",
       "summary": "The violence began after 18-year-old settler Yehuda Sherman was killed after reportedly being hit by a vehicle driven by a Palestinian while…",
@@ -263,7 +272,7 @@
       "country_name": "Palestine"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Latin America",
       "title": "National blackout hits Cuba for second time in a week",
       "url": "https://www.bbc.com/news/articles/cvg0l44yxrvo?at_medium=RSS&at_campaign=rss",
       "summary": "Another total failure of its power grid underlines Cuba's hardship under a US-imposed fuel blockade.",
@@ -281,7 +290,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Middle East",
       "title": "Israel to expand ground and air attacks against Hezbollah in Lebanon",
       "url": "https://www.bbc.com/news/articles/c30rl05evd8o?at_medium=RSS&at_campaign=rss",
       "summary": "There are fears in Lebanon that Israel is preparing for a large-scale ground invasion.",
@@ -789,7 +798,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 32
+      "news_count": 33
     },
     {
       "country_code": "IR",
