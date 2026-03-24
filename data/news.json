@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-24T03:44:54Z",
+  "generated_at": "2026-03-24T05:19:17Z",
   "articles": [
     {
       "source": "BBC World",
@@ -443,15 +443,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Asia",
-      "title": "Australia PM heckled at Sydney mosque Ramadan event",
-      "url": "https://www.bbc.com/news/articles/cz90wy2190go?at_medium=RSS&at_campaign=rss",
-      "summary": "The government's response to the Israel-Gaza war and rising Islamophobia has angered many Muslim Australians.",
-      "published_at": "2026-03-20T02:54:21Z",
-      "country_code": "AU",
-      "country_name": "Australia"
-    },
-    {
       "source": "BBC Latin America",
       "title": "Colombia's budding tech scene needs a cash boost",
       "url": "https://www.bbc.com/news/articles/c4g2kyg4e78o?at_medium=RSS&at_campaign=rss",
@@ -862,11 +853,6 @@
       "news_count": 4
     },
     {
-      "country_code": "AU",
-      "country_name": "Australia",
-      "news_count": 3
-    },
-    {
       "country_code": "CA",
       "country_name": "Canada",
       "news_count": 3
@@ -880,6 +866,11 @@
       "country_code": "IT",
       "country_name": "Italy",
       "news_count": 3
+    },
+    {
+      "country_code": "AU",
+      "country_name": "Australia",
+      "news_count": 2
     },
     {
       "country_code": "KR",
