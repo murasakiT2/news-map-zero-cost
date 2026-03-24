@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-03-23T23:55:20Z",
+  "generated_at": "2026-03-24T01:10:43Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "US Senate confirms Markwayne Mullin as homeland security chief",
+      "url": "https://www.bbc.com/news/articles/c98kd9x705eo?at_medium=RSS&at_campaign=rss",
+      "summary": "The US senator will now oversee the embattled department after a series of immigration enforcement blunders.",
+      "published_at": "2026-03-24T00:47:09Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "UK universities flock to India - but will they succeed?",
+      "url": "https://www.bbc.com/news/articles/c93w2pw3y0no?at_medium=RSS&at_campaign=rss",
+      "summary": "Nine UK universities are setting up campuses in India, but enrolment is expected to be modest initially.",
+      "published_at": "2026-03-24T00:10:24Z",
+      "country_code": "GB",
+      "country_name": "United Kingdom"
+    },
     {
       "source": "BBC World",
       "title": "Colombian military plane with 125 people crashes",
@@ -227,7 +245,7 @@
       "country_name": "Israel"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Africa",
       "title": "Kenyans fighting illegally for Russia in Ukraine to be granted amnesty",
       "url": "https://www.bbc.com/news/articles/cj94jmj2p28o?at_medium=RSS&at_campaign=rss",
       "summary": "It is illegal for Kenyans to serve in foreign armies and can carry a sentence of up to 10 years in jail.",
@@ -504,15 +522,6 @@
       "published_at": "2026-03-19T13:15:23Z",
       "country_code": "GB",
       "country_name": "United Kingdom"
-    },
-    {
-      "source": "BBC Asia",
-      "title": "The Iran war is causing a global energy crisis - can China withstand it?",
-      "url": "https://www.bbc.com/news/articles/cyv9lzn0816o?at_medium=RSS&at_campaign=rss",
-      "summary": "With oil supply disrupted, Beijing's oil reserves and renewable energy push are being put to the test.",
-      "published_at": "2026-03-18T23:31:03Z",
-      "country_code": "CN",
-      "country_name": "China"
     },
     {
       "source": "BBC Europe",
@@ -816,12 +825,17 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 34
+      "news_count": 35
     },
     {
       "country_code": "IR",
       "country_name": "Iran",
       "news_count": 11
+    },
+    {
+      "country_code": "GB",
+      "country_name": "United Kingdom",
+      "news_count": 4
     },
     {
       "country_code": "IL",
@@ -854,11 +868,6 @@
       "news_count": 3
     },
     {
-      "country_code": "GB",
-      "country_name": "United Kingdom",
-      "news_count": 3
-    },
-    {
       "country_code": "IT",
       "country_name": "Italy",
       "news_count": 3
@@ -886,11 +895,6 @@
     {
       "country_code": "AE",
       "country_name": "United Arab Emirates",
-      "news_count": 1
-    },
-    {
-      "country_code": "CN",
-      "country_name": "China",
       "news_count": 1
     },
     {
