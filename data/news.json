@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-03-25T06:36:19Z",
+  "generated_at": "2026-03-25T07:45:39Z",
   "articles": [
+    {
+      "source": "BBC Asia",
+      "title": "Philippines declares energy emergency over Iran conflict",
+      "url": "https://www.bbc.com/news/articles/c3ex8ez3717o?at_medium=RSS&at_campaign=rss",
+      "summary": "The war has caused \"imminent danger\" to the country's energy supplies, President Ferdinand Marcos Jr says.",
+      "published_at": "2026-03-25T07:32:40Z",
+      "country_code": "PH",
+      "country_name": "Philippines"
+    },
+    {
+      "source": "BBC Asia",
+      "title": "How is the Philippines reacting to its energy emergency?",
+      "url": "https://www.bbc.com/news/videos/c5yj4eze972o?at_medium=RSS&at_campaign=rss",
+      "summary": "BBC News Asia Business Correspondent Suranjana Tewari reports from a petrol station in Manila.",
+      "published_at": "2026-03-25T06:47:11Z",
+      "country_code": "PH",
+      "country_name": "Philippines"
+    },
     {
       "source": "BBC World",
       "title": "Journalists at Australia's national broadcaster strike for first time in 20 years",
@@ -29,7 +47,7 @@
       "country_name": "Australia"
     },
     {
-      "source": "BBC Asia",
+      "source": "BBC World",
       "title": "Sara Duterte impeachment hearings start as political death match heats up",
       "url": "https://www.bbc.com/news/articles/cpwjrd1z5y0o?at_medium=RSS&at_campaign=rss",
       "summary": "The Philippines' VP faces another impeachment round with her 2028 presidential run on the line.",
@@ -38,13 +56,13 @@
       "country_name": "Philippines"
     },
     {
-      "source": "BBC Asia",
-      "title": "Philippines declares energy emergency over Iran conflict",
-      "url": "https://www.bbc.com/news/articles/c3ex8ez3717o?at_medium=RSS&at_campaign=rss",
-      "summary": "The war has caused \"imminent danger\" to the country's energy supplies, President Ferdinand Marcos Jr says.",
-      "published_at": "2026-03-25T01:43:28Z",
-      "country_code": "PH",
-      "country_name": "Philippines"
+      "source": "BBC World",
+      "title": "Meta told to pay $375m for misleading users over child safety",
+      "url": "https://www.bbc.com/news/articles/cql75dn07n2o?at_medium=RSS&at_campaign=rss",
+      "summary": "The owner of Instagram, Facebook and WhatsApp has been found liable by a court in New Mexico.",
+      "published_at": "2026-03-24T23:16:55Z",
+      "country_code": "MX",
+      "country_name": "Mexico"
     },
     {
       "source": "BBC World",
@@ -92,7 +110,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "Everyday life in Asia is being upended by Iran war fuel crisis",
       "url": "https://www.bbc.com/news/articles/c1450zj6n48o?at_medium=RSS&at_campaign=rss",
       "summary": "Asia relies heavily on oil and gas from the Gulf, and shortages and higher prices are starting to bite.",
@@ -868,6 +886,11 @@
       "news_count": 3
     },
     {
+      "country_code": "PH",
+      "country_name": "Philippines",
+      "news_count": 3
+    },
+    {
       "country_code": "RU",
       "country_name": "Russia",
       "news_count": 3
@@ -878,8 +901,8 @@
       "news_count": 2
     },
     {
-      "country_code": "PH",
-      "country_name": "Philippines",
+      "country_code": "MX",
+      "country_name": "Mexico",
       "news_count": 2
     },
     {
@@ -930,11 +953,6 @@
     {
       "country_code": "MA",
       "country_name": "Morocco",
-      "news_count": 1
-    },
-    {
-      "country_code": "MX",
-      "country_name": "Mexico",
       "news_count": 1
     },
     {
