@@ -1,6 +1,33 @@
 {
-  "generated_at": "2026-03-25T05:20:25Z",
+  "generated_at": "2026-03-25T06:36:19Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Journalists at Australia's national broadcaster strike for first time in 20 years",
+      "url": "https://www.bbc.com/news/articles/c208ngv1mz7o?at_medium=RSS&at_campaign=rss",
+      "summary": "Staff have walked out for 24 hours over a pay rise offer that was below inflation.",
+      "published_at": "2026-03-25T06:28:34Z",
+      "country_code": "AU",
+      "country_name": "Australia"
+    },
+    {
+      "source": "BBC World",
+      "title": "Has banning phones improved performance at Dutch schools?",
+      "url": "https://www.bbc.com/news/articles/cpqxjwvvyl4o?at_medium=RSS&at_campaign=rss",
+      "summary": "Two years ago the Netherlands banned phones in schools. Now the government wants to go further, pushing to restrict social media for under‑1…",
+      "published_at": "2026-03-25T06:00:25Z",
+      "country_code": "NL",
+      "country_name": "Netherlands"
+    },
+    {
+      "source": "BBC World",
+      "title": "'Major player' in alleged mistaken identity kidnap of Sydney grandfather charged",
+      "url": "https://www.bbc.com/news/articles/cqxl825z839o?at_medium=RSS&at_campaign=rss",
+      "summary": "The 23-year-old is the third man to be charged in connection with the death of Chris Baghsarian.",
+      "published_at": "2026-03-25T05:47:56Z",
+      "country_code": "AU",
+      "country_name": "Australia"
+    },
     {
       "source": "BBC Asia",
       "title": "Sara Duterte impeachment hearings start as political death match heats up",
@@ -9,15 +36,6 @@
       "published_at": "2026-03-25T03:17:58Z",
       "country_code": "PH",
       "country_name": "Philippines"
-    },
-    {
-      "source": "BBC World",
-      "title": "Journalists at Australia's national broadcaster strike for first time in 20 years",
-      "url": "https://www.bbc.com/news/articles/c208ngv1mz7o?at_medium=RSS&at_campaign=rss",
-      "summary": "Staff have walked out for 24 hours over a pay rise offer that was below inflation.",
-      "published_at": "2026-03-25T03:07:54Z",
-      "country_code": "AU",
-      "country_name": "Australia"
     },
     {
       "source": "BBC Asia",
@@ -165,15 +183,6 @@
     },
     {
       "source": "BBC World",
-      "title": "US Senate confirms Markwayne Mullin as homeland security chief",
-      "url": "https://www.bbc.com/news/articles/c98kd9x705eo?at_medium=RSS&at_campaign=rss",
-      "summary": "The US senator will now oversee the embattled department after a series of immigration enforcement blunders.",
-      "published_at": "2026-03-24T02:01:21Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
       "title": "US bans new foreign-made consumer internet routers",
       "url": "https://www.bbc.com/news/articles/c74787w149zo?at_medium=RSS&at_campaign=rss",
       "summary": "There are almost no major brands of internet routers that are manufactured in the US.",
@@ -236,15 +245,6 @@
       "country_name": "Italy"
     },
     {
-      "source": "BBC Asia",
-      "title": "Oil falls and shares rebound after Trump says talks have been held to end war",
-      "url": "https://www.bbc.com/news/articles/czex56kwxxzo?at_medium=RSS&at_campaign=rss",
-      "summary": "Energy prices fall and stock markets rebound after the US president says \"very good and productive\" talks have been held.",
-      "published_at": "2026-03-23T20:21:51Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC US & Canada",
       "title": "Isolation or neutrality: The impact of Quebec's secular law",
       "url": "https://www.bbc.com/news/videos/clyrjdm767no?at_medium=RSS&at_campaign=rss",
@@ -254,7 +254,7 @@
       "country_name": "Canada"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Middle East",
       "title": "A committed pharmacist and a homesick blogger – the Iranian civilians killed in the war",
       "url": "https://www.bbc.com/news/articles/c3v6ld7lv9no?at_medium=RSS&at_campaign=rss",
       "summary": "The toll on civilians is mounting fast as the US-Israeli war on Iran continues.",
@@ -825,7 +825,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 34
+      "news_count": 32
     },
     {
       "country_code": "IR",
@@ -836,6 +836,11 @@
       "country_code": "IL",
       "country_name": "Israel",
       "news_count": 5
+    },
+    {
+      "country_code": "AU",
+      "country_name": "Australia",
+      "news_count": 4
     },
     {
       "country_code": "CA",
@@ -851,11 +856,6 @@
       "country_code": "NG",
       "country_name": "Nigeria",
       "news_count": 4
-    },
-    {
-      "country_code": "AU",
-      "country_name": "Australia",
-      "news_count": 3
     },
     {
       "country_code": "FR",
@@ -935,6 +935,11 @@
     {
       "country_code": "MX",
       "country_name": "Mexico",
+      "news_count": 1
+    },
+    {
+      "country_code": "NL",
+      "country_name": "Netherlands",
       "news_count": 1
     },
     {
