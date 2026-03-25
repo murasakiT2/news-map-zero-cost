@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-03-25T16:53:30Z",
+  "generated_at": "2026-03-25T17:49:49Z",
   "articles": [
     {
       "source": "BBC Middle East",
-      "title": "Iran rejects US 15-point peace plan, state media reports",
+      "title": "Iran rejects US 15-point peace plan, state media report",
       "url": "https://www.bbc.com/news/articles/cly9nz5vyz4o?at_medium=RSS&at_campaign=rss",
       "summary": "Trump says he is talking to \"the right people\" in Iran, but Tehran says no such negotiations are being held.",
       "published_at": "2026-03-25T16:46:12Z",
@@ -542,15 +542,6 @@
       "country_name": "Iran"
     },
     {
-      "source": "BBC Africa",
-      "title": "Celebrations in Morocco but devastation in Senegal after Afcon decision",
-      "url": "https://www.bbc.com/news/articles/crm8mem74mko?at_medium=RSS&at_campaign=rss",
-      "summary": "Moroccans feel justice has been done but the Senegalese are angry after being stripped of the title.",
-      "published_at": "2026-03-18T15:48:41Z",
-      "country_code": "MA",
-      "country_name": "Morocco"
-    },
-    {
       "source": "BBC Latin America",
       "title": "Venezuelans in Miami and Caracas celebrate historic WBC victory over USA",
       "url": "https://www.bbc.com/news/videos/c3wlw788glvo?at_medium=RSS&at_campaign=rss",
@@ -765,6 +756,15 @@
       "published_at": "2026-02-05T17:15:30Z",
       "country_code": "NG",
       "country_name": "Nigeria"
+    },
+    {
+      "source": "BBC Africa",
+      "title": "South African national park closed due to floods",
+      "url": "https://www.bbc.com/news/videos/c20d9qdz7zwo?at_medium=RSS&at_campaign=rss",
+      "summary": "Ongoing floods in the north-eastern provinces of South Africa has led to the closure of the world-famous Kruger National Park.",
+      "published_at": "2026-01-16T16:52:14Z",
+      "country_code": "ZA",
+      "country_name": "South Africa"
     }
   ],
   "regions": [
@@ -819,6 +819,11 @@
       "news_count": 3
     },
     {
+      "country_code": "ZA",
+      "country_name": "South Africa",
+      "news_count": 3
+    },
+    {
       "country_code": "FR",
       "country_name": "France",
       "news_count": 2
@@ -836,11 +841,6 @@
     {
       "country_code": "PS",
       "country_name": "Palestine",
-      "news_count": 2
-    },
-    {
-      "country_code": "ZA",
-      "country_name": "South Africa",
       "news_count": 2
     },
     {
@@ -871,11 +871,6 @@
     {
       "country_code": "IN",
       "country_name": "India",
-      "news_count": 1
-    },
-    {
-      "country_code": "MA",
-      "country_name": "Morocco",
       "news_count": 1
     },
     {
