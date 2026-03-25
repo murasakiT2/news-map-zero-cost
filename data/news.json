@@ -1,11 +1,29 @@
 {
-  "generated_at": "2026-03-25T12:42:19Z",
+  "generated_at": "2026-03-25T14:10:49Z",
   "articles": [
     {
-      "source": "BBC Middle East",
-      "title": "'There's no safety anymore': Palestinians warn of expanding settler violence",
+      "source": "BBC World",
+      "title": "Estonia and Latvia say territories hit by stray Ukrainian drones",
+      "url": "https://www.bbc.com/news/articles/c1eql309n12o?at_medium=RSS&at_campaign=rss",
+      "summary": "The incidents occurred on the same night that Ukraine launched a massive attack on Russia's port of Ust-Luga, near the Estonian border.",
+      "published_at": "2026-03-25T12:42:14Z",
+      "country_code": "RU",
+      "country_name": "Russia"
+    },
+    {
+      "source": "BBC Asia",
+      "title": "Indian singer's drowning was accidental - Singapore coroner",
+      "url": "https://www.bbc.com/news/articles/c747x091n79o?at_medium=RSS&at_campaign=rss",
+      "summary": "The coroner ruled that there was no evidence of foul play in the death of iconic singer Zubeen Garg.",
+      "published_at": "2026-03-25T12:40:21Z",
+      "country_code": "SG",
+      "country_name": "Singapore"
+    },
+    {
+      "source": "BBC World",
+      "title": "'There's no safety anymore': Palestinians warn of expanding West Bank settler violence",
       "url": "https://www.bbc.com/news/articles/c747x00m83vo?at_medium=RSS&at_campaign=rss",
-      "summary": "There has been a surge of attacks by Israeli settlers on Palestinian villages across the occupied West Bank since the start of the Iran war.",
+      "summary": "There has been a surge of attacks by Israeli settlers on Palestinian villages across the occupied territory since the start of the Iran war.",
       "published_at": "2026-03-25T12:27:28Z",
       "country_code": "PS",
       "country_name": "Palestine"
@@ -110,7 +128,7 @@
       "country_name": "Russia"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Latin America",
       "title": "Death toll from Colombian military plane crash rises to 69 as search ends",
       "url": "https://www.bbc.com/news/articles/c8ejkz89k1ro?at_medium=RSS&at_campaign=rss",
       "summary": "The Hercules military transport plane crashed minutes after take-off near Colombia's southern border with Peru.",
@@ -216,15 +234,6 @@
       "published_at": "2026-03-24T06:11:00Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "China dials back on fuel price hikes to 'reduce burden' on drivers",
-      "url": "https://www.bbc.com/news/articles/cwyvxejqyx4o?at_medium=RSS&at_campaign=rss",
-      "summary": "It comes as countries across the region are taking various measures to weather the soaring cost of fuel.",
-      "published_at": "2026-03-24T05:56:42Z",
-      "country_code": "CN",
-      "country_name": "China"
     },
     {
       "source": "BBC US & Canada",
@@ -817,6 +826,11 @@
       "news_count": 4
     },
     {
+      "country_code": "RU",
+      "country_name": "Russia",
+      "news_count": 4
+    },
+    {
       "country_code": "GB",
       "country_name": "United Kingdom",
       "news_count": 3
@@ -829,11 +843,6 @@
     {
       "country_code": "PH",
       "country_name": "Philippines",
-      "news_count": 3
-    },
-    {
-      "country_code": "RU",
-      "country_name": "Russia",
       "news_count": 3
     },
     {
@@ -869,11 +878,6 @@
     {
       "country_code": "BR",
       "country_name": "Brazil",
-      "news_count": 1
-    },
-    {
-      "country_code": "CN",
-      "country_name": "China",
       "news_count": 1
     },
     {
@@ -914,6 +918,11 @@
     {
       "country_code": "SD",
       "country_name": "Sudan",
+      "news_count": 1
+    },
+    {
+      "country_code": "SG",
+      "country_name": "Singapore",
       "news_count": 1
     }
   ]
