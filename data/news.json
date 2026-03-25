@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-03-25T17:49:49Z",
+  "generated_at": "2026-03-25T18:42:28Z",
   "articles": [
+    {
+      "source": "BBC Europe",
+      "title": "Four arrested in Germany after Channel smuggling gang raids",
+      "url": "https://www.bbc.com/news/articles/cgld95j1e2jo?at_medium=RSS&at_campaign=rss",
+      "summary": "Europol said more than 450 officers from the UK, Germany and Belgium were involved in the operation.",
+      "published_at": "2026-03-25T17:03:57Z",
+      "country_code": "GB",
+      "country_name": "United Kingdom"
+    },
+    {
+      "source": "BBC World",
+      "title": "What are the US and Iran's proposals for peace?",
+      "url": "https://www.bbc.com/news/articles/cly9nz5vyz4o?at_medium=RSS&at_campaign=rss",
+      "summary": "Trump says he is talking to \"the right people\" in Iran, but Tehran says no such negotiations are being held.",
+      "published_at": "2026-03-25T16:46:12Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC Middle East",
       "title": "Iran rejects US 15-point peace plan, state media report",
@@ -218,7 +236,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "Everyday life in Asia is being upended by Iran war fuel crisis",
       "url": "https://www.bbc.com/news/articles/c1450zj6n48o?at_medium=RSS&at_campaign=rss",
       "summary": "Asia relies heavily on oil and gas from the Gulf, and shortages and higher prices are starting to bite.",
@@ -771,7 +789,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 30
+      "news_count": 31
     },
     {
       "country_code": "IR",
@@ -784,6 +802,11 @@
       "news_count": 4
     },
     {
+      "country_code": "GB",
+      "country_name": "United Kingdom",
+      "news_count": 4
+    },
+    {
       "country_code": "RU",
       "country_name": "Russia",
       "news_count": 4
@@ -791,11 +814,6 @@
     {
       "country_code": "CA",
       "country_name": "Canada",
-      "news_count": 3
-    },
-    {
-      "country_code": "GB",
-      "country_name": "United Kingdom",
       "news_count": 3
     },
     {
