@@ -1,12 +1,21 @@
 {
-  "generated_at": "2026-03-24T23:51:54Z",
+  "generated_at": "2026-03-25T01:13:49Z",
   "articles": [
     {
+      "source": "BBC Asia",
+      "title": "Philippines declares energy emergency over Iran conflict",
+      "url": "https://www.bbc.com/news/articles/c3ex8ez3717o?at_medium=RSS&at_campaign=rss",
+      "summary": "The war has caused \"imminent danger\" to the country's energy supplies, President Ferdinand Marcos Jr says.",
+      "published_at": "2026-03-25T00:34:40Z",
+      "country_code": "PH",
+      "country_name": "Philippines"
+    },
+    {
       "source": "BBC World",
-      "title": "Journalists at Australia's national broadcaster to strike over pay and possible use of AI",
+      "title": "Journalists at Australia's national broadcaster begin 24-hour strike over pay",
       "url": "https://www.bbc.com/news/articles/c208ngv1mz7o?at_medium=RSS&at_campaign=rss",
-      "summary": "Staff at the Australian Broadcasting Corporation will strike for the first time in 20 years.",
-      "published_at": "2026-03-24T23:21:55Z",
+      "summary": "Staff at the Australian Broadcasting Corporation are striking for the first time in 20 years.",
+      "published_at": "2026-03-25T00:00:37Z",
       "country_code": "AU",
       "country_name": "Australia"
     },
@@ -92,7 +101,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC US & Canada",
+      "source": "BBC Asia",
       "title": "US detainee Dennis Coyle released by Taliban after more than a year",
       "url": "https://www.bbc.com/news/articles/c79j1wj4495o?at_medium=RSS&at_campaign=rss",
       "summary": "Coyle, who was working as a language researcher, according to his family, was arrested in January 2025.",
@@ -108,15 +117,6 @@
       "published_at": "2026-03-24T15:49:50Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC Asia",
-      "title": "Philippines declares energy emergency over Iran conflict",
-      "url": "https://www.bbc.com/news/articles/c3ex8ez3717o?at_medium=RSS&at_campaign=rss",
-      "summary": "The war has caused \"imminent danger\" to the country's energy supplies, President Ferdinand Marcos Jr says.",
-      "published_at": "2026-03-24T14:59:37Z",
-      "country_code": "PH",
-      "country_name": "Philippines"
     },
     {
       "source": "BBC World",
@@ -423,15 +423,6 @@
       "published_at": "2026-03-22T00:17:02Z",
       "country_code": "CA",
       "country_name": "Canada"
-    },
-    {
-      "source": "BBC Asia",
-      "title": "Pop megastars BTS electrify historic centre of Seoul with comeback concert",
-      "url": "https://www.bbc.com/news/articles/cj371jr203ko?at_medium=RSS&at_campaign=rss",
-      "summary": "The world's biggest band returns after more than three years with a huge concert in the South Korean capital.",
-      "published_at": "2026-03-21T22:01:05Z",
-      "country_code": "KR",
-      "country_name": "South Korea"
     },
     {
       "source": "BBC Asia",
@@ -934,11 +925,6 @@
     {
       "country_code": "KE",
       "country_name": "Kenya",
-      "news_count": 1
-    },
-    {
-      "country_code": "KR",
-      "country_name": "South Korea",
       "news_count": 1
     },
     {
