@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-03-25T18:42:28Z",
+  "generated_at": "2026-03-25T19:39:06Z",
   "articles": [
     {
-      "source": "BBC Europe",
-      "title": "Four arrested in Germany after Channel smuggling gang raids",
-      "url": "https://www.bbc.com/news/articles/cgld95j1e2jo?at_medium=RSS&at_campaign=rss",
-      "summary": "Europol said more than 450 officers from the UK, Germany and Belgium were involved in the operation.",
-      "published_at": "2026-03-25T17:03:57Z",
-      "country_code": "GB",
-      "country_name": "United Kingdom"
+      "source": "BBC World",
+      "title": "Meta and YouTube found liable in landmark social media addiction trial",
+      "url": "https://www.bbc.com/news/articles/c747x7gz249o?at_medium=RSS&at_campaign=rss",
+      "summary": "A woman has been awarded $3m in a verdict that could have implications for hundreds of other cases in the US.",
+      "published_at": "2026-03-25T19:38:00Z",
+      "country_code": "US",
+      "country_name": "United States"
     },
     {
       "source": "BBC World",
       "title": "What are the US and Iran's proposals for peace?",
       "url": "https://www.bbc.com/news/articles/cly9nz5vyz4o?at_medium=RSS&at_campaign=rss",
       "summary": "Trump says he is talking to \"the right people\" in Iran, but Tehran says no such negotiations are being held.",
-      "published_at": "2026-03-25T16:46:12Z",
+      "published_at": "2026-03-25T19:14:19Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -24,9 +24,18 @@
       "title": "Iran rejects US 15-point peace plan, state media report",
       "url": "https://www.bbc.com/news/articles/cly9nz5vyz4o?at_medium=RSS&at_campaign=rss",
       "summary": "Trump says he is talking to \"the right people\" in Iran, but Tehran says no such negotiations are being held.",
-      "published_at": "2026-03-25T16:46:12Z",
+      "published_at": "2026-03-25T19:14:19Z",
       "country_code": "US",
       "country_name": "United States"
+    },
+    {
+      "source": "BBC Europe",
+      "title": "Four arrested in Germany after Channel smuggling gang raids",
+      "url": "https://www.bbc.com/news/articles/cgld95j1e2jo?at_medium=RSS&at_campaign=rss",
+      "summary": "Europol said more than 450 officers from the UK, Germany and Belgium were involved in the operation.",
+      "published_at": "2026-03-25T17:03:57Z",
+      "country_code": "GB",
+      "country_name": "United Kingdom"
     },
     {
       "source": "BBC World",
@@ -789,7 +798,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 31
+      "news_count": 32
     },
     {
       "country_code": "IR",
