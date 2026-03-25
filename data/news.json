@@ -1,32 +1,50 @@
 {
-  "generated_at": "2026-03-25T21:02:07Z",
+  "generated_at": "2026-03-25T21:58:31Z",
   "articles": [
+    {
+      "source": "BBC US & Canada",
+      "title": "Who wants what and why from US-Iran peace talks?",
+      "url": "https://www.bbc.com/news/articles/cm29l9r68j8o?at_medium=RSS&at_campaign=rss",
+      "summary": "There is indirect contact and channels between the two sides - but a deal may still be a long way off.",
+      "published_at": "2026-03-25T21:37:34Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "What are the US and Iran's proposals for peace?",
       "url": "https://www.bbc.com/news/articles/cly9nz5vyz4o?at_medium=RSS&at_campaign=rss",
       "summary": "Trump says he is talking to \"the right people\" in Iran, but Tehran says no such negotiations are being held.",
-      "published_at": "2026-03-25T20:07:01Z",
+      "published_at": "2026-03-25T21:06:26Z",
       "country_code": "US",
       "country_name": "United States"
     },
     {
       "source": "BBC Middle East",
-      "title": "Iran rejects Trump's 15-point peace plan, state media report",
+      "title": "Iran's foreign minister says there are no negotiations with US",
       "url": "https://www.bbc.com/news/articles/cly9nz5vyz4o?at_medium=RSS&at_campaign=rss",
       "summary": "Trump says he is talking to \"the right people\" in Iran, but Tehran says no such negotiations are being held.",
-      "published_at": "2026-03-25T20:07:01Z",
-      "country_code": "IR",
-      "country_name": "Iran"
+      "published_at": "2026-03-25T21:06:26Z",
+      "country_code": "US",
+      "country_name": "United States"
     },
     {
       "source": "BBC World",
       "title": "Meta and YouTube found liable in landmark social media addiction trial",
       "url": "https://www.bbc.com/news/articles/c747x7gz249o?at_medium=RSS&at_campaign=rss",
       "summary": "A woman has been awarded $3m in a verdict that could have implications for hundreds of other cases in the US.",
-      "published_at": "2026-03-25T19:38:00Z",
+      "published_at": "2026-03-25T21:06:23Z",
       "country_code": "US",
       "country_name": "United States"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "Carney says Air Canada's English-only message after LaGuardia crash 'lacks compassion'",
+      "url": "https://www.bbc.com/news/articles/cpvxn8n2g83o?at_medium=RSS&at_campaign=rss",
+      "summary": "The CEO of Air Canada is under fire for the condolence video, as one of the pilots killed is French Canadian.",
+      "published_at": "2026-03-25T18:43:54Z",
+      "country_code": "CA",
+      "country_name": "Canada"
     },
     {
       "source": "BBC Europe",
@@ -351,15 +369,6 @@
       "published_at": "2026-03-23T20:25:32Z",
       "country_code": "IT",
       "country_name": "Italy"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "Isolation or neutrality: The impact of Quebec's secular law",
-      "url": "https://www.bbc.com/news/videos/clyrjdm767no?at_medium=RSS&at_campaign=rss",
-      "summary": "As the province's secularism law, Bill 21, faces a challenge at the Supreme Court of Canada, some Muslim women say they’ve paid the highest …",
-      "published_at": "2026-03-23T19:55:27Z",
-      "country_code": "CA",
-      "country_name": "Canada"
     },
     {
       "source": "BBC Middle East",
@@ -798,12 +807,12 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 31
+      "news_count": 33
     },
     {
       "country_code": "IR",
       "country_name": "Iran",
-      "news_count": 10
+      "news_count": 9
     },
     {
       "country_code": "AU",
