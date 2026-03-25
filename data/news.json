@@ -1,30 +1,30 @@
 {
-  "generated_at": "2026-03-25T19:39:06Z",
+  "generated_at": "2026-03-25T20:28:54Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "What are the US and Iran's proposals for peace?",
+      "url": "https://www.bbc.com/news/articles/cly9nz5vyz4o?at_medium=RSS&at_campaign=rss",
+      "summary": "Trump says he is talking to \"the right people\" in Iran, but Tehran says no such negotiations are being held.",
+      "published_at": "2026-03-25T20:07:01Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC Middle East",
+      "title": "Iran rejects Trump's 15-point peace plan, state media report",
+      "url": "https://www.bbc.com/news/articles/cly9nz5vyz4o?at_medium=RSS&at_campaign=rss",
+      "summary": "Trump says he is talking to \"the right people\" in Iran, but Tehran says no such negotiations are being held.",
+      "published_at": "2026-03-25T20:07:01Z",
+      "country_code": "IR",
+      "country_name": "Iran"
+    },
     {
       "source": "BBC World",
       "title": "Meta and YouTube found liable in landmark social media addiction trial",
       "url": "https://www.bbc.com/news/articles/c747x7gz249o?at_medium=RSS&at_campaign=rss",
       "summary": "A woman has been awarded $3m in a verdict that could have implications for hundreds of other cases in the US.",
       "published_at": "2026-03-25T19:38:00Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "What are the US and Iran's proposals for peace?",
-      "url": "https://www.bbc.com/news/articles/cly9nz5vyz4o?at_medium=RSS&at_campaign=rss",
-      "summary": "Trump says he is talking to \"the right people\" in Iran, but Tehran says no such negotiations are being held.",
-      "published_at": "2026-03-25T19:14:19Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC Middle East",
-      "title": "Iran rejects US 15-point peace plan, state media report",
-      "url": "https://www.bbc.com/news/articles/cly9nz5vyz4o?at_medium=RSS&at_campaign=rss",
-      "summary": "Trump says he is talking to \"the right people\" in Iran, but Tehran says no such negotiations are being held.",
-      "published_at": "2026-03-25T19:14:19Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -798,12 +798,12 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 32
+      "news_count": 31
     },
     {
       "country_code": "IR",
       "country_name": "Iran",
-      "news_count": 9
+      "news_count": 10
     },
     {
       "country_code": "AU",
