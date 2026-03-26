@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-26T22:17:51Z",
+  "generated_at": "2026-03-26T22:53:29Z",
   "articles": [
     {
       "source": "BBC World",
@@ -165,6 +165,24 @@
     },
     {
       "source": "BBC Asia",
+      "title": "India's fertiliser supplies under strain as war disrupts shipments",
+      "url": "https://www.bbc.com/news/articles/crk1066npvzo?at_medium=RSS&at_campaign=rss",
+      "summary": "Analysts say current stocks are enough for the upcoming sowing season, but this may change if the war stretches on.",
+      "published_at": "2026-03-26T06:40:45Z",
+      "country_code": "IN",
+      "country_name": "India"
+    },
+    {
+      "source": "BBC Asia",
+      "title": "Australia's sunscreen regulator wants new rules after recent product scandal",
+      "url": "https://www.bbc.com/news/articles/cql75nx0e0yo?at_medium=RSS&at_campaign=rss",
+      "summary": "The medicines regulator is proposing stricter rules after more than a dozen products were recalled.",
+      "published_at": "2026-03-26T05:45:39Z",
+      "country_code": "AU",
+      "country_name": "Australia"
+    },
+    {
+      "source": "BBC Asia",
       "title": "Australia bans Iranian tourists with valid visas for six months",
       "url": "https://www.bbc.com/news/articles/cdrm0rlv102o?at_medium=RSS&at_campaign=rss",
       "summary": "Critics say the move, which comes after Iranian footballers were granted asylum, is a \"moral failure\".",
@@ -290,15 +308,6 @@
       "country_name": "Philippines"
     },
     {
-      "source": "BBC Asia",
-      "title": "Journalists at Australia's national broadcaster strike for first time in 20 years",
-      "url": "https://www.bbc.com/news/articles/c208ngv1mz7o?at_medium=RSS&at_campaign=rss",
-      "summary": "Staff have walked out for 24 hours over a pay rise offer that was below inflation.",
-      "published_at": "2026-03-25T06:28:34Z",
-      "country_code": "AU",
-      "country_name": "Australia"
-    },
-    {
       "source": "BBC Europe",
       "title": "Has banning phones improved performance at Dutch schools?",
       "url": "https://www.bbc.com/news/articles/cpqxjwvvyl4o?at_medium=RSS&at_campaign=rss",
@@ -306,15 +315,6 @@
       "published_at": "2026-03-25T06:00:25Z",
       "country_code": "NL",
       "country_name": "Netherlands"
-    },
-    {
-      "source": "BBC Asia",
-      "title": "Sara Duterte impeachment hearings start as political death match heats up",
-      "url": "https://www.bbc.com/news/articles/cpwjrd1z5y0o?at_medium=RSS&at_campaign=rss",
-      "summary": "The Philippines' VP faces another impeachment round with her 2028 presidential run on the line.",
-      "published_at": "2026-03-25T03:17:58Z",
-      "country_code": "PH",
-      "country_name": "Philippines"
     },
     {
       "source": "BBC Latin America",
@@ -531,15 +531,6 @@
       "published_at": "2026-03-22T00:50:43Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC Asia",
-      "title": "Did Australia's under-16s social media ban work?",
-      "url": "https://www.bbc.com/news/videos/cq8g9y5x1llo?at_medium=RSS&at_campaign=rss",
-      "summary": "Three months since it came into effect, teenagers tell the BBC how the world-first law has impacted their lives so far.",
-      "published_at": "2026-03-21T19:06:39Z",
-      "country_code": "AU",
-      "country_name": "Australia"
     },
     {
       "source": "BBC Europe",
@@ -826,16 +817,11 @@
     {
       "country_code": "AU",
       "country_name": "Australia",
-      "news_count": 5
+      "news_count": 4
     },
     {
       "country_code": "GB",
       "country_name": "United Kingdom",
-      "news_count": 4
-    },
-    {
-      "country_code": "PH",
-      "country_name": "Philippines",
       "news_count": 4
     },
     {
@@ -849,6 +835,11 @@
       "news_count": 3
     },
     {
+      "country_code": "IN",
+      "country_name": "India",
+      "news_count": 3
+    },
+    {
       "country_code": "IT",
       "country_name": "Italy",
       "news_count": 3
@@ -856,6 +847,11 @@
     {
       "country_code": "NG",
       "country_name": "Nigeria",
+      "news_count": 3
+    },
+    {
+      "country_code": "PH",
+      "country_name": "Philippines",
       "news_count": 3
     },
     {
@@ -871,11 +867,6 @@
     {
       "country_code": "FR",
       "country_name": "France",
-      "news_count": 2
-    },
-    {
-      "country_code": "IN",
-      "country_name": "India",
       "news_count": 2
     },
     {
