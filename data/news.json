@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-03-26T01:19:30Z",
+  "generated_at": "2026-03-26T04:08:29Z",
   "articles": [
+    {
+      "source": "BBC US & Canada",
+      "title": "Houston airport wait times reach over four hours amid US travel chaos",
+      "url": "https://www.bbc.com/news/articles/c239vyp2n35o?at_medium=RSS&at_campaign=rss",
+      "summary": "Nearly 40% of the security staff at the George Bush airport did not show up - the highest such rate in the country, US media report.",
+      "published_at": "2026-03-26T02:56:17Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC Asia",
+      "title": "Trump confirms May meeting with Xi Jinping as Iran war forces postponement",
+      "url": "https://www.bbc.com/news/articles/c05dpr1m71go?at_medium=RSS&at_campaign=rss",
+      "summary": "Trump's delayed meeting with Xi Jinping will be the first visit to China by a US president since 2017.",
+      "published_at": "2026-03-26T01:42:26Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "Meta and YouTube found liable in landmark social media addiction trial",
@@ -11,7 +29,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC US & Canada",
+      "source": "BBC World",
       "title": "Who wants what and why from US-Iran peace talks?",
       "url": "https://www.bbc.com/news/articles/cm29l9r68j8o?at_medium=RSS&at_campaign=rss",
       "summary": "There is indirect contact and channels between the two sides - but a deal may still be a long way off.",
@@ -173,15 +191,6 @@
       "country_name": "Philippines"
     },
     {
-      "source": "BBC Asia",
-      "title": "How is the Philippines reacting to its energy emergency?",
-      "url": "https://www.bbc.com/news/videos/c5yj4eze972o?at_medium=RSS&at_campaign=rss",
-      "summary": "BBC News Asia Business Correspondent Suranjana Tewari reports from a petrol station in Manila.",
-      "published_at": "2026-03-25T06:47:11Z",
-      "country_code": "PH",
-      "country_name": "Philippines"
-    },
-    {
       "source": "BBC World",
       "title": "Journalists at Australia's national broadcaster strike for first time in 20 years",
       "url": "https://www.bbc.com/news/articles/c208ngv1mz7o?at_medium=RSS&at_campaign=rss",
@@ -218,7 +227,7 @@
       "country_name": "Mexico"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "Russia launches 948 drones at Ukraine in largest attack over 24-hour period",
       "url": "https://www.bbc.com/news/articles/cz90gpyw90wo?at_medium=RSS&at_campaign=rss",
       "summary": "Cities across Ukraine were hit, with local officials reporting at least eight people killed and dozens injured.",
@@ -299,7 +308,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "Australia and EU agree sweeping trade deal in face of global uncertainty",
       "url": "https://www.bbc.com/news/articles/cly6g6l6lq7o?at_medium=RSS&at_campaign=rss",
       "summary": "Australia and the EU sign sweeping trade and security deals after years of negotiations.",
@@ -798,7 +807,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 32
+      "news_count": 34
     },
     {
       "country_code": "IR",
@@ -841,11 +850,6 @@
       "news_count": 3
     },
     {
-      "country_code": "PH",
-      "country_name": "Philippines",
-      "news_count": 3
-    },
-    {
       "country_code": "ZA",
       "country_name": "South Africa",
       "news_count": 3
@@ -863,6 +867,11 @@
     {
       "country_code": "MX",
       "country_name": "Mexico",
+      "news_count": 2
+    },
+    {
+      "country_code": "PH",
+      "country_name": "Philippines",
       "news_count": 2
     },
     {
