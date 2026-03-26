@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-03-26T04:08:29Z",
+  "generated_at": "2026-03-26T05:54:42Z",
   "articles": [
+    {
+      "source": "BBC Asia",
+      "title": "Australia bans Iranian tourists with valid visas for six months",
+      "url": "https://www.bbc.com/news/articles/cdrm0rlv102o?at_medium=RSS&at_campaign=rss",
+      "summary": "Critics say the move, which comes after Iranian footballers were granted asylum, is a \"moral failure\".",
+      "published_at": "2026-03-26T05:43:31Z",
+      "country_code": "AU",
+      "country_name": "Australia"
+    },
+    {
+      "source": "BBC Asia",
+      "title": "'We are being choked': Philippines transport workers strike over fuel costs",
+      "url": "https://www.bbc.com/news/articles/c4glxn24gd6o?at_medium=RSS&at_campaign=rss",
+      "summary": "Drivers say they are struggling to cope, while the government declares a national energy emergency.",
+      "published_at": "2026-03-26T04:22:31Z",
+      "country_code": "PH",
+      "country_name": "Philippines"
+    },
     {
       "source": "BBC US & Canada",
       "title": "Houston airport wait times reach over four hours amid US travel chaos",
@@ -817,7 +835,7 @@
     {
       "country_code": "AU",
       "country_name": "Australia",
-      "news_count": 4
+      "news_count": 5
     },
     {
       "country_code": "GB",
@@ -850,6 +868,11 @@
       "news_count": 3
     },
     {
+      "country_code": "PH",
+      "country_name": "Philippines",
+      "news_count": 3
+    },
+    {
       "country_code": "ZA",
       "country_name": "South Africa",
       "news_count": 3
@@ -867,11 +890,6 @@
     {
       "country_code": "MX",
       "country_name": "Mexico",
-      "news_count": 2
-    },
-    {
-      "country_code": "PH",
-      "country_name": "Philippines",
       "news_count": 2
     },
     {
