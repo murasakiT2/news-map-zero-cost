@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-03-26T15:47:46Z",
+  "generated_at": "2026-03-26T16:52:53Z",
   "articles": [
+    {
+      "source": "BBC Africa",
+      "title": "South Sudan and Mauritius impose electricity curbs as Iran war triggers fuel fears in Africa",
+      "url": "https://www.bbc.com/news/articles/cq8wkq1n9epo?at_medium=RSS&at_campaign=rss",
+      "summary": "The disruption in oil supplies has caused shortages and concerns in several African countries.",
+      "published_at": "2026-03-26T16:35:07Z",
+      "country_code": "IR",
+      "country_name": "Iran"
+    },
+    {
+      "source": "BBC Europe",
+      "title": "UK now 'ready' to seize Russian shadow fleet ships, Healey says",
+      "url": "https://www.bbc.com/news/articles/cvg0n9z3jlvo?at_medium=RSS&at_campaign=rss",
+      "summary": "Forces can now board sanctioned vessels if required, after ministers identified a legal basis in January.",
+      "published_at": "2026-03-26T16:24:42Z",
+      "country_code": "GB",
+      "country_name": "United Kingdom"
+    },
     {
       "source": "BBC World",
       "title": "Air Canada CEO 'deeply saddened' his poor French skills distracted from victims of crash",
@@ -29,7 +47,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Europe",
+      "source": "BBC World",
       "title": "Russia bans Oscar-winning film 'Mr Nobody Against Putin'",
       "url": "https://www.bbc.com/news/articles/cly97ddwgeko?at_medium=RSS&at_campaign=rss",
       "summary": "A court alleges that the documentary promoted \"negative attitudes\" about the Russian government and the war in Ukraine.",
@@ -45,15 +63,6 @@
       "published_at": "2026-03-26T12:51:44Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC Europe",
-      "title": "UK now 'ready' to seize Russian shadow fleet ships, Healey says",
-      "url": "https://www.bbc.com/news/articles/cvg0n9z3jlvo?at_medium=RSS&at_campaign=rss",
-      "summary": "Forces can now board sanctioned vessels if required, after ministers identified a legal basis in January.",
-      "published_at": "2026-03-26T12:11:03Z",
-      "country_code": "GB",
-      "country_name": "United Kingdom"
     },
     {
       "source": "BBC World",
@@ -108,15 +117,6 @@
       "published_at": "2026-03-26T09:00:31Z",
       "country_code": "PH",
       "country_name": "Philippines"
-    },
-    {
-      "source": "BBC World",
-      "title": "How will the UK respond to US court verdict on social media?",
-      "url": "https://www.bbc.com/news/articles/c0q90kekw08o?at_medium=RSS&at_campaign=rss",
-      "summary": "Will the decision of a Los Angeles jury have an impact on the UK government as it considers potential future regulations on social media, wr…",
-      "published_at": "2026-03-26T09:00:17Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC World",
@@ -178,15 +178,6 @@
       "url": "https://www.bbc.com/news/articles/cgrlwk29ppzo?at_medium=RSS&at_campaign=rss",
       "summary": "This does not mean the door is shut, as Iran's tough stance may be more about setting conditions than rejecting diplomacy.",
       "published_at": "2026-03-25T22:39:20Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "What are the US and Iran's proposals for peace?",
-      "url": "https://www.bbc.com/news/articles/cly9nz5vyz4o?at_medium=RSS&at_campaign=rss",
-      "summary": "Trump says he is talking to \"the right people\" in Iran, but Tehran says no such negotiations are being held.",
-      "published_at": "2026-03-25T21:06:26Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -861,12 +852,12 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 33
+      "news_count": 31
     },
     {
       "country_code": "IR",
       "country_name": "Iran",
-      "news_count": 11
+      "news_count": 12
     },
     {
       "country_code": "AU",
