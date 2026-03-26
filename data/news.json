@@ -1,12 +1,21 @@
 {
-  "generated_at": "2026-03-26T16:52:53Z",
+  "generated_at": "2026-03-26T17:52:24Z",
   "articles": [
     {
+      "source": "BBC Middle East",
+      "title": "Why did US and Israel attack Iran and how long could the war last?",
+      "url": "https://www.bbc.com/news/articles/cx2dyz6p3weo?at_medium=RSS&at_campaign=rss",
+      "summary": "Conflict has spread across the Middle East since the US and Israel launched strikes on Iran on 28 February.",
+      "published_at": "2026-03-26T17:50:47Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
       "source": "BBC Africa",
-      "title": "South Sudan and Mauritius impose electricity curbs as Iran war triggers fuel fears in Africa",
+      "title": "Rationing power and diluting petrol - how African countries are coping with effects of Iran war",
       "url": "https://www.bbc.com/news/articles/cq8wkq1n9epo?at_medium=RSS&at_campaign=rss",
       "summary": "The disruption in oil supplies has caused shortages and concerns in several African countries.",
-      "published_at": "2026-03-26T16:35:07Z",
+      "published_at": "2026-03-26T17:04:51Z",
       "country_code": "IR",
       "country_name": "Iran"
     },
@@ -272,15 +281,6 @@
       "country_name": "Kenya"
     },
     {
-      "source": "BBC Middle East",
-      "title": "Why did US and Israel attack Iran and how long could the war last?",
-      "url": "https://www.bbc.com/news/articles/cx2dyz6p3weo?at_medium=RSS&at_campaign=rss",
-      "summary": "Conflict has spread across the Middle East since the US and Israel launched strikes on Iran on 28 February.",
-      "published_at": "2026-03-25T11:09:34Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC Asia",
       "title": "'Major player' in alleged mistaken identity kidnap of Sydney grandfather charged",
       "url": "https://www.bbc.com/news/articles/cqxl825z839o?at_medium=RSS&at_campaign=rss",
@@ -324,15 +324,6 @@
       "published_at": "2026-03-25T03:17:58Z",
       "country_code": "PH",
       "country_name": "Philippines"
-    },
-    {
-      "source": "BBC Europe",
-      "title": "Russia launches 948 drones at Ukraine in largest attack over 24-hour period",
-      "url": "https://www.bbc.com/news/articles/cz90gpyw90wo?at_medium=RSS&at_campaign=rss",
-      "summary": "Cities across Ukraine were hit, with local officials reporting at least eight people killed and dozens injured.",
-      "published_at": "2026-03-24T21:47:10Z",
-      "country_code": "RU",
-      "country_name": "Russia"
     },
     {
       "source": "BBC Latin America",
@@ -880,11 +871,6 @@
       "news_count": 4
     },
     {
-      "country_code": "RU",
-      "country_name": "Russia",
-      "news_count": 4
-    },
-    {
       "country_code": "IL",
       "country_name": "Israel",
       "news_count": 3
@@ -902,6 +888,11 @@
     {
       "country_code": "PS",
       "country_name": "Palestine",
+      "news_count": 3
+    },
+    {
+      "country_code": "RU",
+      "country_name": "Russia",
       "news_count": 3
     },
     {
