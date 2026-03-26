@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-03-26T14:20:05Z",
+  "generated_at": "2026-03-26T15:47:46Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Air Canada CEO 'deeply saddened' his poor French skills distracted from victims of crash",
+      "url": "https://www.bbc.com/news/articles/cgrlnw70xyko?at_medium=RSS&at_campaign=rss",
+      "summary": "Michael Rousseau has faced calls to resign for not speaking French in his message after the LaGuardia crash, which killed two Air Canada pil…",
+      "published_at": "2026-03-26T14:40:10Z",
+      "country_code": "CA",
+      "country_name": "Canada"
+    },
+    {
+      "source": "BBC World",
+      "title": "Senegal to parade Afcon trophy despite title being stripped",
+      "url": "https://www.bbc.com/sport/football/articles/c070kg5rn0ko?at_medium=RSS&at_campaign=rss",
+      "summary": "Senegal's Football Federation boss calls the decision to hand Morocco the Afcon title a \"robbery\" amid plans to parade the trophy before Sat…",
+      "published_at": "2026-03-26T14:35:52Z",
+      "country_code": "FR",
+      "country_name": "France"
+    },
     {
       "source": "BBC Middle East",
       "title": "Why does the US have Iran's Kharg Island in its sights?",
@@ -110,15 +128,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
-      "title": "Australia's sunscreen regulator wants new rules after recent product scandal",
-      "url": "https://www.bbc.com/news/articles/cql75nx0e0yo?at_medium=RSS&at_campaign=rss",
-      "summary": "The medicines regulator is proposing stricter rules after more than a dozen products were recalled.",
-      "published_at": "2026-03-26T05:45:39Z",
-      "country_code": "AU",
-      "country_name": "Australia"
-    },
-    {
       "source": "BBC Asia",
       "title": "Australia bans Iranian tourists with valid visas for six months",
       "url": "https://www.bbc.com/news/articles/cdrm0rlv102o?at_medium=RSS&at_campaign=rss",
@@ -174,15 +183,6 @@
     },
     {
       "source": "BBC World",
-      "title": "A right-wing populist party made big poll gains in Australia - and it's shaking up politics",
-      "url": "https://www.bbc.com/news/articles/cx2j4q60wlgo?at_medium=RSS&at_campaign=rss",
-      "summary": "Pauline Hanson's One Nation is riding a wave of popularity driven by voters weary of mainstream parties.",
-      "published_at": "2026-03-25T22:36:31Z",
-      "country_code": "AU",
-      "country_name": "Australia"
-    },
-    {
-      "source": "BBC World",
       "title": "What are the US and Iran's proposals for peace?",
       "url": "https://www.bbc.com/news/articles/cly9nz5vyz4o?at_medium=RSS&at_campaign=rss",
       "summary": "Trump says he is talking to \"the right people\" in Iran, but Tehran says no such negotiations are being held.",
@@ -218,15 +218,6 @@
       "country_name": "United Kingdom"
     },
     {
-      "source": "BBC World",
-      "title": "'We are in agony' - Savannah Guthrie does first interview since mum's disappearance",
-      "url": "https://www.bbc.com/news/articles/ckgxzlny4w3o?at_medium=RSS&at_campaign=rss",
-      "summary": "The US presenter says terrifying thoughts wake her at night as she imagines what happened.",
-      "published_at": "2026-03-25T16:38:03Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC Africa",
       "title": "South Africa's police chief to appear in court over controversial health contract",
       "url": "https://www.bbc.com/news/articles/cwyjpxnzdvyo?at_medium=RSS&at_campaign=rss",
@@ -234,15 +225,6 @@
       "published_at": "2026-03-25T16:33:10Z",
       "country_code": "ZA",
       "country_name": "South Africa"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "'Men need to be perp-walked' after Epstein files release, Massie tells BBC",
-      "url": "https://www.bbc.com/news/articles/cd0rek7v7npo?at_medium=RSS&at_campaign=rss",
-      "summary": "The US congressman responded to a BBC Newsnight interview with a group of survivors of the late financier's abuse.",
-      "published_at": "2026-03-25T15:47:48Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC Africa",
@@ -272,7 +254,7 @@
       "country_name": "Singapore"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Middle East",
       "title": "'There's no safety anymore': Palestinians warn of expanding West Bank settler violence",
       "url": "https://www.bbc.com/news/articles/c747x00m83vo?at_medium=RSS&at_campaign=rss",
       "summary": "There has been a surge of attacks by Israeli settlers on Palestinian villages across the occupied territory since the start of the Iran war.",
@@ -873,22 +855,13 @@
       "published_at": "2026-02-05T17:15:30Z",
       "country_code": "NG",
       "country_name": "Nigeria"
-    },
-    {
-      "source": "BBC Africa",
-      "title": "South African national park closed due to floods",
-      "url": "https://www.bbc.com/news/videos/c20d9qdz7zwo?at_medium=RSS&at_campaign=rss",
-      "summary": "Ongoing floods in the north-eastern provinces of South Africa has led to the closure of the world-famous Kruger National Park.",
-      "published_at": "2026-01-16T16:52:14Z",
-      "country_code": "ZA",
-      "country_name": "South Africa"
     }
   ],
   "regions": [
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 35
+      "news_count": 33
     },
     {
       "country_code": "IR",
@@ -898,7 +871,12 @@
     {
       "country_code": "AU",
       "country_name": "Australia",
-      "news_count": 7
+      "news_count": 5
+    },
+    {
+      "country_code": "CA",
+      "country_name": "Canada",
+      "news_count": 4
     },
     {
       "country_code": "GB",
@@ -914,11 +892,6 @@
       "country_code": "RU",
       "country_name": "Russia",
       "news_count": 4
-    },
-    {
-      "country_code": "CA",
-      "country_name": "Canada",
-      "news_count": 3
     },
     {
       "country_code": "IL",
@@ -941,9 +914,9 @@
       "news_count": 3
     },
     {
-      "country_code": "ZA",
-      "country_name": "South Africa",
-      "news_count": 3
+      "country_code": "FR",
+      "country_name": "France",
+      "news_count": 2
     },
     {
       "country_code": "IN",
@@ -953,6 +926,11 @@
     {
       "country_code": "KE",
       "country_name": "Kenya",
+      "news_count": 2
+    },
+    {
+      "country_code": "ZA",
+      "country_name": "South Africa",
       "news_count": 2
     },
     {
@@ -978,11 +956,6 @@
     {
       "country_code": "ET",
       "country_name": "Ethiopia",
-      "news_count": 1
-    },
-    {
-      "country_code": "FR",
-      "country_name": "France",
       "news_count": 1
     },
     {
