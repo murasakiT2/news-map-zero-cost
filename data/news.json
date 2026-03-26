@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-03-26T07:59:11Z",
+  "generated_at": "2026-03-26T08:58:04Z",
   "articles": [
+    {
+      "source": "BBC Middle East",
+      "title": "Why does the US have Iran's Kharg Island in its sights?",
+      "url": "https://www.bbc.com/news/articles/c8jxzlwvd8ro?at_medium=RSS&at_campaign=rss",
+      "summary": "The tiny island is home to one of the most critical pieces of Iran's energy infrastructure.",
+      "published_at": "2026-03-26T08:13:32Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC Asia",
       "title": "Trump confirms May meeting with Xi Jinping as Iran war forces postponement",
@@ -38,8 +47,17 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Middle East",
-      "title": "Is Trump any closer to an Iran exit strategy?",
+      "source": "BBC US & Canada",
+      "title": "Rocket stocks soar on report Musk's SpaceX to file for share sale",
+      "url": "https://www.bbc.com/news/articles/c5y8d721q18o?at_medium=RSS&at_campaign=rss",
+      "summary": "Reports it plans the biggest listing ever sent the shares of firms in its orbit soaring in US trade on Wednesday.",
+      "published_at": "2026-03-26T02:01:39Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "Trump's Iran strategy is to pursue two off-ramps at once",
       "url": "https://www.bbc.com/news/articles/c15d980nyw1o?at_medium=RSS&at_campaign=rss",
       "summary": "The White House insists the president is dictating events, but even some Republicans are frustrated by mixed messaging about his war aims.",
       "published_at": "2026-03-26T02:00:53Z",
@@ -461,15 +479,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC US & Canada",
-      "title": "'Stop, stop, stop': Listen to LaGuardia control tower audio during collision",
-      "url": "https://www.bbc.com/news/videos/clyer72wn85o?at_medium=RSS&at_campaign=rss",
-      "summary": "An Air Canada plane carrying 72 passengers and four crew initially landed safely from Montreal on Sunday evening before colliding with a fir…",
-      "published_at": "2026-03-23T15:04:25Z",
-      "country_code": "CA",
-      "country_name": "Canada"
-    },
-    {
       "source": "BBC Asia",
       "title": "Germany has a shortage of workers - so it's turning to India for help",
       "url": "https://www.bbc.com/news/articles/c3wlww83yv4o?at_medium=RSS&at_campaign=rss",
@@ -506,7 +515,7 @@
       "country_name": "Israel"
     },
     {
-      "source": "BBC US & Canada",
+      "source": "BBC Middle East",
       "title": "Trump at a crossroads as US weighs tough options in Iran",
       "url": "https://www.bbc.com/news/articles/clyxv87zwwpo?at_medium=RSS&at_campaign=rss",
       "summary": "Statements from President Trump that the war is almost over are not matching up with the reality on the ground.",
@@ -522,15 +531,6 @@
       "published_at": "2026-03-21T19:06:39Z",
       "country_code": "AU",
       "country_name": "Australia"
-    },
-    {
-      "source": "BBC Middle East",
-      "title": "Why does the US have Iran's Kharg Island in its sights?",
-      "url": "https://www.bbc.com/news/articles/c8jxzlwvd8ro?at_medium=RSS&at_campaign=rss",
-      "summary": "The tiny island is home to one of the most critical pieces of Iran's energy infrastructure.",
-      "published_at": "2026-03-20T23:12:01Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC Europe",
@@ -816,7 +816,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 33
+      "news_count": 34
     },
     {
       "country_code": "IR",
@@ -832,11 +832,6 @@
       "country_code": "GB",
       "country_name": "United Kingdom",
       "news_count": 5
-    },
-    {
-      "country_code": "CA",
-      "country_name": "Canada",
-      "news_count": 3
     },
     {
       "country_code": "IL",
@@ -862,6 +857,11 @@
       "country_code": "ZA",
       "country_name": "South Africa",
       "news_count": 3
+    },
+    {
+      "country_code": "CA",
+      "country_name": "Canada",
+      "news_count": 2
     },
     {
       "country_code": "KE",
