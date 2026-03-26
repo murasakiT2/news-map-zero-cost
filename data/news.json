@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-03-26T18:52:03Z",
+  "generated_at": "2026-03-26T19:49:54Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "US prosecutors argue Maduro 'plundered' Venezuelan wealth in court battle over legal fees",
+      "url": "https://www.bbc.com/news/articles/c4g8wxyq7v5o?at_medium=RSS&at_campaign=rss",
+      "summary": "A judge said the right to defence was paramount as prosecutors argued the couple should not be able to use Venezuelan funds to pay their law…",
+      "published_at": "2026-03-26T18:49:46Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "Zelensky visits Saudi Arabia after offering Ukraine's drone expertise",
@@ -34,6 +43,15 @@
       "url": "https://www.bbc.com/news/articles/cx2dyz6p3weo?at_medium=RSS&at_campaign=rss",
       "summary": "Conflict has spread across the Middle East since the US and Israel launched strikes on Iran on 28 February.",
       "published_at": "2026-03-26T17:50:47Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "'Mom's missing' - Savannah Guthrie recounts devastating aftermath of kidnapping",
+      "url": "https://www.bbc.com/news/articles/cx24jg8yrxeo?at_medium=RSS&at_campaign=rss",
+      "summary": "The US television presenter describes the painful notion that her fame may have made her mother a target.",
+      "published_at": "2026-03-26T17:49:34Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -207,15 +225,6 @@
       "published_at": "2026-03-25T21:06:26Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "Carney says Air Canada's English-only message after LaGuardia crash 'lacks compassion'",
-      "url": "https://www.bbc.com/news/articles/cpvxn8n2g83o?at_medium=RSS&at_campaign=rss",
-      "summary": "The CEO of Air Canada is under fire for the condolence video, as one of the pilots killed is French Canadian.",
-      "published_at": "2026-03-25T18:43:54Z",
-      "country_code": "CA",
-      "country_name": "Canada"
     },
     {
       "source": "BBC Europe",
@@ -405,15 +414,6 @@
       "published_at": "2026-03-24T12:14:15Z",
       "country_code": "AU",
       "country_name": "Australia"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "Explosion at Texas oil refinery creates huge smoke plume",
-      "url": "https://www.bbc.com/news/videos/cn43vnpkyv7o?at_medium=RSS&at_campaign=rss",
-      "summary": "There were no injuries reported, the refinery operator Valero told the BBC's US news partner CBS.",
-      "published_at": "2026-03-24T06:11:00Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC US & Canada",
@@ -834,7 +834,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 31
+      "news_count": 32
     },
     {
       "country_code": "IR",
@@ -847,11 +847,6 @@
       "news_count": 5
     },
     {
-      "country_code": "CA",
-      "country_name": "Canada",
-      "news_count": 4
-    },
-    {
       "country_code": "GB",
       "country_name": "United Kingdom",
       "news_count": 4
@@ -860,6 +855,11 @@
       "country_code": "PH",
       "country_name": "Philippines",
       "news_count": 4
+    },
+    {
+      "country_code": "CA",
+      "country_name": "Canada",
+      "news_count": 3
     },
     {
       "country_code": "IL",
