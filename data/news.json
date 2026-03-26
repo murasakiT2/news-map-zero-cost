@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-26T21:26:44Z",
+  "generated_at": "2026-03-26T21:51:48Z",
   "articles": [
     {
       "source": "BBC World",
@@ -180,15 +180,6 @@
       "published_at": "2026-03-26T05:13:46Z",
       "country_code": "PH",
       "country_name": "Philippines"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "Houston airport wait times reach over four hours amid US travel chaos",
-      "url": "https://www.bbc.com/news/articles/c239vyp2n35o?at_medium=RSS&at_campaign=rss",
-      "summary": "Nearly 40% of the security staff at the George Bush airport did not show up - the highest such rate in the country, US media report.",
-      "published_at": "2026-03-26T02:56:17Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC US & Canada",
@@ -825,7 +816,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 31
+      "news_count": 30
     },
     {
       "country_code": "IR",
