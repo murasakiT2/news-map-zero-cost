@@ -1,11 +1,38 @@
 {
-  "generated_at": "2026-03-26T12:50:34Z",
+  "generated_at": "2026-03-26T14:20:05Z",
   "articles": [
+    {
+      "source": "BBC Middle East",
+      "title": "Why does the US have Iran's Kharg Island in its sights?",
+      "url": "https://www.bbc.com/news/articles/c8jxzlwvd8ro?at_medium=RSS&at_campaign=rss",
+      "summary": "The tiny island is home to one of the most critical pieces of Iran's energy infrastructure.",
+      "published_at": "2026-03-26T14:03:39Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC Europe",
+      "title": "Russia bans Oscar-winning film 'Mr Nobody Against Putin'",
+      "url": "https://www.bbc.com/news/articles/cly97ddwgeko?at_medium=RSS&at_campaign=rss",
+      "summary": "A court alleges that the documentary promoted \"negative attitudes\" about the Russian government and the war in Ukraine.",
+      "published_at": "2026-03-26T13:18:50Z",
+      "country_code": "RU",
+      "country_name": "Russia"
+    },
+    {
+      "source": "BBC World",
+      "title": "European Parliament gives conditional approval to EU-US trade deal",
+      "url": "https://www.bbc.com/news/articles/c33l4e6vdrvo?at_medium=RSS&at_campaign=rss",
+      "summary": "The agreement would see EU tariffs on US goods reduced to zero while US tariffs on EU imports set at 15%.",
+      "published_at": "2026-03-26T12:51:44Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC Europe",
       "title": "UK now 'ready' to seize Russian shadow fleet ships, Healey says",
       "url": "https://www.bbc.com/news/articles/cvg0n9z3jlvo?at_medium=RSS&at_campaign=rss",
-      "summary": "Forces are now approved to board sanctioned vessels if required, after ministers identified a legal basis in January.",
+      "summary": "Forces can now board sanctioned vessels if required, after ministers identified a legal basis in January.",
       "published_at": "2026-03-26T12:11:03Z",
       "country_code": "GB",
       "country_name": "United Kingdom"
@@ -20,7 +47,7 @@
       "country_name": "Russia"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "Are the US and Iran holding peace talks, and what do both sides want?",
       "url": "https://www.bbc.com/news/articles/cm29l9r68j8o?at_medium=RSS&at_campaign=rss",
       "summary": "There is indirect contact and channels between the two sides - but a deal may still be a long way off.",
@@ -38,7 +65,7 @@
       "country_name": "Taiwan"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "Campaigners welcome Meta and YouTube's defeat in landmark social media addiction trial",
       "url": "https://www.bbc.com/news/articles/c747x7gz249o?at_medium=RSS&at_campaign=rss",
       "summary": "A woman has been awarded $6m in a verdict that could have implications for hundreds of other cases in the US.",
@@ -74,15 +101,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Middle East",
-      "title": "Why does the US have Iran's Kharg Island in its sights?",
-      "url": "https://www.bbc.com/news/articles/c8jxzlwvd8ro?at_medium=RSS&at_campaign=rss",
-      "summary": "The tiny island is home to one of the most critical pieces of Iran's energy infrastructure.",
-      "published_at": "2026-03-26T08:13:32Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC World",
       "title": "Trump confirms May meeting with Xi Jinping as Iran war forces postponement",
       "url": "https://www.bbc.com/news/articles/c05dpr1m71go?at_medium=RSS&at_campaign=rss",
@@ -111,7 +129,7 @@
     },
     {
       "source": "BBC World",
-      "title": "Why transport workers are protesting in the Philippines",
+      "title": "How the Iran war is causing fuel chaos in the Philippines",
       "url": "https://www.bbc.com/news/videos/cly64y288gwo?at_medium=RSS&at_campaign=rss",
       "summary": "BBC News Asia Business Correspondent Suranajana Tewari spoke to people taking to the streets of Manila.",
       "published_at": "2026-03-26T05:13:46Z",
@@ -441,15 +459,6 @@
       "published_at": "2026-03-24T02:41:31Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC Europe",
-      "title": "UK must back North Sea oil and gas drilling, says trade body",
-      "url": "https://www.bbc.com/news/articles/c4g8x7q4l8go?at_medium=RSS&at_campaign=rss",
-      "summary": "The group says the country \"urgently\" needs to produce its own oil and gas to secure supplies.",
-      "published_at": "2026-03-24T00:31:09Z",
-      "country_code": "GB",
-      "country_name": "United Kingdom"
     },
     {
       "source": "BBC Asia",
@@ -879,7 +888,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 34
+      "news_count": 35
     },
     {
       "country_code": "IR",
@@ -894,11 +903,16 @@
     {
       "country_code": "GB",
       "country_name": "United Kingdom",
-      "news_count": 5
+      "news_count": 4
     },
     {
       "country_code": "PH",
       "country_name": "Philippines",
+      "news_count": 4
+    },
+    {
+      "country_code": "RU",
+      "country_name": "Russia",
       "news_count": 4
     },
     {
@@ -924,11 +938,6 @@
     {
       "country_code": "PS",
       "country_name": "Palestine",
-      "news_count": 3
-    },
-    {
-      "country_code": "RU",
-      "country_name": "Russia",
       "news_count": 3
     },
     {
