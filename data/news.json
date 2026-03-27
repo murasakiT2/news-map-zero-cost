@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-03-27T01:19:08Z",
+  "generated_at": "2026-03-27T04:09:03Z",
   "articles": [
+    {
+      "source": "BBC US & Canada",
+      "title": "Campaigners welcome Meta and YouTube's defeat in landmark social media addiction trial",
+      "url": "https://www.bbc.com/news/articles/c747x7gz249o?at_medium=RSS&at_campaign=rss",
+      "summary": "A woman has been awarded $6m in a verdict that could have implications for hundreds of other cases in the US.",
+      "published_at": "2026-03-27T03:21:48Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC Asia",
+      "title": "Belarus leader gifts rifle to North Korea's Kim as they sign friendship treaty",
+      "url": "https://www.bbc.com/news/articles/c8957dxjvkxo?at_medium=RSS&at_campaign=rss",
+      "summary": "Two key supporters of Russia's war in Ukraine close ranks as Alexander Lukashenko visits Pyongyang.",
+      "published_at": "2026-03-27T03:14:10Z",
+      "country_code": "KP",
+      "country_name": "North Korea"
+    },
     {
       "source": "BBC US & Canada",
       "title": "Three charts that are warning signs flashing for Trump on Iran war",
@@ -144,15 +162,6 @@
       "published_at": "2026-03-26T10:11:38Z",
       "country_code": "TW",
       "country_name": "Taiwan"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "Campaigners welcome Meta and YouTube's defeat in landmark social media addiction trial",
-      "url": "https://www.bbc.com/news/articles/c747x7gz249o?at_medium=RSS&at_campaign=rss",
-      "summary": "A woman has been awarded $6m in a verdict that could have implications for hundreds of other cases in the US.",
-      "published_at": "2026-03-26T09:43:25Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC World",
@@ -306,15 +315,6 @@
       "published_at": "2026-03-25T11:37:17Z",
       "country_code": "BR",
       "country_name": "Brazil"
-    },
-    {
-      "source": "BBC Asia",
-      "title": "'Major player' in alleged mistaken identity kidnap of Sydney grandfather charged",
-      "url": "https://www.bbc.com/news/articles/cqxl825z839o?at_medium=RSS&at_campaign=rss",
-      "summary": "The 23-year-old is the third man to be charged in connection with the death of Chris Baghsarian.",
-      "published_at": "2026-03-25T11:06:41Z",
-      "country_code": "AU",
-      "country_name": "Australia"
     },
     {
       "source": "BBC Asia",
@@ -833,14 +833,14 @@
       "news_count": 13
     },
     {
-      "country_code": "AU",
-      "country_name": "Australia",
-      "news_count": 4
-    },
-    {
       "country_code": "GB",
       "country_name": "United Kingdom",
       "news_count": 4
+    },
+    {
+      "country_code": "AU",
+      "country_name": "Australia",
+      "news_count": 3
     },
     {
       "country_code": "CA",
@@ -920,6 +920,11 @@
     {
       "country_code": "KE",
       "country_name": "Kenya",
+      "news_count": 1
+    },
+    {
+      "country_code": "KP",
+      "country_name": "North Korea",
       "news_count": 1
     },
     {
