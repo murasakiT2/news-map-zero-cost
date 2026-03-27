@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-03-26T23:53:51Z",
+  "generated_at": "2026-03-27T01:19:08Z",
   "articles": [
+    {
+      "source": "BBC US & Canada",
+      "title": "Three charts that are warning signs flashing for Trump on Iran war",
+      "url": "https://www.bbc.com/news/articles/c3w384px52no?at_medium=RSS&at_campaign=rss",
+      "summary": "As gas prices rise, Trump's approval rating is heading into politically dangerous territory.",
+      "published_at": "2026-03-27T00:13:09Z",
+      "country_code": "IR",
+      "country_name": "Iran"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "Trump's signature to appear on US dollars in first for sitting president",
+      "url": "https://www.bbc.com/news/articles/cz0el909yp3o?at_medium=RSS&at_campaign=rss",
+      "summary": "The US president's signature will appear on new paper currency alongside Treasury Secretary Scott Bessent.",
+      "published_at": "2026-03-26T23:36:14Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "US prosecutors argue Maduro 'plundered' Venezuelan wealth in court battle over legal fees",
@@ -807,12 +825,12 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 30
+      "news_count": 31
     },
     {
       "country_code": "IR",
       "country_name": "Iran",
-      "news_count": 12
+      "news_count": 13
     },
     {
       "country_code": "AU",
