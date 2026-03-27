@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-03-27T21:55:12Z",
+  "generated_at": "2026-03-27T22:21:16Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "I escaped North Korea with my mum. Now I'm terrified she might be sent back",
+      "url": "https://www.bbc.com/news/articles/c239n93ejm8o?at_medium=RSS&at_campaign=rss",
+      "summary": "Geumseong made it safely to South Korea, but his mother is stuck in a Chinese prison and may be forcibly repatriated.",
+      "published_at": "2026-03-27T22:05:42Z",
+      "country_code": "KR",
+      "country_name": "South Korea"
+    },
+    {
+      "source": "BBC World",
+      "title": "Man arrested over plot to firebomb pro-Palestinian activist's NY home",
+      "url": "https://www.bbc.com/news/articles/c4g69q6r32do?at_medium=RSS&at_campaign=rss",
+      "summary": "Agents found eight Molotov cocktails in the man's Hoboken home, according to court documents.",
+      "published_at": "2026-03-27T22:03:34Z",
+      "country_code": "PS",
+      "country_name": "Palestine"
+    },
     {
       "source": "BBC World",
       "title": "'My daughter is under the rubble': Inside Tehran as civilian toll of strikes rises",
@@ -407,15 +425,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Europe",
-      "title": "Four arrested in Germany after Channel smuggling gang raids",
-      "url": "https://www.bbc.com/news/articles/cgld95j1e2jo?at_medium=RSS&at_campaign=rss",
-      "summary": "Europol said more than 450 officers from the UK, Germany and Belgium were involved in the operation.",
-      "published_at": "2026-03-25T17:03:57Z",
-      "country_code": "GB",
-      "country_name": "United Kingdom"
-    },
-    {
       "source": "BBC Africa",
       "title": "Saudi Pro League, the US or Europe - what are Salah's options?",
       "url": "https://www.bbc.com/sport/football/articles/c86ew5d52d9o?at_medium=RSS&at_campaign=rss",
@@ -423,24 +432,6 @@
       "published_at": "2026-03-25T14:50:13Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC Europe",
-      "title": "Estonia and Latvia say territories hit by stray Ukrainian drones",
-      "url": "https://www.bbc.com/news/articles/c1eql309n12o?at_medium=RSS&at_campaign=rss",
-      "summary": "The incidents occurred on the same night that Ukraine launched a massive attack on Russia's port of Ust-Luga, near the Estonian border.",
-      "published_at": "2026-03-25T12:42:14Z",
-      "country_code": "RU",
-      "country_name": "Russia"
-    },
-    {
-      "source": "BBC Asia",
-      "title": "Indian singer's drowning was accidental - Singapore coroner",
-      "url": "https://www.bbc.com/news/articles/c747x091n79o?at_medium=RSS&at_campaign=rss",
-      "summary": "The coroner ruled that there was no evidence of foul play in the death of iconic singer Zubeen Garg.",
-      "published_at": "2026-03-25T12:40:21Z",
-      "country_code": "SG",
-      "country_name": "Singapore"
     },
     {
       "source": "BBC Middle East",
@@ -887,23 +878,18 @@
       "news_count": 13
     },
     {
-      "country_code": "GB",
-      "country_name": "United Kingdom",
-      "news_count": 4
-    },
-    {
       "country_code": "IN",
       "country_name": "India",
       "news_count": 4
     },
     {
-      "country_code": "RU",
-      "country_name": "Russia",
-      "news_count": 4
-    },
-    {
       "country_code": "FR",
       "country_name": "France",
+      "news_count": 3
+    },
+    {
+      "country_code": "GB",
+      "country_name": "United Kingdom",
       "news_count": 3
     },
     {
@@ -914,6 +900,16 @@
     {
       "country_code": "NG",
       "country_name": "Nigeria",
+      "news_count": 3
+    },
+    {
+      "country_code": "PS",
+      "country_name": "Palestine",
+      "news_count": 3
+    },
+    {
+      "country_code": "RU",
+      "country_name": "Russia",
       "news_count": 3
     },
     {
@@ -934,16 +930,6 @@
     {
       "country_code": "PH",
       "country_name": "Philippines",
-      "news_count": 2
-    },
-    {
-      "country_code": "PS",
-      "country_name": "Palestine",
-      "news_count": 2
-    },
-    {
-      "country_code": "SG",
-      "country_name": "Singapore",
       "news_count": 2
     },
     {
@@ -987,6 +973,11 @@
       "news_count": 1
     },
     {
+      "country_code": "KR",
+      "country_name": "South Korea",
+      "news_count": 1
+    },
+    {
       "country_code": "MA",
       "country_name": "Morocco",
       "news_count": 1
@@ -1004,6 +995,11 @@
     {
       "country_code": "SD",
       "country_name": "Sudan",
+      "news_count": 1
+    },
+    {
+      "country_code": "SG",
+      "country_name": "Singapore",
       "news_count": 1
     },
     {
