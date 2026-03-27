@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-03-27T15:13:27Z",
+  "generated_at": "2026-03-27T16:10:46Z",
   "articles": [
+    {
+      "source": "BBC US & Canada",
+      "title": "Gilgo Beach serial killings suspect to plead guilty, US media report",
+      "url": "https://www.bbc.com/news/articles/c78lwy32d2qo?at_medium=RSS&at_campaign=rss",
+      "summary": "Rex Heuermann, who is accused of murdering seven women, previously maintained his innocence and pleaded not guilty.",
+      "published_at": "2026-03-27T15:41:02Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC Middle East",
       "title": "Why did US and Israel attack Iran and how long could the war last?",
@@ -12,9 +21,9 @@
     },
     {
       "source": "BBC World",
-      "title": "Austria plans social media ban for under-14s",
+      "title": "Austria becomes latest to propose social media ban for children",
       "url": "https://www.bbc.com/news/articles/cwyv70de9exo?at_medium=RSS&at_campaign=rss",
-      "summary": "The move follows similar steps in other European countries, including France and Spain.",
+      "summary": "The proposed under-14 ban follows similar steps in other European countries, including France and Spain.",
       "published_at": "2026-03-27T14:25:02Z",
       "country_code": "FR",
       "country_name": "France"
@@ -173,15 +182,6 @@
       "country_name": "Russia"
     },
     {
-      "source": "BBC US & Canada",
-      "title": "Campaigners welcome Meta and YouTube's defeat in landmark social media addiction trial",
-      "url": "https://www.bbc.com/news/articles/c747x7gz249o?at_medium=RSS&at_campaign=rss",
-      "summary": "A woman has been awarded $6m in a verdict that could have implications for hundreds of other cases in the US.",
-      "published_at": "2026-03-27T03:21:48Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC World",
       "title": "Belarus leader gifts rifle to North Korea's Kim as they sign friendship treaty",
       "url": "https://www.bbc.com/news/articles/c8957dxjvkxo?at_medium=RSS&at_campaign=rss",
@@ -243,15 +243,6 @@
       "published_at": "2026-03-26T18:49:46Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "Air Canada CEO 'deeply saddened' his English-only message distracted from victims of crash",
-      "url": "https://www.bbc.com/news/articles/cgrlnw70xyko?at_medium=RSS&at_campaign=rss",
-      "summary": "Michael Rousseau has faced calls to resign for not speaking French in his message after the LaGuardia crash, which killed two Air Canada pil…",
-      "published_at": "2026-03-26T17:57:30Z",
-      "country_code": "CA",
-      "country_name": "Canada"
     },
     {
       "source": "BBC US & Canada",
@@ -949,11 +940,6 @@
       "news_count": 2
     },
     {
-      "country_code": "CA",
-      "country_name": "Canada",
-      "news_count": 2
-    },
-    {
       "country_code": "IL",
       "country_name": "Israel",
       "news_count": 2
@@ -986,6 +972,11 @@
     {
       "country_code": "BR",
       "country_name": "Brazil",
+      "news_count": 1
+    },
+    {
+      "country_code": "CA",
+      "country_name": "Canada",
       "news_count": 1
     },
     {
