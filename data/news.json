@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-27T22:21:16Z",
+  "generated_at": "2026-03-27T22:57:13Z",
   "articles": [
     {
       "source": "BBC World",
@@ -13,6 +13,15 @@
     {
       "source": "BBC World",
       "title": "Man arrested over plot to firebomb pro-Palestinian activist's NY home",
+      "url": "https://www.bbc.com/news/articles/c4g69q6r32do?at_medium=RSS&at_campaign=rss",
+      "summary": "Agents found eight Molotov cocktails in the man's Hoboken home, according to court documents.",
+      "published_at": "2026-03-27T22:03:34Z",
+      "country_code": "PS",
+      "country_name": "Palestine"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "Man arrested over plot to firebomb NY pro-Palestinian activist's home",
       "url": "https://www.bbc.com/news/articles/c4g69q6r32do?at_medium=RSS&at_campaign=rss",
       "summary": "Agents found eight Molotov cocktails in the man's Hoboken home, according to court documents.",
       "published_at": "2026-03-27T22:03:34Z",
@@ -883,6 +892,11 @@
       "news_count": 4
     },
     {
+      "country_code": "PS",
+      "country_name": "Palestine",
+      "news_count": 4
+    },
+    {
       "country_code": "FR",
       "country_name": "France",
       "news_count": 3
@@ -900,11 +914,6 @@
     {
       "country_code": "NG",
       "country_name": "Nigeria",
-      "news_count": 3
-    },
-    {
-      "country_code": "PS",
-      "country_name": "Palestine",
       "news_count": 3
     },
     {
