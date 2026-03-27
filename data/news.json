@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-03-27T11:34:48Z",
+  "generated_at": "2026-03-27T12:39:13Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Two Cuba-bound aid ships missing after leaving Mexico",
+      "url": "https://www.bbc.com/news/articles/cp84kw1y337o?at_medium=RSS&at_campaign=rss",
+      "summary": "Mexico's navy launches a rescue mission for ships delivering aid to Cuba, strained by food and fuel shortages amid a US embargo.",
+      "published_at": "2026-03-27T12:31:17Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Palestinian man killed as death toll from West Bank settler violence climbs",
+      "url": "https://www.bbc.com/news/articles/c62l7l99z9do?at_medium=RSS&at_campaign=rss",
+      "summary": "Mohammad al-Malhi is the seventh Palestinian killed by a settler in a surge of violence since the start of the war with Iran.",
+      "published_at": "2026-03-27T12:30:10Z",
+      "country_code": "PS",
+      "country_name": "Palestine"
+    },
+    {
+      "source": "BBC World",
+      "title": "Savannah Guthrie to return to Today show as search for mother continues",
+      "url": "https://www.bbc.com/news/articles/c79jd4x572qo?at_medium=RSS&at_campaign=rss",
+      "summary": "The US television presenter will return to hosting her NBC News programme in April.",
+      "published_at": "2026-03-27T12:24:25Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "UN human rights chief calls on US to conclude probe into Iran school strike",
+      "url": "https://www.bbc.com/news/articles/c75kzk3lgl5o?at_medium=RSS&at_campaign=rss",
+      "summary": "The strike - which killed at least 168 people, mostly children - \"evoked a visceral horror\", Volker Türk said.",
+      "published_at": "2026-03-27T12:06:18Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC Africa",
       "title": "Morocco ready to host Wafcon 'any time' as questions remain over postponement",
@@ -56,7 +92,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Africa",
       "title": "South Africa's exclusion from G7 summit no surprise, says Ramaphosa",
       "url": "https://www.bbc.com/news/articles/c4g8w9d3j0xo?at_medium=RSS&at_campaign=rss",
       "summary": "Reports say the US pressured France to rescind Ramaphosa’s invitation after Trump threatened to boycott the summit.",
@@ -92,15 +128,6 @@
       "country_name": "Russia"
     },
     {
-      "source": "BBC World",
-      "title": "Two Cuba-bound aid ships missing after leaving Mexico",
-      "url": "https://www.bbc.com/news/articles/cp84kw1y337o?at_medium=RSS&at_campaign=rss",
-      "summary": "Mexico's navy launches a rescue mission for ships delivering aid to Cuba, strained by food and fuel shortages amid a US embargo.",
-      "published_at": "2026-03-27T03:42:48Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC US & Canada",
       "title": "Campaigners welcome Meta and YouTube's defeat in landmark social media addiction trial",
       "url": "https://www.bbc.com/news/articles/c747x7gz249o?at_medium=RSS&at_campaign=rss",
@@ -128,7 +155,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "Sarah Ferguson's 'close Epstein ties' scrutinised in US lawmaker's letter",
       "url": "https://www.bbc.com/news/articles/c80m5y428xpo?at_medium=RSS&at_campaign=rss",
       "summary": "The letter, seen by the BBC, also called on Ferguson to share any knowledge about Andrew Mountbatten-Windsor's links to Epstein.",
@@ -786,15 +813,6 @@
     },
     {
       "source": "BBC Middle East",
-      "title": "How Iran war laid bare the world's reliance on Gulf oil and gas",
-      "url": "https://www.bbc.com/news/articles/c15x1y8d37vo?at_medium=RSS&at_campaign=rss",
-      "summary": "Countries around the world are feeling the impact of the conflict and the resulting energy price shock.",
-      "published_at": "2026-03-12T13:57:56Z",
-      "country_code": "IR",
-      "country_name": "Iran"
-    },
-    {
-      "source": "BBC Middle East",
       "title": "'What if we're left with ruins?': Doubts creep in for Iranians who supported war",
       "url": "https://www.bbc.com/news/articles/c3094g50rnvo?at_medium=RSS&at_campaign=rss",
       "summary": "Teachers, engineers and shopkeepers tell the BBC they fear Iran falling into chaos.",
@@ -888,12 +906,12 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 36
+      "news_count": 38
     },
     {
       "country_code": "IR",
       "country_name": "Iran",
-      "news_count": 14
+      "news_count": 13
     },
     {
       "country_code": "GB",
@@ -931,6 +949,11 @@
       "news_count": 3
     },
     {
+      "country_code": "PS",
+      "country_name": "Palestine",
+      "news_count": 3
+    },
+    {
       "country_code": "AU",
       "country_name": "Australia",
       "news_count": 2
@@ -948,11 +971,6 @@
     {
       "country_code": "PH",
       "country_name": "Philippines",
-      "news_count": 2
-    },
-    {
-      "country_code": "PS",
-      "country_name": "Palestine",
       "news_count": 2
     },
     {
