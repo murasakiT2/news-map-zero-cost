@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-03-28T20:18:26Z",
+  "generated_at": "2026-03-28T20:52:54Z",
   "articles": [
     {
       "source": "BBC World",
       "title": "Iran-backed Houthis join war with attack against Israel",
       "url": "https://www.bbc.com/news/articles/cd6l5n8jv4yo?at_medium=RSS&at_campaign=rss",
       "summary": "There are fears the Iranian proxy may attack shipping in the Red Sea, adding to global economic woes.",
-      "published_at": "2026-03-28T20:11:53Z",
+      "published_at": "2026-03-28T20:51:57Z",
       "country_code": "IL",
       "country_name": "Israel"
     },
@@ -18,6 +18,15 @@
       "published_at": "2026-03-28T19:08:30Z",
       "country_code": "IR",
       "country_name": "Iran"
+    },
+    {
+      "source": "BBC World",
+      "title": "No Kings protests across the US rally against Donald Trump",
+      "url": "https://www.bbc.com/news/articles/cq8wy7g1gd1o?at_medium=RSS&at_campaign=rss",
+      "summary": "The demonstrations against the Trump administration are set to sweep cities across the US on Saturday.",
+      "published_at": "2026-03-28T18:53:43Z",
+      "country_code": "US",
+      "country_name": "United States"
     },
     {
       "source": "BBC World",
@@ -915,7 +924,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 37
+      "news_count": 38
     },
     {
       "country_code": "IR",
