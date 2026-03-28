@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-28T21:50:33Z",
+  "generated_at": "2026-03-28T22:18:10Z",
   "articles": [
     {
       "source": "BBC World",
@@ -135,6 +135,15 @@
       "published_at": "2026-03-27T23:19:46Z",
       "country_code": "CN",
       "country_name": "China"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "One month in, what do American conservatives make of the war in Iran?",
+      "url": "https://www.bbc.com/news/videos/cn8dy898nxwo?at_medium=RSS&at_campaign=rss",
+      "summary": "Attendees at the annual CPAC conference in Texas are conflicted about Operation Epic Fury, which was launched by the US and Israel on 28 Feb…",
+      "published_at": "2026-03-27T22:23:45Z",
+      "country_code": "US",
+      "country_name": "United States"
     },
     {
       "source": "BBC Asia",
@@ -372,15 +381,6 @@
     },
     {
       "source": "BBC US & Canada",
-      "title": "Trump's signature to appear on US dollars in first for sitting president",
-      "url": "https://www.bbc.com/news/articles/cz0el909yp3o?at_medium=RSS&at_campaign=rss",
-      "summary": "The US president's signature will appear on new paper currency alongside Treasury Secretary Scott Bessent.",
-      "published_at": "2026-03-26T23:36:14Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC US & Canada",
       "title": "US prosecutors argue Maduro 'plundered' Venezuelan wealth in court battle over legal fees",
       "url": "https://www.bbc.com/news/articles/c4g8wxyq7v5o?at_medium=RSS&at_campaign=rss",
       "summary": "A judge said the right to defence was paramount as prosecutors argued the couple should not be able to use Venezuelan funds to pay lawyers.",
@@ -497,7 +497,7 @@
       "country_name": "Australia"
     },
     {
-      "source": "BBC US & Canada",
+      "source": "BBC Middle East",
       "title": "Trump's Iran strategy is to pursue two off-ramps at once",
       "url": "https://www.bbc.com/news/articles/c15d980nyw1o?at_medium=RSS&at_campaign=rss",
       "summary": "The White House insists the president is dictating events, but even some Republicans are frustrated by mixed messaging about his war aims.",
