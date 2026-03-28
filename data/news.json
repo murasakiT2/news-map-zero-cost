@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-03-28T18:26:03Z",
+  "generated_at": "2026-03-28T19:05:17Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Shops and restaurants in Egypt told to close early as energy crisis deepens",
+      "url": "https://www.bbc.com/news/articles/c0rxz7ggv8go?at_medium=RSS&at_campaign=rss",
+      "summary": "Retail and dining premises will have to shut by 21:00 each night for the next month to conserve power.",
+      "published_at": "2026-03-28T18:34:24Z",
+      "country_code": "EG",
+      "country_name": "Egypt"
+    },
     {
       "source": "BBC Africa",
       "title": "Senegal parade Afcon trophy despite title controversy",
@@ -940,6 +949,11 @@
       "news_count": 2
     },
     {
+      "country_code": "EG",
+      "country_name": "Egypt",
+      "news_count": 2
+    },
+    {
       "country_code": "IL",
       "country_name": "Israel",
       "news_count": 2
@@ -982,11 +996,6 @@
     {
       "country_code": "CO",
       "country_name": "Colombia",
-      "news_count": 1
-    },
-    {
-      "country_code": "EG",
-      "country_name": "Egypt",
       "news_count": 1
     },
     {
