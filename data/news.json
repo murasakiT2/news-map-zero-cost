@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-03-28T19:05:17Z",
+  "generated_at": "2026-03-28T19:49:29Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Potential Houthi threat to Red Sea shipping could further damage global economy",
+      "url": "https://www.bbc.com/news/articles/cwyvd5z1xjno?at_medium=RSS&at_campaign=rss",
+      "summary": "The Iran-backed group could bring a second crucial waterway to a standstill, writes Sebastian Usher.",
+      "published_at": "2026-03-28T19:08:30Z",
+      "country_code": "IR",
+      "country_name": "Iran"
+    },
     {
       "source": "BBC World",
       "title": "Shops and restaurants in Egypt told to close early as energy crisis deepens",
@@ -9,6 +18,15 @@
       "published_at": "2026-03-28T18:34:24Z",
       "country_code": "EG",
       "country_name": "Egypt"
+    },
+    {
+      "source": "BBC World",
+      "title": "Iran-backed Houthis join war with attack against Israel",
+      "url": "https://www.bbc.com/news/articles/cd6l5n8jv4yo?at_medium=RSS&at_campaign=rss",
+      "summary": "There are fears the Iranian proxy may attack shipping in the Red Sea, adding to global economic woes.",
+      "published_at": "2026-03-28T18:18:32Z",
+      "country_code": "IL",
+      "country_name": "Israel"
     },
     {
       "source": "BBC Africa",
@@ -72,15 +90,6 @@
       "published_at": "2026-03-28T00:01:19Z",
       "country_code": "GB",
       "country_name": "United Kingdom"
-    },
-    {
-      "source": "BBC World",
-      "title": "'Memory of a generation': China mourns the sudden death of a controversial education influencer",
-      "url": "https://www.bbc.com/news/articles/c15dz7ql59yo?at_medium=RSS&at_campaign=rss",
-      "summary": "The divisive 41-year-old was among the country's most prominent influencers.",
-      "published_at": "2026-03-27T23:19:46Z",
-      "country_code": "CN",
-      "country_name": "China"
     },
     {
       "source": "BBC World",
@@ -911,7 +920,7 @@
     {
       "country_code": "IR",
       "country_name": "Iran",
-      "news_count": 14
+      "news_count": 15
     },
     {
       "country_code": "PS",
@@ -926,6 +935,11 @@
     {
       "country_code": "FR",
       "country_name": "France",
+      "news_count": 3
+    },
+    {
+      "country_code": "IL",
+      "country_name": "Israel",
       "news_count": 3
     },
     {
@@ -951,11 +965,6 @@
     {
       "country_code": "EG",
       "country_name": "Egypt",
-      "news_count": 2
-    },
-    {
-      "country_code": "IL",
-      "country_name": "Israel",
       "news_count": 2
     },
     {
@@ -986,11 +995,6 @@
     {
       "country_code": "CA",
       "country_name": "Canada",
-      "news_count": 1
-    },
-    {
-      "country_code": "CN",
-      "country_name": "China",
       "news_count": 1
     },
     {
