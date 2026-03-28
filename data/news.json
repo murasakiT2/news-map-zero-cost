@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-03-28T23:21:41Z",
+  "generated_at": "2026-03-28T23:52:05Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "India restoring a centuries-old royal kitchen that never stopped serving food",
+      "url": "https://www.bbc.com/news/articles/cj0vj36yd12o?at_medium=RSS&at_campaign=rss",
+      "summary": "The royal kitchen still serves food, but the complex has been worn down by time.",
+      "published_at": "2026-03-28T23:25:03Z",
+      "country_code": "IN",
+      "country_name": "India"
+    },
     {
       "source": "BBC World",
       "title": "Shops and restaurants in Egypt told to close early as energy crisis deepens",
@@ -18,15 +27,6 @@
       "published_at": "2026-03-28T22:48:02Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "Frosting, sprinkles and layers of fun: Giant cake picnic hits Sydney",
-      "url": "https://www.bbc.com/news/articles/c1w40dy58vwo?at_medium=RSS&at_campaign=rss",
-      "summary": "Hundreds of bakers head to Sydney's Botanic Gardens to share and savour their colourful creations.",
-      "published_at": "2026-03-28T21:04:30Z",
-      "country_code": "AU",
-      "country_name": "Australia"
     },
     {
       "source": "BBC Middle East",
@@ -847,23 +847,18 @@
       "news_count": 5
     },
     {
+      "country_code": "IN",
+      "country_name": "India",
+      "news_count": 4
+    },
+    {
       "country_code": "PS",
       "country_name": "Palestine",
       "news_count": 4
     },
     {
-      "country_code": "AU",
-      "country_name": "Australia",
-      "news_count": 3
-    },
-    {
       "country_code": "FR",
       "country_name": "France",
-      "news_count": 3
-    },
-    {
-      "country_code": "IN",
-      "country_name": "India",
       "news_count": 3
     },
     {
@@ -875,6 +870,11 @@
       "country_code": "NG",
       "country_name": "Nigeria",
       "news_count": 3
+    },
+    {
+      "country_code": "AU",
+      "country_name": "Australia",
+      "news_count": 2
     },
     {
       "country_code": "EG",
