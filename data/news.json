@@ -1,14 +1,23 @@
 {
-  "generated_at": "2026-03-28T03:55:24Z",
+  "generated_at": "2026-03-28T05:17:48Z",
   "articles": [
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "US House to vote on DHS funding as travel chaos deepens",
       "url": "https://www.bbc.com/news/articles/c33l4j03kr3o?at_medium=RSS&at_campaign=rss",
       "summary": "The planned vote is unlikely to end the funding impasse as long security lines at US airports continue.",
       "published_at": "2026-03-28T01:49:48Z",
       "country_code": "US",
       "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "'Memory of a generation': China mourns the sudden death of a controversial education influencer",
+      "url": "https://www.bbc.com/news/articles/c15dz7ql59yo?at_medium=RSS&at_campaign=rss",
+      "summary": "The divisive 41-year-old was among the country's most prominent influencers.",
+      "published_at": "2026-03-27T23:19:46Z",
+      "country_code": "CN",
+      "country_name": "China"
     },
     {
       "source": "BBC World",
@@ -164,7 +173,7 @@
       "country_name": "Morocco"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Africa",
       "title": "Rationing power and diluting petrol - how African countries are coping with effects of Iran war",
       "url": "https://www.bbc.com/news/articles/cq8wkq1n9epo?at_medium=RSS&at_campaign=rss",
       "summary": "The disruption in oil supplies has caused shortages and concerns in several African countries.",
@@ -243,15 +252,6 @@
       "published_at": "2026-03-27T00:52:51Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "The 15-year-old Indian that cricket can no longer ignore",
-      "url": "https://www.bbc.com/news/articles/ce3dl636ly3o?at_medium=RSS&at_campaign=rss",
-      "summary": "At 15, prodigy Vaibhav Suryavanshi is forcing India to ask if he is already ready for the big stage.",
-      "published_at": "2026-03-27T00:27:22Z",
-      "country_code": "IN",
-      "country_name": "India"
     },
     {
       "source": "BBC World",
@@ -887,11 +887,6 @@
       "news_count": 13
     },
     {
-      "country_code": "IN",
-      "country_name": "India",
-      "news_count": 4
-    },
-    {
       "country_code": "PS",
       "country_name": "Palestine",
       "news_count": 4
@@ -904,6 +899,11 @@
     {
       "country_code": "GB",
       "country_name": "United Kingdom",
+      "news_count": 3
+    },
+    {
+      "country_code": "IN",
+      "country_name": "India",
       "news_count": 3
     },
     {
@@ -954,6 +954,11 @@
     {
       "country_code": "CA",
       "country_name": "Canada",
+      "news_count": 1
+    },
+    {
+      "country_code": "CN",
+      "country_name": "China",
       "news_count": 1
     },
     {
