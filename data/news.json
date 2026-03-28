@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-28T13:43:25Z",
+  "generated_at": "2026-03-28T14:23:05Z",
   "articles": [
     {
       "source": "BBC World",
@@ -18,6 +18,15 @@
       "published_at": "2026-03-28T06:00:37Z",
       "country_code": "PS",
       "country_name": "Palestine"
+    },
+    {
+      "source": "BBC World",
+      "title": "Noah Wyle is back in A&E with new drama The Pitt: 'I hope people watch with empathy'",
+      "url": "https://www.bbc.com/news/articles/czjw37ne208o?at_medium=RSS&at_campaign=rss",
+      "summary": "The former ER star is back playing a physician with PTSD in a new US medical drama.",
+      "published_at": "2026-03-28T01:36:23Z",
+      "country_code": "US",
+      "country_name": "United States"
     },
     {
       "source": "BBC World",
@@ -218,7 +227,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Africa",
       "title": "Women secretly filmed, then ridiculed and abused online",
       "url": "https://www.bbc.com/news/articles/cy5141zyllno?at_medium=RSS&at_campaign=rss",
       "summary": "Women in Kenya and Ghana tell the BBC about being approached by a Russian man who later posts videos of them without their consent.",
@@ -888,7 +897,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 36
+      "news_count": 37
     },
     {
       "country_code": "IR",
