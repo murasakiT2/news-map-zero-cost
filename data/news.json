@@ -1,8 +1,17 @@
 {
-  "generated_at": "2026-03-28T08:41:35Z",
+  "generated_at": "2026-03-28T09:27:08Z",
   "articles": [
     {
       "source": "BBC World",
+      "title": "House Republicans reject Senate deal, prolonging partial government shutdown",
+      "url": "https://www.bbc.com/news/articles/cgj052l1j2no?at_medium=RSS&at_campaign=rss",
+      "summary": "Airport security agents have not been paid in more than a month due to a congressional impasse, causing travel chaos across the US.",
+      "published_at": "2026-03-28T08:38:34Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC US & Canada",
       "title": "US House to vote on DHS funding as travel chaos deepens",
       "url": "https://www.bbc.com/news/articles/c33l4j03kr3o?at_medium=RSS&at_campaign=rss",
       "summary": "The planned vote is unlikely to end the funding impasse as long security lines at US airports continue.",
@@ -488,7 +497,7 @@
       "country_name": "Colombia"
     },
     {
-      "source": "BBC US & Canada",
+      "source": "BBC World",
       "title": "What happened in the seconds before Air Canada plane crashed at LaGuardia",
       "url": "https://www.bbc.com/news/videos/c70584eye0no?at_medium=RSS&at_campaign=rss",
       "summary": "BBC Verify breaks down the moments before the deadly collision with a fire truck at the New York airport.",
@@ -879,7 +888,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 37
+      "news_count": 38
     },
     {
       "country_code": "IR",
