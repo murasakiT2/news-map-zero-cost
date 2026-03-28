@@ -1,14 +1,23 @@
 {
-  "generated_at": "2026-03-28T20:52:54Z",
+  "generated_at": "2026-03-28T21:20:48Z",
   "articles": [
     {
       "source": "BBC World",
-      "title": "Iran-backed Houthis join war with attack against Israel",
-      "url": "https://www.bbc.com/news/articles/cd6l5n8jv4yo?at_medium=RSS&at_campaign=rss",
-      "summary": "There are fears the Iranian proxy may attack shipping in the Red Sea, adding to global economic woes.",
-      "published_at": "2026-03-28T20:51:57Z",
-      "country_code": "IL",
-      "country_name": "Israel"
+      "title": "No Kings protests across the US rally against Donald Trump",
+      "url": "https://www.bbc.com/news/articles/cq8wy7g1gd1o?at_medium=RSS&at_campaign=rss",
+      "summary": "The demonstrations against the Trump administration are set to sweep cities across the US on Saturday.",
+      "published_at": "2026-03-28T21:10:08Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Frosting, sprinkles and layers of fun: Giant cake picnic hits Sydney",
+      "url": "https://www.bbc.com/news/articles/c1w40dy58vwo?at_medium=RSS&at_campaign=rss",
+      "summary": "Hundreds of bakers head to Sydney's Botanic Gardens to share and savour their colourful creations.",
+      "published_at": "2026-03-28T21:04:30Z",
+      "country_code": "AU",
+      "country_name": "Australia"
     },
     {
       "source": "BBC World",
@@ -18,15 +27,6 @@
       "published_at": "2026-03-28T19:08:30Z",
       "country_code": "IR",
       "country_name": "Iran"
-    },
-    {
-      "source": "BBC World",
-      "title": "No Kings protests across the US rally against Donald Trump",
-      "url": "https://www.bbc.com/news/articles/cq8wy7g1gd1o?at_medium=RSS&at_campaign=rss",
-      "summary": "The demonstrations against the Trump administration are set to sweep cities across the US on Saturday.",
-      "published_at": "2026-03-28T18:53:43Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC World",
@@ -101,7 +101,7 @@
       "country_name": "United Kingdom"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "I escaped North Korea with my mum. Now I'm terrified she might be sent back",
       "url": "https://www.bbc.com/news/articles/c239n93ejm8o?at_medium=RSS&at_campaign=rss",
       "summary": "Geumseong survived a dangerous journey to South Korea, but his mother is stuck in a Chinese prison and may be forcibly repatriated.",
@@ -942,13 +942,13 @@
       "news_count": 4
     },
     {
-      "country_code": "FR",
-      "country_name": "France",
+      "country_code": "AU",
+      "country_name": "Australia",
       "news_count": 3
     },
     {
-      "country_code": "IL",
-      "country_name": "Israel",
+      "country_code": "FR",
+      "country_name": "France",
       "news_count": 3
     },
     {
@@ -967,13 +967,13 @@
       "news_count": 3
     },
     {
-      "country_code": "AU",
-      "country_name": "Australia",
+      "country_code": "EG",
+      "country_name": "Egypt",
       "news_count": 2
     },
     {
-      "country_code": "EG",
-      "country_name": "Egypt",
+      "country_code": "IL",
+      "country_name": "Israel",
       "news_count": 2
     },
     {
