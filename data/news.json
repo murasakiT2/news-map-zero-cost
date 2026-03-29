@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-29T10:35:01Z",
+  "generated_at": "2026-03-29T11:20:28Z",
   "articles": [
     {
       "source": "BBC World",
@@ -596,15 +596,6 @@
       "country_name": "Canada"
     },
     {
-      "source": "BBC Africa",
-      "title": "Salah to leave Liverpool at end of season",
-      "url": "https://www.bbc.com/sport/football/articles/c0e7ww12w2qo?at_medium=RSS&at_campaign=rss",
-      "summary": "The Egypt forward says Liverpool fans \"gave me the best time of my life\" and \"stood by me in the toughest times\".",
-      "published_at": "2026-03-24T20:34:23Z",
-      "country_code": "EG",
-      "country_name": "Egypt"
-    },
-    {
       "source": "BBC Asia",
       "title": "Everyday life in Asia is being upended by Iran war fuel crisis",
       "url": "https://www.bbc.com/news/articles/c1450zj6n48o?at_medium=RSS&at_campaign=rss",
@@ -628,15 +619,6 @@
       "url": "https://www.bbc.com/news/articles/c93w2pw3y0no?at_medium=RSS&at_campaign=rss",
       "summary": "Nine UK universities are setting up campuses in India, but enrolment is expected to be modest initially.",
       "published_at": "2026-03-24T00:10:24Z",
-      "country_code": "GB",
-      "country_name": "United Kingdom"
-    },
-    {
-      "source": "BBC Africa",
-      "title": "Iwobi named on Football Black List alongside Carter and Eze",
-      "url": "https://www.bbc.com/sport/football/articles/c8jkywxr4xko?at_medium=RSS&at_campaign=rss",
-      "summary": "England defender Jess Carter, Arsenal attacker Eberechi Eze and Fulham midfielder Alex Iwobi are on the 2025 Football Black List.",
-      "published_at": "2026-03-24T00:04:08Z",
       "country_code": "GB",
       "country_name": "United Kingdom"
     },
@@ -666,15 +648,6 @@
       "published_at": "2026-03-23T16:45:52Z",
       "country_code": "FR",
       "country_name": "France"
-    },
-    {
-      "source": "BBC Africa",
-      "title": "Nigerian heritage key to my success - Itauma",
-      "url": "https://www.bbc.com/sport/boxing/articles/clydn1elxw0o?at_medium=RSS&at_campaign=rss",
-      "summary": "Moses Itauma, one of heavyweight boxing's brightest prospects, says he found the answers to questions about his identity on a trip to his fa…",
-      "published_at": "2026-03-23T15:34:48Z",
-      "country_code": "NG",
-      "country_name": "Nigeria"
     },
     {
       "source": "BBC Middle East",
@@ -855,6 +828,15 @@
       "published_at": "2026-02-05T17:15:30Z",
       "country_code": "NG",
       "country_name": "Nigeria"
+    },
+    {
+      "source": "BBC Africa",
+      "title": "South African national park closed due to floods",
+      "url": "https://www.bbc.com/news/videos/c20d9qdz7zwo?at_medium=RSS&at_campaign=rss",
+      "summary": "Ongoing floods in the north-eastern provinces of South Africa has led to the closure of the world-famous Kruger National Park.",
+      "published_at": "2026-01-16T16:52:14Z",
+      "country_code": "ZA",
+      "country_name": "South Africa"
     }
   ],
   "regions": [
@@ -871,7 +853,7 @@
     {
       "country_code": "GB",
       "country_name": "United Kingdom",
-      "news_count": 5
+      "news_count": 4
     },
     {
       "country_code": "IN",
@@ -899,18 +881,8 @@
       "news_count": 3
     },
     {
-      "country_code": "NG",
-      "country_name": "Nigeria",
-      "news_count": 3
-    },
-    {
       "country_code": "AU",
       "country_name": "Australia",
-      "news_count": 2
-    },
-    {
-      "country_code": "EG",
-      "country_name": "Egypt",
       "news_count": 2
     },
     {
@@ -919,8 +891,18 @@
       "news_count": 2
     },
     {
+      "country_code": "NG",
+      "country_name": "Nigeria",
+      "news_count": 2
+    },
+    {
       "country_code": "RU",
       "country_name": "Russia",
+      "news_count": 2
+    },
+    {
+      "country_code": "ZA",
+      "country_name": "South Africa",
       "news_count": 2
     },
     {
@@ -946,6 +928,11 @@
     {
       "country_code": "DE",
       "country_name": "Germany",
+      "news_count": 1
+    },
+    {
+      "country_code": "EG",
+      "country_name": "Egypt",
       "news_count": 1
     },
     {
@@ -1001,11 +988,6 @@
     {
       "country_code": "UA",
       "country_name": "Ukraine",
-      "news_count": 1
-    },
-    {
-      "country_code": "ZA",
-      "country_name": "South Africa",
       "news_count": 1
     }
   ]
