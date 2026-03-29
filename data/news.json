@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-03-29T11:49:15Z",
+  "generated_at": "2026-03-29T12:31:50Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Iranian attacks across Gulf continue as major industrial sites hit",
+      "url": "https://www.bbc.com/news/articles/cp86yrq5jy7o?at_medium=RSS&at_campaign=rss",
+      "summary": "A number of people are said to have been injured after attacks on aluminium sites in the UAE and Bahrain.",
+      "published_at": "2026-03-29T11:38:20Z",
+      "country_code": "AE",
+      "country_name": "United Arab Emirates"
+    },
     {
       "source": "BBC World",
       "title": "No Kings protesters across the US rally against Donald Trump",
@@ -54,6 +63,15 @@
       "published_at": "2026-03-28T23:00:49Z",
       "country_code": "EG",
       "country_name": "Egypt"
+    },
+    {
+      "source": "BBC World",
+      "title": "Frosting, sprinkles and layers of fun: Giant cake picnic hits Sydney",
+      "url": "https://www.bbc.com/news/articles/c1w40dy58vwo?at_medium=RSS&at_campaign=rss",
+      "summary": "Hundreds of bakers head to the city's botanic gardens to share and savour their colourful creations.",
+      "published_at": "2026-03-28T21:04:30Z",
+      "country_code": "AU",
+      "country_name": "Australia"
     },
     {
       "source": "BBC Middle East",
@@ -263,15 +281,6 @@
       "country_name": "Spain"
     },
     {
-      "source": "BBC World",
-      "title": "Savannah Guthrie to return to Today show as search for mother continues",
-      "url": "https://www.bbc.com/news/articles/c79jd4x572qo?at_medium=RSS&at_campaign=rss",
-      "summary": "The US television presenter will return to hosting the NBC news programme in April.",
-      "published_at": "2026-03-27T13:46:09Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC Middle East",
       "title": "UN human rights chief calls on US to conclude probe into Iran school strike",
       "url": "https://www.bbc.com/news/articles/c75kzk3lgl5o?at_medium=RSS&at_campaign=rss",
@@ -299,7 +308,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Middle East",
       "title": "Palestinian man killed as death toll from West Bank settler violence climbs",
       "url": "https://www.bbc.com/news/articles/c62l7l99z9do?at_medium=RSS&at_campaign=rss",
       "summary": "Mohammad al-Malhi is the seventh Palestinian killed by a settler in a surge of violence since the start of the war with Iran.",
@@ -843,7 +852,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 37
+      "news_count": 36
     },
     {
       "country_code": "IR",
@@ -866,6 +875,11 @@
       "news_count": 4
     },
     {
+      "country_code": "AU",
+      "country_name": "Australia",
+      "news_count": 3
+    },
+    {
       "country_code": "FR",
       "country_name": "France",
       "news_count": 3
@@ -879,11 +893,6 @@
       "country_code": "KE",
       "country_name": "Kenya",
       "news_count": 3
-    },
-    {
-      "country_code": "AU",
-      "country_name": "Australia",
-      "news_count": 2
     },
     {
       "country_code": "IL",
@@ -904,6 +913,11 @@
       "country_code": "ZA",
       "country_name": "South Africa",
       "news_count": 2
+    },
+    {
+      "country_code": "AE",
+      "country_name": "United Arab Emirates",
+      "news_count": 1
     },
     {
       "country_code": "BR",
