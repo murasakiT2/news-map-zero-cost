@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-03-29T15:29:40Z",
+  "generated_at": "2026-03-29T15:54:28Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Three arrested in Paris after attempted bomb attack outside Bank of America",
+      "url": "https://www.bbc.com/news/articles/cd9v234j2v7o?at_medium=RSS&at_campaign=rss",
+      "summary": "France's anti-terrorism prosecutor's office said it had immediately taken over the investigation.",
+      "published_at": "2026-03-29T15:33:36Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Two Australian states offer free public transport as war pushes up fuel prices",
+      "url": "https://www.bbc.com/news/articles/c937n0yxggeo?at_medium=RSS&at_campaign=rss",
+      "summary": "Victoria and Tasmania incentivise commuters not to drive as the Iran war causes the price of petrol to shoot up.",
+      "published_at": "2026-03-29T15:24:54Z",
+      "country_code": "IR",
+      "country_name": "Iran"
+    },
     {
       "source": "BBC World",
       "title": "African football chief resigns following row over Morocco-Senegal final",
@@ -207,15 +225,6 @@
       "published_at": "2026-03-27T22:05:42Z",
       "country_code": "KR",
       "country_name": "South Korea"
-    },
-    {
-      "source": "BBC World",
-      "title": "Man arrested over plot to firebomb pro-Palestinian activist's NY home",
-      "url": "https://www.bbc.com/news/articles/c4g69q6r32do?at_medium=RSS&at_campaign=rss",
-      "summary": "Agents found eight Molotov cocktails in the man's Hoboken home, according to court documents.",
-      "published_at": "2026-03-27T22:03:34Z",
-      "country_code": "PS",
-      "country_name": "Palestine"
     },
     {
       "source": "BBC US & Canada",
@@ -861,12 +870,12 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 36
+      "news_count": 37
     },
     {
       "country_code": "IR",
       "country_name": "Iran",
-      "news_count": 8
+      "news_count": 9
     },
     {
       "country_code": "GB",
@@ -876,11 +885,6 @@
     {
       "country_code": "IN",
       "country_name": "India",
-      "news_count": 4
-    },
-    {
-      "country_code": "PS",
-      "country_name": "Palestine",
       "news_count": 4
     },
     {
@@ -901,6 +905,11 @@
     {
       "country_code": "KE",
       "country_name": "Kenya",
+      "news_count": 3
+    },
+    {
+      "country_code": "PS",
+      "country_name": "Palestine",
       "news_count": 3
     },
     {
