@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-03-29T19:07:37Z",
+  "generated_at": "2026-03-29T19:51:44Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Italy investigates Sephora and Benefit over marketing skincare to children",
+      "url": "https://www.bbc.com/news/articles/c3dlk93m7jyo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Italian Competition Authority said luxury goods giant LVMH appears to have adopted \"particularly insidious\" marketing strategies.",
+      "published_at": "2026-03-29T19:37:03Z",
+      "country_code": "IT",
+      "country_name": "Italy"
+    },
     {
       "source": "BBC World",
       "title": "Israeli police block Latin Patriarch from Palm Sunday mass in Jerusalem",
@@ -81,15 +90,6 @@
       "published_at": "2026-03-29T00:00:18Z",
       "country_code": "DE",
       "country_name": "Germany"
-    },
-    {
-      "source": "BBC World",
-      "title": "India restoring a centuries-old royal kitchen that never stopped serving food",
-      "url": "https://www.bbc.com/news/articles/cj0vj36yd12o?at_medium=RSS&at_campaign=rss",
-      "summary": "The royal kitchen still serves food, but the complex has been worn down by time.",
-      "published_at": "2026-03-28T23:25:03Z",
-      "country_code": "IN",
-      "country_name": "India"
     },
     {
       "source": "BBC World",
@@ -892,8 +892,8 @@
       "news_count": 4
     },
     {
-      "country_code": "IN",
-      "country_name": "India",
+      "country_code": "IT",
+      "country_name": "Italy",
       "news_count": 4
     },
     {
@@ -907,8 +907,8 @@
       "news_count": 3
     },
     {
-      "country_code": "IT",
-      "country_name": "Italy",
+      "country_code": "IN",
+      "country_name": "India",
       "news_count": 3
     },
     {
