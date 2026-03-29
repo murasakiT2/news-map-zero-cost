@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-03-29T18:27:05Z",
+  "generated_at": "2026-03-29T19:07:37Z",
   "articles": [
     {
       "source": "BBC World",
       "title": "Israeli police block Latin Patriarch from Palm Sunday mass in Jerusalem",
       "url": "https://www.bbc.com/news/articles/cvg0128z41eo?at_medium=RSS&at_campaign=rss",
-      "summary": "Israel's Prime Minister Benjamin Netanyahu says it was a safety measure following recent Iranian strikes.",
+      "summary": "The move drew criticism from the church, global leaders and the US ambassador. Israel's PM said it was a safety measure following recent Ira…",
       "published_at": "2026-03-29T17:09:00Z",
-      "country_code": "IL",
-      "country_name": "Israel"
+      "country_code": "US",
+      "country_name": "United States"
     },
     {
       "source": "BBC World",
@@ -54,15 +54,6 @@
       "published_at": "2026-03-29T13:32:49Z",
       "country_code": "AE",
       "country_name": "United Arab Emirates"
-    },
-    {
-      "source": "BBC World",
-      "title": "No Kings protesters across the US rally against Donald Trump",
-      "url": "https://www.bbc.com/news/articles/cq8wy7g1gd1o?at_medium=RSS&at_campaign=rss",
-      "summary": "One of the flagship No Kings rallies happened in Minnesota, where singer Bruce Springsteen performed to crowds.",
-      "published_at": "2026-03-29T04:11:27Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC World",
@@ -916,11 +907,6 @@
       "news_count": 3
     },
     {
-      "country_code": "IL",
-      "country_name": "Israel",
-      "news_count": 3
-    },
-    {
       "country_code": "IT",
       "country_name": "Italy",
       "news_count": 3
@@ -938,6 +924,11 @@
     {
       "country_code": "CA",
       "country_name": "Canada",
+      "news_count": 2
+    },
+    {
+      "country_code": "IL",
+      "country_name": "Israel",
       "news_count": 2
     },
     {
