@@ -1,6 +1,33 @@
 {
-  "generated_at": "2026-03-28T23:52:05Z",
+  "generated_at": "2026-03-29T01:22:05Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Trump is waging war based on instinct and it isn't working",
+      "url": "https://www.bbc.com/news/articles/c5y969pnxgvo?at_medium=RSS&at_campaign=rss",
+      "summary": "One month into the conflict in Iran, Trump's gut-instinct approach is not proving effective.",
+      "published_at": "2026-03-29T00:02:46Z",
+      "country_code": "IR",
+      "country_name": "Iran"
+    },
+    {
+      "source": "BBC World",
+      "title": "One ant for $220: the new frontier of wildlife trafficking",
+      "url": "https://www.bbc.com/news/articles/cg4g44zv37qo?at_medium=RSS&at_campaign=rss",
+      "summary": "The craze for collecting ants takes Kenya by surprise as smugglers zone in to make a profit.",
+      "published_at": "2026-03-29T00:01:15Z",
+      "country_code": "KE",
+      "country_name": "Kenya"
+    },
+    {
+      "source": "BBC World",
+      "title": "How deepfake porn scandal surrounding TV star rocked Germany",
+      "url": "https://www.bbc.com/news/articles/c9vlm4j47e2o?at_medium=RSS&at_campaign=rss",
+      "summary": "Collien Fernandes has accused her ex-husband of spreading images of her online, but he has categorically denied it.",
+      "published_at": "2026-03-29T00:00:18Z",
+      "country_code": "DE",
+      "country_name": "Germany"
+    },
     {
       "source": "BBC World",
       "title": "India restoring a centuries-old royal kitchen that never stopped serving food",
@@ -92,7 +119,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "Noah Wyle is back in A&E with new drama The Pitt: 'I hope people watch with empathy'",
       "url": "https://www.bbc.com/news/articles/czjw37ne208o?at_medium=RSS&at_campaign=rss",
       "summary": "The former ER star is back playing a physician with PTSD in a new US medical drama.",
@@ -245,7 +272,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Middle East",
       "title": "UN human rights chief calls on US to conclude probe into Iran school strike",
       "url": "https://www.bbc.com/news/articles/c75kzk3lgl5o?at_medium=RSS&at_campaign=rss",
       "summary": "The strike - which killed at least 168 people, mostly children - \"evoked a visceral horror\", Volker Türk said.",
@@ -839,7 +866,7 @@
     {
       "country_code": "IR",
       "country_name": "Iran",
-      "news_count": 7
+      "news_count": 8
     },
     {
       "country_code": "GB",
@@ -867,6 +894,11 @@
       "news_count": 3
     },
     {
+      "country_code": "KE",
+      "country_name": "Kenya",
+      "news_count": 3
+    },
+    {
       "country_code": "NG",
       "country_name": "Nigeria",
       "news_count": 3
@@ -884,11 +916,6 @@
     {
       "country_code": "IL",
       "country_name": "Israel",
-      "news_count": 2
-    },
-    {
-      "country_code": "KE",
-      "country_name": "Kenya",
       "news_count": 2
     },
     {
@@ -914,6 +941,11 @@
     {
       "country_code": "CO",
       "country_name": "Colombia",
+      "news_count": 1
+    },
+    {
+      "country_code": "DE",
+      "country_name": "Germany",
       "news_count": 1
     },
     {
