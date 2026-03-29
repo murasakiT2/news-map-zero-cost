@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-03-29T13:45:33Z",
+  "generated_at": "2026-03-29T14:25:26Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "African football chief resigns following row over Morocco-Senegal final",
+      "url": "https://www.bbc.com/news/articles/cx2w8d1q70vo?at_medium=RSS&at_campaign=rss",
+      "summary": "Veron Mosengo-Omba, a controversial figure, leaves at a turbulent time for African football.",
+      "published_at": "2026-03-29T13:53:17Z",
+      "country_code": "MA",
+      "country_name": "Morocco"
+    },
     {
       "source": "BBC World",
       "title": "Iranian attacks across Gulf continue as major industrial sites hit",
@@ -380,7 +389,7 @@
       "country_name": "Russia"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "Belarus leader gifts rifle to North Korea's Kim as they sign friendship treaty",
       "url": "https://www.bbc.com/news/articles/c8957dxjvkxo?at_medium=RSS&at_campaign=rss",
       "summary": "Two key supporters of Russia's war in Ukraine close ranks as Alexander Lukashenko visits Pyongyang.",
@@ -900,6 +909,11 @@
       "news_count": 2
     },
     {
+      "country_code": "MA",
+      "country_name": "Morocco",
+      "news_count": 2
+    },
+    {
       "country_code": "NG",
       "country_name": "Nigeria",
       "news_count": 2
@@ -967,11 +981,6 @@
     {
       "country_code": "KR",
       "country_name": "South Korea",
-      "news_count": 1
-    },
-    {
-      "country_code": "MA",
-      "country_name": "Morocco",
       "news_count": 1
     },
     {
