@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-03-29T16:23:14Z",
+  "generated_at": "2026-03-29T16:59:01Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Israeli police block Latin Patriarch from Palm Sunday mass in Jerusalem",
+      "url": "https://www.bbc.com/news/articles/cvg0128z41eo?at_medium=RSS&at_campaign=rss",
+      "summary": "Prime Minister Netanyahu said it was a safety measure following recent Iranian strikes.",
+      "published_at": "2026-03-29T16:42:17Z",
+      "country_code": "IL",
+      "country_name": "Israel"
+    },
     {
       "source": "BBC World",
       "title": "Canada's New Democratic Party elects Avi Lewis as its leader",
@@ -907,6 +916,11 @@
       "news_count": 3
     },
     {
+      "country_code": "IL",
+      "country_name": "Israel",
+      "news_count": 3
+    },
+    {
       "country_code": "IT",
       "country_name": "Italy",
       "news_count": 3
@@ -924,11 +938,6 @@
     {
       "country_code": "CA",
       "country_name": "Canada",
-      "news_count": 2
-    },
-    {
-      "country_code": "IL",
-      "country_name": "Israel",
       "news_count": 2
     },
     {
