@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-03-30T01:23:18Z",
+  "generated_at": "2026-03-30T04:21:34Z",
   "articles": [
+    {
+      "source": "BBC Middle East",
+      "title": "Why does the US have Iran's Kharg Island in its sights?",
+      "url": "https://www.bbc.com/news/articles/c8jxzlwvd8ro?at_medium=RSS&at_campaign=rss",
+      "summary": "The tiny island is home to one of the most critical pieces of Iran's energy infrastructure.",
+      "published_at": "2026-03-30T04:06:46Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC Asia",
+      "title": "Oil rises above $115 and Asia shares slide as Iran war escalates",
+      "url": "https://www.bbc.com/news/articles/cz905eyjznno?at_medium=RSS&at_campaign=rss",
+      "summary": "It comes after Iran-backed Houthi rebels in Yemen joined the conflict by striking Israel over the weekend.",
+      "published_at": "2026-03-30T03:34:37Z",
+      "country_code": "IL",
+      "country_name": "Israel"
+    },
     {
       "source": "BBC US & Canada",
       "title": "Partial government shutdown becomes the longest in US history",
@@ -479,15 +497,6 @@
       "country_name": "United Kingdom"
     },
     {
-      "source": "BBC Middle East",
-      "title": "Why does the US have Iran's Kharg Island in its sights?",
-      "url": "https://www.bbc.com/news/articles/c8jxzlwvd8ro?at_medium=RSS&at_campaign=rss",
-      "summary": "The tiny island is home to one of the most critical pieces of Iran's energy infrastructure.",
-      "published_at": "2026-03-26T14:03:39Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC Europe",
       "title": "Russia bans Oscar-winning film 'Mr Nobody Against Putin'",
       "url": "https://www.bbc.com/news/articles/cly97ddwgeko?at_medium=RSS&at_campaign=rss",
@@ -522,15 +531,6 @@
       "published_at": "2026-03-26T09:00:31Z",
       "country_code": "PH",
       "country_name": "Philippines"
-    },
-    {
-      "source": "BBC Asia",
-      "title": "Trump confirms May meeting with Xi Jinping as Iran war forces postponement",
-      "url": "https://www.bbc.com/news/articles/c05dpr1m71go?at_medium=RSS&at_campaign=rss",
-      "summary": "Trump's delayed meeting with Xi Jinping will be the first visit to China by a US president since 2017.",
-      "published_at": "2026-03-26T07:34:55Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC Africa",
@@ -825,7 +825,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 37
+      "news_count": 36
     },
     {
       "country_code": "IR",
@@ -865,6 +865,11 @@
     {
       "country_code": "CA",
       "country_name": "Canada",
+      "news_count": 2
+    },
+    {
+      "country_code": "IL",
+      "country_name": "Israel",
       "news_count": 2
     },
     {
@@ -930,11 +935,6 @@
     {
       "country_code": "ET",
       "country_name": "Ethiopia",
-      "news_count": 1
-    },
-    {
-      "country_code": "IL",
-      "country_name": "Israel",
       "news_count": 1
     },
     {
