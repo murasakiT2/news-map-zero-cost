@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-03-30T12:53:29Z",
+  "generated_at": "2026-03-30T14:21:37Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Latin Patriarch will have access to Jerusalem holy site after police stopped entry",
+      "url": "https://www.bbc.com/news/articles/cvg0128z41eo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Israeli PM says Cardinal Pierbattista Pizzaballa had been asked not to enter the church over concerns about Iranian strikes.",
+      "published_at": "2026-03-30T13:30:32Z",
+      "country_code": "IL",
+      "country_name": "Israel"
+    },
     {
       "source": "BBC World",
       "title": "Spain closes airspace to US aircraft involved in Iran war",
@@ -39,15 +48,6 @@
     },
     {
       "source": "BBC World",
-      "title": "Latin Patriarch will have access to Jerusalem holy site after police stopped entry",
-      "url": "https://www.bbc.com/news/articles/cvg0128z41eo?at_medium=RSS&at_campaign=rss",
-      "summary": "The Israeli PM said Cardinal Pierbattista Pizzaballa had been asked not to enter the church out of concern for his safety.",
-      "published_at": "2026-03-30T10:41:14Z",
-      "country_code": "IL",
-      "country_name": "Israel"
-    },
-    {
-      "source": "BBC World",
       "title": "Russia expels British diplomat over spying allegations",
       "url": "https://www.bbc.com/news/articles/czx94e7j5jpo?at_medium=RSS&at_campaign=rss",
       "summary": "A UK Foreign Office spokesman accused Russia of an \"aggressive and co-ordinated campaign of harassment against British diplomats\".",
@@ -65,7 +65,7 @@
       "country_name": "Israel"
     },
     {
-      "source": "BBC Asia",
+      "source": "BBC World",
       "title": "How Australia’s seven-month-long manhunt came to an end",
       "url": "https://www.bbc.com/news/videos/cjw8vqnlzxvo?at_medium=RSS&at_campaign=rss",
       "summary": "Fugitive Dezi Freeman has been wanted since he shot dead two police officers on his rural property in August last year.",
@@ -110,7 +110,7 @@
       "country_name": "India"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "Italy investigates Sephora and Benefit over marketing skincare to children",
       "url": "https://www.bbc.com/news/articles/c3dlk93m7jyo?at_medium=RSS&at_campaign=rss",
       "summary": "The Italian Competition Authority said luxury goods giant LVMH appears to have adopted \"particularly insidious\" marketing strategies.",
@@ -128,16 +128,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
-      "title": "Canada's New Democratic Party elects Avi Lewis as its leader",
-      "url": "https://www.bbc.com/news/articles/czd74q2nqp0o?at_medium=RSS&at_campaign=rss",
-      "summary": "Avi Lewis's campaign platform focused on revitalising the struggling left-leaning party and prioritising workers' rights.",
-      "published_at": "2026-03-29T16:01:00Z",
-      "country_code": "CA",
-      "country_name": "Canada"
-    },
-    {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "Three arrested in Paris after attempted bomb attack outside Bank of America",
       "url": "https://www.bbc.com/news/articles/cd9v234j2v7o?at_medium=RSS&at_campaign=rss",
       "summary": "France's anti-terrorism prosecutor's office said it had immediately taken over the investigation.",
@@ -147,15 +138,6 @@
     },
     {
       "source": "BBC World",
-      "title": "African football chief resigns following row over Morocco-Senegal final",
-      "url": "https://www.bbc.com/news/articles/cx2w8d1q70vo?at_medium=RSS&at_campaign=rss",
-      "summary": "Veron Mosengo-Omba, a controversial figure, leaves at a turbulent time for African football.",
-      "published_at": "2026-03-29T13:53:17Z",
-      "country_code": "MA",
-      "country_name": "Morocco"
-    },
-    {
-      "source": "BBC Africa",
       "title": "One ant for $220: The new frontier of wildlife trafficking",
       "url": "https://www.bbc.com/news/articles/cg4g44zv37qo?at_medium=RSS&at_campaign=rss",
       "summary": "The craze for collecting ants takes Kenya by surprise as smugglers zone in to make a profit.",
@@ -182,13 +164,22 @@
       "country_name": "India"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Middle East",
       "title": "Shops and restaurants in Egypt told to close early as energy crisis deepens",
       "url": "https://www.bbc.com/news/articles/c0rxz7ggv8go?at_medium=RSS&at_campaign=rss",
       "summary": "Retail and dining premises will have to shut by 21:00 each night for the next month to conserve power.",
       "published_at": "2026-03-28T23:00:49Z",
       "country_code": "EG",
       "country_name": "Egypt"
+    },
+    {
+      "source": "BBC World",
+      "title": "Watch: Iconic global landmarks turn off lights for Earth Hour",
+      "url": "https://www.bbc.com/news/videos/c4gx042nlezo?at_medium=RSS&at_campaign=rss",
+      "summary": "France's Eiffel Tower and Barcelona's Sagrada Família Basilica were among the famous global landmarks that went dark for an hour on Saturday…",
+      "published_at": "2026-03-28T22:02:34Z",
+      "country_code": "FR",
+      "country_name": "France"
     },
     {
       "source": "BBC Middle East",
@@ -218,20 +209,11 @@
       "country_name": "France"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "Bank of America to pay out $72.5m over Epstein lawsuit",
       "url": "https://www.bbc.com/news/articles/cn0wjgwvp2ko?at_medium=RSS&at_campaign=rss",
       "summary": "The settlement comes after a lawsuit accused the bank of facilitating Epstein's sex trafficking operation",
       "published_at": "2026-03-28T15:17:35Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "House Republicans reject Senate deal, prolonging partial US government shutdown",
-      "url": "https://www.bbc.com/news/articles/cgj052l1j2no?at_medium=RSS&at_campaign=rss",
-      "summary": "Airport security agents have not been paid in more than a month due to a congressional impasse, causing travel chaos across the US.",
-      "published_at": "2026-03-28T08:38:34Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -270,15 +252,6 @@
       "published_at": "2026-03-28T00:05:47Z",
       "country_code": "IR",
       "country_name": "Iran"
-    },
-    {
-      "source": "BBC World",
-      "title": "Maldives tells UK it does not recognise Chagos Islands deal with Mauritius",
-      "url": "https://www.bbc.com/news/articles/c74vedxjq8zo?at_medium=RSS&at_campaign=rss",
-      "summary": "The Maldives is threatening international legal action to press its claim for control of the Chagos Islands.",
-      "published_at": "2026-03-28T00:01:19Z",
-      "country_code": "GB",
-      "country_name": "United Kingdom"
     },
     {
       "source": "BBC Asia",
@@ -798,7 +771,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 35
+      "news_count": 34
     },
     {
       "country_code": "IR",
@@ -806,13 +779,13 @@
       "news_count": 5
     },
     {
-      "country_code": "GB",
-      "country_name": "United Kingdom",
+      "country_code": "FR",
+      "country_name": "France",
       "news_count": 4
     },
     {
-      "country_code": "FR",
-      "country_name": "France",
+      "country_code": "GB",
+      "country_name": "United Kingdom",
       "news_count": 3
     },
     {
@@ -846,16 +819,6 @@
       "news_count": 2
     },
     {
-      "country_code": "CA",
-      "country_name": "Canada",
-      "news_count": 2
-    },
-    {
-      "country_code": "MA",
-      "country_name": "Morocco",
-      "news_count": 2
-    },
-    {
       "country_code": "NG",
       "country_name": "Nigeria",
       "news_count": 2
@@ -868,6 +831,11 @@
     {
       "country_code": "BR",
       "country_name": "Brazil",
+      "news_count": 1
+    },
+    {
+      "country_code": "CA",
+      "country_name": "Canada",
       "news_count": 1
     },
     {
@@ -908,6 +876,11 @@
     {
       "country_code": "KR",
       "country_name": "South Korea",
+      "news_count": 1
+    },
+    {
+      "country_code": "MA",
+      "country_name": "Morocco",
       "news_count": 1
     },
     {
