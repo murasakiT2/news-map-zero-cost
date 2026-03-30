@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-03-30T04:21:34Z",
+  "generated_at": "2026-03-30T06:13:36Z",
   "articles": [
+    {
+      "source": "BBC Asia",
+      "title": "How Australia’s seven-month-long manhunt came to an end",
+      "url": "https://www.bbc.com/news/videos/cjw8vqnlzxvo?at_medium=RSS&at_campaign=rss",
+      "summary": "Fugitive Dezi Freeman has been wanted since he shot dead two police officers on his rural property in August last year.",
+      "published_at": "2026-03-30T05:58:41Z",
+      "country_code": "AU",
+      "country_name": "Australia"
+    },
+    {
+      "source": "BBC World",
+      "title": "Fuel tax halved and free public transport offered as war pushes up prices in Australia",
+      "url": "https://www.bbc.com/news/articles/c937n0yxggeo?at_medium=RSS&at_campaign=rss",
+      "summary": "Victoria and Tasmania are incentivising commuters not to drive in a bid to ease cost pressures.",
+      "published_at": "2026-03-30T05:38:26Z",
+      "country_code": "AU",
+      "country_name": "Australia"
+    },
     {
       "source": "BBC Middle East",
       "title": "Why does the US have Iran's Kharg Island in its sights?",
@@ -12,7 +30,7 @@
     },
     {
       "source": "BBC Asia",
-      "title": "Oil rises above $115 and Asia shares slide as Iran war escalates",
+      "title": "Oil rises above $115 and Asia shares slide as Iran war enters fifth week",
       "url": "https://www.bbc.com/news/articles/cz905eyjznno?at_medium=RSS&at_campaign=rss",
       "summary": "It comes after Iran-backed Houthi rebels in Yemen joined the conflict by striking Israel over the weekend.",
       "published_at": "2026-03-30T03:34:37Z",
@@ -63,15 +81,6 @@
       "published_at": "2026-03-29T15:33:36Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "Two Australian states offer free public transport as war pushes up fuel prices",
-      "url": "https://www.bbc.com/news/articles/c937n0yxggeo?at_medium=RSS&at_campaign=rss",
-      "summary": "Victoria and Tasmania incentivise commuters not to drive as the Iran war causes the price of petrol to shoot up.",
-      "published_at": "2026-03-29T15:24:54Z",
-      "country_code": "IR",
-      "country_name": "Iran"
     },
     {
       "source": "BBC World",
@@ -830,12 +839,17 @@
     {
       "country_code": "IR",
       "country_name": "Iran",
-      "news_count": 7
+      "news_count": 6
     },
     {
       "country_code": "IT",
       "country_name": "Italy",
       "news_count": 4
+    },
+    {
+      "country_code": "AU",
+      "country_name": "Australia",
+      "news_count": 3
     },
     {
       "country_code": "FR",
@@ -895,11 +909,6 @@
     {
       "country_code": "AE",
       "country_name": "United Arab Emirates",
-      "news_count": 1
-    },
-    {
-      "country_code": "AU",
-      "country_name": "Australia",
       "news_count": 1
     },
     {
