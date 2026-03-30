@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-03-30T18:45:11Z",
+  "generated_at": "2026-03-30T19:48:27Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Two Indonesian UN peacekeepers killed in explosion in Lebanon",
+      "url": "https://www.bbc.com/news/articles/c4gd20evgp0o?at_medium=RSS&at_campaign=rss",
+      "summary": "It is the second fatal incident in the last 24 hours, Unifil says, after Israel expanded its operation against Hezbollah.",
+      "published_at": "2026-03-30T19:14:12Z",
+      "country_code": "IL",
+      "country_name": "Israel"
+    },
     {
       "source": "BBC World",
       "title": "Most Syrian refugees in Germany expected to return home in three years, Merz says",
@@ -13,6 +22,15 @@
     {
       "source": "BBC World",
       "title": "Shock, sadness and relief in town at centre of Australia's seven-month manhunt for Dezi Freeman",
+      "url": "https://www.bbc.com/news/articles/cq59wj31vl4o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Australian town has been in the spotlight since Dezi Freeman shot dead two police officers last year.",
+      "published_at": "2026-03-30T18:01:03Z",
+      "country_code": "AU",
+      "country_name": "Australia"
+    },
+    {
+      "source": "BBC Asia",
+      "title": "Shock, sadness and relief in town at centre of Australia's seven-month police manhunt",
       "url": "https://www.bbc.com/news/articles/cq59wj31vl4o?at_medium=RSS&at_campaign=rss",
       "summary": "The Australian town has been in the spotlight since Dezi Freeman shot dead two police officers last year.",
       "published_at": "2026-03-30T18:01:03Z",
@@ -117,6 +135,15 @@
       "published_at": "2026-03-30T10:43:29Z",
       "country_code": "US",
       "country_name": "United States"
+    },
+    {
+      "source": "BBC Asia",
+      "title": "How office chair racing in Japan is attracting thrill-seekers",
+      "url": "https://www.bbc.com/news/videos/cx26075p834o?at_medium=RSS&at_campaign=rss",
+      "summary": "No souped-up chairs are allowed in this competition.",
+      "published_at": "2026-03-30T10:33:00Z",
+      "country_code": "JP",
+      "country_name": "Japan"
     },
     {
       "source": "BBC World",
@@ -360,15 +387,6 @@
       "published_at": "2026-03-27T21:30:12Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "Iran-backed hackers breach FBI director Kash Patel's personal emails",
-      "url": "https://www.bbc.com/news/articles/cvgl4yk7vgpo?at_medium=RSS&at_campaign=rss",
-      "summary": "A hacker group shares Patel's purported resume and photos - information, the FBI says, is \"historical in nature\".",
-      "published_at": "2026-03-27T19:21:19Z",
-      "country_code": "IR",
-      "country_name": "Iran"
     },
     {
       "source": "BBC Europe",
@@ -677,15 +695,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Europe",
-      "title": "Watch: Sean Penn receives 'Oscar' in Ukraine after skipping US ceremony",
-      "url": "https://www.bbc.com/news/videos/cgmlmv7vl0go?at_medium=RSS&at_campaign=rss",
-      "summary": "The Academy Award winning US actor won his third Oscar on Sunday, but skipped the ceremony to visit Ukraine.",
-      "published_at": "2026-03-17T21:04:26Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC Latin America",
       "title": "Young Venezuelans voice hope and frustration as post-Maduro future unfolds",
       "url": "https://www.bbc.com/news/articles/c86y2jd70l3o?at_medium=RSS&at_campaign=rss",
@@ -749,15 +758,6 @@
       "country_name": "Ethiopia"
     },
     {
-      "source": "BBC Europe",
-      "title": "Watch: Moment wolf rescued from canal in northern Italy",
-      "url": "https://www.bbc.com/news/videos/cy7jjnekeepo?at_medium=RSS&at_campaign=rss",
-      "summary": "Video released by the Italian fire brigade shows the wolf being rescued from under a bridge.",
-      "published_at": "2026-03-04T23:01:10Z",
-      "country_code": "IT",
-      "country_name": "Italy"
-    },
-    {
       "source": "BBC Africa",
       "title": "At the scene: Muslims killed 'over rejection of extremist ideology' in Nigeria",
       "url": "https://www.bbc.com/news/videos/czej7xpx0x9o?at_medium=RSS&at_campaign=rss",
@@ -780,12 +780,12 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 33
+      "news_count": 32
     },
     {
-      "country_code": "IR",
-      "country_name": "Iran",
-      "news_count": 5
+      "country_code": "AU",
+      "country_name": "Australia",
+      "news_count": 4
     },
     {
       "country_code": "FR",
@@ -793,23 +793,18 @@
       "news_count": 4
     },
     {
-      "country_code": "AU",
-      "country_name": "Australia",
-      "news_count": 3
-    },
-    {
       "country_code": "IL",
       "country_name": "Israel",
-      "news_count": 3
+      "news_count": 4
+    },
+    {
+      "country_code": "IR",
+      "country_name": "Iran",
+      "news_count": 4
     },
     {
       "country_code": "IN",
       "country_name": "India",
-      "news_count": 3
-    },
-    {
-      "country_code": "IT",
-      "country_name": "Italy",
       "news_count": 3
     },
     {
@@ -830,6 +825,11 @@
     {
       "country_code": "GB",
       "country_name": "United Kingdom",
+      "news_count": 2
+    },
+    {
+      "country_code": "IT",
+      "country_name": "Italy",
       "news_count": 2
     },
     {
@@ -880,6 +880,11 @@
     {
       "country_code": "ET",
       "country_name": "Ethiopia",
+      "news_count": 1
+    },
+    {
+      "country_code": "JP",
+      "country_name": "Japan",
       "news_count": 1
     },
     {
