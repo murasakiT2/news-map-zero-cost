@@ -1,6 +1,33 @@
 {
-  "generated_at": "2026-03-30T17:43:49Z",
+  "generated_at": "2026-03-30T18:45:11Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Most Syrian refugees in Germany expected to return home in three years, Merz says",
+      "url": "https://www.bbc.com/news/articles/cy41vqx4pdzo?at_medium=RSS&at_campaign=rss",
+      "summary": "Merz’s government has taken a tougher line on refugees and migrants, amid surging support for the anti-immigration AfD party.",
+      "published_at": "2026-03-30T18:08:12Z",
+      "country_code": "DE",
+      "country_name": "Germany"
+    },
+    {
+      "source": "BBC World",
+      "title": "Shock, sadness and relief in town at centre of Australia's seven-month manhunt for Dezi Freeman",
+      "url": "https://www.bbc.com/news/articles/cq59wj31vl4o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Australian town has been in the spotlight since Dezi Freeman shot dead two police officers last year.",
+      "published_at": "2026-03-30T18:01:03Z",
+      "country_code": "AU",
+      "country_name": "Australia"
+    },
+    {
+      "source": "BBC World",
+      "title": "Zelensky says allies asked him to scale back attacks on Russian energy",
+      "url": "https://www.bbc.com/news/articles/c0e7lrxrelwo?at_medium=RSS&at_campaign=rss",
+      "summary": "Ukraine's president says partners asked if the attacks could be \"reduced\" as prices soar due to the Iran war.",
+      "published_at": "2026-03-30T17:53:51Z",
+      "country_code": "UA",
+      "country_name": "Ukraine"
+    },
     {
       "source": "BBC Asia",
       "title": "Oil rises and Asia shares slide as Iran war enters fifth week",
@@ -90,15 +117,6 @@
       "published_at": "2026-03-30T10:43:29Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "Russia expels British diplomat over spying allegations",
-      "url": "https://www.bbc.com/news/articles/czx94e7j5jpo?at_medium=RSS&at_campaign=rss",
-      "summary": "A UK Foreign Office spokesman accused Russia of an \"aggressive and co-ordinated campaign of harassment against British diplomats\".",
-      "published_at": "2026-03-30T10:33:56Z",
-      "country_code": "GB",
-      "country_name": "United Kingdom"
     },
     {
       "source": "BBC World",
@@ -333,15 +351,6 @@
       "published_at": "2026-03-27T22:05:42Z",
       "country_code": "KR",
       "country_name": "South Korea"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "Man arrested over plot to firebomb NY pro-Palestinian activist's home",
-      "url": "https://www.bbc.com/news/articles/c4g69q6r32do?at_medium=RSS&at_campaign=rss",
-      "summary": "Agents found eight Molotov cocktails in the man's Hoboken home, according to court documents.",
-      "published_at": "2026-03-27T22:03:34Z",
-      "country_code": "PS",
-      "country_name": "Palestine"
     },
     {
       "source": "BBC Middle East",
@@ -784,8 +793,8 @@
       "news_count": 4
     },
     {
-      "country_code": "GB",
-      "country_name": "United Kingdom",
+      "country_code": "AU",
+      "country_name": "Australia",
       "news_count": 3
     },
     {
@@ -809,18 +818,18 @@
       "news_count": 3
     },
     {
-      "country_code": "PS",
-      "country_name": "Palestine",
-      "news_count": 3
-    },
-    {
-      "country_code": "AU",
-      "country_name": "Australia",
+      "country_code": "CA",
+      "country_name": "Canada",
       "news_count": 2
     },
     {
-      "country_code": "CA",
-      "country_name": "Canada",
+      "country_code": "DE",
+      "country_name": "Germany",
+      "news_count": 2
+    },
+    {
+      "country_code": "GB",
+      "country_name": "United Kingdom",
       "news_count": 2
     },
     {
@@ -829,8 +838,18 @@
       "news_count": 2
     },
     {
+      "country_code": "PS",
+      "country_name": "Palestine",
+      "news_count": 2
+    },
+    {
       "country_code": "RU",
       "country_name": "Russia",
+      "news_count": 2
+    },
+    {
+      "country_code": "UA",
+      "country_name": "Ukraine",
       "news_count": 2
     },
     {
@@ -846,11 +865,6 @@
     {
       "country_code": "CO",
       "country_name": "Colombia",
-      "news_count": 1
-    },
-    {
-      "country_code": "DE",
-      "country_name": "Germany",
       "news_count": 1
     },
     {
@@ -906,11 +920,6 @@
     {
       "country_code": "SG",
       "country_name": "Singapore",
-      "news_count": 1
-    },
-    {
-      "country_code": "UA",
-      "country_name": "Ukraine",
       "news_count": 1
     },
     {
