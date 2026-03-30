@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-03-30T06:13:36Z",
+  "generated_at": "2026-03-30T08:06:21Z",
   "articles": [
+    {
+      "source": "BBC Asia",
+      "title": "Oil rises above $115 and Asia shares slide as Iran war enters fifth week",
+      "url": "https://www.bbc.com/news/articles/cz905eyjznno?at_medium=RSS&at_campaign=rss",
+      "summary": "It comes after Iran-backed Houthi rebels in Yemen joined the conflict by striking Israel over the weekend.",
+      "published_at": "2026-03-30T06:37:22Z",
+      "country_code": "IL",
+      "country_name": "Israel"
+    },
     {
       "source": "BBC Asia",
       "title": "How Australia’s seven-month-long manhunt came to an end",
@@ -29,16 +38,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Asia",
-      "title": "Oil rises above $115 and Asia shares slide as Iran war enters fifth week",
-      "url": "https://www.bbc.com/news/articles/cz905eyjznno?at_medium=RSS&at_campaign=rss",
-      "summary": "It comes after Iran-backed Houthi rebels in Yemen joined the conflict by striking Israel over the weekend.",
-      "published_at": "2026-03-30T03:34:37Z",
-      "country_code": "IL",
-      "country_name": "Israel"
-    },
-    {
-      "source": "BBC US & Canada",
+      "source": "BBC World",
       "title": "Partial government shutdown becomes the longest in US history",
       "url": "https://www.bbc.com/news/articles/cyv1qpzq5v7o?at_medium=RSS&at_campaign=rss",
       "summary": "The 44-day funding lapse for the Department of Homeland Security has led to travel chaos at US airports.",
@@ -63,6 +63,15 @@
       "published_at": "2026-03-29T19:37:03Z",
       "country_code": "IT",
       "country_name": "Italy"
+    },
+    {
+      "source": "BBC World",
+      "title": "Photos show heavily damaged US radar jet at Saudi base",
+      "url": "https://www.bbc.com/news/articles/cwyd07m7e1xo?at_medium=RSS&at_campaign=rss",
+      "summary": "US Central Command has not yet publicly commented on the incident.",
+      "published_at": "2026-03-29T18:42:19Z",
+      "country_code": "US",
+      "country_name": "United States"
     },
     {
       "source": "BBC World",
@@ -93,15 +102,6 @@
     },
     {
       "source": "BBC World",
-      "title": "Iranian attacks across Gulf continue as major industrial sites hit",
-      "url": "https://www.bbc.com/news/articles/cp86yrq5jy7o?at_medium=RSS&at_campaign=rss",
-      "summary": "A number of people are said to have been injured after attacks on aluminium sites in the UAE and Bahrain.",
-      "published_at": "2026-03-29T13:32:49Z",
-      "country_code": "AE",
-      "country_name": "United Arab Emirates"
-    },
-    {
-      "source": "BBC World",
       "title": "Jeremy Bowen: Trump is waging war based on instinct and it isn't working",
       "url": "https://www.bbc.com/news/articles/c5y969pnxgvo?at_medium=RSS&at_campaign=rss",
       "summary": "One month into the conflict in Iran, Trump's gut-instinct approach is not proving effective, writes the BBC's international editor.",
@@ -119,7 +119,7 @@
       "country_name": "Kenya"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "How deepfake porn scandal surrounding TV star rocked Germany",
       "url": "https://www.bbc.com/news/articles/c9vlm4j47e2o?at_medium=RSS&at_campaign=rss",
       "summary": "Collien Fernandes has accused her ex-husband of spreading images of her online, but he has categorically denied it.",
@@ -758,15 +758,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Africa",
-      "title": "The Mugabe family after losing power - arrests, accusations and arguments",
-      "url": "https://www.bbc.com/news/articles/cp32xx35lwwo?at_medium=RSS&at_campaign=rss",
-      "summary": "Bellarmine Mugabe will negotiate a plea deal after being accused of attempted murder and other charges in South Africa.",
-      "published_at": "2026-03-11T10:31:57Z",
-      "country_code": "ZA",
-      "country_name": "South Africa"
-    },
-    {
       "source": "BBC Latin America",
       "title": "China spent years building ties in Latin America. Can Trump make room for the US?",
       "url": "https://www.bbc.com/news/articles/c5yvw0zwpd5o?at_medium=RSS&at_campaign=rss",
@@ -803,15 +794,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Europe",
-      "title": "Flying oranges: Italian town celebrates carnival with historic street battle",
-      "url": "https://www.bbc.com/news/videos/cnv6zy10vz4o?at_medium=RSS&at_campaign=rss",
-      "summary": "A town in northern Italy has started celebrating carnival with its annual Battle of the Oranges where people hurl the fruit at each other fo…",
-      "published_at": "2026-02-16T15:10:12Z",
-      "country_code": "IT",
-      "country_name": "Italy"
-    },
-    {
       "source": "BBC Africa",
       "title": "At the scene: Muslims killed 'over rejection of extremist ideology' in Nigeria",
       "url": "https://www.bbc.com/news/videos/czej7xpx0x9o?at_medium=RSS&at_campaign=rss",
@@ -834,17 +816,12 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 36
+      "news_count": 37
     },
     {
       "country_code": "IR",
       "country_name": "Iran",
       "news_count": 6
-    },
-    {
-      "country_code": "IT",
-      "country_name": "Italy",
-      "news_count": 4
     },
     {
       "country_code": "AU",
@@ -864,6 +841,11 @@
     {
       "country_code": "IN",
       "country_name": "India",
+      "news_count": 3
+    },
+    {
+      "country_code": "IT",
+      "country_name": "Italy",
       "news_count": 3
     },
     {
@@ -900,16 +882,6 @@
       "country_code": "RU",
       "country_name": "Russia",
       "news_count": 2
-    },
-    {
-      "country_code": "ZA",
-      "country_name": "South Africa",
-      "news_count": 2
-    },
-    {
-      "country_code": "AE",
-      "country_name": "United Arab Emirates",
-      "news_count": 1
     },
     {
       "country_code": "BR",
@@ -984,6 +956,11 @@
     {
       "country_code": "UA",
       "country_name": "Ukraine",
+      "news_count": 1
+    },
+    {
+      "country_code": "ZA",
+      "country_name": "South Africa",
       "news_count": 1
     }
   ]
