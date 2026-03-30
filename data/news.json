@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-30T08:06:21Z",
+  "generated_at": "2026-03-30T09:52:40Z",
   "articles": [
     {
       "source": "BBC Asia",
@@ -43,6 +43,24 @@
       "url": "https://www.bbc.com/news/articles/cyv1qpzq5v7o?at_medium=RSS&at_campaign=rss",
       "summary": "The 44-day funding lapse for the Department of Homeland Security has led to travel chaos at US airports.",
       "published_at": "2026-03-30T01:13:51Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Latin Patriarch will have access to Jerusalem holy site after police stopped entry",
+      "url": "https://www.bbc.com/news/articles/cvg0128z41eo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Israeli PM said Cardinal Pierbattista Pizzaballa had been asked not to enter the church out of concern for his safety.",
+      "published_at": "2026-03-30T00:41:58Z",
+      "country_code": "IL",
+      "country_name": "Israel"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "First stop, the Moon. Next stop, Mars? Why Nasa's mission matters",
+      "url": "https://www.bbc.com/news/articles/cd6wp6xenv0o?at_medium=RSS&at_campaign=rss",
+      "summary": "From a race with China to lunar discoveries, the US is investing time, effort and money to head to the Moon - and beyond.",
+      "published_at": "2026-03-29T23:50:21Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -110,7 +128,7 @@
       "country_name": "Iran"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Africa",
       "title": "One ant for $220: The new frontier of wildlife trafficking",
       "url": "https://www.bbc.com/news/articles/cg4g44zv37qo?at_medium=RSS&at_campaign=rss",
       "summary": "The craze for collecting ants takes Kenya by surprise as smugglers zone in to make a profit.",
@@ -317,7 +335,7 @@
       "country_name": "Iran"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "Austria becomes latest to propose social media ban for children",
       "url": "https://www.bbc.com/news/articles/cwyv70de9exo?at_medium=RSS&at_campaign=rss",
       "summary": "The proposed under-14 ban follows similar steps in other European countries, including France and Spain.",
@@ -414,15 +432,6 @@
       "published_at": "2026-03-27T10:15:27Z",
       "country_code": "UA",
       "country_name": "Ukraine"
-    },
-    {
-      "source": "BBC Africa",
-      "title": "South Africa's exclusion from G7 summit no surprise, says Ramaphosa",
-      "url": "https://www.bbc.com/news/articles/c4g8w9d3j0xo?at_medium=RSS&at_campaign=rss",
-      "summary": "Reports say the US pressured France to rescind Ramaphosa’s invitation after Trump threatened to boycott the summit.",
-      "published_at": "2026-03-27T08:16:37Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC Africa",
@@ -758,15 +767,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Latin America",
-      "title": "China spent years building ties in Latin America. Can Trump make room for the US?",
-      "url": "https://www.bbc.com/news/articles/c5yvw0zwpd5o?at_medium=RSS&at_campaign=rss",
-      "summary": "US President Donald Trump will meet with ideologically-aligned Latin American leaders to try and counter China's influence in the region.",
-      "published_at": "2026-03-07T01:56:20Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC Africa",
       "title": "Inside Ethiopia's 'smart' police station",
       "url": "https://www.bbc.com/news/videos/cz9qqzqkk82o?at_medium=RSS&at_campaign=rss",
@@ -816,7 +816,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 37
+      "news_count": 36
     },
     {
       "country_code": "IR",
@@ -836,6 +836,11 @@
     {
       "country_code": "GB",
       "country_name": "United Kingdom",
+      "news_count": 3
+    },
+    {
+      "country_code": "IL",
+      "country_name": "Israel",
       "news_count": 3
     },
     {
@@ -861,11 +866,6 @@
     {
       "country_code": "CA",
       "country_name": "Canada",
-      "news_count": 2
-    },
-    {
-      "country_code": "IL",
-      "country_name": "Israel",
       "news_count": 2
     },
     {
