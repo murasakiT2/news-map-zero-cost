@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-03-30T14:21:37Z",
+  "generated_at": "2026-03-30T15:48:25Z",
   "articles": [
+    {
+      "source": "BBC Asia",
+      "title": "Oil rises and Asia shares slide as Iran war enters fifth week",
+      "url": "https://www.bbc.com/news/articles/cz905eyjznno?at_medium=RSS&at_campaign=rss",
+      "summary": "It comes after Iran-backed Houthi rebels in Yemen joined the conflict by striking Israel over the weekend.",
+      "published_at": "2026-03-30T15:35:40Z",
+      "country_code": "IL",
+      "country_name": "Israel"
+    },
+    {
+      "source": "BBC World",
+      "title": "Spain closes airspace to US aircraft involved in Iran war",
+      "url": "https://www.bbc.com/news/articles/cwy368j1e3lo?at_medium=RSS&at_campaign=rss",
+      "summary": "It follows a decision by the Spanish government to deny the US use of the two jointly run military bases in Andalusia.",
+      "published_at": "2026-03-30T15:29:15Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "How the US could try to seize Iran's Kharg Island",
+      "url": "https://www.bbc.com/news/articles/c937gd1vq7xo?at_medium=RSS&at_campaign=rss",
+      "summary": "Donald Trump has indicated he could send troops to take control of Iran's key oil export terminal.",
+      "published_at": "2026-03-30T14:54:47Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Air Canada CEO to retire after criticism for English-only condolence video",
+      "url": "https://www.bbc.com/news/articles/cgme8xy2rl1o?at_medium=RSS&at_campaign=rss",
+      "summary": "Michael Rousseau faced calls to resign for his English-only message after the fatal Air Canada collision at LaGuardia airport.",
+      "published_at": "2026-03-30T13:55:01Z",
+      "country_code": "CA",
+      "country_name": "Canada"
+    },
     {
       "source": "BBC World",
       "title": "Latin Patriarch will have access to Jerusalem holy site after police stopped entry",
@@ -11,16 +47,7 @@
       "country_name": "Israel"
     },
     {
-      "source": "BBC World",
-      "title": "Spain closes airspace to US aircraft involved in Iran war",
-      "url": "https://www.bbc.com/news/articles/cwy368j1e3lo?at_medium=RSS&at_campaign=rss",
-      "summary": "It follows a decision by the Spanish government to deny the US use of the two jointly run military bases in Andalusia.",
-      "published_at": "2026-03-30T12:27:25Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
+      "source": "BBC Middle East",
       "title": "Why does the US have Iran's Kharg Island in its sights?",
       "url": "https://www.bbc.com/news/articles/c8jxzlwvd8ro?at_medium=RSS&at_campaign=rss",
       "summary": "The tiny island is home to one of the most critical pieces of Iran's energy infrastructure.",
@@ -54,15 +81,6 @@
       "published_at": "2026-03-30T10:33:56Z",
       "country_code": "GB",
       "country_name": "United Kingdom"
-    },
-    {
-      "source": "BBC Asia",
-      "title": "Oil rises above $115 and Asia shares slide as Iran war enters fifth week",
-      "url": "https://www.bbc.com/news/articles/cz905eyjznno?at_medium=RSS&at_campaign=rss",
-      "summary": "It comes after Iran-backed Houthi rebels in Yemen joined the conflict by striking Israel over the weekend.",
-      "published_at": "2026-03-30T06:37:22Z",
-      "country_code": "IL",
-      "country_name": "Israel"
     },
     {
       "source": "BBC World",
@@ -771,7 +789,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 34
+      "news_count": 35
     },
     {
       "country_code": "IR",
@@ -819,6 +837,11 @@
       "news_count": 2
     },
     {
+      "country_code": "CA",
+      "country_name": "Canada",
+      "news_count": 2
+    },
+    {
       "country_code": "NG",
       "country_name": "Nigeria",
       "news_count": 2
@@ -831,11 +854,6 @@
     {
       "country_code": "BR",
       "country_name": "Brazil",
-      "news_count": 1
-    },
-    {
-      "country_code": "CA",
-      "country_name": "Canada",
       "news_count": 1
     },
     {
