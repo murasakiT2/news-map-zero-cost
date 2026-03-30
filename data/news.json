@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-03-30T19:48:27Z",
+  "generated_at": "2026-03-30T20:34:39Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Most Syrian refugees in Germany expected to return home in three years, Merz says",
+      "url": "https://www.bbc.com/news/articles/cy41vqx4pdzo?at_medium=RSS&at_campaign=rss",
+      "summary": "Merz’s government has taken a tougher line on refugees and migrants, amid surging support for the anti-immigration AfD party.",
+      "published_at": "2026-03-30T20:07:17Z",
+      "country_code": "DE",
+      "country_name": "Germany"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "Canada's new NDP leader says party must have 'hard conversations' over energy policy",
+      "url": "https://www.bbc.com/news/articles/c20q98nrq3wo?at_medium=RSS&at_campaign=rss",
+      "summary": "Senior party members in western Canada have distanced themselves from Avi Lewis over his stance against new oil and gas development.",
+      "published_at": "2026-03-30T19:27:32Z",
+      "country_code": "CA",
+      "country_name": "Canada"
+    },
     {
       "source": "BBC World",
       "title": "Two Indonesian UN peacekeepers killed in explosion in Lebanon",
@@ -9,15 +27,6 @@
       "published_at": "2026-03-30T19:14:12Z",
       "country_code": "IL",
       "country_name": "Israel"
-    },
-    {
-      "source": "BBC World",
-      "title": "Most Syrian refugees in Germany expected to return home in three years, Merz says",
-      "url": "https://www.bbc.com/news/articles/cy41vqx4pdzo?at_medium=RSS&at_campaign=rss",
-      "summary": "Merz’s government has taken a tougher line on refugees and migrants, amid surging support for the anti-immigration AfD party.",
-      "published_at": "2026-03-30T18:08:12Z",
-      "country_code": "DE",
-      "country_name": "Germany"
     },
     {
       "source": "BBC World",
@@ -803,6 +812,11 @@
       "news_count": 4
     },
     {
+      "country_code": "CA",
+      "country_name": "Canada",
+      "news_count": 3
+    },
+    {
       "country_code": "IN",
       "country_name": "India",
       "news_count": 3
@@ -811,11 +825,6 @@
       "country_code": "KE",
       "country_name": "Kenya",
       "news_count": 3
-    },
-    {
-      "country_code": "CA",
-      "country_name": "Canada",
-      "news_count": 2
     },
     {
       "country_code": "DE",
