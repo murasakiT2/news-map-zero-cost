@@ -1,6 +1,33 @@
 {
-  "generated_at": "2026-03-31T08:36:07Z",
+  "generated_at": "2026-03-31T09:54:38Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Eurovision Song Contest launches first-ever Asia edition",
+      "url": "https://www.bbc.com/news/articles/cx2rwq53zxyo?at_medium=RSS&at_campaign=rss",
+      "summary": "Broadcasters from 10 countries, including South Korea and the Philippines, will be taking part.",
+      "published_at": "2026-03-31T09:51:58Z",
+      "country_code": "KR",
+      "country_name": "South Korea"
+    },
+    {
+      "source": "BBC World",
+      "title": "Zelensky says allies asked him to scale back attacks on Russian energy",
+      "url": "https://www.bbc.com/news/articles/c0e7lrxrelwo?at_medium=RSS&at_campaign=rss",
+      "summary": "Ukraine's president says partners asked if the attacks could be \"reduced\" as prices soar due to the Iran war.",
+      "published_at": "2026-03-31T09:18:11Z",
+      "country_code": "UA",
+      "country_name": "Ukraine"
+    },
+    {
+      "source": "BBC Asia",
+      "title": "'Felt close to death': Indian seafarers detained in Iran return home",
+      "url": "https://www.bbc.com/news/articles/cvgkn9379pqo?at_medium=RSS&at_campaign=rss",
+      "summary": "The crew members, whose ship was seized in December, got their release order a day before the war began.",
+      "published_at": "2026-03-31T09:12:18Z",
+      "country_code": "IR",
+      "country_name": "Iran"
+    },
     {
       "source": "BBC World",
       "title": "Congressman writes to King Charles urging him to meet Epstein victims during US visit",
@@ -18,15 +45,6 @@
       "published_at": "2026-03-31T07:12:41Z",
       "country_code": "SD",
       "country_name": "Sudan"
-    },
-    {
-      "source": "BBC World",
-      "title": "Eurovision Song Contest launches first-ever Asia edition",
-      "url": "https://www.bbc.com/news/articles/cx2rwq53zxyo?at_medium=RSS&at_campaign=rss",
-      "summary": "Broadcasters from 10 countries, including South Korea and the Philippines, will be taking part.",
-      "published_at": "2026-03-31T06:26:19Z",
-      "country_code": "KR",
-      "country_name": "South Korea"
     },
     {
       "source": "BBC World",
@@ -162,15 +180,6 @@
       "published_at": "2026-03-30T19:14:12Z",
       "country_code": "IL",
       "country_name": "Israel"
-    },
-    {
-      "source": "BBC World",
-      "title": "Zelensky says allies asked him to scale back attacks on Russian energy",
-      "url": "https://www.bbc.com/news/articles/c0e7lrxrelwo?at_medium=RSS&at_campaign=rss",
-      "summary": "Ukraine's president says partners asked if the attacks could be \"reduced\" as prices soar due to the Iran war.",
-      "published_at": "2026-03-30T17:53:51Z",
-      "country_code": "UA",
-      "country_name": "Ukraine"
     },
     {
       "source": "BBC Asia",
@@ -423,15 +432,6 @@
       "published_at": "2026-03-28T00:05:47Z",
       "country_code": "IR",
       "country_name": "Iran"
-    },
-    {
-      "source": "BBC Asia",
-      "title": "Maldives tells UK it does not recognise Chagos Islands deal",
-      "url": "https://www.bbc.com/news/articles/c74vedxjq8zo?at_medium=RSS&at_campaign=rss",
-      "summary": "The Maldives is threatening international legal action to press its claim for control of the Chagos Islands.",
-      "published_at": "2026-03-28T00:01:19Z",
-      "country_code": "GB",
-      "country_name": "United Kingdom"
     },
     {
       "source": "BBC US & Canada",
@@ -785,7 +785,7 @@
     {
       "country_code": "IR",
       "country_name": "Iran",
-      "news_count": 5
+      "news_count": 6
     },
     {
       "country_code": "AU",
@@ -870,11 +870,6 @@
     {
       "country_code": "ET",
       "country_name": "Ethiopia",
-      "news_count": 1
-    },
-    {
-      "country_code": "GB",
-      "country_name": "United Kingdom",
       "news_count": 1
     },
     {
