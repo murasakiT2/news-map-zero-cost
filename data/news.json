@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-31T19:47:58Z",
+  "generated_at": "2026-03-31T20:33:21Z",
   "articles": [
     {
       "source": "BBC World",
@@ -362,15 +362,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Europe",
-      "title": "Three arrested in Paris after attempted bomb attack outside Bank of America",
-      "url": "https://www.bbc.com/news/articles/cd9v234j2v7o?at_medium=RSS&at_campaign=rss",
-      "summary": "France's anti-terrorism prosecutor's office said it had immediately taken over the investigation.",
-      "published_at": "2026-03-29T15:33:36Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC World",
       "title": "One ant for $220: The new frontier of wildlife trafficking",
       "url": "https://www.bbc.com/news/articles/cg4g44zv37qo?at_medium=RSS&at_campaign=rss",
@@ -396,15 +387,6 @@
       "published_at": "2026-03-28T23:25:03Z",
       "country_code": "IN",
       "country_name": "India"
-    },
-    {
-      "source": "BBC World",
-      "title": "Watch: Iconic global landmarks turn off lights for Earth Hour",
-      "url": "https://www.bbc.com/news/videos/c4gx042nlezo?at_medium=RSS&at_campaign=rss",
-      "summary": "France's Eiffel Tower and Barcelona's Sagrada Família Basilica were among the famous global landmarks that went dark for an hour on Saturday…",
-      "published_at": "2026-03-28T22:02:34Z",
-      "country_code": "FR",
-      "country_name": "France"
     },
     {
       "source": "BBC Middle East",
@@ -762,7 +744,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 34
+      "news_count": 33
     },
     {
       "country_code": "IR",
@@ -805,11 +787,6 @@
       "news_count": 3
     },
     {
-      "country_code": "FR",
-      "country_name": "France",
-      "news_count": 2
-    },
-    {
       "country_code": "IN",
       "country_name": "India",
       "news_count": 2
@@ -842,6 +819,11 @@
     {
       "country_code": "ET",
       "country_name": "Ethiopia",
+      "news_count": 1
+    },
+    {
+      "country_code": "FR",
+      "country_name": "France",
       "news_count": 1
     },
     {
