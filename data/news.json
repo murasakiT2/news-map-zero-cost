@@ -1,8 +1,17 @@
 {
-  "generated_at": "2026-03-31T14:22:25Z",
+  "generated_at": "2026-03-31T15:43:50Z",
   "articles": [
     {
-      "source": "BBC US & Canada",
+      "source": "BBC Africa",
+      "title": "Nigeria warns its citizens in South Africa to be cautious after march turns violent",
+      "url": "https://www.bbc.com/news/articles/clyxnwvdzn6o?at_medium=RSS&at_campaign=rss",
+      "summary": "Solomon Ogbonna Eziko's installation as an Igbo leader in East London has sparked tensions.",
+      "published_at": "2026-03-31T15:01:41Z",
+      "country_code": "ZA",
+      "country_name": "South Africa"
+    },
+    {
+      "source": "BBC World",
       "title": "King Charles and Queen Camilla's state visit to US to go ahead in April",
       "url": "https://www.bbc.com/news/articles/cjd8nkezdyxo?at_medium=RSS&at_campaign=rss",
       "summary": "Despite political tensions between the US and UK, the King will travel to Washington next month.",
@@ -20,22 +29,13 @@
       "country_name": "Germany"
     },
     {
-      "source": "BBC Middle East",
+      "source": "BBC World",
       "title": "Iran using children in security roles in war, reports and witnesses say",
       "url": "https://www.bbc.com/news/articles/c9wqgjn7x89o?at_medium=RSS&at_campaign=rss",
       "summary": "An 11-year-old is reported to have been killed in an air strike while manning a checkpoint in Tehran.",
       "published_at": "2026-03-31T12:56:45Z",
       "country_code": "IR",
       "country_name": "Iran"
-    },
-    {
-      "source": "BBC Africa",
-      "title": "Nigeria warns its citizens in South Africa to be cautious after march turns violent",
-      "url": "https://www.bbc.com/news/articles/clyxnwvdzn6o?at_medium=RSS&at_campaign=rss",
-      "summary": "Solomon Ogbonna Eziko's installation as an Igbo leader in East London has sparked tensions.",
-      "published_at": "2026-03-31T12:54:14Z",
-      "country_code": "ZA",
-      "country_name": "South Africa"
     },
     {
       "source": "BBC Middle East",
@@ -110,7 +110,7 @@
       "country_name": "Iran"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "Congressman writes to King Charles urging him to meet Epstein victims during US visit",
       "url": "https://www.bbc.com/news/articles/cn78xp0m75zo?at_medium=RSS&at_campaign=rss",
       "summary": "While the trip is not officially confirmed, the King and Queen Camilla are reportedly planning to visit the US at the end of April.",
@@ -155,7 +155,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Asia",
+      "source": "BBC World",
       "title": "How Pakistan won over Trump to become an unlikely mediator in the Iran war",
       "url": "https://www.bbc.com/news/articles/cy91vrzxn34o?at_medium=RSS&at_campaign=rss",
       "summary": "Pakistan's role as intermediary in this conflict took many by surprise. But perhaps it shouldn't have.",
@@ -225,15 +225,6 @@
       "published_at": "2026-03-30T19:27:32Z",
       "country_code": "CA",
       "country_name": "Canada"
-    },
-    {
-      "source": "BBC Middle East",
-      "title": "Two Indonesian UN peacekeepers killed in explosion in Lebanon",
-      "url": "https://www.bbc.com/news/articles/c4gd20evgp0o?at_medium=RSS&at_campaign=rss",
-      "summary": "It is the second fatal incident in the last 24 hours, Unifil says, after Israel expanded its operation against Hezbollah.",
-      "published_at": "2026-03-30T19:14:12Z",
-      "country_code": "IL",
-      "country_name": "Israel"
     },
     {
       "source": "BBC Asia",
@@ -416,15 +407,6 @@
       "country_name": "India"
     },
     {
-      "source": "BBC World",
-      "title": "Watch: Iconic global landmarks turn off lights for Earth Hour",
-      "url": "https://www.bbc.com/news/videos/c4gx042nlezo?at_medium=RSS&at_campaign=rss",
-      "summary": "France's Eiffel Tower and Barcelona's Sagrada Família Basilica were among the famous global landmarks that went dark for an hour on Saturday…",
-      "published_at": "2026-03-28T22:02:34Z",
-      "country_code": "FR",
-      "country_name": "France"
-    },
-    {
       "source": "BBC Middle East",
       "title": "Potential Houthi threat to Red Sea shipping could further damage global economy",
       "url": "https://www.bbc.com/news/articles/cwyvd5z1xjno?at_medium=RSS&at_campaign=rss",
@@ -504,15 +486,6 @@
       "published_at": "2026-03-27T22:23:45Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC Asia",
-      "title": "I escaped North Korea with my mum. Now I'm terrified she might be sent back",
-      "url": "https://www.bbc.com/news/articles/c239n93ejm8o?at_medium=RSS&at_campaign=rss",
-      "summary": "Geumseong survived a dangerous journey to South Korea, but his mother is stuck in a Chinese prison and may be forcibly repatriated.",
-      "published_at": "2026-03-27T22:05:42Z",
-      "country_code": "KR",
-      "country_name": "South Korea"
     },
     {
       "source": "BBC Middle East",
@@ -848,11 +821,6 @@
       "news_count": 3
     },
     {
-      "country_code": "IL",
-      "country_name": "Israel",
-      "news_count": 3
-    },
-    {
       "country_code": "IT",
       "country_name": "Italy",
       "news_count": 3
@@ -873,18 +841,13 @@
       "news_count": 2
     },
     {
-      "country_code": "FR",
-      "country_name": "France",
+      "country_code": "IL",
+      "country_name": "Israel",
       "news_count": 2
     },
     {
       "country_code": "IN",
       "country_name": "India",
-      "news_count": 2
-    },
-    {
-      "country_code": "KR",
-      "country_name": "South Korea",
       "news_count": 2
     },
     {
@@ -918,8 +881,18 @@
       "news_count": 1
     },
     {
+      "country_code": "FR",
+      "country_name": "France",
+      "news_count": 1
+    },
+    {
       "country_code": "JP",
       "country_name": "Japan",
+      "news_count": 1
+    },
+    {
+      "country_code": "KR",
+      "country_name": "South Korea",
       "news_count": 1
     },
     {
