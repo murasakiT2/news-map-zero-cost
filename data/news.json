@@ -1,14 +1,23 @@
 {
-  "generated_at": "2026-03-31T18:45:59Z",
+  "generated_at": "2026-03-31T19:47:58Z",
   "articles": [
     {
       "source": "BBC World",
       "title": "Israel says it will keep control over part of southern Lebanon after war with Hezbollah ends",
       "url": "https://www.bbc.com/news/articles/c5yx8knpr5no?at_medium=RSS&at_campaign=rss",
       "summary": "Defence Minister Israel Katz also says houses in Lebanese villages near the Israeli border will be demolished.",
-      "published_at": "2026-03-31T17:16:00Z",
+      "published_at": "2026-03-31T18:57:25Z",
       "country_code": "IL",
       "country_name": "Israel"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "Trump administration to shutter historic Border Road between US and Canada",
+      "url": "https://www.bbc.com/news/articles/cly7gl95nnpo?at_medium=RSS&at_campaign=rss",
+      "summary": "US officials cite a rise in irregular migration and drug smuggling for the decision that comes into effect on 1 July.",
+      "published_at": "2026-03-31T17:52:37Z",
+      "country_code": "US",
+      "country_name": "United States"
     },
     {
       "source": "BBC World",
@@ -182,7 +191,7 @@
       "country_name": "Pakistan"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "Social media firms must better enforce Australia under-16 ban, watchdog says",
       "url": "https://www.bbc.com/news/articles/cy4181pkxl2o?at_medium=RSS&at_campaign=rss",
       "summary": "Regulator eSafety says it has concerns about how Facebook, Instagram, Snapchat, TikTok and YouTube are complying with the ban.",
@@ -191,7 +200,7 @@
       "country_name": "Australia"
     },
     {
-      "source": "BBC US & Canada",
+      "source": "BBC Latin America",
       "title": "Mexico demands answers after another migrant dies in ICE custody",
       "url": "https://www.bbc.com/news/articles/c15dvdx32v0o?at_medium=RSS&at_campaign=rss",
       "summary": "President Sheinbaum vows to take action after the death of a Mexican last week at a California facility.",
@@ -387,6 +396,15 @@
       "published_at": "2026-03-28T23:25:03Z",
       "country_code": "IN",
       "country_name": "India"
+    },
+    {
+      "source": "BBC World",
+      "title": "Watch: Iconic global landmarks turn off lights for Earth Hour",
+      "url": "https://www.bbc.com/news/videos/c4gx042nlezo?at_medium=RSS&at_campaign=rss",
+      "summary": "France's Eiffel Tower and Barcelona's Sagrada Família Basilica were among the famous global landmarks that went dark for an hour on Saturday…",
+      "published_at": "2026-03-28T22:02:34Z",
+      "country_code": "FR",
+      "country_name": "France"
     },
     {
       "source": "BBC Middle East",
@@ -744,7 +762,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 33
+      "news_count": 34
     },
     {
       "country_code": "IR",
@@ -787,6 +805,11 @@
       "news_count": 3
     },
     {
+      "country_code": "FR",
+      "country_name": "France",
+      "news_count": 2
+    },
+    {
       "country_code": "IN",
       "country_name": "India",
       "news_count": 2
@@ -819,11 +842,6 @@
     {
       "country_code": "ET",
       "country_name": "Ethiopia",
-      "news_count": 1
-    },
-    {
-      "country_code": "FR",
-      "country_name": "France",
       "news_count": 1
     },
     {
