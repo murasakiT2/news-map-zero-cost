@@ -1,21 +1,48 @@
 {
-  "generated_at": "2026-03-31T12:52:22Z",
+  "generated_at": "2026-03-31T14:22:25Z",
   "articles": [
+    {
+      "source": "BBC US & Canada",
+      "title": "King Charles and Queen Camilla's state visit to US to go ahead in April",
+      "url": "https://www.bbc.com/news/articles/cjd8nkezdyxo?at_medium=RSS&at_campaign=rss",
+      "summary": "Despite political tensions between the US and UK, the King will travel to Washington next month.",
+      "published_at": "2026-03-31T14:05:10Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Wolf bites woman in shock German attack in Hamburg shopping street",
+      "url": "https://www.bbc.com/news/articles/c20qxjxe2nno?at_medium=RSS&at_campaign=rss",
+      "summary": "It is believed to be the first wolf attack on a human since the animals began to reestablish themselves in Germany decades ago.",
+      "published_at": "2026-03-31T13:00:32Z",
+      "country_code": "DE",
+      "country_name": "Germany"
+    },
+    {
+      "source": "BBC Middle East",
+      "title": "Iran using children in security roles in war, reports and witnesses say",
+      "url": "https://www.bbc.com/news/articles/c9wqgjn7x89o?at_medium=RSS&at_campaign=rss",
+      "summary": "An 11-year-old is reported to have been killed in an air strike while manning a checkpoint in Tehran.",
+      "published_at": "2026-03-31T12:56:45Z",
+      "country_code": "IR",
+      "country_name": "Iran"
+    },
+    {
+      "source": "BBC Africa",
+      "title": "Nigeria warns its citizens in South Africa to be cautious after march turns violent",
+      "url": "https://www.bbc.com/news/articles/clyxnwvdzn6o?at_medium=RSS&at_campaign=rss",
+      "summary": "Solomon Ogbonna Eziko's installation as an Igbo leader in East London has sparked tensions.",
+      "published_at": "2026-03-31T12:54:14Z",
+      "country_code": "ZA",
+      "country_name": "South Africa"
+    },
     {
       "source": "BBC Middle East",
       "title": "Why did US and Israel attack Iran and how long could the war last?",
       "url": "https://www.bbc.com/news/articles/cx2dyz6p3weo?at_medium=RSS&at_campaign=rss",
       "summary": "Conflict has spread across the Middle East since the US and Israel launched strikes on Iran on 28 February.",
       "published_at": "2026-03-31T12:22:42Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "King Charles and Queen Camilla's state visit to US to go ahead in April",
-      "url": "https://www.bbc.com/news/articles/cjd8nkezdyxo?at_medium=RSS&at_campaign=rss",
-      "summary": "Despite political tensions between the US and UK, the King will travel to Washington next month.",
-      "published_at": "2026-03-31T12:00:10Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -65,7 +92,7 @@
       "country_name": "South Korea"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "Zelensky says allies asked him to scale back attacks on Russian energy",
       "url": "https://www.bbc.com/news/articles/c0e7lrxrelwo?at_medium=RSS&at_campaign=rss",
       "summary": "Ukraine's president says partners asked if the attacks could be \"reduced\" as prices soar due to the Iran war.",
@@ -164,22 +191,13 @@
       "country_name": "Iran"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Middle East",
       "title": "Gazan mother reunited with evacuated daughter after two years",
       "url": "https://www.bbc.com/news/articles/czex10lngzjo?at_medium=RSS&at_campaign=rss",
       "summary": "The girl is among at least eight children who were premature newborns when they were evacuated during heavy fighting in Gaza at the start of…",
       "published_at": "2026-03-30T21:12:29Z",
       "country_code": "PS",
       "country_name": "Palestine"
-    },
-    {
-      "source": "BBC World",
-      "title": "Air Canada CEO to retire after criticism for English-only condolence video",
-      "url": "https://www.bbc.com/news/articles/cgme8xy2rl1o?at_medium=RSS&at_campaign=rss",
-      "summary": "Michael Rousseau faced calls to resign for his message after the Air Canada crash at LaGuardia airport killed two pilots, including one Fren…",
-      "published_at": "2026-03-30T21:06:47Z",
-      "country_code": "CA",
-      "country_name": "Canada"
     },
     {
       "source": "BBC US & Canada",
@@ -191,7 +209,7 @@
       "country_name": "Canada"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "Most Syrian refugees in Germany expected to return home in three years, Merz says",
       "url": "https://www.bbc.com/news/articles/cy41vqx4pdzo?at_medium=RSS&at_campaign=rss",
       "summary": "Merz’s government has taken a tougher line on refugees and migrants, amid surging support for the anti-immigration AfD party.",
@@ -209,16 +227,7 @@
       "country_name": "Canada"
     },
     {
-      "source": "BBC World",
-      "title": "Céline Dion announces comeback shows in Paris after incurable diagnosis",
-      "url": "https://www.bbc.com/news/articles/c0708dkm2lko?at_medium=RSS&at_campaign=rss",
-      "summary": "The star was diagnosed with a rare condition that affects her singing voice and her ability to walk.",
-      "published_at": "2026-03-30T19:15:23Z",
-      "country_code": "FR",
-      "country_name": "France"
-    },
-    {
-      "source": "BBC World",
+      "source": "BBC Middle East",
       "title": "Two Indonesian UN peacekeepers killed in explosion in Lebanon",
       "url": "https://www.bbc.com/news/articles/c4gd20evgp0o?at_medium=RSS&at_campaign=rss",
       "summary": "It is the second fatal incident in the last 24 hours, Unifil says, after Israel expanded its operation against Hezbollah.",
@@ -236,7 +245,7 @@
       "country_name": "Israel"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "Spain closes airspace to US aircraft involved in Iran war",
       "url": "https://www.bbc.com/news/articles/cwy368j1e3lo?at_medium=RSS&at_campaign=rss",
       "summary": "It follows a decision by the Spanish government to deny the US use of the two jointly run military bases in Andalusia.",
@@ -254,7 +263,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "Latin Patriarch will have access to Jerusalem holy site after police stopped entry",
       "url": "https://www.bbc.com/news/articles/cvg0128z41eo?at_medium=RSS&at_campaign=rss",
       "summary": "The Israeli PM says Cardinal Pierbattista Pizzaballa had been asked not to enter the church over concerns about Iranian strikes.",
@@ -308,6 +317,15 @@
       "country_name": "Japan"
     },
     {
+      "source": "BBC World",
+      "title": "How Australia’s seven-month-long manhunt came to an end",
+      "url": "https://www.bbc.com/news/videos/cjw8vqnlzxvo?at_medium=RSS&at_campaign=rss",
+      "summary": "Fugitive Dezi Freeman has been wanted since he shot dead two police officers on his rural property in August last year.",
+      "published_at": "2026-03-30T05:58:41Z",
+      "country_code": "AU",
+      "country_name": "Australia"
+    },
+    {
       "source": "BBC Asia",
       "title": "Fuel tax halved and free public transport offered as war pushes up prices in Australia",
       "url": "https://www.bbc.com/news/articles/c937n0yxggeo?at_medium=RSS&at_campaign=rss",
@@ -353,6 +371,15 @@
       "country_name": "Italy"
     },
     {
+      "source": "BBC World",
+      "title": "Photos show heavily damaged US radar jet at Saudi base",
+      "url": "https://www.bbc.com/news/articles/cwyd07m7e1xo?at_medium=RSS&at_campaign=rss",
+      "summary": "US Central Command has not yet publicly commented on the incident.",
+      "published_at": "2026-03-29T18:42:19Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
       "source": "BBC Europe",
       "title": "Three arrested in Paris after attempted bomb attack outside Bank of America",
       "url": "https://www.bbc.com/news/articles/cd9v234j2v7o?at_medium=RSS&at_campaign=rss",
@@ -362,7 +389,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Africa",
+      "source": "BBC World",
       "title": "One ant for $220: The new frontier of wildlife trafficking",
       "url": "https://www.bbc.com/news/articles/cg4g44zv37qo?at_medium=RSS&at_campaign=rss",
       "summary": "The craze for collecting ants takes Kenya by surprise as smugglers zone in to make a profit.",
@@ -387,6 +414,15 @@
       "published_at": "2026-03-28T23:25:03Z",
       "country_code": "IN",
       "country_name": "India"
+    },
+    {
+      "source": "BBC World",
+      "title": "Watch: Iconic global landmarks turn off lights for Earth Hour",
+      "url": "https://www.bbc.com/news/videos/c4gx042nlezo?at_medium=RSS&at_campaign=rss",
+      "summary": "France's Eiffel Tower and Barcelona's Sagrada Família Basilica were among the famous global landmarks that went dark for an hour on Saturday…",
+      "published_at": "2026-03-28T22:02:34Z",
+      "country_code": "FR",
+      "country_name": "France"
     },
     {
       "source": "BBC Middle East",
@@ -531,15 +567,6 @@
       "published_at": "2026-03-27T11:07:46Z",
       "country_code": "MA",
       "country_name": "Morocco"
-    },
-    {
-      "source": "BBC Middle East",
-      "title": "Ukraine signs deal with Saudi Arabia offering drone expertise",
-      "url": "https://www.bbc.com/news/articles/cx2r4wxdw3no?at_medium=RSS&at_campaign=rss",
-      "summary": "Volodymyr Zelensky says the Gulf kingdom faces the same type of attacks from Iran that Kyiv has been resisting.",
-      "published_at": "2026-03-27T10:15:27Z",
-      "country_code": "UA",
-      "country_name": "Ukraine"
     },
     {
       "source": "BBC Africa",
@@ -798,17 +825,17 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 36
+      "news_count": 37
     },
     {
       "country_code": "IR",
       "country_name": "Iran",
-      "news_count": 6
+      "news_count": 7
     },
     {
       "country_code": "AU",
       "country_name": "Australia",
-      "news_count": 4
+      "news_count": 5
     },
     {
       "country_code": "KE",
@@ -816,8 +843,8 @@
       "news_count": 4
     },
     {
-      "country_code": "CA",
-      "country_name": "Canada",
+      "country_code": "DE",
+      "country_name": "Germany",
       "news_count": 3
     },
     {
@@ -841,13 +868,8 @@
       "news_count": 3
     },
     {
-      "country_code": "UA",
-      "country_name": "Ukraine",
-      "news_count": 3
-    },
-    {
-      "country_code": "DE",
-      "country_name": "Germany",
+      "country_code": "CA",
+      "country_name": "Canada",
       "news_count": 2
     },
     {
@@ -873,6 +895,11 @@
     {
       "country_code": "NG",
       "country_name": "Nigeria",
+      "news_count": 2
+    },
+    {
+      "country_code": "UA",
+      "country_name": "Ukraine",
       "news_count": 2
     },
     {
@@ -913,6 +940,11 @@
     {
       "country_code": "RU",
       "country_name": "Russia",
+      "news_count": 1
+    },
+    {
+      "country_code": "ZA",
+      "country_name": "South Africa",
       "news_count": 1
     }
   ]
