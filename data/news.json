@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-03-31T10:44:13Z",
+  "generated_at": "2026-03-31T11:40:45Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "China bans storing cremated remains in empty 'bone ash apartments'",
+      "url": "https://www.bbc.com/news/articles/cm25ynex2zxo?at_medium=RSS&at_campaign=rss",
+      "summary": "China bans 'bone ash apartments' where mourners are storing cremated remains instead of cemeteries.",
+      "published_at": "2026-03-31T10:53:10Z",
+      "country_code": "CN",
+      "country_name": "China"
+    },
     {
       "source": "BBC Europe",
       "title": "Huge fires at Russian oil facilities following Ukraine strikes, satellite images show",
@@ -324,15 +333,6 @@
       "published_at": "2026-03-29T19:37:03Z",
       "country_code": "IT",
       "country_name": "Italy"
-    },
-    {
-      "source": "BBC World",
-      "title": "Photos show heavily damaged US radar jet at Saudi base",
-      "url": "https://www.bbc.com/news/articles/cwyd07m7e1xo?at_medium=RSS&at_campaign=rss",
-      "summary": "US Central Command has not yet publicly commented on the incident.",
-      "published_at": "2026-03-29T18:42:19Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC Europe",
@@ -789,7 +789,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 36
+      "news_count": 35
     },
     {
       "country_code": "IR",
@@ -869,6 +869,11 @@
     {
       "country_code": "BR",
       "country_name": "Brazil",
+      "news_count": 1
+    },
+    {
+      "country_code": "CN",
+      "country_name": "China",
       "news_count": 1
     },
     {
