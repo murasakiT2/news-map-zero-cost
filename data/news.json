@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-03-31T09:54:38Z",
+  "generated_at": "2026-03-31T10:44:13Z",
   "articles": [
+    {
+      "source": "BBC Europe",
+      "title": "Huge fires at Russian oil facilities following Ukraine strikes, satellite images show",
+      "url": "https://www.bbc.com/news/articles/c9qdwpnwzwpo?at_medium=RSS&at_campaign=rss",
+      "summary": "BBC Verify examines recent damage to three key Russian oil export facilities near the Baltic Sea.",
+      "published_at": "2026-03-31T10:09:25Z",
+      "country_code": "UA",
+      "country_name": "Ukraine"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "Trump sees 'America First' opportunity in Nasa mission to Moon",
+      "url": "https://www.bbc.com/news/articles/cyv1q59py4go?at_medium=RSS&at_campaign=rss",
+      "summary": "A competitive edge with China and a possible lunar gold rush are twin goals behind Artemis II, experts tell the BBC.",
+      "published_at": "2026-03-31T09:56:05Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "Eurovision Song Contest launches first-ever Asia edition",
@@ -90,15 +108,6 @@
       "published_at": "2026-03-31T02:00:24Z",
       "country_code": "AU",
       "country_name": "Australia"
-    },
-    {
-      "source": "BBC Europe",
-      "title": "Huge fires at Russian oil facilities following Ukraine strikes, satellite images show",
-      "url": "https://www.bbc.com/news/articles/c9qdwpnwzwpo?at_medium=RSS&at_campaign=rss",
-      "summary": "BBC Verify examines recent damage to three key Russian oil export facilities near the Baltic Sea.",
-      "published_at": "2026-03-30T23:36:54Z",
-      "country_code": "UA",
-      "country_name": "Ukraine"
     },
     {
       "source": "BBC US & Canada",
@@ -780,7 +789,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 35
+      "news_count": 36
     },
     {
       "country_code": "IR",
