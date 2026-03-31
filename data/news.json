@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-03-31T23:25:21Z",
+  "generated_at": "2026-03-31T23:55:23Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "'You're no longer my sister' - rows erupt as war divides Iranian families",
+      "url": "https://www.bbc.com/news/articles/ce9mvzpvr7xo?at_medium=RSS&at_campaign=rss",
+      "summary": "People in Iran describe angry scenes and tense relationships as rifts open up over the war.",
+      "published_at": "2026-03-31T23:25:19Z",
+      "country_code": "IR",
+      "country_name": "Iran"
+    },
     {
       "source": "BBC World",
       "title": "'A million things could go wrong' - why seizing Iran's uranium would be so risky for the US",
@@ -30,7 +39,7 @@
     },
     {
       "source": "BBC World",
-      "title": "US Army suspends crews who flew helicopters near Kid Rock's home",
+      "title": "Hegseth ends suspension of US Army pilots who flew near Kid Rock's home",
       "url": "https://www.bbc.com/news/articles/c4gx2rw87e9o?at_medium=RSS&at_campaign=rss",
       "summary": "President Donald Trump, when asked about the helicopters flying by his friend's house said: \"They like Kid Rock. I like Kid Rock.\"",
       "published_at": "2026-03-31T22:36:15Z",
@@ -351,15 +360,6 @@
       "published_at": "2026-03-30T10:33:00Z",
       "country_code": "JP",
       "country_name": "Japan"
-    },
-    {
-      "source": "BBC World",
-      "title": "How Australia’s seven-month-long manhunt came to an end",
-      "url": "https://www.bbc.com/news/videos/cjw8vqnlzxvo?at_medium=RSS&at_campaign=rss",
-      "summary": "Fugitive Dezi Freeman has been wanted since he shot dead two police officers on his rural property in August last year.",
-      "published_at": "2026-03-30T05:58:41Z",
-      "country_code": "AU",
-      "country_name": "Australia"
     },
     {
       "source": "BBC Asia",
@@ -776,12 +776,12 @@
     {
       "country_code": "IR",
       "country_name": "Iran",
-      "news_count": 7
+      "news_count": 8
     },
     {
       "country_code": "AU",
       "country_name": "Australia",
-      "news_count": 5
+      "news_count": 4
     },
     {
       "country_code": "KE",
