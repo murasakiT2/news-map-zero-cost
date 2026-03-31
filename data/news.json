@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-03-31T22:02:52Z",
+  "generated_at": "2026-03-31T22:55:20Z",
   "articles": [
+    {
+      "source": "BBC US & Canada",
+      "title": "'Something needs to be done' - Americans struggle as petrol prices surge",
+      "url": "https://www.bbc.com/news/videos/cn4vggzkjgdo?at_medium=RSS&at_campaign=rss",
+      "summary": "The average price at the pump has topped $4 in the US for the first time since 2022 as the Iran war continues to push up fuel prices.",
+      "published_at": "2026-03-31T22:45:49Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "US Army suspends crews who flew helicopters near Kid Rock's home",
+      "url": "https://www.bbc.com/news/articles/c4gx2rw87e9o?at_medium=RSS&at_campaign=rss",
+      "summary": "President Donald Trump, when asked about the helicopters flying by his friend's house said: \"They like Kid Rock. I like Kid Rock.\"",
+      "published_at": "2026-03-31T22:36:15Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC US & Canada",
       "title": "As Iran war continues, US farmers absorb rising costs",
@@ -735,7 +753,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 34
+      "news_count": 36
     },
     {
       "country_code": "IR",
