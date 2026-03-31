@@ -1,8 +1,17 @@
 {
-  "generated_at": "2026-03-31T07:17:03Z",
+  "generated_at": "2026-03-31T08:36:07Z",
   "articles": [
     {
-      "source": "BBC Africa",
+      "source": "BBC World",
+      "title": "Congressman writes to King Charles urging him to meet Epstein victims during US visit",
+      "url": "https://www.bbc.com/news/articles/cn78xp0m75zo?at_medium=RSS&at_campaign=rss",
+      "summary": "While the trip is not officially confirmed, the King and Queen Camilla are reportedly planning to visit the US at the end of April.",
+      "published_at": "2026-03-31T07:55:23Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
       "title": "Sexual violence part of 'everyday life' in parts of Sudan, charity says",
       "url": "https://www.bbc.com/news/articles/c5ywgn2n3nqo?at_medium=RSS&at_campaign=rss",
       "summary": "Victims describe how they have been targeted while carrying out everyday activities.",
@@ -36,15 +45,6 @@
       "published_at": "2026-03-31T04:04:32Z",
       "country_code": "AU",
       "country_name": "Australia"
-    },
-    {
-      "source": "BBC World",
-      "title": "King Charles should meet Epstein victims, US lawmaker says",
-      "url": "https://www.bbc.com/news/articles/cn78xp0m75zo?at_medium=RSS&at_campaign=rss",
-      "summary": "While the trip is not officially confirmed, the King and Queen Camilla are reportedly planning to visit the US at the end of April.",
-      "published_at": "2026-03-31T02:57:36Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC World",
@@ -272,7 +272,7 @@
       "country_name": "Australia"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "Partial government shutdown becomes the longest in US history",
       "url": "https://www.bbc.com/news/articles/cyv1qpzq5v7o?at_medium=RSS&at_campaign=rss",
       "summary": "The 44-day funding lapse for the Department of Homeland Security has led to travel chaos at US airports.",
@@ -281,7 +281,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC US & Canada",
+      "source": "BBC World",
       "title": "First stop, the Moon. Next stop, Mars? Why Nasa's mission matters",
       "url": "https://www.bbc.com/news/articles/cd6wp6xenv0o?at_medium=RSS&at_campaign=rss",
       "summary": "From a race with China to lunar discoveries, the US is investing time, effort and money to head to the Moon - and beyond.",
@@ -306,6 +306,15 @@
       "published_at": "2026-03-29T19:37:03Z",
       "country_code": "IT",
       "country_name": "Italy"
+    },
+    {
+      "source": "BBC World",
+      "title": "Photos show heavily damaged US radar jet at Saudi base",
+      "url": "https://www.bbc.com/news/articles/cwyd07m7e1xo?at_medium=RSS&at_campaign=rss",
+      "summary": "US Central Command has not yet publicly commented on the incident.",
+      "published_at": "2026-03-29T18:42:19Z",
+      "country_code": "US",
+      "country_name": "United States"
     },
     {
       "source": "BBC Europe",
@@ -771,7 +780,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 34
+      "news_count": 35
     },
     {
       "country_code": "IR",
