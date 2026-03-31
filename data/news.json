@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-03-31T22:55:20Z",
+  "generated_at": "2026-03-31T23:25:21Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "'A million things could go wrong' - why seizing Iran's uranium would be so risky for the US",
+      "url": "https://www.bbc.com/news/articles/cvglv5v4yvpo?at_medium=RSS&at_campaign=rss",
+      "summary": "Seizing the stockpile would be one of the \"most complicated special operations in history,\" a former defence official tells the BBC.",
+      "published_at": "2026-03-31T23:16:15Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Asia's migrant workers debate if Gulf jobs are worth deadly risk of Iran war",
+      "url": "https://www.bbc.com/news/articles/c0kr8lrpekmo?at_medium=RSS&at_campaign=rss",
+      "summary": "Iran's strikes on Gulf states have been especially hard for migrants who have long supported these economies to lift their families back hom…",
+      "published_at": "2026-03-31T22:48:34Z",
+      "country_code": "IR",
+      "country_name": "Iran"
+    },
     {
       "source": "BBC US & Canada",
       "title": "'Something needs to be done' - Americans struggle as petrol prices surge",
@@ -11,7 +29,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC US & Canada",
+      "source": "BBC World",
       "title": "US Army suspends crews who flew helicopters near Kid Rock's home",
       "url": "https://www.bbc.com/news/articles/c4gx2rw87e9o?at_medium=RSS&at_campaign=rss",
       "summary": "President Donald Trump, when asked about the helicopters flying by his friend's house said: \"They like Kid Rock. I like Kid Rock.\"",
@@ -182,7 +200,7 @@
       "country_name": "Iran"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Africa",
       "title": "Sexual violence part of 'everyday life' in parts of Sudan, charity says",
       "url": "https://www.bbc.com/news/articles/c5ywgn2n3nqo?at_medium=RSS&at_campaign=rss",
       "summary": "Victims describe how they have been targeted while carrying out everyday activities.",
@@ -207,15 +225,6 @@
       "published_at": "2026-03-31T04:04:32Z",
       "country_code": "AU",
       "country_name": "Australia"
-    },
-    {
-      "source": "BBC World",
-      "title": "Kid Rock sparks US Army probe after helicopter flyby at his mansion",
-      "url": "https://www.bbc.com/news/articles/cdrmgvzm62no?at_medium=RSS&at_campaign=rss",
-      "summary": "The country rock artist posted footage on Saturday of himself saluting the aircraft from his outdoor pool.",
-      "published_at": "2026-03-31T02:50:07Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC World",
@@ -342,6 +351,15 @@
       "published_at": "2026-03-30T10:33:00Z",
       "country_code": "JP",
       "country_name": "Japan"
+    },
+    {
+      "source": "BBC World",
+      "title": "How Australia’s seven-month-long manhunt came to an end",
+      "url": "https://www.bbc.com/news/videos/cjw8vqnlzxvo?at_medium=RSS&at_campaign=rss",
+      "summary": "Fugitive Dezi Freeman has been wanted since he shot dead two police officers on his rural property in August last year.",
+      "published_at": "2026-03-30T05:58:41Z",
+      "country_code": "AU",
+      "country_name": "Australia"
     },
     {
       "source": "BBC Asia",
@@ -758,12 +776,12 @@
     {
       "country_code": "IR",
       "country_name": "Iran",
-      "news_count": 6
+      "news_count": 7
     },
     {
       "country_code": "AU",
       "country_name": "Australia",
-      "news_count": 4
+      "news_count": 5
     },
     {
       "country_code": "KE",
