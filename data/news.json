@@ -1,8 +1,26 @@
 {
-  "generated_at": "2026-04-01T12:54:27Z",
+  "generated_at": "2026-04-01T14:25:01Z",
   "articles": [
     {
       "source": "BBC Europe",
+      "title": "UK will seek closer ties with EU in light of Iran war, Starmer says",
+      "url": "https://www.bbc.com/news/articles/c62l6w03lwzo?at_medium=RSS&at_campaign=rss",
+      "summary": "It comes as UK-US relations have been strained by the PM's refusal to be dragged further into the Iran war.",
+      "published_at": "2026-04-01T14:00:58Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC Africa",
+      "title": "South African army arrive in crime hotspots to help tackle gangs",
+      "url": "https://www.bbc.com/news/articles/cx2e78yk09no?at_medium=RSS&at_campaign=rss",
+      "summary": "The army has been deployed to five of South Africa's nine provinces for a year-long operation.",
+      "published_at": "2026-04-01T13:22:46Z",
+      "country_code": "ZA",
+      "country_name": "South Africa"
+    },
+    {
+      "source": "BBC World",
       "title": "Devastated Italians reckon with 'third apocalypse' of World Cup failure",
       "url": "https://www.bbc.com/news/articles/cj943rmkkm4o?at_medium=RSS&at_campaign=rss",
       "summary": "Azzurri fans and management alike are pondering what went wrong after Italy fail to qualify for third World Cup in a row.",
@@ -16,15 +34,6 @@
       "url": "https://www.bbc.com/news/articles/cx2dyz6p3weo?at_medium=RSS&at_campaign=rss",
       "summary": "Conflict has spread across the Middle East since the US and Israel launched strikes on Iran on 28 February.",
       "published_at": "2026-04-01T11:49:28Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC Europe",
-      "title": "UK will seek closer ties with EU in light of Iran war, Starmer says",
-      "url": "https://www.bbc.com/news/articles/c62l6w03lwzo?at_medium=RSS&at_campaign=rss",
-      "summary": "It comes as UK-US relations have been strained by the PM's refusal to be dragged further into the Iran war.",
-      "published_at": "2026-04-01T11:21:09Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -353,7 +362,7 @@
       "country_name": "Australia"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "How Pakistan won over Trump to become an unlikely mediator in the Iran war",
       "url": "https://www.bbc.com/news/articles/cy91vrzxn34o?at_medium=RSS&at_campaign=rss",
       "summary": "Pakistan's role as intermediary in this conflict took many by surprise. But perhaps it shouldn't have.",
@@ -828,6 +837,11 @@
       "news_count": 3
     },
     {
+      "country_code": "ZA",
+      "country_name": "South Africa",
+      "news_count": 3
+    },
+    {
       "country_code": "IN",
       "country_name": "India",
       "news_count": 2
@@ -845,11 +859,6 @@
     {
       "country_code": "UA",
       "country_name": "Ukraine",
-      "news_count": 2
-    },
-    {
-      "country_code": "ZA",
-      "country_name": "South Africa",
       "news_count": 2
     },
     {
