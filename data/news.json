@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-04-01T07:58:26Z",
+  "generated_at": "2026-04-01T09:03:02Z",
   "articles": [
     {
       "source": "BBC Asia",
-      "title": "Oil falls below $100 and shares jump on hopes Iran war will end soon",
+      "title": "Oil briefly falls below $100 and shares jump on Trump Iran war pledge",
       "url": "https://www.bbc.com/news/articles/c2489v97842o?at_medium=RSS&at_campaign=rss",
-      "summary": "The price of Brent crude oil to be delivered in May rose by a record 64% in March as the conflict disrupted energy supplies.",
-      "published_at": "2026-04-01T07:20:21Z",
-      "country_code": "IR",
-      "country_name": "Iran"
+      "summary": "European stock markets opened higher after the US president said the conflict would \"end very soon\".",
+      "published_at": "2026-04-01T08:49:19Z",
+      "country_code": "US",
+      "country_name": "United States"
     },
     {
       "source": "BBC World",
@@ -180,6 +180,15 @@
       "published_at": "2026-03-31T18:57:25Z",
       "country_code": "IL",
       "country_name": "Israel"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "'God squad' waives animal protections to expand oil drilling in Gulf of Mexico",
+      "url": "https://www.bbc.com/news/articles/cre19zrg5dxo?at_medium=RSS&at_campaign=rss",
+      "summary": "Secretary of Defence Pete Hegseth said exempting oil drilling was a matter of national security.",
+      "published_at": "2026-03-31T18:51:48Z",
+      "country_code": "MX",
+      "country_name": "Mexico"
     },
     {
       "source": "BBC US & Canada",
@@ -789,12 +798,12 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 33
+      "news_count": 34
     },
     {
       "country_code": "IR",
       "country_name": "Iran",
-      "news_count": 9
+      "news_count": 8
     },
     {
       "country_code": "KE",
@@ -827,6 +836,11 @@
       "news_count": 3
     },
     {
+      "country_code": "MX",
+      "country_name": "Mexico",
+      "news_count": 3
+    },
+    {
       "country_code": "PS",
       "country_name": "Palestine",
       "news_count": 3
@@ -839,11 +853,6 @@
     {
       "country_code": "JP",
       "country_name": "Japan",
-      "news_count": 2
-    },
-    {
-      "country_code": "MX",
-      "country_name": "Mexico",
       "news_count": 2
     },
     {
