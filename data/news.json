@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-01T23:04:10Z",
+  "generated_at": "2026-04-01T23:54:05Z",
   "articles": [
     {
       "source": "BBC US & Canada",
@@ -153,15 +153,6 @@
       "published_at": "2026-04-01T06:15:42Z",
       "country_code": "IR",
       "country_name": "Iran"
-    },
-    {
-      "source": "BBC World",
-      "title": "Megan Thee Stallion taken to hospital during Moulin Rouge performance",
-      "url": "https://www.bbc.com/news/articles/c86e1403793o?at_medium=RSS&at_campaign=rss",
-      "summary": "The rapper \"started feeling very ill\" mid-way through the show in New York, her representative told US media.",
-      "published_at": "2026-04-01T05:30:52Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC World",
@@ -443,7 +434,7 @@
       "country_name": "Iran"
     },
     {
-      "source": "BBC US & Canada",
+      "source": "BBC World",
       "title": "First stop, the Moon. Next stop, Mars? Why Nasa's mission matters",
       "url": "https://www.bbc.com/news/articles/cd6wp6xenv0o?at_medium=RSS&at_campaign=rss",
       "summary": "From a race with China to lunar discoveries, the US is investing time, effort and money to head to the Moon - and beyond.",
@@ -771,7 +762,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 34
+      "news_count": 33
     },
     {
       "country_code": "IR",
