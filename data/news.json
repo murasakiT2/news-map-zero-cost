@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-04-01T09:03:02Z",
+  "generated_at": "2026-04-01T10:32:24Z",
   "articles": [
+    {
+      "source": "BBC Asia",
+      "title": "Stanford University wins battle to keep diaries of Mao Zedong's secretary",
+      "url": "https://www.bbc.com/news/articles/czxry0nyq5xo?at_medium=RSS&at_campaign=rss",
+      "summary": "Stanford said the papers, which mentioned the Tiananmen Massacre, would be banned if returned to Beijing.",
+      "published_at": "2026-04-01T09:31:37Z",
+      "country_code": "CN",
+      "country_name": "China"
+    },
+    {
+      "source": "BBC Africa",
+      "title": "Spanish federation condemns anti-Muslim chants at Egypt match",
+      "url": "https://www.bbc.com/sport/football/articles/cgk0ddmmm3mo?at_medium=RSS&at_campaign=rss",
+      "summary": "Police in Spain are investigating \"Islamophobic and xenophobic\" chants heard during the first half of Spain's draw with Egypt.",
+      "published_at": "2026-04-01T09:14:20Z",
+      "country_code": "ES",
+      "country_name": "Spain"
+    },
     {
       "source": "BBC Asia",
       "title": "Oil briefly falls below $100 and shares jump on Trump Iran war pledge",
@@ -16,15 +34,6 @@
       "url": "https://www.bbc.com/news/articles/cze0kz7gr84o?at_medium=RSS&at_campaign=rss",
       "summary": "It's a turnaround for Beijing, whose official response has been muted so far. Why is China stepping in now?",
       "published_at": "2026-04-01T07:16:15Z",
-      "country_code": "CN",
-      "country_name": "China"
-    },
-    {
-      "source": "BBC Asia",
-      "title": "Stanford University wins battle to keep diaries of Mao Zedong's secretary",
-      "url": "https://www.bbc.com/news/articles/czxry0nyq5xo?at_medium=RSS&at_campaign=rss",
-      "summary": "Stanford said the papers, which mentioned the Tiananmen Massacre, would be banned if returned to Beijing.",
-      "published_at": "2026-04-01T06:22:00Z",
       "country_code": "CN",
       "country_name": "China"
     },
@@ -47,7 +56,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Asia",
+      "source": "BBC World",
       "title": "Divorced couples in Japan can now share custody of their children",
       "url": "https://www.bbc.com/news/articles/c77m16n6dm0o?at_medium=RSS&at_campaign=rss",
       "summary": "Japan was, until recently, the only G7 country to not recognise the legal concept of joint custody.",
@@ -66,15 +75,6 @@
     },
     {
       "source": "BBC World",
-      "title": "India begins counting more than a billion people in massive census",
-      "url": "https://www.bbc.com/news/articles/c7vqnpqrgy3o?at_medium=RSS&at_campaign=rss",
-      "summary": "The two-phase exercise - the world’s most ambitious - will see three million officials count every Indian.",
-      "published_at": "2026-04-01T00:11:33Z",
-      "country_code": "IN",
-      "country_name": "India"
-    },
-    {
-      "source": "BBC Asia",
       "title": "Billion-plus people, three million officials, 33 questions - India begins huge census",
       "url": "https://www.bbc.com/news/articles/c7vqnpqrgy3o?at_medium=RSS&at_campaign=rss",
       "summary": "The two-phase exercise - the world’s most ambitious - will see three million officials count every Indian.",
@@ -108,15 +108,6 @@
       "published_at": "2026-03-31T23:16:15Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC Africa",
-      "title": "Spanish federation condemns anti-Muslim chants at Egypt match",
-      "url": "https://www.bbc.com/sport/football/articles/cgk0ddmmm3mo?at_medium=RSS&at_campaign=rss",
-      "summary": "Fans are warned against xenophobic remarks and singing during Spain's friendly against Egypt in Barcelona on Tuesday.",
-      "published_at": "2026-03-31T23:06:22Z",
-      "country_code": "ES",
-      "country_name": "Spain"
     },
     {
       "source": "BBC World",
@@ -308,15 +299,6 @@
       "country_name": "Sudan"
     },
     {
-      "source": "BBC World",
-      "title": "Shock, sadness and relief in town at centre of Australia's seven-month manhunt for Dezi Freeman",
-      "url": "https://www.bbc.com/news/articles/cq59wj31vl4o?at_medium=RSS&at_campaign=rss",
-      "summary": "Porepunkah has been in the spotlight since Dezi Freeman shot dead two police officers last year.",
-      "published_at": "2026-03-31T04:04:32Z",
-      "country_code": "AU",
-      "country_name": "Australia"
-    },
-    {
       "source": "BBC Asia",
       "title": "Shock, sadness and relief in town at centre of Australia's seven-month police manhunt",
       "url": "https://www.bbc.com/news/articles/cq59wj31vl4o?at_medium=RSS&at_campaign=rss",
@@ -452,7 +434,7 @@
       "country_name": "Japan"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "First stop, the Moon. Next stop, Mars? Why Nasa's mission matters",
       "url": "https://www.bbc.com/news/articles/cd6wp6xenv0o?at_medium=RSS&at_campaign=rss",
       "summary": "From a race with China to lunar discoveries, the US is investing time, effort and money to head to the Moon - and beyond.",
@@ -811,11 +793,6 @@
       "news_count": 4
     },
     {
-      "country_code": "AU",
-      "country_name": "Australia",
-      "news_count": 3
-    },
-    {
       "country_code": "CN",
       "country_name": "China",
       "news_count": 3
@@ -831,11 +808,6 @@
       "news_count": 3
     },
     {
-      "country_code": "IN",
-      "country_name": "India",
-      "news_count": 3
-    },
-    {
       "country_code": "MX",
       "country_name": "Mexico",
       "news_count": 3
@@ -844,6 +816,16 @@
       "country_code": "PS",
       "country_name": "Palestine",
       "news_count": 3
+    },
+    {
+      "country_code": "AU",
+      "country_name": "Australia",
+      "news_count": 2
+    },
+    {
+      "country_code": "IN",
+      "country_name": "India",
+      "news_count": 2
     },
     {
       "country_code": "IT",
