@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-04-01T01:29:35Z",
+  "generated_at": "2026-04-01T04:30:57Z",
   "articles": [
+    {
+      "source": "BBC Asia",
+      "title": "Divorced couples in Japan can now share custody of their children",
+      "url": "https://www.bbc.com/news/articles/c77m16n6dm0o?at_medium=RSS&at_campaign=rss",
+      "summary": "Japan was, until recently, the only G7 country to not recognise the legal concept of joint custody.",
+      "published_at": "2026-04-01T04:11:30Z",
+      "country_code": "JP",
+      "country_name": "Japan"
+    },
+    {
+      "source": "BBC Asia",
+      "title": "Asia stocks jump after Trump suggests Iran war could end in weeks",
+      "url": "https://www.bbc.com/news/articles/c2489v97842o?at_medium=RSS&at_campaign=rss",
+      "summary": "The price of Brent crude oil to be delivered in May rose by a record 64% in March as the conflict disrupted energy supplies.",
+      "published_at": "2026-04-01T02:12:45Z",
+      "country_code": "IR",
+      "country_name": "Iran"
+    },
     {
       "source": "BBC World",
       "title": "US Army pilots who flew near Kid Rock's home suspended and then reinstated within hours",
@@ -13,6 +31,15 @@
     {
       "source": "BBC World",
       "title": "India begins counting more than a billion people in massive census",
+      "url": "https://www.bbc.com/news/articles/c7vqnpqrgy3o?at_medium=RSS&at_campaign=rss",
+      "summary": "The two-phase exercise - the world’s most ambitious - will see three million officials count every Indian.",
+      "published_at": "2026-04-01T00:11:33Z",
+      "country_code": "IN",
+      "country_name": "India"
+    },
+    {
+      "source": "BBC Asia",
+      "title": "Billion-plus people, three million officials, 33 questions - India begins huge census",
       "url": "https://www.bbc.com/news/articles/c7vqnpqrgy3o?at_medium=RSS&at_campaign=rss",
       "summary": "The two-phase exercise - the world’s most ambitious - will see three million officials count every Indian.",
       "published_at": "2026-04-01T00:11:33Z",
@@ -378,15 +405,6 @@
       "published_at": "2026-03-30T10:33:00Z",
       "country_code": "JP",
       "country_name": "Japan"
-    },
-    {
-      "source": "BBC Asia",
-      "title": "Fuel tax halved and free public transport offered as war pushes up prices in Australia",
-      "url": "https://www.bbc.com/news/articles/c937n0yxggeo?at_medium=RSS&at_campaign=rss",
-      "summary": "Victoria and Tasmania are incentivising commuters not to drive in a bid to ease cost pressures.",
-      "published_at": "2026-03-30T05:38:26Z",
-      "country_code": "AU",
-      "country_name": "Australia"
     },
     {
       "source": "BBC World",
@@ -776,17 +794,22 @@
     {
       "country_code": "IR",
       "country_name": "Iran",
-      "news_count": 8
+      "news_count": 9
     },
     {
-      "country_code": "AU",
-      "country_name": "Australia",
+      "country_code": "IN",
+      "country_name": "India",
       "news_count": 4
     },
     {
       "country_code": "KE",
       "country_name": "Kenya",
       "news_count": 4
+    },
+    {
+      "country_code": "AU",
+      "country_name": "Australia",
+      "news_count": 3
     },
     {
       "country_code": "DE",
@@ -796,11 +819,6 @@
     {
       "country_code": "IL",
       "country_name": "Israel",
-      "news_count": 3
-    },
-    {
-      "country_code": "IN",
-      "country_name": "India",
       "news_count": 3
     },
     {
@@ -817,6 +835,11 @@
       "country_code": "SD",
       "country_name": "Sudan",
       "news_count": 3
+    },
+    {
+      "country_code": "JP",
+      "country_name": "Japan",
+      "news_count": 2
     },
     {
       "country_code": "MX",
@@ -846,11 +869,6 @@
     {
       "country_code": "FR",
       "country_name": "France",
-      "news_count": 1
-    },
-    {
-      "country_code": "JP",
-      "country_name": "Japan",
       "news_count": 1
     },
     {
