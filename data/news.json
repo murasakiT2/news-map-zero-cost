@@ -1,6 +1,33 @@
 {
-  "generated_at": "2026-03-31T23:55:23Z",
+  "generated_at": "2026-04-01T01:29:35Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "US Army pilots who flew near Kid Rock's home suspended and then reinstated within hours",
+      "url": "https://www.bbc.com/news/articles/c4gx2rw87e9o?at_medium=RSS&at_campaign=rss",
+      "summary": "The crews of two military helicopters were suspended by the army, then told there would be \"no investigation\" by Defence Secretary Pete Hegs…",
+      "published_at": "2026-04-01T00:51:56Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "India begins counting more than a billion people in massive census",
+      "url": "https://www.bbc.com/news/articles/c7vqnpqrgy3o?at_medium=RSS&at_campaign=rss",
+      "summary": "The two-phase exercise - the world’s most ambitious - will see three million officials count every Indian.",
+      "published_at": "2026-04-01T00:11:33Z",
+      "country_code": "IN",
+      "country_name": "India"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "How English-only condolences undid one of Canada's top CEOs",
+      "url": "https://www.bbc.com/news/articles/cyv1q9gz39do?at_medium=RSS&at_campaign=rss",
+      "summary": "The episode is the latest reminder of the complicated politics around language and identity in Canada.",
+      "published_at": "2026-03-31T23:46:22Z",
+      "country_code": "CA",
+      "country_name": "Canada"
+    },
     {
       "source": "BBC World",
       "title": "'You're no longer my sister' - rows erupt as war divides Iranian families",
@@ -14,7 +41,7 @@
       "source": "BBC World",
       "title": "'A million things could go wrong' - why seizing Iran's uranium would be so risky for the US",
       "url": "https://www.bbc.com/news/articles/cvglv5v4yvpo?at_medium=RSS&at_campaign=rss",
-      "summary": "Seizing the stockpile would be one of the \"most complicated special operations in history,\" a former defence official tells the BBC.",
+      "summary": "Seizing the stockpile would be one of the \"most complicated special operations in history\", a former defence official tells the BBC.",
       "published_at": "2026-03-31T23:16:15Z",
       "country_code": "US",
       "country_name": "United States"
@@ -34,15 +61,6 @@
       "url": "https://www.bbc.com/news/videos/cn4vggzkjgdo?at_medium=RSS&at_campaign=rss",
       "summary": "The average price at the pump has topped $4 in the US for the first time since 2022 as the Iran war continues to push up fuel prices.",
       "published_at": "2026-03-31T22:45:49Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "Hegseth ends suspension of US Army pilots who flew near Kid Rock's home",
-      "url": "https://www.bbc.com/news/articles/c4gx2rw87e9o?at_medium=RSS&at_campaign=rss",
-      "summary": "President Donald Trump, when asked about the helicopters flying by his friend's house said: \"They like Kid Rock. I like Kid Rock.\"",
-      "published_at": "2026-03-31T22:36:15Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -398,16 +416,7 @@
       "country_name": "Italy"
     },
     {
-      "source": "BBC World",
-      "title": "Photos show heavily damaged US radar jet at Saudi base",
-      "url": "https://www.bbc.com/news/articles/cwyd07m7e1xo?at_medium=RSS&at_campaign=rss",
-      "summary": "US Central Command has not yet publicly commented on the incident.",
-      "published_at": "2026-03-29T18:42:19Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
+      "source": "BBC Africa",
       "title": "One ant for $220: The new frontier of wildlife trafficking",
       "url": "https://www.bbc.com/news/articles/cg4g44zv37qo?at_medium=RSS&at_campaign=rss",
       "summary": "The craze for collecting ants takes Kenya by surprise as smugglers zone in to make a profit.",
@@ -731,15 +740,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Africa",
-      "title": "Inside Ethiopia's 'smart' police station",
-      "url": "https://www.bbc.com/news/videos/cz9qqzqkk82o?at_medium=RSS&at_campaign=rss",
-      "summary": "Ethiopia unveils its first unmanned, 'smart' police station where citizens can report crimes on automated touch screens.",
-      "published_at": "2026-03-05T12:29:16Z",
-      "country_code": "ET",
-      "country_name": "Ethiopia"
-    },
-    {
       "source": "BBC Europe",
       "title": "Watch: Moment wolf rescued from canal in northern Italy",
       "url": "https://www.bbc.com/news/videos/cy7jjnekeepo?at_medium=RSS&at_campaign=rss",
@@ -771,7 +771,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 36
+      "news_count": 35
     },
     {
       "country_code": "IR",
@@ -799,6 +799,11 @@
       "news_count": 3
     },
     {
+      "country_code": "IN",
+      "country_name": "India",
+      "news_count": 3
+    },
+    {
       "country_code": "IT",
       "country_name": "Italy",
       "news_count": 3
@@ -812,11 +817,6 @@
       "country_code": "SD",
       "country_name": "Sudan",
       "news_count": 3
-    },
-    {
-      "country_code": "IN",
-      "country_name": "India",
-      "news_count": 2
     },
     {
       "country_code": "MX",
@@ -834,13 +834,13 @@
       "news_count": 1
     },
     {
-      "country_code": "CN",
-      "country_name": "China",
+      "country_code": "CA",
+      "country_name": "Canada",
       "news_count": 1
     },
     {
-      "country_code": "ET",
-      "country_name": "Ethiopia",
+      "country_code": "CN",
+      "country_name": "China",
       "news_count": 1
     },
     {
