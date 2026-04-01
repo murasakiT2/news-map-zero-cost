@@ -1,6 +1,33 @@
 {
-  "generated_at": "2026-04-01T15:49:21Z",
+  "generated_at": "2026-04-01T16:43:24Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "What do Trump's latest comments on leaving Nato mean for the alliance?",
+      "url": "https://www.bbc.com/news/articles/c79je4vldq5o?at_medium=RSS&at_campaign=rss",
+      "summary": "Trump has criticised Nato members for showing a lack of support for US objectives in Iran.",
+      "published_at": "2026-04-01T16:31:17Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC Europe",
+      "title": "UK will seek closer ties with EU in light of Iran war, Starmer says",
+      "url": "https://www.bbc.com/news/articles/c62l6w03lwzo?at_medium=RSS&at_campaign=rss",
+      "summary": "It comes as UK-US relations have been strained by the PM's refusal to be dragged further into the Iran war.",
+      "published_at": "2026-04-01T16:12:45Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Trump to give primetime address on war as questions swirl over his next move",
+      "url": "https://www.bbc.com/news/articles/c74vqd8k3g1o?at_medium=RSS&at_campaign=rss",
+      "summary": "The US president finds himself under growing pressure at home to avoid a protracted conflict.",
+      "published_at": "2026-04-01T14:59:06Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC US & Canada",
       "title": "Trump to give primetime address on Iran war as questions swirl over his next move",
@@ -21,12 +48,12 @@
     },
     {
       "source": "BBC Europe",
-      "title": "UK will seek closer ties with EU in light of Iran war, Starmer says",
-      "url": "https://www.bbc.com/news/articles/c62l6w03lwzo?at_medium=RSS&at_campaign=rss",
-      "summary": "It comes as UK-US relations have been strained by the PM's refusal to be dragged further into the Iran war.",
-      "published_at": "2026-04-01T14:00:58Z",
-      "country_code": "US",
-      "country_name": "United States"
+      "title": "Lamine Yamal condemns racist abuse aimed at Egypt",
+      "url": "https://www.bbc.com/sport/football/articles/cz6737pdnwpo?at_medium=RSS&at_campaign=rss",
+      "summary": "Lamine Yamal says racist chants heard during Spain's 0-0 draw with Egypt in Barcelona on Tuesday were \"disrespectful and intolerable\".",
+      "published_at": "2026-04-01T13:28:19Z",
+      "country_code": "ES",
+      "country_name": "Spain"
     },
     {
       "source": "BBC World",
@@ -362,7 +389,7 @@
       "country_name": "Palestine"
     },
     {
-      "source": "BBC Europe",
+      "source": "BBC Middle East",
       "title": "Most Syrian refugees in Germany expected to return home in three years, Merz says",
       "url": "https://www.bbc.com/news/articles/cy41vqx4pdzo?at_medium=RSS&at_campaign=rss",
       "summary": "Merz’s government has taken a tougher line on refugees and migrants, amid surging support for the anti-immigration AfD party.",
@@ -425,7 +452,7 @@
       "country_name": "Iran"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "First stop, the Moon. Next stop, Mars? Why Nasa's mission matters",
       "url": "https://www.bbc.com/news/articles/cd6wp6xenv0o?at_medium=RSS&at_campaign=rss",
       "summary": "From a race with China to lunar discoveries, the US is investing time, effort and money to head to the Moon - and beyond.",
@@ -558,15 +585,6 @@
       "published_at": "2026-03-27T07:20:18Z",
       "country_code": "KE",
       "country_name": "Kenya"
-    },
-    {
-      "source": "BBC Europe",
-      "title": "How Russia's threat has seen Germany become Europe's most important army",
-      "url": "https://www.bbc.com/news/articles/cvge7r31989o?at_medium=RSS&at_campaign=rss",
-      "summary": "Germany once terrorised Europe, but now Europe is welcoming a resurgent German military.",
-      "published_at": "2026-03-27T05:59:20Z",
-      "country_code": "RU",
-      "country_name": "Russia"
     },
     {
       "source": "BBC Middle East",
@@ -762,7 +780,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 33
+      "news_count": 35
     },
     {
       "country_code": "IR",
@@ -810,6 +828,11 @@
       "news_count": 2
     },
     {
+      "country_code": "ES",
+      "country_name": "Spain",
+      "news_count": 2
+    },
+    {
       "country_code": "IN",
       "country_name": "India",
       "news_count": 2
@@ -840,11 +863,6 @@
       "news_count": 1
     },
     {
-      "country_code": "ES",
-      "country_name": "Spain",
-      "news_count": 1
-    },
-    {
       "country_code": "ET",
       "country_name": "Ethiopia",
       "news_count": 1
@@ -867,11 +885,6 @@
     {
       "country_code": "PK",
       "country_name": "Pakistan",
-      "news_count": 1
-    },
-    {
-      "country_code": "RU",
-      "country_name": "Russia",
       "news_count": 1
     },
     {
