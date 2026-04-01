@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-04-01T10:32:24Z",
+  "generated_at": "2026-04-01T11:43:21Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Iran war economic shocks will last 'months', says Australia's PM",
+      "url": "https://www.bbc.com/news/articles/cvg4nre8nl9o?at_medium=RSS&at_campaign=rss",
+      "summary": "Anthony Albanese used a rare TV address to tell Australians that the \"months ahead may not be easy\" amid the global effects of the war.",
+      "published_at": "2026-04-01T10:53:03Z",
+      "country_code": "AU",
+      "country_name": "Australia"
+    },
+    {
+      "source": "BBC World",
+      "title": "Israel intensifies Lebanon attacks and hits areas not in Hezbollah's control",
+      "url": "https://www.bbc.com/news/articles/cvg07j6yeweo?at_medium=RSS&at_campaign=rss",
+      "summary": "Attacks have continued as Israel has announced its intention to control swathes of south Lebanon.",
+      "published_at": "2026-04-01T10:33:35Z",
+      "country_code": "IL",
+      "country_name": "Israel"
+    },
     {
       "source": "BBC Asia",
       "title": "Stanford University wins battle to keep diaries of Mao Zedong's secretary",
@@ -200,15 +218,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC US & Canada",
-      "title": "Hegseth calls on US allies to 'step up' over Strait of Hormuz",
-      "url": "https://www.bbc.com/news/articles/cpwj7r5yxv1o?at_medium=RSS&at_campaign=rss",
-      "summary": "The defence secretary's comments came after US President Donald Trump told other nations to \"go get your own oil\".",
-      "published_at": "2026-03-31T15:19:58Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC Africa",
       "title": "Nigeria warns its citizens in South Africa to be cautious after march turns violent",
       "url": "https://www.bbc.com/news/articles/clyxnwvdzn6o?at_medium=RSS&at_campaign=rss",
@@ -335,15 +344,6 @@
       "country_name": "Mexico"
     },
     {
-      "source": "BBC World",
-      "title": "Long queues in Myanmar as Iran war fuel crisis deepens",
-      "url": "https://www.bbc.com/news/videos/cn08w9ye38yo?at_medium=RSS&at_campaign=rss",
-      "summary": "Drivers are queuing for hours at petrol stations in Myanmar as the Iran war continues to send shockwaves across the globe.",
-      "published_at": "2026-03-30T22:03:59Z",
-      "country_code": "IR",
-      "country_name": "Iran"
-    },
-    {
       "source": "BBC Middle East",
       "title": "Gazan mother reunited with evacuated daughter after two years",
       "url": "https://www.bbc.com/news/articles/czex10lngzjo?at_medium=RSS&at_campaign=rss",
@@ -380,7 +380,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "How the US could try to seize Iran's Kharg Island",
       "url": "https://www.bbc.com/news/articles/c937gd1vq7xo?at_medium=RSS&at_campaign=rss",
       "summary": "Donald Trump has indicated he could send troops to take control of Iran's key oil export terminal.",
@@ -423,15 +423,6 @@
       "published_at": "2026-03-30T11:49:26Z",
       "country_code": "IR",
       "country_name": "Iran"
-    },
-    {
-      "source": "BBC Asia",
-      "title": "How office chair racing in Japan is attracting thrill-seekers",
-      "url": "https://www.bbc.com/news/videos/cx26075p834o?at_medium=RSS&at_campaign=rss",
-      "summary": "No souped-up chairs are allowed in this competition.",
-      "published_at": "2026-03-30T10:33:00Z",
-      "country_code": "JP",
-      "country_name": "Japan"
     },
     {
       "source": "BBC US & Canada",
@@ -780,17 +771,27 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 34
+      "news_count": 33
     },
     {
       "country_code": "IR",
       "country_name": "Iran",
-      "news_count": 8
+      "news_count": 7
+    },
+    {
+      "country_code": "IL",
+      "country_name": "Israel",
+      "news_count": 4
     },
     {
       "country_code": "KE",
       "country_name": "Kenya",
       "news_count": 4
+    },
+    {
+      "country_code": "AU",
+      "country_name": "Australia",
+      "news_count": 3
     },
     {
       "country_code": "CN",
@@ -800,11 +801,6 @@
     {
       "country_code": "DE",
       "country_name": "Germany",
-      "news_count": 3
-    },
-    {
-      "country_code": "IL",
-      "country_name": "Israel",
       "news_count": 3
     },
     {
@@ -818,11 +814,6 @@
       "news_count": 3
     },
     {
-      "country_code": "AU",
-      "country_name": "Australia",
-      "news_count": 2
-    },
-    {
       "country_code": "IN",
       "country_name": "India",
       "news_count": 2
@@ -830,11 +821,6 @@
     {
       "country_code": "IT",
       "country_name": "Italy",
-      "news_count": 2
-    },
-    {
-      "country_code": "JP",
-      "country_name": "Japan",
       "news_count": 2
     },
     {
@@ -880,6 +866,11 @@
     {
       "country_code": "FR",
       "country_name": "France",
+      "news_count": 1
+    },
+    {
+      "country_code": "JP",
+      "country_name": "Japan",
       "news_count": 1
     },
     {
