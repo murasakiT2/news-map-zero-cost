@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-04-02T08:08:41Z",
+  "generated_at": "2026-04-02T09:32:51Z",
   "articles": [
+    {
+      "source": "BBC US & Canada",
+      "title": "Four ways a year of Trump's tariffs have changed global trade",
+      "url": "https://www.bbc.com/news/articles/c79j1rd92ypo?at_medium=RSS&at_campaign=rss",
+      "summary": "US tariffs stand at the highest rate in decades. But what has the impact been?",
+      "published_at": "2026-04-02T09:16:33Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC Middle East",
       "title": "Trump: US 'on the cusp' of ending Iran war",
       "url": "https://www.bbc.com/news/videos/cx2vn4n24e5o?at_medium=RSS&at_campaign=rss",
       "summary": "US President Donald Trump says his core \"objectives are nearing completion\" in Iran, during a primetime televised speech from the White Hous…",
       "published_at": "2026-04-02T05:32:27Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "A year on: Four ways Trump's tariffs have changed the global economy",
-      "url": "https://www.bbc.com/news/articles/c79j1rd92ypo?at_medium=RSS&at_campaign=rss",
-      "summary": "US tariffs stand at the highest rate in decades. But what has the impact been?",
-      "published_at": "2026-04-02T04:43:23Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -41,10 +41,10 @@
       "source": "BBC US & Canada",
       "title": "Trump says Iran war objectives 'nearing completion' in address to nation",
       "url": "https://www.bbc.com/news/articles/cql72qk97gpo?at_medium=RSS&at_campaign=rss",
-      "summary": "Trump's first televised address of the conflict with Iran did little to quell uneasy markets.",
+      "summary": "The US president's first televised address of the conflict with Iran did little to quell uneasy markets.",
       "published_at": "2026-04-02T02:49:26Z",
-      "country_code": "IR",
-      "country_name": "Iran"
+      "country_code": "US",
+      "country_name": "United States"
     },
     {
       "source": "BBC US & Canada",
@@ -726,12 +726,12 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 28
+      "news_count": 29
     },
     {
       "country_code": "IR",
       "country_name": "Iran",
-      "news_count": 8
+      "news_count": 7
     },
     {
       "country_code": "IL",
