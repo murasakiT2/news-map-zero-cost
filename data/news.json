@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-04-02T23:27:32Z",
+  "generated_at": "2026-04-02T23:57:24Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Iran war could make beer and bottled water pricier for Indians",
+      "url": "https://www.bbc.com/news/articles/c5ywqky5dd7o?at_medium=RSS&at_campaign=rss",
+      "summary": "Makers of plastic and glass bottles are struggling to access raw materials as the war squeezes supplies.",
+      "published_at": "2026-04-02T23:16:37Z",
+      "country_code": "IR",
+      "country_name": "Iran"
+    },
+    {
+      "source": "BBC World",
+      "title": "Arlo Parks: 'I got out of my head and into my body'",
+      "url": "https://www.bbc.com/news/articles/cq8wzkyxyyyo?at_medium=RSS&at_campaign=rss",
+      "summary": "The singer-songwriter found herself on the dancefloor. On a new album, she asks us to join her.",
+      "published_at": "2026-04-02T23:11:19Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC US & Canada",
       "title": "Hegseth asks US Army's top general to step down",
@@ -753,12 +771,12 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 30
+      "news_count": 31
     },
     {
       "country_code": "IR",
       "country_name": "Iran",
-      "news_count": 8
+      "news_count": 9
     },
     {
       "country_code": "IL",
