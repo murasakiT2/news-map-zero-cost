@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-04-02T15:32:18Z",
+  "generated_at": "2026-04-02T16:44:58Z",
   "articles": [
+    {
+      "source": "BBC Middle East",
+      "title": "UK says Iran holding world economy 'hostage' with Hormuz attacks",
+      "url": "https://www.bbc.com/news/articles/cx2d0md89v2o?at_medium=RSS&at_campaign=rss",
+      "summary": "Yvette Cooper said coordinated diplomatic and economic measures are required to reopen the shipping lane.",
+      "published_at": "2026-04-02T16:06:20Z",
+      "country_code": "GB",
+      "country_name": "United Kingdom"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "Refugee's death after release by US immigration authorities ruled homicide",
+      "url": "https://www.bbc.com/news/articles/c4gx8l7w4jjo?at_medium=RSS&at_campaign=rss",
+      "summary": "The determination does not imply intent to cause harm or death or indicate criminality.",
+      "published_at": "2026-04-02T14:20:42Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "Iran's focus on survival means same regime still firmly in place",
@@ -34,6 +52,15 @@
       "url": "https://www.bbc.com/news/articles/cql72qk97gpo?at_medium=RSS&at_campaign=rss",
       "summary": "The US president's first televised address of the conflict with Iran did little to quell uneasy markets.",
       "published_at": "2026-04-02T11:33:18Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "Woods declines US Ryder Cup captain role in 2027",
+      "url": "https://www.bbc.com/sport/golf/articles/cpqxe0qjzyno?at_medium=RSS&at_campaign=rss",
+      "summary": "Tiger Woods turns down the role of United States Ryder Cup captain next year in Ireland, the PGA of America announces, as he steps away from…",
+      "published_at": "2026-04-02T10:52:34Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -452,15 +479,6 @@
       "country_name": "Kenya"
     },
     {
-      "source": "BBC Middle East",
-      "title": "Why does the US have Iran's Kharg Island in its sights?",
-      "url": "https://www.bbc.com/news/articles/c8jxzlwvd8ro?at_medium=RSS&at_campaign=rss",
-      "summary": "The tiny island is home to one of the most critical pieces of Iran's energy infrastructure.",
-      "published_at": "2026-03-30T12:11:07Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC Africa",
       "title": "Rationing power and diluting petrol - how African countries are coping with effects of Iran war",
       "url": "https://www.bbc.com/news/articles/cq8wkq1n9epo?at_medium=RSS&at_campaign=rss",
@@ -574,15 +592,6 @@
       "url": "https://www.bbc.com/news/articles/c3v6ld7lv9no?at_medium=RSS&at_campaign=rss",
       "summary": "The toll on civilians is mounting fast as the US-Israeli war on Iran continues.",
       "published_at": "2026-03-23T18:31:26Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC Middle East",
-      "title": "US' and Iran's options for ending war narrow the longer it goes on",
-      "url": "https://www.bbc.com/news/articles/cn53zvlglg7o?at_medium=RSS&at_campaign=rss",
-      "summary": "Iran shows no sign of climbdown, while air power alone cannot achieve the US' main goal.",
-      "published_at": "2026-03-23T15:34:38Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -802,6 +811,11 @@
     {
       "country_code": "FR",
       "country_name": "France",
+      "news_count": 1
+    },
+    {
+      "country_code": "GB",
+      "country_name": "United Kingdom",
       "news_count": 1
     },
     {
