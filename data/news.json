@@ -1,14 +1,32 @@
 {
-  "generated_at": "2026-04-02T16:44:58Z",
+  "generated_at": "2026-04-02T17:41:12Z",
   "articles": [
     {
       "source": "BBC Middle East",
-      "title": "UK says Iran holding world economy 'hostage' with Hormuz attacks",
+      "title": "UK and allies discuss sanctions to stop Iran blocking Strait of Hormuz",
       "url": "https://www.bbc.com/news/articles/cx2d0md89v2o?at_medium=RSS&at_campaign=rss",
       "summary": "Yvette Cooper said coordinated diplomatic and economic measures are required to reopen the shipping lane.",
-      "published_at": "2026-04-02T16:06:20Z",
+      "published_at": "2026-04-02T17:15:56Z",
       "country_code": "GB",
       "country_name": "United Kingdom"
+    },
+    {
+      "source": "BBC World",
+      "title": "Iran's two largest steel plants shut down due to strikes, companies say",
+      "url": "https://www.bbc.com/news/articles/c1w4pdexxqpo?at_medium=RSS&at_campaign=rss",
+      "summary": "The strikes, which Iran says were first launched by Israel in co-ordination with the US last week, could cause major damage to the Iranian e…",
+      "published_at": "2026-04-02T17:01:08Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC Middle East",
+      "title": "'I haven't slept for days': Iranians describe mounting desperation after a month of war",
+      "url": "https://www.bbc.com/news/articles/crm1vj941x9o?at_medium=RSS&at_campaign=rss",
+      "summary": "Ordinary people from various parts of Iran describe expanding strikes, economic pain and fear of repression.",
+      "published_at": "2026-04-02T16:09:24Z",
+      "country_code": "IR",
+      "country_name": "Iran"
     },
     {
       "source": "BBC US & Canada",
@@ -207,15 +225,6 @@
       "published_at": "2026-04-01T12:05:34Z",
       "country_code": "IT",
       "country_name": "Italy"
-    },
-    {
-      "source": "BBC Middle East",
-      "title": "Why did US and Israel attack Iran and how long could the war last?",
-      "url": "https://www.bbc.com/news/articles/cx2dyz6p3weo?at_medium=RSS&at_campaign=rss",
-      "summary": "Conflict has spread across the Middle East since the US and Israel launched strikes on Iran on 28 February.",
-      "published_at": "2026-04-01T11:49:28Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC Latin America",
@@ -578,24 +587,6 @@
       "country_name": "Kenya"
     },
     {
-      "source": "BBC Middle East",
-      "title": "How the Hormuz closure could affect food, medicines and smartphones",
-      "url": "https://www.bbc.com/news/articles/c4gjxv5g19no?at_medium=RSS&at_campaign=rss",
-      "summary": "The price of a wide range of goods - from food, to smartphones, to medicines - could be affected by the US-Israel war with Iran.",
-      "published_at": "2026-03-27T01:25:17Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC Middle East",
-      "title": "A committed pharmacist and a homesick blogger – the Iranian civilians killed in the war",
-      "url": "https://www.bbc.com/news/articles/c3v6ld7lv9no?at_medium=RSS&at_campaign=rss",
-      "summary": "The toll on civilians is mounting fast as the US-Israeli war on Iran continues.",
-      "published_at": "2026-03-23T18:31:26Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC Europe",
       "title": "I didn't know Epstein was a predator - Norway's crown princess",
       "url": "https://www.bbc.com/news/videos/c78l5x0zl0wo?at_medium=RSS&at_campaign=rss",
@@ -726,12 +717,12 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 28
+      "news_count": 26
     },
     {
       "country_code": "IR",
       "country_name": "Iran",
-      "news_count": 7
+      "news_count": 8
     },
     {
       "country_code": "IL",
