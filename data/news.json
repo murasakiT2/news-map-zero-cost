@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-04-02T05:54:41Z",
+  "generated_at": "2026-04-02T07:00:02Z",
   "articles": [
+    {
+      "source": "BBC Middle East",
+      "title": "Trump: US 'on the cusp' of ending Iran war",
+      "url": "https://www.bbc.com/news/videos/cx2vn4n24e5o?at_medium=RSS&at_campaign=rss",
+      "summary": "US President Donald Trump says his core \"objectives are nearing completion\" in Iran, during a primetime televised speech from the White Hous…",
+      "published_at": "2026-04-02T05:32:27Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "Magnitude 7.4 earthquake hits off Indonesia, killing one",
@@ -36,6 +45,24 @@
       "published_at": "2026-04-01T22:00:17Z",
       "country_code": "US",
       "country_name": "United States"
+    },
+    {
+      "source": "BBC Middle East",
+      "title": "Israel's perpetual war with Iran may be hard to win with military might alone",
+      "url": "https://www.bbc.com/news/articles/cql72k19rz4o?at_medium=RSS&at_campaign=rss",
+      "summary": "The war with Iran has not yet resolved any of Israel's regional conflicts in the way its prime minister suggested it would.",
+      "published_at": "2026-04-01T19:23:52Z",
+      "country_code": "IL",
+      "country_name": "Israel"
+    },
+    {
+      "source": "BBC Europe",
+      "title": "Captain Donnarumma vows to restore Italy after heartbreak",
+      "url": "https://www.bbc.com/sport/football/articles/c2ev313pld3o?at_medium=RSS&at_campaign=rss",
+      "summary": "Italy captain Gianluigi Donnarumma says he \"cried because of the enormous sadness\" of not being able to lead the national side to the 2026 W…",
+      "published_at": "2026-04-01T17:00:00Z",
+      "country_code": "IT",
+      "country_name": "Italy"
     },
     {
       "source": "BBC World",
@@ -488,15 +515,6 @@
       "country_name": "Palestine"
     },
     {
-      "source": "BBC Middle East",
-      "title": "Video shows US missile likely used in deadly strike on Iranian town, experts say",
-      "url": "https://www.bbc.com/news/articles/cx29mzmwdw2o?at_medium=RSS&at_campaign=rss",
-      "summary": "The analysts identified a Precision Strike Missile (PrSM) in footage of the strike on the southern town of Lamerd.",
-      "published_at": "2026-03-28T02:55:35Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC US & Canada",
       "title": "With US TV debut, women's pro ice hockey hopes to cash in big",
       "url": "https://www.bbc.com/news/articles/cy513gl3nzro?at_medium=RSS&at_campaign=rss",
@@ -520,15 +538,6 @@
       "url": "https://www.bbc.com/news/articles/cn0w1qxzd4xo?at_medium=RSS&at_campaign=rss",
       "summary": "One month since the US and Israel launched strikes on Iran, Tehran residents tell the BBC their lives have been devastated.",
       "published_at": "2026-03-27T21:30:12Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC Middle East",
-      "title": "UN human rights chief calls on US to conclude probe into Iran school strike",
-      "url": "https://www.bbc.com/news/articles/c75kzk3lgl5o?at_medium=RSS&at_campaign=rss",
-      "summary": "The strike - which killed at least 168 people, mostly children - \"evoked a visceral horror\", Volker Türk said.",
-      "published_at": "2026-03-27T13:25:57Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -574,24 +583,6 @@
       "url": "https://www.bbc.com/news/articles/c4g8wxyq7v5o?at_medium=RSS&at_campaign=rss",
       "summary": "A judge said the right to defence was paramount as prosecutors argued the couple should not be able to use Venezuelan funds to pay lawyers.",
       "published_at": "2026-03-26T18:49:46Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC Middle East",
-      "title": "US is 'negotiating with itself' says Iranian military following Trump comments",
-      "url": "https://www.bbc.com/news/videos/cre173jep58o?at_medium=RSS&at_campaign=rss",
-      "summary": "The comments from the Iranian military come following Donald Trump's claim that Iran wanted a deal \"so bad\"",
-      "published_at": "2026-03-25T11:25:17Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC Middle East",
-      "title": "Trump says Iran gave the US a 'present', but won't say what it is",
-      "url": "https://www.bbc.com/news/videos/cm29l8y8n44o?at_medium=RSS&at_campaign=rss",
-      "summary": "Donald Trump gave the update on Tuesday as the US-Israeli war with Iran entered its fourth week.",
-      "published_at": "2026-03-25T09:35:50Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -753,7 +744,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 30
+      "news_count": 27
     },
     {
       "country_code": "IR",
@@ -763,6 +754,11 @@
     {
       "country_code": "IL",
       "country_name": "Israel",
+      "news_count": 5
+    },
+    {
+      "country_code": "IT",
+      "country_name": "Italy",
       "news_count": 4
     },
     {
@@ -778,11 +774,6 @@
     {
       "country_code": "DE",
       "country_name": "Germany",
-      "news_count": 3
-    },
-    {
-      "country_code": "IT",
-      "country_name": "Italy",
       "news_count": 3
     },
     {
