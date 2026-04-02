@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-04-02T04:03:56Z",
+  "generated_at": "2026-04-02T05:54:41Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Magnitude 7.4 earthquake hits off Indonesia, killing one",
+      "url": "https://www.bbc.com/news/articles/cn53krrrr24o?at_medium=RSS&at_campaign=rss",
+      "summary": "The quake struck between the islands of Manado and Ternate. Tsunami warnings have now been lifted.",
+      "published_at": "2026-04-02T04:00:48Z",
+      "country_code": "ID",
+      "country_name": "Indonesia"
+    },
     {
       "source": "BBC World",
       "title": "Trump leaves key questions unanswered as he seeks to calm nerves over Iran war",
@@ -21,9 +30,9 @@
     },
     {
       "source": "BBC World",
-      "title": "US Supreme Court appears sceptical of US birthright citizenship challenge",
+      "title": "US Supreme Court appears sceptical of Trump plan to limit birthright citizenship",
       "url": "https://www.bbc.com/news/articles/cje47jk49k0o?at_medium=RSS&at_campaign=rss",
-      "summary": "Trump attended the oral arguments in person on Wednesday, a rare move by a sitting president that underscored the high stakes of the case.",
+      "summary": "Trump attended the arguments in person, a rare move by a sitting president that underscores the high stakes of the case.",
       "published_at": "2026-04-01T22:00:17Z",
       "country_code": "US",
       "country_name": "United States"
@@ -317,7 +326,7 @@
       "country_name": "Australia"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "How Pakistan won over Trump to become an unlikely mediator in the Iran war",
       "url": "https://www.bbc.com/news/articles/cy91vrzxn34o?at_medium=RSS&at_campaign=rss",
       "summary": "Pakistan's role as intermediary in this conflict took many by surprise. But perhaps it shouldn't have.",
@@ -419,7 +428,7 @@
       "source": "BBC US & Canada",
       "title": "First stop, the Moon. Next stop, Mars? Why Nasa's mission matters",
       "url": "https://www.bbc.com/news/articles/cd6wp6xenv0o?at_medium=RSS&at_campaign=rss",
-      "summary": "From a race with China to lunar discoveries, the US is investing time, effort and money to head to the Moon - and beyond.",
+      "summary": "Lunar discoveries and a space race with China is seeing the US invest time and money to get to the Moon - and beyond.",
       "published_at": "2026-03-29T23:50:21Z",
       "country_code": "US",
       "country_name": "United States"
@@ -839,6 +848,11 @@
     {
       "country_code": "GB",
       "country_name": "United Kingdom",
+      "news_count": 1
+    },
+    {
+      "country_code": "ID",
+      "country_name": "Indonesia",
       "news_count": 1
     },
     {
