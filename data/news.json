@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-02T07:00:02Z",
+  "generated_at": "2026-04-02T08:08:41Z",
   "articles": [
     {
       "source": "BBC Middle East",
@@ -7,6 +7,15 @@
       "url": "https://www.bbc.com/news/videos/cx2vn4n24e5o?at_medium=RSS&at_campaign=rss",
       "summary": "US President Donald Trump says his core \"objectives are nearing completion\" in Iran, during a primetime televised speech from the White Hous…",
       "published_at": "2026-04-02T05:32:27Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "A year on: Four ways Trump's tariffs have changed the global economy",
+      "url": "https://www.bbc.com/news/articles/c79j1rd92ypo?at_medium=RSS&at_campaign=rss",
+      "summary": "US tariffs stand at the highest rate in decades. But what has the impact been?",
+      "published_at": "2026-04-02T04:43:23Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -38,10 +47,19 @@
       "country_name": "Iran"
     },
     {
+      "source": "BBC US & Canada",
+      "title": "Trump says US 'on the cusp' of ending Iran war in televised address",
+      "url": "https://www.bbc.com/news/videos/ce3593gv84eo?at_medium=RSS&at_campaign=rss",
+      "summary": "The president also called on countries reliant on the Strait of Hormuz to 'build up the courage' to secure it.",
+      "published_at": "2026-04-02T02:19:35Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
       "source": "BBC World",
       "title": "US Supreme Court appears sceptical of Trump plan to limit birthright citizenship",
       "url": "https://www.bbc.com/news/articles/cje47jk49k0o?at_medium=RSS&at_campaign=rss",
-      "summary": "Trump attended the arguments in person, a rare move by a sitting president that underscores the high stakes of the case.",
+      "summary": "Trump attended the arguments in person, a rare move by a sitting president.",
       "published_at": "2026-04-01T22:00:17Z",
       "country_code": "US",
       "country_name": "United States"
@@ -101,6 +119,15 @@
       "country_name": "Spain"
     },
     {
+      "source": "BBC Africa",
+      "title": "DR Congo qualify for World Cup: 'Amidst pain and war, this victory makes us proud’",
+      "url": "https://www.bbc.com/news/videos/cvg0q1d9zddo?at_medium=RSS&at_campaign=rss",
+      "summary": "DR Congo are back at the World Cup for the first time since 1974, with fans in Kinshasa celebrating the team's 1-0 play-off win over Jamaica…",
+      "published_at": "2026-04-01T12:45:29Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
       "source": "BBC World",
       "title": "Devastated Italians reckon with 'third apocalypse' of World Cup failure",
       "url": "https://www.bbc.com/news/articles/cj943rmkkm4o?at_medium=RSS&at_campaign=rss",
@@ -153,15 +180,6 @@
       "published_at": "2026-04-01T09:31:37Z",
       "country_code": "CN",
       "country_name": "China"
-    },
-    {
-      "source": "BBC Africa",
-      "title": "Spanish federation condemns anti-Muslim chants at Egypt match",
-      "url": "https://www.bbc.com/sport/football/articles/cgk0ddmmm3mo?at_medium=RSS&at_campaign=rss",
-      "summary": "Police in Spain are investigating \"Islamophobic and xenophobic\" chants heard during the first half of Spain's draw with Egypt.",
-      "published_at": "2026-04-01T09:14:20Z",
-      "country_code": "ES",
-      "country_name": "Spain"
     },
     {
       "source": "BBC World",
@@ -243,15 +261,6 @@
       "published_at": "2026-03-31T22:45:49Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC Europe",
-      "title": "UK and France extend talks over new small boats deal",
-      "url": "https://www.bbc.com/news/articles/c3exveglpe3o?at_medium=RSS&at_campaign=rss",
-      "summary": "A three-year deal to pay for more French patrols to intercept smuggling gangs was due to expire at midnight.",
-      "published_at": "2026-03-31T21:25:21Z",
-      "country_code": "GB",
-      "country_name": "United Kingdom"
     },
     {
       "source": "BBC US & Canada",
@@ -407,7 +416,7 @@
       "country_name": "Israel"
     },
     {
-      "source": "BBC US & Canada",
+      "source": "BBC Middle East",
       "title": "How the US could try to seize Iran's Kharg Island",
       "url": "https://www.bbc.com/news/articles/c937gd1vq7xo?at_medium=RSS&at_campaign=rss",
       "summary": "Donald Trump has indicated he could send troops to take control of Iran's key oil export terminal.",
@@ -450,15 +459,6 @@
       "published_at": "2026-03-30T11:49:26Z",
       "country_code": "IR",
       "country_name": "Iran"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "First stop, the Moon. Next stop, Mars? Why Nasa's mission matters",
-      "url": "https://www.bbc.com/news/articles/cd6wp6xenv0o?at_medium=RSS&at_campaign=rss",
-      "summary": "Lunar discoveries and a space race with China is seeing the US invest time and money to get to the Moon - and beyond.",
-      "published_at": "2026-03-29T23:50:21Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC Asia",
@@ -513,24 +513,6 @@
       "published_at": "2026-03-28T06:00:37Z",
       "country_code": "PS",
       "country_name": "Palestine"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "With US TV debut, women's pro ice hockey hopes to cash in big",
-      "url": "https://www.bbc.com/news/articles/cy513gl3nzro?at_medium=RSS&at_campaign=rss",
-      "summary": "More than 126 million US households will be able to watch Saturday's hockey game between the New York Sirens and Montréal Victoire.",
-      "published_at": "2026-03-28T00:07:26Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "Iran war splits older and younger conservatives - as pressure builds for Trump to find exit ramp",
-      "url": "https://www.bbc.com/news/articles/cjd8e4px12ro?at_medium=RSS&at_campaign=rss",
-      "summary": "More than a thousand miles from Washington, the conflict was a dominant topic of conversation at CPAC.",
-      "published_at": "2026-03-28T00:05:47Z",
-      "country_code": "IR",
-      "country_name": "Iran"
     },
     {
       "source": "BBC Middle East",
@@ -744,12 +726,12 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 27
+      "news_count": 28
     },
     {
       "country_code": "IR",
       "country_name": "Iran",
-      "news_count": 9
+      "news_count": 8
     },
     {
       "country_code": "IL",
@@ -792,11 +774,6 @@
       "news_count": 2
     },
     {
-      "country_code": "ES",
-      "country_name": "Spain",
-      "news_count": 2
-    },
-    {
       "country_code": "IN",
       "country_name": "India",
       "news_count": 2
@@ -827,6 +804,11 @@
       "news_count": 1
     },
     {
+      "country_code": "ES",
+      "country_name": "Spain",
+      "news_count": 1
+    },
+    {
       "country_code": "ET",
       "country_name": "Ethiopia",
       "news_count": 1
@@ -834,11 +816,6 @@
     {
       "country_code": "FR",
       "country_name": "France",
-      "news_count": 1
-    },
-    {
-      "country_code": "GB",
-      "country_name": "United Kingdom",
       "news_count": 1
     },
     {
