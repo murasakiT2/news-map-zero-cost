@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-04-02T17:41:12Z",
+  "generated_at": "2026-04-02T18:41:29Z",
   "articles": [
+    {
+      "source": "BBC Africa",
+      "title": "Sixteen Kenyans missing in Russia after army recruitment",
+      "url": "https://www.bbc.com/news/articles/cx2ell79v2wo?at_medium=RSS&at_campaign=rss",
+      "summary": "More than 250 Kenyans have gone to fight for Russia in Ukraine, mostly willingly, Kenya's foreign minister says.",
+      "published_at": "2026-04-02T18:35:09Z",
+      "country_code": "RU",
+      "country_name": "Russia"
+    },
     {
       "source": "BBC Middle East",
       "title": "UK and allies discuss sanctions to stop Iran blocking Strait of Hormuz",
@@ -9,6 +18,15 @@
       "published_at": "2026-04-02T17:15:56Z",
       "country_code": "GB",
       "country_name": "United Kingdom"
+    },
+    {
+      "source": "BBC World",
+      "title": "Watch: Trump's shifting deadlines for ending Iran war",
+      "url": "https://www.bbc.com/news/videos/ce8jz0239jxo?at_medium=RSS&at_campaign=rss",
+      "summary": "The BBC's chief international correspondent analyses the US President's latest White House address.",
+      "published_at": "2026-04-02T17:13:00Z",
+      "country_code": "US",
+      "country_name": "United States"
     },
     {
       "source": "BBC World",
@@ -351,15 +369,6 @@
       "published_at": "2026-03-31T18:57:25Z",
       "country_code": "IL",
       "country_name": "Israel"
-    },
-    {
-      "source": "BBC Africa",
-      "title": "Nigeria warns its citizens in South Africa to be cautious after march turns violent",
-      "url": "https://www.bbc.com/news/articles/clyxnwvdzn6o?at_medium=RSS&at_campaign=rss",
-      "summary": "Solomon Ogbonna Eziko's installation as an Igbo leader in East London has sparked tensions.",
-      "published_at": "2026-03-31T15:01:41Z",
-      "country_code": "ZA",
-      "country_name": "South Africa"
     },
     {
       "source": "BBC Europe",
@@ -717,7 +726,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 26
+      "news_count": 27
     },
     {
       "country_code": "IR",
@@ -760,11 +769,6 @@
       "news_count": 3
     },
     {
-      "country_code": "ZA",
-      "country_name": "South Africa",
-      "news_count": 3
-    },
-    {
       "country_code": "CN",
       "country_name": "China",
       "news_count": 2
@@ -782,6 +786,11 @@
     {
       "country_code": "UA",
       "country_name": "Ukraine",
+      "news_count": 2
+    },
+    {
+      "country_code": "ZA",
+      "country_name": "South Africa",
       "news_count": 2
     },
     {
@@ -827,6 +836,11 @@
     {
       "country_code": "PK",
       "country_name": "Pakistan",
+      "news_count": 1
+    },
+    {
+      "country_code": "RU",
+      "country_name": "Russia",
       "news_count": 1
     }
   ]
