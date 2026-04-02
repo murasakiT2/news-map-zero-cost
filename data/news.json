@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-02T14:16:21Z",
+  "generated_at": "2026-04-02T15:32:18Z",
   "articles": [
     {
       "source": "BBC World",
@@ -11,10 +11,10 @@
       "country_name": "Iran"
     },
     {
-      "source": "BBC Europe",
+      "source": "BBC World",
       "title": "'Be serious... don't speak every day': Macron criticises Trump approach to Iran war",
       "url": "https://www.bbc.com/news/articles/cevk0e4ykwko?at_medium=RSS&at_campaign=rss",
-      "summary": "The comments were an apparent jab at the US leader's sometimes contradictory stance on the US and Israeli war against Iran.",
+      "summary": "The comments were an apparent jab at the US leader's sometimes contradictory stance on the US-Israeli war against Iran.",
       "published_at": "2026-04-02T13:41:27Z",
       "country_code": "US",
       "country_name": "United States"
@@ -50,7 +50,7 @@
       "source": "BBC World",
       "title": "Brazil grants joint custody over pets in new law for separated couples",
       "url": "https://www.bbc.com/news/articles/ce8jzn180x2o?at_medium=RSS&at_campaign=rss",
-      "summary": "Lawmakers in the Brazilian Congress on Tuesday viewed the law change as a reflection on the importance people place on their pets.",
+      "summary": "Lawmakers in the Brazilian Congress view the law change as a reflection of pets' importance for their owners.",
       "published_at": "2026-04-02T09:38:08Z",
       "country_code": "BR",
       "country_name": "Brazil"
@@ -59,7 +59,7 @@
       "source": "BBC Latin America",
       "title": "New Brazil law allows separated couples joint custody over pets",
       "url": "https://www.bbc.com/news/articles/ce8jzn180x2o?at_medium=RSS&at_campaign=rss",
-      "summary": "Lawmakers in the Brazilian Congress on Tuesday viewed the law change as a reflection on the importance people place on their pets.",
+      "summary": "Lawmakers in the Brazilian Congress view the law change as a reflection of pets' importance for their owners.",
       "published_at": "2026-04-02T09:38:08Z",
       "country_code": "BR",
       "country_name": "Brazil"
@@ -86,10 +86,10 @@
       "source": "BBC World",
       "title": "Trump leaves key questions unanswered as he seeks to calm nerves over Iran war",
       "url": "https://www.bbc.com/news/articles/cnv81ven263o?at_medium=RSS&at_campaign=rss",
-      "summary": "There were some glaring omissions in the president's primetime address, writes the BBC's Gary O'Donoghue.",
+      "summary": "There were some glaring omissions in the US president's primetime address, writes the BBC's Gary O'Donoghue.",
       "published_at": "2026-04-02T03:22:51Z",
-      "country_code": "IR",
-      "country_name": "Iran"
+      "country_code": "US",
+      "country_name": "United States"
     },
     {
       "source": "BBC US & Canada",
@@ -717,12 +717,12 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 27
+      "news_count": 28
     },
     {
       "country_code": "IR",
       "country_name": "Iran",
-      "news_count": 8
+      "news_count": 7
     },
     {
       "country_code": "IL",
