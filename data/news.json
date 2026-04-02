@@ -1,30 +1,30 @@
 {
-  "generated_at": "2026-04-02T01:17:36Z",
+  "generated_at": "2026-04-02T04:03:56Z",
   "articles": [
     {
+      "source": "BBC World",
+      "title": "Trump leaves key questions unanswered as he seeks to calm nerves over Iran war",
+      "url": "https://www.bbc.com/news/articles/cnv81ven263o?at_medium=RSS&at_campaign=rss",
+      "summary": "There were some glaring omissions in the president's primetime address, writes the BBC's Gary O'Donoghue.",
+      "published_at": "2026-04-02T03:22:51Z",
+      "country_code": "IR",
+      "country_name": "Iran"
+    },
+    {
       "source": "BBC US & Canada",
+      "title": "Trump says Iran war objectives 'nearing completion' in address to nation",
+      "url": "https://www.bbc.com/news/articles/cql72qk97gpo?at_medium=RSS&at_campaign=rss",
+      "summary": "Trump's first televised address of the conflict with Iran did little to quell uneasy markets.",
+      "published_at": "2026-04-02T02:49:26Z",
+      "country_code": "IR",
+      "country_name": "Iran"
+    },
+    {
+      "source": "BBC World",
       "title": "US Supreme Court appears sceptical of US birthright citizenship challenge",
       "url": "https://www.bbc.com/news/articles/cje47jk49k0o?at_medium=RSS&at_campaign=rss",
       "summary": "Trump attended the oral arguments in person on Wednesday, a rare move by a sitting president that underscored the high stakes of the case.",
       "published_at": "2026-04-01T22:00:17Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "Trump to give primetime address on war as questions swirl over his next move",
-      "url": "https://www.bbc.com/news/articles/c74vqd8k3g1o?at_medium=RSS&at_campaign=rss",
-      "summary": "The US president finds himself under growing pressure at home to avoid a protracted conflict.",
-      "published_at": "2026-04-01T17:07:51Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "Trump to give primetime address on Iran war as questions swirl over his next move",
-      "url": "https://www.bbc.com/news/articles/c74vqd8k3g1o?at_medium=RSS&at_campaign=rss",
-      "summary": "The US president finds himself under growing pressure at home to avoid a protracted conflict.",
-      "published_at": "2026-04-01T17:07:51Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -308,15 +308,6 @@
       "country_name": "Ukraine"
     },
     {
-      "source": "BBC World",
-      "title": "Shock, sadness and relief in town at centre of Australia's seven-month manhunt for Dezi Freeman",
-      "url": "https://www.bbc.com/news/articles/cq59wj31vl4o?at_medium=RSS&at_campaign=rss",
-      "summary": "Porepunkah has been in the spotlight since Dezi Freeman shot dead two police officers last year.",
-      "published_at": "2026-03-31T04:04:32Z",
-      "country_code": "AU",
-      "country_name": "Australia"
-    },
-    {
       "source": "BBC Asia",
       "title": "Shock, sadness and relief in town at centre of Australia's seven-month police manhunt",
       "url": "https://www.bbc.com/news/articles/cq59wj31vl4o?at_medium=RSS&at_campaign=rss",
@@ -425,7 +416,7 @@
       "country_name": "Iran"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "First stop, the Moon. Next stop, Mars? Why Nasa's mission matters",
       "url": "https://www.bbc.com/news/articles/cd6wp6xenv0o?at_medium=RSS&at_campaign=rss",
       "summary": "From a race with China to lunar discoveries, the US is investing time, effort and money to head to the Moon - and beyond.",
@@ -753,17 +744,12 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 32
+      "news_count": 30
     },
     {
       "country_code": "IR",
       "country_name": "Iran",
-      "news_count": 7
-    },
-    {
-      "country_code": "AU",
-      "country_name": "Australia",
-      "news_count": 4
+      "news_count": 9
     },
     {
       "country_code": "IL",
@@ -774,6 +760,11 @@
       "country_code": "KE",
       "country_name": "Kenya",
       "news_count": 4
+    },
+    {
+      "country_code": "AU",
+      "country_name": "Australia",
+      "news_count": 3
     },
     {
       "country_code": "DE",
