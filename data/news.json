@@ -1,23 +1,41 @@
 {
-  "generated_at": "2026-04-03T11:30:28Z",
+  "generated_at": "2026-04-03T12:39:00Z",
   "articles": [
     {
-      "source": "BBC US & Canada",
+      "source": "BBC World",
+      "title": "International law experts allege violations in Iran war",
+      "url": "https://www.bbc.com/news/articles/cy91x2n29nlo?at_medium=RSS&at_campaign=rss",
+      "summary": "The White House says it is making the entire region safer by eliminating short and long-term threats.",
+      "published_at": "2026-04-03T11:53:40Z",
+      "country_code": "IR",
+      "country_name": "Iran"
+    },
+    {
+      "source": "BBC World",
+      "title": "Who is Christopher LaNeve, set to lead the US army?",
+      "url": "https://www.bbc.com/news/articles/clye2e85dwjo?at_medium=RSS&at_campaign=rss",
+      "summary": "He will replace Randy George, who was asked to step down from his post by Defence Secretary Pete Hegseth.",
+      "published_at": "2026-04-03T11:52:50Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Trump removes US Attorney General Pam Bondi",
+      "url": "https://www.bbc.com/news/articles/ce843ge47z4o?at_medium=RSS&at_campaign=rss",
+      "summary": "Bondi's time as top US law enforcement officer was overshadowed by her handling of the Epstein files.",
+      "published_at": "2026-04-03T11:42:17Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
       "title": "When will the Iran war end? Tracing the Trump administration's timelines",
       "url": "https://www.bbc.com/news/articles/c4g4e6z9960o?at_medium=RSS&at_campaign=rss",
       "summary": "Experts say many US presidents have offered a timeline for a conflict - only to then shift their estimates.",
       "published_at": "2026-04-03T11:28:34Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "France bans Muslim gathering citing risk to participants",
-      "url": "https://www.bbc.com/news/articles/cwyjekvwww0o?at_medium=RSS&at_campaign=rss",
-      "summary": "The four-day Annual Encounter of Muslims of France was due to open Friday in Le Bourget.",
-      "published_at": "2026-04-03T10:49:26Z",
-      "country_code": "FR",
-      "country_name": "France"
     },
     {
       "source": "BBC World",
@@ -30,28 +48,10 @@
     },
     {
       "source": "BBC World",
-      "title": "International law experts allege violations in Iran war",
-      "url": "https://www.bbc.com/news/articles/cy91x2n29nlo?at_medium=RSS&at_campaign=rss",
-      "summary": "The White House says it is making the entire region safer by eliminating short and long-term threats.",
-      "published_at": "2026-04-03T10:18:11Z",
-      "country_code": "IR",
-      "country_name": "Iran"
-    },
-    {
-      "source": "BBC World",
       "title": "Cuba to release more than 2,000 prisoners, as pressure from US mounts",
       "url": "https://www.bbc.com/news/articles/cwy3r3w4zl8o?at_medium=RSS&at_campaign=rss",
       "summary": "US President Trump has made clear his desire to change Cuba's leadership and has placed the country under an oil embargo.",
       "published_at": "2026-04-03T08:35:53Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "Who is Christopher LaNeve, set to lead the US army?",
-      "url": "https://www.bbc.com/news/articles/clye2e85dwjo?at_medium=RSS&at_campaign=rss",
-      "summary": "He will replace Randy George, who was asked to step down from his post by Defence Secretary Pete Hegseth.",
-      "published_at": "2026-04-03T07:11:07Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -61,15 +61,6 @@
       "url": "https://www.bbc.com/news/videos/crl10127elgo?at_medium=RSS&at_campaign=rss",
       "summary": "The crew on board the Artemis II spoke by video link, sharing messages for their families and experiences of the trip so far.",
       "published_at": "2026-04-03T07:07:48Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "Trump removes US Attorney General Pam Bondi",
-      "url": "https://www.bbc.com/news/articles/ce843ge47z4o?at_medium=RSS&at_campaign=rss",
-      "summary": "Bondi's time as top US law enforcement officer was overshadowed by her handling of the Epstein files.",
-      "published_at": "2026-04-03T00:31:27Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -764,11 +755,6 @@
       "news_count": 2
     },
     {
-      "country_code": "FR",
-      "country_name": "France",
-      "news_count": 2
-    },
-    {
       "country_code": "IT",
       "country_name": "Italy",
       "news_count": 2
@@ -806,6 +792,11 @@
     {
       "country_code": "ET",
       "country_name": "Ethiopia",
+      "news_count": 1
+    },
+    {
+      "country_code": "FR",
+      "country_name": "France",
       "news_count": 1
     },
     {
