@@ -1,12 +1,30 @@
 {
-  "generated_at": "2026-04-03T20:24:28Z",
+  "generated_at": "2026-04-03T20:59:37Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Meet the elite US teams tasked with combat rescues",
+      "url": "https://www.bbc.com/news/articles/c0le43jw8e9o?at_medium=RSS&at_campaign=rss",
+      "summary": "Air force pararescue units who specialise in CSAR missions are among the most highly trained in the US military.",
+      "published_at": "2026-04-03T20:42:56Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC Middle East",
       "title": "US pilot rescued after fighter jet downed over Iran, US media report",
       "url": "https://www.bbc.com/news/articles/c3r395l91l3o?at_medium=RSS&at_campaign=rss",
       "summary": "A search and rescue mission also came under fire, bringing down another jet over the Persian Gulf.",
       "published_at": "2026-04-03T20:08:23Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "US warns its citizens to leave Lebanon citing escalating security risks",
+      "url": "https://www.bbc.com/news/articles/c93e9r62py4o?at_medium=RSS&at_campaign=rss",
+      "summary": "The advisory follows recent military developments, including a US fighter jet being shot down over Iran and Israeli strikes on parts of Beir…",
+      "published_at": "2026-04-03T20:06:47Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -56,7 +74,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "US jobs surge unexpectedly in March despite Iran war",
       "url": "https://www.bbc.com/news/articles/crk165g4vv3o?at_medium=RSS&at_campaign=rss",
       "summary": "Employers added 178,000 jobs, far more than had expected, the Labor Department says.",
@@ -110,7 +128,7 @@
       "country_name": "France"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "International law experts allege violations in Iran war",
       "url": "https://www.bbc.com/news/articles/cy91x2n29nlo?at_medium=RSS&at_campaign=rss",
       "summary": "The White House says it is making the entire region safer by eliminating short and long-term threats.",
@@ -164,7 +182,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "Fears cost of water and beer to soar as India's scorching summer hits",
       "url": "https://www.bbc.com/news/articles/c5ywqky5dd7o?at_medium=RSS&at_campaign=rss",
       "summary": "Makers of plastic and glass bottles are struggling to access raw materials as the war squeezes supplies.",
@@ -726,7 +744,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 34
+      "news_count": 36
     },
     {
       "country_code": "IR",
