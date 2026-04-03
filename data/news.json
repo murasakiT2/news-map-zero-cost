@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-04-03T09:44:11Z",
+  "generated_at": "2026-04-03T10:33:49Z",
   "articles": [
+    {
+      "source": "BBC US & Canada",
+      "title": "International law experts allege violations in Iran war",
+      "url": "https://www.bbc.com/news/articles/cy91x2n29nlo?at_medium=RSS&at_campaign=rss",
+      "summary": "The White House says it is making the entire region safer by eliminating short and long-term threats.",
+      "published_at": "2026-04-03T10:18:11Z",
+      "country_code": "IR",
+      "country_name": "Iran"
+    },
     {
       "source": "BBC World",
       "title": "Trump removes US Attorney General Pam Bondi",
@@ -290,6 +299,15 @@
       "country_name": "Italy"
     },
     {
+      "source": "BBC Middle East",
+      "title": "Why did US and Israel attack Iran and how long could the war last?",
+      "url": "https://www.bbc.com/news/articles/cx2dyz6p3weo?at_medium=RSS&at_campaign=rss",
+      "summary": "Conflict has spread across the Middle East since the US and Israel launched strikes on Iran on 28 February.",
+      "published_at": "2026-04-01T11:49:28Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
       "source": "BBC Latin America",
       "title": "Brazil judge blocks Sugarloaf Mountain zipline",
       "url": "https://www.bbc.com/news/articles/cx29e3wljj2o?at_medium=RSS&at_campaign=rss",
@@ -471,30 +489,12 @@
     },
     {
       "source": "BBC Middle East",
-      "title": "Most Syrian refugees in Germany expected to return home in three years, Merz says",
-      "url": "https://www.bbc.com/news/articles/cy41vqx4pdzo?at_medium=RSS&at_campaign=rss",
-      "summary": "Merz’s government has taken a tougher line on refugees and migrants, amid surging support for the anti-immigration AfD party.",
-      "published_at": "2026-03-30T20:07:17Z",
-      "country_code": "DE",
-      "country_name": "Germany"
-    },
-    {
-      "source": "BBC Middle East",
       "title": "How the US could try to seize Iran's Kharg Island",
       "url": "https://www.bbc.com/news/articles/c937gd1vq7xo?at_medium=RSS&at_campaign=rss",
       "summary": "Donald Trump has indicated he could send troops to take control of Iran's key oil export terminal.",
       "published_at": "2026-03-30T14:54:47Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC Middle East",
-      "title": "Latin Patriarch will have access to Jerusalem holy site after police stopped entry",
-      "url": "https://www.bbc.com/news/articles/cvg0128z41eo?at_medium=RSS&at_campaign=rss",
-      "summary": "The Israeli PM says Cardinal Pierbattista Pizzaballa had been asked not to enter the church over concerns about Iranian strikes.",
-      "published_at": "2026-03-30T13:30:32Z",
-      "country_code": "IL",
-      "country_name": "Israel"
     },
     {
       "source": "BBC Africa",
@@ -579,12 +579,12 @@
     },
     {
       "source": "BBC Middle East",
-      "title": "Palestinian man killed as death toll from West Bank settler violence climbs",
-      "url": "https://www.bbc.com/news/articles/c62l7l99z9do?at_medium=RSS&at_campaign=rss",
-      "summary": "Mohammad al-Malhi is the seventh Palestinian killed by a settler in a surge of violence since the start of the war with Iran.",
-      "published_at": "2026-03-27T12:30:10Z",
-      "country_code": "PS",
-      "country_name": "Palestine"
+      "title": "Is Trump's pause on attacking Iranian energy for diplomacy or an escalation?",
+      "url": "https://www.bbc.com/news/articles/c2evg2m3ye2o?at_medium=RSS&at_campaign=rss",
+      "summary": "The US president's commitment to deadlines is fluid but he uses them for a purpose, writes the BBC's James Landale.",
+      "published_at": "2026-03-27T13:17:22Z",
+      "country_code": "US",
+      "country_name": "United States"
     },
     {
       "source": "BBC Africa",
@@ -594,6 +594,15 @@
       "published_at": "2026-03-27T07:20:18Z",
       "country_code": "KE",
       "country_name": "Kenya"
+    },
+    {
+      "source": "BBC Middle East",
+      "title": "How the Hormuz closure could affect food, medicines and smartphones",
+      "url": "https://www.bbc.com/news/articles/c4gjxv5g19no?at_medium=RSS&at_campaign=rss",
+      "summary": "The price of a wide range of goods - from food, to smartphones, to medicines - could be affected by the US-Israel war with Iran.",
+      "published_at": "2026-03-27T01:25:17Z",
+      "country_code": "US",
+      "country_name": "United States"
     },
     {
       "source": "BBC Europe",
@@ -699,17 +708,12 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 28
+      "news_count": 31
     },
     {
       "country_code": "IR",
       "country_name": "Iran",
-      "news_count": 8
-    },
-    {
-      "country_code": "IL",
-      "country_name": "Israel",
-      "news_count": 4
+      "news_count": 9
     },
     {
       "country_code": "KE",
@@ -727,18 +731,18 @@
       "news_count": 3
     },
     {
-      "country_code": "DE",
-      "country_name": "Germany",
-      "news_count": 3
-    },
-    {
-      "country_code": "PS",
-      "country_name": "Palestine",
+      "country_code": "IL",
+      "country_name": "Israel",
       "news_count": 3
     },
     {
       "country_code": "CN",
       "country_name": "China",
+      "news_count": 2
+    },
+    {
+      "country_code": "DE",
+      "country_name": "Germany",
       "news_count": 2
     },
     {
@@ -754,6 +758,11 @@
     {
       "country_code": "NG",
       "country_name": "Nigeria",
+      "news_count": 2
+    },
+    {
+      "country_code": "PS",
+      "country_name": "Palestine",
       "news_count": 2
     },
     {
