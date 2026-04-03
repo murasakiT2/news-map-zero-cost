@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-03T04:30:35Z",
+  "generated_at": "2026-04-03T06:06:02Z",
   "articles": [
     {
       "source": "BBC World",
@@ -461,15 +461,6 @@
       "country_name": "Pakistan"
     },
     {
-      "source": "BBC Asia",
-      "title": "Social media firms must better enforce Australia under-16 ban, watchdog says",
-      "url": "https://www.bbc.com/news/articles/cy4181pkxl2o?at_medium=RSS&at_campaign=rss",
-      "summary": "Regulator eSafety says it has concerns about how Facebook, Instagram, Snapchat, TikTok and YouTube are complying with the ban.",
-      "published_at": "2026-03-31T02:00:24Z",
-      "country_code": "AU",
-      "country_name": "Australia"
-    },
-    {
       "source": "BBC Latin America",
       "title": "Mexico demands answers after another migrant dies in ICE custody",
       "url": "https://www.bbc.com/news/articles/c15dvdx32v0o?at_medium=RSS&at_campaign=rss",
@@ -495,15 +486,6 @@
       "published_at": "2026-03-30T20:07:17Z",
       "country_code": "DE",
       "country_name": "Germany"
-    },
-    {
-      "source": "BBC Asia",
-      "title": "Oil rises and Asia shares slide as Iran war enters fifth week",
-      "url": "https://www.bbc.com/news/articles/cz905eyjznno?at_medium=RSS&at_campaign=rss",
-      "summary": "It comes after Iran-backed Houthi rebels in Yemen joined the conflict by striking Israel over the weekend.",
-      "published_at": "2026-03-30T15:35:40Z",
-      "country_code": "IL",
-      "country_name": "Israel"
     },
     {
       "source": "BBC Middle East",
@@ -540,15 +522,6 @@
       "published_at": "2026-03-30T11:49:26Z",
       "country_code": "IR",
       "country_name": "Iran"
-    },
-    {
-      "source": "BBC Asia",
-      "title": "Educated and employed but still struggling: India's middle class under strain",
-      "url": "https://www.bbc.com/news/articles/cvg5g3pjy06o?at_medium=RSS&at_campaign=rss",
-      "summary": "Once aspirational, India's middle class today are finding fewer avenues for their ambition.",
-      "published_at": "2026-03-29T21:29:18Z",
-      "country_code": "IN",
-      "country_name": "India"
     },
     {
       "source": "BBC Africa",
@@ -772,17 +745,17 @@
     {
       "country_code": "IL",
       "country_name": "Israel",
-      "news_count": 5
-    },
-    {
-      "country_code": "AU",
-      "country_name": "Australia",
       "news_count": 4
     },
     {
       "country_code": "KE",
       "country_name": "Kenya",
       "news_count": 4
+    },
+    {
+      "country_code": "AU",
+      "country_name": "Australia",
+      "news_count": 3
     },
     {
       "country_code": "BR",
@@ -857,11 +830,6 @@
     {
       "country_code": "ID",
       "country_name": "Indonesia",
-      "news_count": 1
-    },
-    {
-      "country_code": "IN",
-      "country_name": "India",
       "news_count": 1
     },
     {
