@@ -1,9 +1,27 @@
 {
-  "generated_at": "2026-04-03T20:59:37Z",
+  "generated_at": "2026-04-03T21:36:16Z",
   "articles": [
     {
       "source": "BBC World",
-      "title": "Meet the elite US teams tasked with combat rescues",
+      "title": "Cuba begins releasing more than 2,000 prisoners as US pressure mounts",
+      "url": "https://www.bbc.com/news/articles/cwy3r3w4zl8o?at_medium=RSS&at_campaign=rss",
+      "summary": "US President Trump has made clear his desire to change Cuba's leadership and has placed the country under an oil embargo.",
+      "published_at": "2026-04-03T20:59:48Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC Europe",
+      "title": "Russia chose 'Easter escalation' over ceasefire, says Zelensky",
+      "url": "https://www.bbc.com/news/articles/cew70wjvv9do?at_medium=RSS&at_campaign=rss",
+      "summary": "Six civilians were killed and 40 others injured as Russia launched hundreds of drones and missiles.",
+      "published_at": "2026-04-03T20:43:33Z",
+      "country_code": "RU",
+      "country_name": "Russia"
+    },
+    {
+      "source": "BBC World",
+      "title": "How elite US teams tackle combat rescue missions",
       "url": "https://www.bbc.com/news/articles/c0le43jw8e9o?at_medium=RSS&at_campaign=rss",
       "summary": "Air force pararescue units who specialise in CSAR missions are among the most highly trained in the US military.",
       "published_at": "2026-04-03T20:42:56Z",
@@ -23,7 +41,7 @@
       "source": "BBC US & Canada",
       "title": "US warns its citizens to leave Lebanon citing escalating security risks",
       "url": "https://www.bbc.com/news/articles/c93e9r62py4o?at_medium=RSS&at_campaign=rss",
-      "summary": "The advisory follows recent military developments, including a US fighter jet being shot down over Iran and Israeli strikes on parts of Beir…",
+      "summary": "The advisory follows recent military developments, including a US jet reportedly being shot down and Israeli strikes on parts of Beirut.",
       "published_at": "2026-04-03T20:06:47Z",
       "country_code": "US",
       "country_name": "United States"
@@ -63,15 +81,6 @@
       "published_at": "2026-04-03T15:04:39Z",
       "country_code": "IT",
       "country_name": "Italy"
-    },
-    {
-      "source": "BBC World",
-      "title": "Cuba to release more than 2,000 prisoners as US pressure mounts",
-      "url": "https://www.bbc.com/news/articles/cwy3r3w4zl8o?at_medium=RSS&at_campaign=rss",
-      "summary": "US President Trump has made clear his desire to change Cuba's leadership and has placed the country under an oil embargo.",
-      "published_at": "2026-04-03T14:18:04Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC US & Canada",
@@ -614,15 +623,6 @@
       "country_name": "France"
     },
     {
-      "source": "BBC Middle East",
-      "title": "Gaza peace doubts deepen as attention shifts to Iran",
-      "url": "https://www.bbc.com/news/articles/crr10v5p7lgo?at_medium=RSS&at_campaign=rss",
-      "summary": "With the world focused on the Iran war, there is increasing uncertainty about what happens next for Gaza.",
-      "published_at": "2026-03-28T06:00:37Z",
-      "country_code": "PS",
-      "country_name": "Palestine"
-    },
-    {
       "source": "BBC Europe",
       "title": "The German army protecting Western Europe's eastern edge",
       "url": "https://www.bbc.com/news/videos/cwyjw431d5ko?at_medium=RSS&at_campaign=rss",
@@ -797,8 +797,8 @@
       "news_count": 2
     },
     {
-      "country_code": "PS",
-      "country_name": "Palestine",
+      "country_code": "RU",
+      "country_name": "Russia",
       "news_count": 2
     },
     {
@@ -852,8 +852,8 @@
       "news_count": 1
     },
     {
-      "country_code": "RU",
-      "country_name": "Russia",
+      "country_code": "PS",
+      "country_name": "Palestine",
       "news_count": 1
     },
     {
