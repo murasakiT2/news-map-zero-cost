@@ -1,14 +1,23 @@
 {
-  "generated_at": "2026-04-03T19:31:55Z",
+  "generated_at": "2026-04-03T20:24:28Z",
   "articles": [
     {
       "source": "BBC Middle East",
-      "title": "Crew member rescued after US fighter jet downed over Iran, US media report",
+      "title": "US pilot rescued after fighter jet downed over Iran, US media report",
       "url": "https://www.bbc.com/news/articles/c3r395l91l3o?at_medium=RSS&at_campaign=rss",
-      "summary": "Iranian media reports a reward is being offered for finding a US crewmember thought to still be missing.",
-      "published_at": "2026-04-03T18:49:21Z",
+      "summary": "A search and rescue mission also came under fire, bringing down another jet over the Persian Gulf.",
+      "published_at": "2026-04-03T20:08:23Z",
       "country_code": "US",
       "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Unanswered questions remain after death of Australia's most wanted fugitive",
+      "url": "https://www.bbc.com/news/articles/cg7358zzz0no?at_medium=RSS&at_campaign=rss",
+      "summary": "Double-murderer Dezi Freeman evaded capture for seven months in the bush but police believe he had help.",
+      "published_at": "2026-04-03T19:19:02Z",
+      "country_code": "AU",
+      "country_name": "Australia"
     },
     {
       "source": "BBC World",
@@ -730,6 +739,11 @@
       "news_count": 4
     },
     {
+      "country_code": "AU",
+      "country_name": "Australia",
+      "news_count": 3
+    },
+    {
       "country_code": "IL",
       "country_name": "Israel",
       "news_count": 3
@@ -738,11 +752,6 @@
       "country_code": "IT",
       "country_name": "Italy",
       "news_count": 3
-    },
-    {
-      "country_code": "AU",
-      "country_name": "Australia",
-      "news_count": 2
     },
     {
       "country_code": "BR",
