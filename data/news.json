@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-04-03T13:56:03Z",
+  "generated_at": "2026-04-03T14:37:28Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Cuba to release more than 2,000 prisoners as US pressure mounts",
+      "url": "https://www.bbc.com/news/articles/cwy3r3w4zl8o?at_medium=RSS&at_campaign=rss",
+      "summary": "US President Trump has made clear his desire to change Cuba's leadership and has placed the country under an oil embargo.",
+      "published_at": "2026-04-03T14:18:04Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "US jobs surge unexpectedly in March despite Iran war",
+      "url": "https://www.bbc.com/news/articles/crk165g4vv3o?at_medium=RSS&at_campaign=rss",
+      "summary": "Employers added 178,000 jobs, far more than had expected, the Labor Department says.",
+      "published_at": "2026-04-03T13:35:11Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "Experts dispute US account of deadly Iran sports hall strike in Lamerd",
@@ -9,6 +27,15 @@
       "published_at": "2026-04-03T13:16:33Z",
       "country_code": "US",
       "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Italy part company with manager after failing to qualify for World Cup",
+      "url": "https://www.bbc.com/sport/football/articles/cevk0mn93ejo?at_medium=RSS&at_campaign=rss",
+      "summary": "Manager Gennaro Gattuso and Italy agree to \"mutually terminate\" his contract after their failure to qualify for a third successive World Cup…",
+      "published_at": "2026-04-03T13:04:44Z",
+      "country_code": "IT",
+      "country_name": "Italy"
     },
     {
       "source": "BBC Europe",
@@ -88,15 +115,6 @@
       "url": "https://www.bbc.com/news/articles/cp86mrj40e2o?at_medium=RSS&at_campaign=rss",
       "summary": "President Trump has warned Iran of strikes on bridges and electric power plants if its leaders do not agree to his terms to end the war.",
       "published_at": "2026-04-03T10:35:55Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "Cuba to release more than 2,000 prisoners as US pressure mounts",
-      "url": "https://www.bbc.com/news/articles/cwy3r3w4zl8o?at_medium=RSS&at_campaign=rss",
-      "summary": "US President Trump has made clear his desire to change Cuba's leadership and has placed the country under an oil embargo.",
-      "published_at": "2026-04-03T08:35:53Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -218,7 +236,7 @@
       "country_name": "Iran"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "'Be serious... don't speak every day': Macron criticises Trump approach to Iran war",
       "url": "https://www.bbc.com/news/articles/cevk0e4ykwko?at_medium=RSS&at_campaign=rss",
       "summary": "The comments were an apparent jab at the US leader's sometimes contradictory stance on the US-Israeli war against Iran.",
@@ -726,7 +744,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 35
+      "news_count": 36
     },
     {
       "country_code": "IR",
@@ -741,6 +759,11 @@
     {
       "country_code": "IL",
       "country_name": "Israel",
+      "news_count": 3
+    },
+    {
+      "country_code": "IT",
+      "country_name": "Italy",
       "news_count": 3
     },
     {
@@ -766,11 +789,6 @@
     {
       "country_code": "FR",
       "country_name": "France",
-      "news_count": 2
-    },
-    {
-      "country_code": "IT",
-      "country_name": "Italy",
       "news_count": 2
     },
     {
