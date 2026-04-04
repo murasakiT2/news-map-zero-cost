@@ -1,14 +1,23 @@
 {
-  "generated_at": "2026-04-04T22:18:54Z",
+  "generated_at": "2026-04-04T22:54:44Z",
   "articles": [
     {
       "source": "BBC World",
       "title": "US and Iran trade threats to unleash 'hell' as search for missing US airman continues",
       "url": "https://www.bbc.com/news/articles/c5y90jl8veyo?at_medium=RSS&at_campaign=rss",
       "summary": "Donald Trump wants Iran to strike a deal and to open the strategic Strait of Hormuz whose closure has led to a spike in oil prices.",
-      "published_at": "2026-04-04T21:56:24Z",
+      "published_at": "2026-04-04T22:54:06Z",
       "country_code": "US",
       "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "The man who became one of India's greatest stage queens",
+      "url": "https://www.bbc.com/news/articles/cd0rl52z3dzo?at_medium=RSS&at_campaign=rss",
+      "summary": "Chapal Bhaduri was Bengal’s biggest stage queen - until women arrived and the spotlight moved on.",
+      "published_at": "2026-04-04T22:20:51Z",
+      "country_code": "IN",
+      "country_name": "India"
     },
     {
       "source": "BBC World",
@@ -824,6 +833,11 @@
       "news_count": 2
     },
     {
+      "country_code": "IN",
+      "country_name": "India",
+      "news_count": 2
+    },
+    {
       "country_code": "RU",
       "country_name": "Russia",
       "news_count": 2
@@ -856,11 +870,6 @@
     {
       "country_code": "IL",
       "country_name": "Israel",
-      "news_count": 1
-    },
-    {
-      "country_code": "IN",
-      "country_name": "India",
       "news_count": 1
     },
     {
