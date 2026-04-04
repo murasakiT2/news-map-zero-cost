@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-04-04T12:32:00Z",
+  "generated_at": "2026-04-04T13:44:50Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Russian attack on Ukraine market kills five",
+      "url": "https://www.bbc.com/news/articles/cp869m2gzr0o?at_medium=RSS&at_campaign=rss",
+      "summary": "A Russian drone hit a busy spot in the southern Ukrainian town on Saturday morning, injuring another 21 people.",
+      "published_at": "2026-04-04T13:13:36Z",
+      "country_code": "UA",
+      "country_name": "Ukraine"
+    },
     {
       "source": "BBC World",
       "title": "What we know so far about the search for missing US airman in Iran",
@@ -380,15 +389,6 @@
       "country_name": "Israel"
     },
     {
-      "source": "BBC Europe",
-      "title": "UK will seek closer ties with EU in light of Iran war, Starmer says",
-      "url": "https://www.bbc.com/news/articles/c62l6w03lwzo?at_medium=RSS&at_campaign=rss",
-      "summary": "It comes as UK-US relations have been strained by the PM's refusal to be dragged further into the Iran war.",
-      "published_at": "2026-04-01T16:12:45Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC Africa",
       "title": "Lamine Yamal condemns racist abuse aimed at Egypt",
       "url": "https://www.bbc.com/sport/football/articles/cz6737pdnwpo?at_medium=RSS&at_campaign=rss",
@@ -762,7 +762,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 36
+      "news_count": 35
     },
     {
       "country_code": "IR",
@@ -830,6 +830,11 @@
       "news_count": 2
     },
     {
+      "country_code": "UA",
+      "country_name": "Ukraine",
+      "news_count": 2
+    },
+    {
       "country_code": "ES",
       "country_name": "Spain",
       "news_count": 1
@@ -872,11 +877,6 @@
     {
       "country_code": "PK",
       "country_name": "Pakistan",
-      "news_count": 1
-    },
-    {
-      "country_code": "UA",
-      "country_name": "Ukraine",
       "news_count": 1
     }
   ]
