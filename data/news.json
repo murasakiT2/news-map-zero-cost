@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-04-04T21:52:27Z",
+  "generated_at": "2026-04-04T22:18:54Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "US and Iran trade threats to unleash 'hell' as search for missing US airman continues",
+      "url": "https://www.bbc.com/news/articles/c5y90jl8veyo?at_medium=RSS&at_campaign=rss",
+      "summary": "Donald Trump wants Iran to strike a deal and to open the strategic Strait of Hormuz whose closure has led to a spike in oil prices.",
+      "published_at": "2026-04-04T21:56:24Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "US says it has arrested relatives of late Iranian ​general Qasem ​Soleimani",
@@ -36,15 +45,6 @@
       "published_at": "2026-04-04T18:54:53Z",
       "country_code": "UA",
       "country_name": "Ukraine"
-    },
-    {
-      "source": "BBC World",
-      "title": "UN watchdog voices 'deep concern' as Iran reports new attacks on nuclear plant",
-      "url": "https://www.bbc.com/news/articles/c5y90jl8veyo?at_medium=RSS&at_campaign=rss",
-      "summary": "The International Atomic Energy Agency urges restraint to avoid a nuclear accident at Iran's Bushehr plant.",
-      "published_at": "2026-04-04T16:19:25Z",
-      "country_code": "IR",
-      "country_name": "Iran"
     },
     {
       "source": "BBC World",
@@ -771,12 +771,12 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 37
+      "news_count": 38
     },
     {
       "country_code": "IR",
       "country_name": "Iran",
-      "news_count": 9
+      "news_count": 8
     },
     {
       "country_code": "AU",
