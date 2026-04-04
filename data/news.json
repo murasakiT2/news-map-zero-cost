@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-04T09:59:15Z",
+  "generated_at": "2026-04-04T10:35:07Z",
   "articles": [
     {
       "source": "BBC World",
@@ -11,7 +11,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Europe",
+      "source": "BBC World",
       "title": "Russia chose 'Easter escalation' over ceasefire, says Zelensky",
       "url": "https://www.bbc.com/news/articles/cew70wjvv9do?at_medium=RSS&at_campaign=rss",
       "summary": "Six civilians were killed and 40 others injured as Russia launched hundreds of drones and missiles.",
@@ -20,7 +20,7 @@
       "country_name": "Russia"
     },
     {
-      "source": "BBC Latin America",
+      "source": "BBC World",
       "title": "Football rally in Peru leaves one dead and dozens injured",
       "url": "https://www.bbc.com/news/articles/ckgxyn3ljgjo?at_medium=RSS&at_campaign=rss",
       "summary": "Hundreds of Alianza Lima fans had gathered for a pregame rally ahead of a match against local rivals Universitario de Deportes.",
@@ -236,7 +236,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "Why isn't Artemis II landing on the Moon?",
       "url": "https://www.bbc.com/news/videos/c3w344wyxg5o?at_medium=RSS&at_campaign=rss",
       "summary": "The US is aiming to be the first country to land humans on the lunar surface again by 2028 - so what's this mission for?",
@@ -378,15 +378,6 @@
       "published_at": "2026-04-01T16:12:45Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC Africa",
-      "title": "South African army arrive in crime hotspots to help tackle gangs",
-      "url": "https://www.bbc.com/news/articles/cx2e78yk09no?at_medium=RSS&at_campaign=rss",
-      "summary": "The army has been deployed to five of South Africa's nine provinces for a year-long operation.",
-      "published_at": "2026-04-01T14:35:00Z",
-      "country_code": "ZA",
-      "country_name": "South Africa"
     },
     {
       "source": "BBC Africa",
@@ -877,11 +868,6 @@
     {
       "country_code": "UA",
       "country_name": "Ukraine",
-      "news_count": 1
-    },
-    {
-      "country_code": "ZA",
-      "country_name": "South Africa",
       "news_count": 1
     }
   ]
