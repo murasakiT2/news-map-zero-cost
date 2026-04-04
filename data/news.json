@@ -1,12 +1,21 @@
 {
-  "generated_at": "2026-04-04T10:35:07Z",
+  "generated_at": "2026-04-04T11:20:48Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "What we know so far about the search for missing US airman in Iran",
+      "url": "https://www.bbc.com/news/videos/c7vqlr5gqr0o?at_medium=RSS&at_campaign=rss",
+      "summary": "US and Iranian forces are searching for a missing American crew member after a US warplane was shot down.",
+      "published_at": "2026-04-04T11:00:34Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "Rescue team in Iran face 'harrowing and dangerous' search for US crew member",
       "url": "https://www.bbc.com/news/articles/c0le43jw8e9o?at_medium=RSS&at_campaign=rss",
       "summary": "A former US marine tells the BBC the priority of any recovery team would be to look for signs of life.",
-      "published_at": "2026-04-04T08:54:28Z",
+      "published_at": "2026-04-04T10:41:38Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -254,7 +263,7 @@
       "country_name": "Russia"
     },
     {
-      "source": "BBC US & Canada",
+      "source": "BBC Middle East",
       "title": "Ros Atkins on…the cost of the Iran war",
       "url": "https://www.bbc.com/news/videos/c1d9nnqqld0o?at_medium=RSS&at_campaign=rss",
       "summary": "The BBC's Analysis Editor Ros Atkins takes a closer look at US costs as it continues its war with with Iran.",
@@ -753,7 +762,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 35
+      "news_count": 36
     },
     {
       "country_code": "IR",
