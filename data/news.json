@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-04T20:54:02Z",
+  "generated_at": "2026-04-04T21:21:54Z",
   "articles": [
     {
       "source": "BBC World",
@@ -137,7 +137,7 @@
       "country_name": "Australia"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "US deports eight people 'of African origin' to Uganda",
       "url": "https://www.bbc.com/news/articles/c8ej43z8yw4o?at_medium=RSS&at_campaign=rss",
       "summary": "The Uganda Law Society criticises the deportation, saying it was illegal and \"dehumanising\".",
@@ -200,7 +200,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "France's Muslim gathering ban overturned by courts",
       "url": "https://www.bbc.com/news/articles/cwyjekvwww0o?at_medium=RSS&at_campaign=rss",
       "summary": "The Paris police department had argued that the four-day gathering was a security threat because it could be a target of terrorism.",
@@ -228,15 +228,6 @@
     },
     {
       "source": "BBC World",
-      "title": "Trump removes US Attorney General Pam Bondi",
-      "url": "https://www.bbc.com/news/articles/ce843ge47z4o?at_medium=RSS&at_campaign=rss",
-      "summary": "Bondi's time as top US law enforcement officer was overshadowed by her handling of the Epstein files.",
-      "published_at": "2026-04-03T11:42:17Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC US & Canada",
       "title": "When will the Iran war end? Tracing the Trump administration's timelines",
       "url": "https://www.bbc.com/news/articles/c4g4e6z9960o?at_medium=RSS&at_campaign=rss",
       "summary": "Experts say many US presidents have offered a timeline for a conflict - only to then shift their estimates.",
@@ -245,7 +236,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Middle East",
+      "source": "BBC World",
       "title": "'This has got me worried': Iranians fear what comes next after US strike on Karaj bridge",
       "url": "https://www.bbc.com/news/articles/cp86mrj40e2o?at_medium=RSS&at_campaign=rss",
       "summary": "President Trump has warned Iran of strikes on bridges and electric power plants if its leaders do not agree to his terms to end the war.",
@@ -780,7 +771,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 38
+      "news_count": 37
     },
     {
       "country_code": "IR",
