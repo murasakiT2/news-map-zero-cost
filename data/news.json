@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-04-04T06:34:44Z",
+  "generated_at": "2026-04-04T07:41:59Z",
   "articles": [
+    {
+      "source": "BBC Latin America",
+      "title": "Football rally in Peru leaves one dead and dozens injured",
+      "url": "https://www.bbc.com/news/articles/ckgxyn3ljgjo?at_medium=RSS&at_campaign=rss",
+      "summary": "Hundreds of Alianza Lima fans had gathered for a pregame rally ahead of a match against local rivals Universitario de Deportes.",
+      "published_at": "2026-04-04T06:34:56Z",
+      "country_code": "PE",
+      "country_name": "Peru"
+    },
     {
       "source": "BBC World",
       "title": "Rescue team in Iran face 'harrowing and dangerous' search for US crew member",
@@ -93,7 +102,7 @@
     },
     {
       "source": "BBC World",
-      "title": "Italy's famed Uffizi admits cyber-attack but denies security breach",
+      "title": "Italy's Uffizi Galleries targeted in cyber-attack but denies security breach",
       "url": "https://www.bbc.com/news/articles/cy51wzeq6g5o?at_medium=RSS&at_campaign=rss",
       "summary": "Hackers were reported to have infiltrated IT systems - but the gallery says its works are safe.",
       "published_at": "2026-04-03T15:04:39Z",
@@ -862,6 +871,11 @@
     {
       "country_code": "MX",
       "country_name": "Mexico",
+      "news_count": 1
+    },
+    {
+      "country_code": "PE",
+      "country_name": "Peru",
       "news_count": 1
     },
     {
