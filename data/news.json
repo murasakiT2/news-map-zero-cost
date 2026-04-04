@@ -1,8 +1,26 @@
 {
-  "generated_at": "2026-04-03T23:33:37Z",
+  "generated_at": "2026-04-04T01:14:23Z",
   "articles": [
     {
-      "source": "BBC Middle East",
+      "source": "BBC World",
+      "title": "How Canada's largest gun control effort in decades is missing the mark",
+      "url": "https://www.bbc.com/news/articles/cvg09dq4x5qo?at_medium=RSS&at_campaign=rss",
+      "summary": "Canada recently banned 2,500 models of \"assault-style\" firearms - but a plan to buy-back tens of thousands of guns fell short by half.",
+      "published_at": "2026-04-04T00:32:45Z",
+      "country_code": "CA",
+      "country_name": "Canada"
+    },
+    {
+      "source": "BBC World",
+      "title": "'We want a voice in our land' - the people evicted to build Nigeria's capital",
+      "url": "https://www.bbc.com/news/articles/clyggr00x5vo?at_medium=RSS&at_campaign=rss",
+      "summary": "People evicted to build Nigeria's capital accuse the government of failing to fulfill its promises to them.",
+      "published_at": "2026-04-04T00:17:20Z",
+      "country_code": "NG",
+      "country_name": "Nigeria"
+    },
+    {
+      "source": "BBC US & Canada",
       "title": "US pilot rescued after fighter jet downed over Iran, US media report",
       "url": "https://www.bbc.com/news/articles/c3r395l91l3o?at_medium=RSS&at_campaign=rss",
       "summary": "A search and rescue mission also came under fire, bringing down another jet over the Persian Gulf.",
@@ -227,7 +245,7 @@
       "country_name": "Russia"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "Ros Atkins on…the cost of the Iran war",
       "url": "https://www.bbc.com/news/videos/c1d9nnqqld0o?at_medium=RSS&at_campaign=rss",
       "summary": "The BBC's Analysis Editor Ros Atkins takes a closer look at US costs as it continues its war with with Iran.",
@@ -623,6 +641,15 @@
       "country_name": "France"
     },
     {
+      "source": "BBC Middle East",
+      "title": "Gaza peace doubts deepen as attention shifts to Iran",
+      "url": "https://www.bbc.com/news/articles/crr10v5p7lgo?at_medium=RSS&at_campaign=rss",
+      "summary": "With the world focused on the Iran war, there is increasing uncertainty about what happens next for Gaza.",
+      "published_at": "2026-03-28T06:00:37Z",
+      "country_code": "PS",
+      "country_name": "Palestine"
+    },
+    {
       "source": "BBC Europe",
       "title": "The German army protecting Western Europe's eastern edge",
       "url": "https://www.bbc.com/news/videos/cwyjw431d5ko?at_medium=RSS&at_campaign=rss",
@@ -729,15 +756,6 @@
       "published_at": "2026-02-05T17:15:30Z",
       "country_code": "NG",
       "country_name": "Nigeria"
-    },
-    {
-      "source": "BBC Africa",
-      "title": "South African national park closed due to floods",
-      "url": "https://www.bbc.com/news/videos/c20d9qdz7zwo?at_medium=RSS&at_campaign=rss",
-      "summary": "Ongoing floods in the north-eastern provinces of South Africa has led to the closure of the world-famous Kruger National Park.",
-      "published_at": "2026-01-16T16:52:14Z",
-      "country_code": "ZA",
-      "country_name": "South Africa"
     }
   ],
   "regions": [
@@ -772,8 +790,18 @@
       "news_count": 3
     },
     {
+      "country_code": "NG",
+      "country_name": "Nigeria",
+      "news_count": 3
+    },
+    {
       "country_code": "BR",
       "country_name": "Brazil",
+      "news_count": 2
+    },
+    {
+      "country_code": "CA",
+      "country_name": "Canada",
       "news_count": 2
     },
     {
@@ -792,24 +820,14 @@
       "news_count": 2
     },
     {
-      "country_code": "NG",
-      "country_name": "Nigeria",
+      "country_code": "PS",
+      "country_name": "Palestine",
       "news_count": 2
     },
     {
       "country_code": "RU",
       "country_name": "Russia",
       "news_count": 2
-    },
-    {
-      "country_code": "ZA",
-      "country_name": "South Africa",
-      "news_count": 2
-    },
-    {
-      "country_code": "CA",
-      "country_name": "Canada",
-      "news_count": 1
     },
     {
       "country_code": "ES",
@@ -852,13 +870,13 @@
       "news_count": 1
     },
     {
-      "country_code": "PS",
-      "country_name": "Palestine",
+      "country_code": "UA",
+      "country_name": "Ukraine",
       "news_count": 1
     },
     {
-      "country_code": "UA",
-      "country_name": "Ukraine",
+      "country_code": "ZA",
+      "country_name": "South Africa",
       "news_count": 1
     }
   ]
