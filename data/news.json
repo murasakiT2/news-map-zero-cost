@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-04T16:59:17Z",
+  "generated_at": "2026-04-04T17:31:59Z",
   "articles": [
     {
       "source": "BBC World",
@@ -97,6 +97,15 @@
       "url": "https://www.bbc.com/news/articles/c3r395l91l3o?at_medium=RSS&at_campaign=rss",
       "summary": "A search and rescue mission also came under fire, bringing down another jet over the Persian Gulf.",
       "published_at": "2026-04-03T21:47:48Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC Middle East",
+      "title": "Why did US and Israel attack Iran and how long could the war last?",
+      "url": "https://www.bbc.com/news/articles/cx2dyz6p3weo?at_medium=RSS&at_campaign=rss",
+      "summary": "Conflict has spread across the Middle East since the US and Israel launched strikes on Iran on 28 February.",
+      "published_at": "2026-04-03T21:25:54Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -542,15 +551,6 @@
       "country_name": "Iran"
     },
     {
-      "source": "BBC Middle East",
-      "title": "US journalist Shelly Kittleson kidnapped in Baghdad",
-      "url": "https://www.bbc.com/news/articles/c5yled478zwo?at_medium=RSS&at_campaign=rss",
-      "summary": "The US state department says a suspect in her abduction has ties to an Iran-backed militia group, Kataib Hezbollah.",
-      "published_at": "2026-03-31T21:08:35Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC Latin America",
       "title": "Judge rules Trump unlawfully terminated legal status of migrants who used US entry app",
       "url": "https://www.bbc.com/news/articles/c4g6rmlp2l5o?at_medium=RSS&at_campaign=rss",
@@ -558,24 +558,6 @@
       "published_at": "2026-03-31T20:14:09Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC Middle East",
-      "title": "Israel says it will keep control over part of southern Lebanon after war with Hezbollah ends",
-      "url": "https://www.bbc.com/news/articles/c5yx8knpr5no?at_medium=RSS&at_campaign=rss",
-      "summary": "Defence Minister Israel Katz also says houses in Lebanese villages near the Israeli border will be demolished.",
-      "published_at": "2026-03-31T18:57:25Z",
-      "country_code": "IL",
-      "country_name": "Israel"
-    },
-    {
-      "source": "BBC Middle East",
-      "title": "Iran using children in security roles in war, reports and witnesses say",
-      "url": "https://www.bbc.com/news/articles/c9wqgjn7x89o?at_medium=RSS&at_campaign=rss",
-      "summary": "An 11-year-old is reported to have been killed in an air strike while manning a checkpoint in Tehran.",
-      "published_at": "2026-03-31T12:56:45Z",
-      "country_code": "IR",
-      "country_name": "Iran"
     },
     {
       "source": "BBC Europe",
@@ -603,15 +585,6 @@
       "published_at": "2026-03-31T02:33:18Z",
       "country_code": "PK",
       "country_name": "Pakistan"
-    },
-    {
-      "source": "BBC Middle East",
-      "title": "Gazan mother reunited with evacuated daughter after two years",
-      "url": "https://www.bbc.com/news/articles/czex10lngzjo?at_medium=RSS&at_campaign=rss",
-      "summary": "The girl is among at least eight children who were premature newborns when they were evacuated during heavy fighting in Gaza at the start of…",
-      "published_at": "2026-03-30T21:12:29Z",
-      "country_code": "PS",
-      "country_name": "Palestine"
     },
     {
       "source": "BBC Middle East",
@@ -659,6 +632,15 @@
       "country_name": "Germany"
     },
     {
+      "source": "BBC Middle East",
+      "title": "Potential Houthi threat to Red Sea shipping could further damage global economy",
+      "url": "https://www.bbc.com/news/articles/cwyvd5z1xjno?at_medium=RSS&at_campaign=rss",
+      "summary": "The Iran-backed group could bring a second crucial waterway to a standstill, writes Sebastian Usher.",
+      "published_at": "2026-03-28T19:08:30Z",
+      "country_code": "IR",
+      "country_name": "Iran"
+    },
+    {
       "source": "BBC Africa",
       "title": "Senegal parade Afcon trophy despite title controversy",
       "url": "https://www.bbc.com/sport/football/articles/cqxl0gj9787o?at_medium=RSS&at_campaign=rss",
@@ -666,6 +648,15 @@
       "published_at": "2026-03-28T18:13:22Z",
       "country_code": "FR",
       "country_name": "France"
+    },
+    {
+      "source": "BBC Middle East",
+      "title": "Gaza peace doubts deepen as attention shifts to Iran",
+      "url": "https://www.bbc.com/news/articles/crr10v5p7lgo?at_medium=RSS&at_campaign=rss",
+      "summary": "With the world focused on the Iran war, there is increasing uncertainty about what happens next for Gaza.",
+      "published_at": "2026-03-28T06:00:37Z",
+      "country_code": "PS",
+      "country_name": "Palestine"
     },
     {
       "source": "BBC Europe",
@@ -677,6 +668,24 @@
       "country_name": "Germany"
     },
     {
+      "source": "BBC Middle East",
+      "title": "'My daughter is under the rubble': Inside Tehran as civilian toll of strikes rises",
+      "url": "https://www.bbc.com/news/articles/cn0w1qxzd4xo?at_medium=RSS&at_campaign=rss",
+      "summary": "One month since the US and Israel launched strikes on Iran, Tehran residents tell the BBC their lives have been devastated.",
+      "published_at": "2026-03-27T21:30:12Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC Middle East",
+      "title": "Is Trump's pause on attacking Iranian energy for diplomacy or an escalation?",
+      "url": "https://www.bbc.com/news/articles/c2evg2m3ye2o?at_medium=RSS&at_campaign=rss",
+      "summary": "The US president's commitment to deadlines is fluid but he uses them for a purpose, writes the BBC's James Landale.",
+      "published_at": "2026-03-27T13:17:22Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
       "source": "BBC Africa",
       "title": "Women secretly filmed, then ridiculed and abused online",
       "url": "https://www.bbc.com/news/articles/cy5141zyllno?at_medium=RSS&at_campaign=rss",
@@ -684,6 +693,15 @@
       "published_at": "2026-03-27T07:20:18Z",
       "country_code": "KE",
       "country_name": "Kenya"
+    },
+    {
+      "source": "BBC Middle East",
+      "title": "How the Hormuz closure could affect food, medicines and smartphones",
+      "url": "https://www.bbc.com/news/articles/c4gjxv5g19no?at_medium=RSS&at_campaign=rss",
+      "summary": "The price of a wide range of goods - from food, to smartphones, to medicines - could be affected by the US-Israel war with Iran.",
+      "published_at": "2026-03-27T01:25:17Z",
+      "country_code": "US",
+      "country_name": "United States"
     },
     {
       "source": "BBC Europe",
@@ -780,7 +798,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 36
+      "news_count": 39
     },
     {
       "country_code": "IR",
@@ -796,11 +814,6 @@
       "country_code": "KE",
       "country_name": "Kenya",
       "news_count": 4
-    },
-    {
-      "country_code": "IL",
-      "country_name": "Israel",
-      "news_count": 3
     },
     {
       "country_code": "IT",
@@ -835,6 +848,11 @@
     {
       "country_code": "FR",
       "country_name": "France",
+      "news_count": 2
+    },
+    {
+      "country_code": "IL",
+      "country_name": "Israel",
       "news_count": 2
     },
     {
