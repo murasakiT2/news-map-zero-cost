@@ -1,6 +1,33 @@
 {
-  "generated_at": "2026-04-04T18:27:02Z",
+  "generated_at": "2026-04-04T19:06:43Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Russian attack on Ukraine market kills five",
+      "url": "https://www.bbc.com/news/articles/cp869m2gzr0o?at_medium=RSS&at_campaign=rss",
+      "summary": "A Russian drone hit a busy spot in the southern Ukrainian town on Saturday morning, injuring another 21 people.",
+      "published_at": "2026-04-04T18:54:53Z",
+      "country_code": "UA",
+      "country_name": "Ukraine"
+    },
+    {
+      "source": "BBC World",
+      "title": "US says it has arrested relatives of late Iranian ​general Qasem ​Soleimani",
+      "url": "https://www.bbc.com/news/articles/cgqkn4j48qdo?at_medium=RSS&at_campaign=rss",
+      "summary": "The niece and grand-niece of Qasem Soleimani are in the custody of US Immigration and Customs Enforcement, officials said.",
+      "published_at": "2026-04-04T18:43:45Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "What we know so far about the US fighter jet shot down over Iran",
+      "url": "https://www.bbc.com/news/articles/cm2k1dgz142o?at_medium=RSS&at_campaign=rss",
+      "summary": "The pilot of the downed jet has been safely rescued, but a search and rescue operation is still under way for the jet's second crew member, …",
+      "published_at": "2026-04-04T17:04:46Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "UN watchdog voices 'deep concern' as Iran reports new attacks on nuclear plant",
@@ -9,24 +36,6 @@
       "published_at": "2026-04-04T16:19:25Z",
       "country_code": "IR",
       "country_name": "Iran"
-    },
-    {
-      "source": "BBC World",
-      "title": "US arrests relatives of deceased Iranian ​general Qasem ​Soleimani",
-      "url": "https://www.bbc.com/news/articles/cgqkn4j48qdo?at_medium=RSS&at_campaign=rss",
-      "summary": "The niece and grand-niece of Qasem Soleimani are in the custody of US Immigration and Customs Enforcement, officials said.",
-      "published_at": "2026-04-04T16:12:15Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "Russian attack on Ukraine market kills five",
-      "url": "https://www.bbc.com/news/articles/cp869m2gzr0o?at_medium=RSS&at_campaign=rss",
-      "summary": "A Russian drone hit a busy spot in the southern Ukrainian town on Saturday morning, injuring another 21 people.",
-      "published_at": "2026-04-04T14:00:31Z",
-      "country_code": "UA",
-      "country_name": "Ukraine"
     },
     {
       "source": "BBC World",
@@ -155,7 +164,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "Italy's Uffizi Galleries targeted in cyber-attack but deny security breach",
       "url": "https://www.bbc.com/news/articles/cy51wzeq6g5o?at_medium=RSS&at_campaign=rss",
       "summary": "Hackers were reported to have infiltrated IT systems - but the gallery says its works are safe.",
@@ -189,15 +198,6 @@
       "published_at": "2026-04-03T13:04:44Z",
       "country_code": "IT",
       "country_name": "Italy"
-    },
-    {
-      "source": "BBC World",
-      "title": "Pete Hegseth asks US Army's top general to step down",
-      "url": "https://www.bbc.com/news/articles/cn8d63v058zo?at_medium=RSS&at_campaign=rss",
-      "summary": "Gen Randy George was nominated for the role in 2023 by former President Joe Biden.",
-      "published_at": "2026-04-03T13:03:57Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC US & Canada",
@@ -468,15 +468,6 @@
       "published_at": "2026-04-01T10:53:03Z",
       "country_code": "AU",
       "country_name": "Australia"
-    },
-    {
-      "source": "BBC Middle East",
-      "title": "Israel intensifies Lebanon attacks and hits areas not in Hezbollah's control",
-      "url": "https://www.bbc.com/news/articles/cvg07j6yeweo?at_medium=RSS&at_campaign=rss",
-      "summary": "Attacks have continued as Israel has announced its intention to control swathes of south Lebanon.",
-      "published_at": "2026-04-01T10:33:35Z",
-      "country_code": "IL",
-      "country_name": "Israel"
     },
     {
       "source": "BBC Asia",
@@ -851,11 +842,6 @@
       "news_count": 2
     },
     {
-      "country_code": "IL",
-      "country_name": "Israel",
-      "news_count": 2
-    },
-    {
       "country_code": "RU",
       "country_name": "Russia",
       "news_count": 2
@@ -883,6 +869,11 @@
     {
       "country_code": "ID",
       "country_name": "Indonesia",
+      "news_count": 1
+    },
+    {
+      "country_code": "IL",
+      "country_name": "Israel",
       "news_count": 1
     },
     {
