@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-04-04T16:22:50Z",
+  "generated_at": "2026-04-04T16:59:17Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "UN watchdog voices 'deep concern' as Iran reports new attacks on nuclear plant",
+      "url": "https://www.bbc.com/news/articles/c5y90jl8veyo?at_medium=RSS&at_campaign=rss",
+      "summary": "The International Atomic Energy Agency urges restraint to avoid a nuclear accident at Iran's Bushehr plant.",
+      "published_at": "2026-04-04T16:19:25Z",
+      "country_code": "IR",
+      "country_name": "Iran"
+    },
     {
       "source": "BBC World",
       "title": "US arrests relatives of deceased Iranian ​general Qasem ​Soleimani",
@@ -227,7 +236,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "When will the Iran war end? Tracing the Trump administration's timelines",
       "url": "https://www.bbc.com/news/articles/c4g4e6z9960o?at_medium=RSS&at_campaign=rss",
       "summary": "Experts say many US presidents have offered a timeline for a conflict - only to then shift their estimates.",
@@ -659,15 +668,6 @@
       "country_name": "France"
     },
     {
-      "source": "BBC Middle East",
-      "title": "Gaza peace doubts deepen as attention shifts to Iran",
-      "url": "https://www.bbc.com/news/articles/crr10v5p7lgo?at_medium=RSS&at_campaign=rss",
-      "summary": "With the world focused on the Iran war, there is increasing uncertainty about what happens next for Gaza.",
-      "published_at": "2026-03-28T06:00:37Z",
-      "country_code": "PS",
-      "country_name": "Palestine"
-    },
-    {
       "source": "BBC Europe",
       "title": "The German army protecting Western Europe's eastern edge",
       "url": "https://www.bbc.com/news/videos/cwyjw431d5ko?at_medium=RSS&at_campaign=rss",
@@ -785,7 +785,7 @@
     {
       "country_code": "IR",
       "country_name": "Iran",
-      "news_count": 8
+      "news_count": 9
     },
     {
       "country_code": "AU",
@@ -835,11 +835,6 @@
     {
       "country_code": "FR",
       "country_name": "France",
-      "news_count": 2
-    },
-    {
-      "country_code": "PS",
-      "country_name": "Palestine",
       "news_count": 2
     },
     {
@@ -895,6 +890,11 @@
     {
       "country_code": "PK",
       "country_name": "Pakistan",
+      "news_count": 1
+    },
+    {
+      "country_code": "PS",
+      "country_name": "Palestine",
       "news_count": 1
     }
   ]
