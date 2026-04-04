@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-04-04T19:06:43Z",
+  "generated_at": "2026-04-04T19:50:50Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "What we know so far about the US fighter jet shot down over Iran",
+      "url": "https://www.bbc.com/news/articles/cm2k1dgz142o?at_medium=RSS&at_campaign=rss",
+      "summary": "The pilot of the downed jet has been safely rescued, but a search and rescue operation is still under way for the jet's second crew member, …",
+      "published_at": "2026-04-04T19:20:49Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "Russian attack on Ukraine market kills five",
@@ -16,15 +25,6 @@
       "url": "https://www.bbc.com/news/articles/cgqkn4j48qdo?at_medium=RSS&at_campaign=rss",
       "summary": "The niece and grand-niece of Qasem Soleimani are in the custody of US Immigration and Customs Enforcement, officials said.",
       "published_at": "2026-04-04T18:43:45Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "What we know so far about the US fighter jet shot down over Iran",
-      "url": "https://www.bbc.com/news/articles/cm2k1dgz142o?at_medium=RSS&at_campaign=rss",
-      "summary": "The pilot of the downed jet has been safely rescued, but a search and rescue operation is still under way for the jet's second crew member, …",
-      "published_at": "2026-04-04T17:04:46Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -99,15 +99,6 @@
       "published_at": "2026-04-04T00:17:20Z",
       "country_code": "NG",
       "country_name": "Nigeria"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "US pilot rescued after fighter jet downed over Iran, US media report",
-      "url": "https://www.bbc.com/news/articles/c3r395l91l3o?at_medium=RSS&at_campaign=rss",
-      "summary": "A search and rescue mission also came under fire, bringing down another jet over the Persian Gulf.",
-      "published_at": "2026-04-03T21:47:48Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC Middle East",
@@ -789,7 +780,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 39
+      "news_count": 38
     },
     {
       "country_code": "IR",
