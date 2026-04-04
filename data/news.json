@@ -1,17 +1,26 @@
 {
-  "generated_at": "2026-04-04T13:44:50Z",
+  "generated_at": "2026-04-04T14:25:50Z",
   "articles": [
     {
       "source": "BBC World",
       "title": "Russian attack on Ukraine market kills five",
       "url": "https://www.bbc.com/news/articles/cp869m2gzr0o?at_medium=RSS&at_campaign=rss",
       "summary": "A Russian drone hit a busy spot in the southern Ukrainian town on Saturday morning, injuring another 21 people.",
-      "published_at": "2026-04-04T13:13:36Z",
+      "published_at": "2026-04-04T14:00:31Z",
       "country_code": "UA",
       "country_name": "Ukraine"
     },
     {
       "source": "BBC World",
+      "title": "Australians told to continue Easter travel plans despite fuel shortages",
+      "url": "https://www.bbc.com/news/articles/c62l084kgk6o?at_medium=RSS&at_campaign=rss",
+      "summary": "Hundreds of petrol stations across Australia have run out of fuel as the Iran war disrupts global oil shipments and pushes up prices.",
+      "published_at": "2026-04-04T12:10:10Z",
+      "country_code": "AU",
+      "country_name": "Australia"
+    },
+    {
+      "source": "BBC US & Canada",
       "title": "What we know so far about the search for missing US airman in Iran",
       "url": "https://www.bbc.com/news/videos/c7vqlr5gqr0o?at_medium=RSS&at_campaign=rss",
       "summary": "US and Iranian forces are searching for a missing American crew member after a US warplane was shot down.",
@@ -191,7 +200,7 @@
       "country_name": "Iran"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "Who is Christopher LaNeve, set to lead the US Army?",
       "url": "https://www.bbc.com/news/articles/clye2e85dwjo?at_medium=RSS&at_campaign=rss",
       "summary": "He will replace Randy George, who was asked to step down from his post by Defence Secretary Pete Hegseth.",
@@ -770,14 +779,14 @@
       "news_count": 8
     },
     {
-      "country_code": "KE",
-      "country_name": "Kenya",
+      "country_code": "AU",
+      "country_name": "Australia",
       "news_count": 4
     },
     {
-      "country_code": "AU",
-      "country_name": "Australia",
-      "news_count": 3
+      "country_code": "KE",
+      "country_name": "Kenya",
+      "news_count": 4
     },
     {
       "country_code": "IL",
