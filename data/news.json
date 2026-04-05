@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-05T18:28:39Z",
+  "generated_at": "2026-04-05T19:10:09Z",
   "articles": [
     {
       "source": "BBC World",
@@ -488,15 +488,6 @@
       "country_name": "Japan"
     },
     {
-      "source": "BBC US & Canada",
-      "title": "How English-only condolences undid one of Canada's top CEOs",
-      "url": "https://www.bbc.com/news/articles/cyv1q9gz39do?at_medium=RSS&at_campaign=rss",
-      "summary": "The episode is the latest reminder of the complicated politics around language and identity in Canada.",
-      "published_at": "2026-03-31T23:46:22Z",
-      "country_code": "CA",
-      "country_name": "Canada"
-    },
-    {
       "source": "BBC Middle East",
       "title": "'You're no longer my sister' - rows erupt as war divides Iranian families",
       "url": "https://www.bbc.com/news/articles/ce9mvzpvr7xo?at_medium=RSS&at_campaign=rss",
@@ -799,11 +790,6 @@
       "news_count": 2
     },
     {
-      "country_code": "CA",
-      "country_name": "Canada",
-      "news_count": 2
-    },
-    {
       "country_code": "CN",
       "country_name": "China",
       "news_count": 2
@@ -837,6 +823,11 @@
       "country_code": "UA",
       "country_name": "Ukraine",
       "news_count": 2
+    },
+    {
+      "country_code": "CA",
+      "country_name": "Canada",
+      "news_count": 1
     },
     {
       "country_code": "ES",
