@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-04-05T05:57:18Z",
+  "generated_at": "2026-04-05T07:00:13Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "What we know so far about rescue of US airman in Iran",
+      "url": "https://www.bbc.com/news/articles/cm2k1dgz142o?at_medium=RSS&at_campaign=rss",
+      "summary": "The US has rescued the missing crew member of the US F-15 fighter jet which was shot down over southern Iran.",
+      "published_at": "2026-04-05T06:59:48Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "The man who became one of India's greatest stage queens",
@@ -29,7 +38,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "What we know so far about the US fighter jet shot down over Iran",
       "url": "https://www.bbc.com/news/articles/cm2k1dgz142o?at_medium=RSS&at_campaign=rss",
       "summary": "The pilot of the downed jet has been safely rescued, but a search and rescue operation is still under way for the jet's second crew member, …",
@@ -780,7 +789,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 38
+      "news_count": 39
     },
     {
       "country_code": "IR",
