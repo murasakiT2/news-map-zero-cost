@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-04-05T16:59:52Z",
+  "generated_at": "2026-04-05T17:35:00Z",
   "articles": [
-    {
-      "source": "BBC World",
-      "title": "US airman injured but safe after rescue from inside Iran, Trump says",
-      "url": "https://www.bbc.com/news/articles/cr41evk126go?at_medium=RSS&at_campaign=rss",
-      "summary": "The recovery of the airman follows separate search efforts by both the US and Iran.",
-      "published_at": "2026-04-05T16:46:33Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
     {
       "source": "BBC World",
       "title": "How downed F-15 US airman was rescued inside Iran",
       "url": "https://www.bbc.com/news/articles/cm2k1dgz142o?at_medium=RSS&at_campaign=rss",
       "summary": "The US has rescued the missing crew member of the US F-15 fighter jet which was shot down over southern Iran.",
-      "published_at": "2026-04-05T15:45:20Z",
+      "published_at": "2026-04-05T17:15:34Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Seriously wounded US airman rescued from Iran, Trump says",
+      "url": "https://www.bbc.com/news/articles/cr41evk126go?at_medium=RSS&at_campaign=rss",
+      "summary": "The recovery of the airman follows separate search efforts by both the US and Iran.",
+      "published_at": "2026-04-05T16:46:33Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -38,7 +38,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC US & Canada",
+      "source": "BBC Middle East",
       "title": "Search for missing airman presents serious test for US",
       "url": "https://www.bbc.com/news/articles/c0le69de645o?at_medium=RSS&at_campaign=rss",
       "summary": "The stakes could rise further if the weapons system officer of the downed F15 Eagle plane is captured by Iran.",
@@ -200,15 +200,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Europe",
-      "title": "Italy and Gattuso 'mutually terminate' contract",
-      "url": "https://www.bbc.com/sport/football/articles/cevk0mn93ejo?at_medium=RSS&at_campaign=rss",
-      "summary": "Manager Gennaro Gattuso and Italy agree to \"mutually terminate\" his contract after their failure to qualify for a third successive World Cup…",
-      "published_at": "2026-04-03T13:04:44Z",
-      "country_code": "IT",
-      "country_name": "Italy"
-    },
-    {
       "source": "BBC US & Canada",
       "title": "Hegseth asks US Army's top general to step down",
       "url": "https://www.bbc.com/news/articles/cn8d63v058zo?at_medium=RSS&at_campaign=rss",
@@ -290,7 +281,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Europe",
+      "source": "BBC Africa",
       "title": "Sixteen Kenyans missing in Russia after army recruitment",
       "url": "https://www.bbc.com/news/articles/cx2ell79v2wo?at_medium=RSS&at_campaign=rss",
       "summary": "More than 250 Kenyans have gone to fight for Russia in Ukraine, mostly willingly, Kenya's foreign minister says.",
@@ -798,11 +789,6 @@
       "news_count": 4
     },
     {
-      "country_code": "IT",
-      "country_name": "Italy",
-      "news_count": 3
-    },
-    {
       "country_code": "NG",
       "country_name": "Nigeria",
       "news_count": 3
@@ -835,6 +821,11 @@
     {
       "country_code": "IN",
       "country_name": "India",
+      "news_count": 2
+    },
+    {
+      "country_code": "IT",
+      "country_name": "Italy",
       "news_count": 2
     },
     {
