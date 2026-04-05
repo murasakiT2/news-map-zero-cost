@@ -1,8 +1,26 @@
 {
-  "generated_at": "2026-04-05T19:53:35Z",
+  "generated_at": "2026-04-05T20:21:34Z",
   "articles": [
     {
       "source": "BBC World",
+      "title": "Analysis: Trump declares victory in Iran war after rescue, but threats to US operation still loom",
+      "url": "https://www.bbc.com/news/articles/cy01vg7x5ppo?at_medium=RSS&at_campaign=rss",
+      "summary": "The rescue could impact how Trump views a ground operation to take Kharg Island or to seize enriched uranium sites.",
+      "published_at": "2026-04-05T20:02:01Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "How rescue of US airman in remote part of Iran unfolded",
+      "url": "https://www.bbc.com/news/articles/cx2vpz1kwreo?at_medium=RSS&at_campaign=rss",
+      "summary": "The operation to extract him from the ground in hostile territory was hugely complex and involved multiple US government agencies.",
+      "published_at": "2026-04-05T20:00:20Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC US & Canada",
       "title": "How downed F-15 US airman was rescued inside Iran",
       "url": "https://www.bbc.com/news/articles/cm2k1dgz142o?at_medium=RSS&at_campaign=rss",
       "summary": "The US has rescued the missing crew member of the US F-15 fighter jet which was shot down over southern Iran.",
@@ -11,7 +29,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "Seriously wounded US airman rescued from Iran, Trump says",
       "url": "https://www.bbc.com/news/articles/cr41evk126go?at_medium=RSS&at_campaign=rss",
       "summary": "The recovery of the airman follows separate search efforts by both the US and Iran.",
@@ -762,7 +780,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 38
+      "news_count": 40
     },
     {
       "country_code": "IR",
