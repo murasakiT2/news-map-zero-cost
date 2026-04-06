@@ -1,8 +1,26 @@
 {
-  "generated_at": "2026-04-06T23:02:41Z",
+  "generated_at": "2026-04-06T23:55:52Z",
   "articles": [
     {
-      "source": "BBC US & Canada",
+      "source": "BBC Asia",
+      "title": "Trump's Hormuz deadline looms but Asian nations have already struck deals with Iran",
+      "url": "https://www.bbc.com/news/articles/c79jqx1xdy9o?at_medium=RSS&at_campaign=rss",
+      "summary": "Nations in the region have been keen to reach agreements as their economies are heavily reliant on Middle East energy.",
+      "published_at": "2026-04-06T23:34:11Z",
+      "country_code": "IR",
+      "country_name": "Iran"
+    },
+    {
+      "source": "BBC World",
+      "title": "Trump's Hormuz ultimatum nears - with little indication Iran is on board",
+      "url": "https://www.bbc.com/news/articles/czexw94rj5jo?at_medium=RSS&at_campaign=rss",
+      "summary": "The US president is in a delicate political position as the final hours to Tuesday's deadline for Iran to open the Strait of Hormuz tick dow…",
+      "published_at": "2026-04-06T23:04:23Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
       "title": "Trump threatens to take out Iran in 'one night' if no deal before deadline",
       "url": "https://www.bbc.com/news/articles/cqj8ep9w1pno?at_medium=RSS&at_campaign=rss",
       "summary": "The US president wants Tehran to reopen the Strait of Hormuz, a critical global energy route, before his Tuesday deadline.",
@@ -200,7 +218,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "The man who became one of India's greatest stage queens",
       "url": "https://www.bbc.com/news/articles/cd0rl52z3dzo?at_medium=RSS&at_campaign=rss",
       "summary": "Chapal Bhaduri was Bengal’s biggest stage queen - until women arrived and the spotlight moved on.",
@@ -288,15 +306,6 @@
       "published_at": "2026-04-03T20:06:47Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC Asia",
-      "title": "Unanswered questions remain after Australia's most wanted fugitive killed in standoff",
-      "url": "https://www.bbc.com/news/articles/cg7358zzz0no?at_medium=RSS&at_campaign=rss",
-      "summary": "Double-murderer Dezi Freeman evaded capture for seven months in the bush but police believe he had help.",
-      "published_at": "2026-04-03T19:19:02Z",
-      "country_code": "AU",
-      "country_name": "Australia"
     },
     {
       "source": "BBC Europe",
@@ -798,12 +807,12 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 40
+      "news_count": 41
     },
     {
       "country_code": "IR",
       "country_name": "Iran",
-      "news_count": 8
+      "news_count": 9
     },
     {
       "country_code": "IN",
@@ -859,11 +868,6 @@
       "country_code": "PS",
       "country_name": "Palestine",
       "news_count": 2
-    },
-    {
-      "country_code": "AU",
-      "country_name": "Australia",
-      "news_count": 1
     },
     {
       "country_code": "CA",
