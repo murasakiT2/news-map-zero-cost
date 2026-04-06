@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-04-06T15:09:56Z",
+  "generated_at": "2026-04-06T16:04:51Z",
   "articles": [
+    {
+      "source": "BBC Middle East",
+      "title": "'We're sinking deeper': Iranians brace for infrastructure strikes as Trump deadline nears",
+      "url": "https://www.bbc.com/news/articles/cvgl0ng8z0do?at_medium=RSS&at_campaign=rss",
+      "summary": "Ordinary Iranians respond to the US president's threat to destroy Iran's power plants and bridges unless it opens the Strait of Hormuz.",
+      "published_at": "2026-04-06T15:40:35Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "DR Congo agrees to take deportees from the US",
@@ -137,7 +146,7 @@
       "country_name": "India"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "US says it has arrested relatives of late Iranian ​general Qasem ​Soleimani",
       "url": "https://www.bbc.com/news/articles/cgqkn4j48qdo?at_medium=RSS&at_campaign=rss",
       "summary": "The niece and grand-niece of Qasem Soleimani are in the custody of US Immigration and Customs Enforcement, officials said.",
@@ -146,22 +155,13 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "Russian attack on Ukraine market kills five",
       "url": "https://www.bbc.com/news/articles/cp869m2gzr0o?at_medium=RSS&at_campaign=rss",
       "summary": "A Russian drone hit a busy spot in the southern Ukrainian town on Saturday morning, injuring another 21 people.",
       "published_at": "2026-04-04T18:54:53Z",
       "country_code": "UA",
       "country_name": "Ukraine"
-    },
-    {
-      "source": "BBC World",
-      "title": "Australians told to continue Easter travel plans despite fuel shortages",
-      "url": "https://www.bbc.com/news/articles/c62l084kgk6o?at_medium=RSS&at_campaign=rss",
-      "summary": "Hundreds of petrol stations across Australia have run out of fuel as the Iran war disrupts global oil shipments and pushes up prices.",
-      "published_at": "2026-04-04T12:10:10Z",
-      "country_code": "AU",
-      "country_name": "Australia"
     },
     {
       "source": "BBC World",
@@ -333,15 +333,6 @@
       "published_at": "2026-04-02T18:29:14Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC Middle East",
-      "title": "'I haven't slept for days': Iranians describe mounting desperation after a month of war",
-      "url": "https://www.bbc.com/news/articles/crm1vj941x9o?at_medium=RSS&at_campaign=rss",
-      "summary": "Ordinary people from various parts of Iran describe expanding strikes, economic pain and fear of repression.",
-      "published_at": "2026-04-02T16:09:24Z",
-      "country_code": "IR",
-      "country_name": "Iran"
     },
     {
       "source": "BBC Middle East",
@@ -753,12 +744,12 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 38
+      "news_count": 39
     },
     {
       "country_code": "IR",
       "country_name": "Iran",
-      "news_count": 9
+      "news_count": 8
     },
     {
       "country_code": "KE",
@@ -779,11 +770,6 @@
       "country_code": "UA",
       "country_name": "Ukraine",
       "news_count": 3
-    },
-    {
-      "country_code": "AU",
-      "country_name": "Australia",
-      "news_count": 2
     },
     {
       "country_code": "BD",
@@ -809,6 +795,11 @@
       "country_code": "IT",
       "country_name": "Italy",
       "news_count": 2
+    },
+    {
+      "country_code": "AU",
+      "country_name": "Australia",
+      "news_count": 1
     },
     {
       "country_code": "CA",
