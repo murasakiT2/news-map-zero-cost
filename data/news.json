@@ -1,8 +1,44 @@
 {
-  "generated_at": "2026-04-06T18:09:02Z",
+  "generated_at": "2026-04-06T19:33:50Z",
   "articles": [
     {
-      "source": "BBC US & Canada",
+      "source": "BBC World",
+      "title": "Kanye West's right to enter UK under review after festival outcry",
+      "url": "https://www.bbc.com/news/articles/cwywnkdn3zno?at_medium=RSS&at_campaign=rss",
+      "summary": "The rapper's appearance in London in July has caused controversy because of his past antisemitic comments.",
+      "published_at": "2026-04-06T19:29:02Z",
+      "country_code": "GB",
+      "country_name": "United Kingdom"
+    },
+    {
+      "source": "BBC World",
+      "title": "Ten killed in Israeli strikes and clashes between Hamas and militia in Gaza, local sources say",
+      "url": "https://www.bbc.com/news/articles/c77md512n71o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Israeli strikes reportedly targeted Hamas security personnel after they clashed with an Israeli-backed militia near Maghazi camp.",
+      "published_at": "2026-04-06T19:11:20Z",
+      "country_code": "PS",
+      "country_name": "Palestine"
+    },
+    {
+      "source": "BBC World",
+      "title": "Trump endorses ex-UK political aide Steve Hilton for California governor",
+      "url": "https://www.bbc.com/news/articles/c0mj4jeyvmzo?at_medium=RSS&at_campaign=rss",
+      "summary": "Steve Hilton, who advised the former prime minster and hosted a Fox News show, is running as a Republican.",
+      "published_at": "2026-04-06T18:55:45Z",
+      "country_code": "GB",
+      "country_name": "United Kingdom"
+    },
+    {
+      "source": "BBC World",
+      "title": "How rescue of US airman in remote part of Iran unfolded",
+      "url": "https://www.bbc.com/news/articles/cx2vpz1kwreo?at_medium=RSS&at_campaign=rss",
+      "summary": "The operation to extract him from the ground in hostile territory was hugely complex and involved multiple US government agencies.",
+      "published_at": "2026-04-06T18:29:54Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
       "title": "US Supreme Court paves way for dismissal of Steve Bannon conviction",
       "url": "https://www.bbc.com/news/articles/cgqk4kyj4yvo?at_medium=RSS&at_campaign=rss",
       "summary": "The order allows a lower court to consider dismissing the former Trump strategist's indictment.",
@@ -20,7 +56,7 @@
       "country_name": "Sudan"
     },
     {
-      "source": "BBC Middle East",
+      "source": "BBC World",
       "title": "'We're sinking deeper': Iranians brace for infrastructure strikes as Trump deadline nears",
       "url": "https://www.bbc.com/news/articles/cvgl0ng8z0do?at_medium=RSS&at_campaign=rss",
       "summary": "Ordinary Iranians respond to the US president's threat to destroy Iran's power plants and bridges unless it opens the Strait of Hormuz.",
@@ -34,15 +70,6 @@
       "url": "https://www.bbc.com/news/articles/c20d35eejxgo?at_medium=RSS&at_campaign=rss",
       "summary": "The country will start receiving deportees from this month but has not said how many they will accept.",
       "published_at": "2026-04-06T13:25:37Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "How rescue of US airman in remote part of Iran unfolded",
-      "url": "https://www.bbc.com/news/articles/cx2vpz1kwreo?at_medium=RSS&at_campaign=rss",
-      "summary": "The operation to extract him from the ground in hostile territory was hugely complex and involved multiple US government agencies.",
-      "published_at": "2026-04-06T12:22:21Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -74,7 +101,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "Trump declares victory after rescue but threats to US operation in Iran still loom",
       "url": "https://www.bbc.com/news/articles/cy01vg7x5ppo?at_medium=RSS&at_campaign=rss",
       "summary": "The rescue could impact how Trump views a ground operation to take Kharg Island or to seize enriched uranium sites.",
@@ -801,8 +828,18 @@
       "news_count": 2
     },
     {
+      "country_code": "GB",
+      "country_name": "United Kingdom",
+      "news_count": 2
+    },
+    {
       "country_code": "IT",
       "country_name": "Italy",
+      "news_count": 2
+    },
+    {
+      "country_code": "PS",
+      "country_name": "Palestine",
       "news_count": 2
     },
     {
@@ -853,11 +890,6 @@
     {
       "country_code": "PK",
       "country_name": "Pakistan",
-      "news_count": 1
-    },
-    {
-      "country_code": "PS",
-      "country_name": "Palestine",
       "news_count": 1
     },
     {
