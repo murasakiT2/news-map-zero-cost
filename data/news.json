@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-04-06T16:04:51Z",
+  "generated_at": "2026-04-06T17:11:03Z",
   "articles": [
+    {
+      "source": "BBC Africa",
+      "title": "Churches and politicians in South Sudan call for 'lasting peace' in Easter messages",
+      "url": "https://www.bbc.com/news/articles/cly9xeq1ey7o?at_medium=RSS&at_campaign=rss",
+      "summary": "There are fears South Sudan may be plunged back into a civil war less than a decade after it ended.",
+      "published_at": "2026-04-06T16:06:09Z",
+      "country_code": "SD",
+      "country_name": "Sudan"
+    },
     {
       "source": "BBC Middle East",
       "title": "'We're sinking deeper': Iranians brace for infrastructure strikes as Trump deadline nears",
@@ -854,6 +863,11 @@
     {
       "country_code": "RU",
       "country_name": "Russia",
+      "news_count": 1
+    },
+    {
+      "country_code": "SD",
+      "country_name": "Sudan",
       "news_count": 1
     }
   ]
