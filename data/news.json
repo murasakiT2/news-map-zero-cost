@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-04-06T10:46:33Z",
+  "generated_at": "2026-04-06T11:40:21Z",
   "articles": [
+    {
+      "source": "BBC Africa",
+      "title": "DR Congo agrees to take deportees from the US",
+      "url": "https://www.bbc.com/news/articles/c20d35eejxgo?at_medium=RSS&at_campaign=rss",
+      "summary": "The country will start receiving deportees from this month but has not said how many they will accept.",
+      "published_at": "2026-04-06T11:29:15Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "Emergency jabs after 100 children die of suspected measles in a month in Bangladesh",
@@ -38,6 +47,15 @@
       "country_name": "United States"
     },
     {
+      "source": "BBC World",
+      "title": "Spain's huge pork industry seeks salvation from swine fever threat",
+      "url": "https://www.bbc.com/news/articles/c2ev3p14kvlo?at_medium=RSS&at_campaign=rss",
+      "summary": "Countries around the world, including the US, have already stopped imports over the outbreak.",
+      "published_at": "2026-04-05T23:19:20Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
       "source": "BBC Asia",
       "title": "How China fell for a lobster: What an AI assistant tells us about Beijing's ambition",
       "url": "https://www.bbc.com/news/articles/cy41n17e23go?at_medium=RSS&at_campaign=rss",
@@ -47,7 +65,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Asia",
+      "source": "BBC World",
       "title": "Two protests, two elections: How Nepal's Gen Z succeeded where Bangladesh's stumbled",
       "url": "https://www.bbc.com/news/articles/cz673y3qqjlo?at_medium=RSS&at_campaign=rss",
       "summary": "How did a youth movement triumph in one country but fall so short in another?",
@@ -173,7 +191,7 @@
       "country_name": "Peru"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "How Canada's largest gun control effort in decades is missing the mark",
       "url": "https://www.bbc.com/news/articles/cvg09dq4x5qo?at_medium=RSS&at_campaign=rss",
       "summary": "Canada recently banned 2,500 models of \"assault-style\" firearms - but a plan to buy-back tens of thousands of guns fell short by half.",
@@ -182,7 +200,7 @@
       "country_name": "Canada"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Africa",
       "title": "'We want a voice in our land' - the people evicted to build Nigeria's capital",
       "url": "https://www.bbc.com/news/articles/clyggr00x5vo?at_medium=RSS&at_campaign=rss",
       "summary": "People evicted to build Nigeria's capital accuse the government of failing to fulfill its promises to them.",
@@ -218,15 +236,6 @@
       "country_name": "Australia"
     },
     {
-      "source": "BBC Africa",
-      "title": "US deports eight people 'of African origin' to Uganda",
-      "url": "https://www.bbc.com/news/articles/c8ej43z8yw4o?at_medium=RSS&at_campaign=rss",
-      "summary": "The Uganda Law Society criticises the deportation, saying it was illegal and \"dehumanising\".",
-      "published_at": "2026-04-03T16:22:45Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC US & Canada",
       "title": "Trump seeks $1.5tn for defence alongside domestic spending cuts",
       "url": "https://www.bbc.com/news/articles/crr1q4kjvn2o?at_medium=RSS&at_campaign=rss",
@@ -243,15 +252,6 @@
       "published_at": "2026-04-03T15:04:39Z",
       "country_code": "IT",
       "country_name": "Italy"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "US jobs surge unexpectedly in March despite Iran war",
-      "url": "https://www.bbc.com/news/articles/crk165g4vv3o?at_medium=RSS&at_campaign=rss",
-      "summary": "Employers added 178,000 jobs, far more than had expected, the Labor Department says.",
-      "published_at": "2026-04-03T13:35:11Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC Middle East",
@@ -272,7 +272,7 @@
       "country_name": "France"
     },
     {
-      "source": "BBC US & Canada",
+      "source": "BBC Middle East",
       "title": "International law experts allege violations in Iran war",
       "url": "https://www.bbc.com/news/articles/cy91x2n29nlo?at_medium=RSS&at_campaign=rss",
       "summary": "The White House says it is making the entire region safer by eliminating short and long-term threats.",
