@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-04-06T09:45:38Z",
+  "generated_at": "2026-04-06T10:46:33Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Emergency jabs after 100 children die of suspected measles in a month in Bangladesh",
+      "url": "https://www.bbc.com/news/articles/cevkz2z7dm8o?at_medium=RSS&at_campaign=rss",
+      "summary": "More than 100 people, mostly children, have been killed by measles since mid-March, officials suspect.",
+      "published_at": "2026-04-06T09:59:40Z",
+      "country_code": "BD",
+      "country_name": "Bangladesh"
+    },
     {
       "source": "BBC US & Canada",
       "title": "Trump issues expletive-laden threat to Iran over Hormuz Strait blockage",
@@ -11,7 +20,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC US & Canada",
+      "source": "BBC World",
       "title": "US Secret Service investigates reports of gunfire near White House",
       "url": "https://www.bbc.com/news/articles/cge0213dyj5o?at_medium=RSS&at_campaign=rss",
       "summary": "Officials said \"a heightened security posture is in place\", but no injuries were reported and no suspects had been identified.",
@@ -81,6 +90,15 @@
       "published_at": "2026-04-05T21:19:02Z",
       "country_code": "US",
       "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Hungary alleges plot to blow up gas pipeline ahead of election",
+      "url": "https://www.bbc.com/news/articles/cj60x206dx1o?at_medium=RSS&at_campaign=rss",
+      "summary": "It comes a week before votes are cast and follows warnings of so-called false flag operations blamed on Ukraine.",
+      "published_at": "2026-04-05T19:17:42Z",
+      "country_code": "UA",
+      "country_name": "Ukraine"
     },
     {
       "source": "BBC US & Canada",
@@ -182,7 +200,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC US & Canada",
+      "source": "BBC Middle East",
       "title": "US warns its citizens to leave Lebanon citing escalating security risks",
       "url": "https://www.bbc.com/news/articles/c93e9r62py4o?at_medium=RSS&at_campaign=rss",
       "summary": "The advisory follows recent military developments, including a US jet reportedly being shot down and Israeli strikes on parts of Beirut.",
@@ -200,7 +218,7 @@
       "country_name": "Australia"
     },
     {
-      "source": "BBC US & Canada",
+      "source": "BBC Africa",
       "title": "US deports eight people 'of African origin' to Uganda",
       "url": "https://www.bbc.com/news/articles/c8ej43z8yw4o?at_medium=RSS&at_campaign=rss",
       "summary": "The Uganda Law Society criticises the deportation, saying it was illegal and \"dehumanising\".",
@@ -241,15 +259,6 @@
       "url": "https://www.bbc.com/news/articles/c4gx8e1x5j3o?at_medium=RSS&at_campaign=rss",
       "summary": "Six weapons experts have contested the US claim that video evidence suggests an Iranian missile could have hit the hall.",
       "published_at": "2026-04-03T13:16:33Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "Hegseth asks US Army's top general to step down",
-      "url": "https://www.bbc.com/news/articles/cn8d63v058zo?at_medium=RSS&at_campaign=rss",
-      "summary": "Gen Randy George was nominated for the role in 2023 by former President Joe Biden.",
-      "published_at": "2026-04-03T13:03:57Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -295,15 +304,6 @@
       "url": "https://www.bbc.com/news/articles/cp86mrj40e2o?at_medium=RSS&at_campaign=rss",
       "summary": "President Trump has warned Iran of strikes on bridges and electric power plants if its leaders do not agree to his terms to end the war.",
       "published_at": "2026-04-03T10:35:55Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "'Trust us, you look amazing': Artemis II astronauts speak from space",
-      "url": "https://www.bbc.com/news/videos/crl10127elgo?at_medium=RSS&at_campaign=rss",
-      "summary": "The crew on board the Artemis II spoke by video link, sharing messages for their families and experiences of the trip so far.",
-      "published_at": "2026-04-03T07:07:48Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -753,7 +753,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 40
+      "news_count": 38
     },
     {
       "country_code": "IR",
@@ -776,8 +776,18 @@
       "news_count": 3
     },
     {
+      "country_code": "UA",
+      "country_name": "Ukraine",
+      "news_count": 3
+    },
+    {
       "country_code": "AU",
       "country_name": "Australia",
+      "news_count": 2
+    },
+    {
+      "country_code": "BD",
+      "country_name": "Bangladesh",
       "news_count": 2
     },
     {
@@ -799,16 +809,6 @@
       "country_code": "IT",
       "country_name": "Italy",
       "news_count": 2
-    },
-    {
-      "country_code": "UA",
-      "country_name": "Ukraine",
-      "news_count": 2
-    },
-    {
-      "country_code": "BD",
-      "country_name": "Bangladesh",
-      "news_count": 1
     },
     {
       "country_code": "CA",
