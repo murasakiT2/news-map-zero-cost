@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-04-07T21:34:25Z",
+  "generated_at": "2026-04-07T22:28:32Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Indian migrant workers hit by cooking gas shortages are leaving cities",
+      "url": "https://www.bbc.com/news/articles/c20d10980e9o?at_medium=RSS&at_campaign=rss",
+      "summary": "Migrant workers say they are struggling to access cooking gas cylinders as the Iran war squeezes supplies.",
+      "published_at": "2026-04-07T21:02:07Z",
+      "country_code": "IR",
+      "country_name": "Iran"
+    },
     {
       "source": "BBC World",
       "title": "What the US military could do if Iran fails to meet Trump's ultimatum",
@@ -263,7 +272,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Middle East",
       "title": "How rescue of US airman in remote part of Iran unfolded",
       "url": "https://www.bbc.com/news/articles/cx2vpz1kwreo?at_medium=RSS&at_campaign=rss",
       "summary": "The operation to extract him from the ground in hostile territory was hugely complex and involved multiple US government agencies.",
@@ -785,7 +794,7 @@
     {
       "country_code": "IR",
       "country_name": "Iran",
-      "news_count": 6
+      "news_count": 7
     },
     {
       "country_code": "IN",
