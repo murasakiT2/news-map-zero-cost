@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-04-07T08:41:33Z",
+  "generated_at": "2026-04-07T09:58:14Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "JD Vance arrives in Hungary to back Orbán's re-election bid",
+      "url": "https://www.bbc.com/news/articles/cyv16lq2rp1o?at_medium=RSS&at_campaign=rss",
+      "summary": "The US vice-president's visit is the latest show of White House support for the Hungarian leader.",
+      "published_at": "2026-04-07T09:55:07Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "Taiwan opposition leader visits China for expected meeting with Xi Jinping",
@@ -43,15 +52,6 @@
       "url": "https://www.bbc.com/news/articles/c145enxln0go?at_medium=RSS&at_campaign=rss",
       "summary": "Both sides don't want to let their rival dominate. And the competition may yet be transformed further.",
       "published_at": "2026-04-07T05:13:12Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "JD Vance due in Hungary to back Orban's re-election bid",
-      "url": "https://www.bbc.com/news/articles/cyv16lq2rp1o?at_medium=RSS&at_campaign=rss",
-      "summary": "The US vice-president's visit is the latest show of White House support for the Hungarian leader.",
-      "published_at": "2026-04-07T01:45:41Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -399,6 +399,15 @@
     },
     {
       "source": "BBC Middle East",
+      "title": "'I haven't slept for days': Iranians describe mounting desperation after a month of war",
+      "url": "https://www.bbc.com/news/articles/crm1vj941x9o?at_medium=RSS&at_campaign=rss",
+      "summary": "Ordinary people from various parts of Iran describe expanding strikes, economic pain and fear of repression.",
+      "published_at": "2026-04-02T16:09:24Z",
+      "country_code": "IR",
+      "country_name": "Iran"
+    },
+    {
+      "source": "BBC Middle East",
       "title": "Iran's focus on survival means same regime still firmly in place",
       "url": "https://www.bbc.com/news/articles/cq8wzyz998xo?at_medium=RSS&at_campaign=rss",
       "summary": "Tehran is showing resilience despite Trump's claims of regime change, writes BBC Persian editor Amir Azimi.",
@@ -641,15 +650,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Middle East",
-      "title": "A committed pharmacist and a homesick blogger – the Iranian civilians killed in the war",
-      "url": "https://www.bbc.com/news/articles/c3v6ld7lv9no?at_medium=RSS&at_campaign=rss",
-      "summary": "The toll on civilians is mounting fast as the US-Israeli war on Iran continues.",
-      "published_at": "2026-03-23T18:31:26Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC Europe",
       "title": "I didn't know Epstein was a predator - Norway's crown princess",
       "url": "https://www.bbc.com/news/videos/c78l5x0zl0wo?at_medium=RSS&at_campaign=rss",
@@ -744,12 +744,12 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 38
+      "news_count": 37
     },
     {
       "country_code": "IR",
       "country_name": "Iran",
-      "news_count": 8
+      "news_count": 9
     },
     {
       "country_code": "IN",
