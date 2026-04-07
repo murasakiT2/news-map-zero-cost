@@ -1,14 +1,32 @@
 {
-  "generated_at": "2026-04-07T11:45:07Z",
+  "generated_at": "2026-04-07T12:56:19Z",
   "articles": [
     {
       "source": "BBC World",
       "title": "One dead as train travelling 99mph collides with lorry in France",
       "url": "https://www.bbc.com/news/articles/cq590egv9vzo?at_medium=RSS&at_campaign=rss",
-      "summary": "The lorry driver is in custody after the train driver died during the collision in north-western France.",
-      "published_at": "2026-04-07T11:36:23Z",
+      "summary": "The lorry driver is in custody after the train driver died during the collision in northern France.",
+      "published_at": "2026-04-07T12:31:01Z",
       "country_code": "FR",
       "country_name": "France"
+    },
+    {
+      "source": "BBC World",
+      "title": "Chilean woman accused of Pinochet-era kidnaps loses Australia extradition battle",
+      "url": "https://www.bbc.com/news/articles/c8r40d4xdngo?at_medium=RSS&at_campaign=rss",
+      "summary": "Adriana Rivas moved from Chile to Australia in the 1970s, working there as a nanny and cleaner.",
+      "published_at": "2026-04-07T12:19:46Z",
+      "country_code": "AU",
+      "country_name": "Australia"
+    },
+    {
+      "source": "BBC Latin America",
+      "title": "Chilean woman accused of Pinochet-era kidnaps loses extradition battle",
+      "url": "https://www.bbc.com/news/articles/c8r40d4xdngo?at_medium=RSS&at_campaign=rss",
+      "summary": "Adriana Rivas moved from Chile to Australia in the 1970s, working there as a nanny and cleaner.",
+      "published_at": "2026-04-07T12:19:46Z",
+      "country_code": "AU",
+      "country_name": "Australia"
     },
     {
       "source": "BBC Asia",
@@ -780,6 +798,11 @@
       "news_count": 4
     },
     {
+      "country_code": "AU",
+      "country_name": "Australia",
+      "news_count": 3
+    },
+    {
       "country_code": "NG",
       "country_name": "Nigeria",
       "news_count": 3
@@ -813,11 +836,6 @@
       "country_code": "UA",
       "country_name": "Ukraine",
       "news_count": 2
-    },
-    {
-      "country_code": "AU",
-      "country_name": "Australia",
-      "news_count": 1
     },
     {
       "country_code": "BD",
