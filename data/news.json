@@ -1,23 +1,41 @@
 {
-  "generated_at": "2026-04-07T10:53:09Z",
+  "generated_at": "2026-04-07T11:45:07Z",
   "articles": [
     {
       "source": "BBC World",
-      "title": "One dead as high-speed train collides with lorry in France",
+      "title": "One dead as train travelling 99mph collides with lorry in France",
       "url": "https://www.bbc.com/news/articles/cq590egv9vzo?at_medium=RSS&at_campaign=rss",
-      "summary": "More than a dozen people are injured, two of whom critically, in the incident in the Calais region.",
-      "published_at": "2026-04-07T10:18:36Z",
+      "summary": "The lorry driver is in custody after the train driver died during the collision in north-western France.",
+      "published_at": "2026-04-07T11:36:23Z",
       "country_code": "FR",
       "country_name": "France"
+    },
+    {
+      "source": "BBC Asia",
+      "title": "Vietnam's leader To Lam strengthens power in unanimous assembly vote",
+      "url": "https://www.bbc.com/news/articles/ckgwkmn1rzxo?at_medium=RSS&at_campaign=rss",
+      "summary": "Vietnam's communist party chief is now also the country's president - an unusual concentration of power.",
+      "published_at": "2026-04-07T10:59:53Z",
+      "country_code": "VN",
+      "country_name": "Vietnam"
     },
     {
       "source": "BBC World",
       "title": "JD Vance arrives in Hungary to back Orbán's re-election bid",
       "url": "https://www.bbc.com/news/articles/cyv16lq2rp1o?at_medium=RSS&at_campaign=rss",
       "summary": "The US vice-president's visit is the latest show of White House support for the Hungarian leader.",
-      "published_at": "2026-04-07T09:55:07Z",
+      "published_at": "2026-04-07T10:57:44Z",
       "country_code": "US",
       "country_name": "United States"
+    },
+    {
+      "source": "BBC Asia",
+      "title": "Air India CEO steps down early as losses mount",
+      "url": "https://www.bbc.com/news/articles/cvg49gq9y16o?at_medium=RSS&at_campaign=rss",
+      "summary": "Wilson, whose term was set to end in 2027, will remain CEO and MD until a successor is appointed.",
+      "published_at": "2026-04-07T10:10:51Z",
+      "country_code": "IN",
+      "country_name": "India"
     },
     {
       "source": "BBC World",
@@ -515,15 +533,6 @@
       "country_name": "China"
     },
     {
-      "source": "BBC Asia",
-      "title": "'Felt close to death': Indian seafarers detained in Iran return home",
-      "url": "https://www.bbc.com/news/articles/cvgkn9379pqo?at_medium=RSS&at_campaign=rss",
-      "summary": "The crew members, whose ship was seized in December, got their release order a day before the war began.",
-      "published_at": "2026-04-01T06:15:42Z",
-      "country_code": "IR",
-      "country_name": "Iran"
-    },
-    {
       "source": "BBC Middle East",
       "title": "'You're no longer my sister' - rows erupt as war divides Iranian families",
       "url": "https://www.bbc.com/news/articles/ce9mvzpvr7xo?at_medium=RSS&at_campaign=rss",
@@ -758,12 +767,12 @@
     {
       "country_code": "IR",
       "country_name": "Iran",
-      "news_count": 9
+      "news_count": 8
     },
     {
       "country_code": "IN",
       "country_name": "India",
-      "news_count": 4
+      "news_count": 5
     },
     {
       "country_code": "KE",
@@ -873,6 +882,11 @@
     {
       "country_code": "SD",
       "country_name": "Sudan",
+      "news_count": 1
+    },
+    {
+      "country_code": "VN",
+      "country_name": "Vietnam",
       "news_count": 1
     }
   ]
