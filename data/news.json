@@ -1,14 +1,41 @@
 {
-  "generated_at": "2026-04-07T18:47:33Z",
+  "generated_at": "2026-04-07T19:50:32Z",
   "articles": [
     {
       "source": "BBC World",
       "title": "Wireless Festival cancelled after Kanye West blocked from coming to UK",
       "url": "https://www.bbc.com/news/articles/c4gxk3kxjr0o?at_medium=RSS&at_campaign=rss",
       "summary": "West was due to headline the festival in July but drew criticism over past antisemitic comments.",
-      "published_at": "2026-04-07T18:37:19Z",
+      "published_at": "2026-04-07T19:40:05Z",
       "country_code": "GB",
       "country_name": "United Kingdom"
+    },
+    {
+      "source": "BBC World",
+      "title": "Iranians form human chains at bridges and power plants",
+      "url": "https://www.bbc.com/news/videos/c4g5j33p6vno?at_medium=RSS&at_campaign=rss",
+      "summary": "Tehran had urged people to gather outside potential US and Israeli targets after Donald Trump threatened to attack civilian infrastructure.",
+      "published_at": "2026-04-07T19:36:03Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "Bill Gates set to testify before US Congress in Epstein investigation",
+      "url": "https://www.bbc.com/news/articles/cx2vdekdweqo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Microsoft co-founder is the latest high-profile figure to agree to testify before the committee investigating Epstein's wrongdoing.",
+      "published_at": "2026-04-07T18:40:52Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "Georgia holds run-off election to replace Marjorie Taylor Greene",
+      "url": "https://www.bbc.com/news/articles/c9qd143w9l3o?at_medium=RSS&at_campaign=rss",
+      "summary": "Greene left Congress earlier this year after a dramatic split with US President Donald Trump.",
+      "published_at": "2026-04-07T18:24:09Z",
+      "country_code": "US",
+      "country_name": "United States"
     },
     {
       "source": "BBC World",
@@ -25,6 +52,15 @@
       "url": "https://www.bbc.com/news/articles/crm1xjp08k3o?at_medium=RSS&at_campaign=rss",
       "summary": "Kataib Hezbollah says the release comes on condition that she leave Iraq immediately.",
       "published_at": "2026-04-07T17:50:17Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "What the US military could do if Iran fails to meet Trump's ultimatum",
+      "url": "https://www.bbc.com/news/articles/c98kn1zlxr1o?at_medium=RSS&at_campaign=rss",
+      "summary": "The US can do a lot of damage to civilian infrastructure but military experts say it's not feasible to carry out all Trump's threats.",
+      "published_at": "2026-04-07T17:42:17Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -209,7 +245,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC US & Canada",
+      "source": "BBC Middle East",
       "title": "Trump threatens to take out Iran in 'one night' if no deal before deadline",
       "url": "https://www.bbc.com/news/articles/cqj8ep9w1pno?at_medium=RSS&at_campaign=rss",
       "summary": "The US president wants Tehran to reopen the Strait of Hormuz, a critical global energy route, before his Tuesday deadline.",
@@ -243,24 +279,6 @@
       "published_at": "2026-04-06T19:11:20Z",
       "country_code": "PS",
       "country_name": "Palestine"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "Trump endorses ex-UK political aide Steve Hilton for California governor",
-      "url": "https://www.bbc.com/news/articles/c0mj4jeyvmzo?at_medium=RSS&at_campaign=rss",
-      "summary": "Steve Hilton, who advised the former prime minster and hosted a Fox News show, is running as a Republican.",
-      "published_at": "2026-04-06T18:55:45Z",
-      "country_code": "GB",
-      "country_name": "United Kingdom"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "US Supreme Court paves way for dismissal of Steve Bannon conviction",
-      "url": "https://www.bbc.com/news/articles/cgqk4kyj4yvo?at_medium=RSS&at_campaign=rss",
-      "summary": "The order allows a lower court to consider dismissing the former Trump strategist's indictment.",
-      "published_at": "2026-04-06T16:43:14Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC Africa",
@@ -825,7 +843,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 36
+      "news_count": 39
     },
     {
       "country_code": "IR",
@@ -883,11 +901,6 @@
       "news_count": 2
     },
     {
-      "country_code": "GB",
-      "country_name": "United Kingdom",
-      "news_count": 2
-    },
-    {
       "country_code": "PS",
       "country_name": "Palestine",
       "news_count": 2
@@ -910,6 +923,11 @@
     {
       "country_code": "DE",
       "country_name": "Germany",
+      "news_count": 1
+    },
+    {
+      "country_code": "GB",
+      "country_name": "United Kingdom",
       "news_count": 1
     },
     {
