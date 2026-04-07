@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-04-07T09:58:14Z",
+  "generated_at": "2026-04-07T10:53:09Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "One dead as high-speed train collides with lorry in France",
+      "url": "https://www.bbc.com/news/articles/cq590egv9vzo?at_medium=RSS&at_campaign=rss",
+      "summary": "More than a dozen people are injured, two of whom critically, in the incident in the Calais region.",
+      "published_at": "2026-04-07T10:18:36Z",
+      "country_code": "FR",
+      "country_name": "France"
+    },
     {
       "source": "BBC World",
       "title": "JD Vance arrives in Hungary to back Orbán's re-election bid",
@@ -164,7 +173,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "Emergency jabs after 100 children die of suspected measles in a month in Bangladesh",
       "url": "https://www.bbc.com/news/articles/cevkz2z7dm8o?at_medium=RSS&at_campaign=rss",
       "summary": "More than 100 people, mostly children, have been killed by measles since mid-March, officials suspect.",
@@ -782,6 +791,11 @@
       "news_count": 2
     },
     {
+      "country_code": "FR",
+      "country_name": "France",
+      "news_count": 2
+    },
+    {
       "country_code": "PS",
       "country_name": "Palestine",
       "news_count": 2
@@ -814,11 +828,6 @@
     {
       "country_code": "ET",
       "country_name": "Ethiopia",
-      "news_count": 1
-    },
-    {
-      "country_code": "FR",
-      "country_name": "France",
       "news_count": 1
     },
     {
