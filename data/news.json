@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-04-07T01:29:21Z",
+  "generated_at": "2026-04-07T04:14:27Z",
   "articles": [
+    {
+      "source": "BBC Asia",
+      "title": "Australia's most-decorated living soldier arrested over alleged war crimes",
+      "url": "https://www.bbc.com/news/articles/crr1jyk0qwjo?at_medium=RSS&at_campaign=rss",
+      "summary": "Ben Roberts-Smith, who denies all wrongdoing, previously lost a landmark defamation case over the alleged murders.",
+      "published_at": "2026-04-07T04:05:07Z",
+      "country_code": "AU",
+      "country_name": "Australia"
+    },
+    {
+      "source": "BBC Asia",
+      "title": "India's high-growth economy gets a Middle East oil shock",
+      "url": "https://www.bbc.com/news/articles/cn43wllgn4vo?at_medium=RSS&at_campaign=rss",
+      "summary": "India's currency, stocks and growth projections take a beating as the country faces a triple energy shock due to Iran war.",
+      "published_at": "2026-04-07T01:21:36Z",
+      "country_code": "IN",
+      "country_name": "India"
+    },
     {
       "source": "BBC Asia",
       "title": "Trump's Hormuz deadline looms but Asian nations have already struck deals with Iran",
@@ -12,7 +30,7 @@
     },
     {
       "source": "BBC World",
-      "title": "Trump's Hormuz ultimatum nears - with little indication Iran is on board",
+      "title": "Clock ticks on Trump's Iran ultimatum with little sign of breakthrough",
       "url": "https://www.bbc.com/news/articles/czexw94rj5jo?at_medium=RSS&at_campaign=rss",
       "summary": "The US president is in a delicate political position as the final hours to Tuesday's deadline for Iran to open the Strait of Hormuz tick dow…",
       "published_at": "2026-04-06T23:04:23Z",
@@ -173,15 +191,6 @@
       "country_name": "Bangladesh"
     },
     {
-      "source": "BBC Asia",
-      "title": "You can hire house help in 15 minutes in India - is it fair?",
-      "url": "https://www.bbc.com/news/articles/c98megy6r1mo?at_medium=RSS&at_campaign=rss",
-      "summary": "Instant house help brings speed and structure, but workers face tighter control and rising pressure in their jobs.",
-      "published_at": "2026-04-05T22:01:45Z",
-      "country_code": "IN",
-      "country_name": "India"
-    },
-    {
       "source": "BBC World",
       "title": "'We are at the edge of a battlefield': BBC reports near Strait of Hormuz",
       "url": "https://www.bbc.com/news/videos/c3r3vw4j38do?at_medium=RSS&at_campaign=rss",
@@ -216,15 +225,6 @@
       "published_at": "2026-04-05T17:15:34Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC Asia",
-      "title": "The man who became one of India's greatest stage queens",
-      "url": "https://www.bbc.com/news/articles/cd0rl52z3dzo?at_medium=RSS&at_campaign=rss",
-      "summary": "Chapal Bhaduri was Bengal’s biggest stage queen - until women arrived and the spotlight moved on.",
-      "published_at": "2026-04-04T22:20:51Z",
-      "country_code": "IN",
-      "country_name": "India"
     },
     {
       "source": "BBC US & Canada",
@@ -815,14 +815,14 @@
       "news_count": 9
     },
     {
-      "country_code": "IN",
-      "country_name": "India",
-      "news_count": 4
-    },
-    {
       "country_code": "KE",
       "country_name": "Kenya",
       "news_count": 4
+    },
+    {
+      "country_code": "IN",
+      "country_name": "India",
+      "news_count": 3
     },
     {
       "country_code": "NG",
@@ -868,6 +868,11 @@
       "country_code": "PS",
       "country_name": "Palestine",
       "news_count": 2
+    },
+    {
+      "country_code": "AU",
+      "country_name": "Australia",
+      "news_count": 1
     },
     {
       "country_code": "CA",
