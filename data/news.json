@@ -1,14 +1,41 @@
 {
-  "generated_at": "2026-04-07T04:14:27Z",
+  "generated_at": "2026-04-07T06:00:08Z",
   "articles": [
     {
       "source": "BBC Asia",
       "title": "Australia's most-decorated living soldier arrested over alleged war crimes",
       "url": "https://www.bbc.com/news/articles/crr1jyk0qwjo?at_medium=RSS&at_campaign=rss",
       "summary": "Ben Roberts-Smith, who denies all wrongdoing, previously lost a landmark defamation case over the alleged murders.",
-      "published_at": "2026-04-07T04:05:07Z",
+      "published_at": "2026-04-07T05:53:52Z",
       "country_code": "AU",
       "country_name": "Australia"
+    },
+    {
+      "source": "BBC Asia",
+      "title": "Taiwan opposition leader makes first China visit since 2016",
+      "url": "https://www.bbc.com/news/articles/c0krnz7mmmjo?at_medium=RSS&at_campaign=rss",
+      "summary": "Cheng Li-wun said she \"gladly accepted\" Xi Jinping's invitation and hopes to be a \"bridge for peace\".",
+      "published_at": "2026-04-07T05:21:20Z",
+      "country_code": "CN",
+      "country_name": "China"
+    },
+    {
+      "source": "BBC World",
+      "title": "China is winning one AI race, the US another - but either might pull ahead",
+      "url": "https://www.bbc.com/news/articles/c145enxln0go?at_medium=RSS&at_campaign=rss",
+      "summary": "Both sides don't want to let their rival dominate. And the competition may yet be transformed further.",
+      "published_at": "2026-04-07T05:13:12Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "JD Vance due in Hungary to back Orban's re-election bid",
+      "url": "https://www.bbc.com/news/articles/cyv16lq2rp1o?at_medium=RSS&at_campaign=rss",
+      "summary": "The US vice-president's visit is the latest show of White House support for the Hungarian leader.",
+      "published_at": "2026-04-07T01:45:41Z",
+      "country_code": "US",
+      "country_name": "United States"
     },
     {
       "source": "BBC Asia",
@@ -38,7 +65,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "Trump threatens to take out Iran in 'one night' if no deal before deadline",
       "url": "https://www.bbc.com/news/articles/cqj8ep9w1pno?at_medium=RSS&at_campaign=rss",
       "summary": "The US president wants Tehran to reopen the Strait of Hormuz, a critical global energy route, before his Tuesday deadline.",
@@ -63,15 +90,6 @@
       "published_at": "2026-04-06T21:21:13Z",
       "country_code": "IN",
       "country_name": "India"
-    },
-    {
-      "source": "BBC World",
-      "title": "Kanye West's right to enter UK under review after festival outcry",
-      "url": "https://www.bbc.com/news/articles/cwywnkdn3zno?at_medium=RSS&at_campaign=rss",
-      "summary": "The rapper's appearance in London in July has caused controversy because of his past antisemitic comments.",
-      "published_at": "2026-04-06T19:29:02Z",
-      "country_code": "GB",
-      "country_name": "United Kingdom"
     },
     {
       "source": "BBC World",
@@ -560,7 +578,7 @@
       "country_name": "Ukraine"
     },
     {
-      "source": "BBC Asia",
+      "source": "BBC Middle East",
       "title": "How Pakistan won over Trump to become an unlikely mediator in the Iran war",
       "url": "https://www.bbc.com/news/articles/cy91vrzxn34o?at_medium=RSS&at_campaign=rss",
       "summary": "Pakistan's role as intermediary in this conflict took many by surprise. But perhaps it shouldn't have.",
@@ -807,7 +825,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 41
+      "news_count": 43
     },
     {
       "country_code": "IR",
@@ -845,6 +863,11 @@
       "news_count": 2
     },
     {
+      "country_code": "CN",
+      "country_name": "China",
+      "news_count": 2
+    },
+    {
       "country_code": "DE",
       "country_name": "Germany",
       "news_count": 2
@@ -852,11 +875,6 @@
     {
       "country_code": "FR",
       "country_name": "France",
-      "news_count": 2
-    },
-    {
-      "country_code": "GB",
-      "country_name": "United Kingdom",
       "news_count": 2
     },
     {
@@ -880,11 +898,6 @@
       "news_count": 1
     },
     {
-      "country_code": "CN",
-      "country_name": "China",
-      "news_count": 1
-    },
-    {
       "country_code": "ES",
       "country_name": "Spain",
       "news_count": 1
@@ -892,6 +905,11 @@
     {
       "country_code": "ET",
       "country_name": "Ethiopia",
+      "news_count": 1
+    },
+    {
+      "country_code": "GB",
+      "country_name": "United Kingdom",
       "news_count": 1
     },
     {
