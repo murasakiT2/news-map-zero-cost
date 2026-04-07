@@ -1,14 +1,32 @@
 {
-  "generated_at": "2026-04-07T07:23:27Z",
+  "generated_at": "2026-04-07T08:41:33Z",
   "articles": [
     {
-      "source": "BBC Asia",
+      "source": "BBC World",
+      "title": "Taiwan opposition leader visits China for expected meeting with Xi Jinping",
+      "url": "https://www.bbc.com/news/articles/c0krnz7mmmjo?at_medium=RSS&at_campaign=rss",
+      "summary": "Cheng Li-wun said she \"gladly accepted\" Xi Jinping's invitation and hopes to be a \"bridge for peace\".",
+      "published_at": "2026-04-07T07:29:55Z",
+      "country_code": "CN",
+      "country_name": "China"
+    },
+    {
+      "source": "BBC World",
       "title": "Australia's most-decorated living soldier charged over alleged war crimes",
       "url": "https://www.bbc.com/news/articles/crr1jyk0qwjo?at_medium=RSS&at_campaign=rss",
       "summary": "Ben Roberts-Smith, who denies all wrongdoing, previously lost a landmark defamation case over the alleged murders.",
       "published_at": "2026-04-07T07:19:27Z",
       "country_code": "AU",
       "country_name": "Australia"
+    },
+    {
+      "source": "BBC Asia",
+      "title": "India's top court hears challenges to ruling on women's entry into temple",
+      "url": "https://www.bbc.com/news/articles/c36rkz1wl01o?at_medium=RSS&at_campaign=rss",
+      "summary": "Experts say the court's decision will have far-reaching consequences for women's religious freedoms in India.",
+      "published_at": "2026-04-07T06:55:03Z",
+      "country_code": "IN",
+      "country_name": "India"
     },
     {
       "source": "BBC Europe",
@@ -18,15 +36,6 @@
       "published_at": "2026-04-07T05:40:38Z",
       "country_code": "ES",
       "country_name": "Spain"
-    },
-    {
-      "source": "BBC World",
-      "title": "Taiwan opposition leader makes first China visit since 2016",
-      "url": "https://www.bbc.com/news/articles/c0krnz7mmmjo?at_medium=RSS&at_campaign=rss",
-      "summary": "Cheng Li-wun said she \"gladly accepted\" Xi Jinping's invitation and hopes to be a \"bridge for peace\".",
-      "published_at": "2026-04-07T05:21:20Z",
-      "country_code": "CN",
-      "country_name": "China"
     },
     {
       "source": "BBC World",
@@ -146,7 +155,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Africa",
       "title": "DR Congo agrees to take deportees from the US",
       "url": "https://www.bbc.com/news/articles/c20d35eejxgo?at_medium=RSS&at_campaign=rss",
       "summary": "The country will start receiving deportees from this month but has not said how many they will accept.",
@@ -173,7 +182,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "US Secret Service investigates reports of gunfire near White House",
       "url": "https://www.bbc.com/news/articles/cge0213dyj5o?at_medium=RSS&at_campaign=rss",
       "summary": "Officials said \"a heightened security posture is in place\", but no injuries were reported and no suspects had been identified.",
@@ -182,7 +191,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC US & Canada",
+      "source": "BBC Middle East",
       "title": "Trump declares victory after rescue but threats to US operation in Iran still loom",
       "url": "https://www.bbc.com/news/articles/cy01vg7x5ppo?at_medium=RSS&at_campaign=rss",
       "summary": "The rescue could impact how Trump views a ground operation to take Kharg Island or to seize enriched uranium sites.",
@@ -245,7 +254,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC US & Canada",
+      "source": "BBC Middle East",
       "title": "US says it has arrested relatives of late Iranian ​general Qasem ​Soleimani",
       "url": "https://www.bbc.com/news/articles/cgqkn4j48qdo?at_medium=RSS&at_campaign=rss",
       "summary": "The niece and grand-niece of Qasem Soleimani are in the custody of US Immigration and Customs Enforcement, officials said.",
@@ -353,7 +362,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC US & Canada",
+      "source": "BBC Middle East",
       "title": "When will the Iran war end? Tracing the Trump administration's timelines",
       "url": "https://www.bbc.com/news/articles/c4g4e6z9960o?at_medium=RSS&at_campaign=rss",
       "summary": "Experts say many US presidents have offered a timeline for a conflict - only to then shift their estimates.",
@@ -378,15 +387,6 @@
       "published_at": "2026-04-02T23:16:37Z",
       "country_code": "IN",
       "country_name": "India"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "Why isn't Artemis II landing on the Moon?",
-      "url": "https://www.bbc.com/news/videos/c3w344wyxg5o?at_medium=RSS&at_campaign=rss",
-      "summary": "The US is aiming to be the first country to land humans on the lunar surface again by 2028 - so what's this mission for?",
-      "published_at": "2026-04-02T19:02:15Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC Middle East",
@@ -520,24 +520,6 @@
       "url": "https://www.bbc.com/news/articles/cvglv5v4yvpo?at_medium=RSS&at_campaign=rss",
       "summary": "Seizing the stockpile would be one of the \"most complicated special operations in history\", a former defence official tells the BBC.",
       "published_at": "2026-03-31T23:16:15Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC Asia",
-      "title": "Asia's migrant workers debate if Gulf jobs are worth deadly risk of Iran war",
-      "url": "https://www.bbc.com/news/articles/c0kr8lrpekmo?at_medium=RSS&at_campaign=rss",
-      "summary": "Iran's strikes on Gulf states have been especially hard for migrants who have long supported these economies to lift their families back hom…",
-      "published_at": "2026-03-31T22:48:34Z",
-      "country_code": "IR",
-      "country_name": "Iran"
-    },
-    {
-      "source": "BBC Latin America",
-      "title": "Judge rules Trump unlawfully terminated legal status of migrants who used US entry app",
-      "url": "https://www.bbc.com/news/articles/c4g6rmlp2l5o?at_medium=RSS&at_campaign=rss",
-      "summary": "Thousands of people who entered the US through a Biden-era parole programme using the CBP One entry app will have their status restored.",
-      "published_at": "2026-03-31T20:14:09Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -762,22 +744,22 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 40
+      "news_count": 38
     },
     {
       "country_code": "IR",
       "country_name": "Iran",
-      "news_count": 9
+      "news_count": 8
+    },
+    {
+      "country_code": "IN",
+      "country_name": "India",
+      "news_count": 4
     },
     {
       "country_code": "KE",
       "country_name": "Kenya",
       "news_count": 4
-    },
-    {
-      "country_code": "IN",
-      "country_name": "India",
-      "news_count": 3
     },
     {
       "country_code": "NG",
