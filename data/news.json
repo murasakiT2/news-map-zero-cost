@@ -1,12 +1,21 @@
 {
-  "generated_at": "2026-04-08T19:14:49Z",
+  "generated_at": "2026-04-08T20:06:09Z",
   "articles": [
     {
       "source": "BBC World",
-      "title": "Israel carries out large wave of air strikes across Lebanon",
+      "title": "More than 100 killed in Lebanon as Israel carries out large wave of strikes",
       "url": "https://www.bbc.com/news/articles/c0j6d538l6qo?at_medium=RSS&at_campaign=rss",
-      "summary": "Attacks hit the southern suburbs of Beirut, southern Lebanon and the eastern Bekaa Valley hours after a US-Iran ceasefire was announced.",
-      "published_at": "2026-04-08T17:53:58Z",
+      "summary": "Attacks hit the southern suburbs of Beirut, southern Lebanon and the eastern Bekaa Valley, hours after a US-Iran ceasefire was announced.",
+      "published_at": "2026-04-08T19:50:55Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "JD Vance to lead US team in talks with Iran in Pakistan",
+      "url": "https://www.bbc.com/news/articles/c248ljegn6lo?at_medium=RSS&at_campaign=rss",
+      "summary": "While the US has declared a military victory, the details of the proposals being discussed remain murky.",
+      "published_at": "2026-04-08T19:17:21Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -261,15 +270,6 @@
       "published_at": "2026-04-07T19:18:08Z",
       "country_code": "FR",
       "country_name": "France"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "Bill Gates set to testify before US Congress in Epstein investigation",
-      "url": "https://www.bbc.com/news/articles/cx2vdekdweqo?at_medium=RSS&at_campaign=rss",
-      "summary": "The Microsoft co-founder is the latest high-profile figure to agree to testify before the committee investigating Epstein's wrongdoing.",
-      "published_at": "2026-04-07T18:40:52Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC World",
@@ -756,15 +756,6 @@
       "published_at": "2026-03-12T12:40:13Z",
       "country_code": "NG",
       "country_name": "Nigeria"
-    },
-    {
-      "source": "BBC Africa",
-      "title": "Inside Ethiopia's 'smart' police station",
-      "url": "https://www.bbc.com/news/videos/cz9qqzqkk82o?at_medium=RSS&at_campaign=rss",
-      "summary": "Ethiopia unveils its first unmanned, 'smart' police station where citizens can report crimes on automated touch screens.",
-      "published_at": "2026-03-05T12:29:16Z",
-      "country_code": "ET",
-      "country_name": "Ethiopia"
     }
   ],
   "regions": [
@@ -819,11 +810,6 @@
       "news_count": 2
     },
     {
-      "country_code": "ET",
-      "country_name": "Ethiopia",
-      "news_count": 2
-    },
-    {
       "country_code": "UA",
       "country_name": "Ukraine",
       "news_count": 2
@@ -841,6 +827,11 @@
     {
       "country_code": "CO",
       "country_name": "Colombia",
+      "news_count": 1
+    },
+    {
+      "country_code": "ET",
+      "country_name": "Ethiopia",
       "news_count": 1
     },
     {
