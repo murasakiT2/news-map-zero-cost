@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-04-08T08:55:03Z",
+  "generated_at": "2026-04-08T09:58:59Z",
   "articles": [
+    {
+      "source": "BBC Asia",
+      "title": "British teen dies in reported Vietnam motorbike fall",
+      "url": "https://www.bbc.com/news/articles/c5y9lg10595o?at_medium=RSS&at_campaign=rss",
+      "summary": "Orla Wates is remembered by her mother as \"beautiful, independent and very funny\".",
+      "published_at": "2026-04-08T09:26:28Z",
+      "country_code": "VN",
+      "country_name": "Vietnam"
+    },
     {
       "source": "BBC World",
       "title": "Watch: Iranians gather in Tehran following ceasefire announcement",
@@ -56,16 +65,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Asia",
-      "title": "British teen dies in reported Vietnam motorbike fall",
-      "url": "https://www.bbc.com/news/articles/c5y9lg10595o?at_medium=RSS&at_campaign=rss",
-      "summary": "Orla Wates is remembered by her mother as \"beautiful, independent and very funny\".",
-      "published_at": "2026-04-08T01:15:21Z",
-      "country_code": "VN",
-      "country_name": "Vietnam"
-    },
-    {
-      "source": "BBC Latin America",
+      "source": "BBC World",
       "title": "The US refinery now processing Venezuelan oil",
       "url": "https://www.bbc.com/news/articles/cx24n8eqzgyo?at_medium=RSS&at_campaign=rss",
       "summary": "Chevron is now importing 250,000 barrels of crude per day from Venezuela.",
@@ -74,7 +74,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC US & Canada",
+      "source": "BBC World",
       "title": "Newlywed wife of US soldier freed by ICE after detention at military base",
       "url": "https://www.bbc.com/news/articles/c98kn1k3nreo?at_medium=RSS&at_campaign=rss",
       "summary": "Annie Ramos, an undocumented immigrant who came to the US as a toddler, had gone to the base to complete paperwork so the couple could move …",
@@ -128,7 +128,7 @@
       "country_name": "United Kingdom"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Middle East",
       "title": "Iranians form human chains at bridges and power plants",
       "url": "https://www.bbc.com/news/videos/c4g5j33p6vno?at_medium=RSS&at_campaign=rss",
       "summary": "Tehran had urged people to gather outside potential US and Israeli targets after Donald Trump threatened to attack civilian infrastructure.",
@@ -209,7 +209,7 @@
       "country_name": "Turkey"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Middle East",
       "title": "Mum of twins who says home was bombed in Lebanon speaks to BBC",
       "url": "https://www.bbc.com/news/videos/c5yx8my3724o?at_medium=RSS&at_campaign=rss",
       "summary": "More than one million people in Lebanon have been displaced since the start of the war as Israel expands its ground operation there.",
@@ -441,15 +441,6 @@
       "published_at": "2026-04-05T22:07:40Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "'We are at the edge of a battlefield': BBC reports near Strait of Hormuz",
-      "url": "https://www.bbc.com/news/videos/c3r3vw4j38do?at_medium=RSS&at_campaign=rss",
-      "summary": "The BBC's Orla Guerin travels to the edge of the critical waterway that Iran has put a stranglehold on.",
-      "published_at": "2026-04-05T21:30:19Z",
-      "country_code": "IR",
-      "country_name": "Iran"
     },
     {
       "source": "BBC Europe",
@@ -785,7 +776,7 @@
     {
       "country_code": "IR",
       "country_name": "Iran",
-      "news_count": 6
+      "news_count": 5
     },
     {
       "country_code": "IL",
