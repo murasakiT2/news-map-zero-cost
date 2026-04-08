@@ -1,14 +1,32 @@
 {
-  "generated_at": "2026-04-08T14:29:25Z",
+  "generated_at": "2026-04-08T15:56:40Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Germany suspends military approval for long stays abroad for men under 45",
+      "url": "https://www.bbc.com/news/articles/ckgx103wkl1o?at_medium=RSS&at_campaign=rss",
+      "summary": "The requirement to obtain permission had gone largely unnoticed until a German newspaper reported on it.",
+      "published_at": "2026-04-08T15:21:12Z",
+      "country_code": "DE",
+      "country_name": "Germany"
+    },
     {
       "source": "BBC World",
       "title": "Oil prices plunge and shares jump on US-Iran ceasefire plan",
       "url": "https://www.bbc.com/news/articles/c8r40y3rv75o?at_medium=RSS&at_campaign=rss",
       "summary": "Crude prices tumbled by more than 15% on the conditional pause but remain far higher than before the war.",
-      "published_at": "2026-04-08T14:16:07Z",
+      "published_at": "2026-04-08T15:14:16Z",
       "country_code": "US",
       "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Nigeria begins mass trial of 500 terrorism suspects",
+      "url": "https://www.bbc.com/news/articles/ckg9y95kxyko?at_medium=RSS&at_campaign=rss",
+      "summary": "Very few people are ever prosecuted following terror attacks with suspects often held without trial.",
+      "published_at": "2026-04-08T14:57:25Z",
+      "country_code": "NG",
+      "country_name": "Nigeria"
     },
     {
       "source": "BBC World",
@@ -56,7 +74,7 @@
       "country_name": "Vietnam"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Middle East",
       "title": "Watch: Pro-regime Iranians gather in Tehran",
       "url": "https://www.bbc.com/news/videos/cgldg5nn9d8o?at_medium=RSS&at_campaign=rss",
       "summary": "Pro-government demonstrators poured onto the streets of the Iranian capital after the announcement of the two-week conditional ceasefire bet…",
@@ -65,7 +83,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Middle East",
       "title": "Watch: When will fuel prices go down?",
       "url": "https://www.bbc.com/news/videos/c62je685v3vo?at_medium=RSS&at_campaign=rss",
       "summary": "The BBC's Nick Marsh takes a look at whether fuel costs will get cheaper now the US and Iran have agreed a ceasefire.",
@@ -191,7 +209,7 @@
       "country_name": "United Kingdom"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Middle East",
       "title": "Iranians form human chains at bridges and power plants",
       "url": "https://www.bbc.com/news/videos/c4g5j33p6vno?at_medium=RSS&at_campaign=rss",
       "summary": "Tehran had urged people to gather outside potential US and Israeli targets after Donald Trump threatened to attack civilian infrastructure.",
@@ -738,15 +756,6 @@
       "published_at": "2026-03-05T12:29:16Z",
       "country_code": "ET",
       "country_name": "Ethiopia"
-    },
-    {
-      "source": "BBC Africa",
-      "title": "At the scene: Muslims killed 'over rejection of extremist ideology' in Nigeria",
-      "url": "https://www.bbc.com/news/videos/czej7xpx0x9o?at_medium=RSS&at_campaign=rss",
-      "summary": "At least 78 bodies have been buried, while it's feared that more than 170 people were killed altogether.",
-      "published_at": "2026-02-05T17:15:30Z",
-      "country_code": "NG",
-      "country_name": "Nigeria"
     }
   ],
   "regions": [
@@ -796,6 +805,11 @@
       "news_count": 2
     },
     {
+      "country_code": "DE",
+      "country_name": "Germany",
+      "news_count": 2
+    },
+    {
       "country_code": "ET",
       "country_name": "Ethiopia",
       "news_count": 2
@@ -818,11 +832,6 @@
     {
       "country_code": "CO",
       "country_name": "Colombia",
-      "news_count": 1
-    },
-    {
-      "country_code": "DE",
-      "country_name": "Germany",
       "news_count": 1
     },
     {
