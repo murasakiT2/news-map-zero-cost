@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-04-08T02:25:39Z",
+  "generated_at": "2026-04-08T04:58:54Z",
   "articles": [
     {
       "source": "BBC World",
-      "title": "Oil slides after US-Iran ceasefire deal to reopen Strait of Hormuz",
-      "url": "https://www.bbc.com/news/articles/c8r40y3rv75o?at_medium=RSS&at_campaign=rss",
-      "summary": "The agreement was announced not long before Trump's Tuesday evening deadline was reached.",
-      "published_at": "2026-04-08T02:01:58Z",
+      "title": "How Pakistan helped secure a fragile ceasefire between the US and Iran",
+      "url": "https://www.bbc.com/news/articles/cj401qvgg19o?at_medium=RSS&at_campaign=rss",
+      "summary": "Pakistan has a historic relationship with Iran, but an agreement was far from certain, writes the BBC’s Caroline Davies",
+      "published_at": "2026-04-08T04:41:05Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -15,7 +15,25 @@
       "title": "Iran ceasefire deal a partial win for Trump - but at a high cost",
       "url": "https://www.bbc.com/news/articles/cwyvp55xrlro?at_medium=RSS&at_campaign=rss",
       "summary": "The path to the two-week ceasefire with Iran may have fundamentally altered the way the rest of the world views the US.",
-      "published_at": "2026-04-08T01:58:00Z",
+      "published_at": "2026-04-08T03:30:55Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Oil plunges after US-Iran ceasefire deal to reopen Strait of Hormuz",
+      "url": "https://www.bbc.com/news/articles/c8r40y3rv75o?at_medium=RSS&at_campaign=rss",
+      "summary": "The agreement was announced not long before Trump's Tuesday evening deadline was reached.",
+      "published_at": "2026-04-08T03:24:53Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "What we know about the two-week ceasefire between the US and Iran",
+      "url": "https://www.bbc.com/news/articles/ce84z6y3ke4o?at_medium=RSS&at_campaign=rss",
+      "summary": "The provisional truce comes more than a month after the US and Israel launched coordinated attacks on Iran.",
+      "published_at": "2026-04-08T02:58:55Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -119,7 +137,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "Tracking recent US-Israeli strikes on Iranian infrastructure",
       "url": "https://www.bbc.com/news/articles/cx2w0v19gw8o?at_medium=RSS&at_campaign=rss",
       "summary": "Attacks have targeted bridges, steel plants and pharmaceutical facilities, verified videos show.",
@@ -261,15 +279,6 @@
       "published_at": "2026-04-07T05:13:12Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC Asia",
-      "title": "India's high-growth economy gets a Middle East oil shock",
-      "url": "https://www.bbc.com/news/articles/cn43wllgn4vo?at_medium=RSS&at_campaign=rss",
-      "summary": "India's currency, stocks and growth projections take a beating as the country faces a triple energy shock due to Iran war.",
-      "published_at": "2026-04-07T01:21:36Z",
-      "country_code": "IN",
-      "country_name": "India"
     },
     {
       "source": "BBC Asia",
@@ -443,7 +452,7 @@
       "country_name": "Ukraine"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Middle East",
       "title": "What we know so far about the search for missing US airman in Iran",
       "url": "https://www.bbc.com/news/videos/c7vqlr5gqr0o?at_medium=RSS&at_campaign=rss",
       "summary": "US and Iranian forces are searching for a missing American crew member after a US warplane was shot down.",
@@ -816,7 +825,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 38
+      "news_count": 40
     },
     {
       "country_code": "IR",
@@ -824,13 +833,13 @@
       "news_count": 7
     },
     {
-      "country_code": "IN",
-      "country_name": "India",
-      "news_count": 5
-    },
-    {
       "country_code": "IL",
       "country_name": "Israel",
+      "news_count": 4
+    },
+    {
+      "country_code": "IN",
+      "country_name": "India",
       "news_count": 4
     },
     {
