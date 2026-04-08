@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-04-08T09:58:59Z",
+  "generated_at": "2026-04-08T10:56:48Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Israel strikes southern Lebanon after US-Iran ceasefire",
+      "url": "https://www.bbc.com/news/articles/c0j6d538l6qo?at_medium=RSS&at_campaign=rss",
+      "summary": "Air strikes hit the Tyre and Nabatieh areas hours after the US-Iran ceasefire was announced.",
+      "published_at": "2026-04-08T10:49:37Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC Asia",
       "title": "British teen dies in reported Vietnam motorbike fall",
@@ -11,7 +20,7 @@
       "country_name": "Vietnam"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Middle East",
       "title": "Watch: Iranians gather in Tehran following ceasefire announcement",
       "url": "https://www.bbc.com/news/videos/cgldg5nn9d8o?at_medium=RSS&at_campaign=rss",
       "summary": "Pro-government demonstrators poured onto the streets of the Iranian capital after the announcement of the two-week conditional ceasefire bet…",
@@ -23,7 +32,7 @@
       "source": "BBC World",
       "title": "Oil prices plunge and shares jump on US-Iran ceasefire plan",
       "url": "https://www.bbc.com/news/articles/c8r40y3rv75o?at_medium=RSS&at_campaign=rss",
-      "summary": "Crude prices tumbled by as much as 15% on the conditional pause but is higher than before the war.",
+      "summary": "Crude prices tumbled by as much as 15% on the conditional pause but remain far higher than before the war.",
       "published_at": "2026-04-08T08:15:36Z",
       "country_code": "US",
       "country_name": "United States"
@@ -119,6 +128,15 @@
       "country_name": "United States"
     },
     {
+      "source": "BBC US & Canada",
+      "title": "Americans react to Trump's 'a whole civilisation will die tonight' warning",
+      "url": "https://www.bbc.com/news/videos/c0krp3mpxg5o?at_medium=RSS&at_campaign=rss",
+      "summary": "The US president issued the warning to Iran if it does not reach a deal on reopening the Strait of Hormuz by his deadline.",
+      "published_at": "2026-04-07T20:24:41Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
       "source": "BBC World",
       "title": "Wireless Festival cancelled after Kanye West blocked from coming to UK",
       "url": "https://www.bbc.com/news/articles/c4gxk3kxjr0o?at_medium=RSS&at_campaign=rss",
@@ -155,15 +173,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC US & Canada",
-      "title": "Georgia holds run-off election to replace Marjorie Taylor Greene",
-      "url": "https://www.bbc.com/news/articles/c9qd143w9l3o?at_medium=RSS&at_campaign=rss",
-      "summary": "Greene left Congress earlier this year after a dramatic split with US President Donald Trump.",
-      "published_at": "2026-04-07T18:24:09Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC World",
       "title": "JD Vance backs Orbán's re-election bid in Budapest visit and hits out at EU",
       "url": "https://www.bbc.com/news/articles/cyv16lq2rp1o?at_medium=RSS&at_campaign=rss",
@@ -180,15 +189,6 @@
       "published_at": "2026-04-07T18:10:21Z",
       "country_code": "ES",
       "country_name": "Spain"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "Tracking recent US-Israeli strikes on Iranian infrastructure",
-      "url": "https://www.bbc.com/news/articles/cx2w0v19gw8o?at_medium=RSS&at_campaign=rss",
-      "summary": "Attacks have targeted bridges, steel plants and pharmaceutical facilities, verified videos show.",
-      "published_at": "2026-04-07T17:15:34Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC World",
@@ -452,15 +452,6 @@
       "country_name": "Ukraine"
     },
     {
-      "source": "BBC US & Canada",
-      "title": "What we know about downed F-15 jet and US airmen's rescue",
-      "url": "https://www.bbc.com/news/articles/cm2k1dgz142o?at_medium=RSS&at_campaign=rss",
-      "summary": "The US has rescued the missing crew member of the US F-15 fighter jet which was shot down over southern Iran.",
-      "published_at": "2026-04-05T17:15:34Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC Middle East",
       "title": "US says it has arrested relatives of late Iranian ​general Qasem ​Soleimani",
       "url": "https://www.bbc.com/news/articles/cgqkn4j48qdo?at_medium=RSS&at_campaign=rss",
@@ -488,15 +479,6 @@
       "country_name": "Peru"
     },
     {
-      "source": "BBC US & Canada",
-      "title": "How Canada's largest gun control effort in decades is missing the mark",
-      "url": "https://www.bbc.com/news/articles/cvg09dq4x5qo?at_medium=RSS&at_campaign=rss",
-      "summary": "Canada recently banned 2,500 models of \"assault-style\" firearms - but a plan to buy-back tens of thousands of guns fell short by half.",
-      "published_at": "2026-04-04T00:32:45Z",
-      "country_code": "CA",
-      "country_name": "Canada"
-    },
-    {
       "source": "BBC Africa",
       "title": "'We want a voice in our land' - the people evicted to build Nigeria's capital",
       "url": "https://www.bbc.com/news/articles/clyggr00x5vo?at_medium=RSS&at_campaign=rss",
@@ -520,15 +502,6 @@
       "url": "https://www.bbc.com/news/articles/c4gx8e1x5j3o?at_medium=RSS&at_campaign=rss",
       "summary": "Six weapons experts have contested the US claim that video evidence suggests an Iranian missile could have hit the hall.",
       "published_at": "2026-04-03T13:16:33Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "Who is Christopher LaNeve, set to lead the US Army?",
-      "url": "https://www.bbc.com/news/articles/clye2e85dwjo?at_medium=RSS&at_campaign=rss",
-      "summary": "He will replace Randy George, who was asked to step down from his post by Defence Secretary Pete Hegseth.",
-      "published_at": "2026-04-03T11:52:50Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -771,7 +744,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 37
+      "news_count": 35
     },
     {
       "country_code": "IR",
@@ -831,11 +804,6 @@
     {
       "country_code": "BD",
       "country_name": "Bangladesh",
-      "news_count": 1
-    },
-    {
-      "country_code": "CA",
-      "country_name": "Canada",
       "news_count": 1
     },
     {
