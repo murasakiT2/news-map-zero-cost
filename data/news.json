@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-04-08T10:56:48Z",
+  "generated_at": "2026-04-08T11:50:00Z",
   "articles": [
     {
       "source": "BBC World",
-      "title": "Israel strikes southern Lebanon after US-Iran ceasefire",
-      "url": "https://www.bbc.com/news/articles/c0j6d538l6qo?at_medium=RSS&at_campaign=rss",
-      "summary": "Air strikes hit the Tyre and Nabatieh areas hours after the US-Iran ceasefire was announced.",
-      "published_at": "2026-04-08T10:49:37Z",
-      "country_code": "US",
-      "country_name": "United States"
+      "title": "Greece to ban social media for under-15s from next year",
+      "url": "https://www.bbc.com/news/articles/ckgx1x742x5o?at_medium=RSS&at_campaign=rss",
+      "summary": "It follows similar moves in other European countries, including France and Spain.",
+      "published_at": "2026-04-08T11:39:43Z",
+      "country_code": "FR",
+      "country_name": "France"
     },
     {
       "source": "BBC Asia",
       "title": "British teen dies in reported Vietnam motorbike fall",
       "url": "https://www.bbc.com/news/articles/c5y9lg10595o?at_medium=RSS&at_campaign=rss",
       "summary": "Orla Wates is remembered by her mother as \"beautiful, independent and very funny\".",
-      "published_at": "2026-04-08T09:26:28Z",
+      "published_at": "2026-04-08T11:37:19Z",
       "country_code": "VN",
       "country_name": "Vietnam"
     },
@@ -24,7 +24,43 @@
       "title": "Watch: Iranians gather in Tehran following ceasefire announcement",
       "url": "https://www.bbc.com/news/videos/cgldg5nn9d8o?at_medium=RSS&at_campaign=rss",
       "summary": "Pro-government demonstrators poured onto the streets of the Iranian capital after the announcement of the two-week conditional ceasefire bet…",
-      "published_at": "2026-04-08T08:22:15Z",
+      "published_at": "2026-04-08T11:29:33Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC Africa",
+      "title": "Madagascar declares state of emergency over severe fuel shortages linked to Iran war",
+      "url": "https://www.bbc.com/news/articles/cgj0dzwgzq5o?at_medium=RSS&at_campaign=rss",
+      "summary": "The presidency says it is taking action as it fears fuel shortages could lead to public disorder.",
+      "published_at": "2026-04-08T11:07:30Z",
+      "country_code": "IR",
+      "country_name": "Iran"
+    },
+    {
+      "source": "BBC Latin America",
+      "title": "Co-founder of Jalisco New Generation drug cartel pleads guilty",
+      "url": "https://www.bbc.com/news/articles/c8ejyjnk9pdo?at_medium=RSS&at_campaign=rss",
+      "summary": "Érick Valencia Salazar was among a group of 29 alleged drug lords extradited to the US from Mexico.",
+      "published_at": "2026-04-08T11:03:40Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "What we know about the two-week ceasefire between the US and Iran",
+      "url": "https://www.bbc.com/news/articles/ce84z6y3ke4o?at_medium=RSS&at_campaign=rss",
+      "summary": "The provisional truce comes more than a month after the US and Israel launched coordinated attacks on Iran.",
+      "published_at": "2026-04-08T11:00:53Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Israel strikes southern Lebanon after US-Iran ceasefire",
+      "url": "https://www.bbc.com/news/articles/c0j6d538l6qo?at_medium=RSS&at_campaign=rss",
+      "summary": "Air strikes hit the Tyre and Nabatieh areas hours after the US-Iran ceasefire was announced.",
+      "published_at": "2026-04-08T10:49:37Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -52,15 +88,6 @@
       "url": "https://www.bbc.com/news/articles/cwyvp55xrlro?at_medium=RSS&at_campaign=rss",
       "summary": "The path to the two-week ceasefire with Iran may have fundamentally altered the way the rest of the world views the US.",
       "published_at": "2026-04-08T03:30:55Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "What we know about the two-week ceasefire between the US and Iran",
-      "url": "https://www.bbc.com/news/articles/ce84z6y3ke4o?at_medium=RSS&at_campaign=rss",
-      "summary": "The provisional truce comes more than a month after the US and Israel launched coordinated attacks on Iran.",
-      "published_at": "2026-04-08T02:58:55Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -380,7 +407,7 @@
       "country_name": "Palestine"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Middle East",
       "title": "'We're sinking deeper': Iranians brace for infrastructure strikes as Trump deadline nears",
       "url": "https://www.bbc.com/news/articles/cvgl0ng8z0do?at_medium=RSS&at_campaign=rss",
       "summary": "Ordinary Iranians respond to the US president's threat to destroy Iran's power plants and bridges unless it opens the Strait of Hormuz.",
@@ -549,15 +576,6 @@
       "published_at": "2026-04-02T13:45:09Z",
       "country_code": "IR",
       "country_name": "Iran"
-    },
-    {
-      "source": "BBC Latin America",
-      "title": "US lifts sanctions on Venezuelan interim leader Delcy Rodríguez",
-      "url": "https://www.bbc.com/news/articles/cje4l9de0d1o?at_medium=RSS&at_campaign=rss",
-      "summary": "It is the latest sign of warming relations between the US and Venezuela after Nicolás Maduro was seized in a commando raid.",
-      "published_at": "2026-04-02T11:55:37Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC Asia",
@@ -749,7 +767,12 @@
     {
       "country_code": "IR",
       "country_name": "Iran",
-      "news_count": 5
+      "news_count": 6
+    },
+    {
+      "country_code": "FR",
+      "country_name": "France",
+      "news_count": 4
     },
     {
       "country_code": "IL",
@@ -779,11 +802,6 @@
     {
       "country_code": "ES",
       "country_name": "Spain",
-      "news_count": 3
-    },
-    {
-      "country_code": "FR",
-      "country_name": "France",
       "news_count": 3
     },
     {
