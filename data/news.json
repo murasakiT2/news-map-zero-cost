@@ -1,12 +1,30 @@
 {
-  "generated_at": "2026-04-08T21:06:28Z",
+  "generated_at": "2026-04-08T22:03:39Z",
   "articles": [
+    {
+      "source": "BBC Asia",
+      "title": "He's Australia's most decorated soldier. Now he's at the centre of a historic war crimes case",
+      "url": "https://www.bbc.com/news/articles/czjwp1vjn9lo?at_medium=RSS&at_campaign=rss",
+      "summary": "Ben Roberts-Smith's case is not only unprecedented for Australia but \"extraordinary\" for the globe too, historians say.",
+      "published_at": "2026-04-08T21:10:14Z",
+      "country_code": "AU",
+      "country_name": "Australia"
+    },
     {
       "source": "BBC World",
       "title": "At least 182 killed across Lebanon in large wave of Israeli strikes",
       "url": "https://www.bbc.com/news/articles/c0j6d538l6qo?at_medium=RSS&at_campaign=rss",
       "summary": "Attacks hit the southern suburbs of Beirut, southern Lebanon and the eastern Bekaa Valley, hours after a US-Iran ceasefire was announced.",
       "published_at": "2026-04-08T20:54:59Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC Middle East",
+      "title": "Negotiators face huge task to close gaps in rival Iran peace proposals",
+      "url": "https://www.bbc.com/news/articles/cvgkv9y97n0o?at_medium=RSS&at_campaign=rss",
+      "summary": "A US 15-point plan and an Iranian 10-point variant are oceans apart, writes the BBC's diplomatic correspondent.",
+      "published_at": "2026-04-08T20:26:48Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -34,6 +52,15 @@
       "url": "https://www.bbc.com/news/articles/c248ljegn6lo?at_medium=RSS&at_campaign=rss",
       "summary": "While the US has declared a military victory, the details of the proposals being discussed remain murky.",
       "published_at": "2026-04-08T19:17:21Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC Middle East",
+      "title": "Israel backs US-Iran ceasefire but Netanyahu's war goals remain unfulfilled",
+      "url": "https://www.bbc.com/news/articles/c79j7jnnpz1o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Israeli prime minister's response to the ceasefire has been muted, in contrast to the triumphal statements from the US and Iran.",
+      "published_at": "2026-04-08T18:30:58Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -479,15 +506,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Middle East",
-      "title": "Trump declares victory after rescue but threats to US operation in Iran still loom",
-      "url": "https://www.bbc.com/news/articles/cy01vg7x5ppo?at_medium=RSS&at_campaign=rss",
-      "summary": "The rescue could impact how Trump views a ground operation to take Kharg Island or to seize enriched uranium sites.",
-      "published_at": "2026-04-06T00:23:16Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC Europe",
       "title": "Spain's huge pork industry seeks salvation from swine fever threat",
       "url": "https://www.bbc.com/news/articles/c2ev3p14kvlo?at_medium=RSS&at_campaign=rss",
@@ -603,15 +621,6 @@
       "published_at": "2026-04-02T13:45:09Z",
       "country_code": "IR",
       "country_name": "Iran"
-    },
-    {
-      "source": "BBC Asia",
-      "title": "Magnitude 7.4 earthquake hits off Indonesia, killing one",
-      "url": "https://www.bbc.com/news/articles/cn53krrrr24o?at_medium=RSS&at_campaign=rss",
-      "summary": "The quake struck between the islands of Manado and Ternate. Tsunami warnings have now been lifted.",
-      "published_at": "2026-04-02T04:00:48Z",
-      "country_code": "ID",
-      "country_name": "Indonesia"
     },
     {
       "source": "BBC Middle East",
@@ -762,7 +771,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 38
+      "news_count": 39
     },
     {
       "country_code": "IR",
@@ -790,6 +799,11 @@
       "news_count": 4
     },
     {
+      "country_code": "AU",
+      "country_name": "Australia",
+      "news_count": 3
+    },
+    {
       "country_code": "ES",
       "country_name": "Spain",
       "news_count": 3
@@ -798,11 +812,6 @@
       "country_code": "IL",
       "country_name": "Israel",
       "news_count": 3
-    },
-    {
-      "country_code": "AU",
-      "country_name": "Australia",
-      "news_count": 2
     },
     {
       "country_code": "DE",
@@ -837,11 +846,6 @@
     {
       "country_code": "GB",
       "country_name": "United Kingdom",
-      "news_count": 1
-    },
-    {
-      "country_code": "ID",
-      "country_name": "Indonesia",
       "news_count": 1
     },
     {
