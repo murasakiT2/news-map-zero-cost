@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-04-07T23:58:37Z",
+  "generated_at": "2026-04-08T02:25:39Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Oil slides after US-Iran ceasefire deal to reopen Strait of Hormuz",
+      "url": "https://www.bbc.com/news/articles/c8r40y3rv75o?at_medium=RSS&at_campaign=rss",
+      "summary": "The agreement was announced not long before Trump's Tuesday evening deadline was reached.",
+      "published_at": "2026-04-08T02:01:58Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Iran ceasefire deal a partial win for Trump - but at a high cost",
+      "url": "https://www.bbc.com/news/articles/cwyvp55xrlro?at_medium=RSS&at_campaign=rss",
+      "summary": "The path to the two-week ceasefire with Iran may have fundamentally altered the way the rest of the world views the US.",
+      "published_at": "2026-04-08T01:58:00Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "US journalist Shelly Kittleson released after kidnap in Iraq, officials say",
+      "url": "https://www.bbc.com/news/articles/crm1xjp08k3o?at_medium=RSS&at_campaign=rss",
+      "summary": "US officials say they are now \"working to support her safe departure from Iraq\".",
+      "published_at": "2026-04-08T01:44:26Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC Asia",
+      "title": "Tributes after British teenager dies while visiting Vietnam",
+      "url": "https://www.bbc.com/news/articles/c5y9lg10595o?at_medium=RSS&at_campaign=rss",
+      "summary": "Orla Wates, reportedly killed in a road accident, is remembered by her mother as \"beautiful, independent and very funny\".",
+      "published_at": "2026-04-08T01:15:21Z",
+      "country_code": "VN",
+      "country_name": "Vietnam"
+    },
     {
       "source": "BBC US & Canada",
       "title": "Newlywed wife of US soldier freed by ICE after detention at military base",
@@ -20,7 +56,7 @@
       "country_name": "Iran"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "What the US military could do if Iran fails to meet Trump's ultimatum",
       "url": "https://www.bbc.com/news/articles/c98kn1zlxr1o?at_medium=RSS&at_campaign=rss",
       "summary": "The US can do a lot of damage to civilian infrastructure but military experts say it's not feasible to carry out all Trump's threats.",
@@ -79,15 +115,6 @@
       "url": "https://www.bbc.com/news/articles/cyv16lq2rp1o?at_medium=RSS&at_campaign=rss",
       "summary": "US Vice-President JD Vance intervenes in the campaign to give Orbán a ringing endorsement in Budapest.",
       "published_at": "2026-04-07T18:11:38Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "US journalist Shelly Kittleson to be released after kidnap in Iraq, militia says",
-      "url": "https://www.bbc.com/news/articles/crm1xjp08k3o?at_medium=RSS&at_campaign=rss",
-      "summary": "Kataib Hezbollah says the release comes on condition that she leave Iraq immediately.",
-      "published_at": "2026-04-07T17:50:17Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -198,15 +225,6 @@
       "published_at": "2026-04-07T10:10:51Z",
       "country_code": "IN",
       "country_name": "India"
-    },
-    {
-      "source": "BBC Asia",
-      "title": "Taiwan opposition leader visits China for expected meeting with Xi Jinping",
-      "url": "https://www.bbc.com/news/articles/c0krnz7mmmjo?at_medium=RSS&at_campaign=rss",
-      "summary": "Cheng Li-wun said she \"gladly accepted\" Xi Jinping's invitation and hopes to be a \"bridge for peace\".",
-      "published_at": "2026-04-07T07:29:55Z",
-      "country_code": "CN",
-      "country_name": "China"
     },
     {
       "source": "BBC World",
@@ -798,7 +816,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 36
+      "news_count": 38
     },
     {
       "country_code": "IR",
@@ -841,11 +859,6 @@
       "news_count": 2
     },
     {
-      "country_code": "CN",
-      "country_name": "China",
-      "news_count": 2
-    },
-    {
       "country_code": "ES",
       "country_name": "Spain",
       "news_count": 2
@@ -861,6 +874,11 @@
       "news_count": 2
     },
     {
+      "country_code": "VN",
+      "country_name": "Vietnam",
+      "news_count": 2
+    },
+    {
       "country_code": "BD",
       "country_name": "Bangladesh",
       "news_count": 1
@@ -868,6 +886,11 @@
     {
       "country_code": "CA",
       "country_name": "Canada",
+      "news_count": 1
+    },
+    {
+      "country_code": "CN",
+      "country_name": "China",
       "news_count": 1
     },
     {
@@ -913,11 +936,6 @@
     {
       "country_code": "TR",
       "country_name": "Turkey",
-      "news_count": 1
-    },
-    {
-      "country_code": "VN",
-      "country_name": "Vietnam",
       "news_count": 1
     }
   ]
