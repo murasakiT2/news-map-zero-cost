@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-04-08T22:03:39Z",
+  "generated_at": "2026-04-08T23:05:01Z",
   "articles": [
+    {
+      "source": "BBC Middle East",
+      "title": "Israel backs US-Iran ceasefire but Netanyahu's war goals remain unfulfilled",
+      "url": "https://www.bbc.com/news/articles/c79j7jnnpz1o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Israeli prime minister's response to the ceasefire has been muted, in contrast to the triumphal statements from the US and Iran.",
+      "published_at": "2026-04-08T22:09:26Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC Asia",
       "title": "He's Australia's most decorated soldier. Now he's at the centre of a historic war crimes case",
@@ -52,15 +61,6 @@
       "url": "https://www.bbc.com/news/articles/c248ljegn6lo?at_medium=RSS&at_campaign=rss",
       "summary": "While the US has declared a military victory, the details of the proposals being discussed remain murky.",
       "published_at": "2026-04-08T19:17:21Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC Middle East",
-      "title": "Israel backs US-Iran ceasefire but Netanyahu's war goals remain unfulfilled",
-      "url": "https://www.bbc.com/news/articles/c79j7jnnpz1o?at_medium=RSS&at_campaign=rss",
-      "summary": "The Israeli prime minister's response to the ceasefire has been muted, in contrast to the triumphal statements from the US and Iran.",
-      "published_at": "2026-04-08T18:30:58Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -299,7 +299,7 @@
       "country_name": "France"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "JD Vance backs Orbán's re-election bid in Budapest visit and hits out at EU",
       "url": "https://www.bbc.com/news/articles/cyv16lq2rp1o?at_medium=RSS&at_campaign=rss",
       "summary": "US Vice-President JD Vance intervenes in the campaign to give Orbán a ringing endorsement in Budapest.",
@@ -378,15 +378,6 @@
       "published_at": "2026-04-07T12:31:01Z",
       "country_code": "FR",
       "country_name": "France"
-    },
-    {
-      "source": "BBC World",
-      "title": "Chilean woman accused of Pinochet-era kidnaps loses Australia extradition battle",
-      "url": "https://www.bbc.com/news/articles/c8r40d4xdngo?at_medium=RSS&at_campaign=rss",
-      "summary": "Adriana Rivas moved from Chile to Australia in the 1970s, working there as a nanny and cleaner.",
-      "published_at": "2026-04-07T12:19:46Z",
-      "country_code": "AU",
-      "country_name": "Australia"
     },
     {
       "source": "BBC Latin America",
@@ -799,11 +790,6 @@
       "news_count": 4
     },
     {
-      "country_code": "AU",
-      "country_name": "Australia",
-      "news_count": 3
-    },
-    {
       "country_code": "ES",
       "country_name": "Spain",
       "news_count": 3
@@ -812,6 +798,11 @@
       "country_code": "IL",
       "country_name": "Israel",
       "news_count": 3
+    },
+    {
+      "country_code": "AU",
+      "country_name": "Australia",
+      "news_count": 2
     },
     {
       "country_code": "DE",
