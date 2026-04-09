@@ -1,6 +1,33 @@
 {
-  "generated_at": "2026-04-09T11:44:42Z",
+  "generated_at": "2026-04-09T12:58:31Z",
   "articles": [
+    {
+      "source": "BBC Middle East",
+      "title": "Lebanon thought there was a ceasefire - then Israel unleashed deadly blitz",
+      "url": "https://www.bbc.com/news/articles/cgk0edynpmzo?at_medium=RSS&at_campaign=rss",
+      "summary": "Israel says Lebanon is not included in the ceasefire the US agreed to halt the war with Iran.",
+      "published_at": "2026-04-09T12:12:06Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC Africa",
+      "title": "Kenya disputes UN report on rape allegations against its Haiti personnel",
+      "url": "https://www.bbc.com/news/articles/c1d9zrl2z03o?at_medium=RSS&at_campaign=rss",
+      "summary": "The foreign minister says the accusations, involving children, were investigated and found to be unsubstantiated.",
+      "published_at": "2026-04-09T12:02:28Z",
+      "country_code": "KE",
+      "country_name": "Kenya"
+    },
+    {
+      "source": "BBC World",
+      "title": "Israeli strikes in Lebanon 'grave violation' of ceasefire, Iran minister tells BBC",
+      "url": "https://www.bbc.com/news/articles/cp849k4j0y1o?at_medium=RSS&at_campaign=rss",
+      "summary": "Iran's deputy foreign minister says the US must choose between 'war and ceasefire'.",
+      "published_at": "2026-04-09T11:46:19Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC Africa",
       "title": "US warns citizens to reconsider Nigeria travel on safety grounds",
@@ -9,6 +36,15 @@
       "published_at": "2026-04-09T11:42:10Z",
       "country_code": "US",
       "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Al Jazeera condemns killing of journalist in Israeli strike in Gaza",
+      "url": "https://www.bbc.com/news/articles/cg40nqzvwq2o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Israeli military claims Mohammed Wishah was a \"Hamas terrorist\" - which the Qatar-based network has previously denied.",
+      "published_at": "2026-04-09T11:39:56Z",
+      "country_code": "PS",
+      "country_name": "Palestine"
     },
     {
       "source": "BBC US & Canada",
@@ -86,7 +122,7 @@
       "source": "BBC Middle East",
       "title": "Negotiators face huge task to close gaps in rival Iran peace proposals",
       "url": "https://www.bbc.com/news/articles/cvgkv9y97n0o?at_medium=RSS&at_campaign=rss",
-      "summary": "A US 15-point plan and an Iranian 10-point variant are oceans apart, writes the BBC's diplomatic correspondent.",
+      "summary": "The US has a 15-point plan to end the war, with Iran offering 10 proposals of its own. Can they be reconciled?",
       "published_at": "2026-04-08T20:26:48Z",
       "country_code": "US",
       "country_name": "United States"
@@ -254,7 +290,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Middle East",
       "title": "US journalist Shelly Kittleson released after kidnap in Iraq, officials say",
       "url": "https://www.bbc.com/news/articles/crm1xjp08k3o?at_medium=RSS&at_campaign=rss",
       "summary": "US officials say they are now \"working to support her safe departure from Iraq\".",
@@ -290,15 +326,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Middle East",
-      "title": "Trump condemned over threat that Iran's 'civilisation will die'",
-      "url": "https://www.bbc.com/news/articles/cwyk7xgkzvzo?at_medium=RSS&at_campaign=rss",
-      "summary": "The UN's chief says he is \"deeply troubled\" by such statements, as the US president ramps up pressure on Iran to agree a deal to end the war…",
-      "published_at": "2026-04-07T21:56:02Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC World",
       "title": "Indian migrant workers hit by cooking gas shortages are leaving cities",
       "url": "https://www.bbc.com/news/articles/c20d10980e9o?at_medium=RSS&at_campaign=rss",
@@ -326,16 +353,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Middle East",
-      "title": "Iranians form human chains at bridges and power plants",
-      "url": "https://www.bbc.com/news/videos/c4g5j33p6vno?at_medium=RSS&at_campaign=rss",
-      "summary": "Tehran had urged people to gather outside potential US and Israeli targets after Donald Trump threatened to attack civilian infrastructure.",
-      "published_at": "2026-04-07T19:36:03Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "French couple leave Iran after more than three years in jail",
       "url": "https://www.bbc.com/news/articles/clyxk5640wko?at_medium=RSS&at_campaign=rss",
       "summary": "Cecile Kohler and Jacques Paris are on their way home after being allowed to leave the country, the French president says.",
@@ -369,15 +387,6 @@
       "published_at": "2026-04-07T14:51:07Z",
       "country_code": "TR",
       "country_name": "Turkey"
-    },
-    {
-      "source": "BBC Middle East",
-      "title": "Mum of twins who says home was bombed in Lebanon speaks to BBC",
-      "url": "https://www.bbc.com/news/videos/c5yx8my3724o?at_medium=RSS&at_campaign=rss",
-      "summary": "More than one million people in Lebanon have been displaced since the start of the war as Israel expands its ground operation there.",
-      "published_at": "2026-04-07T14:12:38Z",
-      "country_code": "IL",
-      "country_name": "Israel"
     },
     {
       "source": "BBC Africa",
@@ -513,15 +522,6 @@
       "published_at": "2026-04-06T09:59:40Z",
       "country_code": "BD",
       "country_name": "Bangladesh"
-    },
-    {
-      "source": "BBC Middle East",
-      "title": "Trump issues expletive-laden threat to Iran over Hormuz Strait blockage",
-      "url": "https://www.bbc.com/news/articles/cvg0q6wdzp1o?at_medium=RSS&at_campaign=rss",
-      "summary": "The US president says he will destroy Iranian power plants and bridges if the vital waterway is not reopened.",
-      "published_at": "2026-04-06T04:56:03Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC Europe",
@@ -771,12 +771,17 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 42
+      "news_count": 41
     },
     {
       "country_code": "IR",
       "country_name": "Iran",
       "news_count": 6
+    },
+    {
+      "country_code": "KE",
+      "country_name": "Kenya",
+      "news_count": 5
     },
     {
       "country_code": "FR",
@@ -786,11 +791,6 @@
     {
       "country_code": "IN",
       "country_name": "India",
-      "news_count": 4
-    },
-    {
-      "country_code": "KE",
-      "country_name": "Kenya",
       "news_count": 4
     },
     {
@@ -804,11 +804,6 @@
       "news_count": 3
     },
     {
-      "country_code": "IL",
-      "country_name": "Israel",
-      "news_count": 3
-    },
-    {
       "country_code": "AU",
       "country_name": "Australia",
       "news_count": 2
@@ -816,6 +811,11 @@
     {
       "country_code": "DE",
       "country_name": "Germany",
+      "news_count": 2
+    },
+    {
+      "country_code": "IL",
+      "country_name": "Israel",
       "news_count": 2
     },
     {
@@ -851,6 +851,11 @@
     {
       "country_code": "MX",
       "country_name": "Mexico",
+      "news_count": 1
+    },
+    {
+      "country_code": "PS",
+      "country_name": "Palestine",
       "news_count": 1
     },
     {
