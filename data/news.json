@@ -1,12 +1,39 @@
 {
-  "generated_at": "2026-04-09T06:01:33Z",
+  "generated_at": "2026-04-09T07:58:41Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "He's Australia's most decorated soldier. Now he's at the centre of a historic war crimes case",
+      "url": "https://www.bbc.com/news/articles/czjwp1vjn9lo?at_medium=RSS&at_campaign=rss",
+      "summary": "Ben Roberts-Smith's case is not only unprecedented for Australia but \"extraordinary\" for the globe too, scholars say.",
+      "published_at": "2026-04-09T06:13:13Z",
+      "country_code": "AU",
+      "country_name": "Australia"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "Watch: Pope Leo XIV spins basketball on his finger, with help from Harlem Globetrotters",
+      "url": "https://www.bbc.com/news/videos/cdrmnj7rz42o?at_medium=RSS&at_campaign=rss",
+      "summary": "US exhibition squad, the Harlem Globetrotters, met the pontiff in the Vatican, helping him to spin a basketball on the tip of his finger.",
+      "published_at": "2026-04-09T03:17:52Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC Asia",
       "title": "Chinese researcher's death after questioning in US prompts anger in Beijing",
       "url": "https://www.bbc.com/news/articles/cge0xd4g21qo?at_medium=RSS&at_campaign=rss",
       "summary": "The semiconductor researcher was found dead after “hostile questioning” by US law enforcement.",
       "published_at": "2026-04-09T03:07:03Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "US man arrested in case of Michigan woman's disappearance in Bahamas",
+      "url": "https://www.bbc.com/news/articles/c7471lzklyko?at_medium=RSS&at_campaign=rss",
+      "summary": "Lynette Hooker fell overboard from a small boat and was swept out to sea by strong currents, her husband told authorities.",
+      "published_at": "2026-04-09T02:07:58Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -27,15 +54,6 @@
       "published_at": "2026-04-08T22:09:26Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "He's Australia's most decorated soldier. Now he's at the centre of a historic war crimes case",
-      "url": "https://www.bbc.com/news/articles/czjwp1vjn9lo?at_medium=RSS&at_campaign=rss",
-      "summary": "Ben Roberts-Smith's case is not only unprecedented for Australia but \"extraordinary\" for the globe too, scholars say.",
-      "published_at": "2026-04-08T21:10:14Z",
-      "country_code": "AU",
-      "country_name": "Australia"
     },
     {
       "source": "BBC World",
@@ -333,15 +351,6 @@
       "published_at": "2026-04-07T18:10:21Z",
       "country_code": "ES",
       "country_name": "Spain"
-    },
-    {
-      "source": "BBC Latin America",
-      "title": "Bahamas police search for US woman who reportedly fell off boat",
-      "url": "https://www.bbc.com/news/articles/ckg9yxpdxlgo?at_medium=RSS&at_campaign=rss",
-      "summary": "Her husband told authorities she fell out of their dinghy on Saturday night and was swept out to sea.",
-      "published_at": "2026-04-07T15:02:10Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC World",
@@ -780,7 +789,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 41
+      "news_count": 42
     },
     {
       "country_code": "IR",
