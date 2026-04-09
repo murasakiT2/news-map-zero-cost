@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-04-09T21:38:06Z",
+  "generated_at": "2026-04-09T22:31:21Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Hot in the city: Energy crisis tests Singapore's air-con addiction",
+      "url": "https://www.bbc.com/news/articles/c80mxrdvkpjo?at_medium=RSS&at_campaign=rss",
+      "summary": "The rise in energy prices has hit Asia particularly hard as many nations are heavily reliant on Gulf oil.",
+      "published_at": "2026-04-09T22:03:15Z",
+      "country_code": "SG",
+      "country_name": "Singapore"
+    },
     {
       "source": "BBC US & Canada",
       "title": "Canada's Carney welcomes another defector to Liberals as he nears majority",
@@ -344,15 +353,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
-      "title": "Indian migrant workers hit by cooking gas shortages are leaving cities",
-      "url": "https://www.bbc.com/news/articles/c20d10980e9o?at_medium=RSS&at_campaign=rss",
-      "summary": "Migrant workers say they are struggling to access cooking gas cylinders as the Iran war squeezes supplies.",
-      "published_at": "2026-04-07T21:02:07Z",
-      "country_code": "IR",
-      "country_name": "Iran"
-    },
-    {
       "source": "BBC US & Canada",
       "title": "Americans react to Trump's 'a whole civilisation will die tonight' warning",
       "url": "https://www.bbc.com/news/videos/c0krp3mpxg5o?at_medium=RSS&at_campaign=rss",
@@ -513,15 +513,6 @@
       "published_at": "2026-04-06T21:21:13Z",
       "country_code": "IN",
       "country_name": "India"
-    },
-    {
-      "source": "BBC Asia",
-      "title": "Emergency jabs after 100 children die of suspected measles in a month in Bangladesh",
-      "url": "https://www.bbc.com/news/articles/cevkz2z7dm8o?at_medium=RSS&at_campaign=rss",
-      "summary": "More than 100 people, mostly children, have been killed by measles since mid-March, officials suspect.",
-      "published_at": "2026-04-06T09:59:40Z",
-      "country_code": "BD",
-      "country_name": "Bangladesh"
     },
     {
       "source": "BBC Europe",
@@ -758,7 +749,7 @@
     {
       "country_code": "IR",
       "country_name": "Iran",
-      "news_count": 7
+      "news_count": 6
     },
     {
       "country_code": "KE",
@@ -821,11 +812,6 @@
       "news_count": 1
     },
     {
-      "country_code": "BD",
-      "country_name": "Bangladesh",
-      "news_count": 1
-    },
-    {
       "country_code": "ET",
       "country_name": "Ethiopia",
       "news_count": 1
@@ -853,6 +839,11 @@
     {
       "country_code": "RU",
       "country_name": "Russia",
+      "news_count": 1
+    },
+    {
+      "country_code": "SG",
+      "country_name": "Singapore",
       "news_count": 1
     },
     {
