@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-04-09T22:31:21Z",
+  "generated_at": "2026-04-09T23:30:28Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Russia and Ukraine agree to truce for Orthodox Easter",
+      "url": "https://www.bbc.com/news/articles/cn0wkkwev2vo?at_medium=RSS&at_campaign=rss",
+      "summary": "Vladimir Putin announced the truce, which will last from Saturday afternoon on 11 April through Easter Sunday.",
+      "published_at": "2026-04-09T22:33:48Z",
+      "country_code": "RU",
+      "country_name": "Russia"
+    },
     {
       "source": "BBC World",
       "title": "Hot in the city: Energy crisis tests Singapore's air-con addiction",
@@ -29,7 +38,7 @@
       "country_name": "Israel"
     },
     {
-      "source": "BBC US & Canada",
+      "source": "BBC World",
       "title": "US has let in 4,499 refugees since October - all but three were South African",
       "url": "https://www.bbc.com/news/articles/c4g89kkvenqo?at_medium=RSS&at_campaign=rss",
       "summary": "Trump has given priority to Afrikaners, a white minority group he says is being persecuted. South Africa has objected to his characterisatio…",
@@ -54,6 +63,15 @@
       "published_at": "2026-04-09T17:11:59Z",
       "country_code": "US",
       "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "UK says Russia ran submarine operation over cables and pipelines",
+      "url": "https://www.bbc.com/news/articles/cre13qn9z7do?at_medium=RSS&at_campaign=rss",
+      "summary": "Defence Secretary John Healey says there is \"no evidence\" of any damage to UK infrastructure in the Atlantic.",
+      "published_at": "2026-04-09T17:09:57Z",
+      "country_code": "GB",
+      "country_name": "United Kingdom"
     },
     {
       "source": "BBC World",
@@ -254,7 +272,7 @@
       "country_name": "Nigeria"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "Cameroon 'military contractors' killed in Russia-Ukraine war - BBC confirms leaked message",
       "url": "https://www.bbc.com/news/articles/cvg0v5gy01go?at_medium=RSS&at_campaign=rss",
       "summary": "The government usually refrains from commenting on the participation of its citizens in the conflict.",
@@ -281,16 +299,7 @@
       "country_name": "Vietnam"
     },
     {
-      "source": "BBC World",
-      "title": "Madagascar declares state of emergency over severe fuel shortages linked to Iran war",
-      "url": "https://www.bbc.com/news/articles/cgj0dzwgzq5o?at_medium=RSS&at_campaign=rss",
-      "summary": "The presidency says it is taking action as it fears fuel shortages could lead to public disorder.",
-      "published_at": "2026-04-08T11:07:30Z",
-      "country_code": "IR",
-      "country_name": "Iran"
-    },
-    {
-      "source": "BBC World",
+      "source": "BBC Latin America",
       "title": "Co-founder of Jalisco New Generation drug cartel pleads guilty",
       "url": "https://www.bbc.com/news/articles/c8ejyjnk9pdo?at_medium=RSS&at_campaign=rss",
       "summary": "Érick Valencia Salazar was among a group of 29 alleged drug lords extradited to the US from Mexico.",
@@ -331,15 +340,6 @@
       "url": "https://www.bbc.com/news/articles/cx24n8eqzgyo?at_medium=RSS&at_campaign=rss",
       "summary": "Chevron is now importing 250,000 barrels of crude per day from Venezuela.",
       "published_at": "2026-04-07T23:00:31Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "Newlywed wife of US soldier freed by ICE after detention at military base",
-      "url": "https://www.bbc.com/news/articles/c98kn1k3nreo?at_medium=RSS&at_campaign=rss",
-      "summary": "Annie Ramos, an undocumented immigrant who came to the US as a toddler, had gone to the base to complete paperwork so the couple could move …",
-      "published_at": "2026-04-07T22:29:28Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -744,12 +744,12 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 35
+      "news_count": 34
     },
     {
       "country_code": "IR",
       "country_name": "Iran",
-      "news_count": 6
+      "news_count": 5
     },
     {
       "country_code": "KE",
@@ -797,6 +797,16 @@
       "news_count": 2
     },
     {
+      "country_code": "GB",
+      "country_name": "United Kingdom",
+      "news_count": 2
+    },
+    {
+      "country_code": "RU",
+      "country_name": "Russia",
+      "news_count": 2
+    },
+    {
       "country_code": "UA",
       "country_name": "Ukraine",
       "news_count": 2
@@ -817,11 +827,6 @@
       "news_count": 1
     },
     {
-      "country_code": "GB",
-      "country_name": "United Kingdom",
-      "news_count": 1
-    },
-    {
       "country_code": "IT",
       "country_name": "Italy",
       "news_count": 1
@@ -834,11 +839,6 @@
     {
       "country_code": "PS",
       "country_name": "Palestine",
-      "news_count": 1
-    },
-    {
-      "country_code": "RU",
-      "country_name": "Russia",
       "news_count": 1
     },
     {
