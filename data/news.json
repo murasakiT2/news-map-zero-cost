@@ -1,12 +1,21 @@
 {
-  "generated_at": "2026-04-09T16:12:15Z",
+  "generated_at": "2026-04-09T17:34:53Z",
   "articles": [
     {
       "source": "BBC World",
       "title": "Lebanon thought there was a ceasefire - then Israel unleashed deadly blitz",
       "url": "https://www.bbc.com/news/articles/cgk0edynpmzo?at_medium=RSS&at_campaign=rss",
       "summary": "Israel says Lebanon is not included in the ceasefire the US agreed to halt the war with Iran.",
-      "published_at": "2026-04-09T16:10:26Z",
+      "published_at": "2026-04-09T17:16:08Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Israeli strikes in Lebanon 'grave violation' of ceasefire, Iran minister tells BBC",
+      "url": "https://www.bbc.com/news/articles/cp849k4j0y1o?at_medium=RSS&at_campaign=rss",
+      "summary": "Iran's deputy foreign minister says the US must choose between 'war and ceasefire'.",
+      "published_at": "2026-04-09T17:11:59Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -18,6 +27,24 @@
       "published_at": "2026-04-09T16:06:39Z",
       "country_code": "IR",
       "country_name": "Iran"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "Canada's Carney welcomes another defector to Liberals as he nears majority",
+      "url": "https://www.bbc.com/news/articles/c98k9wd254xo?at_medium=RSS&at_campaign=rss",
+      "summary": "The prime minister needs only one more MP to join the Liberals to form a majority government after Marilyn Gladu of Ontario defected this we…",
+      "published_at": "2026-04-09T15:18:27Z",
+      "country_code": "CA",
+      "country_name": "Canada"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "Canada's Mark Carney 'so proud' of astronauts in call to Artemis II",
+      "url": "https://www.bbc.com/news/videos/cwykpw99ed2o?at_medium=RSS&at_campaign=rss",
+      "summary": "Jeremy Hansen received a call from the prime minister as Canada's first astronaut to travel into deep space as part of the Artemis II missio…",
+      "published_at": "2026-04-09T14:31:57Z",
+      "country_code": "CA",
+      "country_name": "Canada"
     },
     {
       "source": "BBC Africa",
@@ -63,15 +90,6 @@
       "published_at": "2026-04-09T12:02:28Z",
       "country_code": "KE",
       "country_name": "Kenya"
-    },
-    {
-      "source": "BBC World",
-      "title": "Israeli strikes in Lebanon 'grave violation' of ceasefire, Iran minister tells BBC",
-      "url": "https://www.bbc.com/news/articles/cp849k4j0y1o?at_medium=RSS&at_campaign=rss",
-      "summary": "Iran's deputy foreign minister says the US must choose between 'war and ceasefire'.",
-      "published_at": "2026-04-09T11:46:19Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC World",
@@ -200,15 +218,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC US & Canada",
-      "title": "Former attorney general Pam Bondi will not testify on Epstein files next week, justice department says",
-      "url": "https://www.bbc.com/news/articles/cwy31ln4d1jo?at_medium=RSS&at_campaign=rss",
-      "summary": "Pam Bondi will not face a congressional committee because she is no longer the US attorney general, the justice department told the panel.",
-      "published_at": "2026-04-08T17:13:18Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC Middle East",
       "title": "Is conditional ceasefire a victory for US or Iran?",
       "url": "https://www.bbc.com/news/videos/crm1x927gpno?at_medium=RSS&at_campaign=rss",
@@ -261,15 +270,6 @@
       "published_at": "2026-04-08T11:37:19Z",
       "country_code": "VN",
       "country_name": "Vietnam"
-    },
-    {
-      "source": "BBC Middle East",
-      "title": "Watch: When will fuel prices go down?",
-      "url": "https://www.bbc.com/news/videos/c62je685v3vo?at_medium=RSS&at_campaign=rss",
-      "summary": "The BBC's Nick Marsh takes a look at whether fuel costs will get cheaper now the US and Iran have agreed a ceasefire.",
-      "published_at": "2026-04-08T11:23:35Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC World",
@@ -753,7 +753,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 38
+      "news_count": 36
     },
     {
       "country_code": "IR",
@@ -788,6 +788,11 @@
     {
       "country_code": "AU",
       "country_name": "Australia",
+      "news_count": 2
+    },
+    {
+      "country_code": "CA",
+      "country_name": "Canada",
       "news_count": 2
     },
     {
