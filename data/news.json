@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-04-09T14:53:28Z",
+  "generated_at": "2026-04-09T16:12:15Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Lebanon thought there was a ceasefire - then Israel unleashed deadly blitz",
+      "url": "https://www.bbc.com/news/articles/cgk0edynpmzo?at_medium=RSS&at_campaign=rss",
+      "summary": "Israel says Lebanon is not included in the ceasefire the US agreed to halt the war with Iran.",
+      "published_at": "2026-04-09T16:10:26Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "'Endless fears': Even if fighting stops, the damage to Iran's children will endure",
+      "url": "https://www.bbc.com/news/articles/ce84ngmjz8zo?at_medium=RSS&at_campaign=rss",
+      "summary": "The BBC has been able to obtain testimony from parents and those trying to help children deal with the distress that comes with war.",
+      "published_at": "2026-04-09T16:06:39Z",
+      "country_code": "IR",
+      "country_name": "Iran"
+    },
     {
       "source": "BBC Africa",
       "title": "US warns citizens to reconsider Nigeria travel on safety grounds",
@@ -29,20 +47,11 @@
       "country_name": "United Kingdom"
     },
     {
-      "source": "BBC US & Canada",
+      "source": "BBC World",
       "title": "Has US achieved its war objectives in Iran?",
       "url": "https://www.bbc.com/news/articles/c1krpjr91v2o?at_medium=RSS&at_campaign=rss",
       "summary": "Key US objectives at the start of the war were to stop Iran getting a nuclear weapon and degrading its arsenal.",
       "published_at": "2026-04-09T13:11:03Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC Middle East",
-      "title": "Lebanon thought there was a ceasefire - then Israel unleashed deadly blitz",
-      "url": "https://www.bbc.com/news/articles/cgk0edynpmzo?at_medium=RSS&at_campaign=rss",
-      "summary": "Israel says Lebanon is not included in the ceasefire the US agreed to halt the war with Iran.",
-      "published_at": "2026-04-09T12:12:06Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -470,15 +479,6 @@
       "country_name": "Spain"
     },
     {
-      "source": "BBC World",
-      "title": "China is winning one AI race, the US another - but either might pull ahead",
-      "url": "https://www.bbc.com/news/articles/c145enxln0go?at_medium=RSS&at_campaign=rss",
-      "summary": "Both sides don't want to let their rival dominate. And the competition may yet be transformed further.",
-      "published_at": "2026-04-07T05:13:12Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC Asia",
       "title": "Trump's deadline looms but Asian nations already have deals with Iran",
       "url": "https://www.bbc.com/news/articles/c79jqx1xdy9o?at_medium=RSS&at_campaign=rss",
@@ -753,12 +753,12 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 39
+      "news_count": 38
     },
     {
       "country_code": "IR",
       "country_name": "Iran",
-      "news_count": 6
+      "news_count": 7
     },
     {
       "country_code": "KE",
