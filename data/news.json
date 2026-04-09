@@ -1,6 +1,33 @@
 {
-  "generated_at": "2026-04-09T10:38:05Z",
+  "generated_at": "2026-04-09T11:44:42Z",
   "articles": [
+    {
+      "source": "BBC Africa",
+      "title": "US warns citizens to reconsider Nigeria travel on safety grounds",
+      "url": "https://www.bbc.com/news/articles/c5ylq03evjzo?at_medium=RSS&at_campaign=rss",
+      "summary": "The state department has also authorised non-emergency embassy staff to leave on security grounds.",
+      "published_at": "2026-04-09T11:42:10Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "Husband arrested over disappearance of Michigan woman in Bahamas",
+      "url": "https://www.bbc.com/news/articles/c7471lzklyko?at_medium=RSS&at_campaign=rss",
+      "summary": "The lawyer of Brian Hooker, who was identified as the arrested man by US media, says he denies any wrongdoing.",
+      "published_at": "2026-04-09T11:27:57Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Argentina passes bill loosening protection of its glaciers",
+      "url": "https://www.bbc.com/news/articles/c5y72e6x554o?at_medium=RSS&at_campaign=rss",
+      "summary": "The new bill will make it easier for provincial governments to allow mining projects in glacier regions.",
+      "published_at": "2026-04-09T10:52:23Z",
+      "country_code": "AR",
+      "country_name": "Argentina"
+    },
     {
       "source": "BBC World",
       "title": "He's Australia's most decorated soldier. Now he's at the centre of a historic war crimes case",
@@ -25,15 +52,6 @@
       "url": "https://www.bbc.com/news/articles/cge0xd4g21qo?at_medium=RSS&at_campaign=rss",
       "summary": "The semiconductor researcher was found dead after “hostile questioning” by US law enforcement.",
       "published_at": "2026-04-09T03:07:03Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "US man arrested in case of Michigan woman's disappearance in Bahamas",
-      "url": "https://www.bbc.com/news/articles/c7471lzklyko?at_medium=RSS&at_campaign=rss",
-      "summary": "Lynette Hooker fell overboard from a small boat and was swept out to sea by strong currents, her husband told authorities.",
-      "published_at": "2026-04-09T02:07:58Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -218,7 +236,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "How Pakistan helped secure a fragile ceasefire between the US and Iran",
       "url": "https://www.bbc.com/news/articles/cj401qvgg19o?at_medium=RSS&at_campaign=rss",
       "summary": "Pakistan has a historic relationship with Iran, but an agreement was far from certain, writes the BBC’s Caroline Davies",
@@ -227,7 +245,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "Iran ceasefire deal gives Trump a way out of war - but at a high cost",
       "url": "https://www.bbc.com/news/articles/cwyvp55xrlro?at_medium=RSS&at_campaign=rss",
       "summary": "The path to the two-week ceasefire with Iran may have fundamentally altered the way the rest of the world views the US.",
@@ -308,15 +326,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
-      "title": "Wireless Festival cancelled after Kanye West blocked from coming to UK",
-      "url": "https://www.bbc.com/news/articles/c4gxk3kxjr0o?at_medium=RSS&at_campaign=rss",
-      "summary": "West was due to headline the festival in July but drew criticism over past antisemitic comments.",
-      "published_at": "2026-04-07T19:40:05Z",
-      "country_code": "GB",
-      "country_name": "United Kingdom"
-    },
-    {
       "source": "BBC Middle East",
       "title": "Iranians form human chains at bridges and power plants",
       "url": "https://www.bbc.com/news/videos/c4g5j33p6vno?at_medium=RSS&at_campaign=rss",
@@ -353,7 +362,7 @@
       "country_name": "Spain"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "One gunman killed and two injured in shooting at Israeli consulate in Istanbul",
       "url": "https://www.bbc.com/news/articles/c3exp8j7yz4o?at_medium=RSS&at_campaign=rss",
       "summary": "No Israeli diplomats are currently in Turkey and the Istanbul consulate has been empty for the past two-and-a-half years.",
@@ -443,15 +452,6 @@
       "country_name": "India"
     },
     {
-      "source": "BBC Latin America",
-      "title": "Minnesota deny Colombia's Rodriguez has rare muscle wasting condition",
-      "url": "https://www.bbc.com/sport/football/articles/cvgek33dxkpo?at_medium=RSS&at_campaign=rss",
-      "summary": "Minnesota United deny rumours that midfielder James Rodriguez is suffering from a potentially life-threatening muscle-wasting condition.",
-      "published_at": "2026-04-07T06:49:14Z",
-      "country_code": "CO",
-      "country_name": "Colombia"
-    },
-    {
       "source": "BBC Europe",
       "title": "Why Real Madrid tie could make or break Kane's Ballon d'Or hopes",
       "url": "https://www.bbc.com/sport/football/articles/cp86v8zq4jeo?at_medium=RSS&at_campaign=rss",
@@ -461,7 +461,7 @@
       "country_name": "Spain"
     },
     {
-      "source": "BBC US & Canada",
+      "source": "BBC World",
       "title": "China is winning one AI race, the US another - but either might pull ahead",
       "url": "https://www.bbc.com/news/articles/c145enxln0go?at_medium=RSS&at_campaign=rss",
       "summary": "Both sides don't want to let their rival dominate. And the competition may yet be transformed further.",
@@ -771,7 +771,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 41
+      "news_count": 42
     },
     {
       "country_code": "IR",
@@ -829,23 +829,18 @@
       "news_count": 2
     },
     {
+      "country_code": "AR",
+      "country_name": "Argentina",
+      "news_count": 1
+    },
+    {
       "country_code": "BD",
       "country_name": "Bangladesh",
       "news_count": 1
     },
     {
-      "country_code": "CO",
-      "country_name": "Colombia",
-      "news_count": 1
-    },
-    {
       "country_code": "ET",
       "country_name": "Ethiopia",
-      "news_count": 1
-    },
-    {
-      "country_code": "GB",
-      "country_name": "United Kingdom",
       "news_count": 1
     },
     {
