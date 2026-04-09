@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-04-09T19:57:52Z",
+  "generated_at": "2026-04-09T20:45:15Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Israel to hold direct talks with Lebanon, Netanyahu says",
+      "url": "https://www.bbc.com/news/articles/cge0xre3d27o?at_medium=RSS&at_campaign=rss",
+      "summary": "The announcement came after a massive wave of Israeli strikes on Lebanon on Wednesday which killed 303 people, according to health officials…",
+      "published_at": "2026-04-09T20:04:28Z",
+      "country_code": "IL",
+      "country_name": "Israel"
+    },
     {
       "source": "BBC US & Canada",
       "title": "US has let in 4,499 refugees since October - all but three were South African",
@@ -20,7 +29,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Middle East",
       "title": "Israeli strikes in Lebanon 'grave violation' of ceasefire, Iran minister tells BBC",
       "url": "https://www.bbc.com/news/articles/cp849k4j0y1o?at_medium=RSS&at_campaign=rss",
       "summary": "Iran's deputy foreign minister says the US must choose between 'war and ceasefire'.",
@@ -214,15 +223,6 @@
       "url": "https://www.bbc.com/news/articles/c5ywpe2yyg3o?at_medium=RSS&at_campaign=rss",
       "summary": "The two-week truce opens up the prospect of direct talks with the US but has angered Iran's hardliners, writes BBC News Persian’s Kasra Naji…",
       "published_at": "2026-04-08T17:16:37Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC Middle East",
-      "title": "Is conditional ceasefire a victory for US or Iran?",
-      "url": "https://www.bbc.com/news/videos/crm1x927gpno?at_medium=RSS&at_campaign=rss",
-      "summary": "BBC correspondent Frank Gardner explains the current situation as both sides claim victory - Iran says it will reopen the Strait of Hormuz a…",
-      "published_at": "2026-04-08T16:35:07Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -753,7 +753,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 36
+      "news_count": 35
     },
     {
       "country_code": "IR",
@@ -781,6 +781,11 @@
       "news_count": 3
     },
     {
+      "country_code": "IL",
+      "country_name": "Israel",
+      "news_count": 3
+    },
+    {
       "country_code": "NG",
       "country_name": "Nigeria",
       "news_count": 3
@@ -798,11 +803,6 @@
     {
       "country_code": "DE",
       "country_name": "Germany",
-      "news_count": 2
-    },
-    {
-      "country_code": "IL",
-      "country_name": "Israel",
       "news_count": 2
     },
     {
