@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-04-10T09:42:46Z",
+  "generated_at": "2026-04-10T10:42:55Z",
   "articles": [
+    {
+      "source": "BBC Middle East",
+      "title": "How many ships are crossing the Strait of Hormuz?",
+      "url": "https://www.bbc.com/news/articles/c3w39lg84w2o?at_medium=RSS&at_campaign=rss",
+      "summary": "Only a few vessels have crossed the strait since the US-Iran ceasefire deal, according to BBC Verify analysis.",
+      "published_at": "2026-04-10T10:35:14Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "US has let in 4,499 refugees since October - all but three were South African",
@@ -11,7 +20,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Asia",
+      "source": "BBC World",
       "title": "Taiwan opposition leader meets Xi Jinping in Beijing",
       "url": "https://www.bbc.com/news/articles/cj94y87k2ljo?at_medium=RSS&at_campaign=rss",
       "summary": "Cheng Li-wun is the Kuomintang's first sitting leader to visit China in a decade.",
@@ -36,6 +45,15 @@
       "published_at": "2026-04-10T00:23:18Z",
       "country_code": "IN",
       "country_name": "India"
+    },
+    {
+      "source": "BBC Europe",
+      "title": "How the cost of holidays, food and clothes is rising - despite the Iran ceasefire",
+      "url": "https://www.bbc.co.uk/news/resources/idt-8ea95b22-220c-44be-8704-c41cdff0df66?at_medium=RSS&at_campaign=rss",
+      "summary": "Fuel costs have already soared, flights and mortgages are also rising - and food could soon do the same.",
+      "published_at": "2026-04-10T00:00:00Z",
+      "country_code": "IR",
+      "country_name": "Iran"
     },
     {
       "source": "BBC Europe",
@@ -101,7 +119,7 @@
       "country_name": "United Kingdom"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Middle East",
       "title": "'Endless fears': Even if fighting stops, the damage to Iran's children will endure",
       "url": "https://www.bbc.com/news/articles/ce84ngmjz8zo?at_medium=RSS&at_campaign=rss",
       "summary": "The BBC has been able to obtain testimony from parents and those trying to help children deal with the distress that comes with war.",
@@ -124,15 +142,6 @@
       "url": "https://www.bbc.com/news/articles/c5ylq03evjzo?at_medium=RSS&at_campaign=rss",
       "summary": "The state department has also authorised non-emergency embassy staff to leave on security grounds.",
       "published_at": "2026-04-09T14:20:42Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "Ships remain cautious approaching Strait of Hormuz amid fragile ceasefire",
-      "url": "https://www.bbc.com/news/articles/c3w39lg84w2o?at_medium=RSS&at_campaign=rss",
-      "summary": "Only a few vessels have crossed the strait since the US-Iran ceasefire deal, according to BBC Verify analysis.",
-      "published_at": "2026-04-09T13:58:43Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -182,7 +191,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Latin America",
       "title": "Argentina passes bill loosening protection of its glaciers",
       "url": "https://www.bbc.com/news/articles/c5y72e6x554o?at_medium=RSS&at_campaign=rss",
       "summary": "The new bill will make it easier for provincial governments to allow mining projects in glacier regions.",
@@ -191,7 +200,7 @@
       "country_name": "Argentina"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "He's Australia's most decorated soldier. Now he's at the centre of a historic war crimes case",
       "url": "https://www.bbc.com/news/articles/czjwp1vjn9lo?at_medium=RSS&at_campaign=rss",
       "summary": "Ben Roberts-Smith's case is not only unprecedented for Australia but \"extraordinary\" for the globe too, scholars say.",
@@ -200,7 +209,7 @@
       "country_name": "Australia"
     },
     {
-      "source": "BBC Europe",
+      "source": "BBC World",
       "title": "Watch: Pope Leo XIV spins basketball on his finger, with help from Harlem Globetrotters",
       "url": "https://www.bbc.com/news/videos/cdrmnj7rz42o?at_medium=RSS&at_campaign=rss",
       "summary": "US exhibition squad, the Harlem Globetrotters, met the pontiff in the Vatican, helping him to spin a basketball on the tip of his finger.",
@@ -281,7 +290,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "Germany suspends military approval for long stays abroad for men under 45",
       "url": "https://www.bbc.com/news/articles/ckgx103wkl1o?at_medium=RSS&at_campaign=rss",
       "summary": "The requirement to obtain permission had gone largely unnoticed until a German newspaper reported on it.",
@@ -423,15 +432,6 @@
       "published_at": "2026-04-07T18:10:21Z",
       "country_code": "ES",
       "country_name": "Spain"
-    },
-    {
-      "source": "BBC Europe",
-      "title": "One gunman killed and two injured in shooting at Israeli consulate in Istanbul",
-      "url": "https://www.bbc.com/news/articles/c3exp8j7yz4o?at_medium=RSS&at_campaign=rss",
-      "summary": "No Israeli diplomats are currently in Turkey and the Istanbul consulate has been empty for the past two-and-a-half years.",
-      "published_at": "2026-04-07T14:51:07Z",
-      "country_code": "TR",
-      "country_name": "Turkey"
     },
     {
       "source": "BBC Africa",
@@ -713,7 +713,7 @@
     {
       "country_code": "IR",
       "country_name": "Iran",
-      "news_count": 5
+      "news_count": 6
     },
     {
       "country_code": "KE",
@@ -798,11 +798,6 @@
     {
       "country_code": "SG",
       "country_name": "Singapore",
-      "news_count": 1
-    },
-    {
-      "country_code": "TR",
-      "country_name": "Turkey",
       "news_count": 1
     }
   ]
