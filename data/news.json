@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-04-10T16:11:26Z",
+  "generated_at": "2026-04-10T17:11:37Z",
   "articles": [
+    {
+      "source": "BBC US & Canada",
+      "title": "Soaring pump prices drive US inflation to highest level in almost two years",
+      "url": "https://www.bbc.com/news/articles/cde56g80xp5o?at_medium=RSS&at_campaign=rss",
+      "summary": "A surge in prices at the pump due to the Iran war has pushed the inflation rate to 3.3%.",
+      "published_at": "2026-04-10T16:20:58Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC Middle East",
       "title": "How many ships are crossing the Strait of Hormuz?",
       "url": "https://www.bbc.com/news/articles/c3w39lg84w2o?at_medium=RSS&at_campaign=rss",
       "summary": "Only a few vessels have crossed the strait since the US-Iran ceasefire deal, according to BBC Verify analysis.",
       "published_at": "2026-04-10T16:08:19Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "US inflation jumps to highest level in almost two years",
-      "url": "https://www.bbc.com/news/articles/cde56g80xp5o?at_medium=RSS&at_campaign=rss",
-      "summary": "A surge in prices at the pump due to the Iran war has pushed the inflation rate to 3.3%.",
-      "published_at": "2026-04-10T15:57:04Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -38,7 +38,7 @@
       "country_name": "United Kingdom"
     },
     {
-      "source": "BBC Europe",
+      "source": "BBC World",
       "title": "Man accused of coercing wife into sex with 120 men goes on trial in Sweden",
       "url": "https://www.bbc.com/news/articles/cx24pdwx588o?at_medium=RSS&at_campaign=rss",
       "summary": "The 61-year-old denies threatening physical violence and plying his wife with drugs to force her into having sex with strangers.",
@@ -56,7 +56,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Africa",
+      "source": "BBC World",
       "title": "Popular Tanzanian musician Matonya charged with rape in Kenya",
       "url": "https://www.bbc.com/news/articles/cwydvrj4vgzo?at_medium=RSS&at_campaign=rss",
       "summary": "The 43-year-old denies the charge and has been released on bail and had to surrender his passport.",
@@ -308,7 +308,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Middle East",
       "title": "What we know about the two-week ceasefire between the US and Iran",
       "url": "https://www.bbc.com/news/articles/ce84z6y3ke4o?at_medium=RSS&at_campaign=rss",
       "summary": "The provisional truce comes more than a month after the US and Israel launched coordinated attacks on Iran.",
@@ -615,15 +615,6 @@
     },
     {
       "source": "BBC Africa",
-      "title": "DR Congo qualify for World Cup: 'Amidst pain and war, this victory makes us proud’",
-      "url": "https://www.bbc.com/news/videos/cvg0q1d9zddo?at_medium=RSS&at_campaign=rss",
-      "summary": "DR Congo are back at the World Cup for the first time since 1974, with fans in Kinshasa celebrating the team's 1-0 play-off win over Jamaica…",
-      "published_at": "2026-04-01T12:45:29Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC Africa",
       "title": "Korir banned for five years over doping admission",
       "url": "https://www.bbc.com/sport/athletics/articles/c77mndp6erpo?at_medium=RSS&at_campaign=rss",
       "summary": "Former New York marathon winner Albert Korir of Kenya is banned for five years after admitting to doping.",
@@ -708,7 +699,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 35
+      "news_count": 34
     },
     {
       "country_code": "IR",
