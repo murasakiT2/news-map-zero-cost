@@ -1,8 +1,26 @@
 {
-  "generated_at": "2026-04-10T18:05:55Z",
+  "generated_at": "2026-04-10T19:24:48Z",
   "articles": [
     {
-      "source": "BBC Asia",
+      "source": "BBC World",
+      "title": "Lebanon says ceasefire must be in place before Israel talks",
+      "url": "https://www.bbc.com/news/articles/c93en5q2zl3o?at_medium=RSS&at_campaign=rss",
+      "summary": "Lebanon will only take part in talks with Israel if a ceasefire is already in place, a senior official tells the BBC.",
+      "published_at": "2026-04-10T18:21:59Z",
+      "country_code": "IL",
+      "country_name": "Israel"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "The five big sticking points in US-Iran talks",
+      "url": "https://www.bbc.com/news/articles/cx2wyn8wdz0o?at_medium=RSS&at_campaign=rss",
+      "summary": "Peace talks between the US and Iran are due to begin in Pakistan on Saturday.",
+      "published_at": "2026-04-10T18:13:25Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
       "title": "South Korea deploys thermal imaging cameras in search for escaped zoo wolf",
       "url": "https://www.bbc.com/news/articles/cr41d4r5kdeo?at_medium=RSS&at_campaign=rss",
       "summary": "The male wolf, named Neukgu, escaped a zoo in the central city of Daejeon on Wednesday, officials said.",
@@ -36,15 +54,6 @@
       "published_at": "2026-04-10T16:08:19Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC Middle East",
-      "title": "Lebanon says ceasefire must be in place before Israel talks",
-      "url": "https://www.bbc.com/news/articles/c93en5q2zl3o?at_medium=RSS&at_campaign=rss",
-      "summary": "Lebanon will only take part in talks with Israel if a ceasefire is already in place, a senior official tells the BBC.",
-      "published_at": "2026-04-10T15:44:34Z",
-      "country_code": "IL",
-      "country_name": "Israel"
     },
     {
       "source": "BBC Europe",
@@ -272,7 +281,7 @@
       "country_name": "Australia"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "Watch: Pope Leo XIV spins basketball on his finger, with help from Harlem Globetrotters",
       "url": "https://www.bbc.com/news/videos/cdrmnj7rz42o?at_medium=RSS&at_campaign=rss",
       "summary": "US exhibition squad, the Harlem Globetrotters, met the pontiff in the Vatican, helping him to spin a basketball on the tip of his finger.",
@@ -708,7 +717,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 33
+      "news_count": 34
     },
     {
       "country_code": "IR",
