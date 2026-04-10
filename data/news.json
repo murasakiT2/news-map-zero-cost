@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-04-10T15:11:42Z",
+  "generated_at": "2026-04-10T16:11:26Z",
   "articles": [
+    {
+      "source": "BBC Middle East",
+      "title": "How many ships are crossing the Strait of Hormuz?",
+      "url": "https://www.bbc.com/news/articles/c3w39lg84w2o?at_medium=RSS&at_campaign=rss",
+      "summary": "Only a few vessels have crossed the strait since the US-Iran ceasefire deal, according to BBC Verify analysis.",
+      "published_at": "2026-04-10T16:08:19Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "US inflation jumps to highest level in almost two years",
+      "url": "https://www.bbc.com/news/articles/cde56g80xp5o?at_medium=RSS&at_campaign=rss",
+      "summary": "A surge in prices at the pump due to the Iran war has pushed the inflation rate to 3.3%.",
+      "published_at": "2026-04-10T15:57:04Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC Middle East",
+      "title": "Lebanon says ceasefire must be in place before Israel talks",
+      "url": "https://www.bbc.com/news/articles/c93en5q2zl3o?at_medium=RSS&at_campaign=rss",
+      "summary": "Lebanon will only take part in talks with Israel if a ceasefire is already in place, a senior official tells the BBC.",
+      "published_at": "2026-04-10T15:44:34Z",
+      "country_code": "IL",
+      "country_name": "Israel"
+    },
+    {
+      "source": "BBC Europe",
+      "title": "EU fingerprint and photo travel rules come into force",
+      "url": "https://www.bbc.com/news/articles/c39rkpe8mj2o?at_medium=RSS&at_campaign=rss",
+      "summary": "The EU's much-delayed Entry/Exit System will change the way UK passengers travel to 29 countries.",
+      "published_at": "2026-04-10T15:29:23Z",
+      "country_code": "GB",
+      "country_name": "United Kingdom"
+    },
     {
       "source": "BBC Europe",
       "title": "Man accused of coercing wife into sex with 120 men goes on trial in Sweden",
@@ -20,24 +56,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC US & Canada",
-      "title": "US inflation jumps to highest level in almost two years",
-      "url": "https://www.bbc.com/news/articles/cde56g80xp5o?at_medium=RSS&at_campaign=rss",
-      "summary": "A surge in prices at the pump due to the Iran war has pushed the inflation rate to 3.3%.",
-      "published_at": "2026-04-10T13:51:57Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC Middle East",
-      "title": "Lebanon says ceasefire must be in place before Israel talks",
-      "url": "https://www.bbc.com/news/articles/c93en5q2zl3o?at_medium=RSS&at_campaign=rss",
-      "summary": "Lebanon will only take part in talks with Israel if a ceasefire is already in place, a senior official tells the BBC.",
-      "published_at": "2026-04-10T12:33:02Z",
-      "country_code": "IL",
-      "country_name": "Israel"
-    },
-    {
       "source": "BBC Africa",
       "title": "Popular Tanzanian musician Matonya charged with rape in Kenya",
       "url": "https://www.bbc.com/news/articles/cwydvrj4vgzo?at_medium=RSS&at_campaign=rss",
@@ -54,15 +72,6 @@
       "published_at": "2026-04-10T11:56:12Z",
       "country_code": "RU",
       "country_name": "Russia"
-    },
-    {
-      "source": "BBC Middle East",
-      "title": "How many ships are crossing the Strait of Hormuz?",
-      "url": "https://www.bbc.com/news/articles/c3w39lg84w2o?at_medium=RSS&at_campaign=rss",
-      "summary": "Only a few vessels have crossed the strait since the US-Iran ceasefire deal, according to BBC Verify analysis.",
-      "published_at": "2026-04-10T10:35:14Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC World",
@@ -108,15 +117,6 @@
       "published_at": "2026-04-10T00:00:00Z",
       "country_code": "IR",
       "country_name": "Iran"
-    },
-    {
-      "source": "BBC Europe",
-      "title": "EU fingerprint and photo travel rules come into force",
-      "url": "https://www.bbc.com/news/articles/c39rkpe8mj2o?at_medium=RSS&at_campaign=rss",
-      "summary": "The EU's much-delayed Entry/Exit System will change the way UK passengers travel to 29 countries.",
-      "published_at": "2026-04-09T23:04:32Z",
-      "country_code": "GB",
-      "country_name": "United Kingdom"
     },
     {
       "source": "BBC World",
@@ -227,7 +227,7 @@
       "country_name": "Palestine"
     },
     {
-      "source": "BBC US & Canada",
+      "source": "BBC Latin America",
       "title": "Husband arrested over disappearance of Michigan woman in Bahamas",
       "url": "https://www.bbc.com/news/articles/c7471lzklyko?at_medium=RSS&at_campaign=rss",
       "summary": "The lawyer of Brian Hooker, who was identified as the arrested man by US media, says he denies any wrongdoing.",
@@ -416,7 +416,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC US & Canada",
+      "source": "BBC Latin America",
       "title": "The US refinery now processing Venezuelan oil",
       "url": "https://www.bbc.com/news/articles/cx24n8eqzgyo?at_medium=RSS&at_campaign=rss",
       "summary": "Chevron is now importing 250,000 barrels of crude per day from Venezuela.",
@@ -430,24 +430,6 @@
       "url": "https://www.bbc.com/news/articles/c98kn1k3nreo?at_medium=RSS&at_campaign=rss",
       "summary": "Annie Ramos, an undocumented immigrant who came to the US as a toddler, had gone to the base to complete paperwork so the couple could move …",
       "published_at": "2026-04-07T22:29:28Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "Americans react to Trump's 'a whole civilisation will die tonight' warning",
-      "url": "https://www.bbc.com/news/videos/c0krp3mpxg5o?at_medium=RSS&at_campaign=rss",
-      "summary": "The US president issued the warning to Iran if it does not reach a deal on reopening the Strait of Hormuz by his deadline.",
-      "published_at": "2026-04-07T20:24:41Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC Europe",
-      "title": "JD Vance backs Orbán's re-election bid in Budapest visit and hits out at EU",
-      "url": "https://www.bbc.com/news/articles/cyv16lq2rp1o?at_medium=RSS&at_campaign=rss",
-      "summary": "US Vice-President JD Vance intervenes in the campaign to give Orbán a ringing endorsement in Budapest.",
-      "published_at": "2026-04-07T18:11:38Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -726,7 +708,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 37
+      "news_count": 35
     },
     {
       "country_code": "IR",
