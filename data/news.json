@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-04-10T17:11:37Z",
+  "generated_at": "2026-04-10T18:05:55Z",
   "articles": [
+    {
+      "source": "BBC Asia",
+      "title": "South Korea deploys thermal imaging cameras in search for escaped zoo wolf",
+      "url": "https://www.bbc.com/news/articles/cr41d4r5kdeo?at_medium=RSS&at_campaign=rss",
+      "summary": "The male wolf, named Neukgu, escaped a zoo in the central city of Daejeon on Wednesday, officials said.",
+      "published_at": "2026-04-10T17:30:38Z",
+      "country_code": "KR",
+      "country_name": "South Korea"
+    },
+    {
+      "source": "BBC World",
+      "title": "Palestinian shot dead during Israeli settler attack on occupied West Bank village",
+      "url": "https://www.bbc.com/news/articles/czrekrzzex1o?at_medium=RSS&at_campaign=rss",
+      "summary": "The killing came as ex-security chiefs warned \"government sponsored Jewish terrorism\" was out of control.",
+      "published_at": "2026-04-10T17:08:27Z",
+      "country_code": "PS",
+      "country_name": "Palestine"
+    },
     {
       "source": "BBC US & Canada",
       "title": "Soaring pump prices drive US inflation to highest level in almost two years",
@@ -372,15 +390,6 @@
     },
     {
       "source": "BBC Middle East",
-      "title": "Watch: Pro-regime Iranians gather in Tehran",
-      "url": "https://www.bbc.com/news/videos/cgldg5nn9d8o?at_medium=RSS&at_campaign=rss",
-      "summary": "Pro-government demonstrators poured onto the streets of the Iranian capital after the announcement of the two-week conditional ceasefire bet…",
-      "published_at": "2026-04-08T11:29:33Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC Middle East",
       "title": "Watch: When will fuel prices go down?",
       "url": "https://www.bbc.com/news/videos/c62je685v3vo?at_medium=RSS&at_campaign=rss",
       "summary": "The BBC's Nick Marsh takes a look at whether fuel costs will get cheaper now the US and Iran have agreed a ceasefire.",
@@ -699,7 +708,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 34
+      "news_count": 33
     },
     {
       "country_code": "IR",
@@ -757,6 +766,11 @@
       "news_count": 2
     },
     {
+      "country_code": "PS",
+      "country_name": "Palestine",
+      "news_count": 2
+    },
+    {
       "country_code": "VN",
       "country_name": "Vietnam",
       "news_count": 2
@@ -772,13 +786,13 @@
       "news_count": 1
     },
     {
-      "country_code": "MX",
-      "country_name": "Mexico",
+      "country_code": "KR",
+      "country_name": "South Korea",
       "news_count": 1
     },
     {
-      "country_code": "PS",
-      "country_name": "Palestine",
+      "country_code": "MX",
+      "country_name": "Mexico",
       "news_count": 1
     },
     {
