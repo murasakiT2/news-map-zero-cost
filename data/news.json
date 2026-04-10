@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-04-10T14:10:32Z",
+  "generated_at": "2026-04-10T15:11:42Z",
   "articles": [
+    {
+      "source": "BBC Europe",
+      "title": "Man accused of coercing wife into sex with 120 men goes on trial in Sweden",
+      "url": "https://www.bbc.com/news/articles/cx24pdwx588o?at_medium=RSS&at_campaign=rss",
+      "summary": "The 61-year-old denies threatening physical violence and plying his wife with drugs to force her into having sex with strangers.",
+      "published_at": "2026-04-10T15:06:40Z",
+      "country_code": "SE",
+      "country_name": "Sweden"
+    },
+    {
+      "source": "BBC Asia",
+      "title": "The high-stakes diplomacy that led to Pakistan hosting US-Iran peace talks",
+      "url": "https://www.bbc.com/news/articles/c3dl0g4rgn5o?at_medium=RSS&at_campaign=rss",
+      "summary": "Critical minerals, cryptocurrency, and CIA co-operation - how Asim Munir, Trump’s “favourite field marshal”, may have pulled off the diploma…",
+      "published_at": "2026-04-10T14:07:20Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC US & Canada",
       "title": "US inflation jumps to highest level in almost two years",
@@ -380,7 +398,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Asia",
+      "source": "BBC Middle East",
       "title": "How Pakistan helped secure a fragile ceasefire between the US and Iran",
       "url": "https://www.bbc.com/news/articles/cj401qvgg19o?at_medium=RSS&at_campaign=rss",
       "summary": "Pakistan has a historic relationship with Iran, but an agreement was far from certain, writes the BBC’s Caroline Davies",
@@ -708,7 +726,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 36
+      "news_count": 37
     },
     {
       "country_code": "IR",
@@ -793,6 +811,11 @@
     {
       "country_code": "RU",
       "country_name": "Russia",
+      "news_count": 1
+    },
+    {
+      "country_code": "SE",
+      "country_name": "Sweden",
       "news_count": 1
     },
     {
