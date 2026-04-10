@@ -1,17 +1,26 @@
 {
-  "generated_at": "2026-04-10T20:40:48Z",
+  "generated_at": "2026-04-10T21:27:38Z",
   "articles": [
     {
       "source": "BBC World",
-      "title": "Lebanon says ceasefire must be in place before Israel talks",
+      "title": "Lebanon and Israel officials to meet in US on Tuesday",
       "url": "https://www.bbc.com/news/articles/c93en5q2zl3o?at_medium=RSS&at_campaign=rss",
-      "summary": "Lebanon will only take part in talks with Israel if a ceasefire is already in place, a senior official tells the BBC.",
-      "published_at": "2026-04-10T19:43:42Z",
-      "country_code": "IL",
-      "country_name": "Israel"
+      "summary": "A senior Lebanese official earlier told the BBC that Lebanon would only take part in talks if a ceasefire was in place.",
+      "published_at": "2026-04-10T20:51:33Z",
+      "country_code": "US",
+      "country_name": "United States"
     },
     {
       "source": "BBC US & Canada",
+      "title": "Trump's blunt attack on former allies exposes splintered MAGA coalition",
+      "url": "https://www.bbc.com/news/articles/cz0ep709pr2o?at_medium=RSS&at_campaign=rss",
+      "summary": "His criticism of four conservative commentators who have spoken out against the Iran war highlights the tension in his base.",
+      "published_at": "2026-04-10T20:36:35Z",
+      "country_code": "IR",
+      "country_name": "Iran"
+    },
+    {
+      "source": "BBC World",
       "title": "The five big sticking points in US-Iran talks",
       "url": "https://www.bbc.com/news/articles/cx2wyn8wdz0o?at_medium=RSS&at_campaign=rss",
       "summary": "Peace talks between the US and Iran are due to begin in Pakistan on Saturday.",
@@ -153,15 +162,6 @@
       "published_at": "2026-04-09T22:03:15Z",
       "country_code": "SG",
       "country_name": "Singapore"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "Canada's Carney welcomes another defector to Liberals as he nears majority",
-      "url": "https://www.bbc.com/news/articles/c98k9wd254xo?at_medium=RSS&at_campaign=rss",
-      "summary": "The prime minister needs only one more MP to join the Liberals to form a majority government after Marilyn Gladu of Ontario defected this we…",
-      "published_at": "2026-04-09T21:00:25Z",
-      "country_code": "CA",
-      "country_name": "Canada"
     },
     {
       "source": "BBC World",
@@ -717,12 +717,12 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 34
+      "news_count": 35
     },
     {
       "country_code": "IR",
       "country_name": "Iran",
-      "news_count": 6
+      "news_count": 7
     },
     {
       "country_code": "KE",
@@ -755,11 +755,6 @@
       "news_count": 2
     },
     {
-      "country_code": "CA",
-      "country_name": "Canada",
-      "news_count": 2
-    },
-    {
       "country_code": "DE",
       "country_name": "Germany",
       "news_count": 2
@@ -767,11 +762,6 @@
     {
       "country_code": "FR",
       "country_name": "France",
-      "news_count": 2
-    },
-    {
-      "country_code": "IL",
-      "country_name": "Israel",
       "news_count": 2
     },
     {
@@ -790,8 +780,18 @@
       "news_count": 1
     },
     {
+      "country_code": "CA",
+      "country_name": "Canada",
+      "news_count": 1
+    },
+    {
       "country_code": "CN",
       "country_name": "China",
+      "news_count": 1
+    },
+    {
+      "country_code": "IL",
+      "country_name": "Israel",
       "news_count": 1
     },
     {
