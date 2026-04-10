@@ -1,8 +1,17 @@
 {
-  "generated_at": "2026-04-10T01:23:07Z",
+  "generated_at": "2026-04-10T04:22:21Z",
   "articles": [
     {
-      "source": "BBC Asia",
+      "source": "BBC World",
+      "title": "Trump says Iran's handling of Strait of Hormuz is 'not the agreement we have'",
+      "url": "https://www.bbc.com/news/articles/cge0xre3d27o?at_medium=RSS&at_campaign=rss",
+      "summary": "The US president accused Iran of \"doing a very poor job\" with the waterway as Israel and Lebanon to begin peace talks.",
+      "published_at": "2026-04-10T02:10:44Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
       "title": "India proposes new rules to regulate news and political posts on social media",
       "url": "https://www.bbc.com/news/articles/ce9mx2j3xlxo?at_medium=RSS&at_campaign=rss",
       "summary": "The changes will give government more power over news-related posts shared by podcasters and influencers.",
@@ -36,15 +45,6 @@
       "published_at": "2026-04-09T21:00:25Z",
       "country_code": "CA",
       "country_name": "Canada"
-    },
-    {
-      "source": "BBC World",
-      "title": "Israel to hold direct talks with Lebanon but no ceasefire, Netanyahu says",
-      "url": "https://www.bbc.com/news/articles/cge0xre3d27o?at_medium=RSS&at_campaign=rss",
-      "summary": "Lebanese officials had called for a ceasefire before talks begin.",
-      "published_at": "2026-04-09T20:47:02Z",
-      "country_code": "IL",
-      "country_name": "Israel"
     },
     {
       "source": "BBC World",
@@ -290,7 +290,7 @@
       "country_name": "Russia"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "Greece to ban social media for under-15s from next year",
       "url": "https://www.bbc.com/news/articles/ckgx1x742x5o?at_medium=RSS&at_campaign=rss",
       "summary": "It follows similar moves in other European countries, including France and Spain.",
@@ -344,7 +344,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "The US refinery now processing Venezuelan oil",
       "url": "https://www.bbc.com/news/articles/cx24n8eqzgyo?at_medium=RSS&at_campaign=rss",
       "summary": "Chevron is now importing 250,000 barrels of crude per day from Venezuela.",
@@ -744,7 +744,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 34
+      "news_count": 35
     },
     {
       "country_code": "IR",
@@ -772,11 +772,6 @@
       "news_count": 3
     },
     {
-      "country_code": "IL",
-      "country_name": "Israel",
-      "news_count": 3
-    },
-    {
       "country_code": "NG",
       "country_name": "Nigeria",
       "news_count": 3
@@ -799,6 +794,11 @@
     {
       "country_code": "GB",
       "country_name": "United Kingdom",
+      "news_count": 2
+    },
+    {
+      "country_code": "IL",
+      "country_name": "Israel",
       "news_count": 2
     },
     {
