@@ -1,14 +1,23 @@
 {
-  "generated_at": "2026-04-10T12:44:48Z",
+  "generated_at": "2026-04-10T14:10:32Z",
   "articles": [
     {
       "source": "BBC US & Canada",
       "title": "US inflation jumps to highest level in almost two years",
       "url": "https://www.bbc.com/news/articles/cde56g80xp5o?at_medium=RSS&at_campaign=rss",
       "summary": "A surge in prices at the pump due to the Iran war has pushed the inflation rate to 3.3%.",
-      "published_at": "2026-04-10T12:43:09Z",
+      "published_at": "2026-04-10T13:51:57Z",
       "country_code": "US",
       "country_name": "United States"
+    },
+    {
+      "source": "BBC Middle East",
+      "title": "Lebanon says ceasefire must be in place before Israel talks",
+      "url": "https://www.bbc.com/news/articles/c93en5q2zl3o?at_medium=RSS&at_campaign=rss",
+      "summary": "Lebanon will only take part in talks with Israel if a ceasefire is already in place, a senior official tells the BBC.",
+      "published_at": "2026-04-10T12:33:02Z",
+      "country_code": "IL",
+      "country_name": "Israel"
     },
     {
       "source": "BBC Africa",
@@ -416,15 +425,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Middle East",
-      "title": "Iranians form human chains at bridges and power plants",
-      "url": "https://www.bbc.com/news/videos/c4g5j33p6vno?at_medium=RSS&at_campaign=rss",
-      "summary": "Tehran had urged people to gather outside potential US and Israeli targets after Donald Trump threatened to attack civilian infrastructure.",
-      "published_at": "2026-04-07T19:36:03Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC Europe",
       "title": "JD Vance backs Orbán's re-election bid in Budapest visit and hits out at EU",
       "url": "https://www.bbc.com/news/articles/cyv16lq2rp1o?at_medium=RSS&at_campaign=rss",
@@ -450,15 +450,6 @@
       "published_at": "2026-04-07T14:00:21Z",
       "country_code": "NG",
       "country_name": "Nigeria"
-    },
-    {
-      "source": "BBC Europe",
-      "title": "One dead as train travelling 99mph collides with lorry in France",
-      "url": "https://www.bbc.com/news/articles/cq590egv9vzo?at_medium=RSS&at_campaign=rss",
-      "summary": "The lorry driver is in custody after the train driver died during the collision in northern France.",
-      "published_at": "2026-04-07T12:31:01Z",
-      "country_code": "FR",
-      "country_name": "France"
     },
     {
       "source": "BBC Latin America",
@@ -717,7 +708,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 37
+      "news_count": 36
     },
     {
       "country_code": "IR",
@@ -732,11 +723,6 @@
     {
       "country_code": "ES",
       "country_name": "Spain",
-      "news_count": 3
-    },
-    {
-      "country_code": "FR",
-      "country_name": "France",
       "news_count": 3
     },
     {
@@ -770,6 +756,16 @@
       "news_count": 2
     },
     {
+      "country_code": "FR",
+      "country_name": "France",
+      "news_count": 2
+    },
+    {
+      "country_code": "IL",
+      "country_name": "Israel",
+      "news_count": 2
+    },
+    {
       "country_code": "VN",
       "country_name": "Vietnam",
       "news_count": 2
@@ -782,11 +778,6 @@
     {
       "country_code": "CN",
       "country_name": "China",
-      "news_count": 1
-    },
-    {
-      "country_code": "IL",
-      "country_name": "Israel",
       "news_count": 1
     },
     {
