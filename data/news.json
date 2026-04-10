@@ -1,6 +1,33 @@
 {
-  "generated_at": "2026-04-10T11:39:31Z",
+  "generated_at": "2026-04-10T12:44:48Z",
   "articles": [
+    {
+      "source": "BBC US & Canada",
+      "title": "US inflation jumps to highest level in almost two years",
+      "url": "https://www.bbc.com/news/articles/cde56g80xp5o?at_medium=RSS&at_campaign=rss",
+      "summary": "A surge in prices at the pump due to the Iran war has pushed the inflation rate to 3.3%.",
+      "published_at": "2026-04-10T12:43:09Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC Africa",
+      "title": "Popular Tanzanian musician Matonya charged with rape in Kenya",
+      "url": "https://www.bbc.com/news/articles/cwydvrj4vgzo?at_medium=RSS&at_campaign=rss",
+      "summary": "The 43-year-old denies the charge and has been released on bail and had to surrender his passport.",
+      "published_at": "2026-04-10T12:08:04Z",
+      "country_code": "KE",
+      "country_name": "Kenya"
+    },
+    {
+      "source": "BBC World",
+      "title": "Russia and Ukraine agree to Orthodox Easter truce",
+      "url": "https://www.bbc.com/news/articles/cn0wkkwev2vo?at_medium=RSS&at_campaign=rss",
+      "summary": "Vladimir Putin announced the truce, which will last from Saturday afternoon through Easter Sunday.",
+      "published_at": "2026-04-10T11:56:12Z",
+      "country_code": "RU",
+      "country_name": "Russia"
+    },
     {
       "source": "BBC Middle East",
       "title": "How many ships are crossing the Strait of Hormuz?",
@@ -63,15 +90,6 @@
       "published_at": "2026-04-09T23:04:32Z",
       "country_code": "GB",
       "country_name": "United Kingdom"
-    },
-    {
-      "source": "BBC World",
-      "title": "Russia and Ukraine agree to truce for Orthodox Easter",
-      "url": "https://www.bbc.com/news/articles/cn0wkkwev2vo?at_medium=RSS&at_campaign=rss",
-      "summary": "Vladimir Putin announced the truce, which will last from Saturday afternoon on 11 April through Easter Sunday.",
-      "published_at": "2026-04-09T22:33:48Z",
-      "country_code": "RU",
-      "country_name": "Russia"
     },
     {
       "source": "BBC World",
@@ -306,15 +324,6 @@
       "published_at": "2026-04-08T14:57:25Z",
       "country_code": "NG",
       "country_name": "Nigeria"
-    },
-    {
-      "source": "BBC Africa",
-      "title": "Cameroon 'military contractors' killed in Russia-Ukraine war - BBC confirms leaked message",
-      "url": "https://www.bbc.com/news/articles/cvg0v5gy01go?at_medium=RSS&at_campaign=rss",
-      "summary": "The government usually refrains from commenting on the participation of its citizens in the conflict.",
-      "published_at": "2026-04-08T13:07:57Z",
-      "country_code": "RU",
-      "country_name": "Russia"
     },
     {
       "source": "BBC Europe",
@@ -708,7 +717,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 36
+      "news_count": 37
     },
     {
       "country_code": "IR",
@@ -718,7 +727,7 @@
     {
       "country_code": "KE",
       "country_name": "Kenya",
-      "news_count": 5
+      "news_count": 6
     },
     {
       "country_code": "ES",
@@ -761,11 +770,6 @@
       "news_count": 2
     },
     {
-      "country_code": "RU",
-      "country_name": "Russia",
-      "news_count": 2
-    },
-    {
       "country_code": "VN",
       "country_name": "Vietnam",
       "news_count": 2
@@ -793,6 +797,11 @@
     {
       "country_code": "PS",
       "country_name": "Palestine",
+      "news_count": 1
+    },
+    {
+      "country_code": "RU",
+      "country_name": "Russia",
       "news_count": 1
     },
     {
