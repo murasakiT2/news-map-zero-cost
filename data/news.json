@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-04-11T04:02:58Z",
+  "generated_at": "2026-04-11T05:42:40Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Concerns after satellite provider restricts Iran images following US pressure",
+      "url": "https://www.bbc.com/news/articles/c5y721yqe6ro?at_medium=RSS&at_campaign=rss",
+      "summary": "Planet Labs says it is restricting coverage of Iran and parts of the Middle East indefinitely.",
+      "published_at": "2026-04-11T05:40:51Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "'Every drop of water counts': Fear for the future of Argentina's glaciers",
@@ -47,7 +56,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Middle East",
       "title": "Lebanon and Israel officials to meet in US on Tuesday",
       "url": "https://www.bbc.com/news/articles/c93en5q2zl3o?at_medium=RSS&at_campaign=rss",
       "summary": "A senior Lebanese official earlier told the BBC that Lebanon would only take part in talks if a ceasefire was in place.",
@@ -164,7 +173,7 @@
       "country_name": "Kenya"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "Russia and Ukraine agree to Orthodox Easter truce",
       "url": "https://www.bbc.com/news/articles/cn0wkkwev2vo?at_medium=RSS&at_campaign=rss",
       "summary": "Vladimir Putin announced the truce, which will last from Saturday afternoon through Easter Sunday.",
@@ -182,7 +191,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "Taiwan opposition leader meets Xi Jinping in Beijing",
       "url": "https://www.bbc.com/news/articles/cj94y87k2ljo?at_medium=RSS&at_campaign=rss",
       "summary": "Cheng Li-wun is the Kuomintang's first sitting leader to visit China in a decade.",
@@ -218,7 +227,7 @@
       "country_name": "Iran"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "Hot in the city: Energy crisis tests Singapore's air-con addiction",
       "url": "https://www.bbc.com/news/articles/c80mxrdvkpjo?at_medium=RSS&at_campaign=rss",
       "summary": "The rise in energy prices has hit Asia particularly hard as many nations are heavily reliant on Gulf oil.",
@@ -753,7 +762,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 38
+      "news_count": 39
     },
     {
       "country_code": "IR",
