@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-04-10T23:56:14Z",
+  "generated_at": "2026-04-11T01:29:40Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Trump has handed JD Vance his most difficult mission yet",
+      "url": "https://www.bbc.com/news/articles/c1d9z1q2997o?at_medium=RSS&at_campaign=rss",
+      "summary": "As the US vice-president leads peace talks with Iran, he must balance warring factions, a demanding boss and his own political future.",
+      "published_at": "2026-04-11T00:54:23Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Historic Vance-Ghalibaf talks must bridge deep distrust",
+      "url": "https://www.bbc.com/news/articles/cn9qzl12537o?at_medium=RSS&at_campaign=rss",
+      "summary": "Face-to-face talks would mark the highest-level engagement between Iran and the US since the 1979 Islamic Revolution.",
+      "published_at": "2026-04-10T23:46:49Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "Lebanon and Israel officials to meet in US on Tuesday",
@@ -92,7 +110,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Africa",
       "title": "Popular Tanzanian musician Matonya charged with rape in Kenya",
       "url": "https://www.bbc.com/news/articles/cwydvrj4vgzo?at_medium=RSS&at_campaign=rss",
       "summary": "The 43-year-old denies the charge and has been released on bail and had to surrender his passport.",
@@ -137,7 +155,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "India proposes new rules to regulate news and political posts on social media",
       "url": "https://www.bbc.com/news/articles/ce9mx2j3xlxo?at_medium=RSS&at_campaign=rss",
       "summary": "The changes will give government more power over news-related posts shared by podcasters and influencers.",
@@ -387,15 +405,6 @@
       "published_at": "2026-04-08T11:37:19Z",
       "country_code": "VN",
       "country_name": "Vietnam"
-    },
-    {
-      "source": "BBC Middle East",
-      "title": "Watch: When will fuel prices go down?",
-      "url": "https://www.bbc.com/news/videos/c62je685v3vo?at_medium=RSS&at_campaign=rss",
-      "summary": "The BBC's Nick Marsh takes a look at whether fuel costs will get cheaper now the US and Iran have agreed a ceasefire.",
-      "published_at": "2026-04-08T11:23:35Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC Latin America",
@@ -708,7 +717,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 34
+      "news_count": 35
     },
     {
       "country_code": "IR",
