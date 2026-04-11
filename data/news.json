@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-04-11T08:31:00Z",
+  "generated_at": "2026-04-11T09:31:13Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "'You are my god', Japan's PM tells British rock band Deep Purple",
+      "url": "https://www.bbc.com/news/articles/cre12n72nwno?at_medium=RSS&at_campaign=rss",
+      "summary": "Hard rock enthusiast Sanae Takaichi beamed as she met the rockers in her Tokyo office.",
+      "published_at": "2026-04-11T09:12:36Z",
+      "country_code": "JP",
+      "country_name": "Japan"
+    },
     {
       "source": "BBC World",
       "title": "Concerns after satellite provider restricts Iran images following US pressure",
@@ -20,7 +29,7 @@
       "country_name": "Argentina"
     },
     {
-      "source": "BBC US & Canada",
+      "source": "BBC World",
       "title": "This idyllic US town was full of police families - and a serial killer in their midst",
       "url": "https://www.bbc.com/news/articles/cpwjkqq910go?at_medium=RSS&at_campaign=rss",
       "summary": "For years, rumours swirled about who could be behind the bodies that washed up on the shores of Gilgo Beach.",
@@ -837,6 +846,11 @@
     {
       "country_code": "IL",
       "country_name": "Israel",
+      "news_count": 1
+    },
+    {
+      "country_code": "JP",
+      "country_name": "Japan",
       "news_count": 1
     },
     {
