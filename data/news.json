@@ -1,12 +1,21 @@
 {
-  "generated_at": "2026-04-11T14:28:11Z",
+  "generated_at": "2026-04-11T15:01:48Z",
   "articles": [
+    {
+      "source": "BBC Africa",
+      "title": "Nearly 400 sentenced in Nigeria for links to militant Islamists",
+      "url": "https://www.bbc.com/news/articles/cvge1kdmpzwo?at_medium=RSS&at_campaign=rss",
+      "summary": "Judges handed down sentences ranging from five years to life imprisonment following mass trials.",
+      "published_at": "2026-04-11T14:41:31Z",
+      "country_code": "NG",
+      "country_name": "Nigeria"
+    },
     {
       "source": "BBC World",
       "title": "Irish police push back fuel protesters at oil refinery",
       "url": "https://www.bbc.com/news/articles/c0e7rpjqw5po?at_medium=RSS&at_campaign=rss",
       "summary": "Demonstrations due to high prices caused by the US-Israeli war against Iran are affecting traffic on several roads.",
-      "published_at": "2026-04-11T14:07:19Z",
+      "published_at": "2026-04-11T14:41:18Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -216,15 +225,6 @@
       "published_at": "2026-04-10T11:56:12Z",
       "country_code": "RU",
       "country_name": "Russia"
-    },
-    {
-      "source": "BBC Africa",
-      "title": "US has let in 4,499 refugees since October - all but three were South African",
-      "url": "https://www.bbc.com/news/articles/c4g89kkvenqo?at_medium=RSS&at_campaign=rss",
-      "summary": "Trump has given priority to Afrikaners, a white minority group he says is being persecuted. South Africa has objected to his characterisatio…",
-      "published_at": "2026-04-10T08:28:12Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC Asia",
@@ -780,7 +780,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 41
+      "news_count": 40
     },
     {
       "country_code": "IR",
@@ -808,6 +808,11 @@
       "news_count": 3
     },
     {
+      "country_code": "NG",
+      "country_name": "Nigeria",
+      "news_count": 3
+    },
+    {
       "country_code": "AR",
       "country_name": "Argentina",
       "news_count": 2
@@ -825,11 +830,6 @@
     {
       "country_code": "FR",
       "country_name": "France",
-      "news_count": 2
-    },
-    {
-      "country_code": "NG",
-      "country_name": "Nigeria",
       "news_count": 2
     },
     {
