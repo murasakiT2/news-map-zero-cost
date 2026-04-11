@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-04-11T19:11:13Z",
+  "generated_at": "2026-04-11T19:53:42Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Germany's far-right AfD adopts 'radical' manifesto ahead of key polls",
+      "url": "https://www.bbc.com/news/articles/cwy3wwgyd6do?at_medium=RSS&at_campaign=rss",
+      "summary": "The far-right party is riding high in the opinion polls in the eastern state of Saxony-Anhalt.",
+      "published_at": "2026-04-11T18:55:40Z",
+      "country_code": "DE",
+      "country_name": "Germany"
+    },
     {
       "source": "BBC World",
       "title": "Fuel tankers regain access to Irish oil refinery",
@@ -59,7 +68,7 @@
       "source": "BBC World",
       "title": "'Every drop of water counts': Fear for the future of Argentina's glaciers",
       "url": "https://www.bbc.com/news/articles/cj947487wzyo?at_medium=RSS&at_campaign=rss",
-      "summary": "A controversial law to remove protections for the country's glaciers has passed, opening the doors for mining.",
+      "summary": "A controversial law to ease protections for the glaciers has passed, opening the doors for mining.",
       "published_at": "2026-04-11T02:02:56Z",
       "country_code": "AR",
       "country_name": "Argentina"
@@ -131,7 +140,7 @@
       "source": "BBC World",
       "title": "The five big sticking points in US-Iran talks",
       "url": "https://www.bbc.com/news/articles/cx2wyn8wdz0o?at_medium=RSS&at_campaign=rss",
-      "summary": "Peace talks between the US and Iran are due to begin in Pakistan on Saturday.",
+      "summary": "Peace talks between the US and Iran are taking place in Pakistan.",
       "published_at": "2026-04-10T18:13:25Z",
       "country_code": "US",
       "country_name": "United States"
@@ -362,7 +371,7 @@
       "country_name": "Australia"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "Watch: Pope Leo XIV spins basketball on his finger, with help from Harlem Globetrotters",
       "url": "https://www.bbc.com/news/videos/cdrmnj7rz42o?at_medium=RSS&at_campaign=rss",
       "summary": "US exhibition squad, the Harlem Globetrotters, met the pontiff in the Vatican, helping him to spin a basketball on the tip of his finger.",
@@ -789,6 +798,11 @@
       "news_count": 4
     },
     {
+      "country_code": "DE",
+      "country_name": "Germany",
+      "news_count": 3
+    },
+    {
       "country_code": "ES",
       "country_name": "Spain",
       "news_count": 3
@@ -811,11 +825,6 @@
     {
       "country_code": "AU",
       "country_name": "Australia",
-      "news_count": 2
-    },
-    {
-      "country_code": "DE",
-      "country_name": "Germany",
       "news_count": 2
     },
     {
