@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-04-11T22:58:15Z",
+  "generated_at": "2026-04-11T23:31:55Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Iran war lands 'triple blow' to flood-ravaged Sri Lankans",
+      "url": "https://www.bbc.com/news/articles/c4gvkpj0024o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Iran war could not have come at a worse time for Sri Lanka, reeling from devastating floods and an economic crisis.",
+      "published_at": "2026-04-11T23:06:49Z",
+      "country_code": "IR",
+      "country_name": "Iran"
+    },
     {
       "source": "BBC World",
       "title": "Germany's far-right AfD adopts 'radical' manifesto ahead of key polls",
@@ -56,7 +65,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Latin America",
       "title": "'Every drop of water counts': Fear for the future of Argentina's glaciers",
       "url": "https://www.bbc.com/news/articles/cj947487wzyo?at_medium=RSS&at_campaign=rss",
       "summary": "A controversial law to ease protections for the glaciers has passed, opening the doors for mining.",
@@ -776,7 +785,7 @@
     {
       "country_code": "IR",
       "country_name": "Iran",
-      "news_count": 7
+      "news_count": 8
     },
     {
       "country_code": "KE",
