@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-04-11T23:31:55Z",
+  "generated_at": "2026-04-12T01:26:44Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "India refuses to criminalise marital rape. This new series shines a light on it",
+      "url": "https://www.bbc.com/news/articles/cgqkl2kqkxzo?at_medium=RSS&at_campaign=rss",
+      "summary": "Chiraiya, which has drawn an audience of millions, has prompted conversations on social media around consent and misogyny.",
+      "published_at": "2026-04-12T00:16:41Z",
+      "country_code": "IN",
+      "country_name": "India"
+    },
+    {
+      "source": "BBC World",
+      "title": "We spoke to the man making viral Lego-style AI videos for Iran. Experts say it's powerful propaganda",
+      "url": "https://www.bbc.com/news/articles/cjd8jrd1vnyo?at_medium=RSS&at_campaign=rss",
+      "summary": "\"Slopaganda\" is too weak a term to capture how powerful this \"highly sophisticated\" content is, one expert says.",
+      "published_at": "2026-04-11T23:13:23Z",
+      "country_code": "IR",
+      "country_name": "Iran"
+    },
     {
       "source": "BBC World",
       "title": "Iran war lands 'triple blow' to flood-ravaged Sri Lankans",
@@ -92,7 +110,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "Lyse Doucet: Historic US-Iran talks must bridge deep distrust",
       "url": "https://www.bbc.com/news/articles/cn9qzl12537o?at_medium=RSS&at_campaign=rss",
       "summary": "Face-to-face talks would mark the highest-level engagement between Iran and the US since the 1979 Islamic Revolution.",
@@ -785,7 +803,7 @@
     {
       "country_code": "IR",
       "country_name": "Iran",
-      "news_count": 8
+      "news_count": 9
     },
     {
       "country_code": "KE",
@@ -798,6 +816,11 @@
       "news_count": 4
     },
     {
+      "country_code": "IN",
+      "country_name": "India",
+      "news_count": 4
+    },
+    {
       "country_code": "DE",
       "country_name": "Germany",
       "news_count": 3
@@ -805,11 +828,6 @@
     {
       "country_code": "ES",
       "country_name": "Spain",
-      "news_count": 3
-    },
-    {
-      "country_code": "IN",
-      "country_name": "India",
       "news_count": 3
     },
     {
