@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-04-12T22:22:50Z",
+  "generated_at": "2026-04-12T23:00:36Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Trump's blockade threat raises risks and leaves predicaments unchanged",
+      "url": "https://www.bbc.com/news/articles/c8dl5mly2rzo?at_medium=RSS&at_campaign=rss",
+      "summary": "The conflict is now a test of wills - Iran’s capacity to absorb strikes versus Trump’s tolerance for the war's costs.",
+      "published_at": "2026-04-12T22:57:22Z",
+      "country_code": "IR",
+      "country_name": "Iran"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "Iran talks were a major test for JD Vance. How did he do?",
+      "url": "https://www.bbc.com/news/articles/c5y7k4y0veyo?at_medium=RSS&at_campaign=rss",
+      "summary": "It was a difficult mission, negotiating on behalf of a president whose messaging on the war has been mixed from the start.",
+      "published_at": "2026-04-12T22:22:42Z",
+      "country_code": "IR",
+      "country_name": "Iran"
+    },
     {
       "source": "BBC Asia",
       "title": "'Out of control' diesel prices threaten Australia's crucial freight industry",
@@ -18,15 +36,6 @@
       "published_at": "2026-04-12T21:31:29Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "Trump's blockade threat raises risks and leaves predicaments unchanged",
-      "url": "https://www.bbc.com/news/articles/c8dl5mly2rzo?at_medium=RSS&at_campaign=rss",
-      "summary": "The conflict is now a test of wills - Iran’s capacity to absorb strikes versus Trump’s tolerance for the war's costs.",
-      "published_at": "2026-04-12T18:48:57Z",
-      "country_code": "IR",
-      "country_name": "Iran"
     },
     {
       "source": "BBC World",
@@ -542,7 +551,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC US & Canada",
+      "source": "BBC Middle East",
       "title": "Iran ceasefire deal gives Trump a way out of war - but at a high cost",
       "url": "https://www.bbc.com/news/articles/cwyvp55xrlro?at_medium=RSS&at_campaign=rss",
       "summary": "The path to the two-week ceasefire with Iran may have fundamentally altered the way the rest of the world views the US.",
@@ -803,7 +812,7 @@
     {
       "country_code": "IR",
       "country_name": "Iran",
-      "news_count": 10
+      "news_count": 11
     },
     {
       "country_code": "GB",
