@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-04-12T09:36:58Z",
+  "generated_at": "2026-04-12T10:29:00Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "'We need real peace': Easter truce fails to lift grim mood in war-torn Ukraine",
+      "url": "https://www.bbc.com/news/articles/cj0vn30574no?at_medium=RSS&at_campaign=rss",
+      "summary": "Easter festivities are muted in Kharkiv as Ukrainians expect fighting to flare up again after a weekend truce.",
+      "published_at": "2026-04-12T09:38:31Z",
+      "country_code": "UA",
+      "country_name": "Ukraine"
+    },
     {
       "source": "BBC World",
       "title": "Ukraine and Russia accuse each other of hundreds of ceasefire violations",
@@ -9,15 +18,6 @@
       "published_at": "2026-04-12T09:19:47Z",
       "country_code": "RU",
       "country_name": "Russia"
-    },
-    {
-      "source": "BBC World",
-      "title": "'We need real peace': Easter truce fails to lift grim mood in war-torn Ukraine",
-      "url": "https://www.bbc.com/news/articles/cj0vn30574no?at_medium=RSS&at_campaign=rss",
-      "summary": "Easter festivities are muted in Kharkiv as Ukrainians expect fighting to flare up again after a weekend truce.",
-      "published_at": "2026-04-12T04:20:37Z",
-      "country_code": "UA",
-      "country_name": "Ukraine"
     },
     {
       "source": "BBC World",
@@ -560,15 +560,6 @@
       "country_name": "Nigeria"
     },
     {
-      "source": "BBC Latin America",
-      "title": "Chilean woman accused of Pinochet-era kidnaps loses extradition battle",
-      "url": "https://www.bbc.com/news/articles/c8r40d4xdngo?at_medium=RSS&at_campaign=rss",
-      "summary": "Adriana Rivas moved from Chile to Australia in the 1970s, working there as a nanny and cleaner.",
-      "published_at": "2026-04-07T12:19:46Z",
-      "country_code": "AU",
-      "country_name": "Australia"
-    },
-    {
       "source": "BBC Asia",
       "title": "Vietnam's leader To Lam strengthens power in unanimous assembly vote",
       "url": "https://www.bbc.com/news/articles/ckgwkmn1rzxo?at_medium=RSS&at_campaign=rss",
@@ -836,11 +827,6 @@
       "news_count": 2
     },
     {
-      "country_code": "AU",
-      "country_name": "Australia",
-      "news_count": 2
-    },
-    {
       "country_code": "DE",
       "country_name": "Germany",
       "news_count": 2
@@ -864,6 +850,11 @@
       "country_code": "VN",
       "country_name": "Vietnam",
       "news_count": 2
+    },
+    {
+      "country_code": "AU",
+      "country_name": "Australia",
+      "news_count": 1
     },
     {
       "country_code": "CA",
