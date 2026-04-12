@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-04-12T08:37:01Z",
+  "generated_at": "2026-04-12T09:36:58Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Ukraine and Russia accuse each other of hundreds of ceasefire violations",
+      "url": "https://www.bbc.com/news/articles/cz78y73v830o?at_medium=RSS&at_campaign=rss",
+      "summary": "Ukrainian President Volodymyr Zelensky says his nation's forces would respond \"symmetrically\" to Russian attacks.",
+      "published_at": "2026-04-12T09:19:47Z",
+      "country_code": "RU",
+      "country_name": "Russia"
+    },
     {
       "source": "BBC World",
       "title": "'We need real peace': Easter truce fails to lift grim mood in war-torn Ukraine",
@@ -847,6 +856,11 @@
       "news_count": 2
     },
     {
+      "country_code": "RU",
+      "country_name": "Russia",
+      "news_count": 2
+    },
+    {
       "country_code": "VN",
       "country_name": "Vietnam",
       "news_count": 2
@@ -874,11 +888,6 @@
     {
       "country_code": "MX",
       "country_name": "Mexico",
-      "news_count": 1
-    },
-    {
-      "country_code": "RU",
-      "country_name": "Russia",
       "news_count": 1
     },
     {
