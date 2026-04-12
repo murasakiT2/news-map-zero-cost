@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-04-12T21:36:27Z",
+  "generated_at": "2026-04-12T22:22:50Z",
   "articles": [
+    {
+      "source": "BBC Asia",
+      "title": "'Out of control' diesel prices threaten Australia's crucial freight industry",
+      "url": "https://www.bbc.com/news/articles/cde5d8y8lx9o?at_medium=RSS&at_campaign=rss",
+      "summary": "Trucking operators say their costs have doubled in a vast country reliant on the industry to deliver goods.",
+      "published_at": "2026-04-12T22:11:23Z",
+      "country_code": "AU",
+      "country_name": "Australia"
+    },
     {
       "source": "BBC World",
       "title": "What is a naval blockade and how would it work in Strait of Hormuz?",
@@ -827,6 +836,11 @@
       "news_count": 2
     },
     {
+      "country_code": "AU",
+      "country_name": "Australia",
+      "news_count": 2
+    },
+    {
       "country_code": "DE",
       "country_name": "Germany",
       "news_count": 2
@@ -850,11 +864,6 @@
       "country_code": "VN",
       "country_name": "Vietnam",
       "news_count": 2
-    },
-    {
-      "country_code": "AU",
-      "country_name": "Australia",
-      "news_count": 1
     },
     {
       "country_code": "CA",
