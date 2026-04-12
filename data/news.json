@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-04-12T01:26:44Z",
+  "generated_at": "2026-04-12T04:25:49Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "'We need real peace': Easter truce fails to lift grim mood in war-torn Ukraine",
+      "url": "https://www.bbc.com/news/articles/cj0vn30574no?at_medium=RSS&at_campaign=rss",
+      "summary": "Easter festivities are muted in Kharkiv as Ukrainians expect fighting to flare up again after a weekend truce.",
+      "published_at": "2026-04-12T04:20:37Z",
+      "country_code": "UA",
+      "country_name": "Ukraine"
+    },
     {
       "source": "BBC World",
       "title": "India refuses to criminalise marital rape. This new series shines a light on it",
@@ -452,15 +461,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Middle East",
-      "title": "Is conditional ceasefire a victory for US or Iran?",
-      "url": "https://www.bbc.com/news/videos/crm1x927gpno?at_medium=RSS&at_campaign=rss",
-      "summary": "BBC correspondent Frank Gardner explains the current situation as both sides claim victory - Iran says it will reopen the Strait of Hormuz a…",
-      "published_at": "2026-04-08T16:35:07Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC Europe",
       "title": "Germany suspends military approval for long stays abroad for men under 45",
       "url": "https://www.bbc.com/news/articles/ckgx103wkl1o?at_medium=RSS&at_campaign=rss",
@@ -798,7 +798,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 38
+      "news_count": 37
     },
     {
       "country_code": "IR",
@@ -903,6 +903,11 @@
     {
       "country_code": "SG",
       "country_name": "Singapore",
+      "news_count": 1
+    },
+    {
+      "country_code": "UA",
+      "country_name": "Ukraine",
       "news_count": 1
     }
   ]
