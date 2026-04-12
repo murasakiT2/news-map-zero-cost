@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-04-12T23:00:36Z",
+  "generated_at": "2026-04-12T23:57:17Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Frostbite is least of worries for Canada forces grappling with new Arctic reality",
+      "url": "https://www.bbc.com/news/articles/cwyj8jjkl78o?at_medium=RSS&at_campaign=rss",
+      "summary": "Across 5,200 km of Canada's Arctic, some 1,300 members of Canada's military spent two winter months on a mission to meet the challenges of a…",
+      "published_at": "2026-04-12T23:07:23Z",
+      "country_code": "CA",
+      "country_name": "Canada"
+    },
     {
       "source": "BBC World",
       "title": "Trump's blockade threat raises risks and leaves predicaments unchanged",
@@ -155,7 +164,7 @@
       "country_name": "Argentina"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "This idyllic US town was full of police families - and a serial killer in their midst",
       "url": "https://www.bbc.com/news/articles/cpwjkqq910go?at_medium=RSS&at_campaign=rss",
       "summary": "For years, rumours swirled about who could be behind the bodies being discovered on the shores of Gilgo Beach.",
@@ -850,6 +859,11 @@
       "news_count": 2
     },
     {
+      "country_code": "CA",
+      "country_name": "Canada",
+      "news_count": 2
+    },
+    {
       "country_code": "DE",
       "country_name": "Germany",
       "news_count": 2
@@ -873,11 +887,6 @@
       "country_code": "VN",
       "country_name": "Vietnam",
       "news_count": 2
-    },
-    {
-      "country_code": "CA",
-      "country_name": "Canada",
-      "news_count": 1
     },
     {
       "country_code": "CN",
