@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-12T06:08:04Z",
+  "generated_at": "2026-04-12T07:47:29Z",
   "articles": [
     {
       "source": "BBC World",
@@ -11,7 +11,7 @@
       "country_name": "Ukraine"
     },
     {
-      "source": "BBC Europe",
+      "source": "BBC World",
       "title": "How Hungary's knife-edge election could impact the US and Russia",
       "url": "https://www.bbc.com/news/videos/cpqxy0d1g2yo?at_medium=RSS&at_campaign=rss",
       "summary": "The BBC's Europe Editor Katya Adler reports from Prime Minister Victor Orbán's home town of Felscút.",
@@ -749,15 +749,6 @@
       "country_name": "France"
     },
     {
-      "source": "BBC Europe",
-      "title": "The German army protecting Western Europe's eastern edge",
-      "url": "https://www.bbc.com/news/videos/cwyjw431d5ko?at_medium=RSS&at_campaign=rss",
-      "summary": "Can Germany fulfil its newfound ambition to become Europe's pre-eminent military power?",
-      "published_at": "2026-03-27T22:10:44Z",
-      "country_code": "DE",
-      "country_name": "Germany"
-    },
-    {
       "source": "BBC Africa",
       "title": "Women secretly filmed, then ridiculed and abused online",
       "url": "https://www.bbc.com/news/articles/cy5141zyllno?at_medium=RSS&at_campaign=rss",
@@ -821,11 +812,6 @@
       "news_count": 4
     },
     {
-      "country_code": "DE",
-      "country_name": "Germany",
-      "news_count": 3
-    },
-    {
       "country_code": "ES",
       "country_name": "Spain",
       "news_count": 3
@@ -843,6 +829,11 @@
     {
       "country_code": "AU",
       "country_name": "Australia",
+      "news_count": 2
+    },
+    {
+      "country_code": "DE",
+      "country_name": "Germany",
       "news_count": 2
     },
     {
