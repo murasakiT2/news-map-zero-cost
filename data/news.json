@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-04-12T18:48:08Z",
+  "generated_at": "2026-04-12T19:32:38Z",
   "articles": [
     {
       "source": "BBC World",
       "title": "Trump's Strait of Hormuz blockade threat raises risks and leaves predicaments unchanged",
       "url": "https://www.bbc.com/news/articles/c8dl5mly2rzo?at_medium=RSS&at_campaign=rss",
       "summary": "The conflict is now a test of wills - Iran’s capacity to absorb strikes versus Trump’s tolerance for the war's costs.",
-      "published_at": "2026-04-12T18:43:47Z",
+      "published_at": "2026-04-12T18:48:57Z",
       "country_code": "IR",
       "country_name": "Iran"
     },
@@ -261,15 +261,6 @@
       "published_at": "2026-04-10T14:07:20Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC Africa",
-      "title": "Popular Tanzanian musician Matonya charged with rape in Kenya",
-      "url": "https://www.bbc.com/news/articles/cwydvrj4vgzo?at_medium=RSS&at_campaign=rss",
-      "summary": "The 43-year-old denies the charge and has been released on bail and had to surrender his passport.",
-      "published_at": "2026-04-10T12:08:04Z",
-      "country_code": "KE",
-      "country_name": "Kenya"
     },
     {
       "source": "BBC Europe",
@@ -797,11 +788,6 @@
       "news_count": 10
     },
     {
-      "country_code": "KE",
-      "country_name": "Kenya",
-      "news_count": 5
-    },
-    {
       "country_code": "GB",
       "country_name": "United Kingdom",
       "news_count": 4
@@ -809,6 +795,11 @@
     {
       "country_code": "IN",
       "country_name": "India",
+      "news_count": 4
+    },
+    {
+      "country_code": "KE",
+      "country_name": "Kenya",
       "news_count": 4
     },
     {
