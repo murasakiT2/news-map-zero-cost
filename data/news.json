@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-12T04:25:49Z",
+  "generated_at": "2026-04-12T06:08:04Z",
   "articles": [
     {
       "source": "BBC World",
@@ -9,6 +9,15 @@
       "published_at": "2026-04-12T04:20:37Z",
       "country_code": "UA",
       "country_name": "Ukraine"
+    },
+    {
+      "source": "BBC Europe",
+      "title": "How Hungary's knife-edge election could impact the US and Russia",
+      "url": "https://www.bbc.com/news/videos/cpqxy0d1g2yo?at_medium=RSS&at_campaign=rss",
+      "summary": "The BBC's Europe Editor Katya Adler reports from Prime Minister Victor Orbán's home town of Felscút.",
+      "published_at": "2026-04-12T02:52:03Z",
+      "country_code": "US",
+      "country_name": "United States"
     },
     {
       "source": "BBC World",
@@ -110,7 +119,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "JD Vance takes on a perilous mission - could it backfire?",
       "url": "https://www.bbc.com/news/articles/c1d9z1q2997o?at_medium=RSS&at_campaign=rss",
       "summary": "As the US vice-president leads peace talks with Iran, he must balance warring factions, a demanding boss and his own political future.",
@@ -164,7 +173,7 @@
       "country_name": "Iran"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "The five big sticking points in US-Iran talks",
       "url": "https://www.bbc.com/news/articles/cx2wyn8wdz0o?at_medium=RSS&at_campaign=rss",
       "summary": "Peace talks between the US and Iran are taking place in Pakistan.",
@@ -686,15 +695,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Middle East",
-      "title": "Israel's perpetual war with Iran may be hard to win with military might alone",
-      "url": "https://www.bbc.com/news/articles/cql72k19rz4o?at_medium=RSS&at_campaign=rss",
-      "summary": "The war with Iran has not yet resolved any of Israel's regional conflicts in the way its prime minister suggested it would.",
-      "published_at": "2026-04-01T19:23:52Z",
-      "country_code": "IL",
-      "country_name": "Israel"
-    },
-    {
       "source": "BBC Africa",
       "title": "Lamine Yamal condemns racist abuse aimed at Egypt",
       "url": "https://www.bbc.com/sport/football/articles/cz6737pdnwpo?at_medium=RSS&at_campaign=rss",
@@ -798,7 +798,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 37
+      "news_count": 38
     },
     {
       "country_code": "IR",
@@ -868,11 +868,6 @@
     {
       "country_code": "CN",
       "country_name": "China",
-      "news_count": 1
-    },
-    {
-      "country_code": "IL",
-      "country_name": "Israel",
       "news_count": 1
     },
     {
