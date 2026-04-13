@@ -1,14 +1,23 @@
 {
-  "generated_at": "2026-04-13T02:12:20Z",
+  "generated_at": "2026-04-13T05:25:34Z",
   "articles": [
     {
       "source": "BBC World",
       "title": "Oil back above $100 as US to blockade Iranian ports after peace talks fail",
       "url": "https://www.bbc.com/news/articles/cn781z4lgg4o?at_medium=RSS&at_campaign=rss",
       "summary": "The failure of negotiations at the weekend has raised concerns that the global energy crisis will deepen.",
-      "published_at": "2026-04-13T00:35:08Z",
+      "published_at": "2026-04-13T05:24:51Z",
       "country_code": "US",
       "country_name": "United States"
+    },
+    {
+      "source": "BBC Europe",
+      "title": "UK could adopt EU single market rules under new legislation",
+      "url": "https://www.bbc.com/news/articles/c937jkvp3w8o?at_medium=RSS&at_campaign=rss",
+      "summary": "Sir Keir Starmer is planning a law which will mean that the UK government can adopt EU single market rules, without them being voted on in P…",
+      "published_at": "2026-04-13T04:00:34Z",
+      "country_code": "GB",
+      "country_name": "United Kingdom"
     },
     {
       "source": "BBC World",
@@ -72,6 +81,15 @@
       "published_at": "2026-04-12T11:53:37Z",
       "country_code": "RU",
       "country_name": "Russia"
+    },
+    {
+      "source": "BBC Europe",
+      "title": "Union Berlin appoint first female head coach",
+      "url": "https://www.bbc.com/sport/football/articles/cq59yvy6v0eo?at_medium=RSS&at_campaign=rss",
+      "summary": "Marie-Louise Eta becomes the first woman appointed to manage a men's team in one of Europe's top five leagues as she is named interim head c…",
+      "published_at": "2026-04-12T07:37:10Z",
+      "country_code": "DE",
+      "country_name": "Germany"
     },
     {
       "source": "BBC World",
@@ -290,15 +308,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Europe",
-      "title": "Russia and Ukraine agree to Orthodox Easter truce",
-      "url": "https://www.bbc.com/news/articles/cn0wkkwev2vo?at_medium=RSS&at_campaign=rss",
-      "summary": "Vladimir Putin announced the truce, which will last from Saturday afternoon through Easter Sunday.",
-      "published_at": "2026-04-10T11:56:12Z",
-      "country_code": "RU",
-      "country_name": "Russia"
-    },
-    {
       "source": "BBC Asia",
       "title": "Taiwan opposition leader meets Xi Jinping in Beijing",
       "url": "https://www.bbc.com/news/articles/cj94y87k2ljo?at_medium=RSS&at_campaign=rss",
@@ -387,15 +396,6 @@
       "published_at": "2026-04-09T14:31:57Z",
       "country_code": "CA",
       "country_name": "Canada"
-    },
-    {
-      "source": "BBC Europe",
-      "title": "Four people die trying to board boat in Channel crossing attempt",
-      "url": "https://www.bbc.com/news/articles/cgmenyllyz7o?at_medium=RSS&at_campaign=rss",
-      "summary": "Authorities say 37 people are being treated in hospital, but around 30 others continued their journeys to the UK.",
-      "published_at": "2026-04-09T13:56:14Z",
-      "country_code": "GB",
-      "country_name": "United Kingdom"
     },
     {
       "source": "BBC US & Canada",
@@ -495,24 +495,6 @@
       "published_at": "2026-04-08T17:16:37Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC Europe",
-      "title": "Germany suspends military approval for long stays abroad for men under 45",
-      "url": "https://www.bbc.com/news/articles/ckgx103wkl1o?at_medium=RSS&at_campaign=rss",
-      "summary": "The requirement to obtain permission had gone largely unnoticed until a German newspaper reported on it.",
-      "published_at": "2026-04-08T15:21:12Z",
-      "country_code": "DE",
-      "country_name": "Germany"
-    },
-    {
-      "source": "BBC Europe",
-      "title": "Greece to ban social media for under-15s from next year",
-      "url": "https://www.bbc.com/news/articles/ckgx1x742x5o?at_medium=RSS&at_campaign=rss",
-      "summary": "It follows similar moves in other European countries, including France and Spain.",
-      "published_at": "2026-04-08T11:39:43Z",
-      "country_code": "FR",
-      "country_name": "France"
     },
     {
       "source": "BBC Latin America",
@@ -792,11 +774,6 @@
       "news_count": 2
     },
     {
-      "country_code": "FR",
-      "country_name": "France",
-      "news_count": 2
-    },
-    {
       "country_code": "IN",
       "country_name": "India",
       "news_count": 2
@@ -807,13 +784,13 @@
       "news_count": 2
     },
     {
-      "country_code": "RU",
-      "country_name": "Russia",
-      "news_count": 2
-    },
-    {
       "country_code": "CN",
       "country_name": "China",
+      "news_count": 1
+    },
+    {
+      "country_code": "FR",
+      "country_name": "France",
       "news_count": 1
     },
     {
@@ -829,6 +806,11 @@
     {
       "country_code": "MX",
       "country_name": "Mexico",
+      "news_count": 1
+    },
+    {
+      "country_code": "RU",
+      "country_name": "Russia",
       "news_count": 1
     },
     {
