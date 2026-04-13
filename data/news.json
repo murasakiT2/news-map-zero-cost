@@ -1,14 +1,68 @@
 {
-  "generated_at": "2026-04-13T15:52:28Z",
+  "generated_at": "2026-04-13T16:53:23Z",
   "articles": [
+    {
+      "source": "BBC Middle East",
+      "title": "How many ships are crossing the Strait of Hormuz?",
+      "url": "https://www.bbc.com/news/articles/c3w39lg84w2o?at_medium=RSS&at_campaign=rss",
+      "summary": "The first vessel has crossed the Strait of Hormuz after the US imposed a military blockade of Iran's ports.",
+      "published_at": "2026-04-13T16:37:57Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "US home buyers 'frozen' as sales slump over Iran war fears",
+      "url": "https://www.bbc.com/news/articles/cn08ep6d5ndo?at_medium=RSS&at_campaign=rss",
+      "summary": "The number of homes sold in the US hit a nine-month low, with economists warning of the slowdown could worsen.",
+      "published_at": "2026-04-13T16:25:08Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "What is a naval blockade and how would it work in Strait of Hormuz?",
+      "url": "https://www.bbc.com/news/articles/c5yv6xr6me3o?at_medium=RSS&at_campaign=rss",
+      "summary": "Donald Trump says that the US is blockading the Strait of Hormuz. What does this mean in practice?",
+      "published_at": "2026-04-13T16:07:13Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Ex-Nigerian oil minister denies taking bribes",
+      "url": "https://www.bbc.com/news/articles/crl141ern74o?at_medium=RSS&at_campaign=rss",
+      "summary": "Diezani Alison-Madueke is accused of living “a life of luxury” in the UK at properties paid for and refurbished by industry figures.",
+      "published_at": "2026-04-13T16:05:59Z",
+      "country_code": "GB",
+      "country_name": "United Kingdom"
+    },
     {
       "source": "BBC World",
       "title": "Leo becomes first Pope to visit Algeria at start of major Africa tour",
       "url": "https://www.bbc.com/news/articles/cvg0jyx4qq7o?at_medium=RSS&at_campaign=rss",
       "summary": "Leo XIV wants the world's attention on a continent vital to the Church's future, an aide says.",
-      "published_at": "2026-04-13T14:55:14Z",
+      "published_at": "2026-04-13T15:58:38Z",
       "country_code": "DZ",
       "country_name": "Algeria"
+    },
+    {
+      "source": "BBC World",
+      "title": "The US blockade of Iran is a gamble. Will it work?",
+      "url": "https://www.bbc.com/news/articles/ckgw8w7mzxgo?at_medium=RSS&at_campaign=rss",
+      "summary": "The US military has the capability to mount a blockade of vessels moving in and out of the Gulf. The question is: to what end?",
+      "published_at": "2026-04-13T15:27:43Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "Pope Leo responds to Trump, saying he will continue to 'speak out'",
+      "url": "https://www.bbc.com/news/videos/c9wqnq2zw8do?at_medium=RSS&at_campaign=rss",
+      "summary": "Trump attacked the first American leader of the Roman Catholic Church after he condemned the US president's threat against Iran.",
+      "published_at": "2026-04-13T14:47:06Z",
+      "country_code": "US",
+      "country_name": "United States"
     },
     {
       "source": "BBC Europe",
@@ -81,24 +135,6 @@
       "published_at": "2026-04-13T10:52:08Z",
       "country_code": "NG",
       "country_name": "Nigeria"
-    },
-    {
-      "source": "BBC Middle East",
-      "title": "How many ships are crossing the Strait of Hormuz?",
-      "url": "https://www.bbc.com/news/articles/c3w39lg84w2o?at_medium=RSS&at_campaign=rss",
-      "summary": "Four vessels have crossed the Strait of Hormuz ahead of a US military blockade of Iranian ports set to begin on Monday.",
-      "published_at": "2026-04-13T10:18:02Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "What is a naval blockade and how would it work in Strait of Hormuz?",
-      "url": "https://www.bbc.com/news/articles/c5yv6xr6me3o?at_medium=RSS&at_campaign=rss",
-      "summary": "Donald Trump says that the US is going to start blockading the Strait of Hormuz. What does this mean in practice?",
-      "published_at": "2026-04-13T09:40:29Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC World",
@@ -524,7 +560,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC US & Canada",
+      "source": "BBC Middle East",
       "title": "Iran ceasefire deal gives Trump a way out of war - but at a high cost",
       "url": "https://www.bbc.com/news/articles/cwyvp55xrlro?at_medium=RSS&at_campaign=rss",
       "summary": "The path to the two-week ceasefire with Iran may have fundamentally altered the way the rest of the world views the US.",
@@ -744,7 +780,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 34
+      "news_count": 37
     },
     {
       "country_code": "IR",
@@ -759,7 +795,7 @@
     {
       "country_code": "GB",
       "country_name": "United Kingdom",
-      "news_count": 4
+      "news_count": 5
     },
     {
       "country_code": "ES",
