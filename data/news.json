@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-04-13T16:53:23Z",
+  "generated_at": "2026-04-13T17:51:45Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Italian PM condemns ally Trump over 'unacceptable' Pope criticism",
+      "url": "https://www.bbc.com/news/articles/cp841y07w5xo?at_medium=RSS&at_campaign=rss",
+      "summary": "Italy's prime minister and the US president are close allies, but Trump has refused to apologise to the \"very weak\" Pope Leo XIV.",
+      "published_at": "2026-04-13T17:32:43Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC Middle East",
       "title": "How many ships are crossing the Strait of Hormuz?",
@@ -50,7 +59,7 @@
       "source": "BBC World",
       "title": "The US blockade of Iran is a gamble. Will it work?",
       "url": "https://www.bbc.com/news/articles/ckgw8w7mzxgo?at_medium=RSS&at_campaign=rss",
-      "summary": "The US military has the capability to mount a blockade of vessels moving in and out of the Gulf. The question is: to what end?",
+      "summary": "The US military is gambling on the blockade denying Iran vital trade - but questions remain on whether the bet will pay off.",
       "published_at": "2026-04-13T15:27:43Z",
       "country_code": "US",
       "country_name": "United States"
@@ -108,15 +117,6 @@
       "published_at": "2026-04-13T12:53:00Z",
       "country_code": "IR",
       "country_name": "Iran"
-    },
-    {
-      "source": "BBC World",
-      "title": "Pope says he has 'no fear' of Trump after scathing criticism",
-      "url": "https://www.bbc.com/news/articles/cp841y07w5xo?at_medium=RSS&at_campaign=rss",
-      "summary": "The US president accuses Leo of being \"weak on crime and terrible for foreign policy\".",
-      "published_at": "2026-04-13T12:50:30Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC Europe",
@@ -261,24 +261,6 @@
       "published_at": "2026-04-11T18:55:40Z",
       "country_code": "DE",
       "country_name": "Germany"
-    },
-    {
-      "source": "BBC Africa",
-      "title": "UK shelves Chagos deal after Trump opposition",
-      "url": "https://www.bbc.com/news/articles/c04x1lg1lygo?at_medium=RSS&at_campaign=rss",
-      "summary": "UK government officials say they are not entirely abandoning the agreement but have run out of time.",
-      "published_at": "2026-04-11T17:01:58Z",
-      "country_code": "GB",
-      "country_name": "United Kingdom"
-    },
-    {
-      "source": "BBC Africa",
-      "title": "Nearly 400 sentenced in Nigeria for links to militant Islamists",
-      "url": "https://www.bbc.com/news/articles/cvge1kdmpzwo?at_medium=RSS&at_campaign=rss",
-      "summary": "Judges handed down sentences ranging from five years to life imprisonment following mass trials.",
-      "published_at": "2026-04-11T14:41:31Z",
-      "country_code": "NG",
-      "country_name": "Nigeria"
     },
     {
       "source": "BBC Middle East",
@@ -790,12 +772,12 @@
     {
       "country_code": "NG",
       "country_name": "Nigeria",
-      "news_count": 6
+      "news_count": 5
     },
     {
       "country_code": "GB",
       "country_name": "United Kingdom",
-      "news_count": 5
+      "news_count": 4
     },
     {
       "country_code": "ES",
