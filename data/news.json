@@ -1,11 +1,29 @@
 {
-  "generated_at": "2026-04-13T10:58:56Z",
+  "generated_at": "2026-04-13T12:03:05Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Leo becomes first Pope to visit Algeria at start of major Africa tour",
+      "url": "https://www.bbc.com/news/articles/cvg0jyx4qq7o?at_medium=RSS&at_campaign=rss",
+      "summary": "Leo XIV wants the world's attention on a continent vital to the Church's future, an aide says.",
+      "published_at": "2026-04-13T11:56:58Z",
+      "country_code": "DZ",
+      "country_name": "Algeria"
+    },
+    {
+      "source": "BBC Europe",
+      "title": "UK could adopt EU single market rules under new legislation",
+      "url": "https://www.bbc.com/news/articles/c937jkvp3w8o?at_medium=RSS&at_campaign=rss",
+      "summary": "The move has raised questions over parliamentary scrutiny of future rules to deliver planned EU deals.",
+      "published_at": "2026-04-13T11:18:33Z",
+      "country_code": "GB",
+      "country_name": "United Kingdom"
+    },
     {
       "source": "BBC World",
       "title": "Nigeria Air Force orders investigation after dozens killed in airstrike",
       "url": "https://www.bbc.com/news/articles/cgk021z3ejpo?at_medium=RSS&at_campaign=rss",
-      "summary": "The Nigerian Air Force said it has launched investigations after it struck a village market while targeting militants.",
+      "summary": "There are reports that more than 100 people were killed, although the authorities have not commented.",
       "published_at": "2026-04-13T10:52:08Z",
       "country_code": "NG",
       "country_name": "Nigeria"
@@ -27,15 +45,6 @@
       "published_at": "2026-04-13T10:18:02Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC Europe",
-      "title": "UK could adopt EU single market rules under new legislation",
-      "url": "https://www.bbc.com/news/articles/c937jkvp3w8o?at_medium=RSS&at_campaign=rss",
-      "summary": "The move has raised questions over parliamentary scrutiny of future rules to deliver planned EU deals.",
-      "published_at": "2026-04-13T10:07:24Z",
-      "country_code": "GB",
-      "country_name": "United Kingdom"
     },
     {
       "source": "BBC World",
@@ -773,6 +782,11 @@
     {
       "country_code": "CN",
       "country_name": "China",
+      "news_count": 1
+    },
+    {
+      "country_code": "DZ",
+      "country_name": "Algeria",
       "news_count": 1
     },
     {
