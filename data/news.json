@@ -1,6 +1,33 @@
 {
-  "generated_at": "2026-04-13T14:12:26Z",
+  "generated_at": "2026-04-13T15:52:28Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Leo becomes first Pope to visit Algeria at start of major Africa tour",
+      "url": "https://www.bbc.com/news/articles/cvg0jyx4qq7o?at_medium=RSS&at_campaign=rss",
+      "summary": "Leo XIV wants the world's attention on a continent vital to the Church's future, an aide says.",
+      "published_at": "2026-04-13T14:55:14Z",
+      "country_code": "DZ",
+      "country_name": "Algeria"
+    },
+    {
+      "source": "BBC Europe",
+      "title": "French cement giant guilty of financing militant groups including Islamic State",
+      "url": "https://www.bbc.com/news/articles/crl1441816po?at_medium=RSS&at_campaign=rss",
+      "summary": "The French company paid $6.5m to jihadist groups to keep its plant running in war-torn Syria, a Paris court heard.",
+      "published_at": "2026-04-13T14:15:50Z",
+      "country_code": "FR",
+      "country_name": "France"
+    },
+    {
+      "source": "BBC Middle East",
+      "title": "French cement giant guilty of financing IS and other militant groups in Syria",
+      "url": "https://www.bbc.com/news/articles/crl1441816po?at_medium=RSS&at_campaign=rss",
+      "summary": "The French company paid $6.5m to jihadist groups to keep its plant running in war-torn Syria, a Paris court heard.",
+      "published_at": "2026-04-13T14:15:50Z",
+      "country_code": "FR",
+      "country_name": "France"
+    },
     {
       "source": "BBC Middle East",
       "title": "Israel steps up strikes on Lebanon and Hezbollah attacks continue as talks loom",
@@ -36,15 +63,6 @@
       "published_at": "2026-04-13T12:50:30Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "Leo becomes first Pope to visit Algeria at start of major Africa tour",
-      "url": "https://www.bbc.com/news/articles/cvg0jyx4qq7o?at_medium=RSS&at_campaign=rss",
-      "summary": "Leo XIV wants the world's attention on a continent vital to the Church's future, an aide says.",
-      "published_at": "2026-04-13T11:56:58Z",
-      "country_code": "DZ",
-      "country_name": "Algeria"
     },
     {
       "source": "BBC Europe",
@@ -488,15 +506,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Middle East",
-      "title": "Watch: When will fuel prices go down?",
-      "url": "https://www.bbc.com/news/videos/c62je685v3vo?at_medium=RSS&at_campaign=rss",
-      "summary": "The BBC's Nick Marsh takes a look at whether fuel costs will get cheaper now the US and Iran have agreed a ceasefire.",
-      "published_at": "2026-04-08T11:23:35Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC Latin America",
       "title": "Co-founder of Jalisco New Generation drug cartel pleads guilty",
       "url": "https://www.bbc.com/news/articles/c8ejyjnk9pdo?at_medium=RSS&at_campaign=rss",
@@ -735,7 +744,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 35
+      "news_count": 34
     },
     {
       "country_code": "IR",
@@ -775,6 +784,11 @@
     {
       "country_code": "DE",
       "country_name": "Germany",
+      "news_count": 2
+    },
+    {
+      "country_code": "FR",
+      "country_name": "France",
       "news_count": 2
     },
     {
