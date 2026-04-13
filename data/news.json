@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-04-13T21:11:47Z",
+  "generated_at": "2026-04-13T22:06:28Z",
   "articles": [
     {
       "source": "BBC World",
-      "title": "Israelis war-weary but most oppose Iran ceasefire, poll suggests",
-      "url": "https://www.bbc.com/news/articles/clyxgxyeqpgo?at_medium=RSS&at_campaign=rss",
-      "summary": "The vast majority did not believe Hezbollah or Iran had been severely weakened by weeks of Israeli and US attacks, according to the poll.",
-      "published_at": "2026-04-13T19:20:08Z",
-      "country_code": "US",
-      "country_name": "United States"
+      "title": "Hungary's next PM would pick up if Putin calls and tell him to stop Ukraine war",
+      "url": "https://www.bbc.com/news/articles/cd6lzezp4zvo?at_medium=RSS&at_campaign=rss",
+      "summary": "Russia has offered \"pragmatic\" relations, but Péter Magyar says he will not call Vladimir Putin himself.",
+      "published_at": "2026-04-13T21:28:14Z",
+      "country_code": "RU",
+      "country_name": "Russia"
     },
     {
-      "source": "BBC Asia",
+      "source": "BBC World",
       "title": "Philippines accuses Chinese fishermen of dumping cyanide in South China Sea",
       "url": "https://www.bbc.com/news/articles/cvgk331k44yo?at_medium=RSS&at_campaign=rss",
       "summary": "Beijing rejects the allegation as a \"farce\", while Manila claims the poison was used to kill fish and deprive troops stationed in the area o…",
@@ -25,6 +25,15 @@
       "url": "https://www.bbc.com/news/videos/c1krg1rzpmeo?at_medium=RSS&at_campaign=rss",
       "summary": "Some of the cheapest fuel in the country can be found on tribal land due to tax exemptions.",
       "published_at": "2026-04-13T19:10:28Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "US blockade of Iranian ports explained in two minutes",
+      "url": "https://www.bbc.com/news/videos/cd9vg5vggvqo?at_medium=RSS&at_campaign=rss",
+      "summary": "The BBC's security correspondent Frank Gardner explains how the US blockade of Iranian ports will work.",
+      "published_at": "2026-04-13T17:33:26Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -524,15 +533,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Middle East",
-      "title": "Is conditional ceasefire a victory for US or Iran?",
-      "url": "https://www.bbc.com/news/videos/crm1x927gpno?at_medium=RSS&at_campaign=rss",
-      "summary": "BBC correspondent Frank Gardner explains the current situation as both sides claim victory - Iran says it will reopen the Strait of Hormuz a…",
-      "published_at": "2026-04-08T16:35:07Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC Latin America",
       "title": "Co-founder of Jalisco New Generation drug cartel pleads guilty",
       "url": "https://www.bbc.com/news/articles/c8ejyjnk9pdo?at_medium=RSS&at_campaign=rss",
@@ -771,7 +771,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 37
+      "news_count": 36
     },
     {
       "country_code": "IR",
@@ -791,6 +791,11 @@
     {
       "country_code": "ES",
       "country_name": "Spain",
+      "news_count": 3
+    },
+    {
+      "country_code": "RU",
+      "country_name": "Russia",
       "news_count": 3
     },
     {
@@ -831,11 +836,6 @@
     {
       "country_code": "KE",
       "country_name": "Kenya",
-      "news_count": 2
-    },
-    {
-      "country_code": "RU",
-      "country_name": "Russia",
       "news_count": 2
     },
     {
