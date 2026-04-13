@@ -1,6 +1,33 @@
 {
-  "generated_at": "2026-04-13T19:00:26Z",
+  "generated_at": "2026-04-13T20:15:00Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Israelis war-weary but most oppose Iran ceasefire, poll suggests",
+      "url": "https://www.bbc.com/news/articles/clyxgxyeqpgo?at_medium=RSS&at_campaign=rss",
+      "summary": "The vast majority did not believe Hezbollah or Iran had been severely weakened by weeks of Israeli and US attacks, according to the poll.",
+      "published_at": "2026-04-13T19:20:08Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC Asia",
+      "title": "Philippines accuses Chinese fishermen of dumping cyanide in South China Sea",
+      "url": "https://www.bbc.com/news/articles/cvgk331k44yo?at_medium=RSS&at_campaign=rss",
+      "summary": "Beijing rejects the allegation as a \"farce\", while Manila claims the poison was used to kill fish and deprive troops stationed in the area o…",
+      "published_at": "2026-04-13T19:17:18Z",
+      "country_code": "CN",
+      "country_name": "China"
+    },
+    {
+      "source": "BBC World",
+      "title": "US drivers head to Native American lands for cheaper gas",
+      "url": "https://www.bbc.com/news/videos/c1krg1rzpmeo?at_medium=RSS&at_campaign=rss",
+      "summary": "Some of the cheapest fuel in the country can be found on tribal land due to tax exemptions.",
+      "published_at": "2026-04-13T19:10:28Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "Italian PM condemns ally Trump over 'unacceptable' Pope criticism",
@@ -218,7 +245,7 @@
       "country_name": "Germany"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "How Hungary's knife-edge election could impact the US and Russia",
       "url": "https://www.bbc.com/news/videos/cpqxy0d1g2yo?at_medium=RSS&at_campaign=rss",
       "summary": "The BBC's Europe Editor Katya Adler reports from Prime Minister Victor Orbán's home town of Felscút.",
@@ -450,15 +477,6 @@
       "published_at": "2026-04-09T14:31:57Z",
       "country_code": "CA",
       "country_name": "Canada"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "Has US achieved its war objectives in Iran?",
-      "url": "https://www.bbc.com/news/articles/c1krpjr91v2o?at_medium=RSS&at_campaign=rss",
-      "summary": "Key US objectives at the start of the war were to stop Iran getting a nuclear weapon and degrading its arsenal.",
-      "published_at": "2026-04-09T13:11:03Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC Latin America",
@@ -762,7 +780,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 37
+      "news_count": 38
     },
     {
       "country_code": "IR",
@@ -800,6 +818,11 @@
       "news_count": 2
     },
     {
+      "country_code": "CN",
+      "country_name": "China",
+      "news_count": 2
+    },
+    {
       "country_code": "DE",
       "country_name": "Germany",
       "news_count": 2
@@ -823,11 +846,6 @@
       "country_code": "RU",
       "country_name": "Russia",
       "news_count": 2
-    },
-    {
-      "country_code": "CN",
-      "country_name": "China",
-      "news_count": 1
     },
     {
       "country_code": "DZ",
