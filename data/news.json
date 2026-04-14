@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-04-14T11:34:11Z",
+  "generated_at": "2026-04-14T13:00:24Z",
   "articles": [
+    {
+      "source": "BBC Europe",
+      "title": "Spain approves plan to give around 500,000 undocumented migrants legal status",
+      "url": "https://www.bbc.com/news/articles/cy511nln2xvo?at_medium=RSS&at_campaign=rss",
+      "summary": "Prime Minister Pedro Sánchez said migrants helped \"build the rich, open and diverse Spain that we are and to which we aspire\".",
+      "published_at": "2026-04-14T12:22:32Z",
+      "country_code": "ES",
+      "country_name": "Spain"
+    },
+    {
+      "source": "BBC World",
+      "title": "French woman, 86, held by ICE after moving to US to reunite with long-lost love",
+      "url": "https://www.bbc.com/news/articles/cd0rre4d9k0o?at_medium=RSS&at_campaign=rss",
+      "summary": "The son of pensioner Marie-Thérèse told French media he is worried for his mother's frail health as she is detained in a Louisiana ICE centr…",
+      "published_at": "2026-04-14T11:37:11Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC Middle East",
       "title": "How many ships are crossing the Strait of Hormuz?",
@@ -39,7 +57,7 @@
     },
     {
       "source": "BBC World",
-      "title": "What's changed since Harry and Meghan last visited Australia in 2018?",
+      "title": "How Harry and Meghan's Australia tour differs to their last visit there",
       "url": "https://www.bbc.com/news/videos/c70dd4975r2o?at_medium=RSS&at_campaign=rss",
       "summary": "BBC News journalist Simon Atkinson explains how the couple's tour will be different compared to their last visit.",
       "published_at": "2026-04-14T09:41:22Z",
@@ -173,7 +191,7 @@
       "country_name": "Algeria"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "The US blockade of Iran is a gamble. Will it work?",
       "url": "https://www.bbc.com/news/articles/ckgw8w7mzxgo?at_medium=RSS&at_campaign=rss",
       "summary": "The US military is gambling on the blockade denying Iran vital trade - but questions remain on whether the bet will pay off.",
@@ -378,15 +396,6 @@
       "published_at": "2026-04-11T02:02:56Z",
       "country_code": "AR",
       "country_name": "Argentina"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "This idyllic US town was full of police families - and a serial killer in their midst",
-      "url": "https://www.bbc.com/news/articles/cpwjkqq910go?at_medium=RSS&at_campaign=rss",
-      "summary": "For years, rumours swirled about who could be behind the bodies being discovered on the shores of Gilgo Beach.",
-      "published_at": "2026-04-11T01:19:55Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC Middle East",
@@ -735,13 +744,13 @@
       "news_count": 4
     },
     {
-      "country_code": "AR",
-      "country_name": "Argentina",
-      "news_count": 3
-    },
-    {
       "country_code": "ES",
       "country_name": "Spain",
+      "news_count": 4
+    },
+    {
+      "country_code": "AR",
+      "country_name": "Argentina",
       "news_count": 3
     },
     {
