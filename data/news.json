@@ -1,14 +1,23 @@
 {
-  "generated_at": "2026-04-14T20:04:32Z",
+  "generated_at": "2026-04-14T21:11:20Z",
   "articles": [
+    {
+      "source": "BBC US & Canada",
+      "title": "King will not meet Epstein survivors on US visit",
+      "url": "https://www.bbc.com/news/articles/cvg44q1zdeno?at_medium=RSS&at_campaign=rss",
+      "summary": "The US state visit will see the King heading into choppy diplomatic waters during London-Washington tensions.",
+      "published_at": "2026-04-14T21:00:46Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC US & Canada",
       "title": "'Bit of pain' worth long-term security from Iran, Bessent tells BBC",
       "url": "https://www.bbc.com/news/articles/c4g66p2q075o?at_medium=RSS&at_campaign=rss",
-      "summary": "Scott Bessent said a \"small bit of economic pain\" was worth it to eliminate the threat of Iranian strikes on Western capitals.",
+      "summary": "US Treasury Secretary said a \"small bit of economic pain\" was worth it to eliminate the threat of Iranian strikes on Western capitals.",
       "published_at": "2026-04-14T19:47:53Z",
-      "country_code": "IR",
-      "country_name": "Iran"
+      "country_code": "US",
+      "country_name": "United States"
     },
     {
       "source": "BBC Middle East",
@@ -753,12 +762,12 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 36
+      "news_count": 38
     },
     {
       "country_code": "IR",
       "country_name": "Iran",
-      "news_count": 9
+      "news_count": 8
     },
     {
       "country_code": "AU",
