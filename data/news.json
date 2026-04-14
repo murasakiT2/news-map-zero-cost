@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-04-14T14:58:03Z",
+  "generated_at": "2026-04-14T16:05:52Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "JD Vance defends backing 'great guy' Orbán's campaign after landslide defeat",
+      "url": "https://www.bbc.com/news/articles/c8dll93j7d5o?at_medium=RSS&at_campaign=rss",
+      "summary": "Hungary's leader was a \"great guy\" who did a \"very good job\", the US vice-president said, but he was sure he could work with Péter Magyar.",
+      "published_at": "2026-04-14T15:04:09Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC Latin America",
       "title": "Brazil's former spy chief detained by ICE agents in US",
@@ -299,7 +308,7 @@
       "country_name": "United Kingdom"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "Katya Adler: Jubilation in Budapest will be felt in Europe but leaves Moscow cold",
       "url": "https://www.bbc.com/news/articles/cn0wzxqyx17o?at_medium=RSS&at_campaign=rss",
       "summary": "European leaders share Hungarians' joy over the ousting of Vladimir Putin's EU ally, writes the BBC's Europe editor.",
@@ -351,15 +360,6 @@
       "published_at": "2026-04-12T11:53:37Z",
       "country_code": "RU",
       "country_name": "Russia"
-    },
-    {
-      "source": "BBC Europe",
-      "title": "Union Berlin appoint first female head coach",
-      "url": "https://www.bbc.com/sport/football/articles/cq59yvy6v0eo?at_medium=RSS&at_campaign=rss",
-      "summary": "Marie-Louise Eta becomes the first woman appointed to manage a men's team in one of Europe's top five leagues as she is named interim head c…",
-      "published_at": "2026-04-12T07:37:10Z",
-      "country_code": "DE",
-      "country_name": "Germany"
     },
     {
       "source": "BBC Europe",
@@ -735,7 +735,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 34
+      "news_count": 35
     },
     {
       "country_code": "IR",
@@ -795,11 +795,6 @@
     {
       "country_code": "CA",
       "country_name": "Canada",
-      "news_count": 1
-    },
-    {
-      "country_code": "DE",
-      "country_name": "Germany",
       "news_count": 1
     },
     {
