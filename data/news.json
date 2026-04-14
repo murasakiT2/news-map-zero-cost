@@ -1,12 +1,48 @@
 {
-  "generated_at": "2026-04-14T10:14:46Z",
+  "generated_at": "2026-04-14T11:34:11Z",
   "articles": [
+    {
+      "source": "BBC Middle East",
+      "title": "How many ships are crossing the Strait of Hormuz?",
+      "url": "https://www.bbc.com/news/articles/c3w39lg84w2o?at_medium=RSS&at_campaign=rss",
+      "summary": "Four vessels with links to Iran have crossed the Strait of Hormuz despite the US naval blockade.",
+      "published_at": "2026-04-14T11:26:54Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Sixteen injured after ex-student opens fire at high school in Turkey",
+      "url": "https://www.bbc.com/news/articles/c2k33xk24nyo?at_medium=RSS&at_campaign=rss",
+      "summary": "Students and teachers are among those who were injured in the attack in the country's south-east.",
+      "published_at": "2026-04-14T10:38:55Z",
+      "country_code": "TR",
+      "country_name": "Turkey"
+    },
+    {
+      "source": "BBC Latin America",
+      "title": "Retrial over death of Argentina legend Maradona to begin",
+      "url": "https://www.bbc.com/news/articles/cj377mm7zzvo?at_medium=RSS&at_campaign=rss",
+      "summary": "The first trial - which saw members of Maradona's medical team accused of poor care - collapsed after a judge let cameras into the court.",
+      "published_at": "2026-04-14T10:21:21Z",
+      "country_code": "AR",
+      "country_name": "Argentina"
+    },
     {
       "source": "BBC Asia",
       "title": "Harry and Meghan mix charity and business on Australia visit",
       "url": "https://www.bbc.com/news/articles/cvgk3vpyzdqo?at_medium=RSS&at_campaign=rss",
       "summary": "There are questions over whether local taxpayers are picking up any of the bill for policing the visit.",
       "published_at": "2026-04-14T09:45:43Z",
+      "country_code": "AU",
+      "country_name": "Australia"
+    },
+    {
+      "source": "BBC World",
+      "title": "What's changed since Harry and Meghan last visited Australia in 2018?",
+      "url": "https://www.bbc.com/news/videos/c70dd4975r2o?at_medium=RSS&at_campaign=rss",
+      "summary": "BBC News journalist Simon Atkinson explains how the couple's tour will be different compared to their last visit.",
+      "published_at": "2026-04-14T09:41:22Z",
       "country_code": "AU",
       "country_name": "Australia"
     },
@@ -38,7 +74,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "‘I don’t know why they’re coming’: Australians on Harry and Meghan's visit",
       "url": "https://www.bbc.com/news/videos/crk18gnepmgo?at_medium=RSS&at_campaign=rss",
       "summary": "The BBC spoke to people in Sydney to hear their thoughts on the Duke and Duchess of Sussex’s trip to Australia.",
@@ -106,15 +142,6 @@
       "url": "https://www.bbc.com/news/articles/cp841y07w5xo?at_medium=RSS&at_campaign=rss",
       "summary": "Italy's prime minister and the US president are close allies, but Trump has refused to apologise to the \"very weak\" Pope Leo XIV.",
       "published_at": "2026-04-13T17:32:43Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC Middle East",
-      "title": "How many ships are crossing the Strait of Hormuz?",
-      "url": "https://www.bbc.com/news/articles/c3w39lg84w2o?at_medium=RSS&at_campaign=rss",
-      "summary": "The first vessel has crossed the Strait of Hormuz after the US imposed a military blockade of Iran's ports.",
-      "published_at": "2026-04-13T16:37:57Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -659,15 +686,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Latin America",
-      "title": "Mexico City breaks Guinness Record with giant football training session",
-      "url": "https://www.bbc.com/news/videos/cy7jrymgpjyo?at_medium=RSS&at_campaign=rss",
-      "summary": "Mexico City set a Guinness record for the largest football training session as 9,500 participants filled the capital’s Zocalo square ahead o…",
-      "published_at": "2026-03-16T17:23:27Z",
-      "country_code": "MX",
-      "country_name": "Mexico"
-    },
-    {
       "source": "BBC Africa",
       "title": "One house, two faiths, one fasting season",
       "url": "https://www.bbc.com/news/videos/cwygeypnevxo?at_medium=RSS&at_campaign=rss",
@@ -714,6 +732,11 @@
     {
       "country_code": "AU",
       "country_name": "Australia",
+      "news_count": 4
+    },
+    {
+      "country_code": "AR",
+      "country_name": "Argentina",
       "news_count": 3
     },
     {
@@ -730,11 +753,6 @@
       "country_code": "RU",
       "country_name": "Russia",
       "news_count": 3
-    },
-    {
-      "country_code": "AR",
-      "country_name": "Argentina",
-      "news_count": 2
     },
     {
       "country_code": "CN",
@@ -782,11 +800,6 @@
       "news_count": 1
     },
     {
-      "country_code": "MX",
-      "country_name": "Mexico",
-      "news_count": 1
-    },
-    {
       "country_code": "PE",
       "country_name": "Peru",
       "news_count": 1
@@ -804,6 +817,11 @@
     {
       "country_code": "SG",
       "country_name": "Singapore",
+      "news_count": 1
+    },
+    {
+      "country_code": "TR",
+      "country_name": "Turkey",
       "news_count": 1
     }
   ]
