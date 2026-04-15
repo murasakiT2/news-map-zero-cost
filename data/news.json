@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-04-15T08:58:40Z",
+  "generated_at": "2026-04-15T10:16:15Z",
   "articles": [
+    {
+      "source": "BBC Asia",
+      "title": "Meghan to appear as guest judge on MasterChef Australia",
+      "url": "https://www.bbc.com/news/articles/cx2eejdwpk5o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Duke and Duchess of Sussex are on a four-day visit to Australia - their first since 2018.",
+      "published_at": "2026-04-15T10:04:29Z",
+      "country_code": "AU",
+      "country_name": "Australia"
+    },
+    {
+      "source": "BBC World",
+      "title": "South Africa names apartheid-era politician as new ambassador to the US",
+      "url": "https://www.bbc.com/news/articles/cwyjjjz8n8ko?at_medium=RSS&at_campaign=rss",
+      "summary": "Roelf Meyer played a key role as a negotiator during talks to end white-minority rule in South Africa.",
+      "published_at": "2026-04-15T09:46:22Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Three years of messages at once - a chronicle of Sudan's war pours in as trapped reporter's phone turns on",
+      "url": "https://www.bbc.com/news/articles/cy01d1g0rrjo?at_medium=RSS&at_campaign=rss",
+      "summary": "As the conflict enters its fourth year, journalist Mohamed Suleiman shudders at what has been lost.",
+      "published_at": "2026-04-15T09:19:07Z",
+      "country_code": "SD",
+      "country_name": "Sudan"
+    },
+    {
+      "source": "BBC World",
+      "title": "Kenya fuel prices rise sharply despite reduction in tax due to Iran war",
+      "url": "https://www.bbc.com/news/articles/cgrlll7qgdzo?at_medium=RSS&at_campaign=rss",
+      "summary": "Diesel prices rise by a record margin despite a reduction in value added tax.",
+      "published_at": "2026-04-15T09:06:38Z",
+      "country_code": "IR",
+      "country_name": "Iran"
+    },
     {
       "source": "BBC Africa",
       "title": "The human cost of the war in Sudan, three years on",
@@ -18,24 +54,6 @@
       "published_at": "2026-04-15T08:29:43Z",
       "country_code": "GB",
       "country_name": "United Kingdom"
-    },
-    {
-      "source": "BBC World",
-      "title": "South Africa names apartheid-era politician as new ambassador to the US",
-      "url": "https://www.bbc.com/news/articles/cwyjjjz8n8ko?at_medium=RSS&at_campaign=rss",
-      "summary": "Roelf Meyer played a key role as a negotiator during talks to end white-minority rule in South Africa.",
-      "published_at": "2026-04-15T08:21:46Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "Kenya fuel prices rise sharply despite reduction in tax due to Iran war",
-      "url": "https://www.bbc.com/news/articles/cgrlll7qgdzo?at_medium=RSS&at_campaign=rss",
-      "summary": "Diesel prices rise by a record margin despite a reduction in value added tax.",
-      "published_at": "2026-04-15T07:41:20Z",
-      "country_code": "IR",
-      "country_name": "Iran"
     },
     {
       "source": "BBC Asia",
@@ -99,15 +117,6 @@
       "published_at": "2026-04-15T01:05:46Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "Three years of messages at once - a chronicle of Sudan's war pours in as trapped reporter's phone turns on",
-      "url": "https://www.bbc.com/news/articles/cy01d1g0rrjo?at_medium=RSS&at_campaign=rss",
-      "summary": "As the conflict enters its fourth year, journalist Mohamed Suleiman shudders at what has been lost.",
-      "published_at": "2026-04-14T23:13:15Z",
-      "country_code": "SD",
-      "country_name": "Sudan"
     },
     {
       "source": "BBC World",
@@ -765,14 +774,14 @@
       "news_count": 40
     },
     {
-      "country_code": "IR",
-      "country_name": "Iran",
+      "country_code": "AU",
+      "country_name": "Australia",
       "news_count": 6
     },
     {
-      "country_code": "AU",
-      "country_name": "Australia",
-      "news_count": 5
+      "country_code": "IR",
+      "country_name": "Iran",
+      "news_count": 6
     },
     {
       "country_code": "AR",
