@@ -1,17 +1,53 @@
 {
-  "generated_at": "2026-04-15T07:17:52Z",
+  "generated_at": "2026-04-15T08:58:40Z",
   "articles": [
+    {
+      "source": "BBC Africa",
+      "title": "The human cost of the war in Sudan, three years on",
+      "url": "https://www.bbc.com/news/videos/czd77jgnnlno?at_medium=RSS&at_campaign=rss",
+      "summary": "The conflict, which erupted in 2023, has left behind a human toll which is \"simply staggering\", reports the BBC's Barbara Plett Usher.",
+      "published_at": "2026-04-15T08:38:36Z",
+      "country_code": "SD",
+      "country_name": "Sudan"
+    },
+    {
+      "source": "BBC World",
+      "title": "Kanye West postpones France gig following UK ban",
+      "url": "https://www.bbc.com/news/articles/c36rrrp5wnlo?at_medium=RSS&at_campaign=rss",
+      "summary": "It comes a week after the UK government announced it would block the rapper from entering the country.",
+      "published_at": "2026-04-15T08:29:43Z",
+      "country_code": "GB",
+      "country_name": "United Kingdom"
+    },
+    {
+      "source": "BBC World",
+      "title": "South Africa names apartheid-era politician as new ambassador to the US",
+      "url": "https://www.bbc.com/news/articles/cwyjjjz8n8ko?at_medium=RSS&at_campaign=rss",
+      "summary": "Roelf Meyer played a key role as a negotiator during talks to end white-minority rule in South Africa.",
+      "published_at": "2026-04-15T08:21:46Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Kenya fuel prices rise sharply despite reduction in tax due to Iran war",
+      "url": "https://www.bbc.com/news/articles/cgrlll7qgdzo?at_medium=RSS&at_campaign=rss",
+      "summary": "Diesel prices rise by a record margin despite a reduction in value added tax.",
+      "published_at": "2026-04-15T07:41:20Z",
+      "country_code": "IR",
+      "country_name": "Iran"
+    },
     {
       "source": "BBC Asia",
       "title": "Australia's richest person must share part of her mining fortunes, court rules",
       "url": "https://www.bbc.com/news/articles/cq5990nqjg2o?at_medium=RSS&at_campaign=rss",
-      "summary": "The long-running legal dispute is over a lucrative iron ore projects in the top west corner of Australia.",
+      "summary": "The long-running legal dispute is over a lucrative iron ore project in the top west corner of Australia.",
       "published_at": "2026-04-15T04:40:30Z",
       "country_code": "AU",
       "country_name": "Australia"
     },
     {
-      "source": "BBC Asia",
+      "source": "BBC World",
       "title": "South Korea jails American YouTuber for public nuisance",
       "url": "https://www.bbc.com/news/articles/cj400lje9vxo?at_medium=RSS&at_campaign=rss",
       "summary": "Johnny Somali sparked outrage after kissing a statue representing World War Two sex slaves.",
@@ -101,7 +137,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Middle East",
+      "source": "BBC Europe",
       "title": "Italy suspends defence agreement with Israel",
       "url": "https://www.bbc.com/news/articles/cr71184ex91o?at_medium=RSS&at_campaign=rss",
       "summary": "The Italian PM said the pact, which happens every five years, would be suspended \"in view of the current situation\".",
@@ -344,7 +380,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "Italian PM condemns ally Trump over 'unacceptable' Pope criticism",
       "url": "https://www.bbc.com/news/articles/cp841y07w5xo?at_medium=RSS&at_campaign=rss",
       "summary": "Italy's prime minister and the US president are close allies, but Trump has refused to apologise to the \"very weak\" Pope Leo XIV.",
@@ -407,7 +443,7 @@
       "country_name": "Peru"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Middle East",
       "title": "Iran carried out highest number of executions in decades",
       "url": "https://www.bbc.com/news/articles/cly9ggzy3ngo?at_medium=RSS&at_campaign=rss",
       "summary": "Organisations warn many more people could be executed in the wake of the anti-government protests which swept Iran earlier this year.",
@@ -678,15 +714,6 @@
     },
     {
       "source": "BBC Africa",
-      "title": "Lamine Yamal condemns racist abuse aimed at Egypt",
-      "url": "https://www.bbc.com/sport/football/articles/cz6737pdnwpo?at_medium=RSS&at_campaign=rss",
-      "summary": "Lamine Yamal says racist chants heard during Spain's 0-0 draw with Egypt in Barcelona on Tuesday were \"disrespectful and intolerable\".",
-      "published_at": "2026-04-01T13:28:19Z",
-      "country_code": "ES",
-      "country_name": "Spain"
-    },
-    {
-      "source": "BBC Africa",
       "title": "DR Congo qualify for World Cup: 'Amidst pain and war, this victory makes us proud’",
       "url": "https://www.bbc.com/news/videos/cvg0q1d9zddo?at_medium=RSS&at_campaign=rss",
       "summary": "DR Congo are back at the World Cup for the first time since 1974, with fans in Kinshasa celebrating the team's 1-0 play-off win over Jamaica…",
@@ -735,16 +762,16 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 39
-    },
-    {
-      "country_code": "AU",
-      "country_name": "Australia",
-      "news_count": 5
+      "news_count": 40
     },
     {
       "country_code": "IR",
       "country_name": "Iran",
+      "news_count": 6
+    },
+    {
+      "country_code": "AU",
+      "country_name": "Australia",
       "news_count": 5
     },
     {
@@ -758,13 +785,13 @@
       "news_count": 3
     },
     {
-      "country_code": "ES",
-      "country_name": "Spain",
+      "country_code": "FR",
+      "country_name": "France",
       "news_count": 3
     },
     {
-      "country_code": "FR",
-      "country_name": "France",
+      "country_code": "GB",
+      "country_name": "United Kingdom",
       "news_count": 3
     },
     {
@@ -783,13 +810,18 @@
       "news_count": 2
     },
     {
-      "country_code": "GB",
-      "country_name": "United Kingdom",
+      "country_code": "ES",
+      "country_name": "Spain",
       "news_count": 2
     },
     {
       "country_code": "KR",
       "country_name": "South Korea",
+      "news_count": 2
+    },
+    {
+      "country_code": "SD",
+      "country_name": "Sudan",
       "news_count": 2
     },
     {
@@ -820,11 +852,6 @@
     {
       "country_code": "PK",
       "country_name": "Pakistan",
-      "news_count": 1
-    },
-    {
-      "country_code": "SD",
-      "country_name": "Sudan",
       "news_count": 1
     },
     {
