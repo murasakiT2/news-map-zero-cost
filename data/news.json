@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-04-14T23:07:56Z",
+  "generated_at": "2026-04-15T00:03:33Z",
   "articles": [
+    {
+      "source": "BBC Africa",
+      "title": "Three years of messages at once - a chronicle of Sudan's war pours in as trapped reporter's phone turns on",
+      "url": "https://www.bbc.com/news/articles/cy01d1g0rrjo?at_medium=RSS&at_campaign=rss",
+      "summary": "As the conflict enters its fourth year, journalist Mohamed Suleiman shudders at what has been lost.",
+      "published_at": "2026-04-14T23:13:15Z",
+      "country_code": "SD",
+      "country_name": "Sudan"
+    },
     {
       "source": "BBC US & Canada",
       "title": "King will not meet Epstein survivors on US visit",
@@ -852,6 +861,11 @@
     {
       "country_code": "PK",
       "country_name": "Pakistan",
+      "news_count": 1
+    },
+    {
+      "country_code": "SD",
+      "country_name": "Sudan",
       "news_count": 1
     },
     {
