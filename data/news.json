@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-04-15T19:57:16Z",
+  "generated_at": "2026-04-15T20:42:41Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Frank Gardner: What is China's role in the Iran war?",
+      "url": "https://www.bbc.com/news/videos/cz67760pq0xo?at_medium=RSS&at_campaign=rss",
+      "summary": "BBC Security Correspondent Frank Gardner explains how the world's second-largest economy fits into the Gulf conflict.",
+      "published_at": "2026-04-15T18:54:06Z",
+      "country_code": "CN",
+      "country_name": "China"
+    },
     {
       "source": "BBC Africa",
       "title": "Nigeria drops terrorism financing charges against ex-justice minister",
@@ -277,15 +286,6 @@
       "url": "https://www.bbc.com/news/articles/cx299rxk0ngo?at_medium=RSS&at_campaign=rss",
       "summary": "The police said Ashly Robinson, known online as Ashlee Jenae, had died after attempting to take her own life.",
       "published_at": "2026-04-14T16:22:47Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "JD Vance defends backing 'great guy' Orbán's campaign after landslide defeat",
-      "url": "https://www.bbc.com/news/articles/c8dll93j7d5o?at_medium=RSS&at_campaign=rss",
-      "summary": "Hungary's leader was a \"great guy\" who did a \"very good job\", the US vice-president said, but he was sure he could work with Péter Magyar.",
-      "published_at": "2026-04-14T15:04:09Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -762,7 +762,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 36
+      "news_count": 35
     },
     {
       "country_code": "AU",
@@ -780,6 +780,11 @@
       "news_count": 4
     },
     {
+      "country_code": "CN",
+      "country_name": "China",
+      "news_count": 4
+    },
+    {
       "country_code": "NG",
       "country_name": "Nigeria",
       "news_count": 4
@@ -787,11 +792,6 @@
     {
       "country_code": "AR",
       "country_name": "Argentina",
-      "news_count": 3
-    },
-    {
-      "country_code": "CN",
-      "country_name": "China",
       "news_count": 3
     },
     {
