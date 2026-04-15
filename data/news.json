@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-04-15T15:58:52Z",
+  "generated_at": "2026-04-15T17:04:05Z",
   "articles": [
+    {
+      "source": "BBC Africa",
+      "title": "Nigeria drops terrorism financing charges against ex-justice minister",
+      "url": "https://www.bbc.com/news/articles/c0rxxljpvd1o?at_medium=RSS&at_campaign=rss",
+      "summary": "Abubakar Malami was seen as one of the most influential ministers under former President Muhammadu Buhari.",
+      "published_at": "2026-04-15T16:46:19Z",
+      "country_code": "NG",
+      "country_name": "Nigeria"
+    },
+    {
+      "source": "BBC World",
+      "title": "Prominent Palestinian prisoner Marwan Barghouti assaulted three times in a month, family says",
+      "url": "https://www.bbc.com/news/articles/czreedn4n7jo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Israeli Prison Service says the allegation that Barghouti was subjected to physical violence by prison guards are \"false and baseless\".",
+      "published_at": "2026-04-15T15:59:24Z",
+      "country_code": "PS",
+      "country_name": "Palestine"
+    },
     {
       "source": "BBC World",
       "title": "Chinese national given one year in prison for smuggling ants out of Kenya",
@@ -227,7 +245,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Latin America",
       "title": "Retrial over death of Argentina legend Maradona begins",
       "url": "https://www.bbc.com/news/articles/cj377mm7zzvo?at_medium=RSS&at_campaign=rss",
       "summary": "The first trial - which saw members of Maradona's medical team accused of poor care - collapsed after a judge let cameras into the court.",
@@ -351,15 +369,6 @@
       "published_at": "2026-04-14T07:00:47Z",
       "country_code": "KR",
       "country_name": "South Korea"
-    },
-    {
-      "source": "BBC Middle East",
-      "title": "Trump: Blockade needed to stop Iran blackmailing the world",
-      "url": "https://www.bbc.com/news/videos/cy411317eezo?at_medium=RSS&at_campaign=rss",
-      "summary": "A US blockade of Iran's ports is in place, having begun on Monday, according to Donald Trump.",
-      "published_at": "2026-04-14T05:49:52Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC Asia",
@@ -753,7 +762,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 37
+      "news_count": 36
     },
     {
       "country_code": "AU",
@@ -768,6 +777,11 @@
     {
       "country_code": "CA",
       "country_name": "Canada",
+      "news_count": 4
+    },
+    {
+      "country_code": "NG",
+      "country_name": "Nigeria",
       "news_count": 4
     },
     {
@@ -788,11 +802,6 @@
     {
       "country_code": "GB",
       "country_name": "United Kingdom",
-      "news_count": 3
-    },
-    {
-      "country_code": "NG",
-      "country_name": "Nigeria",
       "news_count": 3
     },
     {
@@ -843,6 +852,11 @@
     {
       "country_code": "PK",
       "country_name": "Pakistan",
+      "news_count": 1
+    },
+    {
+      "country_code": "PS",
+      "country_name": "Palestine",
       "news_count": 1
     },
     {
