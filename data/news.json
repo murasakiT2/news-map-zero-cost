@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-04-15T11:31:31Z",
+  "generated_at": "2026-04-15T12:59:27Z",
   "articles": [
     {
-      "source": "BBC World",
-      "title": "Trump warns that UK trade deal 'can always be changed'",
-      "url": "https://www.bbc.com/news/articles/cdxdd7ddzgdo?at_medium=RSS&at_campaign=rss",
-      "summary": "The US president says he gave the UK a \"better\" deal than he had to in an interview on Wednesday.",
-      "published_at": "2026-04-15T10:46:55Z",
+      "source": "BBC Latin America",
+      "title": "US eases sanctions on state-run Venezuelan banks",
+      "url": "https://www.bbc.com/news/articles/cd6llepv9gqo?at_medium=RSS&at_campaign=rss",
+      "summary": "The move will make it easier for the banks to conduct transactions in dollars.",
+      "published_at": "2026-04-15T12:24:28Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -15,7 +15,16 @@
       "title": "South Africa names apartheid-era politician as new ambassador to the US",
       "url": "https://www.bbc.com/news/articles/cwyjjjz8n8ko?at_medium=RSS&at_campaign=rss",
       "summary": "Roelf Meyer played a key role as a negotiator during talks to end white-minority rule in South Africa.",
-      "published_at": "2026-04-15T10:45:34Z",
+      "published_at": "2026-04-15T12:02:07Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Starmer 'not going to yield' to pressure from Trump on Iran war",
+      "url": "https://www.bbc.com/news/articles/cdxdd7ddzgdo?at_medium=RSS&at_campaign=rss",
+      "summary": "It follows a warning from the US president that America's trade deal with the UK \"can always be changed\".",
+      "published_at": "2026-04-15T11:58:13Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -353,15 +362,6 @@
       "country_name": "Pakistan"
     },
     {
-      "source": "BBC World",
-      "title": "Hungary's next PM would pick up if Putin calls and tell him to stop Ukraine war",
-      "url": "https://www.bbc.com/news/articles/cd6lzezp4zvo?at_medium=RSS&at_campaign=rss",
-      "summary": "Russia has offered \"pragmatic\" relations, but Péter Magyar says he will not call Vladimir Putin himself.",
-      "published_at": "2026-04-13T21:28:14Z",
-      "country_code": "RU",
-      "country_name": "Russia"
-    },
-    {
       "source": "BBC Middle East",
       "title": "Israelis war-weary but most oppose Iran ceasefire, poll suggests",
       "url": "https://www.bbc.com/news/articles/clyxgxyeqpgo?at_medium=RSS&at_campaign=rss",
@@ -650,15 +650,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Latin America",
-      "title": "Co-founder of Jalisco New Generation drug cartel pleads guilty",
-      "url": "https://www.bbc.com/news/articles/c8ejyjnk9pdo?at_medium=RSS&at_campaign=rss",
-      "summary": "Érick Valencia Salazar was among a group of 29 alleged drug lords extradited to the US from Mexico.",
-      "published_at": "2026-04-08T11:03:40Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC Middle East",
       "title": "How Pakistan helped secure a fragile ceasefire between the US and Iran",
       "url": "https://www.bbc.com/news/articles/cj401qvgg19o?at_medium=RSS&at_campaign=rss",
@@ -809,11 +800,6 @@
       "news_count": 3
     },
     {
-      "country_code": "RU",
-      "country_name": "Russia",
-      "news_count": 3
-    },
-    {
       "country_code": "CN",
       "country_name": "China",
       "news_count": 2
@@ -826,6 +812,11 @@
     {
       "country_code": "KR",
       "country_name": "South Korea",
+      "news_count": 2
+    },
+    {
+      "country_code": "RU",
+      "country_name": "Russia",
       "news_count": 2
     },
     {
