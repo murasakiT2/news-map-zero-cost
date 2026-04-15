@@ -1,21 +1,30 @@
 {
-  "generated_at": "2026-04-15T14:46:16Z",
+  "generated_at": "2026-04-15T15:58:52Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Chinese national given one year in prison for smuggling ants out of Kenya",
+      "url": "https://www.bbc.com/news/articles/cz788z27j2jo?at_medium=RSS&at_campaign=rss",
+      "summary": "Zhang Kequn was arrested in March while trying to travel to China with more than 2,000 live ants.",
+      "published_at": "2026-04-15T15:36:25Z",
+      "country_code": "CN",
+      "country_name": "China"
+    },
+    {
+      "source": "BBC World",
+      "title": "Starmer says he's 'not going to yield' to pressure from Trump on Iran war",
+      "url": "https://www.bbc.com/news/articles/cdxdd7ddzgdo?at_medium=RSS&at_campaign=rss",
+      "summary": "It follows a warning from the US president that America's trade deal with the UK \"can always be changed\".",
+      "published_at": "2026-04-15T15:27:22Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "Israel and Hezbollah continue attacks after Israel-Lebanon talks in US",
       "url": "https://www.bbc.com/news/articles/c87ww2z0z3zo?at_medium=RSS&at_campaign=rss",
       "summary": "Israel strikes hit southern Lebanon and Hezbollah fires rockets at Israel, a day after rare direct negotiations.",
       "published_at": "2026-04-15T14:15:50Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "Starmer 'not going to yield' to pressure from Trump on Iran war",
-      "url": "https://www.bbc.com/news/articles/cdxdd7ddzgdo?at_medium=RSS&at_campaign=rss",
-      "summary": "It follows a warning from the US president that America's trade deal with the UK \"can always be changed\".",
-      "published_at": "2026-04-15T13:25:06Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -164,15 +173,6 @@
       "country_name": "Canada"
     },
     {
-      "source": "BBC US & Canada",
-      "title": "King will not meet Epstein survivors on US visit",
-      "url": "https://www.bbc.com/news/articles/cvg44q1zdeno?at_medium=RSS&at_campaign=rss",
-      "summary": "The US state visit will see the King heading into choppy diplomatic waters during London-Washington tensions.",
-      "published_at": "2026-04-15T01:05:46Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC World",
       "title": "Man wins €1m Picasso painting in €100 charity raffle",
       "url": "https://www.bbc.com/news/articles/cq8ww7d72wyo?at_medium=RSS&at_campaign=rss",
@@ -281,7 +281,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "French woman, 86, held by ICE after moving to US to reunite with long-lost love",
       "url": "https://www.bbc.com/news/articles/cd0rre4d9k0o?at_medium=RSS&at_campaign=rss",
       "summary": "The son of pensioner Marie-Thérèse says he worries for his mother's frail health, while she is detained in a Louisiana ICE centre.",
@@ -753,7 +753,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 38
+      "news_count": 37
     },
     {
       "country_code": "AU",
@@ -776,6 +776,11 @@
       "news_count": 3
     },
     {
+      "country_code": "CN",
+      "country_name": "China",
+      "news_count": 3
+    },
+    {
       "country_code": "FR",
       "country_name": "France",
       "news_count": 3
@@ -789,11 +794,6 @@
       "country_code": "NG",
       "country_name": "Nigeria",
       "news_count": 3
-    },
-    {
-      "country_code": "CN",
-      "country_name": "China",
-      "news_count": 2
     },
     {
       "country_code": "ES",
