@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-04-15T03:45:01Z",
+  "generated_at": "2026-04-15T05:54:30Z",
   "articles": [
+    {
+      "source": "BBC Asia",
+      "title": "Australia's richest person must share part of her mining fortunes, court rules",
+      "url": "https://www.bbc.com/news/articles/cq5990nqjg2o?at_medium=RSS&at_campaign=rss",
+      "summary": "The long-running legal dispute is over a lucrative iron ore projects in the top west corner of Australia.",
+      "published_at": "2026-04-15T04:40:30Z",
+      "country_code": "AU",
+      "country_name": "Australia"
+    },
     {
       "source": "BBC World",
       "title": "Watch: Vance heckled as he chides Pope",
       "url": "https://www.bbc.com/news/videos/c86eevyg121o?at_medium=RSS&at_campaign=rss",
       "summary": "The US Vice-President was speaking at a Turning Point USA event, where he said Pope Leo should \"be careful when he talks about matters of th…",
       "published_at": "2026-04-15T03:09:28Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "Trump hints Iran talks could resume this week as US port blockade continues",
-      "url": "https://www.bbc.com/news/articles/c20ddnz4w5lo?at_medium=RSS&at_campaign=rss",
-      "summary": "The United Nations' secretary general said it was \"highly probable\" that the negotiations would restart.",
-      "published_at": "2026-04-15T02:58:25Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -488,15 +488,6 @@
       "country_name": "Iran"
     },
     {
-      "source": "BBC Asia",
-      "title": "Iran war lands 'triple blow' to flood-ravaged Sri Lankans",
-      "url": "https://www.bbc.com/news/articles/c4gvkpj0024o?at_medium=RSS&at_campaign=rss",
-      "summary": "The Iran war could not have come at a worse time for Sri Lanka, reeling from devastating floods and an economic crisis.",
-      "published_at": "2026-04-11T23:06:49Z",
-      "country_code": "IR",
-      "country_name": "Iran"
-    },
-    {
       "source": "BBC Middle East",
       "title": "Concerns after satellite provider restricts Iran images following US pressure",
       "url": "https://www.bbc.com/news/articles/c5y721yqe6ro?at_medium=RSS&at_campaign=rss",
@@ -639,15 +630,6 @@
       "published_at": "2026-04-07T14:00:21Z",
       "country_code": "NG",
       "country_name": "Nigeria"
-    },
-    {
-      "source": "BBC Europe",
-      "title": "Why Real Madrid tie could make or break Kane's Ballon d'Or hopes",
-      "url": "https://www.bbc.com/sport/football/articles/cp86v8zq4jeo?at_medium=RSS&at_campaign=rss",
-      "summary": "Harry Kane is the leading goalscorer in Europe but does he need to win a major trophy to have a chance of winning the prestigious award?",
-      "published_at": "2026-04-07T05:40:38Z",
-      "country_code": "ES",
-      "country_name": "Spain"
     },
     {
       "source": "BBC Middle East",
@@ -807,22 +789,17 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 41
+      "news_count": 40
     },
     {
       "country_code": "IR",
       "country_name": "Iran",
-      "news_count": 8
+      "news_count": 7
     },
     {
       "country_code": "AU",
       "country_name": "Australia",
-      "news_count": 4
-    },
-    {
-      "country_code": "ES",
-      "country_name": "Spain",
-      "news_count": 4
+      "news_count": 5
     },
     {
       "country_code": "NG",
@@ -837,6 +814,11 @@
     {
       "country_code": "CA",
       "country_name": "Canada",
+      "news_count": 3
+    },
+    {
+      "country_code": "ES",
+      "country_name": "Spain",
       "news_count": 3
     },
     {
