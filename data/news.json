@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-16T04:35:10Z",
+  "generated_at": "2026-04-16T06:27:59Z",
   "articles": [
     {
       "source": "BBC Asia",
@@ -18,6 +18,15 @@
       "published_at": "2026-04-16T02:17:38Z",
       "country_code": "US",
       "country_name": "United States"
+    },
+    {
+      "source": "BBC Asia",
+      "title": "Howl recordings and an AI image: Inside South Korea's long hunt for an escaped wolf",
+      "url": "https://www.bbc.com/news/articles/c24882dem6po?at_medium=RSS&at_campaign=rss",
+      "summary": "Hundreds have been deployed to find Neukgu, a young wolf that has eluded capture for a week and counting.",
+      "published_at": "2026-04-15T22:09:13Z",
+      "country_code": "KR",
+      "country_name": "South Korea"
     },
     {
       "source": "BBC US & Canada",
@@ -308,6 +317,15 @@
       "country_name": "United States"
     },
     {
+      "source": "BBC Middle East",
+      "title": "What does the blockade mean for oil prices?",
+      "url": "https://www.bbc.com/news/videos/c20ddq3y8n2o?at_medium=RSS&at_campaign=rss",
+      "summary": "The US has started a naval blockade of maritime traffic entering and leaving Iranian ports.",
+      "published_at": "2026-04-14T16:43:48Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
       "source": "BBC Latin America",
       "title": "Brazil's former spy chief detained by ICE agents in US",
       "url": "https://www.bbc.com/news/articles/cjw88l41ldyo?at_medium=RSS&at_campaign=rss",
@@ -322,15 +340,6 @@
       "url": "https://www.bbc.com/news/articles/cd0rre4d9k0o?at_medium=RSS&at_campaign=rss",
       "summary": "The son of pensioner Marie-Thérèse says he worries for his mother's frail health, while she is detained in a Louisiana ICE centre.",
       "published_at": "2026-04-14T14:43:09Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC Middle East",
-      "title": "US blockade of Iran ports irresponsible and dangerous, China says",
-      "url": "https://www.bbc.com/news/articles/c78lleelxj4o?at_medium=RSS&at_campaign=rss",
-      "summary": "China, the biggest buyer of Iranian oil, says the US naval blockade undermines an \"already fragile ceasefire\".",
-      "published_at": "2026-04-14T14:18:04Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -378,6 +387,15 @@
       "published_at": "2026-04-14T07:00:47Z",
       "country_code": "KR",
       "country_name": "South Korea"
+    },
+    {
+      "source": "BBC Middle East",
+      "title": "Trump: Blockade needed to stop Iran blackmailing the world",
+      "url": "https://www.bbc.com/news/videos/cy411317eezo?at_medium=RSS&at_campaign=rss",
+      "summary": "A US blockade of Iran's ports is in place, having begun on Monday, according to Donald Trump.",
+      "published_at": "2026-04-14T05:49:52Z",
+      "country_code": "US",
+      "country_name": "United States"
     },
     {
       "source": "BBC Asia",
@@ -479,24 +497,6 @@
       "country_name": "France"
     },
     {
-      "source": "BBC Middle East",
-      "title": "French cement giant guilty of financing IS and other militant groups in Syria",
-      "url": "https://www.bbc.com/news/articles/crl1441816po?at_medium=RSS&at_campaign=rss",
-      "summary": "The French company paid $6.5m to jihadist groups to keep its plant running in war-torn Syria, a Paris court heard.",
-      "published_at": "2026-04-13T14:15:50Z",
-      "country_code": "FR",
-      "country_name": "France"
-    },
-    {
-      "source": "BBC Middle East",
-      "title": "Israel steps up strikes on Lebanon and Hezbollah attacks continue as talks loom",
-      "url": "https://www.bbc.com/news/articles/czd78q6r8jno?at_medium=RSS&at_campaign=rss",
-      "summary": "More than 160 people have been killed since Friday in Lebanon, where Israel is pressing on with its campaign against Hezbollah despite the U…",
-      "published_at": "2026-04-13T13:55:09Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC Latin America",
       "title": "Peru election drags into second day after ballot delivery fiasco",
       "url": "https://www.bbc.com/news/articles/c4gd0l2x8j2o?at_medium=RSS&at_campaign=rss",
@@ -506,29 +506,11 @@
       "country_name": "Peru"
     },
     {
-      "source": "BBC Middle East",
-      "title": "Iran carried out highest number of executions in decades",
-      "url": "https://www.bbc.com/news/articles/cly9ggzy3ngo?at_medium=RSS&at_campaign=rss",
-      "summary": "Organisations warn many more people could be executed in the wake of the anti-government protests which swept Iran earlier this year.",
-      "published_at": "2026-04-13T12:53:00Z",
-      "country_code": "IR",
-      "country_name": "Iran"
-    },
-    {
       "source": "BBC Europe",
       "title": "UK could adopt EU single market rules under new legislation",
       "url": "https://www.bbc.com/news/articles/c937jkvp3w8o?at_medium=RSS&at_campaign=rss",
       "summary": "The move has raised questions over parliamentary scrutiny of future rules to deliver planned EU deals.",
       "published_at": "2026-04-13T11:18:33Z",
-      "country_code": "GB",
-      "country_name": "United Kingdom"
-    },
-    {
-      "source": "BBC Middle East",
-      "title": "Starmer says UK will not join Trump's blockade of Iran's ports",
-      "url": "https://www.bbc.com/news/articles/c393wxzw4yjo?at_medium=RSS&at_campaign=rss",
-      "summary": "UK minesweepers and anti-drone capabilities will continue operating in the region, as pressure ramps up to reopen the key shipping route.",
-      "published_at": "2026-04-13T10:09:48Z",
       "country_code": "GB",
       "country_name": "United Kingdom"
     },
@@ -596,15 +578,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Asia",
-      "title": "India refuses to criminalise marital rape. This new series shines a light on it",
-      "url": "https://www.bbc.com/news/articles/cgqkl2kqkxzo?at_medium=RSS&at_campaign=rss",
-      "summary": "Chiraiya, which has drawn an audience of millions, has prompted conversations on social media around consent and misogyny.",
-      "published_at": "2026-04-12T00:16:41Z",
-      "country_code": "IN",
-      "country_name": "India"
-    },
-    {
       "source": "BBC Middle East",
       "title": "We spoke to the man making viral Lego-style AI videos for Iran. Experts say it's powerful propaganda",
       "url": "https://www.bbc.com/news/articles/cjd8jrd1vnyo?at_medium=RSS&at_campaign=rss",
@@ -612,15 +585,6 @@
       "published_at": "2026-04-11T23:13:23Z",
       "country_code": "IR",
       "country_name": "Iran"
-    },
-    {
-      "source": "BBC Middle East",
-      "title": "Concerns after satellite provider restricts Iran images following US pressure",
-      "url": "https://www.bbc.com/news/articles/c5y721yqe6ro?at_medium=RSS&at_campaign=rss",
-      "summary": "Planet Labs says it is restricting coverage of Iran and parts of the Middle East indefinitely.",
-      "published_at": "2026-04-11T05:40:51Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC Latin America",
@@ -771,16 +735,16 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 36
-    },
-    {
-      "country_code": "IR",
-      "country_name": "Iran",
-      "news_count": 6
+      "news_count": 35
     },
     {
       "country_code": "AU",
       "country_name": "Australia",
+      "news_count": 5
+    },
+    {
+      "country_code": "IR",
+      "country_name": "Iran",
       "news_count": 5
     },
     {
@@ -804,13 +768,8 @@
       "news_count": 3
     },
     {
-      "country_code": "FR",
-      "country_name": "France",
-      "news_count": 3
-    },
-    {
-      "country_code": "GB",
-      "country_name": "United Kingdom",
+      "country_code": "KR",
+      "country_name": "South Korea",
       "news_count": 3
     },
     {
@@ -819,8 +778,13 @@
       "news_count": 2
     },
     {
-      "country_code": "KR",
-      "country_name": "South Korea",
+      "country_code": "FR",
+      "country_name": "France",
+      "news_count": 2
+    },
+    {
+      "country_code": "GB",
+      "country_name": "United Kingdom",
       "news_count": 2
     },
     {
@@ -841,11 +805,6 @@
     {
       "country_code": "IL",
       "country_name": "Israel",
-      "news_count": 1
-    },
-    {
-      "country_code": "IN",
-      "country_name": "India",
       "news_count": 1
     },
     {
