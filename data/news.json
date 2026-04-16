@@ -1,12 +1,21 @@
 {
-  "generated_at": "2026-04-16T13:04:32Z",
+  "generated_at": "2026-04-16T15:09:43Z",
   "articles": [
     {
       "source": "BBC World",
-      "title": "Pope criticises 'tyrants' who spend billions on wars, days after Trump spat",
+      "title": "India pushes for women's quota bill as row over parliamentary seats intensifies",
+      "url": "https://www.bbc.com/news/articles/ckgeel8g27po?at_medium=RSS&at_campaign=rss",
+      "summary": "Southern Indian leaders urge mass mobilisation over concerns about redrawing electoral boundaries.",
+      "published_at": "2026-04-16T14:26:17Z",
+      "country_code": "IN",
+      "country_name": "India"
+    },
+    {
+      "source": "BBC World",
+      "title": "Pope criticises 'tyrants' who spend billions on wars after Trump spat",
       "url": "https://www.bbc.com/news/articles/cvg0z3n5e5jo?at_medium=RSS&at_campaign=rss",
       "summary": "The comments follow a high-profile spat with US President Donald Trump, who called the Pope weak on crime.",
-      "published_at": "2026-04-16T12:42:23Z",
+      "published_at": "2026-04-16T13:59:45Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -29,15 +38,6 @@
       "country_name": "South Africa"
     },
     {
-      "source": "BBC US & Canada",
-      "title": "Fifa blamed as World Cup trains in US set to cost $100",
-      "url": "https://www.bbc.com/sport/football/articles/cg73p124k07o?at_medium=RSS&at_campaign=rss",
-      "summary": "New Jersey Governor Mikie Sherrill accuses Fifa of failing to provide funding, which means fans must foot the bill.",
-      "published_at": "2026-04-16T11:02:13Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC World",
       "title": "Brazil's former spy chief released from ICE detention",
       "url": "https://www.bbc.com/news/articles/cvglz72rjl2o?at_medium=RSS&at_campaign=rss",
@@ -45,15 +45,6 @@
       "published_at": "2026-04-16T11:00:22Z",
       "country_code": "BR",
       "country_name": "Brazil"
-    },
-    {
-      "source": "BBC World",
-      "title": "India to decide women's quota bill as row over parliamentary seats intensifies",
-      "url": "https://www.bbc.com/news/articles/ckgeel8g27po?at_medium=RSS&at_campaign=rss",
-      "summary": "Southern Indian leaders urge mass mobilisation over concerns about redrawing electoral boundaries.",
-      "published_at": "2026-04-16T08:20:55Z",
-      "country_code": "IN",
-      "country_name": "India"
     },
     {
       "source": "BBC World",
@@ -117,15 +108,6 @@
       "published_at": "2026-04-15T21:10:14Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "Frank Gardner: What is China's role in the Iran war?",
-      "url": "https://www.bbc.com/news/videos/cz67760pq0xo?at_medium=RSS&at_campaign=rss",
-      "summary": "BBC Security Correspondent Frank Gardner explains how the world's second-largest economy fits into the Gulf conflict.",
-      "published_at": "2026-04-15T18:54:06Z",
-      "country_code": "CN",
-      "country_name": "China"
     },
     {
       "source": "BBC Africa",
@@ -358,15 +340,6 @@
       "url": "https://www.bbc.com/news/articles/c79jjd5r0yro?at_medium=RSS&at_campaign=rss",
       "summary": "Brian Hooker was taken into custody and faced questions after his wife Lynette went missing in the Bahamas earlier this month.",
       "published_at": "2026-04-14T16:17:24Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC Latin America",
-      "title": "Brazil's former spy chief detained by ICE agents in US",
-      "url": "https://www.bbc.com/news/articles/cjw88l41ldyo?at_medium=RSS&at_campaign=rss",
-      "summary": "Alexandre Ramagem was sentenced to 16 years in jail for plotting a military coup in Brazil but had already fled the country.",
-      "published_at": "2026-04-14T14:50:31Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -744,7 +717,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 35
+      "news_count": 33
     },
     {
       "country_code": "AU",
@@ -754,7 +727,7 @@
     {
       "country_code": "CN",
       "country_name": "China",
-      "news_count": 5
+      "news_count": 4
     },
     {
       "country_code": "IR",
