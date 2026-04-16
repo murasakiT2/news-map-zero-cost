@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-04-16T11:52:14Z",
+  "generated_at": "2026-04-16T13:04:32Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Pope criticises 'tyrants' who spend billions on wars, days after Trump spat",
+      "url": "https://www.bbc.com/news/articles/cvg0z3n5e5jo?at_medium=RSS&at_campaign=rss",
+      "summary": "The comments follow a high-profile spat with US President Donald Trump, who called the Pope weak on crime.",
+      "published_at": "2026-04-16T12:42:23Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC Europe",
+      "title": "Russia launches deadliest drone and missile attack in months, killing 17 in Ukraine",
+      "url": "https://www.bbc.com/news/articles/cm29plylqnvo?at_medium=RSS&at_campaign=rss",
+      "summary": "Meanwhile, a Ukrainian drone attack killed two people in Russia, officials say.",
+      "published_at": "2026-04-16T12:05:14Z",
+      "country_code": "RU",
+      "country_name": "Russia"
+    },
     {
       "source": "BBC World",
       "title": "Wanted activist arrested in South Africa over support for Benin coup plot",
@@ -11,6 +29,15 @@
       "country_name": "South Africa"
     },
     {
+      "source": "BBC US & Canada",
+      "title": "Fifa blamed as World Cup trains in US set to cost $100",
+      "url": "https://www.bbc.com/sport/football/articles/cg73p124k07o?at_medium=RSS&at_campaign=rss",
+      "summary": "New Jersey Governor Mikie Sherrill accuses Fifa of failing to provide funding, which means fans must foot the bill.",
+      "published_at": "2026-04-16T11:02:13Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
       "source": "BBC World",
       "title": "Brazil's former spy chief released from ICE detention",
       "url": "https://www.bbc.com/news/articles/cvglz72rjl2o?at_medium=RSS&at_campaign=rss",
@@ -18,15 +45,6 @@
       "published_at": "2026-04-16T11:00:22Z",
       "country_code": "BR",
       "country_name": "Brazil"
-    },
-    {
-      "source": "BBC Europe",
-      "title": "Wave of Russian drone and missile attacks kill at least 16 in Ukraine",
-      "url": "https://www.bbc.com/news/articles/cm29plylqnvo?at_medium=RSS&at_campaign=rss",
-      "summary": "Meanwhile, a Ukrainian drone attack killed two children in Russia, officials say.",
-      "published_at": "2026-04-16T09:43:39Z",
-      "country_code": "RU",
-      "country_name": "Russia"
     },
     {
       "source": "BBC World",
@@ -155,7 +173,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Africa",
       "title": "South Africa names apartheid-era politician as new ambassador to the US",
       "url": "https://www.bbc.com/news/articles/cwyjjjz8n8ko?at_medium=RSS&at_campaign=rss",
       "summary": "Roelf Meyer played a key role as a negotiator during talks to end white-minority rule in South Africa.",
@@ -726,7 +744,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 33
+      "news_count": 35
     },
     {
       "country_code": "AU",
