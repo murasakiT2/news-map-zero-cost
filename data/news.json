@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-04-16T10:54:38Z",
+  "generated_at": "2026-04-16T11:52:14Z",
   "articles": [
-    {
-      "source": "BBC World",
-      "title": "Turkish police order 83 arrests over online praise for school shootings",
-      "url": "https://www.bbc.com/news/articles/cz9025d7jqzo?at_medium=RSS&at_campaign=rss",
-      "summary": "At least nine were killed in a school shooting in southern Turkey on Wednesday, a day after another attack injured 16 people at a high schoo…",
-      "published_at": "2026-04-16T10:38:50Z",
-      "country_code": "TR",
-      "country_name": "Turkey"
-    },
     {
       "source": "BBC World",
       "title": "Wanted activist arrested in South Africa over support for Benin coup plot",
       "url": "https://www.bbc.com/news/articles/cm29p64z77go?at_medium=RSS&at_campaign=rss",
       "summary": "Keba Seba is known for opposing French influence in Africa and backing West Africa's military leaders.",
-      "published_at": "2026-04-16T09:58:14Z",
+      "published_at": "2026-04-16T11:10:17Z",
       "country_code": "ZA",
       "country_name": "South Africa"
+    },
+    {
+      "source": "BBC World",
+      "title": "Brazil's former spy chief released from ICE detention",
+      "url": "https://www.bbc.com/news/articles/cvglz72rjl2o?at_medium=RSS&at_campaign=rss",
+      "summary": "Bolsonaro ally Alexandre Ramagem was stopped by immigration agents in Orlando, Florida on Monday.",
+      "published_at": "2026-04-16T11:00:22Z",
+      "country_code": "BR",
+      "country_name": "Brazil"
     },
     {
       "source": "BBC Europe",
@@ -119,7 +119,7 @@
       "country_name": "Nigeria"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Middle East",
       "title": "Prominent Palestinian prisoner Marwan Barghouti assaulted three times in a month, family says",
       "url": "https://www.bbc.com/news/articles/czreedn4n7jo?at_medium=RSS&at_campaign=rss",
       "summary": "The Israeli Prison Service says the allegation that Barghouti was subjected to physical violence by prison guards are \"false and baseless\".",
@@ -128,7 +128,7 @@
       "country_name": "Palestine"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Africa",
       "title": "Chinese national given one year in prison for smuggling ants out of Kenya",
       "url": "https://www.bbc.com/news/articles/cz788z27j2jo?at_medium=RSS&at_campaign=rss",
       "summary": "Zhang Kequn was arrested in March while trying to travel to China with more than 2,000 live ants.",
@@ -200,22 +200,13 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Africa",
       "title": "Three years of messages at once - a chronicle of Sudan's war pours in as trapped reporter's phone turns on",
       "url": "https://www.bbc.com/news/articles/cy01d1g0rrjo?at_medium=RSS&at_campaign=rss",
       "summary": "As the conflict enters its fourth year, journalist Mohamed Suleiman shudders at what has been lost.",
       "published_at": "2026-04-15T09:19:07Z",
       "country_code": "SD",
       "country_name": "Sudan"
-    },
-    {
-      "source": "BBC Africa",
-      "title": "Kenya fuel prices rise sharply despite reduction in tax due to Iran war",
-      "url": "https://www.bbc.com/news/articles/cgrlll7qgdzo?at_medium=RSS&at_campaign=rss",
-      "summary": "Diesel prices rise by a record margin despite a reduction in value added tax.",
-      "published_at": "2026-04-15T09:06:38Z",
-      "country_code": "IR",
-      "country_name": "Iran"
     },
     {
       "source": "BBC World",
@@ -394,15 +385,6 @@
       "url": "https://www.bbc.com/news/articles/cvgk3vpyzdqo?at_medium=RSS&at_campaign=rss",
       "summary": "There are questions over whether local taxpayers are picking up any of the bill for policing the visit.",
       "published_at": "2026-04-14T09:45:43Z",
-      "country_code": "AU",
-      "country_name": "Australia"
-    },
-    {
-      "source": "BBC World",
-      "title": "Watch: What are Harry and Meghan doing in Australia?",
-      "url": "https://www.bbc.com/news/videos/c70dd4975r2o?at_medium=RSS&at_campaign=rss",
-      "summary": "BBC News journalist Simon Atkinson explains how the couple's tour will be different compared to their last visit.",
-      "published_at": "2026-04-14T09:41:22Z",
       "country_code": "AU",
       "country_name": "Australia"
     },
@@ -749,7 +731,7 @@
     {
       "country_code": "AU",
       "country_name": "Australia",
-      "news_count": 6
+      "news_count": 5
     },
     {
       "country_code": "CN",
@@ -759,7 +741,7 @@
     {
       "country_code": "IR",
       "country_name": "Iran",
-      "news_count": 5
+      "news_count": 4
     },
     {
       "country_code": "NG",
@@ -802,9 +784,9 @@
       "news_count": 2
     },
     {
-      "country_code": "TR",
-      "country_name": "Turkey",
-      "news_count": 2
+      "country_code": "BR",
+      "country_name": "Brazil",
+      "news_count": 1
     },
     {
       "country_code": "ET",
@@ -849,6 +831,11 @@
     {
       "country_code": "SE",
       "country_name": "Sweden",
+      "news_count": 1
+    },
+    {
+      "country_code": "TR",
+      "country_name": "Turkey",
       "news_count": 1
     },
     {
