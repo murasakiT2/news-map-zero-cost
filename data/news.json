@@ -1,15 +1,6 @@
 {
-  "generated_at": "2026-04-16T19:41:20Z",
+  "generated_at": "2026-04-16T20:38:31Z",
   "articles": [
-    {
-      "source": "BBC US & Canada",
-      "title": "Is Trump meeting the moment for US conservatives?",
-      "url": "https://www.bbc.com/news/videos/crr1pk5jkyqo?at_medium=RSS&at_campaign=rss",
-      "summary": "The BBC asked the president's supporters about Iran, the economy and immigration at the largest conservative gathering in the country.",
-      "published_at": "2026-04-16T18:49:01Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
     {
       "source": "BBC World",
       "title": "Pope criticises 'tyrants' who spend billions on wars after Trump spat",
@@ -20,10 +11,19 @@
       "country_name": "United States"
     },
     {
+      "source": "BBC World",
+      "title": "Lawmakers clash with RFK Jr as he shifts focus away from vaccines",
+      "url": "https://www.bbc.com/news/articles/c30r2v68lg8o?at_medium=RSS&at_campaign=rss",
+      "summary": "During a three-hour hearing, the US health secretary tried to focus on chronic disease while being pressed on vaccines.",
+      "published_at": "2026-04-16T17:55:15Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
       "source": "BBC US & Canada",
       "title": "US lawmakers reject measure to block Trump from striking Iran",
       "url": "https://www.bbc.com/news/articles/c5yve8dmvn5o?at_medium=RSS&at_campaign=rss",
-      "summary": "An earlier attempt failed narrowly in the House last month, with two House Republicans voting for it and four Democrats opposing it.",
+      "summary": "The measure, a mostly symbolic gesture, lost by a single vote in the closely-divided House of Representatives.",
       "published_at": "2026-04-16T17:47:30Z",
       "country_code": "US",
       "country_name": "United States"
@@ -126,15 +126,6 @@
       "published_at": "2026-04-15T22:09:13Z",
       "country_code": "KR",
       "country_name": "South Korea"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "Vote to stop Iran war fails in US Senate again as Democrats vow to keep trying",
-      "url": "https://www.bbc.com/news/articles/czxrrlve714o?at_medium=RSS&at_campaign=rss",
-      "summary": "Most Republicans support Trump continuing military operations, but some say they may reassess in a few weeks.",
-      "published_at": "2026-04-15T21:32:22Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC World",
@@ -423,15 +414,6 @@
       "published_at": "2026-04-14T05:19:43Z",
       "country_code": "CN",
       "country_name": "China"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "‘I pray they come together’ - Americans react to Trump’s feud with Pope Leo",
-      "url": "https://www.bbc.com/news/videos/cp3l2vv69peo?at_medium=RSS&at_campaign=rss",
-      "summary": "Hours after posting a lengthy message critiquing the pontiff, the US president shared a Jesus-like image of himself that he has since delete…",
-      "published_at": "2026-04-14T00:56:53Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC Asia",
@@ -735,7 +717,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 34
+      "news_count": 32
     },
     {
       "country_code": "AU",
