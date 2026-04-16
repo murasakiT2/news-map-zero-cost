@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-04-16T01:29:25Z",
+  "generated_at": "2026-04-16T04:35:10Z",
   "articles": [
+    {
+      "source": "BBC Asia",
+      "title": "Japan pledges $10bn to help Asian countries deal with oil crisis",
+      "url": "https://www.bbc.com/news/articles/c5yxev9v4nyo?at_medium=RSS&at_campaign=rss",
+      "summary": "The aid is roughly equivalent to a year's worth of crude oil imports by Asean countries.",
+      "published_at": "2026-04-16T04:27:49Z",
+      "country_code": "JP",
+      "country_name": "Japan"
+    },
+    {
+      "source": "BBC World",
+      "title": "Former US Marine pilot loses appeal against extradition from Australia",
+      "url": "https://www.bbc.com/news/articles/c20q2n0l9vgo?at_medium=RSS&at_campaign=rss",
+      "summary": "Daniel Duggan was arrested in 2022 over claims he illegally trained the Chinese military in South Africa.",
+      "published_at": "2026-04-16T02:17:38Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC US & Canada",
       "title": "Vote to stop Iran war fails in US Senate again as Democrats vow to keep trying",
@@ -290,15 +308,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
-      "title": "Partner of US influencer who died in Zanzibar speaking to police as witness",
-      "url": "https://www.bbc.com/news/articles/cx299rxk0ngo?at_medium=RSS&at_campaign=rss",
-      "summary": "The police said Ashly Robinson, known online as Ashlee Jenae, had died after attempting to take her own life.",
-      "published_at": "2026-04-14T16:22:47Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC Latin America",
       "title": "Brazil's former spy chief detained by ICE agents in US",
       "url": "https://www.bbc.com/news/articles/cjw88l41ldyo?at_medium=RSS&at_campaign=rss",
@@ -358,15 +367,6 @@
       "url": "https://www.bbc.com/news/articles/cvgk3vpyzdqo?at_medium=RSS&at_campaign=rss",
       "summary": "There are questions over whether local taxpayers are picking up any of the bill for policing the visit.",
       "published_at": "2026-04-14T09:45:43Z",
-      "country_code": "AU",
-      "country_name": "Australia"
-    },
-    {
-      "source": "BBC Asia",
-      "title": "Watch: What are Harry and Meghan doing in Australia?",
-      "url": "https://www.bbc.com/news/videos/c70dd4975r2o?at_medium=RSS&at_campaign=rss",
-      "summary": "BBC News journalist Simon Atkinson explains how the couple's tour will be different compared to their last visit.",
-      "published_at": "2026-04-14T09:41:22Z",
       "country_code": "AU",
       "country_name": "Australia"
     },
@@ -774,14 +774,14 @@
       "news_count": 36
     },
     {
-      "country_code": "AU",
-      "country_name": "Australia",
-      "news_count": 6
-    },
-    {
       "country_code": "IR",
       "country_name": "Iran",
       "news_count": 6
+    },
+    {
+      "country_code": "AU",
+      "country_name": "Australia",
+      "news_count": 5
     },
     {
       "country_code": "CA",
@@ -851,6 +851,11 @@
     {
       "country_code": "IT",
       "country_name": "Italy",
+      "news_count": 1
+    },
+    {
+      "country_code": "JP",
+      "country_name": "Japan",
       "news_count": 1
     },
     {
