@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-04-16T06:27:59Z",
+  "generated_at": "2026-04-16T08:12:01Z",
   "articles": [
+    {
+      "source": "BBC Europe",
+      "title": "Wave of Russian drone and missile attacks kill 15 in Ukraine",
+      "url": "https://www.bbc.com/news/articles/cm29plylqnvo?at_medium=RSS&at_campaign=rss",
+      "summary": "Meanwhile, a Ukrainian drone attack killed two children in Russia, officials say.",
+      "published_at": "2026-04-16T06:09:33Z",
+      "country_code": "RU",
+      "country_name": "Russia"
+    },
     {
       "source": "BBC Asia",
       "title": "Japan pledges $10bn to help Asian countries deal with oil crisis",
@@ -20,7 +29,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Asia",
+      "source": "BBC World",
       "title": "Howl recordings and an AI image: Inside South Korea's long hunt for an escaped wolf",
       "url": "https://www.bbc.com/news/articles/c24882dem6po?at_medium=RSS&at_campaign=rss",
       "summary": "Hundreds have been deployed to find Neukgu, a young wolf that has eluded capture for a week and counting.",
@@ -327,6 +336,15 @@
     },
     {
       "source": "BBC Latin America",
+      "title": "Husband of US woman missing in Bahamas released, says he will keep looking",
+      "url": "https://www.bbc.com/news/articles/c79jjd5r0yro?at_medium=RSS&at_campaign=rss",
+      "summary": "Brian Hooker was taken into custody and faced questions after his wife Lynette went missing in the Bahamas earlier this month.",
+      "published_at": "2026-04-14T16:17:24Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC Latin America",
       "title": "Brazil's former spy chief detained by ICE agents in US",
       "url": "https://www.bbc.com/news/articles/cjw88l41ldyo?at_medium=RSS&at_campaign=rss",
       "summary": "Alexandre Ramagem was sentenced to 16 years in jail for plotting a military coup in Brazil but had already fled the country.",
@@ -342,15 +360,6 @@
       "published_at": "2026-04-14T14:43:09Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "Hamas rejects Gaza disarmament plan, Palestinian official says",
-      "url": "https://www.bbc.com/news/articles/cn4vvxxg8lgo?at_medium=RSS&at_campaign=rss",
-      "summary": "The official tells the BBC that the armed group will not move forward with talks until Israel fully complies with its commitments.",
-      "published_at": "2026-04-14T14:01:05Z",
-      "country_code": "IL",
-      "country_name": "Israel"
     },
     {
       "source": "BBC Europe",
@@ -452,16 +461,7 @@
       "country_name": "China"
     },
     {
-      "source": "BBC US & Canada",
-      "title": "US drivers head to Native American lands for cheaper gas",
-      "url": "https://www.bbc.com/news/videos/c1krg1rzpmeo?at_medium=RSS&at_campaign=rss",
-      "summary": "Some of the cheapest fuel in the country can be found on tribal land due to tax exemptions.",
-      "published_at": "2026-04-13T19:10:28Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC US & Canada",
+      "source": "BBC Middle East",
       "title": "US blockade of Iranian ports explained in two minutes",
       "url": "https://www.bbc.com/news/videos/cd9vg5vggvqo?at_medium=RSS&at_campaign=rss",
       "summary": "The BBC's security correspondent Frank Gardner explains how the US blockade of Iranian ports will work.",
@@ -533,7 +533,7 @@
       "country_name": "Canada"
     },
     {
-      "source": "BBC US & Canada",
+      "source": "BBC Middle East",
       "title": "Trump's blockade threat raises risks and leaves predicaments unchanged",
       "url": "https://www.bbc.com/news/articles/c8dl5mly2rzo?at_medium=RSS&at_campaign=rss",
       "summary": "The conflict is now a test of wills - Iran’s capacity to absorb strikes versus Trump’s tolerance for the war's costs.",
@@ -621,15 +621,6 @@
       "published_at": "2026-04-09T16:06:39Z",
       "country_code": "IR",
       "country_name": "Iran"
-    },
-    {
-      "source": "BBC Latin America",
-      "title": "Argentina passes bill loosening protection of its glaciers",
-      "url": "https://www.bbc.com/news/articles/c5y72e6x554o?at_medium=RSS&at_campaign=rss",
-      "summary": "The new bill will make it easier for provincial governments to allow mining projects in glacier regions.",
-      "published_at": "2026-04-09T10:52:23Z",
-      "country_code": "AR",
-      "country_name": "Argentina"
     },
     {
       "source": "BBC Europe",
@@ -763,14 +754,19 @@
       "news_count": 4
     },
     {
-      "country_code": "AR",
-      "country_name": "Argentina",
-      "news_count": 3
-    },
-    {
       "country_code": "KR",
       "country_name": "South Korea",
       "news_count": 3
+    },
+    {
+      "country_code": "RU",
+      "country_name": "Russia",
+      "news_count": 3
+    },
+    {
+      "country_code": "AR",
+      "country_name": "Argentina",
+      "news_count": 2
     },
     {
       "country_code": "ES",
@@ -788,11 +784,6 @@
       "news_count": 2
     },
     {
-      "country_code": "RU",
-      "country_name": "Russia",
-      "news_count": 2
-    },
-    {
       "country_code": "SD",
       "country_name": "Sudan",
       "news_count": 2
@@ -800,11 +791,6 @@
     {
       "country_code": "ET",
       "country_name": "Ethiopia",
-      "news_count": 1
-    },
-    {
-      "country_code": "IL",
-      "country_name": "Israel",
       "news_count": 1
     },
     {
