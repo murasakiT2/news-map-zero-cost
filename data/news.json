@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-04-16T09:53:25Z",
+  "generated_at": "2026-04-16T10:54:38Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Turkish police order 83 arrests over online praise for school shootings",
+      "url": "https://www.bbc.com/news/articles/cz9025d7jqzo?at_medium=RSS&at_campaign=rss",
+      "summary": "At least nine were killed in a school shooting in southern Turkey on Wednesday, a day after another attack injured 16 people at a high schoo…",
+      "published_at": "2026-04-16T10:38:50Z",
+      "country_code": "TR",
+      "country_name": "Turkey"
+    },
+    {
+      "source": "BBC World",
+      "title": "Wanted activist arrested in South Africa over support for Benin coup plot",
+      "url": "https://www.bbc.com/news/articles/cm29p64z77go?at_medium=RSS&at_campaign=rss",
+      "summary": "Keba Seba is known for opposing French influence in Africa and backing West Africa's military leaders.",
+      "published_at": "2026-04-16T09:58:14Z",
+      "country_code": "ZA",
+      "country_name": "South Africa"
+    },
     {
       "source": "BBC Europe",
       "title": "Wave of Russian drone and missile attacks kill at least 16 in Ukraine",
@@ -9,15 +27,6 @@
       "published_at": "2026-04-16T09:43:39Z",
       "country_code": "RU",
       "country_name": "Russia"
-    },
-    {
-      "source": "BBC World",
-      "title": "Turkish police order 83 arrests over online praise for school shootings",
-      "url": "https://www.bbc.com/news/articles/cz9025d7jqzo?at_medium=RSS&at_campaign=rss",
-      "summary": "At least nine were killed in a school shooting in southern Turkey on Wednesday, a day after another attack injured 16 people at a high schoo…",
-      "published_at": "2026-04-16T09:20:20Z",
-      "country_code": "TR",
-      "country_name": "Turkey"
     },
     {
       "source": "BBC World",
@@ -218,7 +227,7 @@
       "country_name": "Sudan"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "Australia's richest person must share part of her mining fortunes, court rules",
       "url": "https://www.bbc.com/news/articles/cq5990nqjg2o?at_medium=RSS&at_campaign=rss",
       "summary": "The long-running legal dispute is over a lucrative iron ore project in the top west corner of Australia.",
@@ -227,7 +236,7 @@
       "country_name": "Australia"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "South Korea jails American YouTuber for public nuisance",
       "url": "https://www.bbc.com/news/articles/cj400lje9vxo?at_medium=RSS&at_campaign=rss",
       "summary": "Johnny Somali sparked outrage after kissing a statue representing World War Two sex slaves.",
@@ -470,7 +479,7 @@
       "country_name": "China"
     },
     {
-      "source": "BBC Middle East",
+      "source": "BBC World",
       "title": "US blockade of Iranian ports explained in two minutes",
       "url": "https://www.bbc.com/news/videos/cd9vg5vggvqo?at_medium=RSS&at_campaign=rss",
       "summary": "The BBC's security correspondent Frank Gardner explains how the US blockade of Iranian ports will work.",
@@ -840,6 +849,11 @@
     {
       "country_code": "SE",
       "country_name": "Sweden",
+      "news_count": 1
+    },
+    {
+      "country_code": "ZA",
+      "country_name": "South Africa",
       "news_count": 1
     }
   ]
