@@ -1,6 +1,33 @@
 {
-  "generated_at": "2026-04-16T15:09:43Z",
+  "generated_at": "2026-04-16T16:52:14Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "How did a wolf become a fugitive in South Korea?",
+      "url": "https://www.bbc.com/news/videos/c70dv9jy50no?at_medium=RSS&at_campaign=rss",
+      "summary": "A wolf burrowed under a fence at his zoo in South Korea becoming the country's newest fugitive.",
+      "published_at": "2026-04-16T15:51:10Z",
+      "country_code": "KR",
+      "country_name": "South Korea"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "Watch: Rising prices threaten Minnesota's meat raffles",
+      "url": "https://www.bbc.com/news/videos/cp86pj0eppro?at_medium=RSS&at_campaign=rss",
+      "summary": "Popular in local bars across the US, the games are facing higher meat prices, squeezing some of the charities that benefit from them.",
+      "published_at": "2026-04-16T15:35:25Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Russia launches deadliest aerial attack in months, killing 18 in Ukraine",
+      "url": "https://www.bbc.com/news/articles/cm29plylqnvo?at_medium=RSS&at_campaign=rss",
+      "summary": "A Ukrainian drone attack killed two people in Russia, Moscow says, after an Orthodox Easter truce.",
+      "published_at": "2026-04-16T15:20:59Z",
+      "country_code": "RU",
+      "country_name": "Russia"
+    },
     {
       "source": "BBC World",
       "title": "India pushes for women's quota bill as row over parliamentary seats intensifies",
@@ -18,15 +45,6 @@
       "published_at": "2026-04-16T13:59:45Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC Europe",
-      "title": "Russia launches deadliest drone and missile attack in months, killing 17 in Ukraine",
-      "url": "https://www.bbc.com/news/articles/cm29plylqnvo?at_medium=RSS&at_campaign=rss",
-      "summary": "Meanwhile, a Ukrainian drone attack killed two people in Russia, officials say.",
-      "published_at": "2026-04-16T12:05:14Z",
-      "country_code": "RU",
-      "country_name": "Russia"
     },
     {
       "source": "BBC World",
@@ -246,15 +264,6 @@
     },
     {
       "source": "BBC US & Canada",
-      "title": "US justice department seeks to throw out Capitol riot convictions",
-      "url": "https://www.bbc.com/news/articles/ce8jje1d4jgo?at_medium=RSS&at_campaign=rss",
-      "summary": "The Trump administration is asking a court to throw out the convictions of Stewart Rhodes and other members of the Oath Keepers and Proud Bo…",
-      "published_at": "2026-04-15T02:56:48Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC US & Canada",
       "title": "Diplomacy on ice: Mark Carney and Alexander Stubb play hockey",
       "url": "https://www.bbc.com/news/videos/c07005v7x8mo?at_medium=RSS&at_campaign=rss",
       "summary": "The Canadian prime minister joined the Ottawa Charge team on the rink alongside the Finnish president during his first formal bilateral visi…",
@@ -295,15 +304,6 @@
       "url": "https://www.bbc.com/news/articles/cx2dd0lz1m2o?at_medium=RSS&at_campaign=rss",
       "summary": "Ahmed Shihab-Eldin is understood to be facing charges including spreading false information, the Committee to Protect Journalists says.",
       "published_at": "2026-04-14T20:14:53Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "'Bit of pain' worth long-term security from Iran, Bessent tells BBC",
-      "url": "https://www.bbc.com/news/articles/c4g66p2q075o?at_medium=RSS&at_campaign=rss",
-      "summary": "US Treasury Secretary said a \"small bit of economic pain\" was worth it to eliminate the threat of Iranian strikes on Western capitals.",
-      "published_at": "2026-04-14T19:47:53Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -452,7 +452,7 @@
       "country_name": "China"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Middle East",
       "title": "US blockade of Iranian ports explained in two minutes",
       "url": "https://www.bbc.com/news/videos/cd9vg5vggvqo?at_medium=RSS&at_campaign=rss",
       "summary": "The BBC's security correspondent Frank Gardner explains how the US blockade of Iranian ports will work.",
@@ -717,7 +717,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 33
+      "news_count": 32
     },
     {
       "country_code": "AU",
@@ -735,6 +735,11 @@
       "news_count": 4
     },
     {
+      "country_code": "KR",
+      "country_name": "South Korea",
+      "news_count": 4
+    },
+    {
       "country_code": "NG",
       "country_name": "Nigeria",
       "news_count": 4
@@ -742,11 +747,6 @@
     {
       "country_code": "CA",
       "country_name": "Canada",
-      "news_count": 3
-    },
-    {
-      "country_code": "KR",
-      "country_name": "South Korea",
       "news_count": 3
     },
     {
