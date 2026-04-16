@@ -1,6 +1,33 @@
 {
-  "generated_at": "2026-04-16T20:38:31Z",
+  "generated_at": "2026-04-16T21:34:36Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Israel and Lebanon agree 10-day ceasefire, Trump says",
+      "url": "https://www.bbc.com/news/articles/c8x7w1w9gd2o?at_medium=RSS&at_campaign=rss",
+      "summary": "The US president invites the two countries' leaders to Washington as Israel's prime minister insists troops will not leave southern Lebanon.",
+      "published_at": "2026-04-16T21:18:31Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC Middle East",
+      "title": "Lyse Doucet in Iran: Destruction shows huge civilian cost of the war",
+      "url": "https://www.bbc.com/news/videos/c62j6d4n0wqo?at_medium=RSS&at_campaign=rss",
+      "summary": "While military targets have been struck in Iran, civilian areas have too, showing the stark reality of the war.",
+      "published_at": "2026-04-16T19:35:36Z",
+      "country_code": "IR",
+      "country_name": "Iran"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "Is Trump meeting the moment for US conservatives?",
+      "url": "https://www.bbc.com/news/videos/crr1pk5jkyqo?at_medium=RSS&at_campaign=rss",
+      "summary": "The BBC asked the president's supporters about Iran, the economy and immigration at the largest conservative gathering in the country.",
+      "published_at": "2026-04-16T18:49:01Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "Pope criticises 'tyrants' who spend billions on wars after Trump spat",
@@ -83,15 +110,6 @@
       "country_name": "Brazil"
     },
     {
-      "source": "BBC World",
-      "title": "China's economy grows faster than expected despite Iran war",
-      "url": "https://www.bbc.com/news/articles/c4gxjpekk19o?at_medium=RSS&at_campaign=rss",
-      "summary": "The better-than-expected GDP data comes as Asian countries have been hit hard by the impact of the conflict.",
-      "published_at": "2026-04-16T07:08:52Z",
-      "country_code": "CN",
-      "country_name": "China"
-    },
-    {
       "source": "BBC Asia",
       "title": "Japan pledges $10bn to help Asian countries deal with oil crisis",
       "url": "https://www.bbc.com/news/articles/c5yxev9v4nyo?at_medium=RSS&at_campaign=rss",
@@ -99,15 +117,6 @@
       "published_at": "2026-04-16T04:27:49Z",
       "country_code": "JP",
       "country_name": "Japan"
-    },
-    {
-      "source": "BBC World",
-      "title": "Former US Marine pilot loses appeal against extradition from Australia",
-      "url": "https://www.bbc.com/news/articles/c20q2n0l9vgo?at_medium=RSS&at_campaign=rss",
-      "summary": "Daniel Duggan was arrested in 2022 over claims he illegally trained the Chinese military in South Africa.",
-      "published_at": "2026-04-16T02:17:38Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC World",
@@ -331,15 +340,6 @@
       "url": "https://www.bbc.com/news/articles/c5yv6xr6me3o?at_medium=RSS&at_campaign=rss",
       "summary": "Donald Trump says that the US is blockading the Strait of Hormuz. What does this mean in practice?",
       "published_at": "2026-04-14T17:10:52Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC Middle East",
-      "title": "What does the blockade mean for oil prices?",
-      "url": "https://www.bbc.com/news/videos/c20ddq3y8n2o?at_medium=RSS&at_campaign=rss",
-      "summary": "The US has started a naval blockade of maritime traffic entering and leaving Iranian ports.",
-      "published_at": "2026-04-14T16:43:48Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -725,14 +725,9 @@
       "news_count": 5
     },
     {
-      "country_code": "CN",
-      "country_name": "China",
-      "news_count": 4
-    },
-    {
       "country_code": "IR",
       "country_name": "Iran",
-      "news_count": 4
+      "news_count": 5
     },
     {
       "country_code": "KR",
@@ -747,6 +742,11 @@
     {
       "country_code": "CA",
       "country_name": "Canada",
+      "news_count": 3
+    },
+    {
+      "country_code": "CN",
+      "country_name": "China",
       "news_count": 3
     },
     {
