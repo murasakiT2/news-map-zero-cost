@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-04-17T19:51:34Z",
+  "generated_at": "2026-04-17T20:34:47Z",
   "articles": [
+    {
+      "source": "BBC Middle East",
+      "title": "A moment of risk and opportunity: How two ceasefires could boost US-Iran talks",
+      "url": "https://www.bbc.com/news/articles/c0mjynzvw94o?at_medium=RSS&at_campaign=rss",
+      "summary": "Some kind of diplomatic progress is now under way, but is it enough to prevent a return to war?",
+      "published_at": "2026-04-17T19:59:30Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC US & Canada",
       "title": "Ontario Premier Doug Ford criticised for $21m private jet purchase",
@@ -27,6 +36,15 @@
       "published_at": "2026-04-17T18:24:21Z",
       "country_code": "US",
       "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Japan reveals new name for 40C-and-hotter days after blistering summer",
+      "url": "https://www.bbc.com/news/articles/crr185nx0n9o?at_medium=RSS&at_campaign=rss",
+      "summary": "The term - kokushobi - translates to \"cruelly hot\", \"brutally hot\" or \"severely hot\", and comes after Japan's hottest summer on record.",
+      "published_at": "2026-04-17T18:19:43Z",
+      "country_code": "JP",
+      "country_name": "Japan"
     },
     {
       "source": "BBC World",
@@ -72,15 +90,6 @@
       "published_at": "2026-04-17T16:17:54Z",
       "country_code": "ZA",
       "country_name": "South Africa"
-    },
-    {
-      "source": "BBC Middle East",
-      "title": "How two ceasefires and 'opening' of Hormuz could boost Iran talks",
-      "url": "https://www.bbc.com/news/articles/c0mjynzvw94o?at_medium=RSS&at_campaign=rss",
-      "summary": "Some kind of diplomatic progress is now under way, but is it enough to prevent a return to war?",
-      "published_at": "2026-04-17T15:22:08Z",
-      "country_code": "IR",
-      "country_name": "Iran"
     },
     {
       "source": "BBC World",
@@ -681,7 +690,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 30
+      "news_count": 31
     },
     {
       "country_code": "AU",
@@ -691,7 +700,7 @@
     {
       "country_code": "IR",
       "country_name": "Iran",
-      "news_count": 5
+      "news_count": 4
     },
     {
       "country_code": "NG",
@@ -726,6 +735,11 @@
     {
       "country_code": "GB",
       "country_name": "United Kingdom",
+      "news_count": 2
+    },
+    {
+      "country_code": "JP",
+      "country_name": "Japan",
       "news_count": 2
     },
     {
@@ -776,11 +790,6 @@
     {
       "country_code": "IT",
       "country_name": "Italy",
-      "news_count": 1
-    },
-    {
-      "country_code": "JP",
-      "country_name": "Japan",
       "news_count": 1
     },
     {
