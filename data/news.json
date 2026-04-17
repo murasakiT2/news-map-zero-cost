@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-04-17T11:42:01Z",
+  "generated_at": "2026-04-17T12:55:02Z",
   "articles": [
+    {
+      "source": "BBC Europe",
+      "title": "Palestinians hand over suspect in 1982 attack on Jewish restaurant in Paris",
+      "url": "https://www.bbc.com/news/articles/cj94pkyr9mpo?at_medium=RSS&at_campaign=rss",
+      "summary": "Hicham Harb is suspected of directing the attack in the Rue des Rosiers and acting as one of the gunmen who shot at diners.",
+      "published_at": "2026-04-17T12:42:06Z",
+      "country_code": "FR",
+      "country_name": "France"
+    },
     {
       "source": "BBC World",
       "title": "BBC in Iran: 'Tehran does not think it has lost this war'",
@@ -696,6 +705,11 @@
     {
       "country_code": "ET",
       "country_name": "Ethiopia",
+      "news_count": 1
+    },
+    {
+      "country_code": "FR",
+      "country_name": "France",
       "news_count": 1
     },
     {
