@@ -1,6 +1,33 @@
 {
-  "generated_at": "2026-04-17T16:42:43Z",
+  "generated_at": "2026-04-17T17:40:00Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Widow, 86, back in France after being held by ICE",
+      "url": "https://www.bbc.com/news/articles/ce84j0j6622o?at_medium=RSS&at_campaign=rss",
+      "summary": "Marie-Thérèse had moved to the US after reuniting with her long-lost love, an American man who died in January.",
+      "published_at": "2026-04-17T17:14:21Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Irish fugitive and suspected crime boss Daniel Kinahan arrested in Dubai",
+      "url": "https://www.bbc.com/news/articles/c4g4yl5dd4do?at_medium=RSS&at_campaign=rss",
+      "summary": "Kinahan, in his 40s, was arrested in Dubai on foot of an arrest warrant issued by the Irish courts.",
+      "published_at": "2026-04-17T17:12:38Z",
+      "country_code": "AE",
+      "country_name": "United Arab Emirates"
+    },
+    {
+      "source": "BBC World",
+      "title": "What next for South African opposition firebrand Malema after his five-year prison sentence?",
+      "url": "https://www.bbc.com/news/articles/cdxkd6rvk0do?at_medium=RSS&at_campaign=rss",
+      "summary": "The sentence raises huge questions marks over the political future of one of South Africa's most controversial politicians.",
+      "published_at": "2026-04-17T16:53:17Z",
+      "country_code": "ZA",
+      "country_name": "South Africa"
+    },
     {
       "source": "BBC World",
       "title": "Oil prices plunge as Iran says Strait 'open'",
@@ -126,15 +153,6 @@
       "published_at": "2026-04-16T23:49:34Z",
       "country_code": "GB",
       "country_name": "United Kingdom"
-    },
-    {
-      "source": "BBC World",
-      "title": "Trump's Lebanon ceasefire takes Israel by surprise",
-      "url": "https://www.bbc.com/news/articles/cje4pn575jgo?at_medium=RSS&at_campaign=rss",
-      "summary": "Few Israelis see this truce as a way out of the conflict with Hezbollah, the BBC's Lucy Williamson writes.",
-      "published_at": "2026-04-16T22:55:59Z",
-      "country_code": "IL",
-      "country_name": "Israel"
     },
     {
       "source": "BBC Asia",
@@ -636,7 +654,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 27
+      "news_count": 28
     },
     {
       "country_code": "AU",
@@ -659,6 +677,11 @@
       "news_count": 3
     },
     {
+      "country_code": "ZA",
+      "country_name": "South Africa",
+      "news_count": 3
+    },
+    {
       "country_code": "AR",
       "country_name": "Argentina",
       "news_count": 2
@@ -674,11 +697,6 @@
       "news_count": 2
     },
     {
-      "country_code": "IL",
-      "country_name": "Israel",
-      "news_count": 2
-    },
-    {
       "country_code": "SD",
       "country_name": "Sudan",
       "news_count": 2
@@ -689,9 +707,9 @@
       "news_count": 2
     },
     {
-      "country_code": "ZA",
-      "country_name": "South Africa",
-      "news_count": 2
+      "country_code": "AE",
+      "country_name": "United Arab Emirates",
+      "news_count": 1
     },
     {
       "country_code": "BR",
@@ -716,6 +734,11 @@
     {
       "country_code": "GB",
       "country_name": "United Kingdom",
+      "news_count": 1
+    },
+    {
+      "country_code": "IL",
+      "country_name": "Israel",
       "news_count": 1
     },
     {
