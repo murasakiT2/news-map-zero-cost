@@ -1,8 +1,17 @@
 {
-  "generated_at": "2026-04-17T12:55:02Z",
+  "generated_at": "2026-04-17T14:16:28Z",
   "articles": [
     {
-      "source": "BBC Europe",
+      "source": "BBC World",
+      "title": "Mugabe's son pleads guilty to pointing a gun in South Africa",
+      "url": "https://www.bbc.com/news/articles/cqxlp5pvr3wo?at_medium=RSS&at_campaign=rss",
+      "summary": "Bellarmine Mugabe was arrested in February following the shooting of a 23-year-old man at his home in Johannesburg.",
+      "published_at": "2026-04-17T13:08:46Z",
+      "country_code": "ZA",
+      "country_name": "South Africa"
+    },
+    {
+      "source": "BBC World",
       "title": "Palestinians hand over suspect in 1982 attack on Jewish restaurant in Paris",
       "url": "https://www.bbc.com/news/articles/cj94pkyr9mpo?at_medium=RSS&at_campaign=rss",
       "summary": "Hicham Harb is suspected of directing the attack in the Rue des Rosiers and acting as one of the gunmen who shot at diners.",
@@ -146,7 +155,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "Lawmakers clash with RFK Jr as he shifts focus away from vaccines",
       "url": "https://www.bbc.com/news/articles/c30r2v68lg8o?at_medium=RSS&at_campaign=rss",
       "summary": "During a three-hour hearing, the US health secretary tried to focus on chronic disease while being pressed on vaccines.",
@@ -173,7 +182,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "Russia launches deadliest aerial attack in months, killing 18 in Ukraine",
       "url": "https://www.bbc.com/news/articles/cm29plylqnvo?at_medium=RSS&at_campaign=rss",
       "summary": "A Ukrainian drone attack killed two people in Russia, Moscow says, after an Orthodox Easter truce.",
@@ -200,7 +209,7 @@
       "country_name": "South Africa"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Latin America",
       "title": "Brazil's former spy chief released from ICE detention",
       "url": "https://www.bbc.com/news/articles/cvglz72rjl2o?at_medium=RSS&at_campaign=rss",
       "summary": "Bolsonaro ally Alexandre Ramagem was stopped by immigration agents in Orlando, Florida on Monday.",
@@ -270,15 +279,6 @@
       "published_at": "2026-04-15T15:59:24Z",
       "country_code": "PS",
       "country_name": "Palestine"
-    },
-    {
-      "source": "BBC Africa",
-      "title": "Chinese national given one year in prison for smuggling ants out of Kenya",
-      "url": "https://www.bbc.com/news/articles/cz788z27j2jo?at_medium=RSS&at_campaign=rss",
-      "summary": "Zhang Kequn was arrested in March while trying to travel to China with more than 2,000 live ants.",
-      "published_at": "2026-04-15T15:36:25Z",
-      "country_code": "CN",
-      "country_name": "China"
     },
     {
       "source": "BBC Middle East",
@@ -678,11 +678,6 @@
       "news_count": 2
     },
     {
-      "country_code": "CN",
-      "country_name": "China",
-      "news_count": 2
-    },
-    {
       "country_code": "ES",
       "country_name": "Spain",
       "news_count": 2
@@ -698,8 +693,18 @@
       "news_count": 2
     },
     {
+      "country_code": "ZA",
+      "country_name": "South Africa",
+      "news_count": 2
+    },
+    {
       "country_code": "BR",
       "country_name": "Brazil",
+      "news_count": 1
+    },
+    {
+      "country_code": "CN",
+      "country_name": "China",
       "news_count": 1
     },
     {
@@ -760,11 +765,6 @@
     {
       "country_code": "SE",
       "country_name": "Sweden",
-      "news_count": 1
-    },
-    {
-      "country_code": "ZA",
-      "country_name": "South Africa",
       "news_count": 1
     }
   ]
