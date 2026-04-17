@@ -1,14 +1,41 @@
 {
-  "generated_at": "2026-04-17T01:26:44Z",
+  "generated_at": "2026-04-17T04:27:26Z",
   "articles": [
     {
       "source": "BBC Asia",
+      "title": "Ex-Philippines MP arrested in Prague over corruption scandal",
+      "url": "https://www.bbc.com/news/articles/cy41221lwqjo?at_medium=RSS&at_campaign=rss",
+      "summary": "Co is among those who have been accused of earning kickbacks from 'ghost' flood control projects.",
+      "published_at": "2026-04-17T03:53:09Z",
+      "country_code": "PH",
+      "country_name": "Philippines"
+    },
+    {
+      "source": "BBC Asia",
+      "title": "Australia's most decorated living soldier granted bail over war crime charges",
+      "url": "https://www.bbc.com/news/articles/c98krg8j06ro?at_medium=RSS&at_campaign=rss",
+      "summary": "Lawyers argued that Ben Roberts-Smith wouldn't be able to defend himself properly from prison.",
+      "published_at": "2026-04-17T03:23:23Z",
+      "country_code": "AU",
+      "country_name": "Australia"
+    },
+    {
+      "source": "BBC World",
       "title": "South Korea's runaway wolf finally captured after nine-day search",
       "url": "https://www.bbc.com/news/articles/cn08p8nzejko?at_medium=RSS&at_campaign=rss",
       "summary": "The search has been marked by twists and turns, gripping South Korea and even inspiring a meme coin.",
-      "published_at": "2026-04-17T00:53:03Z",
+      "published_at": "2026-04-17T03:22:09Z",
       "country_code": "KR",
       "country_name": "South Korea"
+    },
+    {
+      "source": "BBC Asia",
+      "title": "Major refinery fire won't lead to fuel rationing, Australian PM says",
+      "url": "https://www.bbc.com/news/articles/cx24118yrpwo?at_medium=RSS&at_campaign=rss",
+      "summary": "A 13-hour blaze at one of Australia's two oil refineries could impact petrol prices and supply.",
+      "published_at": "2026-04-17T01:43:02Z",
+      "country_code": "AU",
+      "country_name": "Australia"
     },
     {
       "source": "BBC Asia",
@@ -27,15 +54,6 @@
       "published_at": "2026-04-16T22:25:26Z",
       "country_code": "IN",
       "country_name": "India"
-    },
-    {
-      "source": "BBC World",
-      "title": "Israel and Lebanon agree 10-day ceasefire, Trump says",
-      "url": "https://www.bbc.com/news/articles/c8x7w1w9gd2o?at_medium=RSS&at_campaign=rss",
-      "summary": "The US president invites the two countries' leaders to Washington as Israel's prime minister insists troops will not leave southern Lebanon.",
-      "published_at": "2026-04-16T21:18:31Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC Middle East",
@@ -281,24 +299,6 @@
       "country_name": "Sudan"
     },
     {
-      "source": "BBC Asia",
-      "title": "Australia's richest person must share part of her mining fortunes, court rules",
-      "url": "https://www.bbc.com/news/articles/cq5990nqjg2o?at_medium=RSS&at_campaign=rss",
-      "summary": "The long-running legal dispute is over a lucrative iron ore project in the top west corner of Australia.",
-      "published_at": "2026-04-15T04:40:30Z",
-      "country_code": "AU",
-      "country_name": "Australia"
-    },
-    {
-      "source": "BBC Asia",
-      "title": "South Korea jails American YouTuber for public nuisance",
-      "url": "https://www.bbc.com/news/articles/cj400lje9vxo?at_medium=RSS&at_campaign=rss",
-      "summary": "Johnny Somali sparked outrage after kissing a statue representing World War Two sex slaves.",
-      "published_at": "2026-04-15T04:21:51Z",
-      "country_code": "KR",
-      "country_name": "South Korea"
-    },
-    {
       "source": "BBC Middle East",
       "title": "Trump hints Iran talks could resume this week as US port blockade continues",
       "url": "https://www.bbc.com/news/articles/c20ddnz4w5lo?at_medium=RSS&at_campaign=rss",
@@ -407,15 +407,6 @@
       "country_name": "Spain"
     },
     {
-      "source": "BBC Asia",
-      "title": "South Korea jails 90-year-old woman for laundering son's drug money",
-      "url": "https://www.bbc.com/news/articles/c70554w89rlo?at_medium=RSS&at_campaign=rss",
-      "summary": "The woman has been sentenced to a year in jail for laundering money for her son who is imprisoned in Cambodia.",
-      "published_at": "2026-04-14T07:00:47Z",
-      "country_code": "KR",
-      "country_name": "South Korea"
-    },
-    {
       "source": "BBC Middle East",
       "title": "Trump: Blockade needed to stop Iran blackmailing the world",
       "url": "https://www.bbc.com/news/videos/cy411317eezo?at_medium=RSS&at_campaign=rss",
@@ -423,15 +414,6 @@
       "published_at": "2026-04-14T05:49:52Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC Asia",
-      "title": "Founder of China's Evergrande pleads guilty to fraud",
-      "url": "https://www.bbc.com/news/articles/cn788ymy5gno?at_medium=RSS&at_campaign=rss",
-      "summary": "Evergrande was once China's biggest real estate firm, with a stock market valuation of more than $50bn.",
-      "published_at": "2026-04-14T05:19:43Z",
-      "country_code": "CN",
-      "country_name": "China"
     },
     {
       "source": "BBC Asia",
@@ -717,22 +699,17 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 32
+      "news_count": 31
+    },
+    {
+      "country_code": "AU",
+      "country_name": "Australia",
+      "news_count": 5
     },
     {
       "country_code": "IR",
       "country_name": "Iran",
       "news_count": 5
-    },
-    {
-      "country_code": "KR",
-      "country_name": "South Korea",
-      "news_count": 5
-    },
-    {
-      "country_code": "AU",
-      "country_name": "Australia",
-      "news_count": 4
     },
     {
       "country_code": "NG",
@@ -745,6 +722,11 @@
       "news_count": 3
     },
     {
+      "country_code": "KR",
+      "country_name": "South Korea",
+      "news_count": 3
+    },
+    {
       "country_code": "RU",
       "country_name": "Russia",
       "news_count": 3
@@ -752,11 +734,6 @@
     {
       "country_code": "AR",
       "country_name": "Argentina",
-      "news_count": 2
-    },
-    {
-      "country_code": "CN",
-      "country_name": "China",
       "news_count": 2
     },
     {
@@ -785,6 +762,11 @@
       "news_count": 1
     },
     {
+      "country_code": "CN",
+      "country_name": "China",
+      "news_count": 1
+    },
+    {
       "country_code": "ET",
       "country_name": "Ethiopia",
       "news_count": 1
@@ -807,6 +789,11 @@
     {
       "country_code": "PE",
       "country_name": "Peru",
+      "news_count": 1
+    },
+    {
+      "country_code": "PH",
+      "country_name": "Philippines",
       "news_count": 1
     },
     {
