@@ -1,6 +1,33 @@
 {
-  "generated_at": "2026-04-16T23:31:37Z",
+  "generated_at": "2026-04-17T01:26:44Z",
   "articles": [
+    {
+      "source": "BBC Asia",
+      "title": "South Korea's runaway wolf finally captured after nine-day search",
+      "url": "https://www.bbc.com/news/articles/cn08p8nzejko?at_medium=RSS&at_campaign=rss",
+      "summary": "The search has been marked by twists and turns, gripping South Korea and even inspiring a meme coin.",
+      "published_at": "2026-04-17T00:53:03Z",
+      "country_code": "KR",
+      "country_name": "South Korea"
+    },
+    {
+      "source": "BBC Asia",
+      "title": "Iranian footballers say Australia has given them 'hope' for safe future",
+      "url": "https://www.bbc.com/news/articles/c624x4xgw6xo?at_medium=RSS&at_campaign=rss",
+      "summary": "The duo had sought aslyum after their football team did not sing the national anthem during a match.",
+      "published_at": "2026-04-17T00:30:38Z",
+      "country_code": "AU",
+      "country_name": "Australia"
+    },
+    {
+      "source": "BBC Asia",
+      "title": "'How does one survive?': Factory protests expose strain in India's industrial system",
+      "url": "https://www.bbc.com/news/articles/ce8444gex65o?at_medium=RSS&at_campaign=rss",
+      "summary": "Workers in some north Indian cities have been protesting, demanding better pay and working conditions.",
+      "published_at": "2026-04-16T22:25:26Z",
+      "country_code": "IN",
+      "country_name": "India"
+    },
     {
       "source": "BBC World",
       "title": "Israel and Lebanon agree 10-day ceasefire, Trump says",
@@ -381,15 +408,6 @@
     },
     {
       "source": "BBC Asia",
-      "title": "Harry and Meghan mix charity and business on Australia visit",
-      "url": "https://www.bbc.com/news/articles/cvgk3vpyzdqo?at_medium=RSS&at_campaign=rss",
-      "summary": "There are questions over whether local taxpayers are picking up any of the bill for policing the visit.",
-      "published_at": "2026-04-14T09:45:43Z",
-      "country_code": "AU",
-      "country_name": "Australia"
-    },
-    {
-      "source": "BBC Asia",
       "title": "South Korea jails 90-year-old woman for laundering son's drug money",
       "url": "https://www.bbc.com/news/articles/c70554w89rlo?at_medium=RSS&at_campaign=rss",
       "summary": "The woman has been sentenced to a year in jail for laundering money for her son who is imprisoned in Cambodia.",
@@ -441,15 +459,6 @@
       "published_at": "2026-04-13T19:20:08Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC Asia",
-      "title": "Philippines accuses Chinese fishermen of dumping cyanide in South China Sea",
-      "url": "https://www.bbc.com/news/articles/cvgk331k44yo?at_medium=RSS&at_campaign=rss",
-      "summary": "Beijing rejects the allegation as a \"farce\", while Manila claims the poison was used to kill fish and deprive troops stationed in the area o…",
-      "published_at": "2026-04-13T19:17:18Z",
-      "country_code": "CN",
-      "country_name": "China"
     },
     {
       "source": "BBC Middle East",
@@ -531,15 +540,6 @@
       "published_at": "2026-04-12T22:57:22Z",
       "country_code": "IR",
       "country_name": "Iran"
-    },
-    {
-      "source": "BBC Asia",
-      "title": "'Out of control' diesel prices threaten Australia's crucial freight industry",
-      "url": "https://www.bbc.com/news/articles/cde5d8y8lx9o?at_medium=RSS&at_campaign=rss",
-      "summary": "Trucking operators say their costs have doubled in a vast country reliant on the industry to deliver goods.",
-      "published_at": "2026-04-12T22:11:23Z",
-      "country_code": "AU",
-      "country_name": "Australia"
     },
     {
       "source": "BBC Middle East",
@@ -720,11 +720,6 @@
       "news_count": 32
     },
     {
-      "country_code": "AU",
-      "country_name": "Australia",
-      "news_count": 5
-    },
-    {
       "country_code": "IR",
       "country_name": "Iran",
       "news_count": 5
@@ -732,6 +727,11 @@
     {
       "country_code": "KR",
       "country_name": "South Korea",
+      "news_count": 5
+    },
+    {
+      "country_code": "AU",
+      "country_name": "Australia",
       "news_count": 4
     },
     {
@@ -745,11 +745,6 @@
       "news_count": 3
     },
     {
-      "country_code": "CN",
-      "country_name": "China",
-      "news_count": 3
-    },
-    {
       "country_code": "RU",
       "country_name": "Russia",
       "news_count": 3
@@ -760,6 +755,11 @@
       "news_count": 2
     },
     {
+      "country_code": "CN",
+      "country_name": "China",
+      "news_count": 2
+    },
+    {
       "country_code": "ES",
       "country_name": "Spain",
       "news_count": 2
@@ -767,6 +767,11 @@
     {
       "country_code": "FR",
       "country_name": "France",
+      "news_count": 2
+    },
+    {
+      "country_code": "IN",
+      "country_name": "India",
       "news_count": 2
     },
     {
@@ -787,11 +792,6 @@
     {
       "country_code": "GB",
       "country_name": "United Kingdom",
-      "news_count": 1
-    },
-    {
-      "country_code": "IN",
-      "country_name": "India",
       "news_count": 1
     },
     {
