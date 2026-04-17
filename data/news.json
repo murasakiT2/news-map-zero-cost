@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-04-17T04:27:26Z",
+  "generated_at": "2026-04-17T06:18:31Z",
   "articles": [
     {
-      "source": "BBC Asia",
-      "title": "Ex-Philippines MP arrested in Prague over corruption scandal",
-      "url": "https://www.bbc.com/news/articles/cy41221lwqjo?at_medium=RSS&at_campaign=rss",
-      "summary": "Co is among those who have been accused of earning kickbacks from 'ghost' flood control projects.",
-      "published_at": "2026-04-17T03:53:09Z",
-      "country_code": "PH",
-      "country_name": "Philippines"
+      "source": "BBC World",
+      "title": "What we know about the ceasefire between Lebanon and Israel",
+      "url": "https://www.bbc.com/news/articles/cwy32277e58o?at_medium=RSS&at_campaign=rss",
+      "summary": "A 10-day truce between the two countries is now in effect, with Iran-backed Hezbollah voicing support, as negotiations continue between the …",
+      "published_at": "2026-04-17T05:34:48Z",
+      "country_code": "US",
+      "country_name": "United States"
     },
     {
       "source": "BBC Asia",
@@ -45,6 +45,15 @@
       "published_at": "2026-04-17T00:30:38Z",
       "country_code": "AU",
       "country_name": "Australia"
+    },
+    {
+      "source": "BBC Africa",
+      "title": "'I was tortured and lost my hand' - one student's struggle to get an education in Nigeria",
+      "url": "https://www.bbc.com/news/articles/c9d4nnpw8w2o?at_medium=RSS&at_campaign=rss",
+      "summary": "The BBC speaks to a student who pushed for his his toe print to be taken to verify his identity.",
+      "published_at": "2026-04-16T23:54:53Z",
+      "country_code": "NG",
+      "country_name": "Nigeria"
     },
     {
       "source": "BBC Asia",
@@ -99,15 +108,6 @@
       "published_at": "2026-04-16T17:47:30Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "How did a wolf become a fugitive in South Korea?",
-      "url": "https://www.bbc.com/news/videos/c70dv9jy50no?at_medium=RSS&at_campaign=rss",
-      "summary": "A wolf burrowed under a fence at his zoo in South Korea becoming the country's newest fugitive.",
-      "published_at": "2026-04-16T15:51:10Z",
-      "country_code": "KR",
-      "country_name": "South Korea"
     },
     {
       "source": "BBC World",
@@ -189,6 +189,15 @@
       "published_at": "2026-04-15T21:10:14Z",
       "country_code": "US",
       "country_name": "United States"
+    },
+    {
+      "source": "BBC Middle East",
+      "title": "Frank Gardner: Why China keeps cropping up in Iran war stories",
+      "url": "https://www.bbc.com/news/videos/cz67760pq0xo?at_medium=RSS&at_campaign=rss",
+      "summary": "BBC Security Correspondent Frank Gardner explains how the world's second-largest economy fits into the Gulf conflict.",
+      "published_at": "2026-04-15T18:54:06Z",
+      "country_code": "CN",
+      "country_name": "China"
     },
     {
       "source": "BBC Africa",
@@ -306,15 +315,6 @@
       "published_at": "2026-04-15T04:04:15Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "Diplomacy on ice: Mark Carney and Alexander Stubb play hockey",
-      "url": "https://www.bbc.com/news/videos/c07005v7x8mo?at_medium=RSS&at_campaign=rss",
-      "summary": "The Canadian prime minister joined the Ottawa Charge team on the rink alongside the Finnish president during his first formal bilateral visi…",
-      "published_at": "2026-04-15T01:06:10Z",
-      "country_code": "CA",
-      "country_name": "Canada"
     },
     {
       "source": "BBC Europe",
@@ -439,15 +439,6 @@
       "url": "https://www.bbc.com/news/articles/clyxgxyeqpgo?at_medium=RSS&at_campaign=rss",
       "summary": "The vast majority did not believe Hezbollah or Iran had been severely weakened by weeks of Israeli and US attacks, according to the poll.",
       "published_at": "2026-04-13T19:20:08Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC Middle East",
-      "title": "US blockade of Iranian ports explained in two minutes",
-      "url": "https://www.bbc.com/news/videos/cd9vg5vggvqo?at_medium=RSS&at_campaign=rss",
-      "summary": "The BBC's security correspondent Frank Gardner explains how the US blockade of Iranian ports will work.",
-      "published_at": "2026-04-13T17:33:26Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -714,17 +705,7 @@
     {
       "country_code": "NG",
       "country_name": "Nigeria",
-      "news_count": 4
-    },
-    {
-      "country_code": "CA",
-      "country_name": "Canada",
-      "news_count": 3
-    },
-    {
-      "country_code": "KR",
-      "country_name": "South Korea",
-      "news_count": 3
+      "news_count": 5
     },
     {
       "country_code": "RU",
@@ -734,6 +715,16 @@
     {
       "country_code": "AR",
       "country_name": "Argentina",
+      "news_count": 2
+    },
+    {
+      "country_code": "CA",
+      "country_name": "Canada",
+      "news_count": 2
+    },
+    {
+      "country_code": "CN",
+      "country_name": "China",
       "news_count": 2
     },
     {
@@ -752,6 +743,11 @@
       "news_count": 2
     },
     {
+      "country_code": "KR",
+      "country_name": "South Korea",
+      "news_count": 2
+    },
+    {
       "country_code": "SD",
       "country_name": "Sudan",
       "news_count": 2
@@ -759,11 +755,6 @@
     {
       "country_code": "BR",
       "country_name": "Brazil",
-      "news_count": 1
-    },
-    {
-      "country_code": "CN",
-      "country_name": "China",
       "news_count": 1
     },
     {
@@ -789,11 +780,6 @@
     {
       "country_code": "PE",
       "country_name": "Peru",
-      "news_count": 1
-    },
-    {
-      "country_code": "PH",
-      "country_name": "Philippines",
       "news_count": 1
     },
     {
