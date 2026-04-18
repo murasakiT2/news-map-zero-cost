@@ -1,12 +1,21 @@
 {
-  "generated_at": "2026-04-18T14:34:42Z",
+  "generated_at": "2026-04-18T15:28:55Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "French peacekeeper killed in southern Lebanon",
+      "url": "https://www.bbc.com/news/articles/cvg4mrm2vm0o?at_medium=RSS&at_campaign=rss",
+      "summary": "President Macron blames the attack on Hezbollah. The Iran-backed armed group denies \"any connection\" to the incident.",
+      "published_at": "2026-04-18T14:53:17Z",
+      "country_code": "IR",
+      "country_name": "Iran"
+    },
     {
       "source": "BBC World",
       "title": "French film star Nathalie Baye dies aged 77, media report",
       "url": "https://www.bbc.com/news/articles/cn9q48y9wr7o?at_medium=RSS&at_campaign=rss",
       "summary": "President Macron said France had \"loved, dreamed and grown up\" with the stalwart of French cinema.",
-      "published_at": "2026-04-18T12:31:16Z",
+      "published_at": "2026-04-18T14:52:15Z",
       "country_code": "FR",
       "country_name": "France"
     },
@@ -227,7 +236,7 @@
       "country_name": "Australia"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Africa",
       "title": "'I was tortured and lost my hand' - one student's struggle to get an education in Nigeria",
       "url": "https://www.bbc.com/news/articles/c9d4nnpw8w2o?at_medium=RSS&at_campaign=rss",
       "summary": "The BBC speaks to a student who pushed for his toe print to be taken to verify his identity.",
@@ -716,14 +725,14 @@
       "news_count": 5
     },
     {
-      "country_code": "NG",
-      "country_name": "Nigeria",
+      "country_code": "IR",
+      "country_name": "Iran",
       "news_count": 4
     },
     {
-      "country_code": "IR",
-      "country_name": "Iran",
-      "news_count": 3
+      "country_code": "NG",
+      "country_name": "Nigeria",
+      "news_count": 4
     },
     {
       "country_code": "AR",
