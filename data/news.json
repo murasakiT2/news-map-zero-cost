@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-04-18T11:26:35Z",
+  "generated_at": "2026-04-18T11:56:13Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "BBC reports from Lebanese border town as residents try to return home",
+      "url": "https://www.bbc.com/news/videos/cly90z9g5q3o?at_medium=RSS&at_campaign=rss",
+      "summary": "BBC Arabic's correspondent Carine Torbey reports from the border town of Khiam, as the ceasefire between Israel and Hezbollah in southern Le…",
+      "published_at": "2026-04-18T11:47:11Z",
+      "country_code": "IL",
+      "country_name": "Israel"
+    },
     {
       "source": "BBC World",
       "title": "DR Congo accepts first set of deportees from the US",
@@ -189,15 +198,6 @@
       "published_at": "2026-04-17T08:42:06Z",
       "country_code": "AU",
       "country_name": "Australia"
-    },
-    {
-      "source": "BBC World",
-      "title": "Moment wolf on the run in South Korea is found",
-      "url": "https://www.bbc.com/news/videos/c70dvy2l701o?at_medium=RSS&at_campaign=rss",
-      "summary": "The escape of Neukgu, a two-year-old wolf, from a zoo in the city of Daejon captured national attention.",
-      "published_at": "2026-04-17T04:53:04Z",
-      "country_code": "KR",
-      "country_name": "South Korea"
     },
     {
       "source": "BBC World",
@@ -497,15 +497,6 @@
       "country_name": "Spain"
     },
     {
-      "source": "BBC Middle East",
-      "title": "Trump: Blockade needed to stop Iran blackmailing the world",
-      "url": "https://www.bbc.com/news/videos/cy411317eezo?at_medium=RSS&at_campaign=rss",
-      "summary": "A US blockade of Iran's ports is in place, having begun on Monday, according to Donald Trump.",
-      "published_at": "2026-04-14T05:49:52Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC Asia",
       "title": "‘I don’t know why they’re coming’: Australians on Harry and Meghan's visit",
       "url": "https://www.bbc.com/news/videos/crk18gnepmgo?at_medium=RSS&at_campaign=rss",
@@ -717,7 +708,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 34
+      "news_count": 33
     },
     {
       "country_code": "AU",
@@ -733,11 +724,6 @@
       "country_code": "NG",
       "country_name": "Nigeria",
       "news_count": 4
-    },
-    {
-      "country_code": "KR",
-      "country_name": "South Korea",
-      "news_count": 3
     },
     {
       "country_code": "AR",
@@ -760,8 +746,18 @@
       "news_count": 2
     },
     {
+      "country_code": "IL",
+      "country_name": "Israel",
+      "news_count": 2
+    },
+    {
       "country_code": "JP",
       "country_name": "Japan",
+      "news_count": 2
+    },
+    {
+      "country_code": "KR",
+      "country_name": "South Korea",
       "news_count": 2
     },
     {
@@ -802,11 +798,6 @@
     {
       "country_code": "FR",
       "country_name": "France",
-      "news_count": 1
-    },
-    {
-      "country_code": "IL",
-      "country_name": "Israel",
       "news_count": 1
     },
     {
