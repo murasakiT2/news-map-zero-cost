@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-04-18T15:28:55Z",
+  "generated_at": "2026-04-18T16:00:49Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "At least two dead as gunman opens fire and takes hostages in Kyiv",
+      "url": "https://www.bbc.com/news/articles/cm25r1vkx4lo?at_medium=RSS&at_campaign=rss",
+      "summary": "The country's interior minister says the shooter has been killed after a shoot-out with police.",
+      "published_at": "2026-04-18T15:35:35Z",
+      "country_code": "UA",
+      "country_name": "Ukraine"
+    },
     {
       "source": "BBC World",
       "title": "French peacekeeper killed in southern Lebanon",
@@ -155,7 +164,7 @@
       "country_name": "South Africa"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Middle East",
       "title": "What we know about the Israel-Lebanon ceasefire",
       "url": "https://www.bbc.com/news/articles/cwy32277e58o?at_medium=RSS&at_campaign=rss",
       "summary": "A 10-day truce between the two countries is now in effect, with Iran-backed Hezbollah voicing support, as negotiations continue between the …",
@@ -842,6 +851,11 @@
     {
       "country_code": "SY",
       "country_name": "Syria",
+      "news_count": 1
+    },
+    {
+      "country_code": "UA",
+      "country_name": "Ukraine",
       "news_count": 1
     }
   ]
