@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-04-19T21:00:46Z",
+  "generated_at": "2026-04-19T21:55:18Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "US intercepts and seizes Iranian-flagged cargo ship, Trump says",
+      "url": "https://www.bbc.com/news/articles/c239500dx8ro?at_medium=RSS&at_campaign=rss",
+      "summary": "Tehran has not commented on the incident, which comes as the US prepares for a second round of talks.",
+      "published_at": "2026-04-19T21:39:43Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Tehran will never cede control of Strait of Hormuz, senior Iranian politician tells BBC",
+      "url": "https://www.bbc.com/news/articles/cvg4jnn131qo?at_medium=RSS&at_campaign=rss",
+      "summary": "Lyse Doucet speaks to Ebrahim Azizi, who says Iran \"will decide the right of passage\" through the crucial shipping route.",
+      "published_at": "2026-04-19T21:09:06Z",
+      "country_code": "IR",
+      "country_name": "Iran"
+    },
     {
       "source": "BBC World",
       "title": "Widespread damage as storm spreads through midwestern US",
@@ -173,7 +191,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Middle East",
       "title": "Watch: Fuel truck leaves trail of fire on road in Syria",
       "url": "https://www.bbc.com/news/videos/czd7e3yqd7do?at_medium=RSS&at_campaign=rss",
       "summary": "Eyewitnesses captured the moment a burning fuel tanker drove through the centre of Hasakah, Syria, leaving a trail of fire behind it.",
@@ -281,7 +299,7 @@
       "country_name": "France"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Middle East",
       "title": "BBC in Iran: 'Tehran does not think it has lost this war'",
       "url": "https://www.bbc.com/news/videos/clyxp0kp5glo?at_medium=RSS&at_campaign=rss",
       "summary": "Lyse Doucet says Iranians want a solution to the long-running animosity with the US, but leaders is not willing to make a deal on Washington…",
@@ -663,16 +681,16 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 28
-    },
-    {
-      "country_code": "AU",
-      "country_name": "Australia",
-      "news_count": 5
+      "news_count": 29
     },
     {
       "country_code": "IR",
       "country_name": "Iran",
+      "news_count": 6
+    },
+    {
+      "country_code": "AU",
+      "country_name": "Australia",
       "news_count": 5
     },
     {
