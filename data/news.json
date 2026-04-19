@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-04-19T06:55:33Z",
+  "generated_at": "2026-04-19T08:01:07Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Pope says 'tyrants' speech was not aimed at Trump",
+      "url": "https://www.bbc.com/news/articles/ce84j261kj1o?at_medium=RSS&at_campaign=rss",
+      "summary": "The pontiff says his remarks have been misinterpreted after a spat with the US president.",
+      "published_at": "2026-04-19T07:47:35Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "Australia's most-decorated soldier vows to 'fight' war crime charges",
@@ -21,12 +30,30 @@
     },
     {
       "source": "BBC World",
+      "title": "'The weapons were loud, but there was always music': Sudanese band play on through the war",
+      "url": "https://www.bbc.com/news/articles/cx2ddjv90v9o?at_medium=RSS&at_campaign=rss",
+      "summary": "One of Sudan's most popular bands, Aswat Almadina, recall being in the studio when the war broke out three years ago.",
+      "published_at": "2026-04-18T23:09:49Z",
+      "country_code": "SD",
+      "country_name": "Sudan"
+    },
+    {
+      "source": "BBC World",
       "title": "Harry and Meghan's trip felt like a royal tour - except many Aussies weren't interested",
       "url": "https://www.bbc.com/news/articles/cwyx014e2wqo?at_medium=RSS&at_campaign=rss",
       "summary": "The Sussexes' four-day tour of Australia appears to have fallen flat with some.",
       "published_at": "2026-04-18T23:09:30Z",
       "country_code": "AU",
       "country_name": "Australia"
+    },
+    {
+      "source": "BBC World",
+      "title": "A literary revolution is sweeping South Korea - and being led by women",
+      "url": "https://www.bbc.com/news/articles/cm2rpl7xzpvo?at_medium=RSS&at_campaign=rss",
+      "summary": "A quiet revolution is unfolding as women writers carve out space in the wake of an anti-feminist backlash.",
+      "published_at": "2026-04-18T22:32:20Z",
+      "country_code": "KR",
+      "country_name": "South Korea"
     },
     {
       "source": "BBC World",
@@ -45,15 +72,6 @@
       "published_at": "2026-04-18T18:09:57Z",
       "country_code": "UA",
       "country_name": "Ukraine"
-    },
-    {
-      "source": "BBC World",
-      "title": "Pope says 'tyrants' speech was not aimed at Trump",
-      "url": "https://www.bbc.com/news/articles/ce84j261kj1o?at_medium=RSS&at_campaign=rss",
-      "summary": "The pontiff says his remarks have been misinterpreted after a spat with the US president.",
-      "published_at": "2026-04-18T16:44:39Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC World",
@@ -461,15 +479,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Latin America",
-      "title": "Husband of US woman missing in Bahamas released, says he will keep looking",
-      "url": "https://www.bbc.com/news/articles/c79jjd5r0yro?at_medium=RSS&at_campaign=rss",
-      "summary": "Brian Hooker was taken into custody and faced questions after his wife Lynette went missing in the Bahamas earlier this month.",
-      "published_at": "2026-04-14T16:17:24Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC Asia",
       "title": "‘I don’t know why they’re coming’: Australians on Harry and Meghan's visit",
       "url": "https://www.bbc.com/news/videos/crk18gnepmgo?at_medium=RSS&at_campaign=rss",
@@ -672,7 +681,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 29
+      "news_count": 28
     },
     {
       "country_code": "AU",
@@ -685,13 +694,18 @@
       "news_count": 5
     },
     {
+      "country_code": "KR",
+      "country_name": "South Korea",
+      "news_count": 4
+    },
+    {
       "country_code": "NG",
       "country_name": "Nigeria",
       "news_count": 4
     },
     {
-      "country_code": "KR",
-      "country_name": "South Korea",
+      "country_code": "SD",
+      "country_name": "Sudan",
       "news_count": 3
     },
     {
@@ -717,11 +731,6 @@
     {
       "country_code": "JP",
       "country_name": "Japan",
-      "news_count": 2
-    },
-    {
-      "country_code": "SD",
-      "country_name": "Sudan",
       "news_count": 2
     },
     {
