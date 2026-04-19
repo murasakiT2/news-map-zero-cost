@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-04-19T16:01:32Z",
+  "generated_at": "2026-04-19T17:02:22Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Drone footage shows huge Malaysian coastal village fire",
+      "url": "https://www.bbc.com/news/videos/c4gjk99vp87o?at_medium=RSS&at_campaign=rss",
+      "summary": "Thousands of people have been displaced after a fire destroyed around 1,000 homes in Malaysia's Sabah state.",
+      "published_at": "2026-04-19T16:05:38Z",
+      "country_code": "MY",
+      "country_name": "Malaysia"
+    },
     {
       "source": "BBC World",
       "title": "Why are gray whales dying in San Francisco's waters? US scientists search for clues",
@@ -119,7 +128,7 @@
       "country_name": "Israel"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Africa",
       "title": "DR Congo accepts first set of deportees from the US",
       "url": "https://www.bbc.com/news/articles/cp84rye3lg8o?at_medium=RSS&at_campaign=rss",
       "summary": "The Congolese government stresses those expelled from the US are only in the country temporarily.",
@@ -137,7 +146,7 @@
       "country_name": "Iran"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "White House and Anthropic hold 'productive' meeting amid fears over Mythos model",
       "url": "https://www.bbc.com/news/articles/cyv10e1d13po?at_medium=RSS&at_campaign=rss",
       "summary": "The discussion is a sign the AI firm's technology may be too critical for even the US government to do without.",
@@ -273,15 +282,6 @@
     },
     {
       "source": "BBC Asia",
-      "title": "Australia's most decorated living soldier released on bail over war crime charges",
-      "url": "https://www.bbc.com/news/articles/c98krg8j06ro?at_medium=RSS&at_campaign=rss",
-      "summary": "Lawyers argued that Ben Roberts-Smith wouldn't be able to defend himself properly from prison.",
-      "published_at": "2026-04-17T08:42:06Z",
-      "country_code": "AU",
-      "country_name": "Australia"
-    },
-    {
-      "source": "BBC Asia",
       "title": "Runaway wolf finally captured after nine-day search in South Korea",
       "url": "https://www.bbc.com/news/articles/cn08p8nzejko?at_medium=RSS&at_campaign=rss",
       "summary": "The search has been marked by twists and turns, gripping South Korea and even inspiring a meme coin.",
@@ -387,15 +387,6 @@
       "published_at": "2026-04-16T11:00:22Z",
       "country_code": "BR",
       "country_name": "Brazil"
-    },
-    {
-      "source": "BBC Asia",
-      "title": "Japan pledges $10bn to help Asian countries deal with oil crisis",
-      "url": "https://www.bbc.com/news/articles/c5yxev9v4nyo?at_medium=RSS&at_campaign=rss",
-      "summary": "The aid is roughly equivalent to a year's worth of crude oil imports by Asean countries.",
-      "published_at": "2026-04-16T04:27:49Z",
-      "country_code": "JP",
-      "country_name": "Japan"
     },
     {
       "source": "BBC Asia",
@@ -695,7 +686,7 @@
     {
       "country_code": "AU",
       "country_name": "Australia",
-      "news_count": 6
+      "news_count": 5
     },
     {
       "country_code": "IR",
@@ -738,11 +729,6 @@
       "news_count": 2
     },
     {
-      "country_code": "JP",
-      "country_name": "Japan",
-      "news_count": 2
-    },
-    {
       "country_code": "KR",
       "country_name": "South Korea",
       "news_count": 2
@@ -775,6 +761,16 @@
     {
       "country_code": "IN",
       "country_name": "India",
+      "news_count": 1
+    },
+    {
+      "country_code": "JP",
+      "country_name": "Japan",
+      "news_count": 1
+    },
+    {
+      "country_code": "MY",
+      "country_name": "Malaysia",
       "news_count": 1
     },
     {
