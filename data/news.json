@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-04-19T17:02:22Z",
+  "generated_at": "2026-04-19T17:58:10Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Ukraine police chief resigns after officers allegedly fled deadly shooting",
+      "url": "https://www.bbc.com/news/articles/c8ejn778j4do?at_medium=RSS&at_campaign=rss",
+      "summary": "Authorities say the officers have been suspended and an investigation into their actions is under way.",
+      "published_at": "2026-04-19T17:48:41Z",
+      "country_code": "UA",
+      "country_name": "Ukraine"
+    },
     {
       "source": "BBC World",
       "title": "Drone footage shows huge Malaysian coastal village fire",
@@ -739,6 +748,11 @@
       "news_count": 2
     },
     {
+      "country_code": "UA",
+      "country_name": "Ukraine",
+      "news_count": 2
+    },
+    {
       "country_code": "ZA",
       "country_name": "South Africa",
       "news_count": 2
@@ -791,11 +805,6 @@
     {
       "country_code": "SY",
       "country_name": "Syria",
-      "news_count": 1
-    },
-    {
-      "country_code": "UA",
-      "country_name": "Ukraine",
       "news_count": 1
     }
   ]
