@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-04-19T23:01:16Z",
+  "generated_at": "2026-04-19T23:58:30Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "India has splurged billions on metro trains. But where are the commuters?",
+      "url": "https://www.bbc.com/news/articles/c4g833128vlo?at_medium=RSS&at_campaign=rss",
+      "summary": "Without better last-mile connectivity and affordable fares, metro use is unlikely to improve quickly, say experts.",
+      "published_at": "2026-04-19T23:12:10Z",
+      "country_code": "IN",
+      "country_name": "India"
+    },
+    {
+      "source": "BBC World",
+      "title": "'They told me he was dead': Children born near army base learn truth about UK soldier dads",
+      "url": "https://www.bbc.com/news/articles/c895k3537kgo?at_medium=RSS&at_campaign=rss",
+      "summary": "A DNA and legal project has identified the fathers of 20 children born near a military base in Kenya.",
+      "published_at": "2026-04-19T23:07:52Z",
+      "country_code": "GB",
+      "country_name": "United Kingdom"
+    },
+    {
+      "source": "BBC World",
+      "title": "The insider trading suspicions looming over Trump's presidency",
+      "url": "https://www.bbc.com/news/articles/cge0grppe3po?at_medium=RSS&at_campaign=rss",
+      "summary": "The BBC has found a pattern of spikes in trades ahead of public announcements by the US president.",
+      "published_at": "2026-04-19T23:02:06Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Art on trial - a sculptor's arrest highlights new extremes for censorship in China",
+      "url": "https://www.bbc.com/news/articles/cddqpr7z74yo?at_medium=RSS&at_campaign=rss",
+      "summary": "Gao Zhen is being retroactively punished for 15 year-old-works, in a case that has alarmed rights groups.",
+      "published_at": "2026-04-19T22:53:18Z",
+      "country_code": "CN",
+      "country_name": "China"
+    },
     {
       "source": "BBC World",
       "title": "US intercepts and seizes Iranian-flagged cargo ship, Trump says",
@@ -110,7 +146,7 @@
       "country_name": "Australia"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Africa",
       "title": "'The weapons were loud, but there was always music': Sudanese band play on through the war",
       "url": "https://www.bbc.com/news/articles/cx2ddjv90v9o?at_medium=RSS&at_campaign=rss",
       "summary": "One of Sudan's most popular bands, Aswat Almadina, recall being in the studio when the war broke out three years ago.",
@@ -119,7 +155,7 @@
       "country_name": "Sudan"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "Harry and Meghan's trip felt like a royal tour - except many Aussies weren't interested",
       "url": "https://www.bbc.com/news/articles/cwyx014e2wqo?at_medium=RSS&at_campaign=rss",
       "summary": "The Sussexes' four-day tour of Australia appears to have fallen flat with some.",
@@ -480,15 +516,6 @@
     },
     {
       "source": "BBC Asia",
-      "title": "‘I don’t know why they’re coming’: Australians on Harry and Meghan's visit",
-      "url": "https://www.bbc.com/news/videos/crk18gnepmgo?at_medium=RSS&at_campaign=rss",
-      "summary": "The BBC spoke to people in Sydney to hear their thoughts on the Duke and Duchess of Sussex’s trip to Australia.",
-      "published_at": "2026-04-13T23:40:20Z",
-      "country_code": "AU",
-      "country_name": "Australia"
-    },
-    {
-      "source": "BBC Asia",
       "title": "Hospital at centre of child HIV outbreak caught reusing syringes in undercover filming",
       "url": "https://www.bbc.com/news/articles/clyrd818gd2o?at_medium=RSS&at_campaign=rss",
       "summary": "Footage shows staff in Pakistan injecting without gloves and reusing syringes, but the hospital boss refuses to acknowledge it is genuine.",
@@ -681,7 +708,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 29
+      "news_count": 30
     },
     {
       "country_code": "IR",
@@ -691,12 +718,17 @@
     {
       "country_code": "AU",
       "country_name": "Australia",
-      "news_count": 5
+      "news_count": 4
     },
     {
       "country_code": "NG",
       "country_name": "Nigeria",
       "news_count": 4
+    },
+    {
+      "country_code": "CN",
+      "country_name": "China",
+      "news_count": 3
     },
     {
       "country_code": "SD",
@@ -706,11 +738,6 @@
     {
       "country_code": "AR",
       "country_name": "Argentina",
-      "news_count": 2
-    },
-    {
-      "country_code": "CN",
-      "country_name": "China",
       "news_count": 2
     },
     {
@@ -724,8 +751,18 @@
       "news_count": 2
     },
     {
+      "country_code": "GB",
+      "country_name": "United Kingdom",
+      "news_count": 2
+    },
+    {
       "country_code": "IL",
       "country_name": "Israel",
+      "news_count": 2
+    },
+    {
+      "country_code": "IN",
+      "country_name": "India",
       "news_count": 2
     },
     {
@@ -756,16 +793,6 @@
     {
       "country_code": "ET",
       "country_name": "Ethiopia",
-      "news_count": 1
-    },
-    {
-      "country_code": "GB",
-      "country_name": "United Kingdom",
-      "news_count": 1
-    },
-    {
-      "country_code": "IN",
-      "country_name": "India",
       "news_count": 1
     },
     {
