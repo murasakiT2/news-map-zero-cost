@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-04-19T17:58:10Z",
+  "generated_at": "2026-04-19T18:48:28Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Widespread damage as storm spreads through midwestern US",
+      "url": "https://www.bbc.com/news/videos/c8ejnppwz38o?at_medium=RSS&at_campaign=rss",
+      "summary": "A series of strong winds has torn through the midwestern US, ripping roofs off homes and leaving roads obstructed.",
+      "published_at": "2026-04-19T18:13:35Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "Ukraine police chief resigns after officers allegedly fled deadly shooting",
@@ -201,15 +210,6 @@
     },
     {
       "source": "BBC US & Canada",
-      "title": "Ontario Premier Doug Ford criticised for $21m private jet purchase",
-      "url": "https://www.bbc.com/news/articles/cvg354r158go?at_medium=RSS&at_campaign=rss",
-      "summary": "The premier's office said the jet will support Ford's \"extensive travel\" including to the US to fight Donald Trump's tariffs.",
-      "published_at": "2026-04-17T19:11:16Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC US & Canada",
       "title": "US lawmakers reject measure to block Trump from striking Iran",
       "url": "https://www.bbc.com/news/articles/c5yve8dmvn5o?at_medium=RSS&at_campaign=rss",
       "summary": "The measure, a mostly symbolic gesture, lost by a single vote in the closely-divided House of Representatives.",
@@ -342,33 +342,6 @@
       "published_at": "2026-04-16T21:09:34Z",
       "country_code": "TR",
       "country_name": "Turkey"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "Judge halts above-ground construction of Trump's White House ballroom",
-      "url": "https://www.bbc.com/news/articles/c8r48mgnzmjo?at_medium=RSS&at_campaign=rss",
-      "summary": "The judge allows the underground bunker portion of the project to proceed, while the US president says the ballroom \"is needed now\".",
-      "published_at": "2026-04-16T21:04:38Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "Is Trump meeting the moment for US conservatives?",
-      "url": "https://www.bbc.com/news/videos/crr1pk5jkyqo?at_medium=RSS&at_campaign=rss",
-      "summary": "The BBC asked the president's supporters about Iran, the economy and immigration at the largest conservative gathering in the country.",
-      "published_at": "2026-04-16T18:49:01Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "Lawmakers clash with RFK Jr as he shifts focus away from vaccines",
-      "url": "https://www.bbc.com/news/articles/c30r2v68lg8o?at_medium=RSS&at_campaign=rss",
-      "summary": "During a three-hour hearing, the US health secretary tried to focus on chronic disease while being pressed on vaccines.",
-      "published_at": "2026-04-16T17:55:15Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC US & Canada",
@@ -533,6 +506,15 @@
       "country_name": "Peru"
     },
     {
+      "source": "BBC US & Canada",
+      "title": "On patrol with Canadian forces securing the Arctic as global threats grow",
+      "url": "https://www.bbc.com/news/articles/cwyj8jjkl78o?at_medium=RSS&at_campaign=rss",
+      "summary": "Across 5,200 km of Canada's Arctic, its military spent two months on a mission to meet the challenges of a changing north.",
+      "published_at": "2026-04-12T23:07:23Z",
+      "country_code": "CA",
+      "country_name": "Canada"
+    },
+    {
       "source": "BBC Middle East",
       "title": "Trump's blockade threat raises risks and leaves predicaments unchanged",
       "url": "https://www.bbc.com/news/articles/c8dl5mly2rzo?at_medium=RSS&at_campaign=rss",
@@ -690,7 +672,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 31
+      "news_count": 28
     },
     {
       "country_code": "AU",
@@ -760,6 +742,11 @@
     {
       "country_code": "BR",
       "country_name": "Brazil",
+      "news_count": 1
+    },
+    {
+      "country_code": "CA",
+      "country_name": "Canada",
       "news_count": 1
     },
     {
