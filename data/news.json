@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-04-20T16:54:11Z",
+  "generated_at": "2026-04-20T17:50:22Z",
   "articles": [
+    {
+      "source": "BBC Africa",
+      "title": "Black beauty queen who represented South Africa at Miss World during apartheid dies aged 76",
+      "url": "https://www.bbc.com/news/articles/cy41kklknreo?at_medium=RSS&at_campaign=rss",
+      "summary": "At the 1972 Miss World contest, Cynthia Shange was one of two contestants from South Africa - one black and one white.",
+      "published_at": "2026-04-20T17:38:22Z",
+      "country_code": "ZA",
+      "country_name": "South Africa"
+    },
     {
       "source": "BBC World",
       "title": "Elon Musk snubs interview summons by French prosecutors amid X probe",
@@ -290,15 +299,6 @@
       "country_name": "Israel"
     },
     {
-      "source": "BBC Africa",
-      "title": "DR Congo accepts first set of deportees from the US",
-      "url": "https://www.bbc.com/news/articles/cp84rye3lg8o?at_medium=RSS&at_campaign=rss",
-      "summary": "The Congolese government stresses those expelled from the US are only in the country temporarily.",
-      "published_at": "2026-04-18T09:18:16Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC Middle East",
       "title": "What people in power think the impact of the Iran war will be",
       "url": "https://www.bbc.com/news/articles/c9vl37eev7ko?at_medium=RSS&at_campaign=rss",
@@ -306,15 +306,6 @@
       "published_at": "2026-04-18T05:00:15Z",
       "country_code": "IR",
       "country_name": "Iran"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "White House and Anthropic hold 'productive' meeting amid fears over Mythos model",
-      "url": "https://www.bbc.com/news/articles/cyv10e1d13po?at_medium=RSS&at_campaign=rss",
-      "summary": "The discussion is a sign the AI firm's technology may be too critical for even the US government to do without.",
-      "published_at": "2026-04-18T00:37:06Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC Middle East",
@@ -726,7 +717,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 33
+      "news_count": 31
     },
     {
       "country_code": "IR",
@@ -799,6 +790,11 @@
       "news_count": 2
     },
     {
+      "country_code": "ZA",
+      "country_name": "South Africa",
+      "news_count": 2
+    },
+    {
       "country_code": "BR",
       "country_name": "Brazil",
       "news_count": 1
@@ -836,11 +832,6 @@
     {
       "country_code": "UA",
       "country_name": "Ukraine",
-      "news_count": 1
-    },
-    {
-      "country_code": "ZA",
-      "country_name": "South Africa",
       "news_count": 1
     }
   ]
