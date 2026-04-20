@@ -1,12 +1,30 @@
 {
-  "generated_at": "2026-04-20T02:36:36Z",
+  "generated_at": "2026-04-20T05:31:37Z",
   "articles": [
     {
+      "source": "BBC Asia",
+      "title": "New Zealand declares state of emergency in Wellington as floods hit",
+      "url": "https://www.bbc.com/news/articles/cly75d9zvj3o?at_medium=RSS&at_campaign=rss",
+      "summary": "Footage online show vehicles submerged, trees uprooted and houses hit by landslides.",
+      "published_at": "2026-04-20T05:15:50Z",
+      "country_code": "NZ",
+      "country_name": "New Zealand"
+    },
+    {
       "source": "BBC World",
-      "title": "US intercepts and seizes Iranian-flagged cargo ship, Trump says",
-      "url": "https://www.bbc.com/news/articles/c239500dx8ro?at_medium=RSS&at_campaign=rss",
-      "summary": "Tehran vows retaliation soon for what it calls an \"act of armed piracy\", which comes as the US prepares for a second round of talks.",
-      "published_at": "2026-04-20T01:38:17Z",
+      "title": "The insider trading suspicions looming over Trump's presidency",
+      "url": "https://www.bbc.com/news/articles/cge0grppe3po?at_medium=RSS&at_campaign=rss",
+      "summary": "The BBC has found a pattern of spikes in trades ahead of public announcements by the US president.",
+      "published_at": "2026-04-20T05:13:58Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Oil prices rise after Trump says Iranian ship seized",
+      "url": "https://www.bbc.com/news/articles/c5yjzy35825o?at_medium=RSS&at_campaign=rss",
+      "summary": "Energy markets have seen wild swings since the US and Israel attacked Iran on 28 February.",
+      "published_at": "2026-04-20T02:29:04Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -27,15 +45,6 @@
       "published_at": "2026-04-19T23:07:52Z",
       "country_code": "GB",
       "country_name": "United Kingdom"
-    },
-    {
-      "source": "BBC World",
-      "title": "The insider trading suspicions looming over Trump's presidency",
-      "url": "https://www.bbc.com/news/articles/cge0grppe3po?at_medium=RSS&at_campaign=rss",
-      "summary": "The BBC has found a pattern of spikes in trades ahead of public announcements by the US president.",
-      "published_at": "2026-04-19T23:02:06Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC World",
@@ -83,7 +92,7 @@
       "country_name": "Malaysia"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "Why are gray whales dying in San Francisco's waters? US scientists search for clues",
       "url": "https://www.bbc.com/news/articles/c9qdd8qvrplo?at_medium=RSS&at_campaign=rss",
       "summary": "Climate change and shifting migration patterns are bringing rare research opportunities and new mysteries.",
@@ -182,7 +191,7 @@
       "country_name": "Ukraine"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "French film star Nathalie Baye dies aged 77, media report",
       "url": "https://www.bbc.com/news/articles/cn9q48y9wr7o?at_medium=RSS&at_campaign=rss",
       "summary": "President Emmanuel Macron said France had \"loved, dreamed and grown up\" with the stalwart of French cinema.",
@@ -191,7 +200,7 @@
       "country_name": "France"
     },
     {
-      "source": "BBC Middle East",
+      "source": "BBC World",
       "title": "BBC reports from Lebanese border town as residents try to return home",
       "url": "https://www.bbc.com/news/videos/cly90z9g5q3o?at_medium=RSS&at_campaign=rss",
       "summary": "BBC Arabic's correspondent Carine Torbey reports from the border town of Khiam, as the ceasefire between Israel and Hezbollah in southern Le…",
@@ -354,15 +363,6 @@
     },
     {
       "source": "BBC Asia",
-      "title": "Major refinery fire won't lead to fuel rationing, Australian PM says",
-      "url": "https://www.bbc.com/news/articles/cx24118yrpwo?at_medium=RSS&at_campaign=rss",
-      "summary": "A 13-hour blaze at one of Australia's two oil refineries could impact petrol prices and supply.",
-      "published_at": "2026-04-17T01:43:02Z",
-      "country_code": "AU",
-      "country_name": "Australia"
-    },
-    {
-      "source": "BBC Asia",
       "title": "Iranian footballers say Australia has given them 'hope' for safe future",
       "url": "https://www.bbc.com/news/articles/c624x4xgw6xo?at_medium=RSS&at_campaign=rss",
       "summary": "The duo had sought aslyum after their football team did not sing the national anthem during a match.",
@@ -513,15 +513,6 @@
       "published_at": "2026-04-14T17:10:52Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC Asia",
-      "title": "Hospital at centre of child HIV outbreak caught reusing syringes in undercover filming",
-      "url": "https://www.bbc.com/news/articles/clyrd818gd2o?at_medium=RSS&at_campaign=rss",
-      "summary": "Footage shows staff in Pakistan injecting without gloves and reusing syringes, but the hospital boss refuses to acknowledge it is genuine.",
-      "published_at": "2026-04-13T23:27:45Z",
-      "country_code": "PK",
-      "country_name": "Pakistan"
     },
     {
       "source": "BBC Middle East",
@@ -716,14 +707,14 @@
       "news_count": 6
     },
     {
-      "country_code": "AU",
-      "country_name": "Australia",
-      "news_count": 4
-    },
-    {
       "country_code": "NG",
       "country_name": "Nigeria",
       "news_count": 4
+    },
+    {
+      "country_code": "AU",
+      "country_name": "Australia",
+      "news_count": 3
     },
     {
       "country_code": "CN",
@@ -806,13 +797,13 @@
       "news_count": 1
     },
     {
-      "country_code": "PE",
-      "country_name": "Peru",
+      "country_code": "NZ",
+      "country_name": "New Zealand",
       "news_count": 1
     },
     {
-      "country_code": "PK",
-      "country_name": "Pakistan",
+      "country_code": "PE",
+      "country_name": "Peru",
       "news_count": 1
     },
     {
