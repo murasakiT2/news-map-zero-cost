@@ -1,12 +1,30 @@
 {
-  "generated_at": "2026-04-20T11:11:01Z",
+  "generated_at": "2026-04-20T12:43:52Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Are insider traders making millions from the Iran war?",
+      "url": "https://www.bbc.com/news/videos/c9qd9335838o?at_medium=RSS&at_campaign=rss",
+      "summary": "The BBC has found significant spikes in activity shortly before the US president made some announcements.",
+      "published_at": "2026-04-20T12:14:56Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Iranian woman arrested in US for allegedly trafficking arms to Sudan",
+      "url": "https://www.bbc.com/news/articles/ce9m7m1nmdeo?at_medium=RSS&at_campaign=rss",
+      "summary": "Shamim Mafi is accused of brokering the sales of arms to Sudan's defence ministry on behalf of Iran.",
+      "published_at": "2026-04-20T11:28:05Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "Oil prices rise after Trump says Iranian ship seized",
       "url": "https://www.bbc.com/news/articles/c5yjzy35825o?at_medium=RSS&at_campaign=rss",
       "summary": "Energy markets have seen wild swings since the US and Israel attacked Iran on 28 February.",
-      "published_at": "2026-04-20T08:41:12Z",
+      "published_at": "2026-04-20T11:23:04Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -155,7 +173,7 @@
       "country_name": "Iran"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "Watch: Obama and Mamdani sing with children in New York",
       "url": "https://www.bbc.com/news/videos/c0le5pdgdzwo?at_medium=RSS&at_campaign=rss",
       "summary": "The former US president and New York City mayor meet for the first time at a child care centre in the Bronx.",
@@ -173,7 +191,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "Watch: Runners v robots at China half marathon",
       "url": "https://www.bbc.com/news/videos/cz0e54yrppno?at_medium=RSS&at_campaign=rss",
       "summary": "Robots competed in a half marathon race in Beijing on Sunday, with the winning machine leaving its human rivals for dust.",
@@ -462,15 +480,6 @@
     },
     {
       "source": "BBC Middle East",
-      "title": "Frank Gardner: Why China keeps cropping up in Iran war stories",
-      "url": "https://www.bbc.com/news/videos/cz67760pq0xo?at_medium=RSS&at_campaign=rss",
-      "summary": "BBC Security Correspondent Frank Gardner explains how the world's second-largest economy fits into the Gulf conflict.",
-      "published_at": "2026-04-15T18:54:06Z",
-      "country_code": "CN",
-      "country_name": "China"
-    },
-    {
-      "source": "BBC Middle East",
       "title": "Prominent Palestinian prisoner Marwan Barghouti assaulted three times in a month, family says",
       "url": "https://www.bbc.com/news/articles/czreedn4n7jo?at_medium=RSS&at_campaign=rss",
       "summary": "The Israeli Prison Service says the allegation that Barghouti was subjected to physical violence by prison guards are \"false and baseless\".",
@@ -650,7 +659,7 @@
       "country_name": "Spain"
     },
     {
-      "source": "BBC Africa",
+      "source": "BBC Latin America",
       "title": "Carnival fever hits Lagos as locals celebrate Afro-Brazilian heritage",
       "url": "https://www.bbc.com/news/articles/cp84ye86ly3o?at_medium=RSS&at_campaign=rss",
       "summary": "The centuries-old Fanti Carnival returned to Nigeria on Monday with a burst of colour and spectacle.",
@@ -708,7 +717,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 29
+      "news_count": 31
     },
     {
       "country_code": "IR",
@@ -724,11 +733,6 @@
       "country_code": "NG",
       "country_name": "Nigeria",
       "news_count": 4
-    },
-    {
-      "country_code": "CN",
-      "country_name": "China",
-      "news_count": 3
     },
     {
       "country_code": "GB",
@@ -748,6 +752,11 @@
     {
       "country_code": "AR",
       "country_name": "Argentina",
+      "news_count": 2
+    },
+    {
+      "country_code": "CN",
+      "country_name": "China",
       "news_count": 2
     },
     {
