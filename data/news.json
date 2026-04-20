@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-20T15:51:43Z",
+  "generated_at": "2026-04-20T16:54:11Z",
   "articles": [
     {
       "source": "BBC World",
@@ -34,6 +34,15 @@
       "url": "https://www.bbc.com/news/articles/cpd575n1znzo?at_medium=RSS&at_campaign=rss",
       "summary": "The Israeli military says it views with \"great severity\" the actions of the soldier, as the US ambassador demands \"swift\" consequences.",
       "published_at": "2026-04-20T14:28:55Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "Canada: Ties to US are 'weaknesses we must correct'",
+      "url": "https://www.bbc.com/news/videos/c4g43y5g93yo?at_medium=RSS&at_campaign=rss",
+      "summary": "Prime Minister Mark Carney said that due to Washington changing its trade policies, Canada's economic ties to the US that were once a streng…",
+      "published_at": "2026-04-20T14:05:35Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -164,7 +173,7 @@
       "country_name": "Ukraine"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "Drone footage shows huge Malaysian coastal village fire",
       "url": "https://www.bbc.com/news/videos/c4gjk99vp87o?at_medium=RSS&at_campaign=rss",
       "summary": "Thousands of people have been displaced after a fire destroyed around 1,000 homes in Malaysia's Sabah state.",
@@ -717,7 +726,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 32
+      "news_count": 33
     },
     {
       "country_code": "IR",
