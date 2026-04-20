@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-20T09:47:54Z",
+  "generated_at": "2026-04-20T11:11:01Z",
   "articles": [
     {
       "source": "BBC World",
@@ -38,7 +38,16 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Asia",
+      "source": "BBC World",
+      "title": "At least 25 killed in firecracker factory blast in India",
+      "url": "https://www.bbc.com/news/articles/cp867zy9j6ro?at_medium=RSS&at_campaign=rss",
+      "summary": "Mostly female workers have been killed in the blast, which occurred in Tamil Nadu state.",
+      "published_at": "2026-04-20T06:16:21Z",
+      "country_code": "IN",
+      "country_name": "India"
+    },
+    {
+      "source": "BBC World",
       "title": "New Zealand declares state of emergency in Wellington as floods hit",
       "url": "https://www.bbc.com/news/articles/cly75d9zvj3o?at_medium=RSS&at_campaign=rss",
       "summary": "Footage online shows vehicles submerged, trees uprooted and houses hit by landslides.",
@@ -137,7 +146,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "French peacekeeper killed in southern Lebanon",
       "url": "https://www.bbc.com/news/articles/cvg4mrm2vm0o?at_medium=RSS&at_campaign=rss",
       "summary": "President Macron blames the attack on Hezbollah. The Iran-backed armed group denies \"any connection\" to the incident.",
@@ -164,7 +173,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Asia",
+      "source": "BBC World",
       "title": "Watch: Runners v robots at China half marathon",
       "url": "https://www.bbc.com/news/videos/cz0e54yrppno?at_medium=RSS&at_campaign=rss",
       "summary": "Robots competed in a half marathon race in Beijing on Sunday, with the winning machine leaving its human rivals for dust.",
@@ -182,7 +191,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "Australia's most-decorated soldier vows to fight war crime charges",
       "url": "https://www.bbc.com/news/articles/cy91r7ww3weo?at_medium=RSS&at_campaign=rss",
       "summary": "Ben Roberts-Smith has given his first statement since he was charged with five counts of the war crime of murder last week.",
@@ -209,22 +218,13 @@
       "country_name": "Australia"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "Mexico's Sheinbaum denies 'diplomatic crisis' with Spain after conquest row",
       "url": "https://www.bbc.com/news/articles/cp86r29l45go?at_medium=RSS&at_campaign=rss",
       "summary": "The Mexican president says there were never tensions over Spanish colonisation, which had become a thorny issue.",
       "published_at": "2026-04-18T21:27:56Z",
       "country_code": "ES",
       "country_name": "Spain"
-    },
-    {
-      "source": "BBC World",
-      "title": "At least six killed in Kyiv as gunman opens fire and takes hostages",
-      "url": "https://www.bbc.com/news/articles/cm25r1vkx4lo?at_medium=RSS&at_campaign=rss",
-      "summary": "The attacker, who took hostages inside a supermarket, was killed after a shoot-out with police, officials say.",
-      "published_at": "2026-04-18T18:09:57Z",
-      "country_code": "UA",
-      "country_name": "Ukraine"
     },
     {
       "source": "BBC Europe",
@@ -736,6 +736,11 @@
       "news_count": 3
     },
     {
+      "country_code": "IN",
+      "country_name": "India",
+      "news_count": 3
+    },
+    {
       "country_code": "SD",
       "country_name": "Sudan",
       "news_count": 3
@@ -761,11 +766,6 @@
       "news_count": 2
     },
     {
-      "country_code": "IN",
-      "country_name": "India",
-      "news_count": 2
-    },
-    {
       "country_code": "KR",
       "country_name": "South Korea",
       "news_count": 2
@@ -773,11 +773,6 @@
     {
       "country_code": "TR",
       "country_name": "Turkey",
-      "news_count": 2
-    },
-    {
-      "country_code": "UA",
-      "country_name": "Ukraine",
       "news_count": 2
     },
     {
@@ -823,6 +818,11 @@
     {
       "country_code": "SY",
       "country_name": "Syria",
+      "news_count": 1
+    },
+    {
+      "country_code": "UA",
+      "country_name": "Ukraine",
       "news_count": 1
     }
   ]
