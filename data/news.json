@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-04-20T17:50:22Z",
+  "generated_at": "2026-04-20T18:51:14Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Trailblazing black beauty queen who defied apartheid South Africa dies aged 76",
+      "url": "https://www.bbc.com/news/articles/cy41kklknreo?at_medium=RSS&at_campaign=rss",
+      "summary": "At the 1972 Miss World contest, Cynthia Shange was one of two contestants from South Africa - one black and one white.",
+      "published_at": "2026-04-20T17:38:22Z",
+      "country_code": "ZA",
+      "country_name": "South Africa"
+    },
     {
       "source": "BBC Africa",
       "title": "Black beauty queen who represented South Africa at Miss World during apartheid dies aged 76",
@@ -164,7 +173,7 @@
       "country_name": "Iran"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "Widespread damage as storm spreads through midwestern US",
       "url": "https://www.bbc.com/news/videos/c8ejnppwz38o?at_medium=RSS&at_campaign=rss",
       "summary": "A series of strong winds has torn through the midwestern US, ripping roofs off homes and leaving roads obstructed.",
@@ -750,6 +759,11 @@
       "news_count": 3
     },
     {
+      "country_code": "ZA",
+      "country_name": "South Africa",
+      "news_count": 3
+    },
+    {
       "country_code": "AR",
       "country_name": "Argentina",
       "news_count": 2
@@ -787,11 +801,6 @@
     {
       "country_code": "TR",
       "country_name": "Turkey",
-      "news_count": 2
-    },
-    {
-      "country_code": "ZA",
-      "country_name": "South Africa",
       "news_count": 2
     },
     {
