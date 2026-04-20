@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-04-20T14:27:12Z",
+  "generated_at": "2026-04-20T15:51:43Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Elon Musk snubs interview summons by French prosecutors amid X probe",
+      "url": "https://www.bbc.com/news/articles/crk151nn7j3o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Paris prosecutor's office told the BBC it had \"taken note of the absence of the people summoned\".",
+      "published_at": "2026-04-20T15:44:44Z",
+      "country_code": "FR",
+      "country_name": "France"
+    },
+    {
+      "source": "BBC World",
+      "title": "Japan on high alert for 'huge' second quake after issuing tsunami warning",
+      "url": "https://www.bbc.com/news/articles/czd7m7d699do?at_medium=RSS&at_campaign=rss",
+      "summary": "Japan's meteorological agency warns another, stronger earthquake may hit in the next week,",
+      "published_at": "2026-04-20T14:54:21Z",
+      "country_code": "JP",
+      "country_name": "Japan"
+    },
+    {
+      "source": "BBC World",
+      "title": "Oil prices rise after Trump says Iranian ship seized",
+      "url": "https://www.bbc.com/news/articles/c5yjzy35825o?at_medium=RSS&at_campaign=rss",
+      "summary": "Energy markets have seen wild swings since the US and Israel attacked Iran on 28 February.",
+      "published_at": "2026-04-20T14:41:33Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Outrage over Israeli soldier's vandalism of Jesus statue in Lebanon",
+      "url": "https://www.bbc.com/news/articles/cpd575n1znzo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Israeli military says it views with \"great severity\" the actions of the soldier, as the US ambassador demands \"swift\" consequences.",
+      "published_at": "2026-04-20T14:28:55Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "The insider trading suspicions looming over Trump's presidency",
@@ -21,37 +57,10 @@
     },
     {
       "source": "BBC World",
-      "title": "Japan on high alert for 'huge' second quake after issuing tsunami warning",
-      "url": "https://www.bbc.com/news/articles/czd7m7d699do?at_medium=RSS&at_campaign=rss",
-      "summary": "Japan's meteorological agency warns another, stronger earthquake may hit in the next week,",
-      "published_at": "2026-04-20T12:53:36Z",
-      "country_code": "JP",
-      "country_name": "Japan"
-    },
-    {
-      "source": "BBC World",
       "title": "Are insider traders making millions from the Iran war?",
       "url": "https://www.bbc.com/news/videos/c9qd9335838o?at_medium=RSS&at_campaign=rss",
       "summary": "The BBC has found significant spikes in activity shortly before the US president made some announcements.",
       "published_at": "2026-04-20T12:14:56Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC Europe",
-      "title": "Elon Musk summoned by French prosecutors amid ongoing X probe",
-      "url": "https://www.bbc.com/news/articles/crk151nn7j3o?at_medium=RSS&at_campaign=rss",
-      "summary": "Whether the tech billionaire will attend the interview requested by Paris prosecutors remains to be seen.",
-      "published_at": "2026-04-20T12:03:16Z",
-      "country_code": "FR",
-      "country_name": "France"
-    },
-    {
-      "source": "BBC World",
-      "title": "Oil prices rise after Trump says Iranian ship seized",
-      "url": "https://www.bbc.com/news/articles/c5yjzy35825o?at_medium=RSS&at_campaign=rss",
-      "summary": "Energy markets have seen wild swings since the US and Israel attacked Iran on 28 February.",
-      "published_at": "2026-04-20T11:23:04Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -119,7 +128,7 @@
       "country_name": "United Kingdom"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "Art on trial - a sculptor's arrest highlights new extremes for censorship in China",
       "url": "https://www.bbc.com/news/articles/cddqpr7z74yo?at_medium=RSS&at_campaign=rss",
       "summary": "Gao Zhen is being retroactively punished for 15 year-old-works, in a case that has alarmed rights groups.",
@@ -708,7 +717,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 31
+      "news_count": 32
     },
     {
       "country_code": "IR",
