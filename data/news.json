@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-04-20T19:54:11Z",
+  "generated_at": "2026-04-20T20:36:06Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Oil prices rise after Trump says Iranian ship seized",
+      "url": "https://www.bbc.com/news/articles/c5yjzy35825o?at_medium=RSS&at_campaign=rss",
+      "summary": "Energy markets have seen wild swings since the US and Israel attacked Iran on 28 February.",
+      "published_at": "2026-04-20T20:33:01Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "What we know about the Iranian ship seized by the US",
+      "url": "https://www.bbc.com/news/articles/c75kg0vdxyro?at_medium=RSS&at_campaign=rss",
+      "summary": "The US has intercepted an Iranian ship entering the Gulf as part of its naval blockade, US President Donald Trump has said.",
+      "published_at": "2026-04-20T20:04:59Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "US singer D4vd charged with murder stemming from death of missing teenage girl",
@@ -54,15 +72,6 @@
       "published_at": "2026-04-20T14:54:21Z",
       "country_code": "JP",
       "country_name": "Japan"
-    },
-    {
-      "source": "BBC World",
-      "title": "Oil prices rise after Trump says Iranian ship seized",
-      "url": "https://www.bbc.com/news/articles/c5yjzy35825o?at_medium=RSS&at_campaign=rss",
-      "summary": "Energy markets have seen wild swings since the US and Israel attacked Iran on 28 February.",
-      "published_at": "2026-04-20T14:41:33Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC US & Canada",
@@ -735,7 +744,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 32
+      "news_count": 33
     },
     {
       "country_code": "IR",
