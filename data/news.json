@@ -1,12 +1,39 @@
 {
-  "generated_at": "2026-04-20T05:31:37Z",
+  "generated_at": "2026-04-20T07:50:15Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Oil prices rise after Trump says Iranian ship seized",
+      "url": "https://www.bbc.com/news/articles/c5yjzy35825o?at_medium=RSS&at_campaign=rss",
+      "summary": "Energy markets have seen wild swings since the US and Israel attacked Iran on 28 February.",
+      "published_at": "2026-04-20T07:42:10Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "US releases video said to show mission to capture Iranian ship",
+      "url": "https://www.bbc.com/news/videos/c3w30l6qz49o?at_medium=RSS&at_campaign=rss",
+      "summary": "The US has intercepted an Iranian-flagged cargo ship in the Gulf as part of its naval blockade, Donald Trump has said.",
+      "published_at": "2026-04-20T07:29:42Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC Middle East",
+      "title": "Why and how is US blockading Iranian ports in Strait of Hormuz?",
+      "url": "https://www.bbc.com/news/articles/c5yv6xr6me3o?at_medium=RSS&at_campaign=rss",
+      "summary": "Donald Trump says that the US is blockading the Strait of Hormuz. What does this mean in practice?",
+      "published_at": "2026-04-20T06:46:03Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC Asia",
       "title": "New Zealand declares state of emergency in Wellington as floods hit",
       "url": "https://www.bbc.com/news/articles/cly75d9zvj3o?at_medium=RSS&at_campaign=rss",
-      "summary": "Footage online show vehicles submerged, trees uprooted and houses hit by landslides.",
-      "published_at": "2026-04-20T05:15:50Z",
+      "summary": "Footage online shows vehicles submerged, trees uprooted and houses hit by landslides.",
+      "published_at": "2026-04-20T05:48:54Z",
       "country_code": "NZ",
       "country_name": "New Zealand"
     },
@@ -16,15 +43,6 @@
       "url": "https://www.bbc.com/news/articles/cge0grppe3po?at_medium=RSS&at_campaign=rss",
       "summary": "The BBC has found a pattern of spikes in trades ahead of public announcements by the US president.",
       "published_at": "2026-04-20T05:13:58Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "Oil prices rise after Trump says Iranian ship seized",
-      "url": "https://www.bbc.com/news/articles/c5yjzy35825o?at_medium=RSS&at_campaign=rss",
-      "summary": "Energy markets have seen wild swings since the US and Israel attacked Iran on 28 February.",
-      "published_at": "2026-04-20T02:29:04Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -40,6 +58,15 @@
     {
       "source": "BBC World",
       "title": "'They told me he was dead': Children born near army base learn truth about UK soldier dads",
+      "url": "https://www.bbc.com/news/articles/c895k3537kgo?at_medium=RSS&at_campaign=rss",
+      "summary": "A DNA and legal project has identified the fathers of 20 children born near a military base in Kenya.",
+      "published_at": "2026-04-19T23:07:52Z",
+      "country_code": "GB",
+      "country_name": "United Kingdom"
+    },
+    {
+      "source": "BBC Africa",
+      "title": "'They told me he was dead': Children born near Kenyan army base learn truth about UK soldier dads",
       "url": "https://www.bbc.com/news/articles/c895k3537kgo?at_medium=RSS&at_campaign=rss",
       "summary": "A DNA and legal project has identified the fathers of 20 children born near a military base in Kenya.",
       "published_at": "2026-04-19T23:07:52Z",
@@ -200,7 +227,7 @@
       "country_name": "France"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Middle East",
       "title": "BBC reports from Lebanese border town as residents try to return home",
       "url": "https://www.bbc.com/news/videos/cly90z9g5q3o?at_medium=RSS&at_campaign=rss",
       "summary": "BBC Arabic's correspondent Carine Torbey reports from the border town of Khiam, as the ceasefire between Israel and Hezbollah in southern Le…",
@@ -507,15 +534,6 @@
     },
     {
       "source": "BBC Middle East",
-      "title": "Why and how is US blockading Iranian ports in Strait of Hormuz?",
-      "url": "https://www.bbc.com/news/articles/c5yv6xr6me3o?at_medium=RSS&at_campaign=rss",
-      "summary": "Donald Trump says that the US is blockading the Strait of Hormuz. What does this mean in practice?",
-      "published_at": "2026-04-14T17:10:52Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC Middle East",
       "title": "Israelis war-weary but most oppose Iran ceasefire, poll suggests",
       "url": "https://www.bbc.com/news/articles/clyxgxyeqpgo?at_medium=RSS&at_campaign=rss",
       "summary": "The vast majority did not believe Hezbollah or Iran had been severely weakened by weeks of Israeli and US attacks, according to the poll.",
@@ -699,7 +717,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 30
+      "news_count": 31
     },
     {
       "country_code": "IR",
@@ -722,6 +740,11 @@
       "news_count": 3
     },
     {
+      "country_code": "GB",
+      "country_name": "United Kingdom",
+      "news_count": 3
+    },
+    {
       "country_code": "SD",
       "country_name": "Sudan",
       "news_count": 3
@@ -739,11 +762,6 @@
     {
       "country_code": "FR",
       "country_name": "France",
-      "news_count": 2
-    },
-    {
-      "country_code": "GB",
-      "country_name": "United Kingdom",
       "news_count": 2
     },
     {
