@@ -1,6 +1,33 @@
 {
-  "generated_at": "2026-04-20T12:43:52Z",
+  "generated_at": "2026-04-20T14:27:12Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "The insider trading suspicions looming over Trump's presidency",
+      "url": "https://www.bbc.com/news/articles/cge0grppe3po?at_medium=RSS&at_campaign=rss",
+      "summary": "The BBC has found a pattern of spikes in trades ahead of public announcements by the US president.",
+      "published_at": "2026-04-20T13:53:22Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Iranian woman arrested in US for allegedly trafficking arms to Sudan",
+      "url": "https://www.bbc.com/news/articles/ce9m7m1nmdeo?at_medium=RSS&at_campaign=rss",
+      "summary": "Shamim Mafi is accused of brokering the sales of arms to Sudan's defence ministry on behalf of Iran.",
+      "published_at": "2026-04-20T13:32:58Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Japan on high alert for 'huge' second quake after issuing tsunami warning",
+      "url": "https://www.bbc.com/news/articles/czd7m7d699do?at_medium=RSS&at_campaign=rss",
+      "summary": "Japan's meteorological agency warns another, stronger earthquake may hit in the next week,",
+      "published_at": "2026-04-20T12:53:36Z",
+      "country_code": "JP",
+      "country_name": "Japan"
+    },
     {
       "source": "BBC World",
       "title": "Are insider traders making millions from the Iran war?",
@@ -11,13 +38,13 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
-      "title": "Iranian woman arrested in US for allegedly trafficking arms to Sudan",
-      "url": "https://www.bbc.com/news/articles/ce9m7m1nmdeo?at_medium=RSS&at_campaign=rss",
-      "summary": "Shamim Mafi is accused of brokering the sales of arms to Sudan's defence ministry on behalf of Iran.",
-      "published_at": "2026-04-20T11:28:05Z",
-      "country_code": "US",
-      "country_name": "United States"
+      "source": "BBC Europe",
+      "title": "Elon Musk summoned by French prosecutors amid ongoing X probe",
+      "url": "https://www.bbc.com/news/articles/crk151nn7j3o?at_medium=RSS&at_campaign=rss",
+      "summary": "Whether the tech billionaire will attend the interview requested by Paris prosecutors remains to be seen.",
+      "published_at": "2026-04-20T12:03:16Z",
+      "country_code": "FR",
+      "country_name": "France"
     },
     {
       "source": "BBC World",
@@ -36,15 +63,6 @@
       "published_at": "2026-04-20T07:29:42Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "Watch: Trapped boy dangles from moving bus in Australia",
-      "url": "https://www.bbc.com/news/videos/c80mn1jjyvno?at_medium=RSS&at_campaign=rss",
-      "summary": "The boy, who was uninjured, was dragged for 350 metres after the back doors trapped his arm and school bag.",
-      "published_at": "2026-04-20T06:46:03Z",
-      "country_code": "AU",
-      "country_name": "Australia"
     },
     {
       "source": "BBC US & Canada",
@@ -72,15 +90,6 @@
       "published_at": "2026-04-20T05:48:54Z",
       "country_code": "NZ",
       "country_name": "New Zealand"
-    },
-    {
-      "source": "BBC World",
-      "title": "The insider trading suspicions looming over Trump's presidency",
-      "url": "https://www.bbc.com/news/articles/cge0grppe3po?at_medium=RSS&at_campaign=rss",
-      "summary": "The BBC has found a pattern of spikes in trades ahead of public announcements by the US president.",
-      "published_at": "2026-04-20T05:13:58Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC World",
@@ -344,15 +353,6 @@
       "country_name": "South Africa"
     },
     {
-      "source": "BBC Africa",
-      "title": "Mugabe's son pleads guilty to pointing a gun in South Africa",
-      "url": "https://www.bbc.com/news/articles/cqxlp5pvr3wo?at_medium=RSS&at_campaign=rss",
-      "summary": "Bellarmine Mugabe was arrested in February following the shooting of a 23-year-old man at his home in Johannesburg.",
-      "published_at": "2026-04-17T16:17:54Z",
-      "country_code": "ZA",
-      "country_name": "South Africa"
-    },
-    {
       "source": "BBC Middle East",
       "title": "What we know about the Israel-Lebanon ceasefire",
       "url": "https://www.bbc.com/news/articles/cwy32277e58o?at_medium=RSS&at_campaign=rss",
@@ -405,15 +405,6 @@
       "published_at": "2026-04-17T03:22:09Z",
       "country_code": "KR",
       "country_name": "South Korea"
-    },
-    {
-      "source": "BBC Asia",
-      "title": "Iranian footballers say Australia has given them 'hope' for safe future",
-      "url": "https://www.bbc.com/news/articles/c624x4xgw6xo?at_medium=RSS&at_campaign=rss",
-      "summary": "The duo had sought aslyum after their football team did not sing the national anthem during a match.",
-      "published_at": "2026-04-17T00:30:38Z",
-      "country_code": "AU",
-      "country_name": "Australia"
     },
     {
       "source": "BBC Africa",
@@ -725,14 +716,14 @@
       "news_count": 6
     },
     {
-      "country_code": "AU",
-      "country_name": "Australia",
-      "news_count": 4
-    },
-    {
       "country_code": "NG",
       "country_name": "Nigeria",
       "news_count": 4
+    },
+    {
+      "country_code": "FR",
+      "country_name": "France",
+      "news_count": 3
     },
     {
       "country_code": "GB",
@@ -755,6 +746,11 @@
       "news_count": 2
     },
     {
+      "country_code": "AU",
+      "country_name": "Australia",
+      "news_count": 2
+    },
+    {
       "country_code": "CN",
       "country_name": "China",
       "news_count": 2
@@ -765,13 +761,13 @@
       "news_count": 2
     },
     {
-      "country_code": "FR",
-      "country_name": "France",
+      "country_code": "IL",
+      "country_name": "Israel",
       "news_count": 2
     },
     {
-      "country_code": "IL",
-      "country_name": "Israel",
+      "country_code": "JP",
+      "country_name": "Japan",
       "news_count": 2
     },
     {
@@ -785,11 +781,6 @@
       "news_count": 2
     },
     {
-      "country_code": "ZA",
-      "country_name": "South Africa",
-      "news_count": 2
-    },
-    {
       "country_code": "BR",
       "country_name": "Brazil",
       "news_count": 1
@@ -797,11 +788,6 @@
     {
       "country_code": "ET",
       "country_name": "Ethiopia",
-      "news_count": 1
-    },
-    {
-      "country_code": "JP",
-      "country_name": "Japan",
       "news_count": 1
     },
     {
@@ -832,6 +818,11 @@
     {
       "country_code": "UA",
       "country_name": "Ukraine",
+      "news_count": 1
+    },
+    {
+      "country_code": "ZA",
+      "country_name": "South Africa",
       "news_count": 1
     }
   ]
