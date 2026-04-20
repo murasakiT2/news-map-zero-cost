@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-04-20T07:50:15Z",
+  "generated_at": "2026-04-20T09:47:54Z",
   "articles": [
     {
       "source": "BBC World",
       "title": "Oil prices rise after Trump says Iranian ship seized",
       "url": "https://www.bbc.com/news/articles/c5yjzy35825o?at_medium=RSS&at_campaign=rss",
       "summary": "Energy markets have seen wild swings since the US and Israel attacked Iran on 28 February.",
-      "published_at": "2026-04-20T07:42:10Z",
+      "published_at": "2026-04-20T08:41:12Z",
       "country_code": "US",
       "country_name": "United States"
     },
     {
       "source": "BBC World",
-      "title": "US releases video said to show mission to capture Iranian ship",
+      "title": "US releases video of forces seizing Iranian ship",
       "url": "https://www.bbc.com/news/videos/c3w30l6qz49o?at_medium=RSS&at_campaign=rss",
       "summary": "The US has intercepted an Iranian-flagged cargo ship in the Gulf as part of its naval blockade, Donald Trump has said.",
       "published_at": "2026-04-20T07:29:42Z",
@@ -20,7 +20,16 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Middle East",
+      "source": "BBC World",
+      "title": "Watch: Trapped boy dangles from moving bus in Australia",
+      "url": "https://www.bbc.com/news/videos/c80mn1jjyvno?at_medium=RSS&at_campaign=rss",
+      "summary": "The boy, who was uninjured, was dragged for 350 metres after the back doors trapped his arm and school bag.",
+      "published_at": "2026-04-20T06:46:03Z",
+      "country_code": "AU",
+      "country_name": "Australia"
+    },
+    {
+      "source": "BBC US & Canada",
       "title": "Why and how is US blockading Iranian ports in Strait of Hormuz?",
       "url": "https://www.bbc.com/news/articles/c5yv6xr6me3o?at_medium=RSS&at_campaign=rss",
       "summary": "Donald Trump says that the US is blockading the Strait of Hormuz. What does this mean in practice?",
@@ -155,7 +164,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "Watch: Runners v robots at China half marathon",
       "url": "https://www.bbc.com/news/videos/cz0e54yrppno?at_medium=RSS&at_campaign=rss",
       "summary": "Robots competed in a half marathon race in Beijing on Sunday, with the winning machine leaving its human rivals for dust.",
@@ -299,15 +308,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC US & Canada",
-      "title": "US lawmakers reject measure to block Trump from striking Iran",
-      "url": "https://www.bbc.com/news/articles/c5yve8dmvn5o?at_medium=RSS&at_campaign=rss",
-      "summary": "The measure, a mostly symbolic gesture, lost by a single vote in the closely-divided House of Representatives.",
-      "published_at": "2026-04-17T18:24:21Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC Asia",
       "title": "Japan reveals new name for 40C-and-hotter days after blistering summer",
       "url": "https://www.bbc.com/news/articles/crr185nx0n9o?at_medium=RSS&at_campaign=rss",
@@ -425,15 +425,6 @@
       "country_name": "Turkey"
     },
     {
-      "source": "BBC US & Canada",
-      "title": "Watch: Rising prices threaten Minnesota's meat raffles",
-      "url": "https://www.bbc.com/news/videos/cp86pj0eppro?at_medium=RSS&at_campaign=rss",
-      "summary": "Popular in local bars across the US, the games are facing higher meat prices, squeezing some of the charities that benefit from them.",
-      "published_at": "2026-04-16T15:35:25Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC Africa",
       "title": "Six African athletes blocked from transfers to Turkey",
       "url": "https://www.bbc.com/sport/athletics/articles/c3ex2717742o?at_medium=RSS&at_campaign=rss",
@@ -542,7 +533,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC US & Canada",
+      "source": "BBC Middle East",
       "title": "The US blockade of Iran is a gamble. Will it work?",
       "url": "https://www.bbc.com/news/articles/ckgw8w7mzxgo?at_medium=RSS&at_campaign=rss",
       "summary": "The US military is gambling on the blockade denying Iran vital trade - but questions remain on whether the bet will pay off.",
@@ -717,7 +708,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 31
+      "news_count": 29
     },
     {
       "country_code": "IR",
@@ -725,14 +716,14 @@
       "news_count": 6
     },
     {
-      "country_code": "NG",
-      "country_name": "Nigeria",
+      "country_code": "AU",
+      "country_name": "Australia",
       "news_count": 4
     },
     {
-      "country_code": "AU",
-      "country_name": "Australia",
-      "news_count": 3
+      "country_code": "NG",
+      "country_name": "Nigeria",
+      "news_count": 4
     },
     {
       "country_code": "CN",
