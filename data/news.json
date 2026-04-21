@@ -1,23 +1,41 @@
 {
-  "generated_at": "2026-04-21T14:12:16Z",
+  "generated_at": "2026-04-21T15:48:11Z",
   "articles": [
     {
       "source": "BBC World",
-      "title": "Nigeria charges six people with treason over Independence Day coup plot",
-      "url": "https://www.bbc.com/news/articles/c0krlxg384eo?at_medium=RSS&at_campaign=rss",
-      "summary": "Allegations of a coup plot first surfaced in October 2025 when an Independence Day parade was cancelled.",
-      "published_at": "2026-04-21T13:13:11Z",
-      "country_code": "NG",
-      "country_name": "Nigeria"
+      "title": "Israeli soldiers punished over vandalism of Jesus statue in Lebanon",
+      "url": "https://www.bbc.com/news/articles/cew790ppn8jo?at_medium=RSS&at_campaign=rss",
+      "summary": "Two soldiers will be removed from combat duty and receive 30 days of military detention, Israel's military says.",
+      "published_at": "2026-04-21T15:29:34Z",
+      "country_code": "IL",
+      "country_name": "Israel"
+    },
+    {
+      "source": "BBC World",
+      "title": "Canadian killed in shooting at Mexico's ancient Teotihuacán pyramids",
+      "url": "https://www.bbc.com/news/articles/crm1rg3ydkvo?at_medium=RSS&at_campaign=rss",
+      "summary": "Several people were also injured in the incident on Monday at the popular tourist site, say Mexican officials, weeks before the country host…",
+      "published_at": "2026-04-21T14:55:19Z",
+      "country_code": "MX",
+      "country_name": "Mexico"
     },
     {
       "source": "BBC World",
       "title": "Role of US officials killed in crash in Mexico under scrutiny",
       "url": "https://www.bbc.com/news/articles/c86expy881qo?at_medium=RSS&at_campaign=rss",
       "summary": "The two died in a car crash after a Mexican-led operation to destroy a clandestine drug lab.",
-      "published_at": "2026-04-21T11:37:43Z",
+      "published_at": "2026-04-21T14:38:39Z",
       "country_code": "US",
       "country_name": "United States"
+    },
+    {
+      "source": "BBC Africa",
+      "title": "Nigeria charges six people with treason over Independence Day coup plot",
+      "url": "https://www.bbc.com/news/articles/c0krlxg384eo?at_medium=RSS&at_campaign=rss",
+      "summary": "Allegations of a coup plot first surfaced in October 2025 when an Independence Day parade was cancelled.",
+      "published_at": "2026-04-21T14:28:09Z",
+      "country_code": "NG",
+      "country_name": "Nigeria"
     },
     {
       "source": "BBC World",
@@ -75,15 +93,6 @@
     },
     {
       "source": "BBC World",
-      "title": "Canadian killed in shooting at Mexico's ancient Teotihuacán pyramids",
-      "url": "https://www.bbc.com/news/articles/crm1rg3ydkvo?at_medium=RSS&at_campaign=rss",
-      "summary": "Several people were also injured in the incident on Monday at the popular tourist site, say Mexican officials, weeks before the country host…",
-      "published_at": "2026-04-21T09:09:07Z",
-      "country_code": "MX",
-      "country_name": "Mexico"
-    },
-    {
-      "source": "BBC World",
       "title": "Japan on high alert for 'huge' second quake after lifting tsunami warning",
       "url": "https://www.bbc.com/news/articles/czd7m7d699do?at_medium=RSS&at_campaign=rss",
       "summary": "Japan's meteorological agency warns another, stronger earthquake may hit in the next week.",
@@ -119,7 +128,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Middle East",
       "title": "Outrage over Israeli soldier's vandalism of Jesus statue in Lebanon",
       "url": "https://www.bbc.com/news/articles/cpd575n1znzo?at_medium=RSS&at_campaign=rss",
       "summary": "The Israeli military says it views with \"great severity\" the actions of the soldier, as the US ambassador demands \"swift\" consequences.",
@@ -753,13 +762,13 @@
       "news_count": 5
     },
     {
-      "country_code": "AU",
-      "country_name": "Australia",
-      "news_count": 3
-    },
-    {
       "country_code": "IL",
       "country_name": "Israel",
+      "news_count": 4
+    },
+    {
+      "country_code": "AU",
+      "country_name": "Australia",
       "news_count": 3
     },
     {
