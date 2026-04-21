@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-04-21T08:14:17Z",
+  "generated_at": "2026-04-21T09:56:15Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "South Africa's police boss charged in connection with controversial health contract",
+      "url": "https://www.bbc.com/news/articles/cn784g76v63o?at_medium=RSS&at_campaign=rss",
+      "summary": "Fannie Masemola is accused of failing in his duties to provide proper oversight in his role.",
+      "published_at": "2026-04-21T09:42:46Z",
+      "country_code": "ZA",
+      "country_name": "South Africa"
+    },
+    {
+      "source": "BBC World",
+      "title": "Canadian killed in shooting at Mexico's ancient Teotihuacán pyramids",
+      "url": "https://www.bbc.com/news/articles/crm1rg3ydkvo?at_medium=RSS&at_campaign=rss",
+      "summary": "Several people were also injured in the incident on Monday at the popular tourist site, say Mexican officials, weeks before the country host…",
+      "published_at": "2026-04-21T09:09:07Z",
+      "country_code": "MX",
+      "country_name": "Mexico"
+    },
     {
       "source": "BBC World",
       "title": "Japan loosens arms export rules in break from post-WW2 pacifism",
@@ -9,15 +27,6 @@
       "published_at": "2026-04-21T08:05:10Z",
       "country_code": "JP",
       "country_name": "Japan"
-    },
-    {
-      "source": "BBC World",
-      "title": "Canadian killed in shooting at Mexico's ancient Teotihuacán pyramids",
-      "url": "https://www.bbc.com/news/articles/crm1rg3ydkvo?at_medium=RSS&at_campaign=rss",
-      "summary": "Several people were also injured in the incident on Monday at the popular tourist site, say Mexican officials, weeks before the country host…",
-      "published_at": "2026-04-21T03:33:05Z",
-      "country_code": "MX",
-      "country_name": "Mexico"
     },
     {
       "source": "BBC World",
@@ -780,6 +789,11 @@
       "news_count": 4
     },
     {
+      "country_code": "ZA",
+      "country_name": "South Africa",
+      "news_count": 4
+    },
+    {
       "country_code": "AU",
       "country_name": "Australia",
       "news_count": 3
@@ -797,11 +811,6 @@
     {
       "country_code": "SD",
       "country_name": "Sudan",
-      "news_count": 3
-    },
-    {
-      "country_code": "ZA",
-      "country_name": "South Africa",
       "news_count": 3
     },
     {
