@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-04-21T06:18:49Z",
+  "generated_at": "2026-04-21T08:14:17Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Japan loosens arms export rules in break from post-WW2 pacifism",
+      "url": "https://www.bbc.com/news/articles/clyx4vlqy4vo?at_medium=RSS&at_campaign=rss",
+      "summary": "This clears the way for Japan to sell weapons to more than a dozen countries.",
+      "published_at": "2026-04-21T08:05:10Z",
+      "country_code": "JP",
+      "country_name": "Japan"
+    },
     {
       "source": "BBC World",
       "title": "Canadian killed in shooting at Mexico's ancient Teotihuacán pyramids",
@@ -74,6 +83,15 @@
       "country_name": "United States"
     },
     {
+      "source": "BBC Africa",
+      "title": "Korir defends Boston Marathon title with course record",
+      "url": "https://www.bbc.com/sport/athletics/articles/cwyxjzjdvp4o?at_medium=RSS&at_campaign=rss",
+      "summary": "Kenya's John Korir sets a new course record of two hours, one minute and 52 seconds to win a second successive Boston Marathon.",
+      "published_at": "2026-04-20T18:30:47Z",
+      "country_code": "KE",
+      "country_name": "Kenya"
+    },
+    {
       "source": "BBC World",
       "title": "Trailblazing black beauty queen who defied apartheid South Africa dies aged 76",
       "url": "https://www.bbc.com/news/articles/cy41kklknreo?at_medium=RSS&at_campaign=rss",
@@ -92,7 +110,16 @@
       "country_name": "South Africa"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
+      "title": "Tour de France Femmes UK stage routes revealed",
+      "url": "https://www.bbc.com/sport/cycling/articles/cq59692v05eo?at_medium=RSS&at_campaign=rss",
+      "summary": "The routes for the UK stages of the 2027 Tour de France Femmes have been revealed, with riders saying it will be \"super brutal\".",
+      "published_at": "2026-04-20T16:07:00Z",
+      "country_code": "GB",
+      "country_name": "United Kingdom"
+    },
+    {
+      "source": "BBC Europe",
       "title": "Elon Musk snubs interview summons by French prosecutors amid X probe",
       "url": "https://www.bbc.com/news/articles/crk151nn7j3o?at_medium=RSS&at_campaign=rss",
       "summary": "The Paris prosecutor's office told the BBC it had \"taken note of the absence of the people summoned\".",
@@ -119,7 +146,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Africa",
       "title": "Iranian woman arrested in US for allegedly trafficking arms to Sudan",
       "url": "https://www.bbc.com/news/articles/ce9m7m1nmdeo?at_medium=RSS&at_campaign=rss",
       "summary": "Shamim Mafi is accused of brokering the sales of arms to Sudan's defence ministry on behalf of Iran.",
@@ -128,7 +155,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC US & Canada",
+      "source": "BBC World",
       "title": "Are insider traders making millions from the Iran war?",
       "url": "https://www.bbc.com/news/videos/c9qd9335838o?at_medium=RSS&at_campaign=rss",
       "summary": "The BBC has found significant spikes in activity shortly before the US president made some announcements.",
@@ -137,7 +164,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC US & Canada",
+      "source": "BBC World",
       "title": "US releases video of forces seizing Iranian ship",
       "url": "https://www.bbc.com/news/videos/c3w30l6qz49o?at_medium=RSS&at_campaign=rss",
       "summary": "The US has intercepted an Iranian-flagged cargo ship in the Gulf as part of its naval blockade, Donald Trump has said.",
@@ -164,7 +191,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "At least 25 killed in firecracker factory blast in India",
       "url": "https://www.bbc.com/news/articles/cp867zy9j6ro?at_medium=RSS&at_campaign=rss",
       "summary": "Mostly female workers have been killed in the blast, which occurred in Tamil Nadu state.",
@@ -182,7 +209,16 @@
       "country_name": "New Zealand"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Middle East",
+      "title": "US intercepts and seizes Iranian-flagged cargo ship, Trump says",
+      "url": "https://www.bbc.com/news/articles/c239500dx8ro?at_medium=RSS&at_campaign=rss",
+      "summary": "Tehran vows retaliation soon for what it calls an \"act of armed piracy\", which comes as the US prepares for a second round of talks.",
+      "published_at": "2026-04-20T01:38:17Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC Asia",
       "title": "India has splurged billions on metro trains. But where are the commuters?",
       "url": "https://www.bbc.com/news/articles/c4g833128vlo?at_medium=RSS&at_campaign=rss",
       "summary": "Without better last-mile connectivity and affordable fares, metro use is unlikely to improve quickly, say experts.",
@@ -236,7 +272,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "Ukraine police chief resigns after officers allegedly fled deadly shooting",
       "url": "https://www.bbc.com/news/articles/c8ejn778j4do?at_medium=RSS&at_campaign=rss",
       "summary": "Authorities say the officers have been suspended and an investigation into their actions is under way.",
@@ -354,30 +390,12 @@
     },
     {
       "source": "BBC Middle East",
-      "title": "BBC reports from Lebanese border town as residents try to return home",
-      "url": "https://www.bbc.com/news/videos/cly90z9g5q3o?at_medium=RSS&at_campaign=rss",
-      "summary": "BBC Arabic's correspondent Carine Torbey reports from the border town of Khiam, as the ceasefire between Israel and Hezbollah in southern Le…",
-      "published_at": "2026-04-18T11:47:11Z",
-      "country_code": "IL",
-      "country_name": "Israel"
-    },
-    {
-      "source": "BBC Middle East",
       "title": "What people in power think the impact of the Iran war will be",
       "url": "https://www.bbc.com/news/articles/c9vl37eev7ko?at_medium=RSS&at_campaign=rss",
       "summary": "Faisal Islam talks to some of the world's most powerful people about the conflict and the economy.",
       "published_at": "2026-04-18T05:00:15Z",
       "country_code": "IR",
       "country_name": "Iran"
-    },
-    {
-      "source": "BBC Middle East",
-      "title": "Watch: Fuel truck leaves trail of fire on road in Syria",
-      "url": "https://www.bbc.com/news/videos/czd7e3yqd7do?at_medium=RSS&at_campaign=rss",
-      "summary": "Eyewitnesses captured the moment a burning fuel tanker drove through the centre of Hasakah, Syria, leaving a trail of fire behind it.",
-      "published_at": "2026-04-18T00:20:56Z",
-      "country_code": "SY",
-      "country_name": "Syria"
     },
     {
       "source": "BBC US & Canada",
@@ -452,33 +470,6 @@
       "country_name": "Israel"
     },
     {
-      "source": "BBC Europe",
-      "title": "Palestinians hand over suspect in 1982 attack on Jewish restaurant in Paris",
-      "url": "https://www.bbc.com/news/articles/cj94pkyr9mpo?at_medium=RSS&at_campaign=rss",
-      "summary": "Hicham Harb is suspected of directing the attack in the Rue des Rosiers and acting as one of the gunmen who shot at diners.",
-      "published_at": "2026-04-17T12:42:06Z",
-      "country_code": "FR",
-      "country_name": "France"
-    },
-    {
-      "source": "BBC Middle East",
-      "title": "BBC in Iran: 'Tehran does not think it has lost this war'",
-      "url": "https://www.bbc.com/news/videos/clyxp0kp5glo?at_medium=RSS&at_campaign=rss",
-      "summary": "Lyse Doucet says Iranians want a solution to the long-running animosity with the US, but leaders is not willing to make a deal on Washington…",
-      "published_at": "2026-04-17T09:19:23Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC Asia",
-      "title": "Runaway wolf finally captured after nine-day search in South Korea",
-      "url": "https://www.bbc.com/news/articles/cn08p8nzejko?at_medium=RSS&at_campaign=rss",
-      "summary": "The search has been marked by twists and turns, gripping South Korea and even inspiring a meme coin.",
-      "published_at": "2026-04-17T03:22:09Z",
-      "country_code": "KR",
-      "country_name": "South Korea"
-    },
-    {
       "source": "BBC Africa",
       "title": "'I was tortured and lost my hand' - one student's struggle to get an education in Nigeria",
       "url": "https://www.bbc.com/news/articles/c9d4nnpw8w2o?at_medium=RSS&at_campaign=rss",
@@ -486,6 +477,15 @@
       "published_at": "2026-04-16T23:54:53Z",
       "country_code": "NG",
       "country_name": "Nigeria"
+    },
+    {
+      "source": "BBC Middle East",
+      "title": "Trump's Lebanon ceasefire takes Israel by surprise",
+      "url": "https://www.bbc.com/news/articles/cje4pn575jgo?at_medium=RSS&at_campaign=rss",
+      "summary": "Few Israelis see this truce as a way out of the conflict with Hezbollah, the BBC's Lucy Williamson writes.",
+      "published_at": "2026-04-16T22:55:59Z",
+      "country_code": "IL",
+      "country_name": "Israel"
     },
     {
       "source": "BBC Asia",
@@ -603,15 +603,6 @@
       "published_at": "2026-04-13T15:27:43Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC Latin America",
-      "title": "Peru election drags into second day after ballot delivery fiasco",
-      "url": "https://www.bbc.com/news/articles/c4gd0l2x8j2o?at_medium=RSS&at_campaign=rss",
-      "summary": "Technical and logistical problems mean Peruvians choosing a new president and members of Congress continue to vote on Monday.",
-      "published_at": "2026-04-13T13:07:12Z",
-      "country_code": "PE",
-      "country_name": "Peru"
     },
     {
       "source": "BBC Middle East",
@@ -779,6 +770,11 @@
       "news_count": 6
     },
     {
+      "country_code": "GB",
+      "country_name": "United Kingdom",
+      "news_count": 4
+    },
+    {
       "country_code": "NG",
       "country_name": "Nigeria",
       "news_count": 4
@@ -789,18 +785,13 @@
       "news_count": 3
     },
     {
-      "country_code": "FR",
-      "country_name": "France",
-      "news_count": 3
-    },
-    {
-      "country_code": "GB",
-      "country_name": "United Kingdom",
-      "news_count": 3
-    },
-    {
       "country_code": "IN",
       "country_name": "India",
+      "news_count": 3
+    },
+    {
+      "country_code": "JP",
+      "country_name": "Japan",
       "news_count": 3
     },
     {
@@ -829,13 +820,13 @@
       "news_count": 2
     },
     {
-      "country_code": "IL",
-      "country_name": "Israel",
+      "country_code": "FR",
+      "country_name": "France",
       "news_count": 2
     },
     {
-      "country_code": "JP",
-      "country_name": "Japan",
+      "country_code": "IL",
+      "country_name": "Israel",
       "news_count": 2
     },
     {
@@ -854,8 +845,8 @@
       "news_count": 1
     },
     {
-      "country_code": "KR",
-      "country_name": "South Korea",
+      "country_code": "KE",
+      "country_name": "Kenya",
       "news_count": 1
     },
     {
@@ -874,18 +865,8 @@
       "news_count": 1
     },
     {
-      "country_code": "PE",
-      "country_name": "Peru",
-      "news_count": 1
-    },
-    {
       "country_code": "PS",
       "country_name": "Palestine",
-      "news_count": 1
-    },
-    {
-      "country_code": "SY",
-      "country_name": "Syria",
       "news_count": 1
     },
     {
