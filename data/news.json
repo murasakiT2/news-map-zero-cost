@@ -1,6 +1,33 @@
 {
-  "generated_at": "2026-04-21T09:56:15Z",
+  "generated_at": "2026-04-21T11:00:06Z",
   "articles": [
+    {
+      "source": "BBC Africa",
+      "title": "Arrests in Nigeria after abduction of local monarch 'held for ransom'",
+      "url": "https://www.bbc.com/news/articles/cr71de2dr32o?at_medium=RSS&at_campaign=rss",
+      "summary": "The kidnappers raided his palace on Saturday and are believed to be holding him in a forest.",
+      "published_at": "2026-04-21T10:55:17Z",
+      "country_code": "NG",
+      "country_name": "Nigeria"
+    },
+    {
+      "source": "BBC Middle East",
+      "title": "Popemobile child clinic yet to reach Gaza one year after Francis's death",
+      "url": "https://www.bbc.com/news/articles/c5ywj0n6pkyo?at_medium=RSS&at_campaign=rss",
+      "summary": "One of the late pope's last wishes was for his vehicle to be used for children in Gaza, but a charity is still waiting for an entry permit.",
+      "published_at": "2026-04-21T10:39:14Z",
+      "country_code": "PS",
+      "country_name": "Palestine"
+    },
+    {
+      "source": "BBC World",
+      "title": "Japan loosens arms export rules in break from post-WW2 pacifism",
+      "url": "https://www.bbc.com/news/articles/clyx4vlqy4vo?at_medium=RSS&at_campaign=rss",
+      "summary": "This clears the way for Japan to sell weapons to more than a dozen countries.",
+      "published_at": "2026-04-21T10:13:54Z",
+      "country_code": "JP",
+      "country_name": "Japan"
+    },
     {
       "source": "BBC World",
       "title": "South Africa's police boss charged in connection with controversial health contract",
@@ -18,15 +45,6 @@
       "published_at": "2026-04-21T09:09:07Z",
       "country_code": "MX",
       "country_name": "Mexico"
-    },
-    {
-      "source": "BBC World",
-      "title": "Japan loosens arms export rules in break from post-WW2 pacifism",
-      "url": "https://www.bbc.com/news/articles/clyx4vlqy4vo?at_medium=RSS&at_campaign=rss",
-      "summary": "This clears the way for Japan to sell weapons to more than a dozen countries.",
-      "published_at": "2026-04-21T08:05:10Z",
-      "country_code": "JP",
-      "country_name": "Japan"
     },
     {
       "source": "BBC World",
@@ -399,6 +417,15 @@
     },
     {
       "source": "BBC Middle East",
+      "title": "BBC reports from Lebanese border town as residents try to return home",
+      "url": "https://www.bbc.com/news/videos/cly90z9g5q3o?at_medium=RSS&at_campaign=rss",
+      "summary": "BBC Arabic's correspondent Carine Torbey reports from the border town of Khiam, as the ceasefire between Israel and Hezbollah in southern Le…",
+      "published_at": "2026-04-18T11:47:11Z",
+      "country_code": "IL",
+      "country_name": "Israel"
+    },
+    {
+      "source": "BBC Middle East",
       "title": "What people in power think the impact of the Iran war will be",
       "url": "https://www.bbc.com/news/articles/c9vl37eev7ko?at_medium=RSS&at_campaign=rss",
       "summary": "Faisal Islam talks to some of the world's most powerful people about the conflict and the economy.",
@@ -542,29 +569,11 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Middle East",
-      "title": "Prominent Palestinian prisoner Marwan Barghouti assaulted three times in a month, family says",
-      "url": "https://www.bbc.com/news/articles/czreedn4n7jo?at_medium=RSS&at_campaign=rss",
-      "summary": "The Israeli Prison Service says the allegation that Barghouti was subjected to physical violence by prison guards are \"false and baseless\".",
-      "published_at": "2026-04-15T15:59:24Z",
-      "country_code": "PS",
-      "country_name": "Palestine"
-    },
-    {
       "source": "BBC Latin America",
       "title": "US eases sanctions on state-run Venezuelan banks",
       "url": "https://www.bbc.com/news/articles/cd6llepv9gqo?at_medium=RSS&at_campaign=rss",
       "summary": "The move will make it easier for the banks to conduct transactions in dollars.",
       "published_at": "2026-04-15T12:24:28Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC Middle East",
-      "title": "Sri Lanka repatriates 238 Iranian sailors stranded after US torpedo attack",
-      "url": "https://www.bbc.com/news/articles/c9qdd318qd9o?at_medium=RSS&at_campaign=rss",
-      "summary": "The survivors of the US attack on Iranian vessel Iris Dena, which claimed the lives of 104 people, were among those sent home.",
-      "published_at": "2026-04-15T10:00:41Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -771,7 +780,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 35
+      "news_count": 34
     },
     {
       "country_code": "IR",
@@ -779,13 +788,13 @@
       "news_count": 6
     },
     {
-      "country_code": "GB",
-      "country_name": "United Kingdom",
-      "news_count": 4
-    },
-    {
       "country_code": "NG",
       "country_name": "Nigeria",
+      "news_count": 5
+    },
+    {
+      "country_code": "GB",
+      "country_name": "United Kingdom",
       "news_count": 4
     },
     {
@@ -796,6 +805,11 @@
     {
       "country_code": "AU",
       "country_name": "Australia",
+      "news_count": 3
+    },
+    {
+      "country_code": "IL",
+      "country_name": "Israel",
       "news_count": 3
     },
     {
@@ -831,11 +845,6 @@
     {
       "country_code": "FR",
       "country_name": "France",
-      "news_count": 2
-    },
-    {
-      "country_code": "IL",
-      "country_name": "Israel",
       "news_count": 2
     },
     {
