@@ -1,14 +1,41 @@
 {
-  "generated_at": "2026-04-21T15:48:11Z",
+  "generated_at": "2026-04-21T16:51:25Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Zelensky says failure of US envoys to visit Kyiv is 'disrespectful'",
+      "url": "https://www.bbc.com/news/articles/cd9v420y190o?at_medium=RSS&at_campaign=rss",
+      "summary": "US envoy Steve Witkoff and Donald Trump's son-in-law Jared Kushner have travelled to Moscow several times, but never to Kyiv.",
+      "published_at": "2026-04-21T16:25:44Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "Israeli soldiers punished over vandalism of Jesus statue in Lebanon",
       "url": "https://www.bbc.com/news/articles/cew790ppn8jo?at_medium=RSS&at_campaign=rss",
       "summary": "Two soldiers will be removed from combat duty and receive 30 days of military detention, Israel's military says.",
-      "published_at": "2026-04-21T15:29:34Z",
+      "published_at": "2026-04-21T16:13:27Z",
       "country_code": "IL",
       "country_name": "Israel"
+    },
+    {
+      "source": "BBC World",
+      "title": "South Africa's police boss charged in connection with controversial health contract",
+      "url": "https://www.bbc.com/news/articles/cn784g76v63o?at_medium=RSS&at_campaign=rss",
+      "summary": "Fannie Masemola is accused of failing in his duties to provide proper oversight in his role.",
+      "published_at": "2026-04-21T16:11:21Z",
+      "country_code": "ZA",
+      "country_name": "South Africa"
+    },
+    {
+      "source": "BBC World",
+      "title": "Iran sees mass redundancies from war with US and Israel",
+      "url": "https://www.bbc.com/news/articles/ce84e31376zo?at_medium=RSS&at_campaign=rss",
+      "summary": "The impact is being felt by manufacturers, retailers and the digital sector, amid warnings it could get worse if the war resumes.",
+      "published_at": "2026-04-21T16:05:51Z",
+      "country_code": "US",
+      "country_name": "United States"
     },
     {
       "source": "BBC World",
@@ -36,15 +63,6 @@
       "published_at": "2026-04-21T14:28:09Z",
       "country_code": "NG",
       "country_name": "Nigeria"
-    },
-    {
-      "source": "BBC World",
-      "title": "Zelensky says failure of US envoys to visit Kyiv is 'disrespectful'",
-      "url": "https://www.bbc.com/news/articles/cd9v420y190o?at_medium=RSS&at_campaign=rss",
-      "summary": "US envoy Steve Witkoff and Donald Trump's son-in-law Jared Kushner have travelled to Moscow several times, but never to Kyiv.",
-      "published_at": "2026-04-21T11:37:11Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC US & Canada",
@@ -81,15 +99,6 @@
       "published_at": "2026-04-21T10:13:54Z",
       "country_code": "JP",
       "country_name": "Japan"
-    },
-    {
-      "source": "BBC World",
-      "title": "South Africa's police boss charged in connection with controversial health contract",
-      "url": "https://www.bbc.com/news/articles/cn784g76v63o?at_medium=RSS&at_campaign=rss",
-      "summary": "Fannie Masemola is accused of failing in his duties to provide proper oversight in his role.",
-      "published_at": "2026-04-21T09:42:46Z",
-      "country_code": "ZA",
-      "country_name": "South Africa"
     },
     {
       "source": "BBC World",
@@ -524,15 +533,6 @@
       "country_name": "Turkey"
     },
     {
-      "source": "BBC Latin America",
-      "title": "Brazil's former spy chief released from ICE detention",
-      "url": "https://www.bbc.com/news/articles/cvglz72rjl2o?at_medium=RSS&at_campaign=rss",
-      "summary": "Bolsonaro ally Alexandre Ramagem was stopped by immigration agents in Orlando, Florida on Monday.",
-      "published_at": "2026-04-16T11:00:22Z",
-      "country_code": "BR",
-      "country_name": "Brazil"
-    },
-    {
       "source": "BBC Middle East",
       "title": "Lyse Doucet: Under fragile ceasefire, Iranians wonder if US deal can be done",
       "url": "https://www.bbc.com/news/articles/c4g44gj7rgno?at_medium=RSS&at_campaign=rss",
@@ -744,7 +744,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 29
+      "news_count": 30
     },
     {
       "country_code": "IR",
@@ -810,11 +810,6 @@
       "country_code": "TR",
       "country_name": "Turkey",
       "news_count": 2
-    },
-    {
-      "country_code": "BR",
-      "country_name": "Brazil",
-      "news_count": 1
     },
     {
       "country_code": "ET",
