@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-04-21T16:51:25Z",
+  "generated_at": "2026-04-21T17:51:53Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Role of US officials killed in crash in Mexico under scrutiny",
+      "url": "https://www.bbc.com/news/articles/c86expy881qo?at_medium=RSS&at_campaign=rss",
+      "summary": "Two Americans who reportedly worked for the CIA died in a car crash after a Mexican-led operation to destroy a drug lab.",
+      "published_at": "2026-04-21T17:35:56Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC Middle East",
+      "title": "Two Palestinians killed during settler attack on West Bank village, officials say",
+      "url": "https://www.bbc.com/news/articles/cp864d661rro?at_medium=RSS&at_campaign=rss",
+      "summary": "A 14-year-old boy was among those shot dead, according to the mayor of al-Mughayyir.",
+      "published_at": "2026-04-21T17:17:33Z",
+      "country_code": "PS",
+      "country_name": "Palestine"
+    },
     {
       "source": "BBC World",
       "title": "Zelensky says failure of US envoys to visit Kyiv is 'disrespectful'",
@@ -38,6 +56,15 @@
       "country_name": "United States"
     },
     {
+      "source": "BBC Europe",
+      "title": "Robot chases wild boars off the streets of Warsaw",
+      "url": "https://www.bbc.com/news/videos/cp864m61d0mo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Polish capital has seen the number of wild boar on its streets soar to more than 3,000 - a 20-fold increase since 2020.",
+      "published_at": "2026-04-21T15:53:40Z",
+      "country_code": "PL",
+      "country_name": "Poland"
+    },
+    {
       "source": "BBC World",
       "title": "Canadian killed in shooting at Mexico's ancient Teotihuacán pyramids",
       "url": "https://www.bbc.com/news/articles/crm1rg3ydkvo?at_medium=RSS&at_campaign=rss",
@@ -47,15 +74,6 @@
       "country_name": "Mexico"
     },
     {
-      "source": "BBC World",
-      "title": "Role of US officials killed in crash in Mexico under scrutiny",
-      "url": "https://www.bbc.com/news/articles/c86expy881qo?at_medium=RSS&at_campaign=rss",
-      "summary": "The two died in a car crash after a Mexican-led operation to destroy a clandestine drug lab.",
-      "published_at": "2026-04-21T14:38:39Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC Africa",
       "title": "Nigeria charges six people with treason over Independence Day coup plot",
       "url": "https://www.bbc.com/news/articles/c0krlxg384eo?at_medium=RSS&at_campaign=rss",
@@ -63,6 +81,15 @@
       "published_at": "2026-04-21T14:28:09Z",
       "country_code": "NG",
       "country_name": "Nigeria"
+    },
+    {
+      "source": "BBC Europe",
+      "title": "Ukraine family get cancer and bomb news on same day",
+      "url": "https://www.bbc.com/news/articles/cr71de8x557o?at_medium=RSS&at_campaign=rss",
+      "summary": "The couple learn the home in Ukraine is hit by drones on the day of their baby's cancer diagnosis.",
+      "published_at": "2026-04-21T14:10:13Z",
+      "country_code": "UA",
+      "country_name": "Ukraine"
     },
     {
       "source": "BBC US & Canada",
@@ -133,15 +160,6 @@
       "url": "https://www.bbc.com/news/articles/cdxd88r2wjzo?at_medium=RSS&at_campaign=rss",
       "summary": "The US president's comments come amid uncertainty over whether Iran will attend peace talks in Pakistan this week.",
       "published_at": "2026-04-20T21:52:12Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC Middle East",
-      "title": "Outrage over Israeli soldier's vandalism of Jesus statue in Lebanon",
-      "url": "https://www.bbc.com/news/articles/cpd575n1znzo?at_medium=RSS&at_campaign=rss",
-      "summary": "The Israeli military says it views with \"great severity\" the actions of the soldier, as the US ambassador demands \"swift\" consequences.",
-      "published_at": "2026-04-20T18:57:25Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -344,7 +362,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Europe",
+      "source": "BBC Middle East",
       "title": "French peacekeeper killed in southern Lebanon",
       "url": "https://www.bbc.com/news/articles/cvg4mrm2vm0o?at_medium=RSS&at_campaign=rss",
       "summary": "President Macron blames the attack on Hezbollah. The Iran-backed armed group denies \"any connection\" to the incident.",
@@ -369,15 +387,6 @@
       "published_at": "2026-04-19T08:46:34Z",
       "country_code": "CN",
       "country_name": "China"
-    },
-    {
-      "source": "BBC Europe",
-      "title": "Pope says 'tyrants' speech was not aimed at Trump",
-      "url": "https://www.bbc.com/news/articles/ce84j261kj1o?at_medium=RSS&at_campaign=rss",
-      "summary": "The pontiff says his remarks have been misinterpreted after a spat with the US president.",
-      "published_at": "2026-04-19T07:47:35Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC Asia",
@@ -744,7 +753,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 30
+      "news_count": 28
     },
     {
       "country_code": "IR",
@@ -807,8 +816,18 @@
       "news_count": 2
     },
     {
+      "country_code": "PS",
+      "country_name": "Palestine",
+      "news_count": 2
+    },
+    {
       "country_code": "TR",
       "country_name": "Turkey",
+      "news_count": 2
+    },
+    {
+      "country_code": "UA",
+      "country_name": "Ukraine",
       "news_count": 2
     },
     {
@@ -842,13 +861,8 @@
       "news_count": 1
     },
     {
-      "country_code": "PS",
-      "country_name": "Palestine",
-      "news_count": 1
-    },
-    {
-      "country_code": "UA",
-      "country_name": "Ukraine",
+      "country_code": "PL",
+      "country_name": "Poland",
       "news_count": 1
     }
   ]
