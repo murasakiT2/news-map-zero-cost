@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-22T07:19:33Z",
+  "generated_at": "2026-04-22T09:01:19Z",
   "articles": [
     {
       "source": "BBC Asia",
@@ -12,7 +12,7 @@
     },
     {
       "source": "BBC Asia",
-      "title": "Taiwan president cancels trip after African countries close airspace",
+      "title": "Taiwan president cancels trip after African countries revoke flight permits",
       "url": "https://www.bbc.com/news/articles/crl16p72x7xo?at_medium=RSS&at_campaign=rss",
       "summary": "Taiwan has accused Beijing of putting pressure on African countries to close their airspace.",
       "published_at": "2026-04-22T06:25:15Z",
@@ -65,15 +65,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
-      "title": "Virginia approves redistricting, giving Democrats edge in midterms",
-      "url": "https://www.bbc.com/news/articles/c895j8zgqe4o?at_medium=RSS&at_campaign=rss",
-      "summary": "The new maps in Virginia could make it easier for Democrats to take control of the US House of Representatives in November.",
-      "published_at": "2026-04-22T02:24:41Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC US & Canada",
       "title": "ICE detains wife of US Army soldier at immigration appointment",
       "url": "https://www.bbc.com/news/articles/c8r460gj7eko?at_medium=RSS&at_campaign=rss",
@@ -108,6 +99,15 @@
       "published_at": "2026-04-21T22:17:52Z",
       "country_code": "US",
       "country_name": "United States"
+    },
+    {
+      "source": "BBC Asia",
+      "title": "Hotpot, bubble tea and sportswear: China's new exports take on the world",
+      "url": "https://www.bbc.com/news/articles/crr1ln1575lo?at_medium=RSS&at_campaign=rss",
+      "summary": "Made in China used to mean cheap, mass-produced goods but a new wave of Chinese brands is emerging.",
+      "published_at": "2026-04-21T22:10:22Z",
+      "country_code": "CN",
+      "country_name": "China"
     },
     {
       "source": "BBC World",
@@ -243,15 +243,6 @@
       "published_at": "2026-04-21T01:31:27Z",
       "country_code": "JP",
       "country_name": "Japan"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "Lori Chavez-DeRemer out as US labour secretary",
-      "url": "https://www.bbc.com/news/articles/c4gxvdjjl7yo?at_medium=RSS&at_campaign=rss",
-      "summary": "Lori Chavez-Deremer's tenure leading the department was overshadowed by allegations of wrongdoing.",
-      "published_at": "2026-04-20T22:36:22Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC Middle East",
@@ -461,15 +452,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Asia",
-      "title": "Australia's most-decorated soldier vows to fight war crime charges",
-      "url": "https://www.bbc.com/news/articles/cy91r7ww3weo?at_medium=RSS&at_campaign=rss",
-      "summary": "Ben Roberts-Smith has given his first statement since he was charged with five counts of the war crime of murder last week.",
-      "published_at": "2026-04-19T05:12:40Z",
-      "country_code": "AU",
-      "country_name": "Australia"
-    },
-    {
       "source": "BBC Africa",
       "title": "'The weapons were loud, but there was always music': Sudanese band play on through the war",
       "url": "https://www.bbc.com/news/articles/cx2ddjv90v9o?at_medium=RSS&at_campaign=rss",
@@ -522,15 +504,6 @@
       "published_at": "2026-04-17T19:59:30Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC Asia",
-      "title": "Japan reveals new name for 40C-and-hotter days after blistering summer",
-      "url": "https://www.bbc.com/news/articles/crr185nx0n9o?at_medium=RSS&at_campaign=rss",
-      "summary": "The term - kokushobi - translates to \"cruelly hot\", \"brutally hot\" or \"severely hot\", and comes after Japan's hottest summer on record.",
-      "published_at": "2026-04-17T18:19:43Z",
-      "country_code": "JP",
-      "country_name": "Japan"
     },
     {
       "source": "BBC Africa",
@@ -798,7 +771,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 32
+      "news_count": 30
     },
     {
       "country_code": "IR",
@@ -816,24 +789,14 @@
       "news_count": 5
     },
     {
-      "country_code": "IL",
-      "country_name": "Israel",
+      "country_code": "CN",
+      "country_name": "China",
       "news_count": 4
     },
     {
-      "country_code": "AU",
-      "country_name": "Australia",
-      "news_count": 3
-    },
-    {
-      "country_code": "CN",
-      "country_name": "China",
-      "news_count": 3
-    },
-    {
-      "country_code": "JP",
-      "country_name": "Japan",
-      "news_count": 3
+      "country_code": "IL",
+      "country_name": "Israel",
+      "news_count": 4
     },
     {
       "country_code": "SD",
@@ -848,6 +811,16 @@
     {
       "country_code": "AR",
       "country_name": "Argentina",
+      "news_count": 2
+    },
+    {
+      "country_code": "AU",
+      "country_name": "Australia",
+      "news_count": 2
+    },
+    {
+      "country_code": "JP",
+      "country_name": "Japan",
       "news_count": 2
     },
     {
