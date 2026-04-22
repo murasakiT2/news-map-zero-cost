@@ -1,14 +1,32 @@
 {
-  "generated_at": "2026-04-22T10:44:53Z",
+  "generated_at": "2026-04-22T11:52:03Z",
   "articles": [
     {
       "source": "BBC World",
-      "title": "EU decides on key €90bn Ukraine loan after pipeline deadlock ends",
+      "title": "EU approves €90bn loan for Ukraine as pipeline is turned on ending deadlock",
       "url": "https://www.bbc.com/news/articles/cnv8l99r3yyo?at_medium=RSS&at_campaign=rss",
-      "summary": "The funding was agreed last December, but it has been held up in a row over Russian oil supplies to Hungary.",
-      "published_at": "2026-04-22T09:47:48Z",
+      "summary": "Ukraine says it has reopened the Druzhba pipeline, after months of stalemate over stalled oil supplies to neighbouring Hungary.",
+      "published_at": "2026-04-22T11:19:57Z",
       "country_code": "UA",
       "country_name": "Ukraine"
+    },
+    {
+      "source": "BBC Middle East",
+      "title": "Iran says it has seized two ships in Strait of Hormuz after vessels attacked",
+      "url": "https://www.bbc.com/news/articles/cdxd074kr8go?at_medium=RSS&at_campaign=rss",
+      "summary": "One of the cargo ships was 'heavily damaged' by Iranian forces, a British maritime agency reported on Wednesday.",
+      "published_at": "2026-04-22T10:48:23Z",
+      "country_code": "IR",
+      "country_name": "Iran"
+    },
+    {
+      "source": "BBC World",
+      "title": "Lufthansa cuts 20,000 summer flights as fuel prices surge",
+      "url": "https://www.bbc.com/news/articles/cre1r4n5j5wo?at_medium=RSS&at_campaign=rss",
+      "summary": "The airline is the latest to cut flights as the US-Israel war with Iran sends jet fuel prices soaring.",
+      "published_at": "2026-04-22T10:31:29Z",
+      "country_code": "US",
+      "country_name": "United States"
     },
     {
       "source": "BBC US & Canada",
@@ -57,7 +75,7 @@
     },
     {
       "source": "BBC World",
-      "title": "Phone tracking shows how Colombian mercenaries backed Sudan's RSF - report",
+      "title": "UAE-backed Colombian mercenaries provided support to Sudan paramilitary, report says",
       "url": "https://www.bbc.com/news/articles/cn4vk13wgwwo?at_medium=RSS&at_campaign=rss",
       "summary": "The Conflict Insights Group (CIG) says its research also shows the extent of UAE involvement.",
       "published_at": "2026-04-22T04:01:50Z",
@@ -771,12 +789,12 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 31
+      "news_count": 32
     },
     {
       "country_code": "IR",
       "country_name": "Iran",
-      "news_count": 6
+      "news_count": 7
     },
     {
       "country_code": "NG",
