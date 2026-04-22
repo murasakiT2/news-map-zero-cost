@@ -1,6 +1,33 @@
 {
-  "generated_at": "2026-04-22T13:00:10Z",
+  "generated_at": "2026-04-22T14:47:45Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Los Angeles becomes first major US school district to limit classroom screen time",
+      "url": "https://www.bbc.com/news/articles/c15d888ww39o?at_medium=RSS&at_campaign=rss",
+      "summary": "The school district, which serves about half a million students, is looking to reduce its reliance on devices after the pandemic.",
+      "published_at": "2026-04-22T14:22:59Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC Middle East",
+      "title": "Iran says it has seized two ships in Strait of Hormuz after vessels attacked",
+      "url": "https://www.bbc.com/news/articles/cdxd074kr8go?at_medium=RSS&at_campaign=rss",
+      "summary": "One of the cargo ships was 'heavily damaged' by Iranian forces, a British maritime agency reported on Wednesday.",
+      "published_at": "2026-04-22T14:03:40Z",
+      "country_code": "IR",
+      "country_name": "Iran"
+    },
+    {
+      "source": "BBC Africa",
+      "title": "'I cried so hard' - the Kenyan WNBA star who beat US visa heartbreak",
+      "url": "https://www.bbc.com/sport/basketball/articles/c5yxz41yjl0o?at_medium=RSS&at_campaign=rss",
+      "summary": "Madina Okot only started playing basketball six years ago, but the Kenyan's rapid rise has seen her set a WNBA milestone at the age of 21.",
+      "published_at": "2026-04-22T12:10:25Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "EU approves €90bn loan for Ukraine as pipeline is turned on ending deadlock",
@@ -9,15 +36,6 @@
       "published_at": "2026-04-22T11:19:57Z",
       "country_code": "UA",
       "country_name": "Ukraine"
-    },
-    {
-      "source": "BBC Middle East",
-      "title": "Iran says it has seized two ships in Strait of Hormuz after vessels attacked",
-      "url": "https://www.bbc.com/news/articles/cdxd074kr8go?at_medium=RSS&at_campaign=rss",
-      "summary": "One of the cargo ships was 'heavily damaged' by Iranian forces, a British maritime agency reported on Wednesday.",
-      "published_at": "2026-04-22T10:48:23Z",
-      "country_code": "IR",
-      "country_name": "Iran"
     },
     {
       "source": "BBC World",
@@ -308,15 +326,6 @@
       "country_name": "Kenya"
     },
     {
-      "source": "BBC Africa",
-      "title": "Black beauty queen who represented South Africa at Miss World during apartheid dies aged 76",
-      "url": "https://www.bbc.com/news/articles/cy41kklknreo?at_medium=RSS&at_campaign=rss",
-      "summary": "At the 1972 Miss World contest, Cynthia Shange was one of two contestants from South Africa - one black and one white.",
-      "published_at": "2026-04-20T17:38:22Z",
-      "country_code": "ZA",
-      "country_name": "South Africa"
-    },
-    {
       "source": "BBC Europe",
       "title": "Elon Musk snubs interview summons by French prosecutors amid X probe",
       "url": "https://www.bbc.com/news/articles/crk151nn7j3o?at_medium=RSS&at_campaign=rss",
@@ -358,15 +367,6 @@
       "url": "https://www.bbc.com/news/videos/c9qd9335838o?at_medium=RSS&at_campaign=rss",
       "summary": "The BBC has found significant spikes in activity shortly before the US president made some announcements.",
       "published_at": "2026-04-20T12:14:56Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "US releases video of forces seizing Iranian ship",
-      "url": "https://www.bbc.com/news/videos/c3w30l6qz49o?at_medium=RSS&at_campaign=rss",
-      "summary": "The US has intercepted an Iranian-flagged cargo ship in the Gulf as part of its naval blockade, Donald Trump has said.",
-      "published_at": "2026-04-20T07:29:42Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -722,15 +722,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Africa",
-      "title": "Fifa starts disciplinary action over Spain v Egypt chants",
-      "url": "https://www.bbc.com/sport/football/articles/cwyvpnw4j1lo?at_medium=RSS&at_campaign=rss",
-      "summary": "Fifa opens disciplinary proceedings against the Spanish FA after \"Islamophobic and xenophobic\" chants during a friendly between Spain and Eg…",
-      "published_at": "2026-04-07T18:10:21Z",
-      "country_code": "ES",
-      "country_name": "Spain"
-    },
-    {
       "source": "BBC Latin America",
       "title": "Carnival fever hits Lagos as locals celebrate Afro-Brazilian heritage",
       "url": "https://www.bbc.com/news/articles/cp84ye86ly3o?at_medium=RSS&at_campaign=rss",
@@ -789,7 +780,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 32
+      "news_count": 33
     },
     {
       "country_code": "IR",
@@ -827,11 +818,6 @@
       "news_count": 3
     },
     {
-      "country_code": "ZA",
-      "country_name": "South Africa",
-      "news_count": 3
-    },
-    {
       "country_code": "AR",
       "country_name": "Argentina",
       "news_count": 2
@@ -839,11 +825,6 @@
     {
       "country_code": "AU",
       "country_name": "Australia",
-      "news_count": 2
-    },
-    {
-      "country_code": "ES",
-      "country_name": "Spain",
       "news_count": 2
     },
     {
@@ -872,8 +853,18 @@
       "news_count": 2
     },
     {
+      "country_code": "ZA",
+      "country_name": "South Africa",
+      "news_count": 2
+    },
+    {
       "country_code": "AE",
       "country_name": "United Arab Emirates",
+      "news_count": 1
+    },
+    {
+      "country_code": "ES",
+      "country_name": "Spain",
       "news_count": 1
     },
     {
