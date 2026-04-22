@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-04-22T22:38:18Z",
+  "generated_at": "2026-04-22T23:38:12Z",
   "articles": [
+    {
+      "source": "BBC Asia",
+      "title": "China weathered Trump's tariffs - but the Iran war is taking a toll",
+      "url": "https://www.bbc.com/news/articles/cn0ep28drllo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Middle East conflict is putting pressure on factory orders, costs and jobs in China's export-driven economy.",
+      "published_at": "2026-04-22T21:23:25Z",
+      "country_code": "CN",
+      "country_name": "China"
+    },
     {
       "source": "BBC US & Canada",
       "title": "US 'won't dictate terms' of free trade talks, says PM Carney",
@@ -299,15 +308,6 @@
       "country_name": "United Kingdom"
     },
     {
-      "source": "BBC Africa",
-      "title": "Arrests in Nigeria after abduction of local monarch 'held for ransom'",
-      "url": "https://www.bbc.com/news/articles/cr71de2dr32o?at_medium=RSS&at_campaign=rss",
-      "summary": "The kidnappers raided his palace on Saturday and are believed to be holding him in a forest.",
-      "published_at": "2026-04-21T10:59:51Z",
-      "country_code": "NG",
-      "country_name": "Nigeria"
-    },
-    {
       "source": "BBC Middle East",
       "title": "Popemobile child clinic yet to reach Gaza one year after Francis's death",
       "url": "https://www.bbc.com/news/articles/c5ywj0n6pkyo?at_medium=RSS&at_campaign=rss",
@@ -468,15 +468,6 @@
       "published_at": "2026-04-19T17:48:41Z",
       "country_code": "UA",
       "country_name": "Ukraine"
-    },
-    {
-      "source": "BBC Asia",
-      "title": "Drone footage shows huge Malaysian coastal village fire",
-      "url": "https://www.bbc.com/news/videos/c4gjk99vp87o?at_medium=RSS&at_campaign=rss",
-      "summary": "Thousands of people have been displaced after a fire destroyed around 1,000 homes in Malaysia's Sabah state.",
-      "published_at": "2026-04-19T16:05:38Z",
-      "country_code": "MY",
-      "country_name": "Malaysia"
     },
     {
       "source": "BBC US & Canada",
@@ -806,14 +797,14 @@
       "news_count": 7
     },
     {
-      "country_code": "NG",
-      "country_name": "Nigeria",
-      "news_count": 6
-    },
-    {
       "country_code": "CN",
       "country_name": "China",
-      "news_count": 4
+      "news_count": 5
+    },
+    {
+      "country_code": "NG",
+      "country_name": "Nigeria",
+      "news_count": 5
     },
     {
       "country_code": "GB",
@@ -853,11 +844,6 @@
     {
       "country_code": "JP",
       "country_name": "Japan",
-      "news_count": 2
-    },
-    {
-      "country_code": "MY",
-      "country_name": "Malaysia",
       "news_count": 2
     },
     {
@@ -908,6 +894,11 @@
     {
       "country_code": "MX",
       "country_name": "Mexico",
+      "news_count": 1
+    },
+    {
+      "country_code": "MY",
+      "country_name": "Malaysia",
       "news_count": 1
     },
     {
