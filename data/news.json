@@ -1,9 +1,18 @@
 {
-  "generated_at": "2026-04-22T03:45:16Z",
+  "generated_at": "2026-04-22T05:54:56Z",
   "articles": [
     {
+      "source": "BBC World",
+      "title": "Phone tracking shows how Colombian mercenaries backed Sudan's RSF - report",
+      "url": "https://www.bbc.com/news/articles/cn4vk13wgwwo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Conflict Insights Group (CIG) says its research also shows the extent of UAE involvement.",
+      "published_at": "2026-04-22T04:01:50Z",
+      "country_code": "AE",
+      "country_name": "United Arab Emirates"
+    },
+    {
       "source": "BBC Asia",
-      "title": "World's biggest condom maker to raise prices due to Iran war",
+      "title": "World's biggest maker of condoms set to raise prices due to Iran war",
       "url": "https://www.bbc.com/news/articles/cy71zj1381po?at_medium=RSS&at_campaign=rss",
       "summary": "Malaysia-based Karex produces more than five billion condoms a year and supplies global brands like Durex and Trojan.",
       "published_at": "2026-04-22T03:28:52Z",
@@ -560,15 +569,6 @@
       "country_name": "Israel"
     },
     {
-      "source": "BBC Asia",
-      "title": "'How does one survive?': Factory protests expose strain in India's industrial system",
-      "url": "https://www.bbc.com/news/articles/ce8444gex65o?at_medium=RSS&at_campaign=rss",
-      "summary": "Workers in some north Indian cities have been protesting, demanding better pay and working conditions.",
-      "published_at": "2026-04-16T22:25:26Z",
-      "country_code": "IN",
-      "country_name": "India"
-    },
-    {
       "source": "BBC Europe",
       "title": "School shootings a new trauma for Turkey as nation mourns",
       "url": "https://www.bbc.com/news/articles/cwyv21q9y1go?at_medium=RSS&at_campaign=rss",
@@ -856,11 +856,6 @@
       "news_count": 2
     },
     {
-      "country_code": "IN",
-      "country_name": "India",
-      "news_count": 2
-    },
-    {
       "country_code": "MY",
       "country_name": "Malaysia",
       "news_count": 2
@@ -881,6 +876,11 @@
       "news_count": 2
     },
     {
+      "country_code": "AE",
+      "country_name": "United Arab Emirates",
+      "news_count": 1
+    },
+    {
       "country_code": "ET",
       "country_name": "Ethiopia",
       "news_count": 1
@@ -893,6 +893,11 @@
     {
       "country_code": "ID",
       "country_name": "Indonesia",
+      "news_count": 1
+    },
+    {
+      "country_code": "IN",
+      "country_name": "India",
       "news_count": 1
     },
     {
