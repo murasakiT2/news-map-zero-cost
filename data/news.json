@@ -1,14 +1,32 @@
 {
-  "generated_at": "2026-04-22T16:02:33Z",
+  "generated_at": "2026-04-22T17:30:08Z",
   "articles": [
     {
       "source": "BBC Middle East",
       "title": "Iran says it has seized two ships in Strait of Hormuz after vessels attacked",
       "url": "https://www.bbc.com/news/articles/cdxd074kr8go?at_medium=RSS&at_campaign=rss",
       "summary": "One of the cargo ships was 'heavily damaged' by Iranian forces, a British maritime agency reported on Wednesday.",
-      "published_at": "2026-04-22T15:06:20Z",
+      "published_at": "2026-04-22T17:14:32Z",
       "country_code": "IR",
       "country_name": "Iran"
+    },
+    {
+      "source": "BBC World",
+      "title": "US and Iran in blockade standoff as Pakistan pushes for talks",
+      "url": "https://www.bbc.com/news/articles/c0q9xq7knq2o?at_medium=RSS&at_campaign=rss",
+      "summary": "The mood in the Strait of Hormuz remains combustible despite Trump's ceasefire extension.",
+      "published_at": "2026-04-22T16:19:36Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "EU approves €90bn loan for Ukraine as pipeline is turned on ending deadlock",
+      "url": "https://www.bbc.com/news/articles/cnv8l99r3yyo?at_medium=RSS&at_campaign=rss",
+      "summary": "Ukraine says it has reopened the Druzhba pipeline, after months of stalemate over stalled oil supplies to neighbouring Hungary.",
+      "published_at": "2026-04-22T16:16:57Z",
+      "country_code": "UA",
+      "country_name": "Ukraine"
     },
     {
       "source": "BBC World",
@@ -45,15 +63,6 @@
       "published_at": "2026-04-22T12:10:25Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "EU approves €90bn loan for Ukraine as pipeline is turned on ending deadlock",
-      "url": "https://www.bbc.com/news/articles/cnv8l99r3yyo?at_medium=RSS&at_campaign=rss",
-      "summary": "Ukraine says it has reopened the Druzhba pipeline, after months of stalemate over stalled oil supplies to neighbouring Hungary.",
-      "published_at": "2026-04-22T11:19:57Z",
-      "country_code": "UA",
-      "country_name": "Ukraine"
     },
     {
       "source": "BBC World",
@@ -133,15 +142,6 @@
       "url": "https://www.bbc.com/news/articles/crr1v4gzkvlo?at_medium=RSS&at_campaign=rss",
       "summary": "Prosecutors say the singer, real name David Anthony Burke, could face life in prison due to the nature of the case, if convicted.",
       "published_at": "2026-04-22T02:29:37Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "ICE detains wife of US Army soldier at immigration appointment",
-      "url": "https://www.bbc.com/news/articles/c8r460gj7eko?at_medium=RSS&at_campaign=rss",
-      "summary": "Sergeant First Class Jose Serrano said ICE detained his wife as they applied for the parole-in-place programme",
-      "published_at": "2026-04-22T01:22:54Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -299,7 +299,7 @@
       "country_name": "Palestine"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "Japan loosens arms export rules in break from post-WW2 pacifism",
       "url": "https://www.bbc.com/news/articles/clyx4vlqy4vo?at_medium=RSS&at_campaign=rss",
       "summary": "This clears the way for Japan to sell weapons to more than a dozen countries.",
@@ -477,15 +477,6 @@
       "published_at": "2026-04-19T11:39:47Z",
       "country_code": "IR",
       "country_name": "Iran"
-    },
-    {
-      "source": "BBC Europe",
-      "title": "Zelensky condemns US extension of Russian sanctions waiver",
-      "url": "https://www.bbc.com/news/articles/c248m3z49j1o?at_medium=RSS&at_campaign=rss",
-      "summary": "The US argues that the waiver is meant to ease the energy supply crunch sparked by the US-Israel war with Iran.",
-      "published_at": "2026-04-19T09:55:22Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC Africa",
@@ -789,7 +780,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 33
+      "news_count": 32
     },
     {
       "country_code": "IR",
