@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-04-22T09:01:19Z",
+  "generated_at": "2026-04-22T10:44:53Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "EU decides on key €90bn Ukraine loan after pipeline deadlock ends",
+      "url": "https://www.bbc.com/news/articles/cnv8l99r3yyo?at_medium=RSS&at_campaign=rss",
+      "summary": "The funding was agreed last December, but it has been held up in a row over Russian oil supplies to Hungary.",
+      "published_at": "2026-04-22T09:47:48Z",
+      "country_code": "UA",
+      "country_name": "Ukraine"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "US charges anti-extremism organisation over payments to informants in hate groups",
+      "url": "https://www.bbc.com/news/articles/clyrkd022ejo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Southern Poverty Law Center said it would \"vigorously defend ourselves, our staff, and our work\".",
+      "published_at": "2026-04-22T09:09:50Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC Asia",
       "title": "World's biggest condom maker set to raise prices due to Iran war",
@@ -11,10 +29,10 @@
       "country_name": "Malaysia"
     },
     {
-      "source": "BBC Asia",
+      "source": "BBC World",
       "title": "Taiwan president cancels trip after African countries revoke flight permits",
       "url": "https://www.bbc.com/news/articles/crl16p72x7xo?at_medium=RSS&at_campaign=rss",
-      "summary": "Taiwan has accused Beijing of putting pressure on African countries to close their airspace.",
+      "summary": "Taiwan has accused Beijing of putting pressure on African countries to close their airspace to Lai's plane.",
       "published_at": "2026-04-22T06:25:15Z",
       "country_code": "CN",
       "country_name": "China"
@@ -23,10 +41,19 @@
       "source": "BBC Africa",
       "title": "Taiwan president cancels Eswatini trip after African countries close airspace",
       "url": "https://www.bbc.com/news/articles/crl16p72x7xo?at_medium=RSS&at_campaign=rss",
-      "summary": "Taiwan has accused Beijing of putting pressure on African countries to close their airspace.",
+      "summary": "Taiwan has accused Beijing of putting pressure on African countries to close their airspace to Lai's plane.",
       "published_at": "2026-04-22T06:25:15Z",
       "country_code": "CN",
       "country_name": "China"
+    },
+    {
+      "source": "BBC World",
+      "title": "Thirteen killed in second India fireworks blast in three days",
+      "url": "https://www.bbc.com/news/articles/cwydzddp4j9o?at_medium=RSS&at_campaign=rss",
+      "summary": "Earlier this week, an explosion at a firecracker factory in neighbouring state Tamil Nadu left at least 25 dead.",
+      "published_at": "2026-04-22T05:55:18Z",
+      "country_code": "IN",
+      "country_name": "India"
     },
     {
       "source": "BBC World",
@@ -38,7 +65,7 @@
       "country_name": "United Arab Emirates"
     },
     {
-      "source": "BBC US & Canada",
+      "source": "BBC World",
       "title": "Mexico officials say Teotihuacán gunman carried material related to US mass shooting",
       "url": "https://www.bbc.com/news/articles/c393mped8zjo?at_medium=RSS&at_campaign=rss",
       "summary": "The gunman visited the archaeological site repeatedly and appeared to act alone.",
@@ -77,7 +104,7 @@
       "source": "BBC World",
       "title": "Trump buys time for Iran deal after frantic day of diplomacy",
       "url": "https://www.bbc.com/news/articles/cvg4yr90jr2o?at_medium=RSS&at_campaign=rss",
-      "summary": "The US president's decision marked the second time in as many weeks he has backed off a threat to escalate the war, buying more time",
+      "summary": "The US president's decision marked the second time in as many weeks he has backed off a threat to escalate the war, buying more time.",
       "published_at": "2026-04-22T00:32:10Z",
       "country_code": "US",
       "country_name": "United States"
@@ -101,13 +128,22 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Asia",
+      "source": "BBC World",
       "title": "Hotpot, bubble tea and sportswear: China's new exports take on the world",
       "url": "https://www.bbc.com/news/articles/crr1ln1575lo?at_medium=RSS&at_campaign=rss",
       "summary": "Made in China used to mean cheap, mass-produced goods but a new wave of Chinese brands is emerging.",
       "published_at": "2026-04-21T22:10:22Z",
       "country_code": "CN",
       "country_name": "China"
+    },
+    {
+      "source": "BBC Europe",
+      "title": "Torture and beating photos seized during Lyons gang raids in Spain",
+      "url": "https://www.bbc.com/news/articles/cx2rz5z0ln9o?at_medium=RSS&at_campaign=rss",
+      "summary": "The pictures were discovered by police targeting alleged members of the Lyons crime group on the Costa Del Sol.",
+      "published_at": "2026-04-21T20:12:05Z",
+      "country_code": "ES",
+      "country_name": "Spain"
     },
     {
       "source": "BBC World",
@@ -146,7 +182,7 @@
       "country_name": "Israel"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Africa",
       "title": "South Africa's police boss charged in connection with controversial health contract",
       "url": "https://www.bbc.com/news/articles/cn784g76v63o?at_medium=RSS&at_campaign=rss",
       "summary": "Fannie Masemola is accused of failing in his duties to provide proper oversight in his role.",
@@ -171,15 +207,6 @@
       "published_at": "2026-04-21T15:53:40Z",
       "country_code": "PL",
       "country_name": "Poland"
-    },
-    {
-      "source": "BBC World",
-      "title": "Canadian killed in shooting at Mexico's ancient Teotihuacán pyramids",
-      "url": "https://www.bbc.com/news/articles/crm1rg3ydkvo?at_medium=RSS&at_campaign=rss",
-      "summary": "Several people were also injured in the incident on Monday at the popular tourist site, say Mexican officials, weeks before the country host…",
-      "published_at": "2026-04-21T14:55:19Z",
-      "country_code": "MX",
-      "country_name": "Mexico"
     },
     {
       "source": "BBC Africa",
@@ -209,7 +236,7 @@
       "country_name": "United Kingdom"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Africa",
       "title": "Arrests in Nigeria after abduction of local monarch 'held for ransom'",
       "url": "https://www.bbc.com/news/articles/cr71de2dr32o?at_medium=RSS&at_campaign=rss",
       "summary": "The kidnappers raided his palace on Saturday and are believed to be holding him in a forest.",
@@ -236,7 +263,7 @@
       "country_name": "Japan"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "Japan on high alert for 'huge' second quake after lifting tsunami warning",
       "url": "https://www.bbc.com/news/articles/czd7m7d699do?at_medium=RSS&at_campaign=rss",
       "summary": "Japan's meteorological agency warns another, stronger earthquake may hit in the next week.",
@@ -270,15 +297,6 @@
       "published_at": "2026-04-20T17:38:22Z",
       "country_code": "ZA",
       "country_name": "South Africa"
-    },
-    {
-      "source": "BBC Europe",
-      "title": "Tour de France Femmes UK stage routes revealed",
-      "url": "https://www.bbc.com/sport/cycling/articles/cq59692v05eo?at_medium=RSS&at_campaign=rss",
-      "summary": "The routes for the UK stages of the 2027 Tour de France Femmes have been revealed, with riders saying it will be \"super brutal\".",
-      "published_at": "2026-04-20T16:07:00Z",
-      "country_code": "GB",
-      "country_name": "United Kingdom"
     },
     {
       "source": "BBC Europe",
@@ -371,15 +389,6 @@
       "country_name": "India"
     },
     {
-      "source": "BBC World",
-      "title": "'They told me he was dead': Children born near army base learn truth about UK soldier dads",
-      "url": "https://www.bbc.com/news/articles/c895k3537kgo?at_medium=RSS&at_campaign=rss",
-      "summary": "A DNA and legal project has identified the fathers of 20 children born near a military base in Kenya.",
-      "published_at": "2026-04-19T23:07:52Z",
-      "country_code": "GB",
-      "country_name": "United Kingdom"
-    },
-    {
       "source": "BBC Africa",
       "title": "'They told me he was dead': Children born near Kenyan army base learn truth about UK soldier dads",
       "url": "https://www.bbc.com/news/articles/c895k3537kgo?at_medium=RSS&at_campaign=rss",
@@ -468,15 +477,6 @@
       "published_at": "2026-04-18T23:09:30Z",
       "country_code": "AU",
       "country_name": "Australia"
-    },
-    {
-      "source": "BBC Middle East",
-      "title": "BBC reports from Lebanese border town as residents try to return home",
-      "url": "https://www.bbc.com/news/videos/cly90z9g5q3o?at_medium=RSS&at_campaign=rss",
-      "summary": "BBC Arabic's correspondent Carine Torbey reports from the border town of Khiam, as the ceasefire between Israel and Hezbollah in southern Le…",
-      "published_at": "2026-04-18T11:47:11Z",
-      "country_code": "IL",
-      "country_name": "Israel"
     },
     {
       "source": "BBC Middle East",
@@ -771,7 +771,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 30
+      "news_count": 31
     },
     {
       "country_code": "IR",
@@ -784,23 +784,28 @@
       "news_count": 6
     },
     {
-      "country_code": "GB",
-      "country_name": "United Kingdom",
-      "news_count": 5
-    },
-    {
       "country_code": "CN",
       "country_name": "China",
       "news_count": 4
     },
     {
+      "country_code": "GB",
+      "country_name": "United Kingdom",
+      "news_count": 3
+    },
+    {
       "country_code": "IL",
       "country_name": "Israel",
-      "news_count": 4
+      "news_count": 3
     },
     {
       "country_code": "SD",
       "country_name": "Sudan",
+      "news_count": 3
+    },
+    {
+      "country_code": "UA",
+      "country_name": "Ukraine",
       "news_count": 3
     },
     {
@@ -816,6 +821,16 @@
     {
       "country_code": "AU",
       "country_name": "Australia",
+      "news_count": 2
+    },
+    {
+      "country_code": "ES",
+      "country_name": "Spain",
+      "news_count": 2
+    },
+    {
+      "country_code": "IN",
+      "country_name": "India",
       "news_count": 2
     },
     {
@@ -839,18 +854,8 @@
       "news_count": 2
     },
     {
-      "country_code": "UA",
-      "country_name": "Ukraine",
-      "news_count": 2
-    },
-    {
       "country_code": "AE",
       "country_name": "United Arab Emirates",
-      "news_count": 1
-    },
-    {
-      "country_code": "ES",
-      "country_name": "Spain",
       "news_count": 1
     },
     {
@@ -869,18 +874,8 @@
       "news_count": 1
     },
     {
-      "country_code": "IN",
-      "country_name": "India",
-      "news_count": 1
-    },
-    {
       "country_code": "KE",
       "country_name": "Kenya",
-      "news_count": 1
-    },
-    {
-      "country_code": "MX",
-      "country_name": "Mexico",
       "news_count": 1
     },
     {
