@@ -1,6 +1,33 @@
 {
-  "generated_at": "2026-04-22T14:47:45Z",
+  "generated_at": "2026-04-22T16:02:33Z",
   "articles": [
+    {
+      "source": "BBC Middle East",
+      "title": "Iran says it has seized two ships in Strait of Hormuz after vessels attacked",
+      "url": "https://www.bbc.com/news/articles/cdxd074kr8go?at_medium=RSS&at_campaign=rss",
+      "summary": "One of the cargo ships was 'heavily damaged' by Iranian forces, a British maritime agency reported on Wednesday.",
+      "published_at": "2026-04-22T15:06:20Z",
+      "country_code": "IR",
+      "country_name": "Iran"
+    },
+    {
+      "source": "BBC World",
+      "title": "Lufthansa cuts 20,000 summer flights as fuel prices surge",
+      "url": "https://www.bbc.com/news/articles/cre1r4n5j5wo?at_medium=RSS&at_campaign=rss",
+      "summary": "The airline is the latest to cut flights as the US-Israel war with Iran sends jet fuel prices soaring.",
+      "published_at": "2026-04-22T15:00:40Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "No cartels involved - but Mexico's pyramid attack prompts new concerns",
+      "url": "https://www.bbc.com/news/articles/cre1r5gdq04o?at_medium=RSS&at_campaign=rss",
+      "summary": "The deadly shooting at a popular tourist site weeks before the World Cup has rocked Mexico.",
+      "published_at": "2026-04-22T14:50:52Z",
+      "country_code": "MX",
+      "country_name": "Mexico"
+    },
     {
       "source": "BBC World",
       "title": "Los Angeles becomes first major US school district to limit classroom screen time",
@@ -9,15 +36,6 @@
       "published_at": "2026-04-22T14:22:59Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC Middle East",
-      "title": "Iran says it has seized two ships in Strait of Hormuz after vessels attacked",
-      "url": "https://www.bbc.com/news/articles/cdxd074kr8go?at_medium=RSS&at_campaign=rss",
-      "summary": "One of the cargo ships was 'heavily damaged' by Iranian forces, a British maritime agency reported on Wednesday.",
-      "published_at": "2026-04-22T14:03:40Z",
-      "country_code": "IR",
-      "country_name": "Iran"
     },
     {
       "source": "BBC Africa",
@@ -39,15 +57,6 @@
     },
     {
       "source": "BBC World",
-      "title": "Lufthansa cuts 20,000 summer flights as fuel prices surge",
-      "url": "https://www.bbc.com/news/articles/cre1r4n5j5wo?at_medium=RSS&at_campaign=rss",
-      "summary": "The airline is the latest to cut flights as the US-Israel war with Iran sends jet fuel prices soaring.",
-      "published_at": "2026-04-22T10:31:29Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC US & Canada",
       "title": "US charges anti-extremism organisation over payments to informants in hate groups",
       "url": "https://www.bbc.com/news/articles/clyrkd022ejo?at_medium=RSS&at_campaign=rss",
       "summary": "The Southern Poverty Law Center said it would \"vigorously defend ourselves, our staff, and our work\".",
@@ -101,7 +110,7 @@
       "country_name": "United Arab Emirates"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "Mexico officials say Teotihuacán gunman carried material related to US mass shooting",
       "url": "https://www.bbc.com/news/articles/c393mped8zjo?at_medium=RSS&at_campaign=rss",
       "summary": "The gunman visited the archaeological site repeatedly and appeared to act alone.",
@@ -182,7 +191,7 @@
       "country_name": "Spain"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Latin America",
       "title": "Role of US officials killed in crash in Mexico under scrutiny",
       "url": "https://www.bbc.com/news/articles/c86expy881qo?at_medium=RSS&at_campaign=rss",
       "summary": "Two Americans who reportedly worked for the CIA died in a car crash after a Mexican-led operation to destroy a drug lab.",
@@ -885,6 +894,11 @@
     {
       "country_code": "KE",
       "country_name": "Kenya",
+      "news_count": 1
+    },
+    {
+      "country_code": "MX",
+      "country_name": "Mexico",
       "news_count": 1
     },
     {
