@@ -1,12 +1,30 @@
 {
-  "generated_at": "2026-04-23T08:28:37Z",
+  "generated_at": "2026-04-23T10:04:56Z",
   "articles": [
+    {
+      "source": "BBC Middle East",
+      "title": "Israeli strike kills five Palestinians in northern Gaza, medics say",
+      "url": "https://www.bbc.com/news/articles/cly60dwxjd1o?at_medium=RSS&at_campaign=rss",
+      "summary": "Three children were among those killed in a strike near a mosque in the town of Beit Lahia on Wednesday evening.",
+      "published_at": "2026-04-23T09:59:45Z",
+      "country_code": "PS",
+      "country_name": "Palestine"
+    },
+    {
+      "source": "BBC Europe",
+      "title": "BBC visits migrant camp in northern France as new deal announced",
+      "url": "https://www.bbc.com/news/videos/cgrl891xkpvo?at_medium=RSS&at_campaign=rss",
+      "summary": "A proposed three-year deal with Paris is aimed at stopping migrants crossing the Channel on small boats.",
+      "published_at": "2026-04-23T09:39:50Z",
+      "country_code": "FR",
+      "country_name": "France"
+    },
     {
       "source": "BBC World",
       "title": "US Navy chief leaving post 'effective immediately', Pentagon says",
       "url": "https://www.bbc.com/news/articles/ce9ml02g5k7o?at_medium=RSS&at_campaign=rss",
-      "summary": "US Navy Secretary John Phelan is the latest high-ranking military leader to leave the administration in recent months.",
-      "published_at": "2026-04-23T07:34:43Z",
+      "summary": "Reports say Phelan, whose role was largely administrative, left amid tension over US shipbuilding.",
+      "published_at": "2026-04-23T08:37:14Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -45,6 +63,15 @@
       "published_at": "2026-04-23T00:25:21Z",
       "country_code": "CA",
       "country_name": "Canada"
+    },
+    {
+      "source": "BBC Africa",
+      "title": "This man was jailed for five years over Nigeria's End Sars protests and then freed without trial",
+      "url": "https://www.bbc.com/news/articles/cql7p9rd3gyo?at_medium=RSS&at_campaign=rss",
+      "summary": "At 17, Rasheed Wasiu was detained as security forces cracked down on protests against police brutality.",
+      "published_at": "2026-04-22T23:37:11Z",
+      "country_code": "NG",
+      "country_name": "Nigeria"
     },
     {
       "source": "BBC World",
@@ -272,7 +299,16 @@
       "country_name": "Australia"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Middle East",
+      "title": "Extension of US-Iran ceasefire gives 'breathing space'",
+      "url": "https://www.bbc.com/news/videos/cj604n1werpo?at_medium=RSS&at_campaign=rss",
+      "summary": "The BBC's chief international correspondent Lyse Doucet reports from Tehran as Trump announces an extension of the ceasefire with Iran.",
+      "published_at": "2026-04-21T22:17:52Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC Asia",
       "title": "Hotpot, bubble tea and sportswear: China's new exports take on the world",
       "url": "https://www.bbc.com/news/articles/crr1ln1575lo?at_medium=RSS&at_campaign=rss",
       "summary": "Made in China used to mean cheap, mass-produced goods but a new wave of Chinese brands is emerging.",
@@ -344,6 +380,15 @@
       "country_name": "Poland"
     },
     {
+      "source": "BBC Middle East",
+      "title": "'Nothing to go back to' - BBC reports from Lebanon's 'Yellow Line'",
+      "url": "https://www.bbc.com/news/videos/cj37dj76njno?at_medium=RSS&at_campaign=rss",
+      "summary": "Israel has established what it calls a \"Yellow Line\" – creating a military zone stretching roughly 10km north of its border with Lebanon.",
+      "published_at": "2026-04-21T14:12:59Z",
+      "country_code": "IL",
+      "country_name": "Israel"
+    },
+    {
       "source": "BBC Europe",
       "title": "Ukraine family get cancer and bomb news on same day",
       "url": "https://www.bbc.com/news/articles/cr71de8x557o?at_medium=RSS&at_campaign=rss",
@@ -362,15 +407,6 @@
       "country_name": "United Kingdom"
     },
     {
-      "source": "BBC Middle East",
-      "title": "Popemobile child clinic yet to reach Gaza one year after Francis's death",
-      "url": "https://www.bbc.com/news/articles/c5ywj0n6pkyo?at_medium=RSS&at_campaign=rss",
-      "summary": "One of the late pope's last wishes was for his vehicle to be used for children in Gaza, but a charity is still waiting for an entry permit.",
-      "published_at": "2026-04-21T10:39:14Z",
-      "country_code": "PS",
-      "country_name": "Palestine"
-    },
-    {
       "source": "BBC Asia",
       "title": "Japan loosens arms export rules in break from post-WW2 pacifism",
       "url": "https://www.bbc.com/news/articles/clyx4vlqy4vo?at_medium=RSS&at_campaign=rss",
@@ -387,15 +423,6 @@
       "published_at": "2026-04-21T01:31:27Z",
       "country_code": "JP",
       "country_name": "Japan"
-    },
-    {
-      "source": "BBC Middle East",
-      "title": "Trump says US will not lift Hormuz blockade until deal made with Iran",
-      "url": "https://www.bbc.com/news/articles/cdxd88r2wjzo?at_medium=RSS&at_campaign=rss",
-      "summary": "The US president's comments come amid uncertainty over whether Iran will attend peace talks in Pakistan this week.",
-      "published_at": "2026-04-20T21:52:12Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC Africa",
@@ -417,15 +444,6 @@
     },
     {
       "source": "BBC US & Canada",
-      "title": "Watch: Skydiver crashes into jumbotron at US football game",
-      "url": "https://www.bbc.com/news/videos/cpvxww24kv3o?at_medium=RSS&at_campaign=rss",
-      "summary": "A skydiver crashed into the massive scoreboard at Virginia Tech University's stadium, dangling from a parachute before first responders carr…",
-      "published_at": "2026-04-20T14:55:51Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC US & Canada",
       "title": "Canada: Ties to US are 'weaknesses we must correct'",
       "url": "https://www.bbc.com/news/videos/c4g43y5g93yo?at_medium=RSS&at_campaign=rss",
       "summary": "Prime Minister Mark Carney said that due to Washington changing its trade policies, Canada's economic ties to the US that were once a streng…",
@@ -443,20 +461,11 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC US & Canada",
+      "source": "BBC Middle East",
       "title": "Why and how is US blockading Iranian ports in Strait of Hormuz?",
       "url": "https://www.bbc.com/news/articles/c5yv6xr6me3o?at_medium=RSS&at_campaign=rss",
       "summary": "Donald Trump says that the US is blockading the Strait of Hormuz. What does this mean in practice?",
       "published_at": "2026-04-20T06:46:03Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC Middle East",
-      "title": "US intercepts and seizes Iranian-flagged cargo ship, Trump says",
-      "url": "https://www.bbc.com/news/articles/c239500dx8ro?at_medium=RSS&at_campaign=rss",
-      "summary": "Tehran vows retaliation soon for what it calls an \"act of armed piracy\", which comes as the US prepares for a second round of talks.",
-      "published_at": "2026-04-20T01:38:17Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -488,15 +497,6 @@
       "country_name": "China"
     },
     {
-      "source": "BBC Middle East",
-      "title": "Tehran will never cede control of Strait of Hormuz, senior Iranian politician tells BBC",
-      "url": "https://www.bbc.com/news/articles/cvg4jnn131qo?at_medium=RSS&at_campaign=rss",
-      "summary": "Lyse Doucet speaks to Ebrahim Azizi, who says Iran \"will decide the right of passage\" through the crucial shipping route.",
-      "published_at": "2026-04-19T21:09:06Z",
-      "country_code": "IR",
-      "country_name": "Iran"
-    },
-    {
       "source": "BBC Europe",
       "title": "Ukraine police chief resigns after officers allegedly fled deadly shooting",
       "url": "https://www.bbc.com/news/articles/c8ejn778j4do?at_medium=RSS&at_campaign=rss",
@@ -504,15 +504,6 @@
       "published_at": "2026-04-19T17:48:41Z",
       "country_code": "UA",
       "country_name": "Ukraine"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "Why are gray whales dying in San Francisco's waters? US scientists search for clues",
-      "url": "https://www.bbc.com/news/articles/c9qdd8qvrplo?at_medium=RSS&at_campaign=rss",
-      "summary": "Climate change and shifting migration patterns are bringing rare research opportunities and new mysteries.",
-      "published_at": "2026-04-19T13:08:05Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC Africa",
@@ -722,6 +713,15 @@
       "country_name": "United States"
     },
     {
+      "source": "BBC Middle East",
+      "title": "Why ceasefire deal with US has unsettled Iran's hardliners",
+      "url": "https://www.bbc.com/news/articles/c5ywpe2yyg3o?at_medium=RSS&at_campaign=rss",
+      "summary": "The two-week truce opens up the prospect of direct talks with the US but has angered Iran's hardliners, writes BBC News Persian’s Kasra Naji…",
+      "published_at": "2026-04-08T17:16:37Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
       "source": "BBC Latin America",
       "title": "The US refinery now processing Venezuelan oil",
       "url": "https://www.bbc.com/news/articles/cx24n8eqzgyo?at_medium=RSS&at_campaign=rss",
@@ -789,7 +789,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 36
+      "news_count": 34
     },
     {
       "country_code": "CN",
@@ -797,19 +797,19 @@
       "news_count": 6
     },
     {
-      "country_code": "IR",
-      "country_name": "Iran",
-      "news_count": 6
-    },
-    {
       "country_code": "NG",
       "country_name": "Nigeria",
-      "news_count": 5
+      "news_count": 6
     },
     {
       "country_code": "IL",
       "country_name": "Israel",
-      "news_count": 4
+      "news_count": 5
+    },
+    {
+      "country_code": "IR",
+      "country_name": "Iran",
+      "news_count": 5
     },
     {
       "country_code": "SD",
@@ -824,6 +824,11 @@
     {
       "country_code": "AR",
       "country_name": "Argentina",
+      "news_count": 2
+    },
+    {
+      "country_code": "FR",
+      "country_name": "France",
       "news_count": 2
     },
     {
@@ -874,11 +879,6 @@
     {
       "country_code": "ET",
       "country_name": "Ethiopia",
-      "news_count": 1
-    },
-    {
-      "country_code": "FR",
-      "country_name": "France",
       "news_count": 1
     },
     {
