@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-22T23:38:12Z",
+  "generated_at": "2026-04-23T01:30:25Z",
   "articles": [
     {
       "source": "BBC Asia",
@@ -9,6 +9,15 @@
       "published_at": "2026-04-22T21:23:25Z",
       "country_code": "CN",
       "country_name": "China"
+    },
+    {
+      "source": "BBC Asia",
+      "title": "How the US-Iran war is costing China",
+      "url": "https://www.bbc.com/news/videos/c4gx7m4jk08o?at_medium=RSS&at_campaign=rss",
+      "summary": "The BBC’s Laura Bicker explains the economic costs and possible political wins for China brought on by the war.",
+      "published_at": "2026-04-22T21:00:50Z",
+      "country_code": "US",
+      "country_name": "United States"
     },
     {
       "source": "BBC US & Canada",
@@ -497,15 +506,6 @@
       "country_name": "Sudan"
     },
     {
-      "source": "BBC Asia",
-      "title": "Harry and Meghan's trip felt like a royal tour - except many Aussies weren't interested",
-      "url": "https://www.bbc.com/news/articles/cwyx014e2wqo?at_medium=RSS&at_campaign=rss",
-      "summary": "The Sussexes' four-day tour of Australia appears to have fallen flat with some.",
-      "published_at": "2026-04-18T23:09:30Z",
-      "country_code": "AU",
-      "country_name": "Australia"
-    },
-    {
       "source": "BBC Middle East",
       "title": "What people in power think the impact of the Iran war will be",
       "url": "https://www.bbc.com/news/articles/c9vl37eev7ko?at_medium=RSS&at_campaign=rss",
@@ -789,7 +789,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 34
+      "news_count": 35
     },
     {
       "country_code": "IR",
@@ -832,11 +832,6 @@
       "news_count": 2
     },
     {
-      "country_code": "AU",
-      "country_name": "Australia",
-      "news_count": 2
-    },
-    {
       "country_code": "IN",
       "country_name": "India",
       "news_count": 2
@@ -864,6 +859,11 @@
     {
       "country_code": "AE",
       "country_name": "United Arab Emirates",
+      "news_count": 1
+    },
+    {
+      "country_code": "AU",
+      "country_name": "Australia",
       "news_count": 1
     },
     {
