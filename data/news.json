@@ -1,14 +1,23 @@
 {
-  "generated_at": "2026-04-23T16:56:30Z",
+  "generated_at": "2026-04-23T18:05:35Z",
   "articles": [
     {
       "source": "BBC World",
       "title": "Trump tells BBC that King's visit could 'absolutely' help repair relations with UK",
       "url": "https://www.bbc.com/news/articles/cx2wdegnzzjo?at_medium=RSS&at_campaign=rss",
       "summary": "In a phone interview with the BBC's North America editor, the president discussed next week's visit and his relationship with the UK PM.",
-      "published_at": "2026-04-23T16:53:44Z",
+      "published_at": "2026-04-23T17:36:11Z",
       "country_code": "US",
       "country_name": "United States"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "My five-minute phone call with President Trump",
+      "url": "https://www.bbc.com/news/videos/c624yr5p3kpo?at_medium=RSS&at_campaign=rss",
+      "summary": "Sarah Smith asked the president about King Charles's upcoming visit, the state of the so-called special relationship and the war with Iran.",
+      "published_at": "2026-04-23T16:47:18Z",
+      "country_code": "IR",
+      "country_name": "Iran"
     },
     {
       "source": "BBC Europe",
@@ -18,6 +27,15 @@
       "published_at": "2026-04-23T16:02:34Z",
       "country_code": "GB",
       "country_name": "United Kingdom"
+    },
+    {
+      "source": "BBC Asia",
+      "title": "Sri Lanka investigates after hackers steal $2.5m",
+      "url": "https://www.bbc.com/news/articles/cn53vlvn3lvo?at_medium=RSS&at_campaign=rss",
+      "summary": "Officials are not clear how the money, set to form part of a bilateral debt repayment to Australia, was stolen.",
+      "published_at": "2026-04-23T16:02:31Z",
+      "country_code": "AU",
+      "country_name": "Australia"
     },
     {
       "source": "BBC World",
@@ -164,15 +182,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC US & Canada",
-      "title": "Georgia Democrat David Scott, 80, dies after casting final House vote",
-      "url": "https://www.bbc.com/news/articles/cp8dg10myz0o?at_medium=RSS&at_campaign=rss",
-      "summary": "The veteran lawmaker's death was confirmed a day after he cast his final vote on the floor of the US House.",
-      "published_at": "2026-04-22T19:01:13Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC Middle East",
       "title": "Iran says it has seized two ships in Strait of Hormuz after vessels attacked",
       "url": "https://www.bbc.com/news/articles/cdxd074kr8go?at_medium=RSS&at_campaign=rss",
@@ -315,15 +324,6 @@
       "published_at": "2026-04-22T00:32:10Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC Asia",
-      "title": "Fourth man charged over mistaken identity kidnap murder of Sydney grandfather",
-      "url": "https://www.bbc.com/news/articles/cly7ezv8yp2o?at_medium=RSS&at_campaign=rss",
-      "summary": "Police say Chris Baghsarian, 85, was not the intended target of the February kidnapping.",
-      "published_at": "2026-04-21T23:55:32Z",
-      "country_code": "AU",
-      "country_name": "Australia"
     },
     {
       "source": "BBC Middle East",
@@ -762,12 +762,12 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 34
+      "news_count": 33
     },
     {
       "country_code": "IR",
       "country_name": "Iran",
-      "news_count": 6
+      "news_count": 7
     },
     {
       "country_code": "NG",
