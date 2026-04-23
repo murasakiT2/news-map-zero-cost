@@ -1,17 +1,26 @@
 {
-  "generated_at": "2026-04-23T15:13:00Z",
+  "generated_at": "2026-04-23T16:56:30Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Trump tells BBC that King's visit could 'absolutely' help repair relations with UK",
+      "url": "https://www.bbc.com/news/articles/cx2wdegnzzjo?at_medium=RSS&at_campaign=rss",
+      "summary": "In a phone interview with the BBC's North America editor, the president discussed next week's visit and his relationship with the UK PM.",
+      "published_at": "2026-04-23T16:53:44Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC Europe",
       "title": "UK and France strike new £662m small boats deal",
       "url": "https://www.bbc.com/news/articles/cz0ev7enk2lo?at_medium=RSS&at_campaign=rss",
       "summary": "The three-year agreement will see at least 50 riot-trained police officers drafted in to tackle violence and “hostile crowds”.",
-      "published_at": "2026-04-23T15:11:50Z",
+      "published_at": "2026-04-23T16:02:34Z",
       "country_code": "GB",
       "country_name": "United Kingdom"
     },
     {
-      "source": "BBC Middle East",
+      "source": "BBC World",
       "title": "US-Kuwaiti journalist held in Kuwait over social media posts acquitted, lawyers say",
       "url": "https://www.bbc.com/news/articles/cy81ljrd445o?at_medium=RSS&at_campaign=rss",
       "summary": "Ahmed Shihab-Eldin reportedly faced charges, including spreading false information, after he re-posted images related to the Iran war.",
@@ -173,15 +182,6 @@
       "country_name": "Iran"
     },
     {
-      "source": "BBC US & Canada",
-      "title": "Serial thief who stole Kristi Noem's handbag sentenced to three years in prison",
-      "url": "https://www.bbc.com/news/articles/c80mze2381jo?at_medium=RSS&at_campaign=rss",
-      "summary": "The former US Secretary of Homeland Security had her handbag - with $3,000 (£2,260) in cash inside - stolen at a restaurant last year.",
-      "published_at": "2026-04-22T18:20:44Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC World",
       "title": "EU approves €90bn loan for Ukraine as pipeline is turned on ending deadlock",
       "url": "https://www.bbc.com/news/articles/cnv8l99r3yyo?at_medium=RSS&at_campaign=rss",
@@ -281,15 +281,6 @@
       "country_name": "China"
     },
     {
-      "source": "BBC Africa",
-      "title": "Taiwan president cancels Eswatini trip after African countries close airspace",
-      "url": "https://www.bbc.com/news/articles/crl16p72x7xo?at_medium=RSS&at_campaign=rss",
-      "summary": "Taiwan has accused Beijing of putting pressure on African countries to close their airspace to Lai's plane.",
-      "published_at": "2026-04-22T06:25:15Z",
-      "country_code": "CN",
-      "country_name": "China"
-    },
-    {
       "source": "BBC World",
       "title": "Thirteen killed in second India fireworks blast in three days",
       "url": "https://www.bbc.com/news/articles/cwydzddp4j9o?at_medium=RSS&at_campaign=rss",
@@ -344,7 +335,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "Hotpot, bubble tea and sportswear: China's new exports take on the world",
       "url": "https://www.bbc.com/news/articles/crr1ln1575lo?at_medium=RSS&at_campaign=rss",
       "summary": "Made in China used to mean cheap, mass-produced goods but a new wave of Chinese brands is emerging.",
@@ -774,11 +765,6 @@
       "news_count": 34
     },
     {
-      "country_code": "CN",
-      "country_name": "China",
-      "news_count": 6
-    },
-    {
       "country_code": "IR",
       "country_name": "Iran",
       "news_count": 6
@@ -787,6 +773,11 @@
       "country_code": "NG",
       "country_name": "Nigeria",
       "news_count": 6
+    },
+    {
+      "country_code": "CN",
+      "country_name": "China",
+      "news_count": 5
     },
     {
       "country_code": "IL",
