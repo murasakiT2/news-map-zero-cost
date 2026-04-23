@@ -1,8 +1,26 @@
 {
-  "generated_at": "2026-04-23T04:43:14Z",
+  "generated_at": "2026-04-23T06:55:10Z",
   "articles": [
     {
-      "source": "BBC US & Canada",
+      "source": "BBC Asia",
+      "title": "Taiwan minister makes rare visit to disputed South China Sea island",
+      "url": "https://www.bbc.com/news/articles/c87wzpey8jlo?at_medium=RSS&at_campaign=rss",
+      "summary": "Kuan Bi-ling observed coast guard drills on Taiping Island, also claimed by China, the Philippines and Vietnam.",
+      "published_at": "2026-04-23T05:29:03Z",
+      "country_code": "CN",
+      "country_name": "China"
+    },
+    {
+      "source": "BBC World",
+      "title": "Lebanon accuses Israel of targeting journalist killed in air strike",
+      "url": "https://www.bbc.com/news/articles/c5yvn036evlo?at_medium=RSS&at_campaign=rss",
+      "summary": "Lebanon's prime minister accused Israel of war crimes after IDF attacks on Red Cross vehicles also stopped rescuers from reaching the site.",
+      "published_at": "2026-04-23T04:25:30Z",
+      "country_code": "IL",
+      "country_name": "Israel"
+    },
+    {
+      "source": "BBC World",
       "title": "US Navy chief leaving post 'effective immediately', Pentagon says",
       "url": "https://www.bbc.com/news/articles/ce9ml02g5k7o?at_medium=RSS&at_campaign=rss",
       "summary": "US Navy Secretary John Phelan is the latest high-ranking military leader to leave the administration in recent months.",
@@ -20,7 +38,7 @@
       "country_name": "Canada"
     },
     {
-      "source": "BBC Asia",
+      "source": "BBC World",
       "title": "China weathered Trump's tariffs - but the Iran war is taking a toll",
       "url": "https://www.bbc.com/news/articles/cn0ep28drllo?at_medium=RSS&at_campaign=rss",
       "summary": "The Middle East conflict is putting pressure on factory orders, costs and jobs in China's export-driven economy.",
@@ -398,7 +416,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "The insider trading suspicions looming over Trump's presidency",
       "url": "https://www.bbc.com/news/articles/cge0grppe3po?at_medium=RSS&at_campaign=rss",
       "summary": "The BBC has found a pattern of spikes in trades ahead of public announcements by the US president.",
@@ -407,11 +425,20 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Middle East",
       "title": "Are insider traders making millions from the Iran war?",
       "url": "https://www.bbc.com/news/videos/c9qd9335838o?at_medium=RSS&at_campaign=rss",
       "summary": "The BBC has found significant spikes in activity shortly before the US president made some announcements.",
       "published_at": "2026-04-20T12:14:56Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC Middle East",
+      "title": "US releases video of forces seizing Iranian ship",
+      "url": "https://www.bbc.com/news/videos/c3w30l6qz49o?at_medium=RSS&at_campaign=rss",
+      "summary": "The US has intercepted an Iranian-flagged cargo ship in the Gulf as part of its naval blockade, Donald Trump has said.",
+      "published_at": "2026-04-20T07:29:42Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -423,15 +450,6 @@
       "published_at": "2026-04-20T06:46:03Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC Asia",
-      "title": "New Zealand declares state of emergency in Wellington as floods hit",
-      "url": "https://www.bbc.com/news/articles/cly75d9zvj3o?at_medium=RSS&at_campaign=rss",
-      "summary": "Footage online shows vehicles submerged, trees uprooted and houses hit by landslides.",
-      "published_at": "2026-04-20T05:48:54Z",
-      "country_code": "NZ",
-      "country_name": "New Zealand"
     },
     {
       "source": "BBC Middle East",
@@ -497,15 +515,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Middle East",
-      "title": "French peacekeeper killed in southern Lebanon",
-      "url": "https://www.bbc.com/news/articles/cvg4mrm2vm0o?at_medium=RSS&at_campaign=rss",
-      "summary": "President Macron blames the attack on Hezbollah. The Iran-backed armed group denies \"any connection\" to the incident.",
-      "published_at": "2026-04-19T11:39:47Z",
-      "country_code": "IR",
-      "country_name": "Iran"
-    },
-    {
       "source": "BBC Africa",
       "title": "'The weapons were loud, but there was always music': Sudanese band play on through the war",
       "url": "https://www.bbc.com/news/articles/cx2ddjv90v9o?at_medium=RSS&at_campaign=rss",
@@ -522,15 +531,6 @@
       "published_at": "2026-04-18T05:00:15Z",
       "country_code": "IR",
       "country_name": "Iran"
-    },
-    {
-      "source": "BBC Middle East",
-      "title": "UK and France to lead defensive mission in Strait of Hormuz",
-      "url": "https://www.bbc.com/news/articles/c5yjz819vmgo?at_medium=RSS&at_campaign=rss",
-      "summary": "Sir Keir Starmer has said further details of the plan will come after a meeting in London next week.",
-      "published_at": "2026-04-17T21:05:55Z",
-      "country_code": "GB",
-      "country_name": "United Kingdom"
     },
     {
       "source": "BBC Middle East",
@@ -798,17 +798,17 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 36
-    },
-    {
-      "country_code": "IR",
-      "country_name": "Iran",
-      "news_count": 7
+      "news_count": 37
     },
     {
       "country_code": "CN",
       "country_name": "China",
-      "news_count": 5
+      "news_count": 6
+    },
+    {
+      "country_code": "IR",
+      "country_name": "Iran",
+      "news_count": 6
     },
     {
       "country_code": "NG",
@@ -816,14 +816,9 @@
       "news_count": 5
     },
     {
-      "country_code": "GB",
-      "country_name": "United Kingdom",
-      "news_count": 3
-    },
-    {
       "country_code": "IL",
       "country_name": "Israel",
-      "news_count": 3
+      "news_count": 4
     },
     {
       "country_code": "SD",
@@ -838,6 +833,11 @@
     {
       "country_code": "AR",
       "country_name": "Argentina",
+      "news_count": 2
+    },
+    {
+      "country_code": "GB",
+      "country_name": "United Kingdom",
       "news_count": 2
     },
     {
@@ -908,11 +908,6 @@
     {
       "country_code": "MY",
       "country_name": "Malaysia",
-      "news_count": 1
-    },
-    {
-      "country_code": "NZ",
-      "country_name": "New Zealand",
       "news_count": 1
     },
     {
