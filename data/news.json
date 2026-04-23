@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-04-23T01:30:25Z",
+  "generated_at": "2026-04-23T04:43:14Z",
   "articles": [
+    {
+      "source": "BBC US & Canada",
+      "title": "US Navy chief leaving post 'effective immediately', Pentagon says",
+      "url": "https://www.bbc.com/news/articles/ce9ml02g5k7o?at_medium=RSS&at_campaign=rss",
+      "summary": "US Navy Secretary John Phelan is the latest high-ranking military leader to leave the administration in recent months.",
+      "published_at": "2026-04-23T01:56:20Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "Fire crews thaw rapper Drake’s giant ice installation in Toronto",
+      "url": "https://www.bbc.com/news/videos/c98kz3p0x9xo?at_medium=RSS&at_campaign=rss",
+      "summary": "Officials say the frozen blocks are being melted due to \"dangerous and unsafe activities\" after they were set up to promote the singer's alb…",
+      "published_at": "2026-04-23T00:25:21Z",
+      "country_code": "CA",
+      "country_name": "Canada"
+    },
     {
       "source": "BBC Asia",
       "title": "China weathered Trump's tariffs - but the Iran war is taking a toll",
@@ -270,15 +288,6 @@
       "published_at": "2026-04-21T16:13:27Z",
       "country_code": "IL",
       "country_name": "Israel"
-    },
-    {
-      "source": "BBC Africa",
-      "title": "South Africa's police boss charged in connection with controversial health contract",
-      "url": "https://www.bbc.com/news/articles/cn784g76v63o?at_medium=RSS&at_campaign=rss",
-      "summary": "Fannie Masemola is accused of failing in his duties to provide proper oversight in his role.",
-      "published_at": "2026-04-21T16:11:21Z",
-      "country_code": "ZA",
-      "country_name": "South Africa"
     },
     {
       "source": "BBC World",
@@ -789,7 +798,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 35
+      "news_count": 36
     },
     {
       "country_code": "IR",
@@ -852,11 +861,6 @@
       "news_count": 2
     },
     {
-      "country_code": "ZA",
-      "country_name": "South Africa",
-      "news_count": 2
-    },
-    {
       "country_code": "AE",
       "country_name": "United Arab Emirates",
       "news_count": 1
@@ -864,6 +868,11 @@
     {
       "country_code": "AU",
       "country_name": "Australia",
+      "news_count": 1
+    },
+    {
+      "country_code": "CA",
+      "country_name": "Canada",
       "news_count": 1
     },
     {
@@ -909,6 +918,11 @@
     {
       "country_code": "PL",
       "country_name": "Poland",
+      "news_count": 1
+    },
+    {
+      "country_code": "ZA",
+      "country_name": "South Africa",
       "news_count": 1
     }
   ]
