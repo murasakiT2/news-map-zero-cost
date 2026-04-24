@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-04-24T12:58:21Z",
+  "generated_at": "2026-04-24T14:44:12Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "No 10 says Falklands sovereignty rests with UK after report of US 'review'",
+      "url": "https://www.bbc.com/news/articles/cde51y0zgjyo?at_medium=RSS&at_campaign=rss",
+      "summary": "An internal Pentagon document reportedly raised the prospect of a change in position in retaliation for the UK not joining the Iran war.",
+      "published_at": "2026-04-24T14:17:38Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Behind Nigeria's murky coup plot - the money, the prayers and a Nollywood arrest",
+      "url": "https://www.bbc.com/news/articles/c4gj1w5lqw7o?at_medium=RSS&at_campaign=rss",
+      "summary": "What court papers and sources close to the investigation have told the BBC about the scope of the plan.",
+      "published_at": "2026-04-24T13:57:20Z",
+      "country_code": "NG",
+      "country_name": "Nigeria"
+    },
     {
       "source": "BBC World",
       "title": "South Africa's top envoy to Ghana summoned over attacks on foreigners",
@@ -9,15 +27,6 @@
       "published_at": "2026-04-24T12:39:00Z",
       "country_code": "ZA",
       "country_name": "South Africa"
-    },
-    {
-      "source": "BBC World",
-      "title": "No 10 says Falklands sovereignty rests with UK after report of US 'review'",
-      "url": "https://www.bbc.com/news/articles/cde51y0zgjyo?at_medium=RSS&at_campaign=rss",
-      "summary": "An internal Pentagon document reportedly raised the prospect of a change in position in retaliation for the UK not joining the Iran war.",
-      "published_at": "2026-04-24T12:20:55Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC Europe",
@@ -425,7 +434,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Middle East",
+      "source": "BBC Latin America",
       "title": "UAE-backed Colombian mercenaries provided support to Sudan paramilitary, report says",
       "url": "https://www.bbc.com/news/articles/cn4vk13wgwwo?at_medium=RSS&at_campaign=rss",
       "summary": "The Conflict Insights Group (CIG) says its research also shows the extent of UAE involvement.",
@@ -822,7 +831,7 @@
     {
       "country_code": "NG",
       "country_name": "Nigeria",
-      "news_count": 5
+      "news_count": 6
     },
     {
       "country_code": "GB",
