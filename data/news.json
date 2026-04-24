@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-04-24T01:29:42Z",
+  "generated_at": "2026-04-24T04:38:10Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Trump tells BBC that King's visit could 'absolutely' help repair relations with UK",
+      "url": "https://www.bbc.com/news/articles/cx2wdegnzzjo?at_medium=RSS&at_campaign=rss",
+      "summary": "In a phone interview with the BBC's North America editor, the president discussed next week's visit and his relationship with the UK PM.",
+      "published_at": "2026-04-24T03:03:55Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "White House memo claims mass AI theft by Chinese firms",
+      "url": "https://www.bbc.com/news/articles/cpqxgxx9nrqo?at_medium=RSS&at_campaign=rss",
+      "summary": "A memo from Michael Kratsios says firms, mainly in China, are wrongfully distilling US AI models.",
+      "published_at": "2026-04-24T00:58:58Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "Headscarf with a beret: Muslim designers showcase floral dresses and boxy streetwear in Paris",
@@ -38,6 +56,15 @@
       "country_name": "United States"
     },
     {
+      "source": "BBC US & Canada",
+      "title": "Trump says Israel-Lebanon ceasefire to be extended by three weeks",
+      "url": "https://www.bbc.com/news/articles/c62kyk5j28do?at_medium=RSS&at_campaign=rss",
+      "summary": "Envoys from the two countries met in Washington as the fragile truce was due to expire on Sunday.",
+      "published_at": "2026-04-23T22:50:50Z",
+      "country_code": "IL",
+      "country_name": "Israel"
+    },
+    {
       "source": "BBC World",
       "title": "US boards ship carrying Iran oil as Trump threatens mine-laying vessels",
       "url": "https://www.bbc.com/news/articles/cgldw5ekrjpo?at_medium=RSS&at_campaign=rss",
@@ -70,15 +97,6 @@
       "url": "https://www.bbc.com/news/videos/c4g81pke0nwo?at_medium=RSS&at_campaign=rss",
       "summary": "Fifa has no plans to replace Iran with Italy at this summer's World Cup according to sources, after the switch was proposed by US President …",
       "published_at": "2026-04-23T18:01:53Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "Trump tells BBC that King's visit could 'absolutely' help repair relations with UK",
-      "url": "https://www.bbc.com/news/articles/cx2wdegnzzjo?at_medium=RSS&at_campaign=rss",
-      "summary": "In a phone interview with the BBC's North America editor, the president discussed next week's visit and his relationship with the UK PM.",
-      "published_at": "2026-04-23T17:36:11Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -304,15 +322,6 @@
       "url": "https://www.bbc.com/sport/basketball/articles/c5yxz41yjl0o?at_medium=RSS&at_campaign=rss",
       "summary": "Madina Okot only started playing basketball six years ago, but the Kenyan's rapid rise has seen her set a WNBA milestone at the age of 21.",
       "published_at": "2026-04-22T12:10:25Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "US charges anti-extremism organisation over payments to informants in hate groups",
-      "url": "https://www.bbc.com/news/articles/clyrkd022ejo?at_medium=RSS&at_campaign=rss",
-      "summary": "The Southern Poverty Law Center said it would \"vigorously defend ourselves, our staff, and our work\".",
-      "published_at": "2026-04-22T09:09:50Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -820,13 +829,13 @@
       "news_count": 6
     },
     {
-      "country_code": "CN",
-      "country_name": "China",
-      "news_count": 4
-    },
-    {
       "country_code": "IL",
       "country_name": "Israel",
+      "news_count": 5
+    },
+    {
+      "country_code": "CN",
+      "country_name": "China",
       "news_count": 4
     },
     {
