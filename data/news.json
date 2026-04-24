@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-04-24T22:31:44Z",
+  "generated_at": "2026-04-24T23:32:01Z",
   "articles": [
     {
-      "source": "BBC World",
-      "title": "Trump's envoys Witkoff and Kushner to fly to Pakistan for Iran talks",
-      "url": "https://www.bbc.com/news/articles/cy8103xklreo?at_medium=RSS&at_campaign=rss",
-      "summary": "Iran says its Foreign Minister Abbas Araghchi is already in Pakistan but that there is no meeting planned between Iran and the US.",
-      "published_at": "2026-04-24T22:02:50Z",
+      "source": "BBC US & Canada",
+      "title": "Meeting with the King would 'demonstrate human dignity', says Epstein survivor",
+      "url": "https://www.bbc.com/news/videos/cwy37w2y64ro?at_medium=RSS&at_campaign=rss",
+      "summary": "A Buckingham Palace source confirmed the Royals will not meet with survivors of sex offender Jeffrey Epstein during their state visit to the…",
+      "published_at": "2026-04-24T23:00:21Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -15,7 +15,34 @@
       "title": "No 10 says Falklands sovereignty rests with UK after report of US 'review'",
       "url": "https://www.bbc.com/news/articles/cde51y0zgjyo?at_medium=RSS&at_campaign=rss",
       "summary": "An internal Pentagon document reportedly raised the prospect of a change in position in retaliation for the UK not joining the Iran war.",
-      "published_at": "2026-04-24T21:04:23Z",
+      "published_at": "2026-04-24T22:55:05Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "OpenAI boss 'deeply sorry' for not telling police of mass shooting suspect's account",
+      "url": "https://www.bbc.com/news/articles/cq6je7e80r7o?at_medium=RSS&at_campaign=rss",
+      "summary": "Sam Altman on Thursday wrote a brief letter of apology to the people of Tumbler Ridge, Canada in the wake of a January mass shooting.",
+      "published_at": "2026-04-24T22:45:28Z",
+      "country_code": "CA",
+      "country_name": "Canada"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "US to allow firing squads, gas, and electrocution for federal executions",
+      "url": "https://www.bbc.com/news/articles/cg73l2d079ko?at_medium=RSS&at_campaign=rss",
+      "summary": "In a memo, the Department of Justice says the move will \"strengthen\" the death penalty and deter crime.",
+      "published_at": "2026-04-24T22:15:15Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Trump's envoys Witkoff and Kushner to fly to Pakistan for Iran talks",
+      "url": "https://www.bbc.com/news/articles/cy8103xklreo?at_medium=RSS&at_campaign=rss",
+      "summary": "Iran says its Foreign Minister Abbas Araghchi is already in Pakistan but that there is no meeting planned between Iran and the US.",
+      "published_at": "2026-04-24T22:02:50Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -807,7 +834,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 33
+      "news_count": 35
     },
     {
       "country_code": "IR",
@@ -850,6 +877,11 @@
       "news_count": 2
     },
     {
+      "country_code": "CA",
+      "country_name": "Canada",
+      "news_count": 2
+    },
+    {
       "country_code": "CN",
       "country_name": "China",
       "news_count": 2
@@ -877,11 +909,6 @@
     {
       "country_code": "AE",
       "country_name": "United Arab Emirates",
-      "news_count": 1
-    },
-    {
-      "country_code": "CA",
-      "country_name": "Canada",
       "news_count": 1
     },
     {
