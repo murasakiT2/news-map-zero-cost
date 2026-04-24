@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-04-24T06:58:32Z",
+  "generated_at": "2026-04-24T08:59:26Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "South Korea police arrest man for posting AI photo of runaway wolf",
+      "url": "https://www.bbc.com/news/articles/c4gx1n0dl9no?at_medium=RSS&at_campaign=rss",
+      "summary": "The widely circulated image had prompted authorities to move their search operation.",
+      "published_at": "2026-04-24T08:23:36Z",
+      "country_code": "KR",
+      "country_name": "South Korea"
+    },
     {
       "source": "BBC Asia",
       "title": "Philippines' Duterte to stand trial as ICC confirms crimes against humanity charges",
@@ -9,15 +18,6 @@
       "published_at": "2026-04-24T06:14:53Z",
       "country_code": "PH",
       "country_name": "Philippines"
-    },
-    {
-      "source": "BBC World",
-      "title": "Steve Rosenberg: Kremlin's tightening grip on internet fuels public discontent",
-      "url": "https://www.bbc.com/news/articles/cr510de17jlo?at_medium=RSS&at_campaign=rss",
-      "summary": "Throughout Russia, internet usage has become seriously restricted. Citizens are drawing comparison to Soviet censorship and today's digital …",
-      "published_at": "2026-04-24T05:00:29Z",
-      "country_code": "RU",
-      "country_name": "Russia"
     },
     {
       "source": "BBC World",
@@ -75,7 +75,7 @@
     },
     {
       "source": "BBC US & Canada",
-      "title": "'Missing scientist' cases have stoked wild speculation. For loved ones, the theories are hurtful",
+      "title": "Relatives of 10 scientists who died or vanished grapple with impact of wild speculation",
       "url": "https://www.bbc.com/news/articles/cwyw9rpdl4po?at_medium=RSS&at_campaign=rss",
       "summary": "Conspiracies are running rampant online after the deaths or disappearances of at least 10 people tied to sensitive US research.",
       "published_at": "2026-04-23T22:52:20Z",
@@ -128,7 +128,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC US & Canada",
+      "source": "BBC World",
       "title": "My five-minute phone call with President Trump",
       "url": "https://www.bbc.com/news/videos/c624yr5p3kpo?at_medium=RSS&at_campaign=rss",
       "summary": "Sarah Smith asked the president about King Charles's upcoming visit, the state of the so-called special relationship and the war with Iran.",
@@ -155,7 +155,7 @@
       "country_name": "Australia"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Middle East",
       "title": "US-Kuwaiti journalist held in Kuwait over social media posts acquitted, lawyers say",
       "url": "https://www.bbc.com/news/articles/cy81ljrd445o?at_medium=RSS&at_campaign=rss",
       "summary": "Ahmed Shihab-Eldin reportedly faced charges, including spreading false information, after he re-posted images related to the Iran war.",
@@ -209,7 +209,7 @@
       "country_name": "Iran"
     },
     {
-      "source": "BBC Europe",
+      "source": "BBC World",
       "title": "BBC visits migrant camp in northern France as new deal announced",
       "url": "https://www.bbc.com/news/videos/cgrl891xkpvo?at_medium=RSS&at_campaign=rss",
       "summary": "A proposed three-year deal with Paris is aimed at stopping migrants crossing the Channel on small boats.",
@@ -218,7 +218,7 @@
       "country_name": "France"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "US Navy chief leaving post 'effective immediately', Pentagon says",
       "url": "https://www.bbc.com/news/articles/ce9ml02g5k7o?at_medium=RSS&at_campaign=rss",
       "summary": "Reports say Phelan, whose role was largely administrative, left amid tension over US shipbuilding.",
@@ -308,22 +308,13 @@
       "country_name": "Iran"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "EU approves €90bn loan for Ukraine as pipeline is turned on ending deadlock",
       "url": "https://www.bbc.com/news/articles/cnv8l99r3yyo?at_medium=RSS&at_campaign=rss",
       "summary": "Ukraine says it has reopened the Druzhba pipeline, after months of stalemate over stalled oil supplies to neighbouring Hungary.",
       "published_at": "2026-04-22T17:48:44Z",
       "country_code": "UA",
       "country_name": "Ukraine"
-    },
-    {
-      "source": "BBC World",
-      "title": "Nigeria's suspected coup plotters deny treason charges",
-      "url": "https://www.bbc.com/news/articles/c0krlxg384eo?at_medium=RSS&at_campaign=rss",
-      "summary": "Allegations of a coup plot first surfaced last year when an Independence Day parade was cancelled.",
-      "published_at": "2026-04-22T17:33:30Z",
-      "country_code": "NG",
-      "country_name": "Nigeria"
     },
     {
       "source": "BBC Middle East",
@@ -335,7 +326,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "Lufthansa cuts 20,000 summer flights as fuel prices surge",
       "url": "https://www.bbc.com/news/articles/cre1r4n5j5wo?at_medium=RSS&at_campaign=rss",
       "summary": "The airline is the latest to cut flights as the US-Israel war with Iran sends jet fuel prices soaring.",
@@ -380,15 +371,6 @@
       "country_name": "Malaysia"
     },
     {
-      "source": "BBC Asia",
-      "title": "Thirteen killed in second India fireworks blast in three days",
-      "url": "https://www.bbc.com/news/articles/cwydzddp4j9o?at_medium=RSS&at_campaign=rss",
-      "summary": "Earlier this week, an explosion at a firecracker factory in neighbouring state Tamil Nadu left at least 25 dead.",
-      "published_at": "2026-04-22T05:55:18Z",
-      "country_code": "IN",
-      "country_name": "India"
-    },
-    {
       "source": "BBC Middle East",
       "title": "UAE-backed Colombian mercenaries provided support to Sudan paramilitary, report says",
       "url": "https://www.bbc.com/news/articles/cn4vk13wgwwo?at_medium=RSS&at_campaign=rss",
@@ -396,15 +378,6 @@
       "published_at": "2026-04-22T04:01:50Z",
       "country_code": "AE",
       "country_name": "United Arab Emirates"
-    },
-    {
-      "source": "BBC Asia",
-      "title": "Domestic workers legally recognised in Indonesia after '22-year struggle'",
-      "url": "https://www.bbc.com/news/articles/c1mkvjkg10no?at_medium=RSS&at_campaign=rss",
-      "summary": "The country is home to some 4.2 million domestic workers - of which almost 90% are women.",
-      "published_at": "2026-04-22T02:55:40Z",
-      "country_code": "ID",
-      "country_name": "Indonesia"
     },
     {
       "source": "BBC US & Canada",
@@ -520,6 +493,15 @@
       "url": "https://www.bbc.com/news/articles/cge0grppe3po?at_medium=RSS&at_campaign=rss",
       "summary": "The BBC has found a pattern of spikes in trades ahead of public announcements by the US president.",
       "published_at": "2026-04-20T13:53:22Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Are insider traders making millions from the Iran war?",
+      "url": "https://www.bbc.com/news/videos/c9qd9335838o?at_medium=RSS&at_campaign=rss",
+      "summary": "The BBC has found significant spikes in activity shortly before the US president made some announcements.",
+      "published_at": "2026-04-20T12:14:56Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -816,7 +798,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 37
+      "news_count": 38
     },
     {
       "country_code": "IR",
@@ -831,7 +813,7 @@
     {
       "country_code": "NG",
       "country_name": "Nigeria",
-      "news_count": 6
+      "news_count": 5
     },
     {
       "country_code": "CN",
@@ -841,11 +823,6 @@
     {
       "country_code": "GB",
       "country_name": "United Kingdom",
-      "news_count": 3
-    },
-    {
-      "country_code": "IN",
-      "country_name": "India",
       "news_count": 3
     },
     {
@@ -861,6 +838,11 @@
     {
       "country_code": "FR",
       "country_name": "France",
+      "news_count": 2
+    },
+    {
+      "country_code": "IN",
+      "country_name": "India",
       "news_count": 2
     },
     {
@@ -894,11 +876,6 @@
       "news_count": 1
     },
     {
-      "country_code": "ID",
-      "country_name": "Indonesia",
-      "news_count": 1
-    },
-    {
       "country_code": "IT",
       "country_name": "Italy",
       "news_count": 1
@@ -906,6 +883,11 @@
     {
       "country_code": "KE",
       "country_name": "Kenya",
+      "news_count": 1
+    },
+    {
+      "country_code": "KR",
+      "country_name": "South Korea",
       "news_count": 1
     },
     {
@@ -931,11 +913,6 @@
     {
       "country_code": "PS",
       "country_name": "Palestine",
-      "news_count": 1
-    },
-    {
-      "country_code": "RU",
-      "country_name": "Russia",
       "news_count": 1
     },
     {
