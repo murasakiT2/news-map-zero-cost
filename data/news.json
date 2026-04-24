@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-04-24T17:42:46Z",
+  "generated_at": "2026-04-24T18:36:39Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "US justice department drops probe into Fed chairman Jerome Powell",
+      "url": "https://www.bbc.com/news/articles/cdxd1v0028vo?at_medium=RSS&at_campaign=rss",
+      "summary": "President Donald Trump had accused Powell of improper cost overruns in renovating the Fed's building.",
+      "published_at": "2026-04-24T18:09:20Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Why is this game only legal across Australia one day a year?",
+      "url": "https://www.bbc.com/news/videos/ceqw389d5yvo?at_medium=RSS&at_campaign=rss",
+      "summary": "Two-up is a coin toss betting game that was played by Australian soldiers during World War One - it’s now only legal across Australia on 25 …",
+      "published_at": "2026-04-24T18:05:14Z",
+      "country_code": "AU",
+      "country_name": "Australia"
+    },
     {
       "source": "BBC World",
       "title": "No 10 says Falklands sovereignty rests with UK after report of US 'review'",
@@ -27,15 +45,6 @@
       "published_at": "2026-04-24T16:38:51Z",
       "country_code": "IR",
       "country_name": "Iran"
-    },
-    {
-      "source": "BBC World",
-      "title": "US justice department drops probe into Fed chairman Jerome Powell",
-      "url": "https://www.bbc.com/news/articles/cdxd1v0028vo?at_medium=RSS&at_campaign=rss",
-      "summary": "President Donald Trump had accused Powell of improper cost overruns in renovating the Fed's building.",
-      "published_at": "2026-04-24T16:21:41Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC World",
@@ -74,7 +83,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Africa",
       "title": "Behind Nigeria's murky coup plot - the money, the prayers and a Nollywood arrest",
       "url": "https://www.bbc.com/news/articles/c4gj1w5lqw7o?at_medium=RSS&at_campaign=rss",
       "summary": "What court papers and sources close to the investigation have told the BBC about the scope of the plan.",
@@ -351,15 +360,6 @@
       "published_at": "2026-04-22T23:37:11Z",
       "country_code": "NG",
       "country_name": "Nigeria"
-    },
-    {
-      "source": "BBC Asia",
-      "title": "China weathered Trump's tariffs - but the Iran war is taking a toll",
-      "url": "https://www.bbc.com/news/articles/cn0ep28drllo?at_medium=RSS&at_campaign=rss",
-      "summary": "The Middle East conflict is putting pressure on factory orders, costs and jobs in China's export-driven economy.",
-      "published_at": "2026-04-22T21:23:25Z",
-      "country_code": "CN",
-      "country_name": "China"
     },
     {
       "source": "BBC Asia",
@@ -816,11 +816,6 @@
       "news_count": 6
     },
     {
-      "country_code": "CN",
-      "country_name": "China",
-      "news_count": 3
-    },
-    {
       "country_code": "GB",
       "country_name": "United Kingdom",
       "news_count": 3
@@ -838,6 +833,16 @@
     {
       "country_code": "AR",
       "country_name": "Argentina",
+      "news_count": 2
+    },
+    {
+      "country_code": "AU",
+      "country_name": "Australia",
+      "news_count": 2
+    },
+    {
+      "country_code": "CN",
+      "country_name": "China",
       "news_count": 2
     },
     {
@@ -863,11 +868,6 @@
     {
       "country_code": "AE",
       "country_name": "United Arab Emirates",
-      "news_count": 1
-    },
-    {
-      "country_code": "AU",
-      "country_name": "Australia",
       "news_count": 1
     },
     {
