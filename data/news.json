@@ -1,14 +1,23 @@
 {
-  "generated_at": "2026-04-24T18:36:39Z",
+  "generated_at": "2026-04-24T19:43:22Z",
   "articles": [
     {
       "source": "BBC World",
       "title": "US justice department drops probe into Fed chairman Jerome Powell",
       "url": "https://www.bbc.com/news/articles/cdxd1v0028vo?at_medium=RSS&at_campaign=rss",
       "summary": "President Donald Trump had accused Powell of improper cost overruns in renovating the Fed's building.",
-      "published_at": "2026-04-24T18:09:20Z",
+      "published_at": "2026-04-24T19:10:25Z",
       "country_code": "US",
       "country_name": "United States"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "Watch: Demonstrators display 20,000 teddy bears for missing Ukrainian children",
+      "url": "https://www.bbc.com/news/videos/c0mjd1z08ero?at_medium=RSS&at_campaign=rss",
+      "summary": "Each bear in the installation in Washington, DC, is meant to represent one of the children Ukraine says have been abducted by Russia.",
+      "published_at": "2026-04-24T18:48:31Z",
+      "country_code": "RU",
+      "country_name": "Russia"
     },
     {
       "source": "BBC World",
@@ -83,7 +92,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Africa",
+      "source": "BBC World",
       "title": "Behind Nigeria's murky coup plot - the money, the prayers and a Nollywood arrest",
       "url": "https://www.bbc.com/news/articles/c4gj1w5lqw7o?at_medium=RSS&at_campaign=rss",
       "summary": "What court papers and sources close to the investigation have told the BBC about the scope of the plan.",
@@ -234,15 +243,6 @@
       "published_at": "2026-04-23T22:50:50Z",
       "country_code": "IL",
       "country_name": "Israel"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "US government watchdog to investigate Epstein files release",
-      "url": "https://www.bbc.com/news/articles/cvg0rkvjlvvo?at_medium=RSS&at_campaign=rss",
-      "summary": "The justice department's inspector general will review the withholding and overdue release of secret files.",
-      "published_at": "2026-04-23T20:40:19Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC Europe",
@@ -798,7 +798,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 33
+      "news_count": 32
     },
     {
       "country_code": "IR",
@@ -913,6 +913,11 @@
     {
       "country_code": "PL",
       "country_name": "Poland",
+      "news_count": 1
+    },
+    {
+      "country_code": "RU",
+      "country_name": "Russia",
       "news_count": 1
     },
     {
