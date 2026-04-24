@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-04-24T04:38:10Z",
+  "generated_at": "2026-04-24T06:58:32Z",
   "articles": [
+    {
+      "source": "BBC Asia",
+      "title": "Philippines' Duterte to stand trial as ICC confirms crimes against humanity charges",
+      "url": "https://www.bbc.com/news/articles/c8x7z5g5eydo?at_medium=RSS&at_campaign=rss",
+      "summary": "Ex-president Rodrigo Duterte is accused of the extrajudicial killing of thousands during his \"war on drugs\".",
+      "published_at": "2026-04-24T06:14:53Z",
+      "country_code": "PH",
+      "country_name": "Philippines"
+    },
+    {
+      "source": "BBC World",
+      "title": "Steve Rosenberg: Kremlin's tightening grip on internet fuels public discontent",
+      "url": "https://www.bbc.com/news/articles/cr510de17jlo?at_medium=RSS&at_campaign=rss",
+      "summary": "Throughout Russia, internet usage has become seriously restricted. Citizens are drawing comparison to Soviet censorship and today's digital …",
+      "published_at": "2026-04-24T05:00:29Z",
+      "country_code": "RU",
+      "country_name": "Russia"
+    },
     {
       "source": "BBC World",
       "title": "Trump tells BBC that King's visit could 'absolutely' help repair relations with UK",
@@ -9,6 +27,15 @@
       "published_at": "2026-04-24T03:03:55Z",
       "country_code": "US",
       "country_name": "United States"
+    },
+    {
+      "source": "BBC Middle East",
+      "title": "Couple discovers Lebanon home destroyed by Israel from satellite image",
+      "url": "https://www.bbc.com/news/articles/cvg30jkvklno?at_medium=RSS&at_campaign=rss",
+      "summary": "Joe Elias contacted BBC Verify following reports that his village was among several destroyed by Israeli forces.",
+      "published_at": "2026-04-24T02:58:42Z",
+      "country_code": "IL",
+      "country_name": "Israel"
     },
     {
       "source": "BBC World",
@@ -144,6 +171,15 @@
       "published_at": "2026-04-23T13:57:44Z",
       "country_code": "IT",
       "country_name": "Italy"
+    },
+    {
+      "source": "BBC Europe",
+      "title": "Injured Lamine Yamal 'expected to be fit' for World Cup",
+      "url": "https://www.bbc.com/sport/football/articles/cly60l1e6nxo?at_medium=RSS&at_campaign=rss",
+      "summary": "Lamine Yamal will miss the rest of Barcelona's season with a hamstring injury but he is expected to return for Spain at the World Cup.",
+      "published_at": "2026-04-23T13:16:56Z",
+      "country_code": "ES",
+      "country_name": "Spain"
     },
     {
       "source": "BBC Middle East",
@@ -416,15 +452,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Middle East",
-      "title": "Two Palestinians killed during settler attack on West Bank village, officials say",
-      "url": "https://www.bbc.com/news/articles/cp864d661rro?at_medium=RSS&at_campaign=rss",
-      "summary": "A 14-year-old boy was among those shot dead, according to the mayor of al-Mughayyir.",
-      "published_at": "2026-04-21T17:17:33Z",
-      "country_code": "PS",
-      "country_name": "Palestine"
-    },
-    {
       "source": "BBC Europe",
       "title": "Zelensky says failure of US envoys to visit Kyiv is 'disrespectful'",
       "url": "https://www.bbc.com/news/articles/cd9v420y190o?at_medium=RSS&at_campaign=rss",
@@ -470,15 +497,6 @@
       "country_name": "United Kingdom"
     },
     {
-      "source": "BBC Asia",
-      "title": "Japan loosens arms export rules in break from post-WW2 pacifism",
-      "url": "https://www.bbc.com/news/articles/clyx4vlqy4vo?at_medium=RSS&at_campaign=rss",
-      "summary": "This clears the way for Japan to sell weapons to more than a dozen countries.",
-      "published_at": "2026-04-21T10:13:54Z",
-      "country_code": "JP",
-      "country_name": "Japan"
-    },
-    {
       "source": "BBC Africa",
       "title": "Korir defends Boston Marathon title with course record",
       "url": "https://www.bbc.com/sport/athletics/articles/cwyxjzjdvp4o?at_medium=RSS&at_campaign=rss",
@@ -486,15 +504,6 @@
       "published_at": "2026-04-20T18:30:47Z",
       "country_code": "KE",
       "country_name": "Kenya"
-    },
-    {
-      "source": "BBC Europe",
-      "title": "Elon Musk snubs interview summons by French prosecutors amid X probe",
-      "url": "https://www.bbc.com/news/articles/crk151nn7j3o?at_medium=RSS&at_campaign=rss",
-      "summary": "The Paris prosecutor's office told the BBC it had \"taken note of the absence of the people summoned\".",
-      "published_at": "2026-04-20T15:44:44Z",
-      "country_code": "FR",
-      "country_name": "France"
     },
     {
       "source": "BBC US & Canada",
@@ -540,15 +549,6 @@
       "published_at": "2026-04-19T23:07:52Z",
       "country_code": "GB",
       "country_name": "United Kingdom"
-    },
-    {
-      "source": "BBC Asia",
-      "title": "Art on trial - a sculptor's arrest highlights new extremes for censorship in China",
-      "url": "https://www.bbc.com/news/articles/cddqpr7z74yo?at_medium=RSS&at_campaign=rss",
-      "summary": "Gao Zhen is being retroactively punished for 15 year-old-works, in a case that has alarmed rights groups.",
-      "published_at": "2026-04-19T22:53:18Z",
-      "country_code": "CN",
-      "country_name": "China"
     },
     {
       "source": "BBC Africa",
@@ -824,23 +824,18 @@
       "news_count": 7
     },
     {
+      "country_code": "IL",
+      "country_name": "Israel",
+      "news_count": 6
+    },
+    {
       "country_code": "NG",
       "country_name": "Nigeria",
       "news_count": 6
     },
     {
-      "country_code": "IL",
-      "country_name": "Israel",
-      "news_count": 5
-    },
-    {
       "country_code": "CN",
       "country_name": "China",
-      "news_count": 4
-    },
-    {
-      "country_code": "FR",
-      "country_name": "France",
       "news_count": 3
     },
     {
@@ -859,8 +854,13 @@
       "news_count": 2
     },
     {
-      "country_code": "PS",
-      "country_name": "Palestine",
+      "country_code": "ES",
+      "country_name": "Spain",
+      "news_count": 2
+    },
+    {
+      "country_code": "FR",
+      "country_name": "France",
       "news_count": 2
     },
     {
@@ -889,11 +889,6 @@
       "news_count": 1
     },
     {
-      "country_code": "ES",
-      "country_name": "Spain",
-      "news_count": 1
-    },
-    {
       "country_code": "ET",
       "country_name": "Ethiopia",
       "news_count": 1
@@ -906,11 +901,6 @@
     {
       "country_code": "IT",
       "country_name": "Italy",
-      "news_count": 1
-    },
-    {
-      "country_code": "JP",
-      "country_name": "Japan",
       "news_count": 1
     },
     {
@@ -929,8 +919,23 @@
       "news_count": 1
     },
     {
+      "country_code": "PH",
+      "country_name": "Philippines",
+      "news_count": 1
+    },
+    {
       "country_code": "PL",
       "country_name": "Poland",
+      "news_count": 1
+    },
+    {
+      "country_code": "PS",
+      "country_name": "Palestine",
+      "news_count": 1
+    },
+    {
+      "country_code": "RU",
+      "country_name": "Russia",
       "news_count": 1
     },
     {
