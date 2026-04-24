@@ -1,6 +1,33 @@
 {
-  "generated_at": "2026-04-23T23:35:57Z",
+  "generated_at": "2026-04-24T01:29:42Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Headscarf with a beret: Muslim designers showcase floral dresses and boxy streetwear in Paris",
+      "url": "https://www.bbc.com/news/articles/cx23zmxd2z3o?at_medium=RSS&at_campaign=rss",
+      "summary": "Some young attendees say the event demonstrated a more inclusive French culture taking shape.",
+      "published_at": "2026-04-24T00:34:04Z",
+      "country_code": "FR",
+      "country_name": "France"
+    },
+    {
+      "source": "BBC World",
+      "title": "US soldier charged after winning $400,000 betting on removal of Maduro",
+      "url": "https://www.bbc.com/news/articles/c20832yg5p2o?at_medium=RSS&at_campaign=rss",
+      "summary": "Gannon Ken Van Dyke allegedly made trades on Polymarket on the basis of classified information, the justice department says.",
+      "published_at": "2026-04-24T00:21:32Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "A rumour, a lynching in India and a long wait for justice",
+      "url": "https://www.bbc.com/news/articles/cly07kk2pm2o?at_medium=RSS&at_campaign=rss",
+      "summary": "A court has convicted 20 people for the 2018 mob lynching of two men falsely accused of kidnapping children.",
+      "published_at": "2026-04-23T23:30:52Z",
+      "country_code": "IN",
+      "country_name": "India"
+    },
     {
       "source": "BBC US & Canada",
       "title": "'Missing scientist' cases have stoked wild speculation. For loved ones, the theories are hurtful",
@@ -20,7 +47,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC US & Canada",
+      "source": "BBC World",
       "title": "US government watchdog to investigate Epstein files release",
       "url": "https://www.bbc.com/news/articles/cvg0rkvjlvvo?at_medium=RSS&at_campaign=rss",
       "summary": "The justice department's inspector general will review the withholding and overdue release of secret files.",
@@ -191,7 +218,7 @@
       "country_name": "Nigeria"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "China weathered Trump's tariffs - but the Iran war is taking a toll",
       "url": "https://www.bbc.com/news/articles/cn0ep28drllo?at_medium=RSS&at_campaign=rss",
       "summary": "The Middle East conflict is putting pressure on factory orders, costs and jobs in China's export-driven economy.",
@@ -245,7 +272,7 @@
       "country_name": "Nigeria"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Middle East",
       "title": "US and Iran in blockade standoff as Pakistan pushes for talks",
       "url": "https://www.bbc.com/news/articles/c0q9xq7knq2o?at_medium=RSS&at_campaign=rss",
       "summary": "The mood in the Strait of Hormuz remains combustible despite Trump's ceasefire extension.",
@@ -263,22 +290,13 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "No cartels involved - but Mexico's pyramid attack prompts new concerns",
       "url": "https://www.bbc.com/news/articles/cre1r5gdq04o?at_medium=RSS&at_campaign=rss",
       "summary": "The deadly shooting at a popular tourist site weeks before the World Cup has rocked Mexico.",
       "published_at": "2026-04-22T14:50:52Z",
       "country_code": "MX",
       "country_name": "Mexico"
-    },
-    {
-      "source": "BBC World",
-      "title": "Los Angeles becomes first major US school district to limit classroom screen time",
-      "url": "https://www.bbc.com/news/articles/c15d888ww39o?at_medium=RSS&at_campaign=rss",
-      "summary": "The school district, which serves about half a million students, is looking to reduce its reliance on devices after the pandemic.",
-      "published_at": "2026-04-22T14:22:59Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC Africa",
@@ -317,15 +335,6 @@
       "country_name": "Malaysia"
     },
     {
-      "source": "BBC World",
-      "title": "Taiwan president cancels trip after African countries revoke flight permits",
-      "url": "https://www.bbc.com/news/articles/crl16p72x7xo?at_medium=RSS&at_campaign=rss",
-      "summary": "Taiwan has accused Beijing of putting pressure on African countries to close their airspace to Lai's plane.",
-      "published_at": "2026-04-22T06:25:15Z",
-      "country_code": "CN",
-      "country_name": "China"
-    },
-    {
       "source": "BBC Asia",
       "title": "Thirteen killed in second India fireworks blast in three days",
       "url": "https://www.bbc.com/news/articles/cwydzddp4j9o?at_medium=RSS&at_campaign=rss",
@@ -335,7 +344,7 @@
       "country_name": "India"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Middle East",
       "title": "UAE-backed Colombian mercenaries provided support to Sudan paramilitary, report says",
       "url": "https://www.bbc.com/news/articles/cn4vk13wgwwo?at_medium=RSS&at_campaign=rss",
       "summary": "The Conflict Insights Group (CIG) says its research also shows the extent of UAE involvement.",
@@ -353,7 +362,7 @@
       "country_name": "Indonesia"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "Trump buys time for Iran deal after frantic day of diplomacy",
       "url": "https://www.bbc.com/news/articles/cvg4yr90jr2o?at_medium=RSS&at_campaign=rss",
       "summary": "The US president's decision marked the second time in as many weeks he has backed off a threat to escalate the war, buying more time.",
@@ -813,7 +822,7 @@
     {
       "country_code": "CN",
       "country_name": "China",
-      "news_count": 5
+      "news_count": 4
     },
     {
       "country_code": "IL",
@@ -821,23 +830,23 @@
       "news_count": 4
     },
     {
+      "country_code": "FR",
+      "country_name": "France",
+      "news_count": 3
+    },
+    {
       "country_code": "GB",
       "country_name": "United Kingdom",
       "news_count": 3
     },
     {
-      "country_code": "AR",
-      "country_name": "Argentina",
-      "news_count": 2
-    },
-    {
-      "country_code": "FR",
-      "country_name": "France",
-      "news_count": 2
-    },
-    {
       "country_code": "IN",
       "country_name": "India",
+      "news_count": 3
+    },
+    {
+      "country_code": "AR",
+      "country_name": "Argentina",
       "news_count": 2
     },
     {
