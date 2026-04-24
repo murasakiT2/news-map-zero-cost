@@ -1,6 +1,33 @@
 {
-  "generated_at": "2026-04-24T16:53:14Z",
+  "generated_at": "2026-04-24T17:42:46Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "No 10 says Falklands sovereignty rests with UK after report of US 'review'",
+      "url": "https://www.bbc.com/news/articles/cde51y0zgjyo?at_medium=RSS&at_campaign=rss",
+      "summary": "An internal Pentagon document reportedly raised the prospect of a change in position in retaliation for the UK not joining the Iran war.",
+      "published_at": "2026-04-24T17:37:28Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "South Africa's top envoy to Ghana summoned over attacks on foreigners",
+      "url": "https://www.bbc.com/news/articles/cp38e5jgxqyo?at_medium=RSS&at_campaign=rss",
+      "summary": "A Ghanaian national was confronted by South Africans in a viral clip and questioned about his immigration status.",
+      "published_at": "2026-04-24T17:31:41Z",
+      "country_code": "ZA",
+      "country_name": "South Africa"
+    },
+    {
+      "source": "BBC World",
+      "title": "Who is making decisions in Iran?",
+      "url": "https://www.bbc.com/news/articles/cm29m732vgno?at_medium=RSS&at_campaign=rss",
+      "summary": "Iran's new supreme leader is supposed to have the final say, but in practice the picture is far murkier.",
+      "published_at": "2026-04-24T16:38:51Z",
+      "country_code": "IR",
+      "country_name": "Iran"
+    },
     {
       "source": "BBC World",
       "title": "US justice department drops probe into Fed chairman Jerome Powell",
@@ -18,15 +45,6 @@
       "published_at": "2026-04-24T16:20:10Z",
       "country_code": "PS",
       "country_name": "Palestine"
-    },
-    {
-      "source": "BBC World",
-      "title": "No 10 says Falklands sovereignty rests with UK after report of US 'review'",
-      "url": "https://www.bbc.com/news/articles/cde51y0zgjyo?at_medium=RSS&at_campaign=rss",
-      "summary": "An internal Pentagon document reportedly raised the prospect of a change in position in retaliation for the UK not joining the Iran war.",
-      "published_at": "2026-04-24T16:19:56Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC World",
@@ -65,15 +83,6 @@
       "country_name": "Nigeria"
     },
     {
-      "source": "BBC World",
-      "title": "South Africa's top envoy to Ghana summoned over attacks on foreigners",
-      "url": "https://www.bbc.com/news/articles/cp38e5jgxqyo?at_medium=RSS&at_campaign=rss",
-      "summary": "A Ghanaian national was confronted by South Africans in a viral clip and questioned about his immigration status.",
-      "published_at": "2026-04-24T12:39:00Z",
-      "country_code": "ZA",
-      "country_name": "South Africa"
-    },
-    {
       "source": "BBC Europe",
       "title": "Turkey to return to F1 calendar in 2027",
       "url": "https://www.bbc.com/sport/formula1/articles/c17v4g1nq7ko?at_medium=RSS&at_campaign=rss",
@@ -101,22 +110,13 @@
       "country_name": "Syria"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "British conwoman who claimed to be royalty hit with new charges in Singapore",
       "url": "https://www.bbc.com/news/articles/c87wz7445wno?at_medium=RSS&at_campaign=rss",
       "summary": "Dionne Marie Hanna, 85, is accused of duping more than two dozen people - including her own son.",
       "published_at": "2026-04-24T10:26:25Z",
       "country_code": "SG",
       "country_name": "Singapore"
-    },
-    {
-      "source": "BBC World",
-      "title": "UK biobank data incident caused by 'a few bad apples', boss says",
-      "url": "https://www.bbc.com/news/articles/clyedyn6pz7o?at_medium=RSS&at_campaign=rss",
-      "summary": "Professor Sir Rory Collins said he was \"angry\" and \"upset\" about the incident, as both the bank's boss and a participant.",
-      "published_at": "2026-04-24T10:00:42Z",
-      "country_code": "GB",
-      "country_name": "United Kingdom"
     },
     {
       "source": "BBC Europe",
@@ -191,7 +191,7 @@
       "country_name": "France"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "US soldier charged after winning $400,000 betting on removal of Maduro",
       "url": "https://www.bbc.com/news/articles/c20832yg5p2o?at_medium=RSS&at_campaign=rss",
       "summary": "Gannon Ken Van Dyke allegedly made trades on Polymarket on the basis of classified information, the justice department says.",
@@ -403,15 +403,6 @@
       "url": "https://www.bbc.com/news/articles/c0q9xq7knq2o?at_medium=RSS&at_campaign=rss",
       "summary": "The mood in the Strait of Hormuz remains combustible despite Trump's ceasefire extension.",
       "published_at": "2026-04-22T16:19:36Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC Europe",
-      "title": "Lufthansa cuts 20,000 summer flights as fuel prices surge",
-      "url": "https://www.bbc.com/news/articles/cre1r4n5j5wo?at_medium=RSS&at_campaign=rss",
-      "summary": "The airline is the latest to cut flights as the US-Israel war with Iran sends jet fuel prices soaring.",
-      "published_at": "2026-04-22T15:00:40Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -807,16 +798,16 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 34
-    },
-    {
-      "country_code": "IL",
-      "country_name": "Israel",
-      "news_count": 6
+      "news_count": 33
     },
     {
       "country_code": "IR",
       "country_name": "Iran",
+      "news_count": 7
+    },
+    {
+      "country_code": "IL",
+      "country_name": "Israel",
       "news_count": 6
     },
     {
@@ -825,13 +816,13 @@
       "news_count": 6
     },
     {
-      "country_code": "GB",
-      "country_name": "United Kingdom",
-      "news_count": 4
-    },
-    {
       "country_code": "CN",
       "country_name": "China",
+      "news_count": 3
+    },
+    {
+      "country_code": "GB",
+      "country_name": "United Kingdom",
       "news_count": 3
     },
     {
