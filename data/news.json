@@ -1,23 +1,41 @@
 {
-  "generated_at": "2026-04-24T11:37:56Z",
+  "generated_at": "2026-04-24T12:58:21Z",
   "articles": [
-    {
-      "source": "BBC World",
-      "title": "No 10 says Falklands sovereignty rests with UK after report of US 'review'",
-      "url": "https://www.bbc.com/news/articles/cde51y0zgjyo?at_medium=RSS&at_campaign=rss",
-      "summary": "An internal Pentagon document reportedly raised the prospect of a change in position in retaliation for the UK not joining the Iran war.",
-      "published_at": "2026-04-24T11:34:16Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
     {
       "source": "BBC World",
       "title": "South Africa's top envoy to Ghana summoned over attacks on foreigners",
       "url": "https://www.bbc.com/news/articles/cp38e5jgxqyo?at_medium=RSS&at_campaign=rss",
       "summary": "A Ghanaian national was confronted by South Africans in a viral clip and questioned about his immigration status.",
-      "published_at": "2026-04-24T11:28:38Z",
+      "published_at": "2026-04-24T12:39:00Z",
       "country_code": "ZA",
       "country_name": "South Africa"
+    },
+    {
+      "source": "BBC World",
+      "title": "No 10 says Falklands sovereignty rests with UK after report of US 'review'",
+      "url": "https://www.bbc.com/news/articles/cde51y0zgjyo?at_medium=RSS&at_campaign=rss",
+      "summary": "An internal Pentagon document reportedly raised the prospect of a change in position in retaliation for the UK not joining the Iran war.",
+      "published_at": "2026-04-24T12:20:55Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC Europe",
+      "title": "Turkey to return to F1 calendar in 2027",
+      "url": "https://www.bbc.com/sport/formula1/articles/c17v4g1nq7ko?at_medium=RSS&at_campaign=rss",
+      "summary": "The Turkish Grand Prix will return to the Formula 1 calendar in 2027 for the first time in six years.",
+      "published_at": "2026-04-24T12:00:35Z",
+      "country_code": "TR",
+      "country_name": "Turkey"
+    },
+    {
+      "source": "BBC World",
+      "title": "Israel's Benjamin Netanyahu treated for early-stage prostate cancer",
+      "url": "https://www.bbc.com/news/articles/ckgw72lrvn3o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Israeli prime minister says he is \"in excellent physical condition\" after having a malignant tumour removed.",
+      "published_at": "2026-04-24T11:49:29Z",
+      "country_code": "IL",
+      "country_name": "Israel"
     },
     {
       "source": "BBC World",
@@ -72,15 +90,6 @@
       "published_at": "2026-04-24T09:26:14Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "In pictures: North India braces for heatwaves as temperatures cross 40C",
-      "url": "https://www.bbc.com/news/articles/cvg0666d0xjo?at_medium=RSS&at_campaign=rss",
-      "summary": "India's weather department has issued heatwave warnings in parts of northern India.",
-      "published_at": "2026-04-24T09:07:16Z",
-      "country_code": "IN",
-      "country_name": "India"
     },
     {
       "source": "BBC World",
@@ -290,7 +299,7 @@
       "country_name": "China"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Middle East",
       "title": "Lebanon accuses Israel of targeting journalist killed in air strike",
       "url": "https://www.bbc.com/news/articles/c5yvn036evlo?at_medium=RSS&at_campaign=rss",
       "summary": "Lebanon's prime minister accused Israel of war crimes after IDF attacks on Red Cross vehicles also stopped rescuers from reaching the site.",
@@ -443,29 +452,11 @@
       "country_name": "China"
     },
     {
-      "source": "BBC Europe",
-      "title": "Torture and beating photos seized during Lyons gang raids in Spain",
-      "url": "https://www.bbc.com/news/articles/cx2rz5z0ln9o?at_medium=RSS&at_campaign=rss",
-      "summary": "The pictures were discovered by police targeting alleged members of the Lyons crime group on the Costa Del Sol.",
-      "published_at": "2026-04-21T20:12:05Z",
-      "country_code": "ES",
-      "country_name": "Spain"
-    },
-    {
       "source": "BBC Latin America",
       "title": "Role of US officials killed in crash in Mexico under scrutiny",
       "url": "https://www.bbc.com/news/articles/c86expy881qo?at_medium=RSS&at_campaign=rss",
       "summary": "Two Americans who reportedly worked for the CIA died in a car crash after a Mexican-led operation to destroy a drug lab.",
       "published_at": "2026-04-21T17:35:56Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC Europe",
-      "title": "Zelensky says failure of US envoys to visit Kyiv is 'disrespectful'",
-      "url": "https://www.bbc.com/news/articles/cd9v420y190o?at_medium=RSS&at_campaign=rss",
-      "summary": "US envoy Steve Witkoff and Donald Trump's son-in-law Jared Kushner have travelled to Moscow several times, but never to Kyiv.",
-      "published_at": "2026-04-21T16:25:44Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -816,12 +807,12 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 37
+      "news_count": 36
     },
     {
       "country_code": "IL",
       "country_name": "Israel",
-      "news_count": 6
+      "news_count": 7
     },
     {
       "country_code": "IR",
@@ -844,8 +835,8 @@
       "news_count": 3
     },
     {
-      "country_code": "IN",
-      "country_name": "India",
+      "country_code": "TR",
+      "country_name": "Turkey",
       "news_count": 3
     },
     {
@@ -854,23 +845,18 @@
       "news_count": 2
     },
     {
-      "country_code": "ES",
-      "country_name": "Spain",
-      "news_count": 2
-    },
-    {
       "country_code": "FR",
       "country_name": "France",
       "news_count": 2
     },
     {
-      "country_code": "SD",
-      "country_name": "Sudan",
+      "country_code": "IN",
+      "country_name": "India",
       "news_count": 2
     },
     {
-      "country_code": "TR",
-      "country_name": "Turkey",
+      "country_code": "SD",
+      "country_name": "Sudan",
       "news_count": 2
     },
     {
@@ -891,6 +877,11 @@
     {
       "country_code": "CA",
       "country_name": "Canada",
+      "news_count": 1
+    },
+    {
+      "country_code": "ES",
+      "country_name": "Spain",
       "news_count": 1
     },
     {
