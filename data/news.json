@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-04-25T16:30:18Z",
+  "generated_at": "2026-04-25T17:30:25Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Palestinians in West Bank and some in Gaza vote in local elections",
+      "url": "https://www.bbc.com/news/articles/cn4vej3x0wxo?at_medium=RSS&at_campaign=rss",
+      "summary": "Local elections have been held in the occupied West Bank and in one Gazan city, though Hamas and other groups are not taking part.",
+      "published_at": "2026-04-25T17:01:55Z",
+      "country_code": "PS",
+      "country_name": "Palestine"
+    },
+    {
+      "source": "BBC World",
+      "title": "Hope in Gaza as 300 couples get married at one time",
+      "url": "https://www.bbc.com/news/videos/cr71g8p2e9eo?at_medium=RSS&at_campaign=rss",
+      "summary": "The 300 couples were selected in a draw of nearly 2,000 people to be a part of the joint celebration.",
+      "published_at": "2026-04-25T16:35:14Z",
+      "country_code": "PS",
+      "country_name": "Palestine"
+    },
     {
       "source": "BBC US & Canada",
       "title": "Two killed in strike on alleged drug boat in Pacific Ocean, US military says",
@@ -21,15 +39,6 @@
     },
     {
       "source": "BBC World",
-      "title": "Palestinians in West Bank and some in Gaza vote in local elections",
-      "url": "https://www.bbc.com/news/articles/cn4vej3x0wxo?at_medium=RSS&at_campaign=rss",
-      "summary": "Local elections are held in the occupied West Bank and in one Gazan city, though Hamas and other groups are not taking part.",
-      "published_at": "2026-04-25T10:52:27Z",
-      "country_code": "PS",
-      "country_name": "Palestine"
-    },
-    {
-      "source": "BBC World",
       "title": "The viral manifesto of 'anti-woke' tech boss with NHS and defence contracts",
       "url": "https://www.bbc.com/news/articles/c4gjkj7975po?at_medium=RSS&at_campaign=rss",
       "summary": "The boss of the controversial tech company with UK government contracts published a 22-point plan on the future of the West.",
@@ -41,7 +50,7 @@
       "source": "BBC World",
       "title": "Katya Adler: Europe's Nato allies push back at reported US threat to Spain",
       "url": "https://www.bbc.com/news/articles/cj40r2gw24wo?at_medium=RSS&at_campaign=rss",
-      "summary": "On Friday morning, souring relations between Europe and the United States reared its Medusa-like head again, writes the BBC's Europe editor.",
+      "summary": "Souring relations between Europe and the US have reared their Medusa-like head again, writes the BBC's Europe editor.",
       "published_at": "2026-04-25T00:10:51Z",
       "country_code": "US",
       "country_name": "United States"
@@ -52,15 +61,6 @@
       "url": "https://www.bbc.com/news/videos/cwy37w2y64ro?at_medium=RSS&at_campaign=rss",
       "summary": "A Buckingham Palace source confirmed the Royals will not meet with survivors of sex offender Jeffrey Epstein during their state visit to the…",
       "published_at": "2026-04-24T23:00:21Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "No 10 says Falklands sovereignty rests with UK after report of US 'review'",
-      "url": "https://www.bbc.com/news/articles/cde51y0zgjyo?at_medium=RSS&at_campaign=rss",
-      "summary": "An internal Pentagon document reportedly raised the prospect of a change in position in retaliation for the UK not joining the Iran war.",
-      "published_at": "2026-04-24T22:55:05Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -369,15 +369,6 @@
       "published_at": "2026-04-23T13:15:07Z",
       "country_code": "PS",
       "country_name": "Palestine"
-    },
-    {
-      "source": "BBC Europe",
-      "title": "BBC visits migrant camp in northern France as new deal announced",
-      "url": "https://www.bbc.com/news/videos/cgrl891xkpvo?at_medium=RSS&at_campaign=rss",
-      "summary": "A proposed three-year deal with Paris is aimed at stopping migrants crossing the Channel on small boats.",
-      "published_at": "2026-04-23T09:39:50Z",
-      "country_code": "FR",
-      "country_name": "France"
     },
     {
       "source": "BBC Asia",
@@ -843,7 +834,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 35
+      "news_count": 34
     },
     {
       "country_code": "IR",
@@ -868,7 +859,7 @@
     {
       "country_code": "PS",
       "country_name": "Palestine",
-      "news_count": 3
+      "news_count": 4
     },
     {
       "country_code": "TR",
@@ -893,11 +884,6 @@
     {
       "country_code": "CN",
       "country_name": "China",
-      "news_count": 2
-    },
-    {
-      "country_code": "FR",
-      "country_name": "France",
       "news_count": 2
     },
     {
@@ -928,6 +914,11 @@
     {
       "country_code": "ET",
       "country_name": "Ethiopia",
+      "news_count": 1
+    },
+    {
+      "country_code": "FR",
+      "country_name": "France",
       "news_count": 1
     },
     {
