@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-04-25T09:42:01Z",
+  "generated_at": "2026-04-25T10:34:39Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Seven dead in major Russian attack on Ukraine",
+      "url": "https://www.bbc.com/news/articles/c0rxk4q0pj0o?at_medium=RSS&at_campaign=rss",
+      "summary": "The city of Dnipro was hardest hit, with officials saying four died in a strike on a residential building.",
+      "published_at": "2026-04-25T10:24:50Z",
+      "country_code": "UA",
+      "country_name": "Ukraine"
+    },
+    {
+      "source": "BBC World",
+      "title": "Palestinians in West Bank and some in Gaza vote in local elections",
+      "url": "https://www.bbc.com/news/articles/cn4vej3x0wxo?at_medium=RSS&at_campaign=rss",
+      "summary": "Local elections are held in the occupied West Bank and in one Gazan city, though Hamas and other groups are not taking part.",
+      "published_at": "2026-04-25T08:53:15Z",
+      "country_code": "PS",
+      "country_name": "Palestine"
+    },
     {
       "source": "BBC World",
       "title": "31 sloths die in Florida before opening of attraction",
@@ -29,7 +47,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "Epstein survivor: Meeting the King would be a 'grand step'",
       "url": "https://www.bbc.com/news/videos/cwy37w2y64ro?at_medium=RSS&at_campaign=rss",
       "summary": "A Buckingham Palace source confirmed the Royals will not meet with survivors of sex offender Jeffrey Epstein during their state visit to the…",
@@ -92,7 +110,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "Watch: 20,000 teddy bears highlight plight of missing Ukrainian children",
       "url": "https://www.bbc.com/news/videos/c0mjd1z08ero?at_medium=RSS&at_campaign=rss",
       "summary": "Each bear in the installation in Washington, DC, is meant to represent one of the children Ukraine says have been abducted by Russia.",
@@ -216,15 +234,6 @@
       "published_at": "2026-04-24T09:42:53Z",
       "country_code": "IT",
       "country_name": "Italy"
-    },
-    {
-      "source": "BBC Middle East",
-      "title": "'A dangerous standoff' as Strait of Hormuz blockade continues",
-      "url": "https://www.bbc.com/news/videos/ckgwlgyyyv0o?at_medium=RSS&at_campaign=rss",
-      "summary": "The US and Iran's rival blockades of the Strait of Hormuz have become a \"test of wills\", says Lyse Doucet.",
-      "published_at": "2026-04-24T09:26:14Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC World",
@@ -623,15 +632,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Africa",
-      "title": "What next for South African opposition firebrand Malema after his five-year prison sentence?",
-      "url": "https://www.bbc.com/news/articles/cdxkd6rvk0do?at_medium=RSS&at_campaign=rss",
-      "summary": "The sentence raises huge questions marks over the political future of one of South Africa's most controversial politicians.",
-      "published_at": "2026-04-17T16:53:17Z",
-      "country_code": "ZA",
-      "country_name": "South Africa"
-    },
-    {
       "source": "BBC Middle East",
       "title": "Ceasefire with Israel brings respite to Lebanon, but obstacles to peace remain",
       "url": "https://www.bbc.com/news/articles/crm10w4ynj1o?at_medium=RSS&at_campaign=rss",
@@ -852,7 +852,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 37
+      "news_count": 36
     },
     {
       "country_code": "IR",
@@ -873,6 +873,11 @@
       "country_code": "GB",
       "country_name": "United Kingdom",
       "news_count": 4
+    },
+    {
+      "country_code": "PS",
+      "country_name": "Palestine",
+      "news_count": 3
     },
     {
       "country_code": "TR",
@@ -910,18 +915,13 @@
       "news_count": 2
     },
     {
-      "country_code": "PS",
-      "country_name": "Palestine",
-      "news_count": 2
-    },
-    {
       "country_code": "SD",
       "country_name": "Sudan",
       "news_count": 2
     },
     {
-      "country_code": "ZA",
-      "country_name": "South Africa",
+      "country_code": "UA",
+      "country_name": "Ukraine",
       "news_count": 2
     },
     {
@@ -985,8 +985,8 @@
       "news_count": 1
     },
     {
-      "country_code": "UA",
-      "country_name": "Ukraine",
+      "country_code": "ZA",
+      "country_name": "South Africa",
       "news_count": 1
     }
   ]
