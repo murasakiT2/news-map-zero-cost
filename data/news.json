@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-25T07:50:05Z",
+  "generated_at": "2026-04-25T08:40:49Z",
   "articles": [
     {
       "source": "BBC World",
@@ -18,6 +18,15 @@
       "published_at": "2026-04-25T01:18:33Z",
       "country_code": "GB",
       "country_name": "United Kingdom"
+    },
+    {
+      "source": "BBC World",
+      "title": "These American women had to move to Mexico to live with their undocumented husbands",
+      "url": "https://www.bbc.com/news/articles/cly032z5e71o?at_medium=RSS&at_campaign=rss",
+      "summary": "The spouses of illegal immigrants facing deportation must choose between separation or moving to a new country.",
+      "published_at": "2026-04-25T01:03:36Z",
+      "country_code": "MX",
+      "country_name": "Mexico"
     },
     {
       "source": "BBC World",
@@ -910,6 +919,11 @@
       "news_count": 2
     },
     {
+      "country_code": "MX",
+      "country_name": "Mexico",
+      "news_count": 2
+    },
+    {
       "country_code": "PS",
       "country_name": "Palestine",
       "news_count": 2
@@ -952,11 +966,6 @@
     {
       "country_code": "KR",
       "country_name": "South Korea",
-      "news_count": 1
-    },
-    {
-      "country_code": "MX",
-      "country_name": "Mexico",
       "news_count": 1
     },
     {
