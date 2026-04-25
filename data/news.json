@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-04-25T21:03:03Z",
+  "generated_at": "2026-04-25T21:57:25Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Trump cancels US envoys' trip to Pakistan for talks on Iran war",
+      "url": "https://www.bbc.com/news/articles/c4g6nyvl29po?at_medium=RSS&at_campaign=rss",
+      "summary": "Iran had earlier said there were no plans for a direct meeting with a US delegation led by Steve Witkoff and Jared Kushner.",
+      "published_at": "2026-04-25T21:34:12Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "Mexico says US agents killed in crash weren't permitted to operate there",
@@ -52,6 +61,15 @@
       "url": "https://www.bbc.com/news/articles/c0rxk4q0pj0o?at_medium=RSS&at_campaign=rss",
       "summary": "The city of Dnipro was hardest hit, with officials saying four died in a strike on a residential building.",
       "published_at": "2026-04-25T12:29:37Z",
+      "country_code": "UA",
+      "country_name": "Ukraine"
+    },
+    {
+      "source": "BBC Europe",
+      "title": "'Animals are traumatised too': Pet rescuers under fire in Ukraine",
+      "url": "https://www.bbc.com/news/articles/cn783emlgdno?at_medium=RSS&at_campaign=rss",
+      "summary": "Animal rescue teams reveal the risks they take to rescue dogs, cats and other animals from the war in eastern Ukraine.",
+      "published_at": "2026-04-25T04:58:30Z",
       "country_code": "UA",
       "country_name": "Ukraine"
     },
@@ -191,7 +209,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Africa",
       "title": "Behind Nigeria's murky coup plot - the money, the prayers and a Nollywood arrest",
       "url": "https://www.bbc.com/news/articles/c4gj1w5lqw7o?at_medium=RSS&at_campaign=rss",
       "summary": "What court papers and sources close to the investigation have told the BBC about the scope of the plan.",
@@ -767,15 +785,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Middle East",
-      "title": "Why ceasefire deal with US has unsettled Iran's hardliners",
-      "url": "https://www.bbc.com/news/articles/c5ywpe2yyg3o?at_medium=RSS&at_campaign=rss",
-      "summary": "The two-week truce opens up the prospect of direct talks with the US but has angered Iran's hardliners, writes BBC News Persian’s Kasra Naji…",
-      "published_at": "2026-04-08T17:16:37Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC Latin America",
       "title": "The US refinery now processing Venezuelan oil",
       "url": "https://www.bbc.com/news/articles/cx24n8eqzgyo?at_medium=RSS&at_campaign=rss",
@@ -876,6 +885,11 @@
       "news_count": 3
     },
     {
+      "country_code": "UA",
+      "country_name": "Ukraine",
+      "news_count": 3
+    },
+    {
       "country_code": "AR",
       "country_name": "Argentina",
       "news_count": 2
@@ -903,11 +917,6 @@
     {
       "country_code": "SD",
       "country_name": "Sudan",
-      "news_count": 2
-    },
-    {
-      "country_code": "UA",
-      "country_name": "Ukraine",
       "news_count": 2
     },
     {
