@@ -1,8 +1,26 @@
 {
-  "generated_at": "2026-04-24T23:32:01Z",
+  "generated_at": "2026-04-25T01:22:56Z",
   "articles": [
     {
-      "source": "BBC US & Canada",
+      "source": "BBC World",
+      "title": "The viral manifesto of 'anti-woke' tech boss with NHS and defence contracts",
+      "url": "https://www.bbc.com/news/articles/c4gjkj7975po?at_medium=RSS&at_campaign=rss",
+      "summary": "The boss of the controversial tech company with UK government contracts published a 22-point plan on the future of the West.",
+      "published_at": "2026-04-25T01:18:33Z",
+      "country_code": "GB",
+      "country_name": "United Kingdom"
+    },
+    {
+      "source": "BBC World",
+      "title": "Katya Adler: Europe's Nato allies push back at reported US threat to Spain",
+      "url": "https://www.bbc.com/news/articles/cj40r2gw24wo?at_medium=RSS&at_campaign=rss",
+      "summary": "On Friday morning, souring relations between Europe and the United States reared its Medusa-like head again, writes the BBC's Europe editor.",
+      "published_at": "2026-04-25T00:10:51Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
       "title": "Meeting with the King would 'demonstrate human dignity', says Epstein survivor",
       "url": "https://www.bbc.com/news/videos/cwy37w2y64ro?at_medium=RSS&at_campaign=rss",
       "summary": "A Buckingham Palace source confirmed the Royals will not meet with survivors of sex offender Jeffrey Epstein during their state visit to the…",
@@ -29,7 +47,7 @@
       "country_name": "Canada"
     },
     {
-      "source": "BBC US & Canada",
+      "source": "BBC World",
       "title": "US to allow firing squads, gas, and electrocution for federal executions",
       "url": "https://www.bbc.com/news/articles/cg73l2d079ko?at_medium=RSS&at_campaign=rss",
       "summary": "In a memo, the Department of Justice says the move will \"strengthen\" the death penalty and deter crime.",
@@ -48,6 +66,15 @@
     },
     {
       "source": "BBC World",
+      "title": "China car giant BYD says it can thrive without US",
+      "url": "https://www.bbc.com/news/articles/cy01ele412yo?at_medium=RSS&at_campaign=rss",
+      "summary": "With the price of fuel rising China's BYD says it is positioning itself to benefit from the global shift away from fossil fuels.",
+      "published_at": "2026-04-24T21:25:16Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC US & Canada",
       "title": "Relatives of 10 scientists who died or vanished grapple with impact of wild speculation",
       "url": "https://www.bbc.com/news/articles/cwyw9rpdl4po?at_medium=RSS&at_campaign=rss",
       "summary": "Conspiracies are running rampant online after the deaths or disappearances of at least 10 people tied to sensitive US research.",
@@ -191,22 +218,13 @@
       "country_name": "Italy"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Middle East",
       "title": "'A dangerous standoff' as Strait of Hormuz blockade continues",
       "url": "https://www.bbc.com/news/videos/ckgwlgyyyv0o?at_medium=RSS&at_campaign=rss",
       "summary": "The US and Iran's rival blockades of the Strait of Hormuz have become a \"test of wills\", says Lyse Doucet.",
       "published_at": "2026-04-24T09:26:14Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "In pictures: North India braces for heatwaves as temperatures cross 40C",
-      "url": "https://www.bbc.com/news/articles/cvg0666d0xjo?at_medium=RSS&at_campaign=rss",
-      "summary": "India's weather department has issued heatwave warnings in parts of northern India.",
-      "published_at": "2026-04-24T09:07:16Z",
-      "country_code": "IN",
-      "country_name": "India"
     },
     {
       "source": "BBC World",
@@ -245,7 +263,7 @@
       "country_name": "Israel"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "Headscarf with a beret: Muslim designers showcase floral dresses and boxy streetwear in Paris",
       "url": "https://www.bbc.com/news/articles/cx23zmxd2z3o?at_medium=RSS&at_campaign=rss",
       "summary": "Some young attendees say the event demonstrated a more inclusive French culture taking shape.",
@@ -263,7 +281,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "A rumour, a lynching in India and a long wait for justice",
       "url": "https://www.bbc.com/news/articles/cly07kk2pm2o?at_medium=RSS&at_campaign=rss",
       "summary": "A court has convicted 20 people for the 2018 mob lynching of two men falsely accused of kidnapping children.",
@@ -290,7 +308,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "My five-minute phone call with President Trump",
       "url": "https://www.bbc.com/news/videos/c624yr5p3kpo?at_medium=RSS&at_campaign=rss",
       "summary": "Sarah Smith asked the president about King Charles's upcoming visit, the state of the so-called special relationship and the war with Iran.",
@@ -834,7 +852,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 35
+      "news_count": 37
     },
     {
       "country_code": "IR",
@@ -854,12 +872,7 @@
     {
       "country_code": "GB",
       "country_name": "United Kingdom",
-      "news_count": 3
-    },
-    {
-      "country_code": "IN",
-      "country_name": "India",
-      "news_count": 3
+      "news_count": 4
     },
     {
       "country_code": "TR",
@@ -889,6 +902,11 @@
     {
       "country_code": "FR",
       "country_name": "France",
+      "news_count": 2
+    },
+    {
+      "country_code": "IN",
+      "country_name": "India",
       "news_count": 2
     },
     {
