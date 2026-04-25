@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-04-25T17:30:25Z",
+  "generated_at": "2026-04-25T18:35:04Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Mexico says US agents killed in crash weren't permitted to operate there",
+      "url": "https://www.bbc.com/news/articles/cx2491we011o?at_medium=RSS&at_campaign=rss",
+      "summary": "The two Americans who reportedly worked for the CIA died in a car crash after a Mexican-led operation to destroy a drug lab.",
+      "published_at": "2026-04-25T17:40:51Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Rights groups critical as Venezuela prisoner release scheme 'coming to an end'",
+      "url": "https://www.bbc.com/news/articles/c0kr62z7z6lo?at_medium=RSS&at_campaign=rss",
+      "summary": "More than 500 political prisoners are thought to still be in jail, despite the releases since the amnesty law was brought in.",
+      "published_at": "2026-04-25T17:36:58Z",
+      "country_code": "VE",
+      "country_name": "Venezuela"
+    },
     {
       "source": "BBC World",
       "title": "Palestinians in West Bank and some in Gaza vote in local elections",
@@ -11,7 +29,7 @@
       "country_name": "Palestine"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "Hope in Gaza as 300 couples get married at one time",
       "url": "https://www.bbc.com/news/videos/cr71g8p2e9eo?at_medium=RSS&at_campaign=rss",
       "summary": "The 300 couples were selected in a draw of nearly 2,000 people to be a part of the joint celebration.",
@@ -834,7 +852,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 34
+      "news_count": 35
     },
     {
       "country_code": "IR",
@@ -964,6 +982,11 @@
     {
       "country_code": "SY",
       "country_name": "Syria",
+      "news_count": 1
+    },
+    {
+      "country_code": "VE",
+      "country_name": "Venezuela",
       "news_count": 1
     },
     {
