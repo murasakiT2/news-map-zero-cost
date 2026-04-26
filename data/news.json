@@ -1,11 +1,20 @@
 {
-  "generated_at": "2026-04-26T18:35:55Z",
+  "generated_at": "2026-04-26T19:38:49Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Did Trump save eight Iranian women from execution?",
+      "url": "https://www.bbc.com/news/videos/cx2e2lg2ny9o?at_medium=RSS&at_campaign=rss",
+      "summary": "The US president says he saved eight Iranian women from execution, but Iran says otherwise.",
+      "published_at": "2026-04-26T19:16:58Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC US & Canada",
       "title": "King's US visit will go ahead as planned, Buckingham Palace says",
       "url": "https://www.bbc.com/news/articles/cz0e0rn179eo?at_medium=RSS&at_campaign=rss",
-      "summary": "The decision had been made \"after discussions on both sides of the Atlantic through the day\".",
+      "summary": "The decision was made \"after discussions on both sides of the Atlantic through the day\", the Palace says.",
       "published_at": "2026-04-26T18:33:04Z",
       "country_code": "US",
       "country_name": "United States"
@@ -852,7 +861,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 34
+      "news_count": 35
     },
     {
       "country_code": "IR",
