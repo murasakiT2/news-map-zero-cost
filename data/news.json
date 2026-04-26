@@ -1,14 +1,23 @@
 {
-  "generated_at": "2026-04-26T14:41:48Z",
+  "generated_at": "2026-04-26T15:33:41Z",
   "articles": [
     {
       "source": "BBC US & Canada",
       "title": "Palace holding talks over plans for King's US visit after DC shooting",
       "url": "https://www.bbc.com/news/articles/cz0e0rn179eo?at_medium=RSS&at_campaign=rss",
       "summary": "The King is \"being kept fully informed of developments\" after the shooting, Buckingham Palace says.",
-      "published_at": "2026-04-26T13:54:12Z",
+      "published_at": "2026-04-26T15:19:00Z",
       "country_code": "US",
       "country_name": "United States"
+    },
+    {
+      "source": "BBC Africa",
+      "title": "Kenya's Sawe smashes two-hour barrier to make history at London Marathon",
+      "url": "https://www.bbc.com/sport/athletics/articles/crm1m7e0zwzo?at_medium=RSS&at_campaign=rss",
+      "summary": "Sabastian Sawe makes history at the London Marathon as the first person to run a sub-two-hour marathon in a competitive race.",
+      "published_at": "2026-04-26T12:39:49Z",
+      "country_code": "KE",
+      "country_name": "Kenya"
     },
     {
       "source": "BBC US & Canada",
@@ -911,6 +920,11 @@
       "news_count": 2
     },
     {
+      "country_code": "KE",
+      "country_name": "Kenya",
+      "news_count": 2
+    },
+    {
       "country_code": "SD",
       "country_name": "Sudan",
       "news_count": 2
@@ -933,11 +947,6 @@
     {
       "country_code": "IT",
       "country_name": "Italy",
-      "news_count": 1
-    },
-    {
-      "country_code": "KE",
-      "country_name": "Kenya",
       "news_count": 1
     },
     {
