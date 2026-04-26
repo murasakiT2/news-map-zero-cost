@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-04-25T23:28:14Z",
+  "generated_at": "2026-04-26T00:01:45Z",
   "articles": [
+    {
+      "source": "BBC Africa",
+      "title": "The detained anti-colonial activist grabbing attention in West Africa: Who is Kemi Seba?",
+      "url": "https://www.bbc.com/news/articles/cm2562jd54vo?at_medium=RSS&at_campaign=rss",
+      "summary": "The activist has condemned France's influence in West Africa and been accused of being a \"Russian mouthpiece\".",
+      "published_at": "2026-04-25T23:09:08Z",
+      "country_code": "FR",
+      "country_name": "France"
+    },
     {
       "source": "BBC World",
       "title": "Trump cancels US envoys' trip to Pakistan for talks on Iran war",
@@ -910,6 +919,11 @@
       "news_count": 2
     },
     {
+      "country_code": "FR",
+      "country_name": "France",
+      "news_count": 2
+    },
+    {
       "country_code": "IN",
       "country_name": "India",
       "news_count": 2
@@ -932,11 +946,6 @@
     {
       "country_code": "ET",
       "country_name": "Ethiopia",
-      "news_count": 1
-    },
-    {
-      "country_code": "FR",
-      "country_name": "France",
       "news_count": 1
     },
     {
