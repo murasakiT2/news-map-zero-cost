@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-04-26T21:03:09Z",
+  "generated_at": "2026-04-26T21:58:30Z",
   "articles": [
+    {
+      "source": "BBC Latin America",
+      "title": "Death toll in Colombia highway bus bomb attack rises to 20",
+      "url": "https://www.bbc.com/news/articles/ckgx5kyyj8do?at_medium=RSS&at_campaign=rss",
+      "summary": "Political violence has escalated in Colombia ahead of next month's presidential election.",
+      "published_at": "2026-04-26T21:33:00Z",
+      "country_code": "CO",
+      "country_name": "Colombia"
+    },
     {
       "source": "BBC World",
       "title": "Did Trump save eight Iranian women from execution?",
@@ -79,15 +88,6 @@
       "url": "https://www.bbc.com/news/articles/cn4vej3x0wxo?at_medium=RSS&at_campaign=rss",
       "summary": "Local elections have been held in the occupied West Bank and in one Gazan city, though Hamas and other groups are not taking part.",
       "published_at": "2026-04-25T17:01:55Z",
-      "country_code": "PS",
-      "country_name": "Palestine"
-    },
-    {
-      "source": "BBC Europe",
-      "title": "Hope in Gaza as 300 couples get married at one time",
-      "url": "https://www.bbc.com/news/videos/cr71g8p2e9eo?at_medium=RSS&at_campaign=rss",
-      "summary": "The 300 couples were selected in a draw of nearly 2,000 people to be a part of the joint celebration.",
-      "published_at": "2026-04-25T16:35:14Z",
       "country_code": "PS",
       "country_name": "Palestine"
     },
@@ -879,13 +879,13 @@
       "news_count": 5
     },
     {
-      "country_code": "PS",
-      "country_name": "Palestine",
-      "news_count": 4
-    },
-    {
       "country_code": "GB",
       "country_name": "United Kingdom",
+      "news_count": 3
+    },
+    {
+      "country_code": "PS",
+      "country_name": "Palestine",
       "news_count": 3
     },
     {
@@ -941,6 +941,11 @@
     {
       "country_code": "AE",
       "country_name": "United Arab Emirates",
+      "news_count": 1
+    },
+    {
+      "country_code": "CO",
+      "country_name": "Colombia",
       "news_count": 1
     },
     {
