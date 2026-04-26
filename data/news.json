@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-04-26T06:07:19Z",
+  "generated_at": "2026-04-26T07:57:27Z",
   "articles": [
+    {
+      "source": "BBC US & Canada",
+      "title": "Moment Trump rushed from White House Correspondents' Dinner after gunshots heard",
+      "url": "https://www.bbc.com/news/videos/crm1gm7ez30o?at_medium=RSS&at_campaign=rss",
+      "summary": "The US president was midway through a conversation before loud bangs rang out at the venue and he was quickly escorted to safety.",
+      "published_at": "2026-04-26T01:59:35Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC Africa",
       "title": "The detained anti-colonial activist grabbing attention in West Africa: Who is Kemi Seba?",
@@ -173,13 +182,22 @@
       "country_name": "Australia"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Africa",
       "title": "South Africa's top envoy to Ghana summoned over attacks on foreigners",
       "url": "https://www.bbc.com/news/articles/cp38e5jgxqyo?at_medium=RSS&at_campaign=rss",
       "summary": "A Ghanaian national was confronted by South Africans in a viral clip and questioned about his immigration status.",
       "published_at": "2026-04-24T17:31:41Z",
       "country_code": "ZA",
       "country_name": "South Africa"
+    },
+    {
+      "source": "BBC World",
+      "title": "Who is making decisions in Iran?",
+      "url": "https://www.bbc.com/news/articles/cm29m732vgno?at_medium=RSS&at_campaign=rss",
+      "summary": "Iran's new supreme leader is supposed to have the final say, but in practice the picture is far murkier.",
+      "published_at": "2026-04-24T16:38:51Z",
+      "country_code": "IR",
+      "country_name": "Iran"
     },
     {
       "source": "BBC World",
@@ -209,16 +227,7 @@
       "country_name": "Nigeria"
     },
     {
-      "source": "BBC US & Canada",
-      "title": "Trump says he speaks 'for the UK more than Prince Harry'",
-      "url": "https://www.bbc.com/news/articles/cx268zxgx1no?at_medium=RSS&at_campaign=rss",
-      "summary": "The US president's comments come ahead of a state visit from King Charles III and Queen Camilla.",
-      "published_at": "2026-04-24T15:00:09Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC Africa",
+      "source": "BBC World",
       "title": "Behind Nigeria's murky coup plot - the money, the prayers and a Nollywood arrest",
       "url": "https://www.bbc.com/news/articles/c4gj1w5lqw7o?at_medium=RSS&at_campaign=rss",
       "summary": "What court papers and sources close to the investigation have told the BBC about the scope of the plan.",
@@ -236,7 +245,7 @@
       "country_name": "Turkey"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Middle East",
       "title": "Israel's Benjamin Netanyahu treated for early-stage prostate cancer",
       "url": "https://www.bbc.com/news/articles/ckgw72lrvn3o?at_medium=RSS&at_campaign=rss",
       "summary": "The Israeli prime minister says he is \"in excellent physical condition\" after having a malignant tumour removed.",
@@ -272,22 +281,13 @@
       "country_name": "Italy"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "South Korea police arrest man for posting AI photo of runaway wolf",
       "url": "https://www.bbc.com/news/articles/c4gx1n0dl9no?at_medium=RSS&at_campaign=rss",
       "summary": "The widely circulated image had prompted authorities to move their search operation.",
       "published_at": "2026-04-24T08:23:36Z",
       "country_code": "KR",
       "country_name": "South Korea"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "India condemns remarks shared by Trump calling it a 'hellhole'",
-      "url": "https://www.bbc.com/news/articles/c05d4r1zgngo?at_medium=RSS&at_campaign=rss",
-      "summary": "Trump shared a transcript of remarks made by podcaster Mark Savage, who criticised birthright citizenship in the US.",
-      "published_at": "2026-04-24T06:57:54Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC Asia",
@@ -317,15 +317,6 @@
       "country_name": "France"
     },
     {
-      "source": "BBC US & Canada",
-      "title": "US soldier charged after winning $400,000 betting on removal of Maduro",
-      "url": "https://www.bbc.com/news/articles/c20832yg5p2o?at_medium=RSS&at_campaign=rss",
-      "summary": "Gannon Ken Van Dyke allegedly made trades on Polymarket on the basis of classified information, the justice department says.",
-      "published_at": "2026-04-24T00:21:32Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC Asia",
       "title": "A rumour, a lynching in India and a long wait for justice",
       "url": "https://www.bbc.com/news/articles/cly07kk2pm2o?at_medium=RSS&at_campaign=rss",
@@ -333,15 +324,6 @@
       "published_at": "2026-04-23T23:30:52Z",
       "country_code": "IN",
       "country_name": "India"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "Trump says Israel-Lebanon ceasefire to be extended by three weeks",
-      "url": "https://www.bbc.com/news/articles/c62kyk5j28do?at_medium=RSS&at_campaign=rss",
-      "summary": "Envoys from the two countries met in Washington as the fragile truce was due to expire on Sunday.",
-      "published_at": "2026-04-23T22:50:50Z",
-      "country_code": "IL",
-      "country_name": "Israel"
     },
     {
       "source": "BBC Europe",
@@ -497,7 +479,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Latin America",
+      "source": "BBC US & Canada",
       "title": "No cartels involved - but Mexico's pyramid attack prompts new concerns",
       "url": "https://www.bbc.com/news/articles/cre1r5gdq04o?at_medium=RSS&at_campaign=rss",
       "summary": "The deadly shooting at a popular tourist site weeks before the World Cup has rocked Mexico.",
@@ -533,7 +515,7 @@
       "country_name": "United Arab Emirates"
     },
     {
-      "source": "BBC Middle East",
+      "source": "BBC US & Canada",
       "title": "Trump buys time for Iran deal after frantic day of diplomacy",
       "url": "https://www.bbc.com/news/articles/cvg4yr90jr2o?at_medium=RSS&at_campaign=rss",
       "summary": "The US president's decision marked the second time in as many weeks he has backed off a threat to escalate the war, buying more time.",
@@ -569,15 +551,6 @@
       "country_name": "Poland"
     },
     {
-      "source": "BBC US & Canada",
-      "title": "Hauger-Thackery runs Boston Marathon at 22 weeks pregnant",
-      "url": "https://www.bbc.com/sport/athletics/videos/c5yxml9ede1o?at_medium=RSS&at_campaign=rss",
-      "summary": "Great Britain's Calli Hauger-Thackery finishes the Boston Marathon in two hours, 43 minutes and 58 seconds while five months pregnant.",
-      "published_at": "2026-04-21T11:30:25Z",
-      "country_code": "GB",
-      "country_name": "United Kingdom"
-    },
-    {
       "source": "BBC Africa",
       "title": "Korir defends Boston Marathon title with course record",
       "url": "https://www.bbc.com/sport/athletics/articles/cwyxjzjdvp4o?at_medium=RSS&at_campaign=rss",
@@ -588,10 +561,10 @@
     },
     {
       "source": "BBC US & Canada",
-      "title": "Canada: Ties to US are 'weaknesses we must correct'",
-      "url": "https://www.bbc.com/news/videos/c4g43y5g93yo?at_medium=RSS&at_campaign=rss",
-      "summary": "Prime Minister Mark Carney said that due to Washington changing its trade policies, Canada's economic ties to the US that were once a streng…",
-      "published_at": "2026-04-20T14:05:35Z",
+      "title": "The insider trading suspicions looming over Trump's presidency",
+      "url": "https://www.bbc.com/news/articles/cge0grppe3po?at_medium=RSS&at_campaign=rss",
+      "summary": "The BBC has found a pattern of spikes in trades ahead of public announcements by the US president.",
+      "published_at": "2026-04-20T13:53:22Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -861,17 +834,12 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 35
-    },
-    {
-      "country_code": "IL",
-      "country_name": "Israel",
-      "news_count": 6
+      "news_count": 33
     },
     {
       "country_code": "IR",
       "country_name": "Iran",
-      "news_count": 6
+      "news_count": 7
     },
     {
       "country_code": "NG",
@@ -879,14 +847,19 @@
       "news_count": 6
     },
     {
-      "country_code": "GB",
-      "country_name": "United Kingdom",
-      "news_count": 4
+      "country_code": "IL",
+      "country_name": "Israel",
+      "news_count": 5
     },
     {
       "country_code": "PS",
       "country_name": "Palestine",
       "news_count": 4
+    },
+    {
+      "country_code": "GB",
+      "country_name": "United Kingdom",
+      "news_count": 3
     },
     {
       "country_code": "TR",
