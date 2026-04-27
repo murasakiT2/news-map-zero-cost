@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-04-27T04:04:07Z",
+  "generated_at": "2026-04-27T06:44:12Z",
   "articles": [
+    {
+      "source": "BBC Asia",
+      "title": "French teen who licked vending machine straw faces jail in Singapore",
+      "url": "https://www.bbc.com/news/articles/cjw8w849g6go?at_medium=RSS&at_campaign=rss",
+      "summary": "The teen, who posted on social media a video of himself licking the straw, could be jailed for more than two years.",
+      "published_at": "2026-04-27T06:40:22Z",
+      "country_code": "SG",
+      "country_name": "Singapore"
+    },
+    {
+      "source": "BBC World",
+      "title": "Trump says he 'wasn't worried' during Washington press dinner shooting",
+      "url": "https://www.bbc.com/news/articles/c2d8dg57rzdo?at_medium=RSS&at_campaign=rss",
+      "summary": "The suspect's writings said he wanted to target Trump administration officials, acting US Attorney General Todd Blanche said.",
+      "published_at": "2026-04-27T04:24:19Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC US & Canada",
       "title": "With presidents, cowboys and A-listers - King Charles in US over the years",
@@ -27,6 +45,15 @@
       "published_at": "2026-04-26T23:00:03Z",
       "country_code": "IN",
       "country_name": "India"
+    },
+    {
+      "source": "BBC Middle East",
+      "title": "Israeli strikes kill 14 in Lebanon amid ongoing ceasefire",
+      "url": "https://www.bbc.com/news/articles/c4gxgv8j7zlo?at_medium=RSS&at_campaign=rss",
+      "summary": "The US announced three days ago that the ceasefire was extended by three weeks after talks.",
+      "published_at": "2026-04-26T22:02:45Z",
+      "country_code": "US",
+      "country_name": "United States"
     },
     {
       "source": "BBC Latin America",
@@ -81,6 +108,15 @@
       "published_at": "2026-04-25T23:09:08Z",
       "country_code": "FR",
       "country_name": "France"
+    },
+    {
+      "source": "BBC Asia",
+      "title": "'We don't come to play': Is Gawdland's RuPaul win Asia's big drag moment?",
+      "url": "https://www.bbc.com/news/articles/c4gx4xj1e74o?at_medium=RSS&at_campaign=rss",
+      "summary": "Gawdland spoke to the BBC shortly after she was crowned the winner of RuPaul's Drag Race UK versus the World.",
+      "published_at": "2026-04-25T23:08:56Z",
+      "country_code": "GB",
+      "country_name": "United Kingdom"
     },
     {
       "source": "BBC World",
@@ -344,15 +380,6 @@
       "country_name": "South Korea"
     },
     {
-      "source": "BBC Asia",
-      "title": "Philippines' Duterte to stand trial as ICC confirms crimes against humanity charges",
-      "url": "https://www.bbc.com/news/articles/c8x7z5g5eydo?at_medium=RSS&at_campaign=rss",
-      "summary": "Ex-president Rodrigo Duterte is accused of the extrajudicial killing of thousands during his \"war on drugs\".",
-      "published_at": "2026-04-24T06:14:53Z",
-      "country_code": "PH",
-      "country_name": "Philippines"
-    },
-    {
       "source": "BBC Middle East",
       "title": "Couple discovers Lebanon home destroyed by Israel from satellite image",
       "url": "https://www.bbc.com/news/articles/cvg30jkvklno?at_medium=RSS&at_campaign=rss",
@@ -495,15 +522,6 @@
       "published_at": "2026-04-22T20:12:03Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC Middle East",
-      "title": "Iran says it has seized two ships in Strait of Hormuz after vessels attacked",
-      "url": "https://www.bbc.com/news/articles/cdxd074kr8go?at_medium=RSS&at_campaign=rss",
-      "summary": "One of the cargo ships was 'heavily damaged' by Iranian forces, a British maritime agency reported on Wednesday.",
-      "published_at": "2026-04-22T18:32:47Z",
-      "country_code": "IR",
-      "country_name": "Iran"
     },
     {
       "source": "BBC Europe",
@@ -861,12 +879,12 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 37
+      "news_count": 39
     },
     {
       "country_code": "IR",
       "country_name": "Iran",
-      "news_count": 7
+      "news_count": 6
     },
     {
       "country_code": "NG",
@@ -881,7 +899,7 @@
     {
       "country_code": "GB",
       "country_name": "United Kingdom",
-      "news_count": 3
+      "news_count": 4
     },
     {
       "country_code": "PS",
@@ -934,6 +952,11 @@
       "news_count": 2
     },
     {
+      "country_code": "SG",
+      "country_name": "Singapore",
+      "news_count": 2
+    },
+    {
       "country_code": "AE",
       "country_name": "United Arab Emirates",
       "news_count": 1
@@ -969,11 +992,6 @@
       "news_count": 1
     },
     {
-      "country_code": "PH",
-      "country_name": "Philippines",
-      "news_count": 1
-    },
-    {
       "country_code": "PL",
       "country_name": "Poland",
       "news_count": 1
@@ -981,11 +999,6 @@
     {
       "country_code": "RU",
       "country_name": "Russia",
-      "news_count": 1
-    },
-    {
-      "country_code": "SG",
-      "country_name": "Singapore",
       "news_count": 1
     },
     {
