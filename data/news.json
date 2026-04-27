@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-04-27T17:00:16Z",
+  "generated_at": "2026-04-27T18:46:14Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Canada's Carney launches a sovereign wealth fund. What is it?",
+      "url": "https://www.bbc.com/news/articles/c98m800r28qo?at_medium=RSS&at_campaign=rss",
+      "summary": "The fund - which Canadians can invest in directly - will help pay for major infrastructure projects in the country, the prime minister says.",
+      "published_at": "2026-04-27T18:13:26Z",
+      "country_code": "CA",
+      "country_name": "Canada"
+    },
     {
       "source": "BBC World",
       "title": "Pakistan accused of attacking Afghan university",
@@ -146,7 +155,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "Canada's Carney has enjoyed a long political honeymoon. Now comes the test",
       "url": "https://www.bbc.com/news/articles/c70d249rd0go?at_medium=RSS&at_campaign=rss",
       "summary": "Global acclaim and domestic political gains have defined Mark Carney's first year as Canada's PM. He now faces pressure to deliver on his bo…",
@@ -263,7 +272,7 @@
       "country_name": "Palestine"
     },
     {
-      "source": "BBC US & Canada",
+      "source": "BBC Latin America",
       "title": "Two killed in strike on alleged drug boat in Pacific Ocean, US military says",
       "url": "https://www.bbc.com/news/articles/cge03pjv2zqo?at_medium=RSS&at_campaign=rss",
       "summary": "The incident is the latest in a series of US strikes on alleged drug trafficking boats.",
@@ -333,15 +342,6 @@
       "published_at": "2026-04-24T20:15:17Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC Europe",
-      "title": "Watch: 20,000 teddy bears highlight plight of missing Ukrainian children",
-      "url": "https://www.bbc.com/news/videos/c0mjd1z08ero?at_medium=RSS&at_campaign=rss",
-      "summary": "Each bear in the installation in Washington, DC, is meant to represent one of the children Ukraine says have been abducted by Russia.",
-      "published_at": "2026-04-24T18:48:31Z",
-      "country_code": "RU",
-      "country_name": "Russia"
     },
     {
       "source": "BBC Asia",
@@ -887,6 +887,11 @@
       "news_count": 3
     },
     {
+      "country_code": "CA",
+      "country_name": "Canada",
+      "news_count": 2
+    },
+    {
       "country_code": "CO",
       "country_name": "Colombia",
       "news_count": 2
@@ -927,11 +932,6 @@
       "news_count": 1
     },
     {
-      "country_code": "CA",
-      "country_name": "Canada",
-      "news_count": 1
-    },
-    {
       "country_code": "ES",
       "country_name": "Spain",
       "news_count": 1
@@ -954,11 +954,6 @@
     {
       "country_code": "PK",
       "country_name": "Pakistan",
-      "news_count": 1
-    },
-    {
-      "country_code": "RU",
-      "country_name": "Russia",
       "news_count": 1
     },
     {
