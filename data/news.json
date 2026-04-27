@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-27T00:04:58Z",
+  "generated_at": "2026-04-27T04:04:07Z",
   "articles": [
     {
       "source": "BBC US & Canada",
@@ -18,6 +18,15 @@
       "published_at": "2026-04-26T23:09:26Z",
       "country_code": "US",
       "country_name": "United States"
+    },
+    {
+      "source": "BBC Asia",
+      "title": "Indian Dalit man's alleged custodial death and a family's wait for justice",
+      "url": "https://www.bbc.com/news/articles/cvg3znp8g5do?at_medium=RSS&at_campaign=rss",
+      "summary": "Akash Delison's death in Tamil Nadu state has revived concerns about alleged custody killings in India.",
+      "published_at": "2026-04-26T23:00:03Z",
+      "country_code": "IN",
+      "country_name": "India"
     },
     {
       "source": "BBC Latin America",
@@ -434,15 +443,6 @@
       "country_name": "Palestine"
     },
     {
-      "source": "BBC Asia",
-      "title": "Taiwan minister makes rare visit to disputed South China Sea island",
-      "url": "https://www.bbc.com/news/articles/c87wzpey8jlo?at_medium=RSS&at_campaign=rss",
-      "summary": "Kuan Bi-ling observed coast guard drills on Taiping Island, also claimed by China, the Philippines and Vietnam.",
-      "published_at": "2026-04-23T05:29:03Z",
-      "country_code": "CN",
-      "country_name": "China"
-    },
-    {
       "source": "BBC Middle East",
       "title": "Lebanon accuses Israel of targeting journalist killed in air strike",
       "url": "https://www.bbc.com/news/articles/c5yvn036evlo?at_medium=RSS&at_campaign=rss",
@@ -569,15 +569,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Asia",
-      "title": "Hotpot, bubble tea and sportswear: China's new exports take on the world",
-      "url": "https://www.bbc.com/news/articles/crr1ln1575lo?at_medium=RSS&at_campaign=rss",
-      "summary": "Made in China used to mean cheap, mass-produced goods but a new wave of Chinese brands is emerging.",
-      "published_at": "2026-04-21T22:10:22Z",
-      "country_code": "CN",
-      "country_name": "China"
-    },
-    {
       "source": "BBC Latin America",
       "title": "Role of US officials killed in crash in Mexico under scrutiny",
       "url": "https://www.bbc.com/news/articles/c86expy881qo?at_medium=RSS&at_campaign=rss",
@@ -621,15 +612,6 @@
       "published_at": "2026-04-20T06:46:03Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC Asia",
-      "title": "India has splurged billions on metro trains. But where are the commuters?",
-      "url": "https://www.bbc.com/news/articles/c4g833128vlo?at_medium=RSS&at_campaign=rss",
-      "summary": "Without better last-mile connectivity and affordable fares, metro use is unlikely to improve quickly, say experts.",
-      "published_at": "2026-04-19T23:12:10Z",
-      "country_code": "IN",
-      "country_name": "India"
     },
     {
       "source": "BBC Africa",
@@ -929,11 +911,6 @@
     {
       "country_code": "CA",
       "country_name": "Canada",
-      "news_count": 2
-    },
-    {
-      "country_code": "CN",
-      "country_name": "China",
       "news_count": 2
     },
     {
