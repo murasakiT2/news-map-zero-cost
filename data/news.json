@@ -1,6 +1,33 @@
 {
-  "generated_at": "2026-04-27T15:06:24Z",
+  "generated_at": "2026-04-27T17:00:16Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Pakistan accused of attacking Afghan university",
+      "url": "https://www.bbc.com/news/articles/cvg0gxrgklro?at_medium=RSS&at_campaign=rss",
+      "summary": "Air attacks on the province of Kunar have killed at least seven people and injured 75, sources tell the BBC.",
+      "published_at": "2026-04-27T16:54:13Z",
+      "country_code": "PK",
+      "country_name": "Pakistan"
+    },
+    {
+      "source": "BBC World",
+      "title": "Plane crash in South Sudan kills all 15 on board",
+      "url": "https://www.bbc.com/news/articles/cg737x2pe4ko?at_medium=RSS&at_campaign=rss",
+      "summary": "The authorities are investigating but early reports suggest bad weather and poor visibility may be to blame.",
+      "published_at": "2026-04-27T15:52:09Z",
+      "country_code": "SD",
+      "country_name": "Sudan"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "What to expect as Trump hosts the King",
+      "url": "https://www.bbc.com/news/videos/ckgrkd4g7ezo?at_medium=RSS&at_campaign=rss",
+      "summary": "King Charles's trip to the US comes at a time of strained relations between Washington and London over the Iran war.",
+      "published_at": "2026-04-27T15:26:56Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "How Kenya's Sabastian Sawe broke iconic sub-two-hour barrier at the London Marathon",
@@ -308,15 +335,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC US & Canada",
-      "title": "US justice department drops probe into Fed chairman Jerome Powell",
-      "url": "https://www.bbc.com/news/articles/cdxd1v0028vo?at_medium=RSS&at_campaign=rss",
-      "summary": "President Donald Trump had accused Powell of improper cost overruns in renovating the Fed's building.",
-      "published_at": "2026-04-24T19:10:25Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC Europe",
       "title": "Watch: 20,000 teddy bears highlight plight of missing Ukrainian children",
       "url": "https://www.bbc.com/news/videos/c0mjd1z08ero?at_medium=RSS&at_campaign=rss",
@@ -484,15 +502,6 @@
       "url": "https://www.bbc.com/news/articles/cgldw5ekrjpo?at_medium=RSS&at_campaign=rss",
       "summary": "Central Command said it has intercepted 33 vessels since imposing a blockade on ships coming to and from Iran.",
       "published_at": "2026-04-23T20:45:51Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC Europe",
-      "title": "Could Italy replace Iran at the 2026 World Cup?",
-      "url": "https://www.bbc.com/news/videos/c4g81pke0nwo?at_medium=RSS&at_campaign=rss",
-      "summary": "Fifa has no plans to replace Iran with Italy at this summer's World Cup according to sources, after the switch was proposed by US President …",
-      "published_at": "2026-04-23T18:01:53Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -825,7 +834,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 30
+      "news_count": 29
     },
     {
       "country_code": "IL",
@@ -868,6 +877,11 @@
       "news_count": 3
     },
     {
+      "country_code": "SD",
+      "country_name": "Sudan",
+      "news_count": 3
+    },
+    {
       "country_code": "TR",
       "country_name": "Turkey",
       "news_count": 3
@@ -885,11 +899,6 @@
     {
       "country_code": "MX",
       "country_name": "Mexico",
-      "news_count": 2
-    },
-    {
-      "country_code": "SD",
-      "country_name": "Sudan",
       "news_count": 2
     },
     {
@@ -940,6 +949,11 @@
     {
       "country_code": "KP",
       "country_name": "North Korea",
+      "news_count": 1
+    },
+    {
+      "country_code": "PK",
+      "country_name": "Pakistan",
       "news_count": 1
     },
     {
