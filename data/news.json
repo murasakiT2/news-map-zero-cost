@@ -1,14 +1,41 @@
 {
-  "generated_at": "2026-04-28T15:00:03Z",
+  "generated_at": "2026-04-28T16:54:25Z",
   "articles": [
     {
       "source": "BBC World",
       "title": "United Arab Emirates to quit oil cartel Opec",
       "url": "https://www.bbc.com/news/articles/cj4pxwlr52yo?at_medium=RSS&at_campaign=rss",
-      "summary": "The UAE leaving Opec is seen as a major blow and potential death knell for the oil cartel.",
-      "published_at": "2026-04-28T14:59:36Z",
+      "summary": "The UAE's decision, after nearly 60 years of membership, is seen as a potential death knell for the oil cartel.",
+      "published_at": "2026-04-28T16:24:45Z",
       "country_code": "AE",
       "country_name": "United Arab Emirates"
+    },
+    {
+      "source": "BBC World",
+      "title": "Ex-actor Nathan Chasing Horse jailed for at least 37 years for sexual assault",
+      "url": "https://www.bbc.com/news/articles/cx218vkdvpgo?at_medium=RSS&at_campaign=rss",
+      "summary": "The 49-year-old exploited his position as a spiritual leader to prey on Indigenous women and girls, the US court heard.",
+      "published_at": "2026-04-28T15:36:44Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "IS says it was behind deadly Nigeria attack on football pitch",
+      "url": "https://www.bbc.com/news/articles/c62d43vdgmmo?at_medium=RSS&at_campaign=rss",
+      "summary": "Authorities say the militants raided a football pitch where people had been gathering and opened fire at random.",
+      "published_at": "2026-04-28T15:31:46Z",
+      "country_code": "NG",
+      "country_name": "Nigeria"
+    },
+    {
+      "source": "BBC Europe",
+      "title": "France murder victim identified after 20 years and suspect arrested",
+      "url": "https://www.bbc.com/news/articles/ckg9g8pwggqo?at_medium=RSS&at_campaign=rss",
+      "summary": "Hakima Boukerouis is the fifth woman to be identified through an international police campaign.",
+      "published_at": "2026-04-28T14:52:19Z",
+      "country_code": "FR",
+      "country_name": "France"
     },
     {
       "source": "BBC Africa",
@@ -21,6 +48,24 @@
     },
     {
       "source": "BBC World",
+      "title": "Third Ukrainian strike hits Russian oil refinery and prompts evacuations",
+      "url": "https://www.bbc.com/news/articles/cvgzd4qk7qgo?at_medium=RSS&at_campaign=rss",
+      "summary": "Residents near a burning refinery in Tuapse are told to leave, and the Kremlin accuses Kyiv of destabilising global energy markets.",
+      "published_at": "2026-04-28T14:32:20Z",
+      "country_code": "UA",
+      "country_name": "Ukraine"
+    },
+    {
+      "source": "BBC Europe",
+      "title": "Swarm of 10,000 bees settles on bike outside Louvre in Paris",
+      "url": "https://www.bbc.com/news/articles/c70vjx99w2vo?at_medium=RSS&at_campaign=rss",
+      "summary": "The swarm gathers underneath the saddle of a bike locked to the railings of a metro station.",
+      "published_at": "2026-04-28T14:13:34Z",
+      "country_code": "FR",
+      "country_name": "France"
+    },
+    {
+      "source": "BBC World",
       "title": "Ukraine accuses Israel of receiving shipments of grain 'stolen' by Russia",
       "url": "https://www.bbc.com/news/articles/cqjplqgd1r2o?at_medium=RSS&at_campaign=rss",
       "summary": "Israel's foreign minister says it has received no evidence to support the claim that a vessel carrying grain from occupied Ukraine has reach…",
@@ -29,7 +74,7 @@
       "country_name": "Russia"
     },
     {
-      "source": "BBC Latin America",
+      "source": "BBC World",
       "title": "Will Mexico City's airport be ready for the World Cup?",
       "url": "https://www.bbc.com/news/videos/cz7231qx88qo?at_medium=RSS&at_campaign=rss",
       "summary": "The BBC takes a closer look at major renovations at Benito Juárez International Airport aimed at boosting capacity ahead of the 2026 World C…",
@@ -45,6 +90,15 @@
       "published_at": "2026-04-28T12:01:37Z",
       "country_code": "CA",
       "country_name": "Canada"
+    },
+    {
+      "source": "BBC World",
+      "title": "BBC reports from scene of fatal Indonesia train crash",
+      "url": "https://www.bbc.com/news/videos/c4g0zep6yl9o?at_medium=RSS&at_campaign=rss",
+      "summary": "At least 15 people have died after a train crashed into the female-only carriage of a commuter train in Bekasi.",
+      "published_at": "2026-04-28T10:50:37Z",
+      "country_code": "ID",
+      "country_name": "Indonesia"
     },
     {
       "source": "BBC World",
@@ -119,15 +173,6 @@
       "country_name": "North Korea"
     },
     {
-      "source": "BBC World",
-      "title": "IS says it was behind deadly Nigeria attack on football pitch",
-      "url": "https://www.bbc.com/news/articles/c62d43vdgmmo?at_medium=RSS&at_campaign=rss",
-      "summary": "Authorities say the militants raided a football pitch where people had been gathering and opened fire at random.",
-      "published_at": "2026-04-28T03:28:48Z",
-      "country_code": "NG",
-      "country_name": "Nigeria"
-    },
-    {
       "source": "BBC US & Canada",
       "title": "What the King and Queen did on their first day in the US",
       "url": "https://www.bbc.com/news/videos/c78q59ynj4vo?at_medium=RSS&at_campaign=rss",
@@ -171,24 +216,6 @@
       "published_at": "2026-04-27T16:54:13Z",
       "country_code": "PK",
       "country_name": "Pakistan"
-    },
-    {
-      "source": "BBC Africa",
-      "title": "Suspects in Scot's murder in Kenya charged over attack on another man",
-      "url": "https://www.bbc.com/news/articles/cj373406gz5o?at_medium=RSS&at_campaign=rss",
-      "summary": "The four men pleaded not guilty to targeting an American in an alleged attack at a holiday apartment.",
-      "published_at": "2026-04-27T15:52:51Z",
-      "country_code": "KE",
-      "country_name": "Kenya"
-    },
-    {
-      "source": "BBC World",
-      "title": "Plane crash in South Sudan kills all 14 on board",
-      "url": "https://www.bbc.com/news/articles/cg737x2pe4ko?at_medium=RSS&at_campaign=rss",
-      "summary": "The authorities are investigating but early reports suggest bad weather and poor visibility may be to blame.",
-      "published_at": "2026-04-27T15:52:09Z",
-      "country_code": "SD",
-      "country_name": "Sudan"
     },
     {
       "source": "BBC World",
@@ -236,7 +263,7 @@
       "country_name": "India"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "Kim Jong Un opens memorial for N Korean soldiers killed in Ukraine war",
       "url": "https://www.bbc.com/news/articles/cql7l707244o?at_medium=RSS&at_campaign=rss",
       "summary": "Kim Jong Un and Russian Defence Minister Andrey Belousov unveiled the memorial in Pyongyang.",
@@ -295,15 +322,6 @@
       "url": "https://www.bbc.com/news/videos/cx2e2lg2ny9o?at_medium=RSS&at_campaign=rss",
       "summary": "The US president says he saved eight Iranian women from execution, but Iran says otherwise.",
       "published_at": "2026-04-26T19:16:58Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "Moment Trump rushed from White House Correspondents' Dinner after gunshots heard",
-      "url": "https://www.bbc.com/news/videos/crm1gm7ez30o?at_medium=RSS&at_campaign=rss",
-      "summary": "The US president was midway through a conversation before loud bangs rang out at the venue and he was quickly escorted to safety.",
-      "published_at": "2026-04-26T01:59:35Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -378,15 +396,6 @@
       "published_at": "2026-04-25T16:35:14Z",
       "country_code": "PS",
       "country_name": "Palestine"
-    },
-    {
-      "source": "BBC Latin America",
-      "title": "Two killed in strike on alleged drug boat in Pacific Ocean, US military says",
-      "url": "https://www.bbc.com/news/articles/cge03pjv2zqo?at_medium=RSS&at_campaign=rss",
-      "summary": "The incident is the latest in a series of US strikes on alleged drug trafficking boats.",
-      "published_at": "2026-04-25T14:57:47Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC Latin America",
@@ -762,7 +771,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 26
+      "news_count": 25
     },
     {
       "country_code": "IL",
@@ -770,18 +779,23 @@
       "news_count": 6
     },
     {
-      "country_code": "KE",
-      "country_name": "Kenya",
-      "news_count": 5
-    },
-    {
       "country_code": "NG",
       "country_name": "Nigeria",
       "news_count": 5
     },
     {
+      "country_code": "FR",
+      "country_name": "France",
+      "news_count": 4
+    },
+    {
       "country_code": "IR",
       "country_name": "Iran",
+      "news_count": 4
+    },
+    {
+      "country_code": "KE",
+      "country_name": "Kenya",
       "news_count": 4
     },
     {
@@ -790,13 +804,18 @@
       "news_count": 3
     },
     {
+      "country_code": "ID",
+      "country_name": "Indonesia",
+      "news_count": 3
+    },
+    {
       "country_code": "PS",
       "country_name": "Palestine",
       "news_count": 3
     },
     {
-      "country_code": "SD",
-      "country_name": "Sudan",
+      "country_code": "UA",
+      "country_name": "Ukraine",
       "news_count": 3
     },
     {
@@ -807,16 +826,6 @@
     {
       "country_code": "CO",
       "country_name": "Colombia",
-      "news_count": 2
-    },
-    {
-      "country_code": "FR",
-      "country_name": "France",
-      "news_count": 2
-    },
-    {
-      "country_code": "ID",
-      "country_name": "Indonesia",
       "news_count": 2
     },
     {
@@ -845,8 +854,8 @@
       "news_count": 2
     },
     {
-      "country_code": "UA",
-      "country_name": "Ukraine",
+      "country_code": "SD",
+      "country_name": "Sudan",
       "news_count": 2
     },
     {
