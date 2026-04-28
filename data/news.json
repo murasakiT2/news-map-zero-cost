@@ -1,6 +1,33 @@
 {
-  "generated_at": "2026-04-28T21:07:31Z",
+  "generated_at": "2026-04-28T22:29:10Z",
   "articles": [
+    {
+      "source": "BBC US & Canada",
+      "title": "Watch key moments from the King's address to US Congress",
+      "url": "https://www.bbc.com/news/videos/c5y7d4088v4o?at_medium=RSS&at_campaign=rss",
+      "summary": "It was the first time a sitting British monarch had addressed the chamber since Queen Elizabeth II in 1991.",
+      "published_at": "2026-04-28T21:30:33Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "King gets ovation for speech hailing importance of UK and US partnership",
+      "url": "https://www.bbc.com/news/articles/c87qglyjr44o?at_medium=RSS&at_campaign=rss",
+      "summary": "He tells US Congress his address comes \"in times of great uncertainty\" and says the two nations' relationship is \"more important\" than ever.",
+      "published_at": "2026-04-28T21:21:02Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC Africa",
+      "title": "Oil tycoons deny paying bribes to former Nigerian minister",
+      "url": "https://www.bbc.com/news/articles/cx21lpd3wdwo?at_medium=RSS&at_campaign=rss",
+      "summary": "Diezani Alison-Madueke is accused of being treated to luxury home stays and lavish spending sprees in the UK, which she denies.",
+      "published_at": "2026-04-28T21:13:26Z",
+      "country_code": "GB",
+      "country_name": "United Kingdom"
+    },
     {
       "source": "BBC US & Canada",
       "title": "In pictures: King Charles delivers historic speech to US Congress",
@@ -762,7 +789,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 26
+      "news_count": 28
     },
     {
       "country_code": "IL",
@@ -780,6 +807,11 @@
       "news_count": 5
     },
     {
+      "country_code": "GB",
+      "country_name": "United Kingdom",
+      "news_count": 4
+    },
+    {
       "country_code": "IR",
       "country_name": "Iran",
       "news_count": 4
@@ -787,11 +819,6 @@
     {
       "country_code": "FR",
       "country_name": "France",
-      "news_count": 3
-    },
-    {
-      "country_code": "GB",
-      "country_name": "United Kingdom",
       "news_count": 3
     },
     {
