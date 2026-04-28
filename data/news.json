@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-04-28T22:29:10Z",
+  "generated_at": "2026-04-28T23:28:21Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Watch: Elderly woman rescued by robot from Ukraine's frontline",
+      "url": "https://www.bbc.com/news/videos/cpqpjw1zdvjo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Ukrainian army spotted the woman using a drone and sent the machine to her rescue as she was trying to leave her war-torn village.",
+      "published_at": "2026-04-28T21:58:17Z",
+      "country_code": "UA",
+      "country_name": "Ukraine"
+    },
     {
       "source": "BBC US & Canada",
       "title": "Watch key moments from the King's address to US Congress",
@@ -30,7 +39,7 @@
     },
     {
       "source": "BBC US & Canada",
-      "title": "In pictures: King Charles delivers historic speech to US Congress",
+      "title": "In pictures: King meets Trump at White House and delivers historic speech to Congress",
       "url": "https://www.bbc.com/news/articles/c86e6z26xdpo?at_medium=RSS&at_campaign=rss",
       "summary": "King Charles III and Queen Camilla continued their state visit to the US with a White House military ceremony and a speech from the King to …",
       "published_at": "2026-04-28T20:34:42Z",
@@ -817,13 +826,13 @@
       "news_count": 4
     },
     {
-      "country_code": "FR",
-      "country_name": "France",
-      "news_count": 3
-    },
-    {
       "country_code": "UA",
       "country_name": "Ukraine",
+      "news_count": 4
+    },
+    {
+      "country_code": "FR",
+      "country_name": "France",
       "news_count": 3
     },
     {
