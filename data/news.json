@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-04-28T19:59:15Z",
+  "generated_at": "2026-04-28T21:07:31Z",
   "articles": [
     {
-      "source": "BBC World",
-      "title": "Former FBI director James Comey indicted for second time",
-      "url": "https://www.bbc.com/news/articles/cvgz4rvlem5o?at_medium=RSS&at_campaign=rss",
-      "summary": "The indictment stems from a 2025 photo of seashells posted by Comey that critics have said encouraged violence against the US president.",
-      "published_at": "2026-04-28T19:54:14Z",
+      "source": "BBC US & Canada",
+      "title": "In pictures: King Charles delivers historic speech to US Congress",
+      "url": "https://www.bbc.com/news/articles/c86e6z26xdpo?at_medium=RSS&at_campaign=rss",
+      "summary": "King Charles III and Queen Camilla continued their state visit to the US with a White House military ceremony and a speech from the King to …",
+      "published_at": "2026-04-28T20:34:42Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -29,20 +29,20 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC US & Canada",
-      "title": "US soldier accused of betting on Maduro's removal pleads not guilty to fraud charges",
-      "url": "https://www.bbc.com/news/articles/cd0p54j9r9vo?at_medium=RSS&at_campaign=rss",
-      "summary": "The Army officer has been accused of using classified information to win $400,000 on an online prediction market.",
-      "published_at": "2026-04-28T18:35:10Z",
+      "source": "BBC Middle East",
+      "title": "America's special relationship 'probably Israel', says UK ambassador to US",
+      "url": "https://www.bbc.com/news/articles/c1l25qd43nro?at_medium=RSS&at_campaign=rss",
+      "summary": "The remarks, made in February and first reported by the Financial Times, came to light during the King's state visit.",
+      "published_at": "2026-04-28T18:53:55Z",
       "country_code": "US",
       "country_name": "United States"
     },
     {
       "source": "BBC US & Canada",
-      "title": "In pictures: King Charles at Oval Office on US state visit",
-      "url": "https://www.bbc.com/news/articles/c86e6z26xdpo?at_medium=RSS&at_campaign=rss",
-      "summary": "King Charles III and Queen Camilla continued their state visit to the US with a White House military ceremony and an aircraft fly over.",
-      "published_at": "2026-04-28T18:10:58Z",
+      "title": "US soldier accused of betting on Maduro's removal pleads not guilty to fraud charges",
+      "url": "https://www.bbc.com/news/articles/cd0p54j9r9vo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Army officer has been accused of using classified information to win $400,000 on an online prediction market.",
+      "published_at": "2026-04-28T18:35:10Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -394,15 +394,6 @@
       "url": "https://www.bbc.com/news/articles/cn4vej3x0wxo?at_medium=RSS&at_campaign=rss",
       "summary": "Local elections have been held in the occupied West Bank and in one Gazan city, though Hamas and other groups are not taking part.",
       "published_at": "2026-04-25T17:01:55Z",
-      "country_code": "PS",
-      "country_name": "Palestine"
-    },
-    {
-      "source": "BBC Middle East",
-      "title": "Hope in Gaza as 300 couples get married at one time",
-      "url": "https://www.bbc.com/news/videos/cr71g8p2e9eo?at_medium=RSS&at_campaign=rss",
-      "summary": "The 300 couples were selected in a draw of nearly 2,000 people to be a part of the joint celebration.",
-      "published_at": "2026-04-25T16:35:14Z",
       "country_code": "PS",
       "country_name": "Palestine"
     },
@@ -804,11 +795,6 @@
       "news_count": 3
     },
     {
-      "country_code": "PS",
-      "country_name": "Palestine",
-      "news_count": 3
-    },
-    {
       "country_code": "UA",
       "country_name": "Ukraine",
       "news_count": 3
@@ -841,6 +827,11 @@
     {
       "country_code": "MX",
       "country_name": "Mexico",
+      "news_count": 2
+    },
+    {
+      "country_code": "PS",
+      "country_name": "Palestine",
       "news_count": 2
     },
     {
