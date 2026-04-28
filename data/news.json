@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-04-28T01:55:36Z",
+  "generated_at": "2026-04-28T05:23:21Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Rescuers race to free survivors trapped inside train after fatal Indonesia crash",
+      "url": "https://www.bbc.com/news/articles/ckgegg8r0v1o?at_medium=RSS&at_campaign=rss",
+      "summary": "Two trains collided on the outskirts of the Indonesian capital on Monday, killing at least 14 people.",
+      "published_at": "2026-04-28T04:18:54Z",
+      "country_code": "ID",
+      "country_name": "Indonesia"
+    },
+    {
+      "source": "BBC Asia",
+      "title": "Executions in North Korea ramped up significantly during pandemic - report",
+      "url": "https://www.bbc.com/news/articles/c202r5d5pzzo?at_medium=RSS&at_campaign=rss",
+      "summary": "Some of the offences were related to culture - including the consumption of K-dramas and K-pop.",
+      "published_at": "2026-04-28T03:31:10Z",
+      "country_code": "KP",
+      "country_name": "North Korea"
+    },
     {
       "source": "BBC US & Canada",
       "title": "King to defend 'democratic values' as US state visit begins",
@@ -20,11 +38,11 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
-      "title": "At least four killed and dozens injured in Indonesia train crash",
-      "url": "https://www.bbc.com/news/articles/ckgegg8r0v1o?at_medium=RSS&at_campaign=rss",
-      "summary": "Officials say a commuter train and a long-distance train collided on the outskirts of Jakarta on Monday.",
-      "published_at": "2026-04-27T19:06:10Z",
+      "source": "BBC Asia",
+      "title": "Babies among those tied up and allegedly abused in Indonesia childcare centre",
+      "url": "https://www.bbc.com/news/articles/cgj0jx4pqzvo?at_medium=RSS&at_campaign=rss",
+      "summary": "In a case that has gripped the nation, dozens of children have allegedly been mistreated at the centre in Yogyakarta.",
+      "published_at": "2026-04-27T23:05:24Z",
       "country_code": "ID",
       "country_name": "Indonesia"
     },
@@ -443,15 +461,6 @@
       "country_name": "Syria"
     },
     {
-      "source": "BBC Asia",
-      "title": "British conwoman who claimed to be royalty hit with new charges in Singapore",
-      "url": "https://www.bbc.com/news/articles/c87wz7445wno?at_medium=RSS&at_campaign=rss",
-      "summary": "Dionne Marie Hanna, 85, is accused of duping more than two dozen people - including her own son.",
-      "published_at": "2026-04-24T10:26:25Z",
-      "country_code": "SG",
-      "country_name": "Singapore"
-    },
-    {
       "source": "BBC Europe",
       "title": "No Fifa plan for Italy to replace Iran at World Cup",
       "url": "https://www.bbc.com/sport/football/articles/cy813gy08v2o?at_medium=RSS&at_campaign=rss",
@@ -495,15 +504,6 @@
       "published_at": "2026-04-24T00:34:04Z",
       "country_code": "FR",
       "country_name": "France"
-    },
-    {
-      "source": "BBC Asia",
-      "title": "A rumour, a lynching in India and a long wait for justice",
-      "url": "https://www.bbc.com/news/articles/cly07kk2pm2o?at_medium=RSS&at_campaign=rss",
-      "summary": "A court has convicted 20 people for the 2018 mob lynching of two men falsely accused of kidnapping children.",
-      "published_at": "2026-04-23T23:30:52Z",
-      "country_code": "IN",
-      "country_name": "India"
     },
     {
       "source": "BBC Middle East",
@@ -885,11 +885,6 @@
       "news_count": 4
     },
     {
-      "country_code": "IN",
-      "country_name": "India",
-      "news_count": 3
-    },
-    {
       "country_code": "KE",
       "country_name": "Kenya",
       "news_count": 3
@@ -920,13 +915,23 @@
       "news_count": 2
     },
     {
-      "country_code": "MX",
-      "country_name": "Mexico",
+      "country_code": "ID",
+      "country_name": "Indonesia",
       "news_count": 2
     },
     {
-      "country_code": "SG",
-      "country_name": "Singapore",
+      "country_code": "IN",
+      "country_name": "India",
+      "news_count": 2
+    },
+    {
+      "country_code": "KP",
+      "country_name": "North Korea",
+      "news_count": 2
+    },
+    {
+      "country_code": "MX",
+      "country_name": "Mexico",
       "news_count": 2
     },
     {
@@ -960,23 +965,18 @@
       "news_count": 1
     },
     {
-      "country_code": "ID",
-      "country_name": "Indonesia",
-      "news_count": 1
-    },
-    {
       "country_code": "IT",
       "country_name": "Italy",
       "news_count": 1
     },
     {
-      "country_code": "KP",
-      "country_name": "North Korea",
+      "country_code": "PK",
+      "country_name": "Pakistan",
       "news_count": 1
     },
     {
-      "country_code": "PK",
-      "country_name": "Pakistan",
+      "country_code": "SG",
+      "country_name": "Singapore",
       "news_count": 1
     },
     {
