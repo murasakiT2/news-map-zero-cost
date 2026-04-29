@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-04-29T11:12:19Z",
+  "generated_at": "2026-04-29T13:01:40Z",
   "articles": [
+    {
+      "source": "BBC Africa",
+      "title": "Robert Mugabe's son to be deported from South Africa over firearms offence",
+      "url": "https://www.bbc.com/news/articles/czx2lxevvljo?at_medium=RSS&at_campaign=rss",
+      "summary": "The 28-year-old was arrested in February after a man had been shot at his home in Johannesburg.",
+      "published_at": "2026-04-29T12:50:42Z",
+      "country_code": "ZA",
+      "country_name": "South Africa"
+    },
     {
       "source": "BBC World",
       "title": "France urges citizens to leave Mali after rebel attacks",
@@ -119,7 +128,7 @@
       "country_name": "France"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "A faraway conflict threatens livelihoods in India's glass hub",
       "url": "https://www.bbc.com/news/articles/ce8pdv86359o?at_medium=RSS&at_campaign=rss",
       "summary": "Supply disruptions due to Middle East tensions have pushed up costs in India’s glass industry, putting workers at risk.",
@@ -209,7 +218,7 @@
       "country_name": "United Arab Emirates"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "Ex-actor Nathan Chasing Horse jailed for at least 37 years for sexual assault",
       "url": "https://www.bbc.com/news/articles/cx218vkdvpgo?at_medium=RSS&at_campaign=rss",
       "summary": "The 49-year-old exploited his position as a spiritual leader to prey on Indigenous women and girls, the US court heard.",
@@ -290,7 +299,7 @@
       "country_name": "Indonesia"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "Japan Airlines trials humanoid robots as ground handlers",
       "url": "https://www.bbc.com/news/articles/cpwp87j1llvo?at_medium=RSS&at_campaign=rss",
       "summary": "These robots may in future help clean cabins and operate ground support equipment.",
@@ -344,7 +353,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "US political violence generates a familiar cycle - this time it's in overdrive",
       "url": "https://www.bbc.com/news/articles/cje4eeyq27lo?at_medium=RSS&at_campaign=rss",
       "summary": "In modern America, it seems violence of this kind has become an ever-present storm that can strike anywhere and at any moment.",
@@ -777,15 +786,6 @@
     },
     {
       "source": "BBC Middle East",
-      "title": "Trump's blockade threat raises risks and leaves predicaments unchanged",
-      "url": "https://www.bbc.com/news/articles/c8dl5mly2rzo?at_medium=RSS&at_campaign=rss",
-      "summary": "The conflict is now a test of wills - Iran’s capacity to absorb strikes versus Trump’s tolerance for the war's costs.",
-      "published_at": "2026-04-12T22:57:22Z",
-      "country_code": "IR",
-      "country_name": "Iran"
-    },
-    {
-      "source": "BBC Middle East",
       "title": "After Iran talks falter, the big question is what happens next?",
       "url": "https://www.bbc.com/news/articles/c5y943x2g8qo?at_medium=RSS&at_campaign=rss",
       "summary": "Twenty-one hours was not enough to end 47 years of hostility between Iran and the US, writes the BBC's Lyse Doucet.",
@@ -848,11 +848,6 @@
       "news_count": 4
     },
     {
-      "country_code": "IR",
-      "country_name": "Iran",
-      "news_count": 4
-    },
-    {
       "country_code": "NG",
       "country_name": "Nigeria",
       "news_count": 4
@@ -865,6 +860,11 @@
     {
       "country_code": "ID",
       "country_name": "Indonesia",
+      "news_count": 3
+    },
+    {
+      "country_code": "IR",
+      "country_name": "Iran",
       "news_count": 3
     },
     {
@@ -905,6 +905,11 @@
     {
       "country_code": "SD",
       "country_name": "Sudan",
+      "news_count": 2
+    },
+    {
+      "country_code": "ZA",
+      "country_name": "South Africa",
       "news_count": 2
     },
     {
@@ -955,11 +960,6 @@
     {
       "country_code": "VE",
       "country_name": "Venezuela",
-      "news_count": 1
-    },
-    {
-      "country_code": "ZA",
-      "country_name": "South Africa",
       "news_count": 1
     }
   ]
