@@ -1,14 +1,41 @@
 {
-  "generated_at": "2026-04-29T22:44:55Z",
+  "generated_at": "2026-04-29T23:43:34Z",
   "articles": [
+    {
+      "source": "BBC US & Canada",
+      "title": "The 'Polar Bear Capital' with Arctic gateway ambitions",
+      "url": "https://www.bbc.com/news/articles/cyv1zdey7pmo?at_medium=RSS&at_campaign=rss",
+      "summary": "Canada is weighing whether a year-round northern trade route to Europe from Churchill, Manitoba, is viable, as climate change speeds Arctic …",
+      "published_at": "2026-04-29T23:35:30Z",
+      "country_code": "CA",
+      "country_name": "Canada"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "King and Queen lay flowers at 9/11 Memorial in New York",
+      "url": "https://www.bbc.com/news/articles/cd7pxnv4j7ro?at_medium=RSS&at_campaign=rss",
+      "summary": "King Charles and Queen Camilla on their state visit to the US visit the memorial in New York.",
+      "published_at": "2026-04-29T23:33:22Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC US & Canada",
       "title": "Big US tech stocks swing as investors probe AI spend",
       "url": "https://www.bbc.com/news/articles/crkpd4r2y7eo?at_medium=RSS&at_campaign=rss",
       "summary": "Meta, Amazon, Alphabet, and Microsoft all reported their financial performance at the same time on Wednesday",
-      "published_at": "2026-04-29T22:23:07Z",
+      "published_at": "2026-04-29T22:55:33Z",
       "country_code": "US",
       "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Oil price rises above $120 after reports of 'extended' Iran blockade",
+      "url": "https://www.bbc.com/news/articles/cj4pxr0gr02o?at_medium=RSS&at_campaign=rss",
+      "summary": "The price of crude oil has swung sharply as uncertainty over the war in the Middle East continues.",
+      "published_at": "2026-04-29T22:49:19Z",
+      "country_code": "IR",
+      "country_name": "Iran"
     },
     {
       "source": "BBC US & Canada",
@@ -18,24 +45,6 @@
       "published_at": "2026-04-29T21:43:52Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "King and Queen lay flowers at 9/11 Memorial in New York",
-      "url": "https://www.bbc.com/news/articles/cd7pxnv4j7ro?at_medium=RSS&at_campaign=rss",
-      "summary": "King Charles and Queen Camilla on their state visit to the US visit the memorial in New York.",
-      "published_at": "2026-04-29T21:31:49Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "Oil price briefly hits $120 after reports of 'extended' Iran blockade",
-      "url": "https://www.bbc.com/news/articles/cj4pxr0gr02o?at_medium=RSS&at_campaign=rss",
-      "summary": "The price of crude oil has swung sharply as uncertainty over the war in the Middle East continues.",
-      "published_at": "2026-04-29T20:24:29Z",
-      "country_code": "IR",
-      "country_name": "Iran"
     },
     {
       "source": "BBC World",
@@ -901,6 +910,11 @@
       "news_count": 2
     },
     {
+      "country_code": "CA",
+      "country_name": "Canada",
+      "news_count": 2
+    },
+    {
       "country_code": "CO",
       "country_name": "Colombia",
       "news_count": 2
@@ -938,11 +952,6 @@
     {
       "country_code": "BR",
       "country_name": "Brazil",
-      "news_count": 1
-    },
-    {
-      "country_code": "CA",
-      "country_name": "Canada",
       "news_count": 1
     },
     {
