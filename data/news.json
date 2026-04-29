@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-04-29T17:16:20Z",
+  "generated_at": "2026-04-29T18:53:06Z",
   "articles": [
+    {
+      "source": "BBC US & Canada",
+      "title": "In pictures: King and Queen pay respects at the National September 11 Memorial",
+      "url": "https://www.bbc.com/news/articles/c86e6z26xdpo?at_medium=RSS&at_campaign=rss",
+      "summary": "King Charles III and Queen Camilla continued their state visit to the US by attending a ceremony at the National September 11 Memorial in Ne…",
+      "published_at": "2026-04-29T18:21:25Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Oil price soars above $118 after reports of 'extended' Iran blockade",
+      "url": "https://www.bbc.com/news/articles/cj4pxr0gr02o?at_medium=RSS&at_campaign=rss",
+      "summary": "The price of crude oil has swung sharply as uncertainty over the war in the Middle East continues.",
+      "published_at": "2026-04-29T17:49:07Z",
+      "country_code": "IR",
+      "country_name": "Iran"
+    },
     {
       "source": "BBC World",
       "title": "France urges citizens to leave Mali after rebel attacks",
@@ -9,15 +27,6 @@
       "published_at": "2026-04-29T16:46:38Z",
       "country_code": "GB",
       "country_name": "United Kingdom"
-    },
-    {
-      "source": "BBC World",
-      "title": "Oil price soars above $118 after reports of 'extended' Iran blockade",
-      "url": "https://www.bbc.com/news/articles/cj4pxr0gr02o?at_medium=RSS&at_campaign=rss",
-      "summary": "The price of crude oil has swung sharply as uncertainty over the war in the Middle East continues.",
-      "published_at": "2026-04-29T16:17:12Z",
-      "country_code": "IR",
-      "country_name": "Iran"
     },
     {
       "source": "BBC World",
@@ -155,15 +164,6 @@
       "country_name": "Ukraine"
     },
     {
-      "source": "BBC US & Canada",
-      "title": "In pictures: King joins Trump for White House banquet and delivers historic Congress speech",
-      "url": "https://www.bbc.com/news/articles/c86e6z26xdpo?at_medium=RSS&at_campaign=rss",
-      "summary": "King Charles III and Queen Camilla continued their state visit to the US with a White House state dinner and a speech from the King to Congr…",
-      "published_at": "2026-04-29T01:22:32Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC Middle East",
       "title": "America's special relationship 'probably Israel', says UK ambassador to US",
       "url": "https://www.bbc.com/news/articles/c1l25qd43nro?at_medium=RSS&at_campaign=rss",
@@ -281,7 +281,7 @@
       "country_name": "France"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "Third Ukrainian strike hits Russian oil refinery and prompts evacuations",
       "url": "https://www.bbc.com/news/articles/cvgzd4qk7qgo?at_medium=RSS&at_campaign=rss",
       "summary": "Residents near a burning refinery in Tuapse are told to leave, and the Kremlin accuses Kyiv of destabilising global energy markets.",
@@ -290,16 +290,7 @@
       "country_name": "Ukraine"
     },
     {
-      "source": "BBC Europe",
-      "title": "Swarm of 10,000 bees settles on bike outside Louvre in Paris",
-      "url": "https://www.bbc.com/news/articles/c70vjx99w2vo?at_medium=RSS&at_campaign=rss",
-      "summary": "The swarm gathers underneath the saddle of a bike locked to the railings of a metro station.",
-      "published_at": "2026-04-28T14:13:34Z",
-      "country_code": "FR",
-      "country_name": "France"
-    },
-    {
-      "source": "BBC Europe",
+      "source": "BBC Middle East",
       "title": "Ukraine accuses Israel of receiving shipments of grain 'stolen' by Russia",
       "url": "https://www.bbc.com/news/articles/cqjplqgd1r2o?at_medium=RSS&at_campaign=rss",
       "summary": "Israel's foreign minister says it has received no evidence to support the claim that a vessel carrying grain from occupied Ukraine has reach…",
@@ -817,7 +808,7 @@
     {
       "country_code": "FR",
       "country_name": "France",
-      "news_count": 5
+      "news_count": 4
     },
     {
       "country_code": "GB",
