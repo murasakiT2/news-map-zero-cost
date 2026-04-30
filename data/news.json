@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-04-30T05:26:16Z",
+  "generated_at": "2026-04-30T07:40:47Z",
   "articles": [
+    {
+      "source": "BBC Asia",
+      "title": "Singapore court fines women for pro-Palestinian walk",
+      "url": "https://www.bbc.com/news/articles/cqlpveylelyo?at_medium=RSS&at_campaign=rss",
+      "summary": "This reverses an earlier acquittal of the activists, who had led a walk to support the Palestinian cause.",
+      "published_at": "2026-04-30T06:59:22Z",
+      "country_code": "SG",
+      "country_name": "Singapore"
+    },
+    {
+      "source": "BBC World",
+      "title": "Oil jumps to highest price since 2022 after report Trump to be briefed on new Iran options",
+      "url": "https://www.bbc.com/news/articles/cx21m88rd14o?at_medium=RSS&at_campaign=rss",
+      "summary": "Axios reported that US Central Command has prepared a plan for a wave of \"short and powerful\" strikes on Iran.",
+      "published_at": "2026-04-30T06:55:42Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "King and Queen lay flowers at 9/11 Memorial in New York",
+      "url": "https://www.bbc.com/news/articles/cd7pxnv4j7ro?at_medium=RSS&at_campaign=rss",
+      "summary": "King Charles and Queen Camilla on their state visit to the US visit the memorial in New York.",
+      "published_at": "2026-04-30T06:30:56Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC Asia",
+      "title": "China to ban drone sales in Beijing citing security concerns",
+      "url": "https://www.bbc.com/news/articles/c4gv4dvngygo?at_medium=RSS&at_campaign=rss",
+      "summary": "Drone users will also be required to register their devices and secure permits before flying them.",
+      "published_at": "2026-04-30T05:45:54Z",
+      "country_code": "CN",
+      "country_name": "China"
+    },
     {
       "source": "BBC World",
       "title": "Christchurch mass killer loses bid to overturn conviction",
@@ -11,11 +47,11 @@
       "country_name": "New Zealand"
     },
     {
-      "source": "BBC World",
-      "title": "Oil jumps to highest price since 2022 after report Trump to be briefed on new Iran options",
-      "url": "https://www.bbc.com/news/articles/cx21m88rd14o?at_medium=RSS&at_campaign=rss",
-      "summary": "Axios reported that US Central Command has prepared a plan for a wave of \"short and powerful\" strikes on Iran.",
-      "published_at": "2026-04-30T04:06:01Z",
+      "source": "BBC Europe",
+      "title": "Trump says US studying troop cuts in Germany, after Merz criticises war",
+      "url": "https://www.bbc.com/news/articles/clyplg23l30o?at_medium=RSS&at_campaign=rss",
+      "summary": "His remarks come after the German chancellor criticised the US approach to the war in Iran.",
+      "published_at": "2026-04-30T03:25:51Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -81,15 +117,6 @@
       "published_at": "2026-04-29T23:35:30Z",
       "country_code": "CA",
       "country_name": "Canada"
-    },
-    {
-      "source": "BBC World",
-      "title": "King and Queen lay flowers at 9/11 Memorial in New York",
-      "url": "https://www.bbc.com/news/articles/cd7pxnv4j7ro?at_medium=RSS&at_campaign=rss",
-      "summary": "King Charles and Queen Camilla on their state visit to the US visit the memorial in New York.",
-      "published_at": "2026-04-29T23:33:22Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC World",
@@ -165,7 +192,7 @@
     },
     {
       "source": "BBC US & Canada",
-      "title": "In pictures: King and Queen pay respects at the National September 11 Memorial",
+      "title": "In pictures: King and Queen in New York on third day of state visit",
       "url": "https://www.bbc.com/news/articles/c86e6z26xdpo?at_medium=RSS&at_campaign=rss",
       "summary": "King Charles III and Queen Camilla continued their state visit to the US by attending a ceremony at the National September 11 Memorial in Ne…",
       "published_at": "2026-04-29T18:21:25Z",
@@ -396,15 +423,6 @@
       "published_at": "2026-04-28T14:52:19Z",
       "country_code": "FR",
       "country_name": "France"
-    },
-    {
-      "source": "BBC Europe",
-      "title": "Third Ukrainian strike hits Russian oil refinery and prompts evacuations",
-      "url": "https://www.bbc.com/news/articles/cvgzd4qk7qgo?at_medium=RSS&at_campaign=rss",
-      "summary": "Residents near a burning refinery in Tuapse are told to leave, and the Kremlin accuses Kyiv of destabilising global energy markets.",
-      "published_at": "2026-04-28T14:32:20Z",
-      "country_code": "UA",
-      "country_name": "Ukraine"
     },
     {
       "source": "BBC Middle East",
@@ -879,7 +897,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 34
+      "news_count": 35
     },
     {
       "country_code": "IL",
@@ -899,11 +917,6 @@
     {
       "country_code": "NG",
       "country_name": "Nigeria",
-      "news_count": 4
-    },
-    {
-      "country_code": "UA",
-      "country_name": "Ukraine",
       "news_count": 4
     },
     {
@@ -929,6 +942,11 @@
     {
       "country_code": "RU",
       "country_name": "Russia",
+      "news_count": 3
+    },
+    {
+      "country_code": "UA",
+      "country_name": "Ukraine",
       "news_count": 3
     },
     {
@@ -977,6 +995,11 @@
       "news_count": 1
     },
     {
+      "country_code": "CN",
+      "country_name": "China",
+      "news_count": 1
+    },
+    {
       "country_code": "ES",
       "country_name": "Spain",
       "news_count": 1
@@ -1009,6 +1032,11 @@
     {
       "country_code": "SD",
       "country_name": "Sudan",
+      "news_count": 1
+    },
+    {
+      "country_code": "SG",
+      "country_name": "Singapore",
       "news_count": 1
     },
     {
