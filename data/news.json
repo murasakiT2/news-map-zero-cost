@@ -1,14 +1,41 @@
 {
-  "generated_at": "2026-04-30T19:54:07Z",
+  "generated_at": "2026-04-30T20:49:52Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Israel intercepts Gaza flotilla near Crete and detains 175 activists",
+      "url": "https://www.bbc.com/news/articles/c4g4lk9m77vo?at_medium=RSS&at_campaign=rss",
+      "summary": "Pro-Palestinian activists say 22 boats carrying aid for Gaza were illegally intercepted in international waters near the Greek island.",
+      "published_at": "2026-04-30T20:34:26Z",
+      "country_code": "IL",
+      "country_name": "Israel"
+    },
     {
       "source": "BBC World",
       "title": "US House votes to end government shutdown over immigration operations",
       "url": "https://www.bbc.com/news/articles/ce3pw5x3z54o?at_medium=RSS&at_campaign=rss",
-      "summary": "The bill, already cleared by the US Senate, now moves to the desk of President Donald Trump who is expected to swiftly sign the legislation.",
-      "published_at": "2026-04-30T19:12:03Z",
+      "summary": "The vote provides funding for most Department of Homeland Security agencies, except for two subagencies responsible for immigration enforcem…",
+      "published_at": "2026-04-30T20:33:32Z",
       "country_code": "US",
       "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Trump says US studying troop cuts in Germany, as spat with Merz intensifies",
+      "url": "https://www.bbc.com/news/articles/clyplg23l30o?at_medium=RSS&at_campaign=rss",
+      "summary": "His remarks come after the German chancellor criticised the US approach to the war in Iran.",
+      "published_at": "2026-04-30T20:15:20Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Belgium plans to nationalise nuclear power plants",
+      "url": "https://www.bbc.com/news/articles/c4g05jg87wko?at_medium=RSS&at_campaign=rss",
+      "summary": "Prime Minister Bart De Wever said the move would see \"less dependence on fossil fuel imports and more control over our own supply\".",
+      "published_at": "2026-04-30T19:50:29Z",
+      "country_code": "BE",
+      "country_name": "Belgium"
     },
     {
       "source": "BBC World",
@@ -18,15 +45,6 @@
       "published_at": "2026-04-30T18:05:26Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "Israel intercepts Gaza flotilla near Crete and detains 175 activists",
-      "url": "https://www.bbc.com/news/articles/c4g4lk9m77vo?at_medium=RSS&at_campaign=rss",
-      "summary": "Pro-Palestinian activists say 22 boats carrying aid for Gaza were illegally intercepted in international waters near the Greek island.",
-      "published_at": "2026-04-30T16:07:53Z",
-      "country_code": "IL",
-      "country_name": "Israel"
     },
     {
       "source": "BBC Europe",
@@ -63,15 +81,6 @@
       "published_at": "2026-04-30T14:47:44Z",
       "country_code": "RU",
       "country_name": "Russia"
-    },
-    {
-      "source": "BBC World",
-      "title": "Trump says US studying troop cuts in Germany, as spat with Merz intensifies",
-      "url": "https://www.bbc.com/news/articles/clyplg23l30o?at_medium=RSS&at_campaign=rss",
-      "summary": "His remarks come after the German chancellor criticised the US approach to the war in Iran.",
-      "published_at": "2026-04-30T14:31:49Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC Middle East",
@@ -587,15 +596,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Middle East",
-      "title": "Did Trump save eight Iranian women from execution?",
-      "url": "https://www.bbc.com/news/videos/cx2e2lg2ny9o?at_medium=RSS&at_campaign=rss",
-      "summary": "The US president says he saved eight Iranian women from execution, but Iran says otherwise.",
-      "published_at": "2026-04-26T19:16:58Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC Latin America",
       "title": "Voice notes are massive in some countries but not the UK - here's why",
       "url": "https://www.bbc.com/news/articles/cn7kpyye4y0o?at_medium=RSS&at_campaign=rss",
@@ -915,7 +915,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 36
+      "news_count": 35
     },
     {
       "country_code": "IL",
@@ -973,6 +973,11 @@
       "news_count": 3
     },
     {
+      "country_code": "BE",
+      "country_name": "Belgium",
+      "news_count": 2
+    },
+    {
       "country_code": "CN",
       "country_name": "China",
       "news_count": 2
@@ -990,11 +995,6 @@
     {
       "country_code": "AU",
       "country_name": "Australia",
-      "news_count": 1
-    },
-    {
-      "country_code": "BE",
-      "country_name": "Belgium",
       "news_count": 1
     },
     {
