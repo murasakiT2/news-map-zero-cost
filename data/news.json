@@ -1,23 +1,41 @@
 {
-  "generated_at": "2026-04-30T15:25:30Z",
+  "generated_at": "2026-04-30T16:53:14Z",
   "articles": [
-    {
-      "source": "BBC World",
-      "title": "Trainee driver crashes bus into River Seine",
-      "url": "https://www.bbc.com/news/articles/cm2pyxpwmdro?at_medium=RSS&at_campaign=rss",
-      "summary": "The driver hit a parked car and veered off the road into the river - about 12 miles south of Paris - early on Thursday.",
-      "published_at": "2026-04-30T14:54:47Z",
-      "country_code": "FR",
-      "country_name": "France"
-    },
     {
       "source": "BBC World",
       "title": "Israel intercepts Gaza flotilla near Crete and detains 175 activists",
       "url": "https://www.bbc.com/news/articles/c4g4lk9m77vo?at_medium=RSS&at_campaign=rss",
       "summary": "Pro-Palestinian activists say 22 boats carrying aid for Gaza were illegally intercepted in international waters near the Greek island.",
-      "published_at": "2026-04-30T14:37:33Z",
+      "published_at": "2026-04-30T16:07:53Z",
       "country_code": "IL",
       "country_name": "Israel"
+    },
+    {
+      "source": "BBC Europe",
+      "title": "Wada investigation finds 300 Russian doping cases",
+      "url": "https://www.bbc.com/sport/articles/cx21k881djlo?at_medium=RSS&at_campaign=rss",
+      "summary": "More than 300 sanctions have been handed to Russian athletes following the seizure of Moscow laboratory data in 2019, the World Anti-Doping …",
+      "published_at": "2026-04-30T16:00:31Z",
+      "country_code": "RU",
+      "country_name": "Russia"
+    },
+    {
+      "source": "BBC World",
+      "title": "Trainee driver crashes bus into River Seine",
+      "url": "https://www.bbc.com/news/articles/cm2pyxpwmdro?at_medium=RSS&at_campaign=rss",
+      "summary": "The driver hit a parked car and veered off the road into the river - about 12 miles south of Paris - early on Thursday.",
+      "published_at": "2026-04-30T15:34:09Z",
+      "country_code": "FR",
+      "country_name": "France"
+    },
+    {
+      "source": "BBC Europe",
+      "title": "Ukraine expands oil strikes on Russia as Putin proposes brief ceasefire",
+      "url": "https://www.bbc.com/news/articles/cx21mlr8kk3o?at_medium=RSS&at_campaign=rss",
+      "summary": "In a phone call with President Trump, Putin proposed a ceasefire on 9 May, the anniversary of the defeat of Nazi Germany in WW2.",
+      "published_at": "2026-04-30T14:47:44Z",
+      "country_code": "RU",
+      "country_name": "Russia"
     },
     {
       "source": "BBC World",
@@ -245,15 +263,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
-      "title": "Seven lawsuits filed against OpenAI by families of Canada mass-shooting victims",
-      "url": "https://www.bbc.com/news/articles/c99l03k0ly4o?at_medium=RSS&at_campaign=rss",
-      "summary": "The lawsuits, filed in California, accuse OpenAI and Sam Altman of negligence and abetting a mass shooting by failing to flag the suspect's …",
-      "published_at": "2026-04-29T19:51:55Z",
-      "country_code": "CA",
-      "country_name": "Canada"
-    },
-    {
       "source": "BBC Europe",
       "title": "Hungary's next PM says frozen EU funds will be paid out soon",
       "url": "https://www.bbc.com/news/articles/c392ln77w30o?at_medium=RSS&at_campaign=rss",
@@ -308,22 +317,13 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "Russia scales back Moscow Victory Day parade, blaming threat from Ukraine",
       "url": "https://www.bbc.com/news/articles/c794wp4yy93o?at_medium=RSS&at_campaign=rss",
       "summary": "Russia says the annual commemoration of Soviet victory in World War Two will not feature military vehicles or cadets.",
       "published_at": "2026-04-29T13:01:57Z",
       "country_code": "RU",
       "country_name": "Russia"
-    },
-    {
-      "source": "BBC Africa",
-      "title": "Endangered antelopes flown to Kenya from Czech Republic in 'historic homecoming'",
-      "url": "https://www.bbc.com/news/articles/c202l3gzvp7o?at_medium=RSS&at_campaign=rss",
-      "summary": "The mountain bongo is a rare antelope endemic to Kenyan highland forests, with less than 100 in the wild.",
-      "published_at": "2026-04-29T09:37:23Z",
-      "country_code": "KE",
-      "country_name": "Kenya"
     },
     {
       "source": "BBC Asia",
@@ -459,15 +459,6 @@
       "published_at": "2026-04-28T15:55:46Z",
       "country_code": "AE",
       "country_name": "United Arab Emirates"
-    },
-    {
-      "source": "BBC Europe",
-      "title": "France murder victim identified after 20 years and suspect arrested",
-      "url": "https://www.bbc.com/news/articles/ckg9g8pwggqo?at_medium=RSS&at_campaign=rss",
-      "summary": "Hakima Boukerouis is the fifth woman to be identified through an international police campaign.",
-      "published_at": "2026-04-28T14:52:19Z",
-      "country_code": "FR",
-      "country_name": "France"
     },
     {
       "source": "BBC Middle East",
@@ -909,19 +900,24 @@
       "news_count": 34
     },
     {
-      "country_code": "KE",
-      "country_name": "Kenya",
-      "news_count": 7
-    },
-    {
       "country_code": "IL",
       "country_name": "Israel",
       "news_count": 6
     },
     {
+      "country_code": "KE",
+      "country_name": "Kenya",
+      "news_count": 6
+    },
+    {
+      "country_code": "RU",
+      "country_name": "Russia",
+      "news_count": 5
+    },
+    {
       "country_code": "FR",
       "country_name": "France",
-      "news_count": 5
+      "news_count": 4
     },
     {
       "country_code": "IR",
@@ -954,19 +950,9 @@
       "news_count": 3
     },
     {
-      "country_code": "RU",
-      "country_name": "Russia",
-      "news_count": 3
-    },
-    {
       "country_code": "UA",
       "country_name": "Ukraine",
       "news_count": 3
-    },
-    {
-      "country_code": "CA",
-      "country_name": "Canada",
-      "news_count": 2
     },
     {
       "country_code": "CN",
@@ -996,6 +982,11 @@
     {
       "country_code": "BR",
       "country_name": "Brazil",
+      "news_count": 1
+    },
+    {
+      "country_code": "CA",
+      "country_name": "Canada",
       "news_count": 1
     },
     {
