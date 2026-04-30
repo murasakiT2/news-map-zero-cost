@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-04-30T16:53:14Z",
+  "generated_at": "2026-04-30T18:03:50Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "US House votes to end government shutdown over immigration operations",
+      "url": "https://www.bbc.com/news/articles/ce3pw5x3z54o?at_medium=RSS&at_campaign=rss",
+      "summary": "The bill, already passed in the US Senate, now moves to the desk of President Donald Trump who is expected to swiftly sign the legislation.",
+      "published_at": "2026-04-30T17:55:02Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "Israel intercepts Gaza flotilla near Crete and detains 175 activists",
@@ -27,6 +36,15 @@
       "published_at": "2026-04-30T15:34:09Z",
       "country_code": "FR",
       "country_name": "France"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "'It's just ridiculous': Americans react to gas prices",
+      "url": "https://www.bbc.com/news/videos/c4g4ljk123po?at_medium=RSS&at_campaign=rss",
+      "summary": "Energy prices are rising as US peace talks with Iran appear to have stalled, with the key Strait of Hormuz waterway still effectively closed…",
+      "published_at": "2026-04-30T15:03:00Z",
+      "country_code": "US",
+      "country_name": "United States"
     },
     {
       "source": "BBC Europe",
@@ -362,7 +380,7 @@
       "country_name": "Spain"
     },
     {
-      "source": "BBC US & Canada",
+      "source": "BBC Middle East",
       "title": "Former US officials criticise Pentagon silence on deadly Iran school attack",
       "url": "https://www.bbc.com/news/articles/cwy2482pn0lo?at_medium=RSS&at_campaign=rss",
       "summary": "In the two months since the deadly strike, the US defence department has said only that the incident is under investigation.",
@@ -897,7 +915,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 34
+      "news_count": 36
     },
     {
       "country_code": "IL",
