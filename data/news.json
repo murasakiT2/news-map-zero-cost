@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-05-01T14:52:47Z",
+  "generated_at": "2026-05-01T15:44:50Z",
   "articles": [
+    {
+      "source": "BBC Middle East",
+      "title": "Israeli police arrest man after nun attacked in Jerusalem",
+      "url": "https://www.bbc.com/news/articles/cy02gnzlvkko?at_medium=RSS&at_campaign=rss",
+      "summary": "The French nun was pushed over and kicked in the apparently unprovoked assault, amid a rise in harassment of Christians in the city by Jewis…",
+      "published_at": "2026-05-01T14:57:40Z",
+      "country_code": "IL",
+      "country_name": "Israel"
+    },
     {
       "source": "BBC World",
       "title": "US imposes sanctions on DR Congo ex-President Kabila alleging rebel support",
@@ -9,15 +18,6 @@
       "published_at": "2026-05-01T14:47:46Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC Middle East",
-      "title": "Israeli police arrest man after nun attacked in Jerusalem",
-      "url": "https://www.bbc.com/news/articles/cy02gnzlvkko?at_medium=RSS&at_campaign=rss",
-      "summary": "The French nun was pushed over and kicked during the assault, amid a rise in harassment of Christians in the city by Jewish extremists.",
-      "published_at": "2026-05-01T14:47:29Z",
-      "country_code": "IL",
-      "country_name": "Israel"
     },
     {
       "source": "BBC World",
@@ -479,15 +479,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Europe",
-      "title": "A record-breaking semi-final - the antidote to modern football?",
-      "url": "https://www.bbc.com/sport/football/articles/cp3pd2kgy76o?at_medium=RSS&at_campaign=rss",
-      "summary": "A scintillating semi-final first leg between Paris St-Germain and Bayern Munich left many to wonder if this was the antidote to modern footb…",
-      "published_at": "2026-04-28T23:33:30Z",
-      "country_code": "FR",
-      "country_name": "France"
-    },
-    {
       "source": "BBC Asia",
       "title": "A faraway conflict threatens livelihoods in India's glass hub",
       "url": "https://www.bbc.com/news/articles/ce8pdv86359o?at_medium=RSS&at_campaign=rss",
@@ -938,11 +929,6 @@
       "news_count": 6
     },
     {
-      "country_code": "FR",
-      "country_name": "France",
-      "news_count": 4
-    },
-    {
       "country_code": "NG",
       "country_name": "Nigeria",
       "news_count": 4
@@ -950,6 +936,11 @@
     {
       "country_code": "CN",
       "country_name": "China",
+      "news_count": 3
+    },
+    {
+      "country_code": "FR",
+      "country_name": "France",
       "news_count": 3
     },
     {
