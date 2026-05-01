@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-05-01T08:00:47Z",
+  "generated_at": "2026-05-01T10:00:03Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "US imposes sanctions on DR Congo ex-President Kabila alleging rebel support",
+      "url": "https://www.bbc.com/news/articles/clyprzx10w2o?at_medium=RSS&at_campaign=rss",
+      "summary": "The former leader has not responded to US accusations that he is aiming to destabilise the government.",
+      "published_at": "2026-05-01T09:37:26Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC US & Canada",
       "title": "Trump to remove whisky tariffs after King's visit",
@@ -9,6 +18,24 @@
       "published_at": "2026-05-01T07:52:56Z",
       "country_code": "US",
       "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Is Saudi Arabia's sports revolution unravelling?",
+      "url": "https://www.bbc.com/sport/articles/cglp42nnyeko?at_medium=RSS&at_campaign=rss",
+      "summary": "Saudi Arabia will withdraw its multi-billion dollar backing of LIV Golf, but what does this mean for the country's other sporting investment…",
+      "published_at": "2026-05-01T07:49:18Z",
+      "country_code": "SA",
+      "country_name": "Saudi Arabia"
+    },
+    {
+      "source": "BBC World",
+      "title": "Brazil's Congress approves plan to drastically cut Bolsonaro's jail term",
+      "url": "https://www.bbc.com/news/articles/cqlpvl3wx4qo?at_medium=RSS&at_campaign=rss",
+      "summary": "Last year ex-president Jair Bolsonaro was sentenced to 27 years in jail for plotting a coup after losing an election.",
+      "published_at": "2026-05-01T05:58:20Z",
+      "country_code": "BR",
+      "country_name": "Brazil"
     },
     {
       "source": "BBC World",
@@ -38,7 +65,7 @@
       "country_name": "China"
     },
     {
-      "source": "BBC Asia",
+      "source": "BBC World",
       "title": "It's not just oil: Iran war also threatens Asia's food security",
       "url": "https://www.bbc.com/news/articles/c208yl1jkl7o?at_medium=RSS&at_campaign=rss",
       "summary": "Planting season is beginning in Asia - but the closure of the Strait of Hormuz and Chinese restrictions has hit fertiliser supply.",
@@ -324,24 +351,6 @@
       "published_at": "2026-04-29T19:51:54Z",
       "country_code": "BE",
       "country_name": "Belgium"
-    },
-    {
-      "source": "BBC Europe",
-      "title": "France urges citizens to leave Mali after rebel attacks",
-      "url": "https://www.bbc.com/news/articles/cp3pdgvpn27o?at_medium=RSS&at_campaign=rss",
-      "summary": "The UK has issued similar advice, telling citizens who stay, that they do so at their own risk.",
-      "published_at": "2026-04-29T16:46:38Z",
-      "country_code": "GB",
-      "country_name": "United Kingdom"
-    },
-    {
-      "source": "BBC World",
-      "title": "In five charts - How UAE's exit could affect Opec's influence over the oil price",
-      "url": "https://www.bbc.com/news/articles/c70vjpny0dno?at_medium=RSS&at_campaign=rss",
-      "summary": "The BBC takes a look in charts at what the UAE's departure could mean for the oil cartel and more widely.",
-      "published_at": "2026-04-29T16:37:08Z",
-      "country_code": "AE",
-      "country_name": "United Arab Emirates"
     },
     {
       "source": "BBC Middle East",
@@ -749,15 +758,6 @@
       "country_name": "Kenya"
     },
     {
-      "source": "BBC Africa",
-      "title": "'They told me he was dead': Children born near Kenyan army base learn truth about UK soldier dads",
-      "url": "https://www.bbc.com/news/articles/c895k3537kgo?at_medium=RSS&at_campaign=rss",
-      "summary": "A DNA and legal project has identified the fathers of 20 children born near a military base in Kenya.",
-      "published_at": "2026-04-19T23:07:52Z",
-      "country_code": "GB",
-      "country_name": "United Kingdom"
-    },
-    {
       "source": "BBC Middle East",
       "title": "What people in power think the impact of the Iran war will be",
       "url": "https://www.bbc.com/news/articles/c9vl37eev7ko?at_medium=RSS&at_campaign=rss",
@@ -888,7 +888,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 34
+      "news_count": 35
     },
     {
       "country_code": "IL",
@@ -921,18 +921,8 @@
       "news_count": 4
     },
     {
-      "country_code": "AE",
-      "country_name": "United Arab Emirates",
-      "news_count": 3
-    },
-    {
       "country_code": "CN",
       "country_name": "China",
-      "news_count": 3
-    },
-    {
-      "country_code": "GB",
-      "country_name": "United Kingdom",
       "news_count": 3
     },
     {
@@ -941,8 +931,18 @@
       "news_count": 3
     },
     {
+      "country_code": "AE",
+      "country_name": "United Arab Emirates",
+      "news_count": 2
+    },
+    {
       "country_code": "BE",
       "country_name": "Belgium",
+      "news_count": 2
+    },
+    {
+      "country_code": "BR",
+      "country_name": "Brazil",
       "news_count": 2
     },
     {
@@ -966,11 +966,6 @@
       "news_count": 1
     },
     {
-      "country_code": "BR",
-      "country_name": "Brazil",
-      "news_count": 1
-    },
-    {
       "country_code": "CA",
       "country_name": "Canada",
       "news_count": 1
@@ -986,6 +981,11 @@
       "news_count": 1
     },
     {
+      "country_code": "GB",
+      "country_name": "United Kingdom",
+      "news_count": 1
+    },
+    {
       "country_code": "KR",
       "country_name": "South Korea",
       "news_count": 1
@@ -998,6 +998,11 @@
     {
       "country_code": "PL",
       "country_name": "Poland",
+      "news_count": 1
+    },
+    {
+      "country_code": "SA",
+      "country_name": "Saudi Arabia",
       "news_count": 1
     },
     {
