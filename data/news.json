@@ -1,14 +1,41 @@
 {
-  "generated_at": "2026-05-01T18:56:18Z",
+  "generated_at": "2026-05-01T20:00:42Z",
   "articles": [
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
+      "title": "Trump says he will hike tariffs on EU cars to 25%",
+      "url": "https://www.bbc.com/news/articles/c4g8zpylzz9o?at_medium=RSS&at_campaign=rss",
+      "summary": "The current level of tariffs charged on goods entering the US from the EU is 15%, under a deal negotiated last July.",
+      "published_at": "2026-05-01T19:42:56Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC US & Canada",
       "title": "Trump repeats that he is 'not happy' with Iran as deadline to seek approval for war looms",
       "url": "https://www.bbc.com/news/articles/cvgz7l5v03po?at_medium=RSS&at_campaign=rss",
       "summary": "President Trump said on Friday that said a deal has been hard to reach in part because Iranian leadership was \"very confused\".",
-      "published_at": "2026-05-01T18:41:20Z",
+      "published_at": "2026-05-01T19:31:27Z",
       "country_code": "IR",
       "country_name": "Iran"
+    },
+    {
+      "source": "BBC World",
+      "title": "Trump tells Congress ceasefire means he does not need their approval for Iran war",
+      "url": "https://www.bbc.com/news/articles/c4g4xexy4w7o?at_medium=RSS&at_campaign=rss",
+      "summary": "The president writes that hostilities \"have terminated\" because of the ceasefire, arguing he does not need congressional authorisation.",
+      "published_at": "2026-05-01T19:29:06Z",
+      "country_code": "IR",
+      "country_name": "Iran"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "Jury convicts former Florida congressman in Venezuela lobbying case",
+      "url": "https://www.bbc.com/news/articles/c1524vdn9dqo?at_medium=RSS&at_campaign=rss",
+      "summary": "David Rivera, Marco Rubio's former housemate, was accused of accepting millions from the Maduro regime to lobby US politicians.",
+      "published_at": "2026-05-01T19:09:23Z",
+      "country_code": "US",
+      "country_name": "United States"
     },
     {
       "source": "BBC World",
@@ -27,15 +54,6 @@
       "published_at": "2026-05-01T17:03:11Z",
       "country_code": "IL",
       "country_name": "Israel"
-    },
-    {
-      "source": "BBC Europe",
-      "title": "Trump says he will hike tariffs on EU cars to 25%",
-      "url": "https://www.bbc.com/news/articles/c4g8zpylzz9o?at_medium=RSS&at_campaign=rss",
-      "summary": "The current level of tariffs charged on goods entering the US from the EU is 15%, under a deal negotiated last July.",
-      "published_at": "2026-05-01T16:41:46Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC World",
@@ -897,16 +915,16 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 33
-    },
-    {
-      "country_code": "IL",
-      "country_name": "Israel",
-      "news_count": 8
+      "news_count": 34
     },
     {
       "country_code": "IR",
       "country_name": "Iran",
+      "news_count": 9
+    },
+    {
+      "country_code": "IL",
+      "country_name": "Israel",
       "news_count": 8
     },
     {
