@@ -1,12 +1,30 @@
 {
-  "generated_at": "2026-05-01T22:09:02Z",
+  "generated_at": "2026-05-01T23:11:46Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Thousands of 'lost Canadians' have applied for dual citizenship - is Canada ready?",
+      "url": "https://www.bbc.com/news/articles/cp8pmnlejgro?at_medium=RSS&at_campaign=rss",
+      "summary": "Changes to Canadian citizenship rules have led to thousands of new applications - many coming from the US.",
+      "published_at": "2026-05-01T23:02:27Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Love, lies, angry ghosts: Indians are bingeing on two-minute dramas",
+      "url": "https://www.bbc.com/news/articles/c3v2k3xvr04o?at_medium=RSS&at_campaign=rss",
+      "summary": "Some of India's biggest producers are eyeing investments in micro-dramas, which are now hugely popular.",
+      "published_at": "2026-05-01T22:36:58Z",
+      "country_code": "IN",
+      "country_name": "India"
+    },
     {
       "source": "BBC World",
       "title": "US to cut troop levels in Germany by 5,000 amid Trump spat with Merz",
       "url": "https://www.bbc.com/news/articles/c0729d374mxo?at_medium=RSS&at_campaign=rss",
       "summary": "The decision to reduce the US deployment to Germany comes amid a row between the two allies over Iran.",
-      "published_at": "2026-05-01T22:06:05Z",
+      "published_at": "2026-05-01T22:35:07Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -45,6 +63,15 @@
       "published_at": "2026-05-01T19:31:27Z",
       "country_code": "IR",
       "country_name": "Iran"
+    },
+    {
+      "source": "BBC World",
+      "title": "Australia wants to be first nation in the world to eliminate a cancer - can it?",
+      "url": "https://www.bbc.com/news/articles/cd6w15vgp7lo?at_medium=RSS&at_campaign=rss",
+      "summary": "For the first time, Australia has recorded no new cervical cancer diganoses in women under 25.",
+      "published_at": "2026-05-01T19:30:36Z",
+      "country_code": "AU",
+      "country_name": "Australia"
     },
     {
       "source": "BBC US & Canada",
@@ -137,7 +164,7 @@
       "country_name": "Iran"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "Trump signs bill to end record shutdown over immigration enforcement",
       "url": "https://www.bbc.com/news/articles/ce3pw5x3z54o?at_medium=RSS&at_campaign=rss",
       "summary": "The shutdown caused chaos in airports across the US as politicians feuded over funds for Trump's immigration crackdown.",
@@ -155,7 +182,7 @@
       "country_name": "China"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "It's not just oil: Iran war also threatens Asia's food security",
       "url": "https://www.bbc.com/news/articles/c208yl1jkl7o?at_medium=RSS&at_campaign=rss",
       "summary": "Planting season is beginning in Asia - but the closure of the Strait of Hormuz and Chinese restrictions has hit fertiliser supply.",
@@ -191,7 +218,7 @@
       "country_name": "Israel"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "Trump says US studying troop cuts in Germany, as spat with Merz intensifies",
       "url": "https://www.bbc.com/news/articles/clyplg23l30o?at_medium=RSS&at_campaign=rss",
       "summary": "His remarks come after the German chancellor criticised the US approach to the war in Iran.",
@@ -353,7 +380,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "The sub-Arctic town pitching itself as Canada's gateway to Europe",
       "url": "https://www.bbc.com/news/articles/cyv1zdey7pmo?at_medium=RSS&at_campaign=rss",
       "summary": "Churchill, Manitoba, best known as the world's polar bear capital, has ambitions of making its deep-water port a year-round trade route.",
@@ -915,7 +942,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 34
+      "news_count": 35
     },
     {
       "country_code": "IR",
@@ -958,6 +985,11 @@
       "news_count": 2
     },
     {
+      "country_code": "AU",
+      "country_name": "Australia",
+      "news_count": 2
+    },
+    {
       "country_code": "BE",
       "country_name": "Belgium",
       "news_count": 2
@@ -978,6 +1010,11 @@
       "news_count": 2
     },
     {
+      "country_code": "IN",
+      "country_name": "India",
+      "news_count": 2
+    },
+    {
       "country_code": "MX",
       "country_name": "Mexico",
       "news_count": 2
@@ -986,11 +1023,6 @@
       "country_code": "TR",
       "country_name": "Turkey",
       "news_count": 2
-    },
-    {
-      "country_code": "AU",
-      "country_name": "Australia",
-      "news_count": 1
     },
     {
       "country_code": "CA",
@@ -1010,11 +1042,6 @@
     {
       "country_code": "GB",
       "country_name": "United Kingdom",
-      "news_count": 1
-    },
-    {
-      "country_code": "IN",
-      "country_name": "India",
       "news_count": 1
     },
     {
