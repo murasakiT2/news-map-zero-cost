@@ -1,12 +1,21 @@
 {
-  "generated_at": "2026-05-01T15:44:50Z",
+  "generated_at": "2026-05-01T16:43:53Z",
   "articles": [
     {
-      "source": "BBC Middle East",
+      "source": "BBC World",
+      "title": "Turkish police arrest more than 500 people at May Day rallies",
+      "url": "https://www.bbc.com/news/articles/cwy2x7rq3nqo?at_medium=RSS&at_campaign=rss",
+      "summary": "Turkey sees significant police deployments on 1 May each year, when marches led by workers and unions are held.",
+      "published_at": "2026-05-01T16:14:58Z",
+      "country_code": "TR",
+      "country_name": "Turkey"
+    },
+    {
+      "source": "BBC World",
       "title": "Israeli police arrest man after nun attacked in Jerusalem",
       "url": "https://www.bbc.com/news/articles/cy02gnzlvkko?at_medium=RSS&at_campaign=rss",
       "summary": "The French nun was pushed over and kicked in the apparently unprovoked assault, amid a rise in harassment of Christians in the city by Jewis…",
-      "published_at": "2026-05-01T14:57:40Z",
+      "published_at": "2026-05-01T15:51:58Z",
       "country_code": "IL",
       "country_name": "Israel"
     },
@@ -126,15 +135,6 @@
       "published_at": "2026-04-30T23:44:00Z",
       "country_code": "RU",
       "country_name": "Russia"
-    },
-    {
-      "source": "BBC World",
-      "title": "US singer D4vd bought tools online to dispose of girl's body, prosecutors allege",
-      "url": "https://www.bbc.com/news/articles/cvgzll79529o?at_medium=RSS&at_campaign=rss",
-      "summary": "The Tiktok star's attorneys have maintained his innocence and vowed to \"vigorously defend\" him.",
-      "published_at": "2026-04-30T22:51:57Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC US & Canada",
@@ -318,15 +318,6 @@
     },
     {
       "source": "BBC World",
-      "title": "Indians lost $2.5bn to digital fraud in 2025 - now its central bank is fighting back",
-      "url": "https://www.bbc.com/news/articles/cp3l3p7lzppo?at_medium=RSS&at_campaign=rss",
-      "summary": "The RBI is mulling measures to tackle rising cases of digital fraud in India - but will they work?",
-      "published_at": "2026-04-29T23:36:31Z",
-      "country_code": "IN",
-      "country_name": "India"
-    },
-    {
-      "source": "BBC World",
       "title": "The sub-Arctic town pitching itself as Canada's gateway to Europe",
       "url": "https://www.bbc.com/news/articles/cyv1zdey7pmo?at_medium=RSS&at_campaign=rss",
       "summary": "Churchill, Manitoba, best known as the world's polar bear capital, has ambitions of making its deep-water port a year-round trade route.",
@@ -335,7 +326,7 @@
       "country_name": "Canada"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "A son overlooked and a jailed tycoon: Inside Samsung's succession drama",
       "url": "https://www.bbc.com/news/articles/c9d313g91g4o?at_medium=RSS&at_campaign=rss",
       "summary": "The family dynasty behind Samsung is so complicated it regularly makes headline news in South Korea.",
@@ -906,7 +897,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 34
+      "news_count": 33
     },
     {
       "country_code": "IL",
@@ -969,13 +960,13 @@
       "news_count": 2
     },
     {
-      "country_code": "IN",
-      "country_name": "India",
+      "country_code": "MX",
+      "country_name": "Mexico",
       "news_count": 2
     },
     {
-      "country_code": "MX",
-      "country_name": "Mexico",
+      "country_code": "TR",
+      "country_name": "Turkey",
       "news_count": 2
     },
     {
@@ -1001,6 +992,11 @@
     {
       "country_code": "GB",
       "country_name": "United Kingdom",
+      "news_count": 1
+    },
+    {
+      "country_code": "IN",
+      "country_name": "India",
       "news_count": 1
     },
     {
@@ -1036,11 +1032,6 @@
     {
       "country_code": "SY",
       "country_name": "Syria",
-      "news_count": 1
-    },
-    {
-      "country_code": "TR",
-      "country_name": "Turkey",
       "news_count": 1
     },
     {
