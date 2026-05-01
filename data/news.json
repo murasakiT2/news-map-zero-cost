@@ -1,6 +1,33 @@
 {
-  "generated_at": "2026-05-01T13:57:52Z",
+  "generated_at": "2026-05-01T14:52:47Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "US imposes sanctions on DR Congo ex-President Kabila alleging rebel support",
+      "url": "https://www.bbc.com/news/articles/clyprzx10w2o?at_medium=RSS&at_campaign=rss",
+      "summary": "The former leader has not responded to US accusations that he is aiming to destabilise the government.",
+      "published_at": "2026-05-01T14:47:46Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC Middle East",
+      "title": "Israeli police arrest man after nun attacked in Jerusalem",
+      "url": "https://www.bbc.com/news/articles/cy02gnzlvkko?at_medium=RSS&at_campaign=rss",
+      "summary": "The French nun was pushed over and kicked during the assault, amid a rise in harassment of Christians in the city by Jewish extremists.",
+      "published_at": "2026-05-01T14:47:29Z",
+      "country_code": "IL",
+      "country_name": "Israel"
+    },
+    {
+      "source": "BBC World",
+      "title": "Hegseth says clock paused on deadline to seek approval for Iran war",
+      "url": "https://www.bbc.com/news/articles/cvgz7l5v03po?at_medium=RSS&at_campaign=rss",
+      "summary": "The US defence secretary says the timer for the president to report to Congress \"pauses or stops\" in a ceasefire.",
+      "published_at": "2026-05-01T14:42:59Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "Billions of meals at risk due to Iran war, says fertiliser boss",
@@ -12,30 +39,12 @@
     },
     {
       "source": "BBC World",
-      "title": "Hegseth says clock paused on deadline to seek approval for Iran war",
-      "url": "https://www.bbc.com/news/articles/cvgz7l5v03po?at_medium=RSS&at_campaign=rss",
-      "summary": "The US defence secretary says the timer for the president to report to Congress \"pauses or stops\" in a ceasefire.",
-      "published_at": "2026-05-01T11:05:14Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
       "title": "Israel releases all but two activists in Greece after intercepting Gaza aid flotilla",
       "url": "https://www.bbc.com/news/articles/c0m2z0k1gngo?at_medium=RSS&at_campaign=rss",
       "summary": "The Global Sumud Flotilla denounced the interception as \"piracy\", while Israel's foreign ministry called the flotilla a \"PR stunt\".",
       "published_at": "2026-05-01T10:12:57Z",
       "country_code": "IL",
       "country_name": "Israel"
-    },
-    {
-      "source": "BBC World",
-      "title": "US imposes sanctions on DR Congo ex-President Kabila alleging rebel support",
-      "url": "https://www.bbc.com/news/articles/clyprzx10w2o?at_medium=RSS&at_campaign=rss",
-      "summary": "The former leader has not responded to US accusations that he is aiming to destabilise the government.",
-      "published_at": "2026-05-01T09:37:26Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC US & Canada",
@@ -597,15 +606,6 @@
     },
     {
       "source": "BBC Middle East",
-      "title": "Israeli strikes kill 14 in Lebanon amid ongoing ceasefire",
-      "url": "https://www.bbc.com/news/articles/c4gxgv8j7zlo?at_medium=RSS&at_campaign=rss",
-      "summary": "The US announced three days ago that the ceasefire was extended by three weeks after talks.",
-      "published_at": "2026-04-26T22:02:45Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC Middle East",
       "title": "Did Trump save eight Iranian women from execution?",
       "url": "https://www.bbc.com/news/videos/cx2e2lg2ny9o?at_medium=RSS&at_campaign=rss",
       "summary": "The US president says he saved eight Iranian women from execution, but Iran says otherwise.",
@@ -915,12 +915,12 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 35
+      "news_count": 34
     },
     {
       "country_code": "IL",
       "country_name": "Israel",
-      "news_count": 7
+      "news_count": 8
     },
     {
       "country_code": "IR",
