@@ -1,12 +1,30 @@
 {
-  "generated_at": "2026-05-01T05:41:44Z",
+  "generated_at": "2026-05-01T08:00:47Z",
   "articles": [
+    {
+      "source": "BBC US & Canada",
+      "title": "Trump to remove whisky tariffs after King's visit",
+      "url": "https://www.bbc.com/news/articles/cjrp3pew2d5o?at_medium=RSS&at_campaign=rss",
+      "summary": "The US president said he would lift restrictions on Scotland's ability to work with the state of Kentucky on whisky and bourbon.",
+      "published_at": "2026-05-01T07:52:56Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "Trump signs bill to end record shutdown over immigration enforcement",
       "url": "https://www.bbc.com/news/articles/ce3pw5x3z54o?at_medium=RSS&at_campaign=rss",
       "summary": "The shutdown caused chaos in airports across the US as politicians feuded over funds for Trump's immigration crackdown.",
       "published_at": "2026-05-01T02:21:47Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "King arrives in Bermuda after ending US trip with formal farewell to Trump",
+      "url": "https://www.bbc.com/news/articles/cdrpjm47jv4o?at_medium=RSS&at_campaign=rss",
+      "summary": "On the final day of the state visit, the royal couple headed to Virginia for a more informal experience of the US.",
+      "published_at": "2026-05-01T02:19:06Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -30,7 +48,7 @@
     },
     {
       "source": "BBC World",
-      "title": "Venice Biennale jury resigns days before start of exhibition",
+      "title": "Venice Biennale jury resigns days before start of top art exhibition",
       "url": "https://www.bbc.com/news/articles/c78qdg4g80eo?at_medium=RSS&at_campaign=rss",
       "summary": "It follows growing tensions over the return of Russia for the first time since the full-scale invasion of Ukraine.",
       "published_at": "2026-04-30T23:44:00Z",
@@ -43,6 +61,15 @@
       "url": "https://www.bbc.com/news/articles/cvgzll79529o?at_medium=RSS&at_campaign=rss",
       "summary": "The Tiktok star's attorneys have maintained his innocence and vowed to \"vigorously defend\" him.",
       "published_at": "2026-04-30T22:51:57Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "Has the royal state visit saved the special relationship?",
+      "url": "https://www.bbc.com/news/videos/cgmpgkj2wz4o?at_medium=RSS&at_campaign=rss",
+      "summary": "BBC's Sarah Smith looks at whether King Charles' charm offensive with President Trump made a difference to US-UK relations.",
+      "published_at": "2026-04-30T21:45:16Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -191,7 +218,7 @@
       "country_name": "New Zealand"
     },
     {
-      "source": "BBC US & Canada",
+      "source": "BBC Latin America",
       "title": "US charges Mexican governor and other leaders with aiding drug cartel",
       "url": "https://www.bbc.com/news/articles/cpqpzlrd3wwo?at_medium=RSS&at_campaign=rss",
       "summary": "The governor of Sinaloa, Rubén Rocha Moya, hails from the same party as the president of Mexico.",
@@ -218,20 +245,11 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "Watch: Aerial video shows destruction after tornado strikes small Texas town",
       "url": "https://www.bbc.com/news/videos/cvgzlpzglx2o?at_medium=RSS&at_campaign=rss",
       "summary": "A severe storm outbreak has been battering parts of the Midwest and Southern United States for nearly a week.",
       "published_at": "2026-04-30T00:56:23Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "The King and Queen in the Big Apple: What the royals did on their third day in the US",
-      "url": "https://www.bbc.com/news/videos/ce9pj2ygmkno?at_medium=RSS&at_campaign=rss",
-      "summary": "After visiting the 9/11 Memorial, Queen Camilla read to children at the New York Public Library and King Charles visited a community organis…",
-      "published_at": "2026-04-30T00:37:45Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -452,16 +470,7 @@
       "country_name": "Ukraine"
     },
     {
-      "source": "BBC US & Canada",
-      "title": "Watch key moments from the King's address to US Congress",
-      "url": "https://www.bbc.com/news/videos/c5y7d4088v4o?at_medium=RSS&at_campaign=rss",
-      "summary": "It was the first time a sitting British monarch had addressed the chamber since Queen Elizabeth II in 1991.",
-      "published_at": "2026-04-28T21:30:33Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC US & Canada",
+      "source": "BBC Latin America",
       "title": "The other life of US soldier accused of betting on Maduro's removal",
       "url": "https://www.bbc.com/news/articles/clyxd5wrr0wo?at_medium=RSS&at_campaign=rss",
       "summary": "The Army officer charged with using classified information to win $400,000 is also a real estate investor with rave reviews on Airbnb.",
@@ -879,7 +888,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 33
+      "news_count": 34
     },
     {
       "country_code": "IL",
