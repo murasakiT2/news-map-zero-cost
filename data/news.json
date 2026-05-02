@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-05-02T09:37:17Z",
+  "generated_at": "2026-05-02T10:41:24Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Thirteen killed in Israeli strikes on southern Lebanon, health ministry says",
+      "url": "https://www.bbc.com/news/articles/cd7pn0zywggo?at_medium=RSS&at_campaign=rss",
+      "summary": "Four women and a child are among the dead, as fighting between Israel and Iran-backed Hezbollah continues despite a ceasefire.",
+      "published_at": "2026-05-02T09:41:07Z",
+      "country_code": "IL",
+      "country_name": "Israel"
+    },
     {
       "source": "BBC World",
       "title": "US to cut troop levels in Germany by 5,000 amid Trump spat with Merz",
@@ -954,14 +963,14 @@
       "news_count": 37
     },
     {
-      "country_code": "IR",
-      "country_name": "Iran",
+      "country_code": "IL",
+      "country_name": "Israel",
       "news_count": 9
     },
     {
-      "country_code": "IL",
-      "country_name": "Israel",
-      "news_count": 8
+      "country_code": "IR",
+      "country_name": "Iran",
+      "news_count": 9
     },
     {
       "country_code": "KE",
