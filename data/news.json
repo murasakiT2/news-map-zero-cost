@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-05-01T23:11:46Z",
+  "generated_at": "2026-05-02T00:09:37Z",
   "articles": [
+    {
+      "source": "BBC US & Canada",
+      "title": "Watch: May Day protests take place across major US cities",
+      "url": "https://www.bbc.com/news/videos/c0m2zldme02o?at_medium=RSS&at_campaign=rss",
+      "summary": "Thousands of demonstrators marched across the country to demand “dignity, justice and freedom” for immigrants and workers.",
+      "published_at": "2026-05-01T23:46:38Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "US court limits mail-order access to abortion pill mifepristone",
+      "url": "https://www.bbc.com/news/articles/c2k20z5yj3wo?at_medium=RSS&at_campaign=rss",
+      "summary": "The court decision curbs access to the drug used in medication abortions, which is currently the most common method for the procedure in the…",
+      "published_at": "2026-05-01T23:29:05Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "Thousands of 'lost Canadians' have applied for dual citizenship - is Canada ready?",
@@ -227,7 +245,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "Belgium plans to nationalise nuclear power plants",
       "url": "https://www.bbc.com/news/articles/c4g05jg87wko?at_medium=RSS&at_campaign=rss",
       "summary": "Prime Minister Bart De Wever said the move would see \"less dependence on fossil fuel imports and more control over our own supply\".",
@@ -942,7 +960,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 35
+      "news_count": 37
     },
     {
       "country_code": "IR",
