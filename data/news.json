@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-05-02T17:11:01Z",
+  "generated_at": "2026-05-02T18:06:15Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Taiwan president visits Eswatini days after blaming China for cancelled trip",
+      "url": "https://www.bbc.com/news/articles/c809ln029ldo?at_medium=RSS&at_campaign=rss",
+      "summary": "It is unclear how he reached Eswatini. China described his visit as a \"stowaway-style escape farce\".",
+      "published_at": "2026-05-02T17:01:47Z",
+      "country_code": "CN",
+      "country_name": "China"
+    },
     {
       "source": "BBC World",
       "title": "Thirteen killed in Israeli strikes on southern Lebanon, health ministry says",
@@ -965,14 +974,14 @@
       "news_count": 6
     },
     {
-      "country_code": "NG",
-      "country_name": "Nigeria",
+      "country_code": "CN",
+      "country_name": "China",
       "news_count": 4
     },
     {
-      "country_code": "CN",
-      "country_name": "China",
-      "news_count": 3
+      "country_code": "NG",
+      "country_name": "Nigeria",
+      "news_count": 4
     },
     {
       "country_code": "UA",
