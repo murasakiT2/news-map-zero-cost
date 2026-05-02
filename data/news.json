@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-02T11:37:05Z",
+  "generated_at": "2026-05-02T12:44:30Z",
   "articles": [
     {
       "source": "BBC World",
@@ -63,15 +63,6 @@
       "published_at": "2026-05-01T23:02:27Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "Love, lies, angry ghosts: Indians are bingeing on two-minute dramas",
-      "url": "https://www.bbc.com/news/articles/c3v2k3xvr04o?at_medium=RSS&at_campaign=rss",
-      "summary": "Some of India's biggest producers are eyeing investments in micro-dramas, which are now hugely popular.",
-      "published_at": "2026-05-01T22:36:58Z",
-      "country_code": "IN",
-      "country_name": "India"
     },
     {
       "source": "BBC US & Canada",
@@ -1028,11 +1019,6 @@
       "news_count": 2
     },
     {
-      "country_code": "IN",
-      "country_name": "India",
-      "news_count": 2
-    },
-    {
       "country_code": "MX",
       "country_name": "Mexico",
       "news_count": 2
@@ -1060,6 +1046,11 @@
     {
       "country_code": "GB",
       "country_name": "United Kingdom",
+      "news_count": 1
+    },
+    {
+      "country_code": "IN",
+      "country_name": "India",
       "news_count": 1
     },
     {
