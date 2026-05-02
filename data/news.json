@@ -1,14 +1,23 @@
 {
-  "generated_at": "2026-05-02T14:04:43Z",
+  "generated_at": "2026-05-02T15:08:56Z",
   "articles": [
     {
       "source": "BBC World",
       "title": "Thirteen killed in Israeli strikes on southern Lebanon, health ministry says",
       "url": "https://www.bbc.com/news/articles/cd7pn0zywggo?at_medium=RSS&at_campaign=rss",
       "summary": "Four women and a child are among the dead, as fighting between Israel and Iran-backed Hezbollah continues despite a ceasefire.",
-      "published_at": "2026-05-02T11:03:40Z",
+      "published_at": "2026-05-02T14:28:13Z",
       "country_code": "IL",
       "country_name": "Israel"
+    },
+    {
+      "source": "BBC World",
+      "title": "US threatens shipping firms with sanctions if they pay Iran tolls",
+      "url": "https://www.bbc.com/news/articles/c3v2l2qq9qlo?at_medium=RSS&at_campaign=rss",
+      "summary": "The warning comes as President Donald Trump said he was \"not excited\" by Iran's latest proposal for a peace deal.",
+      "published_at": "2026-05-02T14:18:14Z",
+      "country_code": "US",
+      "country_name": "United States"
     },
     {
       "source": "BBC World",
@@ -951,7 +960,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 37
+      "news_count": 38
     },
     {
       "country_code": "IL",
