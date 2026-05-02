@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-05-02T03:56:24Z",
+  "generated_at": "2026-05-02T06:02:14Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "'If we sleep they bite': Rats and weasels infest camps for displaced Gazans",
+      "url": "https://www.bbc.com/news/articles/c202m54xp0mo?at_medium=RSS&at_campaign=rss",
+      "summary": "In the Gaza Strip, the daily battles are now with rats, weasels, and other pests spreading diseases.",
+      "published_at": "2026-05-02T05:02:14Z",
+      "country_code": "PS",
+      "country_name": "Palestine"
+    },
     {
       "source": "BBC World",
       "title": "US court limits mail-order access to abortion pill mifepristone",
@@ -153,15 +162,6 @@
       "published_at": "2026-05-01T10:12:57Z",
       "country_code": "IL",
       "country_name": "Israel"
-    },
-    {
-      "source": "BBC World",
-      "title": "Is Saudi Arabia's sports revolution unravelling?",
-      "url": "https://www.bbc.com/sport/articles/cglp42nnyeko?at_medium=RSS&at_campaign=rss",
-      "summary": "Saudi Arabia will withdraw its multi-billion dollar backing of LIV Golf, but what does this mean for the country's other sporting investment…",
-      "published_at": "2026-05-01T07:49:18Z",
-      "country_code": "SA",
-      "country_name": "Saudi Arabia"
     },
     {
       "source": "BBC World",
@@ -324,15 +324,6 @@
       "published_at": "2026-04-30T08:59:35Z",
       "country_code": "KE",
       "country_name": "Kenya"
-    },
-    {
-      "source": "BBC Africa",
-      "title": "Robert Mugabe's son deported from South Africa over firearms offence",
-      "url": "https://www.bbc.com/news/articles/czx2lxevvljo?at_medium=RSS&at_campaign=rss",
-      "summary": "The 28-year-old was arrested in February after a man had been shot at his home in Johannesburg.",
-      "published_at": "2026-04-30T08:27:19Z",
-      "country_code": "ZA",
-      "country_name": "South Africa"
     },
     {
       "source": "BBC Africa",
@@ -1078,8 +1069,8 @@
       "news_count": 1
     },
     {
-      "country_code": "SA",
-      "country_name": "Saudi Arabia",
+      "country_code": "PS",
+      "country_name": "Palestine",
       "news_count": 1
     },
     {
@@ -1095,11 +1086,6 @@
     {
       "country_code": "SY",
       "country_name": "Syria",
-      "news_count": 1
-    },
-    {
-      "country_code": "ZA",
-      "country_name": "South Africa",
       "news_count": 1
     }
   ]
