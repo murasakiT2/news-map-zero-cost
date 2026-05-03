@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-05-03T04:25:29Z",
+  "generated_at": "2026-05-03T07:03:42Z",
   "articles": [
+    {
+      "source": "BBC Africa",
+      "title": "Kenya battles to stop the 'goons and guns' as fears of political violence grow",
+      "url": "https://www.bbc.com/news/articles/c9qdz0p0x5qo?at_medium=RSS&at_campaign=rss",
+      "summary": "More than 100 gangs are operating nationwide as the growing use of political thugs raises fears of election violence.",
+      "published_at": "2026-05-03T06:57:44Z",
+      "country_code": "KE",
+      "country_name": "Kenya"
+    },
     {
       "source": "BBC World",
       "title": "Germany says US troop withdrawal 'foreseeable' as Trump warns of more 'cuts'",
@@ -785,15 +794,6 @@
       "country_name": "Iran"
     },
     {
-      "source": "BBC Africa",
-      "title": "This man was jailed for five years over Nigeria's End Sars protests and then freed without trial",
-      "url": "https://www.bbc.com/news/articles/cql7p9rd3gyo?at_medium=RSS&at_campaign=rss",
-      "summary": "At 17, Rasheed Wasiu was detained as security forces cracked down on protests against police brutality.",
-      "published_at": "2026-04-22T23:37:11Z",
-      "country_code": "NG",
-      "country_name": "Nigeria"
-    },
-    {
       "source": "BBC Middle East",
       "title": "US and Iran in blockade standoff as Pakistan pushes for talks",
       "url": "https://www.bbc.com/news/articles/c0q9xq7knq2o?at_medium=RSS&at_campaign=rss",
@@ -989,7 +989,7 @@
     {
       "country_code": "KE",
       "country_name": "Kenya",
-      "news_count": 5
+      "news_count": 6
     },
     {
       "country_code": "CN",
@@ -999,7 +999,7 @@
     {
       "country_code": "NG",
       "country_name": "Nigeria",
-      "news_count": 4
+      "news_count": 3
     },
     {
       "country_code": "UA",
