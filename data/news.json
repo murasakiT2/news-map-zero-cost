@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-05-03T18:42:21Z",
+  "generated_at": "2026-05-03T19:45:10Z",
   "articles": [
     {
       "source": "BBC World",
       "title": "Iran says US has responded to its latest peace proposal",
       "url": "https://www.bbc.com/news/articles/cn0px2x53k2o?at_medium=RSS&at_campaign=rss",
-      "summary": "Before reviewing the proposal on Saturday, US President Donald Trump said he could not imagine it \"would be acceptable\".",
-      "published_at": "2026-05-03T17:31:31Z",
+      "summary": "The US is yet to formally confirm it has responded. However, Trump reportedly told Israel's Kan News it was unacceptable.",
+      "published_at": "2026-05-03T19:24:02Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -425,15 +425,6 @@
       "country_name": "South Korea"
     },
     {
-      "source": "BBC US & Canada",
-      "title": "Smiles and wonder: How the US reacted to King Charles",
-      "url": "https://www.bbc.com/news/articles/ce8pd1kr387o?at_medium=RSS&at_campaign=rss",
-      "summary": "A divided US has come together to watch King Charles' visit with a mix of awe, delight and hope.",
-      "published_at": "2026-04-29T21:43:52Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC Middle East",
       "title": "Syria trial seen as first step on long road for Assad's victims",
       "url": "https://www.bbc.com/news/articles/cn5pzw4gn1no?at_medium=RSS&at_campaign=rss",
@@ -704,15 +695,6 @@
       "country_name": "Nigeria"
     },
     {
-      "source": "BBC Africa",
-      "title": "Behind Nigeria's murky coup plot - the money, the prayers and a Nollywood arrest",
-      "url": "https://www.bbc.com/news/articles/c4gj1w5lqw7o?at_medium=RSS&at_campaign=rss",
-      "summary": "What court papers and sources close to the investigation have told the BBC about the scope of the plan.",
-      "published_at": "2026-04-24T13:57:20Z",
-      "country_code": "NG",
-      "country_name": "Nigeria"
-    },
-    {
       "source": "BBC Middle East",
       "title": "What we know about the Israel-Lebanon ceasefire",
       "url": "https://www.bbc.com/news/articles/cwy32277e58o?at_medium=RSS&at_campaign=rss",
@@ -933,7 +915,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 33
+      "news_count": 32
     },
     {
       "country_code": "IR",
@@ -966,11 +948,6 @@
       "news_count": 4
     },
     {
-      "country_code": "NG",
-      "country_name": "Nigeria",
-      "news_count": 3
-    },
-    {
       "country_code": "AE",
       "country_name": "United Arab Emirates",
       "news_count": 2
@@ -993,6 +970,11 @@
     {
       "country_code": "MX",
       "country_name": "Mexico",
+      "news_count": 2
+    },
+    {
+      "country_code": "NG",
+      "country_name": "Nigeria",
       "news_count": 2
     },
     {
