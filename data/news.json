@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-05-03T12:01:58Z",
+  "generated_at": "2026-05-03T13:52:02Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Two US service members reported missing in Morocco, officials say",
+      "url": "https://www.bbc.com/news/articles/cn7prznmllko?at_medium=RSS&at_campaign=rss",
+      "summary": "A search and rescue operation is underway for the service members, the US African Command said.",
+      "published_at": "2026-05-03T13:44:32Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Russian strikes kill 10 as Zelensky says Ukraine hits oil tankers and terminal",
+      "url": "https://www.bbc.com/news/articles/clyp41v1n1go?at_medium=RSS&at_campaign=rss",
+      "summary": "Fatalities have been reported around Ukraine as Kyiv says Russian \"shadow fleet\" tankers were hit by drones.",
+      "published_at": "2026-05-03T13:43:20Z",
+      "country_code": "UA",
+      "country_name": "Ukraine"
+    },
     {
       "source": "BBC World",
       "title": "Nigeria summons South African envoy over attacks on its nationals",
@@ -216,15 +234,6 @@
       "published_at": "2026-05-01T10:12:57Z",
       "country_code": "IL",
       "country_name": "Israel"
-    },
-    {
-      "source": "BBC World",
-      "title": "Brazil's Congress approves plan to drastically cut Bolsonaro's jail term",
-      "url": "https://www.bbc.com/news/articles/cqlpvl3wx4qo?at_medium=RSS&at_campaign=rss",
-      "summary": "Last year ex-president Jair Bolsonaro was sentenced to 27 years in jail for plotting a coup after losing an election.",
-      "published_at": "2026-05-01T05:58:20Z",
-      "country_code": "BR",
-      "country_name": "Brazil"
     },
     {
       "source": "BBC World",
@@ -450,15 +459,6 @@
       "published_at": "2026-04-29T20:11:04Z",
       "country_code": "SY",
       "country_name": "Syria"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "Four key takeaways from Jerome Powell's final rate decision as Fed chair",
-      "url": "https://www.bbc.com/news/articles/c62rm4zk3kgo?at_medium=RSS&at_campaign=rss",
-      "summary": "Powell's news conference after holding rates covered the US-Israel war with Iran, inflation, legal attacks, and the Fed's independence.",
-      "published_at": "2026-04-29T20:01:26Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC Europe",
@@ -979,13 +979,13 @@
       "news_count": 4
     },
     {
-      "country_code": "NG",
-      "country_name": "Nigeria",
-      "news_count": 3
-    },
-    {
       "country_code": "UA",
       "country_name": "Ukraine",
+      "news_count": 4
+    },
+    {
+      "country_code": "NG",
+      "country_name": "Nigeria",
       "news_count": 3
     },
     {
@@ -1004,11 +1004,6 @@
       "news_count": 2
     },
     {
-      "country_code": "BR",
-      "country_name": "Brazil",
-      "news_count": 2
-    },
-    {
       "country_code": "FR",
       "country_name": "France",
       "news_count": 2
@@ -1022,6 +1017,11 @@
       "country_code": "TR",
       "country_name": "Turkey",
       "news_count": 2
+    },
+    {
+      "country_code": "BR",
+      "country_name": "Brazil",
+      "news_count": 1
     },
     {
       "country_code": "CA",
