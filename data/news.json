@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-05-03T10:06:17Z",
+  "generated_at": "2026-05-03T11:10:29Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Nigeria summons South African envoy over attacks on its nationals",
+      "url": "https://www.bbc.com/news/articles/c78q6e98878o?at_medium=RSS&at_campaign=rss",
+      "summary": "There has been a wave of anti-migrant protests in South Africa, some of which have turned violent.",
+      "published_at": "2026-05-03T10:16:01Z",
+      "country_code": "ZA",
+      "country_name": "South Africa"
+    },
     {
       "source": "BBC World",
       "title": "Germany troop cuts send wrong signal to Russia, say two top US Republicans",
@@ -1077,6 +1086,11 @@
     {
       "country_code": "SY",
       "country_name": "Syria",
+      "news_count": 1
+    },
+    {
+      "country_code": "ZA",
+      "country_name": "South Africa",
       "news_count": 1
     }
   ]
