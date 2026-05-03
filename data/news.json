@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-03T07:03:42Z",
+  "generated_at": "2026-05-03T08:59:27Z",
   "articles": [
     {
-      "source": "BBC Africa",
+      "source": "BBC World",
       "title": "Kenya battles to stop the 'goons and guns' as fears of political violence grow",
       "url": "https://www.bbc.com/news/articles/c9qdz0p0x5qo?at_medium=RSS&at_campaign=rss",
       "summary": "More than 100 gangs are operating nationwide as the growing use of political thugs raises fears of election violence.",
@@ -48,15 +48,6 @@
     },
     {
       "source": "BBC World",
-      "title": "Dragonflies in distress: Scientists sound alarm in India's ecological hotspot",
-      "url": "https://www.bbc.com/news/articles/cx2107kzyreo?at_medium=RSS&at_campaign=rss",
-      "summary": "A new study reveals a decline in dragonfly and damselfly species in India's Western Ghats.",
-      "published_at": "2026-05-02T22:13:11Z",
-      "country_code": "IN",
-      "country_name": "India"
-    },
-    {
-      "source": "BBC World",
       "title": "US Supreme Court asked to restore abortion pill access",
       "url": "https://www.bbc.com/news/articles/c2k20z5yj3wo?at_medium=RSS&at_campaign=rss",
       "summary": "A lower court has limited mail-order access to the abortion pill mifepristone, which the drug's maker says will cause \"irreparable harm\".",
@@ -81,15 +72,6 @@
       "published_at": "2026-05-02T16:51:18Z",
       "country_code": "IL",
       "country_name": "Israel"
-    },
-    {
-      "source": "BBC World",
-      "title": "US threatens shipping firms with sanctions if they pay Iran tolls",
-      "url": "https://www.bbc.com/news/articles/c3v2l2qq9qlo?at_medium=RSS&at_campaign=rss",
-      "summary": "The warning comes as President Donald Trump said he was \"not excited\" by Iran's latest proposal for a peace deal.",
-      "published_at": "2026-05-02T14:18:14Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC World",
@@ -155,7 +137,7 @@
       "country_name": "Iran"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "The world wants to eliminate cervical cancer - how Australian scientists led the way",
       "url": "https://www.bbc.com/news/articles/cd6w15vgp7lo?at_medium=RSS&at_campaign=rss",
       "summary": "For the first time, Australia has recorded no new cervical cancer diagnoses in women under 25. To get there, they vaccinated young men.",
@@ -650,15 +632,6 @@
       "country_name": "Kenya"
     },
     {
-      "source": "BBC Latin America",
-      "title": "Colombia offers record $1.4m-reward for rebel it blames for deadly bomb attack",
-      "url": "https://www.bbc.com/news/articles/cwyjykv4j9do?at_medium=RSS&at_campaign=rss",
-      "summary": "Officials say a rebel leader known as \"Marlon\" ordered the attack in which 20 people were killed.",
-      "published_at": "2026-04-27T11:42:59Z",
-      "country_code": "CO",
-      "country_name": "Colombia"
-    },
-    {
       "source": "BBC Europe",
       "title": "Ukraine's drone commander has Russian oil, troops and morale in his sights",
       "url": "https://www.bbc.com/news/articles/c1d9wvd2e4ro?at_medium=RSS&at_campaign=rss",
@@ -969,7 +942,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 36
+      "news_count": 35
     },
     {
       "country_code": "IR",
@@ -1027,18 +1000,8 @@
       "news_count": 2
     },
     {
-      "country_code": "CO",
-      "country_name": "Colombia",
-      "news_count": 2
-    },
-    {
       "country_code": "FR",
       "country_name": "France",
-      "news_count": 2
-    },
-    {
-      "country_code": "IN",
-      "country_name": "India",
       "news_count": 2
     },
     {
@@ -1057,6 +1020,11 @@
       "news_count": 1
     },
     {
+      "country_code": "CO",
+      "country_name": "Colombia",
+      "news_count": 1
+    },
+    {
       "country_code": "ES",
       "country_name": "Spain",
       "news_count": 1
@@ -1069,6 +1037,11 @@
     {
       "country_code": "GB",
       "country_name": "United Kingdom",
+      "news_count": 1
+    },
+    {
+      "country_code": "IN",
+      "country_name": "India",
       "news_count": 1
     },
     {
