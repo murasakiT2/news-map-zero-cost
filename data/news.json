@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-05-04T09:36:47Z",
+  "generated_at": "2026-05-04T11:41:58Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Ukrainian drone hits upmarket Moscow high-rise ahead of Victory Day celebrations",
+      "url": "https://www.bbc.com/news/articles/cwy234llx3vo?at_medium=RSS&at_campaign=rss",
+      "summary": "The attack comes as the Kremlin prepares to hold a scaled-back military parade on Saturday.",
+      "published_at": "2026-05-04T09:49:05Z",
+      "country_code": "RU",
+      "country_name": "Russia"
+    },
     {
       "source": "BBC World",
       "title": "Nigeria plans to repatriate nationals willing to leave South Africa after attacks",
@@ -38,13 +47,22 @@
       "country_name": "China"
     },
     {
-      "source": "BBC Europe",
+      "source": "BBC World",
       "title": "European leaders converge on Armenia as Russia looks on",
       "url": "https://www.bbc.com/news/articles/cgkp1124y3yo?at_medium=RSS&at_campaign=rss",
       "summary": "Two European summits are being held in a country long considered Russia's closest ally in the region.",
       "published_at": "2026-05-03T23:19:05Z",
       "country_code": "RU",
       "country_name": "Russia"
+    },
+    {
+      "source": "BBC World",
+      "title": "Amsterdam bans public adverts for meat and fossil fuels",
+      "url": "https://www.bbc.com/news/articles/c9wejdekpwyo?at_medium=RSS&at_campaign=rss",
+      "summary": "Local politicians say the move is in line with the Dutch capital's environmental targets.",
+      "published_at": "2026-05-03T23:07:44Z",
+      "country_code": "NL",
+      "country_name": "Netherlands"
     },
     {
       "source": "BBC US & Canada",
@@ -218,7 +236,7 @@
       "country_name": "Australia"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Middle East",
       "title": "Israeli police arrest man after nun attacked in Jerusalem",
       "url": "https://www.bbc.com/news/articles/cy02gnzlvkko?at_medium=RSS&at_campaign=rss",
       "summary": "The French nun was pushed over and kicked in the apparently unprovoked assault, amid a rise in harassment of Christians in the city by Jewis…",
@@ -227,25 +245,7 @@
       "country_name": "Israel"
     },
     {
-      "source": "BBC World",
-      "title": "Turkish police arrest more than 500 people at May Day rallies",
-      "url": "https://www.bbc.com/news/articles/cwy2x7rq3nqo?at_medium=RSS&at_campaign=rss",
-      "summary": "Turkey sees significant police deployments on 1 May each year, when marches led by workers and unions are held.",
-      "published_at": "2026-05-01T16:14:58Z",
-      "country_code": "TR",
-      "country_name": "Turkey"
-    },
-    {
-      "source": "BBC World",
-      "title": "Billions of meals at risk due to Iran war, says fertiliser boss",
-      "url": "https://www.bbc.com/news/articles/cpwp50v4ye7o?at_medium=RSS&at_campaign=rss",
-      "summary": "A shortage of fertiliser due to the Iran conflict could reduce crop yields and push prices higher, says the boss of Yara.",
-      "published_at": "2026-05-01T13:12:10Z",
-      "country_code": "IR",
-      "country_name": "Iran"
-    },
-    {
-      "source": "BBC World",
+      "source": "BBC Middle East",
       "title": "Israel releases all but two activists in Greece after intercepting Gaza aid flotilla",
       "url": "https://www.bbc.com/news/articles/c0m2z0k1gngo?at_medium=RSS&at_campaign=rss",
       "summary": "The Global Sumud Flotilla denounced the interception as \"piracy\", while Israel's foreign ministry called the flotilla a \"PR stunt\".",
@@ -941,13 +941,13 @@
       "news_count": 9
     },
     {
-      "country_code": "IR",
-      "country_name": "Iran",
+      "country_code": "RU",
+      "country_name": "Russia",
       "news_count": 9
     },
     {
-      "country_code": "RU",
-      "country_name": "Russia",
+      "country_code": "IR",
+      "country_name": "Iran",
       "news_count": 8
     },
     {
@@ -996,11 +996,6 @@
       "news_count": 2
     },
     {
-      "country_code": "TR",
-      "country_name": "Turkey",
-      "news_count": 2
-    },
-    {
       "country_code": "AU",
       "country_name": "Australia",
       "news_count": 1
@@ -1046,6 +1041,11 @@
       "news_count": 1
     },
     {
+      "country_code": "NL",
+      "country_name": "Netherlands",
+      "news_count": 1
+    },
+    {
       "country_code": "NZ",
       "country_name": "New Zealand",
       "news_count": 1
@@ -1073,6 +1073,11 @@
     {
       "country_code": "SY",
       "country_name": "Syria",
+      "news_count": 1
+    },
+    {
+      "country_code": "TR",
+      "country_name": "Turkey",
       "news_count": 1
     },
     {
