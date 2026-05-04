@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-04T15:27:29Z",
+  "generated_at": "2026-05-04T17:10:00Z",
   "articles": [
     {
       "source": "BBC World",
@@ -38,7 +38,7 @@
       "country_name": "Italy"
     },
     {
-      "source": "BBC Latin America",
+      "source": "BBC World",
       "title": "Three dead after monster truck crashes into crowd",
       "url": "https://www.bbc.com/news/articles/czx2d54wwr4o?at_medium=RSS&at_campaign=rss",
       "summary": "At least 38 people were injured when the vehicle ploughed into the crowd at a show in Colombia.",
@@ -92,7 +92,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC US & Canada",
+      "source": "BBC Latin America",
       "title": "Jury convicts former Florida congressman in Venezuela lobbying case",
       "url": "https://www.bbc.com/news/articles/c1524vdn9dqo?at_medium=RSS&at_campaign=rss",
       "summary": "David Rivera, Marco Rubio's former housemate, was accused of accepting millions from the Maduro regime to lobby US politicians.",
@@ -101,7 +101,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "Russian strikes kill 10 as Zelensky says Ukraine hits oil tankers and terminal",
       "url": "https://www.bbc.com/news/articles/clyp41v1n1go?at_medium=RSS&at_campaign=rss",
       "summary": "Fatalities have been reported around Ukraine as Kyiv says Russian \"shadow fleet\" tankers were hit by drones.",
@@ -147,15 +147,15 @@
     },
     {
       "source": "BBC World",
-      "title": "Trump tells Congress ceasefire means he does not need their approval for Iran war",
-      "url": "https://www.bbc.com/news/articles/c4g4xexy4w7o?at_medium=RSS&at_campaign=rss",
-      "summary": "The president writes that hostilities \"have terminated\" because of the ceasefire, arguing he does not need congressional authorisation.",
-      "published_at": "2026-05-02T23:03:03Z",
-      "country_code": "IR",
-      "country_name": "Iran"
+      "title": "Dragonflies in distress: Scientists sound alarm in India's ecological hotspot",
+      "url": "https://www.bbc.com/news/articles/cx2107kzyreo?at_medium=RSS&at_campaign=rss",
+      "summary": "A new study reveals a decline in dragonfly and damselfly species in India's Western Ghats.",
+      "published_at": "2026-05-02T22:13:11Z",
+      "country_code": "IN",
+      "country_name": "India"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "US Supreme Court asked to restore abortion pill access",
       "url": "https://www.bbc.com/news/articles/c2k20z5yj3wo?at_medium=RSS&at_campaign=rss",
       "summary": "A lower court has limited mail-order access to the abortion pill mifepristone, which the drug's maker says will cause \"irreparable harm\".",
@@ -182,7 +182,7 @@
       "country_name": "Palestine"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Latin America",
       "title": "Cuba condemns new US sanctions as 'illegal' and 'abusive'",
       "url": "https://www.bbc.com/news/articles/cwy21n1970vo?at_medium=RSS&at_campaign=rss",
       "summary": "The new measures come on top of a US blockade of oil to Cuba that has caused widespread blackouts and fuel shortages.",
@@ -205,15 +205,6 @@
       "url": "https://www.bbc.com/news/articles/cp8pmnlejgro?at_medium=RSS&at_campaign=rss",
       "summary": "Changes to Canadian citizenship rules have led to thousands of new applications - many coming from the US.",
       "published_at": "2026-05-01T23:02:27Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "Pentagon says US military to be an 'AI-first' fighting force",
-      "url": "https://www.bbc.com/news/articles/cy02gjq2987o?at_medium=RSS&at_campaign=rss",
-      "summary": "The US military has agreed eight new contracts with big tech firms as it expands its artificial intelligence capabilities.",
-      "published_at": "2026-05-01T21:09:52Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -924,7 +915,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 34
+      "news_count": 33
     },
     {
       "country_code": "IL",
@@ -932,14 +923,14 @@
       "news_count": 9
     },
     {
-      "country_code": "IR",
-      "country_name": "Iran",
-      "news_count": 8
-    },
-    {
       "country_code": "RU",
       "country_name": "Russia",
       "news_count": 8
+    },
+    {
+      "country_code": "IR",
+      "country_name": "Iran",
+      "news_count": 7
     },
     {
       "country_code": "KE",
@@ -974,6 +965,11 @@
     {
       "country_code": "FR",
       "country_name": "France",
+      "news_count": 2
+    },
+    {
+      "country_code": "IN",
+      "country_name": "India",
       "news_count": 2
     },
     {
@@ -1019,11 +1015,6 @@
     {
       "country_code": "GB",
       "country_name": "United Kingdom",
-      "news_count": 1
-    },
-    {
-      "country_code": "IN",
-      "country_name": "India",
       "news_count": 1
     },
     {
