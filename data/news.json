@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-05-04T22:47:28Z",
+  "generated_at": "2026-05-04T23:42:43Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "US strikes Iranian fast boats as Iran attacks UAE oil facility",
+      "url": "https://www.bbc.com/news/articles/cjwp432d0v5o?at_medium=RSS&at_campaign=rss",
+      "summary": "Shipping company Maersk says one of its US-flagged commercial vessels has successfully exited the Strait of Hormuz under US military protect…",
+      "published_at": "2026-05-04T22:44:07Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC US & Canada",
       "title": "Blake Lively and Justin Baldoni settle lawsuit over It Ends With Us film",
@@ -18,15 +27,6 @@
       "published_at": "2026-05-04T19:09:14Z",
       "country_code": "RU",
       "country_name": "Russia"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "One injured after plane hits truck while landing in Newark",
-      "url": "https://www.bbc.com/news/articles/cp8p3r8dek1o?at_medium=RSS&at_campaign=rss",
-      "summary": "The Boeing 767, operating a flight from Venice, Italy, landed safely with no reported injuries among the 231 passengers and crew on board.",
-      "published_at": "2026-05-04T18:48:42Z",
-      "country_code": "IT",
-      "country_name": "Italy"
     },
     {
       "source": "BBC World",
@@ -153,15 +153,6 @@
       "published_at": "2026-05-03T06:57:44Z",
       "country_code": "KE",
       "country_name": "Kenya"
-    },
-    {
-      "source": "BBC World",
-      "title": "How we reported in -30C temperatures in Canada's Arctic",
-      "url": "https://www.bbc.com/news/videos/cvgz3pnn1ppo?at_medium=RSS&at_campaign=rss",
-      "summary": "BBC's Nadine Yousif and Eloise Alanna spent five days travelling with the country's military rangers through frostbite and sub-zero temperat…",
-      "published_at": "2026-05-03T04:30:41Z",
-      "country_code": "CA",
-      "country_name": "Canada"
     },
     {
       "source": "BBC Europe",
@@ -924,7 +915,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 33
+      "news_count": 34
     },
     {
       "country_code": "IL",
@@ -972,11 +963,6 @@
       "news_count": 2
     },
     {
-      "country_code": "CA",
-      "country_name": "Canada",
-      "news_count": 2
-    },
-    {
       "country_code": "ES",
       "country_name": "Spain",
       "news_count": 2
@@ -989,11 +975,6 @@
     {
       "country_code": "IN",
       "country_name": "India",
-      "news_count": 2
-    },
-    {
-      "country_code": "IT",
-      "country_name": "Italy",
       "news_count": 2
     },
     {
@@ -1017,6 +998,11 @@
       "news_count": 1
     },
     {
+      "country_code": "CA",
+      "country_name": "Canada",
+      "news_count": 1
+    },
+    {
       "country_code": "CO",
       "country_name": "Colombia",
       "news_count": 1
@@ -1029,6 +1015,11 @@
     {
       "country_code": "GB",
       "country_name": "United Kingdom",
+      "news_count": 1
+    },
+    {
+      "country_code": "IT",
+      "country_name": "Italy",
       "news_count": 1
     },
     {
