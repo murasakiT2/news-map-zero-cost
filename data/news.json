@@ -1,6 +1,33 @@
 {
-  "generated_at": "2026-05-04T07:30:07Z",
+  "generated_at": "2026-05-04T09:36:47Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Nigeria plans to repatriate nationals willing to leave South Africa after attacks",
+      "url": "https://www.bbc.com/news/articles/c78q6e98878o?at_medium=RSS&at_campaign=rss",
+      "summary": "There has been a wave of anti-migrant protests in South Africa, some of which have turned violent.",
+      "published_at": "2026-05-04T09:06:11Z",
+      "country_code": "ZA",
+      "country_name": "South Africa"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "One injured after plane hits truck while landing in Newark",
+      "url": "https://www.bbc.com/news/articles/cp8p3r8dek1o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Boeing 767, operating a flight from Venice, Italy, landed safely with no reported injuries among the 231 passengers and crew on board.",
+      "published_at": "2026-05-04T09:04:37Z",
+      "country_code": "IT",
+      "country_name": "Italy"
+    },
+    {
+      "source": "BBC Latin America",
+      "title": "Three dead after monster truck crashes into crowd",
+      "url": "https://www.bbc.com/news/articles/czx2d54wwr4o?at_medium=RSS&at_campaign=rss",
+      "summary": "At least 38 people were injured when the vehicle ploughed into the crowd at a show in Colombia.",
+      "published_at": "2026-05-04T07:45:13Z",
+      "country_code": "CO",
+      "country_name": "Colombia"
+    },
     {
       "source": "BBC World",
       "title": "Taiwan president visits Eswatini days after blaming China for cancelled trip",
@@ -54,15 +81,6 @@
       "published_at": "2026-05-03T13:43:20Z",
       "country_code": "UA",
       "country_name": "Ukraine"
-    },
-    {
-      "source": "BBC World",
-      "title": "Nigeria summons South African envoy over attacks on its nationals",
-      "url": "https://www.bbc.com/news/articles/c78q6e98878o?at_medium=RSS&at_campaign=rss",
-      "summary": "There has been a wave of anti-migrant protests in South Africa, some of which have turned violent.",
-      "published_at": "2026-05-03T10:16:01Z",
-      "country_code": "ZA",
-      "country_name": "South Africa"
     },
     {
       "source": "BBC World",
@@ -191,15 +209,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC US & Canada",
-      "title": "Trump repeats that he is 'not happy' with Iran as deadline to seek approval for war looms",
-      "url": "https://www.bbc.com/news/articles/cvgz7l5v03po?at_medium=RSS&at_campaign=rss",
-      "summary": "President Trump said on Friday that said a deal has been hard to reach in part because Iranian leadership was \"very confused\".",
-      "published_at": "2026-05-01T19:31:27Z",
-      "country_code": "IR",
-      "country_name": "Iran"
-    },
-    {
       "source": "BBC Asia",
       "title": "The world wants to eliminate cervical cancer - how Australian scientists led the way",
       "url": "https://www.bbc.com/news/articles/cd6w15vgp7lo?at_medium=RSS&at_campaign=rss",
@@ -261,15 +270,6 @@
       "published_at": "2026-05-01T05:04:08Z",
       "country_code": "IR",
       "country_name": "Iran"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "Trump signs bill to end record shutdown over immigration enforcement",
-      "url": "https://www.bbc.com/news/articles/ce3pw5x3z54o?at_medium=RSS&at_campaign=rss",
-      "summary": "The shutdown caused chaos in airports across the US as politicians feuded over funds for Trump's immigration crackdown.",
-      "published_at": "2026-05-01T02:21:47Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC Asia",
@@ -461,6 +461,24 @@
       "country_name": "South Korea"
     },
     {
+      "source": "BBC US & Canada",
+      "title": "Three takeaways from Hegseth's clash with lawmakers over Iran war",
+      "url": "https://www.bbc.com/news/articles/c78qd6ll8xlo?at_medium=RSS&at_campaign=rss",
+      "summary": "The hours-long hearing was the first time the US defence secretary had faced questions under oath since the conflict began.",
+      "published_at": "2026-04-29T22:22:18Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "Smiles and wonder: How the US reacted to King Charles",
+      "url": "https://www.bbc.com/news/articles/ce8pd1kr387o?at_medium=RSS&at_campaign=rss",
+      "summary": "A divided US has come together to watch King Charles' visit with a mix of awe, delight and hope.",
+      "published_at": "2026-04-29T21:43:52Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
       "source": "BBC Middle East",
       "title": "Syria trial seen as first step on long road for Assad's victims",
       "url": "https://www.bbc.com/news/articles/cn5pzw4gn1no?at_medium=RSS&at_campaign=rss",
@@ -468,6 +486,15 @@
       "published_at": "2026-04-29T20:11:04Z",
       "country_code": "SY",
       "country_name": "Syria"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "Four key takeaways from Jerome Powell's final rate decision as Fed chair",
+      "url": "https://www.bbc.com/news/articles/c62rm4zk3kgo?at_medium=RSS&at_campaign=rss",
+      "summary": "Powell's news conference after holding rates covered the US-Israel war with Iran, inflation, legal attacks, and the Fed's independence.",
+      "published_at": "2026-04-29T20:01:26Z",
+      "country_code": "US",
+      "country_name": "United States"
     },
     {
       "source": "BBC Europe",
@@ -704,15 +731,6 @@
       "country_name": "Israel"
     },
     {
-      "source": "BBC Latin America",
-      "title": "First ever talks to ditch fossil fuels as UN deadlock deepens",
-      "url": "https://www.bbc.com/news/articles/cx2rq92yv4vo?at_medium=RSS&at_campaign=rss",
-      "summary": "Some 60 countries are meeting in Colombia as frustration grows with lack of progress in tackling climate change",
-      "published_at": "2026-04-24T05:42:44Z",
-      "country_code": "CO",
-      "country_name": "Colombia"
-    },
-    {
       "source": "BBC Middle East",
       "title": "Couple discovers Lebanon home destroyed by Israel from satellite image",
       "url": "https://www.bbc.com/news/articles/cvg30jkvklno?at_medium=RSS&at_campaign=rss",
@@ -915,16 +933,16 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 32
-    },
-    {
-      "country_code": "IR",
-      "country_name": "Iran",
-      "news_count": 10
+      "news_count": 34
     },
     {
       "country_code": "IL",
       "country_name": "Israel",
+      "news_count": 9
+    },
+    {
+      "country_code": "IR",
+      "country_name": "Iran",
       "news_count": 9
     },
     {
@@ -1015,6 +1033,11 @@
     {
       "country_code": "IN",
       "country_name": "India",
+      "news_count": 1
+    },
+    {
+      "country_code": "IT",
+      "country_name": "Italy",
       "news_count": 1
     },
     {
