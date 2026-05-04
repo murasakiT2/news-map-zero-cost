@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-04T04:14:34Z",
+  "generated_at": "2026-05-04T07:30:07Z",
   "articles": [
     {
       "source": "BBC World",
@@ -11,7 +11,16 @@
       "country_name": "China"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
+      "title": "European leaders converge on Armenia as Russia looks on",
+      "url": "https://www.bbc.com/news/articles/cgkp1124y3yo?at_medium=RSS&at_campaign=rss",
+      "summary": "Two European summits are being held in a country long considered Russia's closest ally in the region.",
+      "published_at": "2026-05-03T23:19:05Z",
+      "country_code": "RU",
+      "country_name": "Russia"
+    },
+    {
+      "source": "BBC US & Canada",
       "title": "Iran says US has responded to its latest peace proposal",
       "url": "https://www.bbc.com/news/articles/cn0px2x53k2o?at_medium=RSS&at_campaign=rss",
       "summary": "The US is yet to formally confirm it has responded. However, Trump reportedly told Israel's Kan News it was unacceptable.",
@@ -99,6 +108,15 @@
       "published_at": "2026-05-02T23:03:03Z",
       "country_code": "IR",
       "country_name": "Iran"
+    },
+    {
+      "source": "BBC World",
+      "title": "Dragonflies in distress: Scientists sound alarm in India's ecological hotspot",
+      "url": "https://www.bbc.com/news/articles/cx2107kzyreo?at_medium=RSS&at_campaign=rss",
+      "summary": "A new study reveals a decline in dragonfly and damselfly species in India's Western Ghats.",
+      "published_at": "2026-05-02T22:13:11Z",
+      "country_code": "IN",
+      "country_name": "India"
     },
     {
       "source": "BBC World",
@@ -227,6 +245,15 @@
       "country_name": "Israel"
     },
     {
+      "source": "BBC Latin America",
+      "title": "Brazil's Congress approves plan to drastically cut Bolsonaro's jail term",
+      "url": "https://www.bbc.com/news/articles/cqlpvl3wx4qo?at_medium=RSS&at_campaign=rss",
+      "summary": "Last year ex-president Jair Bolsonaro was sentenced to 27 years in jail for plotting a coup after losing an election.",
+      "published_at": "2026-05-01T05:58:20Z",
+      "country_code": "BR",
+      "country_name": "Brazil"
+    },
+    {
       "source": "BBC Middle East",
       "title": "British couple jailed in Iran: 'We're likely to be here for a long time'",
       "url": "https://www.bbc.com/news/articles/c202pl60kv9o?at_medium=RSS&at_campaign=rss",
@@ -277,6 +304,15 @@
       "url": "https://www.bbc.com/news/videos/cgmpgkj2wz4o?at_medium=RSS&at_campaign=rss",
       "summary": "BBC's Sarah Smith looks at whether King Charles' charm offensive with President Trump made a difference to US-UK relations.",
       "published_at": "2026-04-30T21:45:16Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC Latin America",
+      "title": "Rubio downplays reports US could review UK's claim to Falklands",
+      "url": "https://www.bbc.com/news/articles/c809r2721ymo?at_medium=RSS&at_campaign=rss",
+      "summary": "The US secretary of state says a leaked memo suggesting America's position on the territory could be changed \"was just an email\".",
+      "published_at": "2026-04-30T21:15:12Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -497,15 +533,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Asia",
-      "title": "Kim Jong Un praises troops who 'self-blasted' to avoid capture by Ukraine",
-      "url": "https://www.bbc.com/news/articles/cddp7pzqdvjo?at_medium=RSS&at_campaign=rss",
-      "summary": "It confirms suspicions that North Korean soldiers are being told to detonate their grenades to kill themselves.",
-      "published_at": "2026-04-29T01:47:51Z",
-      "country_code": "UA",
-      "country_name": "Ukraine"
-    },
-    {
       "source": "BBC Middle East",
       "title": "America's special relationship 'probably Israel', says UK ambassador to US",
       "url": "https://www.bbc.com/news/articles/c1l25qd43nro?at_medium=RSS&at_campaign=rss",
@@ -538,15 +565,6 @@
       "url": "https://www.bbc.com/news/articles/clyxd5wrr0wo?at_medium=RSS&at_campaign=rss",
       "summary": "The Army officer charged with using classified information to win $400,000 is also a real estate investor with rave reviews on Airbnb.",
       "published_at": "2026-04-28T19:23:17Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC Latin America",
-      "title": "US soldier accused of betting on Maduro's removal pleads not guilty to fraud charges",
-      "url": "https://www.bbc.com/news/articles/cd0p54j9r9vo?at_medium=RSS&at_campaign=rss",
-      "summary": "The Army officer has been accused of using classified information to win $400,000 on an online prediction market.",
-      "published_at": "2026-04-28T18:35:10Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -912,7 +930,7 @@
     {
       "country_code": "RU",
       "country_name": "Russia",
-      "news_count": 7
+      "news_count": 8
     },
     {
       "country_code": "KE",
@@ -927,7 +945,7 @@
     {
       "country_code": "UA",
       "country_name": "Ukraine",
-      "news_count": 4
+      "news_count": 3
     },
     {
       "country_code": "AE",
@@ -937,6 +955,11 @@
     {
       "country_code": "BE",
       "country_name": "Belgium",
+      "news_count": 2
+    },
+    {
+      "country_code": "BR",
+      "country_name": "Brazil",
       "news_count": 2
     },
     {
@@ -965,11 +988,6 @@
       "news_count": 1
     },
     {
-      "country_code": "BR",
-      "country_name": "Brazil",
-      "news_count": 1
-    },
-    {
       "country_code": "CA",
       "country_name": "Canada",
       "news_count": 1
@@ -992,6 +1010,11 @@
     {
       "country_code": "GB",
       "country_name": "United Kingdom",
+      "news_count": 1
+    },
+    {
+      "country_code": "IN",
+      "country_name": "India",
       "news_count": 1
     },
     {
