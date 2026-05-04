@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-05-04T11:41:58Z",
+  "generated_at": "2026-05-04T13:20:49Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Modi's BJP conquers Bengal, one of India's toughest political frontiers",
+      "url": "https://www.bbc.com/news/articles/ce8pdvp5x5ro?at_medium=RSS&at_campaign=rss",
+      "summary": "West Bengal’s verdict could reshape not just the state’s politics, but the future trajectory of Modi’s BJP.",
+      "published_at": "2026-05-04T11:59:58Z",
+      "country_code": "IN",
+      "country_name": "India"
+    },
+    {
+      "source": "BBC World",
+      "title": "Nigeria plans to repatriate nationals willing to leave South Africa after attacks",
+      "url": "https://www.bbc.com/news/articles/c78q6e98878o?at_medium=RSS&at_campaign=rss",
+      "summary": "There has been a wave of anti-migrant protests in South Africa, some of which have turned violent.",
+      "published_at": "2026-05-04T11:44:36Z",
+      "country_code": "ZA",
+      "country_name": "South Africa"
+    },
     {
       "source": "BBC World",
       "title": "Ukrainian drone hits upmarket Moscow high-rise ahead of Victory Day celebrations",
@@ -9,15 +27,6 @@
       "published_at": "2026-05-04T09:49:05Z",
       "country_code": "RU",
       "country_name": "Russia"
-    },
-    {
-      "source": "BBC World",
-      "title": "Nigeria plans to repatriate nationals willing to leave South Africa after attacks",
-      "url": "https://www.bbc.com/news/articles/c78q6e98878o?at_medium=RSS&at_campaign=rss",
-      "summary": "There has been a wave of anti-migrant protests in South Africa, some of which have turned violent.",
-      "published_at": "2026-05-04T09:06:11Z",
-      "country_code": "ZA",
-      "country_name": "South Africa"
     },
     {
       "source": "BBC US & Canada",
@@ -39,12 +48,12 @@
     },
     {
       "source": "BBC World",
-      "title": "Taiwan president visits Eswatini days after blaming China for cancelled trip",
-      "url": "https://www.bbc.com/news/articles/c809ln029ldo?at_medium=RSS&at_campaign=rss",
-      "summary": "It is unclear how he reached Eswatini. China described his visit as a \"stowaway-style escape farce\".",
-      "published_at": "2026-05-04T03:15:03Z",
-      "country_code": "CN",
-      "country_name": "China"
+      "title": "North Korean side to make rare trip to South Korea",
+      "url": "https://www.bbc.com/sport/football/articles/cx216122kv1o?at_medium=RSS&at_campaign=rss",
+      "summary": "A team of North Korean footballers will make a rare visit to South Korea later this month.",
+      "published_at": "2026-05-04T05:58:28Z",
+      "country_code": "KR",
+      "country_name": "South Korea"
     },
     {
       "source": "BBC World",
@@ -144,15 +153,6 @@
       "published_at": "2026-05-02T23:03:03Z",
       "country_code": "IR",
       "country_name": "Iran"
-    },
-    {
-      "source": "BBC World",
-      "title": "Dragonflies in distress: Scientists sound alarm in India's ecological hotspot",
-      "url": "https://www.bbc.com/news/articles/cx2107kzyreo?at_medium=RSS&at_campaign=rss",
-      "summary": "A new study reveals a decline in dragonfly and damselfly species in India's Western Ghats.",
-      "published_at": "2026-05-02T22:13:11Z",
-      "country_code": "IN",
-      "country_name": "India"
     },
     {
       "source": "BBC World",
@@ -605,15 +605,6 @@
       "country_name": "United Arab Emirates"
     },
     {
-      "source": "BBC Middle East",
-      "title": "Ukraine accuses Israel of receiving shipments of grain 'stolen' by Russia",
-      "url": "https://www.bbc.com/news/articles/cqjplqgd1r2o?at_medium=RSS&at_campaign=rss",
-      "summary": "Israel's foreign minister says it has received no evidence to support the claim that a vessel carrying grain from occupied Ukraine has reach…",
-      "published_at": "2026-04-28T13:51:51Z",
-      "country_code": "RU",
-      "country_name": "Russia"
-    },
-    {
       "source": "BBC Latin America",
       "title": "Will Mexico City's airport be ready for the World Cup?",
       "url": "https://www.bbc.com/news/videos/cz7231qx88qo?at_medium=RSS&at_campaign=rss",
@@ -941,13 +932,13 @@
       "news_count": 9
     },
     {
-      "country_code": "RU",
-      "country_name": "Russia",
-      "news_count": 9
-    },
-    {
       "country_code": "IR",
       "country_name": "Iran",
+      "news_count": 8
+    },
+    {
+      "country_code": "RU",
+      "country_name": "Russia",
       "news_count": 8
     },
     {
@@ -958,7 +949,7 @@
     {
       "country_code": "CN",
       "country_name": "China",
-      "news_count": 4
+      "news_count": 3
     },
     {
       "country_code": "UA",
@@ -983,6 +974,11 @@
     {
       "country_code": "FR",
       "country_name": "France",
+      "news_count": 2
+    },
+    {
+      "country_code": "KR",
+      "country_name": "South Korea",
       "news_count": 2
     },
     {
@@ -1033,11 +1029,6 @@
     {
       "country_code": "IT",
       "country_name": "Italy",
-      "news_count": 1
-    },
-    {
-      "country_code": "KR",
-      "country_name": "South Korea",
       "news_count": 1
     },
     {
