@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-05-05T10:57:51Z",
+  "generated_at": "2026-05-05T11:58:58Z",
   "articles": [
+    {
+      "source": "BBC Africa",
+      "title": "Sudan accuses Ethiopia and UAE of orchestrating drone attacks on airport",
+      "url": "https://www.bbc.com/news/articles/clype712r3qo?at_medium=RSS&at_campaign=rss",
+      "summary": "Sudan's foreign minister says Ethiopia and UAE has chosen the \"wrong path\" and would regret it.",
+      "published_at": "2026-05-05T11:47:30Z",
+      "country_code": "AE",
+      "country_name": "United Arab Emirates"
+    },
+    {
+      "source": "BBC World",
+      "title": "Rapper Kid Cudi removes British star M.I.A. from tour",
+      "url": "https://www.bbc.com/news/articles/ceqp9y71nq2o?at_medium=RSS&at_campaign=rss",
+      "summary": "British singer songwriter M.I.A will no longer be the opening act for Rebels Rage tour after disagreement with US rapper Kid Cudi.",
+      "published_at": "2026-05-05T10:51:15Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC Latin America",
       "title": "Nine coal miners die in gas explosion in Colombia",
@@ -135,15 +153,6 @@
       "published_at": "2026-05-03T23:07:44Z",
       "country_code": "NL",
       "country_name": "Netherlands"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "Iran says US has responded to its latest peace proposal",
-      "url": "https://www.bbc.com/news/articles/cn0px2x53k2o?at_medium=RSS&at_campaign=rss",
-      "summary": "The US is yet to formally confirm it has responded. However, Trump reportedly told Israel's Kan News it was unacceptable.",
-      "published_at": "2026-05-03T21:28:09Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC US & Canada",
@@ -810,7 +819,7 @@
     {
       "country_code": "AE",
       "country_name": "United Arab Emirates",
-      "news_count": 2
+      "news_count": 3
     },
     {
       "country_code": "BR",
