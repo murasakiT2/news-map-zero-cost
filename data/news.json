@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-05T17:03:26Z",
+  "generated_at": "2026-05-05T18:50:17Z",
   "articles": [
     {
       "source": "BBC World",
@@ -9,6 +9,15 @@
       "published_at": "2026-05-05T16:55:34Z",
       "country_code": "RU",
       "country_name": "Russia"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "What to know about Louise Arbour, Canada's next governor general",
+      "url": "https://www.bbc.com/news/articles/c4g4wpj17v5o?at_medium=RSS&at_campaign=rss",
+      "summary": "Prime Minister Mark Carney has appointed a new governor general - a largely symbolic but important role representing King Charles III in Can…",
+      "published_at": "2026-05-05T16:20:05Z",
+      "country_code": "CA",
+      "country_name": "Canada"
     },
     {
       "source": "BBC Europe",
@@ -818,6 +827,11 @@
       "news_count": 2
     },
     {
+      "country_code": "CA",
+      "country_name": "Canada",
+      "news_count": 2
+    },
+    {
       "country_code": "CO",
       "country_name": "Colombia",
       "news_count": 2
@@ -840,11 +854,6 @@
     {
       "country_code": "AU",
       "country_name": "Australia",
-      "news_count": 1
-    },
-    {
-      "country_code": "CA",
-      "country_name": "Canada",
       "news_count": 1
     },
     {
