@@ -1,14 +1,23 @@
 {
-  "generated_at": "2026-05-05T15:37:51Z",
+  "generated_at": "2026-05-05T17:03:26Z",
   "articles": [
     {
       "source": "BBC World",
-      "title": "Russia and Ukraine announce rival ceasefires as deadly strikes continue",
+      "title": "Russian attacks kill at least 20 ahead of rival ceasefires proposed by Kyiv and Moscow",
       "url": "https://www.bbc.com/news/articles/c1e2zjz22p9o?at_medium=RSS&at_campaign=rss",
-      "summary": "Russia demanded a ceasefire on 8 and 9 May but Ukraine said it would pause the fighting sooner, meaning any violations would be pinned on Mo…",
-      "published_at": "2026-05-05T15:08:10Z",
+      "summary": "Kyiv said it would begin a truce on 6 May and then \"act symmetrically\" after Moscow declared a pause for its Victory Day parade.",
+      "published_at": "2026-05-05T16:55:34Z",
       "country_code": "RU",
       "country_name": "Russia"
+    },
+    {
+      "source": "BBC Europe",
+      "title": "French political row over calls for overhaul and €1bn cuts at public broadcaster",
+      "url": "https://www.bbc.com/news/articles/c052l130d6jo?at_medium=RSS&at_campaign=rss",
+      "summary": "A parliamentary committee of enquiry levelled charges of left-wing bias at state-owned France Télévisions and Radio France.",
+      "published_at": "2026-05-05T14:50:40Z",
+      "country_code": "FR",
+      "country_name": "France"
     },
     {
       "source": "BBC Africa",
@@ -814,6 +823,11 @@
       "news_count": 2
     },
     {
+      "country_code": "FR",
+      "country_name": "France",
+      "news_count": 2
+    },
+    {
       "country_code": "MX",
       "country_name": "Mexico",
       "news_count": 2
@@ -841,11 +855,6 @@
     {
       "country_code": "ET",
       "country_name": "Ethiopia",
-      "news_count": 1
-    },
-    {
-      "country_code": "FR",
-      "country_name": "France",
       "news_count": 1
     },
     {
