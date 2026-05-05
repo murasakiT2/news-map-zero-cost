@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-05-04T23:42:43Z",
+  "generated_at": "2026-05-05T01:52:14Z",
   "articles": [
     {
       "source": "BBC World",
       "title": "US strikes Iranian fast boats as Iran attacks UAE oil facility",
       "url": "https://www.bbc.com/news/articles/cjwp432d0v5o?at_medium=RSS&at_campaign=rss",
       "summary": "Shipping company Maersk says one of its US-flagged commercial vessels has successfully exited the Strait of Hormuz under US military protect…",
-      "published_at": "2026-05-04T22:44:07Z",
+      "published_at": "2026-05-05T01:50:39Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -443,15 +443,6 @@
       "country_name": "Canada"
     },
     {
-      "source": "BBC Asia",
-      "title": "A son overlooked and a jailed tycoon: Inside Samsung's succession drama",
-      "url": "https://www.bbc.com/news/articles/c9d313g91g4o?at_medium=RSS&at_campaign=rss",
-      "summary": "The family dynasty behind Samsung is so complicated it regularly makes headline news in South Korea.",
-      "published_at": "2026-04-29T23:21:44Z",
-      "country_code": "KR",
-      "country_name": "South Korea"
-    },
-    {
       "source": "BBC US & Canada",
       "title": "Three takeaways from Hegseth's clash with lawmakers over Iran war",
       "url": "https://www.bbc.com/news/articles/c78qd6ll8xlo?at_medium=RSS&at_campaign=rss",
@@ -556,15 +547,6 @@
       "url": "https://www.bbc.com/news/articles/c1l25qd43nro?at_medium=RSS&at_campaign=rss",
       "summary": "The remarks, made in February and first reported by the Financial Times, came to light during the King's state visit.",
       "published_at": "2026-04-28T23:54:21Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC Asia",
-      "title": "Flying cars and 5-minute charges: China's EV industry sees opportunity in Iran crisis",
-      "url": "https://www.bbc.com/news/videos/cm2pnde3l7yo?at_medium=RSS&at_campaign=rss",
-      "summary": "As the US-Iran has sent the world scrambling for fuel, China is positioned to benefit from its rapid shift into electric vehicles.",
-      "published_at": "2026-04-28T22:11:48Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -915,7 +897,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 34
+      "news_count": 33
     },
     {
       "country_code": "IL",
@@ -978,11 +960,6 @@
       "news_count": 2
     },
     {
-      "country_code": "KR",
-      "country_name": "South Korea",
-      "news_count": 2
-    },
-    {
       "country_code": "MX",
       "country_name": "Mexico",
       "news_count": 2
@@ -1020,6 +997,11 @@
     {
       "country_code": "IT",
       "country_name": "Italy",
+      "news_count": 1
+    },
+    {
+      "country_code": "KR",
+      "country_name": "South Korea",
       "news_count": 1
     },
     {
