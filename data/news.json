@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-05-05T13:54:41Z",
+  "generated_at": "2026-05-05T15:37:51Z",
   "articles": [
     {
       "source": "BBC World",
-      "title": "Zelensky condemns Russian 'utter cynicism' as it strikes ahead of truce",
+      "title": "Russia and Ukraine announce rival ceasefires as deadly strikes continue",
       "url": "https://www.bbc.com/news/articles/c1e2zjz22p9o?at_medium=RSS&at_campaign=rss",
       "summary": "Russia demanded a ceasefire on 8 and 9 May but Ukraine said it would pause the fighting sooner, meaning any violations would be pinned on Mo…",
-      "published_at": "2026-05-05T12:15:45Z",
+      "published_at": "2026-05-05T15:08:10Z",
       "country_code": "RU",
       "country_name": "Russia"
     },
@@ -30,7 +30,7 @@
     },
     {
       "source": "BBC Middle East",
-      "title": "Bowen: Strait of Hormuz standoff raises risk of sliding back into all out war",
+      "title": "Bowen: Strait of Hormuz standoff raises risk of sliding back into all-out war",
       "url": "https://www.bbc.com/news/articles/cgrpnq00j5vo?at_medium=RSS&at_campaign=rss",
       "summary": "The US and Iran's determination to keep the pressure on each other has put the fragile Gulf ceasefire in serious jeopardy.",
       "published_at": "2026-05-05T11:38:03Z",
@@ -119,7 +119,7 @@
       "country_name": "Russia"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "Spain seizes record amount of cocaine in Atlantic Ocean, authorities say",
       "url": "https://www.bbc.com/news/articles/cp8pn8py5gro?at_medium=RSS&at_campaign=rss",
       "summary": "The Civil Guard found between 30,000 and 45,000kg of the drug on a freighter headed to Libya.",
@@ -137,7 +137,7 @@
       "country_name": "Italy"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "Modi's BJP conquers Bengal, one of India's toughest political frontiers",
       "url": "https://www.bbc.com/news/articles/ce8pdvp5x5ro?at_medium=RSS&at_campaign=rss",
       "summary": "West Bengal’s verdict could reshape not just the state’s politics, but the future trajectory of Modi’s BJP.",
@@ -225,15 +225,6 @@
       "published_at": "2026-05-02T23:17:17Z",
       "country_code": "IR",
       "country_name": "Iran"
-    },
-    {
-      "source": "BBC World",
-      "title": "Dragonflies in distress: Scientists sound alarm in India's ecological hotspot",
-      "url": "https://www.bbc.com/news/articles/cx2107kzyreo?at_medium=RSS&at_campaign=rss",
-      "summary": "A new study reveals a decline in dragonfly and damselfly species in India's Western Ghats.",
-      "published_at": "2026-05-02T22:13:11Z",
-      "country_code": "IN",
-      "country_name": "India"
     },
     {
       "source": "BBC Middle East",
@@ -823,11 +814,6 @@
       "news_count": 2
     },
     {
-      "country_code": "IN",
-      "country_name": "India",
-      "news_count": 2
-    },
-    {
       "country_code": "MX",
       "country_name": "Mexico",
       "news_count": 2
@@ -865,6 +851,11 @@
     {
       "country_code": "GB",
       "country_name": "United Kingdom",
+      "news_count": 1
+    },
+    {
+      "country_code": "IN",
+      "country_name": "India",
       "news_count": 1
     },
     {
