@@ -1,8 +1,17 @@
 {
-  "generated_at": "2026-05-05T04:53:33Z",
+  "generated_at": "2026-05-05T07:11:25Z",
   "articles": [
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
+      "title": "Explosion at China fireworks factory kills 26 people",
+      "url": "https://www.bbc.com/news/articles/c70vqwengxno?at_medium=RSS&at_campaign=rss",
+      "summary": "A blast at a fireworks factory in Hunan province has killed 26 people and injured 61, state media report.",
+      "published_at": "2026-05-05T06:06:42Z",
+      "country_code": "CN",
+      "country_name": "China"
+    },
+    {
+      "source": "BBC US & Canada",
       "title": "US strikes Iranian fast boats as Iran attacks UAE oil facility",
       "url": "https://www.bbc.com/news/articles/cjwp432d0v5o?at_medium=RSS&at_campaign=rss",
       "summary": "Shipping company Maersk says one of its US-flagged commercial vessels has successfully exited the Strait of Hormuz under US military protect…",
@@ -20,13 +29,13 @@
       "country_name": "China"
     },
     {
-      "source": "BBC Asia",
-      "title": "Explosion at China fireworks factory kills 21 people",
-      "url": "https://www.bbc.com/news/articles/c70vqwengxno?at_medium=RSS&at_campaign=rss",
-      "summary": "A blast at a fireworks factory in Hunan province has killed 21 people and injured 61, state media report.",
-      "published_at": "2026-05-05T03:30:42Z",
-      "country_code": "CN",
-      "country_name": "China"
+      "source": "BBC US & Canada",
+      "title": "Alberta separatists say they have enough signatures to trigger independence referendum",
+      "url": "https://www.bbc.com/news/articles/cx21kdz7wygo?at_medium=RSS&at_campaign=rss",
+      "summary": "Organisers have filed a formal petition, but it remains to be seen whether Albertans will end up voting on seceding from Canada.",
+      "published_at": "2026-05-04T23:27:47Z",
+      "country_code": "CA",
+      "country_name": "Canada"
     },
     {
       "source": "BBC US & Canada",
@@ -144,15 +153,6 @@
       "published_at": "2026-05-03T14:36:27Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC Europe",
-      "title": "Russian strikes kill 10 as Zelensky says Ukraine hits oil tankers and terminal",
-      "url": "https://www.bbc.com/news/articles/clyp41v1n1go?at_medium=RSS&at_campaign=rss",
-      "summary": "Fatalities have been reported around Ukraine as Kyiv says Russian \"shadow fleet\" tankers were hit by drones.",
-      "published_at": "2026-05-03T13:43:20Z",
-      "country_code": "UA",
-      "country_name": "Ukraine"
     },
     {
       "source": "BBC Europe",
@@ -327,39 +327,12 @@
     },
     {
       "source": "BBC Europe",
-      "title": "Israel intercepts Gaza flotilla near Crete and detains 175 activists",
-      "url": "https://www.bbc.com/news/articles/c4g4lk9m77vo?at_medium=RSS&at_campaign=rss",
-      "summary": "Pro-Palestinian activists say 22 boats carrying aid for Gaza were illegally intercepted in international waters near the Greek island.",
-      "published_at": "2026-04-30T20:34:26Z",
-      "country_code": "IL",
-      "country_name": "Israel"
-    },
-    {
-      "source": "BBC Europe",
       "title": "Belgium plans to nationalise nuclear power plants",
       "url": "https://www.bbc.com/news/articles/c4g05jg87wko?at_medium=RSS&at_campaign=rss",
       "summary": "Prime Minister Bart De Wever said the move would see \"less dependence on fossil fuel imports and more control over our own supply\".",
       "published_at": "2026-04-30T19:50:29Z",
       "country_code": "BE",
       "country_name": "Belgium"
-    },
-    {
-      "source": "BBC Europe",
-      "title": "Wada investigation finds 300 Russian doping cases",
-      "url": "https://www.bbc.com/sport/articles/cx21k881djlo?at_medium=RSS&at_campaign=rss",
-      "summary": "More than 300 sanctions have been handed to Russian athletes following the seizure of Moscow laboratory data in 2019, the World Anti-Doping …",
-      "published_at": "2026-04-30T16:00:31Z",
-      "country_code": "RU",
-      "country_name": "Russia"
-    },
-    {
-      "source": "BBC Europe",
-      "title": "Trainee driver crashes bus into River Seine",
-      "url": "https://www.bbc.com/news/articles/cm2pyxpwmdro?at_medium=RSS&at_campaign=rss",
-      "summary": "The driver hit a parked car and veered off the road into the river - about 12 miles south of Paris - early on Thursday.",
-      "published_at": "2026-04-30T15:34:09Z",
-      "country_code": "FR",
-      "country_name": "France"
     },
     {
       "source": "BBC US & Canada",
@@ -369,15 +342,6 @@
       "published_at": "2026-04-30T15:03:00Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC Europe",
-      "title": "Ukraine expands oil strikes on Russia as Putin proposes brief ceasefire",
-      "url": "https://www.bbc.com/news/articles/cx21mlr8kk3o?at_medium=RSS&at_campaign=rss",
-      "summary": "In a phone call with President Trump, Putin proposed a ceasefire on 9 May, the anniversary of the defeat of Nazi Germany in WW2.",
-      "published_at": "2026-04-30T14:47:44Z",
-      "country_code": "RU",
-      "country_name": "Russia"
     },
     {
       "source": "BBC Middle East",
@@ -405,15 +369,6 @@
       "published_at": "2026-04-30T07:43:33Z",
       "country_code": "KE",
       "country_name": "Kenya"
-    },
-    {
-      "source": "BBC Asia",
-      "title": "Singapore court fines women for pro-Palestinian walk",
-      "url": "https://www.bbc.com/news/articles/cqlpveylelyo?at_medium=RSS&at_campaign=rss",
-      "summary": "This reverses an earlier acquittal of the activists, who had led a walk to support the Palestinian cause.",
-      "published_at": "2026-04-30T06:59:22Z",
-      "country_code": "SG",
-      "country_name": "Singapore"
     },
     {
       "source": "BBC Asia",
@@ -488,15 +443,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Europe",
-      "title": "Hungary's next PM says frozen EU funds will be paid out soon",
-      "url": "https://www.bbc.com/news/articles/c392ln77w30o?at_medium=RSS&at_campaign=rss",
-      "summary": "Péter Magyar meets EU leaders in Brussels, for the first time since his Tisza party won a landslide election.",
-      "published_at": "2026-04-29T19:51:54Z",
-      "country_code": "BE",
-      "country_name": "Belgium"
-    },
-    {
       "source": "BBC Middle East",
       "title": "Israeli 'double-tap' strike kills three rescue workers in Lebanon, officials say",
       "url": "https://www.bbc.com/news/articles/cvgz5rgv4n3o?at_medium=RSS&at_campaign=rss",
@@ -547,15 +493,6 @@
       "url": "https://www.bbc.com/news/articles/cwy2482pn0lo?at_medium=RSS&at_campaign=rss",
       "summary": "In the two months since the deadly strike, the US defence department has said only that the incident is under investigation.",
       "published_at": "2026-04-29T02:01:50Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC Middle East",
-      "title": "America's special relationship 'probably Israel', says UK ambassador to US",
-      "url": "https://www.bbc.com/news/articles/c1l25qd43nro?at_medium=RSS&at_campaign=rss",
-      "summary": "The remarks, made in February and first reported by the Financial Times, came to light during the King's state visit.",
-      "published_at": "2026-04-28T23:54:21Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -612,15 +549,6 @@
       "published_at": "2026-04-27T11:49:24Z",
       "country_code": "KE",
       "country_name": "Kenya"
-    },
-    {
-      "source": "BBC Europe",
-      "title": "Ukraine's drone commander has Russian oil, troops and morale in his sights",
-      "url": "https://www.bbc.com/news/articles/c1d9wvd2e4ro?at_medium=RSS&at_campaign=rss",
-      "summary": "In a rare interview, Commander Robert Brovdi shared how his unit accounts for a third of all targets destroyed on the battlefield.",
-      "published_at": "2026-04-27T10:04:34Z",
-      "country_code": "UA",
-      "country_name": "Ukraine"
     },
     {
       "source": "BBC Latin America",
@@ -906,16 +834,11 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 33
+      "news_count": 32
     },
     {
       "country_code": "IL",
       "country_name": "Israel",
-      "news_count": 9
-    },
-    {
-      "country_code": "RU",
-      "country_name": "Russia",
       "news_count": 8
     },
     {
@@ -929,23 +852,18 @@
       "news_count": 6
     },
     {
+      "country_code": "RU",
+      "country_name": "Russia",
+      "news_count": 6
+    },
+    {
       "country_code": "CN",
       "country_name": "China",
       "news_count": 5
     },
     {
-      "country_code": "UA",
-      "country_name": "Ukraine",
-      "news_count": 3
-    },
-    {
       "country_code": "AE",
       "country_name": "United Arab Emirates",
-      "news_count": 2
-    },
-    {
-      "country_code": "BE",
-      "country_name": "Belgium",
       "news_count": 2
     },
     {
@@ -954,13 +872,13 @@
       "news_count": 2
     },
     {
-      "country_code": "ES",
-      "country_name": "Spain",
+      "country_code": "CA",
+      "country_name": "Canada",
       "news_count": 2
     },
     {
-      "country_code": "FR",
-      "country_name": "France",
+      "country_code": "ES",
+      "country_name": "Spain",
       "news_count": 2
     },
     {
@@ -984,8 +902,8 @@
       "news_count": 1
     },
     {
-      "country_code": "CA",
-      "country_name": "Canada",
+      "country_code": "BE",
+      "country_name": "Belgium",
       "news_count": 1
     },
     {
@@ -996,6 +914,11 @@
     {
       "country_code": "ET",
       "country_name": "Ethiopia",
+      "news_count": 1
+    },
+    {
+      "country_code": "FR",
+      "country_name": "France",
       "news_count": 1
     },
     {
@@ -1029,11 +952,6 @@
       "news_count": 1
     },
     {
-      "country_code": "SG",
-      "country_name": "Singapore",
-      "news_count": 1
-    },
-    {
       "country_code": "SY",
       "country_name": "Syria",
       "news_count": 1
@@ -1041,6 +959,11 @@
     {
       "country_code": "TR",
       "country_name": "Turkey",
+      "news_count": 1
+    },
+    {
+      "country_code": "UA",
+      "country_name": "Ukraine",
       "news_count": 1
     },
     {
