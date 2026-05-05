@@ -1,23 +1,32 @@
 {
-  "generated_at": "2026-05-05T18:50:17Z",
+  "generated_at": "2026-05-05T20:01:27Z",
   "articles": [
     {
+      "source": "BBC US & Canada",
+      "title": "What to know about Louise Arbour, Canada's next governor general",
+      "url": "https://www.bbc.com/news/articles/c4g4wpj17v5o?at_medium=RSS&at_campaign=rss",
+      "summary": "The former war crimes prosecutor has been named by Prime Minister Mark Carney to be the Monarch's, currently King Charles III, representativ…",
+      "published_at": "2026-05-05T20:00:09Z",
+      "country_code": "CA",
+      "country_name": "Canada"
+    },
+    {
       "source": "BBC World",
-      "title": "Russian attacks kill at least 20 ahead of rival ceasefires proposed by Kyiv and Moscow",
+      "title": "Russian attacks kill more than 20 ahead of rival ceasefires proposed by Kyiv and Moscow",
       "url": "https://www.bbc.com/news/articles/c1e2zjz22p9o?at_medium=RSS&at_campaign=rss",
       "summary": "Kyiv said it would begin a truce on 6 May and then \"act symmetrically\" after Moscow declared a pause for its Victory Day parade.",
-      "published_at": "2026-05-05T16:55:34Z",
+      "published_at": "2026-05-05T19:23:18Z",
       "country_code": "RU",
       "country_name": "Russia"
     },
     {
       "source": "BBC US & Canada",
-      "title": "What to know about Louise Arbour, Canada's next governor general",
-      "url": "https://www.bbc.com/news/articles/c4g4wpj17v5o?at_medium=RSS&at_campaign=rss",
-      "summary": "Prime Minister Mark Carney has appointed a new governor general - a largely symbolic but important role representing King Charles III in Can…",
-      "published_at": "2026-05-05T16:20:05Z",
-      "country_code": "CA",
-      "country_name": "Canada"
+      "title": "US aviation worker accused of using work computer to threaten Trump",
+      "url": "https://www.bbc.com/news/articles/c5y7vrvdzn9o?at_medium=RSS&at_campaign=rss",
+      "summary": "Prosecutors allege the suspect searched the internet for how to get a gun into a federal facility, and later asked the IT team to have his s…",
+      "published_at": "2026-05-05T18:46:33Z",
+      "country_code": "US",
+      "country_name": "United States"
     },
     {
       "source": "BBC Europe",
@@ -789,7 +798,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 25
+      "news_count": 26
     },
     {
       "country_code": "IL",
