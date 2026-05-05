@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-05-05T20:01:27Z",
+  "generated_at": "2026-05-05T21:31:27Z",
   "articles": [
+    {
+      "source": "BBC US & Canada",
+      "title": "US to safety test new AI models from Google, Microsoft, xAI",
+      "url": "https://www.bbc.com/news/articles/cgjp2we2j8go?at_medium=RSS&at_campaign=rss",
+      "summary": "New agreements between the companies and the Commerce department build on Biden-era pacts.",
+      "published_at": "2026-05-05T20:16:24Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC US & Canada",
       "title": "What to know about Louise Arbour, Canada's next governor general",
@@ -126,15 +135,6 @@
       "published_at": "2026-05-04T23:27:47Z",
       "country_code": "CA",
       "country_name": "Canada"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "Blake Lively and Justin Baldoni settle lawsuit over It Ends With Us film",
-      "url": "https://www.bbc.com/news/articles/c936q7np647o?at_medium=RSS&at_campaign=rss",
-      "summary": "The settlement comes just ahead of a trial slated to begin in May, where both stars were expected to testify.",
-      "published_at": "2026-05-04T22:05:37Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC World",
@@ -387,15 +387,6 @@
       "published_at": "2026-04-30T23:44:00Z",
       "country_code": "RU",
       "country_name": "Russia"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "Has the royal state visit saved the special relationship?",
-      "url": "https://www.bbc.com/news/videos/cgmpgkj2wz4o?at_medium=RSS&at_campaign=rss",
-      "summary": "BBC's Sarah Smith looks at whether King Charles' charm offensive with President Trump made a difference to US-UK relations.",
-      "published_at": "2026-04-30T21:45:16Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC Latin America",
@@ -798,7 +789,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 26
+      "news_count": 25
     },
     {
       "country_code": "IL",
