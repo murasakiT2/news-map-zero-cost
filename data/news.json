@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-05-05T09:25:39Z",
+  "generated_at": "2026-05-05T10:57:51Z",
   "articles": [
+    {
+      "source": "BBC Latin America",
+      "title": "Nine coal miners die in gas explosion in Colombia",
+      "url": "https://www.bbc.com/news/articles/cdxpe02y05go?at_medium=RSS&at_campaign=rss",
+      "summary": "The explosion is the latest accident in the locality of Sutatausa, the site of another deadly mine disaster in 2023.",
+      "published_at": "2026-05-05T10:09:23Z",
+      "country_code": "CO",
+      "country_name": "Colombia"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "Pussycat Dolls cancel US leg of reunion tour after poor ticket sales",
+      "url": "https://www.bbc.com/news/articles/cvgze6g5pz2o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Dolls say the decision was \"heartbreaking\" but add that the European shows will go ahead as planned.",
+      "published_at": "2026-05-05T09:27:22Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "Explosion at China fireworks factory kills 26 people",
@@ -360,15 +378,6 @@
       "published_at": "2026-04-30T05:45:54Z",
       "country_code": "CN",
       "country_name": "China"
-    },
-    {
-      "source": "BBC Latin America",
-      "title": "US charges Mexican governor and other leaders with aiding drug cartel",
-      "url": "https://www.bbc.com/news/articles/cpqpzlrd3wwo?at_medium=RSS&at_campaign=rss",
-      "summary": "The governor of Sinaloa, Rubén Rocha Moya, hails from the same party as the president of Mexico.",
-      "published_at": "2026-04-30T03:20:04Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC Africa",
@@ -809,6 +818,11 @@
       "news_count": 2
     },
     {
+      "country_code": "CO",
+      "country_name": "Colombia",
+      "news_count": 2
+    },
+    {
       "country_code": "IN",
       "country_name": "India",
       "news_count": 2
@@ -831,11 +845,6 @@
     {
       "country_code": "CA",
       "country_name": "Canada",
-      "news_count": 1
-    },
-    {
-      "country_code": "CO",
-      "country_name": "Colombia",
       "news_count": 1
     },
     {
