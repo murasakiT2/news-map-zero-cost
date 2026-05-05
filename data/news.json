@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-05-05T22:45:09Z",
+  "generated_at": "2026-05-05T23:39:25Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "India's fiercest female politician faces a fight for survival",
+      "url": "https://www.bbc.com/news/articles/c202p14qwr5o?at_medium=RSS&at_campaign=rss",
+      "summary": "Mamata Banerjee loses West Bengal state, throwing her party - and political future - into doubt.",
+      "published_at": "2026-05-05T23:27:34Z",
+      "country_code": "IN",
+      "country_name": "India"
+    },
     {
       "source": "BBC World",
       "title": "Offensive stage of Iran war is over, US Secretary of State Rubio says",
@@ -842,6 +851,11 @@
       "news_count": 2
     },
     {
+      "country_code": "IN",
+      "country_name": "India",
+      "news_count": 2
+    },
+    {
       "country_code": "MX",
       "country_name": "Mexico",
       "news_count": 2
@@ -869,11 +883,6 @@
     {
       "country_code": "GB",
       "country_name": "United Kingdom",
-      "news_count": 1
-    },
-    {
-      "country_code": "IN",
-      "country_name": "India",
       "news_count": 1
     },
     {
