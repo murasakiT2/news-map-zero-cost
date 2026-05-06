@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-05-06T21:36:04Z",
+  "generated_at": "2026-05-06T22:39:04Z",
   "articles": [
+    {
+      "source": "BBC US & Canada",
+      "title": "Brazil President Lula to discuss economy and security with Trump at White House",
+      "url": "https://www.bbc.com/news/articles/c8d84g963eeo?at_medium=RSS&at_campaign=rss",
+      "summary": "The two leaders have a strained relationship and will be closely watched for signs of a breakthrough over tariffs and other issues.",
+      "published_at": "2026-05-06T22:16:26Z",
+      "country_code": "BR",
+      "country_name": "Brazil"
+    },
+    {
+      "source": "BBC World",
+      "title": "Hantavirus-hit cruise ship leaves Cape Verde after three evacuated",
+      "url": "https://www.bbc.com/news/articles/c5y093d5n9ko?at_medium=RSS&at_campaign=rss",
+      "summary": "A British man is among three evacuees sent to the Netherlands after displaying symptoms while aboard the MV Hondius.",
+      "published_at": "2026-05-06T22:10:40Z",
+      "country_code": "NL",
+      "country_name": "Netherlands"
+    },
     {
       "source": "BBC World",
       "title": "'Enjoy the show. Ignore the war': Venice Biennale faces backlash after including Russia",
@@ -9,6 +27,15 @@
       "published_at": "2026-05-06T21:29:18Z",
       "country_code": "RU",
       "country_name": "Russia"
+    },
+    {
+      "source": "BBC World",
+      "title": "Iran considering US proposal to end war, official says",
+      "url": "https://www.bbc.com/news/articles/cj0pq2q8221o?at_medium=RSS&at_campaign=rss",
+      "summary": "The White House reportedly believes it could be closing in on a 14-point memorandum of understanding with Iran.",
+      "published_at": "2026-05-06T21:27:59Z",
+      "country_code": "US",
+      "country_name": "United States"
     },
     {
       "source": "BBC World",
@@ -21,30 +48,12 @@
     },
     {
       "source": "BBC US & Canada",
-      "title": "Foreign actors like Russia interfering in Alberta separatist debate, new report says",
+      "title": "US and Russia fuelling separatist debate in Canada, new report says",
       "url": "https://www.bbc.com/news/articles/cze2dnn8kgwo?at_medium=RSS&at_campaign=rss",
-      "summary": "From Russia to the US, foreign actors are trying to exploit existing grievances, which researchers describe as a threat to Canada's \"democra…",
+      "summary": "Researchers warn that foreign actors are meddling in the Alberta separatist movement in ways that threaten Canada’s \"democratic integrity\".",
       "published_at": "2026-05-06T20:51:54Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "Brazil President Lula to discuss economy and security with Trump at White House",
-      "url": "https://www.bbc.com/news/articles/c8d84g963eeo?at_medium=RSS&at_campaign=rss",
-      "summary": "The two leaders have a strained relationship and will be closely watched for signs of a breakthrough over tariffs and other issues.",
-      "published_at": "2026-05-06T20:48:05Z",
-      "country_code": "BR",
-      "country_name": "Brazil"
-    },
-    {
-      "source": "BBC World",
-      "title": "Hantavirus-hit cruise ship leaves Cape Verde after three evacuated",
-      "url": "https://www.bbc.com/news/articles/c5y093d5n9ko?at_medium=RSS&at_campaign=rss",
-      "summary": "A British man is among three evacuees sent to the Netherlands after displaying symptoms while aboard the MV Hondius.",
-      "published_at": "2026-05-06T19:49:12Z",
-      "country_code": "NL",
-      "country_name": "Netherlands"
     },
     {
       "source": "BBC US & Canada",
@@ -789,7 +798,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 24
+      "news_count": 25
     },
     {
       "country_code": "IL",
