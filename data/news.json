@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-05-06T05:20:23Z",
+  "generated_at": "2026-05-06T07:48:54Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Cruise ship with hantavirus outbreak to sail to Canary Islands",
+      "url": "https://www.bbc.com/news/articles/ce8pypvjx1ko?at_medium=RSS&at_campaign=rss",
+      "summary": "Spain's health ministry said the MV Hondius is expected to arrive within three to four days.",
+      "published_at": "2026-05-06T07:10:26Z",
+      "country_code": "ES",
+      "country_name": "Spain"
+    },
     {
       "source": "BBC World",
       "title": "Oil prices ease as US pauses Project Freedom to seek deal with Iran",
@@ -39,21 +48,12 @@
     },
     {
       "source": "BBC World",
-      "title": "Apple to pay $250m to US iPhone buyers over AI features lawsuit",
+      "title": "Apple to pay up to $95 to some US iPhone buyers over AI lawsuit",
       "url": "https://www.bbc.com/news/articles/c0j2nydnzy7o?at_medium=RSS&at_campaign=rss",
       "summary": "Claims from last year said the tech firm’s advertising of Apple Intelligence fooled iPhone buyers.",
       "published_at": "2026-05-06T00:15:14Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "Cruise ship with hantavirus outbreak to sail to Canary Islands",
-      "url": "https://www.bbc.com/news/articles/ce8pypvjx1ko?at_medium=RSS&at_campaign=rss",
-      "summary": "Spain's health ministry said the MV Hondius is expected to arrive within three to four days.",
-      "published_at": "2026-05-06T00:01:28Z",
-      "country_code": "ES",
-      "country_name": "Spain"
     },
     {
       "source": "BBC World",
@@ -119,11 +119,29 @@
       "country_name": "Russia"
     },
     {
+      "source": "BBC Middle East",
+      "title": "Israeli court extends detention of two Gaza flotilla activists",
+      "url": "https://www.bbc.com/news/articles/ce3pnw509kpo?at_medium=RSS&at_campaign=rss",
+      "summary": "Thiago Ávila and Saif Abu Keshek were detained by Israeli forces who intercepted the flotilla's boats near Greece last week.",
+      "published_at": "2026-05-05T19:10:30Z",
+      "country_code": "PS",
+      "country_name": "Palestine"
+    },
+    {
       "source": "BBC US & Canada",
       "title": "US aviation worker accused of using work computer to threaten Trump",
       "url": "https://www.bbc.com/news/articles/c5y7vrvdzn9o?at_medium=RSS&at_campaign=rss",
       "summary": "Prosecutors allege the suspect searched the internet for how to get a gun into a federal facility, and later asked the IT team to have his s…",
       "published_at": "2026-05-05T18:46:33Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC Middle East",
+      "title": "Captain of stranded ship in Strait of Hormuz tells BBC of 'pressure'",
+      "url": "https://www.bbc.com/news/videos/czx2k3eprpgo?at_medium=RSS&at_campaign=rss",
+      "summary": "Capt Raman Kapoor's ship is one of several to be stranded in the strait in the midst of the power struggle between the US and Iran.",
+      "published_at": "2026-05-05T18:28:35Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -452,15 +470,6 @@
       "country_name": "Iran"
     },
     {
-      "source": "BBC Europe",
-      "title": "Venice Biennale jury resigns days before start of top art exhibition",
-      "url": "https://www.bbc.com/news/articles/c78qdg4g80eo?at_medium=RSS&at_campaign=rss",
-      "summary": "It follows growing tensions over the return of Russia for the first time since the full-scale invasion of Ukraine.",
-      "published_at": "2026-04-30T23:44:00Z",
-      "country_code": "RU",
-      "country_name": "Russia"
-    },
-    {
       "source": "BBC Latin America",
       "title": "Rubio downplays reports US could review UK's claim to Falklands",
       "url": "https://www.bbc.com/news/articles/c809r2721ymo?at_medium=RSS&at_campaign=rss",
@@ -488,15 +497,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Asia",
-      "title": "Why is China banning drone sales in Beijing?",
-      "url": "https://www.bbc.com/news/videos/czd21r472nmo?at_medium=RSS&at_campaign=rss",
-      "summary": "The BBC's Laura Bicker looks into why China has tightened regulations on drones, with authorities citing public safety concerns.",
-      "published_at": "2026-04-30T10:29:34Z",
-      "country_code": "CN",
-      "country_name": "China"
-    },
-    {
       "source": "BBC Africa",
       "title": "'I did not expect it': Kenya's Sabastian Sawe welcomed home with jubilant celebrations",
       "url": "https://www.bbc.com/news/articles/cddp4y0rzjdo?at_medium=RSS&at_campaign=rss",
@@ -504,15 +504,6 @@
       "published_at": "2026-04-30T07:43:33Z",
       "country_code": "KE",
       "country_name": "Kenya"
-    },
-    {
-      "source": "BBC Asia",
-      "title": "China to ban drone sales in Beijing citing security concerns",
-      "url": "https://www.bbc.com/news/articles/c4gv4dvngygo?at_medium=RSS&at_campaign=rss",
-      "summary": "Drone users will also be required to register their devices and secure permits before flying them.",
-      "published_at": "2026-04-30T05:45:54Z",
-      "country_code": "CN",
-      "country_name": "China"
     },
     {
       "source": "BBC Africa",
@@ -540,24 +531,6 @@
       "published_at": "2026-04-29T15:30:50Z",
       "country_code": "IL",
       "country_name": "Israel"
-    },
-    {
-      "source": "BBC Europe",
-      "title": "Russia scales back Moscow Victory Day parade, blaming threat from Ukraine",
-      "url": "https://www.bbc.com/news/articles/c794wp4yy93o?at_medium=RSS&at_campaign=rss",
-      "summary": "Russia says the annual commemoration of Soviet victory in World War Two will not feature military vehicles or cadets.",
-      "published_at": "2026-04-29T13:01:57Z",
-      "country_code": "RU",
-      "country_name": "Russia"
-    },
-    {
-      "source": "BBC Middle East",
-      "title": "United Arab Emirates to quit oil cartel Opec",
-      "url": "https://www.bbc.com/news/articles/cj4pxwlr52yo?at_medium=RSS&at_campaign=rss",
-      "summary": "The UAE's decision, after nearly 60 years of membership, is seen as a potential death knell for the oil cartel.",
-      "published_at": "2026-04-29T08:05:11Z",
-      "country_code": "AE",
-      "country_name": "United Arab Emirates"
     },
     {
       "source": "BBC Middle East",
@@ -785,24 +758,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Middle East",
-      "title": "Ceasefire with Israel brings respite to Lebanon, but obstacles to peace remain",
-      "url": "https://www.bbc.com/news/articles/crm10w4ynj1o?at_medium=RSS&at_campaign=rss",
-      "summary": "The halt to weeks of fighting is being celebrated in Lebanon, but it will be difficult to ensure it lasts.",
-      "published_at": "2026-04-17T14:31:51Z",
-      "country_code": "IL",
-      "country_name": "Israel"
-    },
-    {
-      "source": "BBC Middle East",
-      "title": "Trump's Lebanon ceasefire takes Israel by surprise",
-      "url": "https://www.bbc.com/news/articles/cje4pn575jgo?at_medium=RSS&at_campaign=rss",
-      "summary": "Few Israelis see this truce as a way out of the conflict with Hezbollah, the BBC's Lucy Williamson writes.",
-      "published_at": "2026-04-16T22:55:59Z",
-      "country_code": "IL",
-      "country_name": "Israel"
-    },
-    {
       "source": "BBC Africa",
       "title": "Six African athletes blocked from transfers to Turkey",
       "url": "https://www.bbc.com/sport/athletics/articles/c3ex2717742o?at_medium=RSS&at_campaign=rss",
@@ -810,15 +765,6 @@
       "published_at": "2026-04-16T14:58:46Z",
       "country_code": "TR",
       "country_name": "Turkey"
-    },
-    {
-      "source": "BBC Middle East",
-      "title": "Lyse Doucet: Under fragile ceasefire, Iranians wonder if US deal can be done",
-      "url": "https://www.bbc.com/news/articles/c4g44gj7rgno?at_medium=RSS&at_campaign=rss",
-      "summary": "The BBC's chief international correspondent reports from Iran as diplomatic efforts to avoid a return to war intensify.",
-      "published_at": "2026-04-15T21:10:14Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC Africa",
@@ -866,16 +812,11 @@
     {
       "country_code": "IL",
       "country_name": "Israel",
-      "news_count": 9
+      "news_count": 7
     },
     {
       "country_code": "IR",
       "country_name": "Iran",
-      "news_count": 7
-    },
-    {
-      "country_code": "RU",
-      "country_name": "Russia",
       "news_count": 7
     },
     {
@@ -884,14 +825,19 @@
       "news_count": 6
     },
     {
+      "country_code": "RU",
+      "country_name": "Russia",
+      "news_count": 5
+    },
+    {
       "country_code": "CN",
       "country_name": "China",
-      "news_count": 5
+      "news_count": 3
     },
     {
       "country_code": "AE",
       "country_name": "United Arab Emirates",
-      "news_count": 3
+      "news_count": 2
     },
     {
       "country_code": "AU",
@@ -939,6 +885,11 @@
       "news_count": 2
     },
     {
+      "country_code": "PS",
+      "country_name": "Palestine",
+      "news_count": 2
+    },
+    {
       "country_code": "ET",
       "country_name": "Ethiopia",
       "news_count": 1
@@ -956,11 +907,6 @@
     {
       "country_code": "PL",
       "country_name": "Poland",
-      "news_count": 1
-    },
-    {
-      "country_code": "PS",
-      "country_name": "Palestine",
       "news_count": 1
     },
     {
