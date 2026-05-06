@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-05-06T10:07:30Z",
+  "generated_at": "2026-05-06T12:13:32Z",
   "articles": [
+    {
+      "source": "BBC Europe",
+      "title": "Russia ignores Ukraine's unilateral ceasefire and attacks kindergarten",
+      "url": "https://www.bbc.com/news/articles/cpdpxdd5n6yo?at_medium=RSS&at_campaign=rss",
+      "summary": "Ukraine's president says Russia has \"spurned the ceasefire\" and Kyiv is deciding on further action to take.",
+      "published_at": "2026-05-06T11:53:20Z",
+      "country_code": "RU",
+      "country_name": "Russia"
+    },
+    {
+      "source": "BBC World",
+      "title": "Oil prices drop and stock markets rise after reports of deal to end Iran war",
+      "url": "https://www.bbc.com/news/articles/c4g8zejyyr3o?at_medium=RSS&at_campaign=rss",
+      "summary": "Reports have raised hopes of an agreement between the US and Iran after days of escalation.",
+      "published_at": "2026-05-06T11:14:45Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Vivek Ramaswamy wins Republican nomination for Ohio governor",
+      "url": "https://www.bbc.com/news/articles/c4g0xe4qlzxo?at_medium=RSS&at_campaign=rss",
+      "summary": "The staunch Trump ally emerged victorious in one of a series of closely-watched primary contests held in the US Midwest.",
+      "published_at": "2026-05-06T11:04:06Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC Africa",
+      "title": "Sudan accuses Ethiopia and UAE of orchestrating drone attacks on airport",
+      "url": "https://www.bbc.com/news/articles/clype712r3qo?at_medium=RSS&at_campaign=rss",
+      "summary": "Sudan's foreign minister says Ethiopia and UAE has chosen the \"wrong path\" and would regret it.",
+      "published_at": "2026-05-06T10:38:17Z",
+      "country_code": "AE",
+      "country_name": "United Arab Emirates"
+    },
     {
       "source": "BBC World",
       "title": "China calls for Strait to be reopened 'as soon as possible' in Iran talks",
@@ -9,24 +45,6 @@
       "published_at": "2026-05-06T09:35:39Z",
       "country_code": "CN",
       "country_name": "China"
-    },
-    {
-      "source": "BBC Europe",
-      "title": "Hantavirus strain that spreads between humans found in cruise ship passengers",
-      "url": "https://www.bbc.com/news/articles/ce8pypvjx1ko?at_medium=RSS&at_campaign=rss",
-      "summary": "South Africa's health ministry said the Andes strain of the virus was found in two confirmed cases linked to the outbreak.",
-      "published_at": "2026-05-06T09:30:43Z",
-      "country_code": "ZA",
-      "country_name": "South Africa"
-    },
-    {
-      "source": "BBC World",
-      "title": "Oil prices ease as US pauses Project Freedom to seek deal with Iran",
-      "url": "https://www.bbc.com/news/articles/c4g8zejyyr3o?at_medium=RSS&at_campaign=rss",
-      "summary": "President Donald Trump raised hopes of an agreement between the US and Iran after days of escalation.",
-      "published_at": "2026-05-06T03:05:16Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC World",
@@ -144,15 +162,6 @@
       "published_at": "2026-05-05T14:50:40Z",
       "country_code": "FR",
       "country_name": "France"
-    },
-    {
-      "source": "BBC Africa",
-      "title": "Sudan accuses Ethiopia and UAE of orchestrating drone attacks on airport",
-      "url": "https://www.bbc.com/news/articles/clype712r3qo?at_medium=RSS&at_campaign=rss",
-      "summary": "Sudan's foreign minister says Ethiopia and UAE has chosen the \"wrong path\" and would regret it.",
-      "published_at": "2026-05-05T11:47:30Z",
-      "country_code": "AE",
-      "country_name": "United Arab Emirates"
     },
     {
       "source": "BBC World",
@@ -286,15 +295,6 @@
       "url": "https://www.bbc.com/news/articles/c1524vdn9dqo?at_medium=RSS&at_campaign=rss",
       "summary": "David Rivera, Marco Rubio's former housemate, was accused of accepting millions from the Maduro regime to lobby US politicians.",
       "published_at": "2026-05-03T14:36:27Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC Europe",
-      "title": "Germany troop cuts send wrong signal to Russia, say two top US Republicans",
-      "url": "https://www.bbc.com/news/articles/cewpx5yvwyxo?at_medium=RSS&at_campaign=rss",
-      "summary": "The chairs of the House and Senate armed services committees said withdrawing 5,000 service personnel risked undermining deterrence.",
-      "published_at": "2026-05-03T08:41:23Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -773,7 +773,7 @@
     {
       "country_code": "RU",
       "country_name": "Russia",
-      "news_count": 5
+      "news_count": 6
     },
     {
       "country_code": "CN",
@@ -831,11 +831,6 @@
       "news_count": 2
     },
     {
-      "country_code": "ZA",
-      "country_name": "South Africa",
-      "news_count": 2
-    },
-    {
       "country_code": "ES",
       "country_name": "Spain",
       "news_count": 1
@@ -878,6 +873,11 @@
     {
       "country_code": "UA",
       "country_name": "Ukraine",
+      "news_count": 1
+    },
+    {
+      "country_code": "ZA",
+      "country_name": "South Africa",
       "news_count": 1
     }
   ]
