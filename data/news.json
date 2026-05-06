@@ -1,6 +1,51 @@
 {
-  "generated_at": "2026-05-06T20:06:44Z",
+  "generated_at": "2026-05-06T21:36:04Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "'Enjoy the show. Ignore the war': Venice Biennale faces backlash after including Russia",
+      "url": "https://www.bbc.com/news/articles/cvgz14e1zeno?at_medium=RSS&at_campaign=rss",
+      "summary": "Protests have taken place at the prestigious arts fair over the inclusion of Russia for the first time since the full-scale invasion of Ukra…",
+      "published_at": "2026-05-06T21:29:18Z",
+      "country_code": "RU",
+      "country_name": "Russia"
+    },
+    {
+      "source": "BBC World",
+      "title": "Gas tax: How beer fuelled a debate on Australia's energy giants",
+      "url": "https://www.bbc.com/news/articles/cy02pzxd4y4o?at_medium=RSS&at_campaign=rss",
+      "summary": "Campaigners say Australia is giving away its gas 'for free' and should tax exports like Norway and Qatar.",
+      "published_at": "2026-05-06T20:58:03Z",
+      "country_code": "AU",
+      "country_name": "Australia"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "Foreign actors like Russia interfering in Alberta separatist debate, new report says",
+      "url": "https://www.bbc.com/news/articles/cze2dnn8kgwo?at_medium=RSS&at_campaign=rss",
+      "summary": "From Russia to the US, foreign actors are trying to exploit existing grievances, which researchers describe as a threat to Canada's \"democra…",
+      "published_at": "2026-05-06T20:51:54Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "Brazil President Lula to discuss economy and security with Trump at White House",
+      "url": "https://www.bbc.com/news/articles/c8d84g963eeo?at_medium=RSS&at_campaign=rss",
+      "summary": "The two leaders have a strained relationship and will be closely watched for signs of a breakthrough over tariffs and other issues.",
+      "published_at": "2026-05-06T20:48:05Z",
+      "country_code": "BR",
+      "country_name": "Brazil"
+    },
+    {
+      "source": "BBC World",
+      "title": "Hantavirus-hit cruise ship leaves Cape Verde after three evacuated",
+      "url": "https://www.bbc.com/news/articles/c5y093d5n9ko?at_medium=RSS&at_campaign=rss",
+      "summary": "A British man is among three evacuees sent to the Netherlands after displaying symptoms while aboard the MV Hondius.",
+      "published_at": "2026-05-06T19:49:12Z",
+      "country_code": "NL",
+      "country_name": "Netherlands"
+    },
     {
       "source": "BBC US & Canada",
       "title": "Trump's hopes for an Iran peace deal come with caveats",
@@ -128,7 +173,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "What do a teenager's clothes tell us about North Korea's future?",
       "url": "https://www.bbc.com/news/videos/c072k1x1rylo?at_medium=RSS&at_campaign=rss",
       "summary": "Analysts say the daughter of North Korea’s leader Kim Jong Un is not just growing up - she’s being styled for succession.",
@@ -180,15 +225,6 @@
       "published_at": "2026-05-05T19:10:30Z",
       "country_code": "PS",
       "country_name": "Palestine"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "US aviation worker accused of using work computer to threaten Trump",
-      "url": "https://www.bbc.com/news/articles/c5y7vrvdzn9o?at_medium=RSS&at_campaign=rss",
-      "summary": "Prosecutors allege the suspect searched the internet for how to get a gun into a federal facility, and later asked the IT team to have his s…",
-      "published_at": "2026-05-05T18:46:33Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC Middle East",
@@ -773,7 +809,7 @@
     {
       "country_code": "RU",
       "country_name": "Russia",
-      "news_count": 5
+      "news_count": 6
     },
     {
       "country_code": "CN",
@@ -781,18 +817,18 @@
       "news_count": 4
     },
     {
-      "country_code": "AE",
-      "country_name": "United Arab Emirates",
-      "news_count": 2
-    },
-    {
       "country_code": "AU",
       "country_name": "Australia",
-      "news_count": 2
+      "news_count": 3
     },
     {
       "country_code": "BR",
       "country_name": "Brazil",
+      "news_count": 3
+    },
+    {
+      "country_code": "AE",
+      "country_name": "United Arab Emirates",
       "news_count": 2
     },
     {
@@ -821,6 +857,11 @@
       "news_count": 2
     },
     {
+      "country_code": "NL",
+      "country_name": "Netherlands",
+      "news_count": 2
+    },
+    {
       "country_code": "PS",
       "country_name": "Palestine",
       "news_count": 2
@@ -843,11 +884,6 @@
     {
       "country_code": "GB",
       "country_name": "United Kingdom",
-      "news_count": 1
-    },
-    {
-      "country_code": "NL",
-      "country_name": "Netherlands",
       "news_count": 1
     },
     {
