@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-06T22:39:04Z",
+  "generated_at": "2026-05-06T23:40:17Z",
   "articles": [
     {
       "source": "BBC US & Canada",
@@ -56,7 +56,16 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC US & Canada",
+      "source": "BBC World",
+      "title": "Israel strikes Beirut for first time since Hezbollah ceasefire",
+      "url": "https://www.bbc.com/news/articles/crmpjjl02l2o?at_medium=RSS&at_campaign=rss",
+      "summary": "Israel says it targeted a senior Hezbollah figure in the capital, the first strike of its kind since mid-April.",
+      "published_at": "2026-05-06T19:58:04Z",
+      "country_code": "IL",
+      "country_name": "Israel"
+    },
+    {
+      "source": "BBC World",
       "title": "Trump's hopes for an Iran peace deal come with caveats",
       "url": "https://www.bbc.com/news/articles/cvgzp74rvj5o?at_medium=RSS&at_campaign=rss",
       "summary": "There are signs of fresh momentum to end the war, but Trump himself has injected a note of caution.",
@@ -803,7 +812,7 @@
     {
       "country_code": "IL",
       "country_name": "Israel",
-      "news_count": 7
+      "news_count": 8
     },
     {
       "country_code": "IR",
