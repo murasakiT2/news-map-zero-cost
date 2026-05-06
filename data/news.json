@@ -1,23 +1,50 @@
 {
-  "generated_at": "2026-05-06T12:13:32Z",
+  "generated_at": "2026-05-06T15:06:53Z",
   "articles": [
     {
-      "source": "BBC Europe",
+      "source": "BBC World",
+      "title": "Oil prices drop and stock markets rise after reports of deal to end Iran war",
+      "url": "https://www.bbc.com/news/articles/c4g8zejyyr3o?at_medium=RSS&at_campaign=rss",
+      "summary": "Reports have raised hopes of an agreement between the US and Iran after days of escalation.",
+      "published_at": "2026-05-06T14:03:53Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC Middle East",
+      "title": "Trump pauses Hormuz plan 50 hours after he announced it - what happened?",
+      "url": "https://www.bbc.com/news/articles/cd6p5q2dx1po?at_medium=RSS&at_campaign=rss",
+      "summary": "The US president pauses the military operation to get ships through the Strait of Hormuz two days after he announced it.",
+      "published_at": "2026-05-06T13:39:09Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Orphaned baby hippo to be hand-reared by keepers at Kenya sanctuary",
+      "url": "https://www.bbc.com/news/articles/c1e2zev6754o?at_medium=RSS&at_campaign=rss",
+      "summary": "The baby hippo, which has been named Bumpy, was found clinging to its lifeless mother at a lake.",
+      "published_at": "2026-05-06T12:35:15Z",
+      "country_code": "KE",
+      "country_name": "Kenya"
+    },
+    {
+      "source": "BBC World",
+      "title": "Robot wars - what an operation in Ukraine tells us about the battlefield of the near future",
+      "url": "https://www.bbc.com/news/articles/c9d35v126vyo?at_medium=RSS&at_campaign=rss",
+      "summary": "After Ukraine's President Zelensky said territory had been captured using just robots and drones, what is the future of unmanned warfare?",
+      "published_at": "2026-05-06T11:59:44Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
       "title": "Russia ignores Ukraine's unilateral ceasefire and attacks kindergarten",
       "url": "https://www.bbc.com/news/articles/cpdpxdd5n6yo?at_medium=RSS&at_campaign=rss",
       "summary": "Ukraine's president says Russia has \"spurned the ceasefire\" and Kyiv is deciding on further action to take.",
       "published_at": "2026-05-06T11:53:20Z",
       "country_code": "RU",
       "country_name": "Russia"
-    },
-    {
-      "source": "BBC World",
-      "title": "Oil prices drop and stock markets rise after reports of deal to end Iran war",
-      "url": "https://www.bbc.com/news/articles/c4g8zejyyr3o?at_medium=RSS&at_campaign=rss",
-      "summary": "Reports have raised hopes of an agreement between the US and Iran after days of escalation.",
-      "published_at": "2026-05-06T11:14:45Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC World",
@@ -227,15 +254,6 @@
       "country_name": "Canada"
     },
     {
-      "source": "BBC World",
-      "title": "Ukrainian drone hits upmarket Moscow high-rise ahead of Victory Day celebrations",
-      "url": "https://www.bbc.com/news/articles/cwy234llx3vo?at_medium=RSS&at_campaign=rss",
-      "summary": "Russia has declared a unilateral ceasefire to cover the event and threatened a massive strike on central Kyiv if it were disrupted.",
-      "published_at": "2026-05-04T19:09:14Z",
-      "country_code": "RU",
-      "country_name": "Russia"
-    },
-    {
       "source": "BBC Europe",
       "title": "Spain seizes record amount of cocaine in Atlantic Ocean, authorities say",
       "url": "https://www.bbc.com/news/articles/cp8pn8py5gro?at_medium=RSS&at_campaign=rss",
@@ -439,15 +457,6 @@
       "url": "https://www.bbc.com/news/articles/c809r2721ymo?at_medium=RSS&at_campaign=rss",
       "summary": "The US secretary of state says a leaked memo suggesting America's position on the territory could be changed \"was just an email\".",
       "published_at": "2026-04-30T21:15:12Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC Middle East",
-      "title": "Why and how is US blockading Iranian ports in Strait of Hormuz?",
-      "url": "https://www.bbc.com/news/articles/c5yv6xr6me3o?at_medium=RSS&at_campaign=rss",
-      "summary": "Donald Trump says that the US is blockading the Strait of Hormuz. What does this mean in practice?",
-      "published_at": "2026-04-30T14:29:30Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -695,15 +704,6 @@
       "country_name": "Kenya"
     },
     {
-      "source": "BBC Middle East",
-      "title": "What people in power think the impact of the Iran war will be",
-      "url": "https://www.bbc.com/news/articles/c9vl37eev7ko?at_medium=RSS&at_campaign=rss",
-      "summary": "Faisal Islam talks to some of the world's most powerful people about the conflict and the economy.",
-      "published_at": "2026-04-18T05:00:15Z",
-      "country_code": "IR",
-      "country_name": "Iran"
-    },
-    {
       "source": "BBC Africa",
       "title": "Six African athletes blocked from transfers to Turkey",
       "url": "https://www.bbc.com/sport/athletics/articles/c3ex2717742o?at_medium=RSS&at_campaign=rss",
@@ -753,11 +753,11 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 24
+      "news_count": 25
     },
     {
-      "country_code": "IR",
-      "country_name": "Iran",
+      "country_code": "KE",
+      "country_name": "Kenya",
       "news_count": 7
     },
     {
@@ -766,14 +766,14 @@
       "news_count": 6
     },
     {
-      "country_code": "KE",
-      "country_name": "Kenya",
+      "country_code": "IR",
+      "country_name": "Iran",
       "news_count": 6
     },
     {
       "country_code": "RU",
       "country_name": "Russia",
-      "news_count": 6
+      "news_count": 5
     },
     {
       "country_code": "CN",
