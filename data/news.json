@@ -1,14 +1,41 @@
 {
-  "generated_at": "2026-05-07T20:44:51Z",
+  "generated_at": "2026-05-07T21:44:51Z",
   "articles": [
     {
       "source": "BBC World",
-      "title": "Valverde taken to hospital after alleged incident with Tchouameni",
+      "title": "Valverde cut head when he 'accidentally hit table' in Tchouameni row",
       "url": "https://www.bbc.com/sport/football/articles/c98r4218l73o?at_medium=RSS&at_campaign=rss",
-      "summary": "An incident involving team-mates Federico Valverde and Aurelien Tchouameni threatens to overshadow one of Real Madrid's biggest matches of t…",
-      "published_at": "2026-05-07T20:06:43Z",
+      "summary": "Federico Valverde went to hospital after a dressing room row with Real Madrid team-mate Aurelien Tchouameni which left him with a head injur…",
+      "published_at": "2026-05-07T21:40:26Z",
       "country_code": "ES",
       "country_name": "Spain"
+    },
+    {
+      "source": "BBC World",
+      "title": "Five killed in huge fire at packed Mexico fairground",
+      "url": "https://www.bbc.com/news/articles/cq6py38q81ro?at_medium=RSS&at_campaign=rss",
+      "summary": "The blaze in the south-eastern city of Villahermosa erupted during a concert reportedly attended by some 135,000 people.",
+      "published_at": "2026-05-07T21:08:35Z",
+      "country_code": "MX",
+      "country_name": "Mexico"
+    },
+    {
+      "source": "BBC World",
+      "title": "Crowds cheer China's new snooker star on return from championship win",
+      "url": "https://www.bbc.com/news/articles/c62ex9ykl53o?at_medium=RSS&at_campaign=rss",
+      "summary": "Wu Yize, 22, receives a rock star's welcome after becoming second-youngest player to win a world title.",
+      "published_at": "2026-05-07T20:59:43Z",
+      "country_code": "CN",
+      "country_name": "China"
+    },
+    {
+      "source": "BBC World",
+      "title": "Trump gives 4 July ultimatum to EU to approve trade deal with US",
+      "url": "https://www.bbc.com/news/articles/cp3pyk4nw3lo?at_medium=RSS&at_campaign=rss",
+      "summary": "The US president said the European Union must enact the trade deal agreed last year and drop tariffs on American goods to zero.",
+      "published_at": "2026-05-07T20:57:17Z",
+      "country_code": "US",
+      "country_name": "United States"
     },
     {
       "source": "BBC US & Canada",
@@ -443,7 +470,7 @@
       "country_name": "Iran"
     },
     {
-      "source": "BBC Asia",
+      "source": "BBC Africa",
       "title": "China scraps tariffs for all but one African nation",
       "url": "https://www.bbc.com/news/articles/cwy2v509217o?at_medium=RSS&at_campaign=rss",
       "summary": "The zero-tariff regime gives China's soft power a boost, but may lead to uneven gains, say analysts.",
@@ -762,7 +789,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 25
+      "news_count": 26
     },
     {
       "country_code": "IR",
@@ -775,6 +802,11 @@
       "news_count": 7
     },
     {
+      "country_code": "CN",
+      "country_name": "China",
+      "news_count": 5
+    },
+    {
       "country_code": "IL",
       "country_name": "Israel",
       "news_count": 5
@@ -785,14 +817,14 @@
       "news_count": 4
     },
     {
-      "country_code": "CN",
-      "country_name": "China",
-      "news_count": 4
-    },
-    {
       "country_code": "RU",
       "country_name": "Russia",
       "news_count": 4
+    },
+    {
+      "country_code": "MX",
+      "country_name": "Mexico",
+      "news_count": 3
     },
     {
       "country_code": "AE",
@@ -817,11 +849,6 @@
     {
       "country_code": "GB",
       "country_name": "United Kingdom",
-      "news_count": 2
-    },
-    {
-      "country_code": "MX",
-      "country_name": "Mexico",
       "news_count": 2
     },
     {
