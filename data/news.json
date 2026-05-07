@@ -1,23 +1,41 @@
 {
-  "generated_at": "2026-05-07T01:55:29Z",
+  "generated_at": "2026-05-07T05:23:48Z",
   "articles": [
     {
-      "source": "BBC US & Canada",
-      "title": "Brazil President Lula to discuss economy and security with Trump at White House",
-      "url": "https://www.bbc.com/news/articles/c8d84g963eeo?at_medium=RSS&at_campaign=rss",
-      "summary": "The two leaders have a strained relationship and will be closely watched for signs of a breakthrough over tariffs and other issues.",
-      "published_at": "2026-05-06T22:16:26Z",
-      "country_code": "BR",
-      "country_name": "Brazil"
+      "source": "BBC World",
+      "title": "Iran considering US proposal as Trump says war will be 'over quickly'",
+      "url": "https://www.bbc.com/news/articles/cj0pq2q8221o?at_medium=RSS&at_campaign=rss",
+      "summary": "Mediator Pakistan says it is \"endeavouring to convert this ceasefire into a permanent end to this war\".",
+      "published_at": "2026-05-07T04:06:33Z",
+      "country_code": "US",
+      "country_name": "United States"
     },
     {
       "source": "BBC World",
       "title": "Hantavirus-hit cruise ship leaves Cape Verde after three evacuated",
       "url": "https://www.bbc.com/news/articles/c5y093d5n9ko?at_medium=RSS&at_campaign=rss",
       "summary": "A British man is among three evacuees sent to the Netherlands after displaying symptoms while aboard the MV Hondius.",
-      "published_at": "2026-05-06T22:10:40Z",
+      "published_at": "2026-05-07T03:55:13Z",
       "country_code": "NL",
       "country_name": "Netherlands"
+    },
+    {
+      "source": "BBC Asia",
+      "title": "Vigils to be held across Australia for murdered 5-year-old girl",
+      "url": "https://www.bbc.com/news/articles/cdeplz29p7go?at_medium=RSS&at_campaign=rss",
+      "summary": "Kumanjayi Little Baby was found dead after going missing from an Aboriginal town camp in Alice Springs.",
+      "published_at": "2026-05-07T01:03:37Z",
+      "country_code": "AU",
+      "country_name": "Australia"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "Brazil's President Lula to discuss economy and security with Trump at White House",
+      "url": "https://www.bbc.com/news/articles/c8d84g963eeo?at_medium=RSS&at_campaign=rss",
+      "summary": "The two leaders have a strained relationship and will be closely watched for signs of a breakthrough over tariffs and other issues.",
+      "published_at": "2026-05-06T22:16:26Z",
+      "country_code": "BR",
+      "country_name": "Brazil"
     },
     {
       "source": "BBC World",
@@ -27,15 +45,6 @@
       "published_at": "2026-05-06T21:29:18Z",
       "country_code": "RU",
       "country_name": "Russia"
-    },
-    {
-      "source": "BBC World",
-      "title": "Iran considering US proposal to end war, official says",
-      "url": "https://www.bbc.com/news/articles/cj0pq2q8221o?at_medium=RSS&at_campaign=rss",
-      "summary": "The White House reportedly believes it could be closing in on a 14-point memorandum of understanding with Iran.",
-      "published_at": "2026-05-06T21:27:59Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC World",
@@ -164,7 +173,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC US & Canada",
+      "source": "BBC Middle East",
       "title": "Trump says US to pause operation to guide vessels through Strait of Hormuz",
       "url": "https://www.bbc.com/news/articles/clypekl71gdo?at_medium=RSS&at_campaign=rss",
       "summary": "\"Project Freedom\", which began on Monday, will be halted because progress has been made toward a deal with Iran, the US president says.",
@@ -279,15 +288,6 @@
       "published_at": "2026-05-05T10:09:23Z",
       "country_code": "CO",
       "country_name": "Colombia"
-    },
-    {
-      "source": "BBC Asia",
-      "title": "Explosion at China fireworks factory kills 26 people",
-      "url": "https://www.bbc.com/news/articles/c70vqwengxno?at_medium=RSS&at_campaign=rss",
-      "summary": "A blast at a fireworks factory in Hunan province has killed 26 people and injured 61, state media report.",
-      "published_at": "2026-05-05T06:06:42Z",
-      "country_code": "CN",
-      "country_name": "China"
     },
     {
       "source": "BBC Middle East",
@@ -830,18 +830,18 @@
       "news_count": 6
     },
     {
-      "country_code": "CN",
-      "country_name": "China",
-      "news_count": 4
-    },
-    {
       "country_code": "AU",
       "country_name": "Australia",
-      "news_count": 3
+      "news_count": 4
     },
     {
       "country_code": "BR",
       "country_name": "Brazil",
+      "news_count": 3
+    },
+    {
+      "country_code": "CN",
+      "country_name": "China",
       "news_count": 3
     },
     {
