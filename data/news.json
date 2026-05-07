@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-05-07T15:08:59Z",
+  "generated_at": "2026-05-07T17:13:12Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Rosenberg: Russia's Victory Day parade with no tanks a sign Ukraine war not going to plan",
+      "url": "https://www.bbc.com/news/articles/cwy2gj2jlr8o?at_medium=RSS&at_campaign=rss",
+      "summary": "For the first time in nearly two decades, there will be no military hardware, just soldiers during Saturday's parade in Moscow.",
+      "published_at": "2026-05-07T16:00:05Z",
+      "country_code": "RU",
+      "country_name": "Russia"
+    },
+    {
+      "source": "BBC Europe",
+      "title": "Portugal and Italy will not suspend digital border checks for Brits",
+      "url": "https://www.bbc.com/news/articles/c78k9ke78ljo?at_medium=RSS&at_campaign=rss",
+      "summary": "Reports had suggested the countries were set to follow the example of Greece, which effectively suspended biometric checks for UK nationals.",
+      "published_at": "2026-05-07T15:41:28Z",
+      "country_code": "GB",
+      "country_name": "United Kingdom"
+    },
     {
       "source": "BBC World",
       "title": "Fears of renewed Gaza war as Hamas disarmament talks stall",
@@ -9,15 +27,6 @@
       "published_at": "2026-05-07T14:22:20Z",
       "country_code": "IL",
       "country_name": "Israel"
-    },
-    {
-      "source": "BBC World",
-      "title": "Race to trace passengers who left hantavirus cruise ship at island",
-      "url": "https://www.bbc.com/news/articles/cnvpzgn26edo?at_medium=RSS&at_campaign=rss",
-      "summary": "A 69-year-old woman who later died in South Africa is among those who left MV Hondius at St Helena.",
-      "published_at": "2026-05-07T14:01:55Z",
-      "country_code": "ZA",
-      "country_name": "South Africa"
     },
     {
       "source": "BBC World",
@@ -99,6 +108,15 @@
       "published_at": "2026-05-07T09:38:04Z",
       "country_code": "IR",
       "country_name": "Iran"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "US driver arrested after chasing down child on bike on footpath",
+      "url": "https://www.bbc.com/news/videos/c9wep78epz8o?at_medium=RSS&at_campaign=rss",
+      "summary": "Video captures a young boy on a bike fleeing a car that mounted a footpath in Washington State.",
+      "published_at": "2026-05-07T08:13:36Z",
+      "country_code": "US",
+      "country_name": "United States"
     },
     {
       "source": "BBC World",
@@ -200,7 +218,7 @@
       "country_name": "Russia"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "Vivek Ramaswamy wins Republican nomination for Ohio governor",
       "url": "https://www.bbc.com/news/articles/c4g0xe4qlzxo?at_medium=RSS&at_campaign=rss",
       "summary": "The staunch Trump ally emerged victorious in one of a series of closely-watched primary contests held in the US Midwest.",
@@ -218,7 +236,7 @@
       "country_name": "United Arab Emirates"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "China calls for Strait to be reopened 'as soon as possible' in Iran talks",
       "url": "https://www.bbc.com/news/articles/c0m21mndm71o?at_medium=RSS&at_campaign=rss",
       "summary": "Wang Yi is holding talks with Iran's foreign minister Aragchi who is on his first trip to China since the war began.",
@@ -342,15 +360,6 @@
       "published_at": "2026-05-04T07:45:13Z",
       "country_code": "CO",
       "country_name": "Colombia"
-    },
-    {
-      "source": "BBC Europe",
-      "title": "European leaders converge on Armenia as Russia looks on",
-      "url": "https://www.bbc.com/news/articles/cgkp1124y3yo?at_medium=RSS&at_campaign=rss",
-      "summary": "Two European summits are being held in a country long considered Russia's closest ally in the region.",
-      "published_at": "2026-05-03T23:19:05Z",
-      "country_code": "RU",
-      "country_name": "Russia"
     },
     {
       "source": "BBC Latin America",
@@ -744,7 +753,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 22
+      "news_count": 23
     },
     {
       "country_code": "IR",
@@ -797,6 +806,11 @@
       "news_count": 2
     },
     {
+      "country_code": "GB",
+      "country_name": "United Kingdom",
+      "news_count": 2
+    },
+    {
       "country_code": "MX",
       "country_name": "Mexico",
       "news_count": 2
@@ -812,11 +826,6 @@
       "news_count": 2
     },
     {
-      "country_code": "ZA",
-      "country_name": "South Africa",
-      "news_count": 2
-    },
-    {
       "country_code": "CA",
       "country_name": "Canada",
       "news_count": 1
@@ -824,11 +833,6 @@
     {
       "country_code": "ET",
       "country_name": "Ethiopia",
-      "news_count": 1
-    },
-    {
-      "country_code": "GB",
-      "country_name": "United Kingdom",
       "news_count": 1
     },
     {
@@ -859,6 +863,11 @@
     {
       "country_code": "TR",
       "country_name": "Turkey",
+      "news_count": 1
+    },
+    {
+      "country_code": "ZA",
+      "country_name": "South Africa",
       "news_count": 1
     }
   ]
