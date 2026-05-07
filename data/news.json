@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-05-07T21:44:51Z",
+  "generated_at": "2026-05-07T22:51:22Z",
   "articles": [
+    {
+      "source": "BBC Asia",
+      "title": "Thousands of North Koreans fought for Russia. A memorial hints at the death toll",
+      "url": "https://www.bbc.com/news/articles/clypr5985ejo?at_medium=RSS&at_campaign=rss",
+      "summary": "An estimated 11,000 North Korean soldiers were sent to fight in Russia's war against Ukraine.",
+      "published_at": "2026-05-07T22:20:56Z",
+      "country_code": "RU",
+      "country_name": "Russia"
+    },
+    {
+      "source": "BBC Asia",
+      "title": "Anti-war protests rock Japan as PM pushes for stronger defence",
+      "url": "https://www.bbc.com/news/articles/c4g93v8jqnyo?at_medium=RSS&at_campaign=rss",
+      "summary": "Japan's largest anti-war protests in decades highlight a population divided over changes to its pacifist constitution.",
+      "published_at": "2026-05-07T22:15:51Z",
+      "country_code": "JP",
+      "country_name": "Japan"
+    },
     {
       "source": "BBC World",
       "title": "Valverde cut head when he 'accidentally hit table' in Tchouameni row",
@@ -812,13 +830,13 @@
       "news_count": 5
     },
     {
-      "country_code": "AU",
-      "country_name": "Australia",
-      "news_count": 4
-    },
-    {
       "country_code": "RU",
       "country_name": "Russia",
+      "news_count": 5
+    },
+    {
+      "country_code": "AU",
+      "country_name": "Australia",
       "news_count": 4
     },
     {
@@ -879,6 +897,11 @@
     {
       "country_code": "IN",
       "country_name": "India",
+      "news_count": 1
+    },
+    {
+      "country_code": "JP",
+      "country_name": "Japan",
       "news_count": 1
     },
     {
