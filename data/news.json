@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-05-08T05:14:03Z",
+  "generated_at": "2026-05-08T07:01:32Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Third British national has suspected hantavirus infection, UK government says",
+      "url": "https://www.bbc.com/news/articles/c5yr41vq2ero?at_medium=RSS&at_campaign=rss",
+      "summary": "The patient is on the remote Atlantic island of Tristan da Cunha, which was visited by the cruise ship in April.",
+      "published_at": "2026-05-08T06:03:23Z",
+      "country_code": "GB",
+      "country_name": "United Kingdom"
+    },
+    {
+      "source": "BBC World",
+      "title": "Trump says US-Iran ceasefire still in place after exchange of fire in Strait of Hormuz",
+      "url": "https://www.bbc.com/news/articles/c626zyywxjno?at_medium=RSS&at_campaign=rss",
+      "summary": "Iran accuses the US of violating the truce, alleging it targeted an oil tanker and carried out attacks on coastal areas.",
+      "published_at": "2026-05-08T05:57:08Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "Two Islamic-State linked Australian women charged with crimes against humanity",
@@ -21,15 +39,6 @@
     },
     {
       "source": "BBC World",
-      "title": "Trump says US-Iran ceasefire still in place after exchange of fire in Strait of Hormuz",
-      "url": "https://www.bbc.com/news/articles/c626zyywxjno?at_medium=RSS&at_campaign=rss",
-      "summary": "Iran accuses the US of violating the truce, alleging it targeted an oil tanker and carried out attacks on coastal areas.",
-      "published_at": "2026-05-08T04:28:00Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
       "title": "World Cup fans in China and India face broadcast uncertainty",
       "url": "https://www.bbc.com/news/articles/cp9py4k8mllo?at_medium=RSS&at_campaign=rss",
       "summary": "Broadcasters in the two countries have yet to reach deals with Fifa, just weeks before the tournament is due to start.",
@@ -38,7 +47,7 @@
       "country_name": "China"
     },
     {
-      "source": "BBC US & Canada",
+      "source": "BBC World",
       "title": "Trump and Lula's private Oval Office meeting signals lingering strain - and effort to avoid tension",
       "url": "https://www.bbc.com/news/articles/c8r8gxjxz10o?at_medium=RSS&at_campaign=rss",
       "summary": "The US and Brazilian presidents did not appear together publicly, but traded compliments after their talks.",
@@ -52,6 +61,15 @@
       "url": "https://www.bbc.com/news/articles/c62r52l107po?at_medium=RSS&at_campaign=rss",
       "summary": "Parents who have outstanding debt of more than $2,500 (€1,844) in child support payments could be impacted.",
       "published_at": "2026-05-08T02:57:48Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Oil prices rise after US and Iran exchange fire in Hormuz strait",
+      "url": "https://www.bbc.com/news/articles/c86dp85g59xo?at_medium=RSS&at_campaign=rss",
+      "summary": "US President Donald Trump said the ceasefire between Washington and Tehran is still in place.",
+      "published_at": "2026-05-08T02:23:03Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -173,7 +191,7 @@
       "country_name": "Israel"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Africa",
       "title": "Orphaned baby hippo to be hand-reared by keepers at Kenya sanctuary",
       "url": "https://www.bbc.com/news/articles/c1e2zev6754o?at_medium=RSS&at_campaign=rss",
       "summary": "The baby hippo, which has been named Bumpy, was found clinging to its lifeless mother at a lake.",
@@ -362,15 +380,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Middle East",
-      "title": "IS families in Syria have booked tickets home to Australia, minister says",
-      "url": "https://www.bbc.com/news/articles/cn0pyny6jk0o?at_medium=RSS&at_campaign=rss",
-      "summary": "The four women and nine children with links to Islamic State have spent years in a Syrian camp.",
-      "published_at": "2026-05-06T01:47:48Z",
-      "country_code": "AU",
-      "country_name": "Australia"
-    },
-    {
       "source": "BBC Asia",
       "title": "What do a teenager's clothes tell us about North Korea's future?",
       "url": "https://www.bbc.com/news/videos/c072k1x1rylo?at_medium=RSS&at_campaign=rss",
@@ -405,15 +414,6 @@
       "published_at": "2026-05-05T18:28:35Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC Europe",
-      "title": "French political row over calls for overhaul and €1bn cuts at public broadcaster",
-      "url": "https://www.bbc.com/news/articles/c052l130d6jo?at_medium=RSS&at_campaign=rss",
-      "summary": "A parliamentary committee of enquiry levelled charges of left-wing bias at state-owned France Télévisions and Radio France.",
-      "published_at": "2026-05-05T14:50:40Z",
-      "country_code": "FR",
-      "country_name": "France"
     },
     {
       "source": "BBC Middle East",
@@ -531,15 +531,6 @@
       "published_at": "2026-05-01T00:02:57Z",
       "country_code": "CN",
       "country_name": "China"
-    },
-    {
-      "source": "BBC Asia",
-      "title": "It's not just oil: Iran war also threatens Asia's food security",
-      "url": "https://www.bbc.com/news/articles/c208yl1jkl7o?at_medium=RSS&at_campaign=rss",
-      "summary": "Planting season is beginning in Asia - but the closure of the Strait of Hormuz and Chinese restrictions has hit fertiliser supply.",
-      "published_at": "2026-05-01T00:01:30Z",
-      "country_code": "IR",
-      "country_name": "Iran"
     },
     {
       "source": "BBC Latin America",
@@ -834,12 +825,12 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 29
+      "news_count": 30
     },
     {
       "country_code": "IR",
       "country_name": "Iran",
-      "news_count": 10
+      "news_count": 9
     },
     {
       "country_code": "CN",
@@ -864,7 +855,12 @@
     {
       "country_code": "AU",
       "country_name": "Australia",
-      "news_count": 4
+      "news_count": 3
+    },
+    {
+      "country_code": "GB",
+      "country_name": "United Kingdom",
+      "news_count": 3
     },
     {
       "country_code": "MX",
@@ -879,16 +875,6 @@
     {
       "country_code": "CO",
       "country_name": "Colombia",
-      "news_count": 2
-    },
-    {
-      "country_code": "FR",
-      "country_name": "France",
-      "news_count": 2
-    },
-    {
-      "country_code": "GB",
-      "country_name": "United Kingdom",
       "news_count": 2
     },
     {
@@ -919,6 +905,11 @@
     {
       "country_code": "ET",
       "country_name": "Ethiopia",
+      "news_count": 1
+    },
+    {
+      "country_code": "FR",
+      "country_name": "France",
       "news_count": 1
     },
     {
