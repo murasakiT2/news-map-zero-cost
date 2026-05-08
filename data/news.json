@@ -1,14 +1,32 @@
 {
-  "generated_at": "2026-05-08T10:16:15Z",
+  "generated_at": "2026-05-08T11:49:27Z",
   "articles": [
     {
-      "source": "BBC Africa",
-      "title": "South Africa court rules impeachment proceedings against president should not have been blocked",
+      "source": "BBC World",
+      "title": "Russia and Ukraine accuse each other of breaching Victory Day ceasefire",
+      "url": "https://www.bbc.com/news/articles/c202zn5gg0lo?at_medium=RSS&at_campaign=rss",
+      "summary": "The two sides report responding to hundreds of drone attacks, just hours into a truce to cover celebrations of the Soviet Union's victory ov…",
+      "published_at": "2026-05-08T11:42:35Z",
+      "country_code": "RU",
+      "country_name": "Russia"
+    },
+    {
+      "source": "BBC World",
+      "title": "South Africa president faces call to resign after court ruling",
       "url": "https://www.bbc.com/news/articles/cy4287vpvl7o?at_medium=RSS&at_campaign=rss",
-      "summary": "The ruling could have huge implications for the political future of Cyril Ramaphosa.",
-      "published_at": "2026-05-08T09:42:01Z",
+      "summary": "The Constitutional Court says MPs were was wrong to block impeachment proceedings against Cyril Ramaphosa.",
+      "published_at": "2026-05-08T11:33:03Z",
       "country_code": "ZA",
       "country_name": "South Africa"
+    },
+    {
+      "source": "BBC World",
+      "title": "US jet fuel could be used in Europe to ease possible shortages",
+      "url": "https://www.bbc.com/news/articles/cp8pk2m4nlxo?at_medium=RSS&at_campaign=rss",
+      "summary": "An international air body suggests wider acceptance of US-grade jet fuel could help to head off any supply problems.",
+      "published_at": "2026-05-08T10:56:52Z",
+      "country_code": "US",
+      "country_name": "United States"
     },
     {
       "source": "BBC World",
@@ -83,7 +101,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Africa",
       "title": "'I'd rather live in hiding in the US than return to Somalia'",
       "url": "https://www.bbc.com/news/articles/cvgz3l4zyq4o?at_medium=RSS&at_campaign=rss",
       "summary": "Fear and uncertainty linger for Somali migrants in Minnesota despite a legal reprieve.",
@@ -816,12 +834,17 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 30
+      "news_count": 31
     },
     {
       "country_code": "IR",
       "country_name": "Iran",
       "news_count": 9
+    },
+    {
+      "country_code": "RU",
+      "country_name": "Russia",
+      "news_count": 6
     },
     {
       "country_code": "CN",
@@ -836,11 +859,6 @@
     {
       "country_code": "KE",
       "country_name": "Kenya",
-      "news_count": 5
-    },
-    {
-      "country_code": "RU",
-      "country_name": "Russia",
       "news_count": 5
     },
     {
