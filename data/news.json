@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-05-08T21:49:27Z",
+  "generated_at": "2026-05-08T22:44:05Z",
   "articles": [
+    {
+      "source": "BBC US & Canada",
+      "title": "Watch: Declassified footage shows 'unidentified anomalous phenomena'",
+      "url": "https://www.bbc.com/news/videos/c9v3e7vgwxeo?at_medium=RSS&at_campaign=rss",
+      "summary": "The US government was unable to make a definitive determination on the alleged UFO sightings filmed around the world.",
+      "published_at": "2026-05-08T22:07:10Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Hovering objects and flashing lights: what we learned from UFO documents released by the Pentagon",
+      "url": "https://www.bbc.com/news/articles/c1m2epkey44o?at_medium=RSS&at_campaign=rss",
+      "summary": "The US has published transcripts, video clips and audio recordings about unidentified flying objects, also called unidentified anomalous phe…",
+      "published_at": "2026-05-08T22:04:55Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC US & Canada",
       "title": "US jobs data beats expectations for second month in a row",
@@ -137,7 +155,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC US & Canada",
+      "source": "BBC World",
       "title": "'I'd rather live in hiding in the US than return to Somalia'",
       "url": "https://www.bbc.com/news/articles/cvgz3l4zyq4o?at_medium=RSS&at_campaign=rss",
       "summary": "Fear and uncertainty linger for Somali migrants in Minnesota despite a legal reprieve.",
@@ -155,7 +173,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Asia",
+      "source": "BBC World",
       "title": "Thousands of North Koreans fought for Russia. A memorial hints at the death toll",
       "url": "https://www.bbc.com/news/articles/clypr5985ejo?at_medium=RSS&at_campaign=rss",
       "summary": "An estimated 11,000 North Korean soldiers were sent to fight in Russia's war against Ukraine.",
@@ -173,16 +191,7 @@
       "country_name": "Japan"
     },
     {
-      "source": "BBC World",
-      "title": "Valverde cut head when he 'accidentally hit table' in Tchouameni row",
-      "url": "https://www.bbc.com/sport/football/articles/c98r4218l73o?at_medium=RSS&at_campaign=rss",
-      "summary": "Federico Valverde went to hospital after a dressing room row with Real Madrid team-mate Aurelien Tchouameni which left him with a head injur…",
-      "published_at": "2026-05-07T21:40:26Z",
-      "country_code": "ES",
-      "country_name": "Spain"
-    },
-    {
-      "source": "BBC World",
+      "source": "BBC Latin America",
       "title": "Five killed in huge fire at packed Mexico fairground",
       "url": "https://www.bbc.com/news/articles/cq6py38q81ro?at_medium=RSS&at_campaign=rss",
       "summary": "The blaze in the south-eastern city of Villahermosa erupted during a concert reportedly attended by some 135,000 people.",
@@ -200,25 +209,7 @@
       "country_name": "China"
     },
     {
-      "source": "BBC US & Canada",
-      "title": "Marco Rubio meets Pope Leo amid tensions with Trump over Iran war",
-      "url": "https://www.bbc.com/news/videos/cq8py99p2jzo?at_medium=RSS&at_campaign=rss",
-      "summary": "Leo, the first American pontiff, drew Trump's ire after becoming a firm critic of the war and the administration's hardline immigration poli…",
-      "published_at": "2026-05-07T19:06:43Z",
-      "country_code": "IR",
-      "country_name": "Iran"
-    },
-    {
-      "source": "BBC World",
-      "title": "'I wouldn't pay it' - Trump on USA ticket price",
-      "url": "https://www.bbc.com/sport/football/articles/cdxpq70grzlo?at_medium=RSS&at_campaign=rss",
-      "summary": "US President Donald Trump says he \"wouldn't pay it either\" when asked about the potential ticket price to watch his country play Paraguay in…",
-      "published_at": "2026-05-07T18:53:49Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "Trump's 'irresponsible war' to blame for economic slowdown, German minister says",
       "url": "https://www.bbc.com/news/articles/cwy2d0v3p2po?at_medium=RSS&at_campaign=rss",
       "summary": "Finance Minister Lars Klingbeil blamed the US president's \"irresponsible war in Iran\" for harming the Germany economy.",
@@ -254,7 +245,7 @@
       "country_name": "Israel"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Africa",
       "title": "South Africa condemns 'fake videos' of alleged xenophobic attacks",
       "url": "https://www.bbc.com/news/articles/cx21g3vl63zo?at_medium=RSS&at_campaign=rss",
       "summary": "As claims of xenophobia in South Africa mount, Ghana calls on the African Union to send a fact-finding mission.",
@@ -281,7 +272,7 @@
       "country_name": "Australia"
     },
     {
-      "source": "BBC Europe",
+      "source": "BBC World",
       "title": "Disturbances and 127 arrests mar Paris party after PSG Champions League victory",
       "url": "https://www.bbc.com/news/articles/czj2egv8elro?at_medium=RSS&at_campaign=rss",
       "summary": "Fans took to the streets to celebrate the Paris team's qualification for the final, but celebrations were marred by disturbances.",
@@ -843,12 +834,12 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 30
+      "news_count": 31
     },
     {
       "country_code": "IR",
       "country_name": "Iran",
-      "news_count": 9
+      "news_count": 8
     },
     {
       "country_code": "RU",
@@ -896,11 +887,6 @@
       "news_count": 2
     },
     {
-      "country_code": "ES",
-      "country_name": "Spain",
-      "news_count": 2
-    },
-    {
       "country_code": "NG",
       "country_name": "Nigeria",
       "news_count": 2
@@ -923,6 +909,11 @@
     {
       "country_code": "CA",
       "country_name": "Canada",
+      "news_count": 1
+    },
+    {
+      "country_code": "ES",
+      "country_name": "Spain",
       "news_count": 1
     },
     {
