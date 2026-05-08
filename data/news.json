@@ -1,12 +1,21 @@
 {
-  "generated_at": "2026-05-08T13:06:41Z",
+  "generated_at": "2026-05-08T15:04:27Z",
   "articles": [
     {
       "source": "BBC World",
-      "title": "Cyber attack disrupts swath of US universities and schools nationwide",
-      "url": "https://www.bbc.com/news/articles/ce3pq0136eqo?at_medium=RSS&at_campaign=rss",
-      "summary": "A hacking group breached the academic software Canvas, used by thousands of schools and universities acrosst the US",
-      "published_at": "2026-05-08T12:27:02Z",
+      "title": "US jet fuel could be used in Europe to ease possible shortages",
+      "url": "https://www.bbc.com/news/articles/cp8pk2m4nlxo?at_medium=RSS&at_campaign=rss",
+      "summary": "An international air body suggests wider acceptance of US-grade jet fuel could help to head off any supply problems.",
+      "published_at": "2026-05-08T14:42:13Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Iran accuses US of 'reckless military adventure'",
+      "url": "https://www.bbc.com/news/articles/c99lpn9ze8ro?at_medium=RSS&at_campaign=rss",
+      "summary": "Iran's Foreign Minister Abbas Araghchi says the US opts for a \"reckless military adventure\" every time a \"diplomatic solution is on the tabl…",
+      "published_at": "2026-05-08T14:14:24Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -15,7 +24,7 @@
       "title": "South Africa president faces call to resign after court ruling",
       "url": "https://www.bbc.com/news/articles/cy4287vpvl7o?at_medium=RSS&at_campaign=rss",
       "summary": "The Constitutional Court says MPs were was wrong to block impeachment proceedings against Cyril Ramaphosa.",
-      "published_at": "2026-05-08T12:11:28Z",
+      "published_at": "2026-05-08T13:35:56Z",
       "country_code": "ZA",
       "country_name": "South Africa"
     },
@@ -24,18 +33,9 @@
       "title": "Russia and Ukraine accuse each other of breaching Victory Day ceasefire",
       "url": "https://www.bbc.com/news/articles/c202zn5gg0lo?at_medium=RSS&at_campaign=rss",
       "summary": "The two sides report responding to hundreds of drone attacks, just hours into a truce to cover celebrations of the Soviet Union's victory ov…",
-      "published_at": "2026-05-08T11:42:35Z",
+      "published_at": "2026-05-08T13:17:15Z",
       "country_code": "RU",
       "country_name": "Russia"
-    },
-    {
-      "source": "BBC World",
-      "title": "US jet fuel could be used in Europe to ease possible shortages",
-      "url": "https://www.bbc.com/news/articles/cp8pk2m4nlxo?at_medium=RSS&at_campaign=rss",
-      "summary": "An international air body suggests wider acceptance of US-grade jet fuel could help to head off any supply problems.",
-      "published_at": "2026-05-08T10:56:52Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC World",
@@ -63,15 +63,6 @@
       "published_at": "2026-05-08T06:03:23Z",
       "country_code": "GB",
       "country_name": "United Kingdom"
-    },
-    {
-      "source": "BBC World",
-      "title": "Trump says US-Iran ceasefire still in place after exchange of fire in Strait of Hormuz",
-      "url": "https://www.bbc.com/news/articles/c626zyywxjno?at_medium=RSS&at_campaign=rss",
-      "summary": "Iran accuses the US of violating the truce, alleging it targeted an oil tanker and carried out attacks on coastal areas.",
-      "published_at": "2026-05-08T05:57:08Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC World",
@@ -843,7 +834,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 32
+      "news_count": 31
     },
     {
       "country_code": "IR",
