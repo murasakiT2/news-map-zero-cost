@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-05-07T23:42:56Z",
+  "generated_at": "2026-05-08T02:01:10Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "'I'd rather live in hiding in the US than return to Somalia'",
+      "url": "https://www.bbc.com/news/articles/cvgz3l4zyq4o?at_medium=RSS&at_campaign=rss",
+      "summary": "Fear and uncertainty linger for Somali migrants in Minnesota despite a legal reprieve.",
+      "published_at": "2026-05-07T23:54:06Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Two Islamic-State linked Australian women charged with crimes against humanity",
+      "url": "https://www.bbc.com/news/articles/cdrpx8pl36vo?at_medium=RSS&at_campaign=rss",
+      "summary": "A third woman who also returned to Australia from Syria was charged with joining a terrorist organisation.",
+      "published_at": "2026-05-07T23:49:32Z",
+      "country_code": "AU",
+      "country_name": "Australia"
+    },
     {
       "source": "BBC World",
       "title": "Trump gives EU ultimatum deadline to approve trade deal with US",
@@ -11,7 +29,16 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Asia",
+      "source": "BBC World",
+      "title": "One year after India-Pakistan conflict, ceasefire holds - but little else does",
+      "url": "https://www.bbc.com/news/articles/c4g4093dy39o?at_medium=RSS&at_campaign=rss",
+      "summary": "A year after their military conflict, India and Pakistan avoid war, but diplomacy and trust remain frozen.",
+      "published_at": "2026-05-07T22:59:31Z",
+      "country_code": "IN",
+      "country_name": "India"
+    },
+    {
+      "source": "BBC World",
       "title": "Thousands of North Koreans fought for Russia. A memorial hints at the death toll",
       "url": "https://www.bbc.com/news/articles/clypr5985ejo?at_medium=RSS&at_campaign=rss",
       "summary": "An estimated 11,000 North Korean soldiers were sent to fight in Russia's war against Ukraine.",
@@ -20,7 +47,7 @@
       "country_name": "Russia"
     },
     {
-      "source": "BBC Asia",
+      "source": "BBC World",
       "title": "Anti-war protests rock Japan as PM pushes for stronger defence",
       "url": "https://www.bbc.com/news/articles/c4g93v8jqnyo?at_medium=RSS&at_campaign=rss",
       "summary": "Japan's largest anti-war protests in decades highlight a population divided over changes to its pacifist constitution.",
@@ -47,7 +74,7 @@
       "country_name": "Mexico"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "Crowds cheer China's new snooker star on return from championship win",
       "url": "https://www.bbc.com/news/articles/c62ex9ykl53o?at_medium=RSS&at_campaign=rss",
       "summary": "Wu Yize, 22, receives a rock star's welcome after becoming second-youngest player to win a world title.",
@@ -164,7 +191,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "'My heart is in a million pieces': Vigils in Australia for five-year-old allegedly killed in Outback",
       "url": "https://www.bbc.com/news/articles/cdeplz29p7go?at_medium=RSS&at_campaign=rss",
       "summary": "Kumanjayi Little Baby was found dead after going missing from an Aboriginal town camp in Alice Springs.",
@@ -182,7 +209,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "Ukraine war 'led me to surrogacy' to earn money but a new law could end those plans",
       "url": "https://www.bbc.com/news/articles/clyp4kp687go?at_medium=RSS&at_campaign=rss",
       "summary": "Ukraine is considering a law that would effectively ban foreigners from accessing surrogacy in the country.",
@@ -270,15 +297,6 @@
       "published_at": "2026-05-06T11:53:20Z",
       "country_code": "RU",
       "country_name": "Russia"
-    },
-    {
-      "source": "BBC World",
-      "title": "Vivek Ramaswamy wins Republican nomination for Ohio governor",
-      "url": "https://www.bbc.com/news/articles/c4g0xe4qlzxo?at_medium=RSS&at_campaign=rss",
-      "summary": "The staunch Trump ally emerged victorious in one of a series of closely-watched primary contests held in the US Midwest.",
-      "published_at": "2026-05-06T11:04:06Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC Africa",
@@ -596,15 +614,6 @@
       "country_name": "Kenya"
     },
     {
-      "source": "BBC Africa",
-      "title": "How special Sawe broke iconic sub-two-hour barrier",
-      "url": "https://www.bbc.com/sport/athletics/articles/cp383n09030o?at_medium=RSS&at_campaign=rss",
-      "summary": "Kenya's Sabastian Sawe on becoming the first person to break the two-hour barrier for the marathon.",
-      "published_at": "2026-04-27T11:49:24Z",
-      "country_code": "KE",
-      "country_name": "Kenya"
-    },
-    {
       "source": "BBC Latin America",
       "title": "Making history and facing Neymar - Lingard on life in Brazil",
       "url": "https://www.bbc.com/sport/football/articles/c36rg3w3pexo?at_medium=RSS&at_campaign=rss",
@@ -817,7 +826,12 @@
     {
       "country_code": "KE",
       "country_name": "Kenya",
-      "news_count": 7
+      "news_count": 6
+    },
+    {
+      "country_code": "AU",
+      "country_name": "Australia",
+      "news_count": 5
     },
     {
       "country_code": "CN",
@@ -833,11 +847,6 @@
       "country_code": "RU",
       "country_name": "Russia",
       "news_count": 5
-    },
-    {
-      "country_code": "AU",
-      "country_name": "Australia",
-      "news_count": 4
     },
     {
       "country_code": "MX",
@@ -870,6 +879,11 @@
       "news_count": 2
     },
     {
+      "country_code": "IN",
+      "country_name": "India",
+      "news_count": 2
+    },
+    {
       "country_code": "NG",
       "country_name": "Nigeria",
       "news_count": 2
@@ -892,11 +906,6 @@
     {
       "country_code": "ET",
       "country_name": "Ethiopia",
-      "news_count": 1
-    },
-    {
-      "country_code": "IN",
-      "country_name": "India",
       "news_count": 1
     },
     {
