@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-05-08T07:01:32Z",
+  "generated_at": "2026-05-08T08:52:13Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Oil prices rise after US and Iran exchange fire in Hormuz strait",
+      "url": "https://www.bbc.com/news/articles/c86dp85g59xo?at_medium=RSS&at_campaign=rss",
+      "summary": "US President Donald Trump says the ceasefire between Washington and Tehran is still in place.",
+      "published_at": "2026-05-08T08:43:55Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "The companies making billions from the Iran war",
+      "url": "https://www.bbc.com/news/articles/ce8pyyz5e0ro?at_medium=RSS&at_campaign=rss",
+      "summary": "Through surging profits or soaring share prices, the war has been a boon for some firms.",
+      "published_at": "2026-05-08T08:13:07Z",
+      "country_code": "IR",
+      "country_name": "Iran"
+    },
     {
       "source": "BBC World",
       "title": "Third British national has suspected hantavirus infection, UK government says",
@@ -30,15 +48,6 @@
     },
     {
       "source": "BBC World",
-      "title": "From oil giants to banks - these companies are making billions from Iran war",
-      "url": "https://www.bbc.com/news/articles/ce8pyyz5e0ro?at_medium=RSS&at_campaign=rss",
-      "summary": "Through surging profits or soaring share prices, the war has been a boon for some firms.",
-      "published_at": "2026-05-08T05:00:29Z",
-      "country_code": "IR",
-      "country_name": "Iran"
-    },
-    {
-      "source": "BBC World",
       "title": "World Cup fans in China and India face broadcast uncertainty",
       "url": "https://www.bbc.com/news/articles/cp9py4k8mllo?at_medium=RSS&at_campaign=rss",
       "summary": "Broadcasters in the two countries have yet to reach deals with Fifa, just weeks before the tournament is due to start.",
@@ -61,15 +70,6 @@
       "url": "https://www.bbc.com/news/articles/c62r52l107po?at_medium=RSS&at_campaign=rss",
       "summary": "Parents who have outstanding debt of more than $2,500 (€1,844) in child support payments could be impacted.",
       "published_at": "2026-05-08T02:57:48Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "Oil prices rise after US and Iran exchange fire in Hormuz strait",
-      "url": "https://www.bbc.com/news/articles/c86dp85g59xo?at_medium=RSS&at_campaign=rss",
-      "summary": "US President Donald Trump said the ceasefire between Washington and Tehran is still in place.",
-      "published_at": "2026-05-08T02:23:03Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -189,15 +189,6 @@
       "published_at": "2026-05-07T14:22:20Z",
       "country_code": "IL",
       "country_name": "Israel"
-    },
-    {
-      "source": "BBC Africa",
-      "title": "Orphaned baby hippo to be hand-reared by keepers at Kenya sanctuary",
-      "url": "https://www.bbc.com/news/articles/c1e2zev6754o?at_medium=RSS&at_campaign=rss",
-      "summary": "The baby hippo, which has been named Bumpy, was found clinging to its lifeless mother at a lake.",
-      "published_at": "2026-05-07T13:56:34Z",
-      "country_code": "KE",
-      "country_name": "Kenya"
     },
     {
       "source": "BBC World",
@@ -838,13 +829,13 @@
       "news_count": 6
     },
     {
-      "country_code": "KE",
-      "country_name": "Kenya",
-      "news_count": 6
-    },
-    {
       "country_code": "IL",
       "country_name": "Israel",
+      "news_count": 5
+    },
+    {
+      "country_code": "KE",
+      "country_name": "Kenya",
       "news_count": 5
     },
     {
