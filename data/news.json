@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-05-08T11:49:27Z",
+  "generated_at": "2026-05-08T13:06:41Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Cyber attack disrupts swath of US universities and schools nationwide",
+      "url": "https://www.bbc.com/news/articles/ce3pq0136eqo?at_medium=RSS&at_campaign=rss",
+      "summary": "A hacking group breached the academic software Canvas, used by thousands of schools and universities acrosst the US",
+      "published_at": "2026-05-08T12:27:02Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "South Africa president faces call to resign after court ruling",
+      "url": "https://www.bbc.com/news/articles/cy4287vpvl7o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Constitutional Court says MPs were was wrong to block impeachment proceedings against Cyril Ramaphosa.",
+      "published_at": "2026-05-08T12:11:28Z",
+      "country_code": "ZA",
+      "country_name": "South Africa"
+    },
     {
       "source": "BBC World",
       "title": "Russia and Ukraine accuse each other of breaching Victory Day ceasefire",
@@ -9,15 +27,6 @@
       "published_at": "2026-05-08T11:42:35Z",
       "country_code": "RU",
       "country_name": "Russia"
-    },
-    {
-      "source": "BBC World",
-      "title": "South Africa president faces call to resign after court ruling",
-      "url": "https://www.bbc.com/news/articles/cy4287vpvl7o?at_medium=RSS&at_campaign=rss",
-      "summary": "The Constitutional Court says MPs were was wrong to block impeachment proceedings against Cyril Ramaphosa.",
-      "published_at": "2026-05-08T11:33:03Z",
-      "country_code": "ZA",
-      "country_name": "South Africa"
     },
     {
       "source": "BBC World",
@@ -245,7 +254,7 @@
       "country_name": "Australia"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "Disturbances and 127 arrests mar Paris party after PSG Champions League victory",
       "url": "https://www.bbc.com/news/articles/czj2egv8elro?at_medium=RSS&at_campaign=rss",
       "summary": "Fans took to the streets to celebrate the Paris team's qualification for the final, but celebrations were marred by disturbances.",
@@ -834,7 +843,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 31
+      "news_count": 32
     },
     {
       "country_code": "IR",
