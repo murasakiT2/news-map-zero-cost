@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-05-08T22:44:05Z",
+  "generated_at": "2026-05-08T23:44:58Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Is hojicha the next matcha? The Japanese tea creeping onto menus",
+      "url": "https://www.bbc.com/news/articles/c232kzgm175o?at_medium=RSS&at_campaign=rss",
+      "summary": "From lattes to ice-cream, Japanese hojicha tea has been creeping onto menus across the UK.",
+      "published_at": "2026-05-08T23:01:44Z",
+      "country_code": "GB",
+      "country_name": "United Kingdom"
+    },
     {
       "source": "BBC US & Canada",
       "title": "Watch: Declassified footage shows 'unidentified anomalous phenomena'",
@@ -27,6 +36,15 @@
       "published_at": "2026-05-08T20:41:19Z",
       "country_code": "US",
       "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Return of IS-linked families sparks debate in terror-traumatised Australia",
+      "url": "https://www.bbc.com/news/articles/cedplx04ew0o?at_medium=RSS&at_campaign=rss",
+      "summary": "Most Australians do not want the women and children to come home, but advocates say they're in danger.",
+      "published_at": "2026-05-08T19:21:12Z",
+      "country_code": "AU",
+      "country_name": "Australia"
     },
     {
       "source": "BBC World",
@@ -155,7 +173,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "'I'd rather live in hiding in the US than return to Somalia'",
       "url": "https://www.bbc.com/news/articles/cvgz3l4zyq4o?at_medium=RSS&at_campaign=rss",
       "summary": "Fear and uncertainty linger for Somali migrants in Minnesota despite a legal reprieve.",
@@ -173,7 +191,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "Thousands of North Koreans fought for Russia. A memorial hints at the death toll",
       "url": "https://www.bbc.com/news/articles/clypr5985ejo?at_medium=RSS&at_campaign=rss",
       "summary": "An estimated 11,000 North Korean soldiers were sent to fight in Russia's war against Ukraine.",
@@ -852,6 +870,11 @@
       "news_count": 5
     },
     {
+      "country_code": "GB",
+      "country_name": "United Kingdom",
+      "news_count": 5
+    },
+    {
       "country_code": "IL",
       "country_name": "Israel",
       "news_count": 5
@@ -862,14 +885,9 @@
       "news_count": 5
     },
     {
-      "country_code": "GB",
-      "country_name": "United Kingdom",
-      "news_count": 4
-    },
-    {
       "country_code": "AU",
       "country_name": "Australia",
-      "news_count": 3
+      "news_count": 4
     },
     {
       "country_code": "MX",
