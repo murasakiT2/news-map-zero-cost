@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-05-08T08:52:13Z",
+  "generated_at": "2026-05-08T10:16:15Z",
   "articles": [
+    {
+      "source": "BBC Africa",
+      "title": "South Africa court rules impeachment proceedings against president should not have been blocked",
+      "url": "https://www.bbc.com/news/articles/cy4287vpvl7o?at_medium=RSS&at_campaign=rss",
+      "summary": "The ruling could have huge implications for the political future of Cyril Ramaphosa.",
+      "published_at": "2026-05-08T09:42:01Z",
+      "country_code": "ZA",
+      "country_name": "South Africa"
+    },
     {
       "source": "BBC World",
       "title": "Oil prices rise after US and Iran exchange fire in Hormuz strait",
@@ -426,15 +435,6 @@
     },
     {
       "source": "BBC Asia",
-      "title": "Deadly China plane crash was caused by fuel cut-off, says report",
-      "url": "https://www.bbc.com/news/articles/ckgpy223y9go?at_medium=RSS&at_campaign=rss",
-      "summary": "The Boeing 737 plane crashed into a Chinese hillside in 2022, killing all 132 people on board.",
-      "published_at": "2026-05-05T04:25:49Z",
-      "country_code": "CN",
-      "country_name": "China"
-    },
-    {
-      "source": "BBC Asia",
       "title": "Modi's BJP conquers Bengal, one of India's toughest political frontiers",
       "url": "https://www.bbc.com/news/articles/ce8pdvp5x5ro?at_medium=RSS&at_campaign=rss",
       "summary": "West Bengal’s verdict could reshape not just the state’s politics, but the future trajectory of Modi’s BJP.",
@@ -826,7 +826,7 @@
     {
       "country_code": "CN",
       "country_name": "China",
-      "news_count": 6
+      "news_count": 5
     },
     {
       "country_code": "IL",
@@ -876,6 +876,11 @@
     {
       "country_code": "UA",
       "country_name": "Ukraine",
+      "news_count": 2
+    },
+    {
+      "country_code": "ZA",
+      "country_name": "South Africa",
       "news_count": 2
     },
     {
@@ -936,11 +941,6 @@
     {
       "country_code": "TR",
       "country_name": "Turkey",
-      "news_count": 1
-    },
-    {
-      "country_code": "ZA",
-      "country_name": "South Africa",
       "news_count": 1
     }
   ]
