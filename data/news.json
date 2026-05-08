@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-08T20:44:52Z",
+  "generated_at": "2026-05-08T21:49:27Z",
   "articles": [
     {
       "source": "BBC US & Canada",
@@ -54,6 +54,15 @@
       "published_at": "2026-05-08T16:11:06Z",
       "country_code": "US",
       "country_name": "United States"
+    },
+    {
+      "source": "BBC Europe",
+      "title": "Real Madrid in crisis - inside the conflict and chaos at the Bernabeu",
+      "url": "https://www.bbc.com/sport/football/articles/c3r28w34l0wo?at_medium=RSS&at_campaign=rss",
+      "summary": "BBC Sport examines a torrid week for Real Madrid with the iconic club on the brink of a second successive trophyless season.",
+      "published_at": "2026-05-08T15:42:24Z",
+      "country_code": "ES",
+      "country_name": "Spain"
     },
     {
       "source": "BBC World",
@@ -378,15 +387,6 @@
       "published_at": "2026-05-06T13:39:09Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC Europe",
-      "title": "Russia ignores Ukraine's unilateral ceasefire and attacks kindergarten",
-      "url": "https://www.bbc.com/news/articles/cpdpxdd5n6yo?at_medium=RSS&at_campaign=rss",
-      "summary": "Ukraine's president says Russia has \"spurned the ceasefire\" and Kyiv is deciding on further action to take.",
-      "published_at": "2026-05-06T11:53:20Z",
-      "country_code": "RU",
-      "country_name": "Russia"
     },
     {
       "source": "BBC Asia",
@@ -853,7 +853,7 @@
     {
       "country_code": "RU",
       "country_name": "Russia",
-      "news_count": 7
+      "news_count": 6
     },
     {
       "country_code": "CN",
@@ -896,6 +896,11 @@
       "news_count": 2
     },
     {
+      "country_code": "ES",
+      "country_name": "Spain",
+      "news_count": 2
+    },
+    {
       "country_code": "NG",
       "country_name": "Nigeria",
       "news_count": 2
@@ -918,11 +923,6 @@
     {
       "country_code": "CA",
       "country_name": "Canada",
-      "news_count": 1
-    },
-    {
-      "country_code": "ES",
-      "country_name": "Spain",
       "news_count": 1
     },
     {
