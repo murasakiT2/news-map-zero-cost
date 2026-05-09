@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-09T15:40:27Z",
+  "generated_at": "2026-05-09T16:40:32Z",
   "articles": [
     {
       "source": "BBC World",
@@ -12,6 +12,15 @@
     },
     {
       "source": "BBC World",
+      "title": "UK warship HMS Dragon heads to Middle East for potential Strait of Hormuz mission",
+      "url": "https://www.bbc.com/news/articles/c4g42j15p7qo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Ministry of Defence says the ship will prepare to join an international mission to safeguard shipping, but only when fighting in the reg…",
+      "published_at": "2026-05-09T14:03:11Z",
+      "country_code": "GB",
+      "country_name": "United Kingdom"
+    },
+    {
+      "source": "BBC World",
       "title": "Putin denounces Nato at scaled back Victory Day parade",
       "url": "https://www.bbc.com/news/articles/c626xjq0q0vo?at_medium=RSS&at_campaign=rss",
       "summary": "The Russian leader used his annual speech to justify his so-called special military operation in Ukraine.",
@@ -20,7 +29,7 @@
       "country_name": "Ukraine"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "Rosenberg: Scaled-back Victory Parade in Moscow's Red Square",
       "url": "https://www.bbc.com/news/videos/ckgp541p5ndo?at_medium=RSS&at_campaign=rss",
       "summary": "The BBC's Russia editor reports from Moscow, where the annual Victory Day display was quieter than usual.",
@@ -29,7 +38,7 @@
       "country_name": "Russia"
     },
     {
-      "source": "BBC Asia",
+      "source": "BBC World",
       "title": "Japanese council votes to remove unconscious mayor",
       "url": "https://www.bbc.com/news/articles/clypw9w907zo?at_medium=RSS&at_campaign=rss",
       "summary": "Kikuo Hatakeyama, 72, has served as the mayor of Hachirogata in north-east Japan since 2008, but fell ill in February.",
@@ -117,15 +126,6 @@
       "published_at": "2026-05-08T17:53:25Z",
       "country_code": "RU",
       "country_name": "Russia"
-    },
-    {
-      "source": "BBC World",
-      "title": "Return of Palestine Marathon attracts thousands of runners",
-      "url": "https://www.bbc.com/news/videos/cm2p4n000pko?at_medium=RSS&at_campaign=rss",
-      "summary": "Thousands of people have taken part in the Palestine Marathon, which returns to Bethlehem after a two-year pause over the Gaza War.",
-      "published_at": "2026-05-08T17:23:28Z",
-      "country_code": "PS",
-      "country_name": "Palestine"
     },
     {
       "source": "BBC Europe",
@@ -227,7 +227,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "Thousands of North Koreans fought for Russia. A memorial hints at the death toll",
       "url": "https://www.bbc.com/news/articles/clypr5985ejo?at_medium=RSS&at_campaign=rss",
       "summary": "An estimated 11,000 North Korean soldiers were sent to fight in Russia's war against Ukraine.",
@@ -896,7 +896,7 @@
     {
       "country_code": "GB",
       "country_name": "United Kingdom",
-      "news_count": 3
+      "news_count": 4
     },
     {
       "country_code": "MX",
@@ -926,11 +926,6 @@
     {
       "country_code": "NG",
       "country_name": "Nigeria",
-      "news_count": 2
-    },
-    {
-      "country_code": "PS",
-      "country_name": "Palestine",
       "news_count": 2
     },
     {
@@ -966,6 +961,11 @@
     {
       "country_code": "IN",
       "country_name": "India",
+      "news_count": 1
+    },
+    {
+      "country_code": "PS",
+      "country_name": "Palestine",
       "news_count": 1
     },
     {
