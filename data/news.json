@@ -1,23 +1,32 @@
 {
-  "generated_at": "2026-05-09T05:14:21Z",
+  "generated_at": "2026-05-09T07:22:09Z",
   "articles": [
     {
       "source": "BBC World",
       "title": "Iran accuses US of 'reckless military adventure'",
       "url": "https://www.bbc.com/news/articles/c99lpn9ze8ro?at_medium=RSS&at_campaign=rss",
       "summary": "Abbas Araghchi says the US attacks each time there is a diplomatic solution on the table.",
-      "published_at": "2026-05-09T03:30:52Z",
+      "published_at": "2026-05-09T06:13:30Z",
       "country_code": "US",
       "country_name": "United States"
     },
     {
       "source": "BBC World",
-      "title": "Is hojicha the next matcha? The Japanese tea creeping onto menus",
+      "title": "Move over matcha. Hojicha is coming to a cafe near you",
       "url": "https://www.bbc.com/news/articles/c232kzgm175o?at_medium=RSS&at_campaign=rss",
-      "summary": "From lattes to ice-cream, Japanese hojicha tea has been creeping onto menus across the UK.",
+      "summary": "From lattes to ice-cream, the Japanese tea is popping up more and more on menus across the UK.",
       "published_at": "2026-05-08T23:01:44Z",
       "country_code": "GB",
       "country_name": "United Kingdom"
+    },
+    {
+      "source": "BBC World",
+      "title": "Australian by-election a litmus test for right-wing One Nation Party",
+      "url": "https://www.bbc.com/news/articles/cwy2e4z4npro?at_medium=RSS&at_campaign=rss",
+      "summary": "Victory for the populist party in Farrer, New South Wales, would see One Nation's first MP elected to Australia's national parliament.",
+      "published_at": "2026-05-08T22:39:56Z",
+      "country_code": "AU",
+      "country_name": "Australia"
     },
     {
       "source": "BBC US & Canada",
@@ -65,15 +74,6 @@
       "country_name": "Russia"
     },
     {
-      "source": "BBC World",
-      "title": "Third British national has suspected hantavirus infection, UK government says",
-      "url": "https://www.bbc.com/news/articles/c5yr41vq2ero?at_medium=RSS&at_campaign=rss",
-      "summary": "Five cases of hantavirus have been confirmed in total, including one of the three passengers on the MV Hondius who died.",
-      "published_at": "2026-05-08T17:57:28Z",
-      "country_code": "GB",
-      "country_name": "United Kingdom"
-    },
-    {
       "source": "BBC Europe",
       "title": "Britons on virus-hit cruise ship will be tested before charter flight back to UK",
       "url": "https://www.bbc.com/news/articles/c5yr41vq2ero?at_medium=RSS&at_campaign=rss",
@@ -90,6 +90,15 @@
       "published_at": "2026-05-08T17:53:25Z",
       "country_code": "RU",
       "country_name": "Russia"
+    },
+    {
+      "source": "BBC World",
+      "title": "Return of Palestine Marathon attracts thousands of runners",
+      "url": "https://www.bbc.com/news/videos/cm2p4n000pko?at_medium=RSS&at_campaign=rss",
+      "summary": "Thousands of people have taken part in the Palestine Marathon, which returns to Bethlehem after a two-year pause over the Gaza War.",
+      "published_at": "2026-05-08T17:23:28Z",
+      "country_code": "PS",
+      "country_name": "Palestine"
     },
     {
       "source": "BBC Europe",
@@ -120,12 +129,30 @@
     },
     {
       "source": "BBC World",
+      "title": "Huge plumes of ash rise as Indonesia's Mount Dukono erupts",
+      "url": "https://www.bbc.com/news/videos/c5y7gmmp8pdo?at_medium=RSS&at_campaign=rss",
+      "summary": "Officials said the group had been hiking up the active volcano despite a climbing ban.",
+      "published_at": "2026-05-08T13:15:14Z",
+      "country_code": "ID",
+      "country_name": "Indonesia"
+    },
+    {
+      "source": "BBC World",
       "title": "Oil prices rise after US and Iran exchange fire in Hormuz strait",
       "url": "https://www.bbc.com/news/articles/c86dp85g59xo?at_medium=RSS&at_campaign=rss",
       "summary": "US President Donald Trump says the ceasefire between Washington and Tehran is still in place.",
       "published_at": "2026-05-08T08:43:55Z",
       "country_code": "US",
       "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "The companies making billions from the Iran war",
+      "url": "https://www.bbc.com/news/articles/ce8pyyz5e0ro?at_medium=RSS&at_campaign=rss",
+      "summary": "Through surging profits or soaring share prices, the war has been a boon for some firms.",
+      "published_at": "2026-05-08T08:13:07Z",
+      "country_code": "IR",
+      "country_name": "Iran"
     },
     {
       "source": "BBC World",
@@ -146,7 +173,7 @@
       "country_name": "China"
     },
     {
-      "source": "BBC US & Canada",
+      "source": "BBC World",
       "title": "Trump and Lula's private Oval Office meeting signals lingering strain - and effort to avoid tension",
       "url": "https://www.bbc.com/news/articles/c8r8gxjxz10o?at_medium=RSS&at_campaign=rss",
       "summary": "The US and Brazilian presidents did not appear together publicly, but traded compliments after their talks.",
@@ -182,7 +209,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Asia",
+      "source": "BBC World",
       "title": "Thousands of North Koreans fought for Russia. A memorial hints at the death toll",
       "url": "https://www.bbc.com/news/articles/clypr5985ejo?at_medium=RSS&at_campaign=rss",
       "summary": "An estimated 11,000 North Korean soldiers were sent to fight in Russia's war against Ukraine.",
@@ -191,7 +218,7 @@
       "country_name": "Russia"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "Anti-war protests rock Japan as PM pushes for stronger defence",
       "url": "https://www.bbc.com/news/articles/c4g93v8jqnyo?at_medium=RSS&at_campaign=rss",
       "summary": "Japan's largest anti-war protests in decades highlight a population divided over changes to its pacifist constitution.",
@@ -227,7 +254,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Europe",
+      "source": "BBC World",
       "title": "Rosenberg: Russia's Victory Day parade with no tanks a sign Ukraine war not going to plan",
       "url": "https://www.bbc.com/news/articles/cwy2gj2jlr8o?at_medium=RSS&at_campaign=rss",
       "summary": "For the first time in nearly two decades, there will be no military hardware, just soldiers during Saturday's parade in Moscow.",
@@ -236,7 +263,7 @@
       "country_name": "Russia"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Middle East",
       "title": "Fears of renewed Gaza war as Hamas disarmament talks stall",
       "url": "https://www.bbc.com/news/articles/cd6p5l3n2q3o?at_medium=RSS&at_campaign=rss",
       "summary": "Israeli media reports suggest Israel is preparing to resume fighting because of the impasse in talks with Hamas.",
@@ -254,7 +281,7 @@
       "country_name": "South Africa"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "China announces suspended death sentences for former defence ministers",
       "url": "https://www.bbc.com/news/articles/clypjx383j2o?at_medium=RSS&at_campaign=rss",
       "summary": "The announcement follows recent ousting of several top officials in China's military.",
@@ -272,22 +299,13 @@
       "country_name": "Australia"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "Disturbances and 127 arrests mar Paris party after PSG Champions League victory",
       "url": "https://www.bbc.com/news/articles/czj2egv8elro?at_medium=RSS&at_campaign=rss",
       "summary": "Fans took to the streets to celebrate the Paris team's qualification for the final, but celebrations were marred by disturbances.",
       "published_at": "2026-05-07T12:19:53Z",
       "country_code": "FR",
       "country_name": "France"
-    },
-    {
-      "source": "BBC World",
-      "title": "US judge releases Jeffrey Epstein's purported suicide note",
-      "url": "https://www.bbc.com/news/articles/cd7pd0rqwreo?at_medium=RSS&at_campaign=rss",
-      "summary": "Epstein's former cellmate claims he found the note, which has not been verified by the BBC.",
-      "published_at": "2026-05-07T11:14:59Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC Asia",
@@ -825,17 +843,22 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 31
+      "news_count": 30
     },
     {
       "country_code": "IR",
       "country_name": "Iran",
-      "news_count": 7
+      "news_count": 8
     },
     {
       "country_code": "RU",
       "country_name": "Russia",
       "news_count": 6
+    },
+    {
+      "country_code": "AU",
+      "country_name": "Australia",
+      "news_count": 5
     },
     {
       "country_code": "CN",
@@ -853,14 +876,9 @@
       "news_count": 5
     },
     {
-      "country_code": "AU",
-      "country_name": "Australia",
-      "news_count": 4
-    },
-    {
       "country_code": "GB",
       "country_name": "United Kingdom",
-      "news_count": 4
+      "news_count": 3
     },
     {
       "country_code": "MX",
@@ -880,6 +898,11 @@
     {
       "country_code": "NG",
       "country_name": "Nigeria",
+      "news_count": 2
+    },
+    {
+      "country_code": "PS",
+      "country_name": "Palestine",
       "news_count": 2
     },
     {
@@ -918,6 +941,11 @@
       "news_count": 1
     },
     {
+      "country_code": "ID",
+      "country_name": "Indonesia",
+      "news_count": 1
+    },
+    {
       "country_code": "IN",
       "country_name": "India",
       "news_count": 1
@@ -925,11 +953,6 @@
     {
       "country_code": "JP",
       "country_name": "Japan",
-      "news_count": 1
-    },
-    {
-      "country_code": "PS",
-      "country_name": "Palestine",
       "news_count": 1
     },
     {
