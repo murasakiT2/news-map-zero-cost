@@ -1,14 +1,32 @@
 {
-  "generated_at": "2026-05-09T12:06:24Z",
+  "generated_at": "2026-05-09T13:56:12Z",
   "articles": [
     {
       "source": "BBC World",
       "title": "Putin denounces Nato at scaled back Victory Day parade",
       "url": "https://www.bbc.com/news/articles/c626xjq0q0vo?at_medium=RSS&at_campaign=rss",
       "summary": "The Russian leader used his annual speech to justify his so-called special military operation in Ukraine.",
-      "published_at": "2026-05-09T11:15:40Z",
+      "published_at": "2026-05-09T12:18:58Z",
       "country_code": "UA",
       "country_name": "Ukraine"
+    },
+    {
+      "source": "BBC World",
+      "title": "Rosenberg: Scaled-back Victory Parade in Moscow's Red Square",
+      "url": "https://www.bbc.com/news/videos/ckgp541p5ndo?at_medium=RSS&at_campaign=rss",
+      "summary": "The BBC's Russia editor reports from Moscow, where the annual Victory Day display was quieter than usual.",
+      "published_at": "2026-05-09T12:12:50Z",
+      "country_code": "RU",
+      "country_name": "Russia"
+    },
+    {
+      "source": "BBC Asia",
+      "title": "Japanese council votes to remove unconscious mayor",
+      "url": "https://www.bbc.com/news/articles/clypw9w907zo?at_medium=RSS&at_campaign=rss",
+      "summary": "Kikuo Hatakeyama, 72, has served as the mayor of Hachirogata in north-east Japan since 2008, but fell ill in February.",
+      "published_at": "2026-05-09T12:12:19Z",
+      "country_code": "JP",
+      "country_name": "Japan"
     },
     {
       "source": "BBC World",
@@ -135,15 +153,6 @@
       "published_at": "2026-05-08T13:35:56Z",
       "country_code": "ZA",
       "country_name": "South Africa"
-    },
-    {
-      "source": "BBC World",
-      "title": "Huge plumes of ash rise as Indonesia's Mount Dukono erupts",
-      "url": "https://www.bbc.com/news/videos/c5y7gmmp8pdo?at_medium=RSS&at_campaign=rss",
-      "summary": "Officials said the group had been hiking up the active volcano despite a climbing ban.",
-      "published_at": "2026-05-08T13:15:14Z",
-      "country_code": "ID",
-      "country_name": "Indonesia"
     },
     {
       "source": "BBC World",
@@ -862,7 +871,7 @@
     {
       "country_code": "RU",
       "country_name": "Russia",
-      "news_count": 6
+      "news_count": 7
     },
     {
       "country_code": "AU",
@@ -910,6 +919,11 @@
       "news_count": 2
     },
     {
+      "country_code": "JP",
+      "country_name": "Japan",
+      "news_count": 2
+    },
+    {
       "country_code": "NG",
       "country_name": "Nigeria",
       "news_count": 2
@@ -950,18 +964,8 @@
       "news_count": 1
     },
     {
-      "country_code": "ID",
-      "country_name": "Indonesia",
-      "news_count": 1
-    },
-    {
       "country_code": "IN",
       "country_name": "India",
-      "news_count": 1
-    },
-    {
-      "country_code": "JP",
-      "country_name": "Japan",
       "news_count": 1
     },
     {
