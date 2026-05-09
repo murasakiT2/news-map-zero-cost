@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-05-09T18:43:22Z",
+  "generated_at": "2026-05-09T19:50:01Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Iran demands guarantees for World Cup participation",
+      "url": "https://www.bbc.com/news/articles/ckgpxg03v57o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Iranian Football Federation (FFIRI) has presented Fifa with 10 conditions for participation at the World Cup in the US, Mexico and Canad…",
+      "published_at": "2026-05-09T18:44:01Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "Steve Rosenberg: This year's Victory Day parade in Moscow felt very different",
@@ -47,7 +56,7 @@
       "country_name": "Ukraine"
     },
     {
-      "source": "BBC Europe",
+      "source": "BBC World",
       "title": "Rosenberg: Scaled-back Victory Parade in Moscow's Red Square",
       "url": "https://www.bbc.com/news/videos/ckgp541p5ndo?at_medium=RSS&at_campaign=rss",
       "summary": "The BBC's Russia editor reports from Moscow, where the annual Victory Day display was quieter than usual.",
@@ -201,15 +210,6 @@
     },
     {
       "source": "BBC World",
-      "title": "World Cup fans in China and India face broadcast uncertainty",
-      "url": "https://www.bbc.com/news/articles/cp9py4k8mllo?at_medium=RSS&at_campaign=rss",
-      "summary": "Broadcasters in the two countries have yet to reach deals with Fifa, just weeks before the tournament is due to start.",
-      "published_at": "2026-05-08T04:10:45Z",
-      "country_code": "CN",
-      "country_name": "China"
-    },
-    {
-      "source": "BBC US & Canada",
       "title": "Trump and Lula's private Oval Office meeting signals lingering strain - and effort to avoid tension",
       "url": "https://www.bbc.com/news/articles/c8r8gxjxz10o?at_medium=RSS&at_campaign=rss",
       "summary": "The US and Brazilian presidents did not appear together publicly, but traded compliments after their talks.",
@@ -218,7 +218,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "US to revoke passports of parents with child support debt",
       "url": "https://www.bbc.com/news/articles/c62r52l107po?at_medium=RSS&at_campaign=rss",
       "summary": "Parents who have outstanding debt of more than $2,500 (€1,844) in child support payments could be impacted.",
@@ -236,7 +236,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "Trump gives EU ultimatum deadline to approve trade deal with US",
       "url": "https://www.bbc.com/news/articles/cp3pyk4nw3lo?at_medium=RSS&at_campaign=rss",
       "summary": "Trump's deadline to the European Union came as a trade court ruled his global tariff policy violated US law.",
@@ -468,15 +468,6 @@
       "published_at": "2026-05-05T20:00:09Z",
       "country_code": "CA",
       "country_name": "Canada"
-    },
-    {
-      "source": "BBC Middle East",
-      "title": "Captain of stranded ship in Strait of Hormuz tells BBC of 'pressure'",
-      "url": "https://www.bbc.com/news/videos/czx2k3eprpgo?at_medium=RSS&at_campaign=rss",
-      "summary": "Capt Raman Kapoor's ship is one of several to be stranded in the strait in the midst of the power struggle between the US and Iran.",
-      "published_at": "2026-05-05T18:28:35Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC Middle East",
@@ -888,11 +879,6 @@
       "news_count": 5
     },
     {
-      "country_code": "CN",
-      "country_name": "China",
-      "news_count": 5
-    },
-    {
       "country_code": "IL",
       "country_name": "Israel",
       "news_count": 5
@@ -901,6 +887,11 @@
       "country_code": "KE",
       "country_name": "Kenya",
       "news_count": 5
+    },
+    {
+      "country_code": "CN",
+      "country_name": "China",
+      "news_count": 4
     },
     {
       "country_code": "GB",
