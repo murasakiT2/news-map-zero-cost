@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-08T23:44:58Z",
+  "generated_at": "2026-05-09T01:55:00Z",
   "articles": [
     {
       "source": "BBC World",
@@ -129,15 +129,6 @@
     },
     {
       "source": "BBC World",
-      "title": "The companies making billions from the Iran war",
-      "url": "https://www.bbc.com/news/articles/ce8pyyz5e0ro?at_medium=RSS&at_campaign=rss",
-      "summary": "Through surging profits or soaring share prices, the war has been a boon for some firms.",
-      "published_at": "2026-05-08T08:13:07Z",
-      "country_code": "IR",
-      "country_name": "Iran"
-    },
-    {
-      "source": "BBC World",
       "title": "Two Islamic-State linked Australian women charged with crimes against humanity",
       "url": "https://www.bbc.com/news/articles/cdrpx8pl36vo?at_medium=RSS&at_campaign=rss",
       "summary": "A third woman who also returned to Australia from Syria was charged with joining a terrorist organisation.",
@@ -155,7 +146,7 @@
       "country_name": "China"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "Trump and Lula's private Oval Office meeting signals lingering strain - and effort to avoid tension",
       "url": "https://www.bbc.com/news/articles/c8r8gxjxz10o?at_medium=RSS&at_campaign=rss",
       "summary": "The US and Brazilian presidents did not appear together publicly, but traded compliments after their talks.",
@@ -236,22 +227,13 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "Rosenberg: Russia's Victory Day parade with no tanks a sign Ukraine war not going to plan",
       "url": "https://www.bbc.com/news/articles/cwy2gj2jlr8o?at_medium=RSS&at_campaign=rss",
       "summary": "For the first time in nearly two decades, there will be no military hardware, just soldiers during Saturday's parade in Moscow.",
       "published_at": "2026-05-07T16:00:05Z",
       "country_code": "RU",
       "country_name": "Russia"
-    },
-    {
-      "source": "BBC Europe",
-      "title": "Portugal and Italy will not suspend digital border checks for Brits",
-      "url": "https://www.bbc.com/news/articles/c78k9ke78ljo?at_medium=RSS&at_campaign=rss",
-      "summary": "Reports had suggested the countries were set to follow the example of Greece, which effectively suspended biometric checks for UK nationals.",
-      "published_at": "2026-05-07T15:41:28Z",
-      "country_code": "GB",
-      "country_name": "United Kingdom"
     },
     {
       "source": "BBC World",
@@ -342,15 +324,6 @@
       "published_at": "2026-05-07T04:06:33Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC Europe",
-      "title": "Key bridge linking North Korea and Russia almost finished, satellite images show",
-      "url": "https://www.bbc.com/news/articles/cwy2e3wwd55o?at_medium=RSS&at_campaign=rss",
-      "summary": "The road crossing is the latest sign of the deepening relationship between Pyongyang and Moscow.",
-      "published_at": "2026-05-06T23:25:24Z",
-      "country_code": "KP",
-      "country_name": "North Korea"
     },
     {
       "source": "BBC Middle East",
@@ -857,7 +830,7 @@
     {
       "country_code": "IR",
       "country_name": "Iran",
-      "news_count": 8
+      "news_count": 7
     },
     {
       "country_code": "RU",
@@ -867,11 +840,6 @@
     {
       "country_code": "CN",
       "country_name": "China",
-      "news_count": 5
-    },
-    {
-      "country_code": "GB",
-      "country_name": "United Kingdom",
       "news_count": 5
     },
     {
@@ -887,6 +855,11 @@
     {
       "country_code": "AU",
       "country_name": "Australia",
+      "news_count": 4
+    },
+    {
+      "country_code": "GB",
+      "country_name": "United Kingdom",
       "news_count": 4
     },
     {
@@ -952,11 +925,6 @@
     {
       "country_code": "JP",
       "country_name": "Japan",
-      "news_count": 1
-    },
-    {
-      "country_code": "KP",
-      "country_name": "North Korea",
       "news_count": 1
     },
     {
