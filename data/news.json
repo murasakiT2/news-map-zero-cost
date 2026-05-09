@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-05-09T22:32:26Z",
+  "generated_at": "2026-05-09T23:36:46Z",
   "articles": [
+    {
+      "source": "BBC US & Canada",
+      "title": "Why Canada is seeing its biggest military recruitment surge in 30 years",
+      "url": "https://www.bbc.com/news/articles/crrpd1pvgkzo?at_medium=RSS&at_campaign=rss",
+      "summary": "The country has seen its biggest military recruitment surge in 30 years, a major turnaround after years of falling behind on defence capabil…",
+      "published_at": "2026-05-09T23:00:55Z",
+      "country_code": "CA",
+      "country_name": "Canada"
+    },
     {
       "source": "BBC World",
       "title": "Lebanon says Israeli strikes killed 39",
@@ -891,6 +900,11 @@
       "news_count": 3
     },
     {
+      "country_code": "CA",
+      "country_name": "Canada",
+      "news_count": 2
+    },
+    {
       "country_code": "CO",
       "country_name": "Colombia",
       "news_count": 2
@@ -923,11 +937,6 @@
     {
       "country_code": "BR",
       "country_name": "Brazil",
-      "news_count": 1
-    },
-    {
-      "country_code": "CA",
-      "country_name": "Canada",
       "news_count": 1
     },
     {
