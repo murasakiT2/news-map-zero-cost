@@ -1,12 +1,39 @@
 {
-  "generated_at": "2026-05-10T20:36:54Z",
+  "generated_at": "2026-05-10T21:37:59Z",
   "articles": [
+    {
+      "source": "BBC US & Canada",
+      "title": "What next for US passengers evacuated from hantavirus-hit cruise ship?",
+      "url": "https://www.bbc.com/news/articles/cn4pq1y1zjgo?at_medium=RSS&at_campaign=rss",
+      "summary": "After being flown to a medical centre in Nebraska, some will be allowed to \"self-isolate\" in their home states.",
+      "published_at": "2026-05-10T21:29:56Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Iran activists tell BBC how threat of war intensifies trauma of repression",
+      "url": "https://www.bbc.com/news/articles/c1m2ee3jxvro?at_medium=RSS&at_campaign=rss",
+      "summary": "A dissident in Tehran says she feels helpless and under immense psychological pressure.",
+      "published_at": "2026-05-10T21:01:17Z",
+      "country_code": "IR",
+      "country_name": "Iran"
+    },
+    {
+      "source": "BBC Middle East",
+      "title": "Iranian activist tells BBC how fear of war restarting intensifies trauma of repression",
+      "url": "https://www.bbc.com/news/articles/c1m2ee3jxvro?at_medium=RSS&at_campaign=rss",
+      "summary": "A dissident in Tehran says she feels helpless and under immense psychological pressure.",
+      "published_at": "2026-05-10T21:01:17Z",
+      "country_code": "IR",
+      "country_name": "Iran"
+    },
     {
       "source": "BBC World",
       "title": "Trump calls Iran response to US proposal to end war 'totally unacceptable'",
       "url": "https://www.bbc.com/news/articles/clypgz9e5pmo?at_medium=RSS&at_campaign=rss",
       "summary": "No details have been released of Iran's response - or the US proposals - designed to bring the war to an end.",
-      "published_at": "2026-05-10T20:27:37Z",
+      "published_at": "2026-05-10T20:57:22Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -47,6 +74,15 @@
       "country_name": "Australia"
     },
     {
+      "source": "BBC Europe",
+      "title": "Beatles' early years drama starts filming in Germany",
+      "url": "https://www.bbc.com/news/articles/cy9208lwgngo?at_medium=RSS&at_campaign=rss",
+      "summary": "Six-part drama Hamburg Days charts the band's early era with members Stuart Sutcliffe and Pete Best.",
+      "published_at": "2026-05-10T14:32:31Z",
+      "country_code": "DE",
+      "country_name": "Germany"
+    },
+    {
       "source": "BBC World",
       "title": "Putin says he thinks Ukraine conflict 'coming to an end'",
       "url": "https://www.bbc.com/news/articles/cn8p4j2jzwwo?at_medium=RSS&at_campaign=rss",
@@ -54,15 +90,6 @@
       "published_at": "2026-05-10T13:56:43Z",
       "country_code": "UA",
       "country_name": "Ukraine"
-    },
-    {
-      "source": "BBC World",
-      "title": "Israel deports two activists detained on board Gaza flotilla",
-      "url": "https://www.bbc.com/news/articles/cvgzdpxv2d7o?at_medium=RSS&at_campaign=rss",
-      "summary": "Spanish national Saif Abu Keshek and Brazilian Thiago Ávila were detained by Israel after sailing in a Gaza-bound aid flotilla.",
-      "published_at": "2026-05-10T11:55:09Z",
-      "country_code": "IL",
-      "country_name": "Israel"
     },
     {
       "source": "BBC World",
@@ -369,15 +396,6 @@
       "published_at": "2026-05-07T05:02:12Z",
       "country_code": "UA",
       "country_name": "Ukraine"
-    },
-    {
-      "source": "BBC Middle East",
-      "title": "Iran considering US proposal as Trump says war will be 'over quickly'",
-      "url": "https://www.bbc.com/news/articles/cj0pq2q8221o?at_medium=RSS&at_campaign=rss",
-      "summary": "Mediator Pakistan says it is \"endeavouring to convert this ceasefire into a permanent end to this war\".",
-      "published_at": "2026-05-07T04:06:33Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC Middle East",
@@ -821,12 +839,7 @@
     {
       "country_code": "IR",
       "country_name": "Iran",
-      "news_count": 7
-    },
-    {
-      "country_code": "IL",
-      "country_name": "Israel",
-      "news_count": 5
+      "news_count": 9
     },
     {
       "country_code": "KE",
@@ -851,6 +864,11 @@
     {
       "country_code": "GB",
       "country_name": "United Kingdom",
+      "news_count": 4
+    },
+    {
+      "country_code": "IL",
+      "country_name": "Israel",
       "news_count": 4
     },
     {
@@ -911,6 +929,11 @@
     {
       "country_code": "BR",
       "country_name": "Brazil",
+      "news_count": 1
+    },
+    {
+      "country_code": "DE",
+      "country_name": "Germany",
       "news_count": 1
     },
     {
