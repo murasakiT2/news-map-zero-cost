@@ -1,6 +1,33 @@
 {
-  "generated_at": "2026-05-10T14:16:16Z",
+  "generated_at": "2026-05-10T15:28:53Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Australia's right-wing One Nation party scores historic parliamentary win",
+      "url": "https://www.bbc.com/news/articles/cwy2e4z4npro?at_medium=RSS&at_campaign=rss",
+      "summary": "One Nation gains its first seat in the lower house, in a by-election seen as a key test for the populist party.",
+      "published_at": "2026-05-10T14:37:16Z",
+      "country_code": "AU",
+      "country_name": "Australia"
+    },
+    {
+      "source": "BBC World",
+      "title": "Bread dresses and gowns inspired by cathedrals at Nigeria fashion spectacle",
+      "url": "https://www.bbc.com/news/articles/c4g0d3d5zn4o?at_medium=RSS&at_campaign=rss",
+      "summary": "Celebrities, filmmakers and creators put up a performance at Africa's biggest night of film and fashion.",
+      "published_at": "2026-05-10T14:29:45Z",
+      "country_code": "NG",
+      "country_name": "Nigeria"
+    },
+    {
+      "source": "BBC World",
+      "title": "Iran sends response to US proposals to end war",
+      "url": "https://www.bbc.com/news/articles/clypgz9e5pmo?at_medium=RSS&at_campaign=rss",
+      "summary": "No details have been released of Iran's response - or the US proposals - designed to bring the war to an end.",
+      "published_at": "2026-05-10T14:21:07Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "Putin says he thinks Ukraine conflict 'coming to an end'",
@@ -9,15 +36,6 @@
       "published_at": "2026-05-10T13:56:43Z",
       "country_code": "UA",
       "country_name": "Ukraine"
-    },
-    {
-      "source": "BBC World",
-      "title": "Iran warns against complying with US sanctions as Gulf attacks reported",
-      "url": "https://www.bbc.com/news/articles/clypgz9e5pmo?at_medium=RSS&at_campaign=rss",
-      "summary": "The warning comes as a commercial vessel is hit off Qatar, and both the UAE and Kuwait report drone attacks.",
-      "published_at": "2026-05-10T12:22:06Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC World",
@@ -72,15 +90,6 @@
       "published_at": "2026-05-09T17:25:53Z",
       "country_code": "RU",
       "country_name": "Russia"
-    },
-    {
-      "source": "BBC World",
-      "title": "Australia's right-wing One Nation party scores historic parliamentary win",
-      "url": "https://www.bbc.com/news/articles/cwy2e4z4npro?at_medium=RSS&at_campaign=rss",
-      "summary": "One Nation gains its first seat in the lower house, in a by-election seen as a key test for the populist party.",
-      "published_at": "2026-05-09T14:36:21Z",
-      "country_code": "AU",
-      "country_name": "Australia"
     },
     {
       "source": "BBC Europe",
@@ -297,15 +306,6 @@
       "published_at": "2026-05-07T20:59:43Z",
       "country_code": "CN",
       "country_name": "China"
-    },
-    {
-      "source": "BBC World",
-      "title": "Marco Rubio meets Pope Leo amid tensions with Trump over Iran war",
-      "url": "https://www.bbc.com/news/videos/cq8py99p2jzo?at_medium=RSS&at_campaign=rss",
-      "summary": "Leo, the first American pontiff, drew Trump's ire after becoming a firm critic of the war and the administration's hardline immigration poli…",
-      "published_at": "2026-05-07T19:06:43Z",
-      "country_code": "IR",
-      "country_name": "Iran"
     },
     {
       "source": "BBC Europe",
@@ -866,7 +866,7 @@
     {
       "country_code": "IR",
       "country_name": "Iran",
-      "news_count": 8
+      "news_count": 7
     },
     {
       "country_code": "RU",
@@ -909,6 +909,11 @@
       "news_count": 3
     },
     {
+      "country_code": "NG",
+      "country_name": "Nigeria",
+      "news_count": 3
+    },
+    {
       "country_code": "UA",
       "country_name": "Ukraine",
       "news_count": 3
@@ -926,11 +931,6 @@
     {
       "country_code": "JP",
       "country_name": "Japan",
-      "news_count": 2
-    },
-    {
-      "country_code": "NG",
-      "country_name": "Nigeria",
       "news_count": 2
     },
     {
