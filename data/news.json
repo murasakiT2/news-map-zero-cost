@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-10T15:28:53Z",
+  "generated_at": "2026-05-10T16:28:14Z",
   "articles": [
     {
       "source": "BBC World",
@@ -9,15 +9,6 @@
       "published_at": "2026-05-10T14:37:16Z",
       "country_code": "AU",
       "country_name": "Australia"
-    },
-    {
-      "source": "BBC World",
-      "title": "Bread dresses and gowns inspired by cathedrals at Nigeria fashion spectacle",
-      "url": "https://www.bbc.com/news/articles/c4g0d3d5zn4o?at_medium=RSS&at_campaign=rss",
-      "summary": "Celebrities, filmmakers and creators put up a performance at Africa's biggest night of film and fashion.",
-      "published_at": "2026-05-10T14:29:45Z",
-      "country_code": "NG",
-      "country_name": "Nigeria"
     },
     {
       "source": "BBC World",
@@ -909,11 +900,6 @@
       "news_count": 3
     },
     {
-      "country_code": "NG",
-      "country_name": "Nigeria",
-      "news_count": 3
-    },
-    {
       "country_code": "UA",
       "country_name": "Ukraine",
       "news_count": 3
@@ -931,6 +917,11 @@
     {
       "country_code": "JP",
       "country_name": "Japan",
+      "news_count": 2
+    },
+    {
+      "country_code": "NG",
+      "country_name": "Nigeria",
       "news_count": 2
     },
     {
