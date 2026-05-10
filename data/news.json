@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-05-10T11:41:23Z",
+  "generated_at": "2026-05-10T12:53:36Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Israel deports two activists detained on board Gaza flotilla",
+      "url": "https://www.bbc.com/news/articles/cvgzdpxv2d7o?at_medium=RSS&at_campaign=rss",
+      "summary": "Spanish national Saif Abu Keshek and Brazilian Thiago Ávila were detained by Israel after sailing in a Gaza-bound aid flotilla.",
+      "published_at": "2026-05-10T11:55:09Z",
+      "country_code": "IL",
+      "country_name": "Israel"
+    },
     {
       "source": "BBC World",
       "title": "Spain starts evacuating virus-hit cruise ship in Tenerife",
@@ -297,15 +306,6 @@
       "published_at": "2026-05-07T19:06:43Z",
       "country_code": "IR",
       "country_name": "Iran"
-    },
-    {
-      "source": "BBC World",
-      "title": "Who is Kumanjayi Little Baby and why has her death caused outrage in Australia?",
-      "url": "https://www.bbc.com/news/videos/czr2n44pknxo?at_medium=RSS&at_campaign=rss",
-      "summary": "The BBC's Katy Watson explains the case, the cultural sensitivities and why it has caused so much anger.",
-      "published_at": "2026-05-07T19:03:39Z",
-      "country_code": "AU",
-      "country_name": "Australia"
     },
     {
       "source": "BBC Europe",
@@ -812,15 +812,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Middle East",
-      "title": "Ceasefire with Israel brings respite to Lebanon, but obstacles to peace remain",
-      "url": "https://www.bbc.com/news/articles/crm10w4ynj1o?at_medium=RSS&at_campaign=rss",
-      "summary": "The halt to weeks of fighting is being celebrated in Lebanon, but it will be difficult to ensure it lasts.",
-      "published_at": "2026-04-17T14:31:51Z",
-      "country_code": "IL",
-      "country_name": "Israel"
-    },
-    {
       "source": "BBC Africa",
       "title": "Six African athletes blocked from transfers to Turkey",
       "url": "https://www.bbc.com/sport/athletics/articles/c3ex2717742o?at_medium=RSS&at_campaign=rss",
@@ -883,11 +874,6 @@
       "news_count": 6
     },
     {
-      "country_code": "AU",
-      "country_name": "Australia",
-      "news_count": 5
-    },
-    {
       "country_code": "IL",
       "country_name": "Israel",
       "news_count": 5
@@ -896,6 +882,11 @@
       "country_code": "KE",
       "country_name": "Kenya",
       "news_count": 5
+    },
+    {
+      "country_code": "AU",
+      "country_name": "Australia",
+      "news_count": 4
     },
     {
       "country_code": "CN",
