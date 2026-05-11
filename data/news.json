@@ -1,21 +1,39 @@
 {
-  "generated_at": "2026-05-11T10:03:39Z",
+  "generated_at": "2026-05-11T13:21:15Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "US and French nationals test positive for hantavirus after leaving ship",
+      "url": "https://www.bbc.com/news/articles/cjep78l5835o?at_medium=RSS&at_campaign=rss",
+      "summary": "The American national has arrived in Nebraska, while a French woman is isolating in Paris.",
+      "published_at": "2026-05-11T13:13:22Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "Pentagon will review Senator Mark Kelly's comments about US weapon stockpiles, Hegseth says",
+      "url": "https://www.bbc.com/news/articles/cqlp2lv5l7zo?at_medium=RSS&at_campaign=rss",
+      "summary": "The defence secretary accuses the senator of \"blabbing on TV\", after Kelly expressed concern about the US munitions stockpile.",
+      "published_at": "2026-05-11T13:03:33Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "What comes next for US passengers evacuated from hantavirus-hit cruise ship",
+      "url": "https://www.bbc.com/news/articles/cn4pq1y1zjgo?at_medium=RSS&at_campaign=rss",
+      "summary": "After being flown to a medical centre in Nebraska, some will be allowed to \"self-isolate\" in their home states.",
+      "published_at": "2026-05-11T10:32:00Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "Trump's China visit set to test fragile truce",
       "url": "https://www.bbc.com/news/articles/c3rz75rgn8zo?at_medium=RSS&at_campaign=rss",
       "summary": "The first US presidential visit to China in almost 10 years will test a fragile tariff truce.",
       "published_at": "2026-05-11T09:26:33Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "US and French nationals test positive for hantavirus after leaving ship",
-      "url": "https://www.bbc.com/news/articles/cjep78l5835o?at_medium=RSS&at_campaign=rss",
-      "summary": "The American national has arrived in Nebraska, while a French woman is isolating in Paris.",
-      "published_at": "2026-05-11T09:11:12Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -75,30 +93,12 @@
     },
     {
       "source": "BBC World",
-      "title": "Ailing Iran Nobel laureate given bail and hospital transfer",
-      "url": "https://www.bbc.com/news/articles/c1j257w87neo?at_medium=RSS&at_campaign=rss",
-      "summary": "Iranian authorities granted human rights activist Narges Mohammadi bail amid growing concern over her poor health in prison.",
-      "published_at": "2026-05-11T00:40:45Z",
-      "country_code": "IR",
-      "country_name": "Iran"
-    },
-    {
-      "source": "BBC World",
       "title": "Why Eurovision's fallout over Israel may change the competition forever",
       "url": "https://www.bbc.com/news/articles/cgkpgm6vk48o?at_medium=RSS&at_campaign=rss",
       "summary": "With Eurovision facing its biggest boycott in 70 years, questions are growing over the competition's future.",
       "published_at": "2026-05-10T23:33:57Z",
       "country_code": "IL",
       "country_name": "Israel"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "What comes next for US passengers evacuated from hantavirus-hit cruise ship",
-      "url": "https://www.bbc.com/news/articles/cn4pq1y1zjgo?at_medium=RSS&at_campaign=rss",
-      "summary": "After being flown to a medical centre in Nebraska, some will be allowed to \"self-isolate\" in their home states.",
-      "published_at": "2026-05-10T21:29:56Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC World",
@@ -236,15 +236,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
-      "title": "Move over matcha. Hojicha is coming to a cafe near you",
-      "url": "https://www.bbc.com/news/articles/c232kzgm175o?at_medium=RSS&at_campaign=rss",
-      "summary": "From lattes to ice-cream, the Japanese tea is popping up more and more on menus across the UK.",
-      "published_at": "2026-05-08T23:01:44Z",
-      "country_code": "GB",
-      "country_name": "United Kingdom"
-    },
-    {
       "source": "BBC US & Canada",
       "title": "Watch: Declassified footage shows 'unidentified anomalous phenomena'",
       "url": "https://www.bbc.com/news/videos/c9v3e7vgwxeo?at_medium=RSS&at_campaign=rss",
@@ -281,24 +272,6 @@
       "country_name": "Australia"
     },
     {
-      "source": "BBC Europe",
-      "title": "Britons on virus-hit cruise ship will be tested before charter flight back to UK",
-      "url": "https://www.bbc.com/news/articles/c5yr41vq2ero?at_medium=RSS&at_campaign=rss",
-      "summary": "Five cases of hantavirus have been confirmed in total, including one of the three passengers on the MV Hondius who died.",
-      "published_at": "2026-05-08T17:57:28Z",
-      "country_code": "GB",
-      "country_name": "United Kingdom"
-    },
-    {
-      "source": "BBC Europe",
-      "title": "Real Madrid in crisis - inside the conflict and chaos at the Bernabeu",
-      "url": "https://www.bbc.com/sport/football/articles/c3r28w34l0wo?at_medium=RSS&at_campaign=rss",
-      "summary": "BBC Sport examines a torrid week for Real Madrid with the iconic club on the brink of a second successive trophyless season.",
-      "published_at": "2026-05-08T15:42:24Z",
-      "country_code": "ES",
-      "country_name": "Spain"
-    },
-    {
       "source": "BBC Africa",
       "title": "South Africa president faces call to resign after court ruling",
       "url": "https://www.bbc.com/news/articles/cy4287vpvl7o?at_medium=RSS&at_campaign=rss",
@@ -313,15 +286,6 @@
       "url": "https://www.bbc.com/news/articles/c8r8gxjxz10o?at_medium=RSS&at_campaign=rss",
       "summary": "The US and Brazilian presidents did not appear together publicly, but traded compliments after their talks.",
       "published_at": "2026-05-08T03:45:06Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "US to revoke passports of parents with child support debt",
-      "url": "https://www.bbc.com/news/articles/c62r52l107po?at_medium=RSS&at_campaign=rss",
-      "summary": "Parents who have outstanding debt of more than $2,500 (€1,844) in child support payments could be impacted.",
-      "published_at": "2026-05-08T02:57:48Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -396,15 +360,6 @@
       "published_at": "2026-05-07T14:22:20Z",
       "country_code": "IL",
       "country_name": "Israel"
-    },
-    {
-      "source": "BBC Europe",
-      "title": "Disturbances and 127 arrests mar Paris party after PSG Champions League victory",
-      "url": "https://www.bbc.com/news/articles/czj2egv8elro?at_medium=RSS&at_campaign=rss",
-      "summary": "Fans took to the streets to celebrate the Paris team's qualification for the final, but celebrations were marred by disturbances.",
-      "published_at": "2026-05-07T12:19:53Z",
-      "country_code": "FR",
-      "country_name": "France"
     },
     {
       "source": "BBC US & Canada",
@@ -812,7 +767,7 @@
     {
       "country_code": "IR",
       "country_name": "Iran",
-      "news_count": 11
+      "news_count": 10
     },
     {
       "country_code": "IL",
@@ -823,11 +778,6 @@
       "country_code": "KE",
       "country_name": "Kenya",
       "news_count": 5
-    },
-    {
-      "country_code": "GB",
-      "country_name": "United Kingdom",
-      "news_count": 4
     },
     {
       "country_code": "RU",
@@ -860,13 +810,8 @@
       "news_count": 2
     },
     {
-      "country_code": "ES",
-      "country_name": "Spain",
-      "news_count": 2
-    },
-    {
-      "country_code": "FR",
-      "country_name": "France",
+      "country_code": "GB",
+      "country_name": "United Kingdom",
       "news_count": 2
     },
     {
@@ -905,8 +850,18 @@
       "news_count": 1
     },
     {
+      "country_code": "ES",
+      "country_name": "Spain",
+      "news_count": 1
+    },
+    {
       "country_code": "ET",
       "country_name": "Ethiopia",
+      "news_count": 1
+    },
+    {
+      "country_code": "FR",
+      "country_name": "France",
       "news_count": 1
     },
     {
