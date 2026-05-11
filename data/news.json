@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-05-11T16:13:11Z",
+  "generated_at": "2026-05-11T18:13:31Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "US passengers from ship quarantined as officials say public risk 'very low'",
+      "url": "https://www.bbc.com/news/articles/cwy2e9e1g0wo?at_medium=RSS&at_campaign=rss",
+      "summary": "One passenger has tested positive for Andes virus, a rare type of hantavirus, while another is showing mild symptoms, health officials say.",
+      "published_at": "2026-05-11T17:17:25Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC Europe",
+      "title": "'Total lack of respect': Macron interrupts speaker to ask for silence",
+      "url": "https://www.bbc.com/news/videos/czx2wd20evyo?at_medium=RSS&at_campaign=rss",
+      "summary": "The French president stood up during a conference in Kenya to tell the audience to quieten down, saying it was “impossible” for speakers to …",
+      "published_at": "2026-05-11T16:10:18Z",
+      "country_code": "KE",
+      "country_name": "Kenya"
+    },
     {
       "source": "BBC US & Canada",
       "title": "US health officials: Hantavirus risk to Americans 'very low'",
@@ -36,15 +54,6 @@
       "published_at": "2026-05-11T14:52:12Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "Oil prices jump after Trump dismisses Iran proposal to end war",
-      "url": "https://www.bbc.com/news/articles/ckgp4ev4yg4o?at_medium=RSS&at_campaign=rss",
-      "summary": "The Strait of Hormuz waterway remains effectively shut, severely disrupting global energy shipments.",
-      "published_at": "2026-05-11T14:27:49Z",
-      "country_code": "IR",
-      "country_name": "Iran"
     },
     {
       "source": "BBC World",
@@ -261,15 +270,6 @@
       "published_at": "2026-05-09T06:13:30Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "Move over matcha. Hojicha is coming to a cafe near you",
-      "url": "https://www.bbc.com/news/articles/c232kzgm175o?at_medium=RSS&at_campaign=rss",
-      "summary": "From lattes to ice-cream, the Japanese tea is popping up more and more on menus across the UK.",
-      "published_at": "2026-05-08T23:01:44Z",
-      "country_code": "GB",
-      "country_name": "United Kingdom"
     },
     {
       "source": "BBC US & Canada",
@@ -686,15 +686,6 @@
       "country_name": "Israel"
     },
     {
-      "source": "BBC Europe",
-      "title": "Could Italy replace Iran at the 2026 World Cup?",
-      "url": "https://www.bbc.com/news/videos/c4g81pke0nwo?at_medium=RSS&at_campaign=rss",
-      "summary": "Fifa has no plans to replace Iran with Italy at this summer's World Cup according to sources, after the switch was proposed by US President …",
-      "published_at": "2026-04-23T18:01:53Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC Middle East",
       "title": "In Tehran, money is short and a return to war looms over daily life",
       "url": "https://www.bbc.com/news/articles/cdrm8k7lzmko?at_medium=RSS&at_campaign=rss",
@@ -756,54 +747,27 @@
       "published_at": "2026-04-15T08:38:36Z",
       "country_code": "SD",
       "country_name": "Sudan"
-    },
-    {
-      "source": "BBC Africa",
-      "title": "DR Congo qualify for World Cup: 'Amidst pain and war, this victory makes us proud’",
-      "url": "https://www.bbc.com/news/videos/cvg0q1d9zddo?at_medium=RSS&at_campaign=rss",
-      "summary": "DR Congo are back at the World Cup for the first time since 1974, with fans in Kinshasa celebrating the team's 1-0 play-off win over Jamaica…",
-      "published_at": "2026-04-01T12:45:29Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC Africa",
-      "title": "One house, two faiths, one fasting season",
-      "url": "https://www.bbc.com/news/videos/cwygeypnevxo?at_medium=RSS&at_campaign=rss",
-      "summary": "Ramadan and Lent haven't overlapped since 1993 and couples like Olanrewaju and Kaosara in Nigeria are observing them together.",
-      "published_at": "2026-03-12T12:40:13Z",
-      "country_code": "NG",
-      "country_name": "Nigeria"
-    },
-    {
-      "source": "BBC Africa",
-      "title": "Inside Ethiopia's 'smart' police station",
-      "url": "https://www.bbc.com/news/videos/cz9qqzqkk82o?at_medium=RSS&at_campaign=rss",
-      "summary": "Ethiopia unveils its first unmanned, 'smart' police station where citizens can report crimes on automated touch screens.",
-      "published_at": "2026-03-05T12:29:16Z",
-      "country_code": "ET",
-      "country_name": "Ethiopia"
     }
   ],
   "regions": [
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 30
+      "news_count": 29
     },
     {
       "country_code": "IR",
       "country_name": "Iran",
-      "news_count": 10
-    },
-    {
-      "country_code": "IL",
-      "country_name": "Israel",
-      "news_count": 5
+      "news_count": 9
     },
     {
       "country_code": "KE",
       "country_name": "Kenya",
+      "news_count": 6
+    },
+    {
+      "country_code": "IL",
+      "country_name": "Israel",
       "news_count": 5
     },
     {
@@ -814,11 +778,6 @@
     {
       "country_code": "CN",
       "country_name": "China",
-      "news_count": 3
-    },
-    {
-      "country_code": "GB",
-      "country_name": "United Kingdom",
       "news_count": 3
     },
     {
@@ -842,13 +801,13 @@
       "news_count": 2
     },
     {
-      "country_code": "JP",
-      "country_name": "Japan",
+      "country_code": "GB",
+      "country_name": "United Kingdom",
       "news_count": 2
     },
     {
-      "country_code": "NG",
-      "country_name": "Nigeria",
+      "country_code": "JP",
+      "country_name": "Japan",
       "news_count": 2
     },
     {
@@ -882,13 +841,13 @@
       "news_count": 1
     },
     {
-      "country_code": "ET",
-      "country_name": "Ethiopia",
+      "country_code": "IN",
+      "country_name": "India",
       "news_count": 1
     },
     {
-      "country_code": "IN",
-      "country_name": "India",
+      "country_code": "NG",
+      "country_name": "Nigeria",
       "news_count": 1
     },
     {
