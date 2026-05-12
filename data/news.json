@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-05-12T10:44:36Z",
+  "generated_at": "2026-05-12T12:59:56Z",
   "articles": [
     {
       "source": "BBC World",
-      "title": "US passengers of hantavirus cruise ship being monitored in Nebraska",
-      "url": "https://www.bbc.com/news/articles/cwy2e9e1g0wo?at_medium=RSS&at_campaign=rss",
-      "summary": "Two people are being monitored in Atlanta, 16 in Nebraska and another six passengers in Canada.",
-      "published_at": "2026-05-12T09:50:05Z",
+      "title": "US inflation jumps to 3.8% as energy costs surge from Iran war",
+      "url": "https://www.bbc.com/news/articles/c202pgxx89lo?at_medium=RSS&at_campaign=rss",
+      "summary": "The key measure of US inflation rose in April to its highest level since May 2023 as consumers feel the impact of the Iran war.",
+      "published_at": "2026-05-12T12:55:34Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -14,8 +14,35 @@
       "source": "BBC World",
       "title": "US in closely guarded talks to open new bases in Greenland",
       "url": "https://www.bbc.com/news/articles/cx21669452lo?at_medium=RSS&at_campaign=rss",
-      "summary": "It is seeking to open three bases in the south of the Arctic territory, according to multiple officials familiar with the talks.",
-      "published_at": "2026-05-12T09:31:45Z",
+      "summary": "Negotiations have progressed in recent months, according to multiple officials familiar, with the White House optimistic of reaching a deal.",
+      "published_at": "2026-05-12T11:44:16Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "France seeks to move beyond colonial ties by meeting African leaders in Kenya",
+      "url": "https://www.bbc.com/news/articles/cpqpernnx8xo?at_medium=RSS&at_campaign=rss",
+      "summary": "In a first since these meetings started in the 1970s, this move reflects a change in France's thinking.",
+      "published_at": "2026-05-12T11:13:54Z",
+      "country_code": "FR",
+      "country_name": "France"
+    },
+    {
+      "source": "BBC Latin America",
+      "title": "Mexico cancels plans to end school year early for World Cup",
+      "url": "https://www.bbc.com/news/articles/cy02w7nzdg1o?at_medium=RSS&at_campaign=rss",
+      "summary": "Parents were angry at a proposal to end classes on 5 June instead of 15 July due to the tournament and expected extreme heat.",
+      "published_at": "2026-05-12T10:52:14Z",
+      "country_code": "MX",
+      "country_name": "Mexico"
+    },
+    {
+      "source": "BBC World",
+      "title": "US passengers of hantavirus cruise ship being monitored in Nebraska",
+      "url": "https://www.bbc.com/news/articles/cwy2e9e1g0wo?at_medium=RSS&at_campaign=rss",
+      "summary": "Two people are being monitored in Atlanta, 16 in Nebraska and another six passengers in Canada.",
+      "published_at": "2026-05-12T09:50:05Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -72,15 +99,6 @@
       "published_at": "2026-05-12T07:26:17Z",
       "country_code": "IN",
       "country_name": "India"
-    },
-    {
-      "source": "BBC World",
-      "title": "France seeks to move beyond colonial ties by meeting African leaders in Kenya",
-      "url": "https://www.bbc.com/news/articles/cpqpernnx8xo?at_medium=RSS&at_campaign=rss",
-      "summary": "In a first since these meetings started in the 1970s, this move reflects a change in France's thinking.",
-      "published_at": "2026-05-12T06:52:56Z",
-      "country_code": "FR",
-      "country_name": "France"
     },
     {
       "source": "BBC World",
@@ -209,7 +227,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "Bosnia's powerful peace envoy quits, with questions over role's future",
       "url": "https://www.bbc.com/news/articles/cg5pvj5pg51o?at_medium=RSS&at_campaign=rss",
       "summary": "Christian Schmidt had been in the role since 2021, and departs after appearing to lose the backing of the United States.",
@@ -290,7 +308,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Middle East",
       "title": "His father had just been buried. Then West Bank settlers forced him to dig up the body",
       "url": "https://www.bbc.com/news/articles/cjrpnjpl39po?at_medium=RSS&at_campaign=rss",
       "summary": "The UN human rights office condemns incident as \"'appalling and emblematic of the dehumanisation of Palestinians\" in the West Bank.",
@@ -708,7 +726,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 28
+      "news_count": 29
     },
     {
       "country_code": "IL",
@@ -736,6 +754,11 @@
       "news_count": 3
     },
     {
+      "country_code": "MX",
+      "country_name": "Mexico",
+      "news_count": 3
+    },
+    {
       "country_code": "RU",
       "country_name": "Russia",
       "news_count": 3
@@ -743,11 +766,6 @@
     {
       "country_code": "IN",
       "country_name": "India",
-      "news_count": 2
-    },
-    {
-      "country_code": "MX",
-      "country_name": "Mexico",
       "news_count": 2
     },
     {
