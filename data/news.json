@@ -1,14 +1,32 @@
 {
-  "generated_at": "2026-05-12T15:40:15Z",
+  "generated_at": "2026-05-12T17:52:07Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "South Africa's top court bars repeat asylum applications",
+      "url": "https://www.bbc.com/news/articles/cy42yx1kn90o?at_medium=RSS&at_campaign=rss",
+      "summary": "The home affairs minister hails the ruling as a \"victory\" against the \"abuse\" of the refugee system.",
+      "published_at": "2026-05-12T16:38:53Z",
+      "country_code": "ZA",
+      "country_name": "South Africa"
+    },
     {
       "source": "BBC World",
       "title": "US inflation jumps to 3.8% as energy costs surge from Iran war",
       "url": "https://www.bbc.com/news/articles/c202pgxx89lo?at_medium=RSS&at_campaign=rss",
       "summary": "The key measure of US inflation rises its highest level since May 2023 as consumers feel the impact of the Iran war.",
-      "published_at": "2026-05-12T14:06:08Z",
+      "published_at": "2026-05-12T16:36:55Z",
       "country_code": "US",
       "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Zelensky's ex-chief of staff in court as Ukraine corruption probe escalates",
+      "url": "https://www.bbc.com/news/articles/c4g48kj40lwo?at_medium=RSS&at_campaign=rss",
+      "summary": "Andriy Yermak was named by Ukraine's two anti-corruption agencies as a suspect in a money-laundering scheme.",
+      "published_at": "2026-05-12T16:19:24Z",
+      "country_code": "UA",
+      "country_name": "Ukraine"
     },
     {
       "source": "BBC World",
@@ -74,7 +92,7 @@
       "country_name": "Iran"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "Elon Musk and Tim Cook among CEOs expected to accompany Trump on China trip",
       "url": "https://www.bbc.com/news/articles/c5yx757w048o?at_medium=RSS&at_campaign=rss",
       "summary": "A total of 17 US executives are set to join the president on his visit, where he will meet his Chinese counterpart Xi Jinping.",
@@ -164,7 +182,7 @@
       "country_name": "India"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "Watch: Alaska town sees its last sunset until August",
       "url": "https://www.bbc.com/news/videos/cgjpg20xgy5o?at_medium=RSS&at_campaign=rss",
       "summary": "Residents of Utqiagvik, the United States' northernmost city, will experience 84 days of midnight sun and uninterrupted daylight.",
@@ -210,15 +228,6 @@
     },
     {
       "source": "BBC US & Canada",
-      "title": "Wordle to become TV quiz show with Savannah Guthrie as host",
-      "url": "https://www.bbc.com/news/articles/czd2vpdr9g6o?at_medium=RSS&at_campaign=rss",
-      "summary": "The online word game from the New York Times will hit the small screen in the UK and US from next year.",
-      "published_at": "2026-05-11T15:12:33Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
       "title": "Washington dinner shooting suspect pleads not guilty",
       "url": "https://www.bbc.com/news/articles/c4g48ewgz8mo?at_medium=RSS&at_campaign=rss",
       "summary": "Cole Tomas Allen, 31, was charged with attempting to assassinate US President Donald Trump.",
@@ -232,15 +241,6 @@
       "url": "https://www.bbc.com/news/articles/cg5pvj5pg51o?at_medium=RSS&at_campaign=rss",
       "summary": "Christian Schmidt had been in the role since 2021, and departs after appearing to lose the backing of the United States.",
       "published_at": "2026-05-11T13:14:30Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "Pentagon will review Senator Mark Kelly's comments about US weapon stockpiles, Hegseth says",
-      "url": "https://www.bbc.com/news/articles/cqlp2lv5l7zo?at_medium=RSS&at_campaign=rss",
-      "summary": "The defence secretary accuses the senator of \"blabbing on TV\", after Kelly expressed concern about the US munitions stockpile.",
-      "published_at": "2026-05-11T13:03:33Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -299,15 +299,6 @@
       "country_name": "Iran"
     },
     {
-      "source": "BBC Africa",
-      "title": "Body of US soldier who went missing in Morocco has been found and identified",
-      "url": "https://www.bbc.com/news/articles/cvgz7p5ggg7o?at_medium=RSS&at_campaign=rss",
-      "summary": "A search is still ongoing for the second US soldier who went missing during a multinational military training exercise in Morocco.",
-      "published_at": "2026-05-10T20:07:30Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC Middle East",
       "title": "His father had just been buried. Then West Bank settlers forced him to dig up the body",
       "url": "https://www.bbc.com/news/articles/cjrpnjpl39po?at_medium=RSS&at_campaign=rss",
@@ -315,15 +306,6 @@
       "published_at": "2026-05-10T19:56:45Z",
       "country_code": "PS",
       "country_name": "Palestine"
-    },
-    {
-      "source": "BBC Europe",
-      "title": "Putin says he thinks Ukraine conflict 'coming to an end'",
-      "url": "https://www.bbc.com/news/articles/cn8p4j2jzwwo?at_medium=RSS&at_campaign=rss",
-      "summary": "The Russian leader sees potential for Ukraine negotiations, but condemns the West's backing for President Zelensky.",
-      "published_at": "2026-05-10T13:56:43Z",
-      "country_code": "UA",
-      "country_name": "Ukraine"
     },
     {
       "source": "BBC Middle East",
@@ -726,7 +708,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 29
+      "news_count": 26
     },
     {
       "country_code": "IL",
@@ -826,6 +808,11 @@
     {
       "country_code": "TH",
       "country_name": "Thailand",
+      "news_count": 1
+    },
+    {
+      "country_code": "ZA",
+      "country_name": "South Africa",
       "news_count": 1
     }
   ]
