@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-13T08:47:15Z",
+  "generated_at": "2026-05-13T11:24:39Z",
   "articles": [
     {
       "source": "BBC Latin America",
@@ -371,7 +371,7 @@
       "country_name": "Spain"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "Why Canada is seeing its biggest military recruitment surge in 30 years",
       "url": "https://www.bbc.com/news/articles/crrpd1pvgkzo?at_medium=RSS&at_campaign=rss",
       "summary": "The boost marks a major turnaround for Canada after years of falling behind on defence capabilities.",
@@ -540,15 +540,6 @@
       "published_at": "2026-05-01T05:04:08Z",
       "country_code": "IR",
       "country_name": "Iran"
-    },
-    {
-      "source": "BBC Africa",
-      "title": "China scraps tariffs for all but one African nation",
-      "url": "https://www.bbc.com/news/articles/cwy2v509217o?at_medium=RSS&at_campaign=rss",
-      "summary": "The zero-tariff regime gives China's soft power a boost, but may lead to uneven gains, say analysts.",
-      "published_at": "2026-05-01T00:02:57Z",
-      "country_code": "CN",
-      "country_name": "China"
     },
     {
       "source": "BBC Africa",
@@ -769,11 +760,6 @@
       "news_count": 3
     },
     {
-      "country_code": "CN",
-      "country_name": "China",
-      "news_count": 2
-    },
-    {
       "country_code": "UA",
       "country_name": "Ukraine",
       "news_count": 2
@@ -801,6 +787,11 @@
     {
       "country_code": "CA",
       "country_name": "Canada",
+      "news_count": 1
+    },
+    {
+      "country_code": "CN",
+      "country_name": "China",
       "news_count": 1
     },
     {
