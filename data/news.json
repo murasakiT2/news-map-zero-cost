@@ -1,12 +1,30 @@
 {
-  "generated_at": "2026-05-13T05:59:46Z",
+  "generated_at": "2026-05-13T08:47:15Z",
   "articles": [
     {
+      "source": "BBC Latin America",
+      "title": "How are countries responding to hantavirus?",
+      "url": "https://www.bbc.com/news/articles/c4g8318v4yzo?at_medium=RSS&at_campaign=rss",
+      "summary": "The UK, US and EU are asking all citizens returning home from the virus-hit MV Hondius to self-isolate for about six weeks.",
+      "published_at": "2026-05-13T08:36:54Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Ghana to evacuate 300 from South Africa over anti-immigrant protests",
+      "url": "https://www.bbc.com/news/articles/cedpv17gqqzo?at_medium=RSS&at_campaign=rss",
+      "summary": "The foreign minister says the \"distressed\" Ghanaians registered with the embassy in Pretoria to be evacuated.",
+      "published_at": "2026-05-13T08:24:28Z",
+      "country_code": "ZA",
+      "country_name": "South Africa"
+    },
+    {
       "source": "BBC Asia",
-      "title": "Elon Musk and Tim Cook among CEOs joining Trump on China trip",
+      "title": "Elon Musk and Jensen Huang among CEOs joining Trump on China trip",
       "url": "https://www.bbc.com/news/articles/c5yx757w048o?at_medium=RSS&at_campaign=rss",
-      "summary": "A total of 17 US executives are set to join the president on his visit, where he will meet his Chinese counterpart Xi Jinping.",
-      "published_at": "2026-05-13T02:52:26Z",
+      "summary": "More than a dozen US executives have joined the president on his visit, where he will meet his Chinese counterpart Xi Jinping.",
+      "published_at": "2026-05-13T07:10:29Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -54,6 +72,15 @@
       "published_at": "2026-05-12T20:11:11Z",
       "country_code": "CN",
       "country_name": "China"
+    },
+    {
+      "source": "BBC Middle East",
+      "title": "UK promises jets, drones and warship for Strait of Hormuz defence mission",
+      "url": "https://www.bbc.com/news/articles/c5y909grldqo?at_medium=RSS&at_campaign=rss",
+      "summary": "More than 40 nations are involved in the mission, which the Ministry of Defence says will begin when conditions allow.",
+      "published_at": "2026-05-12T19:31:14Z",
+      "country_code": "GB",
+      "country_name": "United Kingdom"
     },
     {
       "source": "BBC US & Canada",
@@ -115,15 +142,6 @@
       "url": "https://www.bbc.com/news/articles/cwy2e9e1g0wo?at_medium=RSS&at_campaign=rss",
       "summary": "Two people are being monitored in Atlanta, 16 in Nebraska and another six passengers in Canada.",
       "published_at": "2026-05-12T09:50:05Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC Latin America",
-      "title": "How are countries responding to hantavirus?",
-      "url": "https://www.bbc.com/news/articles/c4g8318v4yzo?at_medium=RSS&at_campaign=rss",
-      "summary": "The UK, US and EU are asking all citizens returning home from the virus-hit MV Hondius to self-isolate for about six weeks.",
-      "published_at": "2026-05-12T08:51:41Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -309,6 +327,15 @@
     },
     {
       "source": "BBC Middle East",
+      "title": "BBC speaks with civilians inside Iran struggling with impact of war",
+      "url": "https://www.bbc.com/news/videos/c2429dq0j4mo?at_medium=RSS&at_campaign=rss",
+      "summary": "Iranian authorities have imposed an internet ban but using trusted sources, special correspondent Fergal Keane hears from those traumatised …",
+      "published_at": "2026-05-10T21:13:47Z",
+      "country_code": "IR",
+      "country_name": "Iran"
+    },
+    {
+      "source": "BBC Middle East",
       "title": "Iranian activist tells BBC how fear of war restarting intensifies trauma of repression",
       "url": "https://www.bbc.com/news/articles/c1m2ee3jxvro?at_medium=RSS&at_campaign=rss",
       "summary": "A dissident in Tehran says she feels helpless and under immense psychological pressure.",
@@ -371,7 +398,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "Steve Rosenberg: This year's Victory Day parade in Moscow felt very different",
       "url": "https://www.bbc.com/news/articles/cj9pem481rwo?at_medium=RSS&at_campaign=rss",
       "summary": "The BBC's Russia editor reports from a Red Square with none of the military hardware which the Kremlin normally showcases to project power i…",
@@ -387,15 +414,6 @@
       "published_at": "2026-05-09T12:12:50Z",
       "country_code": "RU",
       "country_name": "Russia"
-    },
-    {
-      "source": "BBC Middle East",
-      "title": "Iran accuses US of 'reckless military adventure'",
-      "url": "https://www.bbc.com/news/articles/c99lpn9ze8ro?at_medium=RSS&at_campaign=rss",
-      "summary": "Abbas Araghchi says the US attacks each time there is a diplomatic solution on the table.",
-      "published_at": "2026-05-09T06:13:30Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC US & Canada",
@@ -414,6 +432,15 @@
       "published_at": "2026-05-08T22:04:55Z",
       "country_code": "US",
       "country_name": "United States"
+    },
+    {
+      "source": "BBC Middle East",
+      "title": "Return of Palestine Marathon attracts thousands of runners",
+      "url": "https://www.bbc.com/news/videos/cm2p4n000pko?at_medium=RSS&at_campaign=rss",
+      "summary": "Thousands of people have taken part in the Palestine Marathon, which returns to Bethlehem after a two-year pause over the Gaza War.",
+      "published_at": "2026-05-08T17:23:28Z",
+      "country_code": "PS",
+      "country_name": "Palestine"
     },
     {
       "source": "BBC US & Canada",
@@ -459,6 +486,15 @@
       "published_at": "2026-05-06T17:32:04Z",
       "country_code": "IR",
       "country_name": "Iran"
+    },
+    {
+      "source": "BBC Middle East",
+      "title": "Watch: The Lebanese neighbourhoods shattered by Israel's ten minute bombing raid",
+      "url": "https://www.bbc.com/news/videos/c0l2z28d6elo?at_medium=RSS&at_campaign=rss",
+      "summary": "The BBC’s Nawal Al-Maghafi has been piecing together what happened on 8 April 2026, after one of the deadliest chapters in the country’s rec…",
+      "published_at": "2026-05-06T06:39:27Z",
+      "country_code": "IL",
+      "country_name": "Israel"
     },
     {
       "source": "BBC Middle East",
@@ -515,15 +551,6 @@
       "country_name": "China"
     },
     {
-      "source": "BBC Middle East",
-      "title": "Why and how is US blockading Iranian ports in Strait of Hormuz?",
-      "url": "https://www.bbc.com/news/articles/c5yv6xr6me3o?at_medium=RSS&at_campaign=rss",
-      "summary": "Donald Trump says that the US is blockading the Strait of Hormuz. What does this mean in practice?",
-      "published_at": "2026-04-30T14:29:30Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC Africa",
       "title": "'I did not expect it': Kenya's Sabastian Sawe welcomed home with jubilant celebrations",
       "url": "https://www.bbc.com/news/articles/cddp4y0rzjdo?at_medium=RSS&at_campaign=rss",
@@ -549,6 +576,15 @@
       "published_at": "2026-04-29T20:11:04Z",
       "country_code": "SY",
       "country_name": "Syria"
+    },
+    {
+      "source": "BBC Middle East",
+      "title": "Watch: There's a ceasefire in Lebanon - but the fighting hasn't stopped",
+      "url": "https://www.bbc.com/news/videos/cpdpql7d839o?at_medium=RSS&at_campaign=rss",
+      "summary": "Israel and Hezbollah are still fighting in Lebanon despite a US-brokered ceasefire that began 12 days ago.",
+      "published_at": "2026-04-29T14:41:26Z",
+      "country_code": "US",
+      "country_name": "United States"
     },
     {
       "source": "BBC Europe",
@@ -659,38 +695,11 @@
       "country_name": "Israel"
     },
     {
-      "source": "BBC Middle East",
-      "title": "In Tehran, money is short and a return to war looms over daily life",
-      "url": "https://www.bbc.com/news/articles/cdrm8k7lzmko?at_medium=RSS&at_campaign=rss",
-      "summary": "The BBC's Lyse Doucet reports from Iran, where the buzz of busy shopping streets masks deep uncertainty over the country's future.",
-      "published_at": "2026-04-23T11:26:01Z",
-      "country_code": "IR",
-      "country_name": "Iran"
-    },
-    {
-      "source": "BBC Middle East",
-      "title": "US and Iran in blockade standoff as Pakistan pushes for talks",
-      "url": "https://www.bbc.com/news/articles/c0q9xq7knq2o?at_medium=RSS&at_campaign=rss",
-      "summary": "The mood in the Strait of Hormuz remains combustible despite Trump's ceasefire extension.",
-      "published_at": "2026-04-22T16:19:36Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC Africa",
       "title": "'I cried so hard' - the Kenyan WNBA star who beat US visa heartbreak",
       "url": "https://www.bbc.com/sport/basketball/articles/c5yxz41yjl0o?at_medium=RSS&at_campaign=rss",
       "summary": "Madina Okot only started playing basketball six years ago, but the Kenyan's rapid rise has seen her set a WNBA milestone at the age of 21.",
       "published_at": "2026-04-22T12:10:25Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC Middle East",
-      "title": "Trump buys time for Iran deal after frantic day of diplomacy",
-      "url": "https://www.bbc.com/news/articles/cvg4yr90jr2o?at_medium=RSS&at_campaign=rss",
-      "summary": "The US president's decision marked the second time in as many weeks he has backed off a threat to escalate the war, buying more time.",
-      "published_at": "2026-04-22T00:32:10Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -717,12 +726,12 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 27
+      "news_count": 24
     },
     {
       "country_code": "IL",
       "country_name": "Israel",
-      "news_count": 8
+      "news_count": 9
     },
     {
       "country_code": "IR",
@@ -737,7 +746,7 @@
     {
       "country_code": "GB",
       "country_name": "United Kingdom",
-      "news_count": 4
+      "news_count": 5
     },
     {
       "country_code": "IN",
@@ -747,6 +756,11 @@
     {
       "country_code": "MX",
       "country_name": "Mexico",
+      "news_count": 3
+    },
+    {
+      "country_code": "PS",
+      "country_name": "Palestine",
       "news_count": 3
     },
     {
@@ -760,13 +774,13 @@
       "news_count": 2
     },
     {
-      "country_code": "PS",
-      "country_name": "Palestine",
+      "country_code": "UA",
+      "country_name": "Ukraine",
       "news_count": 2
     },
     {
-      "country_code": "UA",
-      "country_name": "Ukraine",
+      "country_code": "ZA",
+      "country_name": "South Africa",
       "news_count": 2
     },
     {
@@ -822,11 +836,6 @@
     {
       "country_code": "TH",
       "country_name": "Thailand",
-      "news_count": 1
-    },
-    {
-      "country_code": "ZA",
-      "country_name": "South Africa",
       "news_count": 1
     }
   ]
