@@ -1,14 +1,32 @@
 {
-  "generated_at": "2026-05-13T16:13:13Z",
+  "generated_at": "2026-05-13T18:20:59Z",
   "articles": [
     {
+      "source": "BBC US & Canada",
+      "title": "Canada's Mark Carney speaks with Artemis II crew on Earth",
+      "url": "https://www.bbc.com/news/videos/c4g7z2j2mr6o?at_medium=RSS&at_campaign=rss",
+      "summary": "The prime minister met Canadian astronaut Jeremy Hansen and other crew members in Ottawa.",
+      "published_at": "2026-05-13T17:02:45Z",
+      "country_code": "CA",
+      "country_name": "Canada"
+    },
+    {
       "source": "BBC World",
-      "title": "Trump arrives in China for high-stakes meeting with Xi Jinping",
+      "title": "Trade, Iran and Taiwan on the agenda as Trump arrives in China for high-stakes talks with Xi",
       "url": "https://www.bbc.com/news/articles/c1w28qw1e0xo?at_medium=RSS&at_campaign=rss",
-      "summary": "The leaders of the global superpowers are expected to discuss the war in Iran, tariffs, AI and Taiwan during the two-day visit.",
-      "published_at": "2026-05-13T16:11:07Z",
-      "country_code": "CN",
-      "country_name": "China"
+      "summary": "The US president says his first request to Xi would be to \"open up\" China, while Beijing is expected to press Trump on the status of Taiwan.",
+      "published_at": "2026-05-13T17:00:12Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Deadly Russian drone attacks on Ukraine resume after ceasefire expires",
+      "url": "https://www.bbc.com/news/articles/ce3pj85depzo?at_medium=RSS&at_campaign=rss",
+      "summary": "Six people have been killed after Zelensky warned of \"more waves\" of Russian strikes through Wednesday.",
+      "published_at": "2026-05-13T16:39:28Z",
+      "country_code": "UA",
+      "country_name": "Ukraine"
     },
     {
       "source": "BBC Africa",
@@ -20,19 +38,10 @@
       "country_name": "Morocco"
     },
     {
-      "source": "BBC World",
-      "title": "Russian drone attacks kill 13 in Ukraine after ceasefire expires",
-      "url": "https://www.bbc.com/news/articles/ce3pj85depzo?at_medium=RSS&at_campaign=rss",
-      "summary": "Attacks are continuing after Ukraine's president warned of \"more waves\" of Russian strikes throughout Wednesday.",
-      "published_at": "2026-05-13T14:51:30Z",
-      "country_code": "UA",
-      "country_name": "Ukraine"
-    },
-    {
       "source": "BBC US & Canada",
-      "title": "Trump vs Xi: Who has the upper hand?",
+      "title": "Trump v Xi: Who has the upper hand?",
       "url": "https://www.bbc.com/news/videos/cj0py2jvzljo?at_medium=RSS&at_campaign=rss",
-      "summary": "The BBC's Sarah Smith explains the power dynamic between President Trump and China's Xi Jinping.",
+      "summary": "The BBC's Sarah Smith explains the power dynamic between the two world leaders as they meet in Beijing.",
       "published_at": "2026-05-13T14:00:28Z",
       "country_code": "CN",
       "country_name": "China"
@@ -153,15 +162,6 @@
       "published_at": "2026-05-12T19:31:14Z",
       "country_code": "GB",
       "country_name": "United Kingdom"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "US inflation jumps to 3.8% as energy costs surge from Iran war",
-      "url": "https://www.bbc.com/news/articles/c202pgxx89lo?at_medium=RSS&at_campaign=rss",
-      "summary": "The key measure of US inflation rises its highest level since May 2023 as consumers feel the impact of the Iran war.",
-      "published_at": "2026-05-12T18:36:58Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC Africa",
@@ -320,7 +320,7 @@
       "source": "BBC US & Canada",
       "title": "US health officials: Hantavirus risk to Americans 'very low'",
       "url": "https://www.bbc.com/news/videos/cx21j0mge62o?at_medium=RSS&at_campaign=rss",
-      "summary": "US health authorities say 18 Americans from the MV Hondius cruise ship have returned to the US, with one testing positive for hantavirus.",
+      "summary": "Authorities say 18 Americans from the MV Hondius cruise ship have returned to the US, with one testing positive for hantavirus.",
       "published_at": "2026-05-11T16:08:15Z",
       "country_code": "US",
       "country_name": "United States"
@@ -347,7 +347,7 @@
       "source": "BBC US & Canada",
       "title": "BBC tests out England and Argentina's World Cup training grounds in Kansas City",
       "url": "https://www.bbc.com/news/videos/clypw107dqzo?at_medium=RSS&at_campaign=rss",
-      "summary": "Will Grant tested out one of the pitches where England captain Harry Kane and his team will call home in Kansas City.",
+      "summary": "Will Grant visited one of the pitches where England captain Harry Kane and his team will call home ahead of the tournament.",
       "published_at": "2026-05-11T07:53:53Z",
       "country_code": "GB",
       "country_name": "United Kingdom"
@@ -745,11 +745,6 @@
       "news_count": 4
     },
     {
-      "country_code": "CN",
-      "country_name": "China",
-      "news_count": 3
-    },
-    {
       "country_code": "IN",
       "country_name": "India",
       "news_count": 3
@@ -763,6 +758,16 @@
       "country_code": "UA",
       "country_name": "Ukraine",
       "news_count": 3
+    },
+    {
+      "country_code": "CA",
+      "country_name": "Canada",
+      "news_count": 2
+    },
+    {
+      "country_code": "CN",
+      "country_name": "China",
+      "news_count": 2
     },
     {
       "country_code": "RU",
@@ -787,11 +792,6 @@
     {
       "country_code": "BR",
       "country_name": "Brazil",
-      "news_count": 1
-    },
-    {
-      "country_code": "CA",
-      "country_name": "Canada",
       "news_count": 1
     },
     {
