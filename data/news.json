@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-05-13T18:20:59Z",
+  "generated_at": "2026-05-13T20:15:38Z",
   "articles": [
+    {
+      "source": "BBC US & Canada",
+      "title": "Egg sandwiches and isolation - Life in US hantavirus quarantine",
+      "url": "https://www.bbc.com/news/articles/c2021x77970o?at_medium=RSS&at_campaign=rss",
+      "summary": "Jake Rosmarin tells the BBC what it's like inside the national quarantine unit where he and 14 other passengers are staying in Nebraska.",
+      "published_at": "2026-05-13T18:59:26Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC Middle East",
+      "title": "Israel's Eurovision entry 'shocked' by protests during semi-final show",
+      "url": "https://www.bbc.com/news/articles/ckgpjx4503zo?at_medium=RSS&at_campaign=rss",
+      "summary": "Noam Bettan was met with a mixture of cheering, boos and chants as he performed in Vienna on Tuesday night.",
+      "published_at": "2026-05-13T17:05:44Z",
+      "country_code": "IL",
+      "country_name": "Israel"
+    },
     {
       "source": "BBC US & Canada",
       "title": "Canada's Mark Carney speaks with Artemis II crew on Earth",
@@ -106,15 +124,6 @@
       "url": "https://www.bbc.com/news/articles/c5yx757w048o?at_medium=RSS&at_campaign=rss",
       "summary": "More than a dozen US executives have joined the president on his visit, where he will meet his Chinese counterpart Xi Jinping.",
       "published_at": "2026-05-13T07:10:29Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "Marty Makary out as head of US Food and Drug Administration",
-      "url": "https://www.bbc.com/news/articles/ce8pg3kr3pxo?at_medium=RSS&at_campaign=rss",
-      "summary": "He is the latest top health official to be ousted under Health Secretary Robert F Kennedy Jr.",
-      "published_at": "2026-05-12T22:45:28Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -452,15 +461,6 @@
       "country_name": "Russia"
     },
     {
-      "source": "BBC Middle East",
-      "title": "Return of Palestine Marathon attracts thousands of runners",
-      "url": "https://www.bbc.com/news/videos/cm2p4n000pko?at_medium=RSS&at_campaign=rss",
-      "summary": "Thousands of people have taken part in the Palestine Marathon, which returns to Bethlehem after a two-year pause over the Gaza War.",
-      "published_at": "2026-05-08T17:23:28Z",
-      "country_code": "PS",
-      "country_name": "Palestine"
-    },
-    {
       "source": "BBC Latin America",
       "title": "Trump and Lula's private Oval Office meeting signals lingering strain - and effort to avoid tension",
       "url": "https://www.bbc.com/news/articles/c8r8gxjxz10o?at_medium=RSS&at_campaign=rss",
@@ -722,7 +722,7 @@
     {
       "country_code": "IL",
       "country_name": "Israel",
-      "news_count": 8
+      "news_count": 9
     },
     {
       "country_code": "IR",
@@ -740,11 +740,6 @@
       "news_count": 5
     },
     {
-      "country_code": "PS",
-      "country_name": "Palestine",
-      "news_count": 4
-    },
-    {
       "country_code": "IN",
       "country_name": "India",
       "news_count": 3
@@ -752,6 +747,11 @@
     {
       "country_code": "MX",
       "country_name": "Mexico",
+      "news_count": 3
+    },
+    {
+      "country_code": "PS",
+      "country_name": "Palestine",
       "news_count": 3
     },
     {
