@@ -1,6 +1,33 @@
 {
-  "generated_at": "2026-05-13T20:15:38Z",
+  "generated_at": "2026-05-13T21:49:48Z",
   "articles": [
+    {
+      "source": "BBC US & Canada",
+      "title": "Alberta judge tosses out petition for province to separate from Canada",
+      "url": "https://www.bbc.com/news/articles/clypn8py4zwo?at_medium=RSS&at_campaign=rss",
+      "summary": "The ruling comes after a group leading a petition for Alberta independence said it had gathered enough signatures to trigger a province-wide…",
+      "published_at": "2026-05-13T21:38:12Z",
+      "country_code": "CA",
+      "country_name": "Canada"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "US drops $15,000 visa deposit for foreign fans with World Cup tickets",
+      "url": "https://www.bbc.com/news/articles/c392dj4xwy4o?at_medium=RSS&at_campaign=rss",
+      "summary": "Fifty countries, including five that have qualified for the World Cup, are subject to the bond requirement as part of Trump's crackdown on v…",
+      "published_at": "2026-05-13T20:46:17Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "Trump's Fed chair pick Kevin Warsh confirmed by US Senate",
+      "url": "https://www.bbc.com/news/articles/ce8p71p4nezo?at_medium=RSS&at_campaign=rss",
+      "summary": "Kevin Warsh was confirmed by the narrowest margin since the role required a Senate confirmation vote.",
+      "published_at": "2026-05-13T20:15:33Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC US & Canada",
       "title": "Egg sandwiches and isolation - Life in US hantavirus quarantine",
@@ -326,15 +353,6 @@
       "country_name": "Kenya"
     },
     {
-      "source": "BBC US & Canada",
-      "title": "US health officials: Hantavirus risk to Americans 'very low'",
-      "url": "https://www.bbc.com/news/videos/cx21j0mge62o?at_medium=RSS&at_campaign=rss",
-      "summary": "Authorities say 18 Americans from the MV Hondius cruise ship have returned to the US, with one testing positive for hantavirus.",
-      "published_at": "2026-05-11T16:08:15Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC Europe",
       "title": "Bosnia's powerful peace envoy quits, with questions over role's future",
       "url": "https://www.bbc.com/news/articles/cg5pvj5pg51o?at_medium=RSS&at_campaign=rss",
@@ -470,7 +488,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC US & Canada",
+      "source": "BBC Africa",
       "title": "'I'd rather live in hiding in the US than return to Somalia'",
       "url": "https://www.bbc.com/news/articles/cvgz3l4zyq4o?at_medium=RSS&at_campaign=rss",
       "summary": "Fear and uncertainty linger for Somali migrants in Minnesota despite a legal reprieve.",
@@ -717,7 +735,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 22
+      "news_count": 23
     },
     {
       "country_code": "IL",
@@ -740,6 +758,11 @@
       "news_count": 5
     },
     {
+      "country_code": "CA",
+      "country_name": "Canada",
+      "news_count": 3
+    },
+    {
       "country_code": "IN",
       "country_name": "India",
       "news_count": 3
@@ -758,11 +781,6 @@
       "country_code": "UA",
       "country_name": "Ukraine",
       "news_count": 3
-    },
-    {
-      "country_code": "CA",
-      "country_name": "Canada",
-      "news_count": 2
     },
     {
       "country_code": "CN",
