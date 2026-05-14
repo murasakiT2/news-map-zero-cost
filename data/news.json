@@ -1,14 +1,41 @@
 {
-  "generated_at": "2026-05-14T20:50:07Z",
+  "generated_at": "2026-05-14T22:00:02Z",
   "articles": [
     {
       "source": "BBC World",
-      "title": "Cuba tells US to lift blockade instead of offering aid as energy crisis worsens",
+      "title": "Cuba says CIA chief visited Havana as energy crisis worsens",
       "url": "https://www.bbc.com/news/articles/cd7pyrj0vx7o?at_medium=RSS&at_campaign=rss",
-      "summary": "The Communist-run island has seen rare protests over worsening power cuts due to shortages of fuel.",
-      "published_at": "2026-05-14T20:24:59Z",
+      "summary": "The reported visit came after the US renewed an offer of aid to ease the effects of its oil blockade.",
+      "published_at": "2026-05-14T21:39:10Z",
       "country_code": "US",
       "country_name": "United States"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "What happens next in the Alex Murdaugh case?",
+      "url": "https://www.bbc.com/news/articles/cj9pwxe2ed1o?at_medium=RSS&at_campaign=rss",
+      "summary": "The South Carolina Supreme Court has ordered a new trial for the man accused of killing his wife and son in a case that fascinated the US.",
+      "published_at": "2026-05-14T21:18:39Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "Trump and Xi hold talks but no trade deal agreed",
+      "url": "https://www.bbc.com/news/articles/clypj01189lo?at_medium=RSS&at_campaign=rss",
+      "summary": "There was plenty of choreographed ceremonies, but there was no sweeping trade breakthrough as Trump met Xi in Beijing.",
+      "published_at": "2026-05-14T21:06:44Z",
+      "country_code": "CN",
+      "country_name": "China"
+    },
+    {
+      "source": "BBC World",
+      "title": "Five Italians die during cave dive in Maldives",
+      "url": "https://www.bbc.com/news/articles/c62e0p7rd2ro?at_medium=RSS&at_campaign=rss",
+      "summary": "Italy says the incident happened at a depth of 50m. Maldivian rescuers have so far found one body.",
+      "published_at": "2026-05-14T20:48:26Z",
+      "country_code": "IT",
+      "country_name": "Italy"
     },
     {
       "source": "BBC US & Canada",
@@ -23,7 +50,7 @@
       "source": "BBC World",
       "title": "'We didn't die': Pilot recounts crash landing in Atlantic with 10 aboard",
       "url": "https://www.bbc.com/news/articles/ckgpj0m3wr2o?at_medium=RSS&at_campaign=rss",
-      "summary": "The 11 survivors spent roughly five hours on a life raft, before being rescued by the US Air Force off Florida coast.",
+      "summary": "The 11 survivors spent roughly five hours on a life raft before being rescued by the US Air Force off Florida coast.",
       "published_at": "2026-05-14T18:38:42Z",
       "country_code": "US",
       "country_name": "United States"
@@ -77,7 +104,7 @@
       "source": "BBC World",
       "title": "Ukraine rescuers pull dead from rubble of Kyiv flats after massive Russian strikes",
       "url": "https://www.bbc.com/news/articles/cq5p8yygq94o?at_medium=RSS&at_campaign=rss",
-      "summary": "Two children are among at least 12 killed in Ukraine's capital in massive Russian drone and missile attacks, officials say.",
+      "summary": "Two children are among at least 16 killed in Ukraine's capital in massive Russian drone and missile attacks, officials say.",
       "published_at": "2026-05-14T13:16:32Z",
       "country_code": "UA",
       "country_name": "Ukraine"
@@ -160,15 +187,6 @@
       "url": "https://www.bbc.com/news/articles/ckgpjqvjyz8o?at_medium=RSS&at_campaign=rss",
       "summary": "Two recent court decisions have upended a redistricting race in multiple US states, and implications could last well beyond November's midte…",
       "published_at": "2026-05-13T22:21:45Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "US grief author who poisoned husband sentenced to life in prison",
-      "url": "https://www.bbc.com/news/articles/cq5p83edx9jo?at_medium=RSS&at_campaign=rss",
-      "summary": "Kouri Richins published a children's book about grief soon after her husband's death, which a jury later found she had caused.",
-      "published_at": "2026-05-13T21:15:15Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -763,6 +781,11 @@
       "news_count": 3
     },
     {
+      "country_code": "CN",
+      "country_name": "China",
+      "news_count": 3
+    },
+    {
       "country_code": "PS",
       "country_name": "Palestine",
       "news_count": 3
@@ -778,13 +801,13 @@
       "news_count": 2
     },
     {
-      "country_code": "CN",
-      "country_name": "China",
+      "country_code": "IN",
+      "country_name": "India",
       "news_count": 2
     },
     {
-      "country_code": "IN",
-      "country_name": "India",
+      "country_code": "IT",
+      "country_name": "Italy",
       "news_count": 2
     },
     {
@@ -825,11 +848,6 @@
     {
       "country_code": "FR",
       "country_name": "France",
-      "news_count": 1
-    },
-    {
-      "country_code": "IT",
-      "country_name": "Italy",
       "news_count": 1
     },
     {
