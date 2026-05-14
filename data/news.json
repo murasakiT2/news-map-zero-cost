@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-05-14T02:07:59Z",
+  "generated_at": "2026-05-14T05:59:54Z",
   "articles": [
+    {
+      "source": "BBC US & Canada",
+      "title": "US commerce secretary details 'off-putting' interaction with Epstein in testimony",
+      "url": "https://www.bbc.com/news/articles/cn9p2yewdrxo?at_medium=RSS&at_campaign=rss",
+      "summary": "The commerce secretary spoke of three interactions with Jeffrey Epstein, including a visit to the financier's home and his island in the Car…",
+      "published_at": "2026-05-14T01:06:10Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "US citizen convicted of running secret Chinese 'police station' in NYC",
+      "url": "https://www.bbc.com/news/articles/cy72yy7z1dyo?at_medium=RSS&at_campaign=rss",
+      "summary": "The secret police station, located above a ramen stall in NYC, is one of at least 100 such facilities that have been reported across 53 coun…",
+      "published_at": "2026-05-14T00:30:29Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC US & Canada",
       "title": "US drops $15,000 visa deposit for foreign fans with World Cup tickets",
@@ -36,6 +54,15 @@
       "published_at": "2026-05-13T22:30:34Z",
       "country_code": "AE",
       "country_name": "United Arab Emirates"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "The scales have tilted toward Republicans in the voting maps fight, but it may not last",
+      "url": "https://www.bbc.com/news/articles/ckgpjqvjyz8o?at_medium=RSS&at_campaign=rss",
+      "summary": "Two recent court decisions have upended a redistricting race in multiple US states, and implications could last well beyond November's midte…",
+      "published_at": "2026-05-13T22:21:45Z",
+      "country_code": "US",
+      "country_name": "United States"
     },
     {
       "source": "BBC US & Canada",
@@ -726,7 +753,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 23
+      "news_count": 26
     },
     {
       "country_code": "IL",
