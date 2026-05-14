@@ -1,12 +1,39 @@
 {
-  "generated_at": "2026-05-14T11:08:16Z",
+  "generated_at": "2026-05-14T13:11:12Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Flattery and fanfare as Trump welcomed to China - but thorny issues remain",
+      "url": "https://www.bbc.com/news/articles/cdxpypg9dgeo?at_medium=RSS&at_campaign=rss",
+      "summary": "The leaders of the world's two superpowers were all smiles for the cameras during the US president's visit to Beijing.",
+      "published_at": "2026-05-14T13:02:13Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "Rescuers pull dead from rubble of Kyiv flats after massive Russian strikes",
       "url": "https://www.bbc.com/news/articles/cq5p8yygq94o?at_medium=RSS&at_campaign=rss",
-      "summary": "Children are among the injured after Russia launched drones and missiles across Ukraine, officials say.",
-      "published_at": "2026-05-14T09:50:29Z",
+      "summary": "A girl, 12, is among the dead after Russia launched attacks across Ukraine overnight, officials say.",
+      "published_at": "2026-05-14T12:08:12Z",
+      "country_code": "RU",
+      "country_name": "Russia"
+    },
+    {
+      "source": "BBC Europe",
+      "title": "BBC at the scene of Russian strikes in Kyiv",
+      "url": "https://www.bbc.com/news/videos/cd6pnle9zngo?at_medium=RSS&at_campaign=rss",
+      "summary": "Russia launched one the biggest air strikes on Kyiv since the start of the war with several apartment blocks hit.",
+      "published_at": "2026-05-14T11:46:36Z",
+      "country_code": "RU",
+      "country_name": "Russia"
+    },
+    {
+      "source": "BBC World",
+      "title": "Latvian PM resigns after row over stray Ukrainian drones",
+      "url": "https://www.bbc.com/news/articles/cwy21k5917jo?at_medium=RSS&at_campaign=rss",
+      "summary": "Drones bound for Russia crashed down in Latvia last week, prompting a political fallout.",
+      "published_at": "2026-05-14T10:53:56Z",
       "country_code": "RU",
       "country_name": "Russia"
     },
@@ -144,15 +171,6 @@
       "published_at": "2026-05-13T17:02:45Z",
       "country_code": "CA",
       "country_name": "Canada"
-    },
-    {
-      "source": "BBC World",
-      "title": "Trade, Iran and Taiwan on the agenda as Trump arrives in China for high-stakes talks with Xi",
-      "url": "https://www.bbc.com/news/articles/c1w28qw1e0xo?at_medium=RSS&at_campaign=rss",
-      "summary": "The US president says his first request to Xi would be to \"open up\" China, while Beijing is expected to press Trump on the status of Taiwan.",
-      "published_at": "2026-05-13T17:00:12Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC Europe",
@@ -380,15 +398,6 @@
       "country_name": "United Kingdom"
     },
     {
-      "source": "BBC World",
-      "title": "Why welfare isn't winning elections in India like it used to",
-      "url": "https://www.bbc.com/news/articles/cn0pwy944pwo?at_medium=RSS&at_campaign=rss",
-      "summary": "India's welfare politics still matters, but voters increasingly want jobs, growth and dignity too.",
-      "published_at": "2026-05-11T22:12:16Z",
-      "country_code": "IN",
-      "country_name": "India"
-    },
-    {
       "source": "BBC Middle East",
       "title": "EU agrees sanctions on Israeli settlers over West Bank violence",
       "url": "https://www.bbc.com/news/articles/c202wp2rl09o?at_medium=RSS&at_campaign=rss",
@@ -416,7 +425,7 @@
       "country_name": "Kenya"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "Trump's China visit set to test fragile truce",
       "url": "https://www.bbc.com/news/articles/c3rz75rgn8zo?at_medium=RSS&at_campaign=rss",
       "summary": "The first US presidential visit to China in almost 10 years will test a fragile tariff truce.",
@@ -623,15 +632,6 @@
       "country_name": "Syria"
     },
     {
-      "source": "BBC Europe",
-      "title": "Watch: Elderly woman rescued by robot from Ukraine's frontline",
-      "url": "https://www.bbc.com/news/videos/cpqpjw1zdvjo?at_medium=RSS&at_campaign=rss",
-      "summary": "The Ukrainian army spotted the woman using a drone and sent the machine to her rescue as she was trying to leave her war-torn village.",
-      "published_at": "2026-04-28T21:58:17Z",
-      "country_code": "UA",
-      "country_name": "Ukraine"
-    },
-    {
       "source": "BBC Latin America",
       "title": "The other life of US soldier accused of betting on Maduro's removal",
       "url": "https://www.bbc.com/news/articles/clyxd5wrr0wo?at_medium=RSS&at_campaign=rss",
@@ -749,9 +749,9 @@
       "news_count": 5
     },
     {
-      "country_code": "IN",
-      "country_name": "India",
-      "news_count": 3
+      "country_code": "RU",
+      "country_name": "Russia",
+      "news_count": 4
     },
     {
       "country_code": "PS",
@@ -774,18 +774,13 @@
       "news_count": 2
     },
     {
+      "country_code": "IN",
+      "country_name": "India",
+      "news_count": 2
+    },
+    {
       "country_code": "MX",
       "country_name": "Mexico",
-      "news_count": 2
-    },
-    {
-      "country_code": "RU",
-      "country_name": "Russia",
-      "news_count": 2
-    },
-    {
-      "country_code": "UA",
-      "country_name": "Ukraine",
       "news_count": 2
     },
     {
@@ -851,6 +846,11 @@
     {
       "country_code": "TH",
       "country_name": "Thailand",
+      "news_count": 1
+    },
+    {
+      "country_code": "UA",
+      "country_name": "Ukraine",
       "news_count": 1
     }
   ]
