@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-05-14T15:38:41Z",
+  "generated_at": "2026-05-14T17:29:55Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Cuba considers $100m US aid offer as energy crisis worsens",
+      "url": "https://www.bbc.com/news/articles/cd7pyrj0vx7o?at_medium=RSS&at_campaign=rss",
+      "summary": "Cuba says it is unclear if the US aid offer would be in cash or assistance in-kind as shortages hit.",
+      "published_at": "2026-05-14T16:05:04Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC US & Canada",
       "title": "US commerce secretary details 'off-putting' interaction with Epstein in testimony",
@@ -66,15 +75,6 @@
     },
     {
       "source": "BBC World",
-      "title": "Cuba has run out of diesel and oil, energy minister says",
-      "url": "https://www.bbc.com/news/articles/cd7pyrj0vx7o?at_medium=RSS&at_campaign=rss",
-      "summary": "The minister says the situation in Cuba is \"extremely tense\", as a US-led blockade of oil to the country causes widespread power cuts.",
-      "published_at": "2026-05-14T09:06:23Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
       "title": "What to know as Trump visits Xi in China",
       "url": "https://www.bbc.com/news/articles/cyv2n7l1z14o?at_medium=RSS&at_campaign=rss",
       "summary": "Trump has landed in Beijing for the first visit by a US leader since his own in 2017.",
@@ -88,15 +88,6 @@
       "url": "https://www.bbc.com/news/videos/c707xn4ew3po?at_medium=RSS&at_campaign=rss",
       "summary": "China welcomed US President Donald Trump with cheering children and a troop parade on Thursday, before a nearly two-hour long meeting with X…",
       "published_at": "2026-05-14T07:13:24Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "US citizen convicted of running secret Chinese 'police station' in NYC",
-      "url": "https://www.bbc.com/news/articles/cy72yy7z1dyo?at_medium=RSS&at_campaign=rss",
-      "summary": "The secret police station, located above a ramen stall in NYC, is one of at least 100 such facilities that have been reported across 53 coun…",
-      "published_at": "2026-05-14T00:30:29Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -705,15 +696,6 @@
     },
     {
       "source": "BBC Africa",
-      "title": "Former Nigeria striker Eneramo dies during match",
-      "url": "https://www.bbc.com/sport/football/articles/c05d3zd1npjo?at_medium=RSS&at_campaign=rss",
-      "summary": "Michael Eneramo, who won 10 caps for the Super Eagles, dies aged 40 after suffering a suspected cardiac arrest during a friendly game.",
-      "published_at": "2026-04-24T15:10:01Z",
-      "country_code": "NG",
-      "country_name": "Nigeria"
-    },
-    {
-      "source": "BBC Africa",
       "title": "The human cost of the war in Sudan, three years on",
       "url": "https://www.bbc.com/news/videos/czd77jgnnlno?at_medium=RSS&at_campaign=rss",
       "summary": "The conflict, which erupted in 2023, has left behind a human toll which is \"simply staggering\", reports the BBC's Barbara Plett Usher.",
@@ -726,7 +708,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 24
+      "news_count": 23
     },
     {
       "country_code": "IL",
@@ -821,11 +803,6 @@
     {
       "country_code": "MA",
       "country_name": "Morocco",
-      "news_count": 1
-    },
-    {
-      "country_code": "NG",
-      "country_name": "Nigeria",
       "news_count": 1
     },
     {
