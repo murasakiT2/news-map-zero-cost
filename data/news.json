@@ -1,6 +1,33 @@
 {
-  "generated_at": "2026-05-15T20:38:03Z",
+  "generated_at": "2026-05-15T21:49:06Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Trump warns Taiwan against declaring independence, hours after summit with China's Xi",
+      "url": "https://www.bbc.com/news/articles/ce8p61v7l68o?at_medium=RSS&at_campaign=rss",
+      "summary": "The US president says he wants Beijing and Taipei to \"cool down\" tensions over the self-governing island.",
+      "published_at": "2026-05-15T21:28:25Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Trump says 20-year nuclear programme suspension by Iran would be enough",
+      "url": "https://www.bbc.com/news/articles/cgkpnnen5dzo?at_medium=RSS&at_campaign=rss",
+      "summary": "The US president says Tehran has to show \"real\" commitment to removing nuclear fuel and stopping uranium enrichment.",
+      "published_at": "2026-05-15T21:17:05Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "US federal watchdog sues Chick-fil-A operator for religious discrimination",
+      "url": "https://www.bbc.com/news/articles/ce3pyke2g0jo?at_medium=RSS&at_campaign=rss",
+      "summary": "A franchisee of the fast-food restaurant is accused of refusing an employee time off to observe the Sabbath, which is on Saturday in her Chr…",
+      "published_at": "2026-05-15T20:56:59Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "Israel and Lebanon agree to extend ceasefire, US state department says",
@@ -11,7 +38,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC US & Canada",
+      "source": "BBC World",
       "title": "What China critics in Maga movement make of Trump's Beijing trip",
       "url": "https://www.bbc.com/news/articles/cvgz902mqe5o?at_medium=RSS&at_campaign=rss",
       "summary": "Trump’s softer approach towards China is one that experts say will likely trickle down to the wider MAGA base.",
@@ -20,7 +47,7 @@
       "country_name": "China"
     },
     {
-      "source": "BBC Middle East",
+      "source": "BBC World",
       "title": "Israel says it has killed Hamas commander in Gaza air strike",
       "url": "https://www.bbc.com/news/articles/cx21jjwz1k1o?at_medium=RSS&at_campaign=rss",
       "summary": "Izz ad-Din al-Haddad, described as \"one of the architects of the October 7 massacre\", was killed in Gaza City, Israel says.",
@@ -29,20 +56,11 @@
       "country_name": "Israel"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "US to seek death penalty for suspect in killing of Israeli embassy staff members",
       "url": "https://www.bbc.com/news/articles/cgep2273d5go?at_medium=RSS&at_campaign=rss",
       "summary": "The US government alleges that Elias Rodriguez shot and killed a young Jewish couple at an event in Washington last May.",
       "published_at": "2026-05-15T18:03:57Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "Trump warns Taiwan against declaring independence, hours after summit with China's Xi",
-      "url": "https://www.bbc.com/news/articles/ce8p61v7l68o?at_medium=RSS&at_campaign=rss",
-      "summary": "The US president says he wants Beijing and Taipei to \"cool down\" tensions over the self-governing island.",
-      "published_at": "2026-05-15T17:50:59Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -101,7 +119,7 @@
       "country_name": "Ukraine"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "Boy, 15, shot dead in France as prosecutors blame drug war",
       "url": "https://www.bbc.com/news/articles/cj9pze942j8o?at_medium=RSS&at_campaign=rss",
       "summary": "Prosecutors in Nantes say the shooting was drug-related, but the victim's aunt says he was not involved.",
@@ -165,28 +183,10 @@
     },
     {
       "source": "BBC US & Canada",
-      "title": "US Supreme Court restores abortion pill access for now",
-      "url": "https://www.bbc.com/news/articles/cx21x27d4jdo?at_medium=RSS&at_campaign=rss",
-      "summary": "Abortion pills are the most common method of terminating pregnancies in the US.",
-      "published_at": "2026-05-14T22:46:28Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC US & Canada",
       "title": "What happens next in the Alex Murdaugh case?",
       "url": "https://www.bbc.com/news/articles/cj9pwxe2ed1o?at_medium=RSS&at_campaign=rss",
       "summary": "The South Carolina Supreme Court has ordered a new trial for the man accused of killing his wife and son in a case that fascinated the US.",
       "published_at": "2026-05-14T21:18:39Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "US Border Patrol chief Michael Banks resigns",
-      "url": "https://www.bbc.com/news/articles/c0k2zl6evk5o?at_medium=RSS&at_campaign=rss",
-      "summary": "\"It's just time,\" he told Fox News, adding that his resignation is effective immediately.",
-      "published_at": "2026-05-14T18:51:08Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -668,15 +668,6 @@
       "country_name": "Iran"
     },
     {
-      "source": "BBC Middle East",
-      "title": "'If we sleep, they bite': Rats and weasels infest camps for displaced Gazans",
-      "url": "https://www.bbc.com/news/articles/c202m54xp0mo?at_medium=RSS&at_campaign=rss",
-      "summary": "In the Gaza Strip, the daily battles are now with rats, weasels, and other pests spreading diseases.",
-      "published_at": "2026-05-02T05:02:14Z",
-      "country_code": "PS",
-      "country_name": "Palestine"
-    },
-    {
       "source": "BBC Africa",
       "title": "'I did not expect it': Kenya's Sabastian Sawe welcomed home with jubilant celebrations",
       "url": "https://www.bbc.com/news/articles/cddp4y0rzjdo?at_medium=RSS&at_campaign=rss",
@@ -786,11 +777,6 @@
       "news_count": 3
     },
     {
-      "country_code": "PS",
-      "country_name": "Palestine",
-      "news_count": 3
-    },
-    {
       "country_code": "RU",
       "country_name": "Russia",
       "news_count": 3
@@ -808,6 +794,11 @@
     {
       "country_code": "PK",
       "country_name": "Pakistan",
+      "news_count": 2
+    },
+    {
+      "country_code": "PS",
+      "country_name": "Palestine",
       "news_count": 2
     },
     {
