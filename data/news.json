@@ -1,9 +1,18 @@
 {
-  "generated_at": "2026-05-15T09:26:31Z",
+  "generated_at": "2026-05-15T11:32:31Z",
   "articles": [
     {
-      "source": "BBC Asia",
-      "title": "Xi takes Trump on tour of Communist Party's seat of power in Beijing",
+      "source": "BBC World",
+      "title": "Australia court doubles payout for trans woman in landmark discrimination case",
+      "url": "https://www.bbc.com/news/articles/cdjpzgppr7mo?at_medium=RSS&at_campaign=rss",
+      "summary": "Roxanne Tickle has been awarded AU$40,000 in damages for being kicked off the Giggle for Girls app.",
+      "published_at": "2026-05-15T10:06:59Z",
+      "country_code": "AU",
+      "country_name": "Australia"
+    },
+    {
+      "source": "BBC World",
+      "title": "Xi takes Trump on tour of Communist Party's seat of power as China visit ends",
       "url": "https://www.bbc.com/news/articles/crrpj0ejxp8o?at_medium=RSS&at_campaign=rss",
       "summary": "Trump and Xi toured Zhongnanhai, the heavily guarded compound where China's top leaders live and work.",
       "published_at": "2026-05-15T09:17:59Z",
@@ -11,11 +20,11 @@
       "country_name": "China"
     },
     {
-      "source": "BBC World",
-      "title": "Trump brought top CEOs to Beijing but few big deals emerge",
-      "url": "https://www.bbc.com/news/articles/clypj01189lo?at_medium=RSS&at_campaign=rss",
-      "summary": "There were plenty of choreographed ceremonies but no sweeping trade breakthrough as Trump met Xi in Beijing.",
-      "published_at": "2026-05-15T08:38:51Z",
+      "source": "BBC Asia",
+      "title": "Xi takes Trump on tour of Communist Party's seat of power in Beijing",
+      "url": "https://www.bbc.com/news/articles/crrpj0ejxp8o?at_medium=RSS&at_campaign=rss",
+      "summary": "Trump and Xi toured Zhongnanhai, the heavily guarded compound where China's top leaders live and work.",
+      "published_at": "2026-05-15T09:17:59Z",
       "country_code": "CN",
       "country_name": "China"
     },
@@ -38,13 +47,22 @@
       "country_name": "China"
     },
     {
-      "source": "BBC US & Canada",
+      "source": "BBC World",
       "title": "US hotel owners expected a World Cup boom - so far it hasn't happened",
       "url": "https://www.bbc.com/news/articles/cn0p2532xn4o?at_medium=RSS&at_campaign=rss",
       "summary": "An industry body survey found hotels in World Cup host cities see the tournament as a \"non-event\".",
       "published_at": "2026-05-15T05:01:55Z",
       "country_code": "US",
       "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Anti-immigration AI videos traced to overseas fakers, BBC finds",
+      "url": "https://www.bbc.com/news/articles/ckgpyn30dp3o?at_medium=RSS&at_campaign=rss",
+      "summary": "\"Patriotic\" UK anti-immigration social media accounts have been traced to Sri Lanka and Vietnam.",
+      "published_at": "2026-05-15T05:01:37Z",
+      "country_code": "GB",
+      "country_name": "United Kingdom"
     },
     {
       "source": "BBC Asia",
@@ -81,15 +99,6 @@
       "published_at": "2026-05-14T21:18:39Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "BBC on the ground during march through Jerusalem's Old City",
-      "url": "https://www.bbc.com/news/videos/cdxp0143q0po?at_medium=RSS&at_campaign=rss",
-      "summary": "Tens of thousands of Israeli celebrants have marched through the area captured by Israel in the 1967 Arab-Israeli war.",
-      "published_at": "2026-05-14T20:51:47Z",
-      "country_code": "IL",
-      "country_name": "Israel"
     },
     {
       "source": "BBC US & Canada",
@@ -209,7 +218,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Middle East",
       "title": "Hezbollah support endures in south Lebanon as ceasefire fails to stop war with Israel",
       "url": "https://www.bbc.com/news/articles/c9d3g6deljyo?at_medium=RSS&at_campaign=rss",
       "summary": "Despite continuing Israeli attacks and occupation, many people in the south still believe the armed group is the only force capable of defen…",
@@ -353,7 +362,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "Australia has some of the world's costliest homes. Will scrapping tax breaks help?",
       "url": "https://www.bbc.com/news/articles/cd7p88j84j3o?at_medium=RSS&at_campaign=rss",
       "summary": "The government hopes reforms will help young people enter the market, while critics say it will stifle supply.",
@@ -776,12 +785,12 @@
     {
       "country_code": "IL",
       "country_name": "Israel",
-      "news_count": 10
+      "news_count": 9
     },
     {
       "country_code": "GB",
       "country_name": "United Kingdom",
-      "news_count": 6
+      "news_count": 7
     },
     {
       "country_code": "IR",
@@ -819,6 +828,11 @@
       "news_count": 2
     },
     {
+      "country_code": "AU",
+      "country_name": "Australia",
+      "news_count": 2
+    },
+    {
       "country_code": "MX",
       "country_name": "Mexico",
       "news_count": 2
@@ -832,11 +846,6 @@
       "country_code": "UA",
       "country_name": "Ukraine",
       "news_count": 2
-    },
-    {
-      "country_code": "AU",
-      "country_name": "Australia",
-      "news_count": 1
     },
     {
       "country_code": "BR",
