@@ -1,6 +1,33 @@
 {
-  "generated_at": "2026-05-15T13:28:31Z",
+  "generated_at": "2026-05-15T15:35:37Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Australia court doubles payout for trans woman in landmark discrimination case",
+      "url": "https://www.bbc.com/news/articles/cdjpzgppr7mo?at_medium=RSS&at_campaign=rss",
+      "summary": "Roxanne Tickle has been awarded AU$40,000 in damages for being kicked off the Giggle for Girls app.",
+      "published_at": "2026-05-15T15:24:38Z",
+      "country_code": "AU",
+      "country_name": "Australia"
+    },
+    {
+      "source": "BBC World",
+      "title": "AI vigilante trap snares alleged paedophile ex-teacher in France",
+      "url": "https://www.bbc.com/news/articles/c1m2xg7x0m3o?at_medium=RSS&at_campaign=rss",
+      "summary": "The 66-year-old handed himself in after an influencer used AI to pose as a 14-year-old girl and broadcast their conversation online.",
+      "published_at": "2026-05-15T14:26:27Z",
+      "country_code": "FR",
+      "country_name": "France"
+    },
+    {
+      "source": "BBC World",
+      "title": "Trump says he 'made no commitment either way' to Xi on Taiwan",
+      "url": "https://www.bbc.com/news/articles/ce8p61v7l68o?at_medium=RSS&at_campaign=rss",
+      "summary": "Trump said Xi Jinping had asked directly if the US would defend Taiwan, and he had responded, \"I don't talk about that\".",
+      "published_at": "2026-05-15T14:13:36Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "Watch: What did we learn from Trump's visit to China?",
@@ -11,7 +38,7 @@
       "country_name": "China"
     },
     {
-      "source": "BBC Europe",
+      "source": "BBC World",
       "title": "Prisoner swap goes ahead as Kyiv mourns 24 killed in Russian strike on flats",
       "url": "https://www.bbc.com/news/articles/c5y049w8nqwo?at_medium=RSS&at_campaign=rss",
       "summary": "Among the victims in Kyiv was 12-year-old Lyubava Yakovleva, whose father was killed during the war.",
@@ -29,31 +56,13 @@
       "country_name": "France"
     },
     {
-      "source": "BBC Europe",
+      "source": "BBC World",
       "title": "Why is Ireland not taking part in this year's Eurovision?",
       "url": "https://www.bbc.com/news/articles/c0e2g5y9wyeo?at_medium=RSS&at_campaign=rss",
       "summary": "Ireland's boycott is the latest in a series of moves that has seen the country at odds with Israel over its war in Gaza.",
       "published_at": "2026-05-15T11:41:41Z",
       "country_code": "IL",
       "country_name": "Israel"
-    },
-    {
-      "source": "BBC World",
-      "title": "Australia court doubles payout for trans woman in landmark discrimination case",
-      "url": "https://www.bbc.com/news/articles/cdjpzgppr7mo?at_medium=RSS&at_campaign=rss",
-      "summary": "Roxanne Tickle has been awarded AU$40,000 in damages for being kicked off the Giggle for Girls app.",
-      "published_at": "2026-05-15T10:06:59Z",
-      "country_code": "AU",
-      "country_name": "Australia"
-    },
-    {
-      "source": "BBC World",
-      "title": "Xi takes Trump on tour of Communist Party's seat of power as China visit ends",
-      "url": "https://www.bbc.com/news/articles/crrpj0ejxp8o?at_medium=RSS&at_campaign=rss",
-      "summary": "Trump and Xi toured Zhongnanhai, the heavily guarded compound where China's top leaders live and work.",
-      "published_at": "2026-05-15T09:17:59Z",
-      "country_code": "CN",
-      "country_name": "China"
     },
     {
       "source": "BBC Asia",
@@ -164,15 +173,6 @@
       "country_name": "Canada"
     },
     {
-      "source": "BBC World",
-      "title": "Giant new dinosaur identified from fossils in Thailand",
-      "url": "https://www.bbc.com/news/articles/cx21pk5g20ro?at_medium=RSS&at_campaign=rss",
-      "summary": "The nagatitan is the largest dinosaur found in South-East Asia and weighs as much as nine elephants.",
-      "published_at": "2026-05-14T17:28:56Z",
-      "country_code": "TH",
-      "country_name": "Thailand"
-    },
-    {
       "source": "BBC US & Canada",
       "title": "In pictures: Trump hosted by Xi Jinping in Beijing on two-day summit",
       "url": "https://www.bbc.com/news/articles/cdxp0g4q3q2o?at_medium=RSS&at_campaign=rss",
@@ -180,6 +180,15 @@
       "published_at": "2026-05-14T14:55:44Z",
       "country_code": "CN",
       "country_name": "China"
+    },
+    {
+      "source": "BBC Africa",
+      "title": "Springboks' Ntlabakanye given 18-month doping ban",
+      "url": "https://www.bbc.com/sport/rugby-union/articles/cdjp20e2wwlo?at_medium=RSS&at_campaign=rss",
+      "summary": "South Africa prop Asenathi Ntlabakanye is banned for 18 months for breaking anti-doping rules - ruling him out of the 2027 World Cup.",
+      "published_at": "2026-05-14T14:39:23Z",
+      "country_code": "ZA",
+      "country_name": "South Africa"
     },
     {
       "source": "BBC Europe",
@@ -191,22 +200,13 @@
       "country_name": "Israel"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Middle East",
       "title": "'Floating armoury' ship reportedly seized by Iran",
       "url": "https://www.bbc.com/news/articles/cx219xwxg9no?at_medium=RSS&at_campaign=rss",
       "summary": "A vessel said to be a “floating armoury” in the Gulf of Oman has been seized by Iranian military personnel, according to reports.",
       "published_at": "2026-05-14T13:33:20Z",
       "country_code": "IR",
       "country_name": "Iran"
-    },
-    {
-      "source": "BBC World",
-      "title": "Ukraine rescuers pull dead from rubble of Kyiv flats after massive Russian strikes",
-      "url": "https://www.bbc.com/news/articles/cq5p8yygq94o?at_medium=RSS&at_campaign=rss",
-      "summary": "Two children are among at least 16 killed in Ukraine's capital in massive Russian drone and missile attacks, officials say.",
-      "published_at": "2026-05-14T13:16:32Z",
-      "country_code": "UA",
-      "country_name": "Ukraine"
     },
     {
       "source": "BBC Asia",
@@ -227,7 +227,7 @@
       "country_name": "Russia"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "Latvian PM resigns after row over stray Ukrainian drones",
       "url": "https://www.bbc.com/news/articles/cwy21k5917jo?at_medium=RSS&at_campaign=rss",
       "summary": "Drones bound for Russia crashed down in Latvia last week, prompting a political fallout.",
@@ -762,7 +762,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 23
+      "news_count": 24
     },
     {
       "country_code": "IL",
@@ -772,7 +772,7 @@
     {
       "country_code": "CN",
       "country_name": "China",
-      "news_count": 6
+      "news_count": 5
     },
     {
       "country_code": "GB",
@@ -795,6 +795,11 @@
       "news_count": 3
     },
     {
+      "country_code": "FR",
+      "country_name": "France",
+      "news_count": 3
+    },
+    {
       "country_code": "PS",
       "country_name": "Palestine",
       "news_count": 3
@@ -802,11 +807,6 @@
     {
       "country_code": "RU",
       "country_name": "Russia",
-      "news_count": 3
-    },
-    {
-      "country_code": "UA",
-      "country_name": "Ukraine",
       "news_count": 3
     },
     {
@@ -820,11 +820,6 @@
       "news_count": 2
     },
     {
-      "country_code": "FR",
-      "country_name": "France",
-      "news_count": 2
-    },
-    {
       "country_code": "MX",
       "country_name": "Mexico",
       "news_count": 2
@@ -832,6 +827,16 @@
     {
       "country_code": "PK",
       "country_name": "Pakistan",
+      "news_count": 2
+    },
+    {
+      "country_code": "UA",
+      "country_name": "Ukraine",
+      "news_count": 2
+    },
+    {
+      "country_code": "ZA",
+      "country_name": "South Africa",
       "news_count": 2
     },
     {
@@ -867,16 +872,6 @@
     {
       "country_code": "SY",
       "country_name": "Syria",
-      "news_count": 1
-    },
-    {
-      "country_code": "TH",
-      "country_name": "Thailand",
-      "news_count": 1
-    },
-    {
-      "country_code": "ZA",
-      "country_name": "South Africa",
       "news_count": 1
     }
   ]
