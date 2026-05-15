@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-05-15T11:32:31Z",
+  "generated_at": "2026-05-15T13:28:31Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Watch: What did we learn from Trump's visit to China?",
+      "url": "https://www.bbc.com/news/videos/cn8p36jzd7yo?at_medium=RSS&at_campaign=rss",
+      "summary": "President Trump has concluded a two-day visit to Beijing at a high-stakes summit with Chinese leader Xi Jinping.",
+      "published_at": "2026-05-15T13:25:23Z",
+      "country_code": "CN",
+      "country_name": "China"
+    },
+    {
+      "source": "BBC Europe",
+      "title": "Prisoner swap goes ahead as Kyiv mourns 24 killed in Russian strike on flats",
+      "url": "https://www.bbc.com/news/articles/c5y049w8nqwo?at_medium=RSS&at_campaign=rss",
+      "summary": "Among the victims in Kyiv was 12-year-old Lyubava Yakovleva, whose father was killed during the war.",
+      "published_at": "2026-05-15T12:53:57Z",
+      "country_code": "UA",
+      "country_name": "Ukraine"
+    },
+    {
+      "source": "BBC World",
+      "title": "Boy, 15, shot dead in France as prosecutors blame drug war",
+      "url": "https://www.bbc.com/news/articles/cj9pze942j8o?at_medium=RSS&at_campaign=rss",
+      "summary": "Prosecutors in Nantes say the shooting was drug-related, but the victim's aunt says he was not involved.",
+      "published_at": "2026-05-15T12:33:56Z",
+      "country_code": "FR",
+      "country_name": "France"
+    },
+    {
+      "source": "BBC Europe",
+      "title": "Why is Ireland not taking part in this year's Eurovision?",
+      "url": "https://www.bbc.com/news/articles/c0e2g5y9wyeo?at_medium=RSS&at_campaign=rss",
+      "summary": "Ireland's boycott is the latest in a series of moves that has seen the country at odds with Israel over its war in Gaza.",
+      "published_at": "2026-05-15T11:41:41Z",
+      "country_code": "IL",
+      "country_name": "Israel"
+    },
     {
       "source": "BBC World",
       "title": "Australia court doubles payout for trans woman in landmark discrimination case",
@@ -209,15 +245,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC US & Canada",
-      "title": "Watch: What happened on day one of Trump's China visit?",
-      "url": "https://www.bbc.com/news/videos/c707xn4ew3po?at_medium=RSS&at_campaign=rss",
-      "summary": "China welcomed US President Donald Trump with cheering children and a troop parade on Thursday, before a nearly two-hour long meeting with X…",
-      "published_at": "2026-05-14T07:13:24Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC Middle East",
       "title": "Hezbollah support endures in south Lebanon as ceasefire fails to stop war with Israel",
       "url": "https://www.bbc.com/news/articles/c9d3g6deljyo?at_medium=RSS&at_campaign=rss",
@@ -261,15 +288,6 @@
       "published_at": "2026-05-13T18:59:26Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC Europe",
-      "title": "Arrieta beats Eulalio to win epic wet Giro stage",
-      "url": "https://www.bbc.com/sport/cycling/articles/ckgpynkj4jno?at_medium=RSS&at_campaign=rss",
-      "summary": "Spain's Igor Arrieta beats Afonso Eulalio of Portugal to win a soaking-wet stage five of the Giro d'Italia after a thrilling breakaway battl…",
-      "published_at": "2026-05-13T17:29:33Z",
-      "country_code": "ES",
-      "country_name": "Spain"
     },
     {
       "source": "BBC Middle East",
@@ -479,15 +497,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Europe",
-      "title": "Russia's shadow fleet ships defying PM's threat and entering UK waters",
-      "url": "https://www.bbc.com/news/articles/cn8pvgw802no?at_medium=RSS&at_campaign=rss",
-      "summary": "BBC Verify analysis of ship-tracking data suggests \"shadow fleet\" vessels sailed into UK water despite the government threatening to board t…",
-      "published_at": "2026-05-12T00:45:26Z",
-      "country_code": "GB",
-      "country_name": "United Kingdom"
-    },
-    {
       "source": "BBC Middle East",
       "title": "EU agrees sanctions on Israeli settlers over West Bank violence",
       "url": "https://www.bbc.com/news/articles/c202wp2rl09o?at_medium=RSS&at_campaign=rss",
@@ -495,15 +504,6 @@
       "published_at": "2026-05-11T19:37:17Z",
       "country_code": "IL",
       "country_name": "Israel"
-    },
-    {
-      "source": "BBC Europe",
-      "title": "'Britain at the heart of Europe': How Starmer's plans are going down in the EU",
-      "url": "https://www.bbc.com/news/articles/cwy2k7re9jdo?at_medium=RSS&at_campaign=rss",
-      "summary": "Sir Keir Starmer pledged to rebuild the UK's relationship with Europe in a defiant speech on Monday.",
-      "published_at": "2026-05-11T17:15:52Z",
-      "country_code": "GB",
-      "country_name": "United Kingdom"
     },
     {
       "source": "BBC World",
@@ -515,7 +515,7 @@
       "country_name": "Kenya"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Latin America",
       "title": "BBC tests out England and Argentina's World Cup training grounds in Kansas City",
       "url": "https://www.bbc.com/news/videos/clypw107dqzo?at_medium=RSS&at_campaign=rss",
       "summary": "Will Grant visited one of the pitches where England captain Harry Kane and his team will call home ahead of the tournament.",
@@ -531,24 +531,6 @@
       "published_at": "2026-05-11T01:55:13Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC Europe",
-      "title": "Why Eurovision's fallout over Israel may change the competition forever",
-      "url": "https://www.bbc.com/news/articles/cgkpgm6vk48o?at_medium=RSS&at_campaign=rss",
-      "summary": "With Eurovision facing its biggest boycott in 70 years, questions are growing over the competition's future.",
-      "published_at": "2026-05-10T23:33:57Z",
-      "country_code": "IL",
-      "country_name": "Israel"
-    },
-    {
-      "source": "BBC World",
-      "title": "BBC speaks with civilians inside Iran struggling with impact of war",
-      "url": "https://www.bbc.com/news/videos/c2429dq0j4mo?at_medium=RSS&at_campaign=rss",
-      "summary": "Iranian authorities have imposed an internet ban but using trusted sources, special correspondent Fergal Keane hears from those traumatised …",
-      "published_at": "2026-05-10T21:13:47Z",
-      "country_code": "IR",
-      "country_name": "Iran"
     },
     {
       "source": "BBC Middle East",
@@ -596,7 +578,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "Rosenberg: Scaled-back Victory Parade in Moscow's Red Square",
       "url": "https://www.bbc.com/news/videos/ckgp541p5ndo?at_medium=RSS&at_campaign=rss",
       "summary": "The BBC's Russia editor reports from Moscow, where the annual Victory Day display was quieter than usual.",
@@ -780,7 +762,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 24
+      "news_count": 23
     },
     {
       "country_code": "IL",
@@ -788,18 +770,18 @@
       "news_count": 9
     },
     {
+      "country_code": "CN",
+      "country_name": "China",
+      "news_count": 6
+    },
+    {
       "country_code": "GB",
       "country_name": "United Kingdom",
-      "news_count": 7
+      "news_count": 5
     },
     {
       "country_code": "IR",
       "country_name": "Iran",
-      "news_count": 6
-    },
-    {
-      "country_code": "CN",
-      "country_name": "China",
       "news_count": 5
     },
     {
@@ -823,6 +805,11 @@
       "news_count": 3
     },
     {
+      "country_code": "UA",
+      "country_name": "Ukraine",
+      "news_count": 3
+    },
+    {
       "country_code": "AE",
       "country_name": "United Arab Emirates",
       "news_count": 2
@@ -830,6 +817,11 @@
     {
       "country_code": "AU",
       "country_name": "Australia",
+      "news_count": 2
+    },
+    {
+      "country_code": "FR",
+      "country_name": "France",
       "news_count": 2
     },
     {
@@ -843,23 +835,8 @@
       "news_count": 2
     },
     {
-      "country_code": "UA",
-      "country_name": "Ukraine",
-      "news_count": 2
-    },
-    {
       "country_code": "BR",
       "country_name": "Brazil",
-      "news_count": 1
-    },
-    {
-      "country_code": "ES",
-      "country_name": "Spain",
-      "news_count": 1
-    },
-    {
-      "country_code": "FR",
-      "country_name": "France",
       "news_count": 1
     },
     {
