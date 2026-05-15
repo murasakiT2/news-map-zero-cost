@@ -1,21 +1,39 @@
 {
-  "generated_at": "2026-05-14T23:57:58Z",
+  "generated_at": "2026-05-15T02:54:59Z",
   "articles": [
+    {
+      "source": "BBC Asia",
+      "title": "New Zealand's Māori Queen meets King Charles at Buckingham Palace",
+      "url": "https://www.bbc.com/news/articles/ckgp2vpp70yo?at_medium=RSS&at_campaign=rss",
+      "summary": "The meeting with the British monarch was Te Arikinui's first since she became Maori Queen in 2024.",
+      "published_at": "2026-05-15T02:43:58Z",
+      "country_code": "NZ",
+      "country_name": "New Zealand"
+    },
+    {
+      "source": "BBC World",
+      "title": "CIA chief visits Havana as energy crisis worsens",
+      "url": "https://www.bbc.com/news/articles/cd7pyrj0vx7o?at_medium=RSS&at_campaign=rss",
+      "summary": "The reported visit came after the US renewed an offer of aid to ease the effects of its oil blockade.",
+      "published_at": "2026-05-15T02:40:50Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC Asia",
+      "title": "Trump brought top CEOs to Beijing but few big deals emerge",
+      "url": "https://www.bbc.com/news/articles/clypj01189lo?at_medium=RSS&at_campaign=rss",
+      "summary": "There was plenty of choreographed ceremonies but there no sweeping trade breakthrough as Trump met Xi in Beijing.",
+      "published_at": "2026-05-15T01:37:31Z",
+      "country_code": "CN",
+      "country_name": "China"
+    },
     {
       "source": "BBC US & Canada",
       "title": "US Supreme Court restores abortion pill access for now",
       "url": "https://www.bbc.com/news/articles/cx21x27d4jdo?at_medium=RSS&at_campaign=rss",
       "summary": "Abortion pills are the most common method of terminating pregnancies in the US.",
       "published_at": "2026-05-14T22:46:28Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "Cuba says CIA chief visited Havana as energy crisis worsens",
-      "url": "https://www.bbc.com/news/articles/cd7pyrj0vx7o?at_medium=RSS&at_campaign=rss",
-      "summary": "The reported visit came after the US renewed an offer of aid to ease the effects of its oil blockade.",
-      "published_at": "2026-05-14T21:39:10Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -27,15 +45,6 @@
       "published_at": "2026-05-14T21:18:39Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "Trump and Xi hold talks but no trade deal agreed",
-      "url": "https://www.bbc.com/news/articles/clypj01189lo?at_medium=RSS&at_campaign=rss",
-      "summary": "There was plenty of choreographed ceremonies, but there was no sweeping trade breakthrough as Trump met Xi in Beijing.",
-      "published_at": "2026-05-14T21:06:44Z",
-      "country_code": "CN",
-      "country_name": "China"
     },
     {
       "source": "BBC World",
@@ -407,15 +416,6 @@
       "country_name": "Pakistan"
     },
     {
-      "source": "BBC Asia",
-      "title": "BJP leader back to head India's Assam state for second time in a row",
-      "url": "https://www.bbc.com/news/articles/c8xwvv21edeo?at_medium=RSS&at_campaign=rss",
-      "summary": "Himanta Biswa Sarma is seen as one of the architects of BJP's rapid growth in India's northeast.",
-      "published_at": "2026-05-12T07:26:17Z",
-      "country_code": "IN",
-      "country_name": "India"
-    },
-    {
       "source": "BBC Middle East",
       "title": "Israel passes law to allow death penalty and public trials for those linked to 7 October",
       "url": "https://www.bbc.com/news/articles/c202ngg45x8o?at_medium=RSS&at_campaign=rss",
@@ -486,15 +486,6 @@
       "published_at": "2026-05-11T16:10:18Z",
       "country_code": "KE",
       "country_name": "Kenya"
-    },
-    {
-      "source": "BBC Asia",
-      "title": "Trump's China visit set to test fragile truce",
-      "url": "https://www.bbc.com/news/articles/c3rz75rgn8zo?at_medium=RSS&at_campaign=rss",
-      "summary": "The first US presidential visit to China in almost 10 years will test a fragile tariff truce.",
-      "published_at": "2026-05-11T09:26:33Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC Latin America",
@@ -762,7 +753,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 24
+      "news_count": 23
     },
     {
       "country_code": "IL",
@@ -807,11 +798,6 @@
     {
       "country_code": "AE",
       "country_name": "United Arab Emirates",
-      "news_count": 2
-    },
-    {
-      "country_code": "IN",
-      "country_name": "India",
       "news_count": 2
     },
     {
@@ -860,6 +846,11 @@
       "news_count": 1
     },
     {
+      "country_code": "IN",
+      "country_name": "India",
+      "news_count": 1
+    },
+    {
       "country_code": "MA",
       "country_name": "Morocco",
       "news_count": 1
@@ -867,6 +858,11 @@
     {
       "country_code": "NO",
       "country_name": "Norway",
+      "news_count": 1
+    },
+    {
+      "country_code": "NZ",
+      "country_name": "New Zealand",
       "news_count": 1
     },
     {
