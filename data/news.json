@@ -1,14 +1,32 @@
 {
-  "generated_at": "2026-05-15T19:01:32Z",
+  "generated_at": "2026-05-15T20:38:03Z",
   "articles": [
     {
       "source": "BBC World",
       "title": "Israel and Lebanon agree to extend ceasefire, US state department says",
       "url": "https://www.bbc.com/news/articles/cqlpzzl0d67o?at_medium=RSS&at_campaign=rss",
       "summary": "President Trump announced the truce last month, but Israel and Hezbollah have continued to exchange fire since then.",
-      "published_at": "2026-05-15T18:49:55Z",
+      "published_at": "2026-05-15T20:26:51Z",
       "country_code": "US",
       "country_name": "United States"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "What China critics in Maga movement make of Trump's Beijing trip",
+      "url": "https://www.bbc.com/news/articles/cvgz902mqe5o?at_medium=RSS&at_campaign=rss",
+      "summary": "Trump’s softer approach towards China is one that experts say will likely trickle down to the wider MAGA base.",
+      "published_at": "2026-05-15T19:52:54Z",
+      "country_code": "CN",
+      "country_name": "China"
+    },
+    {
+      "source": "BBC Middle East",
+      "title": "Israel says it has killed Hamas commander in Gaza air strike",
+      "url": "https://www.bbc.com/news/articles/cx21jjwz1k1o?at_medium=RSS&at_campaign=rss",
+      "summary": "Izz ad-Din al-Haddad, described as \"one of the architects of the October 7 massacre\", was killed in Gaza City, Israel says.",
+      "published_at": "2026-05-15T19:38:38Z",
+      "country_code": "IL",
+      "country_name": "Israel"
     },
     {
       "source": "BBC World",
@@ -279,15 +297,6 @@
       "published_at": "2026-05-13T22:30:34Z",
       "country_code": "AE",
       "country_name": "United Arab Emirates"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "Republicans feared losing midterms - but fight over voting maps changed all that",
-      "url": "https://www.bbc.com/news/articles/ckgpjqvjyz8o?at_medium=RSS&at_campaign=rss",
-      "summary": "Two recent court decisions have upended a redistricting race in multiple US states, and implications could last well beyond November's midte…",
-      "published_at": "2026-05-13T22:21:45Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC US & Canada",
@@ -668,15 +677,6 @@
       "country_name": "Palestine"
     },
     {
-      "source": "BBC Middle East",
-      "title": "British couple jailed in Iran: 'We're likely to be here for a long time'",
-      "url": "https://www.bbc.com/news/articles/c202pl60kv9o?at_medium=RSS&at_campaign=rss",
-      "summary": "Lindsay and Craig Foreman are facing the reality of a 10-year prison sentence following their arrest in Iran while on a motorcycle tour last…",
-      "published_at": "2026-05-01T05:04:08Z",
-      "country_code": "IR",
-      "country_name": "Iran"
-    },
-    {
       "source": "BBC Africa",
       "title": "'I did not expect it': Kenya's Sabastian Sawe welcomed home with jubilant celebrations",
       "url": "https://www.bbc.com/news/articles/cddp4y0rzjdo?at_medium=RSS&at_campaign=rss",
@@ -753,17 +753,17 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 26
+      "news_count": 25
     },
     {
       "country_code": "IL",
       "country_name": "Israel",
-      "news_count": 10
+      "news_count": 11
     },
     {
       "country_code": "CN",
       "country_name": "China",
-      "news_count": 5
+      "news_count": 6
     },
     {
       "country_code": "GB",
@@ -771,14 +771,14 @@
       "news_count": 5
     },
     {
-      "country_code": "IR",
-      "country_name": "Iran",
-      "news_count": 5
-    },
-    {
       "country_code": "KE",
       "country_name": "Kenya",
       "news_count": 5
+    },
+    {
+      "country_code": "IR",
+      "country_name": "Iran",
+      "news_count": 4
     },
     {
       "country_code": "FR",
