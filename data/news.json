@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-05-16T12:57:08Z",
+  "generated_at": "2026-05-16T14:20:11Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Freight train and bus crash kills at least eight in Bangkok",
+      "url": "https://www.bbc.com/news/articles/c98rez3x0nwo?at_medium=RSS&at_campaign=rss",
+      "summary": "Police and rescue officials said the collision sparked a fire that engulfed the bus.",
+      "published_at": "2026-05-16T14:14:19Z",
+      "country_code": "TH",
+      "country_name": "Thailand"
+    },
+    {
+      "source": "BBC World",
+      "title": "Toddlers among more than 50 schoolchildren kidnapped in Nigeria",
+      "url": "https://www.bbc.com/news/articles/c202vrxlwqgo?at_medium=RSS&at_campaign=rss",
+      "summary": "No group has yet claimed responsibility for the attacks, which have devastated Mussa town in Borno state.",
+      "published_at": "2026-05-16T13:55:14Z",
+      "country_code": "NG",
+      "country_name": "Nigeria"
+    },
     {
       "source": "BBC World",
       "title": "Senior IS leader killed in joint operation, US and Nigeria say",
@@ -9,15 +27,6 @@
       "published_at": "2026-05-16T11:44:54Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "Freight train and bus crash kills at least eight in Bangkok",
-      "url": "https://www.bbc.com/news/articles/c98rez3x0nwo?at_medium=RSS&at_campaign=rss",
-      "summary": "Police and rescue officials said the collision sparked a fire that engulfed the bus.",
-      "published_at": "2026-05-16T11:21:21Z",
-      "country_code": "TH",
-      "country_name": "Thailand"
     },
     {
       "source": "BBC World",
@@ -57,7 +66,7 @@
     },
     {
       "source": "BBC World",
-      "title": "US planning to criminally indict ex-Cuban leader Raúl Castro",
+      "title": "US planning to charge ex-Cuban leader Raúl Castro",
       "url": "https://www.bbc.com/news/articles/c1w2gnd9xp2o?at_medium=RSS&at_campaign=rss",
       "summary": "Charges could come as soon as next week in a case reportedly focused on Cuba's downing of two planes in 1996.",
       "published_at": "2026-05-16T01:37:27Z",
@@ -110,7 +119,7 @@
       "country_name": "Canada"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Middle East",
       "title": "Trump says 20-year nuclear programme suspension by Iran would be enough",
       "url": "https://www.bbc.com/news/articles/cgkpnnen5dzo?at_medium=RSS&at_campaign=rss",
       "summary": "The US president says Tehran has to show \"real\" commitment to removing nuclear fuel and stopping uranium enrichment.",
@@ -173,7 +182,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "New York Times defends journalist after Israel threatens to sue",
       "url": "https://www.bbc.com/news/articles/c9wedpk155jo?at_medium=RSS&at_campaign=rss",
       "summary": "Israel's prime minister says he has ordered legal action over an article which alleged Israeli security officials raped Palestinian detainee…",
@@ -200,7 +209,7 @@
       "country_name": "China"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "Prisoner swap goes ahead as Kyiv mourns 24 killed in Russian strike on flats",
       "url": "https://www.bbc.com/news/articles/c5y049w8nqwo?at_medium=RSS&at_campaign=rss",
       "summary": "Among the victims in Kyiv was 12-year-old Lyubava Yakovleva, whose father was killed during the war.",
@@ -884,6 +893,11 @@
     {
       "country_code": "MA",
       "country_name": "Morocco",
+      "news_count": 1
+    },
+    {
+      "country_code": "NG",
+      "country_name": "Nigeria",
       "news_count": 1
     },
     {
