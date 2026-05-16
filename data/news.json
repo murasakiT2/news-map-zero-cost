@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-05-16T10:42:07Z",
+  "generated_at": "2026-05-16T11:42:48Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Freight train and bus crash kills at least eight in Bangkok",
+      "url": "https://www.bbc.com/news/articles/c98rez3x0nwo?at_medium=RSS&at_campaign=rss",
+      "summary": "Police and rescue officials said the collision sparked a fire that engulfed the bus.",
+      "published_at": "2026-05-16T11:21:21Z",
+      "country_code": "TH",
+      "country_name": "Thailand"
+    },
+    {
+      "source": "BBC World",
+      "title": "Senior IS leader killed in joint operation, US and Nigeria say",
+      "url": "https://www.bbc.com/news/articles/cy72p2kpd03o?at_medium=RSS&at_campaign=rss",
+      "summary": "President Donald Trump said the operation eliminated \"the most active terrorist in the world\", Abu-Bilal al-Minuki.",
+      "published_at": "2026-05-16T11:04:36Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "Hamas confirms top commander killed in Israeli air strike",
@@ -9,15 +27,6 @@
       "published_at": "2026-05-16T10:12:16Z",
       "country_code": "IL",
       "country_name": "Israel"
-    },
-    {
-      "source": "BBC World",
-      "title": "Senior IS leader killed by US and Nigerian forces",
-      "url": "https://www.bbc.com/news/articles/cy72p2kpd03o?at_medium=RSS&at_campaign=rss",
-      "summary": "US President Donald Trump said the joint operation eliminated \"the most active terrorist in the world\", Abu-Bilal al-Minuki.",
-      "published_at": "2026-05-16T09:22:49Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC World",
@@ -146,7 +155,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Latin America",
       "title": "CIA chief visits Cuba as energy crisis worsens",
       "url": "https://www.bbc.com/news/articles/cd7pyrj0vx7o?at_medium=RSS&at_campaign=rss",
       "summary": "The reported visit to Havana came after the US renewed an offer of aid to ease the effects of its oil blockade.",
@@ -173,7 +182,7 @@
       "country_name": "Israel"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "AI vigilante trap snares alleged paedophile ex-teacher in France",
       "url": "https://www.bbc.com/news/articles/c1m2xg7x0m3o?at_medium=RSS&at_campaign=rss",
       "summary": "The 66-year-old handed himself in after an influencer used AI to pose as a 14-year-old girl and broadcast their conversation online.",
@@ -890,6 +899,11 @@
     {
       "country_code": "SD",
       "country_name": "Sudan",
+      "news_count": 1
+    },
+    {
+      "country_code": "TH",
+      "country_name": "Thailand",
       "news_count": 1
     }
   ]
