@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-16T14:20:11Z",
+  "generated_at": "2026-05-16T15:32:15Z",
   "articles": [
     {
       "source": "BBC World",
@@ -160,15 +160,6 @@
       "url": "https://www.bbc.com/news/articles/cgep2273d5go?at_medium=RSS&at_campaign=rss",
       "summary": "The US government alleges that Elias Rodriguez shot and killed a young Jewish couple at an event in Washington DC a year ago.",
       "published_at": "2026-05-15T18:03:57Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC Latin America",
-      "title": "CIA chief visits Cuba as energy crisis worsens",
-      "url": "https://www.bbc.com/news/articles/cd7pyrj0vx7o?at_medium=RSS&at_campaign=rss",
-      "summary": "The reported visit to Havana came after the US renewed an offer of aid to ease the effects of its oil blockade.",
-      "published_at": "2026-05-15T17:47:19Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -344,15 +335,6 @@
       "country_name": "Russia"
     },
     {
-      "source": "BBC Europe",
-      "title": "Latvian PM resigns after row over stray Ukrainian drones",
-      "url": "https://www.bbc.com/news/articles/cwy21k5917jo?at_medium=RSS&at_campaign=rss",
-      "summary": "Drones bound for Russia crashed down in Latvia last week, prompting a political fallout.",
-      "published_at": "2026-05-14T10:53:56Z",
-      "country_code": "RU",
-      "country_name": "Russia"
-    },
-    {
       "source": "BBC US & Canada",
       "title": "What to know as Trump visits Xi in China",
       "url": "https://www.bbc.com/news/articles/cyv2n7l1z14o?at_medium=RSS&at_campaign=rss",
@@ -450,15 +432,6 @@
       "published_at": "2026-05-13T08:24:28Z",
       "country_code": "ZA",
       "country_name": "South Africa"
-    },
-    {
-      "source": "BBC Asia",
-      "title": "Elon Musk and Jensen Huang among CEOs joining Trump on China trip",
-      "url": "https://www.bbc.com/news/articles/c5yx757w048o?at_medium=RSS&at_campaign=rss",
-      "summary": "More than a dozen US executives have joined the president on his visit, where he will meet his Chinese counterpart Xi Jinping.",
-      "published_at": "2026-05-13T07:10:29Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC Asia",
@@ -713,15 +686,6 @@
       "country_name": "Palestine"
     },
     {
-      "source": "BBC Middle East",
-      "title": "British couple jailed in Iran: 'We're likely to be here for a long time'",
-      "url": "https://www.bbc.com/news/articles/c202pl60kv9o?at_medium=RSS&at_campaign=rss",
-      "summary": "Lindsay and Craig Foreman are facing the reality of a 10-year prison sentence following their arrest in Iran while on a motorcycle tour last…",
-      "published_at": "2026-05-01T05:04:08Z",
-      "country_code": "IR",
-      "country_name": "Iran"
-    },
-    {
       "source": "BBC Africa",
       "title": "'I did not expect it': Kenya's Sabastian Sawe welcomed home with jubilant celebrations",
       "url": "https://www.bbc.com/news/articles/cddp4y0rzjdo?at_medium=RSS&at_campaign=rss",
@@ -798,7 +762,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 24
+      "news_count": 22
     },
     {
       "country_code": "IL",
@@ -816,14 +780,14 @@
       "news_count": 5
     },
     {
-      "country_code": "IR",
-      "country_name": "Iran",
-      "news_count": 5
-    },
-    {
       "country_code": "KE",
       "country_name": "Kenya",
       "news_count": 5
+    },
+    {
+      "country_code": "IR",
+      "country_name": "Iran",
+      "news_count": 4
     },
     {
       "country_code": "PS",
@@ -846,11 +810,6 @@
       "news_count": 3
     },
     {
-      "country_code": "RU",
-      "country_name": "Russia",
-      "news_count": 3
-    },
-    {
       "country_code": "MX",
       "country_name": "Mexico",
       "news_count": 2
@@ -858,6 +817,11 @@
     {
       "country_code": "PK",
       "country_name": "Pakistan",
+      "news_count": 2
+    },
+    {
+      "country_code": "RU",
+      "country_name": "Russia",
       "news_count": 2
     },
     {
