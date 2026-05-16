@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-05-16T16:44:21Z",
+  "generated_at": "2026-05-16T17:45:56Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Taiwan insists it is independent after Trump warning",
+      "url": "https://www.bbc.com/news/articles/cx2132w81jqo?at_medium=RSS&at_campaign=rss",
+      "summary": "Fresh from his summit in Beijing, the US president warned against a formal declaration of independence by the island.",
+      "published_at": "2026-05-16T17:01:53Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "Man killed by 13ft shark in Western Australia",
@@ -47,7 +56,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Middle East",
       "title": "Hamas confirms top commander killed in Israeli air strike",
       "url": "https://www.bbc.com/news/articles/cx21jjwz1k1o?at_medium=RSS&at_campaign=rss",
       "summary": "Friday's strike is the latest launched by Israel on Gaza despite a ceasefire with Hamas.",
@@ -56,7 +65,7 @@
       "country_name": "Israel"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "Trump warns Taiwan against declaring independence, hours after summit with China's Xi",
       "url": "https://www.bbc.com/news/articles/ce8p61v7l68o?at_medium=RSS&at_campaign=rss",
       "summary": "The US president says he wants Beijing and Taipei to \"cool down\" tensions over the self-governing island.",
@@ -479,15 +488,6 @@
       "country_name": "United Kingdom"
     },
     {
-      "source": "BBC Europe",
-      "title": "Zelensky's ex-chief of staff in court as Ukraine corruption probe escalates",
-      "url": "https://www.bbc.com/news/articles/c4g48kj40lwo?at_medium=RSS&at_campaign=rss",
-      "summary": "Andriy Yermak was named by Ukraine's two anti-corruption agencies as a suspect in a money-laundering scheme.",
-      "published_at": "2026-05-12T16:19:24Z",
-      "country_code": "UA",
-      "country_name": "Ukraine"
-    },
-    {
       "source": "BBC Africa",
       "title": "France seeks to move beyond colonial ties by meeting African leaders in Kenya",
       "url": "https://www.bbc.com/news/articles/cpqpernnx8xo?at_medium=RSS&at_campaign=rss",
@@ -771,7 +771,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 22
+      "news_count": 23
     },
     {
       "country_code": "IL",
@@ -834,11 +834,6 @@
       "news_count": 2
     },
     {
-      "country_code": "UA",
-      "country_name": "Ukraine",
-      "news_count": 2
-    },
-    {
       "country_code": "ZA",
       "country_name": "South Africa",
       "news_count": 2
@@ -891,6 +886,11 @@
     {
       "country_code": "TH",
       "country_name": "Thailand",
+      "news_count": 1
+    },
+    {
+      "country_code": "UA",
+      "country_name": "Ukraine",
       "news_count": 1
     }
   ]
