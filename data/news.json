@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-05-16T18:48:01Z",
+  "generated_at": "2026-05-16T19:55:47Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Man drives car into pedestrians in Italy, injuring eight",
+      "url": "https://www.bbc.com/news/articles/cyv28pd4n22o?at_medium=RSS&at_campaign=rss",
+      "summary": "Seven people were injured, two seriously, before passers-by gave chase and stopped the man.",
+      "published_at": "2026-05-16T18:21:52Z",
+      "country_code": "IT",
+      "country_name": "Italy"
+    },
     {
       "source": "BBC World",
       "title": "Taiwan insists it is independent after Trump warning",
@@ -119,7 +128,7 @@
       "country_name": "India"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Middle East",
       "title": "Palestinian leaders hold rare party meeting as polls show rising discontent",
       "url": "https://www.bbc.com/news/articles/clyp1lnp4ygo?at_medium=RSS&at_campaign=rss",
       "summary": "The Fatah faction elects top decision makers, but ordinary Palestinians feel the party and its leader are out of touch.",
@@ -819,6 +828,11 @@
       "news_count": 3
     },
     {
+      "country_code": "IT",
+      "country_name": "Italy",
+      "news_count": 2
+    },
+    {
       "country_code": "MX",
       "country_name": "Mexico",
       "news_count": 2
@@ -851,11 +865,6 @@
     {
       "country_code": "IN",
       "country_name": "India",
-      "news_count": 1
-    },
-    {
-      "country_code": "IT",
-      "country_name": "Italy",
       "news_count": 1
     },
     {
