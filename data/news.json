@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-05-16T23:40:49Z",
+  "generated_at": "2026-05-17T02:00:03Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Secret police and propaganda: The Chinese agents spying on expats in US",
+      "url": "https://www.bbc.com/news/articles/cm2p8z261ylo?at_medium=RSS&at_campaign=rss",
+      "summary": "Experts say two espionage cases in the US highlight China's attempts to peddle influence globally over the past decade.",
+      "published_at": "2026-05-16T23:15:30Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Hezbollah drone strike videos show evolving tactics against Israel",
+      "url": "https://www.bbc.com/news/articles/c1j2zwe9g5no?at_medium=RSS&at_campaign=rss",
+      "summary": "BBC Verify has examined dozens of videos of fibre-optic drone attacks carried out by the Lebanese armed group.",
+      "published_at": "2026-05-16T23:10:19Z",
+      "country_code": "IL",
+      "country_name": "Israel"
+    },
     {
       "source": "BBC World",
       "title": "Lebanon says six killed in Israeli strike as US announces ceasefire extension",
@@ -27,15 +45,6 @@
       "published_at": "2026-05-16T17:01:53Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "Man killed by 13ft shark in Western Australia",
-      "url": "https://www.bbc.com/news/articles/c1m2xy3dr20o?at_medium=RSS&at_campaign=rss",
-      "summary": "The attack occurred at Horseshoe Reef - north-west of the popular Rottnest Island near the city of Perth, local police say.",
-      "published_at": "2026-05-16T16:32:47Z",
-      "country_code": "AU",
-      "country_name": "Australia"
     },
     {
       "source": "BBC Europe",
@@ -245,7 +254,7 @@
       "country_name": "France"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "Why is Ireland not taking part in this year's Eurovision?",
       "url": "https://www.bbc.com/news/articles/c0e2g5y9wyeo?at_medium=RSS&at_campaign=rss",
       "summary": "Ireland's boycott is the latest in a series of moves that has seen the country at odds with Israel over its war in Gaza.",
@@ -279,15 +288,6 @@
       "published_at": "2026-05-15T05:01:55Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "Anti-immigration AI videos traced to overseas fakers, BBC finds",
-      "url": "https://www.bbc.com/news/articles/ckgpyn30dp3o?at_medium=RSS&at_campaign=rss",
-      "summary": "\"Patriotic\" UK anti-immigration social media accounts have been traced to Sri Lanka and Vietnam.",
-      "published_at": "2026-05-15T05:01:37Z",
-      "country_code": "GB",
-      "country_name": "United Kingdom"
     },
     {
       "source": "BBC Asia",
@@ -479,15 +479,6 @@
       "country_name": "Australia"
     },
     {
-      "source": "BBC Asia",
-      "title": "How the Trump-Xi summit could set superpower relations for many years to come",
-      "url": "https://www.bbc.com/news/articles/ceqprgen1nyo?at_medium=RSS&at_campaign=rss",
-      "summary": "Trump's whirlwind visit to China is the most significant for years - but will it bear fruit?",
-      "published_at": "2026-05-12T20:11:11Z",
-      "country_code": "CN",
-      "country_name": "China"
-    },
-    {
       "source": "BBC Middle East",
       "title": "UK promises jets, drones and warship for Strait of Hormuz defence mission",
       "url": "https://www.bbc.com/news/articles/c5y909grldqo?at_medium=RSS&at_campaign=rss",
@@ -594,15 +585,6 @@
       "published_at": "2026-05-11T07:53:53Z",
       "country_code": "GB",
       "country_name": "United Kingdom"
-    },
-    {
-      "source": "BBC Middle East",
-      "title": "Trump calls Iran response to US proposal to end war 'totally unacceptable'",
-      "url": "https://www.bbc.com/news/articles/clypgz9e5pmo?at_medium=RSS&at_campaign=rss",
-      "summary": "Iran is reported to want lifting of the US naval blockade, recognition of Iranian sovereignty over the Strait of Hormuz and compensation for…",
-      "published_at": "2026-05-11T01:55:13Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC Middle East",
@@ -785,17 +767,17 @@
     {
       "country_code": "IL",
       "country_name": "Israel",
-      "news_count": 9
+      "news_count": 10
     },
     {
       "country_code": "CN",
       "country_name": "China",
-      "news_count": 6
+      "news_count": 5
     },
     {
       "country_code": "GB",
       "country_name": "United Kingdom",
-      "news_count": 6
+      "news_count": 5
     },
     {
       "country_code": "KE",
@@ -813,11 +795,6 @@
       "news_count": 4
     },
     {
-      "country_code": "AU",
-      "country_name": "Australia",
-      "news_count": 3
-    },
-    {
       "country_code": "CA",
       "country_name": "Canada",
       "news_count": 3
@@ -826,6 +803,11 @@
       "country_code": "FR",
       "country_name": "France",
       "news_count": 3
+    },
+    {
+      "country_code": "AU",
+      "country_name": "Australia",
+      "news_count": 2
     },
     {
       "country_code": "IT",
