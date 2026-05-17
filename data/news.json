@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-05-17T15:33:45Z",
+  "generated_at": "2026-05-17T16:44:25Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "UAE reports strike near Abu Dhabi nuclear power plant",
+      "url": "https://www.bbc.com/news/articles/cwy27pkj1l1o?at_medium=RSS&at_campaign=rss",
+      "summary": "The country is investigating the source of the strike, which it calls a \"dangerous escalation\".",
+      "published_at": "2026-05-17T16:25:38Z",
+      "country_code": "AE",
+      "country_name": "United Arab Emirates"
+    },
     {
       "source": "BBC World",
       "title": "Large-scale Ukrainian drone attack kills three in Moscow region, says Russia",
@@ -846,6 +855,11 @@
       "news_count": 3
     },
     {
+      "country_code": "AE",
+      "country_name": "United Arab Emirates",
+      "news_count": 2
+    },
+    {
       "country_code": "IT",
       "country_name": "Italy",
       "news_count": 2
@@ -869,11 +883,6 @@
       "country_code": "ZA",
       "country_name": "South Africa",
       "news_count": 2
-    },
-    {
-      "country_code": "AE",
-      "country_name": "United Arab Emirates",
-      "news_count": 1
     },
     {
       "country_code": "AU",
