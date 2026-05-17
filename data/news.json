@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-05-17T19:59:54Z",
+  "generated_at": "2026-05-17T20:56:13Z",
   "articles": [
     {
       "source": "BBC World",
       "title": "UAE reports strike near Abu Dhabi nuclear power plant",
       "url": "https://www.bbc.com/news/articles/cwy27pkj1l1o?at_medium=RSS&at_campaign=rss",
       "summary": "The country is investigating the source of the strike, which it calls a \"dangerous escalation\".",
-      "published_at": "2026-05-17T16:25:38Z",
+      "published_at": "2026-05-17T20:53:45Z",
       "country_code": "AE",
       "country_name": "United Arab Emirates"
     },
@@ -560,15 +560,6 @@
       "country_name": "United Kingdom"
     },
     {
-      "source": "BBC World",
-      "title": "The Kabul rehab centre hit by deadly Pakistani strike",
-      "url": "https://www.bbc.com/news/videos/cp8pm97yde3o?at_medium=RSS&at_campaign=rss",
-      "summary": "Pakistan says it hit 'military and terrorist infrastructure' - but the UN and victims' families reject this claim.",
-      "published_at": "2026-05-12T07:36:36Z",
-      "country_code": "PK",
-      "country_name": "Pakistan"
-    },
-    {
       "source": "BBC Asia",
       "title": "Pakistan struck a rehab centre and killed 269 Afghans. Their families want to know why",
       "url": "https://www.bbc.com/news/articles/c202xrd9gn7o?at_medium=RSS&at_campaign=rss",
@@ -648,15 +639,6 @@
       "published_at": "2026-05-10T19:56:45Z",
       "country_code": "PS",
       "country_name": "Palestine"
-    },
-    {
-      "source": "BBC Europe",
-      "title": "Rosenberg: Scaled-back Victory Parade in Moscow's Red Square",
-      "url": "https://www.bbc.com/news/videos/ckgp541p5ndo?at_medium=RSS&at_campaign=rss",
-      "summary": "The BBC's Russia editor reports from Moscow, where the annual Victory Day display was quieter than usual.",
-      "published_at": "2026-05-09T12:12:50Z",
-      "country_code": "RU",
-      "country_name": "Russia"
     },
     {
       "source": "BBC Latin America",
@@ -850,11 +832,6 @@
       "news_count": 3
     },
     {
-      "country_code": "RU",
-      "country_name": "Russia",
-      "news_count": 3
-    },
-    {
       "country_code": "AE",
       "country_name": "United Arab Emirates",
       "news_count": 2
@@ -870,8 +847,8 @@
       "news_count": 2
     },
     {
-      "country_code": "PK",
-      "country_name": "Pakistan",
+      "country_code": "RU",
+      "country_name": "Russia",
       "news_count": 2
     },
     {
@@ -917,6 +894,11 @@
     {
       "country_code": "NZ",
       "country_name": "New Zealand",
+      "news_count": 1
+    },
+    {
+      "country_code": "PK",
+      "country_name": "Pakistan",
       "news_count": 1
     },
     {
