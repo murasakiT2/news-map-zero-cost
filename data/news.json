@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-05-17T22:43:09Z",
+  "generated_at": "2026-05-17T23:48:06Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "'This may be the last time you hear my voice': Political executions surge in Iran since start of war",
+      "url": "https://www.bbc.com/news/articles/cn8p392nl7yo?at_medium=RSS&at_campaign=rss",
+      "summary": "Since the US and Israel attacked Iran on 28 February, the UN says it’s verified the execution of at least 32 political prisoners.",
+      "published_at": "2026-05-17T23:02:56Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Inside the 'kill-zone' on Ukraine's front line, where new weapons have transformed war",
+      "url": "https://www.bbc.com/news/articles/c3w2xqj9x13o?at_medium=RSS&at_campaign=rss",
+      "summary": "Machines are increasingly replacing humans on the front line, but troops are still vital for defending territory.",
+      "published_at": "2026-05-17T23:02:15Z",
+      "country_code": "UA",
+      "country_name": "Ukraine"
+    },
     {
       "source": "BBC World",
       "title": "UAE reports strike near Abu Dhabi nuclear power plant",
@@ -9,6 +27,15 @@
       "published_at": "2026-05-17T20:53:45Z",
       "country_code": "AE",
       "country_name": "United Arab Emirates"
+    },
+    {
+      "source": "BBC World",
+      "title": "Trump warns 'clock is ticking' for Iran as peace progress stalls",
+      "url": "https://www.bbc.com/news/articles/cd0p4y9y48xo?at_medium=RSS&at_campaign=rss",
+      "summary": "Iranian media reports the US has not made concrete concessions in response to Tehran's latest proposals.",
+      "published_at": "2026-05-17T19:23:20Z",
+      "country_code": "US",
+      "country_name": "United States"
     },
     {
       "source": "BBC World",
@@ -83,7 +110,7 @@
       "country_name": "Israel"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Middle East",
       "title": "Lebanon says six killed in Israeli strike as US announces ceasefire extension",
       "url": "https://www.bbc.com/news/articles/cqlpzzl0d67o?at_medium=RSS&at_campaign=rss",
       "summary": "President Trump announced the truce last month, but Israel and Hezbollah have continued to exchange fire since then.",
@@ -110,7 +137,7 @@
       "country_name": "Nigeria"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "Freight train and bus crash kills at least eight in Bangkok",
       "url": "https://www.bbc.com/news/articles/c98rez3x0nwo?at_medium=RSS&at_campaign=rss",
       "summary": "Police and rescue officials said the collision sparked a fire that engulfed the bus.",
@@ -216,15 +243,6 @@
       "published_at": "2026-05-15T20:56:59Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "What China critics in Maga movement make of Trump's Beijing trip",
-      "url": "https://www.bbc.com/news/articles/cvgz902mqe5o?at_medium=RSS&at_campaign=rss",
-      "summary": "Trump’s softer approach towards China is one that experts say will likely trickle down to the wider MAGA base.",
-      "published_at": "2026-05-15T19:52:54Z",
-      "country_code": "CN",
-      "country_name": "China"
     },
     {
       "source": "BBC US & Canada",
@@ -686,15 +704,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Africa",
-      "title": "Kenya battles to stop the 'goons and guns' as fears of political violence grow",
-      "url": "https://www.bbc.com/news/articles/c9qdz0p0x5qo?at_medium=RSS&at_campaign=rss",
-      "summary": "More than 100 gangs are operating nationwide as the growing use of political thugs raises fears of election violence.",
-      "published_at": "2026-05-03T06:57:44Z",
-      "country_code": "KE",
-      "country_name": "Kenya"
-    },
-    {
       "source": "BBC Middle East",
       "title": "The clandestine network smuggling Starlink tech into Iran to beat internet blackout",
       "url": "https://www.bbc.com/news/articles/cvgzk91leweo?at_medium=RSS&at_campaign=rss",
@@ -780,7 +789,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 23
+      "news_count": 25
     },
     {
       "country_code": "IL",
@@ -795,16 +804,11 @@
     {
       "country_code": "CN",
       "country_name": "China",
-      "news_count": 5
+      "news_count": 4
     },
     {
       "country_code": "IR",
       "country_name": "Iran",
-      "news_count": 4
-    },
-    {
-      "country_code": "KE",
-      "country_name": "Kenya",
       "news_count": 4
     },
     {
@@ -820,6 +824,16 @@
     {
       "country_code": "FR",
       "country_name": "France",
+      "news_count": 3
+    },
+    {
+      "country_code": "KE",
+      "country_name": "Kenya",
+      "news_count": 3
+    },
+    {
+      "country_code": "UA",
+      "country_name": "Ukraine",
       "news_count": 3
     },
     {
@@ -840,11 +854,6 @@
     {
       "country_code": "RU",
       "country_name": "Russia",
-      "news_count": 2
-    },
-    {
-      "country_code": "UA",
-      "country_name": "Ukraine",
       "news_count": 2
     },
     {
