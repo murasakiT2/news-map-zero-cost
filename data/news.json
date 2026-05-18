@@ -1,12 +1,39 @@
 {
-  "generated_at": "2026-05-18T02:12:02Z",
+  "generated_at": "2026-05-18T06:35:43Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Trump warns 'clock is ticking' for Iran as peace progress stalls",
+      "url": "https://www.bbc.com/news/articles/cd0p4y9y48xo?at_medium=RSS&at_campaign=rss",
+      "summary": "Iranian media reports the US has not made concrete concessions in response to Tehran's latest proposals.",
+      "published_at": "2026-05-18T03:53:36Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Taiwan will not provoke conflict nor give up sovereignty, says president",
+      "url": "https://www.bbc.com/news/articles/c7591gq10qko?at_medium=RSS&at_campaign=rss",
+      "summary": "Lai Ching-te made his first direct response to Trump and Xi's meeting where they discussed Taiwan independence.",
+      "published_at": "2026-05-18T03:08:13Z",
+      "country_code": "TW",
+      "country_name": "Taiwan"
+    },
     {
       "source": "BBC World",
       "title": "Moment two fighter jets collide mid-air at US air show",
       "url": "https://www.bbc.com/news/videos/ce8pzkg7klgo?at_medium=RSS&at_campaign=rss",
       "summary": "Four crew members safely ejected from US Navy jets and are in a stable condition after the collision.",
       "published_at": "2026-05-18T00:49:25Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "Fighter jet crews parachute safely after collision at US air show",
+      "url": "https://www.bbc.com/news/articles/c62x01n0dl5o?at_medium=RSS&at_campaign=rss",
+      "summary": "The crew members are in a stable condition after the jets crashed mid-air during a demonstration.",
+      "published_at": "2026-05-18T00:19:05Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -36,15 +63,6 @@
       "published_at": "2026-05-17T20:53:45Z",
       "country_code": "AE",
       "country_name": "United Arab Emirates"
-    },
-    {
-      "source": "BBC World",
-      "title": "Trump warns 'clock is ticking' for Iran as peace progress stalls",
-      "url": "https://www.bbc.com/news/articles/cd0p4y9y48xo?at_medium=RSS&at_campaign=rss",
-      "summary": "Iranian media reports the US has not made concrete concessions in response to Tehran's latest proposals.",
-      "published_at": "2026-05-17T19:23:20Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC World",
@@ -155,7 +173,7 @@
       "country_name": "Thailand"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Africa",
       "title": "Senior IS leader killed in joint operation, US and Nigeria say",
       "url": "https://www.bbc.com/news/articles/cy72p2kpd03o?at_medium=RSS&at_campaign=rss",
       "summary": "President Donald Trump said the operation eliminated \"the most active terrorist in the world\", Abu-Bilal al-Minuki.",
@@ -259,15 +277,6 @@
       "url": "https://www.bbc.com/news/articles/cgep2273d5go?at_medium=RSS&at_campaign=rss",
       "summary": "The US government alleges that Elias Rodriguez shot and killed a young Jewish couple at an event in Washington DC a year ago.",
       "published_at": "2026-05-15T18:03:57Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "ICE releases wife of US soldier and Afghanistan veteran from detention",
-      "url": "https://www.bbc.com/news/articles/cm2pd1mn23go?at_medium=RSS&at_campaign=rss",
-      "summary": "Deisy Rivera Ortega was taken into custody at an immigration appointment in Texas last month.",
-      "published_at": "2026-05-15T16:33:19Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -416,15 +425,6 @@
       "country_name": "Iran"
     },
     {
-      "source": "BBC Asia",
-      "title": "Flattery and fanfare as Trump welcomed to China - but thorny issues remain",
-      "url": "https://www.bbc.com/news/articles/cdxpypg9dgeo?at_medium=RSS&at_campaign=rss",
-      "summary": "The leaders of the world's two superpowers were all smiles for the cameras during the US president's visit to Beijing.",
-      "published_at": "2026-05-14T13:02:13Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC Europe",
       "title": "Watch: BBC at Kyiv block of flats hit by Russian drone strike",
       "url": "https://www.bbc.com/news/videos/cd6pnle9zngo?at_medium=RSS&at_campaign=rss",
@@ -522,15 +522,6 @@
       "published_at": "2026-05-13T08:36:54Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC Africa",
-      "title": "Ghana to evacuate 300 from South Africa over anti-immigrant protests",
-      "url": "https://www.bbc.com/news/articles/cedpv17gqqzo?at_medium=RSS&at_campaign=rss",
-      "summary": "The foreign minister says the \"distressed\" Ghanaians registered with the embassy in Pretoria to be evacuated.",
-      "published_at": "2026-05-13T08:24:28Z",
-      "country_code": "ZA",
-      "country_name": "South Africa"
     },
     {
       "source": "BBC Asia",
@@ -798,7 +789,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 26
+      "news_count": 25
     },
     {
       "country_code": "IL",
@@ -866,11 +857,6 @@
       "news_count": 2
     },
     {
-      "country_code": "ZA",
-      "country_name": "South Africa",
-      "news_count": 2
-    },
-    {
       "country_code": "AU",
       "country_name": "Australia",
       "news_count": 1
@@ -918,6 +904,16 @@
     {
       "country_code": "TH",
       "country_name": "Thailand",
+      "news_count": 1
+    },
+    {
+      "country_code": "TW",
+      "country_name": "Taiwan",
+      "news_count": 1
+    },
+    {
+      "country_code": "ZA",
+      "country_name": "South Africa",
       "news_count": 1
     }
   ]
