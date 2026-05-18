@@ -1,23 +1,32 @@
 {
-  "generated_at": "2026-05-18T10:56:45Z",
+  "generated_at": "2026-05-18T14:26:27Z",
   "articles": [
     {
       "source": "BBC World",
       "title": "Strike over high fuel prices paralyses transport in Kenya",
       "url": "https://www.bbc.com/news/articles/cm2p0n44drvo?at_medium=RSS&at_campaign=rss",
       "summary": "Key roads have remained largely empty and some schools have asked students to stay at home.",
-      "published_at": "2026-05-18T10:54:46Z",
+      "published_at": "2026-05-18T14:01:15Z",
       "country_code": "KE",
       "country_name": "Kenya"
     },
     {
       "source": "BBC World",
-      "title": "Israeli forces boarding Gaza-bound flotilla near Cyprus, activists say",
+      "title": "Israeli forces board Gaza-bound flotilla near Cyprus, activists say",
       "url": "https://www.bbc.com/news/articles/c142vz80553o?at_medium=RSS&at_campaign=rss",
       "summary": "Live broadcasts from the Global Sumud flotilla show commandos boarding several boats trying to breach the Gaza maritime blockade.",
-      "published_at": "2026-05-18T10:00:47Z",
+      "published_at": "2026-05-18T12:27:40Z",
       "country_code": "PS",
       "country_name": "Palestine"
+    },
+    {
+      "source": "BBC Latin America",
+      "title": "Cuba accuses US of building 'fraudulent case' for military action",
+      "url": "https://www.bbc.com/news/articles/ckgpyg9peq9o?at_medium=RSS&at_campaign=rss",
+      "summary": "Havana's foreign minister says a report that it has acquired attack drones is part of justification for US \"aggression\".",
+      "published_at": "2026-05-18T10:55:04Z",
+      "country_code": "US",
+      "country_name": "United States"
     },
     {
       "source": "BBC World",
@@ -344,7 +353,7 @@
       "country_name": "France"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "Watch: What did we learn from Trump's visit to China?",
       "url": "https://www.bbc.com/news/videos/cn8p36jzd7yo?at_medium=RSS&at_campaign=rss",
       "summary": "President Trump has concluded a two-day visit to Beijing at a high-stakes summit with Chinese leader Xi Jinping.",
@@ -416,7 +425,7 @@
       "country_name": "New Zealand"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Middle East",
       "title": "BBC on the ground during march through Jerusalem's Old City",
       "url": "https://www.bbc.com/news/videos/cdxp0143q0po?at_medium=RSS&at_campaign=rss",
       "summary": "Tens of thousands of Israeli celebrants have marched through the area captured by Israel in the 1967 Arab-Israeli war.",
@@ -794,15 +803,6 @@
       "country_name": "Brazil"
     },
     {
-      "source": "BBC Latin America",
-      "title": "Voice notes are massive in some countries but not the UK - here's why",
-      "url": "https://www.bbc.com/news/articles/cn7kpyye4y0o?at_medium=RSS&at_campaign=rss",
-      "summary": "Voice notes have they taken some countries by storm, while failing to truly take off in Britain.",
-      "published_at": "2026-04-26T00:03:47Z",
-      "country_code": "GB",
-      "country_name": "United Kingdom"
-    },
-    {
       "source": "BBC Africa",
       "title": "The human cost of the war in Sudan, three years on",
       "url": "https://www.bbc.com/news/videos/czd77jgnnlno?at_medium=RSS&at_campaign=rss",
@@ -816,17 +816,12 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 24
+      "news_count": 25
     },
     {
       "country_code": "IL",
       "country_name": "Israel",
       "news_count": 9
-    },
-    {
-      "country_code": "GB",
-      "country_name": "United Kingdom",
-      "news_count": 6
     },
     {
       "country_code": "IR",
@@ -836,6 +831,11 @@
     {
       "country_code": "CN",
       "country_name": "China",
+      "news_count": 5
+    },
+    {
+      "country_code": "GB",
+      "country_name": "United Kingdom",
       "news_count": 5
     },
     {
