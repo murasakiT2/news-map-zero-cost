@@ -1,26 +1,44 @@
 {
-  "generated_at": "2026-05-18T14:26:27Z",
+  "generated_at": "2026-05-18T17:15:23Z",
   "articles": [
     {
       "source": "BBC World",
-      "title": "Strike over high fuel prices paralyses transport in Kenya",
+      "title": "Four killed in protests during Kenyan strikes over high fuel prices",
       "url": "https://www.bbc.com/news/articles/cm2p0n44drvo?at_medium=RSS&at_campaign=rss",
-      "summary": "Key roads have remained largely empty and some schools have asked students to stay at home.",
-      "published_at": "2026-05-18T14:01:15Z",
+      "summary": "Thousands of commuters are stranded, with key roads in the capital Nairobi largely empty due to the protests over fuel costs.",
+      "published_at": "2026-05-18T16:49:45Z",
       "country_code": "KE",
       "country_name": "Kenya"
+    },
+    {
+      "source": "BBC World",
+      "title": "Death toll from Israeli strikes on Lebanon passes 3,000, officials say",
+      "url": "https://www.bbc.com/news/articles/cqjpglyjwjeo?at_medium=RSS&at_campaign=rss",
+      "summary": "It marks a grim milestone in the conflict between Israel and the Lebanese armed group Hezbollah since March, despite a nominal ceasefire.",
+      "published_at": "2026-05-18T16:16:38Z",
+      "country_code": "IL",
+      "country_name": "Israel"
     },
     {
       "source": "BBC World",
       "title": "Israeli forces board Gaza-bound flotilla near Cyprus, activists say",
       "url": "https://www.bbc.com/news/articles/c142vz80553o?at_medium=RSS&at_campaign=rss",
       "summary": "Live broadcasts from the Global Sumud flotilla show commandos boarding several boats trying to breach the Gaza maritime blockade.",
-      "published_at": "2026-05-18T12:27:40Z",
+      "published_at": "2026-05-18T15:30:30Z",
       "country_code": "PS",
       "country_name": "Palestine"
     },
     {
-      "source": "BBC Latin America",
+      "source": "BBC World",
+      "title": "Two men arrested over stunt at enclosure of famous monkey Punch",
+      "url": "https://www.bbc.com/news/articles/cr5pz4jvlp5o?at_medium=RSS&at_campaign=rss",
+      "summary": "Two US nationals have been arrested after one jumped the fence of the monkey, who went viral online, police say.",
+      "published_at": "2026-05-18T14:51:53Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC US & Canada",
       "title": "Cuba accuses US of building 'fraudulent case' for military action",
       "url": "https://www.bbc.com/news/articles/ckgpyg9peq9o?at_medium=RSS&at_campaign=rss",
       "summary": "Havana's foreign minister says a report that it has acquired attack drones is part of justification for US \"aggression\".",
@@ -65,7 +83,7 @@
       "country_name": "Taiwan"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "Moment two fighter jets collide mid-air at US air show",
       "url": "https://www.bbc.com/news/videos/ce8pzkg7klgo?at_medium=RSS&at_campaign=rss",
       "summary": "Four crew members safely ejected from US Navy jets and are in a stable condition after the collision.",
@@ -146,7 +164,7 @@
       "country_name": "United Kingdom"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "Lights, camera, Bangaranga: Highlights from Eurovision",
       "url": "https://www.bbc.com/news/videos/cj3pznr0zr4o?at_medium=RSS&at_campaign=rss",
       "summary": "Bulgarian singer Dara stormed to victory in the contest, while Ukraine broke the record for the longest note ever sung at Eurovision.",
@@ -162,15 +180,6 @@
       "published_at": "2026-05-16T23:15:30Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "The girl group who've sold out venues and toured the world - without releasing a record",
-      "url": "https://www.bbc.com/news/articles/cz721w33ve1o?at_medium=RSS&at_campaign=rss",
-      "summary": "The all-female supergroup has sold out venues across the UK and Ireland, toured stadiums with Ed Sheeran, and built a global following - all…",
-      "published_at": "2026-05-16T23:14:03Z",
-      "country_code": "GB",
-      "country_name": "United Kingdom"
     },
     {
       "source": "BBC World",
@@ -308,15 +317,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC US & Canada",
-      "title": "Chick-fil-A franchisee sued by US government for religious discrimination",
-      "url": "https://www.bbc.com/news/articles/ce3pyke2g0jo?at_medium=RSS&at_campaign=rss",
-      "summary": "A franchisee of the fast-food restaurant is accused of refusing an employee time off to observe the Sabbath, which is on Saturday in her Chr…",
-      "published_at": "2026-05-15T20:56:59Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC Middle East",
       "title": "BBC asks Trump if China will help open the Strait of Hormuz",
       "url": "https://www.bbc.com/news/videos/cy42rpex87ro?at_medium=RSS&at_campaign=rss",
@@ -326,16 +326,7 @@
       "country_name": "China"
     },
     {
-      "source": "BBC US & Canada",
-      "title": "US to seek death penalty for suspect in killing of Israeli embassy staff members",
-      "url": "https://www.bbc.com/news/articles/cgep2273d5go?at_medium=RSS&at_campaign=rss",
-      "summary": "The US government alleges that Elias Rodriguez shot and killed a young Jewish couple at an event in Washington DC a year ago.",
-      "published_at": "2026-05-15T18:03:57Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC US & Canada",
+      "source": "BBC Middle East",
       "title": "New York Times defends journalist after Israel threatens to sue",
       "url": "https://www.bbc.com/news/articles/c9wedpk155jo?at_medium=RSS&at_campaign=rss",
       "summary": "Israel's prime minister says he has ordered legal action over an article which alleged Israeli security officials raped Palestinian detainee…",
@@ -816,12 +807,12 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 25
+      "news_count": 24
     },
     {
       "country_code": "IL",
       "country_name": "Israel",
-      "news_count": 9
+      "news_count": 10
     },
     {
       "country_code": "IR",
@@ -834,14 +825,14 @@
       "news_count": 5
     },
     {
-      "country_code": "GB",
-      "country_name": "United Kingdom",
-      "news_count": 5
-    },
-    {
       "country_code": "PS",
       "country_name": "Palestine",
       "news_count": 5
+    },
+    {
+      "country_code": "GB",
+      "country_name": "United Kingdom",
+      "news_count": 4
     },
     {
       "country_code": "KE",
