@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-18T17:15:23Z",
+  "generated_at": "2026-05-18T19:10:38Z",
   "articles": [
     {
       "source": "BBC World",
@@ -155,15 +155,6 @@
       "country_name": "United Kingdom"
     },
     {
-      "source": "BBC World",
-      "title": "'Look Mum, one point': Why does the UK keep getting Eurovision wrong?",
-      "url": "https://www.bbc.com/news/articles/cy72e81dp28o?at_medium=RSS&at_campaign=rss",
-      "summary": "After four years of flops, the BBC has to think hard about how it approaches Eurovision in 2027.",
-      "published_at": "2026-05-17T02:13:36Z",
-      "country_code": "GB",
-      "country_name": "United Kingdom"
-    },
-    {
       "source": "BBC Europe",
       "title": "Lights, camera, Bangaranga: Highlights from Eurovision",
       "url": "https://www.bbc.com/news/videos/cj3pznr0zr4o?at_medium=RSS&at_campaign=rss",
@@ -218,15 +209,6 @@
       "country_name": "Nigeria"
     },
     {
-      "source": "BBC Asia",
-      "title": "Freight train and bus crash kills at least eight in Bangkok",
-      "url": "https://www.bbc.com/news/articles/c98rez3x0nwo?at_medium=RSS&at_campaign=rss",
-      "summary": "Police and rescue officials said the collision sparked a fire that engulfed the bus.",
-      "published_at": "2026-05-16T14:14:19Z",
-      "country_code": "TH",
-      "country_name": "Thailand"
-    },
-    {
       "source": "BBC Africa",
       "title": "Senior IS leader killed in joint operation, US and Nigeria say",
       "url": "https://www.bbc.com/news/articles/cy72p2kpd03o?at_medium=RSS&at_campaign=rss",
@@ -243,15 +225,6 @@
       "published_at": "2026-05-16T10:12:16Z",
       "country_code": "IL",
       "country_name": "Israel"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "Trump warns Taiwan against declaring independence, hours after summit with China's Xi",
-      "url": "https://www.bbc.com/news/articles/ce8p61v7l68o?at_medium=RSS&at_campaign=rss",
-      "summary": "The US president says he wants Beijing and Taipei to \"cool down\" tensions over the self-governing island.",
-      "published_at": "2026-05-16T05:53:41Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC US & Canada",
@@ -807,7 +780,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 24
+      "news_count": 23
     },
     {
       "country_code": "IL",
@@ -830,11 +803,6 @@
       "news_count": 5
     },
     {
-      "country_code": "GB",
-      "country_name": "United Kingdom",
-      "news_count": 4
-    },
-    {
       "country_code": "KE",
       "country_name": "Kenya",
       "news_count": 4
@@ -847,6 +815,11 @@
     {
       "country_code": "FR",
       "country_name": "France",
+      "news_count": 3
+    },
+    {
+      "country_code": "GB",
+      "country_name": "United Kingdom",
       "news_count": 3
     },
     {
@@ -872,11 +845,6 @@
     {
       "country_code": "RU",
       "country_name": "Russia",
-      "news_count": 2
-    },
-    {
-      "country_code": "TH",
-      "country_name": "Thailand",
       "news_count": 2
     },
     {
@@ -927,6 +895,11 @@
     {
       "country_code": "SD",
       "country_name": "Sudan",
+      "news_count": 1
+    },
+    {
+      "country_code": "TH",
+      "country_name": "Thailand",
       "news_count": 1
     },
     {
