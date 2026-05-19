@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-19T21:10:33Z",
+  "generated_at": "2026-05-19T22:41:33Z",
   "articles": [
     {
       "source": "BBC Middle East",
@@ -9,6 +9,15 @@
       "published_at": "2026-05-19T20:27:54Z",
       "country_code": "PS",
       "country_name": "Palestine"
+    },
+    {
+      "source": "BBC World",
+      "title": "Singer Patrick Bruel denies wave of sexual assault allegations in France",
+      "url": "https://www.bbc.com/news/articles/cjwpyzwn7epo?at_medium=RSS&at_campaign=rss",
+      "summary": "Among Bruel's latest accusers is well-known TV and radio presenter Flavie Flament, who alleges he raped her in 1991.",
+      "published_at": "2026-05-19T19:52:08Z",
+      "country_code": "FR",
+      "country_name": "France"
     },
     {
       "source": "BBC US & Canada",
@@ -792,6 +801,11 @@
       "news_count": 2
     },
     {
+      "country_code": "FR",
+      "country_name": "France",
+      "news_count": 2
+    },
+    {
       "country_code": "IT",
       "country_name": "Italy",
       "news_count": 2
@@ -819,11 +833,6 @@
     {
       "country_code": "CA",
       "country_name": "Canada",
-      "news_count": 1
-    },
-    {
-      "country_code": "FR",
-      "country_name": "France",
       "news_count": 1
     },
     {
