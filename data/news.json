@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-19T11:35:49Z",
+  "generated_at": "2026-05-19T14:34:36Z",
   "articles": [
     {
       "source": "BBC Africa",
@@ -20,7 +20,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Middle East",
       "title": "Israeli forces board Gaza-bound flotilla near Cyprus, activists say",
       "url": "https://www.bbc.com/news/articles/c142vz80553o?at_medium=RSS&at_campaign=rss",
       "summary": "The Global Sumud Flotilla says commandos have intercepted more than 40 boats trying to breach the Gaza maritime blockade since Tuesday.",
@@ -128,7 +128,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Middle East",
       "title": "Trump warns 'clock is ticking' for Iran as peace progress stalls",
       "url": "https://www.bbc.com/news/articles/cd0p4y9y48xo?at_medium=RSS&at_campaign=rss",
       "summary": "On Monday Iran said it had responded to the latest US proposal and that exchanges with Washington were continuing.",
@@ -137,7 +137,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "Escaped tiger shot by German police after attacking man",
       "url": "https://www.bbc.com/news/articles/cwy217yw7nxo?at_medium=RSS&at_campaign=rss",
       "summary": "The tiger escaped a facility owned by local trainer Carmen Zander, also known as Germany's \"Tiger Queen\", according to local media reports.",
@@ -146,7 +146,7 @@
       "country_name": "Germany"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "Driver of crashed train tested positive for drugs, Thai police say",
       "url": "https://www.bbc.com/news/articles/c3v2ngnpgl9o?at_medium=RSS&at_campaign=rss",
       "summary": "The freight train collided with a bus in Bangkok, killing eight people and injuring dozens of others.",
@@ -164,7 +164,7 @@
       "country_name": "Taiwan"
     },
     {
-      "source": "BBC US & Canada",
+      "source": "BBC World",
       "title": "Moment two fighter jets collide mid-air at US air show",
       "url": "https://www.bbc.com/news/videos/ce8pzkg7klgo?at_medium=RSS&at_campaign=rss",
       "summary": "Four crew members safely ejected from US Navy jets and are in a stable condition after the collision.",
@@ -182,7 +182,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Middle East",
       "title": "'This may be the last time you hear my voice': Political executions surge in Iran since start of war",
       "url": "https://www.bbc.com/news/articles/cn8p392nl7yo?at_medium=RSS&at_campaign=rss",
       "summary": "Since the US and Israel attacked Iran on 28 February, the UN says it’s verified the execution of at least 32 political prisoners.",
@@ -191,7 +191,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Europe",
+      "source": "BBC World",
       "title": "Inside the 'kill-zone' on Ukraine's front line, where new weapons have transformed war",
       "url": "https://www.bbc.com/news/articles/c3w2xqj9x13o?at_medium=RSS&at_campaign=rss",
       "summary": "Machines are increasingly replacing humans on the front line, but troops are still vital for defending territory.",
@@ -200,7 +200,7 @@
       "country_name": "Ukraine"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Middle East",
       "title": "UAE reports strike near Abu Dhabi nuclear power plant",
       "url": "https://www.bbc.com/news/articles/cwy27pkj1l1o?at_medium=RSS&at_campaign=rss",
       "summary": "The country is investigating the source of the strike, which it calls a \"dangerous escalation\".",
@@ -209,7 +209,7 @@
       "country_name": "United Arab Emirates"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "Large-scale Ukrainian drone attack kills three in Moscow region, says Russia",
       "url": "https://www.bbc.com/news/articles/c5ye480kxpmo?at_medium=RSS&at_campaign=rss",
       "summary": "Ukraine's president says the strikes are a \"justified\" response to deadly Russian attacks on Ukrainian cities.",
@@ -227,7 +227,7 @@
       "country_name": "Italy"
     },
     {
-      "source": "BBC Europe",
+      "source": "BBC World",
       "title": "Lights, camera, Bangaranga: Highlights from Eurovision",
       "url": "https://www.bbc.com/news/videos/cj3pznr0zr4o?at_medium=RSS&at_campaign=rss",
       "summary": "Bulgarian singer Dara stormed to victory in the contest, while Ukraine broke the record for the longest note ever sung at Eurovision.",
@@ -704,15 +704,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Latin America",
-      "title": "Will Mexico City's airport be ready for the World Cup?",
-      "url": "https://www.bbc.com/news/videos/cz7231qx88qo?at_medium=RSS&at_campaign=rss",
-      "summary": "The BBC takes a closer look at major renovations at Benito Juárez International Airport aimed at boosting capacity ahead of the 2026 World C…",
-      "published_at": "2026-04-28T12:57:13Z",
-      "country_code": "MX",
-      "country_name": "Mexico"
-    },
-    {
       "source": "BBC Africa",
       "title": "'I was not thinking to run a world record'",
       "url": "https://www.bbc.com/sport/athletics/videos/c78q5nq11zwo?at_medium=RSS&at_campaign=rss",
@@ -792,11 +783,6 @@
       "news_count": 2
     },
     {
-      "country_code": "MX",
-      "country_name": "Mexico",
-      "news_count": 2
-    },
-    {
       "country_code": "UA",
       "country_name": "Ukraine",
       "news_count": 2
@@ -839,6 +825,11 @@
     {
       "country_code": "MA",
       "country_name": "Morocco",
+      "news_count": 1
+    },
+    {
+      "country_code": "MX",
+      "country_name": "Mexico",
       "news_count": 1
     },
     {
