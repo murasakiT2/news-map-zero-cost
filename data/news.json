@@ -1,6 +1,33 @@
 {
-  "generated_at": "2026-05-19T08:19:47Z",
+  "generated_at": "2026-05-19T11:35:49Z",
   "articles": [
+    {
+      "source": "BBC Africa",
+      "title": "Kenya suspends strike after transport paralysis over high fuel prices",
+      "url": "https://www.bbc.com/news/articles/ckgpdvkr2r9o?at_medium=RSS&at_campaign=rss",
+      "summary": "The government and transport operators are in talks to resolve the dispute over the hike in fuel prices.",
+      "published_at": "2026-05-19T11:10:36Z",
+      "country_code": "KE",
+      "country_name": "Kenya"
+    },
+    {
+      "source": "BBC World",
+      "title": "Victim or enabler? Epstein girlfriend who could face questions despite plea deal",
+      "url": "https://www.bbc.com/news/articles/cz92j3n3jvvo?at_medium=RSS&at_campaign=rss",
+      "summary": "Nadia Marcinko is relatively unknown but may soon be called before US legislators.",
+      "published_at": "2026-05-19T10:58:23Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Israeli forces board Gaza-bound flotilla near Cyprus, activists say",
+      "url": "https://www.bbc.com/news/articles/c142vz80553o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Global Sumud Flotilla says commandos have intercepted more than 40 boats trying to breach the Gaza maritime blockade since Tuesday.",
+      "published_at": "2026-05-19T09:38:27Z",
+      "country_code": "PS",
+      "country_name": "Palestine"
+    },
     {
       "source": "BBC World",
       "title": "Two dead in Spain shooting, with babies reportedly among injured",
@@ -20,15 +47,6 @@
       "country_name": "China"
     },
     {
-      "source": "BBC World",
-      "title": "Israeli forces board Gaza-bound flotilla near Cyprus, activists say",
-      "url": "https://www.bbc.com/news/articles/c142vz80553o?at_medium=RSS&at_campaign=rss",
-      "summary": "Live broadcasts from the Global Sumud flotilla show commandos boarding several boats trying to breach the Gaza maritime blockade.",
-      "published_at": "2026-05-19T02:40:57Z",
-      "country_code": "PS",
-      "country_name": "Palestine"
-    },
-    {
       "source": "BBC US & Canada",
       "title": "Strike at busiest rail system in North America ends after day of chaotic commutes",
       "url": "https://www.bbc.com/news/articles/cdjp839lxzvo?at_medium=RSS&at_campaign=rss",
@@ -39,7 +57,7 @@
     },
     {
       "source": "BBC Europe",
-      "title": "Ex-British soldier imprisoned by Russia says he feels abandoned in occupied Ukraine",
+      "title": "British ex-soldier imprisoned by Russia says he feels abandoned in occupied Ukraine",
       "url": "https://www.bbc.com/news/articles/cdxper4k5w1o?at_medium=RSS&at_campaign=rss",
       "summary": "In letters sent to the BBC from prison, Hayden Davies says he has had no contact with British authorities.",
       "published_at": "2026-05-18T23:09:42Z",
@@ -59,7 +77,7 @@
       "source": "BBC World",
       "title": "Trump says he called off new Iran attack at request of Gulf states",
       "url": "https://www.bbc.com/news/articles/c7079e55zjro?at_medium=RSS&at_campaign=rss",
-      "summary": "The US president says he is holding off on a US attack planned for Tuesday as \"serious negotiations are now taking place\".",
+      "summary": "The US president says he is holding off on an attack planned for Tuesday as \"serious negotiations are now taking place\".",
       "published_at": "2026-05-18T22:30:58Z",
       "country_code": "US",
       "country_name": "United States"
@@ -137,7 +155,7 @@
       "country_name": "Thailand"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "Taiwan will not provoke conflict nor give up sovereignty, says president",
       "url": "https://www.bbc.com/news/articles/c7591gq10qko?at_medium=RSS&at_campaign=rss",
       "summary": "Lai Ching-te made his first direct response to Trump and Xi's meeting where they discussed Taiwan independence.",
@@ -726,7 +744,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 23
+      "news_count": 24
     },
     {
       "country_code": "IL",
@@ -744,14 +762,14 @@
       "news_count": 6
     },
     {
-      "country_code": "PS",
-      "country_name": "Palestine",
+      "country_code": "KE",
+      "country_name": "Kenya",
       "news_count": 5
     },
     {
-      "country_code": "KE",
-      "country_name": "Kenya",
-      "news_count": 4
+      "country_code": "PS",
+      "country_name": "Palestine",
+      "news_count": 5
     },
     {
       "country_code": "GB",
