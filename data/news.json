@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-05-19T04:38:22Z",
+  "generated_at": "2026-05-19T08:19:47Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Two dead in Spain shooting, with babies reportedly among injured",
+      "url": "https://www.bbc.com/news/articles/cdrpnzv84gro?at_medium=RSS&at_campaign=rss",
+      "summary": "Police say a 25-year-old man is suspected of killing his parents and injuring four others in southern Spain.",
+      "published_at": "2026-05-19T07:17:15Z",
+      "country_code": "ES",
+      "country_name": "Spain"
+    },
     {
       "source": "BBC World",
       "title": "Trump told Taiwan not to 'go independent' - but does it want to?",
@@ -29,7 +38,16 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Asia",
+      "source": "BBC Europe",
+      "title": "Ex-British soldier imprisoned by Russia says he feels abandoned in occupied Ukraine",
+      "url": "https://www.bbc.com/news/articles/cdxper4k5w1o?at_medium=RSS&at_campaign=rss",
+      "summary": "In letters sent to the BBC from prison, Hayden Davies says he has had no contact with British authorities.",
+      "published_at": "2026-05-18T23:09:42Z",
+      "country_code": "RU",
+      "country_name": "Russia"
+    },
+    {
+      "source": "BBC World",
       "title": "What really holds China and Russia together",
       "url": "https://www.bbc.com/news/articles/c4g8kpkjkl0o?at_medium=RSS&at_campaign=rss",
       "summary": "The relationship endures despite a power imbalance, with both sides recognising that it is too important to fail.",
@@ -54,6 +72,15 @@
       "published_at": "2026-05-18T20:41:34Z",
       "country_code": "US",
       "country_name": "United States"
+    },
+    {
+      "source": "BBC Europe",
+      "title": "Irish president says King 'graciously accepted' state visit invitation to Ireland",
+      "url": "https://www.bbc.com/news/articles/cq6p0r87jl4o?at_medium=RSS&at_campaign=rss",
+      "summary": "It is President Connolly's first official visit to Great Britain since her inauguration in November.",
+      "published_at": "2026-05-18T16:53:22Z",
+      "country_code": "GB",
+      "country_name": "United Kingdom"
     },
     {
       "source": "BBC World",
@@ -146,7 +173,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "Inside the 'kill-zone' on Ukraine's front line, where new weapons have transformed war",
       "url": "https://www.bbc.com/news/articles/c3w2xqj9x13o?at_medium=RSS&at_campaign=rss",
       "summary": "Machines are increasingly replacing humans on the front line, but troops are still vital for defending territory.",
@@ -180,15 +207,6 @@
       "published_at": "2026-05-17T13:57:56Z",
       "country_code": "IT",
       "country_name": "Italy"
-    },
-    {
-      "source": "BBC Europe",
-      "title": "Swatch shuts stores after crowds queue for new watch",
-      "url": "https://www.bbc.com/news/articles/c1d2qldr0yko?at_medium=RSS&at_campaign=rss",
-      "summary": "Hundreds of people queue outside branches across the UK to get the £335 item.",
-      "published_at": "2026-05-17T08:00:06Z",
-      "country_code": "GB",
-      "country_name": "United Kingdom"
     },
     {
       "source": "BBC Europe",
@@ -272,15 +290,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Middle East",
-      "title": "US charges Iraqi with plots to target Jews in cities from London to LA",
-      "url": "https://www.bbc.com/news/articles/c7v918j6nj0o?at_medium=RSS&at_campaign=rss",
-      "summary": "Mohammad Baqer Saad Dawood al-Saadi allegedly \"directed and urged others to attack US and Israeli interests\", in retaliation for the Iran wa…",
-      "published_at": "2026-05-16T00:14:37Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC Asia",
       "title": "From misfit to rap sensation: A 'Reble' storms into Indian hip-hop",
       "url": "https://www.bbc.com/news/articles/c4g0z40xwx7o?at_medium=RSS&at_campaign=rss",
@@ -335,15 +344,6 @@
       "country_name": "Israel"
     },
     {
-      "source": "BBC Europe",
-      "title": "AI vigilante trap snares alleged paedophile ex-teacher in France",
-      "url": "https://www.bbc.com/news/articles/c1m2xg7x0m3o?at_medium=RSS&at_campaign=rss",
-      "summary": "The 66-year-old handed himself in after an influencer used AI to pose as a 14-year-old girl and broadcast their conversation online.",
-      "published_at": "2026-05-15T14:26:27Z",
-      "country_code": "FR",
-      "country_name": "France"
-    },
-    {
       "source": "BBC US & Canada",
       "title": "Watch: What did we learn from Trump's visit to China?",
       "url": "https://www.bbc.com/news/videos/cn8p36jzd7yo?at_medium=RSS&at_campaign=rss",
@@ -351,33 +351,6 @@
       "published_at": "2026-05-15T13:25:23Z",
       "country_code": "CN",
       "country_name": "China"
-    },
-    {
-      "source": "BBC Europe",
-      "title": "Prisoner swap goes ahead as Kyiv mourns 24 killed in Russian strike on flats",
-      "url": "https://www.bbc.com/news/articles/c5y049w8nqwo?at_medium=RSS&at_campaign=rss",
-      "summary": "Among the victims in Kyiv was 12-year-old Lyubava Yakovleva, whose father was killed during the war.",
-      "published_at": "2026-05-15T12:53:57Z",
-      "country_code": "UA",
-      "country_name": "Ukraine"
-    },
-    {
-      "source": "BBC Europe",
-      "title": "Boy, 15, shot dead in France as prosecutors blame drug war",
-      "url": "https://www.bbc.com/news/articles/cj9pze942j8o?at_medium=RSS&at_campaign=rss",
-      "summary": "Prosecutors in Nantes say the shooting was drug-related, but the victim's aunt says he was not involved.",
-      "published_at": "2026-05-15T12:33:56Z",
-      "country_code": "FR",
-      "country_name": "France"
-    },
-    {
-      "source": "BBC Europe",
-      "title": "Why is Ireland not taking part in this year's Eurovision?",
-      "url": "https://www.bbc.com/news/articles/c0e2g5y9wyeo?at_medium=RSS&at_campaign=rss",
-      "summary": "Ireland's boycott is the latest in a series of moves that has seen the country at odds with Israel over its war in Gaza.",
-      "published_at": "2026-05-15T11:41:41Z",
-      "country_code": "IL",
-      "country_name": "Israel"
     },
     {
       "source": "BBC Asia",
@@ -405,15 +378,6 @@
       "published_at": "2026-05-14T20:51:47Z",
       "country_code": "IL",
       "country_name": "Israel"
-    },
-    {
-      "source": "BBC Europe",
-      "title": "'Door is open' for Canada to join Eurovision",
-      "url": "https://www.bbc.com/news/articles/c1k2z1lv4d3o?at_medium=RSS&at_campaign=rss",
-      "summary": "Prime Minister Mark Carney has already floated the idea of Canada joining the song contest.",
-      "published_at": "2026-05-14T17:40:20Z",
-      "country_code": "CA",
-      "country_name": "Canada"
     },
     {
       "source": "BBC US & Canada",
@@ -479,15 +443,6 @@
       "country_name": "Israel"
     },
     {
-      "source": "BBC Middle East",
-      "title": "Netanyahu says he 'secretly visited' UAE during war with Iran",
-      "url": "https://www.bbc.com/news/articles/czj2mnwv1ryo?at_medium=RSS&at_campaign=rss",
-      "summary": "The UAE denied reports of the \"alleged visit\" and insisted relations between the two countries were not based on \"unofficial arrangements\".",
-      "published_at": "2026-05-13T22:30:34Z",
-      "country_code": "AE",
-      "country_name": "United Arab Emirates"
-    },
-    {
       "source": "BBC US & Canada",
       "title": "Canada's Mark Carney speaks with Artemis II crew on Earth",
       "url": "https://www.bbc.com/news/videos/c4g7z2j2mr6o?at_medium=RSS&at_campaign=rss",
@@ -513,15 +468,6 @@
       "published_at": "2026-05-13T14:56:03Z",
       "country_code": "MA",
       "country_name": "Morocco"
-    },
-    {
-      "source": "BBC Europe",
-      "title": "Magnus the wandering walrus swaps Scotland for Norway",
-      "url": "https://www.bbc.com/news/articles/cy82j0q383no?at_medium=RSS&at_campaign=rss",
-      "summary": "The young male - who was named Magnus during his travels - is spotted again after crossing the North Sea.",
-      "published_at": "2026-05-13T09:09:57Z",
-      "country_code": "NO",
-      "country_name": "Norway"
     },
     {
       "source": "BBC Latin America",
@@ -780,12 +726,12 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 24
+      "news_count": 23
     },
     {
       "country_code": "IL",
       "country_name": "Israel",
-      "news_count": 10
+      "news_count": 9
     },
     {
       "country_code": "CN",
@@ -808,28 +754,18 @@
       "news_count": 4
     },
     {
-      "country_code": "CA",
-      "country_name": "Canada",
-      "news_count": 3
-    },
-    {
-      "country_code": "FR",
-      "country_name": "France",
-      "news_count": 3
-    },
-    {
       "country_code": "GB",
       "country_name": "United Kingdom",
       "news_count": 3
     },
     {
-      "country_code": "UA",
-      "country_name": "Ukraine",
+      "country_code": "RU",
+      "country_name": "Russia",
       "news_count": 3
     },
     {
-      "country_code": "AE",
-      "country_name": "United Arab Emirates",
+      "country_code": "CA",
+      "country_name": "Canada",
       "news_count": 2
     },
     {
@@ -843,9 +779,14 @@
       "news_count": 2
     },
     {
-      "country_code": "RU",
-      "country_name": "Russia",
+      "country_code": "UA",
+      "country_name": "Ukraine",
       "news_count": 2
+    },
+    {
+      "country_code": "AE",
+      "country_name": "United Arab Emirates",
+      "news_count": 1
     },
     {
       "country_code": "AU",
@@ -863,6 +804,16 @@
       "news_count": 1
     },
     {
+      "country_code": "ES",
+      "country_name": "Spain",
+      "news_count": 1
+    },
+    {
+      "country_code": "FR",
+      "country_name": "France",
+      "news_count": 1
+    },
+    {
       "country_code": "IN",
       "country_name": "India",
       "news_count": 1
@@ -875,11 +826,6 @@
     {
       "country_code": "NG",
       "country_name": "Nigeria",
-      "news_count": 1
-    },
-    {
-      "country_code": "NO",
-      "country_name": "Norway",
       "news_count": 1
     },
     {
