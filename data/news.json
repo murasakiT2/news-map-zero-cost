@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-05-20T06:30:37Z",
+  "generated_at": "2026-05-20T10:17:51Z",
   "articles": [
+    {
+      "source": "BBC Europe",
+      "title": "UK loosens Russian oil sanctions as fuel prices rise",
+      "url": "https://www.bbc.com/news/articles/cy42x3g7r89o?at_medium=RSS&at_campaign=rss",
+      "summary": "The waiver reflects increasing supply concerns over certain fuels due to the effective blockade of the Strait of Hormuz.",
+      "published_at": "2026-05-20T08:13:07Z",
+      "country_code": "GB",
+      "country_name": "United Kingdom"
+    },
+    {
+      "source": "BBC World",
+      "title": "Nigeria arrests former minister in hiding after corruption conviction",
+      "url": "https://www.bbc.com/news/articles/cdjpn378mvvo?at_medium=RSS&at_campaign=rss",
+      "summary": "The former power minister was sentenced to 75 years in jail in absentia earlier this month.",
+      "published_at": "2026-05-20T08:04:03Z",
+      "country_code": "NG",
+      "country_name": "Nigeria"
+    },
+    {
+      "source": "BBC Asia",
+      "title": "Norwegian journalist's question to Modi sparks controversy in India",
+      "url": "https://www.bbc.com/news/articles/cwy2w9w9n80o?at_medium=RSS&at_campaign=rss",
+      "summary": "Journalist Helle Lyng faced an online backlash after asking Modi why he does not take questions from the press.",
+      "published_at": "2026-05-20T08:00:08Z",
+      "country_code": "IN",
+      "country_name": "India"
+    },
+    {
+      "source": "BBC Europe",
+      "title": "Are Putin and Xi best friends?",
+      "url": "https://www.bbc.com/news/videos/cx21lkd1r53o?at_medium=RSS&at_campaign=rss",
+      "summary": "Two BBC correspondents break down the China-Russia relationship.",
+      "published_at": "2026-05-20T05:24:07Z",
+      "country_code": "CN",
+      "country_name": "China"
+    },
     {
       "source": "BBC Asia",
       "title": "China confirms it will buy 200 Boeing jets after Trump-Xi summit",
@@ -11,13 +47,22 @@
       "country_name": "China"
     },
     {
-      "source": "BBC Asia",
+      "source": "BBC World",
       "title": "Man who murdered teen TikTok star in Pakistan gets death sentence",
       "url": "https://www.bbc.com/news/articles/cvgzrgm0rgvo?at_medium=RSS&at_campaign=rss",
       "summary": "Sana Yousaf's murder highlights a pattern of violence against women in Pakistan, activists say.",
       "published_at": "2026-05-20T01:52:24Z",
       "country_code": "PK",
       "country_name": "Pakistan"
+    },
+    {
+      "source": "BBC Asia",
+      "title": "Are Putin and Xi best friends? BBC breaks down their relationship",
+      "url": "https://www.bbc.com/news/videos/ce9p1kyedy7o?at_medium=RSS&at_campaign=rss",
+      "summary": "Laura Bicker and Steven Rosenberg explain the relationship between the leaders as the pair meet in Beijing.",
+      "published_at": "2026-05-19T23:51:23Z",
+      "country_code": "CN",
+      "country_name": "China"
     },
     {
       "source": "BBC Middle East",
@@ -29,6 +74,15 @@
       "country_name": "Palestine"
     },
     {
+      "source": "BBC Latin America",
+      "title": "Watch key moments from BBC's interview with pardoned Honduran ex-president",
+      "url": "https://www.bbc.com/news/videos/crlp5590rgzo?at_medium=RSS&at_campaign=rss",
+      "summary": "Juan Orlando Hernández was controversially pardoned by Trump in December while serving a 45-year prison sentence in the US for drug traffick…",
+      "published_at": "2026-05-19T20:07:53Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
       "source": "BBC World",
       "title": "Singer Patrick Bruel denies wave of sexual assault allegations in France",
       "url": "https://www.bbc.com/news/articles/cjwpyzwn7epo?at_medium=RSS&at_campaign=rss",
@@ -38,7 +92,16 @@
       "country_name": "France"
     },
     {
-      "source": "BBC US & Canada",
+      "source": "BBC Latin America",
+      "title": "Secret mission to ship uranium from Venezuela",
+      "url": "https://www.bbc.com/news/videos/ce8pq5p5l17o?at_medium=RSS&at_campaign=rss",
+      "summary": "Satellite images reveal how a joint mission shipped uranium from Venezuela to the US.",
+      "published_at": "2026-05-19T18:37:53Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC Europe",
       "title": "Three Canadian off-duty officers arrested in Spain over 'serious' allegations",
       "url": "https://www.bbc.com/news/articles/c8e8983kjy5o?at_medium=RSS&at_campaign=rss",
       "summary": "The officers were vacationing in Barcelona, Spain, and not on official duties, Toronto Police Service said.",
@@ -128,7 +191,7 @@
       "country_name": "Spain"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "Trump told Taiwan not to 'go independent' - but does it want to?",
       "url": "https://www.bbc.com/news/articles/clyp9mk3mrgo?at_medium=RSS&at_campaign=rss",
       "summary": "Taiwan independence is the reddest of red lines for China, which claims the island as its own.",
@@ -155,7 +218,7 @@
       "country_name": "China"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Middle East",
       "title": "Trump says he called off new Iran attack at request of Gulf states",
       "url": "https://www.bbc.com/news/articles/c7079e55zjro?at_medium=RSS&at_campaign=rss",
       "summary": "The US president says he is holding off on an attack planned for Tuesday as \"serious negotiations are now taking place\".",
@@ -173,25 +236,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Europe",
-      "title": "Irish president says King 'graciously accepted' state visit invitation to Ireland",
-      "url": "https://www.bbc.com/news/articles/cq6p0r87jl4o?at_medium=RSS&at_campaign=rss",
-      "summary": "It is President Connolly's first official visit to Great Britain since her inauguration in November.",
-      "published_at": "2026-05-18T16:53:22Z",
-      "country_code": "GB",
-      "country_name": "United Kingdom"
-    },
-    {
-      "source": "BBC World",
-      "title": "Four killed in protests during Kenyan strikes over high fuel prices",
-      "url": "https://www.bbc.com/news/articles/cm2p0n44drvo?at_medium=RSS&at_campaign=rss",
-      "summary": "Thousands of commuters are stranded, with key roads in the capital Nairobi largely empty due to the protests over fuel costs.",
-      "published_at": "2026-05-18T16:49:45Z",
-      "country_code": "KE",
-      "country_name": "Kenya"
-    },
-    {
-      "source": "BBC World",
+      "source": "BBC Middle East",
       "title": "Death toll from Israeli strikes on Lebanon passes 3,000, officials say",
       "url": "https://www.bbc.com/news/articles/cqjpglyjwjeo?at_medium=RSS&at_campaign=rss",
       "summary": "It marks a grim milestone in the conflict between Israel and the Lebanese armed group Hezbollah since March, despite a nominal ceasefire.",
@@ -200,7 +245,7 @@
       "country_name": "Israel"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "Two men arrested over stunt at enclosure of famous monkey Punch",
       "url": "https://www.bbc.com/news/articles/cr5pz4jvlp5o?at_medium=RSS&at_campaign=rss",
       "summary": "Two US nationals have been arrested after one jumped the fence of the monkey, who went viral online, police say.",
@@ -236,16 +281,7 @@
       "country_name": "Thailand"
     },
     {
-      "source": "BBC Asia",
-      "title": "Taiwan will not provoke conflict nor give up sovereignty, says president",
-      "url": "https://www.bbc.com/news/articles/c7591gq10qko?at_medium=RSS&at_campaign=rss",
-      "summary": "Lai Ching-te made his first direct response to Trump and Xi's meeting where they discussed Taiwan independence.",
-      "published_at": "2026-05-18T03:08:13Z",
-      "country_code": "TW",
-      "country_name": "Taiwan"
-    },
-    {
-      "source": "BBC US & Canada",
+      "source": "BBC World",
       "title": "Moment two fighter jets collide mid-air at US air show",
       "url": "https://www.bbc.com/news/videos/ce8pzkg7klgo?at_medium=RSS&at_campaign=rss",
       "summary": "Four crew members safely ejected from US Navy jets and are in a stable condition after the collision.",
@@ -263,7 +299,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "Inside the 'kill-zone' on Ukraine's front line, where new weapons have transformed war",
       "url": "https://www.bbc.com/news/articles/c3w2xqj9x13o?at_medium=RSS&at_campaign=rss",
       "summary": "Machines are increasingly replacing humans on the front line, but troops are still vital for defending territory.",
@@ -279,24 +315,6 @@
       "published_at": "2026-05-17T20:53:45Z",
       "country_code": "AE",
       "country_name": "United Arab Emirates"
-    },
-    {
-      "source": "BBC Europe",
-      "title": "Large-scale Ukrainian drone attack kills three in Moscow region, says Russia",
-      "url": "https://www.bbc.com/news/articles/c5ye480kxpmo?at_medium=RSS&at_campaign=rss",
-      "summary": "Ukraine's president says the strikes are a \"justified\" response to deadly Russian attacks on Ukrainian cities.",
-      "published_at": "2026-05-17T14:18:23Z",
-      "country_code": "RU",
-      "country_name": "Russia"
-    },
-    {
-      "source": "BBC Europe",
-      "title": "Man drives car into pedestrians in Italy, injuring eight",
-      "url": "https://www.bbc.com/news/articles/cyv28pd4n22o?at_medium=RSS&at_campaign=rss",
-      "summary": "Eight people were injured, four seriously, before passers-by gave chase and stopped the man.",
-      "published_at": "2026-05-17T13:57:56Z",
-      "country_code": "IT",
-      "country_name": "Italy"
     },
     {
       "source": "BBC Europe",
@@ -324,15 +342,6 @@
       "published_at": "2026-05-16T22:27:44Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC Africa",
-      "title": "Toddlers among more than 50 schoolchildren kidnapped in Nigeria",
-      "url": "https://www.bbc.com/news/articles/c202vrxlwqgo?at_medium=RSS&at_campaign=rss",
-      "summary": "No group has yet claimed responsibility for the attacks, which have devastated Mussa town in Borno state.",
-      "published_at": "2026-05-16T15:50:09Z",
-      "country_code": "NG",
-      "country_name": "Nigeria"
     },
     {
       "source": "BBC Middle East",
@@ -398,15 +407,6 @@
       "country_name": "China"
     },
     {
-      "source": "BBC Middle East",
-      "title": "New York Times defends journalist after Israel threatens to sue",
-      "url": "https://www.bbc.com/news/articles/c9wedpk155jo?at_medium=RSS&at_campaign=rss",
-      "summary": "Israel's prime minister says he has ordered legal action over an article which alleged Israeli security officials raped Palestinian detainee…",
-      "published_at": "2026-05-15T16:30:31Z",
-      "country_code": "IL",
-      "country_name": "Israel"
-    },
-    {
       "source": "BBC US & Canada",
       "title": "Watch: What did we learn from Trump's visit to China?",
       "url": "https://www.bbc.com/news/videos/cn8p36jzd7yo?at_medium=RSS&at_campaign=rss",
@@ -461,15 +461,6 @@
       "country_name": "Israel"
     },
     {
-      "source": "BBC Middle East",
-      "title": "'Floating armoury' ship reportedly seized by Iran",
-      "url": "https://www.bbc.com/news/articles/cx219xwxg9no?at_medium=RSS&at_campaign=rss",
-      "summary": "A vessel said to be a “floating armoury” in the Gulf of Oman has been seized by Iranian military personnel, according to reports.",
-      "published_at": "2026-05-14T13:33:20Z",
-      "country_code": "IR",
-      "country_name": "Iran"
-    },
-    {
       "source": "BBC Europe",
       "title": "Watch: BBC at Kyiv block of flats hit by Russian drone strike",
       "url": "https://www.bbc.com/news/videos/cd6pnle9zngo?at_medium=RSS&at_campaign=rss",
@@ -520,15 +511,6 @@
       "url": "https://www.bbc.com/news/articles/c4g8318v4yzo?at_medium=RSS&at_campaign=rss",
       "summary": "The UK, US and EU are asking all citizens returning home from the virus-hit MV Hondius to self-isolate for about six weeks.",
       "published_at": "2026-05-13T08:36:54Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC Asia",
-      "title": "A decade on, Trump returns to a stronger and more assertive China",
-      "url": "https://www.bbc.com/news/articles/cm2py6l78dxo?at_medium=RSS&at_campaign=rss",
-      "summary": "Beijing is arguably the most powerful competitor the US has confronted in its history, one analyst says.",
-      "published_at": "2026-05-12T22:07:51Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -753,27 +735,17 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 21
-    },
-    {
-      "country_code": "IL",
-      "country_name": "Israel",
-      "news_count": 9
+      "news_count": 22
     },
     {
       "country_code": "CN",
       "country_name": "China",
-      "news_count": 6
+      "news_count": 8
     },
     {
-      "country_code": "IR",
-      "country_name": "Iran",
-      "news_count": 6
-    },
-    {
-      "country_code": "KE",
-      "country_name": "Kenya",
-      "news_count": 6
+      "country_code": "IL",
+      "country_name": "Israel",
+      "news_count": 8
     },
     {
       "country_code": "GB",
@@ -781,14 +753,19 @@
       "news_count": 5
     },
     {
-      "country_code": "PS",
-      "country_name": "Palestine",
+      "country_code": "IR",
+      "country_name": "Iran",
       "news_count": 5
     },
     {
-      "country_code": "RU",
-      "country_name": "Russia",
-      "news_count": 3
+      "country_code": "KE",
+      "country_name": "Kenya",
+      "news_count": 5
+    },
+    {
+      "country_code": "PS",
+      "country_name": "Palestine",
+      "news_count": 5
     },
     {
       "country_code": "DE",
@@ -806,8 +783,13 @@
       "news_count": 2
     },
     {
-      "country_code": "IT",
-      "country_name": "Italy",
+      "country_code": "IN",
+      "country_name": "India",
+      "news_count": 2
+    },
+    {
+      "country_code": "RU",
+      "country_name": "Russia",
       "news_count": 2
     },
     {
@@ -831,8 +813,8 @@
       "news_count": 1
     },
     {
-      "country_code": "IN",
-      "country_name": "India",
+      "country_code": "IT",
+      "country_name": "Italy",
       "news_count": 1
     },
     {
@@ -863,11 +845,6 @@
     {
       "country_code": "TH",
       "country_name": "Thailand",
-      "news_count": 1
-    },
-    {
-      "country_code": "TW",
-      "country_name": "Taiwan",
       "news_count": 1
     },
     {
