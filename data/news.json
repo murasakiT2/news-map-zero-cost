@@ -1,14 +1,32 @@
 {
-  "generated_at": "2026-05-20T18:37:34Z",
+  "generated_at": "2026-05-20T20:56:23Z",
   "articles": [
     {
       "source": "BBC World",
       "title": "Far-right Israeli minister condemned for taunting handcuffed Gaza flotilla activists",
       "url": "https://www.bbc.com/news/articles/clyp32weyn8o?at_medium=RSS&at_campaign=rss",
       "summary": "France and Italy are among the countries that have criticised a video showing Itamar Ben-Gvir taunting dozens of activists detained at an Is…",
-      "published_at": "2026-05-20T17:58:07Z",
+      "published_at": "2026-05-20T20:17:51Z",
       "country_code": "FR",
       "country_name": "France"
+    },
+    {
+      "source": "BBC World",
+      "title": "US charges Cuba's Raúl Castro with murder over 1996 downing of two planes",
+      "url": "https://www.bbc.com/news/articles/c3r219yxl5eo?at_medium=RSS&at_campaign=rss",
+      "summary": "Castro and five others are charged with conspiracy to kill US nationals, murder, and destruction of aircraft",
+      "published_at": "2026-05-20T20:11:02Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Austrian ex-intelligence officer found guilty of Russia spying charges",
+      "url": "https://www.bbc.com/news/articles/cwy21541dz4o?at_medium=RSS&at_campaign=rss",
+      "summary": "The spy scandal has revived fears that Austria remains a hotbed of Russian espionage activity.",
+      "published_at": "2026-05-20T19:30:07Z",
+      "country_code": "RU",
+      "country_name": "Russia"
     },
     {
       "source": "BBC Africa",
@@ -39,6 +57,15 @@
     },
     {
       "source": "BBC World",
+      "title": "Could a football match soften North Korea-South Korea relations?",
+      "url": "https://www.bbc.com/news/videos/clypmgl80z7o?at_medium=RSS&at_campaign=rss",
+      "summary": "A North Korean women's football team played in South Korea marking the first time athletes from the North have crossed the border in nearly …",
+      "published_at": "2026-05-20T15:58:01Z",
+      "country_code": "KR",
+      "country_name": "South Korea"
+    },
+    {
+      "source": "BBC World",
       "title": "US military jets and drones tracked near Cuba as tensions rise",
       "url": "https://www.bbc.com/news/articles/cjep1wx7w0ko?at_medium=RSS&at_campaign=rss",
       "summary": "Tracking data shows several flights by US Navy reconnaissance jets and drones during the last week.",
@@ -50,7 +77,7 @@
       "source": "BBC World",
       "title": "Barney Frank: One of the first openly gay US congressmen dies aged 86",
       "url": "https://www.bbc.com/news/articles/ckgpy2ze3q1o?at_medium=RSS&at_campaign=rss",
-      "summary": "After a decades-long career in Congress, he spent his final weeks at his home in Maine living in hospice.",
+      "summary": "After a decades-long career in Congress, he spent his final weeks in hospice care at his home in Maine.",
       "published_at": "2026-05-20T15:33:12Z",
       "country_code": "US",
       "country_name": "United States"
@@ -317,7 +344,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "Moment two fighter jets collide mid-air at US air show",
       "url": "https://www.bbc.com/news/videos/ce8pzkg7klgo?at_medium=RSS&at_campaign=rss",
       "summary": "Four crew members safely ejected from US Navy jets and are in a stable condition after the collision.",
@@ -353,7 +380,7 @@
       "country_name": "United Arab Emirates"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "Lights, camera, Bangaranga: Highlights from Eurovision",
       "url": "https://www.bbc.com/news/videos/cj3pznr0zr4o?at_medium=RSS&at_campaign=rss",
       "summary": "Bulgarian singer Dara stormed to victory in the contest, while Ukraine broke the record for the longest note ever sung at Eurovision.",
@@ -434,15 +461,6 @@
       "country_name": "China"
     },
     {
-      "source": "BBC US & Canada",
-      "title": "US hotel owners expected a World Cup boom - so far it hasn't happened",
-      "url": "https://www.bbc.com/news/articles/cn0p2532xn4o?at_medium=RSS&at_campaign=rss",
-      "summary": "An industry body survey found hotels in World Cup host cities see the tournament as a \"non-event\".",
-      "published_at": "2026-05-15T05:01:55Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC Middle East",
       "title": "BBC on the ground during march through Jerusalem's Old City",
       "url": "https://www.bbc.com/news/videos/cdxp0143q0po?at_medium=RSS&at_campaign=rss",
@@ -450,15 +468,6 @@
       "published_at": "2026-05-14T20:51:47Z",
       "country_code": "IL",
       "country_name": "Israel"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "In pictures: Trump hosted by Xi Jinping in Beijing on two-day summit",
-      "url": "https://www.bbc.com/news/articles/cdxp0g4q3q2o?at_medium=RSS&at_campaign=rss",
-      "summary": "President Trump was welcomed by President Xi Jinping in Beijing for what will be a whirlwind tour.",
-      "published_at": "2026-05-14T14:55:44Z",
-      "country_code": "CN",
-      "country_name": "China"
     },
     {
       "source": "BBC Africa",
@@ -486,15 +495,6 @@
       "published_at": "2026-05-14T11:46:36Z",
       "country_code": "RU",
       "country_name": "Russia"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "What to know as Trump visits Xi in China",
-      "url": "https://www.bbc.com/news/articles/cyv2n7l1z14o?at_medium=RSS&at_campaign=rss",
-      "summary": "Trump has landed in Beijing for the first visit by a US leader since his own in 2017.",
-      "published_at": "2026-05-14T09:05:31Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC Middle East",
@@ -726,12 +726,12 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 23
+      "news_count": 22
     },
     {
       "country_code": "CN",
       "country_name": "China",
-      "news_count": 10
+      "news_count": 9
     },
     {
       "country_code": "IL",
@@ -764,13 +764,13 @@
       "news_count": 3
     },
     {
-      "country_code": "IN",
-      "country_name": "India",
-      "news_count": 2
-    },
-    {
       "country_code": "RU",
       "country_name": "Russia",
+      "news_count": 3
+    },
+    {
+      "country_code": "IN",
+      "country_name": "India",
       "news_count": 2
     },
     {
@@ -801,6 +801,11 @@
     {
       "country_code": "IT",
       "country_name": "Italy",
+      "news_count": 1
+    },
+    {
+      "country_code": "KR",
+      "country_name": "South Korea",
       "news_count": 1
     },
     {
