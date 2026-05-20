@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-05-20T02:10:55Z",
+  "generated_at": "2026-05-20T06:30:37Z",
   "articles": [
+    {
+      "source": "BBC Asia",
+      "title": "China confirms it will buy 200 Boeing jets after Trump-Xi summit",
+      "url": "https://www.bbc.com/news/articles/c98rjydlgp4o?at_medium=RSS&at_campaign=rss",
+      "summary": "The two sides will also work towards an extension to the tariffs truce they agreed in October, China's Commerce Ministry said.",
+      "published_at": "2026-05-20T04:59:40Z",
+      "country_code": "CN",
+      "country_name": "China"
+    },
+    {
+      "source": "BBC Asia",
+      "title": "Man who murdered teen TikTok star in Pakistan gets death sentence",
+      "url": "https://www.bbc.com/news/articles/cvgzrgm0rgvo?at_medium=RSS&at_campaign=rss",
+      "summary": "Sana Yousaf's murder highlights a pattern of violence against women in Pakistan, activists say.",
+      "published_at": "2026-05-20T01:52:24Z",
+      "country_code": "PK",
+      "country_name": "Pakistan"
+    },
     {
       "source": "BBC Middle East",
       "title": "Israeli forces board Gaza-bound flotilla near Cyprus, activists say",
@@ -398,15 +416,6 @@
       "country_name": "China"
     },
     {
-      "source": "BBC Asia",
-      "title": "Former China hawk elected Solomon Islands' leader",
-      "url": "https://www.bbc.com/news/articles/cd6p3v8eyglo?at_medium=RSS&at_campaign=rss",
-      "summary": "Vote comes a week after lawmakers ousted the nation's former pro-China prime minister.",
-      "published_at": "2026-05-15T06:23:31Z",
-      "country_code": "CN",
-      "country_name": "China"
-    },
-    {
       "source": "BBC US & Canada",
       "title": "US hotel owners expected a World Cup boom - so far it hasn't happened",
       "url": "https://www.bbc.com/news/articles/cn0p2532xn4o?at_medium=RSS&at_campaign=rss",
@@ -522,15 +531,6 @@
       "published_at": "2026-05-12T22:07:51Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC Asia",
-      "title": "Australia has some of the world's costliest homes. Will scrapping tax breaks help?",
-      "url": "https://www.bbc.com/news/articles/cd7p88j84j3o?at_medium=RSS&at_campaign=rss",
-      "summary": "The government hopes reforms will help young people enter the market, while critics say it will stifle supply.",
-      "published_at": "2026-05-12T20:28:03Z",
-      "country_code": "AU",
-      "country_name": "Australia"
     },
     {
       "source": "BBC Africa",
@@ -821,11 +821,6 @@
       "news_count": 1
     },
     {
-      "country_code": "AU",
-      "country_name": "Australia",
-      "news_count": 1
-    },
-    {
       "country_code": "BR",
       "country_name": "Brazil",
       "news_count": 1
@@ -853,6 +848,11 @@
     {
       "country_code": "NG",
       "country_name": "Nigeria",
+      "news_count": 1
+    },
+    {
+      "country_code": "PK",
+      "country_name": "Pakistan",
       "news_count": 1
     },
     {
