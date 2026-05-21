@@ -1,9 +1,18 @@
 {
-  "generated_at": "2026-05-21T21:57:28Z",
+  "generated_at": "2026-05-21T22:59:41Z",
   "articles": [
     {
+      "source": "BBC US & Canada",
+      "title": "US-bound plane diverts to Canada after person from Ebola-hit region boards 'in error'",
+      "url": "https://www.bbc.com/news/articles/c0m2k79mv2ko?at_medium=RSS&at_campaign=rss",
+      "summary": "Officials did not specify if the passenger, who was coming from the Democratic Republic of Congo, was showing symptoms of the virus.",
+      "published_at": "2026-05-21T22:28:39Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
       "source": "BBC World",
-      "title": "Cuba is a national security threat to the US, Rubio says",
+      "title": "Rubio says Cuba is threat to US as Havana accuses him of 'lies'",
       "url": "https://www.bbc.com/news/articles/ckgpzwkn5jko?at_medium=RSS&at_campaign=rss",
       "summary": "Cuba's foreign minister accused Rubio of trying to \"instigate a military aggression\".",
       "published_at": "2026-05-21T21:44:55Z",
@@ -34,15 +43,6 @@
       "url": "https://www.bbc.com/news/articles/cj9prkzwr8vo?at_medium=RSS&at_campaign=rss",
       "summary": "The retail giant said it expects customers to cut back in the coming months due to higher pump prices.",
       "published_at": "2026-05-21T18:08:17Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "Russia and China condemn US over indictment of former Cuban leader",
-      "url": "https://www.bbc.com/news/articles/clype0x7pkgo?at_medium=RSS&at_campaign=rss",
-      "summary": "It comes after the US charged Raúl Castro with murder, the latest move putting pressure on the regime.",
-      "published_at": "2026-05-21T17:11:26Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -81,15 +81,6 @@
       "published_at": "2026-05-21T14:37:29Z",
       "country_code": "IR",
       "country_name": "Iran"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "US-bound plane diverts to Canada after person from Ebola-hit region boards 'in error'",
-      "url": "https://www.bbc.com/news/articles/c0m2k79mv2ko?at_medium=RSS&at_campaign=rss",
-      "summary": "Officials did not specify if the passenger, who was coming from the Democratic Republic of Congo, was showing symptoms of the virus.",
-      "published_at": "2026-05-21T13:44:54Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC Asia",
@@ -690,7 +681,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 23
+      "news_count": 22
     },
     {
       "country_code": "CN",
