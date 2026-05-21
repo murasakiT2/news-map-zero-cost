@@ -1,23 +1,50 @@
 {
-  "generated_at": "2026-05-21T13:44:09Z",
+  "generated_at": "2026-05-21T16:33:46Z",
   "articles": [
     {
       "source": "BBC World",
-      "title": "Gaza flotilla activists set for deportation from Israel as backlash over treatment grows",
+      "title": "Gaza flotilla activists deported from Israel as backlash over treatment grows",
       "url": "https://www.bbc.com/news/articles/c9d3v2d6p1eo?at_medium=RSS&at_campaign=rss",
-      "summary": "Activists have begun to leave Israel after international outrage over their treatment in detention.",
-      "published_at": "2026-05-21T13:08:42Z",
-      "country_code": "IL",
-      "country_name": "Israel"
+      "summary": "On Thursday, the UK confirmed it had summoned Israel's top diplomat in Britain to express its \"condemnation\" of the incident.",
+      "published_at": "2026-05-21T16:08:34Z",
+      "country_code": "GB",
+      "country_name": "United Kingdom"
     },
     {
       "source": "BBC World",
       "title": "Air France and Airbus found guilty of manslaughter over 2009 plane crash",
       "url": "https://www.bbc.com/news/articles/czd2qmdvmq6o?at_medium=RSS&at_campaign=rss",
       "summary": "The companies were found guilty by a French court over an air disaster which killed 228 people.",
-      "published_at": "2026-05-21T13:07:02Z",
+      "published_at": "2026-05-21T15:58:46Z",
       "country_code": "FR",
       "country_name": "France"
+    },
+    {
+      "source": "BBC World",
+      "title": "Walmart warns US shoppers are cutting spending as higher petrol prices bite",
+      "url": "https://www.bbc.com/news/articles/cj9prkzwr8vo?at_medium=RSS&at_campaign=rss",
+      "summary": "The retail giant said it expects customers to cut back in the coming months due to higher gas prices.",
+      "published_at": "2026-05-21T15:42:00Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Iran steps up claim to control Strait of Hormuz",
+      "url": "https://www.bbc.com/news/articles/cq5py64gvwzo?at_medium=RSS&at_campaign=rss",
+      "summary": "Iran publishes a map claiming \"armed forces oversight\" across more than 22,000 sq km of the waterway.",
+      "published_at": "2026-05-21T14:37:29Z",
+      "country_code": "IR",
+      "country_name": "Iran"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "US-bound plane diverts to Canada after person from Ebola-hit region boards 'in error'",
+      "url": "https://www.bbc.com/news/articles/c0m2k79mv2ko?at_medium=RSS&at_campaign=rss",
+      "summary": "Officials did not specify if the passenger, who was coming from the Democratic Republic of Congo, was showing symptoms of the virus.",
+      "published_at": "2026-05-21T13:44:54Z",
+      "country_code": "US",
+      "country_name": "United States"
     },
     {
       "source": "BBC World",
@@ -101,7 +128,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC US & Canada",
+      "source": "BBC Latin America",
       "title": "US charges Cuba's Raúl Castro with murder over 1996 downing of two planes",
       "url": "https://www.bbc.com/news/articles/c3r219yxl5eo?at_medium=RSS&at_campaign=rss",
       "summary": "Cuba's current president says the charges against Castro - including conspiracy to kill US nationals and destruction of aircraft - are a \"po…",
@@ -218,15 +245,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC US & Canada",
-      "title": "US groups urge investigation into child safety and spending on Roblox",
-      "url": "https://www.bbc.com/news/articles/cgqpz809e7lo?at_medium=RSS&at_campaign=rss",
-      "summary": "Roblox said it had \"clear policies\" banning actual and simulated gambling, as well as rules governing paid random items.",
-      "published_at": "2026-05-20T10:27:50Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC World",
       "title": "Nigeria arrests former minister in hiding after corruption conviction",
       "url": "https://www.bbc.com/news/articles/cdjpn378mvvo?at_medium=RSS&at_campaign=rss",
@@ -243,15 +261,6 @@
       "published_at": "2026-05-20T08:00:08Z",
       "country_code": "IN",
       "country_name": "India"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "Deputy British ambassador to US abruptly leaves post",
-      "url": "https://www.bbc.com/news/articles/c0520j079n2o?at_medium=RSS&at_campaign=rss",
-      "summary": "Until his sudden departure, James Roscoe held one the most senior, high-profile roles in the British diplomatic service",
-      "published_at": "2026-05-20T05:45:11Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC Europe",
@@ -423,15 +432,6 @@
       "published_at": "2026-05-17T02:00:44Z",
       "country_code": "UA",
       "country_name": "Ukraine"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "What is a 'safe death'? Mentally ill woman asks for assisted dying in Canada",
-      "url": "https://www.bbc.com/news/articles/c78qzpg0n0go?at_medium=RSS&at_campaign=rss",
-      "summary": "Canada has twice delayed access to medically assisted dying for those with mental illness. Claire Brosseau says she cannot wait any longer a…",
-      "published_at": "2026-05-15T23:04:41Z",
-      "country_code": "CA",
-      "country_name": "Canada"
     },
     {
       "source": "BBC Middle East",
@@ -662,24 +662,24 @@
       "news_count": 7
     },
     {
-      "country_code": "IL",
-      "country_name": "Israel",
+      "country_code": "IR",
+      "country_name": "Iran",
       "news_count": 7
     },
     {
-      "country_code": "IR",
-      "country_name": "Iran",
+      "country_code": "IL",
+      "country_name": "Israel",
       "news_count": 6
+    },
+    {
+      "country_code": "GB",
+      "country_name": "United Kingdom",
+      "news_count": 5
     },
     {
       "country_code": "RU",
       "country_name": "Russia",
       "news_count": 5
-    },
-    {
-      "country_code": "GB",
-      "country_name": "United Kingdom",
-      "news_count": 4
     },
     {
       "country_code": "KE",
@@ -714,11 +714,6 @@
     {
       "country_code": "AU",
       "country_name": "Australia",
-      "news_count": 1
-    },
-    {
-      "country_code": "CA",
-      "country_name": "Canada",
       "news_count": 1
     },
     {
