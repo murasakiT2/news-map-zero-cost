@@ -1,14 +1,50 @@
 {
-  "generated_at": "2026-05-21T16:33:46Z",
+  "generated_at": "2026-05-21T18:51:49Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Pair arrested after boys abandoned by road in Portugal",
+      "url": "https://www.bbc.com/news/articles/c9wex9v57ndo?at_medium=RSS&at_campaign=rss",
+      "summary": "The children were carrying backpacks with food and water but no identity documents when they were found by a driver.",
+      "published_at": "2026-05-21T18:32:30Z",
+      "country_code": "PT",
+      "country_name": "Portugal"
+    },
+    {
+      "source": "BBC World",
+      "title": "Walmart warns US shoppers are cutting spending as higher petrol prices bite",
+      "url": "https://www.bbc.com/news/articles/cj9prkzwr8vo?at_medium=RSS&at_campaign=rss",
+      "summary": "The retail giant said it expects customers to cut back in the coming months due to higher pump prices.",
+      "published_at": "2026-05-21T18:08:17Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Russia and China condemn US over indictment of former Cuban leader",
+      "url": "https://www.bbc.com/news/articles/clype0x7pkgo?at_medium=RSS&at_campaign=rss",
+      "summary": "It comes after the US charged Raúl Castro with murder, the latest move putting pressure on the regime.",
+      "published_at": "2026-05-21T17:11:26Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "Why this year's Atlantic hurricane season could produce fewer big storms",
+      "url": "https://www.bbc.com/weather/articles/cg5pg9prp3go?at_medium=RSS&at_campaign=rss",
+      "summary": "US forecasters say 2026 is likely to produce fewer named storms than normal but warn it only takes one hurricane to cause devastation, as Be…",
+      "published_at": "2026-05-21T17:08:07Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "Gaza flotilla activists deported from Israel as backlash over treatment grows",
       "url": "https://www.bbc.com/news/articles/c9d3v2d6p1eo?at_medium=RSS&at_campaign=rss",
-      "summary": "On Thursday, the UK confirmed it had summoned Israel's top diplomat in Britain to express its \"condemnation\" of the incident.",
+      "summary": "A video showing a far-right Israeli minister taunting activists who were kneeling with their hands tied behind their backs has been widely c…",
       "published_at": "2026-05-21T16:08:34Z",
-      "country_code": "GB",
-      "country_name": "United Kingdom"
+      "country_code": "IL",
+      "country_name": "Israel"
     },
     {
       "source": "BBC World",
@@ -18,15 +54,6 @@
       "published_at": "2026-05-21T15:58:46Z",
       "country_code": "FR",
       "country_name": "France"
-    },
-    {
-      "source": "BBC World",
-      "title": "Walmart warns US shoppers are cutting spending as higher petrol prices bite",
-      "url": "https://www.bbc.com/news/articles/cj9prkzwr8vo?at_medium=RSS&at_campaign=rss",
-      "summary": "The retail giant said it expects customers to cut back in the coming months due to higher gas prices.",
-      "published_at": "2026-05-21T15:42:00Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC World",
@@ -52,15 +79,6 @@
       "url": "https://www.bbc.com/news/articles/c78qv3w4xzqo?at_medium=RSS&at_campaign=rss",
       "summary": "It comes as the US weighs whether to proceed with a $14bn arms sales to Taiwan, which China claims as its own.",
       "published_at": "2026-05-21T13:01:32Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "China says US should stop 'threats' against Cuba after ex-leader charged",
-      "url": "https://www.bbc.com/news/articles/clype0x7pkgo?at_medium=RSS&at_campaign=rss",
-      "summary": "It comes after the US charged Cuba's ex-leader with murder, the latest move putting pressure on the regime.",
-      "published_at": "2026-05-21T11:22:18Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -218,15 +236,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Europe",
-      "title": "UK waters down new Russian oil sanctions as fuel prices rise",
-      "url": "https://www.bbc.com/news/articles/cy42x3g7r89o?at_medium=RSS&at_campaign=rss",
-      "summary": "The change reflects increasing supply concerns over certain fuels due to the effective blockade of the Strait of Hormuz.",
-      "published_at": "2026-05-20T13:45:49Z",
-      "country_code": "GB",
-      "country_name": "United Kingdom"
-    },
-    {
       "source": "BBC Asia",
       "title": "Watch: Did Trump and Putin get the same treatment in China?",
       "url": "https://www.bbc.com/news/videos/ce8prm60yx0o?at_medium=RSS&at_campaign=rss",
@@ -335,7 +344,7 @@
       "country_name": "United Kingdom"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "Thailand cuts visa-free stay period for more than 90 countries including UK",
       "url": "https://www.bbc.com/news/articles/c78q3qjqnn5o?at_medium=RSS&at_campaign=rss",
       "summary": "Many visitors who have been exempt for 60 days will soon have to apply for a visa after 30 days.",
@@ -654,7 +663,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 19
+      "news_count": 20
     },
     {
       "country_code": "CN",
@@ -662,19 +671,14 @@
       "news_count": 7
     },
     {
-      "country_code": "IR",
-      "country_name": "Iran",
+      "country_code": "IL",
+      "country_name": "Israel",
       "news_count": 7
     },
     {
-      "country_code": "IL",
-      "country_name": "Israel",
-      "news_count": 6
-    },
-    {
-      "country_code": "GB",
-      "country_name": "United Kingdom",
-      "news_count": 5
+      "country_code": "IR",
+      "country_name": "Iran",
+      "news_count": 7
     },
     {
       "country_code": "RU",
@@ -694,6 +698,11 @@
     {
       "country_code": "FR",
       "country_name": "France",
+      "news_count": 3
+    },
+    {
+      "country_code": "GB",
+      "country_name": "United Kingdom",
       "news_count": 3
     },
     {
@@ -734,6 +743,11 @@
     {
       "country_code": "PK",
       "country_name": "Pakistan",
+      "news_count": 1
+    },
+    {
+      "country_code": "PT",
+      "country_name": "Portugal",
       "news_count": 1
     },
     {
