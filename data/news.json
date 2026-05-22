@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-05-22T21:39:27Z",
+  "generated_at": "2026-05-22T22:49:41Z",
   "articles": [
+    {
+      "source": "BBC Asia",
+      "title": "North Korea's powerhouse women footballers are in Seoul to fight for title",
+      "url": "https://www.bbc.com/news/articles/cewpz05k941o?at_medium=RSS&at_campaign=rss",
+      "summary": "They beat the South Korean club to progress to the final of the Asian Women's Champions League.",
+      "published_at": "2026-05-22T22:00:58Z",
+      "country_code": "KR",
+      "country_name": "South Korea"
+    },
     {
       "source": "BBC World",
       "title": "Carney says Alberta is 'essential' to Canada as province plans vote on separation",
@@ -299,15 +308,6 @@
       "country_name": "Russia"
     },
     {
-      "source": "BBC US & Canada",
-      "title": "Watch: Why is the US going after Cuba's Raúl Castro 30 years on?",
-      "url": "https://www.bbc.com/news/videos/cy529g5lnleo?at_medium=RSS&at_campaign=rss",
-      "summary": "BBC correspondent Will Grant reports from Havana, hours after the US charged former Cuban leader with conspiracy to kill US nationals and ot…",
-      "published_at": "2026-05-21T03:07:46Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC Asia",
       "title": "India has food safety laws. So why can't it guarantee safe food?",
       "url": "https://www.bbc.com/news/articles/c232mjxpx8no?at_medium=RSS&at_campaign=rss",
@@ -378,15 +378,6 @@
       "published_at": "2026-05-20T15:36:03Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "Watch: Did Trump and Putin get the same treatment in China?",
-      "url": "https://www.bbc.com/news/videos/ce8prm60yx0o?at_medium=RSS&at_campaign=rss",
-      "summary": "Chinese President Xi Jinping welcomed Russia's Vladimir Putin with a near-identical ceremony to Trump's last week.",
-      "published_at": "2026-05-20T12:44:56Z",
-      "country_code": "CN",
-      "country_name": "China"
     },
     {
       "source": "BBC Latin America",
@@ -744,7 +735,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 27
+      "news_count": 26
     },
     {
       "country_code": "IL",
@@ -759,7 +750,7 @@
     {
       "country_code": "CN",
       "country_name": "China",
-      "news_count": 6
+      "news_count": 5
     },
     {
       "country_code": "RU",
@@ -792,6 +783,11 @@
       "news_count": 2
     },
     {
+      "country_code": "KR",
+      "country_name": "South Korea",
+      "news_count": 2
+    },
+    {
       "country_code": "UA",
       "country_name": "Ukraine",
       "news_count": 2
@@ -814,11 +810,6 @@
     {
       "country_code": "EG",
       "country_name": "Egypt",
-      "news_count": 1
-    },
-    {
-      "country_code": "KR",
-      "country_name": "South Korea",
       "news_count": 1
     },
     {
