@@ -1,6 +1,33 @@
 {
-  "generated_at": "2026-05-22T08:16:35Z",
+  "generated_at": "2026-05-22T11:21:59Z",
   "articles": [
+    {
+      "source": "BBC Europe",
+      "title": "Timelapse footage shows 'giant cave' inflating on Paris bridge",
+      "url": "https://www.bbc.com/news/videos/cx214kxw2y4o?at_medium=RSS&at_campaign=rss",
+      "summary": "The monumental structure was created by Parisan artist JR - often dubbed the French Banksy",
+      "published_at": "2026-05-22T10:45:27Z",
+      "country_code": "FR",
+      "country_name": "France"
+    },
+    {
+      "source": "BBC World",
+      "title": "Nato chief welcomes US sending 5,000 troops to Poland",
+      "url": "https://www.bbc.com/news/articles/cedpz9669deo?at_medium=RSS&at_campaign=rss",
+      "summary": "President Trump's announcement on Thursday night came ahead of a meeting of Nato foreign ministers.",
+      "published_at": "2026-05-22T09:43:39Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Cubans grapple with fuel shortages and blackouts as US steps up pressure",
+      "url": "https://www.bbc.com/news/articles/c3e2w43lkvzo?at_medium=RSS&at_campaign=rss",
+      "summary": "The BBC speaks to Havana residents after the US charges the country's former leader, Raúl Castro, with murder.",
+      "published_at": "2026-05-22T09:32:42Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "US sanctions Tanzanian police official over 'torture' of rights activists",
@@ -36,15 +63,6 @@
       "published_at": "2026-05-22T07:56:53Z",
       "country_code": "IN",
       "country_name": "India"
-    },
-    {
-      "source": "BBC World",
-      "title": "US to send 5,000 more troops to Poland, Trump says",
-      "url": "https://www.bbc.com/news/articles/cedpz9669deo?at_medium=RSS&at_campaign=rss",
-      "summary": "The announcement comes a week after the Pentagon cancelled a planned deployment of 4,000 troops to the country.",
-      "published_at": "2026-05-22T03:25:48Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC World",
@@ -84,12 +102,21 @@
     },
     {
       "source": "BBC World",
-      "title": "Three ways Cuba crisis could play out after US indictment of Raúl Castro",
+      "title": "Will US invade? Three ways Cuba crisis could play out now",
       "url": "https://www.bbc.com/news/articles/ckgplwg3xk3o?at_medium=RSS&at_campaign=rss",
       "summary": "The Trump administration has been putting tremendous economic pressure on the island's Communist government.",
       "published_at": "2026-05-21T18:40:12Z",
       "country_code": "US",
       "country_name": "United States"
+    },
+    {
+      "source": "BBC Europe",
+      "title": "Ukraine's Baltic allies unsettled by repeated drone incursions",
+      "url": "https://www.bbc.com/news/articles/cp3pzg491ypo?at_medium=RSS&at_campaign=rss",
+      "summary": "The intrusion of Ukrainian unmanned aerial vehicles into the airspace of the Baltic states raises questions, and not all of them have answer…",
+      "published_at": "2026-05-21T18:39:12Z",
+      "country_code": "UA",
+      "country_name": "Ukraine"
     },
     {
       "source": "BBC World",
@@ -461,15 +488,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Europe",
-      "title": "Inside the 'kill-zone' on Ukraine's front line, where new weapons have transformed war",
-      "url": "https://www.bbc.com/news/articles/c3w2xqj9x13o?at_medium=RSS&at_campaign=rss",
-      "summary": "Machines are increasingly replacing humans on the front line, but troops are still vital for defending territory.",
-      "published_at": "2026-05-17T23:02:15Z",
-      "country_code": "UA",
-      "country_name": "Ukraine"
-    },
-    {
       "source": "BBC Middle East",
       "title": "UAE reports strike near Abu Dhabi nuclear power plant",
       "url": "https://www.bbc.com/news/articles/cwy27pkj1l1o?at_medium=RSS&at_campaign=rss",
@@ -708,7 +726,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 25
+      "news_count": 26
     },
     {
       "country_code": "CN",
@@ -731,6 +749,11 @@
       "news_count": 5
     },
     {
+      "country_code": "FR",
+      "country_name": "France",
+      "news_count": 4
+    },
+    {
       "country_code": "IN",
       "country_name": "India",
       "news_count": 4
@@ -744,11 +767,6 @@
       "country_code": "PS",
       "country_name": "Palestine",
       "news_count": 4
-    },
-    {
-      "country_code": "FR",
-      "country_name": "France",
-      "news_count": 3
     },
     {
       "country_code": "GB",
