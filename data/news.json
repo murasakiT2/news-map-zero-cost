@@ -1,12 +1,39 @@
 {
-  "generated_at": "2026-05-22T20:16:29Z",
+  "generated_at": "2026-05-22T21:39:27Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Carney says Alberta is 'essential' to Canada as province plans vote on separation",
+      "url": "https://www.bbc.com/news/articles/cy42w778e72o?at_medium=RSS&at_campaign=rss",
+      "summary": "Alberta's decision to hold a referendum on separation has been widely criticised, including the separatists who say the question is not defi…",
+      "published_at": "2026-05-22T20:59:28Z",
+      "country_code": "CA",
+      "country_name": "Canada"
+    },
+    {
+      "source": "BBC World",
+      "title": "Gaza flotilla activists allege abuse by Israeli forces while detained",
+      "url": "https://www.bbc.com/news/articles/cglp5z63k9no?at_medium=RSS&at_campaign=rss",
+      "summary": "The detainees say they were slapped, hit, humiliated and even subjected to sexual violence, but Israel's prison service says the allegations…",
+      "published_at": "2026-05-22T20:52:35Z",
+      "country_code": "IL",
+      "country_name": "Israel"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "‘Long live Raúl!’ - Castro’s supporters in Cuba rally in his defence",
+      "url": "https://www.bbc.com/news/videos/cr5pl7jevyro?at_medium=RSS&at_campaign=rss",
+      "summary": "BBC's Will Grant reports from a pro-government demonstration held after the US indictment of the former president.",
+      "published_at": "2026-05-22T20:49:25Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "Tulsi Gabbard to resign as US director of national intelligence",
       "url": "https://www.bbc.com/news/articles/cvgj2gkv1x1o?at_medium=RSS&at_campaign=rss",
       "summary": "Gabbard who has been largely out of public view during recent US operations says she is leaving due to her husband's illness.",
-      "published_at": "2026-05-22T19:50:27Z",
+      "published_at": "2026-05-22T20:30:26Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -92,7 +119,7 @@
       "country_name": "France"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Latin America",
       "title": "Cubans grapple with fuel shortages and blackouts as US steps up pressure",
       "url": "https://www.bbc.com/news/articles/c3e2w43lkvzo?at_medium=RSS&at_campaign=rss",
       "summary": "The BBC speaks to Havana residents after the US charges the country's former leader, Raúl Castro, with murder.",
@@ -119,7 +146,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "US navy chief says $14bn arms sale to Taiwan paused due to Iran war",
       "url": "https://www.bbc.com/news/articles/c232z4yk437o?at_medium=RSS&at_campaign=rss",
       "summary": "Hung Cao told a Senate hearing they were \"doing a pause\" on the sale to make sure they had munitions for the Iran war.",
@@ -135,15 +162,6 @@
       "published_at": "2026-05-22T07:56:53Z",
       "country_code": "IN",
       "country_name": "India"
-    },
-    {
-      "source": "BBC World",
-      "title": "Alberta to hold referendum on whether to remain in Canada",
-      "url": "https://www.bbc.com/news/articles/cvgze8n5dxko?at_medium=RSS&at_campaign=rss",
-      "summary": "Voters in the western province will decide next October whether they want to stay in Canada or move ahead with a process for a binding indep…",
-      "published_at": "2026-05-22T02:40:58Z",
-      "country_code": "CA",
-      "country_name": "Canada"
     },
     {
       "source": "BBC World",
@@ -587,15 +605,6 @@
       "country_name": "Kenya"
     },
     {
-      "source": "BBC Latin America",
-      "title": "BBC tests out England and Argentina's World Cup training grounds in Kansas City",
-      "url": "https://www.bbc.com/news/videos/clypw107dqzo?at_medium=RSS&at_campaign=rss",
-      "summary": "Will Grant visited one of the pitches where England captain Harry Kane and his team will call home ahead of the tournament.",
-      "published_at": "2026-05-11T07:53:53Z",
-      "country_code": "GB",
-      "country_name": "United Kingdom"
-    },
-    {
       "source": "BBC Middle East",
       "title": "BBC speaks with civilians inside Iran struggling with impact of war",
       "url": "https://www.bbc.com/news/videos/c2429dq0j4mo?at_medium=RSS&at_campaign=rss",
@@ -735,12 +744,12 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 26
+      "news_count": 27
     },
     {
       "country_code": "IL",
       "country_name": "Israel",
-      "news_count": 7
+      "news_count": 8
     },
     {
       "country_code": "IR",
@@ -780,7 +789,7 @@
     {
       "country_code": "GB",
       "country_name": "United Kingdom",
-      "news_count": 3
+      "news_count": 2
     },
     {
       "country_code": "UA",
