@@ -1,23 +1,32 @@
 {
-  "generated_at": "2026-05-22T13:40:17Z",
+  "generated_at": "2026-05-22T16:14:05Z",
   "articles": [
     {
       "source": "BBC World",
-      "title": "UK scientists developing new Ebola vaccine that could be ready in months",
+      "title": "Rubio tries to reassure Nato allies over US troop deployments",
+      "url": "https://www.bbc.com/news/articles/cedpz9669deo?at_medium=RSS&at_campaign=rss",
+      "summary": "President Donald Trump says he wants to send more troops to Poland, a week after his officials cancelled a similar deployment.",
+      "published_at": "2026-05-22T15:18:30Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "UK scientists developing Ebola vaccine that could be ready for trials in months",
       "url": "https://www.bbc.com/news/articles/cy82gkr7xzlo?at_medium=RSS&at_campaign=rss",
       "summary": "The rare species of Ebola involved - known as Bundibugyo - kills around a third of those infected and has no proven vaccine yet.",
-      "published_at": "2026-05-22T12:56:06Z",
+      "published_at": "2026-05-22T15:03:51Z",
       "country_code": "GB",
       "country_name": "United Kingdom"
     },
     {
-      "source": "BBC World",
-      "title": "Nato chief welcomes US sending 5,000 troops to Poland",
-      "url": "https://www.bbc.com/news/articles/cedpz9669deo?at_medium=RSS&at_campaign=rss",
-      "summary": "President Trump's announcement on Thursday night came ahead of a meeting of Nato foreign ministers.",
-      "published_at": "2026-05-22T11:39:14Z",
-      "country_code": "US",
-      "country_name": "United States"
+      "source": "BBC Africa",
+      "title": "Plymouth striker Oseni's 'disbelief' at Nigeria call-up",
+      "url": "https://www.bbc.com/sport/football/articles/c2k28z5x525o?at_medium=RSS&at_campaign=rss",
+      "summary": "Plymouth Argyle striker Owen Oseni says he was in \"disbelief\" after being called up to the Nigeria squad.",
+      "published_at": "2026-05-22T13:52:17Z",
+      "country_code": "NG",
+      "country_name": "Nigeria"
     },
     {
       "source": "BBC Europe",
@@ -322,15 +331,6 @@
       "url": "https://www.bbc.com/news/articles/cjep1wx7w0ko?at_medium=RSS&at_campaign=rss",
       "summary": "Tracking data shows several flights by US Navy reconnaissance jets and drones during the last week.",
       "published_at": "2026-05-20T15:36:03Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "Barney Frank: One of the first openly gay US congressmen dies aged 86",
-      "url": "https://www.bbc.com/news/articles/ckgpy2ze3q1o?at_medium=RSS&at_campaign=rss",
-      "summary": "After a decades-long career in Congress, he spent his final weeks in hospice care at his home in Maine.",
-      "published_at": "2026-05-20T15:33:12Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -704,15 +704,6 @@
       "country_name": "Kenya"
     },
     {
-      "source": "BBC Latin America",
-      "title": "The other life of US soldier accused of betting on Maduro's removal",
-      "url": "https://www.bbc.com/news/articles/clyxd5wrr0wo?at_medium=RSS&at_campaign=rss",
-      "summary": "The Army officer charged with using classified information to win $400,000 is also a real estate investor with rave reviews on Airbnb.",
-      "published_at": "2026-04-28T19:23:17Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC Africa",
       "title": "'I was not thinking to run a world record'",
       "url": "https://www.bbc.com/sport/athletics/videos/c78q5nq11zwo?at_medium=RSS&at_campaign=rss",
@@ -735,7 +726,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 26
+      "news_count": 24
     },
     {
       "country_code": "CN",
@@ -810,6 +801,11 @@
     {
       "country_code": "KR",
       "country_name": "South Korea",
+      "news_count": 1
+    },
+    {
+      "country_code": "NG",
+      "country_name": "Nigeria",
       "news_count": 1
     },
     {
