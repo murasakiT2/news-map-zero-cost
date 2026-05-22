@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-05-22T04:41:38Z",
+  "generated_at": "2026-05-22T08:16:35Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "US sanctions Tanzanian police official over 'torture' of rights activists",
+      "url": "https://www.bbc.com/news/articles/cn4p8m3r1glo?at_medium=RSS&at_campaign=rss",
+      "summary": "The sanctions come amid growing scrutiny of Tanzania’s human rights record in recent years.",
+      "published_at": "2026-05-22T08:15:21Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Rubio says Cuba is threat to US as Havana accuses him of 'lies'",
+      "url": "https://www.bbc.com/news/articles/ckgpzwkn5jko?at_medium=RSS&at_campaign=rss",
+      "summary": "Cuba's foreign minister accused Rubio of trying to \"instigate a military aggression\".",
+      "published_at": "2026-05-22T08:13:13Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "US navy chief says $14bn arms sale to Taiwan paused due to Iran war",
+      "url": "https://www.bbc.com/news/articles/c232z4yk437o?at_medium=RSS&at_campaign=rss",
+      "summary": "Hung Cao told a Senate hearing they were \"doing a pause\" on the sale to make sure they had munitions for the Iran war.",
+      "published_at": "2026-05-22T08:12:47Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Africa summit in India postponed over Ebola outbreak fears",
+      "url": "https://www.bbc.com/news/articles/cp8p1l7gp1po?at_medium=RSS&at_campaign=rss",
+      "summary": "The India-Africa summit was set to be held next week in Delhi after more than a decade.",
+      "published_at": "2026-05-22T07:56:53Z",
+      "country_code": "IN",
+      "country_name": "India"
+    },
     {
       "source": "BBC World",
       "title": "US to send 5,000 more troops to Poland, Trump says",
@@ -36,24 +72,6 @@
       "published_at": "2026-05-22T00:21:24Z",
       "country_code": "IL",
       "country_name": "Israel"
-    },
-    {
-      "source": "BBC World",
-      "title": "Rubio says Cuba is threat to US as Havana accuses him of 'lies'",
-      "url": "https://www.bbc.com/news/articles/ckgpzwkn5jko?at_medium=RSS&at_campaign=rss",
-      "summary": "Cuba's foreign minister accused Rubio of trying to \"instigate a military aggression\".",
-      "published_at": "2026-05-22T00:10:44Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "'I didn't know where DR Congo was': Latin Americans deported by US tell BBC of their shock",
-      "url": "https://www.bbc.com/news/articles/c78qw88jjd4o?at_medium=RSS&at_campaign=rss",
-      "summary": "The 15 deportees describe the uncertainty they face in a country they had never seen before.",
-      "published_at": "2026-05-22T00:10:07Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC US & Canada",
@@ -182,7 +200,7 @@
       "country_name": "Russia"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "Watch: Why is the US going after Cuba's Raúl Castro 30 years on?",
       "url": "https://www.bbc.com/news/videos/cy529g5lnleo?at_medium=RSS&at_campaign=rss",
       "summary": "BBC correspondent Will Grant reports from Havana, hours after the US charged former Cuban leader with conspiracy to kill US nationals and ot…",
@@ -299,15 +317,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Africa",
-      "title": "Nigeria arrests former minister in hiding after corruption conviction",
-      "url": "https://www.bbc.com/news/articles/cdjpn378mvvo?at_medium=RSS&at_campaign=rss",
-      "summary": "The former power minister was sentenced to 75 years in jail in absentia earlier this month.",
-      "published_at": "2026-05-20T08:04:03Z",
-      "country_code": "NG",
-      "country_name": "Nigeria"
-    },
-    {
       "source": "BBC Asia",
       "title": "Norwegian journalist's question to India's Modi sparks online backlash",
       "url": "https://www.bbc.com/news/articles/cwy2w9w9n80o?at_medium=RSS&at_campaign=rss",
@@ -385,15 +394,6 @@
       "url": "https://www.bbc.com/news/articles/c5yejzmvy56o?at_medium=RSS&at_campaign=rss",
       "summary": "The 28-year-old's network is thought to have transported thousands of illegal migrants into the UK.",
       "published_at": "2026-05-19T17:05:41Z",
-      "country_code": "GB",
-      "country_name": "United Kingdom"
-    },
-    {
-      "source": "BBC Asia",
-      "title": "Thailand cuts visa-free stay period for more than 90 countries including UK",
-      "url": "https://www.bbc.com/news/articles/c78q3qjqnn5o?at_medium=RSS&at_campaign=rss",
-      "summary": "Many visitors who have been exempt for 60 days will soon have to apply for a visa after 30 days.",
-      "published_at": "2026-05-19T16:34:21Z",
       "country_code": "GB",
       "country_name": "United Kingdom"
     },
@@ -708,7 +708,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 24
+      "news_count": 25
     },
     {
       "country_code": "CN",
@@ -731,6 +731,11 @@
       "news_count": 5
     },
     {
+      "country_code": "IN",
+      "country_name": "India",
+      "news_count": 4
+    },
+    {
       "country_code": "KE",
       "country_name": "Kenya",
       "news_count": 4
@@ -748,12 +753,7 @@
     {
       "country_code": "GB",
       "country_name": "United Kingdom",
-      "news_count": 3
-    },
-    {
-      "country_code": "IN",
-      "country_name": "India",
-      "news_count": 3
+      "news_count": 2
     },
     {
       "country_code": "UA",
@@ -783,11 +783,6 @@
     {
       "country_code": "KR",
       "country_name": "South Korea",
-      "news_count": 1
-    },
-    {
-      "country_code": "NG",
-      "country_name": "Nigeria",
       "news_count": 1
     },
     {
