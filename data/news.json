@@ -1,6 +1,60 @@
 {
-  "generated_at": "2026-05-22T00:04:22Z",
+  "generated_at": "2026-05-22T04:41:38Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "US to send 5,000 more troops to Poland, Trump says",
+      "url": "https://www.bbc.com/news/articles/cedpz9669deo?at_medium=RSS&at_campaign=rss",
+      "summary": "The announcement comes a week after the Pentagon cancelled a planned deployment of 4,000 troops to the country.",
+      "published_at": "2026-05-22T03:25:48Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Alberta to hold referendum on whether to remain in Canada",
+      "url": "https://www.bbc.com/news/articles/cvgze8n5dxko?at_medium=RSS&at_campaign=rss",
+      "summary": "Voters in the western province will decide next October whether they want to stay in Canada or move ahead with a process for a binding indep…",
+      "published_at": "2026-05-22T02:40:58Z",
+      "country_code": "CA",
+      "country_name": "Canada"
+    },
+    {
+      "source": "BBC World",
+      "title": "'No means no': Greenlanders protest against Trump outside new US consulate",
+      "url": "https://www.bbc.com/news/articles/cwy2gxvnq1zo?at_medium=RSS&at_campaign=rss",
+      "summary": "The inauguration of the new consulate comes amid a push by the US president for greater control over the island.",
+      "published_at": "2026-05-22T01:37:02Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Gaza flotilla activists deported from Israel as backlash over treatment grows",
+      "url": "https://www.bbc.com/news/articles/c9d3v2d6p1eo?at_medium=RSS&at_campaign=rss",
+      "summary": "A video showing a far-right Israeli minister taunting activists who were kneeling with their hands tied behind their backs has been widely c…",
+      "published_at": "2026-05-22T00:21:24Z",
+      "country_code": "IL",
+      "country_name": "Israel"
+    },
+    {
+      "source": "BBC World",
+      "title": "Rubio says Cuba is threat to US as Havana accuses him of 'lies'",
+      "url": "https://www.bbc.com/news/articles/ckgpzwkn5jko?at_medium=RSS&at_campaign=rss",
+      "summary": "Cuba's foreign minister accused Rubio of trying to \"instigate a military aggression\".",
+      "published_at": "2026-05-22T00:10:44Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "'I didn't know where DR Congo was': Latin Americans deported by US tell BBC of their shock",
+      "url": "https://www.bbc.com/news/articles/c78qw88jjd4o?at_medium=RSS&at_campaign=rss",
+      "summary": "The 15 deportees describe the uncertainty they face in a country they had never seen before.",
+      "published_at": "2026-05-22T00:10:07Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC US & Canada",
       "title": "US-bound plane diverts to Canada after person from Ebola-hit region boards 'in error'",
@@ -12,15 +66,6 @@
     },
     {
       "source": "BBC World",
-      "title": "Rubio says Cuba is threat to US as Havana accuses him of 'lies'",
-      "url": "https://www.bbc.com/news/articles/ckgpzwkn5jko?at_medium=RSS&at_campaign=rss",
-      "summary": "Cuba's foreign minister accused Rubio of trying to \"instigate a military aggression\".",
-      "published_at": "2026-05-21T21:44:55Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC US & Canada",
       "title": "Three ways Cuba crisis could play out after US indictment of Raúl Castro",
       "url": "https://www.bbc.com/news/articles/ckgplwg3xk3o?at_medium=RSS&at_campaign=rss",
       "summary": "The Trump administration has been putting tremendous economic pressure on the island's Communist government.",
@@ -54,15 +99,6 @@
       "published_at": "2026-05-21T17:08:07Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "Gaza flotilla activists deported from Israel as backlash over treatment grows",
-      "url": "https://www.bbc.com/news/articles/c9d3v2d6p1eo?at_medium=RSS&at_campaign=rss",
-      "summary": "A video showing a far-right Israeli minister taunting activists who were kneeling with their hands tied behind their backs has been widely c…",
-      "published_at": "2026-05-21T16:08:34Z",
-      "country_code": "IL",
-      "country_name": "Israel"
     },
     {
       "source": "BBC World",
@@ -245,7 +281,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Asia",
+      "source": "BBC US & Canada",
       "title": "Watch: Did Trump and Putin get the same treatment in China?",
       "url": "https://www.bbc.com/news/videos/ce8prm60yx0o?at_medium=RSS&at_campaign=rss",
       "summary": "Chinese President Xi Jinping welcomed Russia's Vladimir Putin with a near-identical ceremony to Trump's last week.",
@@ -263,7 +299,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Africa",
       "title": "Nigeria arrests former minister in hiding after corruption conviction",
       "url": "https://www.bbc.com/news/articles/cdjpn378mvvo?at_medium=RSS&at_campaign=rss",
       "summary": "The former power minister was sentenced to 75 years in jail in absentia earlier this month.",
@@ -299,7 +335,7 @@
       "country_name": "China"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "Man who murdered teen TikTok star in Pakistan gets death sentence",
       "url": "https://www.bbc.com/news/articles/cvgzrgm0rgvo?at_medium=RSS&at_campaign=rss",
       "summary": "Sana Yousaf's murder highlights a pattern of violence against women in Pakistan, activists say.",
@@ -369,15 +405,6 @@
       "published_at": "2026-05-19T15:56:14Z",
       "country_code": "KE",
       "country_name": "Kenya"
-    },
-    {
-      "source": "BBC World",
-      "title": "Victim or enabler? Epstein girlfriend who could face questions despite plea deal",
-      "url": "https://www.bbc.com/news/articles/cz92j3n3jvvo?at_medium=RSS&at_campaign=rss",
-      "summary": "Nadia Marcinko is relatively unknown but may soon be called before US legislators.",
-      "published_at": "2026-05-19T10:58:23Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC Europe",
@@ -681,7 +708,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 22
+      "news_count": 24
     },
     {
       "country_code": "CN",
@@ -741,6 +768,11 @@
     {
       "country_code": "AU",
       "country_name": "Australia",
+      "news_count": 1
+    },
+    {
+      "country_code": "CA",
+      "country_name": "Canada",
       "news_count": 1
     },
     {
