@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-05-22T11:21:59Z",
+  "generated_at": "2026-05-22T13:40:17Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "UK scientists developing new Ebola vaccine that could be ready in months",
+      "url": "https://www.bbc.com/news/articles/cy82gkr7xzlo?at_medium=RSS&at_campaign=rss",
+      "summary": "The rare species of Ebola involved - known as Bundibugyo - kills around a third of those infected and has no proven vaccine yet.",
+      "published_at": "2026-05-22T12:56:06Z",
+      "country_code": "GB",
+      "country_name": "United Kingdom"
+    },
+    {
+      "source": "BBC World",
+      "title": "Nato chief welcomes US sending 5,000 troops to Poland",
+      "url": "https://www.bbc.com/news/articles/cedpz9669deo?at_medium=RSS&at_campaign=rss",
+      "summary": "President Trump's announcement on Thursday night came ahead of a meeting of Nato foreign ministers.",
+      "published_at": "2026-05-22T11:39:14Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC Europe",
       "title": "Timelapse footage shows 'giant cave' inflating on Paris bridge",
@@ -9,15 +27,6 @@
       "published_at": "2026-05-22T10:45:27Z",
       "country_code": "FR",
       "country_name": "France"
-    },
-    {
-      "source": "BBC World",
-      "title": "Nato chief welcomes US sending 5,000 troops to Poland",
-      "url": "https://www.bbc.com/news/articles/cedpz9669deo?at_medium=RSS&at_campaign=rss",
-      "summary": "President Trump's announcement on Thursday night came ahead of a meeting of Nato foreign ministers.",
-      "published_at": "2026-05-22T09:43:39Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC World",
@@ -290,7 +299,7 @@
       "country_name": "Israel"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "Rosenberg: Putin enjoys Xi's Chinese welcome but heads home without pipeline deal",
       "url": "https://www.bbc.com/news/articles/c8r8me3nlllo?at_medium=RSS&at_campaign=rss",
       "summary": "Russia and China showed they were shoulder-to-shoulder on the world stage, but it became clear there are limits, says the BBC's Russia Edito…",
@@ -771,7 +780,7 @@
     {
       "country_code": "GB",
       "country_name": "United Kingdom",
-      "news_count": 2
+      "news_count": 3
     },
     {
       "country_code": "UA",
