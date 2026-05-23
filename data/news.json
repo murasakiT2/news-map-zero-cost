@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-23T08:15:31Z",
+  "generated_at": "2026-05-23T10:10:38Z",
   "articles": [
     {
       "source": "BBC World",
@@ -18,15 +18,6 @@
       "published_at": "2026-05-23T07:44:14Z",
       "country_code": "RU",
       "country_name": "Russia"
-    },
-    {
-      "source": "BBC World",
-      "title": "At least 90 dead in Chinese coal mine explosion, state media reports",
-      "url": "https://www.bbc.com/news/articles/c5y0ve18qlko?at_medium=RSS&at_campaign=rss",
-      "summary": "The explosion took place at 19:29 local time on Friday at a coal mine in northern China.",
-      "published_at": "2026-05-23T06:37:29Z",
-      "country_code": "CN",
-      "country_name": "China"
     },
     {
       "source": "BBC World",
@@ -360,15 +351,6 @@
       "published_at": "2026-05-20T19:30:07Z",
       "country_code": "RU",
       "country_name": "Russia"
-    },
-    {
-      "source": "BBC Africa",
-      "title": "Sierra Leone becomes latest African country to receive deportees from US",
-      "url": "https://www.bbc.com/news/articles/cn9pzjvly53o?at_medium=RSS&at_campaign=rss",
-      "summary": "Nine deportees arrive from the US as part of Donald Trump's crackdown on illegal immigration.",
-      "published_at": "2026-05-20T17:05:17Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC Middle East",
@@ -762,7 +744,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 29
+      "news_count": 28
     },
     {
       "country_code": "IL",
@@ -777,7 +759,7 @@
     {
       "country_code": "CN",
       "country_name": "China",
-      "news_count": 6
+      "news_count": 5
     },
     {
       "country_code": "RU",
