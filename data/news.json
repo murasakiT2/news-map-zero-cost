@@ -1,14 +1,32 @@
 {
-  "generated_at": "2026-05-23T12:58:19Z",
+  "generated_at": "2026-05-23T14:27:50Z",
   "articles": [
     {
       "source": "BBC World",
-      "title": "French pair held until trial after boys abandoned by road in Portugal",
+      "title": "French mum and partner held until trial after sons abandoned by road in Portugal",
       "url": "https://www.bbc.com/news/articles/cq5p75l7n17o?at_medium=RSS&at_campaign=rss",
-      "summary": "The couple, who allegedly left two young boys on a roadside in the south of Portugal, will remain in custody, a court rules.",
-      "published_at": "2026-05-23T12:39:10Z",
+      "summary": "The couple, who allegedly left the woman's sons on a roadside in southern Portugal, will remain in custody.",
+      "published_at": "2026-05-23T14:24:48Z",
       "country_code": "PT",
       "country_name": "Portugal"
+    },
+    {
+      "source": "BBC World",
+      "title": "Putin vows retaliation after accusing Ukraine of hitting student dormitory",
+      "url": "https://www.bbc.com/news/articles/c5y74lwx395o?at_medium=RSS&at_campaign=rss",
+      "summary": "Ukraine says it struck Russia's elite Rubicon drone military unit in a Moscow-occupied region.",
+      "published_at": "2026-05-23T14:06:12Z",
+      "country_code": "RU",
+      "country_name": "Russia"
+    },
+    {
+      "source": "BBC World",
+      "title": "Watch: Pitches, PlayStations and protein ice cream - A look inside Brazil's World Cup base camp",
+      "url": "https://www.bbc.com/news/videos/c2l2rgeyjnwo?at_medium=RSS&at_campaign=rss",
+      "summary": "BBC's Brandon Livesay toured the Columbia Park Training Facility in Morris Township, New Jersey that will host the team in the coming weeks.",
+      "published_at": "2026-05-23T13:31:38Z",
+      "country_code": "BR",
+      "country_name": "Brazil"
     },
     {
       "source": "BBC World",
@@ -36,15 +54,6 @@
       "published_at": "2026-05-23T08:10:51Z",
       "country_code": "IL",
       "country_name": "Israel"
-    },
-    {
-      "source": "BBC World",
-      "title": "Putin vows retaliation after accusing Ukraine of hitting student dormitory",
-      "url": "https://www.bbc.com/news/articles/c5y74lwx395o?at_medium=RSS&at_campaign=rss",
-      "summary": "Ukraine says it struck Russia's elite Rubicon drone military unit in a Moscow-occupied region.",
-      "published_at": "2026-05-23T07:44:14Z",
-      "country_code": "RU",
-      "country_name": "Russia"
     },
     {
       "source": "BBC US & Canada",
@@ -832,6 +841,11 @@
     {
       "country_code": "AU",
       "country_name": "Australia",
+      "news_count": 1
+    },
+    {
+      "country_code": "BR",
+      "country_name": "Brazil",
       "news_count": 1
     },
     {
