@@ -1,12 +1,48 @@
 {
-  "generated_at": "2026-05-23T02:40:00Z",
+  "generated_at": "2026-05-23T05:58:03Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "At least 82 dead in Chinese coal mine explosion, state media reports",
+      "url": "https://www.bbc.com/news/articles/c5y0ve18qlko?at_medium=RSS&at_campaign=rss",
+      "summary": "The explosion took place at 19:29 local time on Friday at a coal mine in northern China.",
+      "published_at": "2026-05-23T05:53:40Z",
+      "country_code": "CN",
+      "country_name": "China"
+    },
+    {
+      "source": "BBC World",
+      "title": "Putin vows retaliation after accusing Ukraine of hitting student dormitory",
+      "url": "https://www.bbc.com/news/articles/c5y74lwx395o?at_medium=RSS&at_campaign=rss",
+      "summary": "Ukraine says it hit Russia's elite Rubicon drone military unit in a Moscow-occupied region.",
+      "published_at": "2026-05-23T04:05:03Z",
+      "country_code": "RU",
+      "country_name": "Russia"
+    },
+    {
+      "source": "BBC World",
+      "title": "Rubio visits India to sell energy as Iran oil shock persists",
+      "url": "https://www.bbc.com/news/articles/c87qrwyyrn2o?at_medium=RSS&at_campaign=rss",
+      "summary": "The top US diplomat has made statements offering to support India’s energy needs - but should Delhi give in?",
+      "published_at": "2026-05-23T03:55:55Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC US & Canada",
       "title": "Most people seeking green cards must now apply from outside US",
       "url": "https://www.bbc.com/news/articles/cgrpz4l1klgo?at_medium=RSS&at_campaign=rss",
       "summary": "A new policy closes a loophole that has allowed people to apply for a green card, or permanent residency, while in the country.",
       "published_at": "2026-05-23T02:14:29Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "US government releases UFO sighting reports - 'Orbs swarming in all directions'",
+      "url": "https://www.bbc.com/news/articles/cn8pzzlyy66o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Pentagon discloses scores of UFO files with reported sightings of spheres, discs and fireballs spanning nearly 80 years.",
+      "published_at": "2026-05-22T22:32:12Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -54,15 +90,6 @@
       "published_at": "2026-05-22T20:30:26Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "Russia's Putin vows retaliation after accusing Ukraine of hitting student dormitory",
-      "url": "https://www.bbc.com/news/articles/c5y74lwx395o?at_medium=RSS&at_campaign=rss",
-      "summary": "Ukraine said it hit Russia's elite Rubicon drone military unit in a Moscow-occupied part of eastern Ukraine.",
-      "published_at": "2026-05-22T19:40:14Z",
-      "country_code": "RU",
-      "country_name": "Russia"
     },
     {
       "source": "BBC World",
@@ -744,7 +771,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 27
+      "news_count": 29
     },
     {
       "country_code": "IL",
@@ -759,7 +786,7 @@
     {
       "country_code": "CN",
       "country_name": "China",
-      "news_count": 5
+      "news_count": 6
     },
     {
       "country_code": "RU",
