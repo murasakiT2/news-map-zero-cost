@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-05-23T14:27:50Z",
+  "generated_at": "2026-05-23T16:49:35Z",
   "articles": [
+    {
+      "source": "BBC Asia",
+      "title": "India's parody 'cockroach party' claims website has been blocked",
+      "url": "https://www.bbc.com/news/articles/cddpq71866do?at_medium=RSS&at_campaign=rss",
+      "summary": "The satirical group has gained millions of followers as \"the voice of the lazy and unemployed\".",
+      "published_at": "2026-05-23T15:25:39Z",
+      "country_code": "IN",
+      "country_name": "India"
+    },
     {
       "source": "BBC World",
       "title": "French mum and partner held until trial after sons abandoned by road in Portugal",
@@ -38,7 +47,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Africa",
+      "source": "BBC World",
       "title": "DR Congo players told to isolate before World Cup",
       "url": "https://www.bbc.com/sport/football/articles/cpdp8geyqxeo?at_medium=RSS&at_campaign=rss",
       "summary": "The Democratic Republic of Congo's World Cup squad must isolate for 21 days before they can enter the US because of the Ebola outbreak.",
@@ -54,6 +63,15 @@
       "published_at": "2026-05-23T08:10:51Z",
       "country_code": "IL",
       "country_name": "Israel"
+    },
+    {
+      "source": "BBC Europe",
+      "title": "UK officials suggested single market for goods with Europe",
+      "url": "https://www.bbc.com/news/articles/cr5plpm3g2ro?at_medium=RSS&at_campaign=rss",
+      "summary": "Industry figures briefed on the move said the idea has not been taken forward at this point, after EU scepticism.",
+      "published_at": "2026-05-23T03:47:28Z",
+      "country_code": "GB",
+      "country_name": "United Kingdom"
     },
     {
       "source": "BBC US & Canada",
@@ -252,15 +270,6 @@
       "published_at": "2026-05-21T18:39:12Z",
       "country_code": "UA",
       "country_name": "Ukraine"
-    },
-    {
-      "source": "BBC Europe",
-      "title": "Pair arrested after boys abandoned by road in Portugal",
-      "url": "https://www.bbc.com/news/articles/c9wex9v57ndo?at_medium=RSS&at_campaign=rss",
-      "summary": "The children were carrying backpacks with food and water but no identity documents when they were found by a driver.",
-      "published_at": "2026-05-21T18:32:30Z",
-      "country_code": "PT",
-      "country_name": "Portugal"
     },
     {
       "source": "BBC US & Canada",
@@ -799,6 +808,11 @@
       "news_count": 4
     },
     {
+      "country_code": "IN",
+      "country_name": "India",
+      "news_count": 4
+    },
+    {
       "country_code": "KE",
       "country_name": "Kenya",
       "news_count": 4
@@ -809,23 +823,13 @@
       "news_count": 4
     },
     {
-      "country_code": "IN",
-      "country_name": "India",
-      "news_count": 3
-    },
-    {
       "country_code": "GB",
       "country_name": "United Kingdom",
-      "news_count": 2
+      "news_count": 3
     },
     {
       "country_code": "KR",
       "country_name": "South Korea",
-      "news_count": 2
-    },
-    {
-      "country_code": "PT",
-      "country_name": "Portugal",
       "news_count": 2
     },
     {
@@ -866,6 +870,11 @@
     {
       "country_code": "PK",
       "country_name": "Pakistan",
+      "news_count": 1
+    },
+    {
+      "country_code": "PT",
+      "country_name": "Portugal",
       "news_count": 1
     },
     {
