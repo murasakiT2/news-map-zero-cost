@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-05-23T11:38:53Z",
+  "generated_at": "2026-05-23T12:58:19Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "French pair held until trial after boys abandoned by road in Portugal",
+      "url": "https://www.bbc.com/news/articles/cq5p75l7n17o?at_medium=RSS&at_campaign=rss",
+      "summary": "The couple, who allegedly left two young boys on a roadside in the south of Portugal, will remain in custody, a court rules.",
+      "published_at": "2026-05-23T12:39:10Z",
+      "country_code": "PT",
+      "country_name": "Portugal"
+    },
+    {
+      "source": "BBC World",
+      "title": "Rubio meets Modi during India visit with energy high on agenda",
+      "url": "https://www.bbc.com/news/articles/c87qrwyyrn2o?at_medium=RSS&at_campaign=rss",
+      "summary": "The secretary of state wants to sell US energy to Delhi to make up for shortfalls caused by the Iran war.",
+      "published_at": "2026-05-23T11:55:39Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC Africa",
       "title": "DR Congo players told to isolate before World Cup",
@@ -27,15 +45,6 @@
       "published_at": "2026-05-23T07:44:14Z",
       "country_code": "RU",
       "country_name": "Russia"
-    },
-    {
-      "source": "BBC World",
-      "title": "Rubio visits India to sell energy as Iran oil shock persists",
-      "url": "https://www.bbc.com/news/articles/c87qrwyyrn2o?at_medium=RSS&at_campaign=rss",
-      "summary": "The top US diplomat has made statements offering to support India’s energy needs - but should Delhi give in?",
-      "published_at": "2026-05-23T03:55:55Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC US & Canada",
@@ -806,6 +815,11 @@
       "news_count": 2
     },
     {
+      "country_code": "PT",
+      "country_name": "Portugal",
+      "news_count": 2
+    },
+    {
       "country_code": "UA",
       "country_name": "Ukraine",
       "news_count": 2
@@ -838,11 +852,6 @@
     {
       "country_code": "PK",
       "country_name": "Pakistan",
-      "news_count": 1
-    },
-    {
-      "country_code": "PT",
-      "country_name": "Portugal",
       "news_count": 1
     },
     {
