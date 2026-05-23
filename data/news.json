@@ -1,23 +1,32 @@
 {
-  "generated_at": "2026-05-23T05:58:03Z",
+  "generated_at": "2026-05-23T08:15:31Z",
   "articles": [
     {
       "source": "BBC World",
-      "title": "At least 82 dead in Chinese coal mine explosion, state media reports",
-      "url": "https://www.bbc.com/news/articles/c5y0ve18qlko?at_medium=RSS&at_campaign=rss",
-      "summary": "The explosion took place at 19:29 local time on Friday at a coal mine in northern China.",
-      "published_at": "2026-05-23T05:53:40Z",
-      "country_code": "CN",
-      "country_name": "China"
+      "title": "Gaza flotilla activists allege abuse by Israeli forces while detained",
+      "url": "https://www.bbc.com/news/articles/cglp5z63k9no?at_medium=RSS&at_campaign=rss",
+      "summary": "The detainees say they were slapped, hit, humiliated and even subjected to sexual violence, but Israel's prison service says the allegations…",
+      "published_at": "2026-05-23T08:10:51Z",
+      "country_code": "IL",
+      "country_name": "Israel"
     },
     {
       "source": "BBC World",
       "title": "Putin vows retaliation after accusing Ukraine of hitting student dormitory",
       "url": "https://www.bbc.com/news/articles/c5y74lwx395o?at_medium=RSS&at_campaign=rss",
-      "summary": "Ukraine says it hit Russia's elite Rubicon drone military unit in a Moscow-occupied region.",
-      "published_at": "2026-05-23T04:05:03Z",
+      "summary": "Ukraine says it struck Russia's elite Rubicon drone military unit in a Moscow-occupied region.",
+      "published_at": "2026-05-23T07:44:14Z",
       "country_code": "RU",
       "country_name": "Russia"
+    },
+    {
+      "source": "BBC World",
+      "title": "At least 90 dead in Chinese coal mine explosion, state media reports",
+      "url": "https://www.bbc.com/news/articles/c5y0ve18qlko?at_medium=RSS&at_campaign=rss",
+      "summary": "The explosion took place at 19:29 local time on Friday at a coal mine in northern China.",
+      "published_at": "2026-05-23T06:37:29Z",
+      "country_code": "CN",
+      "country_name": "China"
     },
     {
       "source": "BBC World",
@@ -65,15 +74,6 @@
       "country_name": "Canada"
     },
     {
-      "source": "BBC World",
-      "title": "Gaza flotilla activists allege abuse by Israeli forces while detained",
-      "url": "https://www.bbc.com/news/articles/cglp5z63k9no?at_medium=RSS&at_campaign=rss",
-      "summary": "The detainees say they were slapped, hit, humiliated and even subjected to sexual violence, but Israel's prison service says the allegations…",
-      "published_at": "2026-05-22T20:52:35Z",
-      "country_code": "IL",
-      "country_name": "Israel"
-    },
-    {
       "source": "BBC US & Canada",
       "title": "‘Long live Raúl!’ - Castro’s supporters in Cuba rally in his defence",
       "url": "https://www.bbc.com/news/videos/cr5pl7jevyro?at_medium=RSS&at_campaign=rss",
@@ -84,7 +84,7 @@
     },
     {
       "source": "BBC World",
-      "title": "Tulsi Gabbard to resign as US director of national intelligence",
+      "title": "Tulsi Gabbard to resign as US national intelligence director",
       "url": "https://www.bbc.com/news/articles/cvgj2gkv1x1o?at_medium=RSS&at_campaign=rss",
       "summary": "Gabbard who has been largely out of public view during recent US operations says she is leaving due to her husband's illness.",
       "published_at": "2026-05-22T20:30:26Z",
@@ -198,15 +198,6 @@
       "published_at": "2026-05-22T08:12:47Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC Africa",
-      "title": "Africa summit in India postponed over Ebola outbreak fears",
-      "url": "https://www.bbc.com/news/articles/cp8p1l7gp1po?at_medium=RSS&at_campaign=rss",
-      "summary": "The India-Africa summit was set to be held next week in Delhi after more than a decade.",
-      "published_at": "2026-05-22T07:56:53Z",
-      "country_code": "IN",
-      "country_name": "India"
     },
     {
       "source": "BBC World",
@@ -799,11 +790,6 @@
       "news_count": 4
     },
     {
-      "country_code": "IN",
-      "country_name": "India",
-      "news_count": 4
-    },
-    {
       "country_code": "KE",
       "country_name": "Kenya",
       "news_count": 4
@@ -812,6 +798,11 @@
       "country_code": "PS",
       "country_name": "Palestine",
       "news_count": 4
+    },
+    {
+      "country_code": "IN",
+      "country_name": "India",
+      "news_count": 3
     },
     {
       "country_code": "GB",
