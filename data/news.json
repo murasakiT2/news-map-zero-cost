@@ -1,14 +1,23 @@
 {
-  "generated_at": "2026-05-23T20:00:43Z",
+  "generated_at": "2026-05-23T21:11:46Z",
   "articles": [
     {
       "source": "BBC World",
-      "title": "Iran 'getting a lot closer' to agreement with US, Trump says",
+      "title": "Trump says deal with Iran 'largely negotiated' and would include opening Strait of Hormuz",
       "url": "https://www.bbc.com/news/articles/crmp121z3z8o?at_medium=RSS&at_campaign=rss",
       "summary": "Tehran also signals progress on talks but says the key issue of nuclear weapons is not part of an initial framework it is working on.",
-      "published_at": "2026-05-23T19:46:54Z",
-      "country_code": "US",
-      "country_name": "United States"
+      "published_at": "2026-05-23T21:07:55Z",
+      "country_code": "IR",
+      "country_name": "Iran"
+    },
+    {
+      "source": "BBC Africa",
+      "title": "Electronic music meets orchestra as South Africa's DJ Black Coffee stuns UK crowds",
+      "url": "https://www.bbc.com/news/articles/cvgz0dzpxpxo?at_medium=RSS&at_campaign=rss",
+      "summary": "In London for one night only ahead of his Ibiza residency, this sell-out show represented far more than just a performance.",
+      "published_at": "2026-05-23T17:05:51Z",
+      "country_code": "GB",
+      "country_name": "United Kingdom"
     },
     {
       "source": "BBC World",
@@ -780,7 +789,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 30
+      "news_count": 29
     },
     {
       "country_code": "IL",
@@ -790,7 +799,7 @@
     {
       "country_code": "IR",
       "country_name": "Iran",
-      "news_count": 7
+      "news_count": 8
     },
     {
       "country_code": "CN",
@@ -808,6 +817,11 @@
       "news_count": 4
     },
     {
+      "country_code": "GB",
+      "country_name": "United Kingdom",
+      "news_count": 4
+    },
+    {
       "country_code": "IN",
       "country_name": "India",
       "news_count": 4
@@ -821,11 +835,6 @@
       "country_code": "PS",
       "country_name": "Palestine",
       "news_count": 4
-    },
-    {
-      "country_code": "GB",
-      "country_name": "United Kingdom",
-      "news_count": 3
     },
     {
       "country_code": "KR",
