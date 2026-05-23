@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-05-22T23:57:29Z",
+  "generated_at": "2026-05-23T02:40:00Z",
   "articles": [
+    {
+      "source": "BBC US & Canada",
+      "title": "Most people seeking green cards must now apply from outside US",
+      "url": "https://www.bbc.com/news/articles/cgrpz4l1klgo?at_medium=RSS&at_campaign=rss",
+      "summary": "A new policy closes a loophole that has allowed people to apply for a green card, or permanent residency, while in the country.",
+      "published_at": "2026-05-23T02:14:29Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC Asia",
       "title": "North Korea's powerhouse women footballers are in Seoul to fight for title",
@@ -14,7 +23,7 @@
       "source": "BBC World",
       "title": "Carney says Alberta is 'essential' to Canada as province plans vote on separation",
       "url": "https://www.bbc.com/news/articles/cy42w778e72o?at_medium=RSS&at_campaign=rss",
-      "summary": "Alberta's decision to hold a referendum on separation has been widely criticised, including the separatists who say the question is not defi…",
+      "summary": "Alberta's decision to hold a referendum on separation has been widely criticised, including by separatists who say the question is not defin…",
       "published_at": "2026-05-22T20:59:28Z",
       "country_code": "CA",
       "country_name": "Canada"
@@ -299,7 +308,7 @@
       "country_name": "Australia"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "From AI to interceptors, Ukraine is trying to drone-proof its skies",
       "url": "https://www.bbc.com/news/articles/c1k2lmmjvzxo?at_medium=RSS&at_campaign=rss",
       "summary": "After four years of Russia's full-scale invasion, Ukraine has become far more successful at fighting off air raids.",
@@ -735,7 +744,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 26
+      "news_count": 27
     },
     {
       "country_code": "IL",
