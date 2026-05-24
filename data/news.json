@@ -1,14 +1,32 @@
 {
-  "generated_at": "2026-05-24T11:46:06Z",
+  "generated_at": "2026-05-24T12:58:37Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Blast targeting train kills at least 20 in Pakistan",
+      "url": "https://www.bbc.com/news/articles/cm2pkd58xldo?at_medium=RSS&at_campaign=rss",
+      "summary": "Officials say the train had been transporting military personnel home for Eid when it was attacked by armed separatists.",
+      "published_at": "2026-05-24T12:26:09Z",
+      "country_code": "PK",
+      "country_name": "Pakistan"
+    },
     {
       "source": "BBC World",
       "title": "Large-scale Russian attack on Ukraine leaves four dead and dozens injured",
       "url": "https://www.bbc.com/news/articles/clyp6831yp5o?at_medium=RSS&at_campaign=rss",
       "summary": "The Oreshnik missile, which reportedly travels over 10 times the speed of sound, was used, Russia has confirmed.",
-      "published_at": "2026-05-24T10:52:46Z",
+      "published_at": "2026-05-24T12:12:20Z",
       "country_code": "RU",
       "country_name": "Russia"
+    },
+    {
+      "source": "BBC World",
+      "title": "People trapped under collapsed building in Philippines",
+      "url": "https://www.bbc.com/news/articles/cgqpklv42jeo?at_medium=RSS&at_campaign=rss",
+      "summary": "A search operation has so far rescued 24 people with no deaths reported at the site, in a city near the capital Manila.",
+      "published_at": "2026-05-24T11:51:25Z",
+      "country_code": "PH",
+      "country_name": "Philippines"
     },
     {
       "source": "BBC World",
@@ -18,15 +36,6 @@
       "published_at": "2026-05-24T10:34:52Z",
       "country_code": "CN",
       "country_name": "China"
-    },
-    {
-      "source": "BBC World",
-      "title": "Blast targeting train kills at least 20 in Pakistan",
-      "url": "https://www.bbc.com/news/articles/cm2pkd58xldo?at_medium=RSS&at_campaign=rss",
-      "summary": "Officials say the train had been transporting military personnel home for Eid when it was attacked by armed separatists.",
-      "published_at": "2026-05-24T09:08:31Z",
-      "country_code": "PK",
-      "country_name": "Pakistan"
     },
     {
       "source": "BBC World",
@@ -47,7 +56,7 @@
       "country_name": "Iran"
     },
     {
-      "source": "BBC Africa",
+      "source": "BBC World",
       "title": "East Africa wants to curb imports of used clothes. But it's not easy",
       "url": "https://www.bbc.com/news/articles/c2l2k5pxrgdo?at_medium=RSS&at_campaign=rss",
       "summary": "Kenya, Uganda and Tanzania are major importers of used garments from the West and China.",
@@ -191,7 +200,7 @@
       "country_name": "South Korea"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "Carney says Alberta is 'essential' to Canada as province plans vote on separation",
       "url": "https://www.bbc.com/news/articles/cy42w778e72o?at_medium=RSS&at_campaign=rss",
       "summary": "Alberta's decision to hold a referendum on separation has been widely criticised, including by separatists who say the question is not defin…",
@@ -245,7 +254,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "Rubio tries to reassure Nato allies over US troop deployments",
       "url": "https://www.bbc.com/news/articles/cedpz9669deo?at_medium=RSS&at_campaign=rss",
       "summary": "President Donald Trump says he wants to send more troops to Poland, a week after his officials cancelled a similar deployment.",
@@ -883,6 +892,11 @@
     {
       "country_code": "NG",
       "country_name": "Nigeria",
+      "news_count": 1
+    },
+    {
+      "country_code": "PH",
+      "country_name": "Philippines",
       "news_count": 1
     },
     {
