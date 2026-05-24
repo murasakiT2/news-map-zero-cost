@@ -1,14 +1,23 @@
 {
-  "generated_at": "2026-05-24T05:32:11Z",
+  "generated_at": "2026-05-24T08:16:01Z",
   "articles": [
     {
       "source": "BBC World",
-      "title": "One dead, multiple injured after Russia launches wave of strikes on Ukraine",
+      "title": "Four dead and dozens injured in wave of Russian strikes on Kyiv",
       "url": "https://www.bbc.com/news/articles/clyp6831yp5o?at_medium=RSS&at_campaign=rss",
-      "summary": "Twenty-one people have been injured, including a 15-year-old boy, with damage reported across all districts of Kyiv.",
-      "published_at": "2026-05-24T04:54:07Z",
-      "country_code": "RU",
-      "country_name": "Russia"
+      "summary": "More than 50 people have been injured, including three children, with damage reported across Kyiv and nearby areas.",
+      "published_at": "2026-05-24T07:17:44Z",
+      "country_code": "UA",
+      "country_name": "Ukraine"
+    },
+    {
+      "source": "BBC World",
+      "title": "Man killed in shark attack off Australia's north-east coast",
+      "url": "https://www.bbc.com/news/articles/cn9pq5l2d14o?at_medium=RSS&at_campaign=rss",
+      "summary": "The 39-year-old was fatally injured while swimming out at a shoal off the Cassowary Coast in Queensland.",
+      "published_at": "2026-05-24T07:12:37Z",
+      "country_code": "AU",
+      "country_name": "Australia"
     },
     {
       "source": "BBC World",
@@ -214,15 +223,6 @@
       "url": "https://www.bbc.com/news/videos/cp3p2dkqxd0o?at_medium=RSS&at_campaign=rss",
       "summary": "Experts say the videos released by the US government give no evidence of alien technology or extraterrestrial life.",
       "published_at": "2026-05-22T16:50:56Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "Waymo pauses robotaxis in five US cities after cars drive into flooded roads",
-      "url": "https://www.bbc.com/news/articles/ckgplyxxl75o?at_medium=RSS&at_campaign=rss",
-      "summary": "A Waymo spokesperson said it had expanded the temporary pause \"out of an abundance of caution\".",
-      "published_at": "2026-05-22T16:10:21Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -789,7 +789,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 29
+      "news_count": 28
     },
     {
       "country_code": "IR",
@@ -804,7 +804,7 @@
     {
       "country_code": "RU",
       "country_name": "Russia",
-      "news_count": 6
+      "news_count": 5
     },
     {
       "country_code": "CN",
@@ -832,14 +832,19 @@
       "news_count": 4
     },
     {
+      "country_code": "UA",
+      "country_name": "Ukraine",
+      "news_count": 4
+    },
+    {
       "country_code": "IN",
       "country_name": "India",
       "news_count": 3
     },
     {
-      "country_code": "UA",
-      "country_name": "Ukraine",
-      "news_count": 3
+      "country_code": "AU",
+      "country_name": "Australia",
+      "news_count": 2
     },
     {
       "country_code": "KR",
@@ -849,11 +854,6 @@
     {
       "country_code": "AE",
       "country_name": "United Arab Emirates",
-      "news_count": 1
-    },
-    {
-      "country_code": "AU",
-      "country_name": "Australia",
       "news_count": 1
     },
     {
