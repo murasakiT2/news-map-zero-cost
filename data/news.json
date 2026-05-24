@@ -1,12 +1,48 @@
 {
-  "generated_at": "2026-05-23T23:15:27Z",
+  "generated_at": "2026-05-24T01:26:58Z",
   "articles": [
     {
       "source": "BBC World",
       "title": "Trump says Iran deal 'largely negotiated' including reopening Strait of Hormuz",
       "url": "https://www.bbc.com/news/articles/crmp121z3z8o?at_medium=RSS&at_campaign=rss",
       "summary": "Tehran also signals progress on talks but says the key issue of nuclear weapons is not part of an initial framework it is working on.",
-      "published_at": "2026-05-23T22:10:24Z",
+      "published_at": "2026-05-24T01:18:31Z",
+      "country_code": "IR",
+      "country_name": "Iran"
+    },
+    {
+      "source": "BBC World",
+      "title": "East Africa wants to curb imports of used clothes. But it's not easy",
+      "url": "https://www.bbc.com/news/articles/c2l2k5pxrgdo?at_medium=RSS&at_campaign=rss",
+      "summary": "Kenya, Uganda and Tanzania are major importers of used garments from the West and China.",
+      "published_at": "2026-05-23T23:55:13Z",
+      "country_code": "CN",
+      "country_name": "China"
+    },
+    {
+      "source": "BBC World",
+      "title": "In Japan, divorce splits parents from children. Could a law change end sole custody?",
+      "url": "https://www.bbc.com/news/articles/clyp15g9nk4o?at_medium=RSS&at_campaign=rss",
+      "summary": "An amendment to Japan's Civil Code looks set to allow shared parenting for the first time.",
+      "published_at": "2026-05-23T23:44:22Z",
+      "country_code": "JP",
+      "country_name": "Japan"
+    },
+    {
+      "source": "BBC World",
+      "title": "Rosenberg: Luhansk strike sparks Russian accusations and vow to retaliate",
+      "url": "https://www.bbc.com/news/articles/cvgz05jyrrpo?at_medium=RSS&at_campaign=rss",
+      "summary": "Eighteen people were killed and 42 others injured in the strike on the town in Russian-occupied eastern Ukraine.",
+      "published_at": "2026-05-23T23:34:33Z",
+      "country_code": "UA",
+      "country_name": "Ukraine"
+    },
+    {
+      "source": "BBC World",
+      "title": "I survived a missile strike in the Strait of Hormuz, but my friend has not been found",
+      "url": "https://www.bbc.com/news/articles/ce8pn63q771o?at_medium=RSS&at_campaign=rss",
+      "summary": "Sunil Puniya was on his first sea job when a missile struck the oil tanker Skylight at the start of the Iran war.",
+      "published_at": "2026-05-23T23:24:03Z",
       "country_code": "IR",
       "country_name": "Iran"
     },
@@ -137,7 +173,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "Trump is putting pressure on Cuba - why and to what end?",
       "url": "https://www.bbc.com/news/articles/c5yrkl96xwvo?at_medium=RSS&at_campaign=rss",
       "summary": "The US has warned that a peaceful agreement with Cuba is unlikely, Havana insists this is a \"fraudulent case\" designed to justify military i…",
@@ -245,7 +281,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "'No means no': Greenlanders protest against Trump outside new US consulate",
       "url": "https://www.bbc.com/news/articles/cwy2gxvnq1zo?at_medium=RSS&at_campaign=rss",
       "summary": "The inauguration of the new consulate comes amid a push by the US president for greater control over the island.",
@@ -299,7 +335,7 @@
       "country_name": "France"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Middle East",
       "title": "Iran steps up claim to control Strait of Hormuz",
       "url": "https://www.bbc.com/news/articles/cq5py64gvwzo?at_medium=RSS&at_campaign=rss",
       "summary": "Iran publishes a map claiming \"armed forces oversight\" across more than 22,000 sq km of the waterway.",
@@ -792,19 +828,19 @@
       "news_count": 29
     },
     {
+      "country_code": "IR",
+      "country_name": "Iran",
+      "news_count": 9
+    },
+    {
       "country_code": "IL",
       "country_name": "Israel",
       "news_count": 8
     },
     {
-      "country_code": "IR",
-      "country_name": "Iran",
-      "news_count": 8
-    },
-    {
       "country_code": "CN",
       "country_name": "China",
-      "news_count": 5
+      "news_count": 6
     },
     {
       "country_code": "RU",
@@ -837,13 +873,13 @@
       "news_count": 4
     },
     {
-      "country_code": "KR",
-      "country_name": "South Korea",
-      "news_count": 2
-    },
-    {
       "country_code": "UA",
       "country_name": "Ukraine",
+      "news_count": 3
+    },
+    {
+      "country_code": "KR",
+      "country_name": "South Korea",
       "news_count": 2
     },
     {
@@ -864,6 +900,11 @@
     {
       "country_code": "EG",
       "country_name": "Egypt",
+      "news_count": 1
+    },
+    {
+      "country_code": "JP",
+      "country_name": "Japan",
       "news_count": 1
     },
     {
