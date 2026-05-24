@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-05-24T21:26:22Z",
+  "generated_at": "2026-05-24T22:28:10Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Blast targeting train kills at least 20 in Pakistan",
+      "url": "https://www.bbc.com/news/articles/cm2pkd58xldo?at_medium=RSS&at_campaign=rss",
+      "summary": "Officials say the train had been transporting military personnel home for Eid when it was attacked by armed separatists.",
+      "published_at": "2026-05-24T22:11:51Z",
+      "country_code": "PK",
+      "country_name": "Pakistan"
+    },
+    {
+      "source": "BBC Africa",
+      "title": "Mamelodi Sundowns win African Champions League title",
+      "url": "https://www.bbc.com/sport/football/articles/c9q351v43dxo?at_medium=RSS&at_campaign=rss",
+      "summary": "South Africa's Mamelodi Sundowns clinch their second African Champions League title with a 2-1 aggregate win over Moroccan club AS FAR in th…",
+      "published_at": "2026-05-24T21:43:25Z",
+      "country_code": "ZA",
+      "country_name": "South Africa"
+    },
     {
       "source": "BBC World",
       "title": "Trump tells US negotiators 'not to rush' into deal with Iran",
@@ -36,15 +54,6 @@
       "published_at": "2026-05-24T14:25:00Z",
       "country_code": "PH",
       "country_name": "Philippines"
-    },
-    {
-      "source": "BBC World",
-      "title": "Blast targeting train kills at least 20 in Pakistan",
-      "url": "https://www.bbc.com/news/articles/cm2pkd58xldo?at_medium=RSS&at_campaign=rss",
-      "summary": "Officials say the train had been transporting military personnel home for Eid when it was attacked by armed separatists.",
-      "published_at": "2026-05-24T12:26:09Z",
-      "country_code": "PK",
-      "country_name": "Pakistan"
     },
     {
       "source": "BBC World",
@@ -921,6 +930,11 @@
     {
       "country_code": "SD",
       "country_name": "Sudan",
+      "news_count": 1
+    },
+    {
+      "country_code": "ZA",
+      "country_name": "South Africa",
       "news_count": 1
     }
   ]
