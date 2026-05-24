@@ -1,14 +1,23 @@
 {
-  "generated_at": "2026-05-24T10:15:12Z",
+  "generated_at": "2026-05-24T11:46:06Z",
   "articles": [
     {
       "source": "BBC World",
       "title": "Large-scale Russian attack on Ukraine leaves four dead and dozens injured",
       "url": "https://www.bbc.com/news/articles/clyp6831yp5o?at_medium=RSS&at_campaign=rss",
       "summary": "The Oreshnik missile, which reportedly travels over 10 times the speed of sound, was used, Russia has confirmed.",
-      "published_at": "2026-05-24T09:42:11Z",
+      "published_at": "2026-05-24T10:52:46Z",
       "country_code": "RU",
       "country_name": "Russia"
+    },
+    {
+      "source": "BBC World",
+      "title": "BBC at the site of China's worst mining disaster in more than a decade",
+      "url": "https://www.bbc.com/news/videos/c809m33yjz7o?at_medium=RSS&at_campaign=rss",
+      "summary": "At least 82 people have been killed after a gas explosion at the Liushenyu mine in China.",
+      "published_at": "2026-05-24T10:34:52Z",
+      "country_code": "CN",
+      "country_name": "China"
     },
     {
       "source": "BBC World",
@@ -38,7 +47,7 @@
       "country_name": "Iran"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Africa",
       "title": "East Africa wants to curb imports of used clothes. But it's not easy",
       "url": "https://www.bbc.com/news/articles/c2l2k5pxrgdo?at_medium=RSS&at_campaign=rss",
       "summary": "Kenya, Uganda and Tanzania are major importers of used garments from the West and China.",
@@ -809,7 +818,7 @@
     {
       "country_code": "CN",
       "country_name": "China",
-      "news_count": 4
+      "news_count": 5
     },
     {
       "country_code": "FR",
