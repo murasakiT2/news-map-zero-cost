@@ -1,14 +1,23 @@
 {
-  "generated_at": "2026-05-24T08:16:01Z",
+  "generated_at": "2026-05-24T10:15:12Z",
   "articles": [
     {
       "source": "BBC World",
-      "title": "Four dead and dozens injured in wave of Russian strikes on Kyiv",
+      "title": "Large-scale Russian attack on Ukraine leaves four dead and dozens injured",
       "url": "https://www.bbc.com/news/articles/clyp6831yp5o?at_medium=RSS&at_campaign=rss",
-      "summary": "More than 50 people have been injured, including three children, with damage reported across Kyiv and nearby areas.",
-      "published_at": "2026-05-24T07:17:44Z",
-      "country_code": "UA",
-      "country_name": "Ukraine"
+      "summary": "The Oreshnik missile, which reportedly travels over 10 times the speed of sound, was used, Russia has confirmed.",
+      "published_at": "2026-05-24T09:42:11Z",
+      "country_code": "RU",
+      "country_name": "Russia"
+    },
+    {
+      "source": "BBC World",
+      "title": "Blast targeting train kills at least 20 in Pakistan",
+      "url": "https://www.bbc.com/news/articles/cm2pkd58xldo?at_medium=RSS&at_campaign=rss",
+      "summary": "Officials say the train had been transporting military personnel home for Eid when it was attacked by armed separatists.",
+      "published_at": "2026-05-24T09:08:31Z",
+      "country_code": "PK",
+      "country_name": "Pakistan"
     },
     {
       "source": "BBC World",
@@ -407,15 +416,6 @@
       "country_name": "Egypt"
     },
     {
-      "source": "BBC Asia",
-      "title": "Elon Musk's X fined for not complying with Australia's child protection laws",
-      "url": "https://www.bbc.com/news/articles/c626njg32n5o?at_medium=RSS&at_campaign=rss",
-      "summary": "The social media giant will pay A$650,000 plus legal costs, ending a three-year legal saga.",
-      "published_at": "2026-05-21T06:04:48Z",
-      "country_code": "AU",
-      "country_name": "Australia"
-    },
-    {
       "source": "BBC Europe",
       "title": "From AI to interceptors, Ukraine is trying to drone-proof its skies",
       "url": "https://www.bbc.com/news/articles/c1k2lmmjvzxo?at_medium=RSS&at_campaign=rss",
@@ -804,7 +804,7 @@
     {
       "country_code": "RU",
       "country_name": "Russia",
-      "news_count": 5
+      "news_count": 6
     },
     {
       "country_code": "CN",
@@ -832,19 +832,14 @@
       "news_count": 4
     },
     {
-      "country_code": "UA",
-      "country_name": "Ukraine",
-      "news_count": 4
-    },
-    {
       "country_code": "IN",
       "country_name": "India",
       "news_count": 3
     },
     {
-      "country_code": "AU",
-      "country_name": "Australia",
-      "news_count": 2
+      "country_code": "UA",
+      "country_name": "Ukraine",
+      "news_count": 3
     },
     {
       "country_code": "KR",
@@ -854,6 +849,11 @@
     {
       "country_code": "AE",
       "country_name": "United Arab Emirates",
+      "news_count": 1
+    },
+    {
+      "country_code": "AU",
+      "country_name": "Australia",
       "news_count": 1
     },
     {
@@ -874,6 +874,11 @@
     {
       "country_code": "NG",
       "country_name": "Nigeria",
+      "news_count": 1
+    },
+    {
+      "country_code": "PK",
+      "country_name": "Pakistan",
       "news_count": 1
     },
     {
