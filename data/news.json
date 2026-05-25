@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-05-25T18:20:55Z",
+  "generated_at": "2026-05-25T20:06:24Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Netanyahu says Israel will intensify strikes against Hezbollah",
+      "url": "https://www.bbc.com/news/articles/cewppdk1187o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Israeli military hits targets in eastern Lebanon after the prime minister announces further strikes.",
+      "published_at": "2026-05-25T19:46:54Z",
+      "country_code": "IL",
+      "country_name": "Israel"
+    },
     {
       "source": "BBC World",
       "title": "Russia threatens more Kyiv strikes and tells foreign nationals to leave",
@@ -234,15 +243,6 @@
       "published_at": "2026-05-23T14:24:48Z",
       "country_code": "PT",
       "country_name": "Portugal"
-    },
-    {
-      "source": "BBC World",
-      "title": "Watch: Pitches, PlayStations and protein ice cream - A look inside Brazil's World Cup base camp",
-      "url": "https://www.bbc.com/news/videos/c2l2rgeyjnwo?at_medium=RSS&at_campaign=rss",
-      "summary": "BBC's Brandon Livesay toured the Columbia Park Training Facility in Morris Township, New Jersey that will host the team in the coming weeks.",
-      "published_at": "2026-05-23T13:31:38Z",
-      "country_code": "BR",
-      "country_name": "Brazil"
     },
     {
       "source": "BBC Latin America",
@@ -677,15 +677,6 @@
       "country_name": "China"
     },
     {
-      "source": "BBC Middle East",
-      "title": "BBC on the ground during march through Jerusalem's Old City",
-      "url": "https://www.bbc.com/news/videos/cdxp0143q0po?at_medium=RSS&at_campaign=rss",
-      "summary": "Tens of thousands of Israeli celebrants have marched through the area captured by Israel in the 1967 Arab-Israeli war.",
-      "published_at": "2026-05-14T20:51:47Z",
-      "country_code": "IL",
-      "country_name": "Israel"
-    },
-    {
       "source": "BBC Europe",
       "title": "Watch: BBC at Kyiv block of flats hit by Russian drone strike",
       "url": "https://www.bbc.com/news/videos/cd6pnle9zngo?at_medium=RSS&at_campaign=rss",
@@ -874,11 +865,6 @@
       "news_count": 2
     },
     {
-      "country_code": "BR",
-      "country_name": "Brazil",
-      "news_count": 2
-    },
-    {
       "country_code": "JP",
       "country_name": "Japan",
       "news_count": 2
@@ -891,6 +877,11 @@
     {
       "country_code": "AU",
       "country_name": "Australia",
+      "news_count": 1
+    },
+    {
+      "country_code": "BR",
+      "country_name": "Brazil",
       "news_count": 1
     },
     {
