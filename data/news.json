@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-05-25T21:39:38Z",
+  "generated_at": "2026-05-25T22:51:20Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Trump to undergo annual medical exam ahead of 80th birthday",
+      "url": "https://www.bbc.com/news/videos/c1j22wp5e6no?at_medium=RSS&at_campaign=rss",
+      "summary": "The BBC’s Bernd Debusmann explains the routine medical check of the president of the US.",
+      "published_at": "2026-05-25T22:18:43Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Deal with US not imminent, Iran says",
+      "url": "https://www.bbc.com/news/articles/cglpp2yk336o?at_medium=RSS&at_campaign=rss",
+      "summary": "The US secretary of state earlier said that an agreement could possibly come on Monday.",
+      "published_at": "2026-05-25T22:05:29Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "Russia threatens more Kyiv strikes and tells foreign nationals to leave",
@@ -61,15 +79,6 @@
       "url": "https://www.bbc.com/news/articles/c809m7g29r7o?at_medium=RSS&at_campaign=rss",
       "summary": "Trump said on Saturday that an agreement would include the reopening of the Strait of Hormuz, without giving further details.",
       "published_at": "2026-05-25T13:05:56Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "Deal with US not imminent, Iran says",
-      "url": "https://www.bbc.com/news/articles/cglpp2yk336o?at_medium=RSS&at_campaign=rss",
-      "summary": "The US secretary of state earlier said that an agreement could possibly come on Monday.",
-      "published_at": "2026-05-25T11:17:49Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -198,15 +207,6 @@
       "published_at": "2026-05-24T14:25:00Z",
       "country_code": "PH",
       "country_name": "Philippines"
-    },
-    {
-      "source": "BBC World",
-      "title": "BBC at the site of China's worst mining disaster in more than a decade",
-      "url": "https://www.bbc.com/news/videos/c809m33yjz7o?at_medium=RSS&at_campaign=rss",
-      "summary": "At least 82 people have been killed after a gas explosion at the Liushenyu mine in China.",
-      "published_at": "2026-05-24T10:34:52Z",
-      "country_code": "CN",
-      "country_name": "China"
     },
     {
       "source": "BBC US & Canada",
@@ -825,7 +825,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 25
+      "news_count": 26
     },
     {
       "country_code": "IR",
@@ -840,7 +840,7 @@
     {
       "country_code": "CN",
       "country_name": "China",
-      "news_count": 6
+      "news_count": 5
     },
     {
       "country_code": "KE",
