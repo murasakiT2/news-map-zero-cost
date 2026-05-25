@@ -1,23 +1,50 @@
 {
-  "generated_at": "2026-05-25T20:06:24Z",
+  "generated_at": "2026-05-25T21:39:38Z",
   "articles": [
-    {
-      "source": "BBC World",
-      "title": "Netanyahu says Israel will intensify strikes against Hezbollah",
-      "url": "https://www.bbc.com/news/articles/cewppdk1187o?at_medium=RSS&at_campaign=rss",
-      "summary": "The Israeli military hits targets in eastern Lebanon after the prime minister announces further strikes.",
-      "published_at": "2026-05-25T19:46:54Z",
-      "country_code": "IL",
-      "country_name": "Israel"
-    },
     {
       "source": "BBC World",
       "title": "Russia threatens more Kyiv strikes and tells foreign nationals to leave",
       "url": "https://www.bbc.com/news/articles/c1e22n55zn4o?at_medium=RSS&at_campaign=rss",
       "summary": "It comes after the Ukrainian capital suffered one of the biggest aerial assaults of the war overnight on Saturday.",
-      "published_at": "2026-05-25T17:42:26Z",
+      "published_at": "2026-05-25T21:24:34Z",
       "country_code": "RU",
       "country_name": "Russia"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "Carney says Alberta referendum 'dangerous bluff' and likens to Brexit",
+      "url": "https://www.bbc.com/news/articles/cn7ppx8jk57o?at_medium=RSS&at_campaign=rss",
+      "summary": "The western province will hold a vote in October on whether Alberta should remain in Canada or move ahead with holding a binding separation …",
+      "published_at": "2026-05-25T20:41:50Z",
+      "country_code": "CA",
+      "country_name": "Canada"
+    },
+    {
+      "source": "BBC World",
+      "title": "Netanyahu says Israel will intensify strikes against Hezbollah",
+      "url": "https://www.bbc.com/news/articles/cewppdk1187o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Israeli military hits targets in eastern Lebanon after the prime minister announces further strikes.",
+      "published_at": "2026-05-25T20:40:15Z",
+      "country_code": "IL",
+      "country_name": "Israel"
+    },
+    {
+      "source": "BBC World",
+      "title": "More than 1.5m foreign pilgrims begin Hajj despite Iran war fears",
+      "url": "https://www.bbc.com/news/articles/cwy22jx03ryo?at_medium=RSS&at_campaign=rss",
+      "summary": "Saudi Arabia says that is 11,000 more than the number of Muslims who travelled to the Gulf kingdom last year.",
+      "published_at": "2026-05-25T20:11:59Z",
+      "country_code": "SA",
+      "country_name": "Saudi Arabia"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "The US remembers its fallen with wreaths, bagpipes and salutes",
+      "url": "https://www.bbc.com/news/videos/c4gvvr2drpgo?at_medium=RSS&at_campaign=rss",
+      "summary": "On Memorial Day, in ceremonies across the US, the nation paused to remember sacrifices made by its military.",
+      "published_at": "2026-05-25T19:58:33Z",
+      "country_code": "US",
+      "country_name": "United States"
     },
     {
       "source": "BBC Latin America",
@@ -668,15 +695,6 @@
       "country_name": "Ukraine"
     },
     {
-      "source": "BBC Middle East",
-      "title": "BBC asks Trump if China will help open the Strait of Hormuz",
-      "url": "https://www.bbc.com/news/videos/cy42rpex87ro?at_medium=RSS&at_campaign=rss",
-      "summary": "The BBC's Tom Bateman asked President Trump about China's willingness to pressure Iran to open the Strait of Hormuz.",
-      "published_at": "2026-05-15T19:22:40Z",
-      "country_code": "CN",
-      "country_name": "China"
-    },
-    {
       "source": "BBC Europe",
       "title": "Watch: BBC at Kyiv block of flats hit by Russian drone strike",
       "url": "https://www.bbc.com/news/videos/cd6pnle9zngo?at_medium=RSS&at_campaign=rss",
@@ -807,7 +825,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 24
+      "news_count": 25
     },
     {
       "country_code": "IR",
@@ -815,14 +833,14 @@
       "news_count": 8
     },
     {
-      "country_code": "CN",
-      "country_name": "China",
-      "news_count": 7
-    },
-    {
       "country_code": "IL",
       "country_name": "Israel",
       "news_count": 7
+    },
+    {
+      "country_code": "CN",
+      "country_name": "China",
+      "news_count": 6
     },
     {
       "country_code": "KE",
@@ -865,6 +883,11 @@
       "news_count": 2
     },
     {
+      "country_code": "CA",
+      "country_name": "Canada",
+      "news_count": 2
+    },
+    {
       "country_code": "JP",
       "country_name": "Japan",
       "news_count": 2
@@ -875,6 +898,11 @@
       "news_count": 2
     },
     {
+      "country_code": "SA",
+      "country_name": "Saudi Arabia",
+      "news_count": 2
+    },
+    {
       "country_code": "AU",
       "country_name": "Australia",
       "news_count": 1
@@ -882,11 +910,6 @@
     {
       "country_code": "BR",
       "country_name": "Brazil",
-      "news_count": 1
-    },
-    {
-      "country_code": "CA",
-      "country_name": "Canada",
       "news_count": 1
     },
     {
@@ -917,11 +940,6 @@
     {
       "country_code": "PT",
       "country_name": "Portugal",
-      "news_count": 1
-    },
-    {
-      "country_code": "SA",
-      "country_name": "Saudi Arabia",
       "news_count": 1
     },
     {
