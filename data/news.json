@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-05-25T02:28:24Z",
+  "generated_at": "2026-05-25T06:51:36Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Rubio says 'solid' Iran deal may come on Monday",
+      "url": "https://www.bbc.com/news/articles/cglpp2yk336o?at_medium=RSS&at_campaign=rss",
+      "summary": "The deal under discussion would involve a 60-day ceasefire extension during which the Strait of Hormuz would be reopened, US media reports.",
+      "published_at": "2026-05-25T06:41:43Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Oil prices slide on hopes of US-Iran peace deal",
+      "url": "https://www.bbc.com/news/articles/c809m7g29r7o?at_medium=RSS&at_campaign=rss",
+      "summary": "Trump said on Saturday that an agreement would include the reopening of the Strait of Hormuz, without giving further details.",
+      "published_at": "2026-05-25T06:01:59Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Large-scale Russian attack on Ukraine leaves four dead and dozens injured",
+      "url": "https://www.bbc.com/news/articles/clyp6831yp5o?at_medium=RSS&at_campaign=rss",
+      "summary": "A hypersonic missile, which reportedly travels over 10 times the speed of sound, was used, Russia has confirmed.",
+      "published_at": "2026-05-25T04:45:13Z",
+      "country_code": "RU",
+      "country_name": "Russia"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "Trump tells US negotiators 'not to rush' into deal with Iran",
+      "url": "https://www.bbc.com/news/articles/clyp0040x7po?at_medium=RSS&at_campaign=rss",
+      "summary": "The deal under discussion would involve a 60-day ceasefire extension during which the Strait of Hormuz would be reopened, according to US me…",
+      "published_at": "2026-05-25T04:16:33Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "How Saudi Arabia's spending spree reached the end of the line",
@@ -12,30 +48,21 @@
     },
     {
       "source": "BBC World",
-      "title": "Trump tells US negotiators 'not to rush' into deal with Iran",
-      "url": "https://www.bbc.com/news/articles/clyp0040x7po?at_medium=RSS&at_campaign=rss",
-      "summary": "The deal under discussion would involve a 60-day ceasefire extension during which the Strait of Hormuz would be reopened, according to US me…",
-      "published_at": "2026-05-25T01:07:15Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "Oil prices slide on hopes of US-Iran peace deal",
-      "url": "https://www.bbc.com/news/articles/c809m7g29r7o?at_medium=RSS&at_campaign=rss",
-      "summary": "Trump said on Saturday that an agreement would include the reopening of the Strait of Hormuz, without giving further details.",
-      "published_at": "2026-05-25T00:50:29Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC Africa",
       "title": "Morocco wants tourists to visit Western Sahara. Some say it's tightening its control",
       "url": "https://www.bbc.com/news/articles/cvgldqk4w95o?at_medium=RSS&at_campaign=rss",
       "summary": "The Moroccan government wants more Western holidaymakers to visit the territory it claims to own.",
       "published_at": "2026-05-24T23:13:50Z",
       "country_code": "MA",
       "country_name": "Morocco"
+    },
+    {
+      "source": "BBC World",
+      "title": "Indian billionaires buy foreign companies as growth slows at home",
+      "url": "https://www.bbc.com/news/articles/cwy21x20q23o?at_medium=RSS&at_campaign=rss",
+      "summary": "India Inc spent $18bn on global buyouts in 2025 and the deal value could cross $15bn in the first half of 2026.",
+      "published_at": "2026-05-24T23:01:09Z",
+      "country_code": "IN",
+      "country_name": "India"
     },
     {
       "source": "BBC World",
@@ -57,15 +84,6 @@
     },
     {
       "source": "BBC World",
-      "title": "Large-scale Russian attack on Ukraine leaves four dead and dozens injured",
-      "url": "https://www.bbc.com/news/articles/clyp6831yp5o?at_medium=RSS&at_campaign=rss",
-      "summary": "The Oreshnik missile, which reportedly travels over 10 times the speed of sound, was used, Russia has confirmed.",
-      "published_at": "2026-05-24T16:50:46Z",
-      "country_code": "RU",
-      "country_name": "Russia"
-    },
-    {
-      "source": "BBC World",
       "title": "Man killed in shark attack off Australia's north-east coast",
       "url": "https://www.bbc.com/news/articles/cn9pq5l2d14o?at_medium=RSS&at_campaign=rss",
       "summary": "The 39-year-old was fatally injured at a shoal off the Cassowary Coast in Queensland, apparently while spearfishing.",
@@ -81,15 +99,6 @@
       "published_at": "2026-05-24T14:25:00Z",
       "country_code": "PH",
       "country_name": "Philippines"
-    },
-    {
-      "source": "BBC World",
-      "title": "BBC at the site of China's worst mining disaster in more than a decade",
-      "url": "https://www.bbc.com/news/videos/c809m33yjz7o?at_medium=RSS&at_campaign=rss",
-      "summary": "At least 82 people have been killed after a gas explosion at the Liushenyu mine in China.",
-      "published_at": "2026-05-24T10:34:52Z",
-      "country_code": "CN",
-      "country_name": "China"
     },
     {
       "source": "BBC US & Canada",
@@ -110,7 +119,7 @@
       "country_name": "Iran"
     },
     {
-      "source": "BBC Africa",
+      "source": "BBC World",
       "title": "East Africa wants to curb imports of used clothes. But it's not easy",
       "url": "https://www.bbc.com/news/articles/c2l2k5pxrgdo?at_medium=RSS&at_campaign=rss",
       "summary": "Kenya, Uganda and Tanzania are major importers of used garments from the West and China.",
@@ -119,7 +128,7 @@
       "country_name": "China"
     },
     {
-      "source": "BBC Asia",
+      "source": "BBC World",
       "title": "In Japan, divorce splits parents from children. Could a law change end sole custody?",
       "url": "https://www.bbc.com/news/articles/clyp15g9nk4o?at_medium=RSS&at_campaign=rss",
       "summary": "An amendment to Japan's Civil Code looks set to allow shared parenting for the first time.",
@@ -137,7 +146,7 @@
       "country_name": "Ukraine"
     },
     {
-      "source": "BBC Middle East",
+      "source": "BBC World",
       "title": "I survived a missile strike in the Strait of Hormuz, but my friend has not been found",
       "url": "https://www.bbc.com/news/articles/ce8pn63q771o?at_medium=RSS&at_campaign=rss",
       "summary": "Sunil Puniya was on his first sea job when a missile struck the oil tanker Skylight at the start of the Iran war.",
@@ -146,16 +155,7 @@
       "country_name": "Iran"
     },
     {
-      "source": "BBC Africa",
-      "title": "Electronic music meets orchestra as South Africa's DJ Black Coffee stuns UK crowds",
-      "url": "https://www.bbc.com/news/articles/cvgz0dzpxpxo?at_medium=RSS&at_campaign=rss",
-      "summary": "In London for one night only ahead of his Ibiza residency, this sell-out show represented far more than just a performance.",
-      "published_at": "2026-05-23T17:05:51Z",
-      "country_code": "GB",
-      "country_name": "United Kingdom"
-    },
-    {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "India's parody 'cockroach party' claims website has been blocked",
       "url": "https://www.bbc.com/news/articles/cddpq71866do?at_medium=RSS&at_campaign=rss",
       "summary": "The satirical group has gained millions of followers as \"the voice of the lazy and unemployed\".",
@@ -200,7 +200,7 @@
       "country_name": "South Korea"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Africa",
       "title": "DR Congo players told to isolate before World Cup",
       "url": "https://www.bbc.com/sport/football/articles/cpdp8geyqxeo?at_medium=RSS&at_campaign=rss",
       "summary": "The Democratic Republic of Congo's World Cup squad must isolate for 21 days before they can enter the US because of the Ebola outbreak.",
@@ -209,7 +209,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Middle East",
       "title": "Gaza flotilla activists allege abuse by Israeli forces while detained",
       "url": "https://www.bbc.com/news/articles/cglp5z63k9no?at_medium=RSS&at_campaign=rss",
       "summary": "The detainees say they were slapped, hit, humiliated and even subjected to sexual violence, but Israel's prison service says the allegations…",
@@ -232,15 +232,6 @@
       "url": "https://www.bbc.com/news/articles/cgrpz4l1klgo?at_medium=RSS&at_campaign=rss",
       "summary": "A new policy closes a loophole that has allowed people to apply for a green card, or permanent residency, while in the country.",
       "published_at": "2026-05-23T02:14:29Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "US government releases UFO sighting reports - 'Orbs swarming in all directions'",
-      "url": "https://www.bbc.com/news/articles/cn8pzzlyy66o?at_medium=RSS&at_campaign=rss",
-      "summary": "The Pentagon discloses scores of UFO files with reported sightings of spheres, discs and fireballs spanning nearly 80 years.",
-      "published_at": "2026-05-22T22:32:12Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -272,7 +263,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "Tulsi Gabbard to resign as US national intelligence director",
       "url": "https://www.bbc.com/news/articles/cvgj2gkv1x1o?at_medium=RSS&at_campaign=rss",
       "summary": "Gabbard who has been largely out of public view during recent US operations says she is leaving due to her husband's illness.",
@@ -615,39 +606,12 @@
     },
     {
       "source": "BBC Middle East",
-      "title": "Death toll from Israeli strikes on Lebanon passes 3,000, officials say",
-      "url": "https://www.bbc.com/news/articles/cqjpglyjwjeo?at_medium=RSS&at_campaign=rss",
-      "summary": "It marks a grim milestone in the conflict between Israel and the Lebanese armed group Hezbollah since March, despite a nominal ceasefire.",
-      "published_at": "2026-05-18T16:16:38Z",
-      "country_code": "IL",
-      "country_name": "Israel"
-    },
-    {
-      "source": "BBC Middle East",
-      "title": "Trump warns 'clock is ticking' for Iran as peace progress stalls",
-      "url": "https://www.bbc.com/news/articles/cd0p4y9y48xo?at_medium=RSS&at_campaign=rss",
-      "summary": "On Monday Iran said it had responded to the latest US proposal and that exchanges with Washington were continuing.",
-      "published_at": "2026-05-18T09:58:35Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC Middle East",
       "title": "'This may be the last time you hear my voice': Political executions surge in Iran since start of war",
       "url": "https://www.bbc.com/news/articles/cn8p392nl7yo?at_medium=RSS&at_campaign=rss",
       "summary": "Since the US and Israel attacked Iran on 28 February, the UN says it’s verified the execution of at least 32 political prisoners.",
       "published_at": "2026-05-17T23:02:56Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC Middle East",
-      "title": "UAE reports strike near Abu Dhabi nuclear power plant",
-      "url": "https://www.bbc.com/news/articles/cwy27pkj1l1o?at_medium=RSS&at_campaign=rss",
-      "summary": "The country is investigating the source of the strike, which it calls a \"dangerous escalation\".",
-      "published_at": "2026-05-17T20:53:45Z",
-      "country_code": "AE",
-      "country_name": "United Arab Emirates"
     },
     {
       "source": "BBC Europe",
@@ -749,6 +713,15 @@
       "country_name": "Palestine"
     },
     {
+      "source": "BBC Middle East",
+      "title": "Return of Palestine Marathon attracts thousands of runners",
+      "url": "https://www.bbc.com/news/videos/cm2p4n000pko?at_medium=RSS&at_campaign=rss",
+      "summary": "Thousands of people have taken part in the Palestine Marathon, which returns to Bethlehem after a two-year pause over the Gaza War.",
+      "published_at": "2026-05-08T17:23:28Z",
+      "country_code": "PS",
+      "country_name": "Palestine"
+    },
+    {
       "source": "BBC Latin America",
       "title": "Trump and Lula's private Oval Office meeting signals lingering strain - and effort to avoid tension",
       "url": "https://www.bbc.com/news/articles/c8r8gxjxz10o?at_medium=RSS&at_campaign=rss",
@@ -828,13 +801,22 @@
       "published_at": "2026-04-28T11:18:38Z",
       "country_code": "KE",
       "country_name": "Kenya"
+    },
+    {
+      "source": "BBC Africa",
+      "title": "The human cost of the war in Sudan, three years on",
+      "url": "https://www.bbc.com/news/videos/czd77jgnnlno?at_medium=RSS&at_campaign=rss",
+      "summary": "The conflict, which erupted in 2023, has left behind a human toll which is \"simply staggering\", reports the BBC's Barbara Plett Usher.",
+      "published_at": "2026-04-15T08:38:36Z",
+      "country_code": "SD",
+      "country_name": "Sudan"
     }
   ],
   "regions": [
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 30
+      "news_count": 29
     },
     {
       "country_code": "IR",
@@ -844,7 +826,7 @@
     {
       "country_code": "IL",
       "country_name": "Israel",
-      "news_count": 7
+      "news_count": 6
     },
     {
       "country_code": "RU",
@@ -854,7 +836,7 @@
     {
       "country_code": "CN",
       "country_name": "China",
-      "news_count": 5
+      "news_count": 4
     },
     {
       "country_code": "FR",
@@ -862,8 +844,8 @@
       "news_count": 4
     },
     {
-      "country_code": "GB",
-      "country_name": "United Kingdom",
+      "country_code": "IN",
+      "country_name": "India",
       "news_count": 4
     },
     {
@@ -872,13 +854,13 @@
       "news_count": 4
     },
     {
-      "country_code": "IN",
-      "country_name": "India",
-      "news_count": 3
-    },
-    {
       "country_code": "PS",
       "country_name": "Palestine",
+      "news_count": 4
+    },
+    {
+      "country_code": "GB",
+      "country_name": "United Kingdom",
       "news_count": 3
     },
     {
@@ -890,11 +872,6 @@
       "country_code": "KR",
       "country_name": "South Korea",
       "news_count": 2
-    },
-    {
-      "country_code": "AE",
-      "country_name": "United Arab Emirates",
-      "news_count": 1
     },
     {
       "country_code": "AU",
@@ -944,6 +921,11 @@
     {
       "country_code": "SA",
       "country_name": "Saudi Arabia",
+      "news_count": 1
+    },
+    {
+      "country_code": "SD",
+      "country_name": "Sudan",
       "news_count": 1
     },
     {
