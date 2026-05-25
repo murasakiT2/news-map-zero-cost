@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-05-25T14:19:14Z",
+  "generated_at": "2026-05-25T16:36:16Z",
   "articles": [
+    {
+      "source": "BBC Latin America",
+      "title": "Three arrested over burglaries against high-profile athletes",
+      "url": "https://www.bbc.com/news/articles/c0m22vdwrr9o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Chilean nationals were arrested in Argentina on suspicion of targeting stars including Travis Kelce.",
+      "published_at": "2026-05-25T14:51:28Z",
+      "country_code": "AR",
+      "country_name": "Argentina"
+    },
     {
       "source": "BBC World",
       "title": "Oil prices slide on hopes of US-Iran peace deal",
@@ -63,6 +72,15 @@
       "published_at": "2026-05-25T07:13:16Z",
       "country_code": "IR",
       "country_name": "Iran"
+    },
+    {
+      "source": "BBC Latin America",
+      "title": "Messi suffers injury scare before World Cup",
+      "url": "https://www.bbc.com/sport/football/articles/cx211e5890lo?at_medium=RSS&at_campaign=rss",
+      "summary": "Argentina star Lionel Messi is substituted with an apparent thigh problem before next month's World Cup.",
+      "published_at": "2026-05-25T06:52:07Z",
+      "country_code": "AR",
+      "country_name": "Argentina"
     },
     {
       "source": "BBC World",
@@ -849,6 +867,11 @@
       "country_code": "UA",
       "country_name": "Ukraine",
       "news_count": 3
+    },
+    {
+      "country_code": "AR",
+      "country_name": "Argentina",
+      "news_count": 2
     },
     {
       "country_code": "BR",
