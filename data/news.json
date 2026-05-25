@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-05-24T23:32:00Z",
+  "generated_at": "2026-05-25T02:28:24Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "How Saudi Arabia's spending spree reached the end of the line",
+      "url": "https://www.bbc.com/news/articles/cx21g0828reo?at_medium=RSS&at_campaign=rss",
+      "summary": "MBS's Vison 2030 project seemed the stuff of science fiction. Now reality has bitten",
+      "published_at": "2026-05-25T01:08:39Z",
+      "country_code": "SA",
+      "country_name": "Saudi Arabia"
+    },
+    {
+      "source": "BBC World",
+      "title": "Trump tells US negotiators 'not to rush' into deal with Iran",
+      "url": "https://www.bbc.com/news/articles/clyp0040x7po?at_medium=RSS&at_campaign=rss",
+      "summary": "The deal under discussion would involve a 60-day ceasefire extension during which the Strait of Hormuz would be reopened, according to US me…",
+      "published_at": "2026-05-25T01:07:15Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "Oil prices slide on hopes of US-Iran peace deal",
+      "url": "https://www.bbc.com/news/articles/c809m7g29r7o?at_medium=RSS&at_campaign=rss",
+      "summary": "Trump said on Saturday that an agreement would include the reopening of the Strait of Hormuz, without giving further details.",
+      "published_at": "2026-05-25T00:50:29Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC Africa",
+      "title": "Morocco wants tourists to visit Western Sahara. Some say it's tightening its control",
+      "url": "https://www.bbc.com/news/articles/cvgldqk4w95o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Moroccan government wants more Western holidaymakers to visit the territory it claims to own.",
+      "published_at": "2026-05-24T23:13:50Z",
+      "country_code": "MA",
+      "country_name": "Morocco"
+    },
     {
       "source": "BBC World",
       "title": "Blast targeting train kills at least 20 in Pakistan",
@@ -18,15 +54,6 @@
       "published_at": "2026-05-24T21:43:25Z",
       "country_code": "ZA",
       "country_name": "South Africa"
-    },
-    {
-      "source": "BBC World",
-      "title": "Trump tells US negotiators 'not to rush' into deal with Iran",
-      "url": "https://www.bbc.com/news/articles/clyp0040x7po?at_medium=RSS&at_campaign=rss",
-      "summary": "The deal under discussion would involve a 60-day ceasefire extension during which the Strait of Hormuz would be reopened, according to US me…",
-      "published_at": "2026-05-24T20:26:26Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC World",
@@ -92,7 +119,7 @@
       "country_name": "China"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "In Japan, divorce splits parents from children. Could a law change end sole custody?",
       "url": "https://www.bbc.com/news/articles/clyp15g9nk4o?at_medium=RSS&at_campaign=rss",
       "summary": "An amendment to Japan's Civil Code looks set to allow shared parenting for the first time.",
@@ -110,7 +137,7 @@
       "country_name": "Ukraine"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Middle East",
       "title": "I survived a missile strike in the Strait of Hormuz, but my friend has not been found",
       "url": "https://www.bbc.com/news/articles/ce8pn63q771o?at_medium=RSS&at_campaign=rss",
       "summary": "Sunil Puniya was on his first sea job when a missile struck the oil tanker Skylight at the start of the Iran war.",
@@ -722,15 +749,6 @@
       "country_name": "Palestine"
     },
     {
-      "source": "BBC Middle East",
-      "title": "Return of Palestine Marathon attracts thousands of runners",
-      "url": "https://www.bbc.com/news/videos/cm2p4n000pko?at_medium=RSS&at_campaign=rss",
-      "summary": "Thousands of people have taken part in the Palestine Marathon, which returns to Bethlehem after a two-year pause over the Gaza War.",
-      "published_at": "2026-05-08T17:23:28Z",
-      "country_code": "PS",
-      "country_name": "Palestine"
-    },
-    {
       "source": "BBC Latin America",
       "title": "Trump and Lula's private Oval Office meeting signals lingering strain - and effort to avoid tension",
       "url": "https://www.bbc.com/news/articles/c8r8gxjxz10o?at_medium=RSS&at_campaign=rss",
@@ -810,22 +828,13 @@
       "published_at": "2026-04-28T11:18:38Z",
       "country_code": "KE",
       "country_name": "Kenya"
-    },
-    {
-      "source": "BBC Africa",
-      "title": "The human cost of the war in Sudan, three years on",
-      "url": "https://www.bbc.com/news/videos/czd77jgnnlno?at_medium=RSS&at_campaign=rss",
-      "summary": "The conflict, which erupted in 2023, has left behind a human toll which is \"simply staggering\", reports the BBC's Barbara Plett Usher.",
-      "published_at": "2026-04-15T08:38:36Z",
-      "country_code": "SD",
-      "country_name": "Sudan"
     }
   ],
   "regions": [
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 29
+      "news_count": 30
     },
     {
       "country_code": "IR",
@@ -863,13 +872,13 @@
       "news_count": 4
     },
     {
-      "country_code": "PS",
-      "country_name": "Palestine",
-      "news_count": 4
-    },
-    {
       "country_code": "IN",
       "country_name": "India",
+      "news_count": 3
+    },
+    {
+      "country_code": "PS",
+      "country_name": "Palestine",
       "news_count": 3
     },
     {
@@ -908,6 +917,11 @@
       "news_count": 1
     },
     {
+      "country_code": "MA",
+      "country_name": "Morocco",
+      "news_count": 1
+    },
+    {
       "country_code": "NG",
       "country_name": "Nigeria",
       "news_count": 1
@@ -928,8 +942,8 @@
       "news_count": 1
     },
     {
-      "country_code": "SD",
-      "country_name": "Sudan",
+      "country_code": "SA",
+      "country_name": "Saudi Arabia",
       "news_count": 1
     },
     {
