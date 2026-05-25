@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-05-25T22:51:20Z",
+  "generated_at": "2026-05-25T23:55:26Z",
   "articles": [
+    {
+      "source": "BBC Latin America",
+      "title": "Inter Miami say Messi went off with muscle fatigue",
+      "url": "https://www.bbc.com/sport/football/articles/cx211e5890lo?at_medium=RSS&at_campaign=rss",
+      "summary": "Argentina star Lionel Messi was substituted during Inter Miami's Major League Soccer game on Sunday due to \"muscle fatigue\" in his left hams…",
+      "published_at": "2026-05-25T23:12:21Z",
+      "country_code": "AR",
+      "country_name": "Argentina"
+    },
     {
       "source": "BBC World",
       "title": "Trump to undergo annual medical exam ahead of 80th birthday",
@@ -126,15 +135,6 @@
       "published_at": "2026-05-25T07:13:16Z",
       "country_code": "IR",
       "country_name": "Iran"
-    },
-    {
-      "source": "BBC Latin America",
-      "title": "Messi suffers injury scare before World Cup",
-      "url": "https://www.bbc.com/sport/football/articles/cx211e5890lo?at_medium=RSS&at_campaign=rss",
-      "summary": "Argentina star Lionel Messi is substituted with an apparent thigh problem before next month's World Cup.",
-      "published_at": "2026-05-25T06:52:07Z",
-      "country_code": "AR",
-      "country_name": "Argentina"
     },
     {
       "source": "BBC Middle East",
@@ -336,28 +336,10 @@
     },
     {
       "source": "BBC US & Canada",
-      "title": "Carney says Alberta is 'essential' to Canada as province plans vote on separation",
-      "url": "https://www.bbc.com/news/articles/cy42w778e72o?at_medium=RSS&at_campaign=rss",
-      "summary": "Alberta's decision to hold a referendum on separation has been widely criticised, including by separatists who say the question is not defin…",
-      "published_at": "2026-05-22T20:59:28Z",
-      "country_code": "CA",
-      "country_name": "Canada"
-    },
-    {
-      "source": "BBC US & Canada",
       "title": "‘Long live Raúl!’ - Castro’s supporters in Cuba rally in his defence",
       "url": "https://www.bbc.com/news/videos/cr5pl7jevyro?at_medium=RSS&at_campaign=rss",
       "summary": "BBC's Will Grant reports from a pro-government demonstration held after the US indictment of the former president.",
       "published_at": "2026-05-22T20:49:25Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "Tulsi Gabbard to resign as US national intelligence director",
-      "url": "https://www.bbc.com/news/articles/cvgj2gkv1x1o?at_medium=RSS&at_campaign=rss",
-      "summary": "Gabbard who has been largely out of public view during recent US operations says she is leaving due to her husband's illness.",
-      "published_at": "2026-05-22T20:30:26Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -825,7 +807,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 26
+      "news_count": 25
     },
     {
       "country_code": "IR",
@@ -883,11 +865,6 @@
       "news_count": 2
     },
     {
-      "country_code": "CA",
-      "country_name": "Canada",
-      "news_count": 2
-    },
-    {
       "country_code": "JP",
       "country_name": "Japan",
       "news_count": 2
@@ -910,6 +887,11 @@
     {
       "country_code": "BR",
       "country_name": "Brazil",
+      "news_count": 1
+    },
+    {
+      "country_code": "CA",
+      "country_name": "Canada",
       "news_count": 1
     },
     {
