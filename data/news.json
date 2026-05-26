@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-05-25T23:55:26Z",
+  "generated_at": "2026-05-26T02:11:55Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Netanyahu says Israel will intensify strikes against Hezbollah",
+      "url": "https://www.bbc.com/news/articles/cewppdk1187o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Israeli military hits targets in eastern Lebanon after the prime minister announces further strikes.",
+      "published_at": "2026-05-26T01:17:46Z",
+      "country_code": "IL",
+      "country_name": "Israel"
+    },
+    {
+      "source": "BBC World",
+      "title": "US military says it has launched new strikes on southern Iran",
+      "url": "https://www.bbc.com/news/articles/cvgzzn4y1n8o?at_medium=RSS&at_campaign=rss",
+      "summary": "The strikes on Iranian missile launch sites and boats were taken in \"self-defence\", US Central Command says.",
+      "published_at": "2026-05-26T00:33:53Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC Latin America",
       "title": "Inter Miami say Messi went off with muscle fatigue",
@@ -48,15 +66,6 @@
     },
     {
       "source": "BBC World",
-      "title": "Netanyahu says Israel will intensify strikes against Hezbollah",
-      "url": "https://www.bbc.com/news/articles/cewppdk1187o?at_medium=RSS&at_campaign=rss",
-      "summary": "The Israeli military hits targets in eastern Lebanon after the prime minister announces further strikes.",
-      "published_at": "2026-05-25T20:40:15Z",
-      "country_code": "IL",
-      "country_name": "Israel"
-    },
-    {
-      "source": "BBC World",
       "title": "More than 1.5m foreign pilgrims begin Hajj despite Iran war fears",
       "url": "https://www.bbc.com/news/articles/cwy22jx03ryo?at_medium=RSS&at_campaign=rss",
       "summary": "Saudi Arabia says that is 11,000 more than the number of Muslims who travelled to the Gulf kingdom last year.",
@@ -66,9 +75,9 @@
     },
     {
       "source": "BBC US & Canada",
-      "title": "The US remembers its fallen with wreaths, bagpipes and salutes",
+      "title": "US marks Memorial Day with wreaths, bagpipes and salutes",
       "url": "https://www.bbc.com/news/videos/c4gvvr2drpgo?at_medium=RSS&at_campaign=rss",
-      "summary": "On Memorial Day, in ceremonies across the US, the nation paused to remember sacrifices made by its military.",
+      "summary": "In ceremonies across the nation, the Americans who died while serving in the US military are remembered.",
       "published_at": "2026-05-25T19:58:33Z",
       "country_code": "US",
       "country_name": "United States"
@@ -425,15 +434,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Asia",
-      "title": "US navy chief says $14bn arms sale to Taiwan paused due to Iran war",
-      "url": "https://www.bbc.com/news/articles/c232z4yk437o?at_medium=RSS&at_campaign=rss",
-      "summary": "Hung Cao told a Senate hearing they were \"doing a pause\" on the sale to make sure they had munitions for the Iran war.",
-      "published_at": "2026-05-22T08:12:47Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC Europe",
       "title": "'No means no': Greenlanders protest against Trump outside new US consulate",
       "url": "https://www.bbc.com/news/articles/cwy2gxvnq1zo?at_medium=RSS&at_campaign=rss",
@@ -560,7 +560,7 @@
       "country_name": "Israel"
     },
     {
-      "source": "BBC Asia",
+      "source": "BBC Europe",
       "title": "Rosenberg: Putin enjoys Xi's Chinese welcome but heads home without pipeline deal",
       "url": "https://www.bbc.com/news/articles/c8r8me3nlllo?at_medium=RSS&at_campaign=rss",
       "summary": "Russia and China showed they were shoulder-to-shoulder on the world stage, but it became clear there are limits, says the BBC's Russia Edito…",
@@ -594,15 +594,6 @@
       "published_at": "2026-05-20T05:24:07Z",
       "country_code": "CN",
       "country_name": "China"
-    },
-    {
-      "source": "BBC Middle East",
-      "title": "Israeli forces board Gaza-bound flotilla near Cyprus, activists say",
-      "url": "https://www.bbc.com/news/articles/c142vz80553o?at_medium=RSS&at_campaign=rss",
-      "summary": "The Global Sumud Flotilla says commandos have intercepted more than 50 boats trying to breach the Gaza maritime blockade since Monday.",
-      "published_at": "2026-05-19T20:27:54Z",
-      "country_code": "PS",
-      "country_name": "Palestine"
     },
     {
       "source": "BBC Latin America",
@@ -850,11 +841,6 @@
       "news_count": 3
     },
     {
-      "country_code": "PS",
-      "country_name": "Palestine",
-      "news_count": 3
-    },
-    {
       "country_code": "UA",
       "country_name": "Ukraine",
       "news_count": 3
@@ -872,6 +858,11 @@
     {
       "country_code": "KR",
       "country_name": "South Korea",
+      "news_count": 2
+    },
+    {
+      "country_code": "PS",
+      "country_name": "Palestine",
       "news_count": 2
     },
     {
