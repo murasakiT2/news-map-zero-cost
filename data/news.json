@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-05-26T21:27:35Z",
+  "generated_at": "2026-05-26T22:46:43Z",
   "articles": [
+    {
+      "source": "BBC US & Canada",
+      "title": "Multiple people killed and others missing after chemical explosion at US paper mill",
+      "url": "https://www.bbc.com/news/articles/cj9ppm94xw9o?at_medium=RSS&at_campaign=rss",
+      "summary": "Ten people were injured and an unknown number are missing after a tank ruptured at a paper mill in Longview, Washington.",
+      "published_at": "2026-05-26T22:07:20Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC US & Canada",
       "title": "Adams & Robinson in US squad for World Cup",
@@ -225,15 +234,6 @@
       "published_at": "2026-05-25T22:05:29Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "Carney says Alberta referendum 'dangerous bluff' and likens to Brexit",
-      "url": "https://www.bbc.com/news/articles/cn7ppx8jk57o?at_medium=RSS&at_campaign=rss",
-      "summary": "The western province will hold a vote in October on whether Alberta should remain in Canada or move ahead with holding a binding separation …",
-      "published_at": "2026-05-25T20:41:50Z",
-      "country_code": "CA",
-      "country_name": "Canada"
     },
     {
       "source": "BBC Middle East",
@@ -807,7 +807,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 25
+      "news_count": 26
     },
     {
       "country_code": "IR",
@@ -887,11 +887,6 @@
     {
       "country_code": "BR",
       "country_name": "Brazil",
-      "news_count": 1
-    },
-    {
-      "country_code": "CA",
-      "country_name": "Canada",
       "news_count": 1
     },
     {
