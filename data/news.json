@@ -1,17 +1,71 @@
 {
-  "generated_at": "2026-05-26T06:29:44Z",
+  "generated_at": "2026-05-26T10:33:18Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Four killed as school minibus collides with train in Belgium",
+      "url": "https://www.bbc.com/news/articles/c70vvd17rg7o?at_medium=RSS&at_campaign=rss",
+      "summary": "Two schoolchildren, their chaperone and the minibus driver were killed in the crash, says a Belgian minister.",
+      "published_at": "2026-05-26T10:27:45Z",
+      "country_code": "BE",
+      "country_name": "Belgium"
+    },
     {
       "source": "BBC World",
       "title": "US launches new strikes on Iran, targeting missile sites and boats",
       "url": "https://www.bbc.com/news/articles/cvgzzn4y1n8o?at_medium=RSS&at_campaign=rss",
-      "summary": "US Central Command says the strikes were taken in \"self-defense\". It comes as senior Iranian negotiators arrive in Qatar for talks to end th…",
-      "published_at": "2026-05-26T05:45:58Z",
+      "summary": "US Central Command says the strikes were taken in \"self-defence\". It comes as senior Iranian negotiators are in Qatar for talks to end the w…",
+      "published_at": "2026-05-26T09:44:58Z",
       "country_code": "US",
       "country_name": "United States"
     },
     {
+      "source": "BBC World",
+      "title": "Watch: Bridge collapses and car swept away in China river",
+      "url": "https://www.bbc.com/news/videos/cdjppm1rpn7o?at_medium=RSS&at_campaign=rss",
+      "summary": "The driver and passengers of the car managed to escape before the bridge gave way in Xiaogan.",
+      "published_at": "2026-05-26T09:12:57Z",
+      "country_code": "CN",
+      "country_name": "China"
+    },
+    {
+      "source": "BBC World",
+      "title": "China executes man for murdering prominent gaming tycoon",
+      "url": "https://www.bbc.com/news/articles/cg5ppg50gplo?at_medium=RSS&at_campaign=rss",
+      "summary": "The court said the man poisoned the tycoon for sidelining him after he helped secure a deal with Netflix for the 3 Body Problem.",
+      "published_at": "2026-05-26T08:55:55Z",
+      "country_code": "CN",
+      "country_name": "China"
+    },
+    {
       "source": "BBC Asia",
+      "title": "Islamic State-linked families in Syria return to Australia",
+      "url": "https://www.bbc.com/news/articles/ce8pp7j8d4mo?at_medium=RSS&at_campaign=rss",
+      "summary": "The group of six Australian women and 13 children had been stranded in a Syrian camp since 2019.",
+      "published_at": "2026-05-26T07:23:15Z",
+      "country_code": "AU",
+      "country_name": "Australia"
+    },
+    {
+      "source": "BBC World",
+      "title": "Watch: Drones crash into water after Sydney light show malfunction",
+      "url": "https://www.bbc.com/news/videos/clyppgdl3xwo?at_medium=RSS&at_campaign=rss",
+      "summary": "Almost 90 drones fell from the sky over Sydney's Darling Harbour during a popular winter light show.",
+      "published_at": "2026-05-26T07:11:50Z",
+      "country_code": "AU",
+      "country_name": "Australia"
+    },
+    {
+      "source": "BBC World",
+      "title": "Australia confirms first diphtheria death amid worst outbreak in decades",
+      "url": "https://www.bbc.com/news/articles/c759q6y26w3o?at_medium=RSS&at_campaign=rss",
+      "summary": "Most cases are in the Northern Territory with some also in Western Australia, South Australia and Queensland.",
+      "published_at": "2026-05-26T07:09:38Z",
+      "country_code": "AU",
+      "country_name": "Australia"
+    },
+    {
+      "source": "BBC World",
       "title": "Dozens of drones crash into Sydney harbour after light show glitch",
       "url": "https://www.bbc.com/news/articles/c9d330wqq2zo?at_medium=RSS&at_campaign=rss",
       "summary": "Vivid Sydney organisers and the UK company behind the drone show blamed it on technical difficulties.",
@@ -57,7 +111,7 @@
     },
     {
       "source": "BBC World",
-      "title": "Trump to undergo annual medical exam ahead of 80th birthday",
+      "title": "Watch: Why US presidents get medical check ups",
       "url": "https://www.bbc.com/news/videos/c1j22wp5e6no?at_medium=RSS&at_campaign=rss",
       "summary": "The BBC’s Bernd Debusmann explains the routine medical check of the president of the US.",
       "published_at": "2026-05-25T22:18:43Z",
@@ -65,7 +119,16 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
+      "title": "Ruud overcomes heat struggles to progress in Paris",
+      "url": "https://www.bbc.com/sport/tennis/articles/cvgzz8xlj9do?at_medium=RSS&at_campaign=rss",
+      "summary": "Former finalist Casper Ruud overcomes struggles with the stifling Paris heat to reach the second round of the French Open.",
+      "published_at": "2026-05-25T22:10:16Z",
+      "country_code": "FR",
+      "country_name": "France"
+    },
+    {
+      "source": "BBC US & Canada",
       "title": "Deal with US not imminent, Iran says",
       "url": "https://www.bbc.com/news/articles/cglpp2yk336o?at_medium=RSS&at_campaign=rss",
       "summary": "The US secretary of state earlier said that an agreement could possibly come on Monday.",
@@ -137,7 +200,7 @@
       "country_name": "Kenya"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "Moment of gas explosion at China coal mine",
       "url": "https://www.bbc.com/news/videos/cedpp9ldnl9o?at_medium=RSS&at_campaign=rss",
       "summary": "At least 82 people have been killed and two are missing after a gas explosion at a coal mine in northern China on Sunday, officials say.",
@@ -407,15 +470,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Africa",
-      "title": "US sanctions Tanzanian police official over 'torture' of rights activists",
-      "url": "https://www.bbc.com/news/articles/cn4p8m3r1glo?at_medium=RSS&at_campaign=rss",
-      "summary": "The sanctions come amid growing scrutiny of Tanzania’s human rights record in recent years.",
-      "published_at": "2026-05-22T08:15:21Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC Latin America",
       "title": "Rubio says Cuba is threat to US as Havana accuses him of 'lies'",
       "url": "https://www.bbc.com/news/articles/ckgpzwkn5jko?at_medium=RSS&at_campaign=rss",
@@ -461,38 +515,11 @@
       "country_name": "Ukraine"
     },
     {
-      "source": "BBC Europe",
-      "title": "Air France and Airbus found guilty of manslaughter over 2009 plane crash",
-      "url": "https://www.bbc.com/news/articles/czd2qmdvmq6o?at_medium=RSS&at_campaign=rss",
-      "summary": "The companies were found guilty by a French court over an air disaster which killed 228 people.",
-      "published_at": "2026-05-21T15:58:46Z",
-      "country_code": "FR",
-      "country_name": "France"
-    },
-    {
       "source": "BBC Middle East",
       "title": "Iran steps up claim to control Strait of Hormuz",
       "url": "https://www.bbc.com/news/articles/cq5py64gvwzo?at_medium=RSS&at_campaign=rss",
       "summary": "Iran publishes a map claiming \"armed forces oversight\" across more than 22,000 sq km of the waterway.",
       "published_at": "2026-05-21T14:37:29Z",
-      "country_code": "IR",
-      "country_name": "Iran"
-    },
-    {
-      "source": "BBC Asia",
-      "title": "India has a new political superstar - a cockroach",
-      "url": "https://www.bbc.com/news/articles/cz72y11jjq1o?at_medium=RSS&at_campaign=rss",
-      "summary": "A satirical collective named after the cockroach has got millions of online followers in less than a week.",
-      "published_at": "2026-05-21T11:12:53Z",
-      "country_code": "IN",
-      "country_name": "India"
-    },
-    {
-      "source": "BBC Europe",
-      "title": "EasyJet boss says summer flights won't be hit by jet fuel shortages",
-      "url": "https://www.bbc.com/news/articles/ckgplpd7px4o?at_medium=RSS&at_campaign=rss",
-      "summary": "The airline has seen no problems with fuel, but says people are booking later because of uncertainty caused by the Iran war.",
-      "published_at": "2026-05-21T11:03:00Z",
       "country_code": "IR",
       "country_name": "Iran"
     },
@@ -533,15 +560,6 @@
       "country_name": "Russia"
     },
     {
-      "source": "BBC Europe",
-      "title": "Austrian ex-intelligence officer found guilty of Russia spying charges",
-      "url": "https://www.bbc.com/news/articles/cwy21541dz4o?at_medium=RSS&at_campaign=rss",
-      "summary": "The spy scandal has revived fears that Austria remains a hotbed of Russian espionage activity.",
-      "published_at": "2026-05-20T19:30:07Z",
-      "country_code": "RU",
-      "country_name": "Russia"
-    },
-    {
       "source": "BBC Middle East",
       "title": "Hezbollah drone strike videos show evolving tactics against Israel",
       "url": "https://www.bbc.com/news/articles/c1j2zwe9g5no?at_medium=RSS&at_campaign=rss",
@@ -549,15 +567,6 @@
       "published_at": "2026-05-20T16:36:30Z",
       "country_code": "IL",
       "country_name": "Israel"
-    },
-    {
-      "source": "BBC Europe",
-      "title": "Rosenberg: Putin enjoys Xi's Chinese welcome but heads home without pipeline deal",
-      "url": "https://www.bbc.com/news/articles/c8r8me3nlllo?at_medium=RSS&at_campaign=rss",
-      "summary": "Russia and China showed they were shoulder-to-shoulder on the world stage, but it became clear there are limits, says the BBC's Russia Edito…",
-      "published_at": "2026-05-20T16:34:40Z",
-      "country_code": "CN",
-      "country_name": "China"
     },
     {
       "source": "BBC Latin America",
@@ -783,18 +792,22 @@
       "published_at": "2026-04-28T11:18:38Z",
       "country_code": "KE",
       "country_name": "Kenya"
+    },
+    {
+      "source": "BBC Africa",
+      "title": "The human cost of the war in Sudan, three years on",
+      "url": "https://www.bbc.com/news/videos/czd77jgnnlno?at_medium=RSS&at_campaign=rss",
+      "summary": "The conflict, which erupted in 2023, has left behind a human toll which is \"simply staggering\", reports the BBC's Barbara Plett Usher.",
+      "published_at": "2026-04-15T08:38:36Z",
+      "country_code": "SD",
+      "country_name": "Sudan"
     }
   ],
   "regions": [
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 25
-    },
-    {
-      "country_code": "IR",
-      "country_name": "Iran",
-      "news_count": 8
+      "news_count": 24
     },
     {
       "country_code": "IL",
@@ -802,9 +815,14 @@
       "news_count": 7
     },
     {
+      "country_code": "IR",
+      "country_name": "Iran",
+      "news_count": 7
+    },
+    {
       "country_code": "CN",
       "country_name": "China",
-      "news_count": 5
+      "news_count": 6
     },
     {
       "country_code": "FR",
@@ -817,14 +835,19 @@
       "news_count": 5
     },
     {
-      "country_code": "RU",
-      "country_name": "Russia",
-      "news_count": 5
-    },
-    {
       "country_code": "GB",
       "country_name": "United Kingdom",
       "news_count": 4
+    },
+    {
+      "country_code": "RU",
+      "country_name": "Russia",
+      "news_count": 4
+    },
+    {
+      "country_code": "AU",
+      "country_name": "Australia",
+      "news_count": 3
     },
     {
       "country_code": "UA",
@@ -834,11 +857,6 @@
     {
       "country_code": "AR",
       "country_name": "Argentina",
-      "news_count": 2
-    },
-    {
-      "country_code": "IN",
-      "country_name": "India",
       "news_count": 2
     },
     {
@@ -857,6 +875,11 @@
       "news_count": 2
     },
     {
+      "country_code": "BE",
+      "country_name": "Belgium",
+      "news_count": 1
+    },
+    {
       "country_code": "BR",
       "country_name": "Brazil",
       "news_count": 1
@@ -869,6 +892,11 @@
     {
       "country_code": "EG",
       "country_name": "Egypt",
+      "news_count": 1
+    },
+    {
+      "country_code": "IN",
+      "country_name": "India",
       "news_count": 1
     },
     {
@@ -899,6 +927,11 @@
     {
       "country_code": "PT",
       "country_name": "Portugal",
+      "news_count": 1
+    },
+    {
+      "country_code": "SD",
+      "country_name": "Sudan",
       "news_count": 1
     },
     {
