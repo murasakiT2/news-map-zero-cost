@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-05-27T19:58:12Z",
+  "generated_at": "2026-05-27T21:51:57Z",
   "articles": [
+    {
+      "source": "BBC US & Canada",
+      "title": "Jill Biden says she thought husband was 'having a stroke' during 2024 debate",
+      "url": "https://www.bbc.com/news/articles/c99l270vy3no?at_medium=RSS&at_campaign=rss",
+      "summary": "The former US first lady told CBS News that she was frightened by Joe Biden's performance against Donald Trump.",
+      "published_at": "2026-05-27T21:06:19Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Israel issues evacuation order for swathes of southern Lebanon",
+      "url": "https://www.bbc.com/news/articles/cj3pgrpmlklo?at_medium=RSS&at_campaign=rss",
+      "summary": "The military says areas south of the Zahrani River are now \"combat zones\" as it threatens Hezbollah with fresh strikes.",
+      "published_at": "2026-05-27T20:26:03Z",
+      "country_code": "IL",
+      "country_name": "Israel"
+    },
     {
       "source": "BBC World",
       "title": "Trump says US 'not satisfied' with Iran deal yet",
@@ -9,15 +27,6 @@
       "published_at": "2026-05-27T17:37:33Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "Israel strikes Tyre after ordering evacuation of south Lebanon city",
-      "url": "https://www.bbc.com/news/articles/cj3pgrpmlklo?at_medium=RSS&at_campaign=rss",
-      "summary": "Israel's military says it struck Hezbollah targets after telling residents it would \"act forcefully\" against the group.",
-      "published_at": "2026-05-27T17:12:49Z",
-      "country_code": "IL",
-      "country_name": "Israel"
     },
     {
       "source": "BBC Africa",
@@ -171,24 +180,6 @@
       "published_at": "2026-05-27T01:34:42Z",
       "country_code": "BD",
       "country_name": "Bangladesh"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "Trump administration wants federal workers to sign NDAs",
-      "url": "https://www.bbc.com/news/articles/c62dd22906qo?at_medium=RSS&at_campaign=rss",
-      "summary": "US government personnel officials say non-disclosure agreements are part of an effort to stop leaks to the media.",
-      "published_at": "2026-05-27T00:27:22Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "White House erects UFC cage ahead of US 250th anniversary celebrations",
-      "url": "https://www.bbc.com/news/articles/cz622647eg3o?at_medium=RSS&at_campaign=rss",
-      "summary": "Workers were seen assembling domed arches and a staging area on the South Lawn in preparation for next month's event.",
-      "published_at": "2026-05-27T00:17:31Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC US & Canada",
@@ -825,7 +816,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 31
+      "news_count": 30
     },
     {
       "country_code": "CN",
