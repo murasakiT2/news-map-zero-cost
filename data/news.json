@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-05-27T21:51:57Z",
+  "generated_at": "2026-05-27T23:08:35Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "The world's carmakers are struggling to compete with China",
+      "url": "https://www.bbc.com/news/articles/c4g8vg72z43o?at_medium=RSS&at_campaign=rss",
+      "summary": "The BBC visited China’s EV factories and found they are dominating the ecosystems shaping the global auto industry.",
+      "published_at": "2026-05-27T22:00:38Z",
+      "country_code": "CN",
+      "country_name": "China"
+    },
     {
       "source": "BBC US & Canada",
       "title": "Jill Biden says she thought husband was 'having a stroke' during 2024 debate",
@@ -137,7 +146,7 @@
       "country_name": "China"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "How Trump is transforming Washington - by adding his face everywhere",
       "url": "https://www.bbc.com/news/videos/ce8pp9r03z7o?at_medium=RSS&at_campaign=rss",
       "summary": "Sarah Smith visits places across the US capital where the president has hung banners, renamed a site or is rebuilding something.",
@@ -821,7 +830,7 @@
     {
       "country_code": "CN",
       "country_name": "China",
-      "news_count": 7
+      "news_count": 8
     },
     {
       "country_code": "IL",
