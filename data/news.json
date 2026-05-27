@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-05-27T17:37:58Z",
+  "generated_at": "2026-05-27T19:58:12Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Trump says US 'not satisfied' with Iran deal yet",
+      "url": "https://www.bbc.com/news/articles/c74dy9jw1q9o?at_medium=RSS&at_campaign=rss",
+      "summary": "The US president says he believes Iran wants to reach a deal but there is still no agreement on its terms.",
+      "published_at": "2026-05-27T17:37:33Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "Israel strikes Tyre after ordering evacuation of south Lebanon city",
@@ -191,15 +200,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC US & Canada",
-      "title": "US woman killed when umbrella blows into her at restaurant",
-      "url": "https://www.bbc.com/news/articles/crkpvm4xl8ko?at_medium=RSS&at_campaign=rss",
-      "summary": "The woman was dining on the patio with her husband when a strong and sudden wind blew the umbrella.",
-      "published_at": "2026-05-27T00:10:19Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC World",
       "title": "Can EU find a Russia whisperer to mediate an end to war in Ukraine?",
       "url": "https://www.bbc.com/news/articles/cqxpp73wqero?at_medium=RSS&at_campaign=rss",
@@ -335,15 +335,6 @@
       "country_name": "Australia"
     },
     {
-      "source": "BBC World",
-      "title": "Watch: Drones crash into water after Sydney light show malfunction",
-      "url": "https://www.bbc.com/news/videos/clyppgdl3xwo?at_medium=RSS&at_campaign=rss",
-      "summary": "Almost 90 drones fell from the sky over Sydney's Darling Harbour during a popular winter light show.",
-      "published_at": "2026-05-26T07:11:50Z",
-      "country_code": "AU",
-      "country_name": "Australia"
-    },
-    {
       "source": "BBC Asia",
       "title": "Dozens of drones crash into Sydney harbour after light show glitch",
       "url": "https://www.bbc.com/news/articles/c9d330wqq2zo?at_medium=RSS&at_campaign=rss",
@@ -423,15 +414,6 @@
       "published_at": "2026-05-25T08:00:35Z",
       "country_code": "CN",
       "country_name": "China"
-    },
-    {
-      "source": "BBC Middle East",
-      "title": "'Hopefully we can pull it off' - Rubio on Iran deal",
-      "url": "https://www.bbc.com/news/videos/clyppw9gqzwo?at_medium=RSS&at_campaign=rss",
-      "summary": "The deal reportedly includes a 60-day ceasefire extension and the reopening of the Strait of Hormuz.",
-      "published_at": "2026-05-25T07:13:16Z",
-      "country_code": "IR",
-      "country_name": "Iran"
     },
     {
       "source": "BBC Middle East",
@@ -837,15 +819,6 @@
       "published_at": "2026-05-02T05:02:14Z",
       "country_code": "PS",
       "country_name": "Palestine"
-    },
-    {
-      "source": "BBC Middle East",
-      "title": "British couple jailed in Iran: 'We're likely to be here for a long time'",
-      "url": "https://www.bbc.com/news/articles/c202pl60kv9o?at_medium=RSS&at_campaign=rss",
-      "summary": "Lindsay and Craig Foreman are facing the reality of a 10-year prison sentence following their arrest in Iran while on a motorcycle tour last…",
-      "published_at": "2026-05-01T05:04:08Z",
-      "country_code": "IR",
-      "country_name": "Iran"
     }
   ],
   "regions": [
@@ -853,11 +826,6 @@
       "country_code": "US",
       "country_name": "United States",
       "news_count": 31
-    },
-    {
-      "country_code": "IR",
-      "country_name": "Iran",
-      "news_count": 8
     },
     {
       "country_code": "CN",
@@ -868,6 +836,11 @@
       "country_code": "IL",
       "country_name": "Israel",
       "news_count": 7
+    },
+    {
+      "country_code": "IR",
+      "country_name": "Iran",
+      "news_count": 6
     },
     {
       "country_code": "FR",
@@ -897,11 +870,6 @@
     {
       "country_code": "AR",
       "country_name": "Argentina",
-      "news_count": 2
-    },
-    {
-      "country_code": "AU",
-      "country_name": "Australia",
       "news_count": 2
     },
     {
@@ -937,6 +905,11 @@
     {
       "country_code": "AE",
       "country_name": "United Arab Emirates",
+      "news_count": 1
+    },
+    {
+      "country_code": "AU",
+      "country_name": "Australia",
       "news_count": 1
     },
     {
