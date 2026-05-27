@@ -1,8 +1,89 @@
 {
-  "generated_at": "2026-05-26T23:56:31Z",
+  "generated_at": "2026-05-27T02:46:08Z",
   "articles": [
     {
       "source": "BBC US & Canada",
+      "title": "Attorney General Ken Paxton routs veteran incumbent Cornyn in Texas Senate primary",
+      "url": "https://www.bbc.com/news/articles/clypprglrlyo?at_medium=RSS&at_campaign=rss",
+      "summary": "The race will help determine whether Democrats can win back control of the US Senate for the last half of the Trump presidency.",
+      "published_at": "2026-05-27T02:41:00Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Hundreds of children die within months as measles cases soar in Bangladesh",
+      "url": "https://www.bbc.com/news/articles/cwy2d5d7wn5o?at_medium=RSS&at_campaign=rss",
+      "summary": "The country has recorded more than 60,000 suspected cases of measles in just over two months.",
+      "published_at": "2026-05-27T01:34:42Z",
+      "country_code": "BD",
+      "country_name": "Bangladesh"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "Trump administration wants federal workers to sign NDAs",
+      "url": "https://www.bbc.com/news/articles/c62dd22906qo?at_medium=RSS&at_campaign=rss",
+      "summary": "US government personnel officials say non-disclosure agreements are part of an effort to stop leaks to the media.",
+      "published_at": "2026-05-27T00:27:22Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "White House erects UFC cage ahead of US 250th anniversary celebrations",
+      "url": "https://www.bbc.com/news/articles/cz622647eg3o?at_medium=RSS&at_campaign=rss",
+      "summary": "Workers were seen assembling domed arches and a staging area on the South Lawn in preparation for next month's event.",
+      "published_at": "2026-05-27T00:17:31Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Dozens killed in Lebanon as Israel intensifies strikes",
+      "url": "https://www.bbc.com/news/articles/cx211rgngp0o?at_medium=RSS&at_campaign=rss",
+      "summary": "Israel says it struck 100 Hezbollah infrastructure sites and fighters in Lebanon, after PM Benjamin Netanyahu vows to \"crush\" Hezbollah.",
+      "published_at": "2026-05-27T00:10:03Z",
+      "country_code": "IL",
+      "country_name": "Israel"
+    },
+    {
+      "source": "BBC World",
+      "title": "Russia 'relentlessly targeting' critical infrastructure and democracy, GCHQ says",
+      "url": "https://www.bbc.com/news/articles/c4g44gprnnvo?at_medium=RSS&at_campaign=rss",
+      "summary": "The spy agency's head will set out threats facing the UK and the measures she believes need to be taken to confront them on Wednesday.",
+      "published_at": "2026-05-26T23:42:16Z",
+      "country_code": "GB",
+      "country_name": "United Kingdom"
+    },
+    {
+      "source": "BBC World",
+      "title": "Can EU find a Russia whisperer to mediate an end to war in Ukraine?",
+      "url": "https://www.bbc.com/news/articles/cqxpp73wqero?at_medium=RSS&at_campaign=rss",
+      "summary": "With the US pulling out of trilateral talks with Russia and Ukraine, the EU is looking for potential candidates to step in.",
+      "published_at": "2026-05-26T23:15:47Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Watch: UFC arena construction begins at White House ahead of fight",
+      "url": "https://www.bbc.com/news/videos/cz7253q4g4jo?at_medium=RSS&at_campaign=rss",
+      "summary": "The massive structure will host a cage fight as part of celebrations marking the 250th anniversary of the US Declaration of Independence.",
+      "published_at": "2026-05-26T23:14:19Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Three killed and dozens injured in Israeli strike on Gaza City, medics and witnesses say",
+      "url": "https://www.bbc.com/news/articles/cjwppj1yn7go?at_medium=RSS&at_campaign=rss",
+      "summary": "Israel says it was targeting a Hamas commander whose predecessor was killed in a similar strike earlier in May.",
+      "published_at": "2026-05-26T22:50:46Z",
+      "country_code": "IL",
+      "country_name": "Israel"
+    },
+    {
+      "source": "BBC World",
       "title": "Multiple people killed and others missing after chemical explosion at US paper mill",
       "url": "https://www.bbc.com/news/articles/cj9ppm94xw9o?at_medium=RSS&at_campaign=rss",
       "summary": "Ten people were injured and an unknown number are missing after a tank ruptured at a paper mill in Longview, Washington.",
@@ -18,15 +99,6 @@
       "published_at": "2026-05-26T21:02:53Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "Eleven killed in Lebanon village as Israel intensifies strikes",
-      "url": "https://www.bbc.com/news/articles/cx211rgngp0o?at_medium=RSS&at_campaign=rss",
-      "summary": "Israel says it struck 100 Hezbollah infrastructure sites and fighters in Lebanon, after PM Benjamin Netanyahu vows to \"crush\" Hezbollah.",
-      "published_at": "2026-05-26T19:40:35Z",
-      "country_code": "IL",
-      "country_name": "Israel"
     },
     {
       "source": "BBC US & Canada",
@@ -56,7 +128,7 @@
       "country_name": "France"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Middle East",
       "title": "Internet starts coming back in Iran after months-long blackout",
       "url": "https://www.bbc.com/news/articles/c1w22y1n74do?at_medium=RSS&at_campaign=rss",
       "summary": "Internet access has been cut off in the country since the start of the war in late February.",
@@ -74,7 +146,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC US & Canada",
+      "source": "BBC Middle East",
       "title": "US launches new strikes on Iran, targeting missile sites and boats",
       "url": "https://www.bbc.com/news/articles/cvgzzn4y1n8o?at_medium=RSS&at_campaign=rss",
       "summary": "US Central Command says the strikes were taken in \"self-defence\", while Iran reports it downed a US drone that entered its airspace.",
@@ -128,7 +200,7 @@
       "country_name": "China"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "China executes man for poisoning billionaire gaming tycoon",
       "url": "https://www.bbc.com/news/articles/cg5ppg50gplo?at_medium=RSS&at_campaign=rss",
       "summary": "The court said the man poisoned the tycoon for sidelining him after he helped secure a deal with Netflix for the 3 Body Problem.",
@@ -155,15 +227,6 @@
       "country_name": "Australia"
     },
     {
-      "source": "BBC World",
-      "title": "Australia confirms first diphtheria death amid worst outbreak in decades",
-      "url": "https://www.bbc.com/news/articles/c759q6y26w3o?at_medium=RSS&at_campaign=rss",
-      "summary": "Most cases are in the Northern Territory with some also in Western Australia, South Australia and Queensland.",
-      "published_at": "2026-05-26T07:09:38Z",
-      "country_code": "AU",
-      "country_name": "Australia"
-    },
-    {
       "source": "BBC Asia",
       "title": "Dozens of drones crash into Sydney harbour after light show glitch",
       "url": "https://www.bbc.com/news/articles/c9d330wqq2zo?at_medium=RSS&at_campaign=rss",
@@ -180,15 +243,6 @@
       "published_at": "2026-05-26T03:06:06Z",
       "country_code": "RU",
       "country_name": "Russia"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "'Football is life': Ted Lasso actor signs with US pro football team",
-      "url": "https://www.bbc.com/news/videos/c7755z67r3jo?at_medium=RSS&at_campaign=rss",
-      "summary": "Cristo Fernández, well known for playing a footballer in the popular TV series Ted Lasso, tells the BBC it is a \"dream come true\" to sign wi…",
-      "published_at": "2026-05-26T02:14:25Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC Latin America",
@@ -209,7 +263,7 @@
       "country_name": "France"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "Watch: Trump to have annual medical exam ahead of 80th birthday",
       "url": "https://www.bbc.com/news/videos/c1j22wp5e6no?at_medium=RSS&at_campaign=rss",
       "summary": "The BBC’s Bernd Debusmann explains the routine medical check of the president of the US.",
@@ -286,15 +340,6 @@
       "url": "https://www.bbc.com/news/videos/cedpp9ldnl9o?at_medium=RSS&at_campaign=rss",
       "summary": "At least 82 people have been killed and two are missing after a gas explosion at a coal mine in northern China on Sunday, officials say.",
       "published_at": "2026-05-25T10:20:57Z",
-      "country_code": "CN",
-      "country_name": "China"
-    },
-    {
-      "source": "BBC Asia",
-      "title": "Anger grows after China's deadliest coal mining disaster in years",
-      "url": "https://www.bbc.com/news/articles/c893543gn20o?at_medium=RSS&at_campaign=rss",
-      "summary": "On China's tightly-controlled internet, people are calling for justice and questioning how this happened.",
-      "published_at": "2026-05-25T08:00:35Z",
       "country_code": "CN",
       "country_name": "China"
     },
@@ -807,7 +852,12 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 26
+      "news_count": 30
+    },
+    {
+      "country_code": "IL",
+      "country_name": "Israel",
+      "news_count": 8
     },
     {
       "country_code": "IR",
@@ -817,12 +867,7 @@
     {
       "country_code": "CN",
       "country_name": "China",
-      "news_count": 7
-    },
-    {
-      "country_code": "IL",
-      "country_name": "Israel",
-      "news_count": 7
+      "news_count": 6
     },
     {
       "country_code": "FR",
@@ -840,8 +885,8 @@
       "news_count": 4
     },
     {
-      "country_code": "AU",
-      "country_name": "Australia",
+      "country_code": "GB",
+      "country_name": "United Kingdom",
       "news_count": 3
     },
     {
@@ -855,8 +900,8 @@
       "news_count": 2
     },
     {
-      "country_code": "GB",
-      "country_name": "United Kingdom",
+      "country_code": "AU",
+      "country_name": "Australia",
       "news_count": 2
     },
     {
@@ -877,6 +922,11 @@
     {
       "country_code": "AE",
       "country_name": "United Arab Emirates",
+      "news_count": 1
+    },
+    {
+      "country_code": "BD",
+      "country_name": "Bangladesh",
       "news_count": 1
     },
     {
