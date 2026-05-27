@@ -1,12 +1,30 @@
 {
-  "generated_at": "2026-05-27T10:45:42Z",
+  "generated_at": "2026-05-27T14:18:01Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "First Ghanaians evacuated from South Africa over anti-immigrant protests",
+      "url": "https://www.bbc.com/news/articles/cy0269pwxg3o?at_medium=RSS&at_campaign=rss",
+      "summary": "It follows recent protests that have led to fears there could be a resurgence in xenophobic violence.",
+      "published_at": "2026-05-27T14:14:22Z",
+      "country_code": "ZA",
+      "country_name": "South Africa"
+    },
+    {
+      "source": "BBC World",
+      "title": "Israeli strike in Gaza City kills new head of Hamas's military wing",
+      "url": "https://www.bbc.com/news/articles/cjwppj1yn7go?at_medium=RSS&at_campaign=rss",
+      "summary": "Hamas says Mohammed Odeh was killed alongside his wife and two children in a strike on a residential building.",
+      "published_at": "2026-05-27T13:15:26Z",
+      "country_code": "PS",
+      "country_name": "Palestine"
+    },
     {
       "source": "BBC World",
       "title": "Woman caught after 30 years on the run is jailed for armed robberies",
       "url": "https://www.bbc.com/news/articles/cx21dr3lekpo?at_medium=RSS&at_campaign=rss",
-      "summary": "Klette was finally caught in a flat in Berlin in 2024 after more than 30 years on the run and put on trial last year.",
-      "published_at": "2026-05-27T10:27:59Z",
+      "summary": "Klette was finally caught in a flat in Berlin in 2024 and put on trial last year.",
+      "published_at": "2026-05-27T12:42:43Z",
       "country_code": "DE",
       "country_name": "Germany"
     },
@@ -14,19 +32,37 @@
       "source": "BBC Europe",
       "title": "Former member of German militant group jailed for armed robberies after decades on the run",
       "url": "https://www.bbc.com/news/articles/cx21dr3lekpo?at_medium=RSS&at_campaign=rss",
-      "summary": "Klette was finally caught in a flat in Berlin in 2024 after more than 30 years on the run and put on trial last year.",
-      "published_at": "2026-05-27T10:27:59Z",
+      "summary": "Klette was finally caught in a flat in Berlin in 2024 and put on trial last year.",
+      "published_at": "2026-05-27T12:42:43Z",
       "country_code": "DE",
       "country_name": "Germany"
     },
     {
+      "source": "BBC Middle East",
+      "title": "'Like a prisoner being released' - Relief for Iranians as internet shutdown ends",
+      "url": "https://www.bbc.com/news/articles/cx21x812w1lo?at_medium=RSS&at_campaign=rss",
+      "summary": "The government imposed the blackout after the start of the war with the US and Israel in February, cutting most Iranians off from the outsid…",
+      "published_at": "2026-05-27T12:27:12Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
       "source": "BBC World",
-      "title": "Israeli strike in Gaza City kills new head of Hamas's military wing",
-      "url": "https://www.bbc.com/news/articles/cjwppj1yn7go?at_medium=RSS&at_campaign=rss",
-      "summary": "At least three people were killed in the attack, which came despite a ceasefire with Hamas being in place.",
-      "published_at": "2026-05-27T09:55:11Z",
-      "country_code": "PS",
-      "country_name": "Palestine"
+      "title": "Trump-backed challenger beats veteran US senator in Texas primary",
+      "url": "https://www.bbc.com/news/articles/clypprglrlyo?at_medium=RSS&at_campaign=rss",
+      "summary": "Ken Paxton's victory sets up what will be a closely watched contest in November's midterm elections.",
+      "published_at": "2026-05-27T11:53:06Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "South Korea detains dissident who fled China in rubber boat",
+      "url": "https://www.bbc.com/news/articles/c87q2pdwpw3o?at_medium=RSS&at_campaign=rss",
+      "summary": "Dong Guangping, an activist and former police officer, spent hours at sea before reaching Korean waters.",
+      "published_at": "2026-05-27T11:12:33Z",
+      "country_code": "CN",
+      "country_name": "China"
     },
     {
       "source": "BBC World",
@@ -45,33 +81,6 @@
       "published_at": "2026-05-27T06:58:08Z",
       "country_code": "IN",
       "country_name": "India"
-    },
-    {
-      "source": "BBC World",
-      "title": "Trump-backed challenger beats veteran US senator in Texas primary",
-      "url": "https://www.bbc.com/news/articles/clypprglrlyo?at_medium=RSS&at_campaign=rss",
-      "summary": "The result sets up what will be a closely watched contest in November with Paxton's Democratic opponent.",
-      "published_at": "2026-05-27T06:18:51Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "Texas Attorney General Paxton routs veteran incumbent Cornyn in US Senate primary",
-      "url": "https://www.bbc.com/news/articles/clypprglrlyo?at_medium=RSS&at_campaign=rss",
-      "summary": "The result sets up what will be a closely watched contest in November with Paxton's Democratic opponent.",
-      "published_at": "2026-05-27T06:18:51Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "First Ghanaians set to be repatriated from South Africa over anti-immigrant protests",
-      "url": "https://www.bbc.com/news/articles/cy0269pwxg3o?at_medium=RSS&at_campaign=rss",
-      "summary": "It follows recent protests that have led to fears there could be a resurgence in xenophobic violence.",
-      "published_at": "2026-05-27T05:13:21Z",
-      "country_code": "ZA",
-      "country_name": "South Africa"
     },
     {
       "source": "BBC World",
@@ -110,7 +119,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "White House erects UFC cage ahead of US 250th anniversary celebrations",
       "url": "https://www.bbc.com/news/articles/cz622647eg3o?at_medium=RSS&at_campaign=rss",
       "summary": "Workers were seen assembling domed arches and a staging area on the South Lawn in preparation for next month's event.",
@@ -191,7 +200,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "Four killed as school minibus collides with train in Belgium",
       "url": "https://www.bbc.com/news/articles/c70vvd17rg7o?at_medium=RSS&at_campaign=rss",
       "summary": "Two schoolchildren, their chaperone and the minibus driver were killed in the crash, says a Belgian minister.",
@@ -369,15 +378,6 @@
       "published_at": "2026-05-25T14:51:28Z",
       "country_code": "AR",
       "country_name": "Argentina"
-    },
-    {
-      "source": "BBC Asia",
-      "title": "At least 19 people taken to hospital after 'strong smell' reported at Tokyo mall",
-      "url": "https://www.bbc.com/news/articles/cevpp983kmzo?at_medium=RSS&at_campaign=rss",
-      "summary": "Police say a man sprayed a substance at an ATM in the luxury Ginza 6 shopping centre.",
-      "published_at": "2026-05-25T11:08:05Z",
-      "country_code": "JP",
-      "country_name": "Japan"
     },
     {
       "source": "BBC Africa",
@@ -695,15 +695,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Middle East",
-      "title": "Why is Israel building these long barriers inside Gaza?",
-      "url": "https://www.bbc.com/news/videos/cy925w83p21o?at_medium=RSS&at_campaign=rss",
-      "summary": "BBC Verify has found Israel has been building a series of earth barriers inside Gaza since the October ceasefire.",
-      "published_at": "2026-05-19T18:40:49Z",
-      "country_code": "IL",
-      "country_name": "Israel"
-    },
-    {
       "source": "BBC Africa",
       "title": "'Ebola has tortured us': Fear grips eastern DR Congo as deadly virus spreads",
       "url": "https://www.bbc.com/news/articles/cvgzj0pqpyyo?at_medium=RSS&at_campaign=rss",
@@ -869,13 +860,13 @@
       "news_count": 8
     },
     {
-      "country_code": "IL",
-      "country_name": "Israel",
+      "country_code": "CN",
+      "country_name": "China",
       "news_count": 7
     },
     {
-      "country_code": "CN",
-      "country_name": "China",
+      "country_code": "IL",
+      "country_name": "Israel",
       "news_count": 6
     },
     {
@@ -929,11 +920,6 @@
       "news_count": 2
     },
     {
-      "country_code": "JP",
-      "country_name": "Japan",
-      "news_count": 2
-    },
-    {
       "country_code": "SA",
       "country_name": "Saudi Arabia",
       "news_count": 2
@@ -966,6 +952,11 @@
     {
       "country_code": "EG",
       "country_name": "Egypt",
+      "news_count": 1
+    },
+    {
+      "country_code": "JP",
+      "country_name": "Japan",
       "news_count": 1
     },
     {
