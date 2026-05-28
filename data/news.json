@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-05-28T19:51:31Z",
+  "generated_at": "2026-05-28T21:49:04Z",
   "articles": [
     {
-      "source": "BBC US & Canada",
+      "source": "BBC World",
       "title": "US and Iran reach tentative deal to extend ceasefire, US officials say",
       "url": "https://www.bbc.com/news/articles/c87qng40wz9o?at_medium=RSS&at_campaign=rss",
-      "summary": "The framework, which has yet to be approved by President Trump, would extend the ceasefire and launch nuclear talks.",
-      "published_at": "2026-05-28T18:57:04Z",
+      "summary": "But there has been conflicting information from Tehran, with one news agency reporting that no deal has been finalised or confirmed.",
+      "published_at": "2026-05-28T20:28:12Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -74,7 +74,7 @@
       "country_name": "Israel"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "Iran says it targeted American base after fresh US strikes",
       "url": "https://www.bbc.com/news/articles/c98r2qy5809o?at_medium=RSS&at_campaign=rss",
       "summary": "The hostilities come during a fragile ceasefire between the US and Iran, and protracted negotiations to end the three-month war.",
@@ -135,15 +135,6 @@
       "published_at": "2026-05-28T05:35:42Z",
       "country_code": "IN",
       "country_name": "India"
-    },
-    {
-      "source": "BBC Europe",
-      "title": "Man meets Dutch volunteer caring for father's WW2 grave",
-      "url": "https://www.bbc.com/news/articles/c98rr284jdmo?at_medium=RSS&at_campaign=rss",
-      "summary": "A Liverpool man says it was \"marvellous\" to meet the volunteer who cares for his father's war grave in the Netherlands.",
-      "published_at": "2026-05-28T05:25:33Z",
-      "country_code": "NL",
-      "country_name": "Netherlands"
     },
     {
       "source": "BBC World",
@@ -286,15 +277,6 @@
       "url": "https://www.bbc.com/news/articles/cx21x812w1lo?at_medium=RSS&at_campaign=rss",
       "summary": "The government imposed the blackout after the start of the war with the US and Israel in February, cutting most Iranians off from the outsid…",
       "published_at": "2026-05-27T12:27:12Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "Trump-backed challenger beats veteran US senator in Texas primary",
-      "url": "https://www.bbc.com/news/articles/clypprglrlyo?at_medium=RSS&at_campaign=rss",
-      "summary": "Ken Paxton's victory sets up what will be a closely watched contest in November's midterm elections.",
-      "published_at": "2026-05-27T11:53:06Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -879,7 +861,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 34
+      "news_count": 33
     },
     {
       "country_code": "IL",
@@ -994,11 +976,6 @@
     {
       "country_code": "NG",
       "country_name": "Nigeria",
-      "news_count": 1
-    },
-    {
-      "country_code": "NL",
-      "country_name": "Netherlands",
       "news_count": 1
     }
   ]
