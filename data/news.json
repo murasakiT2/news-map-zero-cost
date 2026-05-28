@@ -1,12 +1,21 @@
 {
-  "generated_at": "2026-05-28T09:43:33Z",
+  "generated_at": "2026-05-28T13:00:34Z",
   "articles": [
+    {
+      "source": "BBC Europe",
+      "title": "Canada signs landmark LNG energy deal with Germany",
+      "url": "https://www.bbc.com/news/articles/cg4pwxwvz1go?at_medium=RSS&at_campaign=rss",
+      "summary": "The deal would see one million tons of natural gas shipped annually from Canada to Germany by the early 2030s through a proposed terminal in…",
+      "published_at": "2026-05-28T12:24:48Z",
+      "country_code": "DE",
+      "country_name": "Germany"
+    },
     {
       "source": "BBC World",
       "title": "Sixteen pupils killed in Kenya school fire",
       "url": "https://www.bbc.com/news/articles/cx21kkxq81po?at_medium=RSS&at_campaign=rss",
       "summary": "Dozens of people were also injured in the fire, the cause of which is not yet known.",
-      "published_at": "2026-05-28T08:58:56Z",
+      "published_at": "2026-05-28T12:24:11Z",
       "country_code": "KE",
       "country_name": "Kenya"
     },
@@ -15,7 +24,25 @@
       "title": "Iran says it targeted American base after fresh US strikes",
       "url": "https://www.bbc.com/news/articles/c98r2qy5809o?at_medium=RSS&at_campaign=rss",
       "summary": "The hostilities come during a fragile ceasefire between the US and Iran, and protracted negotiations to end the three-month war.",
-      "published_at": "2026-05-28T08:43:19Z",
+      "published_at": "2026-05-28T11:52:10Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Israel strikes Beirut and southern Lebanon after large-scale evacuation orders",
+      "url": "https://www.bbc.com/news/articles/cj3pgrpmlklo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Israeli military has ordered Lebanese residents to leave some 17% of the country's territory.",
+      "published_at": "2026-05-28T11:31:59Z",
+      "country_code": "IL",
+      "country_name": "Israel"
+    },
+    {
+      "source": "BBC World",
+      "title": "US justice department launches criminal investigation into Trump accuser E Jean Carroll, reports say",
+      "url": "https://www.bbc.com/news/articles/clyp77jd407o?at_medium=RSS&at_campaign=rss",
+      "summary": "The case centres on whether the former columnist lied about the funding she received for her civil lawsuit against the US president.",
+      "published_at": "2026-05-28T10:15:03Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -84,9 +111,9 @@
     },
     {
       "source": "BBC US & Canada",
-      "title": "Ex-US government official arrested after $40 million in gold bars found in home",
+      "title": "Ex-US government official arrested after $40m in gold bars found in home",
       "url": "https://www.bbc.com/news/articles/c5yezdl054po?at_medium=RSS&at_campaign=rss",
-      "summary": "Agents also found about $2 million in cash and 35 luxury watches in the home of David Rush, who court filings say had top secret clearance.",
+      "summary": "Agents also found about $2m in cash and 35 luxury watches in the home of David Rush, who court filings say had top secret clearance.",
       "published_at": "2026-05-28T00:58:42Z",
       "country_code": "US",
       "country_name": "United States"
@@ -108,24 +135,6 @@
       "published_at": "2026-05-27T22:00:38Z",
       "country_code": "CN",
       "country_name": "China"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "Search for victims continues as death toll rises after US chemical blast",
-      "url": "https://www.bbc.com/news/articles/cgrpk10r8x0o?at_medium=RSS&at_campaign=rss",
-      "summary": "Nine people remain missing at the site of Washington state's worst industrial accident in modern history.",
-      "published_at": "2026-05-27T21:36:32Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC Europe",
-      "title": "Canada signs landmark LNG energy deal with Germany",
-      "url": "https://www.bbc.com/news/articles/cg4pwxwvz1go?at_medium=RSS&at_campaign=rss",
-      "summary": "The deal would see one million tons of natural gas shipped annually from Canada to Germany by the early 2030s through a proposed terminal in…",
-      "published_at": "2026-05-27T20:57:33Z",
-      "country_code": "DE",
-      "country_name": "Germany"
     },
     {
       "source": "BBC Middle East",
@@ -189,15 +198,6 @@
       "published_at": "2026-05-27T15:26:17Z",
       "country_code": "RU",
       "country_name": "Russia"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "Biden sues US justice department to block release of recordings",
-      "url": "https://www.bbc.com/news/articles/cvgzd4zvnl2o?at_medium=RSS&at_campaign=rss",
-      "summary": "Biden allegedly referred to classified information during the interviews, but he says the government wants to release the records for other …",
-      "published_at": "2026-05-27T15:21:40Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC World",
@@ -324,15 +324,6 @@
       "published_at": "2026-05-26T20:29:16Z",
       "country_code": "MA",
       "country_name": "Morocco"
-    },
-    {
-      "source": "BBC Europe",
-      "title": "Four killed as school minibus collides with train in Belgium",
-      "url": "https://www.bbc.com/news/articles/c70vvd17rg7o?at_medium=RSS&at_campaign=rss",
-      "summary": "Two schoolchildren, their chaperone and the minibus driver were killed in the crash, says a Belgian minister.",
-      "published_at": "2026-05-26T17:11:24Z",
-      "country_code": "BE",
-      "country_name": "Belgium"
     },
     {
       "source": "BBC World",
@@ -855,22 +846,13 @@
       "published_at": "2026-05-02T23:17:17Z",
       "country_code": "IR",
       "country_name": "Iran"
-    },
-    {
-      "source": "BBC Middle East",
-      "title": "'If we sleep, they bite': Rats and weasels infest camps for displaced Gazans",
-      "url": "https://www.bbc.com/news/articles/c202m54xp0mo?at_medium=RSS&at_campaign=rss",
-      "summary": "In the Gaza Strip, the daily battles are now with rats, weasels, and other pests spreading diseases.",
-      "published_at": "2026-05-02T05:02:14Z",
-      "country_code": "PS",
-      "country_name": "Palestine"
     }
   ],
   "regions": [
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 34
+      "news_count": 33
     },
     {
       "country_code": "CN",
@@ -880,7 +862,7 @@
     {
       "country_code": "IL",
       "country_name": "Israel",
-      "news_count": 6
+      "news_count": 7
     },
     {
       "country_code": "IR",
@@ -905,11 +887,6 @@
     {
       "country_code": "DE",
       "country_name": "Germany",
-      "news_count": 3
-    },
-    {
-      "country_code": "PS",
-      "country_name": "Palestine",
       "news_count": 3
     },
     {
@@ -938,6 +915,11 @@
       "news_count": 2
     },
     {
+      "country_code": "PS",
+      "country_name": "Palestine",
+      "news_count": 2
+    },
+    {
       "country_code": "SA",
       "country_name": "Saudi Arabia",
       "news_count": 2
@@ -960,11 +942,6 @@
     {
       "country_code": "BD",
       "country_name": "Bangladesh",
-      "news_count": 1
-    },
-    {
-      "country_code": "BE",
-      "country_name": "Belgium",
       "news_count": 1
     },
     {
