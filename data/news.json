@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-05-28T17:04:24Z",
+  "generated_at": "2026-05-28T19:51:31Z",
   "articles": [
+    {
+      "source": "BBC US & Canada",
+      "title": "US and Iran reach tentative deal to extend ceasefire, US officials say",
+      "url": "https://www.bbc.com/news/articles/c87qng40wz9o?at_medium=RSS&at_campaign=rss",
+      "summary": "The framework, which has yet to be approved by President Trump, would extend the ceasefire and launch nuclear talks.",
+      "published_at": "2026-05-28T18:57:04Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "US government prepares to print $250 note featuring Trump's face",
+      "url": "https://www.bbc.com/news/articles/clypeyx6nemo?at_medium=RSS&at_campaign=rss",
+      "summary": "Federal law bars printing images of living people on US currency, but Trump allies in Congress are moving to make an exception.",
+      "published_at": "2026-05-28T18:24:15Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Israel hits Lebanese capital in 'targeted strike'",
+      "url": "https://www.bbc.com/news/articles/cgqpjwdv7xeo?at_medium=RSS&at_campaign=rss",
+      "summary": "Beirut had until now largely been spared even as both Israel and Hezbollah accused each other of breaking last month's ceasefire.",
+      "published_at": "2026-05-28T17:39:16Z",
+      "country_code": "IL",
+      "country_name": "Israel"
+    },
+    {
+      "source": "BBC World",
+      "title": "Portugal breaks hottest May day record as Europe swelters in heatwave",
+      "url": "https://www.bbc.com/news/articles/c3v2yv5207xo?at_medium=RSS&at_campaign=rss",
+      "summary": "French students are taking their exams in baking schools, while red alerts are issued in Italy.",
+      "published_at": "2026-05-28T17:07:00Z",
+      "country_code": "IT",
+      "country_name": "Italy"
+    },
     {
       "source": "BBC World",
       "title": "Are US and Iran close to peace or sliding back to war?",
@@ -34,15 +70,6 @@
       "url": "https://www.bbc.com/news/articles/cn9p40en4ngo?at_medium=RSS&at_campaign=rss",
       "summary": "At least five children were reportedly killed in the strike, which appears to have targeted a Hamas commander.",
       "published_at": "2026-05-28T16:20:50Z",
-      "country_code": "IL",
-      "country_name": "Israel"
-    },
-    {
-      "source": "BBC World",
-      "title": "Israel hits Lebanese capital in 'targeted strike'",
-      "url": "https://www.bbc.com/news/articles/cgqpjwdv7xeo?at_medium=RSS&at_campaign=rss",
-      "summary": "Beirut had until now largely been spared even as both Israel and Hezbollah accused each other of breaking last month's ceasefire.",
-      "published_at": "2026-05-28T15:57:01Z",
       "country_code": "IL",
       "country_name": "Israel"
     },
@@ -272,7 +299,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "South Korea detains dissident who fled China in rubber boat",
       "url": "https://www.bbc.com/news/articles/c87q2pdwpw3o?at_medium=RSS&at_campaign=rss",
       "summary": "Dong Guangping, an activist and former police officer, spent hours at sea before reaching Korean waters.",
@@ -852,7 +879,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 32
+      "news_count": 34
     },
     {
       "country_code": "IL",
@@ -905,6 +932,11 @@
       "news_count": 2
     },
     {
+      "country_code": "IT",
+      "country_name": "Italy",
+      "news_count": 2
+    },
+    {
       "country_code": "KE",
       "country_name": "Kenya",
       "news_count": 2
@@ -952,11 +984,6 @@
     {
       "country_code": "EG",
       "country_name": "Egypt",
-      "news_count": 1
-    },
-    {
-      "country_code": "IT",
-      "country_name": "Italy",
       "news_count": 1
     },
     {
