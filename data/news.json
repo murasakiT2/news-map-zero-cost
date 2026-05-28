@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-05-28T05:40:01Z",
+  "generated_at": "2026-05-28T09:43:33Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Sixteen pupils killed in Kenya school fire",
+      "url": "https://www.bbc.com/news/articles/cx21kkxq81po?at_medium=RSS&at_campaign=rss",
+      "summary": "Dozens of people were also injured in the fire, the cause of which is not yet known.",
+      "published_at": "2026-05-28T08:58:56Z",
+      "country_code": "KE",
+      "country_name": "Kenya"
+    },
+    {
+      "source": "BBC World",
+      "title": "Iran says it targeted American base after fresh US strikes",
+      "url": "https://www.bbc.com/news/articles/c98r2qy5809o?at_medium=RSS&at_campaign=rss",
+      "summary": "The hostilities come during a fragile ceasefire between the US and Iran, and protracted negotiations to end the three-month war.",
+      "published_at": "2026-05-28T08:43:19Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC Europe",
+      "title": "Legal bid to block UK-backed French migrant detention centre",
+      "url": "https://www.bbc.com/news/articles/cdxpdqvdyz7o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Home Office says the UK won’t pay France if the site doesn’t open, under a deal to curb migrant crossings.",
+      "published_at": "2026-05-28T06:10:33Z",
+      "country_code": "GB",
+      "country_name": "United Kingdom"
+    },
+    {
+      "source": "BBC Asia",
+      "title": "Hacking claims, mismatched answer-sheets: Controversies rock school exam in India",
+      "url": "https://www.bbc.com/news/articles/cy42e8eljpno?at_medium=RSS&at_campaign=rss",
+      "summary": "Students blame the CBSE's newly-launched digital evaluation system used for marking this year's Grade 12 exams.",
+      "published_at": "2026-05-28T05:35:42Z",
+      "country_code": "IN",
+      "country_name": "India"
+    },
     {
       "source": "BBC World",
       "title": "Oil prices jump after US launches new attacks on Iran",
@@ -11,13 +47,13 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
-      "title": "US strikes Iran targets for second time in three days",
-      "url": "https://www.bbc.com/news/articles/c98r2qy5809o?at_medium=RSS&at_campaign=rss",
-      "summary": "The hostilities come during a fragile ceasefire between the US and Iran, and protracted negotiations to end the three-month war.",
-      "published_at": "2026-05-28T04:59:02Z",
-      "country_code": "US",
-      "country_name": "United States"
+      "source": "BBC Europe",
+      "title": "Man meets Dutch volunteer caring for father's WW2 grave",
+      "url": "https://www.bbc.com/news/articles/c98rr284jdmo?at_medium=RSS&at_campaign=rss",
+      "summary": "A Liverpool man says it was \"marvellous\" to meet the volunteer who cares for his father's war grave in the Netherlands.",
+      "published_at": "2026-05-28T05:25:33Z",
+      "country_code": "NL",
+      "country_name": "Netherlands"
     },
     {
       "source": "BBC World",
@@ -27,15 +63,6 @@
       "published_at": "2026-05-28T04:53:51Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "Israel issues evacuation order for swathes of southern Lebanon",
-      "url": "https://www.bbc.com/news/articles/cj3pgrpmlklo?at_medium=RSS&at_campaign=rss",
-      "summary": "The military says areas south of the Zahrani River are now \"combat zones\" as it threatens Hezbollah with fresh strikes.",
-      "published_at": "2026-05-28T04:44:52Z",
-      "country_code": "IL",
-      "country_name": "Israel"
     },
     {
       "source": "BBC World",
@@ -92,6 +119,15 @@
       "country_name": "United States"
     },
     {
+      "source": "BBC Europe",
+      "title": "Canada signs landmark LNG energy deal with Germany",
+      "url": "https://www.bbc.com/news/articles/cg4pwxwvz1go?at_medium=RSS&at_campaign=rss",
+      "summary": "The deal would see one million tons of natural gas shipped annually from Canada to Germany by the early 2030s through a proposed terminal in…",
+      "published_at": "2026-05-27T20:57:33Z",
+      "country_code": "DE",
+      "country_name": "Germany"
+    },
+    {
       "source": "BBC Middle East",
       "title": "Trump says US 'not satisfied' with Iran deal yet",
       "url": "https://www.bbc.com/news/articles/c74dy9jw1q9o?at_medium=RSS&at_campaign=rss",
@@ -144,6 +180,15 @@
       "published_at": "2026-05-27T15:59:57Z",
       "country_code": "GB",
       "country_name": "United Kingdom"
+    },
+    {
+      "source": "BBC Europe",
+      "title": "What critical infrastructure is Russia 'relentlessly targeting'?",
+      "url": "https://www.bbc.com/news/videos/cy82d53jx43o?at_medium=RSS&at_campaign=rss",
+      "summary": "The BBC's security correspondent Frank Gardner unpacks GCHQ's announcement.",
+      "published_at": "2026-05-27T15:26:17Z",
+      "country_code": "RU",
+      "country_name": "Russia"
     },
     {
       "source": "BBC US & Canada",
@@ -218,15 +263,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Asia",
-      "title": "Major film union in India calls for boycott of superstar Ranveer Singh",
-      "url": "https://www.bbc.com/news/articles/c0q2y01jqk9o?at_medium=RSS&at_campaign=rss",
-      "summary": "Singh is facing industry backlash over his decision to exit from the upcoming Bollywood film Don 3.",
-      "published_at": "2026-05-27T06:58:08Z",
-      "country_code": "IN",
-      "country_name": "India"
-    },
-    {
       "source": "BBC Middle East",
       "title": "Dozens killed in Lebanon as Israel intensifies strikes",
       "url": "https://www.bbc.com/news/articles/cx211rgngp0o?at_medium=RSS&at_campaign=rss",
@@ -252,15 +288,6 @@
       "published_at": "2026-05-27T01:34:42Z",
       "country_code": "BD",
       "country_name": "Bangladesh"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "Fans rally behind US men's national soccer team as World Cup roster revealed",
-      "url": "https://www.bbc.com/news/videos/cd9p5d53xxjo?at_medium=RSS&at_campaign=rss",
-      "summary": "BBC's Carl Nasman was at the event, where he asked enthusiasts about World Cup ticket prices and what the sport means to the US.",
-      "published_at": "2026-05-27T00:17:23Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC Europe",
@@ -441,15 +468,6 @@
       "published_at": "2026-05-25T14:51:28Z",
       "country_code": "AR",
       "country_name": "Argentina"
-    },
-    {
-      "source": "BBC Africa",
-      "title": "Kenya police shake up president's protection team after security breach",
-      "url": "https://www.bbc.com/news/articles/c0e22nzye5go?at_medium=RSS&at_campaign=rss",
-      "summary": "A man managed to evade security and embrace William Ruto before being wrestled to the ground.",
-      "published_at": "2026-05-25T10:46:56Z",
-      "country_code": "KE",
-      "country_name": "Kenya"
     },
     {
       "source": "BBC Asia",
@@ -641,7 +659,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC US & Canada",
+      "source": "BBC Latin America",
       "title": "Will US invade? Three ways Cuba crisis could play out now",
       "url": "https://www.bbc.com/news/articles/ckgplwg3xk3o?at_medium=RSS&at_campaign=rss",
       "summary": "The Trump administration has been putting tremendous economic pressure on the island's Communist government.",
@@ -714,15 +732,6 @@
     },
     {
       "source": "BBC Latin America",
-      "title": "US military jets and drones tracked near Cuba as tensions rise",
-      "url": "https://www.bbc.com/news/articles/cjep1wx7w0ko?at_medium=RSS&at_campaign=rss",
-      "summary": "Tracking data shows several flights by US Navy reconnaissance jets and drones during the last week.",
-      "published_at": "2026-05-20T15:36:03Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC Latin America",
       "title": "Secret mission to ship uranium from Venezuela",
       "url": "https://www.bbc.com/news/videos/ce8pq5p5l17o?at_medium=RSS&at_campaign=rss",
       "summary": "Satellite images reveal how a joint mission shipped uranium from Venezuela to the US.",
@@ -774,24 +783,6 @@
       "published_at": "2026-05-17T23:02:56Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC Europe",
-      "title": "Lights, camera, Bangaranga: Highlights from Eurovision",
-      "url": "https://www.bbc.com/news/videos/cj3pznr0zr4o?at_medium=RSS&at_campaign=rss",
-      "summary": "Bulgarian singer Dara stormed to victory in the contest, while Ukraine broke the record for the longest note ever sung at Eurovision.",
-      "published_at": "2026-05-17T02:00:44Z",
-      "country_code": "UA",
-      "country_name": "Ukraine"
-    },
-    {
-      "source": "BBC Europe",
-      "title": "Watch: BBC at Kyiv block of flats hit by Russian drone strike",
-      "url": "https://www.bbc.com/news/videos/cd6pnle9zngo?at_medium=RSS&at_campaign=rss",
-      "summary": "Russia launched one of the biggest air strikes on Kyiv since the start of the war with several apartment blocks hit.",
-      "published_at": "2026-05-14T11:46:36Z",
-      "country_code": "RU",
-      "country_name": "Russia"
     },
     {
       "source": "BBC Middle East",
@@ -879,7 +870,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 36
+      "news_count": 34
     },
     {
       "country_code": "CN",
@@ -889,7 +880,7 @@
     {
       "country_code": "IL",
       "country_name": "Israel",
-      "news_count": 7
+      "news_count": 6
     },
     {
       "country_code": "IR",
@@ -902,23 +893,23 @@
       "news_count": 5
     },
     {
+      "country_code": "GB",
+      "country_name": "United Kingdom",
+      "news_count": 4
+    },
+    {
       "country_code": "RU",
       "country_name": "Russia",
       "news_count": 4
     },
     {
-      "country_code": "GB",
-      "country_name": "United Kingdom",
+      "country_code": "DE",
+      "country_name": "Germany",
       "news_count": 3
     },
     {
       "country_code": "PS",
       "country_name": "Palestine",
-      "news_count": 3
-    },
-    {
-      "country_code": "UA",
-      "country_name": "Ukraine",
       "news_count": 3
     },
     {
@@ -929,11 +920,6 @@
     {
       "country_code": "AU",
       "country_name": "Australia",
-      "news_count": 2
-    },
-    {
-      "country_code": "DE",
-      "country_name": "Germany",
       "news_count": 2
     },
     {
@@ -954,6 +940,11 @@
     {
       "country_code": "SA",
       "country_name": "Saudi Arabia",
+      "news_count": 2
+    },
+    {
+      "country_code": "UA",
+      "country_name": "Ukraine",
       "news_count": 2
     },
     {
@@ -994,6 +985,11 @@
     {
       "country_code": "NG",
       "country_name": "Nigeria",
+      "news_count": 1
+    },
+    {
+      "country_code": "NL",
+      "country_name": "Netherlands",
       "news_count": 1
     }
   ]
