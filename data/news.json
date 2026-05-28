@@ -1,12 +1,21 @@
 {
-  "generated_at": "2026-05-28T21:49:04Z",
+  "generated_at": "2026-05-28T23:06:58Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "How did this novel about food win a Booker Prize this year?",
+      "url": "https://www.bbc.com/news/videos/cx21k1dkygno?at_medium=RSS&at_campaign=rss",
+      "summary": "Taiwan Travelogue is the first novel translated from Mandarin Chinese to win the prestigious award.",
+      "published_at": "2026-05-28T22:48:45Z",
+      "country_code": "TW",
+      "country_name": "Taiwan"
+    },
     {
       "source": "BBC World",
       "title": "US and Iran reach tentative deal to extend ceasefire, US officials say",
       "url": "https://www.bbc.com/news/articles/c87qng40wz9o?at_medium=RSS&at_campaign=rss",
       "summary": "But there has been conflicting information from Tehran, with one news agency reporting that no deal has been finalised or confirmed.",
-      "published_at": "2026-05-28T20:28:12Z",
+      "published_at": "2026-05-28T22:13:30Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -976,6 +985,11 @@
     {
       "country_code": "NG",
       "country_name": "Nigeria",
+      "news_count": 1
+    },
+    {
+      "country_code": "TW",
+      "country_name": "Taiwan",
       "news_count": 1
     }
   ]
