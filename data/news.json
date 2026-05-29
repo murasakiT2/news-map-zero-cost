@@ -1,21 +1,30 @@
 {
-  "generated_at": "2026-05-29T09:33:33Z",
+  "generated_at": "2026-05-29T12:40:04Z",
   "articles": [
+    {
+      "source": "BBC Africa",
+      "title": "Kenya court halts opening of US Ebola quarantine facility in the country",
+      "url": "https://www.bbc.com/news/articles/cpdp74lgzplo?at_medium=RSS&at_campaign=rss",
+      "summary": "A 50-bed isolation unit in Kenya for US citizens was due to open on Friday, a US official said.",
+      "published_at": "2026-05-29T12:01:40Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Eight students arrested in Kenya after suspected deadly school arson attack",
+      "url": "https://www.bbc.com/news/articles/cx21r3138m9o?at_medium=RSS&at_campaign=rss",
+      "summary": "Sixteen pupils died in the fire that ripped through a dormitory while they were asleep.",
+      "published_at": "2026-05-29T11:22:10Z",
+      "country_code": "KE",
+      "country_name": "Kenya"
+    },
     {
       "source": "BBC World",
       "title": "US and Iran 'very close' to deal but 'not there yet', Vance says",
       "url": "https://www.bbc.com/news/articles/c87qng40wz9o?at_medium=RSS&at_campaign=rss",
       "summary": "US officials earlier told the BBC that the framework of a ceasefire extension deal had been agreed, pending the approval of Trump and Iran's…",
       "published_at": "2026-05-29T09:17:35Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC Africa",
-      "title": "Kenya court halts opening of US Ebola quarantine facility in the country",
-      "url": "https://www.bbc.com/news/articles/cpdp74lgzplo?at_medium=RSS&at_campaign=rss",
-      "summary": "A 50-bed isolation unit in Kenya for US citizens was due to open on Friday, a US official said.",
-      "published_at": "2026-05-29T08:20:43Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -99,15 +108,6 @@
       "published_at": "2026-05-28T17:39:16Z",
       "country_code": "IL",
       "country_name": "Israel"
-    },
-    {
-      "source": "BBC World",
-      "title": "Are US and Iran close to peace or sliding back to war?",
-      "url": "https://www.bbc.com/news/articles/cze29764067o?at_medium=RSS&at_campaign=rss",
-      "summary": "Neither side seems interested in a return to all-out conflict, despite the latest exchange of strikes.",
-      "published_at": "2026-05-28T16:56:19Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC World",
@@ -264,15 +264,6 @@
     },
     {
       "source": "BBC Europe",
-      "title": "Almost 500,000 Russian soldiers killed in Ukraine war, GCHQ says",
-      "url": "https://www.bbc.com/news/articles/c4g44gprnnvo?at_medium=RSS&at_campaign=rss",
-      "summary": "GCHQ's director Anne Keast-Butler set out the threats facing the UK in her inaugural public speech.",
-      "published_at": "2026-05-27T15:59:57Z",
-      "country_code": "GB",
-      "country_name": "United Kingdom"
-    },
-    {
-      "source": "BBC Europe",
       "title": "What critical infrastructure is Russia 'relentlessly targeting'?",
       "url": "https://www.bbc.com/news/videos/cy82d53jx43o?at_medium=RSS&at_campaign=rss",
       "summary": "The BBC's security correspondent Frank Gardner unpacks GCHQ's announcement.",
@@ -288,15 +279,6 @@
       "published_at": "2026-05-27T13:15:26Z",
       "country_code": "PS",
       "country_name": "Palestine"
-    },
-    {
-      "source": "BBC Europe",
-      "title": "Former member of German militant group jailed for armed robberies after decades on the run",
-      "url": "https://www.bbc.com/news/articles/cx21dr3lekpo?at_medium=RSS&at_campaign=rss",
-      "summary": "Klette was finally caught in a flat in Berlin in 2024 and put on trial last year.",
-      "published_at": "2026-05-27T12:42:43Z",
-      "country_code": "DE",
-      "country_name": "Germany"
     },
     {
       "source": "BBC Middle East",
@@ -759,15 +741,6 @@
     },
     {
       "source": "BBC Africa",
-      "title": "'Ebola has tortured us': Fear grips eastern DR Congo as deadly virus spreads",
-      "url": "https://www.bbc.com/news/articles/cvgzj0pqpyyo?at_medium=RSS&at_campaign=rss",
-      "summary": "The health minister has acknowledged that medics are playing catch-up with the virus after being slow to detect it.",
-      "published_at": "2026-05-19T18:05:26Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC Africa",
       "title": "Ghana to face Ivory Coast in Afcon 2027 qualifying",
       "url": "https://www.bbc.com/sport/football/articles/cvgzj10geezo?at_medium=RSS&at_campaign=rss",
       "summary": "Ghana will face fellow West African heavyweights Ivory Coast in qualifying for the 2027 Africa Cup of Nations, which will be co-hosted by Ke…",
@@ -801,6 +774,15 @@
       "published_at": "2026-05-12T11:13:54Z",
       "country_code": "FR",
       "country_name": "France"
+    },
+    {
+      "source": "BBC Africa",
+      "title": "'Total lack of respect': Macron interrupts speaker to ask for silence",
+      "url": "https://www.bbc.com/news/videos/czx2wd20evyo?at_medium=RSS&at_campaign=rss",
+      "summary": "The French president stood up during a conference in Kenya to tell the audience to quieten down, saying it was “impossible” for speakers to …",
+      "published_at": "2026-05-11T16:10:18Z",
+      "country_code": "KE",
+      "country_name": "Kenya"
     },
     {
       "source": "BBC Middle East",
@@ -846,13 +828,22 @@
       "published_at": "2026-05-05T11:38:03Z",
       "country_code": "US",
       "country_name": "United States"
+    },
+    {
+      "source": "BBC Africa",
+      "title": "Joy as record-breaking runner Sawe returns home",
+      "url": "https://www.bbc.com/news/videos/cglpkexdye1o?at_medium=RSS&at_campaign=rss",
+      "summary": "BBC reports from Kenya, home to Sabastian Sawe, the first man to run a marathon in under two hours.",
+      "published_at": "2026-04-30T02:03:17Z",
+      "country_code": "KE",
+      "country_name": "Kenya"
     }
   ],
   "regions": [
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 32
+      "news_count": 30
     },
     {
       "country_code": "IL",
@@ -870,6 +861,11 @@
       "news_count": 5
     },
     {
+      "country_code": "KE",
+      "country_name": "Kenya",
+      "news_count": 5
+    },
+    {
       "country_code": "FR",
       "country_name": "France",
       "news_count": 4
@@ -877,7 +873,7 @@
     {
       "country_code": "GB",
       "country_name": "United Kingdom",
-      "news_count": 4
+      "news_count": 3
     },
     {
       "country_code": "IT",
@@ -907,11 +903,6 @@
     {
       "country_code": "IN",
       "country_name": "India",
-      "news_count": 2
-    },
-    {
-      "country_code": "KE",
-      "country_name": "Kenya",
       "news_count": 2
     },
     {
@@ -947,11 +938,6 @@
     {
       "country_code": "BR",
       "country_name": "Brazil",
-      "news_count": 1
-    },
-    {
-      "country_code": "DE",
-      "country_name": "Germany",
       "news_count": 1
     },
     {
