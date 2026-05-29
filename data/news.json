@@ -1,6 +1,33 @@
 {
-  "generated_at": "2026-05-28T23:06:58Z",
+  "generated_at": "2026-05-29T01:30:00Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Portugal breaks hottest May day record as Europe swelters in heatwave",
+      "url": "https://www.bbc.com/news/articles/c3v2yv5207xo?at_medium=RSS&at_campaign=rss",
+      "summary": "French students are taking their exams in baking schools, while red alerts are issued in Italy.",
+      "published_at": "2026-05-28T23:36:01Z",
+      "country_code": "IT",
+      "country_name": "Italy"
+    },
+    {
+      "source": "BBC World",
+      "title": "US and Iran 'very close' to deal but 'not there yet', Vance says",
+      "url": "https://www.bbc.com/news/articles/c87qng40wz9o?at_medium=RSS&at_campaign=rss",
+      "summary": "US officials earlier told the BBC that the framework of a ceasefire extension deal had been agreed, pending the approval of Trump and Iran's…",
+      "published_at": "2026-05-28T23:32:19Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "US spelling bee finalists battle it out - can you keep up? Take our quiz",
+      "url": "https://www.bbc.com/news/articles/cx21m0j5xm7o?at_medium=RSS&at_campaign=rss",
+      "summary": "Nine kids will battle it out in the 2026 Scripps National Spelling Bee finals - can you spell as well as they do?",
+      "published_at": "2026-05-28T23:19:58Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "How did this novel about food win a Booker Prize this year?",
@@ -9,15 +36,6 @@
       "published_at": "2026-05-28T22:48:45Z",
       "country_code": "TW",
       "country_name": "Taiwan"
-    },
-    {
-      "source": "BBC World",
-      "title": "US and Iran reach tentative deal to extend ceasefire, US officials say",
-      "url": "https://www.bbc.com/news/articles/c87qng40wz9o?at_medium=RSS&at_campaign=rss",
-      "summary": "But there has been conflicting information from Tehran, with one news agency reporting that no deal has been finalised or confirmed.",
-      "published_at": "2026-05-28T22:13:30Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC US & Canada",
@@ -39,15 +57,6 @@
     },
     {
       "source": "BBC World",
-      "title": "Portugal breaks hottest May day record as Europe swelters in heatwave",
-      "url": "https://www.bbc.com/news/articles/c3v2yv5207xo?at_medium=RSS&at_campaign=rss",
-      "summary": "French students are taking their exams in baking schools, while red alerts are issued in Italy.",
-      "published_at": "2026-05-28T17:07:00Z",
-      "country_code": "IT",
-      "country_name": "Italy"
-    },
-    {
-      "source": "BBC World",
       "title": "Are US and Iran close to peace or sliding back to war?",
       "url": "https://www.bbc.com/news/articles/cze29764067o?at_medium=RSS&at_campaign=rss",
       "summary": "Neither side seems interested in a return to all-out conflict, despite the latest exchange of strikes.",
@@ -63,6 +72,15 @@
       "published_at": "2026-05-28T16:50:33Z",
       "country_code": "US",
       "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Learning from Ukraine war, Hezbollah is now using fibre-optic drones to hit Israel",
+      "url": "https://www.bbc.com/news/articles/c0r2ydlvk41o?at_medium=RSS&at_campaign=rss",
+      "summary": "Fibre-optic drones are now Hezbollah's primary weapon against Israel's soldiers and civilians.",
+      "published_at": "2026-05-28T16:39:30Z",
+      "country_code": "UA",
+      "country_name": "Ukraine"
     },
     {
       "source": "BBC World",
@@ -489,15 +507,6 @@
     },
     {
       "source": "BBC Asia",
-      "title": "Moment of gas explosion at China coal mine",
-      "url": "https://www.bbc.com/news/videos/cedpp9ldnl9o?at_medium=RSS&at_campaign=rss",
-      "summary": "At least 82 people have been killed and two are missing after a gas explosion at a coal mine in northern China on Sunday, officials say.",
-      "published_at": "2026-05-25T10:20:57Z",
-      "country_code": "CN",
-      "country_name": "China"
-    },
-    {
-      "source": "BBC Asia",
       "title": "Anger grows after China's deadliest coal mining disaster in years",
       "url": "https://www.bbc.com/news/articles/c893543gn20o?at_medium=RSS&at_campaign=rss",
       "summary": "On China's tightly-controlled internet, people are calling for justice and questioning how this happened.",
@@ -870,7 +879,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 33
+      "news_count": 34
     },
     {
       "country_code": "IL",
@@ -880,7 +889,7 @@
     {
       "country_code": "CN",
       "country_name": "China",
-      "news_count": 7
+      "news_count": 6
     },
     {
       "country_code": "IR",
@@ -905,6 +914,11 @@
     {
       "country_code": "RU",
       "country_name": "Russia",
+      "news_count": 3
+    },
+    {
+      "country_code": "UA",
+      "country_name": "Ukraine",
       "news_count": 3
     },
     {
@@ -945,11 +959,6 @@
     {
       "country_code": "SA",
       "country_name": "Saudi Arabia",
-      "news_count": 2
-    },
-    {
-      "country_code": "UA",
-      "country_name": "Ukraine",
       "news_count": 2
     },
     {
