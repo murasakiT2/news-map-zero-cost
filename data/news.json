@@ -1,14 +1,41 @@
 {
-  "generated_at": "2026-05-29T16:35:22Z",
+  "generated_at": "2026-05-29T19:26:24Z",
   "articles": [
     {
       "source": "BBC US & Canada",
       "title": "US judge halts Trump's $1.8bn 'anti-weaponisation' fund",
       "url": "https://www.bbc.com/news/articles/crkp5r0eykko?at_medium=RSS&at_campaign=rss",
       "summary": "In a two-page order on Friday, the judge barred the justice department from taking any steps to stand up or operate the fund.",
-      "published_at": "2026-05-29T15:58:04Z",
+      "published_at": "2026-05-29T18:56:29Z",
       "country_code": "US",
       "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Former US attorney general Pam Bondi defends her handling of Epstein files in congressional probe",
+      "url": "https://www.bbc.com/news/articles/czj2ldllgwgo?at_medium=RSS&at_campaign=rss",
+      "summary": "The testimony comes about a month after America's top prosecutor was ousted by US President Donald Trump.",
+      "published_at": "2026-05-29T17:45:06Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Nato and EU condemn Russia after drone hits Romanian residential block",
+      "url": "https://www.bbc.com/news/articles/c93x4nxlkjeo?at_medium=RSS&at_campaign=rss",
+      "summary": "Romania says the Russian drone was likely hit over Ukraine by its air defences and altered its trajectory.",
+      "published_at": "2026-05-29T17:27:09Z",
+      "country_code": "RU",
+      "country_name": "Russia"
+    },
+    {
+      "source": "BBC World",
+      "title": "'Poison seller' who sold toxic chemicals online to people across world admits aiding suicides",
+      "url": "https://www.bbc.com/news/articles/c70vg7glglyo?at_medium=RSS&at_campaign=rss",
+      "summary": "Kenneth Law admitted charges relating to Canadian victims - but families say he should also be charged in the UK over 79 deaths in Britain.",
+      "published_at": "2026-05-29T17:08:50Z",
+      "country_code": "GB",
+      "country_name": "United Kingdom"
     },
     {
       "source": "BBC Africa",
@@ -21,15 +48,6 @@
     },
     {
       "source": "BBC World",
-      "title": "'Poison seller' who sold toxic chemicals online to people across world admits aiding suicides",
-      "url": "https://www.bbc.com/news/articles/c70vg7glglyo?at_medium=RSS&at_campaign=rss",
-      "summary": "Kenneth Law admitted charges relating to Canadian victims - but families say he should also be charged in the UK over 79 deaths in Britain.",
-      "published_at": "2026-05-29T15:29:12Z",
-      "country_code": "GB",
-      "country_name": "United Kingdom"
-    },
-    {
-      "source": "BBC World",
       "title": "Ex-head monk of China's 'kung fu temple' jailed for embezzlement",
       "url": "https://www.bbc.com/news/articles/crlp79jy0y3o?at_medium=RSS&at_campaign=rss",
       "summary": "Shi Yongxin is sentenced to 24 years in prison for embezzlement and bribery.",
@@ -38,13 +56,13 @@
       "country_name": "China"
     },
     {
-      "source": "BBC World",
-      "title": "Former US attorney general Pam Bondi testifies in congressional Epstein probe",
-      "url": "https://www.bbc.com/news/articles/czj2ldllgwgo?at_medium=RSS&at_campaign=rss",
-      "summary": "The testimony comes about a month after America's top prosecutor was ousted by US President Donald Trump.",
-      "published_at": "2026-05-29T13:17:19Z",
-      "country_code": "US",
-      "country_name": "United States"
+      "source": "BBC Africa",
+      "title": "Abula - Nigeria's indigenous game with lofty ambitions",
+      "url": "https://www.bbc.com/sport/articles/clyq3plyp4lo?at_medium=RSS&at_campaign=rss",
+      "summary": "Abula, a Nigerian sport inspired by the Yoruba concept of a balanced meal, aims to grow from a local pastime into an internationally recogni…",
+      "published_at": "2026-05-29T15:03:16Z",
+      "country_code": "NG",
+      "country_name": "Nigeria"
     },
     {
       "source": "BBC World",
@@ -113,10 +131,10 @@
       "source": "BBC US & Canada",
       "title": "When trade soured, this American liquor maker moved to Canada",
       "url": "https://www.bbc.com/news/articles/c2l22ypl909o?at_medium=RSS&at_campaign=rss",
-      "summary": "Phillips Distilling lost 70% of its Canadian business after provinces banned the sale of US liquor. It has since found a way to sell its pro…",
+      "summary": "Sales of the fruity liqueur popular with Canadian students had plummetted north of the border as provinces retaliated against Trump tariffs.",
       "published_at": "2026-05-28T23:29:46Z",
-      "country_code": "US",
-      "country_name": "United States"
+      "country_code": "CA",
+      "country_name": "Canada"
     },
     {
       "source": "BBC US & Canada",
@@ -852,7 +870,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 33
+      "news_count": 32
     },
     {
       "country_code": "IL",
@@ -880,13 +898,13 @@
       "news_count": 4
     },
     {
-      "country_code": "IT",
-      "country_name": "Italy",
-      "news_count": 3
-    },
-    {
       "country_code": "RU",
       "country_name": "Russia",
+      "news_count": 4
+    },
+    {
+      "country_code": "IT",
+      "country_name": "Italy",
       "news_count": 3
     },
     {
@@ -912,6 +930,11 @@
     {
       "country_code": "MA",
       "country_name": "Morocco",
+      "news_count": 2
+    },
+    {
+      "country_code": "NG",
+      "country_name": "Nigeria",
       "news_count": 2
     },
     {
@@ -950,6 +973,11 @@
       "news_count": 1
     },
     {
+      "country_code": "CA",
+      "country_name": "Canada",
+      "news_count": 1
+    },
+    {
       "country_code": "EG",
       "country_name": "Egypt",
       "news_count": 1
@@ -957,11 +985,6 @@
     {
       "country_code": "JP",
       "country_name": "Japan",
-      "news_count": 1
-    },
-    {
-      "country_code": "NG",
-      "country_name": "Nigeria",
       "news_count": 1
     },
     {
