@@ -1,12 +1,21 @@
 {
-  "generated_at": "2026-05-29T21:19:17Z",
+  "generated_at": "2026-05-29T22:46:59Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "After decades risking arrest, South Korea's tattoo artists step into the limelight",
+      "url": "https://www.bbc.com/news/articles/cg4pwdn6130o?at_medium=RSS&at_campaign=rss",
+      "summary": "Only licensed doctors were allowed to ink tattoos in Korea - breaking the law could lead to heavy fines or jail.",
+      "published_at": "2026-05-29T22:13:54Z",
+      "country_code": "KR",
+      "country_name": "South Korea"
+    },
     {
       "source": "BBC World",
       "title": "'Poison seller' who sold toxic chemicals online to people across world admits aiding suicides",
       "url": "https://www.bbc.com/news/articles/c70vg7glglyo?at_medium=RSS&at_campaign=rss",
       "summary": "Kenneth Law admitted charges relating to Canadian victims - but families say he should also be charged in the UK over 79 deaths in Britain.",
-      "published_at": "2026-05-29T20:56:22Z",
+      "published_at": "2026-05-29T21:40:45Z",
       "country_code": "GB",
       "country_name": "United Kingdom"
     },
@@ -101,7 +110,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC US & Canada",
+      "source": "BBC World",
       "title": "Watch: Moment 14-year-old wins US national spelling bee",
       "url": "https://www.bbc.com/news/videos/c87qnjj8x7lo?at_medium=RSS&at_campaign=rss",
       "summary": "A teenager from California has won the 2026 Scripps National Spelling Bee, after days of fierce competition.",
@@ -263,22 +272,13 @@
       "country_name": "India"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "Jill Biden says she thought husband was having a stroke during 2024 debate",
       "url": "https://www.bbc.com/news/articles/c99l270vy3no?at_medium=RSS&at_campaign=rss",
       "summary": "The former US first lady told CBS News that she was frightened by Joe Biden's performance against Donald Trump.",
       "published_at": "2026-05-28T04:53:51Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "Australia charges woman who returned from Syria with joining Islamic State",
-      "url": "https://www.bbc.com/news/articles/c87q2w0w0jvo?at_medium=RSS&at_campaign=rss",
-      "summary": "Several groups of women and children who spent years in a Syrian camp have returned in recent months.",
-      "published_at": "2026-05-28T04:01:17Z",
-      "country_code": "AU",
-      "country_name": "Australia"
     },
     {
       "source": "BBC World",
@@ -976,11 +976,6 @@
       "news_count": 1
     },
     {
-      "country_code": "AU",
-      "country_name": "Australia",
-      "news_count": 1
-    },
-    {
       "country_code": "BD",
       "country_name": "Bangladesh",
       "news_count": 1
@@ -1003,6 +998,11 @@
     {
       "country_code": "JP",
       "country_name": "Japan",
+      "news_count": 1
+    },
+    {
+      "country_code": "KR",
+      "country_name": "South Korea",
       "news_count": 1
     },
     {
