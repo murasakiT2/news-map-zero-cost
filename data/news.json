@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-05-29T01:30:00Z",
+  "generated_at": "2026-05-29T05:50:39Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Italy restores lucky testicles on bull mosaic worn down by tourists",
+      "url": "https://www.bbc.com/news/articles/c1m215npjp2o?at_medium=RSS&at_campaign=rss",
+      "summary": "The artwork is the centre of a tradition that involves visitors performing three spins on it for good fortune.",
+      "published_at": "2026-05-29T02:01:44Z",
+      "country_code": "IT",
+      "country_name": "Italy"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "Are the US and Iran close to reaching a peace deal… again?",
+      "url": "https://www.bbc.com/news/videos/crep48831p8o?at_medium=RSS&at_campaign=rss",
+      "summary": "BBC’s Sarah Smith looks at why both countries are in a tense cycle of negotiations, despite the progress President Trump consistently claims…",
+      "published_at": "2026-05-29T00:10:53Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "Portugal breaks hottest May day record as Europe swelters in heatwave",
@@ -21,9 +39,9 @@
     },
     {
       "source": "BBC US & Canada",
-      "title": "US spelling bee finalists battle it out - can you keep up? Take our quiz",
+      "title": "California teen wins US spelling bee - but could you compete? Take our quiz",
       "url": "https://www.bbc.com/news/articles/cx21m0j5xm7o?at_medium=RSS&at_campaign=rss",
-      "summary": "Nine kids will battle it out in the 2026 Scripps National Spelling Bee finals - can you spell as well as they do?",
+      "summary": "Nine kids have battled it out in the 2026 Scripps National Spelling Bee finals - can you spell as well as they did?",
       "published_at": "2026-05-28T23:19:58Z",
       "country_code": "US",
       "country_name": "United States"
@@ -61,15 +79,6 @@
       "url": "https://www.bbc.com/news/articles/cze29764067o?at_medium=RSS&at_campaign=rss",
       "summary": "Neither side seems interested in a return to all-out conflict, despite the latest exchange of strikes.",
       "published_at": "2026-05-28T16:56:19Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "US justice department launches criminal investigation into Trump accuser E Jean Carroll",
-      "url": "https://www.bbc.com/news/articles/clyp77jd407o?at_medium=RSS&at_campaign=rss",
-      "summary": "The case centres on whether the former columnist lied about the funding she received for her civil lawsuit against the US president.",
-      "published_at": "2026-05-28T16:50:33Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -117,15 +126,6 @@
       "published_at": "2026-05-28T14:47:05Z",
       "country_code": "IT",
       "country_name": "Italy"
-    },
-    {
-      "source": "BBC World",
-      "title": "Oil prices fall after report of breakthrough in US-Iran talks",
-      "url": "https://www.bbc.com/news/articles/cp3p62xddq4o?at_medium=RSS&at_campaign=rss",
-      "summary": "A report of a extended ceasefire, subject to Donald Trump's approval, has led to global oil prices to fall on Thursday.",
-      "published_at": "2026-05-28T14:45:46Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC Europe",
@@ -272,22 +272,13 @@
       "country_name": "Russia"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Middle East",
       "title": "Israeli strike in Gaza City kills new head of Hamas's military wing",
       "url": "https://www.bbc.com/news/articles/cjwppj1yn7go?at_medium=RSS&at_campaign=rss",
       "summary": "Hamas says Mohammed Odeh was killed alongside his wife and two children in a strike on a residential building.",
       "published_at": "2026-05-27T13:15:26Z",
       "country_code": "PS",
       "country_name": "Palestine"
-    },
-    {
-      "source": "BBC World",
-      "title": "Woman caught after 30 years on the run is jailed for armed robberies",
-      "url": "https://www.bbc.com/news/articles/cx21dr3lekpo?at_medium=RSS&at_campaign=rss",
-      "summary": "Klette was finally caught in a flat in Berlin in 2024 and put on trial last year.",
-      "published_at": "2026-05-27T12:42:43Z",
-      "country_code": "DE",
-      "country_name": "Germany"
     },
     {
       "source": "BBC Europe",
@@ -335,15 +326,6 @@
       "country_name": "Israel"
     },
     {
-      "source": "BBC World",
-      "title": "One killed and nine missing after chemical explosion at US paper mill",
-      "url": "https://www.bbc.com/news/articles/cj9ppm94xw9o?at_medium=RSS&at_campaign=rss",
-      "summary": "Nine others were injured and another nine are missing after a tank ruptured at a paper mill in Longview, Washington.",
-      "published_at": "2026-05-27T03:02:27Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC Asia",
       "title": "Hundreds of children die within months as measles cases soar in Bangladesh",
       "url": "https://www.bbc.com/news/articles/cwy2d5d7wn5o?at_medium=RSS&at_campaign=rss",
@@ -362,7 +344,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC US & Canada",
+      "source": "BBC World",
       "title": "Watch: UFC arena construction begins at White House ahead of fight",
       "url": "https://www.bbc.com/news/videos/cz7253q4g4jo?at_medium=RSS&at_campaign=rss",
       "summary": "The massive structure will host a cage fight as part of celebrations marking the 250th anniversary of the US Declaration of Independence.",
@@ -879,7 +861,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 34
+      "news_count": 32
     },
     {
       "country_code": "IL",
@@ -907,8 +889,8 @@
       "news_count": 4
     },
     {
-      "country_code": "DE",
-      "country_name": "Germany",
+      "country_code": "IT",
+      "country_name": "Italy",
       "news_count": 3
     },
     {
@@ -932,13 +914,13 @@
       "news_count": 2
     },
     {
-      "country_code": "IN",
-      "country_name": "India",
+      "country_code": "DE",
+      "country_name": "Germany",
       "news_count": 2
     },
     {
-      "country_code": "IT",
-      "country_name": "Italy",
+      "country_code": "IN",
+      "country_name": "India",
       "news_count": 2
     },
     {
