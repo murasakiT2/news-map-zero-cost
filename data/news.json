@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-30T17:56:16Z",
+  "generated_at": "2026-05-30T19:02:08Z",
   "articles": [
     {
-      "source": "BBC US & Canada",
+      "source": "BBC World",
       "title": "Trump attacks artists dropping out of US Freedom 250 concert and mulls appearing himself",
       "url": "https://www.bbc.com/news/articles/cy02j1n87wlo?at_medium=RSS&at_campaign=rss",
       "summary": "Performers Young MC, Poison frontman Bret Michaels and country singer Martina McBride raised concerns the event will be political.",
@@ -54,15 +54,6 @@
       "published_at": "2026-05-30T11:39:32Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "How did tattoo artists become legal in South Korea?",
-      "url": "https://www.bbc.com/news/videos/c9we0ln71llo?at_medium=RSS&at_campaign=rss",
-      "summary": "The BBC is in Seoul, where tattooist from all over the country have gathered to celebrate their art, following decades of underground work.",
-      "published_at": "2026-05-30T10:35:31Z",
-      "country_code": "KR",
-      "country_name": "South Korea"
     },
     {
       "source": "BBC US & Canada",
@@ -991,11 +982,6 @@
       "news_count": 2
     },
     {
-      "country_code": "KR",
-      "country_name": "South Korea",
-      "news_count": 2
-    },
-    {
       "country_code": "MA",
       "country_name": "Morocco",
       "news_count": 2
@@ -1053,6 +1039,11 @@
     {
       "country_code": "JP",
       "country_name": "Japan",
+      "news_count": 1
+    },
+    {
+      "country_code": "KR",
+      "country_name": "South Korea",
       "news_count": 1
     },
     {
