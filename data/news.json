@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-05-30T04:31:20Z",
+  "generated_at": "2026-05-30T07:34:44Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "US not 'turning back' on Asia allies, but expects them to boost defence - Hegseth",
+      "url": "https://www.bbc.com/news/articles/c5ye34k7yejo?at_medium=RSS&at_campaign=rss",
+      "summary": "The US defense secretary is questioned about US commitment, including further arms deals, at an Asian security summit in Singapore.",
+      "published_at": "2026-05-30T05:57:46Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "No deal announced after Trump meeting to make 'final determination' on Iran",
@@ -155,7 +164,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC US & Canada",
+      "source": "BBC World",
       "title": "Watch: Moment 14-year-old wins US national spelling bee",
       "url": "https://www.bbc.com/news/videos/c87qnjj8x7lo?at_medium=RSS&at_campaign=rss",
       "summary": "A teenager from California has won the 2026 Scripps National Spelling Bee, after days of fierce competition.",
@@ -191,7 +200,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "Portugal breaks hottest May day record as Europe swelters in heatwave",
       "url": "https://www.bbc.com/news/articles/c3v2yv5207xo?at_medium=RSS&at_campaign=rss",
       "summary": "French students are taking their exams in baking schools, while red alerts are issued in Italy.",
@@ -218,7 +227,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Asia",
+      "source": "BBC World",
       "title": "How did this novel about food win a Booker Prize this year?",
       "url": "https://www.bbc.com/news/videos/cx21k1dkygno?at_medium=RSS&at_campaign=rss",
       "summary": "Taiwan Travelogue is the first novel translated from Mandarin Chinese to win the prestigious award.",
@@ -254,15 +263,6 @@
       "country_name": "Kenya"
     },
     {
-      "source": "BBC World",
-      "title": "Gaza City hospitals say several killed in strike, as Israel targets Hamas leaders",
-      "url": "https://www.bbc.com/news/articles/cn9p40en4ngo?at_medium=RSS&at_campaign=rss",
-      "summary": "At least five children were reportedly killed in the strike, which appears to have targeted a Hamas commander.",
-      "published_at": "2026-05-28T16:20:50Z",
-      "country_code": "IL",
-      "country_name": "Israel"
-    },
-    {
       "source": "BBC Middle East",
       "title": "Iran says it targeted American base after fresh US strikes",
       "url": "https://www.bbc.com/news/articles/c98r2qy5809o?at_medium=RSS&at_campaign=rss",
@@ -272,7 +272,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "Villas, cars and cash: Italy seizes dead Mafia mobster's millions",
       "url": "https://www.bbc.com/news/articles/ceqpd4gqgveo?at_medium=RSS&at_campaign=rss",
       "summary": "Police say the operation targeted the network of notorious late Sicilian mafia boss Matteo Messina Denaro.",
@@ -888,12 +888,12 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 33
+      "news_count": 34
     },
     {
       "country_code": "IL",
       "country_name": "Israel",
-      "news_count": 10
+      "news_count": 9
     },
     {
       "country_code": "CN",
