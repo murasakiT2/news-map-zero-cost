@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-05-31T02:28:52Z",
+  "generated_at": "2026-05-31T06:39:28Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Japan defence minister denies militarism, criticises China's 'huge arsenal'",
+      "url": "https://www.bbc.com/news/articles/cp8p4ejy8ppo?at_medium=RSS&at_campaign=rss",
+      "summary": "Shinjiro Koizumi makes some of Tokyo's most pointed remarks yet in the dispute over Japan's military build-up.",
+      "published_at": "2026-05-31T06:34:04Z",
+      "country_code": "JP",
+      "country_name": "Japan"
+    },
     {
       "source": "BBC World",
       "title": "Hundreds arrested in France after wild Champions League celebrations",
@@ -994,6 +1003,11 @@
     {
       "country_code": "ET",
       "country_name": "Ethiopia",
+      "news_count": 1
+    },
+    {
+      "country_code": "JP",
+      "country_name": "Japan",
       "news_count": 1
     },
     {
