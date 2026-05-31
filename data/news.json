@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-05-31T09:41:26Z",
+  "generated_at": "2026-05-31T11:26:38Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Hundreds arrested and dozens of police injured after Champions League riots in France",
+      "url": "https://www.bbc.com/news/articles/c0r2ejg1w9xo?at_medium=RSS&at_campaign=rss",
+      "summary": "Nearly 800 people were arrested after clashes with police which saw 219 people injured, including 57 police officers.",
+      "published_at": "2026-05-31T11:26:08Z",
+      "country_code": "FR",
+      "country_name": "France"
+    },
+    {
+      "source": "BBC World",
+      "title": "South Africa made to look like fools after World Cup visa issues, says minister",
+      "url": "https://www.bbc.com/news/articles/c86dxvql3qno?at_medium=RSS&at_campaign=rss",
+      "summary": "According to media reports, the team's departure for Mexico on Sunday has been delayed due to an \"administrative bungle\".",
+      "published_at": "2026-05-31T10:34:47Z",
+      "country_code": "ZA",
+      "country_name": "South Africa"
+    },
     {
       "source": "BBC World",
       "title": "Colombia votes in presidential election that could redefine relations with US",
@@ -9,15 +27,6 @@
       "published_at": "2026-05-31T08:47:46Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "Hundreds arrested in France after wild Champions League celebrations",
-      "url": "https://www.bbc.com/news/articles/cg7pk5j7nyjo?at_medium=RSS&at_campaign=rss",
-      "summary": "Thousands of officers tried to quell unrest as crowds of fans - some firing flares - celebrated PSG's victory over Arsenal.",
-      "published_at": "2026-05-31T06:41:02Z",
-      "country_code": "FR",
-      "country_name": "France"
     },
     {
       "source": "BBC World",
@@ -83,7 +92,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "US not 'turning back' on Asia allies, but expects them to boost defence, says Hegseth",
       "url": "https://www.bbc.com/news/articles/c5ye34k7yejo?at_medium=RSS&at_campaign=rss",
       "summary": "The US defense secretary is questioned about US commitment, including further arms deals, at an Asian security summit in Singapore.",
@@ -101,7 +110,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "No deal announced after Trump meeting to make 'final determination' on Iran",
       "url": "https://www.bbc.com/news/articles/c0r2d40r91qo?at_medium=RSS&at_campaign=rss",
       "summary": "The US president met his advisers, after officials confirmed the US and Iran had agreed a framework of a deal.",
@@ -146,7 +155,7 @@
       "country_name": "Spain"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "Ex-US attorney general defends Epstein files handling in congressional probe",
       "url": "https://www.bbc.com/news/articles/czj2ldllgwgo?at_medium=RSS&at_campaign=rss",
       "summary": "The testimony comes about a month after America's top prosecutor was ousted by US President Donald Trump.",
@@ -333,15 +342,6 @@
       "published_at": "2026-05-28T22:48:45Z",
       "country_code": "TW",
       "country_name": "Taiwan"
-    },
-    {
-      "source": "BBC Africa",
-      "title": "Questions over safety as 16 pupils die in another Kenya school fire",
-      "url": "https://www.bbc.com/news/articles/cx21kkxq81po?at_medium=RSS&at_campaign=rss",
-      "summary": "Several parents were still waiting for news of their children roughly 12 hours after the fire.",
-      "published_at": "2026-05-28T16:28:29Z",
-      "country_code": "KE",
-      "country_name": "Kenya"
     },
     {
       "source": "BBC Middle East",
@@ -922,13 +922,13 @@
       "news_count": 3
     },
     {
-      "country_code": "IN",
-      "country_name": "India",
-      "news_count": 2
+      "country_code": "ZA",
+      "country_name": "South Africa",
+      "news_count": 3
     },
     {
-      "country_code": "KE",
-      "country_name": "Kenya",
+      "country_code": "IN",
+      "country_name": "India",
       "news_count": 2
     },
     {
@@ -954,11 +954,6 @@
     {
       "country_code": "SA",
       "country_name": "Saudi Arabia",
-      "news_count": 2
-    },
-    {
-      "country_code": "ZA",
-      "country_name": "South Africa",
       "news_count": 2
     },
     {
@@ -999,6 +994,11 @@
     {
       "country_code": "JP",
       "country_name": "Japan",
+      "news_count": 1
+    },
+    {
+      "country_code": "KE",
+      "country_name": "Kenya",
       "news_count": 1
     },
     {
