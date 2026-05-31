@@ -1,23 +1,32 @@
 {
-  "generated_at": "2026-05-31T06:39:28Z",
+  "generated_at": "2026-05-31T09:41:26Z",
   "articles": [
     {
       "source": "BBC World",
-      "title": "Japan defence minister denies militarism, criticises China's 'huge arsenal'",
-      "url": "https://www.bbc.com/news/articles/cp8p4ejy8ppo?at_medium=RSS&at_campaign=rss",
-      "summary": "Shinjiro Koizumi makes some of Tokyo's most pointed remarks yet in the dispute over Japan's military build-up.",
-      "published_at": "2026-05-31T06:34:04Z",
-      "country_code": "JP",
-      "country_name": "Japan"
+      "title": "Colombia votes in presidential election that could redefine relations with US",
+      "url": "https://www.bbc.com/news/articles/c2027g423glo?at_medium=RSS&at_campaign=rss",
+      "summary": "The election is held after months of public recrimination between current left-wing President Gustavo Petro and his US counterpart Donald Tr…",
+      "published_at": "2026-05-31T08:47:46Z",
+      "country_code": "US",
+      "country_name": "United States"
     },
     {
       "source": "BBC World",
       "title": "Hundreds arrested in France after wild Champions League celebrations",
       "url": "https://www.bbc.com/news/articles/cg7pk5j7nyjo?at_medium=RSS&at_campaign=rss",
       "summary": "Thousands of officers tried to quell unrest as crowds of fans - some firing flares - celebrated PSG's victory over Arsenal.",
-      "published_at": "2026-05-31T02:04:18Z",
+      "published_at": "2026-05-31T06:41:02Z",
       "country_code": "FR",
       "country_name": "France"
+    },
+    {
+      "source": "BBC World",
+      "title": "Japan defence minister denies militarism and criticises China's 'huge arsenal'",
+      "url": "https://www.bbc.com/news/articles/cp8p4ejy8ppo?at_medium=RSS&at_campaign=rss",
+      "summary": "Shinjiro Koizumi makes some of Tokyo's most pointed remarks yet in the dispute over Japan's military build-up.",
+      "published_at": "2026-05-31T06:34:04Z",
+      "country_code": "JP",
+      "country_name": "Japan"
     },
     {
       "source": "BBC Africa",
@@ -363,15 +372,6 @@
     },
     {
       "source": "BBC Asia",
-      "title": "Hacking claims, mismatched answer-sheets: Controversies rock school exam in India",
-      "url": "https://www.bbc.com/news/articles/cy42e8eljpno?at_medium=RSS&at_campaign=rss",
-      "summary": "Students blame the CBSE's newly-launched digital evaluation system used for marking this year's Grade 12 exams.",
-      "published_at": "2026-05-28T05:35:42Z",
-      "country_code": "IN",
-      "country_name": "India"
-    },
-    {
-      "source": "BBC Asia",
       "title": "The world's carmakers are struggling to compete with China",
       "url": "https://www.bbc.com/news/articles/c4g8vg72z43o?at_medium=RSS&at_campaign=rss",
       "summary": "The BBC visited China’s EV factories and found they are dominating the ecosystems shaping the global auto industry.",
@@ -558,15 +558,6 @@
       "published_at": "2026-05-25T20:11:59Z",
       "country_code": "SA",
       "country_name": "Saudi Arabia"
-    },
-    {
-      "source": "BBC Latin America",
-      "title": "Three arrested over burglaries against high-profile athletes",
-      "url": "https://www.bbc.com/news/articles/c0m22vdwrr9o?at_medium=RSS&at_campaign=rss",
-      "summary": "The Chilean nationals were arrested in Argentina on suspicion of targeting stars including Travis Kelce.",
-      "published_at": "2026-05-25T14:51:28Z",
-      "country_code": "AR",
-      "country_name": "Argentina"
     },
     {
       "source": "BBC Middle East",
@@ -888,7 +879,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 34
+      "news_count": 35
     },
     {
       "country_code": "IL",
@@ -926,18 +917,13 @@
       "news_count": 3
     },
     {
-      "country_code": "IN",
-      "country_name": "India",
-      "news_count": 3
-    },
-    {
       "country_code": "UA",
       "country_name": "Ukraine",
       "news_count": 3
     },
     {
-      "country_code": "AR",
-      "country_name": "Argentina",
+      "country_code": "IN",
+      "country_name": "India",
       "news_count": 2
     },
     {
@@ -978,6 +964,11 @@
     {
       "country_code": "AE",
       "country_name": "United Arab Emirates",
+      "news_count": 1
+    },
+    {
+      "country_code": "AR",
+      "country_name": "Argentina",
       "news_count": 1
     },
     {
