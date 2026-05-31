@@ -1,12 +1,21 @@
 {
-  "generated_at": "2026-05-31T19:01:18Z",
+  "generated_at": "2026-05-31T20:35:00Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Israel seizes castle in Lebanon as it expands ground offensive",
+      "url": "https://www.bbc.com/news/articles/cdep04kzz5wo?at_medium=RSS&at_campaign=rss",
+      "summary": "Prime Minister Benjamin Netanyahu describes the capture of the strategic fortress as a \"decisive shift\" in its military campaign against Hez…",
+      "published_at": "2026-05-31T20:26:11Z",
+      "country_code": "IL",
+      "country_name": "Israel"
+    },
     {
       "source": "BBC World",
       "title": "Brazil monitors two patients for possible Ebola infection",
       "url": "https://www.bbc.com/news/articles/cy72z48zd7po?at_medium=RSS&at_campaign=rss",
       "summary": "If confirmed, they would be the first infection cases outside Africa, since the outbreak began in DR Congo.",
-      "published_at": "2026-05-31T18:18:13Z",
+      "published_at": "2026-05-31T19:07:47Z",
       "country_code": "BR",
       "country_name": "Brazil"
     },
@@ -18,15 +27,6 @@
       "published_at": "2026-05-31T18:13:39Z",
       "country_code": "FR",
       "country_name": "France"
-    },
-    {
-      "source": "BBC World",
-      "title": "Israel seizes castle in Lebanon as it expands ground offensive",
-      "url": "https://www.bbc.com/news/articles/cdep04kzz5wo?at_medium=RSS&at_campaign=rss",
-      "summary": "Prime Minister Benjamin Netanyahu describes the capture of the strategic fortress as a \"decisive shift\" in its military campaign against Hez…",
-      "published_at": "2026-05-31T18:06:57Z",
-      "country_code": "IL",
-      "country_name": "Israel"
     },
     {
       "source": "BBC World",
@@ -758,15 +758,6 @@
       "country_name": "France"
     },
     {
-      "source": "BBC Africa",
-      "title": "Salah set to captain Egypt at World Cup",
-      "url": "https://www.bbc.com/sport/football/articles/cpwpnjkjl94o?at_medium=RSS&at_campaign=rss",
-      "summary": "Liverpool forward Mohamed Salah is named in Egypt's preliminary World Cup squad, which will be trimmed by one player this month.",
-      "published_at": "2026-05-21T06:26:51Z",
-      "country_code": "EG",
-      "country_name": "Egypt"
-    },
-    {
       "source": "BBC Europe",
       "title": "From AI to interceptors, Ukraine is trying to drone-proof its skies",
       "url": "https://www.bbc.com/news/articles/c1k2lmmjvzxo?at_medium=RSS&at_campaign=rss",
@@ -873,22 +864,13 @@
       "published_at": "2026-05-07T14:22:20Z",
       "country_code": "IL",
       "country_name": "Israel"
-    },
-    {
-      "source": "BBC Middle East",
-      "title": "Bowen: Strait of Hormuz standoff raises risk of sliding back into all-out war",
-      "url": "https://www.bbc.com/news/articles/cgrpnq00j5vo?at_medium=RSS&at_campaign=rss",
-      "summary": "The US and Iran's determination to keep the pressure on each other has put the fragile Gulf ceasefire in serious jeopardy.",
-      "published_at": "2026-05-05T11:38:03Z",
-      "country_code": "US",
-      "country_name": "United States"
     }
   ],
   "regions": [
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 35
+      "news_count": 34
     },
     {
       "country_code": "IL",
@@ -978,11 +960,6 @@
     {
       "country_code": "CA",
       "country_name": "Canada",
-      "news_count": 1
-    },
-    {
-      "country_code": "EG",
-      "country_name": "Egypt",
       "news_count": 1
     },
     {
