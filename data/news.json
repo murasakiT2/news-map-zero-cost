@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-05-31T11:26:38Z",
+  "generated_at": "2026-05-31T12:55:16Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Israel seizes castle in Lebanon as it expands ground offensive",
+      "url": "https://www.bbc.com/news/articles/cdep04kzz5wo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Israeli military says everyone south of the Zahrani river should leave, after it captured the strategic Beaufort Castle.",
+      "published_at": "2026-05-31T12:18:24Z",
+      "country_code": "IL",
+      "country_name": "Israel"
+    },
+    {
+      "source": "BBC World",
+      "title": "South Africa made to look like fools after World Cup visa issues, says minister",
+      "url": "https://www.bbc.com/news/articles/c86dxvql3qno?at_medium=RSS&at_campaign=rss",
+      "summary": "The country's football association says it is working to resolve the problems that have delayed the team's departure to Mexico.",
+      "published_at": "2026-05-31T11:32:42Z",
+      "country_code": "ZA",
+      "country_name": "South Africa"
+    },
     {
       "source": "BBC World",
       "title": "Hundreds arrested and dozens of police injured after Champions League riots in France",
@@ -9,15 +27,6 @@
       "published_at": "2026-05-31T11:26:08Z",
       "country_code": "FR",
       "country_name": "France"
-    },
-    {
-      "source": "BBC World",
-      "title": "South Africa made to look like fools after World Cup visa issues, says minister",
-      "url": "https://www.bbc.com/news/articles/c86dxvql3qno?at_medium=RSS&at_campaign=rss",
-      "summary": "According to media reports, the team's departure for Mexico on Sunday has been delayed due to an \"administrative bungle\".",
-      "published_at": "2026-05-31T10:34:47Z",
-      "country_code": "ZA",
-      "country_name": "South Africa"
     },
     {
       "source": "BBC World",
@@ -146,7 +155,7 @@
       "country_name": "South Africa"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "Spain's Sánchez digs in after eight years as PM as wave of scandals threatens survival",
       "url": "https://www.bbc.com/news/articles/c1w21gn340xo?at_medium=RSS&at_campaign=rss",
       "summary": "Corruption probes of colleagues and relatives have put Spain's premier into a fight for survival.",
@@ -225,15 +234,6 @@
       "published_at": "2026-05-29T17:27:09Z",
       "country_code": "RU",
       "country_name": "Russia"
-    },
-    {
-      "source": "BBC Africa",
-      "title": "Kenya court halts opening of US Ebola quarantine facility in the country",
-      "url": "https://www.bbc.com/news/articles/cpdp74lgzplo?at_medium=RSS&at_campaign=rss",
-      "summary": "A 50-bed isolation unit in Kenya for US citizens was due to open on Friday, a US official said.",
-      "published_at": "2026-05-29T15:52:17Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC Asia",
@@ -879,12 +879,12 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 35
+      "news_count": 34
     },
     {
       "country_code": "IL",
       "country_name": "Israel",
-      "news_count": 9
+      "news_count": 10
     },
     {
       "country_code": "FR",
