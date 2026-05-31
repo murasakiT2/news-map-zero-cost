@@ -1,6 +1,33 @@
 {
-  "generated_at": "2026-05-31T17:53:58Z",
+  "generated_at": "2026-05-31T19:01:18Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Brazil monitors two patients for possible Ebola infection",
+      "url": "https://www.bbc.com/news/articles/cy72z48zd7po?at_medium=RSS&at_campaign=rss",
+      "summary": "If confirmed, they would be the first infection cases outside Africa, since the outbreak began in DR Congo.",
+      "published_at": "2026-05-31T18:18:13Z",
+      "country_code": "BR",
+      "country_name": "Brazil"
+    },
+    {
+      "source": "BBC World",
+      "title": "Hundreds arrested and dozens of police injured after Champions League riots in France",
+      "url": "https://www.bbc.com/news/articles/c0r2ejg1w9xo?at_medium=RSS&at_campaign=rss",
+      "summary": "Nearly 800 people were arrested after clashes with police which saw 219 people injured, including 57 police officers.",
+      "published_at": "2026-05-31T18:13:39Z",
+      "country_code": "FR",
+      "country_name": "France"
+    },
+    {
+      "source": "BBC World",
+      "title": "Israel seizes castle in Lebanon as it expands ground offensive",
+      "url": "https://www.bbc.com/news/articles/cdep04kzz5wo?at_medium=RSS&at_campaign=rss",
+      "summary": "Prime Minister Benjamin Netanyahu describes the capture of the strategic fortress as a \"decisive shift\" in its military campaign against Hez…",
+      "published_at": "2026-05-31T18:06:57Z",
+      "country_code": "IL",
+      "country_name": "Israel"
+    },
     {
       "source": "BBC World",
       "title": "'Cancel it', Trump says after artists drop out of US Freedom 250 festival",
@@ -18,24 +45,6 @@
       "published_at": "2026-05-31T17:27:18Z",
       "country_code": "ZA",
       "country_name": "South Africa"
-    },
-    {
-      "source": "BBC World",
-      "title": "Hundreds arrested and dozens of police injured after Champions League riots in France",
-      "url": "https://www.bbc.com/news/articles/c0r2ejg1w9xo?at_medium=RSS&at_campaign=rss",
-      "summary": "Nearly 800 people were arrested after clashes with police which saw 219 people injured, including 57 police officers.",
-      "published_at": "2026-05-31T16:24:56Z",
-      "country_code": "FR",
-      "country_name": "France"
-    },
-    {
-      "source": "BBC World",
-      "title": "Israel seizes castle in Lebanon as it expands ground offensive",
-      "url": "https://www.bbc.com/news/articles/cdep04kzz5wo?at_medium=RSS&at_campaign=rss",
-      "summary": "Prime Minister Benjamin Netanyahu describes the capture of the strategic fortress as a \"decisive shift\" in its military campaign against Hez…",
-      "published_at": "2026-05-31T16:08:57Z",
-      "country_code": "IL",
-      "country_name": "Israel"
     },
     {
       "source": "BBC World",
@@ -533,15 +542,6 @@
       "country_name": "United Kingdom"
     },
     {
-      "source": "BBC Latin America",
-      "title": "Inter Miami say Messi went off with muscle fatigue",
-      "url": "https://www.bbc.com/sport/football/articles/cx211e5890lo?at_medium=RSS&at_campaign=rss",
-      "summary": "Argentina star Lionel Messi was substituted during Inter Miami's Major League Soccer game on Sunday due to \"muscle fatigue\" in his left hams…",
-      "published_at": "2026-05-25T23:12:21Z",
-      "country_code": "AR",
-      "country_name": "Argentina"
-    },
-    {
       "source": "BBC Europe",
       "title": "Wave of child abuse cases shakes schools in Paris",
       "url": "https://www.bbc.com/news/articles/c8e8gx2d7j4o?at_medium=RSS&at_campaign=rss",
@@ -936,6 +936,11 @@
       "news_count": 3
     },
     {
+      "country_code": "BR",
+      "country_name": "Brazil",
+      "news_count": 2
+    },
+    {
       "country_code": "IN",
       "country_name": "India",
       "news_count": 2
@@ -968,16 +973,6 @@
     {
       "country_code": "AE",
       "country_name": "United Arab Emirates",
-      "news_count": 1
-    },
-    {
-      "country_code": "AR",
-      "country_name": "Argentina",
-      "news_count": 1
-    },
-    {
-      "country_code": "BR",
-      "country_name": "Brazil",
       "news_count": 1
     },
     {
