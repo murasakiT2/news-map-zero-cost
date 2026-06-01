@@ -1,17 +1,62 @@
 {
-  "generated_at": "2026-06-01T14:28:45Z",
+  "generated_at": "2026-06-01T19:27:38Z",
   "articles": [
     {
       "source": "BBC World",
+      "title": "AI giant Anthropic says it plans to list on US stock market",
+      "url": "https://www.bbc.com/news/articles/c0k203kzp10o?at_medium=RSS&at_campaign=rss",
+      "summary": "The AI company behind Claude is set to offer the public shares of stock sometime this year.",
+      "published_at": "2026-06-01T18:50:13Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Iran warns Israeli attacks in Lebanon threaten ceasefire with US",
+      "url": "https://www.bbc.com/news/articles/c202rxp1z15o?at_medium=RSS&at_campaign=rss",
+      "summary": "Earlier Israel's PM ordered strikes on Beirut's southern suburbs in response to Hezbollah rocket and drone attacks on northern Israel.",
+      "published_at": "2026-06-01T18:34:14Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC Middle East",
       "title": "Israel PM orders strikes on Beirut suburbs as Hezbollah conflict escalates",
       "url": "https://www.bbc.com/news/articles/c4g419e2xlvo?at_medium=RSS&at_campaign=rss",
-      "summary": "Benjamin Netanyahu says the Hezbollah stronghold of Dahieh will be targeted in response to attacks on Israeli civilians.",
-      "published_at": "2026-06-01T14:13:53Z",
+      "summary": "Thousands flee the Hezbollah stronghold of Dahieh after Benjamin Netanyahu says it will be targeted in response to attacks on Israeli civili…",
+      "published_at": "2026-06-01T17:04:36Z",
       "country_code": "IL",
       "country_name": "Israel"
     },
     {
       "source": "BBC World",
+      "title": "US political commentators denied entry to UK by Home Office",
+      "url": "https://www.bbc.com/news/articles/cwy2rxyvvl1o?at_medium=RSS&at_campaign=rss",
+      "summary": "The US citizens and left-wing content creators with huge online followings were due to speak at the SXSW London festival and Oxford this wee…",
+      "published_at": "2026-06-01T15:40:58Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Bowen: Trump needs this war to end but Iran is not backing down",
+      "url": "https://www.bbc.com/news/articles/cedp3lee059o?at_medium=RSS&at_campaign=rss",
+      "summary": "Under pressure from the polls and Gulf allies, the White House is pushing for a deal but Iran wants concessions, writes BBC's international …",
+      "published_at": "2026-06-01T15:25:54Z",
+      "country_code": "IR",
+      "country_name": "Iran"
+    },
+    {
+      "source": "BBC World",
+      "title": "Voting suspended in parts of Ethiopia over security concerns",
+      "url": "https://www.bbc.com/news/articles/cn0pngz2rego?at_medium=RSS&at_campaign=rss",
+      "summary": "Prime Minister Abiy Ahmed's party is expected to dominate the election as conflicts overshadow the vote.",
+      "published_at": "2026-06-01T14:35:36Z",
+      "country_code": "ET",
+      "country_name": "Ethiopia"
+    },
+    {
+      "source": "BBC US & Canada",
       "title": "US says it struck Iranian radar sites as Iran targets American forces in Kuwait",
       "url": "https://www.bbc.com/news/articles/crlpy8n7pr6o?at_medium=RSS&at_campaign=rss",
       "summary": "Iran and the US say they have carried out fresh strikes around the Strait of Hormuz, with Kuwait condemning \"repeated\" Iranian attacks.",
@@ -29,7 +74,7 @@
       "country_name": "United Kingdom"
     },
     {
-      "source": "BBC Africa",
+      "source": "BBC Middle East",
       "title": "The schoolgirl who became world champion at 14",
       "url": "https://www.bbc.com/sport/modern-pentathlon/articles/clyp8gy7vn9o?at_medium=RSS&at_campaign=rss",
       "summary": "Egypt's Farida Khalil beat competitors twice her age to become world champion in modern pentathlon at the age of 14 after the sport was reva…",
@@ -81,15 +126,6 @@
       "published_at": "2026-06-01T05:33:18Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "Ethiopia election under way, but not everyone can vote",
-      "url": "https://www.bbc.com/news/articles/cn0pngz2rego?at_medium=RSS&at_campaign=rss",
-      "summary": "Prime Minister Abiy Ahmed's party is expected to dominate the election as conflicts overshadow the vote.",
-      "published_at": "2026-06-01T04:36:30Z",
-      "country_code": "ET",
-      "country_name": "Ethiopia"
     },
     {
       "source": "BBC World",
@@ -236,7 +272,7 @@
       "country_name": "Italy"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "Trump's doctor says he's in excellent health - but are US presidents' health checks a PR exercise?",
       "url": "https://www.bbc.com/news/articles/c9q39dx778zo?at_medium=RSS&at_campaign=rss",
       "summary": "Every president in modern history - including Donald Trump this week - has taken an annual physical exam that is as much about messaging as …",
@@ -259,15 +295,6 @@
       "url": "https://www.bbc.com/news/articles/c5y8wjvd1ypo?at_medium=RSS&at_campaign=rss",
       "summary": "The technology, developed under the Aukus military pact, is aimed at protecting undersea cables and boosting naval defence.",
       "published_at": "2026-05-30T12:16:26Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "No deal announced after Trump meeting to make 'final determination' on Iran",
-      "url": "https://www.bbc.com/news/articles/c0r2d40r91qo?at_medium=RSS&at_campaign=rss",
-      "summary": "The US president met his advisers, after officials confirmed the US and Iran had agreed a framework of a deal.",
-      "published_at": "2026-05-30T11:39:32Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -299,15 +326,6 @@
       "country_name": "Spain"
     },
     {
-      "source": "BBC US & Canada",
-      "title": "Ex-US attorney general defends Epstein files handling in congressional probe",
-      "url": "https://www.bbc.com/news/articles/czj2ldllgwgo?at_medium=RSS&at_campaign=rss",
-      "summary": "The testimony comes about a month after America's top prosecutor was ousted by US President Donald Trump.",
-      "published_at": "2026-05-30T01:49:39Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC Europe",
       "title": "Ukraine using AI drones to strike vital convoys supplying Russian troops",
       "url": "https://www.bbc.com/news/articles/cdjp0n7rn41o?at_medium=RSS&at_campaign=rss",
@@ -324,24 +342,6 @@
       "published_at": "2026-05-29T22:13:54Z",
       "country_code": "KR",
       "country_name": "South Korea"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "US judge orders Trump's name be removed from Kennedy Center",
-      "url": "https://www.bbc.com/news/articles/czr2je8lkvro?at_medium=RSS&at_campaign=rss",
-      "summary": "The performing arts centre must also remain open despite Trump announcing a two-year closure for extensive renovations.",
-      "published_at": "2026-05-29T22:02:32Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "'Poison seller' who sold toxic chemicals online to people across world admits aiding suicides",
-      "url": "https://www.bbc.com/news/articles/c70vg7glglyo?at_medium=RSS&at_campaign=rss",
-      "summary": "Kenneth Law admitted charges relating to Canadian victims - but families say he should also be charged in the UK over 79 deaths in Britain.",
-      "published_at": "2026-05-29T21:40:45Z",
-      "country_code": "GB",
-      "country_name": "United Kingdom"
     },
     {
       "source": "BBC Middle East",
@@ -749,15 +749,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Europe",
-      "title": "Are Putin and Xi best friends?",
-      "url": "https://www.bbc.com/news/videos/cx21lkd1r53o?at_medium=RSS&at_campaign=rss",
-      "summary": "Two BBC correspondents break down the China-Russia relationship.",
-      "published_at": "2026-05-20T05:24:07Z",
-      "country_code": "CN",
-      "country_name": "China"
-    },
-    {
       "source": "BBC Africa",
       "title": "'Ebola has tortured us': Fear grips eastern DR Congo as deadly virus spreads",
       "url": "https://www.bbc.com/news/articles/cvgzj0pqpyyo?at_medium=RSS&at_campaign=rss",
@@ -848,15 +839,6 @@
       "country_name": "Iran"
     },
     {
-      "source": "BBC Middle East",
-      "title": "'If we sleep, they bite': Rats and weasels infest camps for displaced Gazans",
-      "url": "https://www.bbc.com/news/articles/c202m54xp0mo?at_medium=RSS&at_campaign=rss",
-      "summary": "In the Gaza Strip, the daily battles are now with rats, weasels, and other pests spreading diseases.",
-      "published_at": "2026-05-02T05:02:14Z",
-      "country_code": "PS",
-      "country_name": "Palestine"
-    },
-    {
       "source": "BBC Africa",
       "title": "Joy as record-breaking runner Sawe returns home",
       "url": "https://www.bbc.com/news/videos/cglpkexdye1o?at_medium=RSS&at_campaign=rss",
@@ -873,6 +855,15 @@
       "published_at": "2026-04-28T11:18:38Z",
       "country_code": "KE",
       "country_name": "Kenya"
+    },
+    {
+      "source": "BBC Africa",
+      "title": "The human cost of the war in Sudan, three years on",
+      "url": "https://www.bbc.com/news/videos/czd77jgnnlno?at_medium=RSS&at_campaign=rss",
+      "summary": "The conflict, which erupted in 2023, has left behind a human toll which is \"simply staggering\", reports the BBC's Barbara Plett Usher.",
+      "published_at": "2026-04-15T08:38:36Z",
+      "country_code": "SD",
+      "country_name": "Sudan"
     }
   ],
   "regions": [
@@ -887,23 +878,18 @@
       "news_count": 10
     },
     {
+      "country_code": "IR",
+      "country_name": "Iran",
+      "news_count": 5
+    },
+    {
       "country_code": "UA",
       "country_name": "Ukraine",
       "news_count": 5
     },
     {
-      "country_code": "CN",
-      "country_name": "China",
-      "news_count": 4
-    },
-    {
       "country_code": "FR",
       "country_name": "France",
-      "news_count": 4
-    },
-    {
-      "country_code": "IR",
-      "country_name": "Iran",
       "news_count": 4
     },
     {
@@ -917,8 +903,8 @@
       "news_count": 4
     },
     {
-      "country_code": "GB",
-      "country_name": "United Kingdom",
+      "country_code": "CN",
+      "country_name": "China",
       "news_count": 3
     },
     {
@@ -932,13 +918,13 @@
       "news_count": 3
     },
     {
-      "country_code": "PS",
-      "country_name": "Palestine",
-      "news_count": 3
-    },
-    {
       "country_code": "BR",
       "country_name": "Brazil",
+      "news_count": 2
+    },
+    {
+      "country_code": "GB",
+      "country_name": "United Kingdom",
       "news_count": 2
     },
     {
@@ -959,6 +945,11 @@
     {
       "country_code": "NG",
       "country_name": "Nigeria",
+      "news_count": 2
+    },
+    {
+      "country_code": "PS",
+      "country_name": "Palestine",
       "news_count": 2
     },
     {
@@ -999,6 +990,11 @@
     {
       "country_code": "SA",
       "country_name": "Saudi Arabia",
+      "news_count": 1
+    },
+    {
+      "country_code": "SD",
+      "country_name": "Sudan",
       "news_count": 1
     },
     {
