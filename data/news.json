@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-06-01T22:19:18Z",
+  "generated_at": "2026-06-01T23:48:28Z",
   "articles": [
+    {
+      "source": "BBC US & Canada",
+      "title": "Trump inserts himself into the centre of America's 250th birthday celebrations",
+      "url": "https://www.bbc.com/news/articles/clypkj2e349o?at_medium=RSS&at_campaign=rss",
+      "summary": "Instead of a uniting event, America's Independence Day celebrations are becoming yet another partisan battleground.",
+      "published_at": "2026-06-01T22:56:39Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "Bowen: Trump needs this war to end but Iran is not backing down",
@@ -11,15 +20,6 @@
       "country_name": "Iran"
     },
     {
-      "source": "BBC US & Canada",
-      "title": "Trump inserts himself into the centre of America's 250th birthday celebrations",
-      "url": "https://www.bbc.com/news/articles/clypkj2e349o?at_medium=RSS&at_campaign=rss",
-      "summary": "Instead of a uniting event, America's Independence Day celebrations are becoming yet another partisan battleground.",
-      "published_at": "2026-06-01T21:49:06Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC World",
       "title": "Two possible Ebola cases in Brazil ruled out as patients test negative",
       "url": "https://www.bbc.com/news/articles/c99lzgxzx2do?at_medium=RSS&at_campaign=rss",
@@ -27,15 +27,6 @@
       "published_at": "2026-06-01T21:40:19Z",
       "country_code": "BR",
       "country_name": "Brazil"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "US justice department says it will abide by court ruling halting Trump's $1.8bn 'anti-weaponisation' fund",
-      "url": "https://www.bbc.com/news/articles/crkpyj41m15o?at_medium=RSS&at_campaign=rss",
-      "summary": "The justice department says it \"disagrees strongly\" with a court decision to halt the establishment of the fund.",
-      "published_at": "2026-06-01T21:34:35Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC World",
@@ -870,7 +861,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 31
+      "news_count": 30
     },
     {
       "country_code": "IL",
