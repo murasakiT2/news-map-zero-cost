@@ -1,23 +1,77 @@
 {
-  "generated_at": "2026-06-01T08:24:20Z",
+  "generated_at": "2026-06-01T14:28:45Z",
   "articles": [
     {
+      "source": "BBC World",
+      "title": "Israel PM orders strikes on Beirut suburbs as Hezbollah conflict escalates",
+      "url": "https://www.bbc.com/news/articles/c4g419e2xlvo?at_medium=RSS&at_campaign=rss",
+      "summary": "Benjamin Netanyahu says the Hezbollah stronghold of Dahieh will be targeted in response to attacks on Israeli civilians.",
+      "published_at": "2026-06-01T14:13:53Z",
+      "country_code": "IL",
+      "country_name": "Israel"
+    },
+    {
+      "source": "BBC World",
+      "title": "US says it struck Iranian radar sites as Iran targets American forces in Kuwait",
+      "url": "https://www.bbc.com/news/articles/crlpy8n7pr6o?at_medium=RSS&at_campaign=rss",
+      "summary": "Iran and the US say they have carried out fresh strikes around the Strait of Hormuz, with Kuwait condemning \"repeated\" Iranian attacks.",
+      "published_at": "2026-06-01T13:12:26Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC Africa",
+      "title": "UK wins court case over collapsed Rwanda asylum deal",
+      "url": "https://www.bbc.com/news/articles/cy526klrk20o?at_medium=RSS&at_campaign=rss",
+      "summary": "The UK does not need to pay Rwanda after it pulled a deal between the two countries, a court has ruled.",
+      "published_at": "2026-06-01T12:12:30Z",
+      "country_code": "GB",
+      "country_name": "United Kingdom"
+    },
+    {
+      "source": "BBC Africa",
+      "title": "The schoolgirl who became world champion at 14",
+      "url": "https://www.bbc.com/sport/modern-pentathlon/articles/clyp8gy7vn9o?at_medium=RSS&at_campaign=rss",
+      "summary": "Egypt's Farida Khalil beat competitors twice her age to become world champion in modern pentathlon at the age of 14 after the sport was reva…",
+      "published_at": "2026-06-01T12:03:24Z",
+      "country_code": "EG",
+      "country_name": "Egypt"
+    },
+    {
+      "source": "BBC World",
+      "title": "France seized sanctioned Russian oil tanker with UK help, Macron says",
+      "url": "https://www.bbc.com/news/articles/cn8pwgej1gxo?at_medium=RSS&at_campaign=rss",
+      "summary": "A British helicopter provided support during the operation on Sunday, the UK ministry of defence says.",
+      "published_at": "2026-06-01T11:53:26Z",
+      "country_code": "GB",
+      "country_name": "United Kingdom"
+    },
+    {
       "source": "BBC Asia",
+      "title": "Watch: Fans break glass door trying to see TV star",
+      "url": "https://www.bbc.com/news/videos/cr7pye93n1ro?at_medium=RSS&at_campaign=rss",
+      "summary": "Huge crowds formed outside a shopping centre in China to see Pursuit of Jade's Zhang Linghe.",
+      "published_at": "2026-06-01T11:34:19Z",
+      "country_code": "CN",
+      "country_name": "China"
+    },
+    {
+      "source": "BBC World",
+      "title": "Nigeria police warn against reprisal attacks against South Africans",
+      "url": "https://www.bbc.com/news/articles/ce8prypdpz6o?at_medium=RSS&at_campaign=rss",
+      "summary": "Tensions have been rising in South Africa in recent weeks following several anti-migrant protests.",
+      "published_at": "2026-06-01T10:02:49Z",
+      "country_code": "ZA",
+      "country_name": "South Africa"
+    },
+    {
+      "source": "BBC World",
       "title": "Litterbugs now face on-the-spot fines in Tokyo's tourist hotspot",
       "url": "https://www.bbc.com/news/articles/cr7py513njmo?at_medium=RSS&at_campaign=rss",
       "summary": "Dozens of officials will patrol world-famous Shibuya as Japan responds to the impacts of overtourism.",
       "published_at": "2026-06-01T06:52:40Z",
       "country_code": "JP",
       "country_name": "Japan"
-    },
-    {
-      "source": "BBC World",
-      "title": "US says it struck Iranian radar sites as Kuwait reports missile and drone attacks",
-      "url": "https://www.bbc.com/news/articles/crlpy8n7pr6o?at_medium=RSS&at_campaign=rss",
-      "summary": "Iran and the US say they have carried out fresh attacks around the Strait of Hormuz, the third known escalation in a week.",
-      "published_at": "2026-06-01T06:47:24Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC World",
@@ -30,7 +84,7 @@
     },
     {
       "source": "BBC World",
-      "title": "Polls open in Ethiopia, but not everyone can vote",
+      "title": "Ethiopia election under way, but not everyone can vote",
       "url": "https://www.bbc.com/news/articles/cn0pngz2rego?at_medium=RSS&at_campaign=rss",
       "summary": "Prime Minister Abiy Ahmed's party is expected to dominate the election as conflicts overshadow the vote.",
       "published_at": "2026-06-01T04:36:30Z",
@@ -66,9 +120,9 @@
     },
     {
       "source": "BBC World",
-      "title": "A year of grief and waiting: What remains when a plane falls from the sky",
+      "title": "A year of grief after Air India crash: What remains when a plane falls from the sky",
       "url": "https://www.bbc.com/news/articles/ce9pp53ky42o?at_medium=RSS&at_campaign=rss",
-      "summary": "A mother still speaks about her son who died in the Air India crash in the present tense and a brother waits for answers.",
+      "summary": "A mother still speaks about her son who died in the crash in the present tense and a brother waits for answers.",
       "published_at": "2026-06-01T00:24:47Z",
       "country_code": "IN",
       "country_name": "India"
@@ -101,7 +155,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Middle East",
       "title": "Israel seizes castle in Lebanon as it expands ground offensive",
       "url": "https://www.bbc.com/news/articles/cdep04kzz5wo?at_medium=RSS&at_campaign=rss",
       "summary": "Prime Minister Benjamin Netanyahu calls the capture of the strategic fortress a \"decisive shift\" in Israel's campaign against Hezbollah, as …",
@@ -173,15 +227,6 @@
       "country_name": "India"
     },
     {
-      "source": "BBC World",
-      "title": "Trump attacks artists dropping out of US Freedom 250 concert and mulls appearing himself",
-      "url": "https://www.bbc.com/news/articles/cy02j1n87wlo?at_medium=RSS&at_campaign=rss",
-      "summary": "Performers Young MC, Poison frontman Bret Michaels and country singer Martina McBride raised concerns the event will be political.",
-      "published_at": "2026-05-30T17:40:47Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC Europe",
       "title": "Italy bans Kanye West and Travis Scott concerts over security concerns",
       "url": "https://www.bbc.com/news/articles/c3d27x5vnnvo?at_medium=RSS&at_campaign=rss",
@@ -218,7 +263,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Asia",
+      "source": "BBC US & Canada",
       "title": "No deal announced after Trump meeting to make 'final determination' on Iran",
       "url": "https://www.bbc.com/news/articles/c0r2d40r91qo?at_medium=RSS&at_campaign=rss",
       "summary": "The US president met his advisers, after officials confirmed the US and Iran had agreed a framework of a deal.",
@@ -470,15 +515,6 @@
       "country_name": "Israel"
     },
     {
-      "source": "BBC Asia",
-      "title": "The world's carmakers are struggling to compete with China",
-      "url": "https://www.bbc.com/news/articles/c4g8vg72z43o?at_medium=RSS&at_campaign=rss",
-      "summary": "The BBC visited China’s EV factories and found they are dominating the ecosystems shaping the global auto industry.",
-      "published_at": "2026-05-27T22:00:38Z",
-      "country_code": "CN",
-      "country_name": "China"
-    },
-    {
       "source": "BBC Africa",
       "title": "DR Congo seek World Cup ticket refunds after Ebola outbreak",
       "url": "https://www.bbc.com/sport/football/articles/c0j2220jn9lo?at_medium=RSS&at_campaign=rss",
@@ -630,15 +666,6 @@
       "published_at": "2026-05-22T18:33:36Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC Africa",
-      "title": "UK scientists developing Ebola vaccine that could be ready for trials in months",
-      "url": "https://www.bbc.com/news/articles/cy82gkr7xzlo?at_medium=RSS&at_campaign=rss",
-      "summary": "The rare species of Ebola involved - known as Bundibugyo - kills around a third of those infected and has no proven vaccine yet.",
-      "published_at": "2026-05-22T15:03:51Z",
-      "country_code": "GB",
-      "country_name": "United Kingdom"
     },
     {
       "source": "BBC Europe",
@@ -830,15 +857,6 @@
       "country_name": "Palestine"
     },
     {
-      "source": "BBC Middle East",
-      "title": "British couple jailed in Iran: 'We're likely to be here for a long time'",
-      "url": "https://www.bbc.com/news/articles/c202pl60kv9o?at_medium=RSS&at_campaign=rss",
-      "summary": "Lindsay and Craig Foreman are facing the reality of a 10-year prison sentence following their arrest in Iran while on a motorcycle tour last…",
-      "published_at": "2026-05-01T05:04:08Z",
-      "country_code": "IR",
-      "country_name": "Iran"
-    },
-    {
       "source": "BBC Africa",
       "title": "Joy as record-breaking runner Sawe returns home",
       "url": "https://www.bbc.com/news/videos/cglpkexdye1o?at_medium=RSS&at_campaign=rss",
@@ -861,17 +879,12 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 32
+      "news_count": 31
     },
     {
       "country_code": "IL",
       "country_name": "Israel",
-      "news_count": 9
-    },
-    {
-      "country_code": "IR",
-      "country_name": "Iran",
-      "news_count": 5
+      "news_count": 10
     },
     {
       "country_code": "UA",
@@ -889,9 +902,24 @@
       "news_count": 4
     },
     {
+      "country_code": "IR",
+      "country_name": "Iran",
+      "news_count": 4
+    },
+    {
       "country_code": "RU",
       "country_name": "Russia",
       "news_count": 4
+    },
+    {
+      "country_code": "ZA",
+      "country_name": "South Africa",
+      "news_count": 4
+    },
+    {
+      "country_code": "GB",
+      "country_name": "United Kingdom",
+      "news_count": 3
     },
     {
       "country_code": "IT",
@@ -909,18 +937,8 @@
       "news_count": 3
     },
     {
-      "country_code": "ZA",
-      "country_name": "South Africa",
-      "news_count": 3
-    },
-    {
       "country_code": "BR",
       "country_name": "Brazil",
-      "news_count": 2
-    },
-    {
-      "country_code": "GB",
-      "country_name": "United Kingdom",
       "news_count": 2
     },
     {
@@ -951,6 +969,11 @@
     {
       "country_code": "CO",
       "country_name": "Colombia",
+      "news_count": 1
+    },
+    {
+      "country_code": "EG",
+      "country_name": "Egypt",
       "news_count": 1
     },
     {
