@@ -1,14 +1,41 @@
 {
-  "generated_at": "2026-06-01T23:48:28Z",
+  "generated_at": "2026-06-02T02:36:35Z",
   "articles": [
     {
-      "source": "BBC US & Canada",
+      "source": "BBC World",
+      "title": "Massive overnight Russian strikes hit Ukraine killing at least five",
+      "url": "https://www.bbc.com/news/articles/c5y8nq8ljqwo?at_medium=RSS&at_campaign=rss",
+      "summary": "Thousands of Kyiv residents ran for shelter following what officials said were ballistic missile strikes on the city centre.",
+      "published_at": "2026-06-02T02:09:23Z",
+      "country_code": "UA",
+      "country_name": "Ukraine"
+    },
+    {
+      "source": "BBC World",
+      "title": "Lebanon says Hezbollah agrees reciprocal halt to attacks on Israel",
+      "url": "https://www.bbc.com/news/articles/c202rxp1z15o?at_medium=RSS&at_campaign=rss",
+      "summary": "Hours after the pause was announced, the Israeli military said it had intercepted projectiles fired from Lebanon.",
+      "published_at": "2026-06-01T23:50:03Z",
+      "country_code": "IL",
+      "country_name": "Israel"
+    },
+    {
+      "source": "BBC World",
       "title": "Trump inserts himself into the centre of America's 250th birthday celebrations",
       "url": "https://www.bbc.com/news/articles/clypkj2e349o?at_medium=RSS&at_campaign=rss",
       "summary": "Instead of a uniting event, America's Independence Day celebrations are becoming yet another partisan battleground.",
       "published_at": "2026-06-01T22:56:39Z",
       "country_code": "US",
       "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "'Mornings and nights no longer exist': A day in the hottest place in India",
+      "url": "https://www.bbc.com/news/articles/crmp0krp98ro?at_medium=RSS&at_campaign=rss",
+      "summary": "What a day in India's hottest district reveals about life on the frontline of extreme heat.",
+      "published_at": "2026-06-01T22:31:42Z",
+      "country_code": "IN",
+      "country_name": "India"
     },
     {
       "source": "BBC World",
@@ -27,15 +54,6 @@
       "published_at": "2026-06-01T21:40:19Z",
       "country_code": "BR",
       "country_name": "Brazil"
-    },
-    {
-      "source": "BBC World",
-      "title": "Lebanon says Hezbollah agrees reciprocal halt to attacks on Israel",
-      "url": "https://www.bbc.com/news/articles/c202rxp1z15o?at_medium=RSS&at_campaign=rss",
-      "summary": "Israel's PM Netanyahu warns that strikes on Beirut will go ahead if Hezbollah does not abide by the US proposal.",
-      "published_at": "2026-06-01T21:27:01Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC World",
@@ -111,9 +129,9 @@
     },
     {
       "source": "BBC Asia",
-      "title": "Watch: Fans break glass door trying to see TV star",
+      "title": "Watch: Glass doors break as fans scramble to see Pursuit of Jade star",
       "url": "https://www.bbc.com/news/videos/cr7pye93n1ro?at_medium=RSS&at_campaign=rss",
-      "summary": "Huge crowds formed outside a shopping centre in China to see Pursuit of Jade's Zhang Linghe.",
+      "summary": "Huge crowds formed outside a shopping centre in China to see actor Zhang Linghe.",
       "published_at": "2026-06-01T11:34:19Z",
       "country_code": "CN",
       "country_name": "China"
@@ -164,7 +182,7 @@
       "country_name": "Colombia"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Africa",
       "title": "Grammy-winning director explores his Nigerian grandfather's role in the Biafran war",
       "url": "https://www.bbc.com/news/articles/c8r826465dko?at_medium=RSS&at_campaign=rss",
       "summary": "Filmmaker Meji Alabi directs a landmark BBC Africa Eye documentary about Nigeria's civil war.",
@@ -173,7 +191,7 @@
       "country_name": "Nigeria"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "A year of grief after Air India crash: What remains when a plane falls from the sky",
       "url": "https://www.bbc.com/news/articles/ce9pp53ky42o?at_medium=RSS&at_campaign=rss",
       "summary": "A mother still speaks about her son who died in the crash in the present tense and a brother waits for answers.",
@@ -182,7 +200,7 @@
       "country_name": "India"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "The drivers risking death on Ukraine's most dangerous bus routes",
       "url": "https://www.bbc.com/news/articles/c87q2eq8r1yo?at_medium=RSS&at_campaign=rss",
       "summary": "Russian drones are targeting public buses in Kherson, killing three transport workers so far this year.",
@@ -228,15 +246,6 @@
     },
     {
       "source": "BBC World",
-      "title": "Brazil monitors two patients for possible Ebola infection",
-      "url": "https://www.bbc.com/news/articles/cy72z48zd7po?at_medium=RSS&at_campaign=rss",
-      "summary": "If confirmed, they would be the first infection cases outside Africa, since the outbreak began in DR Congo.",
-      "published_at": "2026-05-31T19:07:47Z",
-      "country_code": "BR",
-      "country_name": "Brazil"
-    },
-    {
-      "source": "BBC World",
       "title": "Hundreds arrested and dozens of police injured after Champions League riots in France",
       "url": "https://www.bbc.com/news/articles/c0r2ejg1w9xo?at_medium=RSS&at_campaign=rss",
       "summary": "Nearly 800 people were arrested after clashes with police which saw 219 people injured, including 57 police officers.",
@@ -245,7 +254,7 @@
       "country_name": "France"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "'Cancel it', Trump says after artists drop out of US Freedom 250 festival",
       "url": "https://www.bbc.com/news/articles/cwy2z23122zo?at_medium=RSS&at_campaign=rss",
       "summary": "Trump suggests holding a \"Make America Great Again\" rally instead after most headliners drop out of White-House-linked event.",
@@ -861,17 +870,17 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 30
+      "news_count": 29
     },
     {
       "country_code": "IL",
       "country_name": "Israel",
-      "news_count": 10
+      "news_count": 11
     },
     {
       "country_code": "UA",
       "country_name": "Ukraine",
-      "news_count": 5
+      "news_count": 6
     },
     {
       "country_code": "FR",
@@ -894,13 +903,13 @@
       "news_count": 4
     },
     {
-      "country_code": "BR",
-      "country_name": "Brazil",
+      "country_code": "CN",
+      "country_name": "China",
       "news_count": 3
     },
     {
-      "country_code": "CN",
-      "country_name": "China",
+      "country_code": "IN",
+      "country_name": "India",
       "news_count": 3
     },
     {
@@ -914,13 +923,13 @@
       "news_count": 3
     },
     {
-      "country_code": "GB",
-      "country_name": "United Kingdom",
+      "country_code": "BR",
+      "country_name": "Brazil",
       "news_count": 2
     },
     {
-      "country_code": "IN",
-      "country_name": "India",
+      "country_code": "GB",
+      "country_name": "United Kingdom",
       "news_count": 2
     },
     {
