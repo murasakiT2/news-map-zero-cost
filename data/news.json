@@ -1,12 +1,48 @@
 {
-  "generated_at": "2026-06-03T19:03:23Z",
+  "generated_at": "2026-06-03T22:08:11Z",
   "articles": [
+    {
+      "source": "BBC US & Canada",
+      "title": "Watch: World Cup teams start arriving in North America",
+      "url": "https://www.bbc.com/news/videos/cm2pmr6962jo?at_medium=RSS&at_campaign=rss",
+      "summary": "Some wore matching suits and others carried identical green bags as they landed, just days before the tournament kicks off.",
+      "published_at": "2026-06-03T21:50:40Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Israeli strikes kill nine in Lebanon as Hezbollah fires rockets over border",
+      "url": "https://www.bbc.com/news/articles/c5y01pdqvkgo?at_medium=RSS&at_campaign=rss",
+      "summary": "The incidents strain a partial ceasefire agreed by Israel and the Lebanese armed group on Monday.",
+      "published_at": "2026-06-03T21:19:19Z",
+      "country_code": "IL",
+      "country_name": "Israel"
+    },
+    {
+      "source": "BBC World",
+      "title": "'Crazy' phone call between Trump and Netanyahu complicates Iran talks",
+      "url": "https://www.bbc.com/news/articles/cvgz21pq3g6o?at_medium=RSS&at_campaign=rss",
+      "summary": "Israel's PM laughed off reports of friction, but he has tested the patience of other US presidents.",
+      "published_at": "2026-06-03T20:28:01Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "One killed and dozens injured in Iranian drone strikes on Kuwait airport",
+      "url": "https://www.bbc.com/news/articles/c5yx135yg53o?at_medium=RSS&at_campaign=rss",
+      "summary": "Iran says the attack on Kuwait was in retaliation for earlier US strikes on an Iranian oil tanker and island.",
+      "published_at": "2026-06-03T20:05:58Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "From butterflies to breast milk, Uber's list of lost items reveals wild backseat discoveries",
       "url": "https://www.bbc.com/news/articles/czr25k7g7d7o?at_medium=RSS&at_campaign=rss",
       "summary": "The rideshare company's annual Lost & Found Index also reveals America's most forgetful city, and the most forgetful day.",
-      "published_at": "2026-06-03T18:51:07Z",
+      "published_at": "2026-06-03T19:07:19Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -18,15 +54,6 @@
       "published_at": "2026-06-03T18:16:48Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "Israeli strikes kill nine in Lebanon as Hezbollah fires rockets over border",
-      "url": "https://www.bbc.com/news/articles/c5y01pdqvkgo?at_medium=RSS&at_campaign=rss",
-      "summary": "The incidents strain a partial ceasefire agreed by Israel and the Lebanese armed group on Monday.",
-      "published_at": "2026-06-03T18:02:52Z",
-      "country_code": "IL",
-      "country_name": "Israel"
     },
     {
       "source": "BBC World",
@@ -61,15 +88,6 @@
       "url": "https://www.bbc.com/news/articles/cq6pe7nvldmo?at_medium=RSS&at_campaign=rss",
       "summary": "It comes after the US Supreme Court struck down many of US President Donald Trump's previous duties in February.",
       "published_at": "2026-06-03T15:12:28Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "One killed and dozens injured in Iranian drone strikes on Kuwait airport",
-      "url": "https://www.bbc.com/news/articles/c5yx135yg53o?at_medium=RSS&at_campaign=rss",
-      "summary": "Iran says the attack on Kuwait was in retaliation for earlier US strikes on an Iranian oil tanker and island.",
-      "published_at": "2026-06-03T14:02:25Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -135,15 +153,6 @@
       "published_at": "2026-06-03T03:49:53Z",
       "country_code": "ID",
       "country_name": "Indonesia"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "Canada formally requests 16-year renewal of North American free trade pact",
-      "url": "https://www.bbc.com/news/articles/cn9prr3w9nlo?at_medium=RSS&at_campaign=rss",
-      "summary": "In a letter to his North American counterparts, US-Canada Trade Minister Dominic LeBlanc said the three countries should renew the USMCA tra…",
-      "published_at": "2026-06-03T01:40:44Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC World",
@@ -461,7 +470,7 @@
       "country_name": "Israel"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "Between celebration and confrontation: Paris after PSG victory",
       "url": "https://www.bbc.com/news/videos/czr2zzyrgdxo?at_medium=RSS&at_campaign=rss",
       "summary": "Nearly 800 people were arrested after clashes with police following the Champions League final.",
@@ -825,7 +834,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 32
+      "news_count": 33
     },
     {
       "country_code": "IL",
