@@ -1,21 +1,75 @@
 {
-  "generated_at": "2026-06-03T00:07:57Z",
+  "generated_at": "2026-06-03T05:22:31Z",
   "articles": [
+    {
+      "source": "BBC Asia",
+      "title": "Indonesia's Prabowo fires head of free meals scheme plagued by poisonings",
+      "url": "https://www.bbc.com/news/articles/cgjp369eqzgo?at_medium=RSS&at_campaign=rss",
+      "summary": "The centrepiece programme of Prabowo's government has left tens of thousands of school children ill.",
+      "published_at": "2026-06-03T03:49:53Z",
+      "country_code": "ID",
+      "country_name": "Indonesia"
+    },
+    {
+      "source": "BBC World",
+      "title": "US and Iran launch new strikes as ceasefire negotiations stalled",
+      "url": "https://www.bbc.com/news/articles/c5yx135yg53o?at_medium=RSS&at_campaign=rss",
+      "summary": "US launches fresh strikes on Iran and an oil tanker as Tehran says it attacked US bases in the Gulf.",
+      "published_at": "2026-06-03T03:40:53Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Canada formally requests 16-year renewal of North American free trade pact",
+      "url": "https://www.bbc.com/news/articles/cn9prr3w9nlo?at_medium=RSS&at_campaign=rss",
+      "summary": "In a letter to his North American counterparts, US-Canada Trade Minister Dominic LeBlanc said the three countries should renew the USMCA tra…",
+      "published_at": "2026-06-03T01:40:44Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC Asia",
+      "title": "Watch: Man attacked by bear at steel works in Japan",
+      "url": "https://www.bbc.com/news/videos/cm2pjed56j3o?at_medium=RSS&at_campaign=rss",
+      "summary": "The bear, who injured four people in the attack on Tuesday, remains on the loose within the factory compound.",
+      "published_at": "2026-06-03T01:13:45Z",
+      "country_code": "JP",
+      "country_name": "Japan"
+    },
+    {
+      "source": "BBC World",
+      "title": "Watch: Man attacked by bear at steel works in Japan",
+      "url": "https://www.bbc.co.uk/programmes/p0npr053?at_medium=RSS&at_campaign=rss",
+      "summary": "Watch: Man attacked by bear at steel works in Japan",
+      "published_at": "2026-06-03T00:58:09Z",
+      "country_code": "JP",
+      "country_name": "Japan"
+    },
+    {
+      "source": "BBC World",
+      "title": "Sailors stressed and exhausted after months trapped by Strait of Hormuz blockade",
+      "url": "https://www.bbc.com/news/articles/cy02rz27l32o?at_medium=RSS&at_campaign=rss",
+      "summary": "The uncertainty has weighed heavily on the 20,000 seafarers trapped in the Iran war zone.",
+      "published_at": "2026-06-02T23:40:27Z",
+      "country_code": "IR",
+      "country_name": "Iran"
+    },
+    {
+      "source": "BBC World",
+      "title": "Putin remains uncompromising on Ukraine, but is public discourse on war changing in Russia?",
+      "url": "https://www.bbc.com/news/articles/cy82339793go?at_medium=RSS&at_campaign=rss",
+      "summary": "Russia is intensifying attacks in Ukraine but more than four years of war are causing concern even among Putin loyalists.",
+      "published_at": "2026-06-02T23:33:34Z",
+      "country_code": "RU",
+      "country_name": "Russia"
+    },
     {
       "source": "BBC World",
       "title": "Israel strikes southern Lebanon but partial truce with Hezbollah appears to hold",
       "url": "https://www.bbc.com/news/articles/c936zvne0l6o?at_medium=RSS&at_campaign=rss",
       "summary": "Israel continues its campaign in the south, though has not struck Beirut after a deal announced by the US.",
       "published_at": "2026-06-02T21:51:20Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "US says it fired missile at Iran-bound oil tanker",
-      "url": "https://www.bbc.com/news/articles/c5yx135yg53o?at_medium=RSS&at_campaign=rss",
-      "summary": "The US military says the vessel's engine room was hit after the crew \"ignored repeated warnings\".",
-      "published_at": "2026-06-02T21:49:00Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -34,15 +88,6 @@
       "url": "https://www.bbc.com/news/articles/cyv2dpyz3dpo?at_medium=RSS&at_campaign=rss",
       "summary": "The head of the Federal Housing Finance Agency, who pushed for criminal charges against Trump's foes, will step in as acting Director of Nat…",
       "published_at": "2026-06-02T20:36:15Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "Canada formally requests 16-year renewal of North American free trade pact",
-      "url": "https://www.bbc.com/news/articles/cn9prr3w9nlo?at_medium=RSS&at_campaign=rss",
-      "summary": "In a letter to his North American counterparts, US-Canada Trade Minister Dominic LeBlanc said the three countries should renew the USMCA tra…",
-      "published_at": "2026-06-02T19:30:47Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -137,7 +182,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "Why Myanmar president's India visit is being closely watched",
       "url": "https://www.bbc.com/news/articles/ckgplnj1wexo?at_medium=RSS&at_campaign=rss",
       "summary": "Myanmar is seeking to broaden diplomatic engagement after years of international criticism and isolation.",
@@ -191,7 +236,7 @@
       "country_name": "Australia"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "Trump inserts himself into the centre of America's 250th birthday celebrations",
       "url": "https://www.bbc.com/news/articles/clypkj2e349o?at_medium=RSS&at_campaign=rss",
       "summary": "Instead of a uniting event, America's Independence Day celebrations are becoming yet another partisan battleground.",
@@ -389,29 +434,11 @@
       "country_name": "Japan"
     },
     {
-      "source": "BBC Asia",
-      "title": "How stamps and postcards helped India count its people",
-      "url": "https://www.bbc.com/news/articles/c4g4yyxxwp2o?at_medium=RSS&at_campaign=rss",
-      "summary": "India's post office turned stamps, postcards and letters into tools for counting a nation after independence in 1947.",
-      "published_at": "2026-05-30T23:47:40Z",
-      "country_code": "IN",
-      "country_name": "India"
-    },
-    {
       "source": "BBC US & Canada",
       "title": "Trump's doctor says he's in excellent health - but are US presidents' health checks a PR exercise?",
       "url": "https://www.bbc.com/news/articles/c9q39dx778zo?at_medium=RSS&at_campaign=rss",
       "summary": "Every president in modern history - including Donald Trump this week - has taken an annual physical exam that is as much about messaging as …",
       "published_at": "2026-05-30T15:06:01Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC Asia",
-      "title": "US, UK and Australia to develop underwater drone technology",
-      "url": "https://www.bbc.com/news/articles/c5y8wjvd1ypo?at_medium=RSS&at_campaign=rss",
-      "summary": "The technology, developed under the Aukus military pact, is aimed at protecting undersea cables and boosting naval defence.",
-      "published_at": "2026-05-30T12:16:26Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -441,15 +468,6 @@
       "published_at": "2026-05-30T01:34:38Z",
       "country_code": "UA",
       "country_name": "Ukraine"
-    },
-    {
-      "source": "BBC Asia",
-      "title": "After decades risking arrest, South Korea's tattoo artists step into the limelight",
-      "url": "https://www.bbc.com/news/articles/cg4pwdn6130o?at_medium=RSS&at_campaign=rss",
-      "summary": "Only licensed doctors were allowed to ink tattoos in Korea - breaking the law could lead to heavy fines or jail.",
-      "published_at": "2026-05-29T22:13:54Z",
-      "country_code": "KR",
-      "country_name": "South Korea"
     },
     {
       "source": "BBC Middle East",
@@ -798,7 +816,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 31
+      "news_count": 30
     },
     {
       "country_code": "IL",
@@ -811,23 +829,28 @@
       "news_count": 6
     },
     {
+      "country_code": "IR",
+      "country_name": "Iran",
+      "news_count": 5
+    },
+    {
       "country_code": "CN",
       "country_name": "China",
       "news_count": 4
     },
     {
-      "country_code": "IN",
-      "country_name": "India",
-      "news_count": 4
-    },
-    {
-      "country_code": "IR",
-      "country_name": "Iran",
+      "country_code": "JP",
+      "country_name": "Japan",
       "news_count": 4
     },
     {
       "country_code": "ES",
       "country_name": "Spain",
+      "news_count": 3
+    },
+    {
+      "country_code": "IN",
+      "country_name": "India",
       "news_count": 3
     },
     {
@@ -843,11 +866,6 @@
     {
       "country_code": "FR",
       "country_name": "France",
-      "news_count": 2
-    },
-    {
-      "country_code": "JP",
-      "country_name": "Japan",
       "news_count": 2
     },
     {
@@ -871,6 +889,11 @@
       "news_count": 2
     },
     {
+      "country_code": "RU",
+      "country_name": "Russia",
+      "news_count": 2
+    },
+    {
       "country_code": "AU",
       "country_name": "Australia",
       "news_count": 1
@@ -891,23 +914,18 @@
       "news_count": 1
     },
     {
+      "country_code": "ID",
+      "country_name": "Indonesia",
+      "news_count": 1
+    },
+    {
       "country_code": "IT",
       "country_name": "Italy",
       "news_count": 1
     },
     {
-      "country_code": "KR",
-      "country_name": "South Korea",
-      "news_count": 1
-    },
-    {
       "country_code": "PL",
       "country_name": "Poland",
-      "news_count": 1
-    },
-    {
-      "country_code": "RU",
-      "country_name": "Russia",
       "news_count": 1
     },
     {
