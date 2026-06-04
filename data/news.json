@@ -1,6 +1,33 @@
 {
-  "generated_at": "2026-06-03T22:08:11Z",
+  "generated_at": "2026-06-04T00:10:29Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Why Canada has generic Ozempic, and the US doesn't",
+      "url": "https://www.bbc.com/news/articles/c142y4p2eyxo?at_medium=RSS&at_campaign=rss",
+      "summary": "Canada is the first G7 country to approve the lower cost weight-loss drugs, which are rolling out in pharmacies this month.",
+      "published_at": "2026-06-03T23:34:48Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "US House votes to halt Iran war, in rebuke to Trump",
+      "url": "https://www.bbc.com/news/articles/cj6pldg39deo?at_medium=RSS&at_campaign=rss",
+      "summary": "In the 215-208 vote, four Republicans joined Democrats to pass the measure, which had failed in three previous attempts.",
+      "published_at": "2026-06-03T23:01:07Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Grab what you can while you can: The new reality in the South China Sea",
+      "url": "https://www.bbc.com/news/articles/cy823n3ln29o?at_medium=RSS&at_campaign=rss",
+      "summary": "After years of watching China create land to back its expansive claims, others are doing the same.",
+      "published_at": "2026-06-03T22:00:21Z",
+      "country_code": "CN",
+      "country_name": "China"
+    },
     {
       "source": "BBC US & Canada",
       "title": "Watch: World Cup teams start arriving in North America",
@@ -200,15 +227,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
-      "title": "Mayor cancels DR Congo friendly with Chile in Spain over Ebola concern",
-      "url": "https://www.bbc.com/sport/football/articles/cm2pd28jnyxo?at_medium=RSS&at_campaign=rss",
-      "summary": "DR Congo's international friendly against Chile in Spain next week is cancelled after authorities raise health concerns over the Ebola outbr…",
-      "published_at": "2026-06-02T19:28:55Z",
-      "country_code": "ES",
-      "country_name": "Spain"
-    },
-    {
       "source": "BBC Europe",
       "title": "Mayor cancels DR Congo friendly over Ebola concern",
       "url": "https://www.bbc.com/sport/football/articles/cm2pd28jnyxo?at_medium=RSS&at_campaign=rss",
@@ -254,7 +272,7 @@
       "country_name": "Ukraine"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Middle East",
       "title": "British couple lose Iran jail sentence appeal, family says",
       "url": "https://www.bbc.com/news/articles/cjrpwxe82ypo?at_medium=RSS&at_campaign=rss",
       "summary": "Lindsay and Craig Foreman were arrested in January 2025 during a global motorbike journey.",
@@ -279,24 +297,6 @@
       "published_at": "2026-06-02T14:51:55Z",
       "country_code": "ZA",
       "country_name": "South Africa"
-    },
-    {
-      "source": "BBC Asia",
-      "title": "Why Myanmar president's India visit is being closely watched",
-      "url": "https://www.bbc.com/news/articles/ckgplnj1wexo?at_medium=RSS&at_campaign=rss",
-      "summary": "Myanmar is seeking to broaden diplomatic engagement after years of international criticism and isolation.",
-      "published_at": "2026-06-02T08:29:20Z",
-      "country_code": "IN",
-      "country_name": "India"
-    },
-    {
-      "source": "BBC Asia",
-      "title": "China goes after 'ghost kitchens' to rein in cut-throat food delivery apps",
-      "url": "https://www.bbc.com/news/articles/cj4p7zglq5no?at_medium=RSS&at_campaign=rss",
-      "summary": "The thousands of \"ghost kitchens\" - online shops that don't actually exist - have spooked Chinese consumers.",
-      "published_at": "2026-06-02T07:52:47Z",
-      "country_code": "CN",
-      "country_name": "China"
     },
     {
       "source": "BBC Middle East",
@@ -834,7 +834,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 33
+      "news_count": 35
     },
     {
       "country_code": "IL",
@@ -857,23 +857,18 @@
       "news_count": 4
     },
     {
-      "country_code": "IN",
-      "country_name": "India",
-      "news_count": 4
-    },
-    {
       "country_code": "NG",
       "country_name": "Nigeria",
       "news_count": 4
     },
     {
-      "country_code": "ES",
-      "country_name": "Spain",
+      "country_code": "FR",
+      "country_name": "France",
       "news_count": 3
     },
     {
-      "country_code": "FR",
-      "country_name": "France",
+      "country_code": "IN",
+      "country_name": "India",
       "news_count": 3
     },
     {
@@ -884,6 +879,11 @@
     {
       "country_code": "BR",
       "country_name": "Brazil",
+      "news_count": 2
+    },
+    {
+      "country_code": "ES",
+      "country_name": "Spain",
       "news_count": 2
     },
     {
