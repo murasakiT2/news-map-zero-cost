@@ -1,12 +1,30 @@
 {
-  "generated_at": "2026-06-04T12:24:27Z",
+  "generated_at": "2026-06-04T15:53:22Z",
   "articles": [
     {
-      "source": "BBC US & Canada",
+      "source": "BBC Europe",
+      "title": "Russian teenager Andreeva beats Kostyuk to reach final",
+      "url": "https://www.bbc.com/sport/tennis/articles/c93x35p2pqpo?at_medium=RSS&at_campaign=rss",
+      "summary": "Russian teenager Mirra Andreeva reaches her first major final with a dominant victory over Ukraine's Marta Kostyuk at the French Open.",
+      "published_at": "2026-06-04T15:08:10Z",
+      "country_code": "UA",
+      "country_name": "Ukraine"
+    },
+    {
+      "source": "BBC World",
+      "title": "Hezbollah rejects renewed ceasefire agreed by Israel and Lebanon",
+      "url": "https://www.bbc.com/news/articles/c052343r812o?at_medium=RSS&at_campaign=rss",
+      "summary": "The United States announced the ceasefire agreement on Wednesday night following a fresh round of talks.",
+      "published_at": "2026-06-04T14:54:22Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
       "title": "Trump hits back at 'unpatriotic' vote after House rebukes him over Iran",
       "url": "https://www.bbc.com/news/articles/cn0pl0wvvz0o?at_medium=RSS&at_campaign=rss",
       "summary": "The lower chamber of Congress passed a measure that seeks to halt further military action, in a vote seen as largely symbolic.",
-      "published_at": "2026-06-04T12:06:27Z",
+      "published_at": "2026-06-04T14:46:36Z",
       "country_code": "IR",
       "country_name": "Iran"
     },
@@ -20,13 +38,22 @@
       "country_name": "Ukraine"
     },
     {
-      "source": "BBC Middle East",
+      "source": "BBC World",
       "title": "Israeli strikes kill 11 people in Gaza City, medics say",
       "url": "https://www.bbc.com/news/articles/cg5prr9gr1ro?at_medium=RSS&at_campaign=rss",
       "summary": "Women and children were among those killed when Israeli aircraft struck at least four residential buildings in several areas.",
       "published_at": "2026-06-04T11:07:12Z",
       "country_code": "PS",
       "country_name": "Palestine"
+    },
+    {
+      "source": "BBC World",
+      "title": "Watch: Lebanon-Israel ceasefire deal made in 'hope rather than expectation'",
+      "url": "https://www.bbc.com/news/videos/cwy20yggenxo?at_medium=RSS&at_campaign=rss",
+      "summary": "BBC correspondent John Sudworth reports from the Beirut stronghold of Hezbollah support, Dahieh.",
+      "published_at": "2026-06-04T11:02:17Z",
+      "country_code": "IL",
+      "country_name": "Israel"
     },
     {
       "source": "BBC World",
@@ -47,20 +74,11 @@
       "country_name": "Spain"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Middle East",
       "title": "Israel and Lebanon agree to implement ceasefire if Hezbollah stops attacks",
       "url": "https://www.bbc.com/news/articles/c5y01pdqvkgo?at_medium=RSS&at_campaign=rss",
       "summary": "The countries reject \"any attempt, by any state or non-state actor, to hold Lebanon's future hostage\", the US says.",
       "published_at": "2026-06-04T07:49:33Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "US House delivers rebuke to Trump as it votes to halt Iran war",
-      "url": "https://www.bbc.com/news/articles/cj6pldg39deo?at_medium=RSS&at_campaign=rss",
-      "summary": "In the 215-208 vote, four Republicans joined Democrats to pass the measure, which is largely symbolic.",
-      "published_at": "2026-06-04T07:23:41Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -74,6 +92,15 @@
       "country_name": "China"
     },
     {
+      "source": "BBC Latin America",
+      "title": "Delcy Rodríguez visits India: Will oil talks lead to an energy deal?",
+      "url": "https://www.bbc.com/news/articles/czx29k97kzlo?at_medium=RSS&at_campaign=rss",
+      "summary": "Delcy Rodríguez's India visit highlights Venezuela's growing role in Delhi's oil diversification.",
+      "published_at": "2026-06-04T05:28:25Z",
+      "country_code": "IN",
+      "country_name": "India"
+    },
+    {
       "source": "BBC Europe",
       "title": "A higher ceiling than Messi? What next for Lamine Yamal?",
       "url": "https://www.bbc.com/sport/football/articles/cy82mpzg3n4o?at_medium=RSS&at_campaign=rss",
@@ -81,15 +108,6 @@
       "published_at": "2026-06-04T05:27:39Z",
       "country_code": "ES",
       "country_name": "Spain"
-    },
-    {
-      "source": "BBC Europe",
-      "title": "How Ukraine-Russia tension hangs over French Open semi-finals",
-      "url": "https://www.bbc.com/sport/tennis/articles/cq5pvj280eqo?at_medium=RSS&at_campaign=rss",
-      "summary": "Russia's war in Ukraine will provide an unavoidable backdrop to the French Open women's semi-finals - and possibly the final.",
-      "published_at": "2026-06-04T05:12:21Z",
-      "country_code": "RU",
-      "country_name": "Russia"
     },
     {
       "source": "BBC US & Canada",
@@ -111,12 +129,12 @@
     },
     {
       "source": "BBC World",
-      "title": "Why Canada has generic Ozempic, and the US doesn't",
+      "title": "Why Canadians can now get cheaper generic Ozempic - and Americans can't",
       "url": "https://www.bbc.com/news/articles/c142y4p2eyxo?at_medium=RSS&at_campaign=rss",
       "summary": "Canada is the first G7 country to approve the lower cost weight-loss drugs, which are rolling out in pharmacies this month.",
       "published_at": "2026-06-03T23:34:48Z",
-      "country_code": "US",
-      "country_name": "United States"
+      "country_code": "CA",
+      "country_name": "Canada"
     },
     {
       "source": "BBC World",
@@ -200,15 +218,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Europe",
-      "title": "Norway teen was in UK to 'undertake a hit' - court",
-      "url": "https://www.bbc.com/news/articles/cm2pjk8ggrdo?at_medium=RSS&at_campaign=rss",
-      "summary": "Johannes Natland was due to carry out a shooting on behalf of a Swedish criminal group, trial hears.",
-      "published_at": "2026-06-03T12:55:45Z",
-      "country_code": "GB",
-      "country_name": "United Kingdom"
-    },
-    {
       "source": "BBC World",
       "title": "Foreign nationals among at least 21 killed in Delhi fire",
       "url": "https://www.bbc.com/news/articles/czd29327qzvo?at_medium=RSS&at_campaign=rss",
@@ -252,6 +261,15 @@
       "published_at": "2026-06-03T03:49:53Z",
       "country_code": "ID",
       "country_name": "Indonesia"
+    },
+    {
+      "source": "BBC Latin America",
+      "title": "Canada formally requests 16-year renewal of North American free trade pact",
+      "url": "https://www.bbc.com/news/articles/cn9prr3w9nlo?at_medium=RSS&at_campaign=rss",
+      "summary": "In a letter to his North American counterparts, US-Canada Trade Minister Dominic LeBlanc said the three countries should renew the USMCA tra…",
+      "published_at": "2026-06-03T01:40:44Z",
+      "country_code": "US",
+      "country_name": "United States"
     },
     {
       "source": "BBC Asia",
@@ -315,15 +333,6 @@
       "published_at": "2026-06-02T19:13:21Z",
       "country_code": "UA",
       "country_name": "Ukraine"
-    },
-    {
-      "source": "BBC Europe",
-      "title": "Two arrested after four migrant farm workers killed in Italy minivan fire",
-      "url": "https://www.bbc.com/news/articles/cvgzr2zxedno?at_medium=RSS&at_campaign=rss",
-      "summary": "CCTV images showed two people blocking the van's doors from the outside and throwing liquid inside to start a fire.",
-      "published_at": "2026-06-02T18:58:10Z",
-      "country_code": "IT",
-      "country_name": "Italy"
     },
     {
       "source": "BBC Africa",
@@ -821,7 +830,7 @@
     {
       "country_code": "IL",
       "country_name": "Israel",
-      "news_count": 6
+      "news_count": 7
     },
     {
       "country_code": "IR",
@@ -834,8 +843,18 @@
       "news_count": 5
     },
     {
+      "country_code": "UA",
+      "country_name": "Ukraine",
+      "news_count": 5
+    },
+    {
       "country_code": "ES",
       "country_name": "Spain",
+      "news_count": 4
+    },
+    {
+      "country_code": "IN",
+      "country_name": "India",
       "news_count": 4
     },
     {
@@ -846,16 +865,6 @@
     {
       "country_code": "RU",
       "country_name": "Russia",
-      "news_count": 4
-    },
-    {
-      "country_code": "UA",
-      "country_name": "Ukraine",
-      "news_count": 4
-    },
-    {
-      "country_code": "IN",
-      "country_name": "India",
       "news_count": 3
     },
     {
@@ -866,11 +875,6 @@
     {
       "country_code": "FR",
       "country_name": "France",
-      "news_count": 2
-    },
-    {
-      "country_code": "GB",
-      "country_name": "United Kingdom",
       "news_count": 2
     },
     {
@@ -894,6 +898,11 @@
       "news_count": 2
     },
     {
+      "country_code": "CA",
+      "country_name": "Canada",
+      "news_count": 1
+    },
+    {
       "country_code": "CO",
       "country_name": "Colombia",
       "news_count": 1
@@ -904,6 +913,11 @@
       "news_count": 1
     },
     {
+      "country_code": "GB",
+      "country_name": "United Kingdom",
+      "news_count": 1
+    },
+    {
       "country_code": "ID",
       "country_name": "Indonesia",
       "news_count": 1
@@ -911,11 +925,6 @@
     {
       "country_code": "IQ",
       "country_name": "Iraq",
-      "news_count": 1
-    },
-    {
-      "country_code": "IT",
-      "country_name": "Italy",
       "news_count": 1
     },
     {
