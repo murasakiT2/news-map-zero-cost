@@ -1,21 +1,57 @@
 {
-  "generated_at": "2026-06-04T00:10:29Z",
+  "generated_at": "2026-06-04T05:17:05Z",
   "articles": [
+    {
+      "source": "BBC US & Canada",
+      "title": "Flesh-eating screwworm arrives in US with first case detected in Texas cattle",
+      "url": "https://www.bbc.com/news/articles/c936r25grrlo?at_medium=RSS&at_campaign=rss",
+      "summary": "A calf near the US-Mexico border is the first case of the parasite in the US in 60 years.",
+      "published_at": "2026-06-04T03:45:20Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "US House votes to rein in Trump's war powers in rebuke over Iran",
+      "url": "https://www.bbc.com/news/articles/cj6pldg39deo?at_medium=RSS&at_campaign=rss",
+      "summary": "In the 215-208 vote, four Republicans joined Democrats to pass the measure, which had failed in three previous attempts.",
+      "published_at": "2026-06-04T03:36:10Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "China bans four New Zealand MPs over Taiwan visit",
+      "url": "https://www.bbc.com/news/articles/cx21r1y223ro?at_medium=RSS&at_campaign=rss",
+      "summary": "Upon their return from Taiwan last month, the lawmakers were told that China had banned them for a year.",
+      "published_at": "2026-06-04T02:54:21Z",
+      "country_code": "CN",
+      "country_name": "China"
+    },
+    {
+      "source": "BBC World",
+      "title": "Germany blames Russia for 'bitter defeat' in UN Security Council bid",
+      "url": "https://www.bbc.com/news/articles/cgmp3pg71edo?at_medium=RSS&at_campaign=rss",
+      "summary": "Johann Wadephul said it was \"no secret\" Russia had stirred up sentiment against Germany over its support for Ukraine.",
+      "published_at": "2026-06-04T01:02:24Z",
+      "country_code": "RU",
+      "country_name": "Russia"
+    },
+    {
+      "source": "BBC World",
+      "title": "Israel and Lebanon agree to implement ceasefire if Hezbollah stops attacks",
+      "url": "https://www.bbc.com/news/articles/c5y01pdqvkgo?at_medium=RSS&at_campaign=rss",
+      "summary": "The countries reject \"any attempt, by any state or non-state actor, to hold Lebanon's future hostage\", the US State Department says.",
+      "published_at": "2026-06-04T00:16:44Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "Why Canada has generic Ozempic, and the US doesn't",
       "url": "https://www.bbc.com/news/articles/c142y4p2eyxo?at_medium=RSS&at_campaign=rss",
       "summary": "Canada is the first G7 country to approve the lower cost weight-loss drugs, which are rolling out in pharmacies this month.",
       "published_at": "2026-06-03T23:34:48Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "US House votes to halt Iran war, in rebuke to Trump",
-      "url": "https://www.bbc.com/news/articles/cj6pldg39deo?at_medium=RSS&at_campaign=rss",
-      "summary": "In the 215-208 vote, four Republicans joined Democrats to pass the measure, which had failed in three previous attempts.",
-      "published_at": "2026-06-03T23:01:07Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -36,15 +72,6 @@
       "published_at": "2026-06-03T21:50:40Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "Israeli strikes kill nine in Lebanon as Hezbollah fires rockets over border",
-      "url": "https://www.bbc.com/news/articles/c5y01pdqvkgo?at_medium=RSS&at_campaign=rss",
-      "summary": "The incidents strain a partial ceasefire agreed by Israel and the Lebanese armed group on Monday.",
-      "published_at": "2026-06-03T21:19:19Z",
-      "country_code": "IL",
-      "country_name": "Israel"
     },
     {
       "source": "BBC World",
@@ -173,7 +200,7 @@
       "country_name": "Nigeria"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "Indonesia's Prabowo fires head of free meals scheme plagued by poisonings",
       "url": "https://www.bbc.com/news/articles/cgjp369eqzgo?at_medium=RSS&at_campaign=rss",
       "summary": "The centrepiece programme of Prabowo's government has left tens of thousands of school children ill.",
@@ -209,7 +236,7 @@
       "country_name": "Russia"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Middle East",
       "title": "Israel strikes southern Lebanon but partial truce with Hezbollah appears to hold",
       "url": "https://www.bbc.com/news/articles/c936zvne0l6o?at_medium=RSS&at_campaign=rss",
       "summary": "Israel continues its campaign in the south, though has not struck Beirut after a deal announced by the US.",
@@ -834,12 +861,12 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 35
+      "news_count": 37
     },
     {
       "country_code": "IL",
       "country_name": "Israel",
-      "news_count": 8
+      "news_count": 7
     },
     {
       "country_code": "UA",
@@ -847,14 +874,14 @@
       "news_count": 7
     },
     {
-      "country_code": "IR",
-      "country_name": "Iran",
+      "country_code": "CN",
+      "country_name": "China",
       "news_count": 5
     },
     {
-      "country_code": "CN",
-      "country_name": "China",
-      "news_count": 4
+      "country_code": "IR",
+      "country_name": "Iran",
+      "news_count": 5
     },
     {
       "country_code": "NG",
@@ -874,6 +901,11 @@
     {
       "country_code": "JP",
       "country_name": "Japan",
+      "news_count": 3
+    },
+    {
+      "country_code": "RU",
+      "country_name": "Russia",
       "news_count": 3
     },
     {
@@ -899,11 +931,6 @@
     {
       "country_code": "MA",
       "country_name": "Morocco",
-      "news_count": 2
-    },
-    {
-      "country_code": "RU",
-      "country_name": "Russia",
       "news_count": 2
     },
     {
