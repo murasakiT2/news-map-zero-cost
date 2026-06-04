@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-06-04T18:07:44Z",
+  "generated_at": "2026-06-04T20:29:22Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Ex-wife of Dubai ruler's nephew missing, says lawyer",
+      "url": "https://www.bbc.com/news/articles/c362618d9e8o?at_medium=RSS&at_campaign=rss",
+      "summary": "British lawyer David Haigh lost contact with Zeynab Javadli on Tuesday and the BBC has been told her home in Dubai is locked and empty.",
+      "published_at": "2026-06-04T18:01:54Z",
+      "country_code": "AE",
+      "country_name": "United Arab Emirates"
+    },
     {
       "source": "BBC World",
       "title": "Hezbollah rejects renewed ceasefire agreed by Israel and Lebanon",
@@ -30,7 +39,7 @@
     },
     {
       "source": "BBC US & Canada",
-      "title": "Five takeaways from Canada's new AI strategy",
+      "title": "What to know about Canada's new AI strategy",
       "url": "https://www.bbc.com/news/articles/c4g7gv8l0xlo?at_medium=RSS&at_campaign=rss",
       "summary": "Canada new roadmap for how it plans to adopt AI over the next decade includes \"large-scale\" data centres, free AI literacy programme and bil…",
       "published_at": "2026-06-04T17:04:47Z",
@@ -75,7 +84,7 @@
     },
     {
       "source": "BBC World",
-      "title": "Uneasy neighbours: Can three World Cup hosts put differences aside for a month?",
+      "title": "Can the US, Mexico and Canada set aside their differences as they co-host the World Cup?",
       "url": "https://www.bbc.com/news/articles/cvgz2081y8ko?at_medium=RSS&at_campaign=rss",
       "summary": "The tournament comes after a period of fractious relations between the US, Canada and Mexico.",
       "published_at": "2026-06-04T08:46:23Z",
@@ -164,7 +173,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "'Crazy' phone call between Trump and Netanyahu complicates Iran talks",
       "url": "https://www.bbc.com/news/articles/cvgz21pq3g6o?at_medium=RSS&at_campaign=rss",
       "summary": "Israel's PM laughed off reports of friction, but he has tested the patience of other US presidents.",
@@ -198,15 +207,6 @@
       "published_at": "2026-06-03T16:12:05Z",
       "country_code": "NG",
       "country_name": "Nigeria"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "Ex-UK political aide and Biden cabinet secretary lead California governor primary vote count",
-      "url": "https://www.bbc.com/news/articles/cn8p0yz512no?at_medium=RSS&at_campaign=rss",
-      "summary": "Another Democrat, billionaire climate activist Tom Steyer, is in third place as the tally continues.",
-      "published_at": "2026-06-03T15:32:30Z",
-      "country_code": "GB",
-      "country_name": "United Kingdom"
     },
     {
       "source": "BBC US & Canada",
@@ -434,7 +434,7 @@
       "country_name": "Egypt"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "Watch: Glass doors break as fans scramble to see Pursuit of Jade star",
       "url": "https://www.bbc.com/news/videos/cr7pye93n1ro?at_medium=RSS&at_campaign=rss",
       "summary": "Huge crowds formed outside a shopping centre in China to see actor Zhang Linghe.",
@@ -874,11 +874,6 @@
       "news_count": 2
     },
     {
-      "country_code": "GB",
-      "country_name": "United Kingdom",
-      "news_count": 2
-    },
-    {
       "country_code": "JP",
       "country_name": "Japan",
       "news_count": 2
@@ -899,6 +894,11 @@
       "news_count": 2
     },
     {
+      "country_code": "AE",
+      "country_name": "United Arab Emirates",
+      "news_count": 1
+    },
+    {
       "country_code": "CO",
       "country_name": "Colombia",
       "news_count": 1
@@ -906,6 +906,11 @@
     {
       "country_code": "EG",
       "country_name": "Egypt",
+      "news_count": 1
+    },
+    {
+      "country_code": "GB",
+      "country_name": "United Kingdom",
       "news_count": 1
     },
     {
