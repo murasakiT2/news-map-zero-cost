@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-06-04T22:03:37Z",
+  "generated_at": "2026-06-04T23:42:12Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Zelensky proposes face-to-face talks in open letter to Putin",
+      "url": "https://www.bbc.com/news/articles/cwy2ypyp4x4o?at_medium=RSS&at_campaign=rss",
+      "summary": "Ukraine's president tells the Russian leader that only \"direct engagement\" between the two countries could end the war, with the US focused …",
+      "published_at": "2026-06-04T23:32:35Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Here's why election results in the second largest US city are so slow",
+      "url": "https://www.bbc.com/news/articles/c2020jrpxz3o?at_medium=RSS&at_campaign=rss",
+      "summary": "It could take weeks - or even a month - before we know who won elections in California and Los Angeles.",
+      "published_at": "2026-06-04T22:20:24Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "Ex-wife of Dubai ruler's nephew in custody, prosecutors say",
@@ -9,15 +27,6 @@
       "published_at": "2026-06-04T21:34:49Z",
       "country_code": "AE",
       "country_name": "United Arab Emirates"
-    },
-    {
-      "source": "BBC World",
-      "title": "Zelensky proposes face-to-face talks in open letter to Putin",
-      "url": "https://www.bbc.com/news/articles/cwy2ypyp4x4o?at_medium=RSS&at_campaign=rss",
-      "summary": "Ukraine's president tells the Russian leader that only \"direct engagement\" between the two countries could end the war, with the US focused …",
-      "published_at": "2026-06-04T21:34:14Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC World",
@@ -191,7 +200,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Middle East",
       "title": "One killed and dozens injured in Iranian drone strikes on Kuwait airport",
       "url": "https://www.bbc.com/news/articles/c5yx135yg53o?at_medium=RSS&at_campaign=rss",
       "summary": "Iran says the attack on Kuwait was in retaliation for earlier US strikes on an Iranian oil tanker and island.",
@@ -227,7 +236,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "Foreign nationals among at least 21 killed in Delhi fire",
       "url": "https://www.bbc.com/news/articles/czd29327qzvo?at_medium=RSS&at_campaign=rss",
       "summary": "Many victims were South Asians who had travelled to India for treatment or to accompany relatives.",
@@ -825,7 +834,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 32
+      "news_count": 33
     },
     {
       "country_code": "IL",
