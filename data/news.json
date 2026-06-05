@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-06-05T18:19:01Z",
+  "generated_at": "2026-06-05T20:20:29Z",
   "articles": [
+    {
+      "source": "BBC US & Canada",
+      "title": "Downing Street hits out at 'people seeking to stir division' after Vance's Nowak post",
+      "url": "https://www.bbc.com/news/articles/crlplwn1jkro?at_medium=RSS&at_campaign=rss",
+      "summary": "The US vice president wrote the \"only response is righteous anger\" when referring to Henry Nowak's death on X.",
+      "published_at": "2026-06-05T19:56:37Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Putin says there is 'no point' meeting Zelensky over ending Ukraine war",
+      "url": "https://www.bbc.com/news/articles/cpqpqx5qe40o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Russian president's refusal comes after his Ukrainian counterpart wrote an open letter calling for face-to-face talks.",
+      "published_at": "2026-06-05T18:16:15Z",
+      "country_code": "UA",
+      "country_name": "Ukraine"
+    },
     {
       "source": "BBC World",
       "title": "Norway's crown princess on lung transplant waiting list, palace says",
@@ -81,15 +99,6 @@
       "published_at": "2026-06-05T09:08:57Z",
       "country_code": "JP",
       "country_name": "Japan"
-    },
-    {
-      "source": "BBC Europe",
-      "title": "Zelensky proposes face-to-face talks in open letter to Putin",
-      "url": "https://www.bbc.com/news/articles/cwy2ypyp4x4o?at_medium=RSS&at_campaign=rss",
-      "summary": "Ukraine's president tells the Russian leader that only \"direct engagement\" between the two countries could end the war, with the US focused …",
-      "published_at": "2026-06-05T08:03:23Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC World",
@@ -207,15 +216,6 @@
       "published_at": "2026-06-04T17:04:47Z",
       "country_code": "CA",
       "country_name": "Canada"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "Trump hits back at 'unpatriotic' vote after House rebukes him over Iran",
-      "url": "https://www.bbc.com/news/articles/cn0pl0wvvz0o?at_medium=RSS&at_campaign=rss",
-      "summary": "The lower chamber of Congress passed a measure that seeks to halt further military action, in a vote seen as largely symbolic.",
-      "published_at": "2026-06-04T14:46:36Z",
-      "country_code": "IR",
-      "country_name": "Iran"
     },
     {
       "source": "BBC Europe",
@@ -878,13 +878,13 @@
       "news_count": 7
     },
     {
-      "country_code": "IR",
-      "country_name": "Iran",
+      "country_code": "UA",
+      "country_name": "Ukraine",
       "news_count": 6
     },
     {
-      "country_code": "UA",
-      "country_name": "Ukraine",
+      "country_code": "IR",
+      "country_name": "Iran",
       "news_count": 5
     },
     {
