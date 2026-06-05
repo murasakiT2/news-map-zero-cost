@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-06-04T23:42:12Z",
+  "generated_at": "2026-06-05T02:13:54Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Hezbollah rejects renewed ceasefire agreed by Israel and Lebanon",
+      "url": "https://www.bbc.com/news/articles/c052343r812o?at_medium=RSS&at_campaign=rss",
+      "summary": "The United States announced the ceasefire agreement on Wednesday night following a fresh round of talks.",
+      "published_at": "2026-06-05T01:44:16Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC Asia",
+      "title": "Giant hissing cockroaches among $200,000 worth of illegal insects seized in Australia",
+      "url": "https://www.bbc.com/news/articles/cjwpwv18910o?at_medium=RSS&at_campaign=rss",
+      "summary": "Authorities say the roaches, some as big as the palm of a hand, were likely sold as food for pet reptiles.",
+      "published_at": "2026-06-05T01:26:28Z",
+      "country_code": "AU",
+      "country_name": "Australia"
+    },
+    {
+      "source": "BBC World",
+      "title": "US plans to fight flesh-eating screwworm outbreak with flies and dogs",
+      "url": "https://www.bbc.com/news/articles/c7v9vz1gd76o?at_medium=RSS&at_campaign=rss",
+      "summary": "The insect, which has been found in America for the first time since 1966, is a growing concern in the southern US.",
+      "published_at": "2026-06-05T00:56:42Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "Trump cancels concerts for America's 250th birthday - but how else is it celebrating?",
+      "url": "https://www.bbc.com/news/articles/c5y8nnj33e1o?at_medium=RSS&at_campaign=rss",
+      "summary": "A UFC fight on the White House lawn is among a range of events planned to celebrate the 250th anniversary of America's founding.",
+      "published_at": "2026-06-05T00:19:39Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "Zelensky proposes face-to-face talks in open letter to Putin",
@@ -27,15 +63,6 @@
       "published_at": "2026-06-04T21:34:49Z",
       "country_code": "AE",
       "country_name": "United Arab Emirates"
-    },
-    {
-      "source": "BBC World",
-      "title": "Hezbollah rejects renewed ceasefire agreed by Israel and Lebanon",
-      "url": "https://www.bbc.com/news/articles/c052343r812o?at_medium=RSS&at_campaign=rss",
-      "summary": "The United States announced the ceasefire agreement on Wednesday night following a fresh round of talks.",
-      "published_at": "2026-06-04T20:37:46Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC World",
@@ -128,15 +155,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
-      "title": "China bans four New Zealand MPs over Taiwan visit",
-      "url": "https://www.bbc.com/news/articles/cx21r1y223ro?at_medium=RSS&at_campaign=rss",
-      "summary": "Upon their return from Taiwan last month, the lawmakers were told that China had banned them for a year.",
-      "published_at": "2026-06-04T05:37:14Z",
-      "country_code": "CN",
-      "country_name": "China"
-    },
-    {
       "source": "BBC Latin America",
       "title": "Delcy Rodríguez visits India: Will oil talks lead to an energy deal?",
       "url": "https://www.bbc.com/news/articles/czx29k97kzlo?at_medium=RSS&at_campaign=rss",
@@ -205,15 +223,6 @@
       "url": "https://www.bbc.com/news/articles/c5yx135yg53o?at_medium=RSS&at_campaign=rss",
       "summary": "Iran says the attack on Kuwait was in retaliation for earlier US strikes on an Iranian oil tanker and island.",
       "published_at": "2026-06-03T20:05:58Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "How is America celebrating its 250th birthday?",
-      "url": "https://www.bbc.com/news/articles/c5y8nnj33e1o?at_medium=RSS&at_campaign=rss",
-      "summary": "A UFC fight on the White House lawn is among a range of events planned to celebrate the 250th anniversary of America's founding.",
-      "published_at": "2026-06-03T18:16:48Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -299,7 +308,7 @@
       "country_name": "Japan"
     },
     {
-      "source": "BBC Asia",
+      "source": "BBC Middle East",
       "title": "Sailors stressed and exhausted after months trapped by Strait of Hormuz blockade",
       "url": "https://www.bbc.com/news/articles/cy02rz27l32o?at_medium=RSS&at_campaign=rss",
       "summary": "The uncertainty has weighed heavily on the 20,000 seafarers trapped in the Iran war zone.",
@@ -834,7 +843,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 33
+      "news_count": 34
     },
     {
       "country_code": "IL",
@@ -849,7 +858,7 @@
     {
       "country_code": "CN",
       "country_name": "China",
-      "news_count": 5
+      "news_count": 4
     },
     {
       "country_code": "ES",
@@ -914,6 +923,11 @@
     {
       "country_code": "AE",
       "country_name": "United Arab Emirates",
+      "news_count": 1
+    },
+    {
+      "country_code": "AU",
+      "country_name": "Australia",
       "news_count": 1
     },
     {
