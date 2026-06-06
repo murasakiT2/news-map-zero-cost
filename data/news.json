@@ -1,14 +1,32 @@
 {
-  "generated_at": "2026-06-06T11:15:30Z",
+  "generated_at": "2026-06-06T12:48:38Z",
   "articles": [
     {
       "source": "BBC World",
-      "title": "Scores of Ukrainian drones target St Petersburg in attack Russia calls 'unprecedented'",
+      "title": "Iran says staff blocked from entering US after players given World Cup visas",
+      "url": "https://www.bbc.com/news/articles/cy8286nqz87o?at_medium=RSS&at_campaign=rss",
+      "summary": "Iranian officials say technical staff have been denied visas, hours after the US said players could enter the country.",
+      "published_at": "2026-06-06T11:56:25Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Ukrainian drones target St Petersburg in attack Russia calls 'unprecedented'",
       "url": "https://www.bbc.com/news/articles/cg7498kz808o?at_medium=RSS&at_campaign=rss",
-      "summary": "The regional governor urges residents to remain indoors for the first time since the beginning of the war.",
-      "published_at": "2026-06-06T10:54:06Z",
+      "summary": "The city's governor urges residents to remain indoors for the first time since the beginning of the war.",
+      "published_at": "2026-06-06T11:37:19Z",
       "country_code": "RU",
       "country_name": "Russia"
+    },
+    {
+      "source": "BBC World",
+      "title": "Man dies after bitten by shark in Western Australia, police say",
+      "url": "https://www.bbc.com/news/articles/c74yl98kv37o?at_medium=RSS&at_campaign=rss",
+      "summary": "The man was spearfishing off Michaelmas Island with his family, according to local reports.",
+      "published_at": "2026-06-06T08:20:50Z",
+      "country_code": "AU",
+      "country_name": "Australia"
     },
     {
       "source": "BBC World",
@@ -52,15 +70,6 @@
       "url": "https://www.bbc.com/news/articles/cevpv3r7jmpo?at_medium=RSS&at_campaign=rss",
       "summary": "The ban came as a second infected calf was identified in Texas, and the US state declaring a state of disaster over the outbreak.",
       "published_at": "2026-06-06T04:22:25Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "Iran's football team granted visas to enter US for World Cup, officials say",
-      "url": "https://www.bbc.com/news/articles/cy8286nqz87o?at_medium=RSS&at_campaign=rss",
-      "summary": "The approval comes just 10 days before the Iranian squad's opening match against New Zealand in Los Angeles.",
-      "published_at": "2026-06-06T03:14:56Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -227,7 +236,7 @@
       "country_name": "Japan"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Middle East",
       "title": "Hezbollah rejects renewed ceasefire agreed by Israel and Lebanon",
       "url": "https://www.bbc.com/news/articles/c052343r812o?at_medium=RSS&at_campaign=rss",
       "summary": "The United States announced the ceasefire agreement on Wednesday night following a fresh round of talks.",
@@ -995,6 +1004,11 @@
       "news_count": 3
     },
     {
+      "country_code": "AU",
+      "country_name": "Australia",
+      "news_count": 2
+    },
+    {
       "country_code": "BR",
       "country_name": "Brazil",
       "news_count": 2
@@ -1027,11 +1041,6 @@
     {
       "country_code": "AE",
       "country_name": "United Arab Emirates",
-      "news_count": 1
-    },
-    {
-      "country_code": "AU",
-      "country_name": "Australia",
       "news_count": 1
     },
     {
