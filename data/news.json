@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-06-06T09:52:58Z",
+  "generated_at": "2026-06-06T11:15:30Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Scores of Ukrainian drones target St Petersburg in attack Russia calls 'unprecedented'",
+      "url": "https://www.bbc.com/news/articles/cg7498kz808o?at_medium=RSS&at_campaign=rss",
+      "summary": "The regional governor urges residents to remain indoors for the first time since the beginning of the war.",
+      "published_at": "2026-06-06T10:54:06Z",
+      "country_code": "RU",
+      "country_name": "Russia"
+    },
     {
       "source": "BBC World",
       "title": "Tributes to Buffy and Ted Lasso star Anthony Head after death aged 72",
@@ -56,7 +65,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "US plans to fight flesh-eating screwworm outbreak with flies and dogs",
       "url": "https://www.bbc.com/news/articles/c7v9vz1gd76o?at_medium=RSS&at_campaign=rss",
       "summary": "The insect, which has been found in America for the first time since 1966, is a growing concern in the southern US.",
@@ -911,15 +920,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Middle East",
-      "title": "'This may be the last time you hear my voice': Political executions surge in Iran since start of war",
-      "url": "https://www.bbc.com/news/articles/cn8p392nl7yo?at_medium=RSS&at_campaign=rss",
-      "summary": "Since the US and Israel attacked Iran on 28 February, the UN says it’s verified the execution of at least 32 political prisoners.",
-      "published_at": "2026-05-17T23:02:56Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC Africa",
       "title": "'Total lack of respect': Macron interrupts speaker to ask for silence",
       "url": "https://www.bbc.com/news/videos/czx2wd20evyo?at_medium=RSS&at_campaign=rss",
@@ -942,7 +942,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 41
+      "news_count": 40
     },
     {
       "country_code": "IL",
@@ -960,13 +960,13 @@
       "news_count": 5
     },
     {
-      "country_code": "IN",
-      "country_name": "India",
-      "news_count": 4
-    },
-    {
       "country_code": "RU",
       "country_name": "Russia",
+      "news_count": 5
+    },
+    {
+      "country_code": "IN",
+      "country_name": "India",
       "news_count": 4
     },
     {
