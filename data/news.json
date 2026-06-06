@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-06-06T07:39:53Z",
+  "generated_at": "2026-06-06T09:52:58Z",
   "articles": [
     {
       "source": "BBC World",
-      "title": "Tributes to Buffy and Ted Lasso star Anthony Head who dies aged 72",
+      "title": "Tributes to Buffy and Ted Lasso star Anthony Head after death aged 72",
       "url": "https://www.bbc.com/news/articles/cd0p0rz4n0mo?at_medium=RSS&at_campaign=rss",
       "summary": "The British actor, who also appeared in Merlin and Little Britain, died of complications from pneumonia.",
       "published_at": "2026-06-06T07:33:07Z",
@@ -398,15 +398,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Africa",
-      "title": "Four sentenced to death for killing worshippers at Catholic church in Nigeria",
-      "url": "https://www.bbc.com/news/articles/cj0p57q1m36o?at_medium=RSS&at_campaign=rss",
-      "summary": "A fifth man was discharged and acquitted by the court due to insufficient evidence against him.",
-      "published_at": "2026-06-03T16:12:05Z",
-      "country_code": "NG",
-      "country_name": "Nigeria"
-    },
-    {
       "source": "BBC US & Canada",
       "title": "He was a reality show villain. Can he be the mayor of one of America's largest cities?",
       "url": "https://www.bbc.com/news/articles/c775x852rk1o?at_medium=RSS&at_campaign=rss",
@@ -696,6 +687,15 @@
     },
     {
       "source": "BBC Africa",
+      "title": "I moved from Ethiopia to Shetland - and I've brought the coffee with me",
+      "url": "https://www.bbc.com/news/articles/cvgz46znz0vo?at_medium=RSS&at_campaign=rss",
+      "summary": "Netsanet Sori is bringing a flavour of the farm where she grew up to her new home 4,000 miles away.",
+      "published_at": "2026-05-31T08:29:29Z",
+      "country_code": "ET",
+      "country_name": "Ethiopia"
+    },
+    {
+      "source": "BBC Africa",
       "title": "'Gifts' from a lover and 'botched' cocaine raids: Police inquiry grips South Africa",
       "url": "https://www.bbc.com/news/articles/ce9p5e1jg72o?at_medium=RSS&at_campaign=rss",
       "summary": "South Africa's Madlanga Commission hears about Brazilian butt lift bribe denials and alleged drug heists.",
@@ -830,15 +830,6 @@
       "country_name": "Morocco"
     },
     {
-      "source": "BBC Africa",
-      "title": "East Africa wants to curb imports of used clothes. But it's not easy",
-      "url": "https://www.bbc.com/news/articles/c2l2k5pxrgdo?at_medium=RSS&at_campaign=rss",
-      "summary": "Kenya, Uganda and Tanzania are major importers of used garments from the West and China.",
-      "published_at": "2026-05-23T23:55:13Z",
-      "country_code": "CN",
-      "country_name": "China"
-    },
-    {
       "source": "BBC Middle East",
       "title": "I survived a missile strike in the Strait of Hormuz, but my friend has not been found",
       "url": "https://www.bbc.com/news/articles/ce8pn63q771o?at_medium=RSS&at_campaign=rss",
@@ -936,6 +927,15 @@
       "published_at": "2026-05-11T16:10:18Z",
       "country_code": "KE",
       "country_name": "Kenya"
+    },
+    {
+      "source": "BBC Africa",
+      "title": "Joy as record-breaking runner Sawe returns home",
+      "url": "https://www.bbc.com/news/videos/cglpkexdye1o?at_medium=RSS&at_campaign=rss",
+      "summary": "BBC reports from Kenya, home to Sabastian Sawe, the first man to run a marathon in under two hours.",
+      "published_at": "2026-04-30T02:03:17Z",
+      "country_code": "KE",
+      "country_name": "Kenya"
     }
   ],
   "regions": [
@@ -960,18 +960,8 @@
       "news_count": 5
     },
     {
-      "country_code": "CN",
-      "country_name": "China",
-      "news_count": 4
-    },
-    {
       "country_code": "IN",
       "country_name": "India",
-      "news_count": 4
-    },
-    {
-      "country_code": "NG",
-      "country_name": "Nigeria",
       "news_count": 4
     },
     {
@@ -985,6 +975,11 @@
       "news_count": 3
     },
     {
+      "country_code": "CN",
+      "country_name": "China",
+      "news_count": 3
+    },
+    {
       "country_code": "ES",
       "country_name": "Spain",
       "news_count": 3
@@ -992,6 +987,11 @@
     {
       "country_code": "FR",
       "country_name": "France",
+      "news_count": 3
+    },
+    {
+      "country_code": "NG",
+      "country_name": "Nigeria",
       "news_count": 3
     },
     {
@@ -1007,6 +1007,11 @@
     {
       "country_code": "JP",
       "country_name": "Japan",
+      "news_count": 2
+    },
+    {
+      "country_code": "KE",
+      "country_name": "Kenya",
       "news_count": 2
     },
     {
@@ -1040,13 +1045,13 @@
       "news_count": 1
     },
     {
-      "country_code": "IQ",
-      "country_name": "Iraq",
+      "country_code": "ET",
+      "country_name": "Ethiopia",
       "news_count": 1
     },
     {
-      "country_code": "KE",
-      "country_name": "Kenya",
+      "country_code": "IQ",
+      "country_name": "Iraq",
       "news_count": 1
     },
     {
