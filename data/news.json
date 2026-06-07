@@ -1,14 +1,41 @@
 {
-  "generated_at": "2026-06-07T02:43:13Z",
+  "generated_at": "2026-06-07T06:57:47Z",
   "articles": [
     {
       "source": "BBC World",
       "title": "Hegseth attacks Europe over migration with beach 'invasion' D-Day speech",
       "url": "https://www.bbc.com/news/articles/c802e7jk458o?at_medium=RSS&at_campaign=rss",
       "summary": "The US defence secretary was speaking in Normandy, 82 years after allied forces launched their operation to liberate Nazi-occupied north-wes…",
-      "published_at": "2026-06-06T23:52:07Z",
+      "published_at": "2026-06-07T05:47:28Z",
       "country_code": "US",
       "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Armenia votes as Russia piles pressure on pro-West government",
+      "url": "https://www.bbc.com/news/articles/c3626n1epd5o?at_medium=RSS&at_campaign=rss",
+      "summary": "Incumbent Prime Minister Nikol Pashinyan is seeking a third term despite falling domestic support.",
+      "published_at": "2026-06-07T04:45:51Z",
+      "country_code": "RU",
+      "country_name": "Russia"
+    },
+    {
+      "source": "BBC World",
+      "title": "Police officer turned Love Island US contestant faces hometown backlash",
+      "url": "https://www.bbc.com/news/articles/cpqprxlqe0po?at_medium=RSS&at_campaign=rss",
+      "summary": "Sean Reifel's joined the cast of the popular reality series less than a year after he joined his hometown's police force.",
+      "published_at": "2026-06-06T23:25:36Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Insecurity and instability drive voters in Peru's tight presidential race",
+      "url": "https://www.bbc.com/news/articles/c9d21184e7yo?at_medium=RSS&at_campaign=rss",
+      "summary": "After eight presidents in 10 years, many voters are looking for stability so the next president can focus on tackling crime and inequality.",
+      "published_at": "2026-06-06T23:17:43Z",
+      "country_code": "PE",
+      "country_name": "Peru"
     },
     {
       "source": "BBC World",
@@ -63,15 +90,6 @@
       "published_at": "2026-06-06T14:46:20Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "Armenia braces for election as Russia piles pressure on pro-West government",
-      "url": "https://www.bbc.com/news/articles/c3626n1epd5o?at_medium=RSS&at_campaign=rss",
-      "summary": "Incumbent Prime Minister Nikol Pashinyan is seeking a third term despite falling domestic support.",
-      "published_at": "2026-06-06T07:06:43Z",
-      "country_code": "RU",
-      "country_name": "Russia"
     },
     {
       "source": "BBC US & Canada",
@@ -569,15 +587,6 @@
       "country_name": "Iran"
     },
     {
-      "source": "BBC Latin America",
-      "title": "Two possible Ebola cases in Brazil ruled out as patients test negative",
-      "url": "https://www.bbc.com/news/articles/c99lzgxzx2do?at_medium=RSS&at_campaign=rss",
-      "summary": "The two patients had recently returned from the DR Congo and Uganda respectively.",
-      "published_at": "2026-06-01T21:40:19Z",
-      "country_code": "BR",
-      "country_name": "Brazil"
-    },
-    {
       "source": "BBC Middle East",
       "title": "Israel PM orders strikes on Beirut suburbs as Hezbollah conflict escalates",
       "url": "https://www.bbc.com/news/articles/c4g419e2xlvo?at_medium=RSS&at_campaign=rss",
@@ -758,15 +767,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Europe",
-      "title": "What critical infrastructure is Russia 'relentlessly targeting'?",
-      "url": "https://www.bbc.com/news/videos/cy82d53jx43o?at_medium=RSS&at_campaign=rss",
-      "summary": "The BBC's security correspondent Frank Gardner unpacks GCHQ's announcement.",
-      "published_at": "2026-05-27T15:26:17Z",
-      "country_code": "RU",
-      "country_name": "Russia"
-    },
-    {
       "source": "BBC Middle East",
       "title": "'Like a prisoner being released' - Relief for Iranians as internet shutdown ends",
       "url": "https://www.bbc.com/news/articles/cx21x812w1lo?at_medium=RSS&at_campaign=rss",
@@ -900,22 +900,13 @@
       "published_at": "2026-05-11T16:10:18Z",
       "country_code": "KE",
       "country_name": "Kenya"
-    },
-    {
-      "source": "BBC Africa",
-      "title": "Joy as record-breaking runner Sawe returns home",
-      "url": "https://www.bbc.com/news/videos/cglpkexdye1o?at_medium=RSS&at_campaign=rss",
-      "summary": "BBC reports from Kenya, home to Sabastian Sawe, the first man to run a marathon in under two hours.",
-      "published_at": "2026-04-30T02:03:17Z",
-      "country_code": "KE",
-      "country_name": "Kenya"
     }
   ],
   "regions": [
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 40
+      "news_count": 41
     },
     {
       "country_code": "IL",
@@ -935,11 +926,6 @@
     {
       "country_code": "FR",
       "country_name": "France",
-      "news_count": 4
-    },
-    {
-      "country_code": "RU",
-      "country_name": "Russia",
       "news_count": 4
     },
     {
@@ -973,18 +959,13 @@
       "news_count": 3
     },
     {
+      "country_code": "RU",
+      "country_name": "Russia",
+      "news_count": 3
+    },
+    {
       "country_code": "AU",
       "country_name": "Australia",
-      "news_count": 2
-    },
-    {
-      "country_code": "BR",
-      "country_name": "Brazil",
-      "news_count": 2
-    },
-    {
-      "country_code": "KE",
-      "country_name": "Kenya",
       "news_count": 2
     },
     {
@@ -1000,6 +981,11 @@
     {
       "country_code": "AE",
       "country_name": "United Arab Emirates",
+      "news_count": 1
+    },
+    {
+      "country_code": "BR",
+      "country_name": "Brazil",
       "news_count": 1
     },
     {
@@ -1028,6 +1014,11 @@
       "news_count": 1
     },
     {
+      "country_code": "KE",
+      "country_name": "Kenya",
+      "news_count": 1
+    },
+    {
       "country_code": "MX",
       "country_name": "Mexico",
       "news_count": 1
@@ -1035,6 +1026,11 @@
     {
       "country_code": "NO",
       "country_name": "Norway",
+      "news_count": 1
+    },
+    {
+      "country_code": "PE",
+      "country_name": "Peru",
       "news_count": 1
     },
     {
