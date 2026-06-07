@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-06-07T16:48:59Z",
+  "generated_at": "2026-06-07T17:57:49Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Zelensky arrives in UK for Downing Street talks with European leaders",
+      "url": "https://www.bbc.com/news/articles/cr7xr1g3nvvo?at_medium=RSS&at_campaign=rss",
+      "summary": "Zelensky's meeting with Ukraine's staunchest European allies comes as US President Donald Trump's focus has shifted to the war with Iran.",
+      "published_at": "2026-06-07T17:28:35Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Armenia votes as Russia piles pressure on pro-West government",
+      "url": "https://www.bbc.com/news/articles/c3626n1epd5o?at_medium=RSS&at_campaign=rss",
+      "summary": "Incumbent Prime Minister Nikol Pashinyan is seeking a third term despite falling domestic support.",
+      "published_at": "2026-06-07T17:11:54Z",
+      "country_code": "RU",
+      "country_name": "Russia"
+    },
     {
       "source": "BBC World",
       "title": "Israel strikes Beirut suburb days after US-brokered truce",
@@ -63,15 +81,6 @@
       "published_at": "2026-06-07T06:32:48Z",
       "country_code": "PT",
       "country_name": "Portugal"
-    },
-    {
-      "source": "BBC World",
-      "title": "Armenia votes as Russia piles pressure on pro-West government",
-      "url": "https://www.bbc.com/news/articles/c3626n1epd5o?at_medium=RSS&at_campaign=rss",
-      "summary": "Incumbent Prime Minister Nikol Pashinyan is seeking a third term despite falling domestic support.",
-      "published_at": "2026-06-07T04:45:51Z",
-      "country_code": "RU",
-      "country_name": "Russia"
     },
     {
       "source": "BBC World",
@@ -897,7 +906,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 41
+      "news_count": 42
     },
     {
       "country_code": "IL",
