@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-06-07T21:57:23Z",
+  "generated_at": "2026-06-07T23:00:44Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Friendship or leverage: Why is Xi Jinping going to North Korea?",
+      "url": "https://www.bbc.com/news/articles/cdep497r256o?at_medium=RSS&at_campaign=rss",
+      "summary": "Beijing is trying to reassert influence over a strategically vital yet deeply unpredictable partner.",
+      "published_at": "2026-06-07T22:02:31Z",
+      "country_code": "CN",
+      "country_name": "China"
+    },
     {
       "source": "BBC Africa",
       "title": "South Africa's president unveils crackdown on illegal migration",
@@ -48,6 +57,15 @@
     },
     {
       "source": "BBC World",
+      "title": "Mexico City attempts record-breaking wave",
+      "url": "https://www.bbc.com/news/videos/c3wy6j2868lo?at_medium=RSS&at_campaign=rss",
+      "summary": "As part of the countdown to the World Cup, Mexico City is attempting to surpass the world record for largest wave.",
+      "published_at": "2026-06-07T17:53:32Z",
+      "country_code": "MX",
+      "country_name": "Mexico"
+    },
+    {
+      "source": "BBC World",
       "title": "Last-minute visas and moving training camp: Iran's road to the World Cup",
       "url": "https://www.bbc.com/news/articles/cgmpmp89dvro?at_medium=RSS&at_campaign=rss",
       "summary": "Iran's participation has become one of the most complex stories of the tournament.",
@@ -56,7 +74,7 @@
       "country_name": "Iran"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "Armenia votes as Russia piles pressure on pro-West government",
       "url": "https://www.bbc.com/news/articles/c3626n1epd5o?at_medium=RSS&at_campaign=rss",
       "summary": "Incumbent Prime Minister Nikol Pashinyan is seeking a third term despite falling domestic support.",
@@ -920,13 +938,13 @@
       "news_count": 5
     },
     {
-      "country_code": "CA",
-      "country_name": "Canada",
-      "news_count": 3
-    },
-    {
       "country_code": "CN",
       "country_name": "China",
+      "news_count": 4
+    },
+    {
+      "country_code": "CA",
+      "country_name": "Canada",
       "news_count": 3
     },
     {
@@ -942,6 +960,11 @@
     {
       "country_code": "JP",
       "country_name": "Japan",
+      "news_count": 3
+    },
+    {
+      "country_code": "MX",
+      "country_name": "Mexico",
       "news_count": 3
     },
     {
@@ -962,11 +985,6 @@
     {
       "country_code": "MA",
       "country_name": "Morocco",
-      "news_count": 2
-    },
-    {
-      "country_code": "MX",
-      "country_name": "Mexico",
       "news_count": 2
     },
     {
