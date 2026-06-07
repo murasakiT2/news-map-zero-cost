@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-06-07T13:19:47Z",
+  "generated_at": "2026-06-07T15:07:26Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Iran's World Cup team lands in Mexico amid US visa row",
+      "url": "https://www.bbc.com/news/articles/c5yz3zdp3jqo?at_medium=RSS&at_campaign=rss",
+      "summary": "All of Iran's group games are in the US, but players and support staff will have to fly in and out of the country on match day.",
+      "published_at": "2026-06-07T13:24:50Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "Hegseth attacks Europe over migration with beach 'invasion' D-Day speech",
@@ -65,7 +74,7 @@
       "country_name": "Peru"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "Iran says staff blocked from entering US after players given World Cup visas",
       "url": "https://www.bbc.com/news/articles/cy8286nqz87o?at_medium=RSS&at_campaign=rss",
       "summary": "Iranian officials say technical staff have been denied visas, hours after the US said players could enter the country.",
@@ -81,6 +90,15 @@
       "published_at": "2026-06-06T19:57:42Z",
       "country_code": "PS",
       "country_name": "Palestine"
+    },
+    {
+      "source": "BBC Africa",
+      "title": "Brighton agree £21.5m deal for winger Yohanna",
+      "url": "https://www.bbc.com/sport/football/articles/cjeg2w8zv5yo?at_medium=RSS&at_campaign=rss",
+      "summary": "Brighton agree to sign Nigerian winger Zadok Yohanna from AIK Stockholm in a deal worth £21.5m.",
+      "published_at": "2026-06-06T18:25:16Z",
+      "country_code": "SE",
+      "country_name": "Sweden"
     },
     {
       "source": "BBC World",
@@ -110,7 +128,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "Canada bans Texas cattle over flesh-eating screwworm outbreak in US",
       "url": "https://www.bbc.com/news/articles/cevpv3r7jmpo?at_medium=RSS&at_campaign=rss",
       "summary": "The ban came as a second infected calf was identified in Texas, and the US state declaring a state of disaster over the outbreak.",
@@ -873,22 +891,13 @@
       "published_at": "2026-05-17T23:02:56Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC Africa",
-      "title": "'Total lack of respect': Macron interrupts speaker to ask for silence",
-      "url": "https://www.bbc.com/news/videos/czx2wd20evyo?at_medium=RSS&at_campaign=rss",
-      "summary": "The French president stood up during a conference in Kenya to tell the audience to quieten down, saying it was “impossible” for speakers to …",
-      "published_at": "2026-05-11T16:10:18Z",
-      "country_code": "KE",
-      "country_name": "Kenya"
     }
   ],
   "regions": [
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 41
+      "news_count": 42
     },
     {
       "country_code": "IL",
@@ -991,11 +1000,6 @@
       "news_count": 1
     },
     {
-      "country_code": "KE",
-      "country_name": "Kenya",
-      "news_count": 1
-    },
-    {
       "country_code": "MX",
       "country_name": "Mexico",
       "news_count": 1
@@ -1023,6 +1027,11 @@
     {
       "country_code": "SA",
       "country_name": "Saudi Arabia",
+      "news_count": 1
+    },
+    {
+      "country_code": "SE",
+      "country_name": "Sweden",
       "news_count": 1
     }
   ]
