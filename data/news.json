@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-06-07T15:07:26Z",
+  "generated_at": "2026-06-07T16:48:59Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Israel strikes Beirut suburb days after US-brokered truce",
+      "url": "https://www.bbc.com/news/articles/c0qyevk8139o?at_medium=RSS&at_campaign=rss",
+      "summary": "Israel says the attacks on the Lebanese capital were ordered \"in response to Hezbollah's firing at Israeli territory\".",
+      "published_at": "2026-06-07T16:42:18Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "One dead, five injured after shooting in Israel",
+      "url": "https://www.bbc.com/news/articles/cpwe8e80weyo?at_medium=RSS&at_campaign=rss",
+      "summary": "The suspect opened fire from a car in several locations before being shot dead.",
+      "published_at": "2026-06-07T15:40:49Z",
+      "country_code": "IL",
+      "country_name": "Israel"
+    },
     {
       "source": "BBC World",
       "title": "Iran's World Cup team lands in Mexico amid US visa row",
@@ -110,7 +128,7 @@
       "country_name": "France"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "US and Iran exchange strikes in Gulf in latest test of ceasefire",
       "url": "https://www.bbc.com/news/articles/cvgzgyjk2weo?at_medium=RSS&at_campaign=rss",
       "summary": "The US military strikes Iranian drones and radar sites and Tehran says it has targeted US bases in Kuwait and Bahrain.",
@@ -306,15 +324,6 @@
       "published_at": "2026-06-05T03:19:44Z",
       "country_code": "JP",
       "country_name": "Japan"
-    },
-    {
-      "source": "BBC Middle East",
-      "title": "Hezbollah rejects renewed ceasefire agreed by Israel and Lebanon",
-      "url": "https://www.bbc.com/news/articles/c052343r812o?at_medium=RSS&at_campaign=rss",
-      "summary": "The United States announced the ceasefire agreement on Wednesday night following a fresh round of talks.",
-      "published_at": "2026-06-05T01:44:16Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC Asia",
@@ -882,27 +891,18 @@
       "published_at": "2026-05-19T18:05:26Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC Middle East",
-      "title": "'This may be the last time you hear my voice': Political executions surge in Iran since start of war",
-      "url": "https://www.bbc.com/news/articles/cn8p392nl7yo?at_medium=RSS&at_campaign=rss",
-      "summary": "Since the US and Israel attacked Iran on 28 February, the UN says it’s verified the execution of at least 32 political prisoners.",
-      "published_at": "2026-05-17T23:02:56Z",
-      "country_code": "US",
-      "country_name": "United States"
     }
   ],
   "regions": [
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 42
+      "news_count": 41
     },
     {
       "country_code": "IL",
       "country_name": "Israel",
-      "news_count": 5
+      "news_count": 6
     },
     {
       "country_code": "IR",
