@@ -1,14 +1,50 @@
 {
-  "generated_at": "2026-06-08T06:27:27Z",
+  "generated_at": "2026-06-08T11:23:58Z",
   "articles": [
     {
       "source": "BBC World",
-      "title": "Tech stocks plunge in Asia after record rally and renewed Middle East attacks",
-      "url": "https://www.bbc.com/news/articles/c78yd5g9qx0o?at_medium=RSS&at_campaign=rss",
-      "summary": "Markets in South Korea and Japan slid after a rally in tech stocks in recent weeks.",
-      "published_at": "2026-06-08T06:26:48Z",
+      "title": "Malawians repatriated from South Africa amid xenophobia concerns",
+      "url": "https://www.bbc.com/news/articles/cnv9dz3reego?at_medium=RSS&at_campaign=rss",
+      "summary": "Malawi is among several African nations transporting their citizens out of the country following reports of violence against migrants.",
+      "published_at": "2026-06-08T11:19:58Z",
+      "country_code": "ZA",
+      "country_name": "South Africa"
+    },
+    {
+      "source": "BBC World",
+      "title": "At least 32 dead after major earthquake strikes southern Philippines",
+      "url": "https://www.bbc.com/news/articles/clyel78e6p5o?at_medium=RSS&at_campaign=rss",
+      "summary": "The magnitude-7.8 quake triggered small tsunami waves in the Philippines, Indonesia and Japan.",
+      "published_at": "2026-06-08T11:10:07Z",
       "country_code": "JP",
       "country_name": "Japan"
+    },
+    {
+      "source": "BBC World",
+      "title": "Stock markets fall on tech plunge and renewed Middle East attacks",
+      "url": "https://www.bbc.com/news/articles/c78yd5g9qx0o?at_medium=RSS&at_campaign=rss",
+      "summary": "Markets in Europe and Asia were hit by a tech sell-off, and oil rises as Iran and Israel launch attacks at each other",
+      "published_at": "2026-06-08T09:27:46Z",
+      "country_code": "IL",
+      "country_name": "Israel"
+    },
+    {
+      "source": "BBC World",
+      "title": "Peru election result close as vote counting continues",
+      "url": "https://www.bbc.com/news/articles/cewq151pw78o?at_medium=RSS&at_campaign=rss",
+      "summary": "The race between right-wing Keiko Fujimori and left-wing Roberto Sánchez has been dominated by concerns over crime and political instability…",
+      "published_at": "2026-06-08T08:48:37Z",
+      "country_code": "PE",
+      "country_name": "Peru"
+    },
+    {
+      "source": "BBC World",
+      "title": "Friendship or leverage: Why is Xi Jinping in North Korea?",
+      "url": "https://www.bbc.com/news/articles/cdep497r256o?at_medium=RSS&at_campaign=rss",
+      "summary": "Beijing is trying to reassert influence over a strategically vital yet deeply unpredictable partner.",
+      "published_at": "2026-06-08T07:55:29Z",
+      "country_code": "CN",
+      "country_name": "China"
     },
     {
       "source": "BBC World",
@@ -36,15 +72,6 @@
       "published_at": "2026-06-07T23:00:27Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "Friendship or leverage: Why is Xi Jinping going to North Korea?",
-      "url": "https://www.bbc.com/news/articles/cdep497r256o?at_medium=RSS&at_campaign=rss",
-      "summary": "Beijing is trying to reassert influence over a strategically vital yet deeply unpredictable partner.",
-      "published_at": "2026-06-07T22:02:31Z",
-      "country_code": "CN",
-      "country_name": "China"
     },
     {
       "source": "BBC World",
@@ -137,7 +164,7 @@
       "country_name": "Mexico"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Middle East",
       "title": "One dead, five injured after shooting in Israel",
       "url": "https://www.bbc.com/news/articles/cpwe8e80weyo?at_medium=RSS&at_campaign=rss",
       "summary": "The suspect opened fire from a car in several locations before being shot dead.",
@@ -236,7 +263,7 @@
       "country_name": "France"
     },
     {
-      "source": "BBC US & Canada",
+      "source": "BBC Middle East",
       "title": "US and Iran exchange strikes in Gulf in latest test of ceasefire",
       "url": "https://www.bbc.com/news/articles/cvgzgyjk2weo?at_medium=RSS&at_campaign=rss",
       "summary": "The US military strikes Iranian drones and radar sites and Tehran says it has targeted US bases in Kuwait and Bahrain.",
@@ -497,15 +524,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC US & Canada",
-      "title": "He was a reality show villain. Can he be the mayor of one of America's largest cities?",
-      "url": "https://www.bbc.com/news/articles/c775x852rk1o?at_medium=RSS&at_campaign=rss",
-      "summary": "Republican Spencer Pratt, known for his TV role on The Hills, appears to be in a tight race with two Democrats in Los Angeles.",
-      "published_at": "2026-06-03T13:04:26Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC Africa",
       "title": "Two people shot dead amid Kenya protests against US Ebola quarantine centre plan",
       "url": "https://www.bbc.com/news/articles/cvgz7zny3pzo?at_medium=RSS&at_campaign=rss",
@@ -522,6 +540,15 @@
       "published_at": "2026-06-03T05:13:02Z",
       "country_code": "NG",
       "country_name": "Nigeria"
+    },
+    {
+      "source": "BBC Asia",
+      "title": "Indonesia's Prabowo fires head of free meals scheme plagued by poisonings",
+      "url": "https://www.bbc.com/news/articles/cgjp369eqzgo?at_medium=RSS&at_campaign=rss",
+      "summary": "The centrepiece programme of Prabowo's government has left tens of thousands of school children ill.",
+      "published_at": "2026-06-03T03:49:53Z",
+      "country_code": "ID",
+      "country_name": "Indonesia"
     },
     {
       "source": "BBC Latin America",
@@ -821,15 +848,6 @@
       "country_name": "Saudi Arabia"
     },
     {
-      "source": "BBC Africa",
-      "title": "Morocco wants tourists to visit Western Sahara. Some say it's tightening its control",
-      "url": "https://www.bbc.com/news/articles/cvgldqk4w95o?at_medium=RSS&at_campaign=rss",
-      "summary": "The Moroccan government wants more Western holidaymakers to visit the territory it claims to own.",
-      "published_at": "2026-05-24T23:13:50Z",
-      "country_code": "MA",
-      "country_name": "Morocco"
-    },
-    {
       "source": "BBC Middle East",
       "title": "I survived a missile strike in the Strait of Hormuz, but my friend has not been found",
       "url": "https://www.bbc.com/news/articles/ce8pn63q771o?at_medium=RSS&at_campaign=rss",
@@ -924,12 +942,12 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 40
+      "news_count": 39
     },
     {
       "country_code": "IL",
       "country_name": "Israel",
-      "news_count": 6
+      "news_count": 7
     },
     {
       "country_code": "FR",
@@ -949,6 +967,11 @@
     {
       "country_code": "ES",
       "country_name": "Spain",
+      "news_count": 4
+    },
+    {
+      "country_code": "ZA",
+      "country_name": "South Africa",
       "news_count": 4
     },
     {
@@ -977,11 +1000,6 @@
       "news_count": 3
     },
     {
-      "country_code": "ZA",
-      "country_name": "South Africa",
-      "news_count": 3
-    },
-    {
       "country_code": "AU",
       "country_name": "Australia",
       "news_count": 2
@@ -992,8 +1010,8 @@
       "news_count": 2
     },
     {
-      "country_code": "MA",
-      "country_name": "Morocco",
+      "country_code": "PE",
+      "country_name": "Peru",
       "news_count": 2
     },
     {
@@ -1022,18 +1040,23 @@
       "news_count": 1
     },
     {
+      "country_code": "ID",
+      "country_name": "Indonesia",
+      "news_count": 1
+    },
+    {
       "country_code": "IQ",
       "country_name": "Iraq",
       "news_count": 1
     },
     {
-      "country_code": "NO",
-      "country_name": "Norway",
+      "country_code": "MA",
+      "country_name": "Morocco",
       "news_count": 1
     },
     {
-      "country_code": "PE",
-      "country_name": "Peru",
+      "country_code": "NO",
+      "country_name": "Norway",
       "news_count": 1
     },
     {
