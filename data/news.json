@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-06-08T01:37:41Z",
+  "generated_at": "2026-06-08T06:27:27Z",
   "articles": [
     {
       "source": "BBC World",
-      "title": "Oil prices edge higher after strikes on Israel test ceasefire",
+      "title": "Tech stocks plunge in Asia after record rally and renewed Middle East attacks",
       "url": "https://www.bbc.com/news/articles/c78yd5g9qx0o?at_medium=RSS&at_campaign=rss",
-      "summary": "Iran said the attacks, its first since an April ceasefire, are the start of \"a full week\" of strikes",
-      "published_at": "2026-06-08T00:49:10Z",
-      "country_code": "IL",
-      "country_name": "Israel"
+      "summary": "Markets in South Korea and Japan slid after a rally in tech stocks in recent weeks.",
+      "published_at": "2026-06-08T06:26:48Z",
+      "country_code": "JP",
+      "country_name": "Japan"
     },
     {
       "source": "BBC World",
@@ -74,7 +74,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Middle East",
       "title": "Israel strikes Beirut suburb days after US-brokered truce",
       "url": "https://www.bbc.com/news/articles/c0qyevk8139o?at_medium=RSS&at_campaign=rss",
       "summary": "Israel says the attacks on the Lebanese capital were ordered \"in response to Hezbollah's firing at Israeli territory\".",
@@ -110,7 +110,7 @@
       "country_name": "Mexico"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "Last-minute visas and moving training camp: Iran's road to the World Cup",
       "url": "https://www.bbc.com/news/articles/cgmpmp89dvro?at_medium=RSS&at_campaign=rss",
       "summary": "Iran's participation has become one of the most complex stories of the tournament.",
@@ -263,7 +263,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Africa",
       "title": "The cash-in-the-sofa saga that just won't go away for South Africa's president",
       "url": "https://www.bbc.com/news/articles/cy429dv9kk0o?at_medium=RSS&at_campaign=rss",
       "summary": "A committee of MPs has been formed to look at the case against Cyril Ramaphosa, but he may survive a vote.",
@@ -378,15 +378,6 @@
       "published_at": "2026-06-05T05:17:13Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC Asia",
-      "title": "China cracks down on soft porn, violence and materialism in viral micro dramas",
-      "url": "https://www.bbc.com/news/articles/clypy34pj6yo?at_medium=RSS&at_campaign=rss",
-      "summary": "Micro dramas have surged in popularity, but drawn criticism for often sensationalist content.",
-      "published_at": "2026-06-05T05:16:54Z",
-      "country_code": "CN",
-      "country_name": "China"
     },
     {
       "source": "BBC Asia",
@@ -938,7 +929,7 @@
     {
       "country_code": "IL",
       "country_name": "Israel",
-      "news_count": 7
+      "news_count": 6
     },
     {
       "country_code": "FR",
@@ -966,13 +957,13 @@
       "news_count": 3
     },
     {
-      "country_code": "CN",
-      "country_name": "China",
+      "country_code": "IN",
+      "country_name": "India",
       "news_count": 3
     },
     {
-      "country_code": "IN",
-      "country_name": "India",
+      "country_code": "JP",
+      "country_name": "Japan",
       "news_count": 3
     },
     {
@@ -996,8 +987,8 @@
       "news_count": 2
     },
     {
-      "country_code": "JP",
-      "country_name": "Japan",
+      "country_code": "CN",
+      "country_name": "China",
       "news_count": 2
     },
     {
