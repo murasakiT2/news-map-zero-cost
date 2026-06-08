@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-06-07T23:00:44Z",
+  "generated_at": "2026-06-08T01:37:41Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Oil prices edge higher after strikes on Israel test ceasefire",
+      "url": "https://www.bbc.com/news/articles/c78yd5g9qx0o?at_medium=RSS&at_campaign=rss",
+      "summary": "Iran said the attacks, its first since an April ceasefire, are the start of \"a full week\" of strikes",
+      "published_at": "2026-06-08T00:49:10Z",
+      "country_code": "IL",
+      "country_name": "Israel"
+    },
+    {
+      "source": "BBC World",
+      "title": "'No dead ends': What the Dutch can teach us about tackling youth unemployment",
+      "url": "https://www.bbc.com/news/articles/cnvpn253re4o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Netherlands has one of the world's lowest rates of 16 to 24-year-olds not in education, employment or training.",
+      "published_at": "2026-06-07T23:03:23Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Spain's visitor numbers hit new highs as tourists avoid Middle East",
+      "url": "https://www.bbc.com/news/articles/c4gvndd2qelo?at_medium=RSS&at_campaign=rss",
+      "summary": "The European country had 9.1 million international visitors in April, the most ever for that month.",
+      "published_at": "2026-06-07T23:01:04Z",
+      "country_code": "ES",
+      "country_name": "Spain"
+    },
+    {
+      "source": "BBC World",
+      "title": "'A World Cup for them not us': Fans' anger at US travel bans and visa restrictions",
+      "url": "https://www.bbc.com/news/articles/cx212p8r28eo?at_medium=RSS&at_campaign=rss",
+      "summary": "Fans across the world say US travel bans and visa regulations make them feel excluded from the World Cup.",
+      "published_at": "2026-06-07T23:00:27Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "Friendship or leverage: Why is Xi Jinping going to North Korea?",
@@ -9,6 +45,15 @@
       "published_at": "2026-06-07T22:02:31Z",
       "country_code": "CN",
       "country_name": "China"
+    },
+    {
+      "source": "BBC World",
+      "title": "'We don't look at the sky anymore': The Air India crash victims who were not on the plane",
+      "url": "https://www.bbc.com/news/articles/cwy2y9n11pyo?at_medium=RSS&at_campaign=rss",
+      "summary": "A grandfather, a survivor, a witness: one year after the crash, the people on the ground tell their stories.",
+      "published_at": "2026-06-07T22:01:06Z",
+      "country_code": "IN",
+      "country_name": "India"
     },
     {
       "source": "BBC Africa",
@@ -119,7 +164,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "Huge crowds throng Madrid streets for Pope's open-air Mass",
       "url": "https://www.bbc.com/news/articles/c4gyejvzx9eo?at_medium=RSS&at_campaign=rss",
       "summary": "The pontiff waved at those gathered from his popemobile as he arrived at the Plaza de Cibeles.",
@@ -182,7 +227,7 @@
       "country_name": "Sweden"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "Giant banquets rile radical left in France",
       "url": "https://www.bbc.com/news/articles/c78q215vyd7o?at_medium=RSS&at_campaign=rss",
       "summary": "The feasting phenomenon run by Le Canon Français has become a hot political issue.",
@@ -470,15 +515,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Asia",
-      "title": "Foreign nationals among at least 21 killed in Delhi fire",
-      "url": "https://www.bbc.com/news/articles/czd29327qzvo?at_medium=RSS&at_campaign=rss",
-      "summary": "Many victims were South Asians who had travelled to India for treatment or to accompany relatives.",
-      "published_at": "2026-06-03T11:54:25Z",
-      "country_code": "IN",
-      "country_name": "India"
-    },
-    {
       "source": "BBC Africa",
       "title": "Two people shot dead amid Kenya protests against US Ebola quarantine centre plan",
       "url": "https://www.bbc.com/news/articles/cvgz7zny3pzo?at_medium=RSS&at_campaign=rss",
@@ -504,15 +540,6 @@
       "published_at": "2026-06-03T01:40:44Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC Asia",
-      "title": "Watch: Man attacked by bear at steel works in Japan",
-      "url": "https://www.bbc.com/news/videos/cm2pjed56j3o?at_medium=RSS&at_campaign=rss",
-      "summary": "The bear, which injured four people in the attack on Tuesday, remains on the loose within the factory compound.",
-      "published_at": "2026-06-03T01:13:45Z",
-      "country_code": "JP",
-      "country_name": "Japan"
     },
     {
       "source": "BBC Middle East",
@@ -639,15 +666,6 @@
       "published_at": "2026-06-01T12:03:24Z",
       "country_code": "EG",
       "country_name": "Egypt"
-    },
-    {
-      "source": "BBC Asia",
-      "title": "Watch: Glass doors break as fans scramble to see Pursuit of Jade star",
-      "url": "https://www.bbc.com/news/videos/cr7pye93n1ro?at_medium=RSS&at_campaign=rss",
-      "summary": "Huge crowds formed outside a shopping centre in China to see actor Zhang Linghe.",
-      "published_at": "2026-06-01T11:34:19Z",
-      "country_code": "CN",
-      "country_name": "China"
     },
     {
       "source": "BBC Middle East",
@@ -915,12 +933,12 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 38
+      "news_count": 40
     },
     {
       "country_code": "IL",
       "country_name": "Israel",
-      "news_count": 6
+      "news_count": 7
     },
     {
       "country_code": "FR",
@@ -938,8 +956,8 @@
       "news_count": 5
     },
     {
-      "country_code": "CN",
-      "country_name": "China",
+      "country_code": "ES",
+      "country_name": "Spain",
       "news_count": 4
     },
     {
@@ -948,18 +966,13 @@
       "news_count": 3
     },
     {
-      "country_code": "ES",
-      "country_name": "Spain",
+      "country_code": "CN",
+      "country_name": "China",
       "news_count": 3
     },
     {
       "country_code": "IN",
       "country_name": "India",
-      "news_count": 3
-    },
-    {
-      "country_code": "JP",
-      "country_name": "Japan",
       "news_count": 3
     },
     {
@@ -980,6 +993,11 @@
     {
       "country_code": "AU",
       "country_name": "Australia",
+      "news_count": 2
+    },
+    {
+      "country_code": "JP",
+      "country_name": "Japan",
       "news_count": 2
     },
     {
