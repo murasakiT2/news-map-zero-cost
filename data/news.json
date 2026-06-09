@@ -1,12 +1,30 @@
 {
-  "generated_at": "2026-06-09T19:32:36Z",
+  "generated_at": "2026-06-09T21:29:24Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "UK and allies sanction 'networks' enabling settler violence in West Bank",
+      "url": "https://www.bbc.com/news/articles/cddl4dl9m3po?at_medium=RSS&at_campaign=rss",
+      "summary": "France will also bar far-right Israeli Minister Bezalel Smotrich from entry as part of the measures, which Israel condemns as \"disgraceful\".",
+      "published_at": "2026-06-09T20:38:55Z",
+      "country_code": "GB",
+      "country_name": "United Kingdom"
+    },
     {
       "source": "BBC World",
       "title": "Trump says Iran shot down US helicopter and vows to respond",
       "url": "https://www.bbc.com/news/articles/cze9359gglyo?at_medium=RSS&at_campaign=rss",
       "summary": "Two crew members of the Apache helicopter that crashed following the attack were rescued by an American sea drone.",
-      "published_at": "2026-06-09T19:23:28Z",
+      "published_at": "2026-06-09T20:24:01Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Bowen: Trump and Netanyahu wanted to reshape the Middle East - now they risk a permacrisis",
+      "url": "https://www.bbc.com/news/articles/cjdgl548x3eo?at_medium=RSS&at_campaign=rss",
+      "summary": "The US and Israeli leaders have lost control of the consequences after miscalculating the Iran war.",
+      "published_at": "2026-06-09T20:14:12Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -308,7 +326,7 @@
       "country_name": "Spain"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "Friendship or leverage: Why is Xi Jinping in North Korea?",
       "url": "https://www.bbc.com/news/articles/cdep497r256o?at_medium=RSS&at_campaign=rss",
       "summary": "Beijing is trying to reassert influence over a strategically vital yet deeply unpredictable partner.",
@@ -362,7 +380,7 @@
       "country_name": "Spain"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Africa",
       "title": "'A World Cup for them not us': Fans' anger at US travel bans and visa restrictions",
       "url": "https://www.bbc.com/news/articles/cx212p8r28eo?at_medium=RSS&at_campaign=rss",
       "summary": "Fans across the world say US travel bans and visa regulations make them feel excluded from the World Cup.",
@@ -371,7 +389,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "'We don't look at the sky any more': The Air India crash victims who were not on the plane",
       "url": "https://www.bbc.com/news/articles/cwy2y9n11pyo?at_medium=RSS&at_campaign=rss",
       "summary": "A grandfather, a survivor, a witness: one year after the crash, the people on the ground tell their stories.",
@@ -794,24 +812,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Middle East",
-      "title": "How Saudi Arabia's spending spree reached the end of the line",
-      "url": "https://www.bbc.com/news/articles/cx21g0828reo?at_medium=RSS&at_campaign=rss",
-      "summary": "MBS's Vison 2030 project seemed the stuff of science fiction. Now reality has bitten",
-      "published_at": "2026-05-25T01:08:39Z",
-      "country_code": "SA",
-      "country_name": "Saudi Arabia"
-    },
-    {
-      "source": "BBC Middle East",
-      "title": "I survived a missile strike in the Strait of Hormuz, but my friend has not been found",
-      "url": "https://www.bbc.com/news/articles/ce8pn63q771o?at_medium=RSS&at_campaign=rss",
-      "summary": "Sunil Puniya was on his first sea job when a missile struck the oil tanker Skylight at the start of the Iran war.",
-      "published_at": "2026-05-23T23:24:03Z",
-      "country_code": "IR",
-      "country_name": "Iran"
-    },
-    {
       "source": "BBC Latin America",
       "title": "Pitches, PlayStations and protein ice cream - A look inside Brazil's World Cup base camp",
       "url": "https://www.bbc.com/news/videos/c2l2rgeyjnwo?at_medium=RSS&at_campaign=rss",
@@ -888,7 +888,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 40
+      "news_count": 41
     },
     {
       "country_code": "IL",
@@ -899,11 +899,6 @@
       "country_code": "FR",
       "country_name": "France",
       "news_count": 6
-    },
-    {
-      "country_code": "IR",
-      "country_name": "Iran",
-      "news_count": 4
     },
     {
       "country_code": "UA",
@@ -921,6 +916,11 @@
       "news_count": 3
     },
     {
+      "country_code": "IR",
+      "country_name": "Iran",
+      "news_count": 3
+    },
+    {
       "country_code": "RU",
       "country_name": "Russia",
       "news_count": 3
@@ -928,6 +928,11 @@
     {
       "country_code": "CN",
       "country_name": "China",
+      "news_count": 2
+    },
+    {
+      "country_code": "GB",
+      "country_name": "United Kingdom",
       "news_count": 2
     },
     {
@@ -986,11 +991,6 @@
       "news_count": 1
     },
     {
-      "country_code": "GB",
-      "country_name": "United Kingdom",
-      "news_count": 1
-    },
-    {
       "country_code": "ID",
       "country_name": "Indonesia",
       "news_count": 1
@@ -1018,11 +1018,6 @@
     {
       "country_code": "PS",
       "country_name": "Palestine",
-      "news_count": 1
-    },
-    {
-      "country_code": "SA",
-      "country_name": "Saudi Arabia",
       "news_count": 1
     },
     {
