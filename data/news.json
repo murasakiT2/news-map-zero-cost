@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-06-10T19:08:09Z",
+  "generated_at": "2026-06-10T21:32:27Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Watch: Thousands fill Barcelona streets for Pope Leo visit",
+      "url": "https://www.bbc.com/news/videos/ce95gmdlp98o?at_medium=RSS&at_campaign=rss",
+      "summary": "Pope Leo XIV visited Barcelona's iconic Sagrada Família basilica as part of his week-long visit to Spain.",
+      "published_at": "2026-06-10T21:13:07Z",
+      "country_code": "ES",
+      "country_name": "Spain"
+    },
     {
       "source": "BBC US & Canada",
       "title": "Trump says he 'loves the inflation' as US prices rise at fastest rate in three years",
@@ -191,7 +200,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "Does referee case show Fifa has lost control of its own World Cup?",
       "url": "https://www.bbc.com/sport/football/articles/clyr6drdl79o?at_medium=RSS&at_campaign=rss",
       "summary": "With referee Omar Artan denied entry to the United States and worries over staff and supporters being turned back, what does this tell us ab…",
@@ -860,6 +869,11 @@
       "news_count": 5
     },
     {
+      "country_code": "ES",
+      "country_name": "Spain",
+      "news_count": 4
+    },
+    {
       "country_code": "FR",
       "country_name": "France",
       "news_count": 4
@@ -878,11 +892,6 @@
       "country_code": "UA",
       "country_name": "Ukraine",
       "news_count": 4
-    },
-    {
-      "country_code": "ES",
-      "country_name": "Spain",
-      "news_count": 3
     },
     {
       "country_code": "GB",
