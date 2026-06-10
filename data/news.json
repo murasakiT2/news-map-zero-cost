@@ -1,20 +1,38 @@
 {
-  "generated_at": "2026-06-10T21:32:27Z",
+  "generated_at": "2026-06-10T23:17:56Z",
   "articles": [
     {
+      "source": "BBC US & Canada",
+      "title": "US launches new strikes on Iran after Trump vows to 'hit them hard'",
+      "url": "https://www.bbc.com/news/articles/c4gyp9v0e93o?at_medium=RSS&at_campaign=rss",
+      "summary": "US Central Comand said its latest airstrikes were responding to \"unwarranted and continued aggression\" from Iran.",
+      "published_at": "2026-06-10T22:59:35Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
       "source": "BBC World",
-      "title": "Watch: Thousands fill Barcelona streets for Pope Leo visit",
+      "title": "Fireworks illuminate Barcelona's Sagrada Família during Pope visit",
       "url": "https://www.bbc.com/news/videos/ce95gmdlp98o?at_medium=RSS&at_campaign=rss",
-      "summary": "Pope Leo XIV visited Barcelona's iconic Sagrada Família basilica as part of his week-long visit to Spain.",
-      "published_at": "2026-06-10T21:13:07Z",
+      "summary": "Pope Leo XIV says Barcelona's iconic Sagrada Família is a masterpiece of \"stones, colours and light\" during his visit to Spain.",
+      "published_at": "2026-06-10T21:52:09Z",
       "country_code": "ES",
       "country_name": "Spain"
+    },
+    {
+      "source": "BBC World",
+      "title": "Trump says US will hit Iran 'hard' again today",
+      "url": "https://www.bbc.com/news/articles/ce371kw2ex2o?at_medium=RSS&at_campaign=rss",
+      "summary": "The US president warns Iran \"will have to pay the price\" for taking too long to agree a deal, after Tehran vows retaliation to any attacks.",
+      "published_at": "2026-06-10T21:49:57Z",
+      "country_code": "US",
+      "country_name": "United States"
     },
     {
       "source": "BBC US & Canada",
       "title": "Trump says he 'loves the inflation' as US prices rise at fastest rate in three years",
       "url": "https://www.bbc.com/news/articles/c0myzxjkw99o?at_medium=RSS&at_campaign=rss",
-      "summary": "Consumers are increasingly feeling the strain of the US Israel war in Iran.",
+      "summary": "Consumers are increasingly feeling the strain of the US-Israel war in Iran.",
       "published_at": "2026-06-10T17:50:06Z",
       "country_code": "US",
       "country_name": "United States"
@@ -25,15 +43,6 @@
       "url": "https://www.bbc.com/news/articles/c0rygjw1kqxo?at_medium=RSS&at_campaign=rss",
       "summary": "India's government said three Indian sailors were missing and 21 crew had been rescued after the hit on the Settebello off the coast of Oman…",
       "published_at": "2026-06-10T17:48:54Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "Trump says US will hit Iran 'hard' again today",
-      "url": "https://www.bbc.com/news/articles/ce371kw2ex2o?at_medium=RSS&at_campaign=rss",
-      "summary": "The US president warns Iran \"will have to pay the price\" for taking too long to agree a deal, after Tehran vows retaliation to any attacks.",
-      "published_at": "2026-06-10T17:33:22Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -861,7 +870,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 41
+      "news_count": 42
     },
     {
       "country_code": "IL",
