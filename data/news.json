@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-06-11T01:44:26Z",
+  "generated_at": "2026-06-11T06:39:27Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "US and Iran exchange strikes across Middle East for second day in a row",
+      "url": "https://www.bbc.com/news/articles/c4gyp9v0e93o?at_medium=RSS&at_campaign=rss",
+      "summary": "The US carries out strikes on military targets in southern Iran. Tehran responds by targeting US military assets in Kuwait, Bahrain and Jord…",
+      "published_at": "2026-06-11T05:15:45Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC Asia",
       "title": "Thousands march in Pakistan-administered Kashmir as clashes kill at least 15",
@@ -9,15 +18,6 @@
       "published_at": "2026-06-11T00:55:52Z",
       "country_code": "PK",
       "country_name": "Pakistan"
-    },
-    {
-      "source": "BBC World",
-      "title": "Iran says it struck ships in Strait of Hormuz after US launches new strikes",
-      "url": "https://www.bbc.com/news/articles/c4gyp9v0e93o?at_medium=RSS&at_campaign=rss",
-      "summary": "US Central Command said its latest airstrikes were responding to \"unwarranted and continued aggression\" from Iran.",
-      "published_at": "2026-06-11T00:51:36Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC World",
@@ -32,7 +32,7 @@
       "source": "BBC World",
       "title": "Watch: Historic US-Canada border library gets new Quebec-only entrance",
       "url": "https://www.bbc.com/news/videos/clyrvrde160o?at_medium=RSS&at_campaign=rss",
-      "summary": "The Trump administration in 2025 paused the use of the famous Haskell Library's main entrance on the US side, which had been used by both co…",
+      "summary": "After more than a centaury of sharing the main entrance, Canadians were barred from using the library's US-side door by the Trump administra…",
       "published_at": "2026-06-10T23:54:51Z",
       "country_code": "US",
       "country_name": "United States"
@@ -41,7 +41,7 @@
       "source": "BBC US & Canada",
       "title": "Canada proposes teen social media ban - with workaround for tech firms",
       "url": "https://www.bbc.com/news/articles/c872x47gnyjo?at_medium=RSS&at_campaign=rss",
-      "summary": "The bill includes sweeping measures to curtail \"harmful content\" online and would create a regulator.",
+      "summary": "The bill includes a new regulator and sweeping measures to curtail \"harmful content\" online.",
       "published_at": "2026-06-10T23:12:52Z",
       "country_code": "CA",
       "country_name": "Canada"
@@ -65,19 +65,10 @@
       "country_name": "Spain"
     },
     {
-      "source": "BBC Middle East",
-      "title": "Trump says US will hit Iran 'hard' again today",
-      "url": "https://www.bbc.com/news/articles/ce371kw2ex2o?at_medium=RSS&at_campaign=rss",
-      "summary": "The US president warns Iran \"will have to pay the price\" for taking too long to agree a deal, after Tehran vows retaliation to any attacks.",
-      "published_at": "2026-06-10T21:49:57Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC World",
       "title": "Three Indian sailors missing after US says it hit tanker in Gulf of Oman",
       "url": "https://www.bbc.com/news/articles/c0rygjw1kqxo?at_medium=RSS&at_campaign=rss",
-      "summary": "India's government said three Indian sailors were missing and 21 crew had been rescued after the hit on the Settebello off the coast of Oman…",
+      "summary": "India's government said 21 crew had been rescued after the hit on the Settebello off the coast of Oman.",
       "published_at": "2026-06-10T17:48:54Z",
       "country_code": "US",
       "country_name": "United States"
@@ -335,15 +326,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Asia",
-      "title": "Hundreds of aftershocks jolt Philippines as officials say death toll could rise",
-      "url": "https://www.bbc.com/news/articles/ckg50pypn2eo?at_medium=RSS&at_campaign=rss",
-      "summary": "Dozens of people are dead and hundreds more injured following an earthquake in the country's south.",
-      "published_at": "2026-06-09T07:36:15Z",
-      "country_code": "PH",
-      "country_name": "Philippines"
-    },
-    {
       "source": "BBC Africa",
       "title": "He told us we were slaves - The fight for justice on a Scottish fishing trawler",
       "url": "https://www.bbc.com/news/articles/cvg7d83nl7no?at_medium=RSS&at_campaign=rss",
@@ -450,15 +432,6 @@
       "published_at": "2026-06-07T23:00:27Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC Asia",
-      "title": "'We don't look at the sky any more': The Air India crash victims who were not on the plane",
-      "url": "https://www.bbc.com/news/articles/cwy2y9n11pyo?at_medium=RSS&at_campaign=rss",
-      "summary": "A grandfather, a survivor, a witness: one year after the crash, the people on the ground tell their stories.",
-      "published_at": "2026-06-07T22:01:06Z",
-      "country_code": "IN",
-      "country_name": "India"
     },
     {
       "source": "BBC Europe",
@@ -888,16 +861,11 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 42
+      "news_count": 41
     },
     {
       "country_code": "IL",
       "country_name": "Israel",
-      "news_count": 5
-    },
-    {
-      "country_code": "IN",
-      "country_name": "India",
       "news_count": 5
     },
     {
@@ -908,6 +876,11 @@
     {
       "country_code": "FR",
       "country_name": "France",
+      "news_count": 4
+    },
+    {
+      "country_code": "IN",
+      "country_name": "India",
       "news_count": 4
     },
     {
@@ -1003,11 +976,6 @@
     {
       "country_code": "PE",
       "country_name": "Peru",
-      "news_count": 1
-    },
-    {
-      "country_code": "PH",
-      "country_name": "Philippines",
       "news_count": 1
     },
     {
