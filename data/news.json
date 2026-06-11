@@ -1,12 +1,21 @@
 {
-  "generated_at": "2026-06-11T11:16:55Z",
+  "generated_at": "2026-06-11T15:00:50Z",
   "articles": [
     {
       "source": "BBC World",
-      "title": "Vance says Israeli PM Netanyahu 'has got some things wrong'",
-      "url": "https://www.bbc.com/news/articles/c9q2lq3vv7zo?at_medium=RSS&at_campaign=rss",
-      "summary": "The US vice-president says the Israeli leader \"aggressively asserts\" his country's interests, but they do not always align with those of the…",
-      "published_at": "2026-06-11T10:26:59Z",
+      "title": "El Niño under way and threatens weather extremes, scientists say",
+      "url": "https://www.bbc.com/news/articles/c75ylx7g00xo?at_medium=RSS&at_campaign=rss",
+      "summary": "An El Niño event has officially started, say US scientists, raising fears of extreme weather and higher temperatures.",
+      "published_at": "2026-06-11T13:26:24Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC Asia",
+      "title": "Three Indian sailors killed in US strike on oil tanker",
+      "url": "https://www.bbc.com/news/articles/cy73dr081p8o?at_medium=RSS&at_campaign=rss",
+      "summary": "The US military had attacked the Palau-flagged tanker on Wednesday after accusing it of not complying with directions.",
+      "published_at": "2026-06-11T12:31:26Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -15,7 +24,34 @@
       "title": "US and Iran exchange strikes across Middle East for second day in a row",
       "url": "https://www.bbc.com/news/articles/c4gyp9v0e93o?at_medium=RSS&at_campaign=rss",
       "summary": "Iran says it responded to US strikes by targeting American assets in Kuwait, Jordan and Bahrain, which reported damage to its capital city o…",
-      "published_at": "2026-06-11T10:07:25Z",
+      "published_at": "2026-06-11T12:09:44Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC Asia",
+      "title": "Thousands march in Pakistan-administered Kashmir as clashes kill at least 15",
+      "url": "https://www.bbc.com/news/articles/cdxdyn5716xo?at_medium=RSS&at_campaign=rss",
+      "summary": "An uneasy silence has blanketed the capital, with empty streets, closed shops and patrolling police.",
+      "published_at": "2026-06-11T11:56:06Z",
+      "country_code": "PK",
+      "country_name": "Pakistan"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "What we know about US sea drone used in helicopter crew rescue mission",
+      "url": "https://www.bbc.com/news/articles/cx2xvnd5eqwo?at_medium=RSS&at_campaign=rss",
+      "summary": "BBC Verify examines what we know about the drone boat and how the mission took place.",
+      "published_at": "2026-06-11T11:12:44Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Vance says Israeli PM Netanyahu 'has got some things wrong'",
+      "url": "https://www.bbc.com/news/articles/c9q2lq3vv7zo?at_medium=RSS&at_campaign=rss",
+      "summary": "The US vice-president says the Israeli leader \"aggressively asserts\" his country's interests, but they do not always align with those of the…",
+      "published_at": "2026-06-11T10:26:59Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -47,13 +83,13 @@
       "country_name": "United Kingdom"
     },
     {
-      "source": "BBC Asia",
-      "title": "Three Indian sailors killed in US strike on oil tanker",
-      "url": "https://www.bbc.com/news/articles/cy73dr081p8o?at_medium=RSS&at_campaign=rss",
-      "summary": "The US military had attacked the Palau-flagged tanker on Wednesday after accusing it of not complying with directions.",
-      "published_at": "2026-06-11T08:07:34Z",
-      "country_code": "US",
-      "country_name": "United States"
+      "source": "BBC Latin America",
+      "title": "A sneak peek inside Mexico’s iconic Azteca Stadium before World Cup kickoff",
+      "url": "https://www.bbc.com/news/videos/cvgekz5q06po?at_medium=RSS&at_campaign=rss",
+      "summary": "The BBC's Will Grant got access inside the renovated venue ahead of the first game of the tournament.",
+      "published_at": "2026-06-11T08:08:57Z",
+      "country_code": "MX",
+      "country_name": "Mexico"
     },
     {
       "source": "BBC US & Canada",
@@ -72,15 +108,6 @@
       "published_at": "2026-06-11T06:45:10Z",
       "country_code": "TH",
       "country_name": "Thailand"
-    },
-    {
-      "source": "BBC Asia",
-      "title": "Thousands march in Pakistan-administered Kashmir as clashes kill at least 15",
-      "url": "https://www.bbc.com/news/articles/cdxdyn5716xo?at_medium=RSS&at_campaign=rss",
-      "summary": "An uneasy silence has blanketed the capital, with empty streets, closed shops and patrolling police.",
-      "published_at": "2026-06-11T00:55:52Z",
-      "country_code": "PK",
-      "country_name": "Pakistan"
     },
     {
       "source": "BBC World",
@@ -380,6 +407,15 @@
       "country_name": "Israel"
     },
     {
+      "source": "BBC Latin America",
+      "title": "Peru election result close as vote counting continues",
+      "url": "https://www.bbc.com/news/articles/cewq151pw78o?at_medium=RSS&at_campaign=rss",
+      "summary": "The race between right-wing Keiko Fujimori and left-wing Roberto Sánchez has been dominated by concerns over crime and political instability…",
+      "published_at": "2026-06-09T00:03:38Z",
+      "country_code": "PE",
+      "country_name": "Peru"
+    },
+    {
       "source": "BBC Europe",
       "title": "Russia's fuel crisis intensifies as Ukraine steps up strikes on occupied territories",
       "url": "https://www.bbc.com/news/articles/cn75l36vdd8o?at_medium=RSS&at_campaign=rss",
@@ -396,15 +432,6 @@
       "published_at": "2026-06-08T22:44:28Z",
       "country_code": "IN",
       "country_name": "India"
-    },
-    {
-      "source": "BBC Europe",
-      "title": "Zelensky thanks UK for 'ironclad' support after meeting King",
-      "url": "https://www.bbc.com/news/articles/cy8d9jdvvpyo?at_medium=RSS&at_campaign=rss",
-      "summary": "Following their meeting, Zelensky thanks the UK for its \"ironclad\" support for Ukraine.",
-      "published_at": "2026-06-08T22:41:25Z",
-      "country_code": "GB",
-      "country_name": "United Kingdom"
     },
     {
       "source": "BBC Middle East",
@@ -506,15 +533,6 @@
       "country_name": "Russia"
     },
     {
-      "source": "BBC Latin America",
-      "title": "Insecurity and instability drive voters in Peru's tight presidential race",
-      "url": "https://www.bbc.com/news/articles/c9d21184e7yo?at_medium=RSS&at_campaign=rss",
-      "summary": "After eight presidents in 10 years, many voters are looking for stability so the next president can focus on tackling crime and inequality.",
-      "published_at": "2026-06-06T23:17:43Z",
-      "country_code": "PE",
-      "country_name": "Peru"
-    },
-    {
       "source": "BBC Middle East",
       "title": "Funeral held for baby shot dead by Israeli troops in occupied West Bank",
       "url": "https://www.bbc.com/news/articles/cly8lgn0x30o?at_medium=RSS&at_campaign=rss",
@@ -560,6 +578,15 @@
       "country_name": "South Africa"
     },
     {
+      "source": "BBC Africa",
+      "title": "Fifa World Cup 2026: What you need to know about South Africa",
+      "url": "https://www.bbc.com/sport/football/articles/cj0p6n8r9q2o?at_medium=RSS&at_campaign=rss",
+      "summary": "Get the lowdown on every team at the 2026 World Cup. Here we take a closer look at South Africa.",
+      "published_at": "2026-06-05T15:25:26Z",
+      "country_code": "ZA",
+      "country_name": "South Africa"
+    },
+    {
       "source": "BBC Europe",
       "title": "Fury in France after child murder suspect's criminal record released",
       "url": "https://www.bbc.com/news/articles/c1424v7mk8go?at_medium=RSS&at_campaign=rss",
@@ -588,30 +615,12 @@
     },
     {
       "source": "BBC Latin America",
-      "title": "Can the US, Mexico and Canada set aside their differences as they co-host the World Cup?",
-      "url": "https://www.bbc.com/news/articles/cvgz2081y8ko?at_medium=RSS&at_campaign=rss",
-      "summary": "The tournament comes after a period of fractious relations between the US, Canada and Mexico.",
-      "published_at": "2026-06-04T08:46:23Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC Latin America",
       "title": "Delcy Rodríguez visits India: Will oil talks lead to an energy deal?",
       "url": "https://www.bbc.com/news/articles/czx29k97kzlo?at_medium=RSS&at_campaign=rss",
       "summary": "Delcy Rodríguez's India visit highlights Venezuela's growing role in Delhi's oil diversification.",
       "published_at": "2026-06-04T05:28:25Z",
       "country_code": "IN",
       "country_name": "India"
-    },
-    {
-      "source": "BBC Africa",
-      "title": "Shell pumped oil through Nigeria pipeline for years despite pollution evidence, documents show",
-      "url": "https://www.bbc.com/news/articles/cdrp8v7407ro?at_medium=RSS&at_campaign=rss",
-      "summary": "The oil giant says the documents ignore the critical context of the complex operating environment at the time.",
-      "published_at": "2026-06-03T05:13:02Z",
-      "country_code": "NG",
-      "country_name": "Nigeria"
     },
     {
       "source": "BBC Latin America",
@@ -630,15 +639,6 @@
       "published_at": "2026-06-02T23:40:27Z",
       "country_code": "IR",
       "country_name": "Iran"
-    },
-    {
-      "source": "BBC Latin America",
-      "title": "Video shows elaborate drug-smuggling tunnel between US and Mexico",
-      "url": "https://www.bbc.com/news/videos/cyv2dy3e32eo?at_medium=RSS&at_campaign=rss",
-      "summary": "Four people have been arrested and charged with trafficking more than $45 million in cocaine, according to federal officials.",
-      "published_at": "2026-06-02T21:23:11Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC Africa",
@@ -684,15 +684,6 @@
       "published_at": "2026-06-01T05:33:18Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC Africa",
-      "title": "Grammy-winning director explores his Nigerian grandfather's role in the Biafran war",
-      "url": "https://www.bbc.com/news/articles/c8r826465dko?at_medium=RSS&at_campaign=rss",
-      "summary": "Filmmaker Meji Alabi directs a landmark BBC Africa Eye documentary about Nigeria's civil war.",
-      "published_at": "2026-06-01T01:32:07Z",
-      "country_code": "NG",
-      "country_name": "Nigeria"
     },
     {
       "source": "BBC Europe",
@@ -768,46 +759,10 @@
     },
     {
       "source": "BBC Latin America",
-      "title": "Trump is putting pressure on Cuba - why and to what end?",
-      "url": "https://www.bbc.com/news/articles/c5yrkl96xwvo?at_medium=RSS&at_campaign=rss",
-      "summary": "The US has warned that a peaceful agreement with Cuba is unlikely, Havana insists this is a \"fraudulent case\" designed to justify military i…",
-      "published_at": "2026-05-22T18:33:36Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC Latin America",
-      "title": "Cubans grapple with fuel shortages and blackouts as US steps up pressure",
-      "url": "https://www.bbc.com/news/articles/c3e2w43lkvzo?at_medium=RSS&at_campaign=rss",
-      "summary": "The BBC speaks to Havana residents after the US charges the country's former leader, Raúl Castro, with murder.",
-      "published_at": "2026-05-22T09:32:42Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC Latin America",
-      "title": "Will US invade? Three ways Cuba crisis could play out now",
-      "url": "https://www.bbc.com/news/articles/ckgplwg3xk3o?at_medium=RSS&at_campaign=rss",
-      "summary": "The Trump administration has been putting tremendous economic pressure on the island's Communist government.",
-      "published_at": "2026-05-21T18:40:12Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC Latin America",
       "title": "Secret mission to ship uranium from Venezuela",
       "url": "https://www.bbc.com/news/videos/ce8pq5p5l17o?at_medium=RSS&at_campaign=rss",
       "summary": "Satellite images reveal how a joint mission shipped uranium from Venezuela to the US.",
       "published_at": "2026-05-20T10:33:10Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC Africa",
-      "title": "'Ebola has tortured us': Fear grips eastern DR Congo as deadly virus spreads",
-      "url": "https://www.bbc.com/news/articles/cvgzj0pqpyyo?at_medium=RSS&at_campaign=rss",
-      "summary": "The health minister has acknowledged that medics are playing catch-up with the virus after being slow to detect it.",
-      "published_at": "2026-05-19T18:05:26Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -828,13 +783,31 @@
       "published_at": "2026-04-30T02:03:17Z",
       "country_code": "KE",
       "country_name": "Kenya"
+    },
+    {
+      "source": "BBC Africa",
+      "title": "'I was not thinking to run a world record'",
+      "url": "https://www.bbc.com/sport/athletics/videos/c78q5nq11zwo?at_medium=RSS&at_campaign=rss",
+      "summary": "Kenya's new sporting icon Sabastian Sawe admits his world record time at the London Marathon came as a surprise.",
+      "published_at": "2026-04-28T11:18:38Z",
+      "country_code": "KE",
+      "country_name": "Kenya"
+    },
+    {
+      "source": "BBC Africa",
+      "title": "The human cost of the war in Sudan, three years on",
+      "url": "https://www.bbc.com/news/videos/czd77jgnnlno?at_medium=RSS&at_campaign=rss",
+      "summary": "The conflict, which erupted in 2023, has left behind a human toll which is \"simply staggering\", reports the BBC's Barbara Plett Usher.",
+      "published_at": "2026-04-15T08:38:36Z",
+      "country_code": "SD",
+      "country_name": "Sudan"
     }
   ],
   "regions": [
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 40
+      "news_count": 36
     },
     {
       "country_code": "IL",
@@ -842,13 +815,13 @@
       "news_count": 5
     },
     {
-      "country_code": "FR",
-      "country_name": "France",
-      "news_count": 4
+      "country_code": "ZA",
+      "country_name": "South Africa",
+      "news_count": 5
     },
     {
-      "country_code": "GB",
-      "country_name": "United Kingdom",
+      "country_code": "FR",
+      "country_name": "France",
       "news_count": 4
     },
     {
@@ -862,9 +835,19 @@
       "news_count": 4
     },
     {
-      "country_code": "ZA",
-      "country_name": "South Africa",
-      "news_count": 4
+      "country_code": "GB",
+      "country_name": "United Kingdom",
+      "news_count": 3
+    },
+    {
+      "country_code": "KE",
+      "country_name": "Kenya",
+      "news_count": 3
+    },
+    {
+      "country_code": "MX",
+      "country_name": "Mexico",
+      "news_count": 3
     },
     {
       "country_code": "ES",
@@ -874,21 +857,6 @@
     {
       "country_code": "IR",
       "country_name": "Iran",
-      "news_count": 2
-    },
-    {
-      "country_code": "KE",
-      "country_name": "Kenya",
-      "news_count": 2
-    },
-    {
-      "country_code": "MX",
-      "country_name": "Mexico",
-      "news_count": 2
-    },
-    {
-      "country_code": "NG",
-      "country_name": "Nigeria",
       "news_count": 2
     },
     {
@@ -954,6 +922,11 @@
     {
       "country_code": "SA",
       "country_name": "Saudi Arabia",
+      "news_count": 1
+    },
+    {
+      "country_code": "SD",
+      "country_name": "Sudan",
       "news_count": 1
     },
     {
