@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-06-11T21:00:36Z",
+  "generated_at": "2026-06-11T23:00:57Z",
   "articles": [
+    {
+      "source": "BBC US & Canada",
+      "title": "Police investigate '8647' written in grass on US national mall",
+      "url": "https://www.bbc.com/news/articles/clywv23m3vyo?at_medium=RSS&at_campaign=rss",
+      "summary": "\"Eighty-six\" is a slang term for \"get rid of\". Some US officials claim the numbers are meant to encourage violence against Trump, the 47th p…",
+      "published_at": "2026-06-11T21:15:41Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "World Cup kicks off in Mexico with Shakira, performers and vibrant fans",
@@ -542,15 +551,6 @@
       "country_name": "Russia"
     },
     {
-      "source": "BBC Africa",
-      "title": "DR Congo friendly to be played behind closed doors",
-      "url": "https://www.bbc.com/sport/football/articles/c30y35lq0dvo?at_medium=RSS&at_campaign=rss",
-      "summary": "Democratic Republic of Congo's final World Cup warm-up game against Chile will take place behind closed doors amid concerns about the Ebola …",
-      "published_at": "2026-06-07T16:55:52Z",
-      "country_code": "CL",
-      "country_name": "Chile"
-    },
-    {
       "source": "BBC Middle East",
       "title": "One dead, five injured after shooting in Israel",
       "url": "https://www.bbc.com/news/articles/cpwe8e80weyo?at_medium=RSS&at_campaign=rss",
@@ -740,15 +740,6 @@
       "country_name": "France"
     },
     {
-      "source": "BBC Africa",
-      "title": "I moved from Ethiopia to Shetland - and I've brought the coffee with me",
-      "url": "https://www.bbc.com/news/articles/cvgz46znz0vo?at_medium=RSS&at_campaign=rss",
-      "summary": "Netsanet Sori is bringing a flavour of the farm where she grew up to her new home 4,000 miles away.",
-      "published_at": "2026-05-31T08:29:29Z",
-      "country_code": "ET",
-      "country_name": "Ethiopia"
-    },
-    {
       "source": "BBC Middle East",
       "title": "Are US and Iran close to peace or sliding back to war?",
       "url": "https://www.bbc.com/news/articles/cze29764067o?at_medium=RSS&at_campaign=rss",
@@ -852,7 +843,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 40
+      "news_count": 41
     },
     {
       "country_code": "FR",
@@ -932,16 +923,6 @@
     {
       "country_code": "CA",
       "country_name": "Canada",
-      "news_count": 1
-    },
-    {
-      "country_code": "CL",
-      "country_name": "Chile",
-      "news_count": 1
-    },
-    {
-      "country_code": "ET",
-      "country_name": "Ethiopia",
       "news_count": 1
     },
     {
