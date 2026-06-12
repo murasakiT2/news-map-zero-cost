@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-06-12T06:24:09Z",
+  "generated_at": "2026-06-12T10:45:02Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Tehran says 'nothing' finalised after Trump claims deal to end Iran war near",
+      "url": "https://www.bbc.com/news/articles/c78y6w78828o?at_medium=RSS&at_campaign=rss",
+      "summary": "Iran says reports of a deal are \"speculative\" after the US president says a \"great settlement\" to end the conflict has been reached.",
+      "published_at": "2026-06-12T08:09:37Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC Asia",
       "title": "Three Indian sailors killed in US strike on oil tanker",
@@ -12,16 +21,7 @@
     },
     {
       "source": "BBC World",
-      "title": "Trump claims deal to end Iran war near as Tehran says 'nothing' finalised",
-      "url": "https://www.bbc.com/news/articles/c78y6w78828o?at_medium=RSS&at_campaign=rss",
-      "summary": "The US president says a \"great settlement\" to end the conflict has been reached. Iran says reports of a deal are \"speculative\".",
-      "published_at": "2026-06-12T05:53:19Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "Ex-UK political aide Steve Hilton pledges 'common sense' overhaul if elected California governor",
+      "title": "Ex-UK political aide Steve Hilton would overhaul California as governor, he tells BBC",
       "url": "https://www.bbc.com/news/articles/cd95x25e2nqo?at_medium=RSS&at_campaign=rss",
       "summary": "The Trump-backed candidate is running as a Republican in the deeply liberal state on a platform that he says isn't beholden to party ideolog…",
       "published_at": "2026-06-12T05:02:15Z",
@@ -93,7 +93,7 @@
     },
     {
       "source": "BBC World",
-      "title": "Air India crash families' year-long battle to identify remains of victims",
+      "title": "The unknown man in my mother's coffin: A year after Air India crash, families still waiting for answers",
       "url": "https://www.bbc.com/news/articles/c15y9g2ndkno?at_medium=RSS&at_campaign=rss",
       "summary": "Relatives urge Indian authorities for answers after receiving the misidentified, and in one case mixed, remains of their loved ones.",
       "published_at": "2026-06-11T23:33:40Z",
@@ -198,6 +198,15 @@
       "published_at": "2026-06-11T15:57:04Z",
       "country_code": "SD",
       "country_name": "Sudan"
+    },
+    {
+      "source": "BBC Europe",
+      "title": "Sweden ditches plan to imprison 13-year-old serious offenders",
+      "url": "https://www.bbc.com/news/articles/c0qy0dqldqjo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Scandinavian country is currently grappling with children being recruited into violent gangs.",
+      "published_at": "2026-06-11T15:42:52Z",
+      "country_code": "SE",
+      "country_name": "Sweden"
     },
     {
       "source": "BBC World",
@@ -677,15 +686,6 @@
       "country_name": "South Africa"
     },
     {
-      "source": "BBC Europe",
-      "title": "Fury in France after child murder suspect's criminal record released",
-      "url": "https://www.bbc.com/news/articles/c1424v7mk8go?at_medium=RSS&at_campaign=rss",
-      "summary": "A man suspected of murdering an 11-year-old girl had previously been identified as a potential child molester, records show.",
-      "published_at": "2026-06-05T11:32:51Z",
-      "country_code": "FR",
-      "country_name": "France"
-    },
-    {
       "source": "BBC Middle East",
       "title": "Ex-wife of Dubai ruler's nephew in custody, prosecutors say",
       "url": "https://www.bbc.com/news/articles/cx2124zylxno?at_medium=RSS&at_campaign=rss",
@@ -896,14 +896,14 @@
       "news_count": 6
     },
     {
-      "country_code": "FR",
-      "country_name": "France",
-      "news_count": 5
-    },
-    {
       "country_code": "ZA",
       "country_name": "South Africa",
       "news_count": 5
+    },
+    {
+      "country_code": "FR",
+      "country_name": "France",
+      "news_count": 4
     },
     {
       "country_code": "IN",
@@ -956,6 +956,11 @@
       "news_count": 2
     },
     {
+      "country_code": "SE",
+      "country_name": "Sweden",
+      "news_count": 2
+    },
+    {
       "country_code": "UA",
       "country_name": "Ukraine",
       "news_count": 2
@@ -1003,11 +1008,6 @@
     {
       "country_code": "SA",
       "country_name": "Saudi Arabia",
-      "news_count": 1
-    },
-    {
-      "country_code": "SE",
-      "country_name": "Sweden",
       "news_count": 1
     },
     {
