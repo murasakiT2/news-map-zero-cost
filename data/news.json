@@ -1,6 +1,51 @@
 {
-  "generated_at": "2026-06-11T23:00:57Z",
+  "generated_at": "2026-06-12T01:41:38Z",
   "articles": [
+    {
+      "source": "BBC US & Canada",
+      "title": "Toronto police officer killed in raid linked to US consulate shooting",
+      "url": "https://www.bbc.com/news/articles/cx2dn84vww3o?at_medium=RSS&at_campaign=rss",
+      "summary": "Police said a 19-year-old suspect linked to a shooting outside the US consulate in Toronto in March is still at large and is considered \"arm…",
+      "published_at": "2026-06-12T01:00:49Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "Opening of long-awaited US-Canada bridge delayed",
+      "url": "https://www.bbc.com/news/articles/c23yv800e23o?at_medium=RSS&at_campaign=rss",
+      "summary": "The US and Canada say they need to resolve \"outstanding issues\" before the cross-border project, seen as a symbol of binational cooperation,…",
+      "published_at": "2026-06-11T23:59:10Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "World Cup kicks off in Mexico with Shakira, dancing, and protests",
+      "url": "https://www.bbc.com/news/articles/c2ly928xz8go?at_medium=RSS&at_campaign=rss",
+      "summary": "There was a star-studded opening ceremony, and some sporadic clashes between police and protesters around the Azteca stadium.",
+      "published_at": "2026-06-11T23:41:14Z",
+      "country_code": "MX",
+      "country_name": "Mexico"
+    },
+    {
+      "source": "BBC Asia",
+      "title": "Air India crash families' year-long battle to identify remains of victims",
+      "url": "https://www.bbc.com/news/articles/c15y9g2ndkno?at_medium=RSS&at_campaign=rss",
+      "summary": "Relatives urge Indian authorities for answers after receiving the misidentified, and in one case mixed, remains of their loved ones.",
+      "published_at": "2026-06-11T23:33:40Z",
+      "country_code": "IN",
+      "country_name": "India"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "Cheering for the 'home team' during the World Cup gets complicated for Canadians",
+      "url": "https://www.bbc.com/news/articles/cpd3qjljw0yo?at_medium=RSS&at_campaign=rss",
+      "summary": "As Canada's national team prepare for its home turf tournament debut, some Canadian fans face a dilemma: can you cheer for more than one tea…",
+      "published_at": "2026-06-11T23:10:04Z",
+      "country_code": "CA",
+      "country_name": "Canada"
+    },
     {
       "source": "BBC US & Canada",
       "title": "Police investigate '8647' written in grass on US national mall",
@@ -9,15 +54,6 @@
       "published_at": "2026-06-11T21:15:41Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "World Cup kicks off in Mexico with Shakira, performers and vibrant fans",
-      "url": "https://www.bbc.com/news/articles/c2ly928xz8go?at_medium=RSS&at_campaign=rss",
-      "summary": "A star-studded opening ceremony featured artists from the World Cup's official soundtrack.",
-      "published_at": "2026-06-11T20:26:06Z",
-      "country_code": "MX",
-      "country_name": "Mexico"
     },
     {
       "source": "BBC US & Canada",
@@ -99,24 +135,6 @@
       "published_at": "2026-06-11T15:57:04Z",
       "country_code": "SD",
       "country_name": "Sudan"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "Toronto police officer dies in raid linked to US consulate shooting",
-      "url": "https://www.bbc.com/news/articles/cx2dn84vww3o?at_medium=RSS&at_campaign=rss",
-      "summary": "Police said a 19-year-old suspect linked to a shooting outside the US consulate in Toronto in March is still at large and is considered \"arm…",
-      "published_at": "2026-06-11T15:21:53Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "Opening of long awaited US-Canada bridge delayed",
-      "url": "https://www.bbc.com/news/articles/c23yv800e23o?at_medium=RSS&at_campaign=rss",
-      "summary": "The US and Canada say they need to resolve \"outstanding issues\" before the cross-border project, seen as a symbol of binational cooperation,…",
-      "published_at": "2026-06-11T14:55:39Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC World",
@@ -425,7 +443,7 @@
       "country_name": "France"
     },
     {
-      "source": "BBC Asia",
+      "source": "BBC Middle East",
       "title": "'Please send help': Crew's distress call after ship hit by US missile",
       "url": "https://www.bbc.com/news/articles/cq51ep28165o?at_medium=RSS&at_campaign=rss",
       "summary": "The crew of a sanctioned oil tanker were rescued off Oman after it was struck by a missile fired from a US fighter jet.",
@@ -486,15 +504,6 @@
       "published_at": "2026-06-08T23:23:15Z",
       "country_code": "RU",
       "country_name": "Russia"
-    },
-    {
-      "source": "BBC Asia",
-      "title": "How one of India's most successful female politicians is losing her party",
-      "url": "https://www.bbc.com/news/articles/cx2w4y6l9yqo?at_medium=RSS&at_campaign=rss",
-      "summary": "Mamata Banerjee's once-dominant Trinamool Congress party is unravelling, weeks after losing power in West Bengal.",
-      "published_at": "2026-06-08T22:44:28Z",
-      "country_code": "IN",
-      "country_name": "India"
     },
     {
       "source": "BBC Middle East",
@@ -881,6 +890,11 @@
       "news_count": 3
     },
     {
+      "country_code": "CA",
+      "country_name": "Canada",
+      "news_count": 2
+    },
+    {
       "country_code": "ES",
       "country_name": "Spain",
       "news_count": 2
@@ -918,11 +932,6 @@
     {
       "country_code": "BR",
       "country_name": "Brazil",
-      "news_count": 1
-    },
-    {
-      "country_code": "CA",
-      "country_name": "Canada",
       "news_count": 1
     },
     {
