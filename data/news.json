@@ -1,14 +1,32 @@
 {
-  "generated_at": "2026-06-12T16:40:32Z",
+  "generated_at": "2026-06-12T18:57:16Z",
   "articles": [
     {
-      "source": "BBC US & Canada",
-      "title": "Trump accuses Iran of leaking agreement details that 'bear no relation to the truth'",
+      "source": "BBC World",
+      "title": "Iran says deal to end fighting with US has 'never been closer'",
       "url": "https://www.bbc.com/news/articles/c39y02x98k8o?at_medium=RSS&at_campaign=rss",
-      "summary": "The US president's reaction came as Iranian media reported purported details from the alleged agreement that included much of what Tehran ha…",
-      "published_at": "2026-06-12T16:28:15Z",
+      "summary": "Both Iran and Pakistan say a deal has never been closer - echoing US President Donald Trump's statement on Thursday.",
+      "published_at": "2026-06-12T18:20:51Z",
       "country_code": "US",
       "country_name": "United States"
+    },
+    {
+      "source": "BBC Africa",
+      "title": "Partey denied entry to Canada for Ghana's World Cup opener",
+      "url": "https://www.bbc.com/sport/football/articles/cn8qgny4186o?at_medium=RSS&at_campaign=rss",
+      "summary": "Ghana midfielder Thomas Partey will miss his nation's first World Cup game in Toronto against Panama, after being denied entry to Canada.",
+      "published_at": "2026-06-12T17:26:20Z",
+      "country_code": "CA",
+      "country_name": "Canada"
+    },
+    {
+      "source": "BBC World",
+      "title": "Mother finds body of missing son two days after Kenya's Ebola quarantine centre protests",
+      "url": "https://www.bbc.com/news/articles/crlw3w84w30o?at_medium=RSS&at_campaign=rss",
+      "summary": "Sylvester Muigai Ndung'u was in Nanyuki to fetch a school uniform on Tuesday, his mother says.",
+      "published_at": "2026-06-12T16:41:53Z",
+      "country_code": "KE",
+      "country_name": "Kenya"
     },
     {
       "source": "BBC US & Canada",
@@ -47,15 +65,6 @@
       "country_name": "South Africa"
     },
     {
-      "source": "BBC World",
-      "title": "Tributes paid to David Hockney, a 'giant' and 'true icon' of British art",
-      "url": "https://www.bbc.com/news/articles/cvgjxdr27z4o?at_medium=RSS&at_campaign=rss",
-      "summary": "Hockney, one of the UK's most important and influential artists, has died at the age of 88.",
-      "published_at": "2026-06-12T14:03:35Z",
-      "country_code": "GB",
-      "country_name": "United Kingdom"
-    },
-    {
       "source": "BBC Africa",
       "title": "Ethiopia's Tsegay handed four-month doping ban",
       "url": "https://www.bbc.com/sport/athletics/articles/cpq39x3nn2xo?at_medium=RSS&at_campaign=rss",
@@ -88,15 +97,6 @@
       "url": "https://www.bbc.com/news/articles/cx24vlj2nvyo?at_medium=RSS&at_campaign=rss",
       "summary": "Patnala Suresh and his wife were looking forward to celebrating their 15th wedding anniversary this month.",
       "published_at": "2026-06-12T08:52:36Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "Tehran says 'nothing' finalised after Trump claims deal to end Iran war near",
-      "url": "https://www.bbc.com/news/articles/c78y6w78828o?at_medium=RSS&at_campaign=rss",
-      "summary": "Iran says reports of a deal are \"speculative\" after the US president says a \"great settlement\" to end the conflict has been reached.",
-      "published_at": "2026-06-12T08:09:37Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -252,15 +252,6 @@
       "published_at": "2026-06-11T16:34:05Z",
       "country_code": "CA",
       "country_name": "Canada"
-    },
-    {
-      "source": "BBC Africa",
-      "title": "Nigeria evacuates citizens from South Africa as anti-migrant sentiment rises",
-      "url": "https://www.bbc.com/news/articles/cq512vgyzl9o?at_medium=RSS&at_campaign=rss",
-      "summary": "Nigeria is the latest African state to repatriate citizens following reports of xenophobic attacks.",
-      "published_at": "2026-06-11T16:25:17Z",
-      "country_code": "ZA",
-      "country_name": "South Africa"
     },
     {
       "source": "BBC Africa",
@@ -864,22 +855,13 @@
       "published_at": "2026-04-28T11:18:38Z",
       "country_code": "KE",
       "country_name": "Kenya"
-    },
-    {
-      "source": "BBC Africa",
-      "title": "The human cost of the war in Sudan, three years on",
-      "url": "https://www.bbc.com/news/videos/czd77jgnnlno?at_medium=RSS&at_campaign=rss",
-      "summary": "The conflict, which erupted in 2023, has left behind a human toll which is \"simply staggering\", reports the BBC's Barbara Plett Usher.",
-      "published_at": "2026-04-15T08:38:36Z",
-      "country_code": "SD",
-      "country_name": "Sudan"
     }
   ],
   "regions": [
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 41
+      "news_count": 40
     },
     {
       "country_code": "IL",
@@ -887,18 +869,8 @@
       "news_count": 6
     },
     {
-      "country_code": "ZA",
-      "country_name": "South Africa",
-      "news_count": 5
-    },
-    {
       "country_code": "FR",
       "country_name": "France",
-      "news_count": 4
-    },
-    {
-      "country_code": "GB",
-      "country_name": "United Kingdom",
       "news_count": 4
     },
     {
@@ -907,24 +879,34 @@
       "news_count": 4
     },
     {
+      "country_code": "KE",
+      "country_name": "Kenya",
+      "news_count": 4
+    },
+    {
       "country_code": "RU",
       "country_name": "Russia",
       "news_count": 4
     },
     {
-      "country_code": "KE",
-      "country_name": "Kenya",
+      "country_code": "ZA",
+      "country_name": "South Africa",
+      "news_count": 4
+    },
+    {
+      "country_code": "CA",
+      "country_name": "Canada",
+      "news_count": 3
+    },
+    {
+      "country_code": "GB",
+      "country_name": "United Kingdom",
       "news_count": 3
     },
     {
       "country_code": "MX",
       "country_name": "Mexico",
       "news_count": 3
-    },
-    {
-      "country_code": "CA",
-      "country_name": "Canada",
-      "news_count": 2
     },
     {
       "country_code": "ES",
@@ -934,11 +916,6 @@
     {
       "country_code": "IR",
       "country_name": "Iran",
-      "news_count": 2
-    },
-    {
-      "country_code": "SD",
-      "country_name": "Sudan",
       "news_count": 2
     },
     {
@@ -999,6 +976,11 @@
     {
       "country_code": "PS",
       "country_name": "Palestine",
+      "news_count": 1
+    },
+    {
+      "country_code": "SD",
+      "country_name": "Sudan",
       "news_count": 1
     },
     {
