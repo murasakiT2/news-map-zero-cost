@@ -1,6 +1,33 @@
 {
-  "generated_at": "2026-06-12T21:00:05Z",
+  "generated_at": "2026-06-12T22:26:07Z",
   "articles": [
+    {
+      "source": "BBC US & Canada",
+      "title": "Warner Bros $111bn sale to Paramount approved by US Justice Department",
+      "url": "https://www.bbc.com/news/articles/cjwgled9jxwo?at_medium=RSS&at_campaign=rss",
+      "summary": "The approval marks a key development in the merger that will reshape media, allowing the continue of the takeover of the Hollywood studio, w…",
+      "published_at": "2026-06-12T21:57:45Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC Africa",
+      "title": "Partey denied entry to Canada for Ghana's World Cup opener",
+      "url": "https://www.bbc.com/sport/football/articles/cn8qgny4186o?at_medium=RSS&at_campaign=rss",
+      "summary": "Ghana midfielder Thomas Partey will miss his nation's first World Cup game in Toronto against Panama, after being denied entry to Canada.",
+      "published_at": "2026-06-12T21:37:42Z",
+      "country_code": "CA",
+      "country_name": "Canada"
+    },
+    {
+      "source": "BBC World",
+      "title": "Deal to end fighting would lead to Hormuz reopening, Iran says",
+      "url": "https://www.bbc.com/news/articles/c39y02x98k8o?at_medium=RSS&at_campaign=rss",
+      "summary": "The deal which will pave the way for hostilities to end is close to being finalised, the US, Iran and mediators Pakistan say.",
+      "published_at": "2026-06-12T21:04:05Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC US & Canada",
       "title": "World Cup kicks off in Canada with Alanis Morissette and Michael Bublé performing in opening ceremony",
@@ -9,6 +36,15 @@
       "published_at": "2026-06-12T20:43:14Z",
       "country_code": "CA",
       "country_name": "Canada"
+    },
+    {
+      "source": "BBC World",
+      "title": "Fans on concourses instead of in seats, claims Fifa",
+      "url": "https://www.bbc.com/sport/football/articles/c14y0dp6vrdo?at_medium=RSS&at_campaign=rss",
+      "summary": "Fifa says numerous empty seats were visible in the near-sell-out Group A match between South Korea and the Czech Republic because of fans re…",
+      "published_at": "2026-06-12T20:26:23Z",
+      "country_code": "KR",
+      "country_name": "South Korea"
     },
     {
       "source": "BBC US & Canada",
@@ -21,39 +57,12 @@
     },
     {
       "source": "BBC World",
-      "title": "Iran says deal to end fighting with US has 'never been closer'",
-      "url": "https://www.bbc.com/news/articles/c39y02x98k8o?at_medium=RSS&at_campaign=rss",
-      "summary": "Both Iran and Pakistan say a deal has never been closer - echoing US President Donald Trump's statement on Thursday.",
-      "published_at": "2026-06-12T18:20:51Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC Africa",
-      "title": "Partey denied entry to Canada for Ghana's World Cup opener",
-      "url": "https://www.bbc.com/sport/football/articles/cn8qgny4186o?at_medium=RSS&at_campaign=rss",
-      "summary": "Ghana midfielder Thomas Partey will miss his nation's first World Cup game in Toronto against Panama, after being denied entry to Canada.",
-      "published_at": "2026-06-12T17:26:20Z",
-      "country_code": "CA",
-      "country_name": "Canada"
-    },
-    {
-      "source": "BBC World",
       "title": "Mother finds body of missing son two days after Kenya's Ebola quarantine centre protests",
       "url": "https://www.bbc.com/news/articles/crlw3w84w30o?at_medium=RSS&at_campaign=rss",
       "summary": "Sylvester Muigai Ndung'u was in Nanyuki to fetch a school uniform on Tuesday, his mother says.",
       "published_at": "2026-06-12T16:41:53Z",
       "country_code": "KE",
       "country_name": "Kenya"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "Storm chaser digs man out of rubble after tornadoes rip through US Midwest",
-      "url": "https://www.bbc.com/news/articles/c5yz7wg9pjzo?at_medium=RSS&at_campaign=rss",
-      "summary": "By the end of the night on Thursday there were at least a dozen reports of tornadoes in Illinois, Indiana and Wisconsin.",
-      "published_at": "2026-06-12T15:26:13Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC World",
@@ -173,15 +182,6 @@
       "country_name": "South Korea"
     },
     {
-      "source": "BBC World",
-      "title": "US Supreme Court denies Alabama's request to carry out nitrogen gas execution",
-      "url": "https://www.bbc.com/news/articles/cn4dx72lwn7o?at_medium=RSS&at_campaign=rss",
-      "summary": "Jeffery Lee, 49, was scheduled to be executed on Thursday. The state can still seek to have him put to death using another method.",
-      "published_at": "2026-06-12T03:15:46Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC Latin America",
       "title": "World Cup kicks off in Mexico with Shakira, dancing, and protests",
       "url": "https://www.bbc.com/news/articles/c2ly928xz8go?at_medium=RSS&at_campaign=rss",
@@ -290,7 +290,7 @@
       "country_name": "Sweden"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Africa",
       "title": "Artan to referee Uefa Super Cup after losing World Cup role",
       "url": "https://www.bbc.com/sport/football/articles/c2kyx0l0499o?at_medium=RSS&at_campaign=rss",
       "summary": "Somali referee Omar Artan is appointed to take charge of the Uefa Super Cup match between Paris St-Germain and Aston Villa later this summer…",
@@ -870,7 +870,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 40
+      "news_count": 39
     },
     {
       "country_code": "IL",
@@ -928,6 +928,11 @@
       "news_count": 2
     },
     {
+      "country_code": "KR",
+      "country_name": "South Korea",
+      "news_count": 2
+    },
+    {
       "country_code": "SE",
       "country_name": "Sweden",
       "news_count": 2
@@ -955,11 +960,6 @@
     {
       "country_code": "IQ",
       "country_name": "Iraq",
-      "news_count": 1
-    },
-    {
-      "country_code": "KR",
-      "country_name": "South Korea",
       "news_count": 1
     },
     {
