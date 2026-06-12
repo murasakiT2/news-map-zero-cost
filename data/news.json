@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-06-12T18:57:16Z",
+  "generated_at": "2026-06-12T21:00:05Z",
   "articles": [
+    {
+      "source": "BBC US & Canada",
+      "title": "World Cup kicks off in Canada with Alanis Morissette and Michael Bublé performing in opening ceremony",
+      "url": "https://www.bbc.com/news/articles/c4g9g9xy9y7o?at_medium=RSS&at_campaign=rss",
+      "summary": "The opening games in Toronto and Los Angeles on Friday include star-studded performances.",
+      "published_at": "2026-06-12T20:43:14Z",
+      "country_code": "CA",
+      "country_name": "Canada"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "ICE detains wife of US veteran in latest detention of military spouse",
+      "url": "https://www.bbc.com/news/articles/cjwglled85xo?at_medium=RSS&at_campaign=rss",
+      "summary": "Arelys Barahona Martinez was arrested during a check-in, her husband, retired Staff Sgt Warren Trujillo, told the BBC",
+      "published_at": "2026-06-12T19:32:10Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "Iran says deal to end fighting with US has 'never been closer'",
@@ -378,15 +396,6 @@
       "published_at": "2026-06-10T15:00:45Z",
       "country_code": "NO",
       "country_name": "Norway"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "'People can change': Scandal-hit Platner on Maine primary win",
-      "url": "https://www.bbc.com/news/videos/cd6evx3dlxzo?at_medium=RSS&at_campaign=rss",
-      "summary": "Graham Platner, whose campaign was plagued by scandals, has won the Maine primary and will run as the state's Democratic candidate for the U…",
-      "published_at": "2026-06-10T14:47:30Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC Europe",
@@ -869,6 +878,11 @@
       "news_count": 6
     },
     {
+      "country_code": "CA",
+      "country_name": "Canada",
+      "news_count": 4
+    },
+    {
       "country_code": "FR",
       "country_name": "France",
       "news_count": 4
@@ -892,11 +906,6 @@
       "country_code": "ZA",
       "country_name": "South Africa",
       "news_count": 4
-    },
-    {
-      "country_code": "CA",
-      "country_name": "Canada",
-      "news_count": 3
     },
     {
       "country_code": "GB",
