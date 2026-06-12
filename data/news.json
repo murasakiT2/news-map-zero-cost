@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-06-12T10:45:02Z",
+  "generated_at": "2026-06-12T13:56:57Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Investigation into cause of Air India crash ongoing, officials say",
+      "url": "https://www.bbc.com/news/articles/cnv93899vzqo?at_medium=RSS&at_campaign=rss",
+      "summary": "The statement said \"significant progress\" had been made into crash which left 260 people dead a year ago.",
+      "published_at": "2026-06-12T13:23:14Z",
+      "country_code": "IN",
+      "country_name": "India"
+    },
+    {
+      "source": "BBC World",
+      "title": "South Africa trolled by African fans in wake of World Cup loss",
+      "url": "https://www.bbc.com/news/articles/cm2jewrxvmjo?at_medium=RSS&at_campaign=rss",
+      "summary": "The taunting reflects anger from parts of the continent over reports of xenophobia in South Africa.",
+      "published_at": "2026-06-12T10:52:42Z",
+      "country_code": "ZA",
+      "country_name": "South Africa"
+    },
     {
       "source": "BBC World",
       "title": "Tehran says 'nothing' finalised after Trump claims deal to end Iran war near",
@@ -74,7 +92,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Latin America",
       "title": "World Cup kicks off in Mexico with Shakira, dancing, and protests",
       "url": "https://www.bbc.com/news/articles/c2ly928xz8go?at_medium=RSS&at_campaign=rss",
       "summary": "There was a star-studded opening ceremony, and some sporadic clashes between police and protesters around the Azteca stadium.",
@@ -119,7 +137,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "Flip flop or deliberate? - Unpacking Trump’s strategy on Iran",
       "url": "https://www.bbc.com/news/videos/cz9lg5ywzvpo?at_medium=RSS&at_campaign=rss",
       "summary": "The BBC's Gary O'Donoghue looks at the US president's mixed messaging over the war and the questions it raises.",
@@ -191,7 +209,7 @@
       "country_name": "South Africa"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Africa",
       "title": "Deadly Sudan drone strike targets funeral procession",
       "url": "https://www.bbc.com/news/articles/c70yeee2jvqo?at_medium=RSS&at_campaign=rss",
       "summary": "Rights groups accuse the RSF paramilitary group of killing civilians in el-Obeid, a city on the civil war's front line.",
@@ -281,7 +299,7 @@
       "country_name": "Thailand"
     },
     {
-      "source": "BBC US & Canada",
+      "source": "BBC World",
       "title": "Watch: Historic US-Canada border library gets new Quebec-only entrance",
       "url": "https://www.bbc.com/news/videos/clyrvrde160o?at_medium=RSS&at_campaign=rss",
       "summary": "After more than a century of sharing the main entrance, Canadians were barred from using the library's US-side door by the Trump administrat…",
@@ -335,15 +353,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Africa",
-      "title": "Brother's memory inspires Williams for World Cup opener",
-      "url": "https://www.bbc.com/sport/football/articles/cx21lpdl4r6o?at_medium=RSS&at_campaign=rss",
-      "summary": "Ronwen Williams' brother Marvin, who died in a car crash in 2010, is a source of inspiration as the goalkeeper captains South Africa against…",
-      "published_at": "2026-06-10T16:27:59Z",
-      "country_code": "ZA",
-      "country_name": "South Africa"
-    },
-    {
       "source": "BBC World",
       "title": "Pakistan launches deadly air strikes in Afghanistan, reigniting tensions",
       "url": "https://www.bbc.com/news/articles/cvg57nk373lo?at_medium=RSS&at_campaign=rss",
@@ -387,15 +396,6 @@
       "published_at": "2026-06-10T11:43:40Z",
       "country_code": "RU",
       "country_name": "Russia"
-    },
-    {
-      "source": "BBC Africa",
-      "title": "Manhunt under way in South Africa after 12 killed in mass shooting in Johannesburg",
-      "url": "https://www.bbc.com/news/articles/c79yzqw0z0wo?at_medium=RSS&at_campaign=rss",
-      "summary": "Another nine people were injured at an informal settlement in Cleveland late on Tuesday.",
-      "published_at": "2026-06-10T10:26:54Z",
-      "country_code": "ZA",
-      "country_name": "South Africa"
     },
     {
       "source": "BBC Europe",
@@ -896,8 +896,8 @@
       "news_count": 6
     },
     {
-      "country_code": "ZA",
-      "country_name": "South Africa",
+      "country_code": "IN",
+      "country_name": "India",
       "news_count": 5
     },
     {
@@ -906,13 +906,13 @@
       "news_count": 4
     },
     {
-      "country_code": "IN",
-      "country_name": "India",
+      "country_code": "RU",
+      "country_name": "Russia",
       "news_count": 4
     },
     {
-      "country_code": "RU",
-      "country_name": "Russia",
+      "country_code": "ZA",
+      "country_name": "South Africa",
       "news_count": 4
     },
     {
