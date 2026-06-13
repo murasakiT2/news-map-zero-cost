@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-06-13T17:50:08Z",
+  "generated_at": "2026-06-13T19:07:02Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "US-Iran deal scheduled to be signed on Sunday, says Trump",
+      "url": "https://www.bbc.com/news/articles/cvglmn49xz0o?at_medium=RSS&at_campaign=rss",
+      "summary": "Before the US president's comments, Iran expressed caution about the exact timing.",
+      "published_at": "2026-06-13T18:39:26Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "Anthropic suspends new AI tools over US government security concerns",
@@ -47,7 +56,7 @@
       "country_name": "Canada"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "Israel carries out air strikes on Lebanon, state media says, as Iran claims deal with US near",
       "url": "https://www.bbc.com/news/articles/c39y02x98k8o?at_medium=RSS&at_campaign=rss",
       "summary": "The strikes come as Iran's foreign minister says a deal to end fighting with the US is close.",
@@ -933,7 +942,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 44
+      "news_count": 45
     },
     {
       "country_code": "IL",
