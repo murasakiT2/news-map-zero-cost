@@ -1,8 +1,17 @@
 {
-  "generated_at": "2026-06-13T07:09:34Z",
+  "generated_at": "2026-06-13T10:10:13Z",
   "articles": [
     {
-      "source": "BBC US & Canada",
+      "source": "BBC World",
+      "title": "Married at First Sight Australia stars not told partners had drug and violence convictions",
+      "url": "https://www.bbc.com/news/articles/clypy0ndvjlo?at_medium=RSS&at_campaign=rss",
+      "summary": "Stars of the hit TV show say they did not know their on-screen husbands had previous convictions.",
+      "published_at": "2026-06-13T05:00:04Z",
+      "country_code": "AU",
+      "country_name": "Australia"
+    },
+    {
+      "source": "BBC World",
       "title": "US kills leader of Venezuela's Tren de Aragua gang in airstrike, Trump says",
       "url": "https://www.bbc.com/news/articles/cp36z37knlko?at_medium=RSS&at_campaign=rss",
       "summary": "Niño Guerrero was killed in a \"swift and lethal kinetic strike,\" the US President wrote in a social media post.",
@@ -11,7 +20,16 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC US & Canada",
+      "source": "BBC World",
+      "title": "Anthropic suspends new AI tools over US government security concerns",
+      "url": "https://www.bbc.com/news/articles/c932g3v3e13o?at_medium=RSS&at_campaign=rss",
+      "summary": "Anthropic's Claude Fable 5, released publicly this week, sparked concerns about cybersecurity and hacking.",
+      "published_at": "2026-06-13T03:54:01Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
       "title": "Warner Bros $111bn sale to Paramount approved by US justice department",
       "url": "https://www.bbc.com/news/articles/cjwgled9jxwo?at_medium=RSS&at_campaign=rss",
       "summary": "The approval marks a key development in the merger that will reshape media, allowing the continue of the takeover of the Hollywood studio, w…",
@@ -54,6 +72,15 @@
       "published_at": "2026-06-13T00:42:28Z",
       "country_code": "US",
       "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "The college scam that promised students fleeing war a new life in Finland",
+      "url": "https://www.bbc.com/news/articles/cgrprx55zpvo?at_medium=RSS&at_campaign=rss",
+      "summary": "BBC speaks to students from war-torn Myanmar who say they were cheated after paying to study abroad.",
+      "published_at": "2026-06-12T22:08:38Z",
+      "country_code": "FI",
+      "country_name": "Finland"
     },
     {
       "source": "BBC Africa",
@@ -182,15 +209,6 @@
       "country_name": "United Kingdom"
     },
     {
-      "source": "BBC World",
-      "title": "'They destroyed the future': Palestinian anger at rise in Israeli demolitions in East Jerusalem",
-      "url": "https://www.bbc.com/news/articles/cewpwjr9rj4o?at_medium=RSS&at_campaign=rss",
-      "summary": "Palestinian homes are being pulled down in occupied East Jerusalem to make way for a park.",
-      "published_at": "2026-06-12T05:01:48Z",
-      "country_code": "IL",
-      "country_name": "Israel"
-    },
-    {
       "source": "BBC US & Canada",
       "title": "'No-one knows it's on' - NBA Finals feed US World Cup apathy",
       "url": "https://www.bbc.com/sport/football/articles/cg74rzx582ko?at_medium=RSS&at_campaign=rss",
@@ -261,6 +279,15 @@
       "published_at": "2026-06-11T18:29:43Z",
       "country_code": "US",
       "country_name": "United States"
+    },
+    {
+      "source": "BBC Africa",
+      "title": "Injuries force Ezzalzouli & Aguerd out of World Cup",
+      "url": "https://www.bbc.com/sport/football/articles/c5yrr1k6nxyo?at_medium=RSS&at_campaign=rss",
+      "summary": "Morocco forward Abde Ezzalzouli and defender Nayef Aguerd withdraw from their squad because of injury, two days before their World Cup opene…",
+      "published_at": "2026-06-11T17:26:40Z",
+      "country_code": "MA",
+      "country_name": "Morocco"
     },
     {
       "source": "BBC US & Canada",
@@ -414,6 +441,15 @@
       "published_at": "2026-06-10T17:48:54Z",
       "country_code": "US",
       "country_name": "United States"
+    },
+    {
+      "source": "BBC Africa",
+      "title": "Brother's memory inspires Williams for World Cup opener",
+      "url": "https://www.bbc.com/sport/football/articles/cx21lpdl4r6o?at_medium=RSS&at_campaign=rss",
+      "summary": "Ronwen Williams' brother Marvin, who died in a car crash in 2010, is a source of inspiration as the goalkeeper captains South Africa against…",
+      "published_at": "2026-06-10T16:27:59Z",
+      "country_code": "ZA",
+      "country_name": "South Africa"
     },
     {
       "source": "BBC Europe",
@@ -882,27 +918,23 @@
       "published_at": "2026-04-30T02:03:17Z",
       "country_code": "KE",
       "country_name": "Kenya"
-    },
-    {
-      "source": "BBC Africa",
-      "title": "'I was not thinking to run a world record'",
-      "url": "https://www.bbc.com/sport/athletics/videos/c78q5nq11zwo?at_medium=RSS&at_campaign=rss",
-      "summary": "Kenya's new sporting icon Sabastian Sawe admits his world record time at the London Marathon came as a surprise.",
-      "published_at": "2026-04-28T11:18:38Z",
-      "country_code": "KE",
-      "country_name": "Kenya"
     }
   ],
   "regions": [
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 43
+      "news_count": 44
     },
     {
       "country_code": "IL",
       "country_name": "Israel",
-      "news_count": 6
+      "news_count": 5
+    },
+    {
+      "country_code": "ZA",
+      "country_name": "South Africa",
+      "news_count": 5
     },
     {
       "country_code": "FR",
@@ -915,18 +947,8 @@
       "news_count": 4
     },
     {
-      "country_code": "KE",
-      "country_name": "Kenya",
-      "news_count": 4
-    },
-    {
       "country_code": "RU",
       "country_name": "Russia",
-      "news_count": 4
-    },
-    {
-      "country_code": "ZA",
-      "country_name": "South Africa",
       "news_count": 4
     },
     {
@@ -937,6 +959,11 @@
     {
       "country_code": "GB",
       "country_name": "United Kingdom",
+      "news_count": 3
+    },
+    {
+      "country_code": "KE",
+      "country_name": "Kenya",
       "news_count": 3
     },
     {
@@ -960,6 +987,11 @@
       "news_count": 2
     },
     {
+      "country_code": "MA",
+      "country_name": "Morocco",
+      "news_count": 2
+    },
+    {
       "country_code": "SE",
       "country_name": "Sweden",
       "news_count": 2
@@ -975,6 +1007,11 @@
       "news_count": 1
     },
     {
+      "country_code": "AU",
+      "country_name": "Australia",
+      "news_count": 1
+    },
+    {
       "country_code": "BR",
       "country_name": "Brazil",
       "news_count": 1
@@ -985,13 +1022,13 @@
       "news_count": 1
     },
     {
-      "country_code": "IQ",
-      "country_name": "Iraq",
+      "country_code": "FI",
+      "country_name": "Finland",
       "news_count": 1
     },
     {
-      "country_code": "MA",
-      "country_name": "Morocco",
+      "country_code": "IQ",
+      "country_name": "Iraq",
       "news_count": 1
     },
     {
