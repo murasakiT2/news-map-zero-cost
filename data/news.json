@@ -1,12 +1,57 @@
 {
-  "generated_at": "2026-06-12T23:57:56Z",
+  "generated_at": "2026-06-13T03:28:18Z",
   "articles": [
+    {
+      "source": "BBC US & Canada",
+      "title": "US kills leader of Venezuela's Tren de Aragua gang in airstrike, Trump says",
+      "url": "https://www.bbc.com/news/articles/cp36z37knlko?at_medium=RSS&at_campaign=rss",
+      "summary": "Niño Guerrero was killed in a \"swift and lethal kinetic strike,\" the US President wrote in a social media post.",
+      "published_at": "2026-06-13T02:46:46Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "World Cup kicks off in the US with performances from Katy Perry, Future and Tyla",
+      "url": "https://www.bbc.com/news/articles/c4g9g9xy9y7o?at_medium=RSS&at_campaign=rss",
+      "summary": "Earlier, Canada hosted its own opening ceremony in Toronto, featuring singers Alanis Morrisette and Michael Bublé.",
+      "published_at": "2026-06-13T02:31:35Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC US & Canada",
       "title": "Warner Bros $111bn sale to Paramount approved by US Justice Department",
       "url": "https://www.bbc.com/news/articles/cjwgled9jxwo?at_medium=RSS&at_campaign=rss",
       "summary": "The approval marks a key development in the merger that will reshape media, allowing the continue of the takeover of the Hollywood studio, w…",
-      "published_at": "2026-06-12T22:48:00Z",
+      "published_at": "2026-06-13T01:14:51Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "Watch: Why is Trump not at the World Cup?",
+      "url": "https://www.bbc.com/news/videos/ced48dv99lvo?at_medium=RSS&at_campaign=rss",
+      "summary": "All three leaders of the North America host nations have missed the tournament opening matches.",
+      "published_at": "2026-06-13T00:56:37Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Deal to end fighting would lead to Hormuz reopening, Iran says",
+      "url": "https://www.bbc.com/news/articles/c39y02x98k8o?at_medium=RSS&at_campaign=rss",
+      "summary": "The deal which will pave the way for hostilities to end is close to being finalised, the US, Iran and mediators Pakistan say.",
+      "published_at": "2026-06-13T00:51:20Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "Popular US movie critic Gene Shalit dies aged 100",
+      "url": "https://www.bbc.com/news/articles/cddl612l35ro?at_medium=RSS&at_campaign=rss",
+      "summary": "The moustachioed reviewer was a popular fixture in American households from the 1970s through to his retirement in 2010.",
+      "published_at": "2026-06-13T00:42:28Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -16,24 +61,6 @@
       "url": "https://www.bbc.com/sport/football/articles/cn8qgny4186o?at_medium=RSS&at_campaign=rss",
       "summary": "Ghana midfielder Thomas Partey will miss his nation's first World Cup game in Toronto against Panama, after being denied entry to Canada.",
       "published_at": "2026-06-12T21:37:42Z",
-      "country_code": "CA",
-      "country_name": "Canada"
-    },
-    {
-      "source": "BBC World",
-      "title": "Deal to end fighting would lead to Hormuz reopening, Iran says",
-      "url": "https://www.bbc.com/news/articles/c39y02x98k8o?at_medium=RSS&at_campaign=rss",
-      "summary": "The deal which will pave the way for hostilities to end is close to being finalised, the US, Iran and mediators Pakistan say.",
-      "published_at": "2026-06-12T21:04:05Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "World Cup kicks off in Canada with Alanis Morissette and Michael Bublé performing in opening ceremony",
-      "url": "https://www.bbc.com/news/articles/c4g9g9xy9y7o?at_medium=RSS&at_campaign=rss",
-      "summary": "The opening games in Toronto and Los Angeles on Friday include star-studded performances.",
-      "published_at": "2026-06-12T20:43:14Z",
       "country_code": "CA",
       "country_name": "Canada"
     },
@@ -870,17 +897,12 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 39
+      "news_count": 43
     },
     {
       "country_code": "IL",
       "country_name": "Israel",
       "news_count": 6
-    },
-    {
-      "country_code": "CA",
-      "country_name": "Canada",
-      "news_count": 4
     },
     {
       "country_code": "FR",
@@ -906,6 +928,11 @@
       "country_code": "ZA",
       "country_name": "South Africa",
       "news_count": 4
+    },
+    {
+      "country_code": "CA",
+      "country_name": "Canada",
+      "news_count": 3
     },
     {
       "country_code": "GB",
