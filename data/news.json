@@ -1,11 +1,20 @@
 {
-  "generated_at": "2026-06-13T19:07:02Z",
+  "generated_at": "2026-06-13T20:44:01Z",
   "articles": [
     {
+      "source": "BBC US & Canada",
+      "title": "The nuclear challenge at the heart of Trump's Iran negotiations",
+      "url": "https://www.bbc.com/news/articles/cqj1zxv1jyeo?at_medium=RSS&at_campaign=rss",
+      "summary": "US officials say the deal will lead to the destruction of Iran's enriched uranium, but details are still to be worked out.",
+      "published_at": "2026-06-13T20:38:09Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
       "source": "BBC World",
-      "title": "US-Iran deal scheduled to be signed on Sunday, says Trump",
+      "title": "Trump says US-Iran deal to be signed on Sunday as Tehran casts doubt on timing",
       "url": "https://www.bbc.com/news/articles/cvglmn49xz0o?at_medium=RSS&at_campaign=rss",
-      "summary": "Before the US president's comments, Iran expressed caution about the exact timing.",
+      "summary": "The US president's comments come as Iran says an exact date has not been decided, but it \"will not be tomorrow\".",
       "published_at": "2026-06-13T18:39:26Z",
       "country_code": "US",
       "country_name": "United States"
@@ -36,15 +45,6 @@
       "published_at": "2026-06-13T15:24:25Z",
       "country_code": "AU",
       "country_name": "Australia"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "The nuclear challenge at the heart of Trump's Iran negotiations",
-      "url": "https://www.bbc.com/news/articles/cqj1zxv1jyeo?at_medium=RSS&at_campaign=rss",
-      "summary": "US officials say the deal will lead to the destruction of Iran's enriched uranium, but details are still to be worked out.",
-      "published_at": "2026-06-13T14:01:20Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC Africa",
@@ -342,15 +342,6 @@
       "published_at": "2026-06-11T16:34:05Z",
       "country_code": "CA",
       "country_name": "Canada"
-    },
-    {
-      "source": "BBC Africa",
-      "title": "Deadly Sudan drone strike targets funeral procession",
-      "url": "https://www.bbc.com/news/articles/c70yeee2jvqo?at_medium=RSS&at_campaign=rss",
-      "summary": "Rights groups accuse the RSF paramilitary group of killing civilians in el-Obeid, a city on the civil war's front line.",
-      "published_at": "2026-06-11T15:57:04Z",
-      "country_code": "SD",
-      "country_name": "Sudan"
     },
     {
       "source": "BBC Europe",
@@ -1067,11 +1058,6 @@
     {
       "country_code": "PS",
       "country_name": "Palestine",
-      "news_count": 1
-    },
-    {
-      "country_code": "SD",
-      "country_name": "Sudan",
       "news_count": 1
     },
     {
