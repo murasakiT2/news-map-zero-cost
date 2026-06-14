@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-06-14T13:09:55Z",
+  "generated_at": "2026-06-14T15:22:28Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "'Boyfriend duties call,' Trudeau says after skipping Canada match to watch Perry",
+      "url": "https://www.bbc.com/news/articles/cly9eljexnno?at_medium=RSS&at_campaign=rss",
+      "summary": "Cameras caught Perry running off stage to greet the former Canadian leader with a kiss.",
+      "published_at": "2026-06-14T14:52:35Z",
+      "country_code": "CA",
+      "country_name": "Canada"
+    },
     {
       "source": "BBC World",
       "title": "Trump says US-Iran deal to be signed on Sunday as Tehran casts doubt on timing",
@@ -326,15 +335,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC US & Canada",
-      "title": "Why does the US have Iran's Kharg Island in its sights?",
-      "url": "https://www.bbc.com/news/articles/c8jxzlwvd8ro?at_medium=RSS&at_campaign=rss",
-      "summary": "The tiny island is home to one of the most critical pieces of Iran's energy infrastructure.",
-      "published_at": "2026-06-11T18:29:43Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC Africa",
       "title": "Injuries force Ezzalzouli & Aguerd out of World Cup",
       "url": "https://www.bbc.com/sport/football/articles/c5yrr1k6nxyo?at_medium=RSS&at_campaign=rss",
@@ -342,15 +342,6 @@
       "published_at": "2026-06-11T17:26:40Z",
       "country_code": "MA",
       "country_name": "Morocco"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "Three ships attacked by the US in three days: What we know",
-      "url": "https://www.bbc.com/news/articles/crlw3k5l3k4o?at_medium=RSS&at_campaign=rss",
-      "summary": "Three tankers have been struck by the US military over the past three days, killing at least three people.",
-      "published_at": "2026-06-11T17:04:35Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC Europe",
@@ -371,15 +362,6 @@
       "country_name": "Pakistan"
     },
     {
-      "source": "BBC US & Canada",
-      "title": "Everything to know about Canada's team",
-      "url": "https://www.bbc.com/news/articles/c1kyenz90m7o?at_medium=RSS&at_campaign=rss",
-      "summary": "Canada are in search of glory on home soil - if star man Alphonso Davies can prove his fitness.",
-      "published_at": "2026-06-11T16:34:05Z",
-      "country_code": "CA",
-      "country_name": "Canada"
-    },
-    {
       "source": "BBC Europe",
       "title": "Sweden ditches plan to imprison 13-year-old serious offenders",
       "url": "https://www.bbc.com/news/articles/c0qy0dqldqjo?at_medium=RSS&at_campaign=rss",
@@ -396,15 +378,6 @@
       "published_at": "2026-06-11T14:24:58Z",
       "country_code": "FR",
       "country_name": "France"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "Everything to know about the US team",
-      "url": "https://www.bbc.com/news/articles/cwydg55we5ro?at_medium=RSS&at_campaign=rss",
-      "summary": "How will the United States men's national soccer team (USMNT) perform at the World Cup?",
-      "published_at": "2026-06-11T13:40:22Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC Latin America",
@@ -888,7 +861,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 41
+      "news_count": 38
     },
     {
       "country_code": "IL",
