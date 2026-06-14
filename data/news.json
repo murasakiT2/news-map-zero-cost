@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-06-13T23:57:31Z",
+  "generated_at": "2026-06-14T03:37:16Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Nigerian author accuses hospital of stalling review into her son's death",
+      "url": "https://www.bbc.com/news/articles/cgk6jzkr0xvo?at_medium=RSS&at_campaign=rss",
+      "summary": "Chimamanda Ngozi Adichie's 21-month old son died in a Lagos hospital, which she says is trying to stop an inquest into the circumstances of …",
+      "published_at": "2026-06-14T01:08:20Z",
+      "country_code": "NG",
+      "country_name": "Nigeria"
+    },
     {
       "source": "BBC US & Canada",
       "title": "The nuclear challenge at the heart of Trump's Iran negotiations",
@@ -1029,6 +1038,11 @@
     {
       "country_code": "IQ",
       "country_name": "Iraq",
+      "news_count": 1
+    },
+    {
+      "country_code": "NG",
+      "country_name": "Nigeria",
       "news_count": 1
     },
     {
