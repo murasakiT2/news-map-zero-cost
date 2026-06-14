@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-06-14T11:11:01Z",
+  "generated_at": "2026-06-14T13:09:55Z",
   "articles": [
-    {
-      "source": "BBC Africa",
-      "title": "Fifa to pay Somali referee Artan full World Cup fee",
-      "url": "https://www.bbc.com/sport/football/articles/c79y10r2plzo?at_medium=RSS&at_campaign=rss",
-      "summary": "Somali referee Omar Artan, who was denied entry to the United States to officiate at the World Cup, will still receive his tournament fee fr…",
-      "published_at": "2026-06-14T09:00:08Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
     {
       "source": "BBC World",
       "title": "Trump says US-Iran deal to be signed on Sunday as Tehran casts doubt on timing",
       "url": "https://www.bbc.com/news/articles/cvglmn49xz0o?at_medium=RSS&at_campaign=rss",
       "summary": "The US president's comments come as Iran says an exact date has not been decided.",
-      "published_at": "2026-06-14T07:55:16Z",
+      "published_at": "2026-06-14T11:23:36Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Fifa to pay Somali referee Artan full World Cup fee",
+      "url": "https://www.bbc.com/sport/football/articles/c79y10r2plzo?at_medium=RSS&at_campaign=rss",
+      "summary": "Somali referee Omar Artan, who was denied entry to the United States to officiate at the World Cup, will still receive his tournament fee fr…",
+      "published_at": "2026-06-14T09:00:08Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -119,16 +119,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
-      "title": "Married at First Sight Australia stars not told partners had drug and violence convictions",
-      "url": "https://www.bbc.com/news/articles/clypy0ndvjlo?at_medium=RSS&at_campaign=rss",
-      "summary": "Stars of the hit TV show say they did not know their on-screen husbands had previous convictions.",
-      "published_at": "2026-06-13T05:00:04Z",
-      "country_code": "AU",
-      "country_name": "Australia"
-    },
-    {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "Warner Bros $111bn sale to Paramount approved by US justice department",
       "url": "https://www.bbc.com/news/articles/cjwgled9jxwo?at_medium=RSS&at_campaign=rss",
       "summary": "The approval marks a key development in the merger that will reshape media, allowing the continue of the takeover of the Hollywood studio, w…",
@@ -180,15 +171,6 @@
       "published_at": "2026-06-12T22:08:38Z",
       "country_code": "FI",
       "country_name": "Finland"
-    },
-    {
-      "source": "BBC World",
-      "title": "Fans on concourses instead of in seats, claims Fifa",
-      "url": "https://www.bbc.com/sport/football/articles/c14y0dp6vrdo?at_medium=RSS&at_campaign=rss",
-      "summary": "Fifa says numerous empty seats were visible in the near-sell-out Group A match between South Korea and the Czech Republic because of fans re…",
-      "published_at": "2026-06-12T20:26:23Z",
-      "country_code": "KR",
-      "country_name": "South Korea"
     },
     {
       "source": "BBC US & Canada",
@@ -964,11 +946,6 @@
       "news_count": 2
     },
     {
-      "country_code": "KR",
-      "country_name": "South Korea",
-      "news_count": 2
-    },
-    {
       "country_code": "MX",
       "country_name": "Mexico",
       "news_count": 2
@@ -994,11 +971,6 @@
       "news_count": 1
     },
     {
-      "country_code": "AU",
-      "country_name": "Australia",
-      "news_count": 1
-    },
-    {
       "country_code": "BR",
       "country_name": "Brazil",
       "news_count": 1
@@ -1016,6 +988,11 @@
     {
       "country_code": "IQ",
       "country_name": "Iraq",
+      "news_count": 1
+    },
+    {
+      "country_code": "KR",
+      "country_name": "South Korea",
       "news_count": 1
     },
     {
