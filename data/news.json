@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-06-14T20:02:45Z",
+  "generated_at": "2026-06-14T21:47:54Z",
   "articles": [
     {
       "source": "BBC World",
+      "title": "UK and Japan agree £18bn investment deal",
+      "url": "https://www.bbc.com/news/articles/cx2kjwgwxwlo?at_medium=RSS&at_campaign=rss",
+      "summary": "Japanese firms will spend billions on UK infrastructure and offshore wind, Downing Street says.",
+      "published_at": "2026-06-14T20:29:15Z",
+      "country_code": "GB",
+      "country_name": "United Kingdom"
+    },
+    {
+      "source": "BBC Middle East",
       "title": "Israeli military says Hezbollah targets struck in Beirut",
       "url": "https://www.bbc.com/news/articles/czj83zlx1vjo?at_medium=RSS&at_campaign=rss",
       "summary": "Israel says it targeted the Iran-backed armed group Hezbollah, as Tehran warns this could derail a US-Iran deal to end the fighting.",
       "published_at": "2026-06-14T17:52:36Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "UK and Japan agree £18bn investment deal",
-      "url": "https://www.bbc.com/news/articles/cx2kjwgwxwlo?at_medium=RSS&at_campaign=rss",
-      "summary": "Japanese firms will spend billions on UK infrastructure and offshore wind, Downing Street says.",
-      "published_at": "2026-06-14T15:25:33Z",
-      "country_code": "GB",
-      "country_name": "United Kingdom"
     },
     {
       "source": "BBC World",
@@ -45,6 +45,15 @@
       "published_at": "2026-06-14T09:00:08Z",
       "country_code": "US",
       "country_name": "United States"
+    },
+    {
+      "source": "BBC Africa",
+      "title": "Refugee who quit Bayern to create Aussie World Cup dream",
+      "url": "https://www.bbc.com/sport/football/articles/c33y424vv4zo?at_medium=RSS&at_campaign=rss",
+      "summary": "Nestory Irankunda was born as a refugee in Tanzania before becoming Australian record breaker with goal in victory over Turkey.",
+      "published_at": "2026-06-14T07:41:05Z",
+      "country_code": "TR",
+      "country_name": "Turkey"
     },
     {
       "source": "BBC World",
@@ -108,6 +117,15 @@
       "published_at": "2026-06-13T20:38:09Z",
       "country_code": "US",
       "country_name": "United States"
+    },
+    {
+      "source": "BBC Africa",
+      "title": "South Africa beaten by Australia in T20 World Cup",
+      "url": "https://www.bbc.com/sport/cricket/articles/cqx19egz025o?at_medium=RSS&at_campaign=rss",
+      "summary": "Australia open their T20 World Cup campaign with a 65-run victory over fellow contenders South Africa to lay down an early marker.",
+      "published_at": "2026-06-13T17:11:43Z",
+      "country_code": "AU",
+      "country_name": "Australia"
     },
     {
       "source": "BBC US & Canada",
@@ -552,15 +570,6 @@
     },
     {
       "source": "BBC Africa",
-      "title": "What happened and why?",
-      "url": "https://www.bbc.com/sport/football/videos/cwyk9zlxlw8o?at_medium=RSS&at_campaign=rss",
-      "summary": "The first Somali set to referee at a World Cup finals has been dropped from the list of officials after he was denied entry to the United St…",
-      "published_at": "2026-06-09T09:30:23Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC Africa",
       "title": "He told us we were slaves - The fight for justice on a Scottish fishing trawler",
       "url": "https://www.bbc.com/news/articles/cvg7d83nl7no?at_medium=RSS&at_campaign=rss",
       "summary": "The migrant fishermen who waited nine years to give evidence about the company that exploited them.",
@@ -750,15 +759,6 @@
     },
     {
       "source": "BBC Africa",
-      "title": "Mayor cancels DR Congo friendly over Ebola concern",
-      "url": "https://www.bbc.com/sport/football/articles/cm2pd28jnyxo?at_medium=RSS&at_campaign=rss",
-      "summary": "DR Congo's international friendly against Chile in Spain next week is cancelled after authorities raise health concerns over the Ebola outbr…",
-      "published_at": "2026-06-02T19:28:55Z",
-      "country_code": "ES",
-      "country_name": "Spain"
-    },
-    {
-      "source": "BBC Africa",
       "title": "Two shot dead during Kenya protests over US Ebola centre plan",
       "url": "https://www.bbc.com/news/videos/cdrp8r5z7j4o?at_medium=RSS&at_campaign=rss",
       "summary": "Clashes break out against a planned US Ebola quarantine facility in Kenya.",
@@ -855,13 +855,22 @@
       "published_at": "2026-04-30T02:03:17Z",
       "country_code": "KE",
       "country_name": "Kenya"
+    },
+    {
+      "source": "BBC Africa",
+      "title": "'I was not thinking to run a world record'",
+      "url": "https://www.bbc.com/sport/athletics/videos/c78q5nq11zwo?at_medium=RSS&at_campaign=rss",
+      "summary": "Kenya's new sporting icon Sabastian Sawe admits his world record time at the London Marathon came as a surprise.",
+      "published_at": "2026-04-28T11:18:38Z",
+      "country_code": "KE",
+      "country_name": "Kenya"
     }
   ],
   "regions": [
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 37
+      "news_count": 36
     },
     {
       "country_code": "IL",
@@ -884,6 +893,11 @@
       "news_count": 4
     },
     {
+      "country_code": "KE",
+      "country_name": "Kenya",
+      "news_count": 4
+    },
+    {
       "country_code": "RU",
       "country_name": "Russia",
       "news_count": 4
@@ -899,19 +913,9 @@
       "news_count": 3
     },
     {
-      "country_code": "KE",
-      "country_name": "Kenya",
-      "news_count": 3
-    },
-    {
       "country_code": "MA",
       "country_name": "Morocco",
       "news_count": 3
-    },
-    {
-      "country_code": "ES",
-      "country_name": "Spain",
-      "news_count": 2
     },
     {
       "country_code": "IR",
@@ -944,8 +948,18 @@
       "news_count": 1
     },
     {
+      "country_code": "AU",
+      "country_name": "Australia",
+      "news_count": 1
+    },
+    {
       "country_code": "BR",
       "country_name": "Brazil",
+      "news_count": 1
+    },
+    {
+      "country_code": "ES",
+      "country_name": "Spain",
       "news_count": 1
     },
     {
@@ -991,6 +1005,11 @@
     {
       "country_code": "TH",
       "country_name": "Thailand",
+      "news_count": 1
+    },
+    {
+      "country_code": "TR",
+      "country_name": "Turkey",
       "news_count": 1
     }
   ]
