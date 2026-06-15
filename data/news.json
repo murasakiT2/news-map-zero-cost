@@ -1,14 +1,23 @@
 {
-  "generated_at": "2026-06-15T20:20:31Z",
+  "generated_at": "2026-06-15T22:31:52Z",
   "articles": [
     {
       "source": "BBC US & Canada",
-      "title": "US Air Force B-52 bomber plane crashes after take off in California",
+      "title": "Eight feared dead after US Air Force B-52 bomber plane crashes in California",
       "url": "https://www.bbc.com/news/articles/cqx10yql319o?at_medium=RSS&at_campaign=rss",
-      "summary": "Officials did not say if anyone was injured in the crash, but the aircraft typically carry a crew of five.",
-      "published_at": "2026-06-15T20:19:59Z",
+      "summary": "Officials say initial reports indicate that the crash was \"not survivable\".",
+      "published_at": "2026-06-15T22:30:52Z",
       "country_code": "US",
       "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Trump says deal to end war with Iran already signed and details to be released 'pretty soon'",
+      "url": "https://www.bbc.com/news/articles/ce8mv6l6eezo?at_medium=RSS&at_campaign=rss",
+      "summary": "Trump says Strait of Hormuz will be open from Friday but there is still confusion about the exact contents of the agreement.",
+      "published_at": "2026-06-15T20:33:54Z",
+      "country_code": "IR",
+      "country_name": "Iran"
     },
     {
       "source": "BBC Middle East",
@@ -873,13 +882,13 @@
       "news_count": 33
     },
     {
-      "country_code": "FR",
-      "country_name": "France",
-      "news_count": 5
-    },
-    {
       "country_code": "IR",
       "country_name": "Iran",
+      "news_count": 6
+    },
+    {
+      "country_code": "FR",
+      "country_name": "France",
       "news_count": 5
     },
     {
