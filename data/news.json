@@ -1,8 +1,71 @@
 {
-  "generated_at": "2026-06-16T15:47:27Z",
+  "generated_at": "2026-06-16T19:26:48Z",
   "articles": [
     {
-      "source": "BBC Middle East",
+      "source": "BBC World",
+      "title": "UK investigating reports Russian warship fired warning shots near yacht in English Channel",
+      "url": "https://www.bbc.com/news/articles/c20yzm84r7lo?at_medium=RSS&at_campaign=rss",
+      "summary": "BBC News understands the yacht had drifted towards the Admiral Grigorovich, a Russian frigate which has been operating in the Channel.",
+      "published_at": "2026-06-16T18:53:10Z",
+      "country_code": "GB",
+      "country_name": "United Kingdom"
+    },
+    {
+      "source": "BBC Europe",
+      "title": "Russian warship fires warning shots near UK-registered yacht in Channel",
+      "url": "https://www.bbc.com/news/articles/c20yzm84r7lo?at_medium=RSS&at_campaign=rss",
+      "summary": "BBC News understands the yacht had drifted towards the Admiral Grigorovich, a Russian frigate which has been operating in the Channel.",
+      "published_at": "2026-06-16T18:53:10Z",
+      "country_code": "GB",
+      "country_name": "United Kingdom"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "Little Algeria - the Kansas city taking a World Cup team to its heart",
+      "url": "https://www.bbc.com/sport/football/articles/c621xlkx712o?at_medium=RSS&at_campaign=rss",
+      "summary": "In a small city in the state of Kansas, a World Cup love story has started.",
+      "published_at": "2026-06-16T18:41:22Z",
+      "country_code": "DZ",
+      "country_name": "Algeria"
+    },
+    {
+      "source": "BBC World",
+      "title": "Russian artist and Putin critic shot dead in Poland",
+      "url": "https://www.bbc.com/news/articles/clyrzd5g6k2o?at_medium=RSS&at_campaign=rss",
+      "summary": "Robert Kuzovkov, who used the pseudonym Semyon Skrepetsky, has been known for his caricatures of politicians including Vladimir Putin.",
+      "published_at": "2026-06-16T17:33:50Z",
+      "country_code": "PL",
+      "country_name": "Poland"
+    },
+    {
+      "source": "BBC World",
+      "title": "Hundreds of cats stolen for food in Vietnam rescued by police, welfare group says",
+      "url": "https://www.bbc.com/news/articles/c20yzm58vk3o?at_medium=RSS&at_campaign=rss",
+      "summary": "Police have arrested nine people and rescued more than 400 cats destined for slaughter, with more than 40 reunited with their owners.",
+      "published_at": "2026-06-16T17:17:55Z",
+      "country_code": "VN",
+      "country_name": "Vietnam"
+    },
+    {
+      "source": "BBC World",
+      "title": "Fragile quiet in Lebanon as US-Iran truce leaves unanswered questions",
+      "url": "https://www.bbc.com/news/articles/cvgepl5gdp1o?at_medium=RSS&at_campaign=rss",
+      "summary": "Many Lebanese remain doubtful that the agreement could finally mean the end of the fighting between Israel and Hezbollah.",
+      "published_at": "2026-06-16T16:20:33Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Drones create the first-ever Fifa scoreboard in Seattle sky",
+      "url": "https://www.bbc.com/news/videos/ced4y9ljye9o?at_medium=RSS&at_campaign=rss",
+      "summary": "BBC reporter Max Matza is in Seattle, Washington, where 400 drones lit up the night sky on Monday to display the score of the Egypt v Belgiu…",
+      "published_at": "2026-06-16T16:20:04Z",
+      "country_code": "BE",
+      "country_name": "Belgium"
+    },
+    {
+      "source": "BBC World",
       "title": "Tehran selling deal with US as victory – but for Iranians it was necessity",
       "url": "https://www.bbc.com/news/articles/cn4rwzxvl8ko?at_medium=RSS&at_campaign=rss",
       "summary": "For many Iranians, the question is not whether the deal means victory, but whether it lowers prices and reduces fear of another war.",
@@ -18,6 +81,15 @@
       "published_at": "2026-06-16T15:19:52Z",
       "country_code": "US",
       "country_name": "United States"
+    },
+    {
+      "source": "BBC Africa",
+      "title": "Cape Verde hero 'convinced by team-mates not to retire'",
+      "url": "https://www.bbc.com/sport/football/videos/cgrkgj7ed00o?at_medium=RSS&at_campaign=rss",
+      "summary": "A friend of Vozinha said the Cape Verde goalkeeper's starring role in the World Cup game against Spain \"couldn't have happened to a nicer pe…",
+      "published_at": "2026-06-16T15:03:25Z",
+      "country_code": "ES",
+      "country_name": "Spain"
     },
     {
       "source": "BBC World",
@@ -47,15 +119,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
-      "title": "Russian artist and Putin critic shot dead in Poland",
-      "url": "https://www.bbc.com/news/articles/clyrzd5g6k2o?at_medium=RSS&at_campaign=rss",
-      "summary": "Robert Kuzovkov, who used the pseudonym Semyon Skrepetsky, has been known for his caricatures of politicians including Vladimir Putin.",
-      "published_at": "2026-06-16T10:37:16Z",
-      "country_code": "PL",
-      "country_name": "Poland"
-    },
-    {
       "source": "BBC US & Canada",
       "title": "'Daylight robbery but worth it' - what fans are spending on World Cup",
       "url": "https://www.bbc.com/news/articles/cy73xe2006po?at_medium=RSS&at_campaign=rss",
@@ -74,7 +137,7 @@
       "country_name": "India"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Africa",
       "title": "Nigerian army frees widow of ex-general who died in captivity",
       "url": "https://www.bbc.com/news/articles/cly720833z5o?at_medium=RSS&at_campaign=rss",
       "summary": "Maj Gen Rabe Abubakar and his wife Amina were abducted in north-west Nigeria at the end of last month.",
@@ -128,7 +191,7 @@
       "country_name": "New Zealand"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Middle East",
       "title": "Iran deal presents political nightmare for Netanyahu",
       "url": "https://www.bbc.com/news/articles/cj4gnqw8j52o?at_medium=RSS&at_campaign=rss",
       "summary": "Donald Trump's ceasefire agreement with Iran leaves the Israeli PM trapped in a new political and security dilemma.",
@@ -153,15 +216,6 @@
       "published_at": "2026-06-16T00:34:57Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "Married at First Sight Australia allegations 'disturbing', says country's watchdog",
-      "url": "https://www.bbc.com/news/articles/c4gyp099vl7o?at_medium=RSS&at_campaign=rss",
-      "summary": "The claims also prompted a response from UK media regulator Ofcom, who called them \"deeply concerning\".",
-      "published_at": "2026-06-15T23:40:31Z",
-      "country_code": "GB",
-      "country_name": "United Kingdom"
     },
     {
       "source": "BBC World",
@@ -250,15 +304,6 @@
       "url": "https://www.bbc.com/news/articles/cqj1zxv1jyeo?at_medium=RSS&at_campaign=rss",
       "summary": "President Trump says the US and Iran have agreed a deal to end the war but it is unclear what has been agreed on Iran's nuclear programme",
       "published_at": "2026-06-15T13:54:18Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "Watch: What does the US-Iran deal to end war mean for Lebanon and Israel?",
-      "url": "https://www.bbc.com/news/videos/cg4wk2z6n74o?at_medium=RSS&at_campaign=rss",
-      "summary": "It's not clear if the deal means the Israelis will pause their offensive in Lebanon, BBC international editor Jeremy Bowen reports.",
-      "published_at": "2026-06-15T13:50:39Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -417,15 +462,6 @@
     },
     {
       "source": "BBC Africa",
-      "title": "Fifa to pay Somali referee Artan full World Cup fee",
-      "url": "https://www.bbc.com/sport/football/articles/c79y10r2plzo?at_medium=RSS&at_campaign=rss",
-      "summary": "Somali referee Omar Artan, who was denied entry to the United States to officiate at the World Cup, will still receive his tournament fee fr…",
-      "published_at": "2026-06-14T09:00:08Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC Africa",
       "title": "Refugee who quit Bayern to create Aussie World Cup dream",
       "url": "https://www.bbc.com/sport/football/articles/c33y424vv4zo?at_medium=RSS&at_campaign=rss",
       "summary": "Nestory Irankunda was born as a refugee in Tanzania before becoming Australian record breaker with goal in victory over Turkey.",
@@ -524,15 +560,6 @@
       "country_name": "Finland"
     },
     {
-      "source": "BBC Asia",
-      "title": "More time needed for deadly Air India crash inquiry, officials say",
-      "url": "https://www.bbc.com/news/articles/cnv93899vzqo?at_medium=RSS&at_campaign=rss",
-      "summary": "A statement says \"significant progress\" has been made into investigating the crash, in which 260 people died a year ago.",
-      "published_at": "2026-06-12T15:09:40Z",
-      "country_code": "IN",
-      "country_name": "India"
-    },
-    {
       "source": "BBC Africa",
       "title": "'Nightmare from start to finish' for South Africa in opener",
       "url": "https://www.bbc.com/sport/football/articles/cn4dx3v9wjgo?at_medium=RSS&at_campaign=rss",
@@ -558,15 +585,6 @@
       "published_at": "2026-06-12T10:52:42Z",
       "country_code": "ZA",
       "country_name": "South Africa"
-    },
-    {
-      "source": "BBC Middle East",
-      "title": "Three Indian sailors killed in US strike on oil tanker",
-      "url": "https://www.bbc.com/news/articles/cy73dr081p8o?at_medium=RSS&at_campaign=rss",
-      "summary": "The US military had attacked the Palau-flagged tanker on Wednesday after accusing it of not complying with directions.",
-      "published_at": "2026-06-12T05:58:57Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC Middle East",
@@ -614,15 +632,6 @@
       "country_name": "France"
     },
     {
-      "source": "BBC Middle East",
-      "title": "Vance says Israeli PM Netanyahu 'has got some things wrong'",
-      "url": "https://www.bbc.com/news/articles/c9q2lq3vv7zo?at_medium=RSS&at_campaign=rss",
-      "summary": "The US vice-president says the Israeli leader \"aggressively asserts\" his country's interests, but they do not always align with those of the…",
-      "published_at": "2026-06-11T10:26:59Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC Latin America",
       "title": "A sneak peek inside Mexico’s iconic Azteca Stadium before World Cup kickoff",
       "url": "https://www.bbc.com/news/videos/cvgekz5q06po?at_medium=RSS&at_campaign=rss",
@@ -650,33 +659,6 @@
       "country_name": "Morocco"
     },
     {
-      "source": "BBC Middle East",
-      "title": "Sea drone rescues US army helicopter crew near Strait of Hormuz",
-      "url": "https://www.bbc.com/news/articles/cwy0l44ex5wo?at_medium=RSS&at_campaign=rss",
-      "summary": "The uncrewed vessel - which looks similar to a speedboat - rescued the two soldiers from an Apache helicopter that went down on Monday.",
-      "published_at": "2026-06-09T23:35:20Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC Middle East",
-      "title": "UK and allies sanction 'networks' enabling settler violence in West Bank",
-      "url": "https://www.bbc.com/news/articles/cddl4dl9m3po?at_medium=RSS&at_campaign=rss",
-      "summary": "France will also bar far-right Israeli Minister Bezalel Smotrich from entry as part of the measures, which Israel condemns as \"disgraceful\".",
-      "published_at": "2026-06-09T20:38:55Z",
-      "country_code": "GB",
-      "country_name": "United Kingdom"
-    },
-    {
-      "source": "BBC Middle East",
-      "title": "Israeli air strikes hit Lebanese city of Tyre despite Iranian warning to stop attacks",
-      "url": "https://www.bbc.com/news/articles/c36y16nkr5no?at_medium=RSS&at_campaign=rss",
-      "summary": "Iran warned Israel on Monday that it could resume hostilities if attacks on its Lebanese ally Hezbollah do not stop.",
-      "published_at": "2026-06-09T17:47:41Z",
-      "country_code": "IL",
-      "country_name": "Israel"
-    },
-    {
       "source": "BBC Africa",
       "title": "Who is the Somali referee barred from entering the US for the World Cup?",
       "url": "https://www.bbc.com/news/articles/c8j27zkp94zo?at_medium=RSS&at_campaign=rss",
@@ -700,24 +682,6 @@
       "url": "https://www.bbc.com/news/articles/cvg7d83nl7no?at_medium=RSS&at_campaign=rss",
       "summary": "The migrant fishermen who waited nine years to give evidence about the company that exploited them.",
       "published_at": "2026-06-09T05:15:10Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC Middle East",
-      "title": "Israel and Iran flare-up could strengthen Tehran's negotiating hand",
-      "url": "https://www.bbc.com/news/articles/cp8lm75186lo?at_medium=RSS&at_campaign=rss",
-      "summary": "Iran appears emboldened by the outcome and its leaders may sense Trump's appetite for risk is low.",
-      "published_at": "2026-06-09T05:07:44Z",
-      "country_code": "IL",
-      "country_name": "Israel"
-    },
-    {
-      "source": "BBC Middle East",
-      "title": "Trump tells BBC Netanyahu did not defy him",
-      "url": "https://www.bbc.com/news/videos/cd958e7j8q9o?at_medium=RSS&at_campaign=rss",
-      "summary": "In a call with the US president, the BBC’s Sarah Smith asked Trump about the war in Iran and his relationship with the Israeli leader.",
-      "published_at": "2026-06-08T22:34:25Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -803,6 +767,15 @@
       "country_name": "Iran"
     },
     {
+      "source": "BBC Middle East",
+      "title": "Iran attacks damage 20 US military sites since start of war, satellite images show",
+      "url": "https://www.bbc.com/news/articles/c2l2yl7r8r2o?at_medium=RSS&at_campaign=rss",
+      "summary": "Analysts told BBC Verify that Tehran's strikes were more extensive than publicly acknowledged.",
+      "published_at": "2026-06-01T05:33:18Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
       "source": "BBC Europe",
       "title": "Between celebration and confrontation: Paris after PSG victory",
       "url": "https://www.bbc.com/news/videos/czr2zzyrgdxo?at_medium=RSS&at_campaign=rss",
@@ -810,6 +783,51 @@
       "published_at": "2026-05-31T20:38:19Z",
       "country_code": "FR",
       "country_name": "France"
+    },
+    {
+      "source": "BBC Middle East",
+      "title": "Are US and Iran close to peace or sliding back to war?",
+      "url": "https://www.bbc.com/news/articles/cze29764067o?at_medium=RSS&at_campaign=rss",
+      "summary": "Neither side seems interested in a return to all-out conflict, despite the latest exchange of strikes.",
+      "published_at": "2026-05-28T16:56:19Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC Middle East",
+      "title": "Learning from Ukraine war, Hezbollah is now using fibre-optic drones to hit Israel",
+      "url": "https://www.bbc.com/news/articles/c0r2ydlvk41o?at_medium=RSS&at_campaign=rss",
+      "summary": "Fibre-optic drones are now Hezbollah's primary weapon against Israel's soldiers and civilians.",
+      "published_at": "2026-05-28T16:39:30Z",
+      "country_code": "UA",
+      "country_name": "Ukraine"
+    },
+    {
+      "source": "BBC Middle East",
+      "title": "'Like a prisoner being released' - Relief for Iranians as internet shutdown ends",
+      "url": "https://www.bbc.com/news/articles/cx21x812w1lo?at_medium=RSS&at_campaign=rss",
+      "summary": "The government imposed the blackout after the start of the war with the US and Israel in February, cutting most Iranians off from the outsid…",
+      "published_at": "2026-05-27T12:27:12Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC Middle East",
+      "title": "How Saudi Arabia's spending spree reached the end of the line",
+      "url": "https://www.bbc.com/news/articles/cx21g0828reo?at_medium=RSS&at_campaign=rss",
+      "summary": "MBS's Vison 2030 project seemed the stuff of science fiction. Now reality has bitten",
+      "published_at": "2026-05-25T01:08:39Z",
+      "country_code": "SA",
+      "country_name": "Saudi Arabia"
+    },
+    {
+      "source": "BBC Middle East",
+      "title": "I survived a missile strike in the Strait of Hormuz, but my friend has not been found",
+      "url": "https://www.bbc.com/news/articles/ce8pn63q771o?at_medium=RSS&at_campaign=rss",
+      "summary": "Sunil Puniya was on his first sea job when a missile struck the oil tanker Skylight at the start of the Iran war.",
+      "published_at": "2026-05-23T23:24:03Z",
+      "country_code": "IR",
+      "country_name": "Iran"
     },
     {
       "source": "BBC Africa",
@@ -843,26 +861,16 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 32
+      "news_count": 30
     },
     {
       "country_code": "IR",
       "country_name": "Iran",
-      "news_count": 6
+      "news_count": 7
     },
     {
       "country_code": "FR",
       "country_name": "France",
-      "news_count": 5
-    },
-    {
-      "country_code": "IL",
-      "country_name": "Israel",
-      "news_count": 5
-    },
-    {
-      "country_code": "IN",
-      "country_name": "India",
       "news_count": 5
     },
     {
@@ -873,11 +881,21 @@
     {
       "country_code": "ES",
       "country_name": "Spain",
-      "news_count": 3
+      "news_count": 4
+    },
+    {
+      "country_code": "IN",
+      "country_name": "India",
+      "news_count": 4
     },
     {
       "country_code": "GB",
       "country_name": "United Kingdom",
+      "news_count": 3
+    },
+    {
+      "country_code": "IL",
+      "country_name": "Israel",
       "news_count": 3
     },
     {
@@ -906,8 +924,18 @@
       "news_count": 2
     },
     {
+      "country_code": "SA",
+      "country_name": "Saudi Arabia",
+      "news_count": 2
+    },
+    {
       "country_code": "AU",
       "country_name": "Australia",
+      "news_count": 1
+    },
+    {
+      "country_code": "BE",
+      "country_name": "Belgium",
       "news_count": 1
     },
     {
@@ -923,6 +951,11 @@
     {
       "country_code": "CN",
       "country_name": "China",
+      "news_count": 1
+    },
+    {
+      "country_code": "DZ",
+      "country_name": "Algeria",
       "news_count": 1
     },
     {
@@ -976,11 +1009,6 @@
       "news_count": 1
     },
     {
-      "country_code": "SA",
-      "country_name": "Saudi Arabia",
-      "news_count": 1
-    },
-    {
       "country_code": "SE",
       "country_name": "Sweden",
       "news_count": 1
@@ -988,6 +1016,16 @@
     {
       "country_code": "TR",
       "country_name": "Turkey",
+      "news_count": 1
+    },
+    {
+      "country_code": "UA",
+      "country_name": "Ukraine",
+      "news_count": 1
+    },
+    {
+      "country_code": "VN",
+      "country_name": "Vietnam",
       "news_count": 1
     }
   ]
