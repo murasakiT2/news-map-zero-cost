@@ -1,23 +1,32 @@
 {
-  "generated_at": "2026-06-16T19:26:48Z",
+  "generated_at": "2026-06-16T21:58:52Z",
   "articles": [
+    {
+      "source": "BBC US & Canada",
+      "title": "Some 'Lost Canadians' told to surrender new citizenship certificates",
+      "url": "https://www.bbc.com/news/articles/cx2k78k1kjlo?at_medium=RSS&at_campaign=rss",
+      "summary": "\"It has devastated me,\" said one man who moved to Canada under the new law that grants citizenship to those who can prove an ancestral tie t…",
+      "published_at": "2026-06-16T21:47:43Z",
+      "country_code": "CA",
+      "country_name": "Canada"
+    },
     {
       "source": "BBC World",
       "title": "UK investigating reports Russian warship fired warning shots near yacht in English Channel",
       "url": "https://www.bbc.com/news/articles/c20yzm84r7lo?at_medium=RSS&at_campaign=rss",
-      "summary": "BBC News understands the yacht had drifted towards the Admiral Grigorovich, a Russian frigate which has been operating in the Channel.",
-      "published_at": "2026-06-16T18:53:10Z",
+      "summary": "The retired couple tell BBC Newsnight they tried to show the warship they had changed course before the shots were fired.",
+      "published_at": "2026-06-16T21:44:25Z",
       "country_code": "GB",
       "country_name": "United Kingdom"
     },
     {
-      "source": "BBC Europe",
-      "title": "Russian warship fires warning shots near UK-registered yacht in Channel",
-      "url": "https://www.bbc.com/news/articles/c20yzm84r7lo?at_medium=RSS&at_campaign=rss",
-      "summary": "BBC News understands the yacht had drifted towards the Admiral Grigorovich, a Russian frigate which has been operating in the Channel.",
-      "published_at": "2026-06-16T18:53:10Z",
-      "country_code": "GB",
-      "country_name": "United Kingdom"
+      "source": "BBC US & Canada",
+      "title": "Watch: Why is Trump furious with Netanyahu over strikes on Lebanon?",
+      "url": "https://www.bbc.com/news/videos/cvgmqelv0edo?at_medium=RSS&at_campaign=rss",
+      "summary": "The BBC's Tom Bateman looks at the US president's reaction to what he called \"vicious\" strikes.",
+      "published_at": "2026-06-16T21:32:24Z",
+      "country_code": "US",
+      "country_name": "United States"
     },
     {
       "source": "BBC US & Canada",
@@ -623,15 +632,6 @@
       "country_name": "South Africa"
     },
     {
-      "source": "BBC Africa",
-      "title": "Artan to referee Uefa Super Cup after losing World Cup role",
-      "url": "https://www.bbc.com/sport/football/articles/c2kyx0l0499o?at_medium=RSS&at_campaign=rss",
-      "summary": "Somali referee Omar Artan is appointed to take charge of the Uefa Super Cup match between Paris St-Germain and Aston Villa later this summer…",
-      "published_at": "2026-06-11T14:24:58Z",
-      "country_code": "FR",
-      "country_name": "France"
-    },
-    {
       "source": "BBC Latin America",
       "title": "A sneak peek inside Mexico’s iconic Azteca Stadium before World Cup kickoff",
       "url": "https://www.bbc.com/news/videos/cvgekz5q06po?at_medium=RSS&at_campaign=rss",
@@ -702,15 +702,6 @@
       "published_at": "2026-06-07T23:00:27Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC Africa",
-      "title": "Brighton agree £21.5m deal for Nigeria winger Yohanna",
-      "url": "https://www.bbc.com/sport/football/articles/cjeg2w8zv5yo?at_medium=RSS&at_campaign=rss",
-      "summary": "Brighton agree to sign Nigerian winger Zadok Yohanna from AIK Stockholm in a deal worth £21.5m.",
-      "published_at": "2026-06-06T18:25:16Z",
-      "country_code": "SE",
-      "country_name": "Sweden"
     },
     {
       "source": "BBC Africa",
@@ -861,17 +852,12 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 30
+      "news_count": 31
     },
     {
       "country_code": "IR",
       "country_name": "Iran",
       "news_count": 7
-    },
-    {
-      "country_code": "FR",
-      "country_name": "France",
-      "news_count": 5
     },
     {
       "country_code": "ZA",
@@ -884,14 +870,14 @@
       "news_count": 4
     },
     {
-      "country_code": "IN",
-      "country_name": "India",
+      "country_code": "FR",
+      "country_name": "France",
       "news_count": 4
     },
     {
-      "country_code": "GB",
-      "country_name": "United Kingdom",
-      "news_count": 3
+      "country_code": "IN",
+      "country_name": "India",
+      "news_count": 4
     },
     {
       "country_code": "IL",
@@ -907,6 +893,16 @@
       "country_code": "RU",
       "country_name": "Russia",
       "news_count": 3
+    },
+    {
+      "country_code": "CA",
+      "country_name": "Canada",
+      "news_count": 2
+    },
+    {
+      "country_code": "GB",
+      "country_name": "United Kingdom",
+      "news_count": 2
     },
     {
       "country_code": "MA",
@@ -941,11 +937,6 @@
     {
       "country_code": "BR",
       "country_name": "Brazil",
-      "news_count": 1
-    },
-    {
-      "country_code": "CA",
-      "country_name": "Canada",
       "news_count": 1
     },
     {
@@ -1006,11 +997,6 @@
     {
       "country_code": "PL",
       "country_name": "Poland",
-      "news_count": 1
-    },
-    {
-      "country_code": "SE",
-      "country_name": "Sweden",
       "news_count": 1
     },
     {
