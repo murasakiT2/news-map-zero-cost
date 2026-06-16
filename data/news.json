@@ -1,14 +1,86 @@
 {
-  "generated_at": "2026-06-16T05:41:14Z",
+  "generated_at": "2026-06-16T10:52:22Z",
   "articles": [
     {
       "source": "BBC World",
-      "title": "Japan raises interest rate to highest since 1995",
+      "title": "Russian artist and Putin critic shot dead in Poland",
+      "url": "https://www.bbc.com/news/articles/clyrzd5g6k2o?at_medium=RSS&at_campaign=rss",
+      "summary": "Robert Kuzovkov, who used the pseudonym Semyon Skrepetsky, has been known for his caricatures of politicians including Vladimir Putin.",
+      "published_at": "2026-06-16T10:37:16Z",
+      "country_code": "PL",
+      "country_name": "Poland"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "'Daylight robbery but worth it' - what fans are spending on World Cup",
+      "url": "https://www.bbc.com/news/articles/cy73xe2006po?at_medium=RSS&at_campaign=rss",
+      "summary": "Fans in the US, Canada and Mexico are spending big on tickets, transport and accommodation - is it worth it?",
+      "published_at": "2026-06-16T10:08:20Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "India temporarily bans Telegram over exam paper leak concerns",
+      "url": "https://www.bbc.com/news/articles/cn074j04l3eo?at_medium=RSS&at_campaign=rss",
+      "summary": "The NEET exam had earlier been scrapped over allegations of a paper leak, sparking massive protests.",
+      "published_at": "2026-06-16T09:23:06Z",
+      "country_code": "IN",
+      "country_name": "India"
+    },
+    {
+      "source": "BBC World",
+      "title": "Nigerian army frees widow of ex-general who died in captivity",
+      "url": "https://www.bbc.com/news/articles/cly720833z5o?at_medium=RSS&at_campaign=rss",
+      "summary": "Maj Gen Rabe Abubakar and his wife Amina were abducted in north-west Nigeria at the end of last month.",
+      "published_at": "2026-06-16T09:06:57Z",
+      "country_code": "NG",
+      "country_name": "Nigeria"
+    },
+    {
+      "source": "BBC World",
+      "title": "Japan raises interest rate to highest for 31 years",
       "url": "https://www.bbc.com/news/articles/cjdgl213dpzo?at_medium=RSS&at_campaign=rss",
       "summary": "The Bank of Japan has been raising rates from near-zero since 2024.",
-      "published_at": "2026-06-16T05:35:57Z",
+      "published_at": "2026-06-16T08:26:30Z",
       "country_code": "JP",
       "country_name": "Japan"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "Trump may release US-Iran deal before Friday, Vance says",
+      "url": "https://www.bbc.com/news/articles/ce8mv6l6eezo?at_medium=RSS&at_campaign=rss",
+      "summary": "The US vice-president says the agreement is \"about a page and a half\" and \"very general\", meaning many details will be worked out later.",
+      "published_at": "2026-06-16T08:07:32Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Tunisia sack head coach just one game into World Cup",
+      "url": "https://www.bbc.com/sport/football/articles/cp8rldpky7wo?at_medium=RSS&at_campaign=rss",
+      "summary": "Tunisia sack Sabri Lamouchi one game into their World Cup, with former Morocco and Saudi Arabia manager Herve Renard replacing him.",
+      "published_at": "2026-06-16T06:43:19Z",
+      "country_code": "SA",
+      "country_name": "Saudi Arabia"
+    },
+    {
+      "source": "BBC Africa",
+      "title": "Tunisia sack Lamouchi just one game into World Cup",
+      "url": "https://www.bbc.com/sport/football/articles/cp8rldpky7wo?at_medium=RSS&at_campaign=rss",
+      "summary": "Tunisia sack Sabri Lamouchi one game into their World Cup, with former Morocco and Saudi Arabia manager Herve Renard replacing him.",
+      "published_at": "2026-06-16T06:43:19Z",
+      "country_code": "SA",
+      "country_name": "Saudi Arabia"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "Iran v Iran in the stands in LA as politics and football intertwine",
+      "url": "https://www.bbc.com/sport/football/articles/cvgj1v4pnvyo?at_medium=RSS&at_campaign=rss",
+      "summary": "The game with New Zealand revealed just how divided many Iranians remain, writes BBC's Shaimaa Khalil.",
+      "published_at": "2026-06-16T04:31:48Z",
+      "country_code": "NZ",
+      "country_name": "New Zealand"
     },
     {
       "source": "BBC World",
@@ -18,15 +90,6 @@
       "published_at": "2026-06-16T04:25:59Z",
       "country_code": "NZ",
       "country_name": "New Zealand"
-    },
-    {
-      "source": "BBC World",
-      "title": "Trump may release US-Iran deal before Friday, Vance says",
-      "url": "https://www.bbc.com/news/articles/ce8mv6l6eezo?at_medium=RSS&at_campaign=rss",
-      "summary": "The US vice-president says the agreement is \"about a page and a half\" and \"very general\", meaning many details will be worked out later.",
-      "published_at": "2026-06-16T03:54:12Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC World",
@@ -41,8 +104,17 @@
       "source": "BBC World",
       "title": "Eight dead after US Air Force B-52 bomber crashes in California",
       "url": "https://www.bbc.com/news/articles/cqx10yql319o?at_medium=RSS&at_campaign=rss",
-      "summary": "The Boeing B-52 Stratofortress has been used by the US military since the 1950s.",
+      "summary": "The incident occurred on Monday morning while the aircraft had been on a routine test mission.",
       "published_at": "2026-06-16T01:49:03Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "No, there’s no plot to make you allergic to meat",
+      "url": "https://www.bbc.com/news/videos/c5yzdejw2eko?at_medium=RSS&at_campaign=rss",
+      "summary": "Viral conspiracy posts claim there is a secret effort to spread ticks on US farms to trigger an allergy to red meat.",
+      "published_at": "2026-06-16T00:34:57Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -88,6 +160,15 @@
       "url": "https://www.bbc.com/news/articles/clyer09rd1ro?at_medium=RSS&at_campaign=rss",
       "summary": "The streets of the capital, Praia, shook with wild celebrations as the small island nation held Spain to a shock 0-0 draw.",
       "published_at": "2026-06-15T23:01:30Z",
+      "country_code": "ES",
+      "country_name": "Spain"
+    },
+    {
+      "source": "BBC Africa",
+      "title": "The 40-year-old keeper who inspired Cape Verde's historic debut",
+      "url": "https://www.bbc.com/sport/football/articles/c0ryz4n2v0qo?at_medium=RSS&at_campaign=rss",
+      "summary": "Cape Verde stuns Spain with a goalless draw inspired by a 40-year-old goalkeeper who has gone viral on social media.",
+      "published_at": "2026-06-15T20:15:42Z",
       "country_code": "ES",
       "country_name": "Spain"
     },
@@ -146,7 +227,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC US & Canada",
+      "source": "BBC Middle East",
       "title": "Trump aims to end Iran war but nuclear issue remains unresolved",
       "url": "https://www.bbc.com/news/articles/cqj1zxv1jyeo?at_medium=RSS&at_campaign=rss",
       "summary": "President Trump says the US and Iran have agreed a deal to end the war but it is unclear what has been agreed on Iran's nuclear programme",
@@ -164,6 +245,15 @@
       "country_name": "United States"
     },
     {
+      "source": "BBC US & Canada",
+      "title": "Dozens of Stanford grads walk out on Google CEO's speech",
+      "url": "https://www.bbc.com/news/videos/cp9ly81797ko?at_medium=RSS&at_campaign=rss",
+      "summary": "Video filmed by the BBC showed dozens of people walking out, some carrying signs expressing concern about the company's controversial work w…",
+      "published_at": "2026-06-15T13:32:22Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
       "source": "BBC Europe",
       "title": "Russia was behind arson attacks targeting PM, BBC reveals",
       "url": "https://www.bbc.com/news/articles/c8r2l352z2do?at_medium=RSS&at_campaign=rss",
@@ -173,7 +263,7 @@
       "country_name": "Russia"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "South Korea's Starbucks to shut for staff history lesson after backlash",
       "url": "https://www.bbc.com/news/articles/ckg4n3pyjg9o?at_medium=RSS&at_campaign=rss",
       "summary": "The chain was criticised for a \"Tank Day\" marketing ploy on the anniversary of a military massacre.",
@@ -191,22 +281,13 @@
       "country_name": "France"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "Russian strikes kill 11 and set historic cathedral in Kyiv ablaze",
       "url": "https://www.bbc.com/news/articles/c4gy037gjz3o?at_medium=RSS&at_campaign=rss",
       "summary": "A Ukrainian drone attack in the Russian city of Tula, south of Moscow, killed three people.",
       "published_at": "2026-06-15T12:07:36Z",
       "country_code": "RU",
       "country_name": "Russia"
-    },
-    {
-      "source": "BBC World",
-      "title": "Olé, olé, olé, olé - What makes a memorable World Cup song?",
-      "url": "https://www.bbc.com/news/articles/c5yz434v7nro?at_medium=RSS&at_campaign=rss",
-      "summary": "Northern Ireland's contribution to the World Cup song includes tournaments in Mexico, Spain and Italy.",
-      "published_at": "2026-06-15T10:58:23Z",
-      "country_code": "IT",
-      "country_name": "Italy"
     },
     {
       "source": "BBC World",
@@ -245,7 +326,7 @@
       "country_name": "Iran"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "US musician Oliver Tree dies in helicopter collision in Brazil",
       "url": "https://www.bbc.com/news/articles/cqj1dd5rgnzo?at_medium=RSS&at_campaign=rss",
       "summary": "The singer-songwriter is among six people presumed dead in an air crash over Rio de Janeiro on Sunday.",
@@ -272,7 +353,7 @@
       "country_name": "Iran"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Middle East",
       "title": "Unclear if US-Iran agreement will provide respite to Lebanon",
       "url": "https://www.bbc.com/news/articles/cd952n4qz2qo?at_medium=RSS&at_campaign=rss",
       "summary": "Pakistan says the deal includes Lebanon, but recent ceasefires there have failed to take hold.",
@@ -281,38 +362,11 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "Why I sold my business to my staff",
       "url": "https://www.bbc.com/news/articles/c0ey87z1ggjo?at_medium=RSS&at_campaign=rss",
       "summary": "As more US company owners reach retirement age many are selling up to their employees.",
       "published_at": "2026-06-14T23:26:01Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "Is the convertible heading into the sunset?",
-      "url": "https://www.bbc.com/news/articles/cx212yy4er0o?at_medium=RSS&at_campaign=rss",
-      "summary": "UK drivers have taken a shine to the SUV but could the fate of the convertible be reversed?",
-      "published_at": "2026-06-14T23:25:00Z",
-      "country_code": "GB",
-      "country_name": "United Kingdom"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "Canadian prime minister in Ireland to visit ancestral homeland",
-      "url": "https://www.bbc.com/news/articles/c0ryqyq8v42o?at_medium=RSS&at_campaign=rss",
-      "summary": "Mark Carney met relatives in the Mayo village from where his grandparents emigrated to Canada in 1925.",
-      "published_at": "2026-06-14T23:03:12Z",
-      "country_code": "CA",
-      "country_name": "Canada"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "Eleven skydivers and pilot killed in US plane crash",
-      "url": "https://www.bbc.com/news/articles/c74ym4j40gpo?at_medium=RSS&at_campaign=rss",
-      "summary": "The plane had just taken off in the US state of Missouri, but failed to gain altitude, according to local emergency responders.",
-      "published_at": "2026-06-14T20:32:00Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -333,15 +387,6 @@
       "published_at": "2026-06-14T17:52:36Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "'Boyfriend duties call,' Trudeau says after skipping Canada match to watch Perry",
-      "url": "https://www.bbc.com/news/articles/cly9eljexnno?at_medium=RSS&at_campaign=rss",
-      "summary": "Cameras caught Perry running off stage to greet the former Canadian leader with a kiss.",
-      "published_at": "2026-06-14T14:52:35Z",
-      "country_code": "CA",
-      "country_name": "Canada"
     },
     {
       "source": "BBC Middle East",
@@ -416,15 +461,6 @@
       "country_name": "Australia"
     },
     {
-      "source": "BBC US & Canada",
-      "title": "Why is football called 'soccer' in the US and Canada?",
-      "url": "https://www.bbc.com/news/articles/clyexj7dggpo?at_medium=RSS&at_campaign=rss",
-      "summary": "Football is life for millions of fans around the world, but in two World Cup co-host nations, they tend to call it by a different name.",
-      "published_at": "2026-06-13T15:33:54Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC Africa",
       "title": "Ghana government wants review of Partey Canada ban",
       "url": "https://www.bbc.com/sport/football/articles/ce3en0nz251o?at_medium=RSS&at_campaign=rss",
@@ -488,15 +524,6 @@
       "country_name": "India"
     },
     {
-      "source": "BBC US & Canada",
-      "title": "Watch: Four UFO videos newly declassified by US government",
-      "url": "https://www.bbc.com/news/videos/c8e2w83kxryo?at_medium=RSS&at_campaign=rss",
-      "summary": "The eyewitness footage shows bright orbs in the sky over an undisclosed location in the northeastern US.",
-      "published_at": "2026-06-12T14:59:52Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC Africa",
       "title": "'Nightmare from start to finish' for South Africa in opener",
       "url": "https://www.bbc.com/sport/football/articles/cn4dx3v9wjgo?at_medium=RSS&at_campaign=rss",
@@ -542,15 +569,6 @@
       "country_name": "Israel"
     },
     {
-      "source": "BBC Asia",
-      "title": "Jailed South Korea ex-president gets 30 more years for sending drones into North",
-      "url": "https://www.bbc.com/news/articles/c17ydny8zyro?at_medium=RSS&at_campaign=rss",
-      "summary": "Prosecutors argued that Yoon ordered the operation to provoke Pyongyang and create a pretext for martial law.",
-      "published_at": "2026-06-12T03:28:03Z",
-      "country_code": "KR",
-      "country_name": "South Korea"
-    },
-    {
       "source": "BBC Latin America",
       "title": "Watch: Fans celebrate Mexico's win in World Cup opening match",
       "url": "https://www.bbc.com/news/videos/cd7w581v2j1o?at_medium=RSS&at_campaign=rss",
@@ -578,15 +596,6 @@
       "country_name": "India"
     },
     {
-      "source": "BBC US & Canada",
-      "title": "'I'm going to have fun either way' - Canadian fans navigate split loyalties in World Cup",
-      "url": "https://www.bbc.com/news/articles/cpd3qjljw0yo?at_medium=RSS&at_campaign=rss",
-      "summary": "As Canada's national team prepare for its home turf tournament debut, some Canadian fans face a dilemma: can you cheer for more than one tea…",
-      "published_at": "2026-06-11T23:10:04Z",
-      "country_code": "CA",
-      "country_name": "Canada"
-    },
-    {
       "source": "BBC Latin America",
       "title": "'Once in a lifetime' - Mexico fans share excitement as World Cup kicks off",
       "url": "https://www.bbc.com/news/videos/cgqj13v3z5eo?at_medium=RSS&at_campaign=rss",
@@ -594,15 +603,6 @@
       "published_at": "2026-06-11T21:57:15Z",
       "country_code": "ZA",
       "country_name": "South Africa"
-    },
-    {
-      "source": "BBC Europe",
-      "title": "Ryanair investigated over charging parents to sit with children",
-      "url": "https://www.bbc.com/news/articles/czj87rvx349o?at_medium=RSS&at_campaign=rss",
-      "summary": "The UK's competition regulator is investigating the airline over charges it imposes on parents to sit next to their child.",
-      "published_at": "2026-06-11T16:58:39Z",
-      "country_code": "GB",
-      "country_name": "United Kingdom"
     },
     {
       "source": "BBC Europe",
@@ -758,15 +758,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Latin America",
-      "title": "Mexico City attempts record-breaking wave",
-      "url": "https://www.bbc.com/news/videos/c3wy6j2868lo?at_medium=RSS&at_campaign=rss",
-      "summary": "As part of the countdown to the World Cup, Mexico City is attempting to surpass the world record for largest wave.",
-      "published_at": "2026-06-07T17:53:32Z",
-      "country_code": "MX",
-      "country_name": "Mexico"
-    },
-    {
       "source": "BBC Africa",
       "title": "Brighton agree £21.5m deal for Nigeria winger Yohanna",
       "url": "https://www.bbc.com/sport/football/articles/cjeg2w8zv5yo?at_medium=RSS&at_campaign=rss",
@@ -783,15 +774,6 @@
       "published_at": "2026-06-05T23:22:18Z",
       "country_code": "ZA",
       "country_name": "South Africa"
-    },
-    {
-      "source": "BBC Latin America",
-      "title": "Protesters topple World Cup player statues in Mexico City",
-      "url": "https://www.bbc.com/news/videos/cqlplddez4xo?at_medium=RSS&at_campaign=rss",
-      "summary": "Teachers demanding higher pay have been demonstrating for several days and threaten to disrupt the tournament if their demands are not met.",
-      "published_at": "2026-06-04T21:24:01Z",
-      "country_code": "MX",
-      "country_name": "Mexico"
     },
     {
       "source": "BBC Latin America",
@@ -891,15 +873,6 @@
       "published_at": "2026-04-28T11:18:38Z",
       "country_code": "KE",
       "country_name": "Kenya"
-    },
-    {
-      "source": "BBC Africa",
-      "title": "The human cost of the war in Sudan, three years on",
-      "url": "https://www.bbc.com/news/videos/czd77jgnnlno?at_medium=RSS&at_campaign=rss",
-      "summary": "The conflict, which erupted in 2023, has left behind a human toll which is \"simply staggering\", reports the BBC's Barbara Plett Usher.",
-      "published_at": "2026-04-15T08:38:36Z",
-      "country_code": "SD",
-      "country_name": "Sudan"
     }
   ],
   "regions": [
@@ -914,24 +887,14 @@
       "news_count": 6
     },
     {
-      "country_code": "GB",
-      "country_name": "United Kingdom",
-      "news_count": 5
-    },
-    {
-      "country_code": "MX",
-      "country_name": "Mexico",
+      "country_code": "IN",
+      "country_name": "India",
       "news_count": 5
     },
     {
       "country_code": "ZA",
       "country_name": "South Africa",
       "news_count": 5
-    },
-    {
-      "country_code": "CA",
-      "country_name": "Canada",
-      "news_count": 4
     },
     {
       "country_code": "FR",
@@ -944,13 +907,23 @@
       "news_count": 4
     },
     {
-      "country_code": "IN",
-      "country_name": "India",
-      "news_count": 4
+      "country_code": "ES",
+      "country_name": "Spain",
+      "news_count": 3
+    },
+    {
+      "country_code": "GB",
+      "country_name": "United Kingdom",
+      "news_count": 3
     },
     {
       "country_code": "KE",
       "country_name": "Kenya",
+      "news_count": 3
+    },
+    {
+      "country_code": "MX",
+      "country_name": "Mexico",
       "news_count": 3
     },
     {
@@ -964,18 +937,18 @@
       "news_count": 2
     },
     {
-      "country_code": "ES",
-      "country_name": "Spain",
-      "news_count": 2
-    },
-    {
-      "country_code": "KR",
-      "country_name": "South Korea",
-      "news_count": 2
-    },
-    {
       "country_code": "MA",
       "country_name": "Morocco",
+      "news_count": 2
+    },
+    {
+      "country_code": "NZ",
+      "country_name": "New Zealand",
+      "news_count": 2
+    },
+    {
+      "country_code": "SA",
+      "country_name": "Saudi Arabia",
       "news_count": 2
     },
     {
@@ -986,6 +959,11 @@
     {
       "country_code": "BR",
       "country_name": "Brazil",
+      "news_count": 1
+    },
+    {
+      "country_code": "CA",
+      "country_name": "Canada",
       "news_count": 1
     },
     {
@@ -1009,23 +987,23 @@
       "news_count": 1
     },
     {
-      "country_code": "IT",
-      "country_name": "Italy",
-      "news_count": 1
-    },
-    {
       "country_code": "JP",
       "country_name": "Japan",
       "news_count": 1
     },
     {
-      "country_code": "NO",
-      "country_name": "Norway",
+      "country_code": "KR",
+      "country_name": "South Korea",
       "news_count": 1
     },
     {
-      "country_code": "NZ",
-      "country_name": "New Zealand",
+      "country_code": "NG",
+      "country_name": "Nigeria",
+      "news_count": 1
+    },
+    {
+      "country_code": "NO",
+      "country_name": "Norway",
       "news_count": 1
     },
     {
@@ -1039,8 +1017,8 @@
       "news_count": 1
     },
     {
-      "country_code": "SD",
-      "country_name": "Sudan",
+      "country_code": "PL",
+      "country_name": "Poland",
       "news_count": 1
     },
     {
