@@ -1,23 +1,95 @@
 {
-  "generated_at": "2026-06-16T00:22:25Z",
+  "generated_at": "2026-06-16T05:41:14Z",
   "articles": [
     {
       "source": "BBC World",
-      "title": "Trump says deal to end war with Iran already signed and details to be released 'pretty soon'",
+      "title": "Japan raises interest rate to highest since 1995",
+      "url": "https://www.bbc.com/news/articles/cjdgl213dpzo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Bank of Japan has been raising rates from near-zero since 2024.",
+      "published_at": "2026-06-16T05:35:57Z",
+      "country_code": "JP",
+      "country_name": "Japan"
+    },
+    {
+      "source": "BBC World",
+      "title": "Iranian-Americans protest against Iran team at World Cup",
+      "url": "https://www.bbc.com/news/videos/cm20yglrgjlo?at_medium=RSS&at_campaign=rss",
+      "summary": "The BBC’s Shaimaa Khalil was outside the Iran v New Zealand opening round match as protesters called for an end to Tehran’s clerical regime.",
+      "published_at": "2026-06-16T04:25:59Z",
+      "country_code": "NZ",
+      "country_name": "New Zealand"
+    },
+    {
+      "source": "BBC World",
+      "title": "Trump may release US-Iran deal before Friday, Vance says",
       "url": "https://www.bbc.com/news/articles/ce8mv6l6eezo?at_medium=RSS&at_campaign=rss",
-      "summary": "Trump says Strait of Hormuz will be open from Friday but there is still confusion about the exact contents of the agreement.",
-      "published_at": "2026-06-16T00:03:56Z",
+      "summary": "The US vice-president says the agreement is \"about a page and a half\" and \"very general\", meaning many details will be worked out later.",
+      "published_at": "2026-06-16T03:54:12Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Iran deal presents political nightmare for Netanyahu",
+      "url": "https://www.bbc.com/news/articles/cj4gnqw8j52o?at_medium=RSS&at_campaign=rss",
+      "summary": "Donald Trump's ceasefire agreement with Iran leaves the Israeli PM trapped in a new political and security dilemma.",
+      "published_at": "2026-06-16T03:40:36Z",
       "country_code": "IR",
       "country_name": "Iran"
     },
     {
-      "source": "BBC US & Canada",
-      "title": "Eight people dead after US Air Force B-52 bomber crashes in California",
+      "source": "BBC World",
+      "title": "Eight dead after US Air Force B-52 bomber crashes in California",
       "url": "https://www.bbc.com/news/articles/cqx10yql319o?at_medium=RSS&at_campaign=rss",
       "summary": "The Boeing B-52 Stratofortress has been used by the US military since the 1950s.",
-      "published_at": "2026-06-15T23:52:56Z",
+      "published_at": "2026-06-16T01:49:03Z",
       "country_code": "US",
       "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Australia to probe assault claims by Gaza flotilla activists against Israeli forces",
+      "url": "https://www.bbc.com/news/articles/clyx4eny41zo?at_medium=RSS&at_campaign=rss",
+      "summary": "Australian activists claim they were kidnapped, raped and tortured after being detained in May.",
+      "published_at": "2026-06-16T00:11:47Z",
+      "country_code": "AU",
+      "country_name": "Australia"
+    },
+    {
+      "source": "BBC World",
+      "title": "Married at First Sight Australia allegations 'disturbing', says country's watchdog",
+      "url": "https://www.bbc.com/news/articles/c4gyp099vl7o?at_medium=RSS&at_campaign=rss",
+      "summary": "The claims also prompted a response from UK media regulator Ofcom, who called them \"deeply concerning\".",
+      "published_at": "2026-06-15T23:40:31Z",
+      "country_code": "GB",
+      "country_name": "United Kingdom"
+    },
+    {
+      "source": "BBC World",
+      "title": "What did Trump do differently to Obama on Iran?",
+      "url": "https://www.bbc.com/news/videos/cn94vqzev5lo?at_medium=RSS&at_campaign=rss",
+      "summary": "The BBC's Gary O'Donoghue looks at the contrasting approaches of the two presidents as Trump touts a new peace deal.",
+      "published_at": "2026-06-15T23:11:25Z",
+      "country_code": "IR",
+      "country_name": "Iran"
+    },
+    {
+      "source": "BBC World",
+      "title": "A year on, six questions still haunt the Air India crash investigation",
+      "url": "https://www.bbc.com/news/articles/c6214prydklo?at_medium=RSS&at_campaign=rss",
+      "summary": "From fuel switches to engine failures, here are the biggest mysteries around the Air India crash inquiry.",
+      "published_at": "2026-06-15T23:09:10Z",
+      "country_code": "IN",
+      "country_name": "India"
+    },
+    {
+      "source": "BBC World",
+      "title": "'Greatest feeling ever': Cape Verdeans tell BBC of joy at holding Spain to draw",
+      "url": "https://www.bbc.com/news/articles/clyer09rd1ro?at_medium=RSS&at_campaign=rss",
+      "summary": "The streets of the capital, Praia, shook with wild celebrations as the small island nation held Spain to a shock 0-0 draw.",
+      "published_at": "2026-06-15T23:01:30Z",
+      "country_code": "ES",
+      "country_name": "Spain"
     },
     {
       "source": "BBC Middle East",
@@ -27,15 +99,6 @@
       "published_at": "2026-06-15T18:27:23Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "Iran deal presents political nightmare for Netanyahu",
-      "url": "https://www.bbc.com/news/articles/cj4gnqw8j52o?at_medium=RSS&at_campaign=rss",
-      "summary": "Donald Trump's ceasefire agreement with Iran leaves the Israeli PM trapped in a new political and security dilemma.",
-      "published_at": "2026-06-15T18:15:30Z",
-      "country_code": "IR",
-      "country_name": "Iran"
     },
     {
       "source": "BBC World",
@@ -111,15 +174,6 @@
     },
     {
       "source": "BBC World",
-      "title": "Fifa seeks explanation over VAR official's hand gesture",
-      "url": "https://www.bbc.com/sport/football/articles/cy9rd8g1lwzo?at_medium=RSS&at_campaign=rss",
-      "summary": "Fifa is seeking an explanation over a hand gesture made by video assistant referee Shaun Evans before Germany's 7-1 win over Curacao on Sund…",
-      "published_at": "2026-06-15T12:59:09Z",
-      "country_code": "DE",
-      "country_name": "Germany"
-    },
-    {
-      "source": "BBC World",
       "title": "South Korea's Starbucks to shut for staff history lesson after backlash",
       "url": "https://www.bbc.com/news/articles/ckg4n3pyjg9o?at_medium=RSS&at_campaign=rss",
       "summary": "The chain was criticised for a \"Tank Day\" marketing ploy on the anniversary of a military massacre.",
@@ -173,7 +227,7 @@
       "country_name": "Pakistan"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "China detains two leaders of influential underground church",
       "url": "https://www.bbc.com/news/articles/ce9582vlm83o?at_medium=RSS&at_campaign=rss",
       "summary": "More than 30 members of Early Rain Covenant Church were taken for interrogation midway through Sunday service.",
@@ -272,15 +326,6 @@
       "country_name": "United Kingdom"
     },
     {
-      "source": "BBC World",
-      "title": "Protesters clash with police ahead of G7 summit in France",
-      "url": "https://www.bbc.com/news/videos/crkvek3dnrgo?at_medium=RSS&at_campaign=rss",
-      "summary": "Swiss police deployed a water cannon and fired tear gas to disperse anti-G7 protesters after clashes.",
-      "published_at": "2026-06-14T19:46:36Z",
-      "country_code": "FR",
-      "country_name": "France"
-    },
-    {
       "source": "BBC Middle East",
       "title": "Israeli military says Hezbollah targets struck in Beirut",
       "url": "https://www.bbc.com/news/articles/czj83zlx1vjo?at_medium=RSS&at_campaign=rss",
@@ -335,7 +380,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "Why the US economy keeps defying the odds",
       "url": "https://www.bbc.com/news/articles/cwy031el03po?at_medium=RSS&at_campaign=rss",
       "summary": "Why has the American economy continued to outperform so many of its peers, despite facing the same global shocks?",
@@ -479,7 +524,7 @@
       "country_name": "South Africa"
     },
     {
-      "source": "BBC Asia",
+      "source": "BBC Middle East",
       "title": "Three Indian sailors killed in US strike on oil tanker",
       "url": "https://www.bbc.com/news/articles/cy73dr081p8o?at_medium=RSS&at_campaign=rss",
       "summary": "The US military had attacked the Palau-flagged tanker on Wednesday after accusing it of not complying with directions.",
@@ -596,15 +641,6 @@
       "country_name": "Mexico"
     },
     {
-      "source": "BBC Asia",
-      "title": "The furious dispute over what caused Air India flight 171 to crash",
-      "url": "https://www.bbc.com/news/articles/cwyk9exxp2qo?at_medium=RSS&at_campaign=rss",
-      "summary": "The final conclusions of the investigation have yet to be published, although more could become apparent in the coming days.",
-      "published_at": "2026-06-10T23:10:11Z",
-      "country_code": "IN",
-      "country_name": "India"
-    },
-    {
       "source": "BBC Europe",
       "title": "Fireworks illuminate Barcelona's Sagrada Família during Pope visit",
       "url": "https://www.bbc.com/news/videos/ce95gmdlp98o?at_medium=RSS&at_campaign=rss",
@@ -639,15 +675,6 @@
       "published_at": "2026-06-09T20:38:55Z",
       "country_code": "GB",
       "country_name": "United Kingdom"
-    },
-    {
-      "source": "BBC Middle East",
-      "title": "Bowen: Trump and Netanyahu wanted to reshape the Middle East - now they risk a permacrisis",
-      "url": "https://www.bbc.com/news/articles/cjdgl548x3eo?at_medium=RSS&at_campaign=rss",
-      "summary": "The US and Israeli leaders have lost control of the consequences after miscalculating the Iran war.",
-      "published_at": "2026-06-09T20:14:12Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC Middle East",
@@ -887,8 +914,8 @@
       "news_count": 6
     },
     {
-      "country_code": "FR",
-      "country_name": "France",
+      "country_code": "GB",
+      "country_name": "United Kingdom",
       "news_count": 5
     },
     {
@@ -907,8 +934,8 @@
       "news_count": 4
     },
     {
-      "country_code": "GB",
-      "country_name": "United Kingdom",
+      "country_code": "FR",
+      "country_name": "France",
       "news_count": 4
     },
     {
@@ -932,6 +959,16 @@
       "news_count": 3
     },
     {
+      "country_code": "AU",
+      "country_name": "Australia",
+      "news_count": 2
+    },
+    {
+      "country_code": "ES",
+      "country_name": "Spain",
+      "news_count": 2
+    },
+    {
       "country_code": "KR",
       "country_name": "South Korea",
       "news_count": 2
@@ -947,11 +984,6 @@
       "news_count": 2
     },
     {
-      "country_code": "AU",
-      "country_name": "Australia",
-      "news_count": 1
-    },
-    {
       "country_code": "BR",
       "country_name": "Brazil",
       "news_count": 1
@@ -959,16 +991,6 @@
     {
       "country_code": "CN",
       "country_name": "China",
-      "news_count": 1
-    },
-    {
-      "country_code": "DE",
-      "country_name": "Germany",
-      "news_count": 1
-    },
-    {
-      "country_code": "ES",
-      "country_name": "Spain",
       "news_count": 1
     },
     {
@@ -992,8 +1014,18 @@
       "news_count": 1
     },
     {
+      "country_code": "JP",
+      "country_name": "Japan",
+      "news_count": 1
+    },
+    {
       "country_code": "NO",
       "country_name": "Norway",
+      "news_count": 1
+    },
+    {
+      "country_code": "NZ",
+      "country_name": "New Zealand",
       "news_count": 1
     },
     {
