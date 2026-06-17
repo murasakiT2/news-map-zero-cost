@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-06-16T23:23:21Z",
+  "generated_at": "2026-06-17T01:58:21Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "UK investigating reports Russian warship fired warning shots near yacht in English Channel",
+      "url": "https://www.bbc.com/news/articles/c20yzm84r7lo?at_medium=RSS&at_campaign=rss",
+      "summary": "The retired couple told BBC Newsnight they tried to show the warship they had changed course before the shots were fired.",
+      "published_at": "2026-06-17T00:25:39Z",
+      "country_code": "GB",
+      "country_name": "United Kingdom"
+    },
+    {
+      "source": "BBC Asia",
+      "title": "The bikers battling extreme heat and armed conflict to smuggle Iranian fuel to Pakistan",
+      "url": "https://www.bbc.com/news/articles/c621jr3yy09o?at_medium=RSS&at_campaign=rss",
+      "summary": "It's so hot the fuel can catch fire - the bikers tell the BBC they must live with the risk of injury and death.",
+      "published_at": "2026-06-16T23:52:37Z",
+      "country_code": "PK",
+      "country_name": "Pakistan"
+    },
     {
       "source": "BBC US & Canada",
       "title": "Some 'Lost Canadians' told to surrender new citizenship certificates",
@@ -9,15 +27,6 @@
       "published_at": "2026-06-16T21:47:43Z",
       "country_code": "CA",
       "country_name": "Canada"
-    },
-    {
-      "source": "BBC World",
-      "title": "UK investigating reports Russian warship fired warning shots near yacht in English Channel",
-      "url": "https://www.bbc.com/news/articles/c20yzm84r7lo?at_medium=RSS&at_campaign=rss",
-      "summary": "The retired couple tell BBC Newsnight they tried to show the warship they had changed course before the shots were fired.",
-      "published_at": "2026-06-16T21:44:25Z",
-      "country_code": "GB",
-      "country_name": "United Kingdom"
     },
     {
       "source": "BBC US & Canada",
@@ -378,15 +387,6 @@
       "published_at": "2026-06-15T09:42:20Z",
       "country_code": "PK",
       "country_name": "Pakistan"
-    },
-    {
-      "source": "BBC Asia",
-      "title": "China detains two leaders of influential underground church",
-      "url": "https://www.bbc.com/news/articles/ce9582vlm83o?at_medium=RSS&at_campaign=rss",
-      "summary": "More than 30 members of Early Rain Covenant Church were taken for interrogation midway through Sunday service.",
-      "published_at": "2026-06-15T07:56:43Z",
-      "country_code": "CN",
-      "country_name": "China"
     },
     {
       "source": "BBC Middle East",
@@ -920,6 +920,11 @@
       "news_count": 2
     },
     {
+      "country_code": "PK",
+      "country_name": "Pakistan",
+      "news_count": 2
+    },
+    {
       "country_code": "SA",
       "country_name": "Saudi Arabia",
       "news_count": 2
@@ -937,11 +942,6 @@
     {
       "country_code": "BR",
       "country_name": "Brazil",
-      "news_count": 1
-    },
-    {
-      "country_code": "CN",
-      "country_name": "China",
       "news_count": 1
     },
     {
@@ -987,11 +987,6 @@
     {
       "country_code": "PE",
       "country_name": "Peru",
-      "news_count": 1
-    },
-    {
-      "country_code": "PK",
-      "country_name": "Pakistan",
       "news_count": 1
     },
     {
