@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-17T20:33:25Z",
+  "generated_at": "2026-06-17T22:28:52Z",
   "articles": [
     {
       "source": "BBC World",
@@ -7,6 +7,15 @@
       "url": "https://www.bbc.com/news/articles/cgmd8dgklzzo?at_medium=RSS&at_campaign=rss",
       "summary": "Trump has insisted the deal ensures that Iran will never buy, develop or produce a nuclear weapon. But text of the agreement falls short of …",
       "published_at": "2026-06-17T20:23:13Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC Africa",
+      "title": "Cape Verde goalkeeper set to be reunited with his mum",
+      "url": "https://www.bbc.com/sport/football/articles/cgjxlpxxp6wo?at_medium=RSS&at_campaign=rss",
+      "summary": "Vozinha's mum has been granted a visa to travel to the US ahead of Cape Verde's next game against Uruguay.",
+      "published_at": "2026-06-17T19:42:13Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -852,7 +861,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 30
+      "news_count": 31
     },
     {
       "country_code": "IN",
