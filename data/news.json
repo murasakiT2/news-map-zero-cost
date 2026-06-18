@@ -1,21 +1,57 @@
 {
-  "generated_at": "2026-06-18T07:25:55Z",
+  "generated_at": "2026-06-18T11:33:42Z",
   "articles": [
+    {
+      "source": "BBC US & Canada",
+      "title": "Trump pauses spy chief confirmation in Congress",
+      "url": "https://www.bbc.com/news/articles/c33yzmjln1mo?at_medium=RSS&at_campaign=rss",
+      "summary": "The US Senate Intelligence Committee chair said Jay Clayton's hearing is \"unfortunately postponed\".",
+      "published_at": "2026-06-18T11:27:26Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC Europe",
+      "title": "Will Putin change tactics after Ukrainian drone attacks?",
+      "url": "https://www.bbc.com/news/videos/cgjx87jljqpo?at_medium=RSS&at_campaign=rss",
+      "summary": "Steve Rosenberg explains what Russia's next steps may be after frequent Ukrainian drone attacks.",
+      "published_at": "2026-06-18T10:52:38Z",
+      "country_code": "RU",
+      "country_name": "Russia"
+    },
+    {
+      "source": "BBC World",
+      "title": "Moscow hit by largest Ukrainian attack since start of Russia's full-scale war",
+      "url": "https://www.bbc.com/news/articles/c98291g5rr1o?at_medium=RSS&at_campaign=rss",
+      "summary": "A refinery and a shopping centre were burning after almost 200 Ukrainian drones struck an area to the south-east of the Russian capital.",
+      "published_at": "2026-06-18T09:47:47Z",
+      "country_code": "RU",
+      "country_name": "Russia"
+    },
+    {
+      "source": "BBC World",
+      "title": "Bolivia signs $20m deal with US to fight drug trafficking",
+      "url": "https://www.bbc.com/news/articles/c9w28vzj0q0o?at_medium=RSS&at_campaign=rss",
+      "summary": "Under its new president, Bolivia is re-establishing severed ties with the US to combat organised crime.",
+      "published_at": "2026-06-18T09:19:10Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC Europe",
+      "title": "'The team needs to score, not you' - Ronaldo struggles as rivals sparkle",
+      "url": "https://www.bbc.com/sport/football/articles/cpq3734ln8yo?at_medium=RSS&at_campaign=rss",
+      "summary": "Three superstars delivered for their countries at the World Cup on Tuesday. But Cristiano Ronaldo could not follow suit on Wednesday as Port…",
+      "published_at": "2026-06-18T08:23:07Z",
+      "country_code": "PT",
+      "country_name": "Portugal"
+    },
     {
       "source": "BBC Middle East",
       "title": "US and Iranian presidents sign deal aiming to end war",
       "url": "https://www.bbc.com/news/articles/crr8z4z2er9o?at_medium=RSS&at_campaign=rss",
       "summary": "The fate of Iran's nuclear programme, a key reason cited by the US for starting the conflict, is still to be negotiated.",
       "published_at": "2026-06-18T03:03:29Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "Moment Trump signs US-Iran agreement at Palace of Versailles",
-      "url": "https://www.bbc.com/news/videos/crm03y1xx2no?at_medium=RSS&at_campaign=rss",
-      "summary": "The 14-point Memorandum of Understanding was signed at a post-G7 dinner in France.",
-      "published_at": "2026-06-18T01:59:38Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -34,6 +70,15 @@
       "url": "https://www.bbc.com/news/articles/cvgmqzr6p9mo?at_medium=RSS&at_campaign=rss",
       "summary": "The 14-paragraph memo includes an end to fighting, an agreement that Iran will never have a nuclear weapon, and a $300bn redevelopment packa…",
       "published_at": "2026-06-18T01:28:02Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "An ultra-rare Star Wars Lego collection went missing - it's sparked viral conspiracies",
+      "url": "https://www.bbc.com/news/articles/c39yn3r32yko?at_medium=RSS&at_campaign=rss",
+      "summary": "Bricks & Figs shops around the US have been receiving threats due to the missing Star Wars Lego set, the company says.",
+      "published_at": "2026-06-18T00:15:54Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -65,6 +110,24 @@
       "country_name": "Japan"
     },
     {
+      "source": "BBC US & Canada",
+      "title": "Three key takeaways from US-Iran agreement",
+      "url": "https://www.bbc.com/news/videos/cgqjv5w2dg1o?at_medium=RSS&at_campaign=rss",
+      "summary": "The BBC's Gary O'Donoghue breaks down the 14-paragraph memorandum of understanding between both two countries.",
+      "published_at": "2026-06-17T22:05:35Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC Africa",
+      "title": "South Africa bounce back with win over Pakistan",
+      "url": "https://www.bbc.com/sport/cricket/articles/cy8de2n8xk4o?at_medium=RSS&at_campaign=rss",
+      "summary": "Marizanne Kapp and Annerie Dercksen star as South Africa bounce back from defeat in their opening game, while Pakistan remain winless.",
+      "published_at": "2026-06-17T21:04:54Z",
+      "country_code": "PK",
+      "country_name": "Pakistan"
+    },
+    {
       "source": "BBC Africa",
       "title": "Cape Verde goalkeeper set to be reunited with his mum",
       "url": "https://www.bbc.com/sport/football/articles/cgjxlpxxp6wo?at_medium=RSS&at_campaign=rss",
@@ -84,19 +147,10 @@
     },
     {
       "source": "BBC US & Canada",
-      "title": "Fed holds US interest rates steady as uncertainty over Trump's Iran deal remains",
+      "title": "Warsh to review how Fed works after holding US interest rates at first meeting",
       "url": "https://www.bbc.com/news/articles/cdjkl78vd7lo?at_medium=RSS&at_campaign=rss",
       "summary": "The Federal Reserve held rates between 3.5% and 3.75% after Kevin Warsh's first meeting in charge of the central bank.",
       "published_at": "2026-06-17T18:41:12Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "Trump pauses spy chief confirmation in Congress",
-      "url": "https://www.bbc.com/news/articles/c33yzmjln1mo?at_medium=RSS&at_campaign=rss",
-      "summary": "The US Senate Intelligence Committee chair said Jay Clayton's hearing is \"unfortunately postponed\".",
-      "published_at": "2026-06-17T17:19:03Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -108,6 +162,15 @@
       "published_at": "2026-06-17T16:43:18Z",
       "country_code": "IN",
       "country_name": "India"
+    },
+    {
+      "source": "BBC Europe",
+      "title": "Record-breaking heatwave develops across Europe",
+      "url": "https://www.bbc.com/news/videos/cg4w1g4eydno?at_medium=RSS&at_campaign=rss",
+      "summary": "An intense heatwave is building across the continent, with Paris possibly seeing 40C by Sunday. Simon King reports.",
+      "published_at": "2026-06-17T14:59:16Z",
+      "country_code": "FR",
+      "country_name": "France"
     },
     {
       "source": "BBC US & Canada",
@@ -128,20 +191,11 @@
       "country_name": "South Africa"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Middle East",
       "title": "Iran sends tankers loaded with oil past US military blockade",
       "url": "https://www.bbc.com/news/articles/cpq37yxexd9o?at_medium=RSS&at_campaign=rss",
       "summary": "Three Iranian tankers loaded with crude oil have passed the US blockade line in the Gulf of Oman, ship-tracking data shows.",
       "published_at": "2026-06-17T13:27:47Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "Bolivia signs $20m deal with US to fight drug trafficking, foreign ministry says",
-      "url": "https://www.bbc.com/news/articles/c9w28vzj0q0o?at_medium=RSS&at_campaign=rss",
-      "summary": "Under its new president, Bolivia is re-establishing severed ties with the US to combat organised crime.",
-      "published_at": "2026-06-17T12:01:04Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -237,24 +291,6 @@
     },
     {
       "source": "BBC US & Canada",
-      "title": "Some 'Lost Canadians' told to surrender new citizenship certificates",
-      "url": "https://www.bbc.com/news/articles/cx2k78k1kjlo?at_medium=RSS&at_campaign=rss",
-      "summary": "\"It has devastated me,\" said one man who moved to Canada under the new law that grants citizenship to those who can prove an ancestral tie t…",
-      "published_at": "2026-06-16T21:47:43Z",
-      "country_code": "CA",
-      "country_name": "Canada"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "Watch: Why is Trump furious with Netanyahu over strikes on Lebanon?",
-      "url": "https://www.bbc.com/news/videos/cvgmqelv0edo?at_medium=RSS&at_campaign=rss",
-      "summary": "The BBC's Tom Bateman looks at the US president's reaction to what he called \"vicious\" strikes.",
-      "published_at": "2026-06-16T21:32:24Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC US & Canada",
       "title": "Little Algeria - the Kansas city taking a World Cup team to its heart",
       "url": "https://www.bbc.com/sport/football/articles/c621xlkx712o?at_medium=RSS&at_campaign=rss",
       "summary": "In a small city in the state of Kansas, a World Cup love story has started.",
@@ -290,7 +326,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "Drones create the first-ever Fifa scoreboard in Seattle sky",
       "url": "https://www.bbc.com/news/videos/ced4y9ljye9o?at_medium=RSS&at_campaign=rss",
       "summary": "BBC reporter Max Matza is in Seattle, Washington, where 400 drones lit up the night sky on Monday to display the score of the Egypt v Belgiu…",
@@ -299,7 +335,7 @@
       "country_name": "Belgium"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Middle East",
       "title": "Tehran selling deal with US as victory – but for Iranians it was necessity",
       "url": "https://www.bbc.com/news/articles/cn4rwzxvl8ko?at_medium=RSS&at_campaign=rss",
       "summary": "For many Iranians, the question is not whether the deal means victory, but whether it lowers prices and reduces fear of another war.",
@@ -362,7 +398,7 @@
       "country_name": "Japan"
     },
     {
-      "source": "BBC US & Canada",
+      "source": "BBC Middle East",
       "title": "Trump may release US-Iran deal before Friday, Vance says",
       "url": "https://www.bbc.com/news/articles/ce8mv6l6eezo?at_medium=RSS&at_campaign=rss",
       "summary": "The US vice-president says the agreement is \"about a page and a half\" and \"very general\", meaning many details will be worked out later.",
@@ -497,24 +533,6 @@
       "country_name": "South Korea"
     },
     {
-      "source": "BBC Europe",
-      "title": "France star Mbappe vows to increase defensive work",
-      "url": "https://www.bbc.com/sport/football/articles/cjegv7j5349o?at_medium=RSS&at_campaign=rss",
-      "summary": "French captain Kylian Mbappe vows to increase his defensive efforts at the World Cup in the face of criticism.",
-      "published_at": "2026-06-15T12:17:01Z",
-      "country_code": "FR",
-      "country_name": "France"
-    },
-    {
-      "source": "BBC Europe",
-      "title": "Russian strikes kill 11 and set historic cathedral in Kyiv ablaze",
-      "url": "https://www.bbc.com/news/articles/c4gy037gjz3o?at_medium=RSS&at_campaign=rss",
-      "summary": "A Ukrainian drone attack in the Russian city of Tula, south of Moscow, killed three people.",
-      "published_at": "2026-06-15T12:07:36Z",
-      "country_code": "RU",
-      "country_name": "Russia"
-    },
-    {
       "source": "BBC Latin America",
       "title": "Brazil woman dies after rope-jumping instructors fail to attach cord",
       "url": "https://www.bbc.com/news/articles/c5yz4xelnveo?at_medium=RSS&at_campaign=rss",
@@ -605,15 +623,6 @@
       "country_name": "Finland"
     },
     {
-      "source": "BBC Africa",
-      "title": "South Africa trolled by African fans in wake of World Cup loss",
-      "url": "https://www.bbc.com/news/articles/cm2jewrxvmjo?at_medium=RSS&at_campaign=rss",
-      "summary": "The taunting reflects anger from parts of the continent over reports of xenophobia in South Africa.",
-      "published_at": "2026-06-12T10:52:42Z",
-      "country_code": "ZA",
-      "country_name": "South Africa"
-    },
-    {
       "source": "BBC Middle East",
       "title": "'They destroyed the future': Palestinian anger at rise in Israeli demolitions in East Jerusalem",
       "url": "https://www.bbc.com/news/articles/cewpwjr9rj4o?at_medium=RSS&at_campaign=rss",
@@ -675,15 +684,6 @@
       "published_at": "2026-06-10T08:53:25Z",
       "country_code": "MA",
       "country_name": "Morocco"
-    },
-    {
-      "source": "BBC Africa",
-      "title": "Who is the Somali referee barred from entering the US for the World Cup?",
-      "url": "https://www.bbc.com/news/articles/c8j27zkp94zo?at_medium=RSS&at_campaign=rss",
-      "summary": "Omar Artan was set to become the first Somali to referee a game at the World Cup finals, but his place in history has been denied by US immi…",
-      "published_at": "2026-06-09T15:09:23Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC Middle East",
@@ -776,15 +776,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Europe",
-      "title": "Between celebration and confrontation: Paris after PSG victory",
-      "url": "https://www.bbc.com/news/videos/czr2zzyrgdxo?at_medium=RSS&at_campaign=rss",
-      "summary": "Nearly 800 people were arrested after clashes with police following the Champions League final.",
-      "published_at": "2026-05-31T20:38:19Z",
-      "country_code": "FR",
-      "country_name": "France"
-    },
-    {
       "source": "BBC Middle East",
       "title": "Are US and Iran close to peace or sliding back to war?",
       "url": "https://www.bbc.com/news/articles/cze29764067o?at_medium=RSS&at_campaign=rss",
@@ -870,7 +861,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 30
+      "news_count": 29
     },
     {
       "country_code": "IL",
@@ -883,23 +874,28 @@
       "news_count": 6
     },
     {
-      "country_code": "ZA",
-      "country_name": "South Africa",
-      "news_count": 6
-    },
-    {
       "country_code": "IR",
       "country_name": "Iran",
       "news_count": 5
     },
     {
-      "country_code": "FR",
-      "country_name": "France",
+      "country_code": "ZA",
+      "country_name": "South Africa",
+      "news_count": 5
+    },
+    {
+      "country_code": "RU",
+      "country_name": "Russia",
       "news_count": 4
     },
     {
       "country_code": "ES",
       "country_name": "Spain",
+      "news_count": 3
+    },
+    {
+      "country_code": "FR",
+      "country_name": "France",
       "news_count": 3
     },
     {
@@ -913,14 +909,9 @@
       "news_count": 3
     },
     {
-      "country_code": "RU",
-      "country_name": "Russia",
+      "country_code": "PK",
+      "country_name": "Pakistan",
       "news_count": 3
-    },
-    {
-      "country_code": "CA",
-      "country_name": "Canada",
-      "news_count": 2
     },
     {
       "country_code": "DZ",
@@ -948,11 +939,6 @@
       "news_count": 2
     },
     {
-      "country_code": "PK",
-      "country_name": "Pakistan",
-      "news_count": 2
-    },
-    {
       "country_code": "SA",
       "country_name": "Saudi Arabia",
       "news_count": 2
@@ -965,6 +951,11 @@
     {
       "country_code": "BR",
       "country_name": "Brazil",
+      "news_count": 1
+    },
+    {
+      "country_code": "CA",
+      "country_name": "Canada",
       "news_count": 1
     },
     {
@@ -995,6 +986,11 @@
     {
       "country_code": "PL",
       "country_name": "Poland",
+      "news_count": 1
+    },
+    {
+      "country_code": "PT",
+      "country_name": "Portugal",
       "news_count": 1
     },
     {
