@@ -1,21 +1,30 @@
 {
-  "generated_at": "2026-06-19T00:08:35Z",
+  "generated_at": "2026-06-19T05:30:58Z",
   "articles": [
     {
-      "source": "BBC World",
-      "title": "Obamas host star-studded opening of Chicago presidential centre",
-      "url": "https://www.bbc.com/news/articles/cly91eqyd0ko?at_medium=RSS&at_campaign=rss",
-      "summary": "The campus opens to the public this weekend with a museum, community amenities and more to honour the 44th US president.",
-      "published_at": "2026-06-19T00:01:27Z",
-      "country_code": "US",
-      "country_name": "United States"
+      "source": "BBC US & Canada",
+      "title": "In Trump's shadow, Vance becomes face of Iran deal",
+      "url": "https://www.bbc.com/news/articles/cx23jr133lwo?at_medium=RSS&at_campaign=rss",
+      "summary": "His fierce defence of the Iran plan amid mounting criticism comes as speculation intensifies about a possible 2028 presidential run.",
+      "published_at": "2026-06-19T04:12:07Z",
+      "country_code": "IR",
+      "country_name": "Iran"
     },
     {
       "source": "BBC World",
       "title": "US lifts naval blockade as Iran's supreme leader says Trump made deal 'out of desperation'",
       "url": "https://www.bbc.com/news/articles/c8r2eejdd35o?at_medium=RSS&at_campaign=rss",
       "summary": "Iran's supreme leader says he disagrees with the deal and Donald Trump signed it \"out of desperation\".",
-      "published_at": "2026-06-18T21:34:28Z",
+      "published_at": "2026-06-19T01:34:00Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "'Even the Coke is big' - Foreign World Cup fans take in American culture",
+      "url": "https://www.bbc.com/news/articles/cvgj731r38xo?at_medium=RSS&at_campaign=rss",
+      "summary": "Large portion sizes, tasty food, and a basketball championship welcome international World Cup fans to the US.",
+      "published_at": "2026-06-19T01:16:55Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -108,15 +117,6 @@
       "published_at": "2026-06-18T15:45:50Z",
       "country_code": "GB",
       "country_name": "United Kingdom"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "Should the US impose a teen social media ban like the UK?",
-      "url": "https://www.bbc.com/news/videos/c5yzgxd428qo?at_medium=RSS&at_campaign=rss",
-      "summary": "The UK is enforcing a social media ban for children under the age of 16. The BBC asked Americans of different ages if they thought it was a …",
-      "published_at": "2026-06-18T14:45:11Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC World",
@@ -852,7 +852,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 34
+      "news_count": 33
     },
     {
       "country_code": "IL",
@@ -865,13 +865,13 @@
       "news_count": 5
     },
     {
-      "country_code": "ES",
-      "country_name": "Spain",
-      "news_count": 4
-    },
-    {
       "country_code": "IR",
       "country_name": "Iran",
+      "news_count": 5
+    },
+    {
+      "country_code": "ES",
+      "country_name": "Spain",
       "news_count": 4
     },
     {
