@@ -1,14 +1,32 @@
 {
-  "generated_at": "2026-06-20T10:25:13Z",
+  "generated_at": "2026-06-20T12:13:11Z",
   "articles": [
     {
       "source": "BBC World",
+      "title": "Steve Rosenberg: Moscow oil refinery attack brings Russia's war with Ukraine closer to home",
+      "url": "https://www.bbc.com/news/articles/cp3xqkxp3x5o?at_medium=RSS&at_campaign=rss",
+      "summary": "There are moments when life in Moscow feels completely normal - Thursday morning wasn't one of them, writes Steve Rosenberg.",
+      "published_at": "2026-06-20T10:19:34Z",
+      "country_code": "RU",
+      "country_name": "Russia"
+    },
+    {
+      "source": "BBC Europe",
       "title": "Moscow oil refinery attack brings Russia's war with Ukraine closer to home",
       "url": "https://www.bbc.com/news/articles/cp3xqkxp3x5o?at_medium=RSS&at_campaign=rss",
       "summary": "There are moments when life in Moscow feels completely normal - Thursday morning wasn't one of them, writes Steve Rosenberg.",
       "published_at": "2026-06-20T10:19:34Z",
       "country_code": "RU",
       "country_name": "Russia"
+    },
+    {
+      "source": "BBC World",
+      "title": "Israel and Hezbollah continue strikes despite ceasefire agreement",
+      "url": "https://www.bbc.com/news/articles/cx240k9l112o?at_medium=RSS&at_campaign=rss",
+      "summary": "Several people are reported killed in southern Lebanon, with the IDF saying it hit \"Hezbollah terrorist targets\" after the group fired over …",
+      "published_at": "2026-06-20T08:53:53Z",
+      "country_code": "IL",
+      "country_name": "Israel"
     },
     {
       "source": "BBC World",
@@ -896,19 +914,19 @@
       "news_count": 7
     },
     {
+      "country_code": "IL",
+      "country_name": "Israel",
+      "news_count": 6
+    },
+    {
       "country_code": "IR",
       "country_name": "Iran",
       "news_count": 6
     },
     {
-      "country_code": "IL",
-      "country_name": "Israel",
-      "news_count": 5
-    },
-    {
       "country_code": "RU",
       "country_name": "Russia",
-      "news_count": 5
+      "news_count": 6
     },
     {
       "country_code": "FR",
