@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-06-19T23:59:20Z",
+  "generated_at": "2026-06-20T03:46:54Z",
   "articles": [
+    {
+      "source": "BBC Asia",
+      "title": "Australia confirms first case of H5N1 bird flu as virus reaches every continent",
+      "url": "https://www.bbc.com/news/articles/c4gykxklvl5o?at_medium=RSS&at_campaign=rss",
+      "summary": "Australia was previously the only continent where the H5N1 bird flu strain had not yet been found.",
+      "published_at": "2026-06-20T03:12:47Z",
+      "country_code": "AU",
+      "country_name": "Australia"
+    },
     {
       "source": "BBC World",
       "title": "US to stop funding HIV programmes in South Africa",
@@ -668,15 +677,6 @@
       "country_name": "Russia"
     },
     {
-      "source": "BBC Asia",
-      "title": "South Korea's Starbucks to shut for staff history lesson after backlash",
-      "url": "https://www.bbc.com/news/articles/ckg4n3pyjg9o?at_medium=RSS&at_campaign=rss",
-      "summary": "The chain was criticised for a \"Tank Day\" marketing ploy on the anniversary of a military massacre.",
-      "published_at": "2026-06-15T12:37:27Z",
-      "country_code": "KR",
-      "country_name": "South Korea"
-    },
-    {
       "source": "BBC Latin America",
       "title": "Brazil woman dies after rope-jumping instructors fail to attach cord",
       "url": "https://www.bbc.com/news/articles/c5yz4xelnveo?at_medium=RSS&at_campaign=rss",
@@ -922,6 +922,11 @@
       "news_count": 3
     },
     {
+      "country_code": "AU",
+      "country_name": "Australia",
+      "news_count": 2
+    },
+    {
       "country_code": "CA",
       "country_name": "Canada",
       "news_count": 2
@@ -957,11 +962,6 @@
       "news_count": 2
     },
     {
-      "country_code": "AU",
-      "country_name": "Australia",
-      "news_count": 1
-    },
-    {
       "country_code": "BR",
       "country_name": "Brazil",
       "news_count": 1
@@ -979,11 +979,6 @@
     {
       "country_code": "IT",
       "country_name": "Italy",
-      "news_count": 1
-    },
-    {
-      "country_code": "KR",
-      "country_name": "South Korea",
       "news_count": 1
     },
     {
