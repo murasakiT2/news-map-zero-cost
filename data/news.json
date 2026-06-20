@@ -1,9 +1,18 @@
 {
-  "generated_at": "2026-06-20T21:58:50Z",
+  "generated_at": "2026-06-20T23:08:09Z",
   "articles": [
     {
       "source": "BBC World",
-      "title": "Iran says it has closed Strait of Hormuz over Israel attacks on Lebanon",
+      "title": "Israeli strikes kill six people in Gaza including Al Jazeera cameraman, officials say",
+      "url": "https://www.bbc.com/news/articles/c4gy26p6pwzo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Israeli military accused Ahmed Wishah of being a \"Hamas sniper operative\", without providing evidence.",
+      "published_at": "2026-06-20T21:57:36Z",
+      "country_code": "PS",
+      "country_name": "Palestine"
+    },
+    {
+      "source": "BBC World",
+      "title": "Iran says it has closed Strait of Hormuz over Israeli attacks in Lebanon",
       "url": "https://www.bbc.com/news/articles/cwyekkwm1mmo?at_medium=RSS&at_campaign=rss",
       "summary": "The US military has disputed Tehran's claim, which comes ahead of US-Iran talks in Switzerland on Sunday.",
       "published_at": "2026-06-20T21:11:57Z",
@@ -81,15 +90,6 @@
       "published_at": "2026-06-19T22:11:27Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "Zelensky stripped of highest Polish honour over WW2 name of army unit",
-      "url": "https://www.bbc.com/news/articles/cr7xzg3dmj8o?at_medium=RSS&at_campaign=rss",
-      "summary": "Ukraine has denounced the move, calling it a \"strategic mistake\" and \"disrespectful\".",
-      "published_at": "2026-06-19T21:46:07Z",
-      "country_code": "UA",
-      "country_name": "Ukraine"
     },
     {
       "source": "BBC Middle East",
@@ -848,15 +848,6 @@
       "country_name": "India"
     },
     {
-      "source": "BBC Middle East",
-      "title": "Sailors stressed and exhausted after months trapped by Strait of Hormuz blockade",
-      "url": "https://www.bbc.com/news/articles/cy02rz27l32o?at_medium=RSS&at_campaign=rss",
-      "summary": "The uncertainty has weighed heavily on the 20,000 seafarers trapped in the Iran war zone.",
-      "published_at": "2026-06-02T23:40:27Z",
-      "country_code": "IR",
-      "country_name": "Iran"
-    },
-    {
       "source": "BBC Africa",
       "title": "Two shot dead during Kenya protests over US Ebola centre plan",
       "url": "https://www.bbc.com/news/videos/cdrp8r5z7j4o?at_medium=RSS&at_campaign=rss",
@@ -908,7 +899,7 @@
     {
       "country_code": "IR",
       "country_name": "Iran",
-      "news_count": 5
+      "news_count": 4
     },
     {
       "country_code": "FR",
@@ -971,11 +962,6 @@
       "news_count": 2
     },
     {
-      "country_code": "UA",
-      "country_name": "Ukraine",
-      "news_count": 2
-    },
-    {
       "country_code": "BR",
       "country_name": "Brazil",
       "news_count": 1
@@ -996,8 +982,18 @@
       "news_count": 1
     },
     {
+      "country_code": "PS",
+      "country_name": "Palestine",
+      "news_count": 1
+    },
+    {
       "country_code": "PT",
       "country_name": "Portugal",
+      "news_count": 1
+    },
+    {
+      "country_code": "UA",
+      "country_name": "Ukraine",
       "news_count": 1
     },
     {
