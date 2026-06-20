@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-06-20T07:41:49Z",
+  "generated_at": "2026-06-20T10:25:13Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Moscow oil refinery attack brings Russia's war with Ukraine closer to home",
+      "url": "https://www.bbc.com/news/articles/cp3xqkxp3x5o?at_medium=RSS&at_campaign=rss",
+      "summary": "There are moments when life in Moscow feels completely normal - Thursday morning wasn't one of them, writes Steve Rosenberg.",
+      "published_at": "2026-06-20T10:19:34Z",
+      "country_code": "RU",
+      "country_name": "Russia"
+    },
     {
       "source": "BBC World",
       "title": "Watch: World Cup fans react to US defeating Australia to reach knockout round",
@@ -56,7 +65,7 @@
       "country_name": "Italy"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Middle East",
       "title": "Israel and Hezbollah agree ceasefire, US says, as more Lebanon strikes reported",
       "url": "https://www.bbc.com/news/articles/cwyk7kkygj5o?at_medium=RSS&at_campaign=rss",
       "summary": "The agreement followed concerns that continued clashes would undermine the deal to end the war between the US and Iran.",
@@ -236,7 +245,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "What Iran and US get from deal and why both could struggle to keep it",
       "url": "https://www.bbc.com/news/articles/c932yqz8lggo?at_medium=RSS&at_campaign=rss",
       "summary": "BBC analysts assess the claims by both Washington and Tehran to have won a victory with the deal to end their war.",
@@ -313,15 +322,6 @@
       "url": "https://www.bbc.com/news/videos/c5yzgxd428qo?at_medium=RSS&at_campaign=rss",
       "summary": "The UK is enforcing a social media ban for children under the age of 16. The BBC asked Americans of different ages if they thought it was a …",
       "published_at": "2026-06-18T14:45:11Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "Weapons, money and ships: How is this Iran deal different from others?",
-      "url": "https://www.bbc.com/news/articles/c74ynmnrwmeo?at_medium=RSS&at_campaign=rss",
-      "summary": "BBC Verify examines how the new deal between the US and Iran affects three key areas.",
-      "published_at": "2026-06-18T14:16:42Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -888,7 +888,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 39
+      "news_count": 38
     },
     {
       "country_code": "IN",
@@ -908,7 +908,7 @@
     {
       "country_code": "RU",
       "country_name": "Russia",
-      "news_count": 4
+      "news_count": 5
     },
     {
       "country_code": "FR",
