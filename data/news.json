@@ -1,8 +1,17 @@
 {
-  "generated_at": "2026-06-20T03:46:54Z",
+  "generated_at": "2026-06-20T07:41:49Z",
   "articles": [
     {
-      "source": "BBC Asia",
+      "source": "BBC World",
+      "title": "Watch: World Cup fans react to US defeating Australia to reach knockout round",
+      "url": "https://www.bbc.com/news/videos/cdxdly41p23o?at_medium=RSS&at_campaign=rss",
+      "summary": "US supporters were delighted after their team won 2-0 against the Socceroos while Australian fans were left disappointed but still hopeful.",
+      "published_at": "2026-06-20T03:13:18Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
       "title": "Australia confirms first case of H5N1 bird flu as virus reaches every continent",
       "url": "https://www.bbc.com/news/articles/c4gykxklvl5o?at_medium=RSS&at_campaign=rss",
       "summary": "Australia was previously the only continent where the H5N1 bird flu strain had not yet been found.",
@@ -389,7 +398,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "Japan ramping up defence is 'critical' to prevent war, Defence Minister Koizumi tells BBC",
       "url": "https://www.bbc.com/news/articles/cly8qd4595eo?at_medium=RSS&at_campaign=rss",
       "summary": "Japan needs to revisit the pacifist posture that has defined it since World War Two, Shinjiro Koizumi says.",
@@ -879,7 +888,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 38
+      "news_count": 39
     },
     {
       "country_code": "IN",
