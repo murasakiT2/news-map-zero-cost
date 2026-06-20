@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-06-20T17:51:07Z",
+  "generated_at": "2026-06-20T19:07:53Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Iran says Strait of Hormuz will be closed over Israel attacks on Lebanon",
+      "url": "https://www.bbc.com/news/articles/cwyekkwm1mmo?at_medium=RSS&at_campaign=rss",
+      "summary": "Iran said Israel's continued attacks in Lebanon are a breach of Tehran's agreement with the US to end the war.",
+      "published_at": "2026-06-20T18:39:55Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC Middle East",
+      "title": "Israel and Hezbollah continue strikes despite ceasefire agreement",
+      "url": "https://www.bbc.com/news/articles/cx240k9l112o?at_medium=RSS&at_campaign=rss",
+      "summary": "At least 20 people have reportedly been killed by Israeli air strikes as the Israeli military said Hezbollah had fired at Israeli troops in …",
+      "published_at": "2026-06-20T18:36:19Z",
+      "country_code": "IL",
+      "country_name": "Israel"
+    },
     {
       "source": "BBC World",
       "title": "Zelensky returns highest Polish honour after award stripped",
@@ -12,30 +30,12 @@
     },
     {
       "source": "BBC World",
-      "title": "Iran says Strait of Hormuz will be closed over Israel attacks on Lebanon",
-      "url": "https://www.bbc.com/news/articles/cwyekkwm1mmo?at_medium=RSS&at_campaign=rss",
-      "summary": "Iran said Israel's continued attacks in Lebanon are a breach of Tehran's agreement with the US to end the war.",
-      "published_at": "2026-06-20T16:07:44Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
       "title": "Meloni tells Trump to 'focus on your own popularity' as row escalates",
       "url": "https://www.bbc.com/news/articles/cgqj77909jpo?at_medium=RSS&at_campaign=rss",
       "summary": "The US president earlier questioned Meloni's popularity after suggesting she \"begged\" for a photo at G7 summit",
       "published_at": "2026-06-20T15:31:12Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "Israel and Hezbollah continue strikes despite ceasefire agreement",
-      "url": "https://www.bbc.com/news/articles/cx240k9l112o?at_medium=RSS&at_campaign=rss",
-      "summary": "At least 20 people have reportedly been killed by Israeli air strikes as the Israeli military said Hezbollah had fired at Israeli troops in …",
-      "published_at": "2026-06-20T13:23:40Z",
-      "country_code": "IL",
-      "country_name": "Israel"
     },
     {
       "source": "BBC World",
@@ -875,15 +875,6 @@
       "country_name": "Iraq"
     },
     {
-      "source": "BBC Middle East",
-      "title": "Bowen: Trump needs this war to end but Iran is not backing down",
-      "url": "https://www.bbc.com/news/articles/cedp3lee059o?at_medium=RSS&at_campaign=rss",
-      "summary": "Under pressure from the polls and Gulf allies, the White House is pushing for a deal but Iran wants concessions, writes BBC's international …",
-      "published_at": "2026-06-01T21:50:52Z",
-      "country_code": "IR",
-      "country_name": "Iran"
-    },
-    {
       "source": "BBC Africa",
       "title": "'Total lack of respect': Macron interrupts speaker to ask for silence",
       "url": "https://www.bbc.com/news/videos/czx2wd20evyo?at_medium=RSS&at_campaign=rss",
@@ -919,14 +910,14 @@
       "news_count": 6
     },
     {
-      "country_code": "IR",
-      "country_name": "Iran",
-      "news_count": 6
-    },
-    {
       "country_code": "RU",
       "country_name": "Russia",
       "news_count": 6
+    },
+    {
+      "country_code": "IR",
+      "country_name": "Iran",
+      "news_count": 5
     },
     {
       "country_code": "FR",
