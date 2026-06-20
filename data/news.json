@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-06-20T12:13:11Z",
+  "generated_at": "2026-06-20T14:37:28Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Trump hits out at Italy's Meloni after pushback on G7 photo claim",
+      "url": "https://www.bbc.com/news/articles/cgqj77909jpo?at_medium=RSS&at_campaign=rss",
+      "summary": "Trump said the Italian leader asked \"over and over\" for a picture at G7, after she said the US president \"made-up\" a story that she \"begged\"…",
+      "published_at": "2026-06-20T14:24:35Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Israel and Hezbollah continue strikes despite ceasefire agreement",
+      "url": "https://www.bbc.com/news/articles/cx240k9l112o?at_medium=RSS&at_campaign=rss",
+      "summary": "Deaths are reported in southern Lebanon, with the IDF saying it hit Hezbollah targets after the group fired over 50 projectiles at Israeli f…",
+      "published_at": "2026-06-20T13:23:40Z",
+      "country_code": "IL",
+      "country_name": "Israel"
+    },
     {
       "source": "BBC World",
       "title": "Steve Rosenberg: Moscow oil refinery attack brings Russia's war with Ukraine closer to home",
@@ -18,15 +36,6 @@
       "published_at": "2026-06-20T10:19:34Z",
       "country_code": "RU",
       "country_name": "Russia"
-    },
-    {
-      "source": "BBC World",
-      "title": "Israel and Hezbollah continue strikes despite ceasefire agreement",
-      "url": "https://www.bbc.com/news/articles/cx240k9l112o?at_medium=RSS&at_campaign=rss",
-      "summary": "Several people are reported killed in southern Lebanon, with the IDF saying it hit \"Hezbollah terrorist targets\" after the group fired over …",
-      "published_at": "2026-06-20T08:53:53Z",
-      "country_code": "IL",
-      "country_name": "Israel"
     },
     {
       "source": "BBC World",
@@ -72,15 +81,6 @@
       "published_at": "2026-06-19T21:46:07Z",
       "country_code": "UA",
       "country_name": "Ukraine"
-    },
-    {
-      "source": "BBC World",
-      "title": "Italy's Meloni says Trump 'made up' story that she 'begged' him for photo at G7",
-      "url": "https://www.bbc.com/news/articles/c20y1ygn707o?at_medium=RSS&at_campaign=rss",
-      "summary": "The highly public exchange is an indication that their earlier close ties have frayed since Trump's decision to go to war with Iran.",
-      "published_at": "2026-06-19T19:36:10Z",
-      "country_code": "IT",
-      "country_name": "Italy"
     },
     {
       "source": "BBC Middle East",
@@ -906,7 +906,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 38
+      "news_count": 39
     },
     {
       "country_code": "IN",
@@ -1001,11 +1001,6 @@
     {
       "country_code": "IQ",
       "country_name": "Iraq",
-      "news_count": 1
-    },
-    {
-      "country_code": "IT",
-      "country_name": "Italy",
       "news_count": 1
     },
     {
