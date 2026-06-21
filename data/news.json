@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-06-21T21:03:30Z",
+  "generated_at": "2026-06-21T22:39:21Z",
   "articles": [
+    {
+      "source": "BBC Asia",
+      "title": "Currency crash and visa crackdowns force Indian students to rethink studying abroad",
+      "url": "https://www.bbc.com/news/articles/c8x2gd9lkxzo?at_medium=RSS&at_campaign=rss",
+      "summary": "A weaker rupee and tougher immigration rules are pushing Indian students away from popular destinations like the US and UK.",
+      "published_at": "2026-06-21T21:55:43Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "Trump and Iran's negotiator trade warnings as talks held in Switzerland",
@@ -9,6 +18,15 @@
       "published_at": "2026-06-21T19:33:09Z",
       "country_code": "US",
       "country_name": "United States"
+    },
+    {
+      "source": "BBC Africa",
+      "title": "Brilliant Kapp leads South Africa past India",
+      "url": "https://www.bbc.com/sport/cricket/articles/c0ly687p8n5o?at_medium=RSS&at_campaign=rss",
+      "summary": "Marizanne Kapp strikes a powerful 81 as South Africa beat India by six wickets to keep their World Cup hopes alive.",
+      "published_at": "2026-06-21T17:21:11Z",
+      "country_code": "IN",
+      "country_name": "India"
     },
     {
       "source": "BBC Europe",
@@ -515,24 +533,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Africa",
-      "title": "South Africa bounce back with win over Pakistan",
-      "url": "https://www.bbc.com/sport/cricket/articles/cy8de2n8xk4o?at_medium=RSS&at_campaign=rss",
-      "summary": "Marizanne Kapp and Annerie Dercksen star as South Africa bounce back from defeat in their opening game, while Pakistan remain winless.",
-      "published_at": "2026-06-17T21:04:54Z",
-      "country_code": "PK",
-      "country_name": "Pakistan"
-    },
-    {
-      "source": "BBC Africa",
-      "title": "Cape Verde goalkeeper set to be reunited with his mum",
-      "url": "https://www.bbc.com/sport/football/articles/cgjxlpxxp6wo?at_medium=RSS&at_campaign=rss",
-      "summary": "Vozinha's mum has been granted a visa to travel to the US ahead of Cape Verde's next game against Uruguay.",
-      "published_at": "2026-06-17T19:42:13Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC Asia",
       "title": "Trump says he will visit India as frosty relationship with Modi thaws",
       "url": "https://www.bbc.com/news/articles/c621glv9vnqo?at_medium=RSS&at_campaign=rss",
@@ -947,7 +947,7 @@
     {
       "country_code": "IN",
       "country_name": "India",
-      "news_count": 7
+      "news_count": 8
     },
     {
       "country_code": "IL",
@@ -1015,11 +1015,6 @@
       "news_count": 2
     },
     {
-      "country_code": "PK",
-      "country_name": "Pakistan",
-      "news_count": 2
-    },
-    {
       "country_code": "UA",
       "country_name": "Ukraine",
       "news_count": 2
@@ -1057,6 +1052,11 @@
     {
       "country_code": "PE",
       "country_name": "Peru",
+      "news_count": 1
+    },
+    {
+      "country_code": "PK",
+      "country_name": "Pakistan",
       "news_count": 1
     },
     {
