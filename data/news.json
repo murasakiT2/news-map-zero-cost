@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-06-21T16:24:38Z",
+  "generated_at": "2026-06-21T18:00:07Z",
   "articles": [
+    {
+      "source": "BBC Europe",
+      "title": "Parisians cool off in canal amid 'red alert' heatwave",
+      "url": "https://www.bbc.com/news/videos/c802denngxeo?at_medium=RSS&at_campaign=rss",
+      "summary": "France has issued red heatwave alerts for around half the country as temperatures soar to record levels.",
+      "published_at": "2026-06-21T17:15:56Z",
+      "country_code": "FR",
+      "country_name": "France"
+    },
     {
       "source": "BBC World",
       "title": "Half of France under red heat alert as alcohol banned at street music festival",
@@ -12,7 +21,7 @@
     },
     {
       "source": "BBC World",
-      "title": "Nobel Peace Prize winner triumphs at Ethiopian polls but fears grow of new conflict",
+      "title": "Ethiopia PM's party wins landslide as fears grow of new conflict",
       "url": "https://www.bbc.com/news/articles/cz750q5e3w3o?at_medium=RSS&at_campaign=rss",
       "summary": "Abiy Ahmed's party retains its huge majority despite unrest in several parts of Ethiopia and tensions with its neighbours.",
       "published_at": "2026-06-21T15:01:28Z",
@@ -951,14 +960,14 @@
       "news_count": 6
     },
     {
-      "country_code": "IR",
-      "country_name": "Iran",
+      "country_code": "FR",
+      "country_name": "France",
       "news_count": 5
     },
     {
-      "country_code": "FR",
-      "country_name": "France",
-      "news_count": 4
+      "country_code": "IR",
+      "country_name": "Iran",
+      "news_count": 5
     },
     {
       "country_code": "DZ",
