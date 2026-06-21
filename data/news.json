@@ -1,6 +1,33 @@
 {
-  "generated_at": "2026-06-21T14:37:46Z",
+  "generated_at": "2026-06-21T16:24:38Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Half of France under red heat alert as alcohol banned at street music festival",
+      "url": "https://www.bbc.com/news/articles/cgmdw4vn7y2o?at_medium=RSS&at_campaign=rss",
+      "summary": "Temperatures are forecast to peak on Monday, and authorities warn they could match historic highs.",
+      "published_at": "2026-06-21T15:22:14Z",
+      "country_code": "FR",
+      "country_name": "France"
+    },
+    {
+      "source": "BBC World",
+      "title": "Nobel Peace Prize winner triumphs at Ethiopian polls but fears grow of new conflict",
+      "url": "https://www.bbc.com/news/articles/cz750q5e3w3o?at_medium=RSS&at_campaign=rss",
+      "summary": "Abiy Ahmed's party retains its huge majority despite unrest in several parts of Ethiopia and tensions with its neighbours.",
+      "published_at": "2026-06-21T15:01:28Z",
+      "country_code": "ET",
+      "country_name": "Ethiopia"
+    },
+    {
+      "source": "BBC World",
+      "title": "US and Iran begin talks on initial peace deal in Switzerland",
+      "url": "https://www.bbc.com/news/articles/cwy0q41v1lzo?at_medium=RSS&at_campaign=rss",
+      "summary": "The face-to-face meeting follows ongoing fighting in Lebanon and Iran's claim to have shut the Strait of Hormuz.",
+      "published_at": "2026-06-21T14:41:02Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "Indian cricketer, 15, hits record-breaking 50 in just 11 balls",
@@ -29,22 +56,13 @@
       "country_name": "Netherlands"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "US-Iran talks begin in Switzerland as Tehran says it closed Strait of Hormuz",
       "url": "https://www.bbc.com/news/articles/cwyekkwm1mmo?at_medium=RSS&at_campaign=rss",
       "summary": "The US disputed Iran's claim the waterway is shut, a move Tehran says was a response to Israeli attacks in Lebanon.",
       "published_at": "2026-06-21T04:34:00Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "France bans alcohol at music festival events under red heatwave alert",
-      "url": "https://www.bbc.com/news/articles/cgmdw4vn7y2o?at_medium=RSS&at_campaign=rss",
-      "summary": "Annual street parties attended by millions ordered to help “preserve” healthcare services in 40C (104F) heat.",
-      "published_at": "2026-06-21T00:29:51Z",
-      "country_code": "FR",
-      "country_name": "France"
     },
     {
       "source": "BBC World",
@@ -234,15 +252,6 @@
       "published_at": "2026-06-19T10:28:22Z",
       "country_code": "MA",
       "country_name": "Morocco"
-    },
-    {
-      "source": "BBC World",
-      "title": "Asia's richest man Ambani announces what could be India's biggest share sale",
-      "url": "https://www.bbc.com/news/articles/cx2kerpkynko?at_medium=RSS&at_campaign=rss",
-      "summary": "India's largest telecom operator is expected to raise around $4bn (£3.02bn), according to media reports.",
-      "published_at": "2026-06-19T10:13:41Z",
-      "country_code": "IN",
-      "country_name": "India"
     },
     {
       "source": "BBC US & Canada",
@@ -924,12 +933,12 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 38
+      "news_count": 39
     },
     {
       "country_code": "IN",
       "country_name": "India",
-      "news_count": 8
+      "news_count": 7
     },
     {
       "country_code": "IL",
@@ -1019,6 +1028,11 @@
     {
       "country_code": "DE",
       "country_name": "Germany",
+      "news_count": 1
+    },
+    {
+      "country_code": "ET",
+      "country_name": "Ethiopia",
       "news_count": 1
     },
     {
