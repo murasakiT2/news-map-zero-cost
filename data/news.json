@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-06-21T12:22:41Z",
+  "generated_at": "2026-06-21T14:37:46Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Indian cricketer, 15, hits record-breaking 50 in just 11 balls",
+      "url": "https://www.bbc.com/sport/cricket/articles/czdev6lp8p9o?at_medium=RSS&at_campaign=rss",
+      "summary": "Vaibhav Sooryavanshi breaks the record for the fastest 50-over List A half-century in history on the same day he was not included in India's…",
+      "published_at": "2026-06-21T11:10:21Z",
+      "country_code": "IN",
+      "country_name": "India"
+    },
     {
       "source": "BBC World",
       "title": "Fuel sales halted in occupied Crimea as Ukraine targets oil facilities",
@@ -83,7 +92,7 @@
       "country_name": "Ukraine"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "Meloni tells Trump to 'focus on your own popularity' as row escalates",
       "url": "https://www.bbc.com/news/articles/cgqj77909jpo?at_medium=RSS&at_campaign=rss",
       "summary": "The US president earlier questioned Meloni's popularity after suggesting she \"begged\" for a photo at G7 summit",
@@ -108,6 +117,15 @@
       "published_at": "2026-06-20T10:19:34Z",
       "country_code": "RU",
       "country_name": "Russia"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "White House in talks over Iran travel restrictions",
+      "url": "https://www.bbc.com/sport/football/articles/c5yz70gjy3xo?at_medium=RSS&at_campaign=rss",
+      "summary": "The White House is considering changing the strict travel restrictions Iran are facing at the 2026 World Cup.",
+      "published_at": "2026-06-20T08:52:50Z",
+      "country_code": "IR",
+      "country_name": "Iran"
     },
     {
       "source": "BBC World",
@@ -254,7 +272,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "In Trump's shadow, Vance becomes face of Iran deal",
       "url": "https://www.bbc.com/news/articles/cx23jr133lwo?at_medium=RSS&at_campaign=rss",
       "summary": "His fierce defence of the Iran plan amid mounting criticism comes as speculation intensifies about a possible 2028 presidential run.",
@@ -911,7 +929,7 @@
     {
       "country_code": "IN",
       "country_name": "India",
-      "news_count": 7
+      "news_count": 8
     },
     {
       "country_code": "IL",
@@ -924,13 +942,13 @@
       "news_count": 6
     },
     {
-      "country_code": "FR",
-      "country_name": "France",
-      "news_count": 4
-    },
-    {
       "country_code": "IR",
       "country_name": "Iran",
+      "news_count": 5
+    },
+    {
+      "country_code": "FR",
+      "country_name": "France",
       "news_count": 4
     },
     {
