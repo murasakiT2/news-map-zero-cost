@@ -1,6 +1,33 @@
 {
-  "generated_at": "2026-06-21T01:44:00Z",
+  "generated_at": "2026-06-21T06:41:52Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "US-Iran talks to begin in Switzerland as Tehran says it closed Strait of Hormuz",
+      "url": "https://www.bbc.com/news/articles/cwyekkwm1mmo?at_medium=RSS&at_campaign=rss",
+      "summary": "The US disputed Iran's claim the waterway is shut, a move Tehran says was a response to Israeli attacks in Lebanon.",
+      "published_at": "2026-06-21T04:34:00Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "France bans alcohol at music festival events under red heatwave alert",
+      "url": "https://www.bbc.com/news/articles/cgmdw4vn7y2o?at_medium=RSS&at_campaign=rss",
+      "summary": "Annual street parties attended by millions ordered to help “preserve” healthcare services in 40C (104F) heat.",
+      "published_at": "2026-06-21T00:29:51Z",
+      "country_code": "FR",
+      "country_name": "France"
+    },
+    {
+      "source": "BBC World",
+      "title": "Colombia's escalating, brutal internal conflict is defining its presidential election",
+      "url": "https://www.bbc.com/news/articles/cvgqv8q1ndpo?at_medium=RSS&at_campaign=rss",
+      "summary": "A left-wing senator who backs talks with armed gangs faces an outsider endorsed by Trump.",
+      "published_at": "2026-06-20T23:17:51Z",
+      "country_code": "CO",
+      "country_name": "Colombia"
+    },
     {
       "source": "BBC World",
       "title": "Israeli strikes kill six people in Gaza including Al Jazeera cameraman, officials say",
@@ -9,15 +36,6 @@
       "published_at": "2026-06-20T21:57:36Z",
       "country_code": "PS",
       "country_name": "Palestine"
-    },
-    {
-      "source": "BBC World",
-      "title": "Iran says it has closed Strait of Hormuz over Israeli attacks in Lebanon",
-      "url": "https://www.bbc.com/news/articles/cwyekkwm1mmo?at_medium=RSS&at_campaign=rss",
-      "summary": "The US military has disputed Tehran's claim, which comes ahead of US-Iran talks in Switzerland on Sunday.",
-      "published_at": "2026-06-20T21:11:57Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC Middle East",
@@ -209,7 +227,7 @@
       "country_name": "Mexico"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "Thousands killed in US-Israeli war on Iran - but experts say true total may never be known",
       "url": "https://www.bbc.com/news/articles/cy735xlv50ko?at_medium=RSS&at_campaign=rss",
       "summary": "Experts say internet, media and government restrictions have all hampered casualty reporting across the region.",
@@ -263,7 +281,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "Hegseth renews Nato criticism and says US will review presence in Europe",
       "url": "https://www.bbc.com/news/articles/c3vy5l62622o?at_medium=RSS&at_campaign=rss",
       "summary": "The US defence secretary's move follows a US decision to scale back its commitments to a high readiness force within the alliance.",
@@ -362,7 +380,7 @@
       "country_name": "Germany"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "British man dies in paragliding accident in Spain",
       "url": "https://www.bbc.com/news/articles/c1dye3e9gnwo?at_medium=RSS&at_campaign=rss",
       "summary": "Authorities in Catalonia confirmed that the 63-year-old died in the Palau de Noguera area on Wednesday.",
@@ -897,14 +915,14 @@
       "news_count": 6
     },
     {
-      "country_code": "IR",
-      "country_name": "Iran",
+      "country_code": "FR",
+      "country_name": "France",
       "news_count": 4
     },
     {
-      "country_code": "FR",
-      "country_name": "France",
-      "news_count": 3
+      "country_code": "IR",
+      "country_name": "Iran",
+      "news_count": 4
     },
     {
       "country_code": "GB",
@@ -964,6 +982,11 @@
     {
       "country_code": "BR",
       "country_name": "Brazil",
+      "news_count": 1
+    },
+    {
+      "country_code": "CO",
+      "country_name": "Colombia",
       "news_count": 1
     },
     {
