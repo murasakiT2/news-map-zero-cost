@@ -1,9 +1,27 @@
 {
-  "generated_at": "2026-06-21T10:24:10Z",
+  "generated_at": "2026-06-21T12:22:41Z",
   "articles": [
     {
       "source": "BBC World",
-      "title": "US-Iran talks to begin in Switzerland as Tehran says it closed Strait of Hormuz",
+      "title": "Fuel sales halted in occupied Crimea as Ukraine targets oil facilities",
+      "url": "https://www.bbc.com/news/articles/clyx2lk9d15o?at_medium=RSS&at_campaign=rss",
+      "summary": "Fuel had already been rationed due to shortages caused by Kyiv's attacks against supply routes in Russian-occupied territories.",
+      "published_at": "2026-06-21T10:55:05Z",
+      "country_code": "UA",
+      "country_name": "Ukraine"
+    },
+    {
+      "source": "BBC World",
+      "title": "Dutch royals enjoy two big results in one World Cup day",
+      "url": "https://www.bbc.com/sport/football/articles/c4gydq973nqo?at_medium=RSS&at_campaign=rss",
+      "summary": "There may be about 5,000 miles between the Netherlands and their former colony Curacao but members of the Dutch royal family managed to see …",
+      "published_at": "2026-06-21T09:45:57Z",
+      "country_code": "NL",
+      "country_name": "Netherlands"
+    },
+    {
+      "source": "BBC World",
+      "title": "US-Iran talks begin in Switzerland as Tehran says it closed Strait of Hormuz",
       "url": "https://www.bbc.com/news/articles/cwyekkwm1mmo?at_medium=RSS&at_campaign=rss",
       "summary": "The US disputed Iran's claim the waterway is shut, a move Tehran says was a response to Israeli attacks in Lebanon.",
       "published_at": "2026-06-21T04:34:00Z",
@@ -344,7 +362,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "Moscow residents complain of black rain after largest Ukrainian attack hits oil refinery",
       "url": "https://www.bbc.com/news/articles/c98291g5rr1o?at_medium=RSS&at_campaign=rss",
       "summary": "A refinery and a shopping centre burned after almost 200 Ukrainian drones were launched towards an area to the south-east of the Russian cap…",
@@ -966,6 +984,11 @@
       "news_count": 2
     },
     {
+      "country_code": "UA",
+      "country_name": "Ukraine",
+      "news_count": 2
+    },
+    {
       "country_code": "BR",
       "country_name": "Brazil",
       "news_count": 1
@@ -978,6 +1001,11 @@
     {
       "country_code": "DE",
       "country_name": "Germany",
+      "news_count": 1
+    },
+    {
+      "country_code": "NL",
+      "country_name": "Netherlands",
       "news_count": 1
     },
     {
@@ -998,11 +1026,6 @@
     {
       "country_code": "PT",
       "country_name": "Portugal",
-      "news_count": 1
-    },
-    {
-      "country_code": "UA",
-      "country_name": "Ukraine",
       "news_count": 1
     },
     {
