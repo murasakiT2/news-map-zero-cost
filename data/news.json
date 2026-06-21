@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-21T06:41:52Z",
+  "generated_at": "2026-06-21T10:24:10Z",
   "articles": [
     {
       "source": "BBC World",
@@ -45,6 +45,15 @@
       "published_at": "2026-06-20T18:36:19Z",
       "country_code": "IL",
       "country_name": "Israel"
+    },
+    {
+      "source": "BBC Africa",
+      "title": "Morocco fans in Rabat celebrate win over Scotland",
+      "url": "https://www.bbc.com/sport/football/videos/cy49yry411go?at_medium=RSS&at_campaign=rss",
+      "summary": "Morocco fans in Rabat celebrate their 1-0 win over Scotland in the World Cup.",
+      "published_at": "2026-06-20T17:13:20Z",
+      "country_code": "MA",
+      "country_name": "Morocco"
     },
     {
       "source": "BBC World",
@@ -135,15 +144,6 @@
       "published_at": "2026-06-19T18:47:31Z",
       "country_code": "AU",
       "country_name": "Australia"
-    },
-    {
-      "source": "BBC Africa",
-      "title": "UK law enforcement destroyed my reputation and integrity, ex-Nigerian oil minister tells BBC",
-      "url": "https://www.bbc.com/news/articles/c8j2ge27jneo?at_medium=RSS&at_campaign=rss",
-      "summary": "Diezani Alison-Madueke was cleared of taking bribes from wealthy oil executives after six-month trial.",
-      "published_at": "2026-06-19T15:55:47Z",
-      "country_code": "GB",
-      "country_name": "United Kingdom"
     },
     {
       "source": "BBC US & Canada",
@@ -335,7 +335,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "Bowen: US-Iran deal raises inescapable question of what the war was for",
       "url": "https://www.bbc.com/news/articles/clyegr2mp8jo?at_medium=RSS&at_campaign=rss",
       "summary": "While the human cost is clear, the Iranian regime has not just survived the war, it has been empowered.",
@@ -641,6 +641,15 @@
       "country_name": "France"
     },
     {
+      "source": "BBC Africa",
+      "title": "How a small Kansas city embraced Algeria",
+      "url": "https://www.bbc.com/sport/football/videos/c621q4n556yo?at_medium=RSS&at_campaign=rss",
+      "summary": "BBC Sport visits the city of Lawrence in Kansas, where Algeria have their base camp for the 2026 World Cup.",
+      "published_at": "2026-06-16T14:40:37Z",
+      "country_code": "DZ",
+      "country_name": "Algeria"
+    },
+    {
       "source": "BBC Middle East",
       "title": "Somaliland opens Jerusalem embassy after Israel's recognition of its independence",
       "url": "https://www.bbc.com/news/articles/cj4gn4d54y0o?at_medium=RSS&at_campaign=rss",
@@ -873,24 +882,6 @@
       "published_at": "2026-06-02T18:32:42Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC Africa",
-      "title": "'Total lack of respect': Macron interrupts speaker to ask for silence",
-      "url": "https://www.bbc.com/news/videos/czx2wd20evyo?at_medium=RSS&at_campaign=rss",
-      "summary": "The French president stood up during a conference in Kenya to tell the audience to quieten down, saying it was “impossible” for speakers to …",
-      "published_at": "2026-05-11T16:10:18Z",
-      "country_code": "KE",
-      "country_name": "Kenya"
-    },
-    {
-      "source": "BBC Africa",
-      "title": "Joy as record-breaking runner Sawe returns home",
-      "url": "https://www.bbc.com/news/videos/cglpkexdye1o?at_medium=RSS&at_campaign=rss",
-      "summary": "BBC reports from Kenya, home to Sabastian Sawe, the first man to run a marathon in under two hours.",
-      "published_at": "2026-04-30T02:03:17Z",
-      "country_code": "KE",
-      "country_name": "Kenya"
     }
   ],
   "regions": [
@@ -925,13 +916,18 @@
       "news_count": 4
     },
     {
-      "country_code": "GB",
-      "country_name": "United Kingdom",
+      "country_code": "DZ",
+      "country_name": "Algeria",
       "news_count": 3
     },
     {
       "country_code": "JP",
       "country_name": "Japan",
+      "news_count": 3
+    },
+    {
+      "country_code": "MA",
+      "country_name": "Morocco",
       "news_count": 3
     },
     {
@@ -950,23 +946,13 @@
       "news_count": 2
     },
     {
-      "country_code": "DZ",
-      "country_name": "Algeria",
-      "news_count": 2
-    },
-    {
       "country_code": "ES",
       "country_name": "Spain",
       "news_count": 2
     },
     {
-      "country_code": "KE",
-      "country_name": "Kenya",
-      "news_count": 2
-    },
-    {
-      "country_code": "MA",
-      "country_name": "Morocco",
+      "country_code": "GB",
+      "country_name": "United Kingdom",
       "news_count": 2
     },
     {
