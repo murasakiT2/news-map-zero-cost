@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-06-21T22:39:21Z",
+  "generated_at": "2026-06-22T00:02:53Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "First round of direct US-Iran talks since deal expected to continue through the night",
+      "url": "https://www.bbc.com/news/articles/cwy0q41v1lzo?at_medium=RSS&at_campaign=rss",
+      "summary": "The US president, who is not at the talks, had earlier exchanged warnings with Iran's negotiator over clashes between Israel and Hezbollah i…",
+      "published_at": "2026-06-21T23:55:06Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC Asia",
       "title": "Currency crash and visa crackdowns force Indian students to rethink studying abroad",
       "url": "https://www.bbc.com/news/articles/c8x2gd9lkxzo?at_medium=RSS&at_campaign=rss",
       "summary": "A weaker rupee and tougher immigration rules are pushing Indian students away from popular destinations like the US and UK.",
       "published_at": "2026-06-21T21:55:43Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "Trump and Iran's negotiator trade warnings as talks held in Switzerland",
-      "url": "https://www.bbc.com/news/articles/cwy0q41v1lzo?at_medium=RSS&at_campaign=rss",
-      "summary": "The US president, who is not at the talks, threatens to attack Iran if it does not restrain Hezbollah in Lebanon.",
-      "published_at": "2026-06-21T19:33:09Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -515,15 +515,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Asia",
-      "title": "Japan ramping up defence is 'critical' to prevent war, Defence Minister Koizumi tells BBC",
-      "url": "https://www.bbc.com/news/articles/cly8qd4595eo?at_medium=RSS&at_campaign=rss",
-      "summary": "Japan needs to revisit the pacifist posture that has defined it since World War Two, Shinjiro Koizumi says.",
-      "published_at": "2026-06-17T22:36:13Z",
-      "country_code": "JP",
-      "country_name": "Japan"
-    },
-    {
       "source": "BBC US & Canada",
       "title": "Three key takeaways from US-Iran agreement",
       "url": "https://www.bbc.com/news/videos/cgqjv5w2dg1o?at_medium=RSS&at_campaign=rss",
@@ -975,11 +966,6 @@
       "news_count": 3
     },
     {
-      "country_code": "JP",
-      "country_name": "Japan",
-      "news_count": 3
-    },
-    {
       "country_code": "MA",
       "country_name": "Morocco",
       "news_count": 3
@@ -1007,6 +993,11 @@
     {
       "country_code": "GB",
       "country_name": "United Kingdom",
+      "news_count": 2
+    },
+    {
+      "country_code": "JP",
+      "country_name": "Japan",
       "news_count": 2
     },
     {
