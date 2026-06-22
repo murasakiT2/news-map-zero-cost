@@ -1,14 +1,23 @@
 {
-  "generated_at": "2026-06-22T16:26:34Z",
+  "generated_at": "2026-06-22T19:52:24Z",
   "articles": [
     {
       "source": "BBC World",
       "title": "Red heat alerts issued in France, Italy and Spain as 40C temperatures forecast",
       "url": "https://www.bbc.com/news/articles/c0jy9g96086o?at_medium=RSS&at_campaign=rss",
       "summary": "The heatwave conditions are forecast to intensify in the coming days across central and western Europe.",
-      "published_at": "2026-06-22T16:17:24Z",
+      "published_at": "2026-06-22T16:42:23Z",
       "country_code": "FR",
       "country_name": "France"
+    },
+    {
+      "source": "BBC World",
+      "title": "Kenya minister found in contempt of court over US-backed Ebola centre",
+      "url": "https://www.bbc.com/news/articles/c4gy6vk44pwo?at_medium=RSS&at_campaign=rss",
+      "summary": "Aden Duale defied a High Court order to stop building work on a controversial US-funded facility.",
+      "published_at": "2026-06-22T16:34:39Z",
+      "country_code": "US",
+      "country_name": "United States"
     },
     {
       "source": "BBC World",
@@ -236,7 +245,7 @@
       "country_name": "Morocco"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "Zelensky returns highest Polish honour after award stripped",
       "url": "https://www.bbc.com/news/articles/c2lye7xje9yo?at_medium=RSS&at_campaign=rss",
       "summary": "Ukraine's president said his country was open to \"engagement\" about \"difficult and painful chapters of our shared past\".",
@@ -306,15 +315,6 @@
       "published_at": "2026-06-19T19:27:12Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "Thumping win cements Canada's place as a 'soccer nation'",
-      "url": "https://www.bbc.com/news/articles/ce8j1j3rkv8o?at_medium=RSS&at_campaign=rss",
-      "summary": "Despite Ismaël Koné’s injury, the 6-0 thrashing of Qatar has put Canada fans in dreamland.",
-      "published_at": "2026-06-19T18:58:08Z",
-      "country_code": "CA",
-      "country_name": "Canada"
     },
     {
       "source": "BBC Asia",
@@ -888,7 +888,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 34
+      "news_count": 35
     },
     {
       "country_code": "IN",
@@ -931,11 +931,6 @@
       "news_count": 3
     },
     {
-      "country_code": "CA",
-      "country_name": "Canada",
-      "news_count": 2
-    },
-    {
       "country_code": "DE",
       "country_name": "Germany",
       "news_count": 2
@@ -964,6 +959,11 @@
       "country_code": "MX",
       "country_name": "Mexico",
       "news_count": 2
+    },
+    {
+      "country_code": "CA",
+      "country_name": "Canada",
+      "news_count": 1
     },
     {
       "country_code": "CN",
