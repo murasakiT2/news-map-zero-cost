@@ -1,6 +1,33 @@
 {
-  "generated_at": "2026-06-23T11:55:28Z",
+  "generated_at": "2026-06-23T14:27:39Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Drowning deaths soar in France as Europe buckles in peak of heatwave",
+      "url": "https://www.bbc.co.uk/news/articles/c79yvw3j114o?at_medium=RSS&at_campaign=rss",
+      "summary": "Forty people have drowned in heatwave-related deaths in France since last Thursday, Prime Minister Sébastien Lecornu says.",
+      "published_at": "2026-06-23T13:16:09Z",
+      "country_code": "FR",
+      "country_name": "France"
+    },
+    {
+      "source": "BBC Africa",
+      "title": "US cut to South Africa's HIV response could cost lives, UNAids chief warns",
+      "url": "https://www.bbc.co.uk/news/articles/cx26py2rnxlo?at_medium=RSS&at_campaign=rss",
+      "summary": "\"Please do not take money away because you are taking lives away,\" Winnie Byanyima said.",
+      "published_at": "2026-06-23T12:22:43Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Iran says no new commitments on nuclear sites after Vance says inspectors to be invited back",
+      "url": "https://www.bbc.co.uk/news/articles/c3vy3nr63gxo?at_medium=RSS&at_campaign=rss",
+      "summary": "Iran's foreign ministry says it made \"no new commitments\" on nuclear inspections after talks in Switzerland.",
+      "published_at": "2026-06-23T12:14:58Z",
+      "country_code": "IR",
+      "country_name": "Iran"
+    },
     {
       "source": "BBC World",
       "title": "Kenya minister halts construction of US-backed Ebola quarantine centre",
@@ -11,6 +38,15 @@
       "country_name": "United States"
     },
     {
+      "source": "BBC Africa",
+      "title": "From non-league to the World Cup - the Semenyo story",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cp9p9r7gg4eo?at_medium=RSS&at_campaign=rss",
+      "summary": "Winger Antoine Semenyo's football journey began in the English lower leagues. BBC Sport charts his rise from Bath City to the World Cup, wit…",
+      "published_at": "2026-06-23T11:40:47Z",
+      "country_code": "GB",
+      "country_name": "United Kingdom"
+    },
+    {
       "source": "BBC World",
       "title": "UN commission of inquiry says Israel committing genocide in Gaza by deliberately targeting children",
       "url": "https://www.bbc.co.uk/news/articles/c0jy96w6pw2o?at_medium=RSS&at_campaign=rss",
@@ -18,15 +54,6 @@
       "published_at": "2026-06-23T11:10:06Z",
       "country_code": "IL",
       "country_name": "Israel"
-    },
-    {
-      "source": "BBC World",
-      "title": "Drowning deaths soar in France as Europe buckles in peak of heatwave",
-      "url": "https://www.bbc.co.uk/news/articles/c79yvw3j114o?at_medium=RSS&at_campaign=rss",
-      "summary": "Forty people have drowned in heatwave-related deaths in France since last Thursday, Prime Minister Sébastien Lecornu says.",
-      "published_at": "2026-06-23T10:53:10Z",
-      "country_code": "FR",
-      "country_name": "France"
     },
     {
       "source": "BBC World",
@@ -90,15 +117,6 @@
       "published_at": "2026-06-23T06:16:14Z",
       "country_code": "BR",
       "country_name": "Brazil"
-    },
-    {
-      "source": "BBC World",
-      "title": "Iran says no new commitments on nuclear sites after Vance says inspectors to be invited back",
-      "url": "https://www.bbc.co.uk/news/articles/c3vy3nr63gxo?at_medium=RSS&at_campaign=rss",
-      "summary": "Iran's foreign ministry says it made \"no new commitments\" on nuclear inspections after talks in Switzerland.",
-      "published_at": "2026-06-23T05:39:17Z",
-      "country_code": "IR",
-      "country_name": "Iran"
     },
     {
       "source": "BBC World",
@@ -317,7 +335,7 @@
       "country_name": "India"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "Parisians cool off in canal amid 'red alert' heatwave",
       "url": "https://www.bbc.co.uk/news/videos/c802denngxeo?at_medium=RSS&at_campaign=rss",
       "summary": "France has issued red heatwave alerts for around half the country as temperatures soar to record levels.",
@@ -852,7 +870,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 30
+      "news_count": 31
     },
     {
       "country_code": "IN",
@@ -952,6 +970,11 @@
     {
       "country_code": "ET",
       "country_name": "Ethiopia",
+      "news_count": 1
+    },
+    {
+      "country_code": "GB",
+      "country_name": "United Kingdom",
       "news_count": 1
     },
     {
