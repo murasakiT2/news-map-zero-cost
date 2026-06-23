@@ -1,14 +1,32 @@
 {
-  "generated_at": "2026-06-23T22:43:11Z",
+  "generated_at": "2026-06-23T23:47:37Z",
   "articles": [
     {
       "source": "BBC World",
-      "title": "Germany rail network comes to complete halt nationwide due to IT malfunction",
+      "title": "Germany rail network halted nationwide due to IT malfunction",
       "url": "https://www.bbc.co.uk/news/articles/crm0ek4z7ggo?at_medium=RSS&at_campaign=rss",
-      "summary": "Rail company Deutsche Bahn has paused train services across the country due to a nationwide IT disruption.",
-      "published_at": "2026-06-23T22:14:39Z",
+      "summary": "Rail company Deutsche Bahn had to pause train services across the country for more than two-and-a-half hours.",
+      "published_at": "2026-06-23T23:46:01Z",
       "country_code": "DE",
       "country_name": "Germany"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "Congress passes war powers measure for first time, rebuking Trump's war with Iran",
+      "url": "https://www.bbc.co.uk/news/articles/ce8j6g3v3r4o?at_medium=RSS&at_campaign=rss",
+      "summary": "The resolution is largely symbolic, but it adds to pressure on the White House to end the conflict once and for all.",
+      "published_at": "2026-06-23T23:28:13Z",
+      "country_code": "IR",
+      "country_name": "Iran"
+    },
+    {
+      "source": "BBC World",
+      "title": "Chinese e-commerce giant Alibaba sues US government over defence blacklist",
+      "url": "https://www.bbc.co.uk/news/articles/ckg0258vpvqo?at_medium=RSS&at_campaign=rss",
+      "summary": "It is suing the US defence department after it was added to a list of firms with ties to the Chinese military.",
+      "published_at": "2026-06-23T23:25:07Z",
+      "country_code": "US",
+      "country_name": "United States"
     },
     {
       "source": "BBC Europe",
@@ -18,15 +36,6 @@
       "published_at": "2026-06-23T21:46:34Z",
       "country_code": "FR",
       "country_name": "France"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "Congress passes war powers measure for first time, rebuking Trump's war with Iran",
-      "url": "https://www.bbc.co.uk/news/articles/ce8j6g3v3r4o?at_medium=RSS&at_campaign=rss",
-      "summary": "It marked the first time Congress has instructed a president to end a military action since the War Powers Resolution of 1973 was enacted.",
-      "published_at": "2026-06-23T21:44:03Z",
-      "country_code": "IR",
-      "country_name": "Iran"
     },
     {
       "source": "BBC World",
@@ -227,7 +236,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "A brutal gang rape in India revives painful memories of 2012 Delhi assault",
       "url": "https://www.bbc.co.uk/news/articles/cewqyn2p1lno?at_medium=RSS&at_campaign=rss",
       "summary": "The case from Begusarai in Bihar comes close in brutality to that inflicted on a woman during a sexual assault in 2012.",
@@ -843,7 +852,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 31
+      "news_count": 32
     },
     {
       "country_code": "IL",
