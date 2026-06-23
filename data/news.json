@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-06-23T16:59:33Z",
+  "generated_at": "2026-06-23T19:08:31Z",
   "articles": [
+    {
+      "source": "BBC Africa",
+      "title": "Sexual violence increasingly used as 'weapon of war' in Sudan, UN says",
+      "url": "https://www.bbc.co.uk/news/articles/crel587qz8ro?at_medium=RSS&at_campaign=rss",
+      "summary": "The scale and brutality of the sexual attacks is unprecedented and aimed at terrorising communities, the UN says.",
+      "published_at": "2026-06-23T18:50:10Z",
+      "country_code": "SD",
+      "country_name": "Sudan"
+    },
+    {
+      "source": "BBC World",
+      "title": "Israeli troops kill two in south Lebanon after lull in fighting, authorities say",
+      "url": "https://www.bbc.co.uk/news/articles/c36ykpw0yego?at_medium=RSS&at_campaign=rss",
+      "summary": "Israel's military says the two men were Hezbollah operatives, but the Iran-backed group accuses it of a ceasefire violation.",
+      "published_at": "2026-06-23T16:47:45Z",
+      "country_code": "IL",
+      "country_name": "Israel"
+    },
     {
       "source": "BBC World",
       "title": "Drowning deaths soar in France as Europe buckles in peak of heatwave",
@@ -216,15 +234,6 @@
       "published_at": "2026-06-22T16:42:23Z",
       "country_code": "FR",
       "country_name": "France"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "WhatsApp to be led by Indian start-up founder as Will Cathcart steps back",
-      "url": "https://www.bbc.co.uk/news/articles/c8e2195k5j2o?at_medium=RSS&at_campaign=rss",
-      "summary": "WhatsApp's leadership shake-up comes as Meta looks to strengthen its app's already booming presence in India.",
-      "published_at": "2026-06-22T15:57:46Z",
-      "country_code": "IN",
-      "country_name": "India"
     },
     {
       "source": "BBC US & Canada",
@@ -776,15 +785,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Middle East",
-      "title": "Trump aims to end Iran war but nuclear issue remains unresolved",
-      "url": "https://www.bbc.co.uk/news/articles/cqj1zxv1jyeo?at_medium=RSS&at_campaign=rss",
-      "summary": "President Trump says the US and Iran have agreed a deal to end the war but it is unclear what has been agreed on Iran's nuclear programme",
-      "published_at": "2026-06-15T13:54:18Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC Europe",
       "title": "Russia was behind arson attacks targeting PM, BBC reveals",
       "url": "https://www.bbc.co.uk/news/articles/c8r2l352z2do?at_medium=RSS&at_campaign=rss",
@@ -792,15 +792,6 @@
       "published_at": "2026-06-15T13:10:58Z",
       "country_code": "RU",
       "country_name": "Russia"
-    },
-    {
-      "source": "BBC Middle East",
-      "title": "Trump heralds Iran deal but questions - and risks - remain",
-      "url": "https://www.bbc.co.uk/news/articles/c9824e0rz75o?at_medium=RSS&at_campaign=rss",
-      "summary": "The announcement of an Iran deal was a welcome birthday gift for the president – but its success or failure may hinge on the details.",
-      "published_at": "2026-06-15T02:41:25Z",
-      "country_code": "IR",
-      "country_name": "Iran"
     },
     {
       "source": "BBC Europe",
@@ -879,11 +870,11 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 33
+      "news_count": 32
     },
     {
-      "country_code": "IN",
-      "country_name": "India",
+      "country_code": "IL",
+      "country_name": "Israel",
       "news_count": 6
     },
     {
@@ -897,19 +888,14 @@
       "news_count": 5
     },
     {
-      "country_code": "IL",
-      "country_name": "Israel",
+      "country_code": "IN",
+      "country_name": "India",
       "news_count": 5
     },
     {
       "country_code": "RU",
       "country_name": "Russia",
       "news_count": 5
-    },
-    {
-      "country_code": "IR",
-      "country_name": "Iran",
-      "news_count": 3
     },
     {
       "country_code": "UA",
@@ -947,6 +933,11 @@
       "news_count": 2
     },
     {
+      "country_code": "IR",
+      "country_name": "Iran",
+      "news_count": 2
+    },
+    {
       "country_code": "MA",
       "country_name": "Morocco",
       "news_count": 2
@@ -964,6 +955,11 @@
     {
       "country_code": "PT",
       "country_name": "Portugal",
+      "news_count": 2
+    },
+    {
+      "country_code": "SD",
+      "country_name": "Sudan",
       "news_count": 2
     },
     {
@@ -1014,11 +1010,6 @@
     {
       "country_code": "PS",
       "country_name": "Palestine",
-      "news_count": 1
-    },
-    {
-      "country_code": "SD",
-      "country_name": "Sudan",
       "news_count": 1
     }
   ]
