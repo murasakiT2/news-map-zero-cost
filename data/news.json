@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-06-23T19:08:31Z",
+  "generated_at": "2026-06-23T21:10:23Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "UN says it will evacuate sailors stranded in Strait of Hormuz, as Rubio warns against tolls",
+      "url": "https://www.bbc.co.uk/news/articles/c24yr796emzo?at_medium=RSS&at_campaign=rss",
+      "summary": "US Secretary of State Marco Rubio warned Iran that no country can charge fees for ships to travel through the strait.",
+      "published_at": "2026-06-23T21:04:11Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "Congress passes war powers measure for first time, rebuking Trump's war with Iran",
+      "url": "https://www.bbc.co.uk/news/articles/ce8j6g3v3r4o?at_medium=RSS&at_campaign=rss",
+      "summary": "It marked the first time Congress has instructed a president to end a military action since the War Powers Resolution of 1973 was enacted.",
+      "published_at": "2026-06-23T20:45:32Z",
+      "country_code": "IR",
+      "country_name": "Iran"
+    },
     {
       "source": "BBC Africa",
       "title": "Sexual violence increasingly used as 'weapon of war' in Sudan, UN says",
@@ -263,7 +281,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC US & Canada",
+      "source": "BBC Latin America",
       "title": "Late singer Oliver Tree's body returned to US after helicopter crash",
       "url": "https://www.bbc.co.uk/news/articles/c14ygg6vk3vo?at_medium=RSS&at_campaign=rss",
       "summary": "The 32-year-old California native died whilst on his world tour, ahead of a date in Brazil.",
@@ -342,15 +360,6 @@
       "published_at": "2026-06-21T23:57:59Z",
       "country_code": "UA",
       "country_name": "Ukraine"
-    },
-    {
-      "source": "BBC World",
-      "title": "Is Germany looking again at coal-powered electricity?",
-      "url": "https://www.bbc.co.uk/news/articles/cy04ykxrj5eo?at_medium=RSS&at_campaign=rss",
-      "summary": "It had planned to abandon the fuel, but the higher cost of natural gas may make it think again.",
-      "published_at": "2026-06-21T23:27:11Z",
-      "country_code": "DE",
-      "country_name": "Germany"
     },
     {
       "source": "BBC Asia",
@@ -594,15 +603,6 @@
       "published_at": "2026-06-18T15:46:36Z",
       "country_code": "RU",
       "country_name": "Russia"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "Should the US impose a teen social media ban like the UK?",
-      "url": "https://www.bbc.co.uk/news/videos/c5yzgxd428qo?at_medium=RSS&at_campaign=rss",
-      "summary": "The UK is enforcing a social media ban for children under the age of 16. The BBC asked Americans of different ages if they thought it was a …",
-      "published_at": "2026-06-18T14:45:11Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC Africa",
@@ -898,6 +898,11 @@
       "news_count": 5
     },
     {
+      "country_code": "IR",
+      "country_name": "Iran",
+      "news_count": 3
+    },
+    {
       "country_code": "UA",
       "country_name": "Ukraine",
       "news_count": 3
@@ -918,11 +923,6 @@
       "news_count": 2
     },
     {
-      "country_code": "DE",
-      "country_name": "Germany",
-      "news_count": 2
-    },
-    {
       "country_code": "EG",
       "country_name": "Egypt",
       "news_count": 2
@@ -930,11 +930,6 @@
     {
       "country_code": "ES",
       "country_name": "Spain",
-      "news_count": 2
-    },
-    {
-      "country_code": "IR",
-      "country_name": "Iran",
       "news_count": 2
     },
     {
@@ -970,6 +965,11 @@
     {
       "country_code": "CA",
       "country_name": "Canada",
+      "news_count": 1
+    },
+    {
+      "country_code": "DE",
+      "country_name": "Germany",
       "news_count": 1
     },
     {
