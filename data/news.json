@@ -1,14 +1,50 @@
 {
-  "generated_at": "2026-06-24T02:11:16Z",
+  "generated_at": "2026-06-24T06:27:10Z",
   "articles": [
     {
-      "source": "BBC US & Canada",
+      "source": "BBC World",
+      "title": "Clean sweep for Mamdani-backed candidates in New York's Democratic primary",
+      "url": "https://www.bbc.co.uk/news/articles/clye652m41po?at_medium=RSS&at_campaign=rss",
+      "summary": "Brad Lander unseats Dan Goldman in a race that laid bare the city's divisions over the Israel-Gaza war.",
+      "published_at": "2026-06-24T05:07:55Z",
+      "country_code": "IL",
+      "country_name": "Israel"
+    },
+    {
+      "source": "BBC World",
       "title": "Congress passes war powers measure for first time, rebuking Trump's war with Iran",
       "url": "https://www.bbc.co.uk/news/articles/ce8j6g3v3r4o?at_medium=RSS&at_campaign=rss",
       "summary": "The resolution is largely symbolic, but it adds to pressure on the White House to end the conflict once and for all.",
-      "published_at": "2026-06-24T01:36:58Z",
+      "published_at": "2026-06-24T03:57:59Z",
       "country_code": "IR",
       "country_name": "Iran"
+    },
+    {
+      "source": "BBC Africa",
+      "title": "Watch: Football fans celebrate in Ghana after draw with England",
+      "url": "https://www.bbc.co.uk/news/videos/cg74djdk510o?at_medium=RSS&at_campaign=rss",
+      "summary": "Ghana correspondent Thomas Naadi reports from Black Star Square in Accra.",
+      "published_at": "2026-06-24T01:52:08Z",
+      "country_code": "GB",
+      "country_name": "United Kingdom"
+    },
+    {
+      "source": "BBC World",
+      "title": "Sydney woman wakes from induced coma more than a week after shark attack",
+      "url": "https://www.bbc.co.uk/news/articles/cy8drk2dk3no?at_medium=RSS&at_campaign=rss",
+      "summary": "Leah Stewart, 34, had one of her arms amputated after she was bitten while swimming at Coogee Beach.",
+      "published_at": "2026-06-24T01:42:43Z",
+      "country_code": "AU",
+      "country_name": "Australia"
+    },
+    {
+      "source": "BBC Africa",
+      "title": "'VAR went for a coffee' - should Ghana have had penalty against England?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cd6e3gvnnzwo?at_medium=RSS&at_campaign=rss",
+      "summary": "England fans have been left frustrated by the goalless draw against Ghana, but were Thomas Tuchel's side fortunate not to have given away a …",
+      "published_at": "2026-06-23T23:46:07Z",
+      "country_code": "GB",
+      "country_name": "United Kingdom"
     },
     {
       "source": "BBC World",
@@ -27,6 +63,15 @@
       "published_at": "2026-06-23T23:25:07Z",
       "country_code": "US",
       "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Kunal Shah: The Indian entrepreneur taking charge of WhatsApp",
+      "url": "https://www.bbc.co.uk/news/articles/c0my4n38myjo?at_medium=RSS&at_campaign=rss",
+      "summary": "Kunal Shah has been a recognisable figure in India's startup ecosystem for a while but now he faces global spotlight.",
+      "published_at": "2026-06-23T21:57:05Z",
+      "country_code": "IN",
+      "country_name": "India"
     },
     {
       "source": "BBC Europe",
@@ -119,7 +164,7 @@
       "country_name": "Iran"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Africa",
       "title": "Kenya minister halts construction of US-backed Ebola quarantine centre",
       "url": "https://www.bbc.co.uk/news/articles/c4gy6vk44pwo?at_medium=RSS&at_campaign=rss",
       "summary": "Aden Duale defied a High Court order to stop building work on a controversial US-funded facility.",
@@ -162,15 +207,6 @@
       "published_at": "2026-06-23T09:30:00Z",
       "country_code": "PT",
       "country_name": "Portugal"
-    },
-    {
-      "source": "BBC Africa",
-      "title": "South Sudan sets December date for long-delayed first-ever election",
-      "url": "https://www.bbc.co.uk/news/articles/c4gyl1n332po?at_medium=RSS&at_campaign=rss",
-      "summary": "Plans could yet be scuppered again over logistical issues and continued tensions and violence.",
-      "published_at": "2026-06-23T08:18:56Z",
-      "country_code": "SD",
-      "country_name": "Sudan"
     },
     {
       "source": "BBC World",
@@ -263,15 +299,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
-      "title": "Red heat alerts issued in France, Italy and Spain as 40C temperatures forecast",
-      "url": "https://www.bbc.co.uk/news/articles/c0jy9g96086o?at_medium=RSS&at_campaign=rss",
-      "summary": "The heatwave conditions are forecast to intensify in the coming days across central and western Europe.",
-      "published_at": "2026-06-22T16:42:23Z",
-      "country_code": "FR",
-      "country_name": "France"
-    },
-    {
       "source": "BBC Africa",
       "title": "New York City's 'Little Senegal' comes together for World Cup",
       "url": "https://www.bbc.co.uk/news/videos/c6210wrp18no?at_medium=RSS&at_campaign=rss",
@@ -362,7 +389,7 @@
       "country_name": "Colombia"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "Largest ever cocaine bust in Australia after police raid underground bunker",
       "url": "https://www.bbc.co.uk/news/articles/c14ygjzr8j7o?at_medium=RSS&at_campaign=rss",
       "summary": "Police seized 2.7 tonnes of cocaine worth an estimated A$816m after searching a property in western Sydney.",
@@ -405,15 +432,6 @@
       "published_at": "2026-06-21T15:22:14Z",
       "country_code": "FR",
       "country_name": "France"
-    },
-    {
-      "source": "BBC Africa",
-      "title": "Ethiopia PM's party wins landslide as fears grow of new conflict",
-      "url": "https://www.bbc.co.uk/news/articles/cz750q5e3w3o?at_medium=RSS&at_campaign=rss",
-      "summary": "Abiy Ahmed's party retains its huge majority despite unrest in several parts of Ethiopia and tensions with its neighbours.",
-      "published_at": "2026-06-21T15:01:28Z",
-      "country_code": "ET",
-      "country_name": "Ethiopia"
     },
     {
       "source": "BBC Europe",
@@ -857,16 +875,16 @@
     {
       "country_code": "IL",
       "country_name": "Israel",
-      "news_count": 6
+      "news_count": 7
     },
     {
       "country_code": "AU",
       "country_name": "Australia",
-      "news_count": 5
+      "news_count": 6
     },
     {
-      "country_code": "FR",
-      "country_name": "France",
+      "country_code": "IN",
+      "country_name": "India",
       "news_count": 5
     },
     {
@@ -875,8 +893,8 @@
       "news_count": 5
     },
     {
-      "country_code": "IN",
-      "country_name": "India",
+      "country_code": "FR",
+      "country_name": "France",
       "news_count": 4
     },
     {
@@ -915,6 +933,11 @@
       "news_count": 2
     },
     {
+      "country_code": "GB",
+      "country_name": "United Kingdom",
+      "news_count": 2
+    },
+    {
       "country_code": "MA",
       "country_name": "Morocco",
       "news_count": 2
@@ -935,11 +958,6 @@
       "news_count": 2
     },
     {
-      "country_code": "SD",
-      "country_name": "Sudan",
-      "news_count": 2
-    },
-    {
       "country_code": "BR",
       "country_name": "Brazil",
       "news_count": 1
@@ -952,11 +970,6 @@
     {
       "country_code": "ES",
       "country_name": "Spain",
-      "news_count": 1
-    },
-    {
-      "country_code": "ET",
-      "country_name": "Ethiopia",
       "news_count": 1
     },
     {
@@ -987,6 +1000,11 @@
     {
       "country_code": "PS",
       "country_name": "Palestine",
+      "news_count": 1
+    },
+    {
+      "country_code": "SD",
+      "country_name": "Sudan",
       "news_count": 1
     }
   ]
