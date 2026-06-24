@@ -1,6 +1,33 @@
 {
-  "generated_at": "2026-06-24T21:07:03Z",
+  "generated_at": "2026-06-24T22:43:29Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "France, UK and Spain see record temperatures as heatwave grips western Europe",
+      "url": "https://www.bbc.co.uk/news/articles/c78y4102n1zo?at_medium=RSS&at_campaign=rss",
+      "summary": "Tens of millions of people are grappling with punishing temperatures, which have led to red heat alerts across the continent.",
+      "published_at": "2026-06-24T21:39:18Z",
+      "country_code": "GB",
+      "country_name": "United Kingdom"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "Trump accuses oil firms of price gouging at petrol pumps",
+      "url": "https://www.bbc.co.uk/news/articles/cly790j1j6ro?at_medium=RSS&at_campaign=rss",
+      "summary": "The president's remarks come as global oil prices have fallen but remain higher than before the US-Israel war with Iran.",
+      "published_at": "2026-06-24T21:24:12Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "Congress has told Trump to stop the Iran war, will it matter?",
+      "url": "https://www.bbc.co.uk/news/videos/cx24793rx4lo?at_medium=RSS&at_campaign=rss",
+      "summary": "The BBC's Gary O'Donoghue explains why Congress's war powers resolution has gotten under the president's skin.",
+      "published_at": "2026-06-24T21:22:00Z",
+      "country_code": "IR",
+      "country_name": "Iran"
+    },
     {
       "source": "BBC World",
       "title": "UN nuclear chief says inspectors will visit Iran sites as part of war deal",
@@ -9,15 +36,6 @@
       "published_at": "2026-06-24T17:31:48Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "Power outages hit France as it records hottest day since measurements began",
-      "url": "https://www.bbc.co.uk/news/articles/c78y4102n1zo?at_medium=RSS&at_campaign=rss",
-      "summary": "France has recorded it hottest day since records began in 1947, its national weather agency says, breaking a record set on Tuesday.",
-      "published_at": "2026-06-24T17:29:55Z",
-      "country_code": "FR",
-      "country_name": "France"
     },
     {
       "source": "BBC World",
@@ -54,15 +72,6 @@
       "published_at": "2026-06-24T14:36:42Z",
       "country_code": "KE",
       "country_name": "Kenya"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "Trump accuses oil firms of price gouging at petrol pumps",
-      "url": "https://www.bbc.co.uk/news/articles/cly790j1j6ro?at_medium=RSS&at_campaign=rss",
-      "summary": "The president's remarks come as global oil prices have fallen but remain higher than before the US-Israel war with Iran.",
-      "published_at": "2026-06-24T14:24:18Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC World",
@@ -878,14 +887,9 @@
       "news_count": 6
     },
     {
-      "country_code": "FR",
-      "country_name": "France",
-      "news_count": 5
-    },
-    {
       "country_code": "IR",
       "country_name": "Iran",
-      "news_count": 5
+      "news_count": 6
     },
     {
       "country_code": "RU",
@@ -898,6 +902,16 @@
       "news_count": 4
     },
     {
+      "country_code": "FR",
+      "country_name": "France",
+      "news_count": 4
+    },
+    {
+      "country_code": "GB",
+      "country_name": "United Kingdom",
+      "news_count": 4
+    },
+    {
       "country_code": "IN",
       "country_name": "India",
       "news_count": 4
@@ -905,11 +919,6 @@
     {
       "country_code": "CO",
       "country_name": "Colombia",
-      "news_count": 3
-    },
-    {
-      "country_code": "GB",
-      "country_name": "United Kingdom",
       "news_count": 3
     },
     {
