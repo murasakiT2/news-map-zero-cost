@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-06-24T15:15:12Z",
+  "generated_at": "2026-06-24T17:24:06Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Power outages hit France as it records hottest day since measurements began",
+      "url": "https://www.bbc.co.uk/news/articles/c78y4102n1zo?at_medium=RSS&at_campaign=rss",
+      "summary": "France has recorded it hottest day since records began in 1947, its national weather agency says, breaking a record set on Tuesday.",
+      "published_at": "2026-06-24T16:31:38Z",
+      "country_code": "FR",
+      "country_name": "France"
+    },
+    {
+      "source": "BBC World",
+      "title": "Colombia's left-wing presidential candidate concedes defeat",
+      "url": "https://www.bbc.co.uk/news/articles/cgrkqky5lzpo?at_medium=RSS&at_campaign=rss",
+      "summary": "Senator Iván Cepeda was beaten by right-wing businessman Abelardo de la Espriella by less than a percentage point.",
+      "published_at": "2026-06-24T15:50:22Z",
+      "country_code": "CO",
+      "country_name": "Colombia"
+    },
     {
       "source": "BBC World",
       "title": "France confirms first Ebola case",
@@ -14,7 +32,7 @@
       "source": "BBC World",
       "title": "Congress passes war powers measure for first time, breaking with Trump over Iran",
       "url": "https://www.bbc.co.uk/news/articles/ce8j6g3v3r4o?at_medium=RSS&at_campaign=rss",
-      "summary": "The resolution passed on Tuesday was largely symbolic, but it adds to pressure on the White House to end the conflict once and for all.",
+      "summary": "Experts say Trump is likely to ignore it, but that even though it carries little power, it is politically significant.",
       "published_at": "2026-06-24T14:57:21Z",
       "country_code": "IR",
       "country_name": "Iran"
@@ -47,16 +65,7 @@
       "country_name": "France"
     },
     {
-      "source": "BBC World",
-      "title": "Power outages hit France as record heatwave set to peak",
-      "url": "https://www.bbc.co.uk/news/articles/c78y4102n1zo?at_medium=RSS&at_campaign=rss",
-      "summary": "About 68,000 homes in Brittany have been affected, with electricity unlikely to be fully restored until Wednesday night.",
-      "published_at": "2026-06-24T13:44:08Z",
-      "country_code": "FR",
-      "country_name": "France"
-    },
-    {
-      "source": "BBC Middle East",
+      "source": "BBC US & Canada",
       "title": "Here's how Rubio's Mideast trip could affect the Iran deal",
       "url": "https://www.bbc.co.uk/news/videos/cy8w513859eo?at_medium=RSS&at_campaign=rss",
       "summary": "The BBC’s Daniel Bush is traveling with Secretary of State Marco Rubio as he seeks to reassure Gulf allies over the Iran deal aimed at endin…",
@@ -234,15 +243,6 @@
       "published_at": "2026-06-23T16:47:45Z",
       "country_code": "IL",
       "country_name": "Israel"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "US top court says Rastafarian man cannot sue prison guards who cut his dreadlocks",
-      "url": "https://www.bbc.co.uk/news/articles/cx247v39r1no?at_medium=RSS&at_campaign=rss",
-      "summary": "The former Louisiana inmate argued his Rastafarian faith was violated after prison officials focibly shaved off his hair.",
-      "published_at": "2026-06-23T15:57:29Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC World",
@@ -686,15 +686,6 @@
       "country_name": "Spain"
     },
     {
-      "source": "BBC Latin America",
-      "title": "Bolivia signs $20m deal with US to fight drug trafficking",
-      "url": "https://www.bbc.co.uk/news/articles/c9w28vzj0q0o?at_medium=RSS&at_campaign=rss",
-      "summary": "Under its new president, Bolivia is re-establishing severed ties with the US to combat organised crime.",
-      "published_at": "2026-06-18T09:19:10Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC Europe",
       "title": "'The team needs to score, not you' - Ronaldo struggles as rivals sparkle",
       "url": "https://www.bbc.co.uk/sport/football/articles/cpq3734ln8yo?at_medium=RSS&at_campaign=rss",
@@ -888,7 +879,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 31
+      "news_count": 29
     },
     {
       "country_code": "IL",
@@ -921,6 +912,11 @@
       "news_count": 4
     },
     {
+      "country_code": "CO",
+      "country_name": "Colombia",
+      "news_count": 3
+    },
+    {
       "country_code": "GB",
       "country_name": "United Kingdom",
       "news_count": 3
@@ -943,11 +939,6 @@
     {
       "country_code": "CN",
       "country_name": "China",
-      "news_count": 2
-    },
-    {
-      "country_code": "CO",
-      "country_name": "Colombia",
       "news_count": 2
     },
     {
