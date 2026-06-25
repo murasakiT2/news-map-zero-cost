@@ -1,14 +1,41 @@
 {
-  "generated_at": "2026-06-25T18:01:27Z",
+  "generated_at": "2026-06-25T20:27:27Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Women alleging rape and sexual assault in France call to abolish statute of limitations",
+      "url": "https://www.bbc.co.uk/news/articles/ckg7z5dvxnzo?at_medium=RSS&at_campaign=rss",
+      "summary": "More than 50 women are calling for the abolition of the statute of limitations which they say has prevented them seeking justice.",
+      "published_at": "2026-06-25T18:50:12Z",
+      "country_code": "FR",
+      "country_name": "France"
+    },
     {
       "source": "BBC US & Canada",
       "title": "Supreme Court allows Trump to end protected status for Haitian and Syrian immigrants",
       "url": "https://www.bbc.co.uk/news/articles/c4g8ym422lko?at_medium=RSS&at_campaign=rss",
       "summary": "The ruling opens the path for the Trump administration to deport hundreds of thousands of immigrants who have been living in the US for year…",
-      "published_at": "2026-06-25T17:47:12Z",
+      "published_at": "2026-06-25T18:43:14Z",
       "country_code": "US",
       "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "France warns even young people's health at risk as Europe's heatwave shifts east",
+      "url": "https://www.bbc.co.uk/news/articles/cwy0pdq89zno?at_medium=RSS&at_campaign=rss",
+      "summary": "Temperatures in Germany could hit 40C in some areas while French officials say deaths linked to the heat are being seen among young people.",
+      "published_at": "2026-06-25T18:12:27Z",
+      "country_code": "FR",
+      "country_name": "France"
+    },
+    {
+      "source": "BBC Latin America",
+      "title": "Rescuers race to find Venezuela quake survivors: What we know so far",
+      "url": "https://www.bbc.co.uk/news/articles/c4gyjgreg1ro?at_medium=RSS&at_campaign=rss",
+      "summary": "The two quakes have killed at least 188 people and injured nearly 1,500, with more feared trapped under rubble.",
+      "published_at": "2026-06-25T18:09:18Z",
+      "country_code": "VE",
+      "country_name": "Venezuela"
     },
     {
       "source": "BBC World",
@@ -47,29 +74,11 @@
       "country_name": "Iran"
     },
     {
-      "source": "BBC World",
-      "title": "Europe's heatwave shifts east as France raises health alert to highest level",
-      "url": "https://www.bbc.co.uk/news/articles/cwy0pdq89zno?at_medium=RSS&at_campaign=rss",
-      "summary": "Temperatures in Germany could hit 40C in some areas while French officials say deaths linked to the heat are being seen among young people.",
-      "published_at": "2026-06-25T15:15:45Z",
-      "country_code": "FR",
-      "country_name": "France"
-    },
-    {
       "source": "BBC Latin America",
       "title": "'I thought I was going to die' - Venezuelans describe earthquake panic",
       "url": "https://www.bbc.co.uk/news/articles/czj8vjvmz38o?at_medium=RSS&at_campaign=rss",
       "summary": "Buildings were flattened in the capital Caracas, where voices have been heard calling from the rubble.",
       "published_at": "2026-06-25T15:04:21Z",
-      "country_code": "VE",
-      "country_name": "Venezuela"
-    },
-    {
-      "source": "BBC Latin America",
-      "title": "Rescuers race to find Venezuela quake survivors: What we know so far",
-      "url": "https://www.bbc.co.uk/news/articles/c4gyjgreg1ro?at_medium=RSS&at_campaign=rss",
-      "summary": "The two quakes have killed at least 164 people and injured nearly 1,000, with more feared trapped under rubble.",
-      "published_at": "2026-06-25T15:04:10Z",
       "country_code": "VE",
       "country_name": "Venezuela"
     },
@@ -108,6 +117,24 @@
       "published_at": "2026-06-25T12:08:30Z",
       "country_code": "VE",
       "country_name": "Venezuela"
+    },
+    {
+      "source": "BBC Middle East",
+      "title": "TikTok influencer charged with Dubai murder",
+      "url": "https://www.bbc.co.uk/news/articles/cwy0p813jn7o?at_medium=RSS&at_campaign=rss",
+      "summary": "Influencer Brooke George, 23, from Kent, claims she acted in self defence in stabbing her partner.",
+      "published_at": "2026-06-25T11:58:44Z",
+      "country_code": "AE",
+      "country_name": "United Arab Emirates"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "How Pochettino has US believing they can be World Cup winners",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvgm9jvemlno?at_medium=RSS&at_campaign=rss",
+      "summary": "Mauricio Pochettino has united the USA fans and players in a belief that they are capable of winning the World Cup.",
+      "published_at": "2026-06-25T10:34:00Z",
+      "country_code": "US",
+      "country_name": "United States"
     },
     {
       "source": "BBC Africa",
@@ -704,7 +731,7 @@
       "country_name": "Mexico"
     },
     {
-      "source": "BBC US & Canada",
+      "source": "BBC Middle East",
       "title": "Thousands killed in US-Israeli war on Iran - but experts say true total may never be known",
       "url": "https://www.bbc.co.uk/news/articles/cy735xlv50ko?at_medium=RSS&at_campaign=rss",
       "summary": "Experts say internet, media and government restrictions have all hampered casualty reporting across the region.",
@@ -924,7 +951,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 26
+      "news_count": 27
     },
     {
       "country_code": "IR",
@@ -932,14 +959,14 @@
       "news_count": 7
     },
     {
-      "country_code": "IL",
-      "country_name": "Israel",
+      "country_code": "FR",
+      "country_name": "France",
       "news_count": 6
     },
     {
-      "country_code": "FR",
-      "country_name": "France",
-      "news_count": 5
+      "country_code": "IL",
+      "country_name": "Israel",
+      "news_count": 6
     },
     {
       "country_code": "RU",
@@ -1025,6 +1052,11 @@
       "country_code": "PT",
       "country_name": "Portugal",
       "news_count": 2
+    },
+    {
+      "country_code": "AE",
+      "country_name": "United Arab Emirates",
+      "news_count": 1
     },
     {
       "country_code": "CA",
