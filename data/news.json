@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-06-25T15:36:07Z",
+  "generated_at": "2026-06-25T18:01:27Z",
   "articles": [
+    {
+      "source": "BBC US & Canada",
+      "title": "Supreme Court allows Trump to end protected status for Haitian and Syrian immigrants",
+      "url": "https://www.bbc.co.uk/news/articles/c4g8ym422lko?at_medium=RSS&at_campaign=rss",
+      "summary": "The ruling opens the path for the Trump administration to deport hundreds of thousands of immigrants who have been living in the US for year…",
+      "published_at": "2026-06-25T17:47:12Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Families lay flowers on barbed wire barricade on anniversary of deadly Kenya protests",
+      "url": "https://www.bbc.co.uk/news/articles/cgqjl8kj8wpo?at_medium=RSS&at_campaign=rss",
+      "summary": "Protesters demand justice for the dozens killed during the 2024 demonstrations and last year's anniversary protests.",
+      "published_at": "2026-06-25T16:53:51Z",
+      "country_code": "KE",
+      "country_name": "Kenya"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "US Supreme Court strikes down Hawaii limits on guns in public",
+      "url": "https://www.bbc.co.uk/news/articles/c5yz484npd8o?at_medium=RSS&at_campaign=rss",
+      "summary": "The court sided with gun owners who argued the limit on firearms on publicly accessible private property, like restaurants or shopping malls…",
+      "published_at": "2026-06-25T16:28:53Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC Africa",
+      "title": "Kenyans mark two years since Gen Z protests",
+      "url": "https://www.bbc.co.uk/news/videos/c0jyd70gp50o?at_medium=RSS&at_campaign=rss",
+      "summary": "Two years on, families of those killed during Kenya’s 2024 anti-government protests returned to Parliament to remember their loved ones and …",
+      "published_at": "2026-06-25T16:16:54Z",
+      "country_code": "KE",
+      "country_name": "Kenya"
+    },
     {
       "source": "BBC World",
       "title": "Oil price falls back to pre-Iran war levels",
@@ -12,15 +48,6 @@
     },
     {
       "source": "BBC World",
-      "title": "Families lay flowers on barbed wire barricade on anniversary of deadly Kenya protests",
-      "url": "https://www.bbc.co.uk/news/articles/cgqjl8kj8wpo?at_medium=RSS&at_campaign=rss",
-      "summary": "Protesters demand justice for the dozens killed during the 2024 demonstrations and last year's anniversary protests.",
-      "published_at": "2026-06-25T15:31:23Z",
-      "country_code": "KE",
-      "country_name": "Kenya"
-    },
-    {
-      "source": "BBC World",
       "title": "Europe's heatwave shifts east as France raises health alert to highest level",
       "url": "https://www.bbc.co.uk/news/articles/cwy0pdq89zno?at_medium=RSS&at_campaign=rss",
       "summary": "Temperatures in Germany could hit 40C in some areas while French officials say deaths linked to the heat are being seen among young people.",
@@ -29,7 +56,7 @@
       "country_name": "France"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Latin America",
       "title": "'I thought I was going to die' - Venezuelans describe earthquake panic",
       "url": "https://www.bbc.co.uk/news/articles/czj8vjvmz38o?at_medium=RSS&at_campaign=rss",
       "summary": "Buildings were flattened in the capital Caracas, where voices have been heard calling from the rubble.",
@@ -72,6 +99,15 @@
       "published_at": "2026-06-25T12:25:14Z",
       "country_code": "UA",
       "country_name": "Ukraine"
+    },
+    {
+      "source": "BBC World",
+      "title": "People flee as building collapses on Caracas outskirts",
+      "url": "https://www.bbc.co.uk/news/videos/c78y1e3606vo?at_medium=RSS&at_campaign=rss",
+      "summary": "The capital and its surrounding areas have seen some of the worst damage from the 7.2 and 7.5 quakes, which hit a minute apart.",
+      "published_at": "2026-06-25T12:08:30Z",
+      "country_code": "VE",
+      "country_name": "Venezuela"
     },
     {
       "source": "BBC Africa",
@@ -146,15 +182,6 @@
       "country_name": "Canada"
     },
     {
-      "source": "BBC US & Canada",
-      "title": "Trump accuses big oil firms of price-gouging drivers",
-      "url": "https://www.bbc.co.uk/news/articles/cly790j1j6ro?at_medium=RSS&at_campaign=rss",
-      "summary": "The US president named Shell, ExxonMobil, BP and Chevron when talking to reporters about a probe into fuel prices.",
-      "published_at": "2026-06-25T01:45:33Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC World",
       "title": "Watch: Moment earthquakes hit airport and buildings in Caracas",
       "url": "https://www.bbc.co.uk/news/videos/cvgl42lm8dwo?at_medium=RSS&at_campaign=rss",
@@ -225,15 +252,6 @@
       "published_at": "2026-06-24T15:00:52Z",
       "country_code": "FR",
       "country_name": "France"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "Congress passes war powers measure for first time, breaking with Trump over Iran",
-      "url": "https://www.bbc.co.uk/news/articles/ce8j6g3v3r4o?at_medium=RSS&at_campaign=rss",
-      "summary": "Experts say Trump is likely to ignore it, but that even though it carries little power, it is politically significant.",
-      "published_at": "2026-06-24T14:57:21Z",
-      "country_code": "IR",
-      "country_name": "Iran"
     },
     {
       "source": "BBC Africa",
@@ -906,12 +924,12 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 25
+      "news_count": 26
     },
     {
       "country_code": "IR",
       "country_name": "Iran",
-      "news_count": 8
+      "news_count": 7
     },
     {
       "country_code": "IL",
@@ -926,6 +944,11 @@
     {
       "country_code": "RU",
       "country_name": "Russia",
+      "news_count": 5
+    },
+    {
+      "country_code": "VE",
+      "country_name": "Venezuela",
       "news_count": 5
     },
     {
@@ -944,11 +967,6 @@
       "news_count": 4
     },
     {
-      "country_code": "VE",
-      "country_name": "Venezuela",
-      "news_count": 4
-    },
-    {
       "country_code": "ZA",
       "country_name": "South Africa",
       "news_count": 4
@@ -961,6 +979,11 @@
     {
       "country_code": "IN",
       "country_name": "India",
+      "news_count": 3
+    },
+    {
+      "country_code": "KE",
+      "country_name": "Kenya",
       "news_count": 3
     },
     {
@@ -981,11 +1004,6 @@
     {
       "country_code": "GB",
       "country_name": "United Kingdom",
-      "news_count": 2
-    },
-    {
-      "country_code": "KE",
-      "country_name": "Kenya",
       "news_count": 2
     },
     {
