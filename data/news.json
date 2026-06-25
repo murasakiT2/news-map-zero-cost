@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-06-25T21:59:24Z",
+  "generated_at": "2026-06-25T23:19:16Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "A Chinese box office hit sparks a debate about identity in Singapore",
+      "url": "https://www.bbc.co.uk/news/articles/c5yzv23g75eo?at_medium=RSS&at_campaign=rss",
+      "summary": "A nostalgic tale about family, hope and hardship has opened an unexpected conversation.",
+      "published_at": "2026-06-25T22:19:08Z",
+      "country_code": "SG",
+      "country_name": "Singapore"
+    },
     {
       "source": "BBC World",
       "title": "France warns even young people's health at risk as Europe's heatwave shifts east",
@@ -218,7 +227,7 @@
       "country_name": "Venezuela"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "The woman who fought for Pakistan's disappeared men now faces life in jail",
       "url": "https://www.bbc.co.uk/news/articles/c0ry07x87kvo?at_medium=RSS&at_campaign=rss",
       "summary": "The Nobel Peace Prize nominee has spent years demanding answers about the missing in Balochistan province.",
@@ -558,15 +567,6 @@
       "published_at": "2026-06-22T09:45:52Z",
       "country_code": "PH",
       "country_name": "Philippines"
-    },
-    {
-      "source": "BBC Asia",
-      "title": "China's import of custard apples is sparking fears in Taiwan",
-      "url": "https://www.bbc.co.uk/news/articles/cwy05neqy7wo?at_medium=RSS&at_campaign=rss",
-      "summary": "Taiwan's agriculture ministry is worried that Beijing wants to weaponise a local specialty: the atemoya.",
-      "published_at": "2026-06-22T04:37:27Z",
-      "country_code": "CN",
-      "country_name": "China"
     },
     {
       "source": "BBC Africa",
@@ -1019,11 +1019,6 @@
       "news_count": 2
     },
     {
-      "country_code": "CN",
-      "country_name": "China",
-      "news_count": 2
-    },
-    {
       "country_code": "EG",
       "country_name": "Egypt",
       "news_count": 2
@@ -1064,6 +1059,11 @@
       "news_count": 1
     },
     {
+      "country_code": "CN",
+      "country_name": "China",
+      "news_count": 1
+    },
+    {
       "country_code": "DE",
       "country_name": "Germany",
       "news_count": 1
@@ -1091,6 +1091,11 @@
     {
       "country_code": "SD",
       "country_name": "Sudan",
+      "news_count": 1
+    },
+    {
+      "country_code": "SG",
+      "country_name": "Singapore",
       "news_count": 1
     }
   ]
