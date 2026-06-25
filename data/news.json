@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-06-25T02:51:43Z",
+  "generated_at": "2026-06-25T06:39:42Z",
   "articles": [
+    {
+      "source": "BBC Africa",
+      "title": "Police seal off key roads in Nairobi as Kenya braces for Gen Z protests",
+      "url": "https://www.bbc.co.uk/news/articles/cgqjl8kj8wpo?at_medium=RSS&at_campaign=rss",
+      "summary": "Protesters demand justice for more than 80 people killed during the 2024 demonstrations and last year's anniversary protests.",
+      "published_at": "2026-06-25T06:32:08Z",
+      "country_code": "KE",
+      "country_name": "Kenya"
+    },
+    {
+      "source": "BBC World",
+      "title": "Independent MPs launch new Australian centrist party",
+      "url": "https://www.bbc.co.uk/news/articles/ckg76mgz0m1o?at_medium=RSS&at_campaign=rss",
+      "summary": "Zali Steggall and Allegra Spender say Community Strong Australia will offer citizens 'reason over rage'.",
+      "published_at": "2026-06-25T02:41:28Z",
+      "country_code": "AU",
+      "country_name": "Australia"
+    },
     {
       "source": "BBC US & Canada",
       "title": "Trump accuses big oil firms of price-gouging drivers",
@@ -11,7 +29,34 @@
       "country_name": "United States"
     },
     {
+      "source": "BBC World",
+      "title": "Trump asks Congress for $87bn, mostly for 'urgent' Iran war costs",
+      "url": "https://www.bbc.co.uk/news/articles/c1eydwldzdjo?at_medium=RSS&at_campaign=rss",
+      "summary": "But the budget faces an uphill battle, coming a day after lawmakers rebuked Trump's military action.",
+      "published_at": "2026-06-25T00:51:28Z",
+      "country_code": "IR",
+      "country_name": "Iran"
+    },
+    {
+      "source": "BBC World",
+      "title": "Moment earthquake hits Venezuela and leaves buildings collapsed",
+      "url": "https://www.bbc.co.uk/news/videos/cvgl42lm8dwo?at_medium=RSS&at_campaign=rss",
+      "summary": "Video filmed by BBC reporters, contributors and locals shows the aftermath, as frantic residents evacuate.",
+      "published_at": "2026-06-24T23:40:47Z",
+      "country_code": "VE",
+      "country_name": "Venezuela"
+    },
+    {
       "source": "BBC Asia",
+      "title": "The woman who fought for Pakistan's disappeared men now faces life in jail",
+      "url": "https://www.bbc.co.uk/news/articles/c0ry07x87kvo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Nobel Peace Prize nominee has spent years demanding answers about the missing in Balochistan province.",
+      "published_at": "2026-06-24T22:14:31Z",
+      "country_code": "PK",
+      "country_name": "Pakistan"
+    },
+    {
+      "source": "BBC World",
       "title": "Philippines bans video game played by alleged high school shooter",
       "url": "https://www.bbc.co.uk/news/articles/c14y7738nm8o?at_medium=RSS&at_campaign=rss",
       "summary": "The rare school shooting that left three students killed and 20 others injured has shocked the country.",
@@ -65,7 +110,7 @@
       "country_name": "France"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "Congress passes war powers measure for first time, breaking with Trump over Iran",
       "url": "https://www.bbc.co.uk/news/articles/ce8j6g3v3r4o?at_medium=RSS&at_campaign=rss",
       "summary": "Experts say Trump is likely to ignore it, but that even though it carries little power, it is politically significant.",
@@ -74,7 +119,7 @@
       "country_name": "Iran"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Africa",
       "title": "Kenya to charge students with murder over deadly school fire",
       "url": "https://www.bbc.co.uk/news/articles/cwykl517xk7o?at_medium=RSS&at_campaign=rss",
       "summary": "Sixteen pupils, aged between 15 and 18, died when a fire broke out in a dormitory at Utumishi Girls' School last month.",
@@ -183,24 +228,6 @@
     },
     {
       "source": "BBC World",
-      "title": "Germany rail network briefly halted nationwide due to IT malfunction",
-      "url": "https://www.bbc.co.uk/news/articles/crm0ek4z7ggo?at_medium=RSS&at_campaign=rss",
-      "summary": "Rail company Deutsche Bahn had to pause train services across the country for more than two-and-a-half hours.",
-      "published_at": "2026-06-23T23:46:01Z",
-      "country_code": "DE",
-      "country_name": "Germany"
-    },
-    {
-      "source": "BBC World",
-      "title": "Chinese e-commerce giant Alibaba sues US government over defence blacklist",
-      "url": "https://www.bbc.co.uk/news/articles/ckg0258vpvqo?at_medium=RSS&at_campaign=rss",
-      "summary": "It is suing the US defence department after it was added to a list of firms with ties to the Chinese military.",
-      "published_at": "2026-06-23T23:25:07Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
       "title": "From startups to global spotlight - Indian entrepreneur takes charge of WhatsApp",
       "url": "https://www.bbc.co.uk/news/articles/c0my4n38myjo?at_medium=RSS&at_campaign=rss",
       "summary": "Kunal Shah has been a recognisable figure in India's startup ecosystem for a while but now he faces global spotlight.",
@@ -254,7 +281,7 @@
       "country_name": "Israel"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Middle East",
       "title": "Dozens of ships head through Strait of Hormuz after US-Iran deal",
       "url": "https://www.bbc.co.uk/news/articles/cx23rnzdgl8o?at_medium=RSS&at_campaign=rss",
       "summary": "Traffic in the waterway has risen since the US and Iran signed a deal aimed at ending the war, including 42 ships on Saturday alone.",
@@ -270,15 +297,6 @@
       "published_at": "2026-06-23T14:30:06Z",
       "country_code": "PK",
       "country_name": "Pakistan"
-    },
-    {
-      "source": "BBC Africa",
-      "title": "US cut to South Africa's HIV response could cost lives, UNAids chief warns",
-      "url": "https://www.bbc.co.uk/news/articles/cx26py2rnxlo?at_medium=RSS&at_campaign=rss",
-      "summary": "\"Please do not take money away because you are taking lives away,\" Winnie Byanyima said.",
-      "published_at": "2026-06-23T12:22:43Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC Middle East",
@@ -479,7 +497,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "Parisians cool off in canal amid 'red alert' heatwave",
       "url": "https://www.bbc.co.uk/news/videos/c802denngxeo?at_medium=RSS&at_campaign=rss",
       "summary": "France has issued red heatwave alerts for around half the country as temperatures soar to record levels.",
@@ -870,7 +888,12 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 28
+      "news_count": 26
+    },
+    {
+      "country_code": "IR",
+      "country_name": "Iran",
+      "news_count": 7
     },
     {
       "country_code": "IL",
@@ -878,14 +901,14 @@
       "news_count": 6
     },
     {
-      "country_code": "IR",
-      "country_name": "Iran",
-      "news_count": 6
-    },
-    {
       "country_code": "RU",
       "country_name": "Russia",
       "news_count": 5
+    },
+    {
+      "country_code": "AU",
+      "country_name": "Australia",
+      "news_count": 4
     },
     {
       "country_code": "FR",
@@ -903,18 +926,13 @@
       "news_count": 4
     },
     {
-      "country_code": "AU",
-      "country_name": "Australia",
-      "news_count": 3
+      "country_code": "PK",
+      "country_name": "Pakistan",
+      "news_count": 4
     },
     {
       "country_code": "CO",
       "country_name": "Colombia",
-      "news_count": 3
-    },
-    {
-      "country_code": "PK",
-      "country_name": "Pakistan",
       "news_count": 3
     },
     {
@@ -933,13 +951,13 @@
       "news_count": 2
     },
     {
-      "country_code": "DE",
-      "country_name": "Germany",
+      "country_code": "EG",
+      "country_name": "Egypt",
       "news_count": 2
     },
     {
-      "country_code": "EG",
-      "country_name": "Egypt",
+      "country_code": "KE",
+      "country_name": "Kenya",
       "news_count": 2
     },
     {
@@ -968,6 +986,11 @@
       "news_count": 1
     },
     {
+      "country_code": "DE",
+      "country_name": "Germany",
+      "news_count": 1
+    },
+    {
       "country_code": "DZ",
       "country_name": "Algeria",
       "news_count": 1
@@ -975,11 +998,6 @@
     {
       "country_code": "ES",
       "country_name": "Spain",
-      "news_count": 1
-    },
-    {
-      "country_code": "KE",
-      "country_name": "Kenya",
       "news_count": 1
     },
     {
@@ -1010,6 +1028,11 @@
     {
       "country_code": "TR",
       "country_name": "Turkey",
+      "news_count": 1
+    },
+    {
+      "country_code": "VE",
+      "country_name": "Venezuela",
       "news_count": 1
     }
   ]
