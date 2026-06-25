@@ -1,21 +1,30 @@
 {
-  "generated_at": "2026-06-25T10:10:22Z",
+  "generated_at": "2026-06-25T12:35:33Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Europe's heatwave shifts east as France raises health alert to highest level",
+      "url": "https://www.bbc.co.uk/news/articles/cwy0pdq89zno?at_medium=RSS&at_campaign=rss",
+      "summary": "Temperatures in Germany could hit 40C in some areas while French officials say deaths linked to the heat are being seen among young people.",
+      "published_at": "2026-06-25T12:35:04Z",
+      "country_code": "FR",
+      "country_name": "France"
+    },
     {
       "source": "BBC Latin America",
       "title": "Rescuers race to find Venezuela quake survivors: What we know so far",
       "url": "https://www.bbc.co.uk/news/articles/c4gyjgreg1ro?at_medium=RSS&at_campaign=rss",
-      "summary": "The two quakes have killed at least 32 people and injured around 700.",
-      "published_at": "2026-06-25T10:03:29Z",
+      "summary": "The two quakes have killed at least 164 people and injured nearly 1,000, with more feared trapped under rubble.",
+      "published_at": "2026-06-25T12:01:10Z",
       "country_code": "VE",
       "country_name": "Venezuela"
     },
     {
       "source": "BBC World",
-      "title": "Police seal off key roads in Nairobi as Kenya braces for Gen Z protests",
+      "title": "Police seal off key roads in Nairobi as Kenyans march to remember protest victims",
       "url": "https://www.bbc.co.uk/news/articles/cgqjl8kj8wpo?at_medium=RSS&at_campaign=rss",
       "summary": "Protesters demand justice for more than 80 people killed during the 2024 demonstrations and last year's anniversary protests.",
-      "published_at": "2026-06-25T09:42:18Z",
+      "published_at": "2026-06-25T11:23:10Z",
       "country_code": "KE",
       "country_name": "Kenya"
     },
@@ -24,9 +33,18 @@
       "title": "'I thought I was going to die' - Venezuelans describe earthquake panic",
       "url": "https://www.bbc.co.uk/news/articles/czj8vjvmz38o?at_medium=RSS&at_campaign=rss",
       "summary": "Buildings were flattened in the capital Caracas, where voices have been heard calling from the rubble.",
-      "published_at": "2026-06-25T09:07:25Z",
+      "published_at": "2026-06-25T10:48:09Z",
       "country_code": "VE",
       "country_name": "Venezuela"
+    },
+    {
+      "source": "BBC Africa",
+      "title": "Celebrations as South Africa reach World Cup knockout stages for the first time",
+      "url": "https://www.bbc.co.uk/news/videos/cr5je3rgpq6o?at_medium=RSS&at_campaign=rss",
+      "summary": "South Africa reaches World Cup knockout round for first time with 1-0 win over South Korea.",
+      "published_at": "2026-06-25T10:12:04Z",
+      "country_code": "KR",
+      "country_name": "South Korea"
     },
     {
       "source": "BBC World",
@@ -48,12 +66,12 @@
     },
     {
       "source": "BBC World",
-      "title": "Oil price falls to levels not seen since before Iran war",
+      "title": "Oil price falls back to pre-Iran war levels",
       "url": "https://www.bbc.co.uk/news/articles/c0jy7d7wzv4o?at_medium=RSS&at_campaign=rss",
-      "summary": "Energy prices have been on a wild ride since Iran responded to US and Israeli attacks by effectively closing the Strait of Hormuz.",
+      "summary": "Signs that traffic through the key Strait of Hormuz shipping route is gradually resuming has helped to push the oil price down.",
       "published_at": "2026-06-25T07:34:55Z",
-      "country_code": "US",
-      "country_name": "United States"
+      "country_code": "IR",
+      "country_name": "Iran"
     },
     {
       "source": "BBC Latin America",
@@ -137,7 +155,7 @@
       "country_name": "Philippines"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "France, UK and Spain see record temperatures as heatwave grips western Europe",
       "url": "https://www.bbc.co.uk/news/articles/c78y4102n1zo?at_medium=RSS&at_campaign=rss",
       "summary": "Tens of millions of people are grappling with punishing temperatures, which have led to red heat alerts across the continent.",
@@ -879,17 +897,22 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 25
+      "news_count": 24
     },
     {
       "country_code": "IR",
       "country_name": "Iran",
-      "news_count": 7
+      "news_count": 8
     },
     {
       "country_code": "IL",
       "country_name": "Israel",
       "news_count": 6
+    },
+    {
+      "country_code": "FR",
+      "country_name": "France",
+      "news_count": 5
     },
     {
       "country_code": "RU",
@@ -899,11 +922,6 @@
     {
       "country_code": "AU",
       "country_name": "Australia",
-      "news_count": 4
-    },
-    {
-      "country_code": "FR",
-      "country_name": "France",
       "news_count": 4
     },
     {
@@ -962,6 +980,11 @@
       "news_count": 2
     },
     {
+      "country_code": "KR",
+      "country_name": "South Korea",
+      "news_count": 2
+    },
+    {
       "country_code": "MA",
       "country_name": "Morocco",
       "news_count": 2
@@ -994,11 +1017,6 @@
     {
       "country_code": "ES",
       "country_name": "Spain",
-      "news_count": 1
-    },
-    {
-      "country_code": "KR",
-      "country_name": "South Korea",
       "news_count": 1
     },
     {
