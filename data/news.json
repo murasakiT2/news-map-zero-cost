@@ -1,14 +1,23 @@
 {
-  "generated_at": "2026-06-24T23:57:34Z",
+  "generated_at": "2026-06-25T02:51:43Z",
   "articles": [
     {
       "source": "BBC US & Canada",
       "title": "Trump accuses big oil firms of price-gouging drivers",
       "url": "https://www.bbc.co.uk/news/articles/cly790j1j6ro?at_medium=RSS&at_campaign=rss",
-      "summary": "The president's remarks come as global oil prices have fallen but remain higher than before the US-Israel war with Iran.",
-      "published_at": "2026-06-24T23:45:47Z",
+      "summary": "The US president named Shell, ExxonMobil, BP and Chevron when talking to reporters about a probe into fuel prices.",
+      "published_at": "2026-06-25T01:45:33Z",
       "country_code": "US",
       "country_name": "United States"
+    },
+    {
+      "source": "BBC Asia",
+      "title": "Philippines bans video game played by alleged high school shooter",
+      "url": "https://www.bbc.co.uk/news/articles/c14y7738nm8o?at_medium=RSS&at_campaign=rss",
+      "summary": "The rare school shooting that left three students killed and 20 others injured has shocked the country.",
+      "published_at": "2026-06-24T22:14:12Z",
+      "country_code": "PH",
+      "country_name": "Philippines"
     },
     {
       "source": "BBC World",
@@ -21,9 +30,9 @@
     },
     {
       "source": "BBC US & Canada",
-      "title": "Congress has told Trump to stop the Iran war, will it matter?",
+      "title": "Why Trump is so annoyed by Republican discord on Iran war",
       "url": "https://www.bbc.co.uk/news/videos/cx24793rx4lo?at_medium=RSS&at_campaign=rss",
-      "summary": "The BBC's Gary O'Donoghue explains why Congress's war powers resolution has gotten under the president's skin.",
+      "summary": "The BBC's Gary O'Donoghue explains why the war powers vote shows the president's grip on his party slipping.",
       "published_at": "2026-06-24T21:22:00Z",
       "country_code": "IR",
       "country_name": "Iran"
@@ -443,15 +452,6 @@
       "country_name": "Egypt"
     },
     {
-      "source": "BBC Asia",
-      "title": "Japan quintuples visa fees in first price hike since 1978",
-      "url": "https://www.bbc.co.uk/news/articles/cy8d5e5e805o?at_medium=RSS&at_campaign=rss",
-      "summary": "Authorities say they do not expect the hikes to have an \"immediate impact on inbound tourism\".",
-      "published_at": "2026-06-22T03:45:51Z",
-      "country_code": "JP",
-      "country_name": "Japan"
-    },
-    {
       "source": "BBC Latin America",
       "title": "Trump-backed political outsider wins Colombia election, initial count shows",
       "url": "https://www.bbc.co.uk/news/articles/clye4ky2yzpo?at_medium=RSS&at_campaign=rss",
@@ -459,15 +459,6 @@
       "published_at": "2026-06-22T03:31:40Z",
       "country_code": "CO",
       "country_name": "Colombia"
-    },
-    {
-      "source": "BBC Asia",
-      "title": "Largest ever cocaine bust in Australia after police raid underground bunker",
-      "url": "https://www.bbc.co.uk/news/articles/c14ygjzr8j7o?at_medium=RSS&at_campaign=rss",
-      "summary": "Police seized 2.7 tonnes of cocaine worth an estimated A$816m after searching a property in western Sydney.",
-      "published_at": "2026-06-22T01:40:00Z",
-      "country_code": "AU",
-      "country_name": "Australia"
     },
     {
       "source": "BBC Europe",
@@ -897,11 +888,6 @@
       "news_count": 5
     },
     {
-      "country_code": "AU",
-      "country_name": "Australia",
-      "news_count": 4
-    },
-    {
       "country_code": "FR",
       "country_name": "France",
       "news_count": 4
@@ -915,6 +901,11 @@
       "country_code": "IN",
       "country_name": "India",
       "news_count": 4
+    },
+    {
+      "country_code": "AU",
+      "country_name": "Australia",
+      "news_count": 3
     },
     {
       "country_code": "CO",
@@ -962,6 +953,11 @@
       "news_count": 2
     },
     {
+      "country_code": "PH",
+      "country_name": "Philippines",
+      "news_count": 2
+    },
+    {
       "country_code": "PT",
       "country_name": "Portugal",
       "news_count": 2
@@ -982,11 +978,6 @@
       "news_count": 1
     },
     {
-      "country_code": "JP",
-      "country_name": "Japan",
-      "news_count": 1
-    },
-    {
       "country_code": "KE",
       "country_name": "Kenya",
       "news_count": 1
@@ -1004,11 +995,6 @@
     {
       "country_code": "PE",
       "country_name": "Peru",
-      "news_count": 1
-    },
-    {
-      "country_code": "PH",
-      "country_name": "Philippines",
       "news_count": 1
     },
     {
