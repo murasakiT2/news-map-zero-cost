@@ -1,8 +1,35 @@
 {
-  "generated_at": "2026-06-26T12:06:37Z",
+  "generated_at": "2026-06-26T15:07:06Z",
   "articles": [
     {
-      "source": "BBC Middle East",
+      "source": "BBC Latin America",
+      "title": "Rescuers race to find Venezuela quake survivors: What we know so far",
+      "url": "https://www.bbc.co.uk/news/articles/c4gyjgreg1ro?at_medium=RSS&at_campaign=rss",
+      "summary": "The quakes killed at least 589 people and injured more than 2,980, with more feared trapped under rubble.",
+      "published_at": "2026-06-26T14:58:10Z",
+      "country_code": "VE",
+      "country_name": "Venezuela"
+    },
+    {
+      "source": "BBC World",
+      "title": "Canada eligible to join Eurovision competition",
+      "url": "https://www.bbc.co.uk/news/articles/cy06yzp4r0eo?at_medium=RSS&at_campaign=rss",
+      "summary": "Prime Minister Mark Carney raised the idea of Canada joining the song contest in his 2025 budget.",
+      "published_at": "2026-06-26T13:41:36Z",
+      "country_code": "CA",
+      "country_name": "Canada"
+    },
+    {
+      "source": "BBC World",
+      "title": "US sanctions Rwanda gold refinery accused of smuggling DR Congo's minerals",
+      "url": "https://www.bbc.co.uk/news/articles/c9d268xy90xo?at_medium=RSS&at_campaign=rss",
+      "summary": "The US alleges Gasabo Gold Refinery smuggled at least 60kg of gold in early 2026.",
+      "published_at": "2026-06-26T12:54:18Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC US & Canada",
       "title": "Rainbow flags await Egypt and Iran at awkward World Cup Pride Match",
       "url": "https://www.bbc.co.uk/sport/football/articles/ckg4k0ddg5go?at_medium=RSS&at_campaign=rss",
       "summary": "Iran's coach refuses to discuss pride celebrations in Seattle, where his country face Egypt in a crucial Group G match.",
@@ -65,15 +92,6 @@
       "country_name": "United Kingdom"
     },
     {
-      "source": "BBC Latin America",
-      "title": "Rescuers race to find Venezuela quake survivors: What we know so far",
-      "url": "https://www.bbc.co.uk/news/articles/c4gyjgreg1ro?at_medium=RSS&at_campaign=rss",
-      "summary": "The two quakes have killed at least 235 people and injured more than 4,300, with more feared trapped under rubble.",
-      "published_at": "2026-06-26T03:28:13Z",
-      "country_code": "VE",
-      "country_name": "Venezuela"
-    },
-    {
       "source": "BBC World",
       "title": "Supreme Court allows Trump to end protected status for Haitian and Syrian immigrants",
       "url": "https://www.bbc.co.uk/news/articles/c4g8ym422lko?at_medium=RSS&at_campaign=rss",
@@ -99,6 +117,15 @@
       "published_at": "2026-06-26T01:02:36Z",
       "country_code": "IN",
       "country_name": "India"
+    },
+    {
+      "source": "BBC Africa",
+      "title": "'We could call it racist' - Ivory Coast boss sad at Schweinsteiger comments",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cx2x0ev2deqo?at_medium=RSS&at_campaign=rss",
+      "summary": "Ivory Coast boss Emerse Fae says comments from ex-Germany midfielder Bastian Schweinsteiger about their \"wild\" playing style could be consid…",
+      "published_at": "2026-06-26T00:21:34Z",
+      "country_code": "DE",
+      "country_name": "Germany"
     },
     {
       "source": "BBC World",
@@ -290,15 +317,6 @@
       "country_name": "Australia"
     },
     {
-      "source": "BBC US & Canada",
-      "title": "'We're going further than ever': Canadians pick selves up after loss to Swiss",
-      "url": "https://www.bbc.co.uk/news/videos/c4gywll9x0no?at_medium=RSS&at_campaign=rss",
-      "summary": "Despite Wednesday's defeat, Canada have still reached the World Cup knockout stage for the first time.",
-      "published_at": "2026-06-25T02:09:22Z",
-      "country_code": "CA",
-      "country_name": "Canada"
-    },
-    {
       "source": "BBC Asia",
       "title": "The woman who fought for Pakistan's disappeared men now faces life in jail",
       "url": "https://www.bbc.co.uk/news/articles/c0ry07x87kvo?at_medium=RSS&at_campaign=rss",
@@ -335,7 +353,7 @@
       "country_name": "Spain"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Middle East",
       "title": "UN nuclear chief says inspectors will visit Iran sites as part of war deal",
       "url": "https://www.bbc.co.uk/news/articles/cpd395zv81vo?at_medium=RSS&at_campaign=rss",
       "summary": "Rafael Grossi says the IAEA is \"working on modalities\" but an Iranian minister says such access would only be part of a final deal with the …",
@@ -360,15 +378,6 @@
       "published_at": "2026-06-24T15:00:52Z",
       "country_code": "FR",
       "country_name": "France"
-    },
-    {
-      "source": "BBC Africa",
-      "title": "Kenya to charge students with murder over deadly school fire",
-      "url": "https://www.bbc.co.uk/news/articles/cwykl517xk7o?at_medium=RSS&at_campaign=rss",
-      "summary": "Sixteen pupils, aged between 15 and 18, died when a fire broke out in a dormitory at Utumishi Girls' School last month.",
-      "published_at": "2026-06-24T14:36:42Z",
-      "country_code": "KE",
-      "country_name": "Kenya"
     },
     {
       "source": "BBC World",
@@ -888,7 +897,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 27
+      "news_count": 28
     },
     {
       "country_code": "IR",
@@ -911,6 +920,11 @@
       "news_count": 4
     },
     {
+      "country_code": "DE",
+      "country_name": "Germany",
+      "news_count": 4
+    },
+    {
       "country_code": "GB",
       "country_name": "United Kingdom",
       "news_count": 4
@@ -928,16 +942,6 @@
     {
       "country_code": "CO",
       "country_name": "Colombia",
-      "news_count": 3
-    },
-    {
-      "country_code": "DE",
-      "country_name": "Germany",
-      "news_count": 3
-    },
-    {
-      "country_code": "KE",
-      "country_name": "Kenya",
       "news_count": 3
     },
     {
@@ -963,6 +967,11 @@
     {
       "country_code": "EG",
       "country_name": "Egypt",
+      "news_count": 2
+    },
+    {
+      "country_code": "KE",
+      "country_name": "Kenya",
       "news_count": 2
     },
     {
