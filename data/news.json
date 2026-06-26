@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-06-25T23:19:16Z",
+  "generated_at": "2026-06-26T01:34:31Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Rescuers search rubble for survivors as Venezuela earthquakes kill at least 235",
+      "url": "https://www.bbc.co.uk/news/articles/cjegdqw5d3yo?at_medium=RSS&at_campaign=rss",
+      "summary": "Nearly 1,500 people have been injured after two seven-plus magnitude shallow quakes hit seconds apart.",
+      "published_at": "2026-06-26T01:30:01Z",
+      "country_code": "VE",
+      "country_name": "Venezuela"
+    },
+    {
+      "source": "BBC World",
+      "title": "Paris restricts alcohol consumption and sales as Europe's heatwave shifts east",
+      "url": "https://www.bbc.co.uk/news/articles/cwy0pdq89zno?at_medium=RSS&at_campaign=rss",
+      "summary": "Temperatures in Germany could hit 40C in some areas while French officials bring in alcohol restrictions to ease pressure on hospitals.",
+      "published_at": "2026-06-26T00:06:45Z",
+      "country_code": "FR",
+      "country_name": "France"
+    },
     {
       "source": "BBC World",
       "title": "A Chinese box office hit sparks a debate about identity in Singapore",
@@ -9,15 +27,6 @@
       "published_at": "2026-06-25T22:19:08Z",
       "country_code": "SG",
       "country_name": "Singapore"
-    },
-    {
-      "source": "BBC World",
-      "title": "France warns even young people's health at risk as Europe's heatwave shifts east",
-      "url": "https://www.bbc.co.uk/news/articles/cwy0pdq89zno?at_medium=RSS&at_campaign=rss",
-      "summary": "Temperatures in Germany could hit 40C in some areas while French officials say deaths linked to the heat are being seen among young people.",
-      "published_at": "2026-06-25T21:27:06Z",
-      "country_code": "FR",
-      "country_name": "France"
     },
     {
       "source": "BBC Latin America",
@@ -969,13 +978,13 @@
       "news_count": 6
     },
     {
-      "country_code": "RU",
-      "country_name": "Russia",
-      "news_count": 5
-    },
-    {
       "country_code": "VE",
       "country_name": "Venezuela",
+      "news_count": 6
+    },
+    {
+      "country_code": "RU",
+      "country_name": "Russia",
       "news_count": 5
     },
     {
