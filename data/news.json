@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-06-26T15:07:06Z",
+  "generated_at": "2026-06-26T17:12:22Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Mother dies saving daughter in Venezuela earthquakes",
+      "url": "https://www.bbc.co.uk/news/articles/c0jydyz8z6jo?at_medium=RSS&at_campaign=rss",
+      "summary": "Héctor Bello wrote on social media that \"you gave your own life for our daughter\" in the quakes which killed at least 589 people.",
+      "published_at": "2026-06-26T17:00:31Z",
+      "country_code": "VE",
+      "country_name": "Venezuela"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "Canada's vacant and crumbling official residence gets a lifeline",
+      "url": "https://www.bbc.co.uk/news/articles/c1ey3xpdl2po?at_medium=RSS&at_campaign=rss",
+      "summary": "Mark Carney has announced a fundraiser and design competition to renovate 24 Sussex, the official home of Canadian prime ministers that has …",
+      "published_at": "2026-06-26T15:53:23Z",
+      "country_code": "CA",
+      "country_name": "Canada"
+    },
     {
       "source": "BBC Latin America",
       "title": "Rescuers race to find Venezuela quake survivors: What we know so far",
@@ -30,7 +48,7 @@
     },
     {
       "source": "BBC US & Canada",
-      "title": "Rainbow flags await Egypt and Iran at awkward World Cup Pride Match",
+      "title": "Rainbow flags await Egypt and Iran at awkward Pride Match",
       "url": "https://www.bbc.co.uk/sport/football/articles/ckg4k0ddg5go?at_medium=RSS&at_campaign=rss",
       "summary": "Iran's coach refuses to discuss pride celebrations in Seattle, where his country face Egypt in a crucial Group G match.",
       "published_at": "2026-06-26T11:20:11Z",
@@ -56,7 +74,7 @@
       "country_name": "Russia"
     },
     {
-      "source": "BBC Latin America",
+      "source": "BBC US & Canada",
       "title": "Most Venezuelan city in the US rallies to help after quakes",
       "url": "https://www.bbc.co.uk/news/videos/c62151r0k68o?at_medium=RSS&at_campaign=rss",
       "summary": "In Doral, where more than 40% of residents are of Venezuelan origin, the community has come together to send aid to the country after it was…",
@@ -74,7 +92,7 @@
       "country_name": "South Korea"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Latin America",
       "title": "Aerial footage reveals destruction in coastal Venezuela",
       "url": "https://www.bbc.co.uk/news/videos/c75y1kd16qdo?at_medium=RSS&at_campaign=rss",
       "summary": "Multi-storey buildings have collapsed in La Guaira following two major earthquakes on Wednesday.",
@@ -290,15 +308,6 @@
       "country_name": "Brazil"
     },
     {
-      "source": "BBC US & Canada",
-      "title": "Thousands gather for the Great American State Fair",
-      "url": "https://www.bbc.co.uk/news/videos/ckg8kv399pxo?at_medium=RSS&at_campaign=rss",
-      "summary": "The rally on the National Mall is one of a range of events planned by Donald Trump to celebrate America's 250th year of independence.",
-      "published_at": "2026-06-25T06:23:04Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC Latin America",
       "title": "Rescuers search through rubble for Venezuela earthquake survivors",
       "url": "https://www.bbc.co.uk/news/videos/c36y413gy08o?at_medium=RSS&at_campaign=rss",
@@ -333,15 +342,6 @@
       "published_at": "2026-06-24T22:14:12Z",
       "country_code": "PH",
       "country_name": "Philippines"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "Why Trump is so annoyed by Republican discord on Iran war",
-      "url": "https://www.bbc.co.uk/news/videos/cx24793rx4lo?at_medium=RSS&at_campaign=rss",
-      "summary": "The BBC's Gary O'Donoghue explains why the war powers vote shows the president's grip on his party slipping.",
-      "published_at": "2026-06-24T21:22:00Z",
-      "country_code": "IR",
-      "country_name": "Iran"
     },
     {
       "source": "BBC Europe",
@@ -407,7 +407,7 @@
       "country_name": "Israel"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "Biggest city in Crimea without power after Ukraine strikes",
       "url": "https://www.bbc.co.uk/news/articles/c3ryv72pjqno?at_medium=RSS&at_campaign=rss",
       "summary": "Sevastopol's Moscow-installed governor warns there will be no electricity in some areas until the evening.",
@@ -601,15 +601,6 @@
       "url": "https://www.bbc.co.uk/news/articles/cwy0q41v1lzo?at_medium=RSS&at_campaign=rss",
       "summary": "The US-Iran talks began on Sunday in Switzerland, after last week's agreement, which includes a commitment to reach a final deal within 60 d…",
       "published_at": "2026-06-22T10:46:45Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC Latin America",
-      "title": "Late singer Oliver Tree's body returned to US after helicopter crash",
-      "url": "https://www.bbc.co.uk/news/articles/c14ygg6vk3vo?at_medium=RSS&at_campaign=rss",
-      "summary": "The 32-year-old California native died whilst on his world tour, ahead of a date in Brazil.",
-      "published_at": "2026-06-22T10:19:25Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -897,12 +888,12 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 28
+      "news_count": 26
     },
     {
       "country_code": "IR",
       "country_name": "Iran",
-      "news_count": 8
+      "news_count": 7
     },
     {
       "country_code": "FR",
@@ -912,6 +903,11 @@
     {
       "country_code": "IL",
       "country_name": "Israel",
+      "news_count": 5
+    },
+    {
+      "country_code": "VE",
+      "country_name": "Venezuela",
       "news_count": 5
     },
     {
@@ -932,11 +928,6 @@
     {
       "country_code": "IN",
       "country_name": "India",
-      "news_count": 4
-    },
-    {
-      "country_code": "VE",
-      "country_name": "Venezuela",
       "news_count": 4
     },
     {
@@ -965,6 +956,11 @@
       "news_count": 3
     },
     {
+      "country_code": "CA",
+      "country_name": "Canada",
+      "news_count": 2
+    },
+    {
       "country_code": "EG",
       "country_name": "Egypt",
       "news_count": 2
@@ -987,11 +983,6 @@
     {
       "country_code": "BR",
       "country_name": "Brazil",
-      "news_count": 1
-    },
-    {
-      "country_code": "CA",
-      "country_name": "Canada",
       "news_count": 1
     },
     {
