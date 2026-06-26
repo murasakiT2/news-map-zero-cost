@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-06-26T19:13:34Z",
+  "generated_at": "2026-06-26T21:02:03Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Israel and Lebanon sign framework agreement after US-brokered talks",
+      "url": "https://www.bbc.co.uk/news/articles/cg5315n1v5go?at_medium=RSS&at_campaign=rss",
+      "summary": "Previous ceasefires between Israel and Hezbollah have still seen near-daily cross-border strikes",
+      "published_at": "2026-06-26T19:29:31Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC Asia",
+      "title": "Debris falls after plane hits Beijing's tallest building",
+      "url": "https://www.bbc.co.uk/news/videos/c8j2rjrzjero?at_medium=RSS&at_campaign=rss",
+      "summary": "Social media footage showed the moment debris from a small aircraft fell to the ground after a crash into Beijing's tallest skyscraper.",
+      "published_at": "2026-06-26T18:36:42Z",
+      "country_code": "CN",
+      "country_name": "China"
+    },
     {
       "source": "BBC World",
       "title": "Mother dies saving daughter in Venezuela earthquakes",
@@ -11,7 +29,7 @@
       "country_name": "Venezuela"
     },
     {
-      "source": "BBC Europe",
+      "source": "BBC World",
       "title": "Europe's deadly heatwave breaks German record and halts public events",
       "url": "https://www.bbc.co.uk/news/articles/cx2knzzwprgo?at_medium=RSS&at_campaign=rss",
       "summary": "Germany's highest ever temperature of 41.3C is recorded provisionally in Saarbrücken, over the border from France.",
@@ -335,15 +353,6 @@
       "country_name": "Venezuela"
     },
     {
-      "source": "BBC World",
-      "title": "Independent MPs launch new Australian centrist party",
-      "url": "https://www.bbc.co.uk/news/articles/ckg76mgz0m1o?at_medium=RSS&at_campaign=rss",
-      "summary": "Zali Steggall and Allegra Spender say Community Strong Australia will offer citizens 'reason over rage'.",
-      "published_at": "2026-06-25T02:41:28Z",
-      "country_code": "AU",
-      "country_name": "Australia"
-    },
-    {
       "source": "BBC Asia",
       "title": "The woman who fought for Pakistan's disappeared men now faces life in jail",
       "url": "https://www.bbc.co.uk/news/articles/c0ry07x87kvo?at_medium=RSS&at_campaign=rss",
@@ -416,15 +425,6 @@
       "country_name": "Iran"
     },
     {
-      "source": "BBC World",
-      "title": "Clean sweep for Mamdani-backed candidates in New York's Democratic primary",
-      "url": "https://www.bbc.co.uk/news/articles/clye652m41po?at_medium=RSS&at_campaign=rss",
-      "summary": "Brad Lander unseats Dan Goldman in a race that laid bare the city's divisions over the Israel-Gaza war.",
-      "published_at": "2026-06-24T13:03:35Z",
-      "country_code": "IL",
-      "country_name": "Israel"
-    },
-    {
       "source": "BBC Europe",
       "title": "Biggest city in Crimea without power after Ukraine strikes",
       "url": "https://www.bbc.co.uk/news/articles/c3ryv72pjqno?at_medium=RSS&at_campaign=rss",
@@ -477,15 +477,6 @@
       "published_at": "2026-06-23T21:46:34Z",
       "country_code": "FR",
       "country_name": "France"
-    },
-    {
-      "source": "BBC Middle East",
-      "title": "UN says it will evacuate sailors stranded in Strait of Hormuz, as Rubio warns against tolls",
-      "url": "https://www.bbc.co.uk/news/articles/c24yr796emzo?at_medium=RSS&at_campaign=rss",
-      "summary": "US Secretary of State Marco Rubio warned Iran that no country can charge fees for ships to travel through the strait.",
-      "published_at": "2026-06-23T21:04:11Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC Middle East",
@@ -884,15 +875,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Middle East",
-      "title": "Trump heralds Iran deal but questions - and risks - remain",
-      "url": "https://www.bbc.co.uk/news/articles/c9824e0rz75o?at_medium=RSS&at_campaign=rss",
-      "summary": "The announcement of an Iran deal was a welcome birthday gift for the president – but its success or failure may hinge on the details.",
-      "published_at": "2026-06-15T02:41:25Z",
-      "country_code": "IR",
-      "country_name": "Iran"
-    },
-    {
       "source": "BBC Latin America",
       "title": "Delcy Rodríguez visits India: Will oil talks lead to an energy deal?",
       "url": "https://www.bbc.co.uk/news/articles/czx29k97kzlo?at_medium=RSS&at_campaign=rss",
@@ -916,22 +898,12 @@
     {
       "country_code": "IR",
       "country_name": "Iran",
-      "news_count": 7
-    },
-    {
-      "country_code": "IL",
-      "country_name": "Israel",
-      "news_count": 5
+      "news_count": 6
     },
     {
       "country_code": "VE",
       "country_name": "Venezuela",
       "news_count": 5
-    },
-    {
-      "country_code": "AU",
-      "country_name": "Australia",
-      "news_count": 4
     },
     {
       "country_code": "DE",
@@ -944,9 +916,19 @@
       "news_count": 4
     },
     {
+      "country_code": "IL",
+      "country_name": "Israel",
+      "news_count": 4
+    },
+    {
       "country_code": "IN",
       "country_name": "India",
       "news_count": 4
+    },
+    {
+      "country_code": "AU",
+      "country_name": "Australia",
+      "news_count": 3
     },
     {
       "country_code": "CO",
@@ -979,6 +961,11 @@
       "news_count": 2
     },
     {
+      "country_code": "CN",
+      "country_name": "China",
+      "news_count": 2
+    },
+    {
       "country_code": "EG",
       "country_name": "Egypt",
       "news_count": 2
@@ -1006,11 +993,6 @@
     {
       "country_code": "BR",
       "country_name": "Brazil",
-      "news_count": 1
-    },
-    {
-      "country_code": "CN",
-      "country_name": "China",
       "news_count": 1
     },
     {
