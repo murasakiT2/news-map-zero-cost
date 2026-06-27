@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-06-27T14:22:04Z",
+  "generated_at": "2026-06-27T15:45:22Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "In Caracas, this feels like the hardest moment in Venezuela's modern history",
+      "url": "https://www.bbc.co.uk/news/articles/cdjk8zwe7z3o?at_medium=RSS&at_campaign=rss",
+      "summary": "Rescue teams are working ceaselessly to reach those trapped under rubble. But as hope fades, anger is growing.",
+      "published_at": "2026-06-27T14:22:37Z",
+      "country_code": "VE",
+      "country_name": "Venezuela"
+    },
+    {
+      "source": "BBC World",
+      "title": "Burkina Faso severs diplomatic ties with France",
+      "url": "https://www.bbc.co.uk/news/articles/c7vymlgl5vgo?at_medium=RSS&at_campaign=rss",
+      "summary": "The West African country's junta accused the former colonial power of undermining its national interests.",
+      "published_at": "2026-06-27T14:21:31Z",
+      "country_code": "FR",
+      "country_name": "France"
+    },
     {
       "source": "BBC World",
       "title": "Newborn baby rescued from Venezuela earthquake rubble",
@@ -128,7 +146,7 @@
       "country_name": "United Kingdom"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "Debris falls after plane hits Beijing's tallest building",
       "url": "https://www.bbc.co.uk/news/videos/c8j2rjrzjero?at_medium=RSS&at_campaign=rss",
       "summary": "Social media footage showed the moment debris from a small aircraft fell to the ground after a crash into Beijing's tallest skyscraper.",
@@ -234,15 +252,6 @@
       "published_at": "2026-06-26T10:38:37Z",
       "country_code": "RU",
       "country_name": "Russia"
-    },
-    {
-      "source": "BBC World",
-      "title": "Moment woman pulled from rubble alive after Venezuela earthquake",
-      "url": "https://www.bbc.co.uk/news/videos/clyxgxr2672o?at_medium=RSS&at_campaign=rss",
-      "summary": "First responders and volunteers pulled a survivor from under the rubble of a collapsed building in La Guaira.",
-      "published_at": "2026-06-26T10:06:11Z",
-      "country_code": "VE",
-      "country_name": "Venezuela"
     },
     {
       "source": "BBC US & Canada",
@@ -713,15 +722,6 @@
       "country_name": "France"
     },
     {
-      "source": "BBC Europe",
-      "title": "Fuel sales halted in occupied Crimea as Ukraine targets oil facilities",
-      "url": "https://www.bbc.co.uk/news/articles/clyx2lk9d15o?at_medium=RSS&at_campaign=rss",
-      "summary": "Fuel had already been rationed due to shortages caused by Kyiv's attacks against supply routes in Russian-occupied territories.",
-      "published_at": "2026-06-21T10:55:05Z",
-      "country_code": "UA",
-      "country_name": "Ukraine"
-    },
-    {
       "source": "BBC Middle East",
       "title": "Israeli strikes kill six people in Gaza including Al Jazeera cameraman, officials say",
       "url": "https://www.bbc.co.uk/news/articles/c4gy26p6pwzo?at_medium=RSS&at_campaign=rss",
@@ -925,7 +925,7 @@
     {
       "country_code": "FR",
       "country_name": "France",
-      "news_count": 6
+      "news_count": 7
     },
     {
       "country_code": "GB",
@@ -978,11 +978,6 @@
       "news_count": 3
     },
     {
-      "country_code": "UA",
-      "country_name": "Ukraine",
-      "news_count": 3
-    },
-    {
       "country_code": "CN",
       "country_name": "China",
       "news_count": 2
@@ -995,6 +990,11 @@
     {
       "country_code": "SG",
       "country_name": "Singapore",
+      "news_count": 2
+    },
+    {
+      "country_code": "UA",
+      "country_name": "Ukraine",
       "news_count": 2
     },
     {
