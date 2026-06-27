@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-06-27T17:54:57Z",
+  "generated_at": "2026-06-27T19:02:54Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Watch: A race against the clock for Venezuela earthquake rescuers",
+      "url": "https://www.bbc.co.uk/news/videos/cjdgrrvvvjgo?at_medium=RSS&at_campaign=rss",
+      "summary": "There is a sense that the next few hours will be critical for saving anyone who is still trapped, says the BBC's Dan Johnson reporting from …",
+      "published_at": "2026-06-27T18:41:03Z",
+      "country_code": "VE",
+      "country_name": "Venezuela"
+    },
     {
       "source": "BBC World",
       "title": "Europe's deadly heatwave breaks German record and halts public events",
@@ -144,15 +153,6 @@
       "published_at": "2026-06-26T21:25:32Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "Watch: Lightning strikes seen across UK",
-      "url": "https://www.bbc.co.uk/news/videos/c74y1l9kkryo?at_medium=RSS&at_campaign=rss",
-      "summary": "Lightning strikes lit up the sky across the UK during the early hours of Friday as thunderstorms were triggered by the intense heat.",
-      "published_at": "2026-06-26T19:26:58Z",
-      "country_code": "GB",
-      "country_name": "United Kingdom"
     },
     {
       "source": "BBC Asia",
@@ -432,15 +432,6 @@
       "published_at": "2026-06-25T06:38:31Z",
       "country_code": "BR",
       "country_name": "Brazil"
-    },
-    {
-      "source": "BBC Latin America",
-      "title": "Rescuers search through rubble for Venezuela earthquake survivors",
-      "url": "https://www.bbc.co.uk/news/videos/c36y413gy08o?at_medium=RSS&at_campaign=rss",
-      "summary": "Rescuers were on the site of a collapsed building in Caracas searching for survivors after back-to-back earthquakes shook the capital.",
-      "published_at": "2026-06-25T05:01:31Z",
-      "country_code": "VE",
-      "country_name": "Venezuela"
     },
     {
       "source": "BBC Asia",
@@ -928,11 +919,6 @@
       "news_count": 7
     },
     {
-      "country_code": "GB",
-      "country_name": "United Kingdom",
-      "news_count": 5
-    },
-    {
       "country_code": "IN",
       "country_name": "India",
       "news_count": 5
@@ -940,6 +926,11 @@
     {
       "country_code": "DE",
       "country_name": "Germany",
+      "news_count": 4
+    },
+    {
+      "country_code": "GB",
+      "country_name": "United Kingdom",
       "news_count": 4
     },
     {
