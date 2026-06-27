@@ -1,12 +1,21 @@
 {
-  "generated_at": "2026-06-27T02:07:57Z",
+  "generated_at": "2026-06-27T06:05:45Z",
   "articles": [
     {
       "source": "BBC World",
-      "title": "US conducts strikes on Iran after attack on cargo ship",
+      "title": "Venezuela earthquakes kill 920 people as international rescue teams arrive",
+      "url": "https://www.bbc.co.uk/news/articles/c39y79g7gzko?at_medium=RSS&at_campaign=rss",
+      "summary": "Hundreds are still feared trapped under the rubble, as families desperate for news.",
+      "published_at": "2026-06-27T04:09:24Z",
+      "country_code": "VE",
+      "country_name": "Venezuela"
+    },
+    {
+      "source": "BBC World",
+      "title": "US strikes Iran after attack on cargo ship",
       "url": "https://www.bbc.co.uk/news/articles/ckg590wqxwpo?at_medium=RSS&at_campaign=rss",
       "summary": "US Central Command says it has struck missile and drone storage facilities and coastal radar positions.",
-      "published_at": "2026-06-27T00:34:08Z",
+      "published_at": "2026-06-27T02:48:12Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -27,6 +36,15 @@
       "published_at": "2026-06-26T23:01:50Z",
       "country_code": "IT",
       "country_name": "Italy"
+    },
+    {
+      "source": "BBC Asia",
+      "title": "The Bhojpuri singers fighting vulgar tag on one of India's oldest languages",
+      "url": "https://www.bbc.co.uk/news/articles/c20y56y391do?at_medium=RSS&at_campaign=rss",
+      "summary": "Through radically different sounds, two musicians are reshaping how Bhojpuri is heard and understood in their country.",
+      "published_at": "2026-06-26T23:00:04Z",
+      "country_code": "IN",
+      "country_name": "India"
     },
     {
       "source": "BBC World",
@@ -54,15 +72,6 @@
       "published_at": "2026-06-26T21:25:32Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "Venezuela earthquakes kill 920 people as families desperate for news",
-      "url": "https://www.bbc.co.uk/news/articles/c39y79g7gzko?at_medium=RSS&at_campaign=rss",
-      "summary": "Hundreds are still feared trapped under the rubble, as international rescue teams start to arrive.",
-      "published_at": "2026-06-26T21:15:37Z",
-      "country_code": "VE",
-      "country_name": "Venezuela"
     },
     {
       "source": "BBC Asia",
@@ -615,15 +624,6 @@
     },
     {
       "source": "BBC Asia",
-      "title": "South Korea could deport stalker who rang BTS star's doorbell 133 times",
-      "url": "https://www.bbc.co.uk/news/articles/c9v2d9edx9wo?at_medium=RSS&at_campaign=rss",
-      "summary": "The Brazilian woman visited BTS member Jungkook's home 20 times in less than two months.",
-      "published_at": "2026-06-23T03:23:36Z",
-      "country_code": "KR",
-      "country_name": "South Korea"
-    },
-    {
-      "source": "BBC Asia",
       "title": "A brutal gang rape in India revives painful memories of 2012 Delhi assault",
       "url": "https://www.bbc.co.uk/news/articles/cewqyn2p1lno?at_medium=RSS&at_campaign=rss",
       "summary": "The case from Begusarai in Bihar comes close in brutality to that inflicted on a woman during a sexual assault in 2012.",
@@ -747,15 +747,6 @@
       "published_at": "2026-06-19T19:27:12Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC Asia",
-      "title": "Would you choose to take a 22-hour non-stop flight?",
-      "url": "https://www.bbc.co.uk/news/videos/cn4dqg0dz5go?at_medium=RSS&at_campaign=rss",
-      "summary": "The BBC asked Sydney locals if they would take the newly announced, longest ever commercial flight from Sydney to London.",
-      "published_at": "2026-06-19T18:47:31Z",
-      "country_code": "AU",
-      "country_name": "Australia"
     },
     {
       "source": "BBC Middle East",
@@ -942,6 +933,11 @@
       "news_count": 6
     },
     {
+      "country_code": "IN",
+      "country_name": "India",
+      "news_count": 5
+    },
+    {
       "country_code": "DE",
       "country_name": "Germany",
       "news_count": 4
@@ -957,28 +953,13 @@
       "news_count": 4
     },
     {
-      "country_code": "IN",
-      "country_name": "India",
-      "news_count": 4
-    },
-    {
       "country_code": "RU",
       "country_name": "Russia",
       "news_count": 4
     },
     {
-      "country_code": "AU",
-      "country_name": "Australia",
-      "news_count": 3
-    },
-    {
       "country_code": "CO",
       "country_name": "Colombia",
-      "news_count": 3
-    },
-    {
-      "country_code": "KR",
-      "country_name": "South Korea",
       "news_count": 3
     },
     {
@@ -990,6 +971,11 @@
       "country_code": "UA",
       "country_name": "Ukraine",
       "news_count": 3
+    },
+    {
+      "country_code": "AU",
+      "country_name": "Australia",
+      "news_count": 2
     },
     {
       "country_code": "CA",
@@ -1009,6 +995,11 @@
     {
       "country_code": "KE",
       "country_name": "Kenya",
+      "news_count": 2
+    },
+    {
+      "country_code": "KR",
+      "country_name": "South Korea",
       "news_count": 2
     },
     {
