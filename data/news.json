@@ -1,14 +1,32 @@
 {
-  "generated_at": "2026-06-26T23:53:52Z",
+  "generated_at": "2026-06-27T02:07:57Z",
   "articles": [
     {
       "source": "BBC World",
       "title": "US conducts strikes on Iran after attack on cargo ship",
       "url": "https://www.bbc.co.uk/news/articles/ckg590wqxwpo?at_medium=RSS&at_campaign=rss",
       "summary": "US Central Command says it has struck missile and drone storage facilities and coastal radar positions.",
-      "published_at": "2026-06-26T22:57:30Z",
+      "published_at": "2026-06-27T00:34:08Z",
       "country_code": "US",
       "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "They quit the West for Russia's traditional values, but it wasn't what they expected",
+      "url": "https://www.bbc.co.uk/news/articles/cn075j04pnyo?at_medium=RSS&at_campaign=rss",
+      "summary": "The BBC asks Westerners who moved to Russia if life there lives up to expectations.",
+      "published_at": "2026-06-26T23:02:05Z",
+      "country_code": "RU",
+      "country_name": "Russia"
+    },
+    {
+      "source": "BBC World",
+      "title": "Meloni and Trump: A very public fall-out that is proving very hard to fix",
+      "url": "https://www.bbc.co.uk/news/articles/cze962pgk27o?at_medium=RSS&at_campaign=rss",
+      "summary": "Italy's PM was not long ago being called the \"Trump whisperer\", but their relationship has gone from public attacks to personal insults.",
+      "published_at": "2026-06-26T23:01:50Z",
+      "country_code": "IT",
+      "country_name": "Italy"
     },
     {
       "source": "BBC World",
@@ -191,7 +209,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Latin America",
       "title": "Earthquake is devastating blow to Venezuela at time of uncertainty",
       "url": "https://www.bbc.co.uk/news/articles/c3vynpw7rk4o?at_medium=RSS&at_campaign=rss",
       "summary": "The twin quakes come less than six months after Venezuela's then-leader Nicolás Maduro was seized by US forces.",
@@ -944,6 +962,11 @@
       "news_count": 4
     },
     {
+      "country_code": "RU",
+      "country_name": "Russia",
+      "news_count": 4
+    },
+    {
       "country_code": "AU",
       "country_name": "Australia",
       "news_count": 3
@@ -961,11 +984,6 @@
     {
       "country_code": "PK",
       "country_name": "Pakistan",
-      "news_count": 3
-    },
-    {
-      "country_code": "RU",
-      "country_name": "Russia",
       "news_count": 3
     },
     {
@@ -1016,6 +1034,11 @@
     {
       "country_code": "ES",
       "country_name": "Spain",
+      "news_count": 1
+    },
+    {
+      "country_code": "IT",
+      "country_name": "Italy",
       "news_count": 1
     },
     {
