@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-06-27T09:08:31Z",
+  "generated_at": "2026-06-27T11:08:23Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "US strikes Iran after attack on cargo ship",
+      "url": "https://www.bbc.co.uk/news/articles/ckg590wqxwpo?at_medium=RSS&at_campaign=rss",
+      "summary": "Iran accuses the US of violating their deal and says it struck targets linked to American forces in response.",
+      "published_at": "2026-06-27T10:40:38Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "Venezuela earthquakes kill 920 people as international rescue teams arrive",
@@ -9,15 +18,6 @@
       "published_at": "2026-06-27T08:56:30Z",
       "country_code": "VE",
       "country_name": "Venezuela"
-    },
-    {
-      "source": "BBC World",
-      "title": "US strikes Iran after attack on cargo ship",
-      "url": "https://www.bbc.co.uk/news/articles/ckg590wqxwpo?at_medium=RSS&at_campaign=rss",
-      "summary": "Iran accuses the US of violating their deal and says it struck targets linked to American forces in response.",
-      "published_at": "2026-06-27T08:25:43Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC Africa",
@@ -135,6 +135,15 @@
       "published_at": "2026-06-26T18:36:32Z",
       "country_code": "VE",
       "country_name": "Venezuela"
+    },
+    {
+      "source": "BBC World",
+      "title": "World Cup fans frustrated by 'confusing and expensive' tipping culture in US",
+      "url": "https://www.bbc.co.uk/news/articles/clyxgjykx7lo?at_medium=RSS&at_campaign=rss",
+      "summary": "International fans visiting the US for the World Cup have become frustrated by the culture of having to tip servers, telling the BBC that ti…",
+      "published_at": "2026-06-26T18:20:04Z",
+      "country_code": "US",
+      "country_name": "United States"
     },
     {
       "source": "BBC World",
@@ -906,7 +915,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 26
+      "news_count": 27
     },
     {
       "country_code": "VE",
