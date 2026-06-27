@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-06-27T12:48:46Z",
+  "generated_at": "2026-06-27T14:22:04Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Newborn baby rescued from Venezuela earthquake rubble",
+      "url": "https://www.bbc.co.uk/news/videos/cm2d0vzp3ngo?at_medium=RSS&at_campaign=rss",
+      "summary": "Two powerful earthquakes rocked Venezuela within seconds of each other on Wednesday, killing at least 920 people.",
+      "published_at": "2026-06-27T12:51:25Z",
+      "country_code": "VE",
+      "country_name": "Venezuela"
+    },
     {
       "source": "BBC World",
       "title": "US strikes Iran after attack on cargo ship",
@@ -254,7 +263,7 @@
       "country_name": "South Korea"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Latin America",
       "title": "Aerial footage reveals destruction in coastal Venezuela",
       "url": "https://www.bbc.co.uk/news/videos/c75y1kd16qdo?at_medium=RSS&at_campaign=rss",
       "summary": "Multi-storey buildings have collapsed in La Guaira following two major earthquakes on Wednesday.",
@@ -767,15 +776,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Latin America",
-      "title": "Meet Merlin the Duck: Mexico's World Cup 'ambassador'",
-      "url": "https://www.bbc.co.uk/news/videos/c17yrzpge4no?at_medium=RSS&at_campaign=rss",
-      "summary": "The BBC’s Will Grant was amongst the crowds swarming to meet Merlin, a pet duck who went viral for waddling around Mexico City in the Mexica…",
-      "published_at": "2026-06-19T05:41:27Z",
-      "country_code": "MX",
-      "country_name": "Mexico"
-    },
-    {
       "source": "BBC Middle East",
       "title": "Thousands killed in US-Israeli war on Iran - but experts say true total may never be known",
       "url": "https://www.bbc.co.uk/news/articles/cy735xlv50ko?at_medium=RSS&at_campaign=rss",
@@ -920,7 +920,7 @@
     {
       "country_code": "VE",
       "country_name": "Venezuela",
-      "news_count": 8
+      "news_count": 9
     },
     {
       "country_code": "FR",
@@ -1030,11 +1030,6 @@
     {
       "country_code": "MA",
       "country_name": "Morocco",
-      "news_count": 1
-    },
-    {
-      "country_code": "MX",
-      "country_name": "Mexico",
       "news_count": 1
     },
     {
