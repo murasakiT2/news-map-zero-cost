@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-06-28T09:52:12Z",
+  "generated_at": "2026-06-28T11:40:54Z",
   "articles": [
+    {
+      "source": "BBC Africa",
+      "title": "South Africa look to lay ghosts of 2010 to rest",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cx2dpwpv1ypo?at_medium=RSS&at_campaign=rss",
+      "summary": "South Africa play their first ever World Cup knockout game against Canada, 16 years after Bafana Bafana passed up the chance to progress at …",
+      "published_at": "2026-06-28T08:00:40Z",
+      "country_code": "ZA",
+      "country_name": "South Africa"
+    },
     {
       "source": "BBC World",
       "title": "US and Iran exchange strikes and accuse each other of violating ceasefire",
@@ -12,7 +21,7 @@
     },
     {
       "source": "BBC World",
-      "title": "Bad Bunny: Latin star lights up London with history-making stadium show",
+      "title": "Bad Bunny lights up London with history-making stadium show",
       "url": "https://www.bbc.co.uk/news/articles/c2dyrk56dg9o?at_medium=RSS&at_campaign=rss",
       "summary": "Pride and a party as the Puerto Rican becomes the first Latin artist to headline a UK stadium.",
       "published_at": "2026-06-28T01:46:24Z",
@@ -27,6 +36,15 @@
       "published_at": "2026-06-27T23:40:43Z",
       "country_code": "US",
       "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Australia to double maximum penalty for platforms in breach of social media ban",
+      "url": "https://www.bbc.co.uk/news/articles/c78yv5g74e9o?at_medium=RSS&at_campaign=rss",
+      "summary": "Children under the age of 16 have been prevented from 10 key social media platforms in Australia since December 2025.",
+      "published_at": "2026-06-27T22:34:11Z",
+      "country_code": "AU",
+      "country_name": "Australia"
     },
     {
       "source": "BBC World",
@@ -964,6 +982,11 @@
       "news_count": 3
     },
     {
+      "country_code": "AU",
+      "country_name": "Australia",
+      "news_count": 2
+    },
+    {
       "country_code": "CN",
       "country_name": "China",
       "news_count": 2
@@ -984,6 +1007,11 @@
       "news_count": 2
     },
     {
+      "country_code": "ZA",
+      "country_name": "South Africa",
+      "news_count": 2
+    },
+    {
       "country_code": "AE",
       "country_name": "United Arab Emirates",
       "news_count": 1
@@ -991,11 +1019,6 @@
     {
       "country_code": "AR",
       "country_name": "Argentina",
-      "news_count": 1
-    },
-    {
-      "country_code": "AU",
-      "country_name": "Australia",
       "news_count": 1
     },
     {
@@ -1041,11 +1064,6 @@
     {
       "country_code": "SA",
       "country_name": "Saudi Arabia",
-      "news_count": 1
-    },
-    {
-      "country_code": "ZA",
-      "country_name": "South Africa",
       "news_count": 1
     }
   ]
