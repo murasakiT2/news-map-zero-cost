@@ -1,6 +1,33 @@
 {
-  "generated_at": "2026-06-28T11:40:54Z",
+  "generated_at": "2026-06-28T13:14:01Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Eleven killed after plane carrying skydivers crashes in eastern France",
+      "url": "https://www.bbc.co.uk/news/articles/c5yz9yj9x74o?at_medium=RSS&at_campaign=rss",
+      "summary": "The pilot and 10 passengers died in the incident, local officials said.",
+      "published_at": "2026-06-28T12:51:59Z",
+      "country_code": "FR",
+      "country_name": "France"
+    },
+    {
+      "source": "BBC World",
+      "title": "Two boys rescued from Venezuela earthquake rubble after days of being trapped",
+      "url": "https://www.bbc.co.uk/news/articles/cr47dvywvy5o?at_medium=RSS&at_campaign=rss",
+      "summary": "Rescuers spent six hours carefully digging to reach one of the boys, as many residents continue searching through the rubble by hand, still …",
+      "published_at": "2026-06-28T12:39:41Z",
+      "country_code": "VE",
+      "country_name": "Venezuela"
+    },
+    {
+      "source": "BBC Africa",
+      "title": "The lowdown on England's next opponents",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cn4rden9de2o?at_medium=RSS&at_campaign=rss",
+      "summary": "BBC Sport brings you all the information you need on DR Congo, England's opponents on Wednesday in the World Cup Round of 32.",
+      "published_at": "2026-06-28T10:58:54Z",
+      "country_code": "GB",
+      "country_name": "United Kingdom"
+    },
     {
       "source": "BBC Africa",
       "title": "South Africa look to lay ghosts of 2010 to rest",
@@ -61,15 +88,6 @@
       "url": "https://www.bbc.co.uk/news/videos/cm2d0rjg4l3o?at_medium=RSS&at_campaign=rss",
       "summary": "The BBC travelled to a Caracas hospital that is treating people from the worst affected areas.",
       "published_at": "2026-06-27T21:33:12Z",
-      "country_code": "VE",
-      "country_name": "Venezuela"
-    },
-    {
-      "source": "BBC World",
-      "title": "Families calling out to loved ones trapped in rubble by Venezuela quakes",
-      "url": "https://www.bbc.co.uk/news/articles/cp8l451420zo?at_medium=RSS&at_campaign=rss",
-      "summary": "In La Guaira, desperate families keep vigil at buildings where they fear their relatives are trapped, but face an impossible task to move he…",
-      "published_at": "2026-06-27T21:12:51Z",
       "country_code": "VE",
       "country_name": "Venezuela"
     },
@@ -342,15 +360,6 @@
       "published_at": "2026-06-26T01:02:36Z",
       "country_code": "IN",
       "country_name": "India"
-    },
-    {
-      "source": "BBC Africa",
-      "title": "'We could call it racist' - Ivory Coast boss sad at Schweinsteiger comments",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cx2x0ev2deqo?at_medium=RSS&at_campaign=rss",
-      "summary": "Ivory Coast boss Emerse Fae says comments from ex-Germany midfielder Bastian Schweinsteiger about their \"wild\" playing style could be consid…",
-      "published_at": "2026-06-26T00:21:34Z",
-      "country_code": "DE",
-      "country_name": "Germany"
     },
     {
       "source": "BBC Asia",
@@ -934,17 +943,12 @@
     {
       "country_code": "FR",
       "country_name": "France",
-      "news_count": 6
-    },
-    {
-      "country_code": "DE",
-      "country_name": "Germany",
-      "news_count": 5
+      "news_count": 7
     },
     {
       "country_code": "GB",
       "country_name": "United Kingdom",
-      "news_count": 5
+      "news_count": 6
     },
     {
       "country_code": "IL",
@@ -955,6 +959,11 @@
       "country_code": "IN",
       "country_name": "India",
       "news_count": 5
+    },
+    {
+      "country_code": "DE",
+      "country_name": "Germany",
+      "news_count": 4
     },
     {
       "country_code": "IR",
