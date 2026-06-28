@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-06-28T16:12:12Z",
+  "generated_at": "2026-06-28T17:41:14Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Watch: Inside the Venezuela country club now a makeshift hospital",
+      "url": "https://www.bbc.co.uk/news/videos/clyx5r0068go?at_medium=RSS&at_campaign=rss",
+      "summary": "Survivors of Venezuela's devastating earthquakes are being cared for at a makeshift hospital formed on the site of a country club in",
+      "published_at": "2026-06-28T17:32:30Z",
+      "country_code": "VE",
+      "country_name": "Venezuela"
+    },
+    {
+      "source": "BBC World",
+      "title": "Europe's heatwave linked to 1,300 deaths, WHO says, as Germany hits record 41.7C",
+      "url": "https://www.bbc.co.uk/news/articles/cn4d2vv935lo?at_medium=RSS&at_campaign=rss",
+      "summary": "WHO chief Tedros Adhanom Ghebreyesus warned that Europe is not prepared for high temperatures.",
+      "published_at": "2026-06-28T16:38:55Z",
+      "country_code": "DE",
+      "country_name": "Germany"
+    },
     {
       "source": "BBC World",
       "title": "Eleven killed after plane carrying skydivers crashes in eastern France",
@@ -21,7 +39,7 @@
     },
     {
       "source": "BBC World",
-      "title": "Australian man charged with murder after girl found dead in suitcase in Thailand",
+      "title": "Australian man charged with murder after dead girl found in suitcase in Thailand",
       "url": "https://www.bbc.co.uk/news/articles/cd0my5zy821o?at_medium=RSS&at_campaign=rss",
       "summary": "The 17-year-old's body was found discarded near a railway track on Saturday, police say.",
       "published_at": "2026-06-28T14:30:05Z",
@@ -236,7 +254,7 @@
       "country_name": "India"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Latin America",
       "title": "Watch: BBC reports from La Guaira, one of Venezuela's worst-hit areas",
       "url": "https://www.bbc.co.uk/news/videos/cwy0lw84p3go?at_medium=RSS&at_campaign=rss",
       "summary": "Vanessa Silva visited the coastal state, where rescuers are still working to find survivors under the rubble after twin earthquakes rocked t…",
@@ -947,7 +965,7 @@
     {
       "country_code": "VE",
       "country_name": "Venezuela",
-      "news_count": 9
+      "news_count": 10
     },
     {
       "country_code": "FR",
@@ -960,6 +978,11 @@
       "news_count": 6
     },
     {
+      "country_code": "DE",
+      "country_name": "Germany",
+      "news_count": 5
+    },
+    {
       "country_code": "IL",
       "country_name": "Israel",
       "news_count": 5
@@ -968,11 +991,6 @@
       "country_code": "IN",
       "country_name": "India",
       "news_count": 5
-    },
-    {
-      "country_code": "DE",
-      "country_name": "Germany",
-      "news_count": 4
     },
     {
       "country_code": "IR",
