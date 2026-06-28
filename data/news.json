@@ -1,12 +1,21 @@
 {
-  "generated_at": "2026-06-28T13:14:01Z",
+  "generated_at": "2026-06-28T14:59:42Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Australian man charged with murder after girl found dead in suitcase in Thailand",
+      "url": "https://www.bbc.co.uk/news/articles/cd0my5zy821o?at_medium=RSS&at_campaign=rss",
+      "summary": "The 17-year-old's body was found discarded near a railway track on Saturday, police say.",
+      "published_at": "2026-06-28T14:30:05Z",
+      "country_code": "TH",
+      "country_name": "Thailand"
+    },
     {
       "source": "BBC World",
       "title": "Eleven killed after plane carrying skydivers crashes in eastern France",
       "url": "https://www.bbc.co.uk/news/articles/c5yz9yj9x74o?at_medium=RSS&at_campaign=rss",
       "summary": "The pilot and 10 passengers died in the incident, local officials said.",
-      "published_at": "2026-06-28T12:51:59Z",
+      "published_at": "2026-06-28T13:21:33Z",
       "country_code": "FR",
       "country_name": "France"
     },
@@ -218,7 +227,7 @@
       "country_name": "India"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Latin America",
       "title": "Watch: BBC reports from La Guaira, one of Venezuela's worst-hit areas",
       "url": "https://www.bbc.co.uk/news/videos/cwy0lw84p3go?at_medium=RSS&at_campaign=rss",
       "summary": "Vanessa Silva visited the coastal state, where rescuers are still working to find survivors under the rubble after twin earthquakes rocked t…",
@@ -1073,6 +1082,11 @@
     {
       "country_code": "SA",
       "country_name": "Saudi Arabia",
+      "news_count": 1
+    },
+    {
+      "country_code": "TH",
+      "country_name": "Thailand",
       "news_count": 1
     }
   ]
