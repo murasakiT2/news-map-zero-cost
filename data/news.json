@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-06-27T23:53:13Z",
+  "generated_at": "2026-06-28T02:29:27Z",
   "articles": [
+    {
+      "source": "BBC US & Canada",
+      "title": "US launches strikes on Iran after second shipping attack",
+      "url": "https://www.bbc.co.uk/news/articles/cdxdwkgqgq0o?at_medium=RSS&at_campaign=rss",
+      "summary": "Iran says it has launched retaliatory attacks at US infrastructure in Kuwait and Bahrain.",
+      "published_at": "2026-06-28T01:22:03Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "Israel strikes southern Lebanon as Hezbollah condemns new deal",
@@ -81,6 +90,15 @@
       "published_at": "2026-06-27T12:51:25Z",
       "country_code": "VE",
       "country_name": "Venezuela"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "We have been treated unfairly by USA in World Cup - Iran",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cze98ywdwlgo?at_medium=RSS&at_campaign=rss",
+      "summary": "For their first two matches in Los Angeles, Iran's squad was only allowed to enter the United States the day before.",
+      "published_at": "2026-06-27T11:14:31Z",
+      "country_code": "US",
+      "country_name": "United States"
     },
     {
       "source": "BBC World",
@@ -171,15 +189,6 @@
       "published_at": "2026-06-26T21:44:54Z",
       "country_code": "VE",
       "country_name": "Venezuela"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "Watch: Native Americans mark 150th anniversary of Little Bighorn victory",
-      "url": "https://www.bbc.co.uk/news/videos/c23yek4g28lo?at_medium=RSS&at_campaign=rss",
-      "summary": "The June 1876 battle saw Indigenous warriors unite to defeat US Lt Col George Armstrong Custer and more than 200 of his soldiers.",
-      "published_at": "2026-06-26T21:25:32Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC Asia",
@@ -642,15 +651,6 @@
     },
     {
       "source": "BBC Asia",
-      "title": "Australia's coal and gas exports violate our human rights, group says in new UN case",
-      "url": "https://www.bbc.co.uk/news/articles/cn8q5nx6jw6o?at_medium=RSS&at_campaign=rss",
-      "summary": "The group says that it is unlawful for Australia to continue approving fossil fuel exports without protecting its citizens.",
-      "published_at": "2026-06-23T03:55:00Z",
-      "country_code": "AU",
-      "country_name": "Australia"
-    },
-    {
-      "source": "BBC Asia",
       "title": "A brutal gang rape in India revives painful memories of 2012 Delhi assault",
       "url": "https://www.bbc.co.uk/news/articles/cewqyn2p1lno?at_medium=RSS&at_campaign=rss",
       "summary": "The case from Begusarai in Bihar comes close in brutality to that inflicted on a woman during a sexual assault in 2012.",
@@ -906,7 +906,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 25
+      "news_count": 26
     },
     {
       "country_code": "VE",
@@ -949,11 +949,6 @@
       "news_count": 4
     },
     {
-      "country_code": "AU",
-      "country_name": "Australia",
-      "news_count": 3
-    },
-    {
       "country_code": "CA",
       "country_name": "Canada",
       "news_count": 3
@@ -967,6 +962,11 @@
       "country_code": "PK",
       "country_name": "Pakistan",
       "news_count": 3
+    },
+    {
+      "country_code": "AU",
+      "country_name": "Australia",
+      "news_count": 2
     },
     {
       "country_code": "CN",
