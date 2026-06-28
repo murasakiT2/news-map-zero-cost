@@ -1,12 +1,30 @@
 {
-  "generated_at": "2026-06-28T02:29:27Z",
+  "generated_at": "2026-06-28T06:42:54Z",
   "articles": [
     {
-      "source": "BBC US & Canada",
-      "title": "US launches strikes on Iran after second shipping attack",
+      "source": "BBC World",
+      "title": "US and Iran exchange strikes and accuse each other of violating ceasefire",
       "url": "https://www.bbc.co.uk/news/articles/cdxdwkgqgq0o?at_medium=RSS&at_campaign=rss",
-      "summary": "Iran says it has launched retaliatory attacks at US infrastructure in Kuwait and Bahrain.",
-      "published_at": "2026-06-28T01:22:03Z",
+      "summary": "Iran says it has launched retaliatory attacks at US infrastructure in Kuwait and Bahrain after the US said it hit multiple targets across Ir…",
+      "published_at": "2026-06-28T04:54:50Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Bad Bunny: Latin star lights up London with history-making stadium show",
+      "url": "https://www.bbc.co.uk/news/articles/c2dyrk56dg9o?at_medium=RSS&at_campaign=rss",
+      "summary": "Pride and a party as the Puerto Rican becomes the first Latin artist to headline a UK stadium.",
+      "published_at": "2026-06-28T01:46:24Z",
+      "country_code": "GB",
+      "country_name": "United Kingdom"
+    },
+    {
+      "source": "BBC World",
+      "title": "What news reports from 1600s tell us about life in Mughal India",
+      "url": "https://www.bbc.co.uk/news/articles/c1dy5y3y2g3o?at_medium=RSS&at_campaign=rss",
+      "summary": "Thousands of forgotten news reports are reshaping our understanding of Aurangzeb and the Mughal world.",
+      "published_at": "2026-06-27T23:40:43Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -101,7 +119,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Middle East",
       "title": "US strikes Iran after attack on cargo ship",
       "url": "https://www.bbc.co.uk/news/articles/ckg590wqxwpo?at_medium=RSS&at_campaign=rss",
       "summary": "Iran accuses the US of violating their deal and says it struck targets linked to American forces in response.",
@@ -110,7 +128,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Latin America",
       "title": "Venezuela earthquakes kill 920 people as international rescue teams arrive",
       "url": "https://www.bbc.co.uk/news/articles/c39y79g7gzko?at_medium=RSS&at_campaign=rss",
       "summary": "Hundreds are still feared trapped under the rubble, as families desperate for news.",
@@ -137,31 +155,13 @@
       "country_name": "Saudi Arabia"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "Just how much trouble is Canada's economy in?",
       "url": "https://www.bbc.co.uk/news/articles/c70y1y909pdo?at_medium=RSS&at_campaign=rss",
       "summary": "Five charts help illustrate the state of Canada's economy - and how it's performing compared to other wealthy nations.",
       "published_at": "2026-06-27T01:58:40Z",
       "country_code": "CA",
       "country_name": "Canada"
-    },
-    {
-      "source": "BBC World",
-      "title": "Could you handle a 20-plus hour flight? This airline is banking on it",
-      "url": "https://www.bbc.co.uk/news/articles/cx2j7v51l5ko?at_medium=RSS&at_campaign=rss",
-      "summary": "Some analysts say the first non-stop London to Sydney flight is a major milestone - but would you buy a ticket?",
-      "published_at": "2026-06-26T23:02:15Z",
-      "country_code": "AU",
-      "country_name": "Australia"
-    },
-    {
-      "source": "BBC World",
-      "title": "They quit the West for Russia's traditional values, but it wasn't what they expected",
-      "url": "https://www.bbc.co.uk/news/articles/cn075j04pnyo?at_medium=RSS&at_campaign=rss",
-      "summary": "The BBC asks Westerners who moved to Russia if life there lives up to expectations.",
-      "published_at": "2026-06-26T23:02:05Z",
-      "country_code": "RU",
-      "country_name": "Russia"
     },
     {
       "source": "BBC World",
@@ -308,7 +308,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Latin America",
       "title": "Earthquake is devastating blow to Venezuela at time of uncertainty",
       "url": "https://www.bbc.co.uk/news/articles/c3vynpw7rk4o?at_medium=RSS&at_campaign=rss",
       "summary": "The twin quakes come less than six months after Venezuela's then-leader Nicolás Maduro was seized by US forces.",
@@ -906,7 +906,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 26
+      "news_count": 27
     },
     {
       "country_code": "VE",
@@ -924,6 +924,11 @@
       "news_count": 5
     },
     {
+      "country_code": "GB",
+      "country_name": "United Kingdom",
+      "news_count": 5
+    },
+    {
       "country_code": "IL",
       "country_name": "Israel",
       "news_count": 5
@@ -934,18 +939,8 @@
       "news_count": 5
     },
     {
-      "country_code": "GB",
-      "country_name": "United Kingdom",
-      "news_count": 4
-    },
-    {
       "country_code": "IR",
       "country_name": "Iran",
-      "news_count": 4
-    },
-    {
-      "country_code": "RU",
-      "country_name": "Russia",
       "news_count": 4
     },
     {
@@ -964,9 +959,9 @@
       "news_count": 3
     },
     {
-      "country_code": "AU",
-      "country_name": "Australia",
-      "news_count": 2
+      "country_code": "RU",
+      "country_name": "Russia",
+      "news_count": 3
     },
     {
       "country_code": "CN",
@@ -996,6 +991,11 @@
     {
       "country_code": "AR",
       "country_name": "Argentina",
+      "news_count": 1
+    },
+    {
+      "country_code": "AU",
+      "country_name": "Australia",
       "news_count": 1
     },
     {
