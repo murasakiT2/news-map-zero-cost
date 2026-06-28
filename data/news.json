@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-06-28T14:59:42Z",
+  "generated_at": "2026-06-28T16:12:12Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Eleven killed after plane carrying skydivers crashes in eastern France",
+      "url": "https://www.bbc.co.uk/news/articles/c5yz9yj9x74o?at_medium=RSS&at_campaign=rss",
+      "summary": "The pilot and 10 passengers died in the incident, local officials said.",
+      "published_at": "2026-06-28T15:51:19Z",
+      "country_code": "FR",
+      "country_name": "France"
+    },
+    {
+      "source": "BBC World",
+      "title": "Fourteen killed in Saudi Arabia helicopter crash",
+      "url": "https://www.bbc.co.uk/news/articles/c3eyd9j5g7xo?at_medium=RSS&at_campaign=rss",
+      "summary": "The aircraft belonged to state oil giant Aramco and the cause of the crash is being investigated.",
+      "published_at": "2026-06-28T15:42:01Z",
+      "country_code": "SA",
+      "country_name": "Saudi Arabia"
+    },
     {
       "source": "BBC World",
       "title": "Australian man charged with murder after girl found dead in suitcase in Thailand",
@@ -9,15 +27,6 @@
       "published_at": "2026-06-28T14:30:05Z",
       "country_code": "TH",
       "country_name": "Thailand"
-    },
-    {
-      "source": "BBC World",
-      "title": "Eleven killed after plane carrying skydivers crashes in eastern France",
-      "url": "https://www.bbc.co.uk/news/articles/c5yz9yj9x74o?at_medium=RSS&at_campaign=rss",
-      "summary": "The pilot and 10 passengers died in the incident, local officials said.",
-      "published_at": "2026-06-28T13:21:33Z",
-      "country_code": "FR",
-      "country_name": "France"
     },
     {
       "source": "BBC World",
@@ -137,7 +146,7 @@
       "country_name": "Venezuela"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "Burkina Faso severs diplomatic ties with France",
       "url": "https://www.bbc.co.uk/news/articles/c7vymlgl5vgo?at_medium=RSS&at_campaign=rss",
       "summary": "The West African country's junta accused the former colonial power of undermining its national interests.",
@@ -209,7 +218,7 @@
       "country_name": "Canada"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "Meloni and Trump: A very public fall-out that is proving very hard to fix",
       "url": "https://www.bbc.co.uk/news/articles/cze962pgk27o?at_medium=RSS&at_campaign=rss",
       "summary": "Italy's PM was not long ago being called the \"Trump whisperer\", but their relationship has gone from public attacks to personal insults.",
@@ -227,7 +236,7 @@
       "country_name": "India"
     },
     {
-      "source": "BBC Latin America",
+      "source": "BBC World",
       "title": "Watch: BBC reports from La Guaira, one of Venezuela's worst-hit areas",
       "url": "https://www.bbc.co.uk/news/videos/cwy0lw84p3go?at_medium=RSS&at_campaign=rss",
       "summary": "Vanessa Silva visited the coastal state, where rescuers are still working to find survivors under the rubble after twin earthquakes rocked t…",
@@ -243,15 +252,6 @@
       "published_at": "2026-06-26T18:36:42Z",
       "country_code": "CN",
       "country_name": "China"
-    },
-    {
-      "source": "BBC World",
-      "title": "Mother dies saving daughter in Venezuela earthquakes",
-      "url": "https://www.bbc.co.uk/news/articles/c0jydyz8z6jo?at_medium=RSS&at_campaign=rss",
-      "summary": "Héctor Bello wrote on social media that \"you gave your own life for our daughter\" in the quakes which killed at least 920 people.",
-      "published_at": "2026-06-26T18:36:32Z",
-      "country_code": "VE",
-      "country_name": "Venezuela"
     },
     {
       "source": "BBC Latin America",
@@ -947,7 +947,7 @@
     {
       "country_code": "VE",
       "country_name": "Venezuela",
-      "news_count": 10
+      "news_count": 9
     },
     {
       "country_code": "FR",
@@ -1015,6 +1015,11 @@
       "news_count": 2
     },
     {
+      "country_code": "SA",
+      "country_name": "Saudi Arabia",
+      "news_count": 2
+    },
+    {
       "country_code": "SG",
       "country_name": "Singapore",
       "news_count": 2
@@ -1077,11 +1082,6 @@
     {
       "country_code": "PT",
       "country_name": "Portugal",
-      "news_count": 1
-    },
-    {
-      "country_code": "SA",
-      "country_name": "Saudi Arabia",
       "news_count": 1
     },
     {
