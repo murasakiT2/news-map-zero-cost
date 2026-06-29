@@ -1,32 +1,32 @@
 {
-  "generated_at": "2026-06-29T18:57:59Z",
+  "generated_at": "2026-06-29T20:47:51Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Dogs, drones and sound detectors: How rescuers search for quake survivors",
+      "url": "https://www.bbc.co.uk/news/articles/cn75jk07y5do?at_medium=RSS&at_campaign=rss",
+      "summary": "Rescuers armed with a range of techniques continue to dig through the rubble in Venezuela.",
+      "published_at": "2026-06-29T20:17:26Z",
+      "country_code": "VE",
+      "country_name": "Venezuela"
+    },
     {
       "source": "BBC World",
       "title": "Six people shot dead at centre for mothers and children in Germany",
       "url": "https://www.bbc.co.uk/news/articles/c17yzzw1vkjo?at_medium=RSS&at_campaign=rss",
       "summary": "The male suspect who has been arrested was in a custody dispute over his baby daughter, police say.",
-      "published_at": "2026-06-29T18:47:00Z",
+      "published_at": "2026-06-29T19:53:57Z",
       "country_code": "DE",
       "country_name": "Germany"
     },
     {
-      "source": "BBC Africa",
+      "source": "BBC World",
       "title": "South African leader warns anti-migrant protesters ahead of unofficial deadline",
       "url": "https://www.bbc.co.uk/news/articles/cy4eq1l184po?at_medium=RSS&at_campaign=rss",
       "summary": "Thousands of people from other African countries have left South Africa ahead of Tuesday's deadline set by anti-migrant groups.",
-      "published_at": "2026-06-29T17:47:33Z",
+      "published_at": "2026-06-29T19:16:34Z",
       "country_code": "ZA",
       "country_name": "South Africa"
-    },
-    {
-      "source": "BBC World",
-      "title": "Dogs, drones and sound detectors: How rescuers search for quake survivors",
-      "url": "https://www.bbc.co.uk/news/articles/cn75jk07y5do?at_medium=RSS&at_campaign=rss",
-      "summary": "Rescuers armed with a range of techniques continue to search through the rubble in Venezuela.",
-      "published_at": "2026-06-29T17:35:13Z",
-      "country_code": "VE",
-      "country_name": "Venezuela"
     },
     {
       "source": "BBC World",
@@ -153,15 +153,6 @@
       "published_at": "2026-06-29T00:02:44Z",
       "country_code": "CA",
       "country_name": "Canada"
-    },
-    {
-      "source": "BBC World",
-      "title": "Loved and loathed: The making of India's viral liver doctor",
-      "url": "https://www.bbc.co.uk/news/articles/c39y7w901vdo?at_medium=RSS&at_campaign=rss",
-      "summary": "Dr Cyriac Abby Philips has built a large online following, but often clashes with India's traditional medicine specialists.",
-      "published_at": "2026-06-28T23:11:12Z",
-      "country_code": "IN",
-      "country_name": "India"
     },
     {
       "source": "BBC Africa",
@@ -308,22 +299,13 @@
       "country_name": "Venezuela"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "Heatwave breaks records in Germany, Denmark and Czech Republic",
       "url": "https://www.bbc.co.uk/news/articles/cx2vdydz31no?at_medium=RSS&at_campaign=rss",
       "summary": "An estimated 150 million people have been experiencing temperatures of over 35C across Europe.",
       "published_at": "2026-06-27T20:48:16Z",
       "country_code": "DE",
       "country_name": "Germany"
-    },
-    {
-      "source": "BBC World",
-      "title": "Trump's face is added to select US passports for America's 250th birthday",
-      "url": "https://www.bbc.co.uk/news/articles/ce3ewkdgw9ro?at_medium=RSS&at_campaign=rss",
-      "summary": "The commemorative special edition passports will be available on 6 July, and can only be applied for in person",
-      "published_at": "2026-06-27T20:03:26Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC Latin America",
@@ -942,7 +924,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 22
+      "news_count": 21
     },
     {
       "country_code": "VE",
@@ -990,11 +972,6 @@
       "news_count": 3
     },
     {
-      "country_code": "IN",
-      "country_name": "India",
-      "news_count": 3
-    },
-    {
       "country_code": "RU",
       "country_name": "Russia",
       "news_count": 3
@@ -1012,6 +989,11 @@
     {
       "country_code": "CO",
       "country_name": "Colombia",
+      "news_count": 2
+    },
+    {
+      "country_code": "IN",
+      "country_name": "India",
       "news_count": 2
     },
     {
