@@ -1,11 +1,29 @@
 {
-  "generated_at": "2026-06-29T20:47:51Z",
+  "generated_at": "2026-06-29T22:03:37Z",
   "articles": [
     {
       "source": "BBC World",
+      "title": "'No one move!': The agonising silence as Venezuela rescuers listen for survivors",
+      "url": "https://www.bbc.co.uk/news/articles/c78yvq72dg7o?at_medium=RSS&at_campaign=rss",
+      "summary": "With tens of thousands of people still believed missing, teams listen for signs of life beneath the rubble.",
+      "published_at": "2026-06-29T21:19:28Z",
+      "country_code": "VE",
+      "country_name": "Venezuela"
+    },
+    {
+      "source": "BBC World",
+      "title": "Osaka 'pays love and respect to Japan' in Wimbledon kimono",
+      "url": "https://www.bbc.co.uk/sport/tennis/articles/cd0mymk9d70o?at_medium=RSS&at_campaign=rss",
+      "summary": "Naomi Osaka has long been renowned for dazzling crowds with her on-court outfits - but making that compatible with Wimbledon's all-white dre…",
+      "published_at": "2026-06-29T21:11:04Z",
+      "country_code": "JP",
+      "country_name": "Japan"
+    },
+    {
+      "source": "BBC Latin America",
       "title": "Dogs, drones and sound detectors: How rescuers search for quake survivors",
       "url": "https://www.bbc.co.uk/news/articles/cn75jk07y5do?at_medium=RSS&at_campaign=rss",
-      "summary": "Rescuers armed with a range of techniques continue to dig through the rubble in Venezuela.",
+      "summary": "Teams armed with a range of techniques continue to dig through the rubble in Venezuela.",
       "published_at": "2026-06-29T20:17:26Z",
       "country_code": "VE",
       "country_name": "Venezuela"
@@ -261,15 +279,6 @@
       "published_at": "2026-06-27T23:40:43Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "Australia to double maximum penalty for platforms in breach of social media ban",
-      "url": "https://www.bbc.co.uk/news/articles/c78yv5g74e9o?at_medium=RSS&at_campaign=rss",
-      "summary": "Children under the age of 16 have been prevented from 10 key social media platforms in Australia since December 2025.",
-      "published_at": "2026-06-27T22:34:11Z",
-      "country_code": "AU",
-      "country_name": "Australia"
     },
     {
       "source": "BBC Middle East",
@@ -567,15 +576,6 @@
       "published_at": "2026-06-25T11:58:44Z",
       "country_code": "AE",
       "country_name": "United Arab Emirates"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "How Pochettino has US believing they can be World Cup winners",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cvgm9jvemlno?at_medium=RSS&at_campaign=rss",
-      "summary": "Mauricio Pochettino has united the USA fans and players in a belief that they are capable of winning the World Cup.",
-      "published_at": "2026-06-25T10:34:00Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC Africa",
@@ -924,12 +924,12 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 21
+      "news_count": 20
     },
     {
       "country_code": "VE",
       "country_name": "Venezuela",
-      "news_count": 13
+      "news_count": 14
     },
     {
       "country_code": "DE",
@@ -957,11 +957,6 @@
       "news_count": 4
     },
     {
-      "country_code": "AU",
-      "country_name": "Australia",
-      "news_count": 3
-    },
-    {
       "country_code": "ES",
       "country_name": "Spain",
       "news_count": 3
@@ -982,6 +977,11 @@
       "news_count": 3
     },
     {
+      "country_code": "AU",
+      "country_name": "Australia",
+      "news_count": 2
+    },
+    {
       "country_code": "CA",
       "country_name": "Canada",
       "news_count": 2
@@ -994,6 +994,11 @@
     {
       "country_code": "IN",
       "country_name": "India",
+      "news_count": 2
+    },
+    {
+      "country_code": "JP",
+      "country_name": "Japan",
       "news_count": 2
     },
     {
@@ -1039,11 +1044,6 @@
     {
       "country_code": "IT",
       "country_name": "Italy",
-      "news_count": 1
-    },
-    {
-      "country_code": "JP",
-      "country_name": "Japan",
       "news_count": 1
     },
     {
