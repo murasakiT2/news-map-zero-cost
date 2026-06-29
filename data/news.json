@@ -1,23 +1,41 @@
 {
-  "generated_at": "2026-06-29T16:48:16Z",
+  "generated_at": "2026-06-29T18:57:59Z",
   "articles": [
     {
-      "source": "BBC US & Canada",
-      "title": "US Supreme Court allows late-arriving mail-in ballots in defeat for Trump",
-      "url": "https://www.bbc.co.uk/news/articles/c93629rzpgxo?at_medium=RSS&at_campaign=rss",
-      "summary": "The decision could affect voting deadlines of more than a dozen states that will be pivotal in deciding the control of Congress after the mi…",
-      "published_at": "2026-06-29T16:32:06Z",
-      "country_code": "US",
-      "country_name": "United States"
+      "source": "BBC World",
+      "title": "Six people shot dead at centre for mothers and children in Germany",
+      "url": "https://www.bbc.co.uk/news/articles/c17yzzw1vkjo?at_medium=RSS&at_campaign=rss",
+      "summary": "The male suspect who has been arrested was in a custody dispute over his baby daughter, police say.",
+      "published_at": "2026-06-29T18:47:00Z",
+      "country_code": "DE",
+      "country_name": "Germany"
+    },
+    {
+      "source": "BBC Africa",
+      "title": "South African leader warns anti-migrant protesters ahead of unofficial deadline",
+      "url": "https://www.bbc.co.uk/news/articles/cy4eq1l184po?at_medium=RSS&at_campaign=rss",
+      "summary": "Thousands of people from other African countries have left South Africa ahead of Tuesday's deadline set by anti-migrant groups.",
+      "published_at": "2026-06-29T17:47:33Z",
+      "country_code": "ZA",
+      "country_name": "South Africa"
     },
     {
       "source": "BBC World",
-      "title": "Sixth person dies after shooting at youth welfare centre in Germany",
-      "url": "https://www.bbc.co.uk/news/articles/c17yzzw1vkjo?at_medium=RSS&at_campaign=rss",
-      "summary": "Four women and a man were shot dead at the scene while a sixth person died in hospital, police say.",
-      "published_at": "2026-06-29T16:24:07Z",
-      "country_code": "DE",
-      "country_name": "Germany"
+      "title": "Dogs, drones and sound detectors: How rescuers search for quake survivors",
+      "url": "https://www.bbc.co.uk/news/articles/cn75jk07y5do?at_medium=RSS&at_campaign=rss",
+      "summary": "Rescuers armed with a range of techniques continue to search through the rubble in Venezuela.",
+      "published_at": "2026-06-29T17:35:13Z",
+      "country_code": "VE",
+      "country_name": "Venezuela"
+    },
+    {
+      "source": "BBC World",
+      "title": "Putin makes rare admission of fuel shortages caused by Ukrainian strikes",
+      "url": "https://www.bbc.co.uk/news/articles/clyw31zvpgmo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Russian president acknowledged Ukraine's attacks were \"obviously creating problems\" but denied the shortages were \"critical\".",
+      "published_at": "2026-06-29T17:28:59Z",
+      "country_code": "UA",
+      "country_name": "Ukraine"
     },
     {
       "source": "BBC World",
@@ -30,9 +48,9 @@
     },
     {
       "source": "BBC World",
-      "title": "Supreme Court rejects Trump's appeal of E Jean Carroll's sexual abuse case",
+      "title": "Trump's final appeal of E Jean Carroll sex abuse case rejected",
       "url": "https://www.bbc.co.uk/news/articles/cn8q2z5wpn2o?at_medium=RSS&at_campaign=rss",
-      "summary": "The decision means the US president will now have to pay her the $5m (£3.6m) in damages she had been awarded.",
+      "summary": "The Supreme Court decision means the US president will now have to pay Carroll the $5m (£3.6m) in damages she had been awarded.",
       "published_at": "2026-06-29T15:30:35Z",
       "country_code": "US",
       "country_name": "United States"
@@ -263,7 +281,7 @@
       "country_name": "Australia"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Middle East",
       "title": "Israel strikes southern Lebanon as Hezbollah condemns new deal",
       "url": "https://www.bbc.co.uk/news/articles/cx2kpn0eeweo?at_medium=RSS&at_campaign=rss",
       "summary": "Strikes have killed at least one person, state media say a day after Lebanon and Israel signed a framework agreement.",
@@ -342,15 +360,6 @@
       "published_at": "2026-06-27T12:51:25Z",
       "country_code": "VE",
       "country_name": "Venezuela"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "We have been treated unfairly by USA in World Cup - Iran",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cze98ywdwlgo?at_medium=RSS&at_campaign=rss",
-      "summary": "For their first two matches in Los Angeles, Iran's squad was only allowed to enter the United States the day before.",
-      "published_at": "2026-06-27T11:14:31Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC Middle East",
@@ -933,12 +942,12 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 24
+      "news_count": 22
     },
     {
       "country_code": "VE",
       "country_name": "Venezuela",
-      "news_count": 12
+      "news_count": 13
     },
     {
       "country_code": "DE",
@@ -991,6 +1000,11 @@
       "news_count": 3
     },
     {
+      "country_code": "UA",
+      "country_name": "Ukraine",
+      "news_count": 3
+    },
+    {
       "country_code": "CA",
       "country_name": "Canada",
       "news_count": 2
@@ -1016,8 +1030,8 @@
       "news_count": 2
     },
     {
-      "country_code": "UA",
-      "country_name": "Ukraine",
+      "country_code": "ZA",
+      "country_name": "South Africa",
       "news_count": 2
     },
     {
@@ -1073,11 +1087,6 @@
     {
       "country_code": "TH",
       "country_name": "Thailand",
-      "news_count": 1
-    },
-    {
-      "country_code": "ZA",
-      "country_name": "South Africa",
       "news_count": 1
     }
   ]
