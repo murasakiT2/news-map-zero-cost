@@ -1,12 +1,30 @@
 {
-  "generated_at": "2026-06-28T23:59:18Z",
+  "generated_at": "2026-06-29T04:00:41Z",
   "articles": [
     {
+      "source": "BBC Asia",
+      "title": "South Korea football coach quits as president calls for probe into World Cup loss",
+      "url": "https://www.bbc.co.uk/news/articles/cdx7jk0kq4vo?at_medium=RSS&at_campaign=rss",
+      "summary": "South Korea was eliminated after missing out on a spot among the eight best third-placed teams.",
+      "published_at": "2026-06-29T03:34:21Z",
+      "country_code": "KR",
+      "country_name": "South Korea"
+    },
+    {
       "source": "BBC World",
-      "title": "Two boys rescued from Venezuela earthquake rubble after days of being trapped",
+      "title": "Australian man charged with murder after dead girl found in suitcase in Thailand",
+      "url": "https://www.bbc.co.uk/news/articles/cd0my5zy821o?at_medium=RSS&at_campaign=rss",
+      "summary": "The body of Tunchanok Donhomla, 17, was found discarded near a railway track on Saturday, police say.",
+      "published_at": "2026-06-29T01:58:29Z",
+      "country_code": "TH",
+      "country_name": "Thailand"
+    },
+    {
+      "source": "BBC World",
+      "title": "Two boys pulled from Venezuela earthquake rubble among 33 people rescued over weekend",
       "url": "https://www.bbc.co.uk/news/articles/cr47dvywvy5o?at_medium=RSS&at_campaign=rss",
-      "summary": "Rescuers spent six hours carefully digging to reach one of the boys, as many residents continue searching through the rubble by hand, still …",
-      "published_at": "2026-06-28T21:58:45Z",
+      "summary": "With tens of thousands of people missing, relatives face another night waiting for news of loved ones as the crucial window for locating sur…",
+      "published_at": "2026-06-29T01:23:32Z",
       "country_code": "VE",
       "country_name": "Venezuela"
     },
@@ -45,15 +63,6 @@
       "published_at": "2026-06-28T15:42:01Z",
       "country_code": "SA",
       "country_name": "Saudi Arabia"
-    },
-    {
-      "source": "BBC World",
-      "title": "Australian man charged with murder after dead girl found in suitcase in Thailand",
-      "url": "https://www.bbc.co.uk/news/articles/cd0my5zy821o?at_medium=RSS&at_campaign=rss",
-      "summary": "The 17-year-old's body was found discarded near a railway track on Saturday, police say.",
-      "published_at": "2026-06-28T14:30:05Z",
-      "country_code": "TH",
-      "country_name": "Thailand"
     },
     {
       "source": "BBC Africa",
@@ -381,15 +390,6 @@
     },
     {
       "source": "BBC Asia",
-      "title": "Row over alleged theft of donations from India's landmark Ram temple",
-      "url": "https://www.bbc.co.uk/news/articles/cn07gl6wx6go?at_medium=RSS&at_campaign=rss",
-      "summary": "Questions are being raised over the handling of cash, valuable jewellery, gold and silver offered by devotees.",
-      "published_at": "2026-06-26T01:02:36Z",
-      "country_code": "IN",
-      "country_name": "India"
-    },
-    {
-      "source": "BBC Asia",
       "title": "A Chinese box office hit sparks a debate about identity in Singapore",
       "url": "https://www.bbc.co.uk/news/articles/c5yzv23g75eo?at_medium=RSS&at_campaign=rss",
       "summary": "A nostalgic tale about family, hope and hardship has opened an unexpected conversation.",
@@ -477,15 +477,6 @@
       "published_at": "2026-06-25T10:12:04Z",
       "country_code": "KR",
       "country_name": "South Korea"
-    },
-    {
-      "source": "BBC Asia",
-      "title": "Beaten and starved: Shock in India as police rescue men from bonded labour",
-      "url": "https://www.bbc.co.uk/news/articles/czder5nnpgno?at_medium=RSS&at_campaign=rss",
-      "summary": "Bonded labour was outlawed in India in 1975, but it still continues in villages and small towns.",
-      "published_at": "2026-06-25T08:32:15Z",
-      "country_code": "IN",
-      "country_name": "India"
     },
     {
       "source": "BBC Latin America",
@@ -988,11 +979,6 @@
       "news_count": 5
     },
     {
-      "country_code": "IN",
-      "country_name": "India",
-      "news_count": 5
-    },
-    {
       "country_code": "IR",
       "country_name": "Iran",
       "news_count": 4
@@ -1005,6 +991,16 @@
     {
       "country_code": "CO",
       "country_name": "Colombia",
+      "news_count": 3
+    },
+    {
+      "country_code": "IN",
+      "country_name": "India",
+      "news_count": 3
+    },
+    {
+      "country_code": "KR",
+      "country_name": "South Korea",
       "news_count": 3
     },
     {
@@ -1025,11 +1021,6 @@
     {
       "country_code": "CN",
       "country_name": "China",
-      "news_count": 2
-    },
-    {
-      "country_code": "KR",
-      "country_name": "South Korea",
       "news_count": 2
     },
     {
