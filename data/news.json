@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-06-30T17:20:34Z",
+  "generated_at": "2026-06-30T19:13:36Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "What are US and Japanese soldiers doing in the middle of the Australian bush?",
+      "url": "https://www.bbc.co.uk/news/videos/cyv09p2vy87o?at_medium=RSS&at_campaign=rss",
+      "summary": "The BBC's Katy Watson explains why troops are training in remote Australia - a country not at war, thousands of kilometres from today's majo…",
+      "published_at": "2026-06-30T18:37:59Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "US Supreme Court upholds birthright citizenship in blow to Trump",
+      "url": "https://www.bbc.co.uk/news/articles/cgmepnx1wzzo?at_medium=RSS&at_campaign=rss",
+      "summary": "The ruling is a major setback for Donald Trump's immigration agenda, and has been welcomed by civil rights groups.",
+      "published_at": "2026-06-30T18:28:41Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "What to know about the looming deadline on North American free trade",
+      "url": "https://www.bbc.co.uk/news/articles/czdejmqmrdgo?at_medium=RSS&at_campaign=rss",
+      "summary": "The US, Canada and Mexico were to reach an agreement on whether to extend their free trade pact by 1 July. All signs point to them blowing p…",
+      "published_at": "2026-06-30T17:44:15Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Roof collapse kills 14 children at Pakistan tuition centre",
+      "url": "https://www.bbc.co.uk/news/articles/cr7x38lle1jo?at_medium=RSS&at_campaign=rss",
+      "summary": "Two people are taken into custody after the incident in the Kahna suburb of Lahore.",
+      "published_at": "2026-06-30T17:21:09Z",
+      "country_code": "PK",
+      "country_name": "Pakistan"
+    },
     {
       "source": "BBC World",
       "title": "Thousands of anti-migrant protesters march in South Africa amid heavy police presence",
@@ -30,21 +66,21 @@
     },
     {
       "source": "BBC World",
-      "title": "What to know about the looming deadline on North American free trade",
-      "url": "https://www.bbc.co.uk/news/articles/czdejmqmrdgo?at_medium=RSS&at_campaign=rss",
-      "summary": "The US, Canada and Mexico were to reach an agreement on whether to extend their free trade pact by 1 July. All signs point to them blowing p…",
-      "published_at": "2026-06-30T16:23:02Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
       "title": "Almost 60,000 far-right extremists in Germany, intelligence agency says",
       "url": "https://www.bbc.co.uk/news/articles/crlw4ng79wzo?at_medium=RSS&at_campaign=rss",
       "summary": "More than a quarter of those identified are believed to be violent, Germany's domestic intelligence agency says.",
       "published_at": "2026-06-30T16:12:25Z",
       "country_code": "DE",
       "country_name": "Germany"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "Potentially dangerous heatwave to sweep across the eastern United States",
+      "url": "https://www.bbc.co.uk/weather/videos/crel0wll091o?at_medium=RSS&at_campaign=rss",
+      "summary": "A heatwave developing across the eastern United States will bring daytime heat, high humidity and stifling overnight temperatures as Ben Ric…",
+      "published_at": "2026-06-30T15:42:00Z",
+      "country_code": "US",
+      "country_name": "United States"
     },
     {
       "source": "BBC World",
@@ -227,15 +263,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
-      "title": "Biden blasts Trump 'vanity projects', calling him a 'loser' at fundraising event",
-      "url": "https://www.bbc.co.uk/news/articles/cy73mvn607do?at_medium=RSS&at_campaign=rss",
-      "summary": "The former US president took aim at his successor's projects in Washington DC, including a planned new White House ballroom.",
-      "published_at": "2026-06-29T12:04:30Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC Latin America",
       "title": "BBC at Venezuela baseball stadium sheltering earthquake survivors",
       "url": "https://www.bbc.co.uk/news/videos/c5yz392v508o?at_medium=RSS&at_campaign=rss",
@@ -324,15 +351,6 @@
       "published_at": "2026-06-28T21:16:30Z",
       "country_code": "ES",
       "country_name": "Spain"
-    },
-    {
-      "source": "BBC World",
-      "title": "Europe's heatwave linked to 1,300 deaths, WHO says, as Germany hits record 41.7C",
-      "url": "https://www.bbc.co.uk/news/articles/cn4d2vv935lo?at_medium=RSS&at_campaign=rss",
-      "summary": "WHO chief Tedros Adhanom Ghebreyesus warned that Europe is not prepared for high temperatures.",
-      "published_at": "2026-06-28T19:37:07Z",
-      "country_code": "DE",
-      "country_name": "Germany"
     },
     {
       "source": "BBC Europe",
@@ -960,7 +978,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 27
+      "news_count": 29
     },
     {
       "country_code": "VE",
@@ -970,7 +988,7 @@
     {
       "country_code": "DE",
       "country_name": "Germany",
-      "news_count": 11
+      "news_count": 10
     },
     {
       "country_code": "FR",
@@ -983,13 +1001,13 @@
       "news_count": 5
     },
     {
-      "country_code": "IR",
-      "country_name": "Iran",
-      "news_count": 4
-    },
-    {
       "country_code": "PK",
       "country_name": "Pakistan",
+      "news_count": 5
+    },
+    {
+      "country_code": "IR",
+      "country_name": "Iran",
       "news_count": 4
     },
     {
