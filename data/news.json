@@ -1,9 +1,27 @@
 {
-  "generated_at": "2026-06-29T23:31:21Z",
+  "generated_at": "2026-06-30T02:13:15Z",
   "articles": [
     {
+      "source": "BBC Asia",
+      "title": "Chinese tycoon sentenced to 30 years in US jail",
+      "url": "https://www.bbc.co.uk/news/articles/cjeg15vw3z9o?at_medium=RSS&at_campaign=rss",
+      "summary": "Guo Wengui branded himself as a China critic, gaining followers who backed his fraudulent schemes.",
+      "published_at": "2026-06-30T02:08:21Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
       "source": "BBC US & Canada",
-      "title": "'Football was always in our blood': Canada midfielder's journey to World Cup history",
+      "title": "What to know about the looming deadline on North American free trade",
+      "url": "https://www.bbc.co.uk/news/articles/czdejmqmrdgo?at_medium=RSS&at_campaign=rss",
+      "summary": "The US, Canada and Mexico were to reach an agreement on whether to extend their free trade pact by 1 July. All signs point to them blowing p…",
+      "published_at": "2026-06-29T23:32:52Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "'A perfect shot': This World Cup player's remarkable journey to a game-winning goal",
       "url": "https://www.bbc.co.uk/news/articles/cn4r0r0rylzo?at_medium=RSS&at_campaign=rss",
       "summary": "Canada's historic goal against South Africa was scored by Stephen Eustáquio, a product of the country's vibrant, football-obsessed Portugues…",
       "published_at": "2026-06-29T22:28:24Z",
@@ -74,7 +92,7 @@
       "country_name": "Pakistan"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "Trump's final appeal of E Jean Carroll sex abuse case rejected",
       "url": "https://www.bbc.co.uk/news/articles/cn8q2z5wpn2o?at_medium=RSS&at_campaign=rss",
       "summary": "The Supreme Court decision means the US president will now have to pay Carroll the $5m (£3.6m) in damages she had been awarded.",
@@ -686,15 +704,6 @@
       "country_name": "United Kingdom"
     },
     {
-      "source": "BBC Asia",
-      "title": "Sydney woman wakes from induced coma more than a week after shark attack",
-      "url": "https://www.bbc.co.uk/news/articles/cy8drk2dk3no?at_medium=RSS&at_campaign=rss",
-      "summary": "Leah Stewart, 34, had one of her arms amputated after she was bitten while swimming at Coogee Beach.",
-      "published_at": "2026-06-24T01:42:43Z",
-      "country_code": "AU",
-      "country_name": "Australia"
-    },
-    {
       "source": "BBC Europe",
       "title": "Temperatures hit record levels in western Europe",
       "url": "https://www.bbc.co.uk/news/videos/c30y6qe2qqno?at_medium=RSS&at_campaign=rss",
@@ -933,7 +942,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 20
+      "news_count": 22
     },
     {
       "country_code": "VE",
@@ -991,11 +1000,6 @@
       "news_count": 3
     },
     {
-      "country_code": "AU",
-      "country_name": "Australia",
-      "news_count": 2
-    },
-    {
       "country_code": "CA",
       "country_name": "Canada",
       "news_count": 2
@@ -1038,6 +1042,11 @@
     {
       "country_code": "AR",
       "country_name": "Argentina",
+      "news_count": 1
+    },
+    {
+      "country_code": "AU",
+      "country_name": "Australia",
       "news_count": 1
     },
     {
