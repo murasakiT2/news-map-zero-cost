@@ -1,6 +1,51 @@
 {
-  "generated_at": "2026-06-30T19:13:36Z",
+  "generated_at": "2026-06-30T21:11:09Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Thousands of anti-migrant protesters march in South Africa amid heavy police presence",
+      "url": "https://www.bbc.co.uk/news/articles/cy4eq1l184po?at_medium=RSS&at_campaign=rss",
+      "summary": "Foreigners have already left South Africa ahead of the deadline set by anti-migrant groups.",
+      "published_at": "2026-06-30T19:39:29Z",
+      "country_code": "ZA",
+      "country_name": "South Africa"
+    },
+    {
+      "source": "BBC World",
+      "title": "Americans react to Supreme Court upholding birthright citizenship",
+      "url": "https://www.bbc.co.uk/news/videos/c621d53wqw0o?at_medium=RSS&at_campaign=rss",
+      "summary": "The BBC asked Americans how they felt after the Supreme Court's ruling on citizenship for babies born in the US.",
+      "published_at": "2026-06-30T19:36:51Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Roof collapse kills 14 children at Pakistan tuition centre",
+      "url": "https://www.bbc.co.uk/news/articles/cr7x38lle1jo?at_medium=RSS&at_campaign=rss",
+      "summary": "Two people are taken into custody after the incident in the Kahna suburb of Lahore.",
+      "published_at": "2026-06-30T19:36:48Z",
+      "country_code": "PK",
+      "country_name": "Pakistan"
+    },
+    {
+      "source": "BBC World",
+      "title": "'Absolute madness': Row over plan to demolish Nazi bunker under Berlin",
+      "url": "https://www.bbc.co.uk/news/articles/cwy09753nq3o?at_medium=RSS&at_campaign=rss",
+      "summary": "City officials want to build flats on the city centre site but others say it should be preserved as part of Germany's history.",
+      "published_at": "2026-06-30T19:19:42Z",
+      "country_code": "DE",
+      "country_name": "Germany"
+    },
+    {
+      "source": "BBC World",
+      "title": "Australia sues Amazon for making allegedly unfair contracts with subscribers",
+      "url": "https://www.bbc.co.uk/news/articles/c20yz9rzwy0o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Australian Competition and Consumer Commission (ACCC) says Amazon has broken consumer protection law",
+      "published_at": "2026-06-30T18:59:19Z",
+      "country_code": "AU",
+      "country_name": "Australia"
+    },
     {
       "source": "BBC World",
       "title": "What are US and Japanese soldiers doing in the middle of the Australian bush?",
@@ -27,24 +72,6 @@
       "published_at": "2026-06-30T17:44:15Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "Roof collapse kills 14 children at Pakistan tuition centre",
-      "url": "https://www.bbc.co.uk/news/articles/cr7x38lle1jo?at_medium=RSS&at_campaign=rss",
-      "summary": "Two people are taken into custody after the incident in the Kahna suburb of Lahore.",
-      "published_at": "2026-06-30T17:21:09Z",
-      "country_code": "PK",
-      "country_name": "Pakistan"
-    },
-    {
-      "source": "BBC World",
-      "title": "Thousands of anti-migrant protesters march in South Africa amid heavy police presence",
-      "url": "https://www.bbc.co.uk/news/articles/cy4eq1l184po?at_medium=RSS&at_campaign=rss",
-      "summary": "Foreigners have already left South Africa ahead of the deadline set by anti-migrant groups.",
-      "published_at": "2026-06-30T17:10:51Z",
-      "country_code": "ZA",
-      "country_name": "South Africa"
     },
     {
       "source": "BBC World",
@@ -335,7 +362,7 @@
       "country_name": "Thailand"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "'You are Canadian heroes' - the forgotten hosts making World Cup history",
       "url": "https://www.bbc.co.uk/sport/football/articles/cvg4pen8xq7o?at_medium=RSS&at_campaign=rss",
       "summary": "Canada are making history at this World Cup with a run that is likely to change the face of football in the country forever.",
@@ -978,7 +1005,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 29
+      "news_count": 30
     },
     {
       "country_code": "VE",
@@ -988,7 +1015,7 @@
     {
       "country_code": "DE",
       "country_name": "Germany",
-      "news_count": 10
+      "news_count": 11
     },
     {
       "country_code": "FR",
@@ -1031,6 +1058,11 @@
       "news_count": 2
     },
     {
+      "country_code": "AU",
+      "country_name": "Australia",
+      "news_count": 2
+    },
+    {
       "country_code": "BR",
       "country_name": "Brazil",
       "news_count": 2
@@ -1068,11 +1100,6 @@
     {
       "country_code": "AE",
       "country_name": "United Arab Emirates",
-      "news_count": 1
-    },
-    {
-      "country_code": "AU",
-      "country_name": "Australia",
       "news_count": 1
     },
     {
