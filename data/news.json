@@ -1,6 +1,33 @@
 {
-  "generated_at": "2026-06-30T06:35:57Z",
+  "generated_at": "2026-06-30T10:23:47Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Heavy security in South Africa as anti-migrant protesters take to the streets",
+      "url": "https://www.bbc.co.uk/news/articles/cy4eq1l184po?at_medium=RSS&at_campaign=rss",
+      "summary": "Thousands of people have left South Africa ahead of Tuesday's deadline set by anti-migrant groups.",
+      "published_at": "2026-06-30T10:14:57Z",
+      "country_code": "ZA",
+      "country_name": "South Africa"
+    },
+    {
+      "source": "BBC World",
+      "title": "Founder of Asian super-app Gojek sentenced to years in jail for corruption",
+      "url": "https://www.bbc.co.uk/news/articles/c79yvw23yr9o?at_medium=RSS&at_campaign=rss",
+      "summary": "The case against Gojek founder Nadiem Makarim relates to a laptop deal made during his term as Indonesia's education minister.",
+      "published_at": "2026-06-30T09:50:58Z",
+      "country_code": "ID",
+      "country_name": "Indonesia"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "A new test for Democrats - where they stand on Israel",
+      "url": "https://www.bbc.co.uk/news/articles/cp9l7gmlkppo?at_medium=RSS&at_campaign=rss",
+      "summary": "The New York City primaries underlined divisions in the party over Gaza, with implications for the 2028 election.",
+      "published_at": "2026-06-30T09:30:04Z",
+      "country_code": "IL",
+      "country_name": "Israel"
+    },
     {
       "source": "BBC Asia",
       "title": "India's biggest share sales tell the story of a country glued to its phones",
@@ -48,7 +75,7 @@
     },
     {
       "source": "BBC US & Canada",
-      "title": "This unlikely World Cup star's historic goal was generations in the making",
+      "title": "Canada hero's historic World Cup goal was forged by years of family sacrifice",
       "url": "https://www.bbc.co.uk/news/articles/cn4r0r0rylzo?at_medium=RSS&at_campaign=rss",
       "summary": "Canada's goal against South Africa was scored by Stephen Eustáquio, a product of the country's vibrant, football-obsessed Portuguese communi…",
       "published_at": "2026-06-29T22:28:24Z",
@@ -102,15 +129,6 @@
     },
     {
       "source": "BBC World",
-      "title": "South African leader warns anti-migrant protesters ahead of unofficial deadline",
-      "url": "https://www.bbc.co.uk/news/articles/cy4eq1l184po?at_medium=RSS&at_campaign=rss",
-      "summary": "Thousands of people from other African countries have left South Africa ahead of Tuesday's deadline set by anti-migrant groups.",
-      "published_at": "2026-06-29T19:16:34Z",
-      "country_code": "ZA",
-      "country_name": "South Africa"
-    },
-    {
-      "source": "BBC World",
       "title": "Putin makes rare admission of fuel shortages caused by Ukrainian strikes",
       "url": "https://www.bbc.co.uk/news/articles/clyw31zvpgmo?at_medium=RSS&at_campaign=rss",
       "summary": "The Russian president acknowledged Ukraine's attacks were \"obviously creating problems\" but denied the shortages were \"critical\".",
@@ -142,6 +160,15 @@
       "url": "https://www.bbc.co.uk/news/articles/c872rjw17qpo?at_medium=RSS&at_campaign=rss",
       "summary": "A series of strikes over the weekend saw the US and Iran accuse each other of violating the ceasefire agreement.",
       "published_at": "2026-06-29T14:52:10Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "Watch: Biden calls Trump a 'loser' at fundraising event",
+      "url": "https://www.bbc.co.uk/news/videos/c20yzz0d7zyo?at_medium=RSS&at_campaign=rss",
+      "summary": "Former US President Joe Biden blasted President Donald Trump during a gala event, criticising what he described as \"vanity projects\" in Wash…",
+      "published_at": "2026-06-29T13:09:20Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -299,7 +326,7 @@
       "country_name": "United Kingdom"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Middle East",
       "title": "US and Iran exchange strikes and accuse each other of violating ceasefire",
       "url": "https://www.bbc.co.uk/news/articles/cdxdwkgqgq0o?at_medium=RSS&at_campaign=rss",
       "summary": "Iran says it has launched retaliatory attacks at US infrastructure in Kuwait and Bahrain after the US said it hit multiple targets across Ir…",
@@ -677,15 +704,6 @@
       "country_name": "Iran"
     },
     {
-      "source": "BBC US & Canada",
-      "title": "What does it mean to be an American in 2026?",
-      "url": "https://www.bbc.co.uk/news/videos/cwy0nvxvp09o?at_medium=RSS&at_campaign=rss",
-      "summary": "The BBC asked citizens across the United States about their identity ahead of the country's 250th anniversary.",
-      "published_at": "2026-06-24T05:00:44Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC Africa",
       "title": "Watch: Football fans celebrate in Ghana after draw with England",
       "url": "https://www.bbc.co.uk/news/videos/cg74djdk510o?at_medium=RSS&at_campaign=rss",
@@ -917,7 +935,7 @@
     {
       "country_code": "IL",
       "country_name": "Israel",
-      "news_count": 5
+      "news_count": 6
     },
     {
       "country_code": "IR",
@@ -1002,6 +1020,11 @@
     {
       "country_code": "CN",
       "country_name": "China",
+      "news_count": 1
+    },
+    {
+      "country_code": "ID",
+      "country_name": "Indonesia",
       "news_count": 1
     },
     {
