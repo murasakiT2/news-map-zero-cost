@@ -1,6 +1,33 @@
 {
-  "generated_at": "2026-07-01T18:21:11Z",
+  "generated_at": "2026-07-01T20:20:36Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Four die in Mexico City World Cup celebrations",
+      "url": "https://www.bbc.co.uk/news/articles/cx2xjwj8p39o?at_medium=RSS&at_campaign=rss",
+      "summary": "More than one million people took to the streets of Mexico's capital on Tuesday to mark the country's win over Ecuador.",
+      "published_at": "2026-07-01T20:15:59Z",
+      "country_code": "MX",
+      "country_name": "Mexico"
+    },
+    {
+      "source": "BBC World",
+      "title": "US blocks long-term renewal of North American trade deal",
+      "url": "https://www.bbc.co.uk/news/articles/ce8j2lmrvrdo?at_medium=RSS&at_campaign=rss",
+      "summary": "US blocks 16-year North America trade deal renewal, triggering annual rolling reviews",
+      "published_at": "2026-07-01T18:56:36Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Ukrainian charged in Germany over Nord Stream blasts",
+      "url": "https://www.bbc.co.uk/news/articles/c33yjk0ldkdo?at_medium=RSS&at_campaign=rss",
+      "summary": "Ukraine denies involvement in the case which may have serious implications for its relationship with Germany.",
+      "published_at": "2026-07-01T18:19:32Z",
+      "country_code": "UA",
+      "country_name": "Ukraine"
+    },
     {
       "source": "BBC Africa",
       "title": "Nigeria to seek compensation for property abandoned by citizens fleeing South Africa",
@@ -45,15 +72,6 @@
       "published_at": "2026-07-01T11:24:52Z",
       "country_code": "AU",
       "country_name": "Australia"
-    },
-    {
-      "source": "BBC World",
-      "title": "Three die in Mexico City World Cup celebrations",
-      "url": "https://www.bbc.co.uk/news/articles/cx2xjwj8p39o?at_medium=RSS&at_campaign=rss",
-      "summary": "More than one million people took to the streets of Mexico City on Tuesday to mark the country's win over Ecuador.",
-      "published_at": "2026-07-01T11:01:12Z",
-      "country_code": "MX",
-      "country_name": "Mexico"
     },
     {
       "source": "BBC US & Canada",
@@ -421,15 +439,6 @@
       "url": "https://www.bbc.co.uk/news/articles/c872rjw17qpo?at_medium=RSS&at_campaign=rss",
       "summary": "A series of strikes over the weekend saw the US and Iran accuse each other of violating the ceasefire agreement.",
       "published_at": "2026-06-29T14:52:10Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "Watch: Biden calls Trump a 'loser' at fundraising event",
-      "url": "https://www.bbc.co.uk/news/videos/c20yzz0d7zyo?at_medium=RSS&at_campaign=rss",
-      "summary": "Former US President Joe Biden blasted President Donald Trump during a gala event, criticising what he described as \"vanity projects\" in Wash…",
-      "published_at": "2026-06-29T13:09:20Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -1075,6 +1084,11 @@
       "news_count": 2
     },
     {
+      "country_code": "UA",
+      "country_name": "Ukraine",
+      "news_count": 2
+    },
+    {
       "country_code": "AE",
       "country_name": "United Arab Emirates",
       "news_count": 1
@@ -1132,11 +1146,6 @@
     {
       "country_code": "TH",
       "country_name": "Thailand",
-      "news_count": 1
-    },
-    {
-      "country_code": "UA",
-      "country_name": "Ukraine",
       "news_count": 1
     }
   ]
