@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-01T13:30:35Z",
+  "generated_at": "2026-07-01T16:14:36Z",
   "articles": [
     {
       "source": "BBC World",
-      "title": "Canada will take part in Eurovision Song Contest 2027",
+      "title": "Canada to make Eurovision Song Contest debut in 2027",
       "url": "https://www.bbc.co.uk/news/articles/c8x2y2vwqn1o?at_medium=RSS&at_campaign=rss",
       "summary": "The country becomes the first new participant since Australia joined the contest in 2015.",
       "published_at": "2026-07-01T12:30:56Z",
@@ -147,15 +147,6 @@
     },
     {
       "source": "BBC World",
-      "title": "Australia sues Amazon for making allegedly unfair contracts with subscribers",
-      "url": "https://www.bbc.co.uk/news/articles/c20yz9rzwy0o?at_medium=RSS&at_campaign=rss",
-      "summary": "The Australian Competition and Consumer Commission (ACCC) says Amazon has broken consumer protection law",
-      "published_at": "2026-07-01T01:04:16Z",
-      "country_code": "AU",
-      "country_name": "Australia"
-    },
-    {
-      "source": "BBC World",
       "title": "Afghan Taliban launch strikes on border with Pakistan as tensions escalate",
       "url": "https://www.bbc.co.uk/news/articles/c621g086ek4o?at_medium=RSS&at_campaign=rss",
       "summary": "Pakistan's military says it shot down four rudimentary drones and will respond to any further provocation.",
@@ -205,15 +196,6 @@
       "url": "https://www.bbc.co.uk/news/articles/c4gyqeqe8xyo?at_medium=RSS&at_campaign=rss",
       "summary": "The birthright ruling brings to an end a Supreme Court term that has delivered the president some key victories.",
       "published_at": "2026-06-30T22:29:47Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "US Supreme Court upholds bans on transgender athletes in female school and college sports",
-      "url": "https://www.bbc.co.uk/news/articles/cj40x888d9go?at_medium=RSS&at_campaign=rss",
-      "summary": "President Trump called the ruling a \"big win\", while an LGBT group said it was \"heartbreaking\".",
-      "published_at": "2026-06-30T21:24:15Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -281,16 +263,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC US & Canada",
-      "title": "Missing US congressman explains mysterious four-month absence",
-      "url": "https://www.bbc.co.uk/news/articles/c9q2prq8301o?at_medium=RSS&at_campaign=rss",
-      "summary": "New Jersey Republican Tom Kean Jr, told fellow lawmakers that depression was the reason he had been away since March.",
-      "published_at": "2026-06-30T17:01:02Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "Almost 60,000 far-right extremists in Germany, intelligence agency says",
       "url": "https://www.bbc.co.uk/news/articles/crlw4ng79wzo?at_medium=RSS&at_campaign=rss",
       "summary": "More than a quarter of those identified are believed to be violent, Germany's domestic intelligence agency says.",
@@ -1005,7 +978,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 32
+      "news_count": 30
     },
     {
       "country_code": "DE",
@@ -1038,11 +1011,6 @@
       "news_count": 4
     },
     {
-      "country_code": "AU",
-      "country_name": "Australia",
-      "news_count": 3
-    },
-    {
       "country_code": "CN",
       "country_name": "China",
       "news_count": 3
@@ -1065,6 +1033,11 @@
     {
       "country_code": "AR",
       "country_name": "Argentina",
+      "news_count": 2
+    },
+    {
+      "country_code": "AU",
+      "country_name": "Australia",
       "news_count": 2
     },
     {
