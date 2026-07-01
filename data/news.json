@@ -1,6 +1,33 @@
 {
-  "generated_at": "2026-06-30T23:57:12Z",
+  "generated_at": "2026-07-01T02:57:36Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Anthropic says US lifts export ban on its advanced AI tools",
+      "url": "https://www.bbc.co.uk/news/articles/cdr42623e1do?at_medium=RSS&at_campaign=rss",
+      "summary": "Fable and Mythos were abruptly suspended in June over concerns that they could be used by hackers.",
+      "published_at": "2026-07-01T01:13:36Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Australia sues Amazon for making allegedly unfair contracts with subscribers",
+      "url": "https://www.bbc.co.uk/news/articles/c20yz9rzwy0o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Australian Competition and Consumer Commission (ACCC) says Amazon has broken consumer protection law",
+      "published_at": "2026-07-01T01:04:16Z",
+      "country_code": "AU",
+      "country_name": "Australia"
+    },
+    {
+      "source": "BBC World",
+      "title": "Afghan Taliban launch strikes on border with Pakistan as tensions escalate",
+      "url": "https://www.bbc.co.uk/news/articles/c621g086ek4o?at_medium=RSS&at_campaign=rss",
+      "summary": "Pakistan's military says it shot down four rudimentary drones and will respond to any further provocation.",
+      "published_at": "2026-06-30T23:49:19Z",
+      "country_code": "PK",
+      "country_name": "Pakistan"
+    },
     {
       "source": "BBC Asia",
       "title": "Chinese tycoon sentenced to 30 years in US jail",
@@ -18,6 +45,15 @@
       "published_at": "2026-06-30T23:41:11Z",
       "country_code": "US",
       "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "A plane crashed into a tower in Beijing but China is not saying what happened",
+      "url": "https://www.bbc.co.uk/news/articles/crlwe28dz44o?at_medium=RSS&at_campaign=rss",
+      "summary": "The collision left holes on the side of the tower, but Beijing has scrubbed other visible traces of the incident.",
+      "published_at": "2026-06-30T23:24:05Z",
+      "country_code": "CN",
+      "country_name": "China"
     },
     {
       "source": "BBC World",
@@ -93,15 +129,6 @@
     },
     {
       "source": "BBC World",
-      "title": "Australia sues Amazon for making allegedly unfair contracts with subscribers",
-      "url": "https://www.bbc.co.uk/news/articles/c20yz9rzwy0o?at_medium=RSS&at_campaign=rss",
-      "summary": "The Australian Competition and Consumer Commission (ACCC) says Amazon has broken consumer protection law",
-      "published_at": "2026-06-30T18:59:19Z",
-      "country_code": "AU",
-      "country_name": "Australia"
-    },
-    {
-      "source": "BBC World",
       "title": "What are US and Japanese soldiers doing in the middle of the Australian bush?",
       "url": "https://www.bbc.co.uk/news/videos/cyv09p2vy87o?at_medium=RSS&at_campaign=rss",
       "summary": "The BBC's Katy Watson explains why troops are training in remote Australia, thousands of kilometres from any major conflicts.",
@@ -128,7 +155,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "Missing US congressman explains mysterious four-month absence",
       "url": "https://www.bbc.co.uk/news/articles/c9q2prq8301o?at_medium=RSS&at_campaign=rss",
       "summary": "New Jersey Republican Tom Kean Jr, told fellow lawmakers that depression was the reason he had been away since March.",
@@ -1041,7 +1068,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 32
+      "news_count": 33
     },
     {
       "country_code": "VE",
@@ -1059,13 +1086,13 @@
       "news_count": 6
     },
     {
-      "country_code": "IL",
-      "country_name": "Israel",
-      "news_count": 5
-    },
-    {
       "country_code": "PK",
       "country_name": "Pakistan",
+      "news_count": 6
+    },
+    {
+      "country_code": "IL",
+      "country_name": "Israel",
       "news_count": 5
     },
     {
@@ -1114,6 +1141,11 @@
       "news_count": 2
     },
     {
+      "country_code": "CN",
+      "country_name": "China",
+      "news_count": 2
+    },
+    {
       "country_code": "ES",
       "country_name": "Spain",
       "news_count": 2
@@ -1136,11 +1168,6 @@
     {
       "country_code": "AE",
       "country_name": "United Arab Emirates",
-      "news_count": 1
-    },
-    {
-      "country_code": "CN",
-      "country_name": "China",
       "news_count": 1
     },
     {
