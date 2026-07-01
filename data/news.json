@@ -1,8 +1,35 @@
 {
-  "generated_at": "2026-07-01T07:08:12Z",
+  "generated_at": "2026-07-01T10:51:45Z",
   "articles": [
     {
-      "source": "BBC Africa",
+      "source": "BBC US & Canada",
+      "title": "Dangerous heatwave to hit US ahead of holiday weekend",
+      "url": "https://www.bbc.co.uk/news/articles/cm2j8kd0dk4o?at_medium=RSS&at_campaign=rss",
+      "summary": "North America will bake in extreme temperatures amid celebrations for the United States' 250th birthday.",
+      "published_at": "2026-07-01T10:45:49Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Three killed in Mexico City World Cup celebrations",
+      "url": "https://www.bbc.co.uk/news/articles/cx2xjwj8p39o?at_medium=RSS&at_campaign=rss",
+      "summary": "More than one million people took to the streets of Mexico City on Tuesday to mark the country's win over Ecuador.",
+      "published_at": "2026-07-01T10:12:48Z",
+      "country_code": "MX",
+      "country_name": "Mexico"
+    },
+    {
+      "source": "BBC Latin America",
+      "title": "Mexico fans celebrate as team secure World Cup knockout victory",
+      "url": "https://www.bbc.co.uk/news/videos/cvgmv4v655go?at_medium=RSS&at_campaign=rss",
+      "summary": "Mexico has secured its place in the last 16 of the World Cup in their first knockout-stage victory since 1986.",
+      "published_at": "2026-07-01T10:03:30Z",
+      "country_code": "MX",
+      "country_name": "Mexico"
+    },
+    {
+      "source": "BBC World",
       "title": "Sudan's RSF committed crimes against humanity in el-Fasher, Amnesty says",
       "url": "https://www.bbc.co.uk/news/articles/cz9lqvx0z1vo?at_medium=RSS&at_campaign=rss",
       "summary": "The Amnesty report adds to evidence of atrocities in el-Fasher, which the UN says bore the hallmarks of genocide.",
@@ -146,15 +173,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC US & Canada",
-      "title": "Dangerous heatwave to hit US ahead of holiday weekend",
-      "url": "https://www.bbc.co.uk/news/articles/cm2j8kd0dk4o?at_medium=RSS&at_campaign=rss",
-      "summary": "North America will bake in extreme temperatures amid celebrations for the United States' 250th birthday.",
-      "published_at": "2026-06-30T22:08:08Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC World",
       "title": "US Supreme Court upholds bans on transgender athletes in female school and college sports",
       "url": "https://www.bbc.co.uk/news/articles/cj40x888d9go?at_medium=RSS&at_campaign=rss",
@@ -254,7 +272,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "Supreme Court's birthright ruling is major blow to Trump",
       "url": "https://www.bbc.co.uk/news/videos/c9w2nprzq5ro?at_medium=RSS&at_campaign=rss",
       "summary": "The BBC’s Gary O’Donoghue explains what the court's landmark ruling means for the US president.",
@@ -342,24 +360,6 @@
       "published_at": "2026-06-29T22:28:24Z",
       "country_code": "ZA",
       "country_name": "South Africa"
-    },
-    {
-      "source": "BBC Latin America",
-      "title": "45 minutes from Brazil 'humiliation' - but 'Crafty Carlo' does it again",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c17yzyy8ldko?at_medium=RSS&at_campaign=rss",
-      "summary": "Half-time in Houston and Brazil's players trudged off facing another early World Cup exit. But we should have known better than to doubt Car…",
-      "published_at": "2026-06-29T22:14:31Z",
-      "country_code": "BR",
-      "country_name": "Brazil"
-    },
-    {
-      "source": "BBC World",
-      "title": "'No one move!': The agonising silence as Venezuela rescuers listen for survivors",
-      "url": "https://www.bbc.co.uk/news/articles/c78yvq72dg7o?at_medium=RSS&at_campaign=rss",
-      "summary": "With tens of thousands of people still believed missing, teams listen for signs of life beneath the rubble.",
-      "published_at": "2026-06-29T21:19:28Z",
-      "country_code": "VE",
-      "country_name": "Venezuela"
     },
     {
       "source": "BBC Latin America",
@@ -767,15 +767,6 @@
       "country_name": "Singapore"
     },
     {
-      "source": "BBC Latin America",
-      "title": "'I thought I was going to die' - Venezuelans describe earthquake panic",
-      "url": "https://www.bbc.co.uk/news/articles/czj8vjvmz38o?at_medium=RSS&at_campaign=rss",
-      "summary": "Buildings were flattened in the capital Caracas, where voices have been heard calling from the rubble.",
-      "published_at": "2026-06-25T21:11:07Z",
-      "country_code": "VE",
-      "country_name": "Venezuela"
-    },
-    {
       "source": "BBC Europe",
       "title": "Europe's 'punishing' record-breaking heatwave shifts east",
       "url": "https://www.bbc.co.uk/news/videos/cgk6zrry623o?at_medium=RSS&at_campaign=rss",
@@ -1046,7 +1037,7 @@
     {
       "country_code": "VE",
       "country_name": "Venezuela",
-      "news_count": 14
+      "news_count": 12
     },
     {
       "country_code": "DE",
@@ -1086,6 +1077,11 @@
     {
       "country_code": "KR",
       "country_name": "South Korea",
+      "news_count": 3
+    },
+    {
+      "country_code": "MX",
+      "country_name": "Mexico",
       "news_count": 3
     },
     {
@@ -1134,11 +1130,6 @@
       "news_count": 1
     },
     {
-      "country_code": "BR",
-      "country_name": "Brazil",
-      "news_count": 1
-    },
-    {
       "country_code": "ES",
       "country_name": "Spain",
       "news_count": 1
@@ -1156,11 +1147,6 @@
     {
       "country_code": "KE",
       "country_name": "Kenya",
-      "news_count": 1
-    },
-    {
-      "country_code": "MX",
-      "country_name": "Mexico",
       "news_count": 1
     },
     {
