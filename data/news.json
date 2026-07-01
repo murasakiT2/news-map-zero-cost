@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-01T20:20:36Z",
+  "generated_at": "2026-07-01T21:56:35Z",
   "articles": [
     {
       "source": "BBC World",
@@ -29,7 +29,7 @@
       "country_name": "Ukraine"
     },
     {
-      "source": "BBC Africa",
+      "source": "BBC World",
       "title": "Nigeria to seek compensation for property abandoned by citizens fleeing South Africa",
       "url": "https://www.bbc.co.uk/news/articles/c9d2n8elwdlo?at_medium=RSS&at_campaign=rss",
       "summary": "Nigeria's High Commissioner says businesses and properties left behind by returnees are being documented.",
@@ -38,8 +38,8 @@
       "country_name": "South Africa"
     },
     {
-      "source": "BBC US & Canada",
-      "title": "Bibles, Home Alone and perfume: Six surprising ways Trump made money in 2025",
+      "source": "BBC World",
+      "title": "Bibles, Home Alone and perfume: Six things about how Trump made money in 2025",
       "url": "https://www.bbc.co.uk/news/articles/cy9rg133lrjo?at_medium=RSS&at_campaign=rss",
       "summary": "Official documents show the US president made billions of dollars as he returned to the White House.",
       "published_at": "2026-07-01T17:22:25Z",
@@ -63,6 +63,15 @@
       "published_at": "2026-07-01T12:30:56Z",
       "country_code": "AU",
       "country_name": "Australia"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "Has football fever taken hold in the US?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c4gyr0y37ndo?at_medium=RSS&at_campaign=rss",
+      "summary": "With the World Cup now three weeks old, BBC Sport's reporters in the US look at how their perceptions have changed.",
+      "published_at": "2026-07-01T11:57:37Z",
+      "country_code": "US",
+      "country_name": "United States"
     },
     {
       "source": "BBC Africa",
@@ -111,7 +120,7 @@
     },
     {
       "source": "BBC World",
-      "title": "Three-year-old rescued and taken to hospital six days after Venezuela quake",
+      "title": "Two-year-old rescued and taken to hospital six days after Venezuela quake",
       "url": "https://www.bbc.co.uk/news/articles/c1jykwk8n18o?at_medium=RSS&at_campaign=rss",
       "summary": "Video footage shows rescuers cheering as the child is pulled from rubble in La Guaira state.",
       "published_at": "2026-07-01T06:03:08Z",
@@ -299,7 +308,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "What to know about the looming deadline on North American free trade",
       "url": "https://www.bbc.co.uk/news/articles/czdejmqmrdgo?at_medium=RSS&at_campaign=rss",
       "summary": "The US, Canada and Mexico were to reach an agreement on whether to extend their free trade pact by 1 July. All signs point to them blowing p…",
@@ -360,15 +369,6 @@
       "published_at": "2026-06-30T09:30:04Z",
       "country_code": "IL",
       "country_name": "Israel"
-    },
-    {
-      "source": "BBC World",
-      "title": "Why are South Korean fans so angry at their football coach?",
-      "url": "https://www.bbc.co.uk/news/videos/c4gyje1p0l9o?at_medium=RSS&at_campaign=rss",
-      "summary": "Hong Myung-bo has resigned after South Korea failed to advance to the World Cup knockout stages.",
-      "published_at": "2026-06-30T08:26:11Z",
-      "country_code": "KR",
-      "country_name": "South Korea"
     },
     {
       "source": "BBC Asia",
@@ -996,7 +996,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 31
+      "news_count": 32
     },
     {
       "country_code": "VE",
@@ -1039,11 +1039,6 @@
       "news_count": 3
     },
     {
-      "country_code": "KR",
-      "country_name": "South Korea",
-      "news_count": 3
-    },
-    {
       "country_code": "AR",
       "country_name": "Argentina",
       "news_count": 2
@@ -1066,6 +1061,11 @@
     {
       "country_code": "IT",
       "country_name": "Italy",
+      "news_count": 2
+    },
+    {
+      "country_code": "KR",
+      "country_name": "South Korea",
       "news_count": 2
     },
     {
