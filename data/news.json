@@ -1,6 +1,33 @@
 {
-  "generated_at": "2026-07-01T16:14:36Z",
+  "generated_at": "2026-07-01T18:21:11Z",
   "articles": [
+    {
+      "source": "BBC Africa",
+      "title": "Nigeria to seek compensation for property abandoned by citizens fleeing South Africa",
+      "url": "https://www.bbc.co.uk/news/articles/c9d2n8elwdlo?at_medium=RSS&at_campaign=rss",
+      "summary": "Nigeria's High Commissioner says businesses and properties left behind by returnees are being documented.",
+      "published_at": "2026-07-01T17:40:29Z",
+      "country_code": "ZA",
+      "country_name": "South Africa"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "Bibles, Home Alone and perfume: Six surprising ways Trump made money in 2025",
+      "url": "https://www.bbc.co.uk/news/articles/cy9rg133lrjo?at_medium=RSS&at_campaign=rss",
+      "summary": "Official documents show the US president made billions of dollars as he returned to the White House.",
+      "published_at": "2026-07-01T17:22:25Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Syria's president names final 70 lawmakers to new post-Assad parliament",
+      "url": "https://www.bbc.co.uk/news/articles/c1jyk4985xwo?at_medium=RSS&at_campaign=rss",
+      "summary": "Fifteen women are appointed, after only six female candidates were selected by regional electoral colleges last October.",
+      "published_at": "2026-07-01T16:44:58Z",
+      "country_code": "SY",
+      "country_name": "Syria"
+    },
     {
       "source": "BBC World",
       "title": "Canada to make Eurovision Song Contest debut in 2027",
@@ -200,7 +227,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Africa",
       "title": "Thousands of anti-migrant protesters march in South Africa amid heavy police presence",
       "url": "https://www.bbc.co.uk/news/articles/cy4eq1l184po?at_medium=RSS&at_campaign=rss",
       "summary": "Foreigners have already left South Africa ahead of the deadline set by anti-migrant groups.",
@@ -236,7 +263,7 @@
       "country_name": "Mexico"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "'Absolute madness': Row over plan to demolish Nazi bunker under Berlin",
       "url": "https://www.bbc.co.uk/news/articles/cwy09753nq3o?at_medium=RSS&at_campaign=rss",
       "summary": "City officials want to build flats on the city centre site but others say it should be preserved as part of Germany's history.",
@@ -506,15 +533,6 @@
       "country_name": "Saudi Arabia"
     },
     {
-      "source": "BBC Africa",
-      "title": "The lowdown on DR Congo",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cn4rden9de2o?at_medium=RSS&at_campaign=rss",
-      "summary": "BBC Sport brings you all the information you need on DR Congo, England's opponents on Wednesday in the World Cup Round of 32.",
-      "published_at": "2026-06-28T10:58:54Z",
-      "country_code": "GB",
-      "country_name": "United Kingdom"
-    },
-    {
       "source": "BBC Middle East",
       "title": "US and Iran exchange strikes and accuse each other of violating ceasefire",
       "url": "https://www.bbc.co.uk/news/articles/cdxdwkgqgq0o?at_medium=RSS&at_campaign=rss",
@@ -693,15 +711,6 @@
       "published_at": "2026-06-26T02:12:07Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC Africa",
-      "title": "'We could call it racist' - Ivory Coast boss sad at Schweinsteiger comments",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cx2x0ev2deqo?at_medium=RSS&at_campaign=rss",
-      "summary": "Ivory Coast boss Emerse Fae says comments from ex-Germany midfielder Bastian Schweinsteiger about their \"wild\" playing style could be consid…",
-      "published_at": "2026-06-26T00:21:34Z",
-      "country_code": "DE",
-      "country_name": "Germany"
     },
     {
       "source": "BBC Asia",
@@ -978,17 +987,17 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 30
-    },
-    {
-      "country_code": "DE",
-      "country_name": "Germany",
-      "news_count": 11
+      "news_count": 31
     },
     {
       "country_code": "VE",
       "country_name": "Venezuela",
       "news_count": 11
+    },
+    {
+      "country_code": "DE",
+      "country_name": "Germany",
+      "news_count": 10
     },
     {
       "country_code": "IL",
@@ -1011,23 +1020,18 @@
       "news_count": 4
     },
     {
+      "country_code": "ZA",
+      "country_name": "South Africa",
+      "news_count": 4
+    },
+    {
       "country_code": "CN",
       "country_name": "China",
       "news_count": 3
     },
     {
-      "country_code": "GB",
-      "country_name": "United Kingdom",
-      "news_count": 3
-    },
-    {
       "country_code": "KR",
       "country_name": "South Korea",
-      "news_count": 3
-    },
-    {
-      "country_code": "ZA",
-      "country_name": "South Africa",
       "news_count": 3
     },
     {
@@ -1038,6 +1042,11 @@
     {
       "country_code": "AU",
       "country_name": "Australia",
+      "news_count": 2
+    },
+    {
+      "country_code": "GB",
+      "country_name": "United Kingdom",
       "news_count": 2
     },
     {
@@ -1113,6 +1122,11 @@
     {
       "country_code": "SD",
       "country_name": "Sudan",
+      "news_count": 1
+    },
+    {
+      "country_code": "SY",
+      "country_name": "Syria",
       "news_count": 1
     },
     {
