@@ -1,23 +1,32 @@
 {
-  "generated_at": "2026-07-02T20:13:55Z",
+  "generated_at": "2026-07-02T21:40:06Z",
   "articles": [
     {
       "source": "BBC World",
       "title": "Former Olympian indicted for allegedly vandalising Washington Reflecting Pool",
       "url": "https://www.bbc.co.uk/news/articles/c2ky3p9jlveo?at_medium=RSS&at_campaign=rss",
       "summary": "US authorities charged him with property destruction after renovations championed by President Donald Trump appeared to go awry.",
-      "published_at": "2026-07-02T19:48:21Z",
+      "published_at": "2026-07-02T20:34:52Z",
       "country_code": "US",
       "country_name": "United States"
     },
     {
       "source": "BBC US & Canada",
-      "title": "Dangerous US heatwave looms over 4 July holiday, World Cup and Swift wedding",
+      "title": "Dangerous heatwave scorches US ahead of Fourth of July holiday",
       "url": "https://www.bbc.co.uk/news/articles/cevlkzer7vdo?at_medium=RSS&at_campaign=rss",
-      "summary": "The soaring temperatures are raising concerns as President Donald Trump hosts America's 250th birthday celebrations and multiple World cup m…",
-      "published_at": "2026-07-02T18:56:36Z",
+      "summary": "Millions are enduring dangerous heat and humidity, with temperatures expected to stay at 38C (100F) for several days.",
+      "published_at": "2026-07-02T20:28:55Z",
       "country_code": "US",
       "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "'Most massive' Russian attack on Kyiv kills at least 27",
+      "url": "https://www.bbc.co.uk/news/articles/c4gyv05gk4do?at_medium=RSS&at_campaign=rss",
+      "summary": "The latest barrage deployed the largest number of weapons on the capital and hit locations over a wide area.",
+      "published_at": "2026-07-02T20:18:14Z",
+      "country_code": "UA",
+      "country_name": "Ukraine"
     },
     {
       "source": "BBC World",
@@ -27,15 +36,6 @@
       "published_at": "2026-07-02T18:43:07Z",
       "country_code": "ZA",
       "country_name": "South Africa"
-    },
-    {
-      "source": "BBC World",
-      "title": "'Most massive' Russian attack on Kyiv kills at least 25",
-      "url": "https://www.bbc.co.uk/news/articles/c4gyv05gk4do?at_medium=RSS&at_campaign=rss",
-      "summary": "The latest barrage deployed the largest number of weapons on the capital and hit locations over a wide area.",
-      "published_at": "2026-07-02T18:35:36Z",
-      "country_code": "UA",
-      "country_name": "Ukraine"
     },
     {
       "source": "BBC World",
@@ -70,15 +70,6 @@
       "url": "https://www.bbc.co.uk/news/articles/c70yd58y27yo?at_medium=RSS&at_campaign=rss",
       "summary": "The US has confirmed it will not extend the agreement for another 16 years, but stopped short of more dramatic action.",
       "published_at": "2026-07-02T13:43:39Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "World Cup boom falters as US hospitality jobs fall in June",
-      "url": "https://www.bbc.co.uk/news/articles/cr471w6ykxno?at_medium=RSS&at_campaign=rss",
-      "summary": "There had been early signs of a jobs boom from the tournament, but hospitality jobs declined in June.",
-      "published_at": "2026-07-02T13:36:04Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -488,15 +479,6 @@
       "country_name": "Argentina"
     },
     {
-      "source": "BBC World",
-      "title": "Canadians share hopes and wishes for America's 250th birthday",
-      "url": "https://www.bbc.co.uk/news/videos/cjeg1g82gz8o?at_medium=RSS&at_campaign=rss",
-      "summary": "We asked Canadians across the country what they would say and give to their southern neighbour.",
-      "published_at": "2026-06-30T12:21:38Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC Asia",
       "title": "Founder of Asian super-app Gojek sentenced to years in jail for corruption",
       "url": "https://www.bbc.co.uk/news/articles/c79yvw23yr9o?at_medium=RSS&at_campaign=rss",
@@ -723,15 +705,6 @@
     },
     {
       "source": "BBC Africa",
-      "title": "How Cape Verde stunned World Cup to set up Argentina tie",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c0mypzl7v2xo?at_medium=RSS&at_campaign=rss",
-      "summary": "How has a group of islands with just 525,000 inhabitants made it to the knockout rounds of the World Cup?",
-      "published_at": "2026-06-27T03:41:58Z",
-      "country_code": "AR",
-      "country_name": "Argentina"
-    },
-    {
-      "source": "BBC Africa",
       "title": "'The fairytale continues!' Emotional scenes as Cape Verde qualify for last 32",
       "url": "https://www.bbc.co.uk/sport/football/videos/cx2d8gvdlr0o?at_medium=RSS&at_campaign=rss",
       "summary": "Jubilation and tears among Cape Verde fans and players as they confirm their 'miracle' qualification for the last 32 of the World Cup after …",
@@ -810,6 +783,15 @@
       "published_at": "2026-06-25T22:19:08Z",
       "country_code": "SG",
       "country_name": "Singapore"
+    },
+    {
+      "source": "BBC Europe",
+      "title": "Europe's 'punishing' record-breaking heatwave shifts east",
+      "url": "https://www.bbc.co.uk/news/videos/cgk6zrry623o?at_medium=RSS&at_campaign=rss",
+      "summary": "BBC Berlin correspondent Jessica Parker on what's next for the weather in Europe",
+      "published_at": "2026-06-25T19:17:39Z",
+      "country_code": "DE",
+      "country_name": "Germany"
     },
     {
       "source": "BBC Africa",
@@ -1005,17 +987,17 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 33
+      "news_count": 31
+    },
+    {
+      "country_code": "DE",
+      "country_name": "Germany",
+      "news_count": 9
     },
     {
       "country_code": "VE",
       "country_name": "Venezuela",
       "news_count": 9
-    },
-    {
-      "country_code": "DE",
-      "country_name": "Germany",
-      "news_count": 8
     },
     {
       "country_code": "CN",
@@ -1056,11 +1038,6 @@
       "country_code": "MX",
       "country_name": "Mexico",
       "news_count": 3
-    },
-    {
-      "country_code": "AR",
-      "country_name": "Argentina",
-      "news_count": 2
     },
     {
       "country_code": "BE",
@@ -1115,6 +1092,11 @@
     {
       "country_code": "AE",
       "country_name": "United Arab Emirates",
+      "news_count": 1
+    },
+    {
+      "country_code": "AR",
+      "country_name": "Argentina",
       "news_count": 1
     },
     {
