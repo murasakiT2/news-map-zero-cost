@@ -1,14 +1,32 @@
 {
-  "generated_at": "2026-07-02T17:25:40Z",
+  "generated_at": "2026-07-02T18:54:21Z",
   "articles": [
     {
       "source": "BBC World",
-      "title": "'Most massive' Russian attack on Kyiv kills at least 21",
+      "title": "Killers of British couple in South Africa sentenced to life",
+      "url": "https://www.bbc.co.uk/news/articles/cvgm49j9692o?at_medium=RSS&at_campaign=rss",
+      "summary": "The pair had been collecting rare plants and seeds before their bodies were found days later in a river.",
+      "published_at": "2026-07-02T18:43:07Z",
+      "country_code": "ZA",
+      "country_name": "South Africa"
+    },
+    {
+      "source": "BBC World",
+      "title": "'Most massive' Russian attack on Kyiv kills at least 25",
       "url": "https://www.bbc.co.uk/news/articles/c4gyv05gk4do?at_medium=RSS&at_campaign=rss",
       "summary": "The latest barrage deployed the largest number of weapons on the capital and hit locations over a wide area.",
-      "published_at": "2026-07-02T16:15:31Z",
+      "published_at": "2026-07-02T18:35:36Z",
       "country_code": "UA",
       "country_name": "Ukraine"
+    },
+    {
+      "source": "BBC World",
+      "title": "Bomb blast at Damascus cafe kills six, Syrian state media say",
+      "url": "https://www.bbc.co.uk/news/articles/cn0vwxyz40zo?at_medium=RSS&at_campaign=rss",
+      "summary": "There was no immediate claim for the bombing at a cafe close to the Palace of Justice, a major government building.",
+      "published_at": "2026-07-02T17:56:18Z",
+      "country_code": "SY",
+      "country_name": "Syria"
     },
     {
       "source": "BBC World",
@@ -200,7 +218,7 @@
       "country_name": "China"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Latin America",
       "title": "Four die in Mexico City World Cup celebrations",
       "url": "https://www.bbc.co.uk/news/articles/cx2xjwj8p39o?at_medium=RSS&at_campaign=rss",
       "summary": "More than one million people took to the streets of Mexico's capital on Tuesday to mark the country's win over Ecuador.",
@@ -227,7 +245,7 @@
       "country_name": "Ukraine"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Africa",
       "title": "Nigeria to seek compensation for property abandoned by citizens fleeing South Africa",
       "url": "https://www.bbc.co.uk/news/articles/c9d2n8elwdlo?at_medium=RSS&at_campaign=rss",
       "summary": "Nigeria's High Commissioner says businesses and properties left behind by returnees are being documented.",
@@ -270,15 +288,6 @@
       "published_at": "2026-07-01T11:57:37Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC Africa",
-      "title": "Egypt optimistic Salah will be fit to face Australia",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ce8kwpgkpeno?at_medium=RSS&at_campaign=rss",
-      "summary": "Sources inside the Egypt camp say Mohamed Salah is winning his race to overcome a hamstring injury and play in Friday's last-32 game in Dall…",
-      "published_at": "2026-07-01T11:24:52Z",
-      "country_code": "AU",
-      "country_name": "Australia"
     },
     {
       "source": "BBC Latin America",
@@ -821,15 +830,6 @@
       "country_name": "Philippines"
     },
     {
-      "source": "BBC Middle East",
-      "title": "UN nuclear chief says inspectors will visit Iran sites as part of war deal",
-      "url": "https://www.bbc.co.uk/news/articles/cpd395zv81vo?at_medium=RSS&at_campaign=rss",
-      "summary": "Rafael Grossi says the IAEA is \"working on modalities\" but an Iranian minister says such access would only be part of a final deal with the …",
-      "published_at": "2026-06-24T17:31:48Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC Europe",
       "title": "Air conditioning creates political divide after France records hottest day",
       "url": "https://www.bbc.co.uk/news/articles/c4gyqldl3p5o?at_medium=RSS&at_campaign=rss",
@@ -858,19 +858,10 @@
     },
     {
       "source": "BBC Middle East",
-      "title": "Israeli troops kill two in south Lebanon after lull in fighting, authorities say",
-      "url": "https://www.bbc.co.uk/news/articles/c36ykpw0yego?at_medium=RSS&at_campaign=rss",
-      "summary": "Israel's military says the two men were Hezbollah operatives, but the Iran-backed group accuses it of a ceasefire violation.",
-      "published_at": "2026-06-23T16:47:45Z",
-      "country_code": "IL",
-      "country_name": "Israel"
-    },
-    {
-      "source": "BBC Middle East",
-      "title": "Dozens of ships head through Strait of Hormuz after US-Iran deal",
-      "url": "https://www.bbc.co.uk/news/articles/cx23rnzdgl8o?at_medium=RSS&at_campaign=rss",
-      "summary": "Traffic in the waterway has risen since the US and Iran signed a deal aimed at ending the war, including 42 ships on Saturday alone.",
-      "published_at": "2026-06-23T14:55:31Z",
+      "title": "Why was JD Vance in a luxury Swiss resort for talks with Iran?",
+      "url": "https://www.bbc.co.uk/news/videos/c4gyenl6nz0o?at_medium=RSS&at_campaign=rss",
+      "summary": "BBC correspondent Jessica Parker explains some key points of the direct talks between the US vice-president and Iran.",
+      "published_at": "2026-06-23T05:38:36Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -996,7 +987,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 32
+      "news_count": 31
     },
     {
       "country_code": "VE",
@@ -1019,11 +1010,6 @@
       "news_count": 4
     },
     {
-      "country_code": "IL",
-      "country_name": "Israel",
-      "news_count": 4
-    },
-    {
       "country_code": "IR",
       "country_name": "Iran",
       "news_count": 4
@@ -1034,8 +1020,18 @@
       "news_count": 4
     },
     {
+      "country_code": "ZA",
+      "country_name": "South Africa",
+      "news_count": 4
+    },
+    {
       "country_code": "FR",
       "country_name": "France",
+      "news_count": 3
+    },
+    {
+      "country_code": "IL",
+      "country_name": "Israel",
       "news_count": 3
     },
     {
@@ -1044,18 +1040,8 @@
       "news_count": 3
     },
     {
-      "country_code": "ZA",
-      "country_name": "South Africa",
-      "news_count": 3
-    },
-    {
       "country_code": "AR",
       "country_name": "Argentina",
-      "news_count": 2
-    },
-    {
-      "country_code": "AU",
-      "country_name": "Australia",
       "news_count": 2
     },
     {
@@ -1104,8 +1090,18 @@
       "news_count": 2
     },
     {
+      "country_code": "SY",
+      "country_name": "Syria",
+      "news_count": 2
+    },
+    {
       "country_code": "AE",
       "country_name": "United Arab Emirates",
+      "news_count": 1
+    },
+    {
+      "country_code": "AU",
+      "country_name": "Australia",
       "news_count": 1
     },
     {
@@ -1141,11 +1137,6 @@
     {
       "country_code": "SD",
       "country_name": "Sudan",
-      "news_count": 1
-    },
-    {
-      "country_code": "SY",
-      "country_name": "Syria",
       "news_count": 1
     },
     {
