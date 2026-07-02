@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-07-02T05:30:50Z",
+  "generated_at": "2026-07-02T08:40:23Z",
   "articles": [
     {
       "source": "BBC World",
-      "title": "At least 10 killed in large-scale Russian missile and drone strikes on Kyiv",
+      "title": "At least 13 killed in large-scale Russian missile and drone strikes on Kyiv",
       "url": "https://www.bbc.co.uk/news/articles/c4gyv05gk4do?at_medium=RSS&at_campaign=rss",
       "summary": "Russia launched its biggest strikes on the city in weeks with children among the \"significant number\" of casualties, Ukrainian officials say…",
-      "published_at": "2026-07-02T05:00:57Z",
+      "published_at": "2026-07-02T07:11:48Z",
       "country_code": "RU",
       "country_name": "Russia"
     },
     {
       "source": "BBC World",
-      "title": "People smuggler convicted in France now seeking asylum in UK, BBC discovers",
+      "title": "People smuggler convicted in France found by BBC living in UK and seeking asylum",
       "url": "https://www.bbc.co.uk/news/articles/clye9zn0y1ro?at_medium=RSS&at_campaign=rss",
-      "summary": "Once described as \"the godfather\" of French migrant camps, he has been working in an English village.",
+      "summary": "Once described as \"the godfather\" of French migrant camps, he has been working in a Leicestershire village.",
       "published_at": "2026-07-02T05:00:03Z",
       "country_code": "GB",
       "country_name": "United Kingdom"
@@ -45,6 +45,24 @@
       "published_at": "2026-07-02T01:56:17Z",
       "country_code": "US",
       "country_name": "United States"
+    },
+    {
+      "source": "BBC Africa",
+      "title": "Latest ever winner, comeback and controversy - Senegal's remarkable exit",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckg8e2ezvzyo?at_medium=RSS&at_campaign=rss",
+      "summary": "Late drama, controversy, history and heartbreak - the World Cup last-32 tie between Belgium and Senegal had everything.",
+      "published_at": "2026-07-02T01:28:40Z",
+      "country_code": "BE",
+      "country_name": "Belgium"
+    },
+    {
+      "source": "BBC Latin America",
+      "title": "What you need to know about England's last-16 opponents Mexico",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c8d25v111r6o?at_medium=RSS&at_campaign=rss",
+      "summary": "England will face Mexico in the World Cup round of 16. Here is what you need to know about them.",
+      "published_at": "2026-07-01T23:02:52Z",
+      "country_code": "GB",
+      "country_name": "United Kingdom"
     },
     {
       "source": "BBC World",
@@ -144,6 +162,15 @@
       "published_at": "2026-07-01T10:45:49Z",
       "country_code": "US",
       "country_name": "United States"
+    },
+    {
+      "source": "BBC Latin America",
+      "title": "Beccacece reign as Ecuador manager over after exit",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c932jj0d25no?at_medium=RSS&at_campaign=rss",
+      "summary": "Ecuador manager Sebastian Beccacece says he is leaving his role following his side's World Cup exit against Mexico.",
+      "published_at": "2026-07-01T09:25:41Z",
+      "country_code": "MX",
+      "country_name": "Mexico"
     },
     {
       "source": "BBC US & Canada",
@@ -749,15 +776,6 @@
       "country_name": "Germany"
     },
     {
-      "source": "BBC Latin America",
-      "title": "Earthquake is devastating blow to Venezuela at time of uncertainty",
-      "url": "https://www.bbc.co.uk/news/articles/c3vynpw7rk4o?at_medium=RSS&at_campaign=rss",
-      "summary": "The twin quakes come less than six months after Venezuela's then-leader Nicolás Maduro was seized by US forces.",
-      "published_at": "2026-06-26T02:12:07Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC Asia",
       "title": "A Chinese box office hit sparks a debate about identity in Singapore",
       "url": "https://www.bbc.co.uk/news/articles/c5yzv23g75eo?at_medium=RSS&at_campaign=rss",
@@ -893,15 +911,6 @@
       "country_name": "Pakistan"
     },
     {
-      "source": "BBC Europe",
-      "title": "Why was JD Vance in a luxury Swiss resort for talks with Iran?",
-      "url": "https://www.bbc.co.uk/news/videos/c4gyenl6nz0o?at_medium=RSS&at_campaign=rss",
-      "summary": "BBC correspondent Jessica Parker explains some key points of the direct talks between the US vice-president and Iran.",
-      "published_at": "2026-06-23T05:38:36Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC Middle East",
       "title": "Thousands killed in US-Israeli war on Iran - but experts say true total may never be known",
       "url": "https://www.bbc.co.uk/news/articles/cy735xlv50ko?at_medium=RSS&at_campaign=rss",
@@ -927,15 +936,6 @@
       "published_at": "2026-06-18T15:53:55Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC Africa",
-      "title": "'My brother hid in a rice sack' - The refugee stars at the World Cup",
-      "url": "https://www.bbc.co.uk/news/articles/c1eygyg2zeno?at_medium=RSS&at_campaign=rss",
-      "summary": "Germany and Real Madrid defender Antonio Rudiger, whose family fled Sierra Leone's civil war, is among those campaigning for a change in glo…",
-      "published_at": "2026-06-18T13:41:06Z",
-      "country_code": "DE",
-      "country_name": "Germany"
     },
     {
       "source": "BBC Middle East",
@@ -1032,17 +1032,17 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 33
-    },
-    {
-      "country_code": "DE",
-      "country_name": "Germany",
-      "news_count": 10
+      "news_count": 31
     },
     {
       "country_code": "VE",
       "country_name": "Venezuela",
       "news_count": 10
+    },
+    {
+      "country_code": "DE",
+      "country_name": "Germany",
+      "news_count": 9
     },
     {
       "country_code": "IL",
@@ -1057,6 +1057,11 @@
     {
       "country_code": "FR",
       "country_name": "France",
+      "news_count": 4
+    },
+    {
+      "country_code": "GB",
+      "country_name": "United Kingdom",
       "news_count": 4
     },
     {
@@ -1075,8 +1080,8 @@
       "news_count": 3
     },
     {
-      "country_code": "GB",
-      "country_name": "United Kingdom",
+      "country_code": "MX",
+      "country_name": "Mexico",
       "news_count": 3
     },
     {
@@ -1110,11 +1115,6 @@
       "news_count": 2
     },
     {
-      "country_code": "MX",
-      "country_name": "Mexico",
-      "news_count": 2
-    },
-    {
       "country_code": "RU",
       "country_name": "Russia",
       "news_count": 2
@@ -1137,6 +1137,11 @@
     {
       "country_code": "AE",
       "country_name": "United Arab Emirates",
+      "news_count": 1
+    },
+    {
+      "country_code": "BE",
+      "country_name": "Belgium",
       "news_count": 1
     },
     {
