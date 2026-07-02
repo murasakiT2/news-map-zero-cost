@@ -1,6 +1,51 @@
 {
-  "generated_at": "2026-07-02T01:28:56Z",
+  "generated_at": "2026-07-02T05:30:50Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "At least 10 killed in large-scale Russian missile and drone strikes on Kyiv",
+      "url": "https://www.bbc.co.uk/news/articles/c4gyv05gk4do?at_medium=RSS&at_campaign=rss",
+      "summary": "Russia launched its biggest strikes on the city in weeks with children among the \"significant number\" of casualties, Ukrainian officials say…",
+      "published_at": "2026-07-02T05:00:57Z",
+      "country_code": "RU",
+      "country_name": "Russia"
+    },
+    {
+      "source": "BBC World",
+      "title": "People smuggler convicted in France now seeking asylum in UK, BBC discovers",
+      "url": "https://www.bbc.co.uk/news/articles/clye9zn0y1ro?at_medium=RSS&at_campaign=rss",
+      "summary": "Once described as \"the godfather\" of French migrant camps, he has been working in an English village.",
+      "published_at": "2026-07-02T05:00:03Z",
+      "country_code": "GB",
+      "country_name": "United Kingdom"
+    },
+    {
+      "source": "BBC World",
+      "title": "'Two weeks after her death I got a call': Gaza patients face agonising delays for evacuation",
+      "url": "https://www.bbc.co.uk/news/articles/cn75ex1dv61o?at_medium=RSS&at_campaign=rss",
+      "summary": "An estimated 300 Palestinians referred for treatment abroad have died since the ceasefire began, according to Gaza's Hamas-run health minist…",
+      "published_at": "2026-07-02T04:59:55Z",
+      "country_code": "PS",
+      "country_name": "Palestine"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "Canadian boy, 11, dies of rabies after waking to bat on his face",
+      "url": "https://www.bbc.co.uk/news/articles/c982m1m95q9o?at_medium=RSS&at_campaign=rss",
+      "summary": "Rabies infections are rare in Canada. There have been 28 human deaths due to rabies in the country since 1924.",
+      "published_at": "2026-07-02T03:07:39Z",
+      "country_code": "CA",
+      "country_name": "Canada"
+    },
+    {
+      "source": "BBC World",
+      "title": "The US deported them to Venezuela - hours later earthquakes struck",
+      "url": "https://www.bbc.co.uk/news/articles/c3eyxjy01y3o?at_medium=RSS&at_campaign=rss",
+      "summary": "They landed on Flight 164 just before the twin quakes. Family members are desperately searching for them.",
+      "published_at": "2026-07-02T01:56:17Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "Turkish police beat us with iron rods before we lost limbs to frostbite, Afghans say",
@@ -9,15 +54,6 @@
       "published_at": "2026-07-01T22:13:03Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "Banned by Beijing, this comedian is taking his act to Chinese speakers abroad",
-      "url": "https://www.bbc.co.uk/news/articles/cx2x01q21wlo?at_medium=RSS&at_campaign=rss",
-      "summary": "Chizi, one of China’s biggest stand-up comedians, has found a new stage after falling afoul of China's censors.",
-      "published_at": "2026-07-01T22:04:01Z",
-      "country_code": "CN",
-      "country_name": "China"
     },
     {
       "source": "BBC World",
@@ -164,15 +200,6 @@
       "country_name": "China"
     },
     {
-      "source": "BBC World",
-      "title": "US Supreme Court upholds birthright citizenship in blow to Trump",
-      "url": "https://www.bbc.co.uk/news/articles/cgmepnx1wzzo?at_medium=RSS&at_campaign=rss",
-      "summary": "The ruling is a major setback for Donald Trump's immigration agenda, and has been welcomed by civil rights groups.",
-      "published_at": "2026-07-01T05:32:26Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC US & Canada",
       "title": "'We're still standing': Americans on the state of the nation in its 250th year",
       "url": "https://www.bbc.co.uk/news/videos/c05yv6d9yq4o?at_medium=RSS&at_campaign=rss",
@@ -182,7 +209,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "Canada celebrates its birthday as Mark Carney battles to keep it intact",
       "url": "https://www.bbc.co.uk/news/articles/cwykxwd43pwo?at_medium=RSS&at_campaign=rss",
       "summary": "As Canadians celebrate their nation's birthday, independence movements in two provinces are eyeing the exit from the country.",
@@ -290,7 +317,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "Roof collapse kills 14 children at Pakistan tuition centre",
       "url": "https://www.bbc.co.uk/news/articles/cr7x38lle1jo?at_medium=RSS&at_campaign=rss",
       "summary": "Two people are taken into custody after the incident in the Kahna suburb of Lahore.",
@@ -1028,11 +1055,6 @@
       "news_count": 5
     },
     {
-      "country_code": "CN",
-      "country_name": "China",
-      "news_count": 4
-    },
-    {
       "country_code": "FR",
       "country_name": "France",
       "news_count": 4
@@ -1048,6 +1070,16 @@
       "news_count": 4
     },
     {
+      "country_code": "CN",
+      "country_name": "China",
+      "news_count": 3
+    },
+    {
+      "country_code": "GB",
+      "country_name": "United Kingdom",
+      "news_count": 3
+    },
+    {
       "country_code": "AR",
       "country_name": "Argentina",
       "news_count": 2
@@ -1058,8 +1090,8 @@
       "news_count": 2
     },
     {
-      "country_code": "GB",
-      "country_name": "United Kingdom",
+      "country_code": "CA",
+      "country_name": "Canada",
       "news_count": 2
     },
     {
@@ -1083,6 +1115,11 @@
       "news_count": 2
     },
     {
+      "country_code": "RU",
+      "country_name": "Russia",
+      "news_count": 2
+    },
+    {
       "country_code": "SA",
       "country_name": "Saudi Arabia",
       "news_count": 2
@@ -1100,11 +1137,6 @@
     {
       "country_code": "AE",
       "country_name": "United Arab Emirates",
-      "news_count": 1
-    },
-    {
-      "country_code": "CA",
-      "country_name": "Canada",
       "news_count": 1
     },
     {
@@ -1138,8 +1170,8 @@
       "news_count": 1
     },
     {
-      "country_code": "RU",
-      "country_name": "Russia",
+      "country_code": "PS",
+      "country_name": "Palestine",
       "news_count": 1
     },
     {
