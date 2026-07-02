@@ -1,14 +1,23 @@
 {
-  "generated_at": "2026-07-02T15:37:32Z",
+  "generated_at": "2026-07-02T17:25:40Z",
   "articles": [
     {
       "source": "BBC World",
-      "title": "'Most massive' Russian attack on Kyiv kills at least 20",
+      "title": "'Most massive' Russian attack on Kyiv kills at least 21",
       "url": "https://www.bbc.co.uk/news/articles/c4gyv05gk4do?at_medium=RSS&at_campaign=rss",
-      "summary": "Kyiv's mayor declares a day of mourning after the major drone and missile attack on the Ukrainian capital.",
-      "published_at": "2026-07-02T15:16:40Z",
+      "summary": "The latest barrage deployed the largest number of weapons on the capital and hit locations over a wide area.",
+      "published_at": "2026-07-02T16:15:31Z",
       "country_code": "UA",
       "country_name": "Ukraine"
+    },
+    {
+      "source": "BBC World",
+      "title": "Venezuela quake survivor pulled out alive after eight days",
+      "url": "https://www.bbc.co.uk/news/articles/ce375v12z0qo?at_medium=RSS&at_campaign=rss",
+      "summary": "Hernán Gil was trapped under a collapsed multi-storey car park, and encouraged them as they inched closer to him.",
+      "published_at": "2026-07-02T16:11:24Z",
+      "country_code": "VE",
+      "country_name": "Venezuela"
     },
     {
       "source": "BBC World",
@@ -20,20 +29,20 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
-      "title": "Venezuela quake survivor pulled out alive after eight days",
-      "url": "https://www.bbc.co.uk/news/articles/ce375v12z0qo?at_medium=RSS&at_campaign=rss",
-      "summary": "Hernán Gil was trapped under a collapsed multi-storey car park, and encouraged them as they inched closer to him.",
-      "published_at": "2026-07-02T14:11:50Z",
-      "country_code": "VE",
-      "country_name": "Venezuela"
-    },
-    {
       "source": "BBC US & Canada",
       "title": "Why the expected fight over the North American trade deal never kicked off",
       "url": "https://www.bbc.co.uk/news/articles/c70yd58y27yo?at_medium=RSS&at_campaign=rss",
       "summary": "The US has confirmed it will not extend the agreement for another 16 years, but stopped short of more dramatic action.",
       "published_at": "2026-07-02T13:43:39Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "World Cup boom falters as US hospitality jobs fall in June",
+      "url": "https://www.bbc.co.uk/news/articles/cr471w6ykxno?at_medium=RSS&at_campaign=rss",
+      "summary": "There had been early signs of a jobs boom from the tournament, but hospitality jobs declined in June.",
+      "published_at": "2026-07-02T13:36:04Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -470,15 +479,6 @@
       "country_name": "Indonesia"
     },
     {
-      "source": "BBC World",
-      "title": "Why are South Korean fans so angry at their football coach?",
-      "url": "https://www.bbc.co.uk/news/videos/c4gyje1p0l9o?at_medium=RSS&at_campaign=rss",
-      "summary": "Hong Myung-bo has resigned after South Korea failed to advance to the World Cup knockout stages.",
-      "published_at": "2026-06-30T08:26:11Z",
-      "country_code": "KR",
-      "country_name": "South Korea"
-    },
-    {
       "source": "BBC Asia",
       "title": "India's biggest share sales tell the story of a country glued to its phones",
       "url": "https://www.bbc.co.uk/news/articles/cdej6ej7w4go?at_medium=RSS&at_campaign=rss",
@@ -785,15 +785,6 @@
       "country_name": "Singapore"
     },
     {
-      "source": "BBC Europe",
-      "title": "Europe's 'punishing' record-breaking heatwave shifts east",
-      "url": "https://www.bbc.co.uk/news/videos/cgk6zrry623o?at_medium=RSS&at_campaign=rss",
-      "summary": "BBC Berlin correspondent Jessica Parker on what's next for the weather in Europe",
-      "published_at": "2026-06-25T19:17:39Z",
-      "country_code": "DE",
-      "country_name": "Germany"
-    },
-    {
       "source": "BBC Africa",
       "title": "Kenyans mark two years since Gen Z protests",
       "url": "https://www.bbc.co.uk/news/videos/c0jyd70gp50o?at_medium=RSS&at_campaign=rss",
@@ -1005,17 +996,17 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 31
-    },
-    {
-      "country_code": "DE",
-      "country_name": "Germany",
-      "news_count": 9
+      "news_count": 32
     },
     {
       "country_code": "VE",
       "country_name": "Venezuela",
       "news_count": 9
+    },
+    {
+      "country_code": "DE",
+      "country_name": "Germany",
+      "news_count": 8
     },
     {
       "country_code": "CN",
@@ -1045,11 +1036,6 @@
     {
       "country_code": "FR",
       "country_name": "France",
-      "news_count": 3
-    },
-    {
-      "country_code": "KR",
-      "country_name": "South Korea",
       "news_count": 3
     },
     {
@@ -1090,6 +1076,11 @@
     {
       "country_code": "IT",
       "country_name": "Italy",
+      "news_count": 2
+    },
+    {
+      "country_code": "KR",
+      "country_name": "South Korea",
       "news_count": 2
     },
     {
