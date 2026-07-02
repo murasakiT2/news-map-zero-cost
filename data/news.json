@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-07-01T23:06:16Z",
+  "generated_at": "2026-07-02T01:28:56Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Turkish police beat us with iron rods before we lost limbs to frostbite, Afghans say",
+      "url": "https://www.bbc.co.uk/news/articles/ce8k4pz91n5o?at_medium=RSS&at_campaign=rss",
+      "summary": "The young migrants heading to Europe say they were stripped and had their hands tied in freezing temperatures.",
+      "published_at": "2026-07-01T22:13:03Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Banned by Beijing, this comedian is taking his act to Chinese speakers abroad",
+      "url": "https://www.bbc.co.uk/news/articles/cx2x01q21wlo?at_medium=RSS&at_campaign=rss",
+      "summary": "Chizi, one of China’s biggest stand-up comedians, has found a new stage after falling afoul of China's censors.",
+      "published_at": "2026-07-01T22:04:01Z",
+      "country_code": "CN",
+      "country_name": "China"
+    },
     {
       "source": "BBC World",
       "title": "Four die in Mexico City World Cup celebrations",
@@ -164,7 +182,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC US & Canada",
+      "source": "BBC World",
       "title": "Canada celebrates its birthday as Mark Carney battles to keep it intact",
       "url": "https://www.bbc.co.uk/news/articles/cwykxwd43pwo?at_medium=RSS&at_campaign=rss",
       "summary": "As Canadians celebrate their nation's birthday, independence movements in two provinces are eyeing the exit from the country.",
@@ -245,7 +263,7 @@
       "country_name": "Netherlands"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "US Supreme Court has dealt heavy defeats to Trump, while expanding his power",
       "url": "https://www.bbc.co.uk/news/articles/c4gyqeqe8xyo?at_medium=RSS&at_campaign=rss",
       "summary": "The birthright ruling brings to an end a Supreme Court term that has delivered the president some key victories.",
@@ -263,7 +281,7 @@
       "country_name": "South Africa"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "Americans react to Supreme Court upholding birthright citizenship",
       "url": "https://www.bbc.co.uk/news/videos/c621d53wqw0o?at_medium=RSS&at_campaign=rss",
       "summary": "The BBC asked Americans how they felt after the Supreme Court's ruling on citizenship for babies born in the US.",
@@ -344,7 +362,7 @@
       "country_name": "Argentina"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "Canadians share hopes and wishes for America's 250th birthday",
       "url": "https://www.bbc.co.uk/news/videos/cjeg1g82gz8o?at_medium=RSS&at_campaign=rss",
       "summary": "We asked Canadians across the country what they would say and give to their southern neighbour.",
@@ -369,15 +387,6 @@
       "published_at": "2026-06-30T09:30:04Z",
       "country_code": "IL",
       "country_name": "Israel"
-    },
-    {
-      "source": "BBC World",
-      "title": "Why are South Korean fans so angry at their football coach?",
-      "url": "https://www.bbc.co.uk/news/videos/c4gyje1p0l9o?at_medium=RSS&at_campaign=rss",
-      "summary": "Hong Myung-bo has resigned after South Korea failed to advance to the World Cup knockout stages.",
-      "published_at": "2026-06-30T08:26:11Z",
-      "country_code": "KR",
-      "country_name": "South Korea"
     },
     {
       "source": "BBC Asia",
@@ -996,7 +1005,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 32
+      "news_count": 33
     },
     {
       "country_code": "DE",
@@ -1019,6 +1028,11 @@
       "news_count": 5
     },
     {
+      "country_code": "CN",
+      "country_name": "China",
+      "news_count": 4
+    },
+    {
       "country_code": "FR",
       "country_name": "France",
       "news_count": 4
@@ -1032,16 +1046,6 @@
       "country_code": "ZA",
       "country_name": "South Africa",
       "news_count": 4
-    },
-    {
-      "country_code": "CN",
-      "country_name": "China",
-      "news_count": 3
-    },
-    {
-      "country_code": "KR",
-      "country_name": "South Korea",
-      "news_count": 3
     },
     {
       "country_code": "AR",
@@ -1066,6 +1070,11 @@
     {
       "country_code": "IT",
       "country_name": "Italy",
+      "news_count": 2
+    },
+    {
+      "country_code": "KR",
+      "country_name": "South Korea",
       "news_count": 2
     },
     {
