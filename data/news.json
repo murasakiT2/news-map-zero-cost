@@ -1,9 +1,54 @@
 {
-  "generated_at": "2026-07-02T13:13:59Z",
+  "generated_at": "2026-07-02T15:37:32Z",
   "articles": [
     {
-      "source": "BBC Africa",
-      "title": "South Africa and Ghana in diplomatic row over killing of migrant",
+      "source": "BBC World",
+      "title": "'Most massive' Russian attack on Kyiv kills at least 20",
+      "url": "https://www.bbc.co.uk/news/articles/c4gyv05gk4do?at_medium=RSS&at_campaign=rss",
+      "summary": "Kyiv's mayor declares a day of mourning after the major drone and missile attack on the Ukrainian capital.",
+      "published_at": "2026-07-02T15:16:40Z",
+      "country_code": "UA",
+      "country_name": "Ukraine"
+    },
+    {
+      "source": "BBC World",
+      "title": "The US deported them to Venezuela - hours later earthquakes struck",
+      "url": "https://www.bbc.co.uk/news/articles/c3eyxjy01y3o?at_medium=RSS&at_campaign=rss",
+      "summary": "They landed on Flight 164 just before the twin quakes. Family members are desperately searching for them.",
+      "published_at": "2026-07-02T14:43:31Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Venezuela quake survivor pulled out alive after eight days",
+      "url": "https://www.bbc.co.uk/news/articles/ce375v12z0qo?at_medium=RSS&at_campaign=rss",
+      "summary": "Hernán Gil was trapped under a collapsed multi-storey car park, and encouraged them as they inched closer to him.",
+      "published_at": "2026-07-02T14:11:50Z",
+      "country_code": "VE",
+      "country_name": "Venezuela"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "Why the expected fight over the North American trade deal never kicked off",
+      "url": "https://www.bbc.co.uk/news/articles/c70yd58y27yo?at_medium=RSS&at_campaign=rss",
+      "summary": "The US has confirmed it will not extend the agreement for another 16 years, but stopped short of more dramatic action.",
+      "published_at": "2026-07-02T13:43:39Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Canada celebrates its birthday as Mark Carney battles to keep it intact",
+      "url": "https://www.bbc.co.uk/news/articles/cwykxwd43pwo?at_medium=RSS&at_campaign=rss",
+      "summary": "As Canadians celebrate their nation's birthday, independence movements in two provinces are eyeing the exit from the country.",
+      "published_at": "2026-07-02T13:31:23Z",
+      "country_code": "CA",
+      "country_name": "Canada"
+    },
+    {
+      "source": "BBC World",
+      "title": "South Africa and Ghana in diplomatic row over alleged killing of migrant",
       "url": "https://www.bbc.co.uk/news/articles/c982k1j3d70o?at_medium=RSS&at_campaign=rss",
       "summary": "South Africa denies claims that a Ghanaian citizen was killed in anti-migrant protests in Cape Town.",
       "published_at": "2026-07-02T13:11:16Z",
@@ -36,33 +81,6 @@
       "published_at": "2026-07-02T11:53:47Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "'Most massive' Russian attack on Kyiv kills at least 18",
-      "url": "https://www.bbc.co.uk/news/articles/c4gyv05gk4do?at_medium=RSS&at_campaign=rss",
-      "summary": "Kyiv's mayor declares a day of mourning after the major drone and missile attack on the Ukrainian capital.",
-      "published_at": "2026-07-02T11:53:29Z",
-      "country_code": "UA",
-      "country_name": "Ukraine"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "Why the expected fight over the North American trade deal never kicked off",
-      "url": "https://www.bbc.co.uk/news/articles/c70yd58y27yo?at_medium=RSS&at_campaign=rss",
-      "summary": "The US has confirmed it will not extend the agreement for another 16 years, but stopped short of more dramatic action.",
-      "published_at": "2026-07-02T10:24:08Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "EU border delays 'not bearable' over summer, warns airport boss",
-      "url": "https://www.bbc.co.uk/news/articles/c8x2y74wp9eo?at_medium=RSS&at_campaign=rss",
-      "summary": "Holidaymakers face long waits under the EU's new Entry-Exit System, the head of Berlin's airport says.",
-      "published_at": "2026-07-02T10:15:47Z",
-      "country_code": "DE",
-      "country_name": "Germany"
     },
     {
       "source": "BBC World",
@@ -126,15 +144,6 @@
       "published_at": "2026-07-02T03:07:39Z",
       "country_code": "CA",
       "country_name": "Canada"
-    },
-    {
-      "source": "BBC World",
-      "title": "The US deported them to Venezuela - hours later earthquakes struck",
-      "url": "https://www.bbc.co.uk/news/articles/c3eyxjy01y3o?at_medium=RSS&at_campaign=rss",
-      "summary": "They landed on Flight 164 just before the twin quakes. Family members are desperately searching for them.",
-      "published_at": "2026-07-02T01:56:17Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC Africa",
@@ -324,15 +333,6 @@
       "published_at": "2026-07-01T05:07:31Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "Canada celebrates its birthday as Mark Carney battles to keep it intact",
-      "url": "https://www.bbc.co.uk/news/articles/cwykxwd43pwo?at_medium=RSS&at_campaign=rss",
-      "summary": "As Canadians celebrate their nation's birthday, independence movements in two provinces are eyeing the exit from the country.",
-      "published_at": "2026-07-01T05:00:13Z",
-      "country_code": "CA",
-      "country_name": "Canada"
     },
     {
       "source": "BBC Europe",
@@ -1010,12 +1010,12 @@
     {
       "country_code": "DE",
       "country_name": "Germany",
-      "news_count": 10
+      "news_count": 9
     },
     {
       "country_code": "VE",
       "country_name": "Venezuela",
-      "news_count": 8
+      "news_count": 9
     },
     {
       "country_code": "CN",
