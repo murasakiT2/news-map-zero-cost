@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-07-02T18:54:21Z",
+  "generated_at": "2026-07-02T20:13:55Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Former Olympian indicted for allegedly vandalising Washington Reflecting Pool",
+      "url": "https://www.bbc.co.uk/news/articles/c2ky3p9jlveo?at_medium=RSS&at_campaign=rss",
+      "summary": "US authorities charged him with property destruction after renovations championed by President Donald Trump appeared to go awry.",
+      "published_at": "2026-07-02T19:48:21Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "Dangerous US heatwave looms over 4 July holiday, World Cup and Swift wedding",
+      "url": "https://www.bbc.co.uk/news/articles/cevlkzer7vdo?at_medium=RSS&at_campaign=rss",
+      "summary": "The soaring temperatures are raising concerns as President Donald Trump hosts America's 250th birthday celebrations and multiple World cup m…",
+      "published_at": "2026-07-02T18:56:36Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "Killers of British couple in South Africa sentenced to life",
@@ -38,7 +56,7 @@
       "country_name": "Venezuela"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "The US deported them to Venezuela - hours later earthquakes struck",
       "url": "https://www.bbc.co.uk/news/articles/c3eyxjy01y3o?at_medium=RSS&at_campaign=rss",
       "summary": "They landed on Flight 164 just before the twin quakes. Family members are desperately searching for them.",
@@ -987,7 +1005,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 31
+      "news_count": 33
     },
     {
       "country_code": "VE",
