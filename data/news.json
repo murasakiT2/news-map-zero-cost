@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-03T17:53:53Z",
+  "generated_at": "2026-07-03T19:00:05Z",
   "articles": [
     {
       "source": "BBC World",
@@ -650,15 +650,6 @@
       "country_name": "Germany"
     },
     {
-      "source": "BBC Africa",
-      "title": "Conspiracy or chaos? Algeria & Austria defend 'unexpected' draw",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckg4v1wvwxxo?at_medium=RSS&at_campaign=rss",
-      "summary": "The 'Disgrace of Gijon' - an infamous match at the 1982 World Cup in Spain - has followed Austria and Algeria for 44 years. Did history repe…",
-      "published_at": "2026-06-28T21:16:30Z",
-      "country_code": "ES",
-      "country_name": "Spain"
-    },
-    {
       "source": "BBC Latin America",
       "title": "Watch: Inside the Venezuela country club now a makeshift hospital",
       "url": "https://www.bbc.co.uk/news/videos/clyx5r0068go?at_medium=RSS&at_campaign=rss",
@@ -1061,11 +1052,6 @@
       "news_count": 2
     },
     {
-      "country_code": "ES",
-      "country_name": "Spain",
-      "news_count": 2
-    },
-    {
       "country_code": "IT",
       "country_name": "Italy",
       "news_count": 2
@@ -1088,6 +1074,11 @@
     {
       "country_code": "DZ",
       "country_name": "Algeria",
+      "news_count": 1
+    },
+    {
+      "country_code": "ES",
+      "country_name": "Spain",
       "news_count": 1
     },
     {
