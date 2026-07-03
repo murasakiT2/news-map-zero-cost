@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-03T21:37:25Z",
+  "generated_at": "2026-07-03T22:54:00Z",
   "articles": [
     {
       "source": "BBC World",
@@ -477,15 +477,6 @@
       "published_at": "2026-07-01T11:57:37Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC Africa",
-      "title": "Egypt optimistic Salah will be fit to face Australia",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ce8kwpgkpeno?at_medium=RSS&at_campaign=rss",
-      "summary": "Sources inside the Egypt camp say Mohamed Salah is winning his race to overcome a hamstring injury and play in Friday's last-32 game in Dall…",
-      "published_at": "2026-07-01T11:24:52Z",
-      "country_code": "AU",
-      "country_name": "Australia"
     },
     {
       "source": "BBC Latin America",
@@ -1055,11 +1046,6 @@
       "news_count": 2
     },
     {
-      "country_code": "AU",
-      "country_name": "Australia",
-      "news_count": 2
-    },
-    {
       "country_code": "BE",
       "country_name": "Belgium",
       "news_count": 2
@@ -1087,6 +1073,11 @@
     {
       "country_code": "AE",
       "country_name": "United Arab Emirates",
+      "news_count": 1
+    },
+    {
+      "country_code": "AU",
+      "country_name": "Australia",
       "news_count": 1
     },
     {
