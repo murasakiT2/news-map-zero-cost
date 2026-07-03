@@ -1,21 +1,39 @@
 {
-  "generated_at": "2026-07-03T14:06:46Z",
+  "generated_at": "2026-07-03T16:03:34Z",
   "articles": [
     {
       "source": "BBC World",
-      "title": "US withdraws troops from Nigeria after Islamic State mission",
-      "url": "https://www.bbc.co.uk/news/articles/cwylkvpl80xo?at_medium=RSS&at_campaign=rss",
-      "summary": "The US said the joint operation, which began in December last year, was a success.",
-      "published_at": "2026-07-03T14:00:50Z",
-      "country_code": "US",
-      "country_name": "United States"
+      "title": "Zuma showing South Africa 'middle finger' by meeting Gupta brother - minister",
+      "url": "https://www.bbc.co.uk/news/articles/cvge0gd6lnqo?at_medium=RSS&at_campaign=rss",
+      "summary": "Former President Zuma's trip to India reignites anger over a decade-old corruption scandal.",
+      "published_at": "2026-07-03T15:35:07Z",
+      "country_code": "IN",
+      "country_name": "India"
+    },
+    {
+      "source": "BBC World",
+      "title": "Instagram running ads promoting child sexual abuse material in India, BBC finds",
+      "url": "https://www.bbc.co.uk/news/articles/cvgm4e0316zo?at_medium=RSS&at_campaign=rss",
+      "summary": "The ads use terms including “rape” and “child video” and link to content on the messaging app Telegram.",
+      "published_at": "2026-07-03T15:01:27Z",
+      "country_code": "IN",
+      "country_name": "India"
     },
     {
       "source": "BBC US & Canada",
       "title": "Dangerous heatwave scorches US as Fourth of July holiday kicks off",
       "url": "https://www.bbc.co.uk/news/articles/cevlkzer7vdo?at_medium=RSS&at_campaign=rss",
       "summary": "Millions are enduring dangerous heat and humidity, with temperatures expected to stay at 38C (100F) for several days.",
-      "published_at": "2026-07-03T13:50:39Z",
+      "published_at": "2026-07-03T14:17:40Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "US withdraws troops from Nigeria after Islamic State mission",
+      "url": "https://www.bbc.co.uk/news/articles/cwylkvpl80xo?at_medium=RSS&at_campaign=rss",
+      "summary": "The US said the joint operation, which began in December last year, was a success.",
+      "published_at": "2026-07-03T14:00:50Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -155,15 +173,6 @@
       "country_name": "Ukraine"
     },
     {
-      "source": "BBC World",
-      "title": "Instagram running ads promoting child sexual abuse material in India, BBC finds",
-      "url": "https://www.bbc.co.uk/news/articles/cvgm4e0316zo?at_medium=RSS&at_campaign=rss",
-      "summary": "The ads use terms including “rape” and “child video” and link to content on the messaging app Telegram.",
-      "published_at": "2026-07-03T03:50:18Z",
-      "country_code": "IN",
-      "country_name": "India"
-    },
-    {
       "source": "BBC Europe",
       "title": "Moment huge waterspout twirls over lake in Germany",
       "url": "https://www.bbc.co.uk/news/videos/ckg8eld7pj7o?at_medium=RSS&at_campaign=rss",
@@ -180,6 +189,15 @@
       "published_at": "2026-07-02T23:39:29Z",
       "country_code": "US",
       "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "On the Strait of Hormuz, BBC finds seized ships and shark fishermen as uneasy calm returns",
+      "url": "https://www.bbc.co.uk/news/articles/cvg53ngvvpxo?at_medium=RSS&at_campaign=rss",
+      "summary": "The BBC travels to the city of Bandar Abbas - the first time journalists from a UK broadcaster have been to the Iranian side of the strait.",
+      "published_at": "2026-07-02T23:15:22Z",
+      "country_code": "GB",
+      "country_name": "United Kingdom"
     },
     {
       "source": "BBC Europe",
@@ -362,7 +380,7 @@
       "country_name": "United Kingdom"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "Turkish police beat us with iron rods before we lost limbs to frostbite, Afghans say",
       "url": "https://www.bbc.co.uk/news/articles/ce8k4pz91n5o?at_medium=RSS&at_campaign=rss",
       "summary": "The young migrants heading to Europe say they were stripped and had their hands tied in freezing temperatures.",
@@ -959,6 +977,16 @@
       "news_count": 9
     },
     {
+      "country_code": "GB",
+      "country_name": "United Kingdom",
+      "news_count": 5
+    },
+    {
+      "country_code": "IN",
+      "country_name": "India",
+      "news_count": 5
+    },
+    {
       "country_code": "IR",
       "country_name": "Iran",
       "news_count": 5
@@ -966,16 +994,6 @@
     {
       "country_code": "DE",
       "country_name": "Germany",
-      "news_count": 4
-    },
-    {
-      "country_code": "GB",
-      "country_name": "United Kingdom",
-      "news_count": 4
-    },
-    {
-      "country_code": "IN",
-      "country_name": "India",
       "news_count": 4
     },
     {
