@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-07-03T23:56:10Z",
+  "generated_at": "2026-07-04T02:07:14Z",
   "articles": [
+    {
+      "source": "BBC Africa",
+      "title": "More cows than pupils - what is behind mass school closures in rural Kenya?",
+      "url": "https://www.bbc.co.uk/news/articles/cy72mn3m7l3o?at_medium=RSS&at_campaign=rss",
+      "summary": "More than 2,000 primary schools are facing closure as enrolment numbers plummet.",
+      "published_at": "2026-07-04T00:51:44Z",
+      "country_code": "KE",
+      "country_name": "Kenya"
+    },
     {
       "source": "BBC World",
       "title": "Anguished families left to identify Venezuela quake victims at makeshift morgue",
@@ -1061,6 +1070,11 @@
       "news_count": 2
     },
     {
+      "country_code": "KE",
+      "country_name": "Kenya",
+      "news_count": 2
+    },
+    {
       "country_code": "SA",
       "country_name": "Saudi Arabia",
       "news_count": 2
@@ -1093,11 +1107,6 @@
     {
       "country_code": "JP",
       "country_name": "Japan",
-      "news_count": 1
-    },
-    {
-      "country_code": "KE",
-      "country_name": "Kenya",
       "news_count": 1
     },
     {
