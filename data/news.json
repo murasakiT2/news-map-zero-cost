@@ -1,11 +1,20 @@
 {
-  "generated_at": "2026-07-04T12:01:33Z",
+  "generated_at": "2026-07-04T14:05:50Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Ukraine hits major oil terminal in Russia's St Petersburg",
+      "url": "https://www.bbc.co.uk/news/articles/c8j2vmzxezro?at_medium=RSS&at_campaign=rss",
+      "summary": "Ukrainian President Volodymyr Zelensky says the target is key infrastructure \"that generates revenue for Russia's war\".",
+      "published_at": "2026-07-04T13:13:52Z",
+      "country_code": "RU",
+      "country_name": "Russia"
+    },
     {
       "source": "BBC Africa",
       "title": "Cape Verde fans 'proud' despite 3-2 defeat to Argentina",
       "url": "https://www.bbc.co.uk/news/videos/ckg0pee102lo?at_medium=RSS&at_campaign=rss",
-      "summary": "Cape Verde fans said they were \"proud\" of their team despite a 3-2 defeat to Argentina that ended their World Cup hopes.",
+      "summary": "Cape Verde fans say they are 'proud' of their team despite a 3-2 defeat to Argentina that ended their World Cup hopes.",
       "published_at": "2026-07-04T11:05:51Z",
       "country_code": "AR",
       "country_name": "Argentina"
@@ -234,15 +243,6 @@
       "published_at": "2026-07-03T06:38:45Z",
       "country_code": "VE",
       "country_name": "Venezuela"
-    },
-    {
-      "source": "BBC Europe",
-      "title": "'Most massive' Russian attack on Kyiv kills at least 30",
-      "url": "https://www.bbc.co.uk/news/articles/c4gyv05gk4do?at_medium=RSS&at_campaign=rss",
-      "summary": "The latest barrage deployed the largest number of weapons on the capital and hit locations over a wide area.",
-      "published_at": "2026-07-03T04:41:05Z",
-      "country_code": "UA",
-      "country_name": "Ukraine"
     },
     {
       "source": "BBC Europe",
@@ -1009,11 +1009,6 @@
       "news_count": 3
     },
     {
-      "country_code": "UA",
-      "country_name": "Ukraine",
-      "news_count": 3
-    },
-    {
       "country_code": "BE",
       "country_name": "Belgium",
       "news_count": 2
@@ -1029,6 +1024,11 @@
       "news_count": 2
     },
     {
+      "country_code": "RU",
+      "country_name": "Russia",
+      "news_count": 2
+    },
+    {
       "country_code": "SA",
       "country_name": "Saudi Arabia",
       "news_count": 2
@@ -1036,6 +1036,11 @@
     {
       "country_code": "SY",
       "country_name": "Syria",
+      "news_count": 2
+    },
+    {
+      "country_code": "UA",
+      "country_name": "Ukraine",
       "news_count": 2
     },
     {
@@ -1086,11 +1091,6 @@
     {
       "country_code": "PS",
       "country_name": "Palestine",
-      "news_count": 1
-    },
-    {
-      "country_code": "RU",
-      "country_name": "Russia",
       "news_count": 1
     },
     {
