@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-07-04T05:56:58Z",
+  "generated_at": "2026-07-04T08:28:58Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Keiko Fujimori declared winner of Peru's presidential election weeks after vote",
+      "url": "https://www.bbc.co.uk/news/articles/cr5jpvv06e1o?at_medium=RSS&at_campaign=rss",
+      "summary": "The daughter of disgraced president Alberto Fujimori is declared winner of tight race nearly a month after voting took place.",
+      "published_at": "2026-07-04T07:52:55Z",
+      "country_code": "PE",
+      "country_name": "Peru"
+    },
     {
       "source": "BBC World",
       "title": "Iran begins public mourning for Ayatollah killed in February",
@@ -12,6 +21,15 @@
     },
     {
       "source": "BBC Africa",
+      "title": "Farewell Cape Verde - the underdogs the World Cup will never forget",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqj1pd8lqw9o?at_medium=RSS&at_campaign=rss",
+      "summary": "Cape Verde may have been the World Cup's second-smallest nation but they leave the largest impact as they depart following defeat by defendi…",
+      "published_at": "2026-07-04T03:09:37Z",
+      "country_code": "AR",
+      "country_name": "Argentina"
+    },
+    {
+      "source": "BBC World",
       "title": "More cows than pupils - what is behind mass school closures in rural Kenya?",
       "url": "https://www.bbc.co.uk/news/articles/cy72mn3m7l3o?at_medium=RSS&at_campaign=rss",
       "summary": "More than 2,000 primary schools are facing closure as enrolment numbers plummet.",
@@ -117,15 +135,6 @@
       "published_at": "2026-07-03T11:57:28Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC Africa",
-      "title": "Argentina v Cape Verde: Breaking down biggest World Cup knockout mismatch",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c17y82qyjj4o?at_medium=RSS&at_campaign=rss",
-      "summary": "Lionel Messi versus Vozinha. It is the World Cup battle no-one knew they wanted, but which fans now cannot wait to see.",
-      "published_at": "2026-07-03T11:01:01Z",
-      "country_code": "AR",
-      "country_name": "Argentina"
     },
     {
       "source": "BBC World",
@@ -299,15 +308,6 @@
       "country_name": "Canada"
     },
     {
-      "source": "BBC Africa",
-      "title": "South Africa and Ghana in diplomatic row over alleged killing of migrant",
-      "url": "https://www.bbc.co.uk/news/articles/c982k1j3d70o?at_medium=RSS&at_campaign=rss",
-      "summary": "South Africa denies claims that a Ghanaian citizen was killed in anti-migrant protests in Cape Town.",
-      "published_at": "2026-07-02T13:11:16Z",
-      "country_code": "ZA",
-      "country_name": "South Africa"
-    },
-    {
       "source": "BBC Europe",
       "title": "Watch: BBC at site of deadly Russian attack on Kyiv flats",
       "url": "https://www.bbc.co.uk/news/videos/c33yl1l8dkro?at_medium=RSS&at_campaign=rss",
@@ -342,15 +342,6 @@
       "published_at": "2026-07-02T09:21:31Z",
       "country_code": "CN",
       "country_name": "China"
-    },
-    {
-      "source": "BBC World",
-      "title": "People smuggler convicted in France found by BBC living in UK and seeking asylum",
-      "url": "https://www.bbc.co.uk/news/articles/clye9zn0y1ro?at_medium=RSS&at_campaign=rss",
-      "summary": "Once described as \"the godfather\" of French migrant camps, he has been working in a Leicestershire village.",
-      "published_at": "2026-07-02T05:00:03Z",
-      "country_code": "GB",
-      "country_name": "United Kingdom"
     },
     {
       "source": "BBC Middle East",
@@ -407,7 +398,7 @@
       "country_name": "United Kingdom"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "Turkish police beat us with iron rods before we lost limbs to frostbite, Afghans say",
       "url": "https://www.bbc.co.uk/news/articles/ce8k4pz91n5o?at_medium=RSS&at_campaign=rss",
       "summary": "The young migrants heading to Europe say they were stripped and had their hands tied in freezing temperatures.",
@@ -986,11 +977,6 @@
       "news_count": 10
     },
     {
-      "country_code": "GB",
-      "country_name": "United Kingdom",
-      "news_count": 5
-    },
-    {
       "country_code": "IN",
       "country_name": "India",
       "news_count": 5
@@ -1003,6 +989,11 @@
     {
       "country_code": "DE",
       "country_name": "Germany",
+      "news_count": 4
+    },
+    {
+      "country_code": "GB",
+      "country_name": "United Kingdom",
       "news_count": 4
     },
     {
@@ -1033,11 +1024,6 @@
     {
       "country_code": "UA",
       "country_name": "Ukraine",
-      "news_count": 3
-    },
-    {
-      "country_code": "ZA",
-      "country_name": "South Africa",
       "news_count": 3
     },
     {
@@ -1076,6 +1062,11 @@
       "news_count": 2
     },
     {
+      "country_code": "ZA",
+      "country_name": "South Africa",
+      "news_count": 2
+    },
+    {
       "country_code": "AE",
       "country_name": "United Arab Emirates",
       "news_count": 1
@@ -1103,6 +1094,11 @@
     {
       "country_code": "KR",
       "country_name": "South Korea",
+      "news_count": 1
+    },
+    {
+      "country_code": "PE",
+      "country_name": "Peru",
       "news_count": 1
     },
     {
