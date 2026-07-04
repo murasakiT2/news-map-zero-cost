@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-07-04T02:07:14Z",
+  "generated_at": "2026-07-04T05:56:58Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Iran begins public mourning for Ayatollah killed in February",
+      "url": "https://www.bbc.co.uk/news/articles/cx2k4k7jqeno?at_medium=RSS&at_campaign=rss",
+      "summary": "Ali Khamenei's body will lie in state in Tehran's Grand Mosalla from Friday ahead of days-long funeral events.",
+      "published_at": "2026-07-04T04:12:06Z",
+      "country_code": "IR",
+      "country_name": "Iran"
+    },
     {
       "source": "BBC Africa",
       "title": "More cows than pupils - what is behind mass school closures in rural Kenya?",
@@ -27,15 +36,6 @@
       "published_at": "2026-07-03T20:30:12Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "Iran begins public mourning for Ayatollah killed in February",
-      "url": "https://www.bbc.co.uk/news/articles/cx2k4k7jqeno?at_medium=RSS&at_campaign=rss",
-      "summary": "Ali Khamenei's body will lie in state in Tehran's Grand Mosalla from Friday ahead of days-long funeral events.",
-      "published_at": "2026-07-03T19:03:45Z",
-      "country_code": "IR",
-      "country_name": "Iran"
     },
     {
       "source": "BBC World",
@@ -254,7 +254,7 @@
       "country_name": "Japan"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "Former Olympian indicted for allegedly vandalising Washington Reflecting Pool",
       "url": "https://www.bbc.co.uk/news/articles/c2ky3p9jlveo?at_medium=RSS&at_campaign=rss",
       "summary": "US authorities charged him with property destruction after renovations championed by President Donald Trump appeared to go awry.",
@@ -299,7 +299,7 @@
       "country_name": "Canada"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Africa",
       "title": "South Africa and Ghana in diplomatic row over alleged killing of migrant",
       "url": "https://www.bbc.co.uk/news/articles/c982k1j3d70o?at_medium=RSS&at_campaign=rss",
       "summary": "South Africa denies claims that a Ghanaian citizen was killed in anti-migrant protests in Cape Town.",
@@ -335,22 +335,13 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "China says pilot crashed small plane into skyscraper for 'personal reasons'",
       "url": "https://www.bbc.co.uk/news/articles/cr47129ky6do?at_medium=RSS&at_campaign=rss",
       "summary": "The 66-year-old, who died in the crash, had anxiety and referenced \"ending his life\" in his diary.",
       "published_at": "2026-07-02T09:21:31Z",
       "country_code": "CN",
       "country_name": "China"
-    },
-    {
-      "source": "BBC World",
-      "title": "Alleged Scattered Spider hacker arrested in Finland",
-      "url": "https://www.bbc.co.uk/news/articles/cwy0we4yw1lo?at_medium=RSS&at_campaign=rss",
-      "summary": "The 19-year-old dual American-Estonian national has been extradited to the US, where he is facing federal charges.",
-      "published_at": "2026-07-02T08:02:35Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC World",
@@ -416,7 +407,7 @@
       "country_name": "United Kingdom"
     },
     {
-      "source": "BBC Europe",
+      "source": "BBC World",
       "title": "Turkish police beat us with iron rods before we lost limbs to frostbite, Afghans say",
       "url": "https://www.bbc.co.uk/news/articles/ce8k4pz91n5o?at_medium=RSS&at_campaign=rss",
       "summary": "The young migrants heading to Europe say they were stripped and had their hands tied in freezing temperatures.",
@@ -987,7 +978,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 33
+      "news_count": 32
     },
     {
       "country_code": "VE",
