@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-04T20:04:48Z",
+  "generated_at": "2026-07-04T21:24:52Z",
   "articles": [
     {
       "source": "BBC World",
@@ -18,15 +18,6 @@
       "published_at": "2026-07-04T16:49:36Z",
       "country_code": "IR",
       "country_name": "Iran"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "Fireworks, flyovers and a 'really long' Trump speech ahead as US celebrates 250th",
-      "url": "https://www.bbc.co.uk/news/articles/cp36l4e6v9po?at_medium=RSS&at_campaign=rss",
-      "summary": "The celebrations in the US capital will feature 850,000 fireworks, a \"really long\" speech from the president and scorching temperatures.",
-      "published_at": "2026-07-04T15:20:47Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC Africa",
@@ -110,13 +101,13 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Europe",
-      "title": "Polish PM warns critical months ahead in face of Russian threat",
-      "url": "https://www.bbc.co.uk/news/articles/cj0gp88q4l4o?at_medium=RSS&at_campaign=rss",
-      "summary": "Tusk says Poland is preparing for \"various\" scenarios after media reports of a planned Russian attack.",
-      "published_at": "2026-07-03T16:41:00Z",
-      "country_code": "PL",
-      "country_name": "Poland"
+      "source": "BBC US & Canada",
+      "title": "William talks World Cup football fever on Travis Kelce's podcast",
+      "url": "https://www.bbc.co.uk/news/articles/cdx7dxrwg7ro?at_medium=RSS&at_campaign=rss",
+      "summary": "The Prince of Wales shared his hopes for England's chances in the tournament - and that his father \"hates football\".",
+      "published_at": "2026-07-03T16:46:23Z",
+      "country_code": "GB",
+      "country_name": "United Kingdom"
     },
     {
       "source": "BBC Africa",
@@ -225,15 +216,6 @@
       "published_at": "2026-07-03T09:23:10Z",
       "country_code": "IN",
       "country_name": "India"
-    },
-    {
-      "source": "BBC Asia",
-      "title": "Alex Eala's historic Wimbledon run thrills boxing-obsessed Philippines",
-      "url": "https://www.bbc.co.uk/news/articles/cpv3x3p7mdvo?at_medium=RSS&at_campaign=rss",
-      "summary": "The 21-year-old has become the first Filipino to reach the third round of a Grand Slam in the Open era.",
-      "published_at": "2026-07-03T08:55:50Z",
-      "country_code": "PH",
-      "country_name": "Philippines"
     },
     {
       "source": "BBC Africa",
@@ -417,15 +399,6 @@
     },
     {
       "source": "BBC Latin America",
-      "title": "Four die in Mexico City World Cup celebrations",
-      "url": "https://www.bbc.co.uk/news/articles/cx2xjwj8p39o?at_medium=RSS&at_campaign=rss",
-      "summary": "More than one million people took to the streets of Mexico's capital on Tuesday to mark the country's win over Ecuador.",
-      "published_at": "2026-07-01T20:15:59Z",
-      "country_code": "MX",
-      "country_name": "Mexico"
-    },
-    {
-      "source": "BBC Latin America",
       "title": "US blocks long-term renewal of North American trade deal",
       "url": "https://www.bbc.co.uk/news/articles/ce8j2lmrvrdo?at_medium=RSS&at_campaign=rss",
       "summary": "US blocks 16-year North America trade deal renewal, triggering annual rolling reviews",
@@ -486,15 +459,6 @@
       "published_at": "2026-07-01T06:10:43Z",
       "country_code": "VE",
       "country_name": "Venezuela"
-    },
-    {
-      "source": "BBC Latin America",
-      "title": "Mexico rampant at fortress Azteca - and England could be next",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cy9rg5n3380o?at_medium=RSS&at_campaign=rss",
-      "summary": "Mexico have won all four games and not conceded a goal at this World Cup. Their last-16 opponents must also contend with playing at the Azte…",
-      "published_at": "2026-07-01T05:38:14Z",
-      "country_code": "GB",
-      "country_name": "United Kingdom"
     },
     {
       "source": "BBC Asia",
@@ -933,7 +897,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 32
+      "news_count": 31
     },
     {
       "country_code": "VE",
@@ -981,11 +945,6 @@
       "news_count": 3
     },
     {
-      "country_code": "MX",
-      "country_name": "Mexico",
-      "news_count": 3
-    },
-    {
       "country_code": "PK",
       "country_name": "Pakistan",
       "news_count": 3
@@ -1003,6 +962,11 @@
     {
       "country_code": "KE",
       "country_name": "Kenya",
+      "news_count": 2
+    },
+    {
+      "country_code": "MX",
+      "country_name": "Mexico",
       "news_count": 2
     },
     {
@@ -1048,16 +1012,6 @@
     {
       "country_code": "PE",
       "country_name": "Peru",
-      "news_count": 1
-    },
-    {
-      "country_code": "PH",
-      "country_name": "Philippines",
-      "news_count": 1
-    },
-    {
-      "country_code": "PL",
-      "country_name": "Poland",
       "news_count": 1
     },
     {
