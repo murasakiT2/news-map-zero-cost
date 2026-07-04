@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-04T21:24:52Z",
+  "generated_at": "2026-07-04T22:24:47Z",
   "articles": [
     {
       "source": "BBC World",
@@ -11,6 +11,15 @@
       "country_name": "Russia"
     },
     {
+      "source": "BBC Africa",
+      "title": "Seven-try South Africa outclass England in Nations Championship",
+      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cvglz11w29xo?at_medium=RSS&at_campaign=rss",
+      "summary": "South Africa reassert their dominance over England with a commanding victory at Ellis Park in the opening round of games in the new Nations …",
+      "published_at": "2026-07-04T17:48:55Z",
+      "country_code": "GB",
+      "country_name": "United Kingdom"
+    },
+    {
       "source": "BBC World",
       "title": "BBC in Tehran as mourners gather for former supreme leader's funeral",
       "url": "https://www.bbc.co.uk/news/videos/c5yz9jn0xkko?at_medium=RSS&at_campaign=rss",
@@ -18,6 +27,15 @@
       "published_at": "2026-07-04T16:49:36Z",
       "country_code": "IR",
       "country_name": "Iran"
+    },
+    {
+      "source": "BBC Africa",
+      "title": "Why Europe's top clubs are eyeing Morocco's teenage sensation Bouaddi",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c802jp3lz13o?at_medium=RSS&at_campaign=rss",
+      "summary": "After lighting up the 2022 World Cup Morocco are once again shining on the global stage - but this time they have teenage sensation Ayyoub B…",
+      "published_at": "2026-07-04T14:22:20Z",
+      "country_code": "MA",
+      "country_name": "Morocco"
     },
     {
       "source": "BBC Africa",
@@ -920,6 +938,11 @@
       "news_count": 4
     },
     {
+      "country_code": "GB",
+      "country_name": "United Kingdom",
+      "news_count": 4
+    },
+    {
       "country_code": "IN",
       "country_name": "India",
       "news_count": 4
@@ -932,11 +955,6 @@
     {
       "country_code": "FR",
       "country_name": "France",
-      "news_count": 3
-    },
-    {
-      "country_code": "GB",
-      "country_name": "United Kingdom",
       "news_count": 3
     },
     {
@@ -1007,6 +1025,11 @@
     {
       "country_code": "KR",
       "country_name": "South Korea",
+      "news_count": 1
+    },
+    {
+      "country_code": "MA",
+      "country_name": "Morocco",
       "news_count": 1
     },
     {
