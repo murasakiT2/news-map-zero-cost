@@ -1,12 +1,21 @@
 {
-  "generated_at": "2026-07-05T05:27:39Z",
+  "generated_at": "2026-07-05T08:24:09Z",
   "articles": [
     {
       "source": "BBC World",
-      "title": "US marks its 250th birthday with fireworks, flyovers and extreme weather",
+      "title": "US marks 250th birthday with fireworks, flyovers and extreme weather",
       "url": "https://www.bbc.co.uk/news/articles/cp9lppvkmz5o?at_medium=RSS&at_campaign=rss",
       "summary": "US President Donald Trump's speech included some of his political agenda but also honoured war veterans and American history.",
-      "published_at": "2026-07-05T04:38:09Z",
+      "published_at": "2026-07-05T07:44:39Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Scorching heat and delays: How Washington DC marked America 250",
+      "url": "https://www.bbc.co.uk/news/videos/cwyk2ypj014o?at_medium=RSS&at_campaign=rss",
+      "summary": "The United States of America marked its 250th birthday with fireworks, flyovers, some intense weather across the country.",
+      "published_at": "2026-07-05T07:19:08Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -27,6 +36,15 @@
       "published_at": "2026-07-04T21:46:43Z",
       "country_code": "IR",
       "country_name": "Iran"
+    },
+    {
+      "source": "BBC Africa",
+      "title": "Unbeaten in 34 matches - why Morocco are World Cup contenders",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cy4e22gqe50o?at_medium=RSS&at_campaign=rss",
+      "summary": "As Morocco beat Canada to book their place in the last-8, their World Cup campaign can no longer be seen as a fairytale.",
+      "published_at": "2026-07-04T21:20:25Z",
+      "country_code": "MA",
+      "country_name": "Morocco"
     },
     {
       "source": "BBC World",
@@ -137,7 +155,7 @@
       "country_name": "Venezuela"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "'It's so hot' - Dangerous hot weather grips parts of the US",
       "url": "https://www.bbc.co.uk/news/videos/cd0mpgvzzy5o?at_medium=RSS&at_campaign=rss",
       "summary": "More than 165 million people were sweltering on Friday under record temperatures along the US East Coast and Midwest, according to the US Na…",
@@ -362,7 +380,7 @@
       "country_name": "Canada"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "Watch: BBC at site of deadly Russian attack on Kyiv flats",
       "url": "https://www.bbc.co.uk/news/videos/c33yl1l8dkro?at_medium=RSS&at_campaign=rss",
       "summary": "Sarah Rainsford reports from the completely destroyed nine-storey block of flats in Ukraine's capital.",
@@ -414,15 +432,6 @@
       "published_at": "2026-07-02T04:59:10Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC Africa",
-      "title": "Latest ever winner, comeback and controversy - Senegal's remarkable exit",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckg8e2ezvzyo?at_medium=RSS&at_campaign=rss",
-      "summary": "Late drama, controversy, history and heartbreak - the World Cup last-32 tie between Belgium and Senegal had everything.",
-      "published_at": "2026-07-02T01:28:40Z",
-      "country_code": "BE",
-      "country_name": "Belgium"
     },
     {
       "source": "BBC Latin America",
@@ -513,15 +522,6 @@
       "published_at": "2026-07-01T05:34:03Z",
       "country_code": "CN",
       "country_name": "China"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "'We're still standing': Americans on the state of the nation in its 250th year",
-      "url": "https://www.bbc.co.uk/news/videos/c05yv6d9yq4o?at_medium=RSS&at_campaign=rss",
-      "summary": "The BBC spoke to US citizens across the country ahead of its big anniversary celebration this weekend.",
-      "published_at": "2026-07-01T05:07:31Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC Europe",
@@ -995,11 +995,6 @@
       "news_count": 3
     },
     {
-      "country_code": "BE",
-      "country_name": "Belgium",
-      "news_count": 2
-    },
-    {
       "country_code": "IT",
       "country_name": "Italy",
       "news_count": 2
@@ -1007,6 +1002,11 @@
     {
       "country_code": "KE",
       "country_name": "Kenya",
+      "news_count": 2
+    },
+    {
+      "country_code": "MA",
+      "country_name": "Morocco",
       "news_count": 2
     },
     {
@@ -1028,6 +1028,11 @@
       "country_code": "SY",
       "country_name": "Syria",
       "news_count": 2
+    },
+    {
+      "country_code": "BE",
+      "country_name": "Belgium",
+      "news_count": 1
     },
     {
       "country_code": "CA",
@@ -1052,11 +1057,6 @@
     {
       "country_code": "KR",
       "country_name": "South Korea",
-      "news_count": 1
-    },
-    {
-      "country_code": "MA",
-      "country_name": "Morocco",
       "news_count": 1
     },
     {
