@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-07-05T19:00:02Z",
+  "generated_at": "2026-07-05T20:16:25Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Trump thanks Fifa for overturning USA striker's ban",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cewqq5q8v41o?at_medium=RSS&at_campaign=rss",
+      "summary": "Folarin Balogun is available to play for the United States in their World Cup last-16 tie against Belgium after his one-game ban is suspende…",
+      "published_at": "2026-07-05T19:36:11Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "Iran's supreme leader absent as senior officials attend ayatollah's funeral",
@@ -9,6 +18,15 @@
       "published_at": "2026-07-05T17:58:01Z",
       "country_code": "US",
       "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Watch: Lyse Doucet on emotion and politics at Tehran funeral of former supreme leader",
+      "url": "https://www.bbc.co.uk/news/videos/c4gyye3rplno?at_medium=RSS&at_campaign=rss",
+      "summary": "The BBC's chief international correspondent reports from Tehran where funeral events are taking place in honour of Iran's former leader, Aya…",
+      "published_at": "2026-07-05T17:54:47Z",
+      "country_code": "IR",
+      "country_name": "Iran"
     },
     {
       "source": "BBC World",
@@ -56,7 +74,7 @@
       "country_name": "Morocco"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "US marks 250th birthday with fireworks, flyovers and extreme weather",
       "url": "https://www.bbc.co.uk/news/articles/cp9lppvkmz5o?at_medium=RSS&at_campaign=rss",
       "summary": "US President Donald Trump's speech included some of his political agenda but also honoured war veterans and American history.",
@@ -128,7 +146,7 @@
       "country_name": "Morocco"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "Ukraine hits major oil terminal in Russia's St Petersburg",
       "url": "https://www.bbc.co.uk/news/articles/c8j2vmzxezro?at_medium=RSS&at_campaign=rss",
       "summary": "Ukrainian President Volodymyr Zelensky says the target is key infrastructure \"that generates revenue for Russia's war\".",
@@ -578,15 +596,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Latin America",
-      "title": "Ecuador make Mexico fans hotel noise complaint",
-      "url": "https://www.bbc.co.uk/sport/football/articles/clyrgng719eo?at_medium=RSS&at_campaign=rss",
-      "summary": "Ecuador make a complaint to World Cup organisers over noisy local fans outside their team hotel before their last-32 match against co-hosts …",
-      "published_at": "2026-06-30T19:30:52Z",
-      "country_code": "MX",
-      "country_name": "Mexico"
-    },
-    {
       "source": "BBC Europe",
       "title": "'Absolute madness': Row over plan to demolish Nazi bunker under Berlin",
       "url": "https://www.bbc.co.uk/news/articles/cwy09753nq3o?at_medium=RSS&at_campaign=rss",
@@ -924,7 +933,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 32
+      "news_count": 33
     },
     {
       "country_code": "VE",
@@ -934,7 +943,7 @@
     {
       "country_code": "IR",
       "country_name": "Iran",
-      "news_count": 8
+      "news_count": 9
     },
     {
       "country_code": "DE",
@@ -987,11 +996,6 @@
       "news_count": 2
     },
     {
-      "country_code": "MX",
-      "country_name": "Mexico",
-      "news_count": 2
-    },
-    {
       "country_code": "RU",
       "country_name": "Russia",
       "news_count": 2
@@ -1034,6 +1038,11 @@
     {
       "country_code": "JP",
       "country_name": "Japan",
+      "news_count": 1
+    },
+    {
+      "country_code": "MX",
+      "country_name": "Mexico",
       "news_count": 1
     },
     {
