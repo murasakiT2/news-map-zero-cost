@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-07-05T21:31:46Z",
+  "generated_at": "2026-07-05T22:51:42Z",
   "articles": [
+    {
+      "source": "BBC Asia",
+      "title": "A global hub for fake luxury goods, Vietnam cracks down on its black market",
+      "url": "https://www.bbc.co.uk/news/articles/cdx7zzywz7wo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Trump administration wants Vietnam to stamp out its booming counterfeit industry. Locals are divided.",
+      "published_at": "2026-07-05T22:01:43Z",
+      "country_code": "VN",
+      "country_name": "Vietnam"
+    },
+    {
+      "source": "BBC World",
+      "title": "Super Typhoon Bavi makes landfall on US Pacific islands with huge wind gusts",
+      "url": "https://www.bbc.co.uk/news/articles/cr7xpgx50jxo?at_medium=RSS&at_campaign=rss",
+      "summary": "The storm, with winds of nearly 290km/h (180mph) and gusts of 350km/h, is lashing the island of Rota.",
+      "published_at": "2026-07-05T21:39:12Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "Trump thanks Fifa for spending USA striker's ban",
@@ -933,7 +951,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 33
+      "news_count": 34
     },
     {
       "country_code": "VE",
@@ -1073,6 +1091,11 @@
     {
       "country_code": "UA",
       "country_name": "Ukraine",
+      "news_count": 1
+    },
+    {
+      "country_code": "VN",
+      "country_name": "Vietnam",
       "news_count": 1
     }
   ]
