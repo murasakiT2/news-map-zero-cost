@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-07-05T16:54:03Z",
+  "generated_at": "2026-07-05T17:54:41Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Nigeria says two nationals killed in South Africa amid rise of anti-migrant attacks",
+      "url": "https://www.bbc.co.uk/news/articles/cqj11lxwnn0o?at_medium=RSS&at_campaign=rss",
+      "summary": "Nigeria's government said one of its nationals was reportedly killed by police officers \"using gruesome interrogation techniques\".",
+      "published_at": "2026-07-05T17:30:45Z",
+      "country_code": "ZA",
+      "country_name": "South Africa"
+    },
     {
       "source": "BBC World",
       "title": "Iran's supreme leader absent as senior officials attend ayatollah's funeral",
@@ -12,21 +21,21 @@
     },
     {
       "source": "BBC World",
-      "title": "Nigeria says two nationals killed in South Africa amid rise of anti-migrant attacks",
-      "url": "https://www.bbc.co.uk/news/articles/cqj11lxwnn0o?at_medium=RSS&at_campaign=rss",
-      "summary": "Nigeria's government said one of its nationals was reportedly killed by police officers \"using gruesome interrogation techniques\".",
-      "published_at": "2026-07-05T13:09:20Z",
-      "country_code": "ZA",
-      "country_name": "South Africa"
-    },
-    {
-      "source": "BBC World",
       "title": "Australia probes mystery space balls that washed up on beach",
       "url": "https://www.bbc.co.uk/news/articles/c1jyydr7jnjo?at_medium=RSS&at_campaign=rss",
       "summary": "Officials are searching for the origins of six pieces of space debris discovered on Forrest Beach in Queensland.",
       "published_at": "2026-07-05T12:55:58Z",
       "country_code": "AU",
       "country_name": "Australia"
+    },
+    {
+      "source": "BBC Latin America",
+      "title": "England battling history as well as Mexican nation in Azteca cauldron",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvg7z7zxkw9o?at_medium=RSS&at_campaign=rss",
+      "summary": "England will be battling against history as well as entire nation when the face Mexico in the World Cup last 16 at The Azteca, says chief fo…",
+      "published_at": "2026-07-05T11:34:49Z",
+      "country_code": "GB",
+      "country_name": "United Kingdom"
     },
     {
       "source": "BBC World",
@@ -964,6 +973,11 @@
       "news_count": 7
     },
     {
+      "country_code": "GB",
+      "country_name": "United Kingdom",
+      "news_count": 5
+    },
+    {
       "country_code": "CN",
       "country_name": "China",
       "news_count": 4
@@ -976,11 +990,6 @@
     {
       "country_code": "FR",
       "country_name": "France",
-      "news_count": 4
-    },
-    {
-      "country_code": "GB",
-      "country_name": "United Kingdom",
       "news_count": 4
     },
     {
