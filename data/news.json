@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-07-05T01:13:31Z",
+  "generated_at": "2026-07-05T05:27:39Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "US marks its 250th birthday with fireworks, flyovers and extreme weather",
+      "url": "https://www.bbc.co.uk/news/articles/cp9lppvkmz5o?at_medium=RSS&at_campaign=rss",
+      "summary": "US President Donald Trump's speech included some of his political agenda but also honoured war veterans and American history.",
+      "published_at": "2026-07-05T04:38:09Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Moment of destiny for France's Le Pen in verdict to decide her future in presidential race",
+      "url": "https://www.bbc.co.uk/news/articles/c5yzlwz34p7o?at_medium=RSS&at_campaign=rss",
+      "summary": "Far-right leader Marine Le Pen is appealing against a verdict which found her guilty of misusing EU funds.",
+      "published_at": "2026-07-04T23:17:24Z",
+      "country_code": "FR",
+      "country_name": "France"
+    },
     {
       "source": "BBC World",
       "title": "Funeral of Iran's former supreme leader 'intensely political moment'",
@@ -924,7 +942,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 31
+      "news_count": 32
     },
     {
       "country_code": "VE",
@@ -947,6 +965,11 @@
       "news_count": 4
     },
     {
+      "country_code": "FR",
+      "country_name": "France",
+      "news_count": 4
+    },
+    {
       "country_code": "GB",
       "country_name": "United Kingdom",
       "news_count": 4
@@ -959,11 +982,6 @@
     {
       "country_code": "AR",
       "country_name": "Argentina",
-      "news_count": 3
-    },
-    {
-      "country_code": "FR",
-      "country_name": "France",
       "news_count": 3
     },
     {
