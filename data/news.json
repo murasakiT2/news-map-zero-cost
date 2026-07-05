@@ -1,8 +1,17 @@
 {
-  "generated_at": "2026-07-05T22:51:42Z",
+  "generated_at": "2026-07-05T23:56:13Z",
   "articles": [
     {
-      "source": "BBC Asia",
+      "source": "BBC World",
+      "title": "Marine Le Pen appeal verdict: Why this moment matters for France",
+      "url": "https://www.bbc.co.uk/news/articles/clyeele4leeo?at_medium=RSS&at_campaign=rss",
+      "summary": "The leader of France's National Rally leads the opinion polls ahead of the 2027 presidential election and will now find out if she can stand…",
+      "published_at": "2026-07-05T23:31:04Z",
+      "country_code": "FR",
+      "country_name": "France"
+    },
+    {
+      "source": "BBC World",
       "title": "A global hub for fake luxury goods, Vietnam cracks down on its black market",
       "url": "https://www.bbc.co.uk/news/articles/cdx7zzywz7wo?at_medium=RSS&at_campaign=rss",
       "summary": "The Trump administration wants Vietnam to stamp out its booming counterfeit industry. Locals are divided.",
@@ -137,7 +146,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "Moment of destiny for France's Le Pen in verdict to decide her future in presidential race",
       "url": "https://www.bbc.co.uk/news/articles/c5yzlwz34p7o?at_medium=RSS&at_campaign=rss",
       "summary": "Far-right leader Marine Le Pen is appealing against a verdict which found her guilty of misusing EU funds.",
@@ -749,15 +758,6 @@
       "country_name": "Italy"
     },
     {
-      "source": "BBC Asia",
-      "title": "The Bhojpuri singers fighting vulgar tag on one of India's oldest languages",
-      "url": "https://www.bbc.co.uk/news/articles/c20y56y391do?at_medium=RSS&at_campaign=rss",
-      "summary": "Through radically different sounds, two musicians are reshaping how Bhojpuri is heard and understood in their country.",
-      "published_at": "2026-06-26T23:00:04Z",
-      "country_code": "IN",
-      "country_name": "India"
-    },
-    {
       "source": "BBC Middle East",
       "title": "Israel and Lebanon sign framework agreement after US-brokered talks",
       "url": "https://www.bbc.co.uk/news/articles/cg5315n1v5go?at_medium=RSS&at_campaign=rss",
@@ -964,23 +964,18 @@
       "news_count": 9
     },
     {
+      "country_code": "FR",
+      "country_name": "France",
+      "news_count": 5
+    },
+    {
       "country_code": "DE",
       "country_name": "Germany",
       "news_count": 4
     },
     {
-      "country_code": "FR",
-      "country_name": "France",
-      "news_count": 4
-    },
-    {
       "country_code": "GB",
       "country_name": "United Kingdom",
-      "news_count": 4
-    },
-    {
-      "country_code": "IN",
-      "country_name": "India",
       "news_count": 4
     },
     {
@@ -991,6 +986,11 @@
     {
       "country_code": "IL",
       "country_name": "Israel",
+      "news_count": 3
+    },
+    {
+      "country_code": "IN",
+      "country_name": "India",
       "news_count": 3
     },
     {
