@@ -1,6 +1,33 @@
 {
-  "generated_at": "2026-07-06T19:40:26Z",
+  "generated_at": "2026-07-06T21:19:54Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Ukraine warns of interceptor missile shortage as 23 killed in Kyiv region",
+      "url": "https://www.bbc.co.uk/news/articles/cewqqnd7zdwo?at_medium=RSS&at_campaign=rss",
+      "summary": "President Zelensky says Sunday's \"massive Russian attack\" on Kyiv consisted of 68 missiles and 351 strike drones.",
+      "published_at": "2026-07-06T21:02:37Z",
+      "country_code": "UA",
+      "country_name": "Ukraine"
+    },
+    {
+      "source": "BBC Europe",
+      "title": "France's Marine Le Pen, who brought hard-right National Rally to cusp of electoral success",
+      "url": "https://www.bbc.co.uk/news/articles/cdejj03j9ejo?at_medium=RSS&at_campaign=rss",
+      "summary": "She has tasted defeat before, but if the appeal court bars her from running in the 2027 presidential election, it could end her political ca…",
+      "published_at": "2026-07-06T20:57:35Z",
+      "country_code": "FR",
+      "country_name": "France"
+    },
+    {
+      "source": "BBC Europe",
+      "title": "Jordan Bardella: The 'blank canvas' who could be France's youngest president",
+      "url": "https://www.bbc.co.uk/news/articles/cn7558gdvjro?at_medium=RSS&at_campaign=rss",
+      "summary": "Now president of National Rally, Bardella could become the party's candidate for next year's presidential election if Marine Le Pen is barre…",
+      "published_at": "2026-07-06T20:57:17Z",
+      "country_code": "FR",
+      "country_name": "France"
+    },
     {
       "source": "BBC World",
       "title": "Trump confirms he asked Fifa to review Balogun ban",
@@ -63,15 +90,6 @@
       "published_at": "2026-07-06T15:26:29Z",
       "country_code": "ZA",
       "country_name": "South Africa"
-    },
-    {
-      "source": "BBC World",
-      "title": "Ukraine warns of interceptor missile shortage as 23 killed in Kyiv region",
-      "url": "https://www.bbc.co.uk/news/articles/cewqqnd7zdwo?at_medium=RSS&at_campaign=rss",
-      "summary": "President Zelensky says Sunday's \"massive Russian attack\" on Kyiv consisted of 68 missiles and 351 strike drones.",
-      "published_at": "2026-07-06T15:09:57Z",
-      "country_code": "UA",
-      "country_name": "Ukraine"
     },
     {
       "source": "BBC World",
@@ -677,15 +695,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Europe",
-      "title": "'Absolute madness': Row over plan to demolish Nazi bunker under Berlin",
-      "url": "https://www.bbc.co.uk/news/articles/cwy09753nq3o?at_medium=RSS&at_campaign=rss",
-      "summary": "City officials want to build flats on the city centre site but others say it should be preserved as part of Germany's history.",
-      "published_at": "2026-06-30T19:19:42Z",
-      "country_code": "DE",
-      "country_name": "Germany"
-    },
-    {
       "source": "BBC Asia",
       "title": "What are US and Japanese soldiers doing in the middle of the Australian bush?",
       "url": "https://www.bbc.co.uk/news/videos/cyv09p2vy87o?at_medium=RSS&at_campaign=rss",
@@ -910,14 +919,14 @@
       "news_count": 8
     },
     {
+      "country_code": "FR",
+      "country_name": "France",
+      "news_count": 7
+    },
+    {
       "country_code": "CN",
       "country_name": "China",
       "news_count": 6
-    },
-    {
-      "country_code": "FR",
-      "country_name": "France",
-      "news_count": 5
     },
     {
       "country_code": "UA",
@@ -955,11 +964,6 @@
       "news_count": 2
     },
     {
-      "country_code": "DE",
-      "country_name": "Germany",
-      "news_count": 2
-    },
-    {
       "country_code": "KE",
       "country_name": "Kenya",
       "news_count": 2
@@ -978,6 +982,11 @@
       "country_code": "ZA",
       "country_name": "South Africa",
       "news_count": 2
+    },
+    {
+      "country_code": "DE",
+      "country_name": "Germany",
+      "news_count": 1
     },
     {
       "country_code": "DZ",
