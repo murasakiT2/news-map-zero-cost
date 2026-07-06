@@ -1,23 +1,59 @@
 {
-  "generated_at": "2026-07-06T11:21:19Z",
+  "generated_at": "2026-07-06T14:41:00Z",
   "articles": [
     {
-      "source": "BBC US & Canada",
+      "source": "BBC World",
+      "title": "Ukraine warns of interceptor missile shortage as 21 killed in Kyiv region",
+      "url": "https://www.bbc.co.uk/news/articles/cewqqnd7zdwo?at_medium=RSS&at_campaign=rss",
+      "summary": "President Zelensky says Sunday's \"massive Russian attack\" on Kyiv consisted of 68 missiles and 351 strike drones.",
+      "published_at": "2026-07-06T13:41:57Z",
+      "country_code": "UA",
+      "country_name": "Ukraine"
+    },
+    {
+      "source": "BBC World",
+      "title": "Wildfire in southern France forces evacuation of 10,000 people",
+      "url": "https://www.bbc.co.uk/news/articles/crlwweye9glo?at_medium=RSS&at_campaign=rss",
+      "summary": "Tour de France organisers ban spectators from stage three as a wildfire hits the Pyrénées-Orientales region.",
+      "published_at": "2026-07-06T13:08:23Z",
+      "country_code": "FR",
+      "country_name": "France"
+    },
+    {
+      "source": "BBC World",
+      "title": "Watch: Russian attack leaves gaping hole in Kyiv residential building",
+      "url": "https://www.bbc.co.uk/news/videos/cx2xxw99z88o?at_medium=RSS&at_campaign=rss",
+      "summary": "The BBC's Sarah Rainsford is at the scene of one of the blasts to hit Ukraine's capital overnight.",
+      "published_at": "2026-07-06T13:07:23Z",
+      "country_code": "UA",
+      "country_name": "Ukraine"
+    },
+    {
+      "source": "BBC World",
+      "title": "Nigeria says two nationals killed in South Africa amid rise of anti-migrant attacks",
+      "url": "https://www.bbc.co.uk/news/articles/cqj11lxwnn0o?at_medium=RSS&at_campaign=rss",
+      "summary": "Nigeria's government said one of its nationals was reportedly killed by police officers \"using gruesome interrogation techniques\".",
+      "published_at": "2026-07-06T12:28:42Z",
+      "country_code": "ZA",
+      "country_name": "South Africa"
+    },
+    {
+      "source": "BBC World",
+      "title": "Huge crowds fill Tehran streets for Khamenei's funeral procession",
+      "url": "https://www.bbc.co.uk/news/articles/cdejj44kl70o?at_medium=RSS&at_campaign=rss",
+      "summary": "Many people were waving Iranian flags and red banners symbolising vengeance for the former supreme leader's war death.",
+      "published_at": "2026-07-06T12:07:44Z",
+      "country_code": "IR",
+      "country_name": "Iran"
+    },
+    {
+      "source": "BBC World",
       "title": "Is this a breakthrough moment for soccer in the US?",
       "url": "https://www.bbc.co.uk/news/articles/cd6exx1xl4po?at_medium=RSS&at_campaign=rss",
       "summary": "Victory for the national team against Belgium on Monday could mean the sport takes further strides among American audiences.",
       "published_at": "2026-07-06T11:19:47Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "Ukraine warns of interceptor missile shortage as 18 killed in Kyiv region",
-      "url": "https://www.bbc.co.uk/news/articles/cewqqnd7zdwo?at_medium=RSS&at_campaign=rss",
-      "summary": "President Zelensky says Sunday's \"massive Russian attack\" on Kyiv consisted of 68 missiles and 351 strike drones.",
-      "published_at": "2026-07-06T10:21:17Z",
-      "country_code": "UA",
-      "country_name": "Ukraine"
     },
     {
       "source": "BBC World",
@@ -29,15 +65,6 @@
       "country_name": "Australia"
     },
     {
-      "source": "BBC World",
-      "title": "Nigeria says two nationals killed in South Africa amid rise of anti-migrant attacks",
-      "url": "https://www.bbc.co.uk/news/articles/cqj11lxwnn0o?at_medium=RSS&at_campaign=rss",
-      "summary": "Nigeria's government said one of its nationals was reportedly killed by police officers \"using gruesome interrogation techniques\".",
-      "published_at": "2026-07-06T09:50:30Z",
-      "country_code": "ZA",
-      "country_name": "South Africa"
-    },
-    {
       "source": "BBC Asia",
       "title": "China tests missile in the Pacific hours after Australia-Fiji alliance signed",
       "url": "https://www.bbc.co.uk/news/articles/c30yy6jj8p1o?at_medium=RSS&at_campaign=rss",
@@ -47,13 +74,22 @@
       "country_name": "China"
     },
     {
-      "source": "BBC US & Canada",
+      "source": "BBC World",
       "title": "Red card system in disarray over Trump, Fifa and Balogun decision",
       "url": "https://www.bbc.co.uk/sport/football/articles/cly99dxjkxxo?at_medium=RSS&at_campaign=rss",
       "summary": "The decision to effectively overturn the red card shown to United States forward Folarin Balogun leaves many unanswered questions.",
       "published_at": "2026-07-06T09:06:26Z",
       "country_code": "US",
       "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Why an anti-sacrilege law in India's Punjab has sparked controversy",
+      "url": "https://www.bbc.co.uk/news/articles/crlw1xrzd8yo?at_medium=RSS&at_campaign=rss",
+      "summary": "The dispute has revived one of Punjab's most sensitive political and religious issues ahead of state elections next year.",
+      "published_at": "2026-07-06T08:35:56Z",
+      "country_code": "IN",
+      "country_name": "India"
     },
     {
       "source": "BBC World",
@@ -218,7 +254,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "Scorching heat and delays: How Washington DC marked America 250",
       "url": "https://www.bbc.co.uk/news/videos/cwyk2ypj014o?at_medium=RSS&at_campaign=rss",
       "summary": "The United States of America marked its 250th birthday with fireworks, flyovers, some intense weather across the country.",
@@ -227,7 +263,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Middle East",
       "title": "How Iran's new regime is very different to what came before",
       "url": "https://www.bbc.co.uk/news/articles/cg534ryp660o?at_medium=RSS&at_campaign=rss",
       "summary": "Khamenei's funeral is another reminder of the change Iran has seen, but what does its new leadership want?",
@@ -236,7 +272,7 @@
       "country_name": "Iran"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "France survive Paraguay's 'disgraceful' and 'embarrassing' dark arts",
       "url": "https://www.bbc.co.uk/sport/football/articles/cn4dpd11v1eo?at_medium=RSS&at_campaign=rss",
       "summary": "After dismantling all before them at this World Cup, France had to find a new way to win against a Paraguay side whose use of the dark arts …",
@@ -245,7 +281,7 @@
       "country_name": "France"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "Cowboys, fighter jets and US Border Patrol - inside Trump's big recruitment drive",
       "url": "https://www.bbc.co.uk/news/articles/ce3ex7rnpg6o?at_medium=RSS&at_campaign=rss",
       "summary": "Space Force and Customs and Border Patrol are using a rodeo as a way to drive up recruitment numbers.",
@@ -344,7 +380,7 @@
       "country_name": "Argentina"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Africa",
       "title": "More cows than pupils - what is behind mass school closures in rural Kenya?",
       "url": "https://www.bbc.co.uk/news/articles/cy72mn3m7l3o?at_medium=RSS&at_campaign=rss",
       "summary": "More than 2,000 primary schools are facing closure as enrolment numbers plummet.",
@@ -497,15 +533,6 @@
       "country_name": "Germany"
     },
     {
-      "source": "BBC US & Canada",
-      "title": "Rare copy of US Declaration of Independence found by volunteer in UK archives",
-      "url": "https://www.bbc.co.uk/news/articles/cgrkl104ly5o?at_medium=RSS&at_campaign=rss",
-      "summary": "The newly discovered copy is one of only 11 of its kind in the world.",
-      "published_at": "2026-07-02T23:39:29Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC Middle East",
       "title": "On the Strait of Hormuz, BBC finds seized ships and shark fishermen as uneasy calm returns",
       "url": "https://www.bbc.co.uk/news/articles/cvg53ngvvpxo?at_medium=RSS&at_campaign=rss",
@@ -531,6 +558,15 @@
       "published_at": "2026-07-02T22:00:11Z",
       "country_code": "JP",
       "country_name": "Japan"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "Former Olympian indicted for allegedly vandalising Washington Reflecting Pool",
+      "url": "https://www.bbc.co.uk/news/articles/c2ky3p9jlveo?at_medium=RSS&at_campaign=rss",
+      "summary": "US authorities charged him with property destruction after renovations championed by President Donald Trump appeared to go awry.",
+      "published_at": "2026-07-02T20:34:52Z",
+      "country_code": "US",
+      "country_name": "United States"
     },
     {
       "source": "BBC Latin America",
@@ -891,14 +927,14 @@
       "news_count": 27
     },
     {
-      "country_code": "VE",
-      "country_name": "Venezuela",
+      "country_code": "IR",
+      "country_name": "Iran",
       "news_count": 9
     },
     {
-      "country_code": "IR",
-      "country_name": "Iran",
-      "news_count": 8
+      "country_code": "VE",
+      "country_name": "Venezuela",
+      "news_count": 9
     },
     {
       "country_code": "CN",
@@ -906,13 +942,18 @@
       "news_count": 6
     },
     {
+      "country_code": "FR",
+      "country_name": "France",
+      "news_count": 5
+    },
+    {
       "country_code": "DE",
       "country_name": "Germany",
       "news_count": 4
     },
     {
-      "country_code": "FR",
-      "country_name": "France",
+      "country_code": "UA",
+      "country_name": "Ukraine",
       "news_count": 4
     },
     {
@@ -926,23 +967,18 @@
       "news_count": 3
     },
     {
+      "country_code": "IN",
+      "country_name": "India",
+      "news_count": 3
+    },
+    {
       "country_code": "MA",
       "country_name": "Morocco",
       "news_count": 3
     },
     {
-      "country_code": "UA",
-      "country_name": "Ukraine",
-      "news_count": 3
-    },
-    {
       "country_code": "AU",
       "country_name": "Australia",
-      "news_count": 2
-    },
-    {
-      "country_code": "IN",
-      "country_name": "India",
       "news_count": 2
     },
     {
