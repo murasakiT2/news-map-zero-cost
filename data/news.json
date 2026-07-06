@@ -1,6 +1,33 @@
 {
-  "generated_at": "2026-07-05T23:56:13Z",
+  "generated_at": "2026-07-06T02:28:09Z",
   "articles": [
+    {
+      "source": "BBC Asia",
+      "title": "Backlash after China bubble tea firm ordered to pay Louis Vuitton $1.5m",
+      "url": "https://www.bbc.co.uk/news/articles/cwykk095yzzo?at_medium=RSS&at_campaign=rss",
+      "summary": "A court in China ruled that Molly Tea had infringed on the luxury brand's four-petal flower design.",
+      "published_at": "2026-07-06T02:19:25Z",
+      "country_code": "CN",
+      "country_name": "China"
+    },
+    {
+      "source": "BBC World",
+      "title": "Super Typhoon Bavi makes landfall on US Pacific islands with huge wind gusts",
+      "url": "https://www.bbc.co.uk/news/articles/cr7xpgx50jxo?at_medium=RSS&at_campaign=rss",
+      "summary": "The storm, with winds of nearly 290km/h (180mph) and gusts of 350km/h, is lashing the island of Rota.",
+      "published_at": "2026-07-06T00:20:20Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Bangladesh courts China even as ties with India improve",
+      "url": "https://www.bbc.co.uk/news/articles/cy4e1lzwgvxo?at_medium=RSS&at_campaign=rss",
+      "summary": "Relations between Dhaka and Delhi, that turned frosty under the interim government, are on the mend.",
+      "published_at": "2026-07-06T00:02:29Z",
+      "country_code": "CN",
+      "country_name": "China"
+    },
     {
       "source": "BBC World",
       "title": "Marine Le Pen appeal verdict: Why this moment matters for France",
@@ -18,24 +45,6 @@
       "published_at": "2026-07-05T22:01:43Z",
       "country_code": "VN",
       "country_name": "Vietnam"
-    },
-    {
-      "source": "BBC World",
-      "title": "Super Typhoon Bavi makes landfall on US Pacific islands with huge wind gusts",
-      "url": "https://www.bbc.co.uk/news/articles/cr7xpgx50jxo?at_medium=RSS&at_campaign=rss",
-      "summary": "The storm, with winds of nearly 290km/h (180mph) and gusts of 350km/h, is lashing the island of Rota.",
-      "published_at": "2026-07-05T21:39:12Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "Trump thanks Fifa for spending USA striker's ban",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cewqq5q8v41o?at_medium=RSS&at_campaign=rss",
-      "summary": "Folarin Balogun is available to play for the United States in their World Cup last-16 tie against Belgium after his one-game ban is suspende…",
-      "published_at": "2026-07-05T19:36:11Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC World",
@@ -360,24 +369,6 @@
       "published_at": "2026-07-03T09:56:57Z",
       "country_code": "PK",
       "country_name": "Pakistan"
-    },
-    {
-      "source": "BBC Asia",
-      "title": "Pakistan syndicate allegedly smuggled human placentas, say police",
-      "url": "https://www.bbc.co.uk/news/articles/c8r2485pngyo?at_medium=RSS&at_campaign=rss",
-      "summary": "The placenta was meant to be exported to be made into anti-ageing injections, say police.",
-      "published_at": "2026-07-03T09:39:09Z",
-      "country_code": "PK",
-      "country_name": "Pakistan"
-    },
-    {
-      "source": "BBC Asia",
-      "title": "India crèche worker arrested after allegations of putting toddlers in washing machine",
-      "url": "https://www.bbc.co.uk/news/articles/cjeg4j3kjego?at_medium=RSS&at_campaign=rss",
-      "summary": "The arrest came after videos allegedly showing crèche workers assaulting crying children surfaced online.",
-      "published_at": "2026-07-03T09:23:10Z",
-      "country_code": "IN",
-      "country_name": "India"
     },
     {
       "source": "BBC Africa",
@@ -951,7 +942,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 34
+      "news_count": 33
     },
     {
       "country_code": "VE",
@@ -962,6 +953,11 @@
       "country_code": "IR",
       "country_name": "Iran",
       "news_count": 9
+    },
+    {
+      "country_code": "CN",
+      "country_name": "China",
+      "news_count": 5
     },
     {
       "country_code": "FR",
@@ -979,18 +975,8 @@
       "news_count": 4
     },
     {
-      "country_code": "CN",
-      "country_name": "China",
-      "news_count": 3
-    },
-    {
       "country_code": "IL",
       "country_name": "Israel",
-      "news_count": 3
-    },
-    {
-      "country_code": "IN",
-      "country_name": "India",
       "news_count": 3
     },
     {
@@ -999,9 +985,9 @@
       "news_count": 3
     },
     {
-      "country_code": "PK",
-      "country_name": "Pakistan",
-      "news_count": 3
+      "country_code": "IN",
+      "country_name": "India",
+      "news_count": 2
     },
     {
       "country_code": "IT",
@@ -1011,6 +997,11 @@
     {
       "country_code": "KE",
       "country_name": "Kenya",
+      "news_count": 2
+    },
+    {
+      "country_code": "PK",
+      "country_name": "Pakistan",
       "news_count": 2
     },
     {
