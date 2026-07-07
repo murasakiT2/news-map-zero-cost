@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-07-07T21:14:01Z",
+  "generated_at": "2026-07-07T22:34:33Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "US launches strikes on Iran after tankers hit in Strait of Hormuz",
+      "url": "https://www.bbc.co.uk/news/articles/cwykq59jwpvo?at_medium=RSS&at_campaign=rss",
+      "summary": "The US Central Command says the strikes are intended to impose \"heavy costs\" on Iran.",
+      "published_at": "2026-07-07T22:19:40Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC Europe",
+      "title": "France's Marine Le Pen, fighting court conviction and running for presidency",
+      "url": "https://www.bbc.co.uk/news/articles/cdejj03j9ejo?at_medium=RSS&at_campaign=rss",
+      "summary": "A profile of France's hard-right leader who leads the polls - but now faces a court challenge to her conviction for embezzlement.",
+      "published_at": "2026-07-07T21:22:25Z",
+      "country_code": "FR",
+      "country_name": "France"
+    },
     {
       "source": "BBC World",
       "title": "Trump looms large as Nato grapples with challenge of rearming Europe",
@@ -106,15 +124,6 @@
       "url": "https://www.bbc.co.uk/news/articles/cn7558gdvjro?at_medium=RSS&at_campaign=rss",
       "summary": "Now president of National Rally, Bardella could become the party's candidate for next year's presidential election if Marine Le Pen is barre…",
       "published_at": "2026-07-07T06:37:31Z",
-      "country_code": "FR",
-      "country_name": "France"
-    },
-    {
-      "source": "BBC Europe",
-      "title": "France's Marine Le Pen, who brought hard-right National Rally to cusp of electoral success",
-      "url": "https://www.bbc.co.uk/news/articles/cdejj03j9ejo?at_medium=RSS&at_campaign=rss",
-      "summary": "She has tasted defeat before, but if the appeal court bars her from running in the 2027 presidential election, it could end her political ca…",
-      "published_at": "2026-07-07T06:35:00Z",
       "country_code": "FR",
       "country_name": "France"
     },
@@ -861,7 +870,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 22
+      "news_count": 23
     },
     {
       "country_code": "VE",
