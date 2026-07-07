@@ -1,14 +1,23 @@
 {
-  "generated_at": "2026-07-07T15:39:12Z",
+  "generated_at": "2026-07-07T17:50:26Z",
   "articles": [
     {
       "source": "BBC World",
       "title": "Woman suspected of Monaco bomb attack found dead in Ukraine",
       "url": "https://www.bbc.co.uk/news/articles/c5yz3770yg8o?at_medium=RSS&at_campaign=rss",
       "summary": "Police had been hunting Anastasiia Berezovska after a Ukrainian millionaire was injured in the blast.",
-      "published_at": "2026-07-07T14:08:57Z",
+      "published_at": "2026-07-07T16:31:04Z",
       "country_code": "UA",
       "country_name": "Ukraine"
+    },
+    {
+      "source": "BBC World",
+      "title": "Lawyer says detained Gaza doctor was severely beaten in Israeli jail",
+      "url": "https://www.bbc.co.uk/news/articles/c07yy3pgrlmo?at_medium=RSS&at_campaign=rss",
+      "summary": "The lawyer for Dr Hussam Abu Safiya tells the BBC his client was so badly beaten he could not recognise him during a visit last week.",
+      "published_at": "2026-07-07T16:10:14Z",
+      "country_code": "PS",
+      "country_name": "Palestine"
     },
     {
       "source": "BBC World",
@@ -146,7 +155,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Asia",
+      "source": "BBC World",
       "title": "China sentences official to death for taking $325m in bribes",
       "url": "https://www.bbc.co.uk/news/articles/c33y0n1v1xjo?at_medium=RSS&at_campaign=rss",
       "summary": "The 69-year-old helped companies secure valuable contracts in exchange for money, a court heard.",
@@ -389,7 +398,7 @@
       "country_name": "Mexico"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Latin America",
       "title": "'I ate ketchup and cheese,' says Venezuelan girl trapped under quake rubble for 32 hours",
       "url": "https://www.bbc.co.uk/news/articles/c9922x87nj8o?at_medium=RSS&at_campaign=rss",
       "summary": "Fabiana was trapped in the rubble of a 10-storey residential building after two earthquakes rocked Venezuela in June.",
@@ -450,15 +459,6 @@
       "published_at": "2026-07-05T11:05:45Z",
       "country_code": "MA",
       "country_name": "Morocco"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "US marks 250th birthday with fireworks, flyovers and extreme weather",
-      "url": "https://www.bbc.co.uk/news/articles/cp9lppvkmz5o?at_medium=RSS&at_campaign=rss",
-      "summary": "US President Donald Trump's speech included some of his political agenda but also honoured war veterans and American history.",
-      "published_at": "2026-07-05T08:24:32Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC US & Canada",
@@ -891,22 +891,13 @@
       "published_at": "2026-06-15T14:26:28Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC Middle East",
-      "title": "Trump aims to end Iran war but nuclear issue remains unresolved",
-      "url": "https://www.bbc.co.uk/news/articles/cqj1zxv1jyeo?at_medium=RSS&at_campaign=rss",
-      "summary": "President Trump says the US and Iran have agreed a deal to end the war but it is unclear what has been agreed on Iran's nuclear programme",
-      "published_at": "2026-06-15T13:54:18Z",
-      "country_code": "US",
-      "country_name": "United States"
     }
   ],
   "regions": [
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 25
+      "news_count": 23
     },
     {
       "country_code": "VE",
@@ -989,6 +980,11 @@
       "news_count": 2
     },
     {
+      "country_code": "PS",
+      "country_name": "Palestine",
+      "news_count": 2
+    },
+    {
       "country_code": "RU",
       "country_name": "Russia",
       "news_count": 2
@@ -1011,11 +1007,6 @@
     {
       "country_code": "PE",
       "country_name": "Peru",
-      "news_count": 1
-    },
-    {
-      "country_code": "PS",
-      "country_name": "Palestine",
       "news_count": 1
     },
     {
