@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-07T19:39:16Z",
+  "generated_at": "2026-07-07T21:14:01Z",
   "articles": [
     {
       "source": "BBC World",
@@ -308,15 +308,6 @@
       "country_name": "France"
     },
     {
-      "source": "BBC World",
-      "title": "Watch: Russian attack leaves gaping hole in Kyiv residential building",
-      "url": "https://www.bbc.co.uk/news/videos/cx2xxw99z88o?at_medium=RSS&at_campaign=rss",
-      "summary": "The BBC's Sarah Rainsford is at the scene of one of the blasts to hit Ukraine's capital overnight.",
-      "published_at": "2026-07-06T13:07:23Z",
-      "country_code": "UA",
-      "country_name": "Ukraine"
-    },
-    {
       "source": "BBC Europe",
       "title": "Russian attack leaves gaping hole in Kyiv residential building",
       "url": "https://www.bbc.co.uk/news/videos/cx2xxw99z88o?at_medium=RSS&at_campaign=rss",
@@ -344,7 +335,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "Watch: Why Australia's PM apologised for 'inappropriate' Kylie comments",
       "url": "https://www.bbc.co.uk/news/videos/c1kyylkz9vyo?at_medium=RSS&at_campaign=rss",
       "summary": "Australian Prime Minister Anthony Albanese has apologised for remarks he made about popstar Kylie Minogue in a podcast interview last week.",
@@ -371,7 +362,7 @@
       "country_name": "India"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Latin America",
       "title": "Girl trapped in Venezuela quake 'survived on ketchup and cheese'",
       "url": "https://www.bbc.co.uk/news/videos/cjrggj051pvo?at_medium=RSS&at_campaign=rss",
       "summary": "BBC international correspondent Yogita Limayee meets 12-year-old Fabiana, who was trapped in Venezuela's devastating earthquakes.",
@@ -380,7 +371,7 @@
       "country_name": "Venezuela"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "Why Ukrainian strikes on annexed Crimea are a blow to Putin",
       "url": "https://www.bbc.co.uk/news/videos/c2dy21549w1o?at_medium=RSS&at_campaign=rss",
       "summary": "Eastern Europe correspondent Sarah Rainsford explains why Crimea is a target for Kyiv, and why the peninsula matters to Vladimir Putin.",
@@ -468,15 +459,6 @@
       "published_at": "2026-07-05T11:05:45Z",
       "country_code": "MA",
       "country_name": "Morocco"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "Scorching heat and delays: How Washington DC marked America 250",
-      "url": "https://www.bbc.co.uk/news/videos/cwyk2ypj014o?at_medium=RSS&at_campaign=rss",
-      "summary": "The United States of America marked its 250th birthday with fireworks, flyovers, some intense weather across the country.",
-      "published_at": "2026-07-05T07:19:08Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC Middle East",
@@ -659,15 +641,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Europe",
-      "title": "Watch: BBC at site of deadly Russian attack on Kyiv flats",
-      "url": "https://www.bbc.co.uk/news/videos/c33yl1l8dkro?at_medium=RSS&at_campaign=rss",
-      "summary": "Sarah Rainsford reports from the completely destroyed nine-storey block of flats in Ukraine's capital.",
-      "published_at": "2026-07-02T12:37:02Z",
-      "country_code": "UA",
-      "country_name": "Ukraine"
-    },
-    {
       "source": "BBC Middle East",
       "title": "'Two weeks after her death I got a call': Gaza patients face agonising delays for evacuation",
       "url": "https://www.bbc.co.uk/news/articles/cn75ex1dv61o?at_medium=RSS&at_campaign=rss",
@@ -702,15 +675,6 @@
       "published_at": "2026-07-01T06:10:43Z",
       "country_code": "VE",
       "country_name": "Venezuela"
-    },
-    {
-      "source": "BBC Europe",
-      "title": "Watch: Mount Etna eruption creates trail of bright orange lava",
-      "url": "https://www.bbc.co.uk/news/videos/cy4ew7dyv7go?at_medium=RSS&at_campaign=rss",
-      "summary": "A stream of thick orange lava was seen trailing from Europe's biggest active volcano, Mount Etna in Italy, snaking through the mountain.",
-      "published_at": "2026-07-01T03:33:48Z",
-      "country_code": "IT",
-      "country_name": "Italy"
     },
     {
       "source": "BBC Middle East",
@@ -897,7 +861,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 23
+      "news_count": 22
     },
     {
       "country_code": "VE",
@@ -920,14 +884,14 @@
       "news_count": 6
     },
     {
-      "country_code": "UA",
-      "country_name": "Ukraine",
-      "news_count": 6
-    },
-    {
       "country_code": "GB",
       "country_name": "United Kingdom",
       "news_count": 5
+    },
+    {
+      "country_code": "UA",
+      "country_name": "Ukraine",
+      "news_count": 4
     },
     {
       "country_code": "IL",
@@ -992,11 +956,6 @@
     {
       "country_code": "AU",
       "country_name": "Australia",
-      "news_count": 1
-    },
-    {
-      "country_code": "IT",
-      "country_name": "Italy",
       "news_count": 1
     },
     {
