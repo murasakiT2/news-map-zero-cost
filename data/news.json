@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-07-08T22:54:43Z",
+  "generated_at": "2026-07-08T23:58:54Z",
   "articles": [
+    {
+      "source": "BBC Africa",
+      "title": "International court tells BBC of breakthrough in Sudan war crimes probe",
+      "url": "https://www.bbc.co.uk/news/articles/c9928zr2m5xo?at_medium=RSS&at_campaign=rss",
+      "summary": "The ICC has been looking into atrocities committed in Darfur over the past three years.",
+      "published_at": "2026-07-08T23:40:57Z",
+      "country_code": "SD",
+      "country_name": "Sudan"
+    },
     {
       "source": "BBC World",
       "title": "US launches more strikes on Iran with blasts reported in south of country",
@@ -1016,6 +1025,11 @@
       "news_count": 2
     },
     {
+      "country_code": "SD",
+      "country_name": "Sudan",
+      "news_count": 2
+    },
+    {
       "country_code": "TR",
       "country_name": "Turkey",
       "news_count": 2
@@ -1068,11 +1082,6 @@
     {
       "country_code": "SA",
       "country_name": "Saudi Arabia",
-      "news_count": 1
-    },
-    {
-      "country_code": "SD",
-      "country_name": "Sudan",
       "news_count": 1
     },
     {
