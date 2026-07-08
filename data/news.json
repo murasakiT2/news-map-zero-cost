@@ -1,14 +1,59 @@
 {
-  "generated_at": "2026-07-08T04:58:01Z",
+  "generated_at": "2026-07-08T07:25:59Z",
   "articles": [
     {
       "source": "BBC World",
       "title": "US and Iran trade strikes after tankers hit in Strait of Hormuz",
       "url": "https://www.bbc.co.uk/news/articles/cwykq59jwpvo?at_medium=RSS&at_campaign=rss",
-      "summary": "The US military says it hit missile sites and command centres while Iran says it fired missiles and drones at US bases.",
-      "published_at": "2026-07-08T04:43:44Z",
+      "summary": "The US military says it hit missile sites and command centres while Iran says it attacked US bases.",
+      "published_at": "2026-07-08T06:36:05Z",
       "country_code": "US",
       "country_name": "United States"
+    },
+    {
+      "source": "BBC Asia",
+      "title": "Trains and emergency calls affected after major outage at Australia's largest telecoms company",
+      "url": "https://www.bbc.co.uk/news/articles/cgevw0d95pdo?at_medium=RSS&at_campaign=rss",
+      "summary": "Servers at data centres in Sydney and Melbourne were to blame but the exact cause remains unknown.",
+      "published_at": "2026-07-08T06:32:21Z",
+      "country_code": "AU",
+      "country_name": "Australia"
+    },
+    {
+      "source": "BBC World",
+      "title": "Australia dock workers call for 28-hour week in AI talks",
+      "url": "https://www.bbc.co.uk/news/articles/cd95wendvdeo?at_medium=RSS&at_campaign=rss",
+      "summary": "A union says workers are \"in the crosshairs\" of automation as AI is being tested across ports.",
+      "published_at": "2026-07-08T06:06:12Z",
+      "country_code": "AU",
+      "country_name": "Australia"
+    },
+    {
+      "source": "BBC World",
+      "title": "Nato allies announce £37bn for new missile project",
+      "url": "https://www.bbc.co.uk/news/articles/ckg4e3lwzqzo?at_medium=RSS&at_campaign=rss",
+      "summary": "Prime Minister Sir Keir Starmer will convene around a dozen leaders to discuss the programme in Ankara.",
+      "published_at": "2026-07-08T05:57:53Z",
+      "country_code": "TR",
+      "country_name": "Turkey"
+    },
+    {
+      "source": "BBC Asia",
+      "title": "What's at stake in Philippines' vice-president impeachment trial?",
+      "url": "https://www.bbc.co.uk/news/articles/cpwjrd1z5y0o?at_medium=RSS&at_campaign=rss",
+      "summary": "The political deathmatch between the country's ruling dynasties enters a critical new theatre.",
+      "published_at": "2026-07-08T05:44:39Z",
+      "country_code": "PH",
+      "country_name": "Philippines"
+    },
+    {
+      "source": "BBC World",
+      "title": "Russian fuel shortages bite – but will Putin change tack in Ukraine war?",
+      "url": "https://www.bbc.co.uk/news/articles/cr7xk8j0j2do?at_medium=RSS&at_campaign=rss",
+      "summary": "Even in Moscow, authorities are unable to guarantee fuel supplies, but will economic pressure lead to talks or escalation?",
+      "published_at": "2026-07-08T05:05:31Z",
+      "country_code": "RU",
+      "country_name": "Russia"
     },
     {
       "source": "BBC Asia",
@@ -18,15 +63,6 @@
       "published_at": "2026-07-08T04:22:48Z",
       "country_code": "ID",
       "country_name": "Indonesia"
-    },
-    {
-      "source": "BBC World",
-      "title": "Nato allies announce £37bn for new missile project",
-      "url": "https://www.bbc.co.uk/news/articles/ckg4e3lwzqzo?at_medium=RSS&at_campaign=rss",
-      "summary": "Prime Minister Sir Keir Starmer will convene around a dozen leaders to discuss the programme in Ankara.",
-      "published_at": "2026-07-08T03:12:00Z",
-      "country_code": "TR",
-      "country_name": "Turkey"
     },
     {
       "source": "BBC US & Canada",
@@ -47,17 +83,8 @@
       "country_name": "France"
     },
     {
-      "source": "BBC World",
-      "title": "Australia dock workers call for 28-hour week in AI talks",
-      "url": "https://www.bbc.co.uk/news/articles/cd95wendvdeo?at_medium=RSS&at_campaign=rss",
-      "summary": "A union says workers are \"in the crosshairs\" of automation as AI is being tested across ports.",
-      "published_at": "2026-07-08T01:48:47Z",
-      "country_code": "AU",
-      "country_name": "Australia"
-    },
-    {
       "source": "BBC Asia",
-      "title": "Search under way for cargo plane that vanished off Pakistan coast",
+      "title": "Search under way after Boeing 737 plane vanishes off Pakistan coast",
       "url": "https://www.bbc.co.uk/news/articles/cn4dn1d55njo?at_medium=RSS&at_campaign=rss",
       "summary": "The plane, carrying five people, rapidly descended before losing contact, authorities say.",
       "published_at": "2026-07-08T01:11:50Z",
@@ -92,11 +119,38 @@
       "country_name": "India"
     },
     {
+      "source": "BBC Africa",
+      "title": "Egypt fume at 'injustice' and make Messi favouritism claims after exit",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c5yzd23jll5o?at_medium=RSS&at_campaign=rss",
+      "summary": "BBC Sport unpicks a game that will go down in World Cup history for featuring a team who were two goals down so late on, but who went on to …",
+      "published_at": "2026-07-07T21:33:21Z",
+      "country_code": "EG",
+      "country_name": "Egypt"
+    },
+    {
       "source": "BBC Europe",
       "title": "France's Marine Le Pen, fighting court conviction and running for presidency",
       "url": "https://www.bbc.co.uk/news/articles/cdejj03j9ejo?at_medium=RSS&at_campaign=rss",
       "summary": "A profile of France's hard-right leader who leads the polls - but now faces a court challenge to her conviction for embezzlement.",
       "published_at": "2026-07-07T21:22:25Z",
+      "country_code": "FR",
+      "country_name": "France"
+    },
+    {
+      "source": "BBC Latin America",
+      "title": "Tears of relief? Messi adds another incredible chapter to World Cup career",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cz6v407y3qjo?at_medium=RSS&at_campaign=rss",
+      "summary": "Argentina great Lionel Messi sheds tears as they fight back to beat Egypt and reach the World Cup quarter-finals.",
+      "published_at": "2026-07-07T20:28:19Z",
+      "country_code": "EG",
+      "country_name": "Egypt"
+    },
+    {
+      "source": "BBC Europe",
+      "title": "Presidency bid while continuing court fight a gamble for Le Pen",
+      "url": "https://www.bbc.co.uk/news/articles/cevlm2rlgwmo?at_medium=RSS&at_campaign=rss",
+      "summary": "Hard-right leader Marine Le Pen is appealing her case to France's top civil court, but it could backfire.",
+      "published_at": "2026-07-07T20:13:13Z",
       "country_code": "FR",
       "country_name": "France"
     },
@@ -187,15 +241,6 @@
       "url": "https://www.bbc.co.uk/news/articles/cn7558gdvjro?at_medium=RSS&at_campaign=rss",
       "summary": "Now president of National Rally, Bardella could become the party's candidate for next year's presidential election if Marine Le Pen is barre…",
       "published_at": "2026-07-07T06:37:31Z",
-      "country_code": "FR",
-      "country_name": "France"
-    },
-    {
-      "source": "BBC Europe",
-      "title": "Marine Le Pen's moment of truth: Why Tuesday court verdict matters for France",
-      "url": "https://www.bbc.co.uk/news/articles/clyeele4leeo?at_medium=RSS&at_campaign=rss",
-      "summary": "The leader of France's National Rally leads the opinion polls ahead of the 2027 presidential election and will now find out if she can stand…",
-      "published_at": "2026-07-07T06:28:56Z",
       "country_code": "FR",
       "country_name": "France"
     },
@@ -381,15 +426,6 @@
     },
     {
       "source": "BBC Asia",
-      "title": "Watch: Why Australia's PM apologised for 'inappropriate' Kylie comments",
-      "url": "https://www.bbc.co.uk/news/videos/c1kyylkz9vyo?at_medium=RSS&at_campaign=rss",
-      "summary": "Australian Prime Minister Anthony Albanese has apologised for remarks he made about popstar Kylie Minogue in a podcast interview last week.",
-      "published_at": "2026-07-06T10:00:08Z",
-      "country_code": "AU",
-      "country_name": "Australia"
-    },
-    {
-      "source": "BBC Asia",
       "title": "China tests missile in the Pacific hours after Australia-Fiji alliance signed",
       "url": "https://www.bbc.co.uk/news/articles/c30yy6jj8p1o?at_medium=RSS&at_campaign=rss",
       "summary": "The test launch came hours after Australia signed a new defence pact with its Pacific island neighbour Fiji.",
@@ -524,15 +560,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Europe",
-      "title": "Moment of destiny for France's Le Pen in verdict to decide her future in presidential race",
-      "url": "https://www.bbc.co.uk/news/articles/c5yzlwz34p7o?at_medium=RSS&at_campaign=rss",
-      "summary": "Far-right leader Marine Le Pen is appealing against a verdict which found her guilty of misusing EU funds.",
-      "published_at": "2026-07-04T23:17:24Z",
-      "country_code": "FR",
-      "country_name": "France"
-    },
-    {
       "source": "BBC Africa",
       "title": "Unbeaten in 34 matches - why Morocco are World Cup contenders",
       "url": "https://www.bbc.co.uk/sport/football/articles/cy4e22gqe50o?at_medium=RSS&at_campaign=rss",
@@ -585,24 +612,6 @@
       "published_at": "2026-07-04T00:51:44Z",
       "country_code": "KE",
       "country_name": "Kenya"
-    },
-    {
-      "source": "BBC Europe",
-      "title": "Russia looks to students to make up for mounting losses in Ukraine",
-      "url": "https://www.bbc.co.uk/news/articles/cp8lnnr080go?at_medium=RSS&at_campaign=rss",
-      "summary": "Moscow's campaign for students to sign army contracts comes as the Kremlin seeks to sustain its war effort for a fifth year.",
-      "published_at": "2026-07-03T23:24:20Z",
-      "country_code": "RU",
-      "country_name": "Russia"
-    },
-    {
-      "source": "BBC Asia",
-      "title": "China's internet got so mad about a celebrity's 'bad' singing, her concert was cancelled",
-      "url": "https://www.bbc.co.uk/news/articles/cdx7d254lrjo?at_medium=RSS&at_campaign=rss",
-      "summary": "Celebrities have become outlets for young people's social and economic frustrations.",
-      "published_at": "2026-07-03T22:46:42Z",
-      "country_code": "CN",
-      "country_name": "China"
     },
     {
       "source": "BBC Latin America",
@@ -693,15 +702,6 @@
       "published_at": "2026-07-02T04:59:55Z",
       "country_code": "PS",
       "country_name": "Palestine"
-    },
-    {
-      "source": "BBC Europe",
-      "title": "Turkish police beat us with iron rods before we lost limbs to frostbite, Afghans say",
-      "url": "https://www.bbc.co.uk/news/articles/ce8k4pz91n5o?at_medium=RSS&at_campaign=rss",
-      "summary": "The young migrants heading to Europe say they were stripped and had their hands tied in freezing temperatures.",
-      "published_at": "2026-07-01T22:13:03Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC Middle East",
@@ -897,7 +897,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 22
+      "news_count": 21
     },
     {
       "country_code": "VE",
@@ -905,19 +905,19 @@
       "news_count": 9
     },
     {
-      "country_code": "FR",
-      "country_name": "France",
-      "news_count": 7
-    },
-    {
       "country_code": "IR",
       "country_name": "Iran",
       "news_count": 7
     },
     {
+      "country_code": "FR",
+      "country_name": "France",
+      "news_count": 6
+    },
+    {
       "country_code": "CN",
       "country_name": "China",
-      "news_count": 6
+      "news_count": 5
     },
     {
       "country_code": "GB",
@@ -970,6 +970,11 @@
       "news_count": 2
     },
     {
+      "country_code": "EG",
+      "country_name": "Egypt",
+      "news_count": 2
+    },
+    {
       "country_code": "KE",
       "country_name": "Kenya",
       "news_count": 2
@@ -1012,6 +1017,11 @@
     {
       "country_code": "PE",
       "country_name": "Peru",
+      "news_count": 1
+    },
+    {
+      "country_code": "PH",
+      "country_name": "Philippines",
       "news_count": 1
     },
     {
