@@ -1,6 +1,51 @@
 {
-  "generated_at": "2026-07-08T13:28:38Z",
+  "generated_at": "2026-07-08T15:40:10Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Bowen: For all his bluster, Trump has no better option than talks with Iran",
+      "url": "https://www.bbc.co.uk/news/articles/cy8we3j14ndo?at_medium=RSS&at_campaign=rss",
+      "summary": "The negotiating process is fragile and recent US strikes show how hard it will be to reach agreement, writes BBC's International Editor Jere…",
+      "published_at": "2026-07-08T15:30:00Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Khamenei's coffin carried through Shia shrines as ceremonies held in Iraq",
+      "url": "https://www.bbc.co.uk/news/articles/cp9le3kjj8eo?at_medium=RSS&at_campaign=rss",
+      "summary": "The remains of Iran's late supreme leader are transported to Najaf and Karbala, as funeral ceremonies continue for a fifth day.",
+      "published_at": "2026-07-08T14:56:24Z",
+      "country_code": "IR",
+      "country_name": "Iran"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "Questions swirl over top US Republican McConnell's hospital stay - here's what we know",
+      "url": "https://www.bbc.co.uk/news/articles/c4gyjpkzew1o?at_medium=RSS&at_campaign=rss",
+      "summary": "McConnell, 84, has been in hospital for more than four weeks, and his staff have not yet said why he was admitted.",
+      "published_at": "2026-07-08T14:55:26Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Eight killed after landslide hits girls' school in Bangladesh",
+      "url": "https://www.bbc.co.uk/news/articles/cx2wkzww20ro?at_medium=RSS&at_campaign=rss",
+      "summary": "Rescuers pull bodies from the mud after heavy monsoon rains batter the south-eastern coast.",
+      "published_at": "2026-07-08T14:02:54Z",
+      "country_code": "BD",
+      "country_name": "Bangladesh"
+    },
+    {
+      "source": "BBC Africa",
+      "title": "Egypt want officials kicked out of World Cup",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c5yzdd070r3o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Egyptian FA lodges a complaint with Fifa and demands an investigation into \"double standards\" of officiating in the controversial defeat…",
+      "published_at": "2026-07-08T13:45:24Z",
+      "country_code": "EG",
+      "country_name": "Egypt"
+    },
     {
       "source": "BBC World",
       "title": "Nigeria's president demands to know how fake agency was allegedly set up in his office",
@@ -9,6 +54,15 @@
       "published_at": "2026-07-08T13:05:14Z",
       "country_code": "NG",
       "country_name": "Nigeria"
+    },
+    {
+      "source": "BBC Europe",
+      "title": "Paris hosts the Esports World Cup with eight weeks' notice",
+      "url": "https://www.bbc.co.uk/news/videos/cr7xkded893o?at_medium=RSS&at_campaign=rss",
+      "summary": "Thousands of French fans are planning to watch the contest.",
+      "published_at": "2026-07-08T12:40:59Z",
+      "country_code": "FR",
+      "country_name": "France"
     },
     {
       "source": "BBC US & Canada",
@@ -128,15 +182,6 @@
       "country_name": "Indonesia"
     },
     {
-      "source": "BBC US & Canada",
-      "title": "Questions swirl over top US Republican McConnell's hospital stay - here's what we know",
-      "url": "https://www.bbc.co.uk/news/articles/c4gyjpkzew1o?at_medium=RSS&at_campaign=rss",
-      "summary": "McConnell, 84, has been in hospital for more than four weeks, and his staff have not yet said why he was admitted.",
-      "published_at": "2026-07-08T01:58:20Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC World",
       "title": "Utah boarding school where Paris Hilton alleged abuse as a teen loses its licence",
       "url": "https://www.bbc.co.uk/news/articles/cjdg4r3k3emo?at_medium=RSS&at_campaign=rss",
@@ -182,7 +227,7 @@
       "country_name": "India"
     },
     {
-      "source": "BBC Africa",
+      "source": "BBC Latin America",
       "title": "Egypt fume at 'injustice' and make Messi favouritism claims after exit",
       "url": "https://www.bbc.co.uk/sport/football/articles/c5yzd23jll5o?at_medium=RSS&at_campaign=rss",
       "summary": "BBC Sport unpicks a game that will go down in World Cup history for featuring a team who were two goals down so late on, but who went on to …",
@@ -353,7 +398,7 @@
       "country_name": "Russia"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "Can China repeat its EV success with robotaxis?",
       "url": "https://www.bbc.co.uk/news/articles/cvgl8dlxjd3o?at_medium=RSS&at_campaign=rss",
       "summary": "China's self-driving car firms have been given a headstart by the country's EV supply chain as they expand globally.",
@@ -846,22 +891,13 @@
       "published_at": "2026-06-16T23:52:37Z",
       "country_code": "PK",
       "country_name": "Pakistan"
-    },
-    {
-      "source": "BBC Middle East",
-      "title": "Iran deal presents political nightmare for Netanyahu",
-      "url": "https://www.bbc.co.uk/news/articles/cj4gnqw8j52o?at_medium=RSS&at_campaign=rss",
-      "summary": "Donald Trump's ceasefire agreement with Iran leaves the Israeli PM trapped in a new political and security dilemma.",
-      "published_at": "2026-06-16T03:40:36Z",
-      "country_code": "IR",
-      "country_name": "Iran"
     }
   ],
   "regions": [
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 22
+      "news_count": 23
     },
     {
       "country_code": "VE",
@@ -874,13 +910,13 @@
       "news_count": 7
     },
     {
-      "country_code": "CN",
-      "country_name": "China",
-      "news_count": 5
-    },
-    {
       "country_code": "FR",
       "country_name": "France",
+      "news_count": 6
+    },
+    {
+      "country_code": "CN",
+      "country_name": "China",
       "news_count": 5
     },
     {
@@ -892,6 +928,11 @@
       "country_code": "UA",
       "country_name": "Ukraine",
       "news_count": 4
+    },
+    {
+      "country_code": "EG",
+      "country_name": "Egypt",
+      "news_count": 3
     },
     {
       "country_code": "IL",
@@ -916,11 +957,6 @@
     {
       "country_code": "AU",
       "country_name": "Australia",
-      "news_count": 2
-    },
-    {
-      "country_code": "EG",
-      "country_name": "Egypt",
       "news_count": 2
     },
     {
@@ -956,6 +992,11 @@
     {
       "country_code": "AR",
       "country_name": "Argentina",
+      "news_count": 1
+    },
+    {
+      "country_code": "BD",
+      "country_name": "Bangladesh",
       "news_count": 1
     },
     {
