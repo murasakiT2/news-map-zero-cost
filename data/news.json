@@ -1,12 +1,21 @@
 {
-  "generated_at": "2026-07-08T20:15:30Z",
+  "generated_at": "2026-07-08T21:36:31Z",
   "articles": [
     {
       "source": "BBC World",
-      "title": "Trump threatens more strikes on Iran as Tehran warns of 'fearless' response",
-      "url": "https://www.bbc.co.uk/news/articles/clyw8w1g409o?at_medium=RSS&at_campaign=rss",
-      "summary": "Speaking at a Nato summit, the president says the US will \"probably\" strike Iran again but added that \"anything that happens will be over qu…",
-      "published_at": "2026-07-08T18:05:31Z",
+      "title": "US launches new wave of strikes against Iran after promising to 'hit them hard'",
+      "url": "https://www.bbc.co.uk/news/articles/cz75zjj5wp8o?at_medium=RSS&at_campaign=rss",
+      "summary": "Explosions have been reported by Iranian state media in parts of the country's south.",
+      "published_at": "2026-07-08T21:24:59Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC Europe",
+      "title": "Nato chief tells BBC that Trump comments are like 'family argument'",
+      "url": "https://www.bbc.co.uk/news/articles/c98205r7dylo?at_medium=RSS&at_campaign=rss",
+      "summary": "Mark Rutte says Nato is stronger than ever, and that he is 100% convinced of the US president's commitment to the alliance.",
+      "published_at": "2026-07-08T20:58:10Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -45,6 +54,15 @@
       "published_at": "2026-07-08T17:18:14Z",
       "country_code": "RU",
       "country_name": "Russia"
+    },
+    {
+      "source": "BBC World",
+      "title": "Watch: Why is there a 'black cloud' over unity at the Nato summit?",
+      "url": "https://www.bbc.co.uk/news/videos/cn75n0lyzedo?at_medium=RSS&at_campaign=rss",
+      "summary": "US President Donald Trump has used the Nato summit to criticise the lack of support for his war on Iran, and revive his interest in taking o…",
+      "published_at": "2026-07-08T16:05:37Z",
+      "country_code": "US",
+      "country_name": "United States"
     },
     {
       "source": "BBC Latin America",
@@ -477,15 +495,6 @@
       "published_at": "2026-07-06T16:43:51Z",
       "country_code": "GB",
       "country_name": "United Kingdom"
-    },
-    {
-      "source": "BBC World",
-      "title": "'The spectacle Iran wants the world to see': Lyse Doucet in Tehran",
-      "url": "https://www.bbc.co.uk/news/videos/c78yyyl2ev4o?at_medium=RSS&at_campaign=rss",
-      "summary": "Huge crowds have lined the streets of Tehran for the funeral procession of Iran's late supreme leader, Ayatollah Ali Khamenei.",
-      "published_at": "2026-07-06T16:23:44Z",
-      "country_code": "IR",
-      "country_name": "Iran"
     },
     {
       "source": "BBC Africa",
@@ -924,17 +933,12 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 25
+      "news_count": 27
     },
     {
       "country_code": "VE",
       "country_name": "Venezuela",
       "news_count": 8
-    },
-    {
-      "country_code": "IR",
-      "country_name": "Iran",
-      "news_count": 7
     },
     {
       "country_code": "FR",
@@ -944,6 +948,11 @@
     {
       "country_code": "GB",
       "country_name": "United Kingdom",
+      "news_count": 6
+    },
+    {
+      "country_code": "IR",
+      "country_name": "Iran",
       "news_count": 6
     },
     {
