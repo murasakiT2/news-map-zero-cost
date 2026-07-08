@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-08T18:52:02Z",
+  "generated_at": "2026-07-08T20:15:30Z",
   "articles": [
     {
       "source": "BBC World",
@@ -29,6 +29,15 @@
       "country_name": "Nigeria"
     },
     {
+      "source": "BBC US & Canada",
+      "title": "The Pitt leads Emmy nominations, but Stranger Things snubbed in top categories",
+      "url": "https://www.bbc.co.uk/news/articles/ceqde3zr399o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Pitt and Hacks lead the race for America's most coveted TV awards - see the full list of nominations.",
+      "published_at": "2026-07-08T17:29:49Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
       "source": "BBC World",
       "title": "Ukraine to get licence to produce Patriot missiles, Trump says",
       "url": "https://www.bbc.co.uk/news/articles/ce8klree690o?at_medium=RSS&at_campaign=rss",
@@ -36,6 +45,15 @@
       "published_at": "2026-07-08T17:18:14Z",
       "country_code": "RU",
       "country_name": "Russia"
+    },
+    {
+      "source": "BBC Latin America",
+      "title": "Are Argentina being treated favourably at World Cup?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cx2wkwd7e6go?at_medium=RSS&at_campaign=rss",
+      "summary": "Egypt have alleged bias in favour of Argentina and favouritism towards their star player, Lionel Messi. Is this fair?",
+      "published_at": "2026-07-08T15:37:07Z",
+      "country_code": "EG",
+      "country_name": "Egypt"
     },
     {
       "source": "BBC World",
@@ -906,7 +924,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 24
+      "news_count": 25
     },
     {
       "country_code": "VE",
@@ -936,7 +954,7 @@
     {
       "country_code": "EG",
       "country_name": "Egypt",
-      "news_count": 3
+      "news_count": 4
     },
     {
       "country_code": "IL",
