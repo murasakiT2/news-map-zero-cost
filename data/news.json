@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-07-08T11:41:15Z",
+  "generated_at": "2026-07-08T13:28:38Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Nigeria's president demands to know how fake agency was allegedly set up in his office",
+      "url": "https://www.bbc.co.uk/news/articles/c621xrrp6jeo?at_medium=RSS&at_campaign=rss",
+      "summary": "Adeniyi Adeyemi allegedly forged a letter of appointment and secured funding for an agency the presidency knew nothing about.",
+      "published_at": "2026-07-08T13:05:14Z",
+      "country_code": "NG",
+      "country_name": "Nigeria"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "US prosecutors charge Indian crime boss with murder of Sikh activist in Canada",
+      "url": "https://www.bbc.co.uk/news/articles/cx2xl9gyxqyo?at_medium=RSS&at_campaign=rss",
+      "summary": "The US charges against came as part of a sweeping series of arrests in the US, Canada and Europe.",
+      "published_at": "2026-07-08T12:22:22Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "Trump says ceasefire is 'over' after US and Iran trade strikes",
@@ -155,15 +173,6 @@
       "country_name": "Sudan"
     },
     {
-      "source": "BBC US & Canada",
-      "title": "US prosecutors arrest 24 in major probe into India-based organised crime",
-      "url": "https://www.bbc.co.uk/news/articles/cx2xl9gyxqyo?at_medium=RSS&at_campaign=rss",
-      "summary": "In one indictment, US prosecutors accuse Punjab-based Bishnoi gang leaders of ordering the 2023 shooting of Canadian Sikh leader Hardeep Sin…",
-      "published_at": "2026-07-07T22:17:05Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC Asia",
       "title": "From faith to technology - more of India's wealthy are giving to science",
       "url": "https://www.bbc.co.uk/news/articles/cvg5388xpv9o?at_medium=RSS&at_campaign=rss",
@@ -309,7 +318,7 @@
     },
     {
       "source": "BBC US & Canada",
-      "title": "A shambolic end for the American dream - did Balogun saga play a part?",
+      "title": "A shambolic end for the American dream - did Balogun saga play part?",
       "url": "https://www.bbc.co.uk/sport/football/articles/c4gyxdeql5eo?at_medium=RSS&at_campaign=rss",
       "summary": "Mauricio Pochettino says he feels \"disappointed with too many people\" who brought \"politics and manipulation\" into the game as the US exit W…",
       "published_at": "2026-07-07T05:00:10Z",
@@ -335,7 +344,7 @@
       "country_name": "Iran"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "Jailers and officials at Russia's 'torture prisons' in Ukraine exposed by BBC",
       "url": "https://www.bbc.co.uk/news/articles/cx2kkrx8jeno?at_medium=RSS&at_campaign=rss",
       "summary": "Former prisoners accuse the men of abuse in detention centres and want to see them brought to trial.",
@@ -967,6 +976,11 @@
     {
       "country_code": "ID",
       "country_name": "Indonesia",
+      "news_count": 1
+    },
+    {
+      "country_code": "NG",
+      "country_name": "Nigeria",
       "news_count": 1
     },
     {
