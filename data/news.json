@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-07-08T15:40:10Z",
+  "generated_at": "2026-07-08T17:18:01Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Trump says ceasefire is 'over' after US and Iran trade strikes",
+      "url": "https://www.bbc.co.uk/news/articles/clyw8w1g409o?at_medium=RSS&at_campaign=rss",
+      "summary": "Speaking ahead of a Nato summit, the president says US negotiators can keep talking with the Iranians \"if they want\".",
+      "published_at": "2026-07-08T17:01:49Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "Bowen: For all his bluster, Trump has no better option than talks with Iran",
@@ -27,6 +36,15 @@
       "published_at": "2026-07-08T14:55:26Z",
       "country_code": "US",
       "country_name": "United States"
+    },
+    {
+      "source": "BBC Africa",
+      "title": "UK police say murder suspect has flown to Zimbabwe",
+      "url": "https://www.bbc.co.uk/news/articles/c8e2njxnn7jo?at_medium=RSS&at_campaign=rss",
+      "summary": "An international manhunt is under way for Ndodana Mkhanyisi Tshuma, who left the country via Heathrow Airport.",
+      "published_at": "2026-07-08T14:38:47Z",
+      "country_code": "GB",
+      "country_name": "United Kingdom"
     },
     {
       "source": "BBC World",
@@ -70,15 +88,6 @@
       "url": "https://www.bbc.co.uk/news/articles/cx2xl9gyxqyo?at_medium=RSS&at_campaign=rss",
       "summary": "The US charges against came as part of a sweeping series of arrests in the US, Canada and Europe.",
       "published_at": "2026-07-08T12:22:22Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "Trump says ceasefire is 'over' after US and Iran trade strikes",
-      "url": "https://www.bbc.co.uk/news/articles/clyw8w1g409o?at_medium=RSS&at_campaign=rss",
-      "summary": "Speaking ahead of a Nato summit, the president says US negotiators can keep talking with the Iranians \"if they want\".",
-      "published_at": "2026-07-08T11:18:28Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -380,7 +389,7 @@
       "country_name": "China"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Middle East",
       "title": "Resistance and revenge - Iran wanted to send a message with its farewell to Khamenei",
       "url": "https://www.bbc.co.uk/news/articles/c07yy3j3nljo?at_medium=RSS&at_campaign=rss",
       "summary": "Three days of public mourning in Tehran was a political spectacle Iran's leaders wanted the world to see, writes the BBC's international cor…",
@@ -459,15 +468,6 @@
       "published_at": "2026-07-06T16:17:04Z",
       "country_code": "GB",
       "country_name": "United Kingdom"
-    },
-    {
-      "source": "BBC Africa",
-      "title": "Nigeria says two nationals killed in South Africa amid rise of anti-migrant attacks",
-      "url": "https://www.bbc.co.uk/news/articles/cqj11lxwnn0o?at_medium=RSS&at_campaign=rss",
-      "summary": "Nigeria's government said one of its nationals was reportedly killed by police officers \"using gruesome interrogation techniques\".",
-      "published_at": "2026-07-06T15:26:29Z",
-      "country_code": "ZA",
-      "country_name": "South Africa"
     },
     {
       "source": "BBC Europe",
@@ -915,13 +915,13 @@
       "news_count": 6
     },
     {
-      "country_code": "CN",
-      "country_name": "China",
-      "news_count": 5
-    },
-    {
       "country_code": "GB",
       "country_name": "United Kingdom",
+      "news_count": 6
+    },
+    {
+      "country_code": "CN",
+      "country_name": "China",
       "news_count": 5
     },
     {
@@ -985,11 +985,6 @@
       "news_count": 2
     },
     {
-      "country_code": "ZA",
-      "country_name": "South Africa",
-      "news_count": 2
-    },
-    {
       "country_code": "AR",
       "country_name": "Argentina",
       "news_count": 1
@@ -1047,6 +1042,11 @@
     {
       "country_code": "VN",
       "country_name": "Vietnam",
+      "news_count": 1
+    },
+    {
+      "country_code": "ZA",
+      "country_name": "South Africa",
       "news_count": 1
     }
   ]
