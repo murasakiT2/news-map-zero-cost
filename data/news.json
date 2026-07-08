@@ -1,6 +1,33 @@
 {
-  "generated_at": "2026-07-07T23:45:30Z",
+  "generated_at": "2026-07-08T01:42:34Z",
   "articles": [
+    {
+      "source": "BBC Asia",
+      "title": "Search under way for cargo plane that vanished off Pakistan coast",
+      "url": "https://www.bbc.co.uk/news/articles/cn4dn1d55njo?at_medium=RSS&at_campaign=rss",
+      "summary": "The plane, carrying five people, rapidly descended before losing contact, authorities say.",
+      "published_at": "2026-07-08T01:11:50Z",
+      "country_code": "PK",
+      "country_name": "Pakistan"
+    },
+    {
+      "source": "BBC Asia",
+      "title": "'The water just came so fast': Typhoon triggers floods and rare tornadoes in China",
+      "url": "https://www.bbc.co.uk/news/articles/c79ygnv9e93o?at_medium=RSS&at_campaign=rss",
+      "summary": "Villagers whose families have been stranded told the BBC they are struggling to get food and help.",
+      "published_at": "2026-07-08T00:49:07Z",
+      "country_code": "CN",
+      "country_name": "China"
+    },
+    {
+      "source": "BBC World",
+      "title": "US launches strikes on Iran after tankers hit in Strait of Hormuz",
+      "url": "https://www.bbc.co.uk/news/articles/cwykq59jwpvo?at_medium=RSS&at_campaign=rss",
+      "summary": "The US says the strikes are intended to impose \"heavy costs\", while Iran warns it will \"take decisive measures\" in response.",
+      "published_at": "2026-07-07T23:53:45Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC US & Canada",
       "title": "Questions swirl over top US Republican McConnell's hospital stay - here's what we know",
@@ -11,13 +38,22 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
-      "title": "US launches strikes on Iran after tankers hit in Strait of Hormuz",
-      "url": "https://www.bbc.co.uk/news/articles/cwykq59jwpvo?at_medium=RSS&at_campaign=rss",
-      "summary": "The US says the strikes are intended to impose \"heavy costs\", while Iran warns it will \"take decisive measures\" in response.",
-      "published_at": "2026-07-07T22:48:45Z",
-      "country_code": "US",
-      "country_name": "United States"
+      "source": "BBC Africa",
+      "title": "Fears of a massacre in this city on the front line of Sudan's war",
+      "url": "https://www.bbc.co.uk/news/articles/c20yyjdzw7po?at_medium=RSS&at_campaign=rss",
+      "summary": "El-Obeid has been under \"siege-like conditions\" for 18 months says the UN human rights chief.",
+      "published_at": "2026-07-07T23:32:04Z",
+      "country_code": "SD",
+      "country_name": "Sudan"
+    },
+    {
+      "source": "BBC Asia",
+      "title": "From faith to technology - more of India's wealthy are giving to science",
+      "url": "https://www.bbc.co.uk/news/articles/cvg5388xpv9o?at_medium=RSS&at_campaign=rss",
+      "summary": "A fresh wave of commitments to pure sciences marks a turning point in the way India's wealthy are giving.",
+      "published_at": "2026-07-07T22:07:18Z",
+      "country_code": "IN",
+      "country_name": "India"
     },
     {
       "source": "BBC Europe",
@@ -153,15 +189,6 @@
       "published_at": "2026-07-07T06:23:04Z",
       "country_code": "IN",
       "country_name": "India"
-    },
-    {
-      "source": "BBC Asia",
-      "title": "Fatal Typhoon Maysak floods burst dam wall in China",
-      "url": "https://www.bbc.co.uk/news/videos/c1eyyevn5j7o?at_medium=RSS&at_campaign=rss",
-      "summary": "At least four have been killed by flooding due to Maysak, while another 62,000 have been evacuated across the southern Guangxi province.",
-      "published_at": "2026-07-07T05:21:00Z",
-      "country_code": "CN",
-      "country_name": "China"
     },
     {
       "source": "BBC US & Canada",
@@ -830,15 +857,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Africa",
-      "title": "'They came with machetes' - deadline looms for migrants to leave South Africa",
-      "url": "https://www.bbc.co.uk/news/articles/cg740l2jpr0o?at_medium=RSS&at_campaign=rss",
-      "summary": "Protesters have set 30 June as the date for all undocumented migrants to leave the country.",
-      "published_at": "2026-06-17T09:56:40Z",
-      "country_code": "ZA",
-      "country_name": "South Africa"
-    },
-    {
       "source": "BBC Middle East",
       "title": "Status quo at Jerusalem's holiest site under threat as Israeli nationalists flout rules",
       "url": "https://www.bbc.co.uk/news/articles/cwy0nlv90jno?at_medium=RSS&at_campaign=rss",
@@ -907,6 +925,11 @@
       "news_count": 5
     },
     {
+      "country_code": "IN",
+      "country_name": "India",
+      "news_count": 4
+    },
+    {
       "country_code": "UA",
       "country_name": "Ukraine",
       "news_count": 4
@@ -917,23 +940,18 @@
       "news_count": 3
     },
     {
-      "country_code": "IN",
-      "country_name": "India",
-      "news_count": 3
-    },
-    {
       "country_code": "MA",
       "country_name": "Morocco",
       "news_count": 3
     },
     {
-      "country_code": "SY",
-      "country_name": "Syria",
+      "country_code": "PK",
+      "country_name": "Pakistan",
       "news_count": 3
     },
     {
-      "country_code": "ZA",
-      "country_name": "South Africa",
+      "country_code": "SY",
+      "country_name": "Syria",
       "news_count": 3
     },
     {
@@ -957,11 +975,6 @@
       "news_count": 2
     },
     {
-      "country_code": "PK",
-      "country_name": "Pakistan",
-      "news_count": 2
-    },
-    {
       "country_code": "PS",
       "country_name": "Palestine",
       "news_count": 2
@@ -969,6 +982,11 @@
     {
       "country_code": "RU",
       "country_name": "Russia",
+      "news_count": 2
+    },
+    {
+      "country_code": "ZA",
+      "country_name": "South Africa",
       "news_count": 2
     },
     {
@@ -989,6 +1007,11 @@
     {
       "country_code": "SA",
       "country_name": "Saudi Arabia",
+      "news_count": 1
+    },
+    {
+      "country_code": "SD",
+      "country_name": "Sudan",
       "news_count": 1
     },
     {
