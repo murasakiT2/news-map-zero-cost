@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-07-08T09:43:12Z",
+  "generated_at": "2026-07-08T11:41:15Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Trump says ceasefire is 'over' after US and Iran trade strikes",
+      "url": "https://www.bbc.co.uk/news/articles/clyw8w1g409o?at_medium=RSS&at_campaign=rss",
+      "summary": "Speaking ahead of a Nato summit, the president says US negotiators can keep talking with the Iranians \"if they want\".",
+      "published_at": "2026-07-08T11:18:28Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "'Forgotten' host Canada's unforgettable World Cup",
+      "url": "https://www.bbc.co.uk/news/articles/cj4gpx7rlj5o?at_medium=RSS&at_campaign=rss",
+      "summary": "The country's co-hosting duties have come to an end along with an eventful journey for the national team.",
+      "published_at": "2026-07-08T11:15:31Z",
+      "country_code": "CA",
+      "country_name": "Canada"
+    },
     {
       "source": "BBC Middle East",
       "title": "US and Iran trade strikes after tankers hit in Strait of Hormuz",
@@ -54,6 +72,15 @@
       "published_at": "2026-07-08T05:44:39Z",
       "country_code": "PH",
       "country_name": "Philippines"
+    },
+    {
+      "source": "BBC World",
+      "title": "US strikes target Iranian military boats",
+      "url": "https://www.bbc.co.uk/news/videos/cn94nqzwpxwo?at_medium=RSS&at_campaign=rss",
+      "summary": "The US has launched the strikes on Iran in response to attacks on three oil tankers in the Strait of Hormuz.",
+      "published_at": "2026-07-08T05:42:37Z",
+      "country_code": "US",
+      "country_name": "United States"
     },
     {
       "source": "BBC US & Canada",
@@ -182,7 +209,7 @@
       "country_name": "France"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Middle East",
       "title": "Bomb explosions injure 18 in Damascus during Macron's visit",
       "url": "https://www.bbc.co.uk/news/articles/c2eylx1jj9ko?at_medium=RSS&at_campaign=rss",
       "summary": "As reports of the blasts came in, state television said the Syrian president had welcomed Macron at the presidential palace.",
@@ -687,15 +714,6 @@
     },
     {
       "source": "BBC Latin America",
-      "title": "Mum rescued from Venezuela rubble with newborn baby tells BBC how he helped her survive",
-      "url": "https://www.bbc.co.uk/news/articles/clyw3rkj2p7o?at_medium=RSS&at_campaign=rss",
-      "summary": "The \"miracle\" rescue of 18-day-old baby Juan David is a symbol of hope in Venezuela after the devastating earthquakes.",
-      "published_at": "2026-06-29T07:51:05Z",
-      "country_code": "VE",
-      "country_name": "Venezuela"
-    },
-    {
-      "source": "BBC Latin America",
       "title": "Watch: Inside the Venezuela country club now a makeshift hospital",
       "url": "https://www.bbc.co.uk/news/videos/clyx5r0068go?at_medium=RSS&at_campaign=rss",
       "summary": "Survivors of Venezuela's devastating earthquakes are being cared for at a makeshift hospital formed on the site of a country club in Carabal…",
@@ -834,12 +852,12 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 20
+      "news_count": 22
     },
     {
       "country_code": "VE",
       "country_name": "Venezuela",
-      "news_count": 9
+      "news_count": 8
     },
     {
       "country_code": "IR",
@@ -934,6 +952,11 @@
     {
       "country_code": "BE",
       "country_name": "Belgium",
+      "news_count": 1
+    },
+    {
+      "country_code": "CA",
+      "country_name": "Canada",
       "news_count": 1
     },
     {
