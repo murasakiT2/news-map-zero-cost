@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-07-09T19:20:49Z",
+  "generated_at": "2026-07-09T20:59:15Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Ukrainian agent accused of murdering Monaco bomb suspect changes story",
+      "url": "https://www.bbc.co.uk/news/articles/cpv3e8y39j7o?at_medium=RSS&at_campaign=rss",
+      "summary": "Two men with links to Ukraine's security services are accused of killing Anastasiia Berezovska and dumping her body in woods.",
+      "published_at": "2026-07-09T20:47:41Z",
+      "country_code": "UA",
+      "country_name": "Ukraine"
+    },
+    {
+      "source": "BBC World",
+      "title": "What's next for Iran after the funeral of their late supreme leader?",
+      "url": "https://www.bbc.co.uk/news/videos/c4gym0r7kj1o?at_medium=RSS&at_campaign=rss",
+      "summary": "The BBC's chief international correspondent looks at how Iran's new leadership will respond to several issues affecting the country.",
+      "published_at": "2026-07-09T20:16:13Z",
+      "country_code": "IR",
+      "country_name": "Iran"
+    },
     {
       "source": "BBC Europe",
       "title": "Norwegian football jerseys sold out ahead of Three Lions showdown",
@@ -191,7 +209,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Africa",
       "title": "Nigeria's president demands to know how fake agency was allegedly set up in his office",
       "url": "https://www.bbc.co.uk/news/articles/c621xrrp6jeo?at_medium=RSS&at_campaign=rss",
       "summary": "Adeniyi Adeyemi allegedly forged a letter of appointment and secured funding for an agency the presidency knew nothing about.",
@@ -218,15 +236,6 @@
       "country_name": "Pakistan"
     },
     {
-      "source": "BBC World",
-      "title": "Watch: Why is there a 'black cloud' over unity at the Nato summit?",
-      "url": "https://www.bbc.co.uk/news/videos/cn75n0lyzedo?at_medium=RSS&at_campaign=rss",
-      "summary": "US President Donald Trump has used the Nato summit to criticise the lack of support for his war on Iran, and revive his interest in taking o…",
-      "published_at": "2026-07-08T16:05:37Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC Latin America",
       "title": "Are Argentina being treated favourably at World Cup?",
       "url": "https://www.bbc.co.uk/sport/football/articles/cx2wkwd7e6go?at_medium=RSS&at_campaign=rss",
@@ -245,7 +254,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Middle East",
       "title": "Khamenei's coffin carried through Shia shrines as ceremonies held in Iraq",
       "url": "https://www.bbc.co.uk/news/articles/cp9le3kjj8eo?at_medium=RSS&at_campaign=rss",
       "summary": "The remains of Iran's late supreme leader are transported to Najaf and Karbala, as funeral ceremonies continue for a fifth day.",
@@ -318,15 +327,6 @@
     },
     {
       "source": "BBC World",
-      "title": "Trains and emergency calls affected after major outage at Australia's largest telecoms company",
-      "url": "https://www.bbc.co.uk/news/articles/cgevw0d95pdo?at_medium=RSS&at_campaign=rss",
-      "summary": "Servers at data centres in Sydney and Melbourne were to blame but the exact cause remains unknown.",
-      "published_at": "2026-07-08T07:53:37Z",
-      "country_code": "AU",
-      "country_name": "Australia"
-    },
-    {
-      "source": "BBC World",
       "title": "Watch: Gaza football fans watch World Cup from rubble",
       "url": "https://www.bbc.co.uk/news/videos/c8r2nmm7xeeo?at_medium=RSS&at_campaign=rss",
       "summary": "Hundreds of people cheered for Egypt, which shares a border with Gaza, in the match against Argentina.",
@@ -378,15 +378,6 @@
       "published_at": "2026-07-08T04:22:48Z",
       "country_code": "ID",
       "country_name": "Indonesia"
-    },
-    {
-      "source": "BBC World",
-      "title": "Utah boarding school where Paris Hilton alleged abuse as a teen loses its licence",
-      "url": "https://www.bbc.co.uk/news/articles/cjdg4r3k3emo?at_medium=RSS&at_campaign=rss",
-      "summary": "Hilton said the facility \"failed the children\", as regulators cited neglect and use of unnecessary restraints.",
-      "published_at": "2026-07-08T01:51:09Z",
-      "country_code": "FR",
-      "country_name": "France"
     },
     {
       "source": "BBC Africa",
@@ -488,7 +479,7 @@
       "country_name": "Belgium"
     },
     {
-      "source": "BBC Europe",
+      "source": "BBC Latin America",
       "title": "Mbappe condemns racist posts from Paraguay senator",
       "url": "https://www.bbc.co.uk/sport/football/articles/ckg557wxrzro?at_medium=RSS&at_campaign=rss",
       "summary": "France forward Kylian Mbappe condemns a Paraguayan senator as \"despicable\" and unworthy of her position after she made a number of racist re…",
@@ -897,22 +888,27 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 26
+      "news_count": 25
     },
     {
       "country_code": "IR",
       "country_name": "Iran",
-      "news_count": 9
+      "news_count": 10
     },
     {
       "country_code": "FR",
       "country_name": "France",
-      "news_count": 8
+      "news_count": 7
     },
     {
       "country_code": "VE",
       "country_name": "Venezuela",
       "news_count": 7
+    },
+    {
+      "country_code": "UA",
+      "country_name": "Ukraine",
+      "news_count": 5
     },
     {
       "country_code": "CN",
@@ -922,11 +918,6 @@
     {
       "country_code": "GB",
       "country_name": "United Kingdom",
-      "news_count": 4
-    },
-    {
-      "country_code": "UA",
-      "country_name": "Ukraine",
       "news_count": 4
     },
     {
@@ -983,11 +974,6 @@
       "country_code": "TR",
       "country_name": "Turkey",
       "news_count": 2
-    },
-    {
-      "country_code": "AU",
-      "country_name": "Australia",
-      "news_count": 1
     },
     {
       "country_code": "BE",
