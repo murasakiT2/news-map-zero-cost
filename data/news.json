@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-08T23:58:54Z",
+  "generated_at": "2026-07-09T03:16:37Z",
   "articles": [
     {
       "source": "BBC Africa",
@@ -11,15 +11,6 @@
       "country_name": "Sudan"
     },
     {
-      "source": "BBC World",
-      "title": "US launches more strikes on Iran with blasts reported in south of country",
-      "url": "https://www.bbc.co.uk/news/articles/cz75zjj5wp8o?at_medium=RSS&at_campaign=rss",
-      "summary": "Trump says the attacks are \"retribution for yesterday's bombing of ships by Iran\". Iran earlier promised strong retaliation.",
-      "published_at": "2026-07-08T21:40:40Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC Europe",
       "title": "Nato chief tells BBC that Trump comments are like 'family argument'",
       "url": "https://www.bbc.co.uk/news/articles/c98205r7dylo?at_medium=RSS&at_campaign=rss",
@@ -27,6 +18,15 @@
       "published_at": "2026-07-08T20:58:10Z",
       "country_code": "US",
       "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Starmer gifted gun and ammunition by Turkish president at Nato",
+      "url": "https://www.bbc.co.uk/news/articles/c0jy3pd2jzqo?at_medium=RSS&at_campaign=rss",
+      "summary": "The weapon has not been brought back to the UK and has instead been left with British officials in Turkey.",
+      "published_at": "2026-07-08T20:40:11Z",
+      "country_code": "GB",
+      "country_name": "United Kingdom"
     },
     {
       "source": "BBC US & Canada",
@@ -225,15 +225,6 @@
       "published_at": "2026-07-08T05:44:39Z",
       "country_code": "PH",
       "country_name": "Philippines"
-    },
-    {
-      "source": "BBC World",
-      "title": "US strikes target Iranian military boats",
-      "url": "https://www.bbc.co.uk/news/videos/cn94nqzwpxwo?at_medium=RSS&at_campaign=rss",
-      "summary": "The US has launched the strikes on Iran in response to attacks on three oil tankers in the Strait of Hormuz.",
-      "published_at": "2026-07-08T05:42:37Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC US & Canada",
@@ -678,15 +669,6 @@
     },
     {
       "source": "BBC Africa",
-      "title": "Farewell Cape Verde - the underdogs the World Cup will never forget",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cqj1pd8lqw9o?at_medium=RSS&at_campaign=rss",
-      "summary": "Cape Verde may have been the World Cup's second-smallest nation but they leave the largest impact as they depart following defeat by defendi…",
-      "published_at": "2026-07-04T03:09:37Z",
-      "country_code": "AR",
-      "country_name": "Argentina"
-    },
-    {
-      "source": "BBC Africa",
       "title": "More cows than pupils - what is behind mass school closures in rural Kenya?",
       "url": "https://www.bbc.co.uk/news/articles/cy72mn3m7l3o?at_medium=RSS&at_campaign=rss",
       "summary": "More than 2,000 primary schools are facing closure as enrolment numbers plummet.",
@@ -942,7 +924,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 27
+      "news_count": 25
     },
     {
       "country_code": "VE",
@@ -950,13 +932,13 @@
       "news_count": 8
     },
     {
-      "country_code": "FR",
-      "country_name": "France",
-      "news_count": 6
-    },
-    {
       "country_code": "GB",
       "country_name": "United Kingdom",
+      "news_count": 7
+    },
+    {
+      "country_code": "FR",
+      "country_name": "France",
       "news_count": 6
     },
     {
@@ -1033,11 +1015,6 @@
       "country_code": "TR",
       "country_name": "Turkey",
       "news_count": 2
-    },
-    {
-      "country_code": "AR",
-      "country_name": "Argentina",
-      "news_count": 1
     },
     {
       "country_code": "BD",
