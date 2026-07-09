@@ -1,6 +1,33 @@
 {
-  "generated_at": "2026-07-09T22:27:20Z",
+  "generated_at": "2026-07-09T23:42:09Z",
   "articles": [
+    {
+      "source": "BBC Middle East",
+      "title": "Huge crowds in Mashhad as Iran's late supreme leader is buried",
+      "url": "https://www.bbc.co.uk/news/articles/c5yzm8m4peeo?at_medium=RSS&at_campaign=rss",
+      "summary": "Ali Khamenei was buried at the Imam Reza shrine, Iran's holiest Shia Muslim site, ending six days of public mourning ceremonies.",
+      "published_at": "2026-07-09T23:18:18Z",
+      "country_code": "IR",
+      "country_name": "Iran"
+    },
+    {
+      "source": "BBC World",
+      "title": "All the best looks from Paris Haute Couture Week 2026",
+      "url": "https://www.bbc.co.uk/news/articles/cj3g6n64z4mo?at_medium=RSS&at_campaign=rss",
+      "summary": "Scorching temperatures in the French capital accompanied the hottest week in haute couture.",
+      "published_at": "2026-07-09T23:07:47Z",
+      "country_code": "FR",
+      "country_name": "France"
+    },
+    {
+      "source": "BBC World",
+      "title": "US and Iran trade attacks as Khamenei is buried",
+      "url": "https://www.bbc.co.uk/news/articles/cz75zjj5wp8o?at_medium=RSS&at_campaign=rss",
+      "summary": "Centcom says it hit 90 Iranian targets in the latest round of strikes, with the Iranian health ministry saying 14 people were killed since T…",
+      "published_at": "2026-07-09T23:02:18Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "How an app in South Korea will let victims track their stalkers",
@@ -9,15 +36,6 @@
       "published_at": "2026-07-09T22:09:57Z",
       "country_code": "KR",
       "country_name": "South Korea"
-    },
-    {
-      "source": "BBC World",
-      "title": "Tehran launches more strikes after second round of US attacks in southern Iran",
-      "url": "https://www.bbc.co.uk/news/articles/cz75zjj5wp8o?at_medium=RSS&at_campaign=rss",
-      "summary": "Centcom says it hit 90 Iranian targets in the latest round of strikes, with the Iranian health ministry saying 14 people were killed since T…",
-      "published_at": "2026-07-09T21:13:49Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC World",
@@ -81,15 +99,6 @@
       "published_at": "2026-07-09T16:45:44Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC Middle East",
-      "title": "Huge crowds in Mashhad for burial of Iran's late supreme leader",
-      "url": "https://www.bbc.co.uk/news/articles/c5yzm8m4peeo?at_medium=RSS&at_campaign=rss",
-      "summary": "Ali Khamenei will be buried at the Imam Reza shrine, Iran's holiest Shia Muslim site, ending six days of public mourning ceremonies.",
-      "published_at": "2026-07-09T16:28:03Z",
-      "country_code": "IR",
-      "country_name": "Iran"
     },
     {
       "source": "BBC World",
@@ -650,15 +659,6 @@
       "country_name": "Ukraine"
     },
     {
-      "source": "BBC Asia",
-      "title": "India orders Meta to remove ads promoting child sexual abuse",
-      "url": "https://www.bbc.co.uk/news/articles/cql11969g2qo?at_medium=RSS&at_campaign=rss",
-      "summary": "The order comes days after the BBC published an investigation about the platform showing such ads to users.",
-      "published_at": "2026-07-06T05:52:45Z",
-      "country_code": "IN",
-      "country_name": "India"
-    },
-    {
       "source": "BBC Latin America",
       "title": "'I ate ketchup and cheese,' says Venezuelan girl trapped under quake rubble for 32 hours",
       "url": "https://www.bbc.co.uk/news/articles/c9922x87nj8o?at_medium=RSS&at_campaign=rss",
@@ -898,7 +898,7 @@
     {
       "country_code": "FR",
       "country_name": "France",
-      "news_count": 7
+      "news_count": 8
     },
     {
       "country_code": "VE",
@@ -931,11 +931,6 @@
       "news_count": 3
     },
     {
-      "country_code": "IN",
-      "country_name": "India",
-      "news_count": 3
-    },
-    {
       "country_code": "PS",
       "country_name": "Palestine",
       "news_count": 3
@@ -948,6 +943,11 @@
     {
       "country_code": "BD",
       "country_name": "Bangladesh",
+      "news_count": 2
+    },
+    {
+      "country_code": "IN",
+      "country_name": "India",
       "news_count": 2
     },
     {
