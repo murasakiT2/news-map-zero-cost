@@ -1,6 +1,33 @@
 {
-  "generated_at": "2026-07-09T20:59:15Z",
+  "generated_at": "2026-07-09T22:27:20Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "How an app in South Korea will let victims track their stalkers",
+      "url": "https://www.bbc.co.uk/news/videos/c2dyw4zygrko?at_medium=RSS&at_campaign=rss",
+      "summary": "Officials say the app will help stalking victims, but some experts question the impact it might have.",
+      "published_at": "2026-07-09T22:09:57Z",
+      "country_code": "KR",
+      "country_name": "South Korea"
+    },
+    {
+      "source": "BBC World",
+      "title": "Tehran launches more strikes after second round of US attacks in southern Iran",
+      "url": "https://www.bbc.co.uk/news/articles/cz75zjj5wp8o?at_medium=RSS&at_campaign=rss",
+      "summary": "Centcom says it hit 90 Iranian targets in the latest round of strikes, with the Iranian health ministry saying 14 people were killed since T…",
+      "published_at": "2026-07-09T21:13:49Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Palestinians mourn Gaza World Cup screenings organiser killed in Israeli strike",
+      "url": "https://www.bbc.co.uk/news/articles/cwylznzjk04o?at_medium=RSS&at_campaign=rss",
+      "summary": "Aid worker Mohammed al-Wahidi had become a prominent humanitarian figure during the Israel-Hamas war.",
+      "published_at": "2026-07-09T21:04:09Z",
+      "country_code": "IL",
+      "country_name": "Israel"
+    },
     {
       "source": "BBC World",
       "title": "Ukrainian agent accused of murdering Monaco bomb suspect changes story",
@@ -99,15 +126,6 @@
       "published_at": "2026-07-09T14:37:19Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "Tehran launches more strikes after explosions reported in southern Iran",
-      "url": "https://www.bbc.co.uk/news/articles/cz75zjj5wp8o?at_medium=RSS&at_campaign=rss",
-      "summary": "Centcom says it hit 90 Iranian targets in the latest round of strikes, with the Iranian health ministry saying 14 people were killed since T…",
-      "published_at": "2026-07-09T13:29:56Z",
-      "country_code": "IR",
-      "country_name": "Iran"
     },
     {
       "source": "BBC Africa",
@@ -281,7 +299,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "Eight killed after landslide hits girls' school in Bangladesh",
       "url": "https://www.bbc.co.uk/news/articles/cx2wkzww20ro?at_medium=RSS&at_campaign=rss",
       "summary": "Rescuers pull bodies from the mud after heavy monsoon rains batter the south-eastern coast.",
@@ -355,6 +373,15 @@
     {
       "source": "BBC US & Canada",
       "title": "US strikes target Iranian military boats and coastal sites",
+      "url": "https://www.bbc.co.uk/news/videos/cn94nqzwpxwo?at_medium=RSS&at_campaign=rss",
+      "summary": "The US has launched the strikes on Iran in response to attacks on three oil tankers in the Strait of Hormuz.",
+      "published_at": "2026-07-08T05:42:37Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC Middle East",
+      "title": "US strikes target Iranian military boats",
       "url": "https://www.bbc.co.uk/news/videos/cn94nqzwpxwo?at_medium=RSS&at_campaign=rss",
       "summary": "The US has launched the strikes on Iran in response to attacks on three oil tankers in the Strait of Hormuz.",
       "published_at": "2026-07-08T05:42:37Z",
@@ -651,10 +678,28 @@
     },
     {
       "source": "BBC Middle East",
+      "title": "Watch: Lyse Doucet on emotion and politics at Tehran funeral of former supreme leader",
+      "url": "https://www.bbc.co.uk/news/videos/c4gyye3rplno?at_medium=RSS&at_campaign=rss",
+      "summary": "The BBC's chief international correspondent reports from Tehran where funeral events are taking place in honour of Iran's former leader, Aya…",
+      "published_at": "2026-07-05T17:54:47Z",
+      "country_code": "IR",
+      "country_name": "Iran"
+    },
+    {
+      "source": "BBC Middle East",
       "title": "How Iran's new regime is very different to what came before",
       "url": "https://www.bbc.co.uk/news/articles/cg534ryp660o?at_medium=RSS&at_campaign=rss",
       "summary": "Khamenei's funeral is another reminder of the change Iran has seen, but what does its new leadership want?",
       "published_at": "2026-07-05T05:40:07Z",
+      "country_code": "IR",
+      "country_name": "Iran"
+    },
+    {
+      "source": "BBC Middle East",
+      "title": "Funeral of Iran's former supreme leader 'intensely political moment'",
+      "url": "https://www.bbc.co.uk/news/videos/c23y22z4ppxo?at_medium=RSS&at_campaign=rss",
+      "summary": "Authorities expect up to 20 million people to attend ceremonies across Iran and Iraq over the coming days.",
+      "published_at": "2026-07-04T21:46:43Z",
       "country_code": "IR",
       "country_name": "Iran"
     },
@@ -684,15 +729,6 @@
       "published_at": "2026-07-03T11:02:55Z",
       "country_code": "IR",
       "country_name": "Iran"
-    },
-    {
-      "source": "BBC Middle East",
-      "title": "Bomb blast at Damascus cafe kills nine, Syrian state media say",
-      "url": "https://www.bbc.co.uk/news/articles/cn0vwxyz40zo?at_medium=RSS&at_campaign=rss",
-      "summary": "There was no immediate claim for the bombing at a cafe close to the Palace of Justice, a major government building.",
-      "published_at": "2026-07-03T06:42:14Z",
-      "country_code": "SY",
-      "country_name": "Syria"
     },
     {
       "source": "BBC Latin America",
@@ -846,42 +882,6 @@
       "published_at": "2026-06-16T23:52:37Z",
       "country_code": "PK",
       "country_name": "Pakistan"
-    },
-    {
-      "source": "BBC Middle East",
-      "title": "Iran deal presents political nightmare for Netanyahu",
-      "url": "https://www.bbc.co.uk/news/articles/cj4gnqw8j52o?at_medium=RSS&at_campaign=rss",
-      "summary": "Donald Trump's ceasefire agreement with Iran leaves the Israeli PM trapped in a new political and security dilemma.",
-      "published_at": "2026-06-16T03:40:36Z",
-      "country_code": "IR",
-      "country_name": "Iran"
-    },
-    {
-      "source": "BBC Middle East",
-      "title": "Bowen: Iran deal ends Trump's war that revealed limit of US dominance",
-      "url": "https://www.bbc.co.uk/news/articles/cdr4x3vg347o?at_medium=RSS&at_campaign=rss",
-      "summary": "The deal to end fighting and re-open the Strait of Hormuz leaves the sides where they were 24 hours before the war - only with thousands now…",
-      "published_at": "2026-06-15T14:26:28Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC Middle East",
-      "title": "Trump aims to end Iran war but nuclear issue remains unresolved",
-      "url": "https://www.bbc.co.uk/news/articles/cqj1zxv1jyeo?at_medium=RSS&at_campaign=rss",
-      "summary": "President Trump says the US and Iran have agreed a deal to end the war but it is unclear what has been agreed on Iran's nuclear programme",
-      "published_at": "2026-06-15T13:54:18Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC Middle East",
-      "title": "Trump heralds Iran deal but questions - and risks - remain",
-      "url": "https://www.bbc.co.uk/news/articles/c9824e0rz75o?at_medium=RSS&at_campaign=rss",
-      "summary": "The announcement of an Iran deal was a welcome birthday gift for the president – but its success or failure may hinge on the details.",
-      "published_at": "2026-06-15T02:41:25Z",
-      "country_code": "IR",
-      "country_name": "Iran"
     }
   ],
   "regions": [
@@ -893,7 +893,7 @@
     {
       "country_code": "IR",
       "country_name": "Iran",
-      "news_count": 10
+      "news_count": 9
     },
     {
       "country_code": "FR",
@@ -926,6 +926,11 @@
       "news_count": 3
     },
     {
+      "country_code": "IL",
+      "country_name": "Israel",
+      "news_count": 3
+    },
+    {
       "country_code": "IN",
       "country_name": "India",
       "news_count": 3
@@ -946,11 +951,6 @@
       "news_count": 2
     },
     {
-      "country_code": "IL",
-      "country_name": "Israel",
-      "news_count": 2
-    },
-    {
       "country_code": "KE",
       "country_name": "Kenya",
       "news_count": 2
@@ -963,11 +963,6 @@
     {
       "country_code": "SD",
       "country_name": "Sudan",
-      "news_count": 2
-    },
-    {
-      "country_code": "SY",
-      "country_name": "Syria",
       "news_count": 2
     },
     {
@@ -996,6 +991,11 @@
       "news_count": 1
     },
     {
+      "country_code": "KR",
+      "country_name": "South Korea",
+      "news_count": 1
+    },
+    {
       "country_code": "MA",
       "country_name": "Morocco",
       "news_count": 1
@@ -1018,6 +1018,11 @@
     {
       "country_code": "PH",
       "country_name": "Philippines",
+      "news_count": 1
+    },
+    {
+      "country_code": "SY",
+      "country_name": "Syria",
       "news_count": 1
     },
     {
