@@ -1,6 +1,33 @@
 {
-  "generated_at": "2026-07-10T18:54:21Z",
+  "generated_at": "2026-07-10T20:12:36Z",
   "articles": [
+    {
+      "source": "BBC Africa",
+      "title": "UK triple murder suspect arrested in South Africa",
+      "url": "https://www.bbc.co.uk/news/articles/cx2vq71473yo?at_medium=RSS&at_campaign=rss",
+      "summary": "Prosecutors in the UK authorise charges against Ndodana Mkhanyisi Tshuma.",
+      "published_at": "2026-07-10T20:09:57Z",
+      "country_code": "GB",
+      "country_name": "United Kingdom"
+    },
+    {
+      "source": "BBC Africa",
+      "title": "New species named after Cape Verde keeper Vozinha",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cn8kdxgxlkeo?at_medium=RSS&at_campaign=rss",
+      "summary": "A new species of sea slug has been named after Cape Verde goalkeeper Vozinha to mark his performance against Spain at the World Cup.",
+      "published_at": "2026-07-10T19:30:06Z",
+      "country_code": "ES",
+      "country_name": "Spain"
+    },
+    {
+      "source": "BBC World",
+      "title": "Watch: What links a bomb in Monaco and a shooting in Ukraine?",
+      "url": "https://www.bbc.co.uk/news/videos/c992zv2xpdjo?at_medium=RSS&at_campaign=rss",
+      "summary": "A Ukrainian intelligence agent who confessed to killing the woman suspected of trying to assassinate a multimillionaire in Monaco, has now c…",
+      "published_at": "2026-07-10T18:04:39Z",
+      "country_code": "UA",
+      "country_name": "Ukraine"
+    },
     {
       "source": "BBC World",
       "title": "Chip giant SK Hynix raises $26.5bn as shares surge in bumper US listing",
@@ -18,6 +45,15 @@
       "published_at": "2026-07-10T16:42:11Z",
       "country_code": "ZA",
       "country_name": "South Africa"
+    },
+    {
+      "source": "BBC Africa",
+      "title": "Egypt receive a warm welcome home",
+      "url": "https://www.bbc.co.uk/sport/videos/ce8jlv22r6vo?at_medium=RSS&at_campaign=rss",
+      "summary": "Watch as the Egyptian football team return to a hero's welcome from their fans.",
+      "published_at": "2026-07-10T16:05:47Z",
+      "country_code": "EG",
+      "country_name": "Egypt"
     },
     {
       "source": "BBC World",
@@ -45,6 +81,15 @@
       "published_at": "2026-07-10T15:02:45Z",
       "country_code": "US",
       "country_name": "United States"
+    },
+    {
+      "source": "BBC Africa",
+      "title": "'Honoured and grateful' - Morocco fan reflects on World Cup",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c20yw63yn68o?at_medium=RSS&at_campaign=rss",
+      "summary": "Morocco fan reflects on their World Cup journey.",
+      "published_at": "2026-07-10T14:46:17Z",
+      "country_code": "MA",
+      "country_name": "Morocco"
     },
     {
       "source": "BBC World",
@@ -255,15 +300,6 @@
     },
     {
       "source": "BBC Africa",
-      "title": "International court tells BBC of breakthrough in Sudan war crimes probe",
-      "url": "https://www.bbc.co.uk/news/articles/c9928zr2m5xo?at_medium=RSS&at_campaign=rss",
-      "summary": "The ICC has been looking into atrocities committed in Darfur over the past three years.",
-      "published_at": "2026-07-09T08:49:45Z",
-      "country_code": "SD",
-      "country_name": "Sudan"
-    },
-    {
-      "source": "BBC Africa",
       "title": "Morocco presser disrupted by fighting journalists",
       "url": "https://www.bbc.co.uk/sport/football/videos/cm2rmx414elo?at_medium=RSS&at_campaign=rss",
       "summary": "Watch the bizarre moment Morocco's press conference was disrupted by two journalists arguing, leading to a very perplexed-looking Brahim Dia…",
@@ -407,7 +443,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Middle East",
       "title": "Watch: Gaza football fans watch World Cup from rubble",
       "url": "https://www.bbc.co.uk/news/videos/c8r2nmm7xeeo?at_medium=RSS&at_campaign=rss",
       "summary": "Hundreds of people cheered for Egypt, which shares a border with Gaza, in the match against Argentina.",
@@ -722,15 +758,6 @@
       "country_name": "Venezuela"
     },
     {
-      "source": "BBC Europe",
-      "title": "Moment huge waterspout twirls over lake in Germany",
-      "url": "https://www.bbc.co.uk/news/videos/ckg8eld7pj7o?at_medium=RSS&at_campaign=rss",
-      "summary": "The phenomenon formed over a Lake Constance near the southern German city of Friedrichshafen.",
-      "published_at": "2026-07-03T00:54:46Z",
-      "country_code": "DE",
-      "country_name": "Germany"
-    },
-    {
       "source": "BBC Middle East",
       "title": "On the Strait of Hormuz, BBC finds seized ships and shark fishermen as uneasy calm returns",
       "url": "https://www.bbc.co.uk/news/articles/cvg53ngvvpxo?at_medium=RSS&at_campaign=rss",
@@ -885,7 +912,17 @@
     {
       "country_code": "GB",
       "country_name": "United Kingdom",
+      "news_count": 6
+    },
+    {
+      "country_code": "UA",
+      "country_name": "Ukraine",
       "news_count": 5
+    },
+    {
+      "country_code": "EG",
+      "country_name": "Egypt",
+      "news_count": 4
     },
     {
       "country_code": "FR",
@@ -898,18 +935,8 @@
       "news_count": 4
     },
     {
-      "country_code": "UA",
-      "country_name": "Ukraine",
-      "news_count": 4
-    },
-    {
       "country_code": "CN",
       "country_name": "China",
-      "news_count": 3
-    },
-    {
-      "country_code": "EG",
-      "country_name": "Egypt",
       "news_count": 3
     },
     {
@@ -923,8 +950,18 @@
       "news_count": 2
     },
     {
+      "country_code": "ES",
+      "country_name": "Spain",
+      "news_count": 2
+    },
+    {
       "country_code": "KE",
       "country_name": "Kenya",
+      "news_count": 2
+    },
+    {
+      "country_code": "MA",
+      "country_name": "Morocco",
       "news_count": 2
     },
     {
@@ -935,11 +972,6 @@
     {
       "country_code": "RU",
       "country_name": "Russia",
-      "news_count": 2
-    },
-    {
-      "country_code": "SD",
-      "country_name": "Sudan",
       "news_count": 2
     },
     {
@@ -955,16 +987,6 @@
     {
       "country_code": "CA",
       "country_name": "Canada",
-      "news_count": 1
-    },
-    {
-      "country_code": "DE",
-      "country_name": "Germany",
-      "news_count": 1
-    },
-    {
-      "country_code": "ES",
-      "country_name": "Spain",
       "news_count": 1
     },
     {
@@ -988,11 +1010,6 @@
       "news_count": 1
     },
     {
-      "country_code": "MA",
-      "country_name": "Morocco",
-      "news_count": 1
-    },
-    {
       "country_code": "PE",
       "country_name": "Peru",
       "news_count": 1
@@ -1000,6 +1017,11 @@
     {
       "country_code": "PH",
       "country_name": "Philippines",
+      "news_count": 1
+    },
+    {
+      "country_code": "SD",
+      "country_name": "Sudan",
       "news_count": 1
     },
     {
