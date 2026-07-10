@@ -1,6 +1,33 @@
 {
-  "generated_at": "2026-07-10T21:31:34Z",
+  "generated_at": "2026-07-10T22:50:01Z",
   "articles": [
+    {
+      "source": "BBC US & Canada",
+      "title": "What to know about 'explosive diarrhoea' parasite outbreak in US",
+      "url": "https://www.bbc.co.uk/news/articles/c621m66qm76o?at_medium=RSS&at_campaign=rss",
+      "summary": "The source of the cyclosporiasis outbreak, which has spread across at least 17 states, is unclear.",
+      "published_at": "2026-07-10T22:09:07Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "Questions swirl about top US Republican McConnell's weeks-long hospital stay - here's what we know",
+      "url": "https://www.bbc.co.uk/news/articles/c4gyjpkzew1o?at_medium=RSS&at_campaign=rss",
+      "summary": "McConnell, 84, has been in hospital for nearly a month, and his staff have not yet said why he was admitted.",
+      "published_at": "2026-07-10T21:42:04Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "New dinosaur species with neck as long as cricket pitch discovered in Thailand",
+      "url": "https://www.bbc.co.uk/news/articles/crely7g8xepo?at_medium=RSS&at_campaign=rss",
+      "summary": "The plant-eating dinosaur, named Uragasaurus kalasinensis, is thought to have lived about 150 million years ago.",
+      "published_at": "2026-07-10T21:30:57Z",
+      "country_code": "TH",
+      "country_name": "Thailand"
+    },
     {
       "source": "BBC Africa",
       "title": "UK triple murder suspect arrested in South Africa",
@@ -191,16 +218,7 @@
       "country_name": "China"
     },
     {
-      "source": "BBC US & Canada",
-      "title": "What to know about 'explosive diarrhoea' parasite outbreak in US",
-      "url": "https://www.bbc.co.uk/news/articles/c621m66qm76o?at_medium=RSS&at_campaign=rss",
-      "summary": "The source of the cyclosporiasis outbreak, which has spread across at least 17 states, is unclear.",
-      "published_at": "2026-07-09T23:45:03Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
+      "source": "BBC Middle East",
       "title": "Huge crowds in Mashhad as Iran's late supreme leader is buried",
       "url": "https://www.bbc.co.uk/news/articles/c5yzm8m4peeo?at_medium=RSS&at_campaign=rss",
       "summary": "Ali Khamenei was buried at the Imam Reza shrine, Iran's holiest Shia Muslim site, ending six days of public mourning ceremonies.",
@@ -387,15 +405,6 @@
       "published_at": "2026-07-08T14:56:24Z",
       "country_code": "IR",
       "country_name": "Iran"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "Questions swirl over top US Republican McConnell's hospital stay - here's what we know",
-      "url": "https://www.bbc.co.uk/news/articles/c4gyjpkzew1o?at_medium=RSS&at_campaign=rss",
-      "summary": "McConnell, 84, has been in hospital for more than four weeks, and his staff have not yet said why he was admitted.",
-      "published_at": "2026-07-08T14:55:26Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC Europe",
@@ -1027,6 +1036,11 @@
     {
       "country_code": "SY",
       "country_name": "Syria",
+      "news_count": 1
+    },
+    {
+      "country_code": "TH",
+      "country_name": "Thailand",
       "news_count": 1
     }
   ]
