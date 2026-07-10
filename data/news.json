@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-07-10T22:50:01Z",
+  "generated_at": "2026-07-10T23:46:54Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Forced to wait his turn, Marine Le Pen's deputy Bardella returns to the shadows",
+      "url": "https://www.bbc.co.uk/news/articles/cn7558gdvjro?at_medium=RSS&at_campaign=rss",
+      "summary": "Thirty-year-old Jordan Bardella had been groomed for success as France's next hard-right leader. He will now have to wait longer.",
+      "published_at": "2026-07-10T23:02:59Z",
+      "country_code": "FR",
+      "country_name": "France"
+    },
     {
       "source": "BBC US & Canada",
       "title": "What to know about 'explosive diarrhoea' parasite outbreak in US",
@@ -9,6 +18,24 @@
       "published_at": "2026-07-10T22:09:07Z",
       "country_code": "US",
       "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Watch: Inside the 30-hour dating retreat run by monks",
+      "url": "https://www.bbc.co.uk/news/videos/cpq300nx85wo?at_medium=RSS&at_campaign=rss",
+      "summary": "Forget coffee or drinks, the latest dating trend in South Korea takes place somewhere very different, a Buddhist temple.",
+      "published_at": "2026-07-10T22:02:42Z",
+      "country_code": "KR",
+      "country_name": "South Korea"
+    },
+    {
+      "source": "BBC World",
+      "title": "Twelve men and 12 women enter a Buddhist temple - will the monks help them find love?",
+      "url": "https://www.bbc.co.uk/news/articles/cgmdkw7wmkgo?at_medium=RSS&at_campaign=rss",
+      "summary": "Dating can be hard in South Korea. A group of monks hope a 30-hour rural retreat can help.",
+      "published_at": "2026-07-10T22:02:09Z",
+      "country_code": "KR",
+      "country_name": "South Korea"
     },
     {
       "source": "BBC US & Canada",
@@ -54,15 +81,6 @@
       "published_at": "2026-07-10T18:04:39Z",
       "country_code": "UA",
       "country_name": "Ukraine"
-    },
-    {
-      "source": "BBC World",
-      "title": "Chip giant SK Hynix raises $26.5bn as shares surge in bumper US listing",
-      "url": "https://www.bbc.co.uk/news/articles/c4gym70r0y4o?at_medium=RSS&at_campaign=rss",
-      "summary": "The shares surged as much as 17% in their Nasdaq trading debut on Friday following the record-breaking foreign listing.",
-      "published_at": "2026-07-10T16:42:35Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC World",
@@ -906,7 +924,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 30
+      "news_count": 29
     },
     {
       "country_code": "IR",
@@ -924,6 +942,11 @@
       "news_count": 6
     },
     {
+      "country_code": "FR",
+      "country_name": "France",
+      "news_count": 5
+    },
+    {
       "country_code": "UA",
       "country_name": "Ukraine",
       "news_count": 5
@@ -931,11 +954,6 @@
     {
       "country_code": "EG",
       "country_name": "Egypt",
-      "news_count": 4
-    },
-    {
-      "country_code": "FR",
-      "country_name": "France",
       "news_count": 4
     },
     {
@@ -951,6 +969,11 @@
     {
       "country_code": "IL",
       "country_name": "Israel",
+      "news_count": 3
+    },
+    {
+      "country_code": "KR",
+      "country_name": "South Korea",
       "news_count": 3
     },
     {
@@ -1011,11 +1034,6 @@
     {
       "country_code": "JP",
       "country_name": "Japan",
-      "news_count": 1
-    },
-    {
-      "country_code": "KR",
-      "country_name": "South Korea",
       "news_count": 1
     },
     {
