@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-07-11T17:27:12Z",
+  "generated_at": "2026-07-11T18:13:56Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "US Democrat Ro Khanna says he was detained by armed Israeli settlers",
+      "url": "https://www.bbc.co.uk/news/articles/c0qyk9jwq9no?at_medium=RSS&at_campaign=rss",
+      "summary": "Khanna, 49, was visiting the occupied West Bank when he was held for 90 minutes, he says.",
+      "published_at": "2026-07-11T18:00:09Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "China's second typhoon in a week makes landfall",
+      "url": "https://www.bbc.co.uk/news/articles/cdxd3wkp2rzo?at_medium=RSS&at_campaign=rss",
+      "summary": "Nearly two million people are evacuated from eastern Zhejiang province, with the city of Wenzhou close to the path of the storm.",
+      "published_at": "2026-07-11T17:41:56Z",
+      "country_code": "CN",
+      "country_name": "China"
+    },
     {
       "source": "BBC World",
       "title": "Iran must pledge to stop shooting at ships in Strait of Hormuz, US officials say",
@@ -72,15 +90,6 @@
       "published_at": "2026-07-11T13:11:52Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "China braced for second typhoon in a week as Bavi approaches landfall",
-      "url": "https://www.bbc.co.uk/news/articles/cdxd3wkp2rzo?at_medium=RSS&at_campaign=rss",
-      "summary": "Hundreds of thousands of people are evacuated from eastern Zhejiang province, with the city of Wenzhou close to the path of the storm.",
-      "published_at": "2026-07-11T12:06:47Z",
-      "country_code": "CN",
-      "country_name": "China"
     },
     {
       "source": "BBC World",
@@ -750,15 +759,6 @@
     },
     {
       "source": "BBC Middle East",
-      "title": "Watch: Lyse Doucet on emotion and politics at Tehran funeral of former supreme leader",
-      "url": "https://www.bbc.co.uk/news/videos/c4gyye3rplno?at_medium=RSS&at_campaign=rss",
-      "summary": "The BBC's chief international correspondent reports from Tehran where funeral events are taking place in honour of Iran's former leader, Aya…",
-      "published_at": "2026-07-05T17:54:47Z",
-      "country_code": "IR",
-      "country_name": "Iran"
-    },
-    {
-      "source": "BBC Middle East",
       "title": "How Iran's new regime is very different to what came before",
       "url": "https://www.bbc.co.uk/news/articles/cg534ryp660o?at_medium=RSS&at_campaign=rss",
       "summary": "Khamenei's funeral is another reminder of the change Iran has seen, but what does its new leadership want?",
@@ -933,12 +933,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 29
-    },
-    {
-      "country_code": "IR",
-      "country_name": "Iran",
-      "news_count": 7
+      "news_count": 30
     },
     {
       "country_code": "VE",
@@ -948,6 +943,11 @@
     {
       "country_code": "GB",
       "country_name": "United Kingdom",
+      "news_count": 6
+    },
+    {
+      "country_code": "IR",
+      "country_name": "Iran",
       "news_count": 6
     },
     {
