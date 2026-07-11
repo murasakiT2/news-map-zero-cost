@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-07-10T23:46:54Z",
+  "generated_at": "2026-07-11T01:41:38Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "How a fake presidential council ended up with a budget of almost $1m in Nigeria",
+      "url": "https://www.bbc.co.uk/news/articles/c872v7wldjyo?at_medium=RSS&at_campaign=rss",
+      "summary": "The government says it was set up with a forged letter of appointment but others say there is more to it.",
+      "published_at": "2026-07-11T00:46:15Z",
+      "country_code": "NG",
+      "country_name": "Nigeria"
+    },
+    {
+      "source": "BBC World",
+      "title": "At Canada's biggest rodeo, the starting gun is fired in the fight over Alberta separation",
+      "url": "https://www.bbc.co.uk/news/articles/c3eykgln5eeo?at_medium=RSS&at_campaign=rss",
+      "summary": "Canadian unity takes centre stage at the Calgary Stampede as fears of a Brexit-style upset looms over the October vote on Alberta's future.",
+      "published_at": "2026-07-11T00:00:42Z",
+      "country_code": "CA",
+      "country_name": "Canada"
+    },
     {
       "source": "BBC World",
       "title": "Forced to wait his turn, Marine Le Pen's deputy Bardella returns to the shadows",
@@ -246,15 +264,6 @@
     },
     {
       "source": "BBC World",
-      "title": "All the best looks from Paris Haute Couture Week 2026",
-      "url": "https://www.bbc.co.uk/news/articles/cj3g6n64z4mo?at_medium=RSS&at_campaign=rss",
-      "summary": "Scorching temperatures in the French capital accompanied the hottest week in haute couture.",
-      "published_at": "2026-07-09T23:07:47Z",
-      "country_code": "FR",
-      "country_name": "France"
-    },
-    {
-      "source": "BBC World",
       "title": "How an app in South Korea will let victims track their stalkers",
       "url": "https://www.bbc.co.uk/news/videos/c2dyw4zygrko?at_medium=RSS&at_campaign=rss",
       "summary": "Officials say the app will help stalking victims, but some experts question the impact it might have.",
@@ -317,7 +326,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "Ukraine strikes Russian ships near Crimea, escalating attacks on fuel supplies",
       "url": "https://www.bbc.co.uk/news/articles/c70yd1g67z5o?at_medium=RSS&at_campaign=rss",
       "summary": "The attacks appear to be the latest phase of Ukraine's bid to choke off supplies and routes into and out of occupied Crimea.",
@@ -942,11 +951,6 @@
       "news_count": 6
     },
     {
-      "country_code": "FR",
-      "country_name": "France",
-      "news_count": 5
-    },
-    {
       "country_code": "UA",
       "country_name": "Ukraine",
       "news_count": 5
@@ -954,6 +958,11 @@
     {
       "country_code": "EG",
       "country_name": "Egypt",
+      "news_count": 4
+    },
+    {
+      "country_code": "FR",
+      "country_name": "France",
       "news_count": 4
     },
     {
@@ -979,6 +988,11 @@
     {
       "country_code": "BE",
       "country_name": "Belgium",
+      "news_count": 2
+    },
+    {
+      "country_code": "CA",
+      "country_name": "Canada",
       "news_count": 2
     },
     {
@@ -1017,11 +1031,6 @@
       "news_count": 1
     },
     {
-      "country_code": "CA",
-      "country_name": "Canada",
-      "news_count": 1
-    },
-    {
       "country_code": "ID",
       "country_name": "Indonesia",
       "news_count": 1
@@ -1034,6 +1043,11 @@
     {
       "country_code": "JP",
       "country_name": "Japan",
+      "news_count": 1
+    },
+    {
+      "country_code": "NG",
+      "country_name": "Nigeria",
       "news_count": 1
     },
     {
