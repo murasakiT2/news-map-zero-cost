@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-07-11T11:42:57Z",
+  "generated_at": "2026-07-11T12:53:18Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Indian tourists among 15 killed as speedboat capsizes in Vietnam",
+      "url": "https://www.bbc.co.uk/news/articles/cwyd7x22lp1o?at_medium=RSS&at_campaign=rss",
+      "summary": "Local media say 21 people were saved after the boat overturned in rough seas near an island in south Vietnam.",
+      "published_at": "2026-07-11T12:43:36Z",
+      "country_code": "VN",
+      "country_name": "Vietnam"
+    },
+    {
+      "source": "BBC World",
+      "title": "China braced for second typhoon in a week as Bavi approaches landfall",
+      "url": "https://www.bbc.co.uk/news/articles/cdxd3wkp2rzo?at_medium=RSS&at_campaign=rss",
+      "summary": "Hundreds of thousands of people are evacuated from eastern Zhejiang province, with the city of Wenzhou close to the path of the storm.",
+      "published_at": "2026-07-11T12:06:47Z",
+      "country_code": "CN",
+      "country_name": "China"
+    },
+    {
+      "source": "BBC World",
+      "title": "'We escaped Spanish wildfire, but our friends lost their lives'",
+      "url": "https://www.bbc.co.uk/news/videos/c07y357zvl1o?at_medium=RSS&at_campaign=rss",
+      "summary": "Hundreds of firefighters in Spain have been battling a deadly wildfire in the south of the country.",
+      "published_at": "2026-07-11T11:45:55Z",
+      "country_code": "ES",
+      "country_name": "Spain"
+    },
+    {
+      "source": "BBC World",
+      "title": "US wants Iran to pledge to stop shooting at ships in Strait of Hormuz",
+      "url": "https://www.bbc.co.uk/news/articles/crelyq79x71o?at_medium=RSS&at_campaign=rss",
+      "summary": "Vice-President JD Vance is among US officials expected to take part in negotiations resuming on Saturday in Oman.",
+      "published_at": "2026-07-11T11:42:46Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "Spain battles to contain one of its deadliest wildfires as at least 12 killed",
@@ -18,15 +54,6 @@
       "published_at": "2026-07-11T08:23:45Z",
       "country_code": "TH",
       "country_name": "Thailand"
-    },
-    {
-      "source": "BBC World",
-      "title": "US wants Iran to pledge to stop shooting at ships in Strait of Hormuz",
-      "url": "https://www.bbc.co.uk/news/articles/crelyq79x71o?at_medium=RSS&at_campaign=rss",
-      "summary": "Vice-President JD Vance is among US officials expected to take part in negotiations resuming on Saturday in Oman.",
-      "published_at": "2026-07-11T04:56:33Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC World",
@@ -124,15 +151,6 @@
       "url": "https://www.bbc.co.uk/sport/football/articles/cn8kdxgxlkeo?at_medium=RSS&at_campaign=rss",
       "summary": "A new species of sea slug has been named after Cape Verde goalkeeper Vozinha to mark his performance against Spain at the World Cup.",
       "published_at": "2026-07-10T19:30:06Z",
-      "country_code": "ES",
-      "country_name": "Spain"
-    },
-    {
-      "source": "BBC World",
-      "title": "'Really frightening, unbelievably quick': Witnesses describe fleeing deadly Spain wildfire",
-      "url": "https://www.bbc.co.uk/news/articles/c932zyex1w2o?at_medium=RSS&at_campaign=rss",
-      "summary": "Holidaymakers tell the BBC how they grabbed a change of clothes, bundled into cars and fled the flames and smoke.",
-      "published_at": "2026-07-10T18:56:06Z",
       "country_code": "ES",
       "country_name": "Spain"
     },
@@ -333,15 +351,6 @@
       "published_at": "2026-07-09T20:47:41Z",
       "country_code": "UA",
       "country_name": "Ukraine"
-    },
-    {
-      "source": "BBC World",
-      "title": "What's next for Iran after the funeral of their late supreme leader?",
-      "url": "https://www.bbc.co.uk/news/videos/c4gym0r7kj1o?at_medium=RSS&at_campaign=rss",
-      "summary": "The BBC's chief international correspondent looks at how Iran's new leadership will respond to several issues affecting the country.",
-      "published_at": "2026-07-09T20:16:13Z",
-      "country_code": "IR",
-      "country_name": "Iran"
     },
     {
       "source": "BBC US & Canada",
@@ -749,15 +758,6 @@
       "country_name": "Venezuela"
     },
     {
-      "source": "BBC Europe",
-      "title": "Why Ukrainian strikes on annexed Crimea are a blow to Putin",
-      "url": "https://www.bbc.co.uk/news/videos/c2dy21549w1o?at_medium=RSS&at_campaign=rss",
-      "summary": "Eastern Europe correspondent Sarah Rainsford explains why Crimea is a target for Kyiv, and why the peninsula matters to Vladimir Putin.",
-      "published_at": "2026-07-06T06:00:05Z",
-      "country_code": "UA",
-      "country_name": "Ukraine"
-    },
-    {
       "source": "BBC Latin America",
       "title": "'I ate ketchup and cheese,' says Venezuelan girl trapped under quake rubble for 32 hours",
       "url": "https://www.bbc.co.uk/news/articles/c9922x87nj8o?at_medium=RSS&at_campaign=rss",
@@ -983,7 +983,7 @@
     {
       "country_code": "IR",
       "country_name": "Iran",
-      "news_count": 9
+      "news_count": 8
     },
     {
       "country_code": "VE",
@@ -1001,9 +1001,9 @@
       "news_count": 5
     },
     {
-      "country_code": "UA",
-      "country_name": "Ukraine",
-      "news_count": 5
+      "country_code": "CN",
+      "country_name": "China",
+      "news_count": 4
     },
     {
       "country_code": "EG",
@@ -1021,9 +1021,9 @@
       "news_count": 4
     },
     {
-      "country_code": "CN",
-      "country_name": "China",
-      "news_count": 3
+      "country_code": "UA",
+      "country_name": "Ukraine",
+      "news_count": 4
     },
     {
       "country_code": "IL",
@@ -1118,6 +1118,11 @@
     {
       "country_code": "TH",
       "country_name": "Thailand",
+      "news_count": 1
+    },
+    {
+      "country_code": "VN",
+      "country_name": "Vietnam",
       "news_count": 1
     }
   ]
