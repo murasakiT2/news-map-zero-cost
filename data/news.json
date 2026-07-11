@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-11T09:03:30Z",
+  "generated_at": "2026-07-11T10:38:12Z",
   "articles": [
     {
       "source": "BBC World",
@@ -108,6 +108,15 @@
       "published_at": "2026-07-10T20:09:57Z",
       "country_code": "GB",
       "country_name": "United Kingdom"
+    },
+    {
+      "source": "BBC World",
+      "title": "New species named after Cape Verde goalkeeper Vozinha",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cn8kdxgxlkeo?at_medium=RSS&at_campaign=rss",
+      "summary": "A new species of sea slug has been named after Cape Verde goalkeeper Vozinha to mark his performance against Spain at the World Cup.",
+      "published_at": "2026-07-10T19:30:06Z",
+      "country_code": "ES",
+      "country_name": "Spain"
     },
     {
       "source": "BBC Africa",
@@ -987,6 +996,11 @@
       "news_count": 6
     },
     {
+      "country_code": "ES",
+      "country_name": "Spain",
+      "news_count": 5
+    },
+    {
       "country_code": "UA",
       "country_name": "Ukraine",
       "news_count": 5
@@ -994,11 +1008,6 @@
     {
       "country_code": "EG",
       "country_name": "Egypt",
-      "news_count": 4
-    },
-    {
-      "country_code": "ES",
-      "country_name": "Spain",
       "news_count": 4
     },
     {
