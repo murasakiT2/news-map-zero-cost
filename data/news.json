@@ -1,6 +1,33 @@
 {
-  "generated_at": "2026-07-11T14:17:15Z",
+  "generated_at": "2026-07-11T15:27:43Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Spain battles to contain one of its deadliest wildfires as at least 12 killed",
+      "url": "https://www.bbc.co.uk/news/articles/c1wyv383j2xo?at_medium=RSS&at_campaign=rss",
+      "summary": "At least four Britons are believed to be among the victims of the blaze, which left another 23 people missing.",
+      "published_at": "2026-07-11T15:03:45Z",
+      "country_code": "ES",
+      "country_name": "Spain"
+    },
+    {
+      "source": "BBC World",
+      "title": "South Africa World Cup midfielder Adams dies aged 25",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cr47y5nvrqlo?at_medium=RSS&at_campaign=rss",
+      "summary": "South Africa and Mamelodi Sundowns midfielder Jayden Adams dies at the age of 25, just weeks after featuring for his country at the World Cu…",
+      "published_at": "2026-07-11T14:47:47Z",
+      "country_code": "ZA",
+      "country_name": "South Africa"
+    },
+    {
+      "source": "BBC Africa",
+      "title": "UK triple murder suspect arrested in South Africa",
+      "url": "https://www.bbc.co.uk/news/articles/cx2vq71473yo?at_medium=RSS&at_campaign=rss",
+      "summary": "Prosecutors in the UK authorise charges against Ndodana Mkhanyisi Tshuma.",
+      "published_at": "2026-07-11T14:25:40Z",
+      "country_code": "GB",
+      "country_name": "United Kingdom"
+    },
     {
       "source": "BBC World",
       "title": "US wants Iran to pledge to stop shooting at ships in Strait of Hormuz",
@@ -39,15 +66,6 @@
     },
     {
       "source": "BBC World",
-      "title": "South Africa World Cup midfielder Adams dies aged 25",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cr47y5nvrqlo?at_medium=RSS&at_campaign=rss",
-      "summary": "South Africa and Mamelodi Sundowns midfielder Jayden Adams dies at the age of 25, just weeks after featuring for his country at the World Cu…",
-      "published_at": "2026-07-11T13:29:51Z",
-      "country_code": "ZA",
-      "country_name": "South Africa"
-    },
-    {
-      "source": "BBC World",
       "title": "US pays out $3m to victims of mystery Havana Syndrome condition reported by spies",
       "url": "https://www.bbc.co.uk/news/articles/cr7xyl78vnko?at_medium=RSS&at_campaign=rss",
       "summary": "US officials and diplomats and their families began reporting a mysterious illness a decade ago.",
@@ -70,15 +88,6 @@
       "url": "https://www.bbc.co.uk/news/videos/c07y357zvl1o?at_medium=RSS&at_campaign=rss",
       "summary": "Hundreds of firefighters in Spain have been battling a deadly wildfire in the south of the country.",
       "published_at": "2026-07-11T11:45:55Z",
-      "country_code": "ES",
-      "country_name": "Spain"
-    },
-    {
-      "source": "BBC World",
-      "title": "Spain battles to contain one of its deadliest wildfires as at least 12 killed",
-      "url": "https://www.bbc.co.uk/news/articles/c1wyv383j2xo?at_medium=RSS&at_campaign=rss",
-      "summary": "At least four Britons are believed to be among the victims of the blaze, which left another 23 people missing.",
-      "published_at": "2026-07-11T09:01:15Z",
       "country_code": "ES",
       "country_name": "Spain"
     },
@@ -164,15 +173,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Africa",
-      "title": "UK triple murder suspect arrested in South Africa",
-      "url": "https://www.bbc.co.uk/news/articles/cx2vq71473yo?at_medium=RSS&at_campaign=rss",
-      "summary": "Prosecutors in the UK authorise charges against Ndodana Mkhanyisi Tshuma.",
-      "published_at": "2026-07-10T20:09:57Z",
-      "country_code": "GB",
-      "country_name": "United Kingdom"
-    },
-    {
       "source": "BBC World",
       "title": "New species named after Cape Verde goalkeeper Vozinha",
       "url": "https://www.bbc.co.uk/sport/football/articles/cn8kdxgxlkeo?at_medium=RSS&at_campaign=rss",
@@ -200,7 +200,7 @@
       "country_name": "Ukraine"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Africa",
       "title": "Zulu king expresses regret after video captures tirade against his wife",
       "url": "https://www.bbc.co.uk/news/articles/cy8dl9n1v3vo?at_medium=RSS&at_campaign=rss",
       "summary": "In the footage widely shared in South Africa, King Misuzulu threatens to physically assault his wife and accuses her of cheating.",
@@ -252,15 +252,6 @@
       "published_at": "2026-07-10T14:46:17Z",
       "country_code": "MA",
       "country_name": "Morocco"
-    },
-    {
-      "source": "BBC World",
-      "title": "East Asia braces for destructive typhoon as landslides kill 15 in Philippines",
-      "url": "https://www.bbc.co.uk/news/articles/c04y6wr03gxo?at_medium=RSS&at_campaign=rss",
-      "summary": "Heading for Taiwan and south-eastern China, the 1,000 km-wide Bavi is forecast to be one of the strongest storms in decades.",
-      "published_at": "2026-07-10T13:53:11Z",
-      "country_code": "CN",
-      "country_name": "China"
     },
     {
       "source": "BBC Asia",
@@ -978,11 +969,6 @@
       "news_count": 6
     },
     {
-      "country_code": "CN",
-      "country_name": "China",
-      "news_count": 4
-    },
-    {
       "country_code": "EG",
       "country_name": "Egypt",
       "news_count": 4
@@ -1006,6 +992,11 @@
       "country_code": "UA",
       "country_name": "Ukraine",
       "news_count": 4
+    },
+    {
+      "country_code": "CN",
+      "country_name": "China",
+      "news_count": 3
     },
     {
       "country_code": "IL",
