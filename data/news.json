@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-12T11:03:38Z",
+  "generated_at": "2026-07-12T12:11:44Z",
   "articles": [
     {
       "source": "BBC World",
-      "title": "Badly burned British couple rescued from ravine during Spain wildfires",
+      "title": "Badly burned British couple rescued from ravine during Spain wildfires, reports say",
       "url": "https://www.bbc.co.uk/news/articles/cx2x7441762o?at_medium=RSS&at_campaign=rss",
-      "summary": "The unnamed pair were found semi-conscious with 40% burns after being trapped by the blazes raging through Almeria province.",
-      "published_at": "2026-07-12T10:18:02Z",
+      "summary": "The unnamed pair were found semi-conscious with 40% burns after being trapped by the blazes raging through Almeria province, according to lo…",
+      "published_at": "2026-07-12T11:23:09Z",
       "country_code": "ES",
       "country_name": "Spain"
     },
@@ -126,15 +126,6 @@
       "published_at": "2026-07-11T14:47:47Z",
       "country_code": "ZA",
       "country_name": "South Africa"
-    },
-    {
-      "source": "BBC Africa",
-      "title": "UK triple murder suspect arrested in South Africa",
-      "url": "https://www.bbc.co.uk/news/articles/cx2vq71473yo?at_medium=RSS&at_campaign=rss",
-      "summary": "Prosecutors in the UK authorise charges against Ndodana Mkhanyisi Tshuma.",
-      "published_at": "2026-07-11T14:25:40Z",
-      "country_code": "GB",
-      "country_name": "United Kingdom"
     },
     {
       "source": "BBC US & Canada",
@@ -686,15 +677,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Africa",
-      "title": "Zimbabwean football star survives gun attack in South Africa",
-      "url": "https://www.bbc.co.uk/news/articles/c1my1rvy28do?at_medium=RSS&at_campaign=rss",
-      "summary": "South African police say they are investigating a case of attempted murder but that no arrests have been made so far.",
-      "published_at": "2026-07-07T11:12:00Z",
-      "country_code": "ZA",
-      "country_name": "South Africa"
-    },
-    {
       "source": "BBC Latin America",
       "title": "Mbappe condemns racist posts from Paraguay senator",
       "url": "https://www.bbc.co.uk/sport/football/articles/ckg557wxrzro?at_medium=RSS&at_campaign=rss",
@@ -964,11 +946,6 @@
       "news_count": 6
     },
     {
-      "country_code": "GB",
-      "country_name": "United Kingdom",
-      "news_count": 5
-    },
-    {
       "country_code": "UA",
       "country_name": "Ukraine",
       "news_count": 5
@@ -986,6 +963,11 @@
     {
       "country_code": "FR",
       "country_name": "France",
+      "news_count": 4
+    },
+    {
+      "country_code": "GB",
+      "country_name": "United Kingdom",
       "news_count": 4
     },
     {
@@ -1014,11 +996,6 @@
       "news_count": 3
     },
     {
-      "country_code": "ZA",
-      "country_name": "South Africa",
-      "news_count": 3
-    },
-    {
       "country_code": "CA",
       "country_name": "Canada",
       "news_count": 2
@@ -1036,6 +1013,11 @@
     {
       "country_code": "PK",
       "country_name": "Pakistan",
+      "news_count": 2
+    },
+    {
+      "country_code": "ZA",
+      "country_name": "South Africa",
       "news_count": 2
     },
     {
