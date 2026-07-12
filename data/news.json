@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-07-12T18:13:41Z",
+  "generated_at": "2026-07-12T19:35:51Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "South Africa says more than 53,000 foreigners deported in migration campaign",
+      "url": "https://www.bbc.co.uk/news/articles/cvgj2prd4p8o?at_medium=RSS&at_campaign=rss",
+      "summary": "South Africa is cracking down on undocumented migrants following widespread anti-immigration protests.",
+      "published_at": "2026-07-12T18:57:17Z",
+      "country_code": "ZA",
+      "country_name": "South Africa"
+    },
     {
       "source": "BBC World",
       "title": "US senator and close Trump ally Lindsey Graham dies after 'brief and sudden illness'",
@@ -996,6 +1005,11 @@
       "news_count": 3
     },
     {
+      "country_code": "ZA",
+      "country_name": "South Africa",
+      "news_count": 3
+    },
+    {
       "country_code": "CA",
       "country_name": "Canada",
       "news_count": 2
@@ -1008,11 +1022,6 @@
     {
       "country_code": "PK",
       "country_name": "Pakistan",
-      "news_count": 2
-    },
-    {
-      "country_code": "ZA",
-      "country_name": "South Africa",
       "news_count": 2
     },
     {
