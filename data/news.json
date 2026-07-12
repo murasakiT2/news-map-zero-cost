@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-07-12T19:35:51Z",
+  "generated_at": "2026-07-12T20:34:17Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "At least 27 killed in Bangkok bar fire, Thai authorities say",
+      "url": "https://www.bbc.co.uk/news/articles/c24yev53q06o?at_medium=RSS&at_campaign=rss",
+      "summary": "Firefighters were called to the scene just after midnight local time and discovered patrons fleeing through the flame-enveloped front door o…",
+      "published_at": "2026-07-12T20:13:14Z",
+      "country_code": "TH",
+      "country_name": "Thailand"
+    },
+    {
+      "source": "BBC World",
+      "title": "Anthony Zurcher: From Trump critic to ally, Lindsey Graham was a political survivor of the Maga era",
+      "url": "https://www.bbc.co.uk/news/articles/clyrdn216k2o?at_medium=RSS&at_campaign=rss",
+      "summary": "The senator's career was marked by a willingness to adapt to America's dramatically changing political climate, writes the BBC's North Ameri…",
+      "published_at": "2026-07-12T19:42:26Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "South Africa says more than 53,000 foreigners deported in migration campaign",
@@ -144,15 +162,6 @@
       "published_at": "2026-07-11T14:47:47Z",
       "country_code": "ZA",
       "country_name": "South Africa"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "If you ask Americans, Norway's Erling Haaland is already a winner",
-      "url": "https://www.bbc.co.uk/news/articles/ceqd3l4v7reo?at_medium=RSS&at_campaign=rss",
-      "summary": "If the World Cup was a tournament for hearts and minds, the Norwegian striker would certainly win.",
-      "published_at": "2026-07-11T13:51:14Z",
-      "country_code": "NO",
-      "country_name": "Norway"
     },
     {
       "source": "BBC World",
@@ -942,7 +951,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 30
+      "news_count": 31
     },
     {
       "country_code": "VE",
@@ -1025,6 +1034,11 @@
       "news_count": 2
     },
     {
+      "country_code": "TH",
+      "country_name": "Thailand",
+      "news_count": 2
+    },
+    {
       "country_code": "AU",
       "country_name": "Australia",
       "news_count": 1
@@ -1065,11 +1079,6 @@
       "news_count": 1
     },
     {
-      "country_code": "NO",
-      "country_name": "Norway",
-      "news_count": 1
-    },
-    {
       "country_code": "PH",
       "country_name": "Philippines",
       "news_count": 1
@@ -1082,11 +1091,6 @@
     {
       "country_code": "SY",
       "country_name": "Syria",
-      "news_count": 1
-    },
-    {
-      "country_code": "TH",
-      "country_name": "Thailand",
       "news_count": 1
     },
     {
