@@ -1,12 +1,30 @@
 {
-  "generated_at": "2026-07-12T01:43:25Z",
+  "generated_at": "2026-07-12T05:15:55Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "How Aldi is taking on US supermarkets with its $4 almond butter",
+      "url": "https://www.bbc.co.uk/news/articles/cly0l5d5xn7o?at_medium=RSS&at_campaign=rss",
+      "summary": "The German supermarket's $9bn US push targets urban hubs like Manhattan. Can its discount model match Walmart?",
+      "published_at": "2026-07-12T05:00:15Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "US launches fresh strikes as Iran closes Strait of Hormuz",
+      "url": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&at_campaign=rss",
+      "summary": "The strikes follow an attack on a Cyrpus-flagged vessel travelling through the critical waterway.",
+      "published_at": "2026-07-12T04:39:18Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "At least two killed in Toronto street festival shooting",
       "url": "https://www.bbc.co.uk/news/articles/ce3e66e1x3go?at_medium=RSS&at_campaign=rss",
-      "summary": "Police have urged the public to stay away from the area.",
-      "published_at": "2026-07-12T01:33:58Z",
+      "summary": "Police say there was an exchange of gunfire between two individuals at the festival, and two firearms had been recovered from the scene.",
+      "published_at": "2026-07-12T03:56:02Z",
       "country_code": "CA",
       "country_name": "Canada"
     },
@@ -27,15 +45,6 @@
       "published_at": "2026-07-12T00:49:24Z",
       "country_code": "IN",
       "country_name": "India"
-    },
-    {
-      "source": "BBC World",
-      "title": "US launches fresh strikes as Iran closes Strait of Hormuz",
-      "url": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&at_campaign=rss",
-      "summary": "The strikes follow an attack on a Cyrpus-flagged vessel travelling through the critical waterway.",
-      "published_at": "2026-07-12T00:15:22Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC World",
@@ -951,7 +960,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 29
+      "news_count": 30
     },
     {
       "country_code": "VE",
