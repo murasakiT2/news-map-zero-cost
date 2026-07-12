@@ -1,14 +1,32 @@
 {
-  "generated_at": "2026-07-12T14:59:15Z",
+  "generated_at": "2026-07-12T15:59:50Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "US insists Strait of Hormuz is open as it exchanges strikes with Iran",
+      "url": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&at_campaign=rss",
+      "summary": "Iranian forces earlier said the Strait was closed and launched wide-ranging attacks at US allies and bases in the region.",
+      "published_at": "2026-07-12T15:58:15Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "US senator and close Trump ally Lindsey Graham dies after 'brief and sudden illness'",
       "url": "https://www.bbc.co.uk/news/articles/cvgj25j6nmeo?at_medium=RSS&at_campaign=rss",
       "summary": "Donald Trump paid tribute to the 71-year-old South Carolina senator, calling him a \"true American patriot\" who will be \"greatly missed\".",
-      "published_at": "2026-07-12T14:18:45Z",
+      "published_at": "2026-07-12T15:34:45Z",
       "country_code": "US",
       "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "'This landscape is completely charred': Inside the village at epicentre of Spain's wildfires",
+      "url": "https://www.bbc.co.uk/news/videos/cddl1yrldelo?at_medium=RSS&at_campaign=rss",
+      "summary": "The BBC's Nick Beake sees homes razed to the ground and \"a sea of black\" in one of the villages hit hardest by Spain's deadly wildfires.",
+      "published_at": "2026-07-12T15:33:27Z",
+      "country_code": "ES",
+      "country_name": "Spain"
     },
     {
       "source": "BBC World",
@@ -36,15 +54,6 @@
       "published_at": "2026-07-12T07:39:45Z",
       "country_code": "CN",
       "country_name": "China"
-    },
-    {
-      "source": "BBC World",
-      "title": "US launches fresh strikes as Iran closes Strait of Hormuz",
-      "url": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&at_campaign=rss",
-      "summary": "The strikes follow an attack on a Cyprus -flagged vessel travelling through the critical waterway.",
-      "published_at": "2026-07-12T06:49:46Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC World",
@@ -225,15 +234,6 @@
       "published_at": "2026-07-10T22:09:07Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "Watch: Inside the 30-hour dating retreat run by monks",
-      "url": "https://www.bbc.co.uk/news/videos/cpq300nx85wo?at_medium=RSS&at_campaign=rss",
-      "summary": "Forget coffee or drinks, the latest dating trend in South Korea takes place somewhere very different, a Buddhist temple.",
-      "published_at": "2026-07-10T22:02:42Z",
-      "country_code": "KR",
-      "country_name": "South Korea"
     },
     {
       "source": "BBC Africa",
@@ -946,6 +946,11 @@
       "news_count": 6
     },
     {
+      "country_code": "ES",
+      "country_name": "Spain",
+      "news_count": 5
+    },
+    {
       "country_code": "UA",
       "country_name": "Ukraine",
       "news_count": 5
@@ -953,11 +958,6 @@
     {
       "country_code": "EG",
       "country_name": "Egypt",
-      "news_count": 4
-    },
-    {
-      "country_code": "ES",
-      "country_name": "Spain",
       "news_count": 4
     },
     {
@@ -998,11 +998,6 @@
     {
       "country_code": "CA",
       "country_name": "Canada",
-      "news_count": 2
-    },
-    {
-      "country_code": "KR",
-      "country_name": "South Korea",
       "news_count": 2
     },
     {
@@ -1048,6 +1043,11 @@
     {
       "country_code": "JP",
       "country_name": "Japan",
+      "news_count": 1
+    },
+    {
+      "country_code": "KR",
+      "country_name": "South Korea",
       "news_count": 1
     },
     {
