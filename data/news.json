@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-07-12T09:41:54Z",
+  "generated_at": "2026-07-12T11:03:38Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Badly burned British couple rescued from ravine during Spain wildfires",
+      "url": "https://www.bbc.co.uk/news/articles/cx2x7441762o?at_medium=RSS&at_campaign=rss",
+      "summary": "The unnamed pair were found semi-conscious with 40% burns after being trapped by the blazes raging through Almeria province.",
+      "published_at": "2026-07-12T10:18:02Z",
+      "country_code": "ES",
+      "country_name": "Spain"
+    },
+    {
+      "source": "BBC World",
+      "title": "US Senator and close Trump ally Lindsey Graham dies after 'brief and sudden illness'",
+      "url": "https://www.bbc.co.uk/news/articles/cvgj25j6nmeo?at_medium=RSS&at_campaign=rss",
+      "summary": "The influential politician had just returned from Kyiv, where he met Ukraine's President Volodymyr Zelensky on Friday.",
+      "published_at": "2026-07-12T09:47:43Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "People flee as Russian strike hits near Ukraine coffee shop",
@@ -9,15 +27,6 @@
       "published_at": "2026-07-12T09:03:17Z",
       "country_code": "UA",
       "country_name": "Ukraine"
-    },
-    {
-      "source": "BBC World",
-      "title": "US Senator and close Trump ally Lindsey Graham dies after 'brief and sudden illness'",
-      "url": "https://www.bbc.co.uk/news/articles/cvgj25j6nmeo?at_medium=RSS&at_campaign=rss",
-      "summary": "The influential politician had just returned from Kyiv, where he met Ukraine's President Volodymyr Zelensky on Friday.",
-      "published_at": "2026-07-12T09:01:55Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC World",
@@ -101,7 +110,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "Spain battles to contain one of its deadliest wildfires as at least 12 killed",
       "url": "https://www.bbc.co.uk/news/articles/c1wyv383j2xo?at_medium=RSS&at_campaign=rss",
       "summary": "At least four Britons are believed to be among the victims of the blaze, which left another 23 people missing.",
@@ -970,6 +979,11 @@
       "news_count": 4
     },
     {
+      "country_code": "ES",
+      "country_name": "Spain",
+      "news_count": 4
+    },
+    {
       "country_code": "FR",
       "country_name": "France",
       "news_count": 4
@@ -982,11 +996,6 @@
     {
       "country_code": "CN",
       "country_name": "China",
-      "news_count": 3
-    },
-    {
-      "country_code": "ES",
-      "country_name": "Spain",
       "news_count": 3
     },
     {
