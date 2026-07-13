@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-07-12T23:42:01Z",
+  "generated_at": "2026-07-13T01:46:35Z",
   "articles": [
+    {
+      "source": "BBC Asia",
+      "title": "Thailand PM visits aftermath of deadly Bangkok bar fire",
+      "url": "https://www.bbc.co.uk/news/videos/c9v2w1eg4jpo?at_medium=RSS&at_campaign=rss",
+      "summary": "Footage shows the aftermath of a deadly fire at a Bangkok pub that broke out just after midnight local time on Monday.",
+      "published_at": "2026-07-13T01:16:36Z",
+      "country_code": "TH",
+      "country_name": "Thailand"
+    },
+    {
+      "source": "BBC World",
+      "title": "How Indian scientists are mapping the brain's last frontier",
+      "url": "https://www.bbc.co.uk/news/articles/cg53l737v1qo?at_medium=RSS&at_campaign=rss",
+      "summary": "India's new brainstem atlas offers scientists an unprecedented map of one of the brain's least known regions.",
+      "published_at": "2026-07-13T00:08:11Z",
+      "country_code": "IN",
+      "country_name": "India"
+    },
+    {
+      "source": "BBC World",
+      "title": "The Chinese graduate accused of being Mexico's 'fentanyl king'",
+      "url": "https://www.bbc.co.uk/news/articles/c39ymggglxeo?at_medium=RSS&at_campaign=rss",
+      "summary": "Cartel members and ex-colleagues describe how Zhang Zhidong allegedly linked Chinese chemicals to Mexican drug labs.",
+      "published_at": "2026-07-13T00:05:46Z",
+      "country_code": "MX",
+      "country_name": "Mexico"
+    },
+    {
+      "source": "BBC World",
+      "title": "US Senator Mitch McConnell says absence due to fall and pneumonia",
+      "url": "https://www.bbc.co.uk/news/articles/cvge2nd611zo?at_medium=RSS&at_campaign=rss",
+      "summary": "The veteran Republican says he will not return to work \"quite yet\", in his first statement following weeks of speculation about his health.",
+      "published_at": "2026-07-12T23:41:00Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "At least 27 killed in Bangkok bar fire",
@@ -9,6 +45,15 @@
       "published_at": "2026-07-12T23:40:50Z",
       "country_code": "TH",
       "country_name": "Thailand"
+    },
+    {
+      "source": "BBC World",
+      "title": "New era for Gibraltar with removal of 118-year-old border controls with Spain",
+      "url": "https://www.bbc.co.uk/news/articles/cwydz60j3eno?at_medium=RSS&at_campaign=rss",
+      "summary": "It is hoped that free movement between the UK territory and Spain will provide an economic boost.",
+      "published_at": "2026-07-12T23:29:06Z",
+      "country_code": "GB",
+      "country_name": "United Kingdom"
     },
     {
       "source": "BBC World",
@@ -596,15 +641,6 @@
       "country_name": "Palestine"
     },
     {
-      "source": "BBC Asia",
-      "title": "What's at stake in Philippines' vice-president impeachment trial?",
-      "url": "https://www.bbc.co.uk/news/articles/cpwjrd1z5y0o?at_medium=RSS&at_campaign=rss",
-      "summary": "The political deathmatch between the country's ruling dynasties enters a critical new theatre.",
-      "published_at": "2026-07-08T05:44:39Z",
-      "country_code": "PH",
-      "country_name": "Philippines"
-    },
-    {
       "source": "BBC US & Canada",
       "title": "US strikes target Iranian military boats and coastal sites",
       "url": "https://www.bbc.co.uk/news/videos/cn94nqzwpxwo?at_medium=RSS&at_campaign=rss",
@@ -720,15 +756,6 @@
       "published_at": "2026-07-06T23:55:53Z",
       "country_code": "RU",
       "country_name": "Russia"
-    },
-    {
-      "source": "BBC Asia",
-      "title": "Can China repeat its EV success with robotaxis?",
-      "url": "https://www.bbc.co.uk/news/articles/cvgl8dlxjd3o?at_medium=RSS&at_campaign=rss",
-      "summary": "China's self-driving car firms have been given a headstart by the country's EV supply chain as they expand globally.",
-      "published_at": "2026-07-06T22:01:07Z",
-      "country_code": "CN",
-      "country_name": "China"
     },
     {
       "source": "BBC Middle East",
@@ -951,7 +978,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 31
+      "news_count": 32
     },
     {
       "country_code": "VE",
@@ -966,6 +993,11 @@
     {
       "country_code": "ES",
       "country_name": "Spain",
+      "news_count": 5
+    },
+    {
+      "country_code": "GB",
+      "country_name": "United Kingdom",
       "news_count": 5
     },
     {
@@ -984,19 +1016,9 @@
       "news_count": 4
     },
     {
-      "country_code": "GB",
-      "country_name": "United Kingdom",
-      "news_count": 4
-    },
-    {
       "country_code": "PS",
       "country_name": "Palestine",
       "news_count": 4
-    },
-    {
-      "country_code": "CN",
-      "country_name": "China",
-      "news_count": 3
     },
     {
       "country_code": "IL",
@@ -1014,6 +1036,11 @@
       "news_count": 3
     },
     {
+      "country_code": "TH",
+      "country_name": "Thailand",
+      "news_count": 3
+    },
+    {
       "country_code": "ZA",
       "country_name": "South Africa",
       "news_count": 3
@@ -1024,6 +1051,16 @@
       "news_count": 2
     },
     {
+      "country_code": "CN",
+      "country_name": "China",
+      "news_count": 2
+    },
+    {
+      "country_code": "IN",
+      "country_name": "India",
+      "news_count": 2
+    },
+    {
       "country_code": "MA",
       "country_name": "Morocco",
       "news_count": 2
@@ -1031,11 +1068,6 @@
     {
       "country_code": "PK",
       "country_name": "Pakistan",
-      "news_count": 2
-    },
-    {
-      "country_code": "TH",
-      "country_name": "Thailand",
       "news_count": 2
     },
     {
@@ -1059,11 +1091,6 @@
       "news_count": 1
     },
     {
-      "country_code": "IN",
-      "country_name": "India",
-      "news_count": 1
-    },
-    {
       "country_code": "JP",
       "country_name": "Japan",
       "news_count": 1
@@ -1074,13 +1101,13 @@
       "news_count": 1
     },
     {
-      "country_code": "NG",
-      "country_name": "Nigeria",
+      "country_code": "MX",
+      "country_name": "Mexico",
       "news_count": 1
     },
     {
-      "country_code": "PH",
-      "country_name": "Philippines",
+      "country_code": "NG",
+      "country_name": "Nigeria",
       "news_count": 1
     },
     {
