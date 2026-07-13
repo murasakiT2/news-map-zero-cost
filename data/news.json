@@ -1,12 +1,21 @@
 {
-  "generated_at": "2026-07-13T19:55:46Z",
+  "generated_at": "2026-07-13T20:50:11Z",
   "articles": [
     {
       "source": "BBC World",
-      "title": "Trump reinstating naval blockade of Iranian ports",
+      "title": "Wildfire raging south of Paris could have been set deliberately, says minister",
+      "url": "https://www.bbc.co.uk/news/articles/clye4z168edo?at_medium=RSS&at_campaign=rss",
+      "summary": "The interior minister has said the fire near Paris could have been set deliberately and two people have been arrested.",
+      "published_at": "2026-07-13T20:15:00Z",
+      "country_code": "FR",
+      "country_name": "France"
+    },
+    {
+      "source": "BBC World",
+      "title": "Trump reinstates Iran port blockade and vows 20% charge on cargo passing through Hormuz",
       "url": "https://www.bbc.co.uk/news/articles/c8d2vn38dy1o?at_medium=RSS&at_campaign=rss",
       "summary": "The US president also says Washington will impose a 20% charge on all cargo shipped through the Strait of Hormuz.",
-      "published_at": "2026-07-13T19:20:40Z",
+      "published_at": "2026-07-13T20:06:14Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -111,15 +120,6 @@
     },
     {
       "source": "BBC World",
-      "title": "Wildfire raging south of Paris could have been set deliberately, says minister",
-      "url": "https://www.bbc.co.uk/news/articles/clye4z168edo?at_medium=RSS&at_campaign=rss",
-      "summary": "It was the first time firefighting planes had been sent up from the normally drier and hotter south of the country to tackle fires in the Pa…",
-      "published_at": "2026-07-13T10:29:17Z",
-      "country_code": "FR",
-      "country_name": "France"
-    },
-    {
-      "source": "BBC World",
       "title": "People flee Bangkok bar as huge flames shoot out from doorway",
       "url": "https://www.bbc.co.uk/news/videos/cy5vx2e45xdo?at_medium=RSS&at_campaign=rss",
       "summary": "At least 28 people have died and 25 are critically injured after a fire tore through a bar in a popular Bangkok district.",
@@ -209,7 +209,7 @@
       "country_name": "United Kingdom"
     },
     {
-      "source": "BBC US & Canada",
+      "source": "BBC Middle East",
       "title": "US insists Strait of Hormuz is open as it exchanges strikes with Iran",
       "url": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&at_campaign=rss",
       "summary": "Iranian forces earlier said the Strait was closed and launched wide-ranging attacks at US allies and bases in the region.",
@@ -389,15 +389,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Europe",
-      "title": "'We escaped Spanish wildfire, but our friends lost their lives'",
-      "url": "https://www.bbc.co.uk/news/videos/c07y357zvl1o?at_medium=RSS&at_campaign=rss",
-      "summary": "Hundreds of firefighters in Spain have been battling a deadly wildfire in the south of the country.",
-      "published_at": "2026-07-11T11:45:55Z",
-      "country_code": "ES",
-      "country_name": "Spain"
-    },
-    {
       "source": "BBC Africa",
       "title": "How a fake presidential council ended up with a budget of almost $1m in Nigeria",
       "url": "https://www.bbc.co.uk/news/articles/c872v7wldjyo?at_medium=RSS&at_campaign=rss",
@@ -468,15 +459,6 @@
       "published_at": "2026-07-10T16:05:47Z",
       "country_code": "EG",
       "country_name": "Egypt"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "Nolan Wells' family demands answers about US teen's death after boating trip",
-      "url": "https://www.bbc.co.uk/news/articles/cx238gzzy74o?at_medium=RSS&at_campaign=rss",
-      "summary": "Wells' body was found in the water near Mississippi's Horn Island days after he went on a boating trip there with friends.",
-      "published_at": "2026-07-10T15:50:49Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC Africa",
@@ -576,15 +558,6 @@
       "published_at": "2026-07-09T22:09:57Z",
       "country_code": "KR",
       "country_name": "South Korea"
-    },
-    {
-      "source": "BBC Middle East",
-      "title": "Iran faces uncertainty with its new political order",
-      "url": "https://www.bbc.co.uk/news/videos/cd0m837z1mdo?at_medium=RSS&at_campaign=rss",
-      "summary": "The BBC's chief international correspondent looks at how Iran's new leadership will respond to several issues affecting the country",
-      "published_at": "2026-07-09T21:11:56Z",
-      "country_code": "IR",
-      "country_name": "Iran"
     },
     {
       "source": "BBC Middle East",
@@ -1032,7 +1005,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 34
+      "news_count": 33
     },
     {
       "country_code": "GB",
@@ -1040,19 +1013,19 @@
       "news_count": 9
     },
     {
-      "country_code": "ES",
-      "country_name": "Spain",
-      "news_count": 7
-    },
-    {
       "country_code": "VE",
       "country_name": "Venezuela",
       "news_count": 7
     },
     {
+      "country_code": "ES",
+      "country_name": "Spain",
+      "news_count": 6
+    },
+    {
       "country_code": "IR",
       "country_name": "Iran",
-      "news_count": 6
+      "news_count": 5
     },
     {
       "country_code": "FR",
