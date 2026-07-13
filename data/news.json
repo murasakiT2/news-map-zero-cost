@@ -1,14 +1,41 @@
 {
-  "generated_at": "2026-07-13T11:38:31Z",
+  "generated_at": "2026-07-13T14:02:58Z",
   "articles": [
     {
+      "source": "BBC Middle East",
+      "title": "UK bans support for Iran's Islamic Revolutionary Guard Corps",
+      "url": "https://www.bbc.co.uk/news/articles/cz0jkj7e87go?at_medium=RSS&at_campaign=rss",
+      "summary": "Shabana Mahmood will use new powers to ban support for the group, which has been linked to death threats and intimidation on British soil.",
+      "published_at": "2026-07-13T12:50:19Z",
+      "country_code": "GB",
+      "country_name": "United Kingdom"
+    },
+    {
       "source": "BBC World",
-      "title": "At least 27 killed, 25 critically injured after fire engulfs Bangkok bar",
+      "title": "At least 28 killed, 25 critically injured after fire engulfs Bangkok bar",
       "url": "https://www.bbc.co.uk/news/articles/c24yev53q06o?at_medium=RSS&at_campaign=rss",
       "summary": "Firefighters arrived at the scene in the Chatuchak district to find patrons running through flames to escape.",
-      "published_at": "2026-07-13T11:10:58Z",
+      "published_at": "2026-07-13T12:32:08Z",
       "country_code": "TH",
       "country_name": "Thailand"
+    },
+    {
+      "source": "BBC Africa",
+      "title": "Sudan's paramilitary RSF chief sentenced to death over war crimes",
+      "url": "https://www.bbc.co.uk/news/articles/cn4dk3kl0l4o?at_medium=RSS&at_campaign=rss",
+      "summary": "Mohamed Hamdan Dagalo was convicted in absentia along with 15 RSF commanders and allies.",
+      "published_at": "2026-07-13T12:02:19Z",
+      "country_code": "SD",
+      "country_name": "Sudan"
+    },
+    {
+      "source": "BBC World",
+      "title": "German court convicts Iraqi couple of enslaving Yazidi girls",
+      "url": "https://www.bbc.co.uk/news/articles/cg53rp4e2j4o?at_medium=RSS&at_campaign=rss",
+      "summary": "The pair, named only as Twana H.S. and Asia R. A., left Germany for Iraq in 2015 and became members of the Islamic State group.",
+      "published_at": "2026-07-13T11:36:18Z",
+      "country_code": "DE",
+      "country_name": "Germany"
     },
     {
       "source": "BBC Africa",
@@ -41,7 +68,7 @@
       "source": "BBC World",
       "title": "People flee Bangkok bar as huge flames shoot out from doorway",
       "url": "https://www.bbc.co.uk/news/videos/cy5vx2e45xdo?at_medium=RSS&at_campaign=rss",
-      "summary": "At least 27 people have died and 25 are critically injured after a fire tore through a bar in a popular Bangkok district.",
+      "summary": "At least 28 people have died and 25 are critically injured after a fire tore through a bar in a popular Bangkok district.",
       "published_at": "2026-07-13T10:17:13Z",
       "country_code": "TH",
       "country_name": "Thailand"
@@ -470,15 +497,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Asia",
-      "title": "China lands reusable rocket for first time, state media says",
-      "url": "https://www.bbc.co.uk/news/articles/cm2rmmx86pdo?at_medium=RSS&at_campaign=rss",
-      "summary": "It follows similar landings of reusable rockets by US-owned companies SpaceX and Blue Origin.",
-      "published_at": "2026-07-10T06:44:21Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC Europe",
       "title": "Bayeux Tapestry arrives in UK for first time in 900 years under police guard",
       "url": "https://www.bbc.co.uk/news/articles/cly9r54e5r4o?at_medium=RSS&at_campaign=rss",
@@ -722,15 +740,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Middle East",
-      "title": "US strikes target Iranian military boats",
-      "url": "https://www.bbc.co.uk/news/videos/cn94nqzwpxwo?at_medium=RSS&at_campaign=rss",
-      "summary": "The US has launched the strikes on Iran in response to attacks on three oil tankers in the Strait of Hormuz.",
-      "published_at": "2026-07-08T05:42:37Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC Europe",
       "title": "Russian fuel shortages bite – but will Putin change tack in Ukraine war?",
       "url": "https://www.bbc.co.uk/news/articles/cr7xk8j0j2do?at_medium=RSS&at_campaign=rss",
@@ -846,15 +855,6 @@
       "published_at": "2026-07-06T05:04:28Z",
       "country_code": "VE",
       "country_name": "Venezuela"
-    },
-    {
-      "source": "BBC Middle East",
-      "title": "Watch: Lyse Doucet on emotion and politics at Tehran funeral of former supreme leader",
-      "url": "https://www.bbc.co.uk/news/videos/c4gyye3rplno?at_medium=RSS&at_campaign=rss",
-      "summary": "The BBC's chief international correspondent reports from Tehran where funeral events are taking place in honour of Iran's former leader, Aya…",
-      "published_at": "2026-07-05T17:54:47Z",
-      "country_code": "IR",
-      "country_name": "Iran"
     },
     {
       "source": "BBC Middle East",
@@ -1023,17 +1023,12 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 33
+      "news_count": 31
     },
     {
       "country_code": "GB",
       "country_name": "United Kingdom",
-      "news_count": 7
-    },
-    {
-      "country_code": "IR",
-      "country_name": "Iran",
-      "news_count": 7
+      "news_count": 8
     },
     {
       "country_code": "VE",
@@ -1043,6 +1038,11 @@
     {
       "country_code": "ES",
       "country_name": "Spain",
+      "news_count": 6
+    },
+    {
+      "country_code": "IR",
+      "country_name": "Iran",
       "news_count": 6
     },
     {
@@ -1116,6 +1116,11 @@
       "news_count": 2
     },
     {
+      "country_code": "SD",
+      "country_name": "Sudan",
+      "news_count": 2
+    },
+    {
       "country_code": "ZA",
       "country_name": "South Africa",
       "news_count": 2
@@ -1123,6 +1128,11 @@
     {
       "country_code": "AU",
       "country_name": "Australia",
+      "news_count": 1
+    },
+    {
+      "country_code": "DE",
+      "country_name": "Germany",
       "news_count": 1
     },
     {
@@ -1158,11 +1168,6 @@
     {
       "country_code": "NO",
       "country_name": "Norway",
-      "news_count": 1
-    },
-    {
-      "country_code": "SD",
-      "country_name": "Sudan",
       "news_count": 1
     },
     {
