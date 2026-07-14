@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-07-14T20:03:51Z",
+  "generated_at": "2026-07-14T21:27:36Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Trump scraps threat of 20% fee on Hormuz cargo as US resumes blockade of Iran ports",
+      "url": "https://www.bbc.co.uk/news/articles/cy0608wy8pro?at_medium=RSS&at_campaign=rss",
+      "summary": "Trump drops a 24-hour-old vow to charge cargo ships for using the Strait as the US continues its battle to break Iran's hold on the waterway…",
+      "published_at": "2026-07-14T20:10:37Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "Strait of Hormuz 'faultline' exposes weakness of the US-Iran deal",
@@ -30,15 +39,6 @@
     },
     {
       "source": "BBC US & Canada",
-      "title": "US Supreme Court seeks major boost in security funding over threat increase",
-      "url": "https://www.bbc.co.uk/news/articles/crkvkjddjd7o?at_medium=RSS&at_campaign=rss",
-      "summary": "The justices are seeking an extra $228m (£170.3m), which they say is mainly to protect them from threats in person and online.",
-      "published_at": "2026-07-14T18:12:26Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC US & Canada",
       "title": "Billionaire Warren Buffett stops donations to Bill Gates charity",
       "url": "https://www.bbc.co.uk/news/articles/c8x2x549vgdo?at_medium=RSS&at_campaign=rss",
       "summary": "The investor's decision comes weeks after Gates' appearance before US Congress over his links to Jeffrey Epstein.",
@@ -63,15 +63,6 @@
       "published_at": "2026-07-14T17:13:27Z",
       "country_code": "IL",
       "country_name": "Israel"
-    },
-    {
-      "source": "BBC World",
-      "title": "Trump scraps threat of 20% fee on Hormuz cargo as US prepares to resume blockade of Iran ports",
-      "url": "https://www.bbc.co.uk/news/articles/cy0608wy8pro?at_medium=RSS&at_campaign=rss",
-      "summary": "Trump drops a 24-hour-old vow to charge cargo ships for using the Strait as the US continues its battle to break Iran's hold on the waterway…",
-      "published_at": "2026-07-14T16:54:46Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC US & Canada",
@@ -785,15 +776,6 @@
       "country_name": "Egypt"
     },
     {
-      "source": "BBC US & Canada",
-      "title": "'Forgotten' host Canada's unforgettable World Cup",
-      "url": "https://www.bbc.co.uk/news/articles/cj4gpx7rlj5o?at_medium=RSS&at_campaign=rss",
-      "summary": "The country's co-hosting duties have come to an end along with an eventful journey for the national team.",
-      "published_at": "2026-07-08T11:15:31Z",
-      "country_code": "CA",
-      "country_name": "Canada"
-    },
-    {
       "source": "BBC Middle East",
       "title": "US and Iran trade strikes after tankers hit in Strait of Hormuz",
       "url": "https://www.bbc.co.uk/news/articles/cwykq59jwpvo?at_medium=RSS&at_campaign=rss",
@@ -1041,7 +1023,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 35
+      "news_count": 34
     },
     {
       "country_code": "GB",
@@ -1074,11 +1056,6 @@
       "news_count": 4
     },
     {
-      "country_code": "CA",
-      "country_name": "Canada",
-      "news_count": 3
-    },
-    {
       "country_code": "EG",
       "country_name": "Egypt",
       "news_count": 3
@@ -1106,6 +1083,11 @@
     {
       "country_code": "BD",
       "country_name": "Bangladesh",
+      "news_count": 2
+    },
+    {
+      "country_code": "CA",
+      "country_name": "Canada",
       "news_count": 2
     },
     {
