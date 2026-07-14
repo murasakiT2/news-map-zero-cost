@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-07-14T15:53:43Z",
+  "generated_at": "2026-07-14T17:01:33Z",
   "articles": [
+    {
+      "source": "BBC US & Canada",
+      "title": "Gas prices drive down US inflation - but will it last?",
+      "url": "https://www.bbc.co.uk/news/articles/c98289j7lg7o?at_medium=RSS&at_campaign=rss",
+      "summary": "While the US inflation rate fell in June, concerns remain over price rises increasing again due to the renewed conflict in the Middle East.",
+      "published_at": "2026-07-14T16:05:16Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC US & Canada",
       "title": "Another heatwave hits parts of US and Canada",
@@ -25,15 +34,6 @@
       "url": "https://www.bbc.co.uk/news/articles/cm2jl23k2l2o?at_medium=RSS&at_campaign=rss",
       "summary": "Experts say there were likely multiple points of contamination in the US food supply - complicating investigations.",
       "published_at": "2026-07-14T15:06:58Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "US inflation rate eases to 3.5% as gasoline prices fall",
-      "url": "https://www.bbc.co.uk/news/articles/c98289j7lg7o?at_medium=RSS&at_campaign=rss",
-      "summary": "While the US inflation rate fell in June, concerns remain over price rises increasing again due to the renewed conflict in the Middle East.",
-      "published_at": "2026-07-14T14:50:35Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -191,7 +191,7 @@
       "country_name": "Spain"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "Watch: Horses evacuated as fire approaches riding centre near Paris",
       "url": "https://www.bbc.co.uk/news/videos/c1jy64065ylo?at_medium=RSS&at_campaign=rss",
       "summary": "The Fontainebleau forest blaze, described by officials as of 'exceptional scale', continues to rage for the second day.",
@@ -585,15 +585,6 @@
       "published_at": "2026-07-10T23:02:35Z",
       "country_code": "RU",
       "country_name": "Russia"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "Questions swirl about top US Republican McConnell's weeks-long hospital stay - here's what we know",
-      "url": "https://www.bbc.co.uk/news/articles/c4gyjpkzew1o?at_medium=RSS&at_campaign=rss",
-      "summary": "McConnell, 84, has been in hospital for nearly a month, and his staff have not yet said why he was admitted.",
-      "published_at": "2026-07-10T21:42:04Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC Africa",
@@ -1032,7 +1023,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 34
+      "news_count": 33
     },
     {
       "country_code": "GB",
