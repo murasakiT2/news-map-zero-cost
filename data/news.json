@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-07-14T06:31:49Z",
+  "generated_at": "2026-07-14T08:58:10Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "How India's Lord's win echoes the legacy of its pioneering women cricketers",
+      "url": "https://www.bbc.co.uk/news/articles/cd0m1rjyxmmo?at_medium=RSS&at_campaign=rss",
+      "summary": "India won the first women's Test at Lord's, 142 years after its first men's Test.",
+      "published_at": "2026-07-14T08:12:32Z",
+      "country_code": "IN",
+      "country_name": "India"
+    },
     {
       "source": "BBC World",
       "title": "How US commerce secretary's Epstein links were uncovered by British whistleblower",
@@ -21,9 +30,9 @@
     },
     {
       "source": "BBC World",
-      "title": "Death toll from Bangkok bar fire rises to 30 as police probe safety lapses",
+      "title": "Bangkok fire investigation finds locked doors and flammable decor as deaths climb to 30",
       "url": "https://www.bbc.co.uk/news/articles/clyxyzlp9p2o?at_medium=RSS&at_campaign=rss",
-      "summary": "Survivors and first reporters reported doors being locked and the lack of signage marking emergency exits.",
+      "summary": "Survivors and first responders reported locked doors and a lack of signage marking emergency exits.",
       "published_at": "2026-07-14T03:47:41Z",
       "country_code": "TH",
       "country_name": "Thailand"
@@ -92,7 +101,7 @@
       "country_name": "Spain"
     },
     {
-      "source": "BBC Europe",
+      "source": "BBC World",
       "title": "Watch: Horses evacuated as fire approaches riding centre near Paris",
       "url": "https://www.bbc.co.uk/news/videos/c1jy64065ylo?at_medium=RSS&at_campaign=rss",
       "summary": "The Fontainebleau forest blaze, described by officials as of 'exceptional scale', continues to rage for the second day.",
@@ -137,7 +146,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "At least 28 killed, 25 critically injured after fire engulfs Bangkok bar",
       "url": "https://www.bbc.co.uk/news/articles/c24yev53q06o?at_medium=RSS&at_campaign=rss",
       "summary": "Firefighters arrived at the scene in the Chatuchak district to find patrons running through flames to escape.",
@@ -160,6 +169,15 @@
       "url": "https://www.bbc.co.uk/news/articles/cz0jkj7e87go?at_medium=RSS&at_campaign=rss",
       "summary": "Shabana Mahmood will use new powers to ban support for the group, which has been linked to death threats and intimidation on British soil.",
       "published_at": "2026-07-13T12:50:19Z",
+      "country_code": "GB",
+      "country_name": "United Kingdom"
+    },
+    {
+      "source": "BBC Latin America",
+      "title": "Argentina to wear 'lucky' blue away kit against England",
+      "url": "https://www.bbc.co.uk/sport/football/articles/czx5v2p7qkgo?at_medium=RSS&at_campaign=rss",
+      "summary": "Argentina will wear their navy blue away strip and England their all-white home strip when the two sides face each other in the World Cup se…",
+      "published_at": "2026-07-13T12:14:11Z",
       "country_code": "GB",
       "country_name": "United Kingdom"
     },
@@ -236,7 +254,7 @@
       "country_name": "Spain"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "How Indian scientists are mapping the brain's last frontier",
       "url": "https://www.bbc.co.uk/news/articles/cg53l737v1qo?at_medium=RSS&at_campaign=rss",
       "summary": "India's new brainstem atlas offers scientists an unprecedented map of one of the brain's least known regions.",
@@ -821,15 +839,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Latin America",
-      "title": "Mbappe condemns racist posts from Paraguay senator",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckg557wxrzro?at_medium=RSS&at_campaign=rss",
-      "summary": "France forward Kylian Mbappe condemns a Paraguayan senator as \"despicable\" and unworthy of her position after she made a number of racist re…",
-      "published_at": "2026-07-07T08:51:24Z",
-      "country_code": "FR",
-      "country_name": "France"
-    },
-    {
       "source": "BBC US & Canada",
       "title": "A shambolic end for the American dream - did Balogun saga play part?",
       "url": "https://www.bbc.co.uk/sport/football/articles/c4gyxdeql5eo?at_medium=RSS&at_campaign=rss",
@@ -1046,7 +1055,7 @@
     {
       "country_code": "GB",
       "country_name": "United Kingdom",
-      "news_count": 9
+      "news_count": 10
     },
     {
       "country_code": "VE",
@@ -1069,11 +1078,6 @@
       "news_count": 5
     },
     {
-      "country_code": "FR",
-      "country_name": "France",
-      "news_count": 4
-    },
-    {
       "country_code": "UA",
       "country_name": "Ukraine",
       "news_count": 4
@@ -1091,6 +1095,11 @@
     {
       "country_code": "EG",
       "country_name": "Egypt",
+      "news_count": 3
+    },
+    {
+      "country_code": "FR",
+      "country_name": "France",
       "news_count": 3
     },
     {
@@ -1116,6 +1125,11 @@
     {
       "country_code": "IL",
       "country_name": "Israel",
+      "news_count": 2
+    },
+    {
+      "country_code": "IN",
+      "country_name": "India",
       "news_count": 2
     },
     {
@@ -1146,11 +1160,6 @@
     {
       "country_code": "DE",
       "country_name": "Germany",
-      "news_count": 1
-    },
-    {
-      "country_code": "IN",
-      "country_name": "India",
       "news_count": 1
     },
     {
