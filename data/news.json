@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-07-14T21:27:36Z",
+  "generated_at": "2026-07-14T22:28:34Z",
   "articles": [
+    {
+      "source": "BBC US & Canada",
+      "title": "What to know about 'explosive diarrhoea' parasite outbreak in US",
+      "url": "https://www.bbc.co.uk/news/articles/c621m66qm76o?at_medium=RSS&at_campaign=rss",
+      "summary": "The source of the cyclosporiasis outbreak, which has spread across at least 34 states, is unclear.",
+      "published_at": "2026-07-14T22:11:50Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "Millions in Canada swelter as heatwave continues to move east",
+      "url": "https://www.bbc.co.uk/news/articles/c5yzyep6z63o?at_medium=RSS&at_campaign=rss",
+      "summary": "High temperatures are expected to continue for Canada, as well as for parts of the US Midwest and Northeast, into Wednesday.",
+      "published_at": "2026-07-14T21:39:06Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "Trump scraps threat of 20% fee on Hormuz cargo as US resumes blockade of Iran ports",
@@ -30,15 +48,6 @@
     },
     {
       "source": "BBC US & Canada",
-      "title": "What to know about 'explosive diarrhoea' parasite outbreak in US",
-      "url": "https://www.bbc.co.uk/news/articles/c621m66qm76o?at_medium=RSS&at_campaign=rss",
-      "summary": "The source of the cyclosporiasis outbreak, which has spread across at least 34 states, is unclear.",
-      "published_at": "2026-07-14T18:20:26Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC US & Canada",
       "title": "Billionaire Warren Buffett stops donations to Bill Gates charity",
       "url": "https://www.bbc.co.uk/news/articles/c8x2x549vgdo?at_medium=RSS&at_campaign=rss",
       "summary": "The investor's decision comes weeks after Gates' appearance before US Congress over his links to Jeffrey Epstein.",
@@ -63,15 +72,6 @@
       "published_at": "2026-07-14T17:13:27Z",
       "country_code": "IL",
       "country_name": "Israel"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "Another heatwave hits parts of US and Canada",
-      "url": "https://www.bbc.co.uk/news/articles/c5yzyep6z63o?at_medium=RSS&at_campaign=rss",
-      "summary": "At least 44 people died in early July from a heatwave that scorched large swathes of the US.",
-      "published_at": "2026-07-14T15:49:29Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC Europe",
@@ -551,15 +551,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Europe",
-      "title": "'We escaped Spanish wildfire, but our friends lost their lives'",
-      "url": "https://www.bbc.co.uk/news/videos/c07y357zvl1o?at_medium=RSS&at_campaign=rss",
-      "summary": "Hundreds of firefighters in Spain have been battling a deadly wildfire in the south of the country.",
-      "published_at": "2026-07-11T11:45:55Z",
-      "country_code": "ES",
-      "country_name": "Spain"
-    },
-    {
       "source": "BBC Africa",
       "title": "How a fake presidential council ended up with a budget of almost $1m in Nigeria",
       "url": "https://www.bbc.co.uk/news/articles/c872v7wldjyo?at_medium=RSS&at_campaign=rss",
@@ -765,15 +756,6 @@
       "published_at": "2026-07-08T14:56:24Z",
       "country_code": "IR",
       "country_name": "Iran"
-    },
-    {
-      "source": "BBC Africa",
-      "title": "Egypt want officials kicked out of World Cup",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c5yzdd070r3o?at_medium=RSS&at_campaign=rss",
-      "summary": "The Egyptian FA lodges a complaint with Fifa and demands an investigation into \"double standards\" of officiating in the controversial defeat…",
-      "published_at": "2026-07-08T13:45:24Z",
-      "country_code": "EG",
-      "country_name": "Egypt"
     },
     {
       "source": "BBC Middle East",
@@ -1031,14 +1013,14 @@
       "news_count": 8
     },
     {
-      "country_code": "ES",
-      "country_name": "Spain",
-      "news_count": 7
-    },
-    {
       "country_code": "VE",
       "country_name": "Venezuela",
       "news_count": 7
+    },
+    {
+      "country_code": "ES",
+      "country_name": "Spain",
+      "news_count": 6
     },
     {
       "country_code": "IR",
@@ -1054,11 +1036,6 @@
       "country_code": "FR",
       "country_name": "France",
       "news_count": 4
-    },
-    {
-      "country_code": "EG",
-      "country_name": "Egypt",
-      "news_count": 3
     },
     {
       "country_code": "IL",
@@ -1093,6 +1070,11 @@
     {
       "country_code": "CN",
       "country_name": "China",
+      "news_count": 2
+    },
+    {
+      "country_code": "EG",
+      "country_name": "Egypt",
       "news_count": 2
     },
     {
