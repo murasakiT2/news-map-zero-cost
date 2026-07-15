@@ -1,6 +1,33 @@
 {
-  "generated_at": "2026-07-15T14:16:48Z",
+  "generated_at": "2026-07-15T15:57:37Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Special police team to investigate killing of an anti-migrant leader in South Africa",
+      "url": "https://www.bbc.co.uk/news/articles/cm2d2qlgj71o?at_medium=RSS&at_campaign=rss",
+      "summary": "The March and March provincial leader died of his injuries in hospital several days after being shot.",
+      "published_at": "2026-07-15T15:33:30Z",
+      "country_code": "ZA",
+      "country_name": "South Africa"
+    },
+    {
+      "source": "BBC World",
+      "title": "Dramatic video shows wildfire surround freight train in Canada",
+      "url": "https://www.bbc.co.uk/news/videos/cwy0yyzdqxvo?at_medium=RSS&at_campaign=rss",
+      "summary": "CN Rail told the BBC that operations were temporarily suspended in the affected area in the province of Ontario.",
+      "published_at": "2026-07-15T15:11:00Z",
+      "country_code": "CA",
+      "country_name": "Canada"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "Trump says ICE agents should not give up traffic stops",
+      "url": "https://www.bbc.co.uk/news/articles/cly8yrw597eo?at_medium=RSS&at_campaign=rss",
+      "summary": "The US president's intervention comes after a reported change of course by the agency following fatal shootings in Maine and Texas.",
+      "published_at": "2026-07-15T14:34:36Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "Russian attacks kill eight as Ukraine hits Black Sea oil tankers",
@@ -56,7 +83,7 @@
       "country_name": "Italy"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "US Congress takes next step to make daylight saving time permanent",
       "url": "https://www.bbc.co.uk/news/articles/cz9l9venjd8o?at_medium=RSS&at_campaign=rss",
       "summary": "The House of Representatives passed a Trump-backed bill that would end decades of Americans having to reset their clocks twice a year.",
@@ -227,15 +254,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC US & Canada",
-      "title": "Watch: Moment Darline Graham is sworn in to senate seat",
-      "url": "https://www.bbc.co.uk/news/videos/c2dydzk5e9po?at_medium=RSS&at_campaign=rss",
-      "summary": "The sister of late US Senator Lindsey Graham will serve as his temporary replacement after the South Carolina lawmaker died from an aortic t…",
-      "published_at": "2026-07-14T21:08:22Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC Europe",
       "title": "Starmer becomes first UK PM to receive top French honour",
       "url": "https://www.bbc.co.uk/news/articles/c33y3rxezxdo?at_medium=RSS&at_campaign=rss",
@@ -335,7 +353,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "Bangkok fire investigation finds locked doors and flammable decor as deaths climb to 30",
       "url": "https://www.bbc.co.uk/news/articles/clyxyzlp9p2o?at_medium=RSS&at_campaign=rss",
       "summary": "Survivors and first responders reported locked doors and a lack of signage marking emergency exits.",
@@ -1003,6 +1021,16 @@
       "news_count": 3
     },
     {
+      "country_code": "ZA",
+      "country_name": "South Africa",
+      "news_count": 3
+    },
+    {
+      "country_code": "CA",
+      "country_name": "Canada",
+      "news_count": 2
+    },
+    {
       "country_code": "IL",
       "country_name": "Israel",
       "news_count": 2
@@ -1033,11 +1061,6 @@
       "news_count": 2
     },
     {
-      "country_code": "ZA",
-      "country_name": "South Africa",
-      "news_count": 2
-    },
-    {
       "country_code": "AU",
       "country_name": "Australia",
       "news_count": 1
@@ -1050,11 +1073,6 @@
     {
       "country_code": "BE",
       "country_name": "Belgium",
-      "news_count": 1
-    },
-    {
-      "country_code": "CA",
-      "country_name": "Canada",
       "news_count": 1
     },
     {
