@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-07-15T20:01:19Z",
+  "generated_at": "2026-07-15T21:26:50Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Russian attacks kill 14 as Ukraine hits Black Sea oil tankers",
+      "url": "https://www.bbc.co.uk/news/articles/c8929jv8kdzo?at_medium=RSS&at_campaign=rss",
+      "summary": "Civilian casualties are reported in a number of Ukrainian regions, while Kyiv hits 20 Russian vessels in the Black Sea.",
+      "published_at": "2026-07-15T21:21:19Z",
+      "country_code": "UA",
+      "country_name": "Ukraine"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "Elderly US woman shocked to receive racy new car licence plate",
+      "url": "https://www.bbc.co.uk/news/articles/cyvlpyve8vjo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Florida retiree says the plate has caused quite a stir among her local community.",
+      "published_at": "2026-07-15T20:01:32Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC US & Canada",
       "title": "Epstein 'mistakes' and Trump ties: Key takeaways from Todd Blanche's confirmation hearing",
@@ -72,15 +90,6 @@
       "published_at": "2026-07-15T15:11:00Z",
       "country_code": "CA",
       "country_name": "Canada"
-    },
-    {
-      "source": "BBC World",
-      "title": "Russian attacks kill eight as Ukraine hits Black Sea oil tankers",
-      "url": "https://www.bbc.co.uk/news/articles/c8929jv8kdzo?at_medium=RSS&at_campaign=rss",
-      "summary": "Civilian casualties are reported in four Ukrainian regions, while Kyiv hits 20 Russian vessels in the Black Sea.",
-      "published_at": "2026-07-15T13:32:05Z",
-      "country_code": "UA",
-      "country_name": "Ukraine"
     },
     {
       "source": "BBC World",
@@ -996,7 +1005,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 35
+      "news_count": 36
     },
     {
       "country_code": "GB",
