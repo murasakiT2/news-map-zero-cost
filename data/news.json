@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-07-15T22:26:54Z",
+  "generated_at": "2026-07-15T23:26:32Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Argentina face fine for Falklands banner in semi-final win",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c935pgr4dklo?at_medium=RSS&at_campaign=rss",
+      "summary": "Argentina face the prospect of a Fifa fine after their players celebrate the World Cup semi-final win against England with a banner in suppo…",
+      "published_at": "2026-07-15T22:49:47Z",
+      "country_code": "GB",
+      "country_name": "United Kingdom"
+    },
+    {
+      "source": "BBC World",
+      "title": "US military to start testosterone testing, Hegseth says",
+      "url": "https://www.bbc.co.uk/news/articles/cn0nlx18rz0o?at_medium=RSS&at_campaign=rss",
+      "summary": "\"We owe our warriors the absolute best medical care in the world, and this program delivers on that obligation,\" Hegseth said in a video.",
+      "published_at": "2026-07-15T22:46:02Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC US & Canada",
       "title": "What to know about 'explosive diarrhoea' parasite outbreak in US",
@@ -43,6 +61,15 @@
       "url": "https://www.bbc.co.uk/news/articles/c9323zgq6wvo?at_medium=RSS&at_campaign=rss",
       "summary": "US President Donald Trump says he is yet to decide whether or not he will \"finish off\" Iran.",
       "published_at": "2026-07-15T21:55:04Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "US mum who blamed vaccines for twins' deaths is denied bail on murder charges",
+      "url": "https://www.bbc.co.uk/news/articles/ckg922wyxvlo?at_medium=RSS&at_campaign=rss",
+      "summary": "Andrea Shaw, whom prosecutors allege suffocated her twins, has had her bond revoked by a judge.",
+      "published_at": "2026-07-15T21:36:50Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -569,7 +596,7 @@
       "country_name": "Mexico"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "New era for Gibraltar with removal of 118-year-old border controls with Spain",
       "url": "https://www.bbc.co.uk/news/articles/cwydz60j3eno?at_medium=RSS&at_campaign=rss",
       "summary": "It is hoped that free movement between the UK territory and Spain will provide an economic boost.",
@@ -996,12 +1023,12 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 36
+      "news_count": 38
     },
     {
       "country_code": "GB",
       "country_name": "United Kingdom",
-      "news_count": 9
+      "news_count": 10
     },
     {
       "country_code": "VE",
