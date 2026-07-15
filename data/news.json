@@ -1,6 +1,60 @@
 {
-  "generated_at": "2026-07-15T10:40:58Z",
+  "generated_at": "2026-07-15T12:08:47Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Italy's Meloni suffers surprise setback in close vote on electoral reform",
+      "url": "https://www.bbc.co.uk/news/articles/c1kykx3vnyyo?at_medium=RSS&at_campaign=rss",
+      "summary": "The defeat triggered opposition calls for Meloni to resign ahead of next year's general election.",
+      "published_at": "2026-07-15T11:44:28Z",
+      "country_code": "IT",
+      "country_name": "Italy"
+    },
+    {
+      "source": "BBC World",
+      "title": "Heatwave prompts Italy's delivery riders to strike for extra rights",
+      "url": "https://www.bbc.co.uk/news/articles/c1dydw0r246o?at_medium=RSS&at_campaign=rss",
+      "summary": "Delivery riders in Milan, Bologna and Florence want to protect their health and their wages.",
+      "published_at": "2026-07-15T11:38:37Z",
+      "country_code": "IT",
+      "country_name": "Italy"
+    },
+    {
+      "source": "BBC World",
+      "title": "US Congress takes next step to make daylight saving time permanent",
+      "url": "https://www.bbc.co.uk/news/articles/cz9l9venjd8o?at_medium=RSS&at_campaign=rss",
+      "summary": "The House of Representatives passed a Trump-backed bill that would end decades of Americans having to reset their clocks twice a year.",
+      "published_at": "2026-07-15T11:30:44Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "How a former 'street kid' is key to South Africa's police corruption inquiry",
+      "url": "https://www.bbc.co.uk/news/articles/cpq3q75y40do?at_medium=RSS&at_campaign=rss",
+      "summary": "Vusimusi \"Cat\" Matlala, due to appear at the Madlanga Commission, grew up hustling to make a living.",
+      "published_at": "2026-07-15T11:19:52Z",
+      "country_code": "ZA",
+      "country_name": "South Africa"
+    },
+    {
+      "source": "BBC World",
+      "title": "Iran threatens to block more trade routes as US launches fresh strikes",
+      "url": "https://www.bbc.co.uk/news/articles/c9323zgq6wvo?at_medium=RSS&at_campaign=rss",
+      "summary": "US President Donald Trump vowed to strike Iran's bridges and power plants next week if the country does not return to talks.",
+      "published_at": "2026-07-15T11:08:59Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Kenyan court dismisses Rastafarians' bid to legalise cannabis",
+      "url": "https://www.bbc.co.uk/news/articles/c0lyl5ryyr4o?at_medium=RSS&at_campaign=rss",
+      "summary": "The court acknowledged the need for a broader national debate on cannabis policy in Kenya.",
+      "published_at": "2026-07-15T10:50:09Z",
+      "country_code": "KE",
+      "country_name": "Kenya"
+    },
     {
       "source": "BBC World",
       "title": "China economic growth falls sharply, missing target",
@@ -30,15 +84,6 @@
     },
     {
       "source": "BBC World",
-      "title": "Kenyan court dismisses Rastafarians' bid to legalise cannabis",
-      "url": "https://www.bbc.co.uk/news/articles/c0lyl5ryyr4o?at_medium=RSS&at_campaign=rss",
-      "summary": "The court acknowledged the need for a broader national debate on cannabis policy in Kenya.",
-      "published_at": "2026-07-15T09:57:11Z",
-      "country_code": "KE",
-      "country_name": "Kenya"
-    },
-    {
-      "source": "BBC World",
       "title": "Air India crash report likely to be ready in October, say investigators",
       "url": "https://www.bbc.co.uk/news/articles/cjrgrgx2d9qo?at_medium=RSS&at_campaign=rss",
       "summary": "The crash killed 260 people, including 241 on board, with only one passenger surviving.",
@@ -56,7 +101,7 @@
       "country_name": "Nigeria"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Middle East",
       "title": "Trump threatens to bomb bridges and power plants unless Iran resumes talks",
       "url": "https://www.bbc.co.uk/news/articles/cy0608wy8pro?at_medium=RSS&at_campaign=rss",
       "summary": "Trump's comments aired as the two countries exchanged fire for the fourth day in a row and the US resumed blockading Iranian ports.",
@@ -138,24 +183,6 @@
     },
     {
       "source": "BBC World",
-      "title": "US Congress takes next step to make daylight saving time permanent",
-      "url": "https://www.bbc.co.uk/news/articles/cz9l9venjd8o?at_medium=RSS&at_campaign=rss",
-      "summary": "The House of Representatives passed a Trump-backed bill that would end decades of Americans having to reset their clocks twice a year.",
-      "published_at": "2026-07-14T23:15:53Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "How a former 'street kid' is key to South Africa's police corruption inquiry",
-      "url": "https://www.bbc.co.uk/news/articles/cpq3q75y40do?at_medium=RSS&at_campaign=rss",
-      "summary": "Vusimusi \"Cat\" Matlala, due to appear at the Madlanga Commission, grew up hustling to make a living.",
-      "published_at": "2026-07-14T23:13:38Z",
-      "country_code": "ZA",
-      "country_name": "South Africa"
-    },
-    {
-      "source": "BBC World",
       "title": "From Wimbledon towels to Scotch: What India-UK trade deal could mean for shoppers",
       "url": "https://www.bbc.co.uk/news/articles/c0kymrz0vkgo?at_medium=RSS&at_campaign=rss",
       "summary": "The free trade agreement between the world's fifth and sixth largest economies has come into effect - can it deliver?",
@@ -228,15 +255,6 @@
     },
     {
       "source": "BBC US & Canada",
-      "title": "Billionaire Warren Buffett stops donations to Bill Gates charity",
-      "url": "https://www.bbc.co.uk/news/articles/c8x2x549vgdo?at_medium=RSS&at_campaign=rss",
-      "summary": "The investor's decision comes weeks after Gates' appearance before US Congress over his links to Jeffrey Epstein.",
-      "published_at": "2026-07-14T18:05:11Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC US & Canada",
       "title": "Gas prices drive down US inflation - but will it last?",
       "url": "https://www.bbc.co.uk/news/articles/c98289j7lg7o?at_medium=RSS&at_campaign=rss",
       "summary": "While the US inflation rate fell in June, concerns remain over price rises increasing again due to the renewed conflict in the Middle East.",
@@ -263,7 +281,7 @@
       "country_name": "Belgium"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "Singapore court orders Bloomberg to pay $356,000 to ministers in defamation case",
       "url": "https://www.bbc.co.uk/news/articles/cx232p85lp5o?at_medium=RSS&at_campaign=rss",
       "summary": "The ministers claimed the piece, which cited their luxury bungalow deals, had tarnished their reputation.",
@@ -297,15 +315,6 @@
       "published_at": "2026-07-14T08:12:32Z",
       "country_code": "IN",
       "country_name": "India"
-    },
-    {
-      "source": "BBC World",
-      "title": "How US commerce secretary's Epstein links were uncovered by British whistleblower",
-      "url": "https://www.bbc.co.uk/news/articles/c9q28dlyxrzo?at_medium=RSS&at_campaign=rss",
-      "summary": "Simon Andriesz made the discovery about Howard Lutnick in publicly released Epstein files.",
-      "published_at": "2026-07-14T05:00:03Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC Middle East",
@@ -371,7 +380,7 @@
       "country_name": "Spain"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "Watch: Horses evacuated as fire approaches riding centre near Paris",
       "url": "https://www.bbc.co.uk/news/videos/c1jy64065ylo?at_medium=RSS&at_campaign=rss",
       "summary": "The Fontainebleau forest blaze, described by officials as of 'exceptional scale', continues to rage for the second day.",
@@ -432,15 +441,6 @@
       "published_at": "2026-07-13T12:14:11Z",
       "country_code": "GB",
       "country_name": "United Kingdom"
-    },
-    {
-      "source": "BBC Africa",
-      "title": "Sudan's paramilitary RSF chief sentenced to death over war crimes",
-      "url": "https://www.bbc.co.uk/news/articles/cn4dk3kl0l4o?at_medium=RSS&at_campaign=rss",
-      "summary": "Mohamed Hamdan Dagalo was convicted in absentia along with 15 RSF commanders and allies.",
-      "published_at": "2026-07-13T12:02:19Z",
-      "country_code": "SD",
-      "country_name": "Sudan"
     },
     {
       "source": "BBC Europe",
@@ -969,7 +969,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 34
+      "news_count": 33
     },
     {
       "country_code": "GB",
@@ -1012,13 +1012,13 @@
       "news_count": 3
     },
     {
-      "country_code": "SD",
-      "country_name": "Sudan",
-      "news_count": 3
-    },
-    {
       "country_code": "IL",
       "country_name": "Israel",
+      "news_count": 2
+    },
+    {
+      "country_code": "IT",
+      "country_name": "Italy",
       "news_count": 2
     },
     {
@@ -1034,6 +1034,11 @@
     {
       "country_code": "RU",
       "country_name": "Russia",
+      "news_count": 2
+    },
+    {
+      "country_code": "SD",
+      "country_name": "Sudan",
       "news_count": 2
     },
     {
