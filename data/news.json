@@ -1,6 +1,51 @@
 {
-  "generated_at": "2026-07-15T00:10:56Z",
+  "generated_at": "2026-07-15T03:41:58Z",
   "articles": [
+    {
+      "source": "BBC Asia",
+      "title": "China economic growth falls sharply, missing target",
+      "url": "https://www.bbc.co.uk/news/articles/cd959x4edy8o?at_medium=RSS&at_campaign=rss",
+      "summary": "Weak demand domestically and the impact of the Iran war on oil prices overshadowed the country's strong exports.",
+      "published_at": "2026-07-15T03:26:47Z",
+      "country_code": "CN",
+      "country_name": "China"
+    },
+    {
+      "source": "BBC Asia",
+      "title": "China detains US scientist who studied North Korea nuclear tests",
+      "url": "https://www.bbc.co.uk/news/articles/cqx1xdn3g4eo?at_medium=RSS&at_campaign=rss",
+      "summary": "Chen Youlin's family says he has been wrongfully detained for nearly two years on spying charges.",
+      "published_at": "2026-07-15T02:14:37Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Seven Britons among those killed in Spain wildfires",
+      "url": "https://www.bbc.co.uk/news/articles/cp8l87784ngo?at_medium=RSS&at_campaign=rss",
+      "summary": "Twelve of the 13 victims were foreign nationals, Spanish authorities said on Tuesday.",
+      "published_at": "2026-07-15T01:03:07Z",
+      "country_code": "ES",
+      "country_name": "Spain"
+    },
+    {
+      "source": "BBC World",
+      "title": "Trump retreat over Hormuz tolls suggests he is struggling to end Iran war",
+      "url": "https://www.bbc.co.uk/news/articles/crele3r8j19o?at_medium=RSS&at_campaign=rss",
+      "summary": "The abrupt about-face from the US president was the latest twist in a conflict that has now lasted more than four months.",
+      "published_at": "2026-07-14T23:17:27Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "US Congress takes next step to make daylight saving time permanent",
+      "url": "https://www.bbc.co.uk/news/articles/cz9l9venjd8o?at_medium=RSS&at_campaign=rss",
+      "summary": "The House of Representatives passed a Trump-backed bill that would end decades of Americans having to reset their clocks twice a year.",
+      "published_at": "2026-07-14T23:15:53Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "How a former 'street kid' is key to South Africa's police corruption inquiry",
@@ -254,16 +299,7 @@
       "country_name": "United Kingdom"
     },
     {
-      "source": "BBC World",
-      "title": "Volkswagen planning to cut up to 100,000 jobs globally",
-      "url": "https://www.bbc.co.uk/news/articles/cx2wzpwn51lo?at_medium=RSS&at_campaign=rss",
-      "summary": "The group, which includes Porsche and Audi, has faced a steep fall in profits and tough competition from China.",
-      "published_at": "2026-07-13T16:19:15Z",
-      "country_code": "CN",
-      "country_name": "China"
-    },
-    {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "UK-Switzerland deal to scrap roaming charges and allow Britons to use e-gates",
       "url": "https://www.bbc.co.uk/news/articles/c621p9yjz1zo?at_medium=RSS&at_campaign=rss",
       "summary": "The UK signs a new services deal with Switzerland it says will increase exports by £5.2bn annually \"in the long run\".",
@@ -326,7 +362,7 @@
       "country_name": "Sudan"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "German court convicts Iraqi couple of enslaving Yazidi girls",
       "url": "https://www.bbc.co.uk/news/articles/cg53rp4e2j4o?at_medium=RSS&at_campaign=rss",
       "summary": "The pair, named only as Twana H.S. and Asia R. A., left Germany for Iraq in 2015 and became members of the Islamic State group.",
@@ -398,7 +434,7 @@
       "country_name": "Mexico"
     },
     {
-      "source": "BBC Europe",
+      "source": "BBC World",
       "title": "New era for Gibraltar with removal of 118-year-old border controls with Spain",
       "url": "https://www.bbc.co.uk/news/articles/cwydz60j3eno?at_medium=RSS&at_campaign=rss",
       "summary": "It is hoped that free movement between the UK territory and Spain will provide an economic boost.",
@@ -468,15 +504,6 @@
       "published_at": "2026-07-12T09:03:17Z",
       "country_code": "UA",
       "country_name": "Ukraine"
-    },
-    {
-      "source": "BBC Asia",
-      "title": "China evacuates nearly two million people as powerful typhoon makes landfall",
-      "url": "https://www.bbc.co.uk/news/articles/cdxd3wkp2rzo?at_medium=RSS&at_campaign=rss",
-      "summary": "Schools, work and outdoor activities have been suspended in Zhejiang province and many transport services cancelled.",
-      "published_at": "2026-07-12T07:39:45Z",
-      "country_code": "CN",
-      "country_name": "China"
     },
     {
       "source": "BBC Latin America",
@@ -666,15 +693,6 @@
       "published_at": "2026-07-10T04:18:14Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC Asia",
-      "title": "Acclaimed pianist loses Gaza speech case against Melbourne orchestra",
-      "url": "https://www.bbc.co.uk/news/articles/c4gyvwwep30o?at_medium=RSS&at_campaign=rss",
-      "summary": "Jayson Gillham sued the orchestra for workplace discrimination after they cancelled one of his shows.",
-      "published_at": "2026-07-10T01:27:18Z",
-      "country_code": "PS",
-      "country_name": "Palestine"
     },
     {
       "source": "BBC Middle East",
@@ -1023,7 +1041,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 34
+      "news_count": 37
     },
     {
       "country_code": "GB",
@@ -1031,14 +1049,14 @@
       "news_count": 9
     },
     {
-      "country_code": "VE",
-      "country_name": "Venezuela",
+      "country_code": "ES",
+      "country_name": "Spain",
       "news_count": 7
     },
     {
-      "country_code": "ES",
-      "country_name": "Spain",
-      "news_count": 6
+      "country_code": "VE",
+      "country_name": "Venezuela",
+      "news_count": 7
     },
     {
       "country_code": "IR",
@@ -1066,11 +1084,6 @@
       "news_count": 3
     },
     {
-      "country_code": "PS",
-      "country_name": "Palestine",
-      "news_count": 3
-    },
-    {
       "country_code": "SD",
       "country_name": "Sudan",
       "news_count": 3
@@ -1091,11 +1104,6 @@
       "news_count": 2
     },
     {
-      "country_code": "CN",
-      "country_name": "China",
-      "news_count": 2
-    },
-    {
       "country_code": "EG",
       "country_name": "Egypt",
       "news_count": 2
@@ -1108,6 +1116,11 @@
     {
       "country_code": "MA",
       "country_name": "Morocco",
+      "news_count": 2
+    },
+    {
+      "country_code": "PS",
+      "country_name": "Palestine",
       "news_count": 2
     },
     {
@@ -1128,6 +1141,11 @@
     {
       "country_code": "BE",
       "country_name": "Belgium",
+      "news_count": 1
+    },
+    {
+      "country_code": "CN",
+      "country_name": "China",
       "news_count": 1
     },
     {
