@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-07-14T23:24:04Z",
+  "generated_at": "2026-07-15T00:10:56Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "How a former 'street kid' is key to South Africa's police corruption inquiry",
+      "url": "https://www.bbc.co.uk/news/articles/cpq3q75y40do?at_medium=RSS&at_campaign=rss",
+      "summary": "Vusimusi \"Cat\" Matlala, due to appear at the Madlanga Commission, grew up hustling to make a living.",
+      "published_at": "2026-07-14T23:13:38Z",
+      "country_code": "ZA",
+      "country_name": "South Africa"
+    },
     {
       "source": "BBC World",
       "title": "From Wimbledon towels to Scotch: What India-UK trade deal could mean for shoppers",
@@ -1067,6 +1076,11 @@
       "news_count": 3
     },
     {
+      "country_code": "ZA",
+      "country_name": "South Africa",
+      "news_count": 3
+    },
+    {
       "country_code": "BD",
       "country_name": "Bangladesh",
       "news_count": 2
@@ -1104,11 +1118,6 @@
     {
       "country_code": "UA",
       "country_name": "Ukraine",
-      "news_count": 2
-    },
-    {
-      "country_code": "ZA",
-      "country_name": "South Africa",
       "news_count": 2
     },
     {
