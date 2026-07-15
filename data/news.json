@@ -1,12 +1,30 @@
 {
-  "generated_at": "2026-07-15T17:13:14Z",
+  "generated_at": "2026-07-15T18:35:11Z",
   "articles": [
     {
       "source": "BBC US & Canada",
-      "title": "Train 'encased in flames' in Canada wildfire",
+      "title": "Canada wildfires leaves train 'encased in flames' as smoke from drifts towards US",
       "url": "https://www.bbc.co.uk/news/articles/clyjnnrp2k7o?at_medium=RSS&at_campaign=rss",
-      "summary": "The crew was rescued after the close call. Meanwhile, wildfires in Canada have left Toronto under a haze and sent smoke drifting towards sev…",
-      "published_at": "2026-07-15T16:52:49Z",
+      "summary": "The crew was rescued after the close call. Meanwhile, blazes in Canada have left Toronto under a haze and smoke heading towards several majo…",
+      "published_at": "2026-07-15T17:44:54Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "Trump says ICE agents should not give up traffic stops",
+      "url": "https://www.bbc.co.uk/news/articles/cly8yrw597eo?at_medium=RSS&at_campaign=rss",
+      "summary": "The US president's intervention comes after a reported change of course by the agency following fatal shootings in Maine and Texas.",
+      "published_at": "2026-07-15T17:13:36Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "More people around the world now favour China over the US, Pew study suggests",
+      "url": "https://www.bbc.co.uk/news/articles/cd959q11g54o?at_medium=RSS&at_campaign=rss",
+      "summary": "There is more confidence in Xi Jinping than Donald Trump, the US think tank's survey indicates.",
+      "published_at": "2026-07-15T17:02:41Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -20,22 +38,13 @@
       "country_name": "South Africa"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "Dramatic video shows wildfire surround freight train in Canada",
       "url": "https://www.bbc.co.uk/news/videos/cwy0yyzdqxvo?at_medium=RSS&at_campaign=rss",
       "summary": "CN Rail told the BBC that operations were temporarily suspended in the affected area in the province of Ontario.",
       "published_at": "2026-07-15T15:11:00Z",
       "country_code": "CA",
       "country_name": "Canada"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "Trump says ICE agents should not give up traffic stops",
-      "url": "https://www.bbc.co.uk/news/articles/cly8yrw597eo?at_medium=RSS&at_campaign=rss",
-      "summary": "The US president's intervention comes after a reported change of course by the agency following fatal shootings in Maine and Texas.",
-      "published_at": "2026-07-15T14:34:36Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC World",
@@ -126,15 +135,6 @@
       "published_at": "2026-07-15T10:21:48Z",
       "country_code": "CN",
       "country_name": "China"
-    },
-    {
-      "source": "BBC World",
-      "title": "Celebrations as Gibraltar-Spain border fence removed",
-      "url": "https://www.bbc.co.uk/news/videos/cpd3d0d6zqzo?at_medium=RSS&at_campaign=rss",
-      "summary": "The symbolic midnight ceremony was followed by large crowds crossing between Gibraltar and Spain without border checks.",
-      "published_at": "2026-07-15T10:19:34Z",
-      "country_code": "ES",
-      "country_name": "Spain"
     },
     {
       "source": "BBC World",
@@ -254,7 +254,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Middle East",
       "title": "Watch: The clash between US and Iran for control of the Strait of Hormuz",
       "url": "https://www.bbc.co.uk/news/videos/cx2425dmpl3o?at_medium=RSS&at_campaign=rss",
       "summary": "The BBC's Barbara Plett Usher examines the latest tensions over the key international shipping channel.",
@@ -425,15 +425,6 @@
       "country_name": "France"
     },
     {
-      "source": "BBC Europe",
-      "title": "UK-Switzerland deal to scrap roaming charges and allow Britons to use e-gates",
-      "url": "https://www.bbc.co.uk/news/articles/c621p9yjz1zo?at_medium=RSS&at_campaign=rss",
-      "summary": "The UK signs a new services deal with Switzerland it says will increase exports by £5.2bn annually \"in the long run\".",
-      "published_at": "2026-07-13T16:05:13Z",
-      "country_code": "GB",
-      "country_name": "United Kingdom"
-    },
-    {
       "source": "BBC Middle East",
       "title": "US and Iran trade fire as tensions rise over Strait of Hormuz",
       "url": "https://www.bbc.co.uk/news/articles/cevlr112pmgo?at_medium=RSS&at_campaign=rss",
@@ -479,7 +470,7 @@
       "country_name": "United Kingdom"
     },
     {
-      "source": "BBC Europe",
+      "source": "BBC Middle East",
       "title": "German court convicts Iraqi couple of enslaving Yazidi girls",
       "url": "https://www.bbc.co.uk/news/articles/cg53rp4e2j4o?at_medium=RSS&at_campaign=rss",
       "summary": "The pair, named only as Twana H.S. and Asia R. A., left Germany for Iraq in 2015 and became members of the Islamic State group.",
@@ -987,12 +978,12 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 32
+      "news_count": 33
     },
     {
       "country_code": "GB",
       "country_name": "United Kingdom",
-      "news_count": 10
+      "news_count": 9
     },
     {
       "country_code": "VE",
@@ -1002,7 +993,7 @@
     {
       "country_code": "ES",
       "country_name": "Spain",
-      "news_count": 6
+      "news_count": 5
     },
     {
       "country_code": "FR",
