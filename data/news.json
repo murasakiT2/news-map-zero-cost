@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-07-16T20:45:01Z",
+  "generated_at": "2026-07-16T21:57:51Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Blasts reported in Iran as US launches new wave of strikes",
+      "url": "https://www.bbc.co.uk/news/articles/c151gdjwd10o?at_medium=RSS&at_campaign=rss",
+      "summary": "The US says its attacks aim to \"further degrade Iranian military capabilities\", as fighting continued for the sixth day in a row.",
+      "published_at": "2026-07-16T21:44:37Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "Hundreds of Canada wildfires prompt US air quality alerts as smoke spreads south",
@@ -146,7 +155,7 @@
       "country_name": "United Kingdom"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Middle East",
       "title": "Iran targets military bases as US launches wave of strikes",
       "url": "https://www.bbc.co.uk/news/articles/c2lq1ed28jxo?at_medium=RSS&at_campaign=rss",
       "summary": "Explosions were heard across Iran overnight, shortly after neighbouring Gulf states began to report attacks.",
@@ -1041,7 +1050,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 44
+      "news_count": 45
     },
     {
       "country_code": "GB",
