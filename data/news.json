@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-16T21:57:51Z",
+  "generated_at": "2026-07-16T22:47:25Z",
   "articles": [
     {
       "source": "BBC World",
@@ -7,6 +7,24 @@
       "url": "https://www.bbc.co.uk/news/articles/c151gdjwd10o?at_medium=RSS&at_campaign=rss",
       "summary": "The US says its attacks aim to \"further degrade Iranian military capabilities\", as fighting continued for the sixth day in a row.",
       "published_at": "2026-07-16T21:44:37Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "Trump administration tightens visa rules for foreign students",
+      "url": "https://www.bbc.co.uk/news/articles/czdmp87rpv1o?at_medium=RSS&at_campaign=rss",
+      "summary": "Students will need federal permission to stay longer than four years in the US and universities will lose the power to extend visas.",
+      "published_at": "2026-07-16T21:31:51Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "JD Vance accuses Israel of 'manipulating' US public opinion to prolong Iran war",
+      "url": "https://www.bbc.co.uk/news/articles/c1m107yj327o?at_medium=RSS&at_campaign=rss",
+      "summary": "The US vice president says he thinks some Israeli politicians are trying to detail efforts to end the conflict.",
+      "published_at": "2026-07-16T21:22:09Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -63,15 +81,6 @@
       "published_at": "2026-07-16T16:36:21Z",
       "country_code": "UA",
       "country_name": "Ukraine"
-    },
-    {
-      "source": "BBC World",
-      "title": "Pakistan resisting UK attempts to deport grooming gang leader",
-      "url": "https://www.bbc.co.uk/news/articles/clyxnvjy706o?at_medium=RSS&at_campaign=rss",
-      "summary": "The government of Pakistan says it has \"no connection whatsoever\" with the case of Shabir Ahmed.",
-      "published_at": "2026-07-16T16:26:32Z",
-      "country_code": "GB",
-      "country_name": "United Kingdom"
     },
     {
       "source": "BBC World",
@@ -236,7 +245,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "Blanche apologises on Capitol Hill for Epstein files 'mistakes'",
       "url": "https://www.bbc.co.uk/news/articles/c62q3g32204o?at_medium=RSS&at_campaign=rss",
       "summary": "Blanche faces a bipartisan grilling as he seeks to assume the role of US attorney general permanently.",
@@ -281,7 +290,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "'I must get out into the free world', dissident who fled China on boat tells BBC",
       "url": "https://www.bbc.co.uk/news/articles/cm2j2jw117lo?at_medium=RSS&at_campaign=rss",
       "summary": "Dong Guangping, who has resettled in Canada, recounts his perilous escape from China to South Korea.",
@@ -351,6 +360,15 @@
       "published_at": "2026-07-15T15:33:30Z",
       "country_code": "ZA",
       "country_name": "South Africa"
+    },
+    {
+      "source": "BBC World",
+      "title": "Dramatic video shows wildfire surround freight train in Canada",
+      "url": "https://www.bbc.co.uk/news/videos/cwy0yyzdqxvo?at_medium=RSS&at_campaign=rss",
+      "summary": "CN Rail told the BBC that operations were temporarily suspended in the affected area in the province of Ontario.",
+      "published_at": "2026-07-15T15:11:00Z",
+      "country_code": "CA",
+      "country_name": "Canada"
     },
     {
       "source": "BBC Europe",
@@ -1050,12 +1068,12 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 45
+      "news_count": 47
     },
     {
       "country_code": "GB",
       "country_name": "United Kingdom",
-      "news_count": 10
+      "news_count": 9
     },
     {
       "country_code": "VE",
@@ -1145,6 +1163,11 @@
     {
       "country_code": "BE",
       "country_name": "Belgium",
+      "news_count": 1
+    },
+    {
+      "country_code": "CA",
+      "country_name": "Canada",
       "news_count": 1
     },
     {
