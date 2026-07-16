@@ -1,18 +1,36 @@
 {
-  "generated_at": "2026-07-15T23:26:32Z",
+  "generated_at": "2026-07-16T00:53:44Z",
   "articles": [
     {
       "source": "BBC World",
-      "title": "Argentina face fine for Falklands banner in semi-final win",
+      "title": "Orange haze from Canada wildfires seen in Ontario and northern US",
+      "url": "https://www.bbc.co.uk/news/videos/c62q3kw126xo?at_medium=RSS&at_campaign=rss",
+      "summary": "There are currently 838 wildfires actively burning across the country, according to the Canadian Interagency Forest Fire Centre.",
+      "published_at": "2026-07-16T00:33:23Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "Blanche apologises on Capitol Hill for Epstein files 'mistakes'",
+      "url": "https://www.bbc.co.uk/news/articles/c62q3g32204o?at_medium=RSS&at_campaign=rss",
+      "summary": "Blanche faces a bipartisan grilling as he seeks to assume the role of US attorney general permanently.",
+      "published_at": "2026-07-15T23:45:12Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Argentina face disciplinary action for Falklands banner in semi-final win",
       "url": "https://www.bbc.co.uk/sport/football/articles/c935pgr4dklo?at_medium=RSS&at_campaign=rss",
-      "summary": "Argentina face the prospect of a Fifa fine after their players celebrate the World Cup semi-final win against England with a banner in suppo…",
+      "summary": "Argentina face the prospect of disciplinary action from Fifa after their players celebrate the World Cup semi-final win against England with…",
       "published_at": "2026-07-15T22:49:47Z",
       "country_code": "GB",
       "country_name": "United Kingdom"
     },
     {
       "source": "BBC World",
-      "title": "US military to start testosterone testing, Hegseth says",
+      "title": "US military to start screening for testosterone deficiency, Hegseth says",
       "url": "https://www.bbc.co.uk/news/articles/cn0nlx18rz0o?at_medium=RSS&at_campaign=rss",
       "summary": "\"We owe our warriors the absolute best medical care in the world, and this program delivers on that obligation,\" Hegseth said in a video.",
       "published_at": "2026-07-15T22:46:02Z",
@@ -38,7 +56,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Asia",
+      "source": "BBC World",
       "title": "'I must get out into the free world', dissident who fled China on boat tells BBC",
       "url": "https://www.bbc.co.uk/news/articles/cm2j2jw117lo?at_medium=RSS&at_campaign=rss",
       "summary": "Dong Guangping, who has resettled in Canada, recounts his perilous escape from China to South Korea.",
@@ -47,7 +65,7 @@
       "country_name": "China"
     },
     {
-      "source": "BBC Asia",
+      "source": "BBC World",
       "title": "Bangkok's bar fire is the city's latest deadly blaze - will anything ever change?",
       "url": "https://www.bbc.co.uk/news/articles/cd6e68n3jz5o?at_medium=RSS&at_campaign=rss",
       "summary": "The same horrific scenes have played out before, spurring calls for action. So why has this happened again?",
@@ -88,15 +106,6 @@
       "url": "https://www.bbc.co.uk/news/articles/cyvlpyve8vjo?at_medium=RSS&at_campaign=rss",
       "summary": "The Florida retiree says the plate has caused quite a stir among her local community.",
       "published_at": "2026-07-15T20:01:32Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "Epstein 'mistakes' and Trump ties: Key takeaways from Todd Blanche's confirmation hearing",
-      "url": "https://www.bbc.co.uk/news/articles/c62q3g32204o?at_medium=RSS&at_campaign=rss",
-      "summary": "Blanche faced bipartisan questioning on Wednesday as he seeks to take on the role of US attorney general permanently.",
-      "published_at": "2026-07-15T19:05:43Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -414,15 +423,6 @@
       "published_at": "2026-07-14T08:32:49Z",
       "country_code": "SD",
       "country_name": "Sudan"
-    },
-    {
-      "source": "BBC World",
-      "title": "How India's Lord's win echoes the legacy of its pioneering women cricketers",
-      "url": "https://www.bbc.co.uk/news/articles/cd0m1rjyxmmo?at_medium=RSS&at_campaign=rss",
-      "summary": "India won the first women's Test at Lord's, 142 years after its first men's Test.",
-      "published_at": "2026-07-14T08:12:32Z",
-      "country_code": "IN",
-      "country_name": "India"
     },
     {
       "source": "BBC Middle East",
@@ -1023,7 +1023,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 38
+      "news_count": 39
     },
     {
       "country_code": "GB",
@@ -1061,11 +1061,6 @@
       "news_count": 4
     },
     {
-      "country_code": "IN",
-      "country_name": "India",
-      "news_count": 3
-    },
-    {
       "country_code": "ZA",
       "country_name": "South Africa",
       "news_count": 3
@@ -1083,6 +1078,11 @@
     {
       "country_code": "IL",
       "country_name": "Israel",
+      "news_count": 2
+    },
+    {
+      "country_code": "IN",
+      "country_name": "India",
       "news_count": 2
     },
     {
