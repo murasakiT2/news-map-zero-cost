@@ -1,12 +1,21 @@
 {
-  "generated_at": "2026-07-16T03:54:28Z",
+  "generated_at": "2026-07-16T06:09:07Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Actor Sam Neill died from pneumonia, agent confirms",
+      "url": "https://www.bbc.co.uk/news/articles/cddj7e8v767o?at_medium=RSS&at_campaign=rss",
+      "summary": "Neill died in Sydney on Monday, with his family saying his death was 'sudden and unexpected'.",
+      "published_at": "2026-07-16T04:28:22Z",
+      "country_code": "AU",
+      "country_name": "Australia"
+    },
     {
       "source": "BBC World",
       "title": "US launches fresh strikes on Iran as Trump warns Tehran it 'better behave'",
       "url": "https://www.bbc.co.uk/news/articles/c9323zgq6wvo?at_medium=RSS&at_campaign=rss",
       "summary": "US President Donald Trump says he is yet to decide whether or not he will \"finish off\" Iran.",
-      "published_at": "2026-07-16T03:08:09Z",
+      "published_at": "2026-07-16T04:06:11Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -21,15 +30,6 @@
     },
     {
       "source": "BBC World",
-      "title": "Orange haze from Canada wildfires seen in Ontario and northern US",
-      "url": "https://www.bbc.co.uk/news/videos/c62q3kw126xo?at_medium=RSS&at_campaign=rss",
-      "summary": "There are currently 838 wildfires actively burning across the country, according to the Canadian Interagency Forest Fire Centre.",
-      "published_at": "2026-07-16T00:33:23Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC US & Canada",
       "title": "Blanche apologises on Capitol Hill for Epstein files 'mistakes'",
       "url": "https://www.bbc.co.uk/news/articles/c62q3g32204o?at_medium=RSS&at_campaign=rss",
       "summary": "Blanche faces a bipartisan grilling as he seeks to assume the role of US attorney general permanently.",
@@ -200,7 +200,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Africa",
       "title": "How a former 'street kid' is key to South Africa's police corruption inquiry",
       "url": "https://www.bbc.co.uk/news/articles/cpq3q75y40do?at_medium=RSS&at_campaign=rss",
       "summary": "Vusimusi \"Cat\" Matlala, due to appear at the Madlanga Commission, grew up hustling to make a living.",
@@ -470,7 +470,7 @@
       "country_name": "France"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "Briton tells of surviving Spain wildfire in car as wife and friends died trying to run to safety",
       "url": "https://www.bbc.co.uk/news/articles/cp9ld3p324jo?at_medium=RSS&at_campaign=rss",
       "summary": "Malcolm Timbrell's wife and their friends are thought to have died when a devastating wildfire tore through their village in Spain.",
@@ -549,15 +549,6 @@
       "published_at": "2026-07-13T10:30:51Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC Asia",
-      "title": "Watch: At the scene where Bangkok's deadly bar fire unfolded",
-      "url": "https://www.bbc.co.uk/news/videos/clyrd9nwn9wo?at_medium=RSS&at_campaign=rss",
-      "summary": "The BBC’s South East Asia correspondent visits the site where at least 27 people were killed during a bar fire in Thailand.",
-      "published_at": "2026-07-13T04:58:01Z",
-      "country_code": "TH",
-      "country_name": "Thailand"
     },
     {
       "source": "BBC Europe",
@@ -1014,7 +1005,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 39
+      "news_count": 38
     },
     {
       "country_code": "GB",
@@ -1037,11 +1028,6 @@
       "news_count": 5
     },
     {
-      "country_code": "TH",
-      "country_name": "Thailand",
-      "news_count": 5
-    },
-    {
       "country_code": "IR",
       "country_name": "Iran",
       "news_count": 4
@@ -1052,9 +1038,19 @@
       "news_count": 4
     },
     {
+      "country_code": "TH",
+      "country_name": "Thailand",
+      "news_count": 4
+    },
+    {
       "country_code": "ZA",
       "country_name": "South Africa",
       "news_count": 3
+    },
+    {
+      "country_code": "AU",
+      "country_name": "Australia",
+      "news_count": 2
     },
     {
       "country_code": "CA",
@@ -1095,11 +1091,6 @@
       "country_code": "UA",
       "country_name": "Ukraine",
       "news_count": 2
-    },
-    {
-      "country_code": "AU",
-      "country_name": "Australia",
-      "news_count": 1
     },
     {
       "country_code": "BE",
