@@ -1,11 +1,38 @@
 {
-  "generated_at": "2026-07-16T18:36:42Z",
+  "generated_at": "2026-07-16T19:55:21Z",
   "articles": [
     {
+      "source": "BBC Europe",
+      "title": "Starmer pledges 'unwavering support' for Ukraine on final visit as PM",
+      "url": "https://www.bbc.co.uk/news/articles/cx2myl1erj8o?at_medium=RSS&at_campaign=rss",
+      "summary": "The outgoing prime minister assures President Zelensky of the UK's continued support in its war with Russia.",
+      "published_at": "2026-07-16T19:50:54Z",
+      "country_code": "GB",
+      "country_name": "United Kingdom"
+    },
+    {
       "source": "BBC World",
-      "title": "More than 800 Canadian wildfires burning as air quality alerts extend to US",
+      "title": "Watch: What to know as Genoa bridge disaster trial ends",
+      "url": "https://www.bbc.co.uk/news/videos/cgewd07ee3go?at_medium=RSS&at_campaign=rss",
+      "summary": "More than 50 defendants have been on trial in Italy over the 2018 bridge collapse which killed 43 people.",
+      "published_at": "2026-07-16T18:52:01Z",
+      "country_code": "IT",
+      "country_name": "Italy"
+    },
+    {
+      "source": "BBC World",
+      "title": "Fifa 'assessing match reports' over Falklands banner",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c75gnkl30vlo?at_medium=RSS&at_campaign=rss",
+      "summary": "Fifa is \"assessing the match reports\" before deciding whether to punish Argentina after players held a banner in support of their country's …",
+      "published_at": "2026-07-16T18:44:43Z",
+      "country_code": "AR",
+      "country_name": "Argentina"
+    },
+    {
+      "source": "BBC World",
+      "title": "Canada wildfires spread smoke across North America, sparking air quality alerts",
       "url": "https://www.bbc.co.uk/news/articles/c0m7n427xd8o?at_medium=RSS&at_campaign=rss",
-      "summary": "The air quality in large parts of Michigan, Minneapolis and Minnesota is deemed \"hazardous\" by authorities.",
+      "summary": "Smoke from more than 800 blazes has prompted air quality concerns in Toronto, New York and large parts of Michigan, Minneapolis and Minnesot…",
       "published_at": "2026-07-16T17:36:43Z",
       "country_code": "US",
       "country_name": "United States"
@@ -74,15 +101,6 @@
       "country_name": "Russia"
     },
     {
-      "source": "BBC Europe",
-      "title": "Starmer pledges 'unwavering support' for Ukraine on final visit as PM",
-      "url": "https://www.bbc.co.uk/news/articles/cx2myl1erj8o?at_medium=RSS&at_campaign=rss",
-      "summary": "The outgoing prime minister assures President Zelensky of the UK's continued support in its war with Russia.",
-      "published_at": "2026-07-16T13:04:44Z",
-      "country_code": "GB",
-      "country_name": "United Kingdom"
-    },
-    {
       "source": "BBC World",
       "title": "Volunteer firefighter suspected of starting devastating France forest fire",
       "url": "https://www.bbc.co.uk/news/articles/ce97zd8yx1xo?at_medium=RSS&at_campaign=rss",
@@ -119,7 +137,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Latin America",
       "title": "Argentina face action over Falklands banner",
       "url": "https://www.bbc.co.uk/sport/football/articles/c935pgr4dklo?at_medium=RSS&at_campaign=rss",
       "summary": "Argentina face the prospect of disciplinary action from Fifa after their players celebrate the World Cup semi-final win against England with…",
@@ -155,7 +173,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "Moment US Navy jet stuns packed Florida beach with low flypast",
       "url": "https://www.bbc.co.uk/news/videos/cx27ljkngxmo?at_medium=RSS&at_campaign=rss",
       "summary": "A US Navy Blue Angels jet sent some beach items up in the air as it flew at a low altitude over a crowd in Pensacola Beach, Florida.",
@@ -200,7 +218,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC US & Canada",
+      "source": "BBC World",
       "title": "Orange haze from Canada wildfires seen in Ontario and northern US",
       "url": "https://www.bbc.co.uk/news/videos/c62q3kw126xo?at_medium=RSS&at_campaign=rss",
       "summary": "There are currently 838 wildfires actively burning across the country, according to the Canadian Interagency Forest Fire Centre.",
@@ -290,7 +308,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "Russian attacks kill 14 as Ukraine hits Black Sea oil tankers",
       "url": "https://www.bbc.co.uk/news/articles/c8929jv8kdzo?at_medium=RSS&at_campaign=rss",
       "summary": "Civilian casualties are reported in a number of Ukrainian regions, while Kyiv hits 20 Russian vessels in the Black Sea.",
@@ -300,28 +318,10 @@
     },
     {
       "source": "BBC US & Canada",
-      "title": "'SQZ A55' - US pensioner shocked by her racy new car licence plate",
-      "url": "https://www.bbc.co.uk/news/articles/cyvlpyve8vjo?at_medium=RSS&at_campaign=rss",
-      "summary": "Nancy Dello Stritto, 76, says the plate has caused quite a stir in her retirement community.",
-      "published_at": "2026-07-15T20:01:32Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC US & Canada",
       "title": "Americans' views on proposal to make daylight saving time permanent",
       "url": "https://www.bbc.co.uk/news/videos/c2lq1nqk2v9o?at_medium=RSS&at_campaign=rss",
       "summary": "The US House of Representatives has voted to make daylight saving time permanent by passing the Sunshine Protection Act.",
       "published_at": "2026-07-15T18:34:00Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "Canada wildfires leave train 'encased in flames' as smoke drifts towards US",
-      "url": "https://www.bbc.co.uk/news/articles/clyjnnrp2k7o?at_medium=RSS&at_campaign=rss",
-      "summary": "The crew was rescued after the close call. Meanwhile, blazes in Canada have left Toronto under a haze and smoke heading towards several majo…",
-      "published_at": "2026-07-15T17:44:54Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -335,7 +335,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Africa",
       "title": "Special police team to investigate killing of an anti-migrant leader in South Africa",
       "url": "https://www.bbc.co.uk/news/articles/cm2d2qlgj71o?at_medium=RSS&at_campaign=rss",
       "summary": "The March and March provincial leader died of his injuries in hospital several days after being shot.",
@@ -362,7 +362,7 @@
       "country_name": "Venezuela"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "Italy's Meloni suffers surprise setback in close vote on electoral reform",
       "url": "https://www.bbc.co.uk/news/articles/c1kykx3vnyyo?at_medium=RSS&at_campaign=rss",
       "summary": "The defeat triggered opposition calls for Meloni to resign ahead of next year's general election.",
@@ -693,15 +693,6 @@
       "published_at": "2026-07-12T15:33:27Z",
       "country_code": "ES",
       "country_name": "Spain"
-    },
-    {
-      "source": "BBC Europe",
-      "title": "People flee as Russian strike hits near Ukraine coffee shop",
-      "url": "https://www.bbc.co.uk/news/videos/c8r27drk1nxo?at_medium=RSS&at_campaign=rss",
-      "summary": "Three cameras caught the moment people ducked then ran for cover in Sumy, in north eastern Ukraine.",
-      "published_at": "2026-07-12T09:03:17Z",
-      "country_code": "UA",
-      "country_name": "Ukraine"
     },
     {
       "source": "BBC Africa",
@@ -1050,7 +1041,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 46
+      "news_count": 44
     },
     {
       "country_code": "GB",
@@ -1078,23 +1069,18 @@
       "news_count": 4
     },
     {
+      "country_code": "IT",
+      "country_name": "Italy",
+      "news_count": 4
+    },
+    {
       "country_code": "KE",
       "country_name": "Kenya",
       "news_count": 4
     },
     {
-      "country_code": "IT",
-      "country_name": "Italy",
-      "news_count": 3
-    },
-    {
       "country_code": "TH",
       "country_name": "Thailand",
-      "news_count": 3
-    },
-    {
-      "country_code": "UA",
-      "country_name": "Ukraine",
       "news_count": 3
     },
     {
@@ -1131,6 +1117,16 @@
       "country_code": "RU",
       "country_name": "Russia",
       "news_count": 2
+    },
+    {
+      "country_code": "UA",
+      "country_name": "Ukraine",
+      "news_count": 2
+    },
+    {
+      "country_code": "AR",
+      "country_name": "Argentina",
+      "news_count": 1
     },
     {
       "country_code": "AU",
