@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-07-16T22:47:25Z",
+  "generated_at": "2026-07-16T23:48:20Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "One man's hunger strike changed India's map. Can it still change politics?",
+      "url": "https://www.bbc.co.uk/news/articles/cn4d4eq9n8do?at_medium=RSS&at_campaign=rss",
+      "summary": "Why hunger strikes still shape Indian politics, from Gandhi to Sonam Wangchuk.",
+      "published_at": "2026-07-16T22:21:03Z",
+      "country_code": "IN",
+      "country_name": "India"
+    },
     {
       "source": "BBC World",
       "title": "Blasts reported in Iran as US launches new wave of strikes",
@@ -1106,6 +1115,11 @@
       "news_count": 4
     },
     {
+      "country_code": "IN",
+      "country_name": "India",
+      "news_count": 3
+    },
+    {
       "country_code": "TH",
       "country_name": "Thailand",
       "news_count": 3
@@ -1123,11 +1137,6 @@
     {
       "country_code": "IL",
       "country_name": "Israel",
-      "news_count": 2
-    },
-    {
-      "country_code": "IN",
-      "country_name": "India",
       "news_count": 2
     },
     {
