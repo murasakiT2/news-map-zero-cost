@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-07-16T00:53:44Z",
+  "generated_at": "2026-07-16T03:54:28Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "US launches fresh strikes on Iran as Trump warns Tehran it 'better behave'",
+      "url": "https://www.bbc.co.uk/news/articles/c9323zgq6wvo?at_medium=RSS&at_campaign=rss",
+      "summary": "US President Donald Trump says he is yet to decide whether or not he will \"finish off\" Iran.",
+      "published_at": "2026-07-16T03:08:09Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "US military to start screening for testosterone deficiency, Hegseth says",
+      "url": "https://www.bbc.co.uk/news/articles/cn0nlx18rz0o?at_medium=RSS&at_campaign=rss",
+      "summary": "Hegseth says he is authorising hormone screening to ensure US troops \"operate at your absolute best\".",
+      "published_at": "2026-07-16T02:33:40Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "Orange haze from Canada wildfires seen in Ontario and northern US",
@@ -21,21 +39,12 @@
     },
     {
       "source": "BBC World",
-      "title": "Argentina face disciplinary action for Falklands banner in semi-final win",
+      "title": "Argentina face action after waving Falklands banner",
       "url": "https://www.bbc.co.uk/sport/football/articles/c935pgr4dklo?at_medium=RSS&at_campaign=rss",
       "summary": "Argentina face the prospect of disciplinary action from Fifa after their players celebrate the World Cup semi-final win against England with…",
       "published_at": "2026-07-15T22:49:47Z",
       "country_code": "GB",
       "country_name": "United Kingdom"
-    },
-    {
-      "source": "BBC World",
-      "title": "US military to start screening for testosterone deficiency, Hegseth says",
-      "url": "https://www.bbc.co.uk/news/articles/cn0nlx18rz0o?at_medium=RSS&at_campaign=rss",
-      "summary": "\"We owe our warriors the absolute best medical care in the world, and this program delivers on that obligation,\" Hegseth said in a video.",
-      "published_at": "2026-07-15T22:46:02Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC US & Canada",
@@ -74,15 +83,6 @@
       "country_name": "Thailand"
     },
     {
-      "source": "BBC World",
-      "title": "US launches fresh strikes on Iran as Trump warns Tehran it 'better behave'",
-      "url": "https://www.bbc.co.uk/news/articles/c9323zgq6wvo?at_medium=RSS&at_campaign=rss",
-      "summary": "US President Donald Trump says he is yet to decide whether or not he will \"finish off\" Iran.",
-      "published_at": "2026-07-15T21:55:04Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC US & Canada",
       "title": "US mum who blamed vaccines for twins' deaths is denied bail on murder charges",
       "url": "https://www.bbc.co.uk/news/articles/ckg922wyxvlo?at_medium=RSS&at_campaign=rss",
@@ -102,9 +102,9 @@
     },
     {
       "source": "BBC US & Canada",
-      "title": "Elderly US woman shocked to receive racy new car licence plate",
+      "title": "'SQZ A55' - US pensioner shocked by her racy new car licence plate",
       "url": "https://www.bbc.co.uk/news/articles/cyvlpyve8vjo?at_medium=RSS&at_campaign=rss",
-      "summary": "The Florida retiree says the plate has caused quite a stir among her local community.",
+      "summary": "Nancy Dello Stritto, 76, says the plate has caused quite a stir in her retirement community.",
       "published_at": "2026-07-15T20:01:32Z",
       "country_code": "US",
       "country_name": "United States"
@@ -120,7 +120,7 @@
     },
     {
       "source": "BBC US & Canada",
-      "title": "Canada wildfires leaves train 'encased in flames' as smoke from drifts towards US",
+      "title": "Canada wildfires leave train 'encased in flames' as smoke drifts towards US",
       "url": "https://www.bbc.co.uk/news/articles/clyjnnrp2k7o?at_medium=RSS&at_campaign=rss",
       "summary": "The crew was rescued after the close call. Meanwhile, blazes in Canada have left Toronto under a haze and smoke heading towards several majo…",
       "published_at": "2026-07-15T17:44:54Z",
@@ -414,15 +414,6 @@
       "published_at": "2026-07-14T10:02:43Z",
       "country_code": "SA",
       "country_name": "Saudi Arabia"
-    },
-    {
-      "source": "BBC Africa",
-      "title": "EU bans gold imports from Sudan to curb money financing the war",
-      "url": "https://www.bbc.co.uk/news/articles/ce3e3nqwr5do?at_medium=RSS&at_campaign=rss",
-      "summary": "The ban also restricts exports of mercury and cyanide to Sudan, chemicals widely used in gold mining.",
-      "published_at": "2026-07-14T08:32:49Z",
-      "country_code": "SD",
-      "country_name": "Sudan"
     },
     {
       "source": "BBC Middle East",
@@ -1101,11 +1092,6 @@
       "news_count": 2
     },
     {
-      "country_code": "SD",
-      "country_name": "Sudan",
-      "news_count": 2
-    },
-    {
       "country_code": "UA",
       "country_name": "Ukraine",
       "news_count": 2
@@ -1163,6 +1149,11 @@
     {
       "country_code": "SA",
       "country_name": "Saudi Arabia",
+      "news_count": 1
+    },
+    {
+      "country_code": "SD",
+      "country_name": "Sudan",
       "news_count": 1
     },
     {
