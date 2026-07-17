@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-17T07:09:37Z",
+  "generated_at": "2026-07-17T09:24:45Z",
   "articles": [
     {
       "source": "BBC World",
-      "title": "US launches new strikes as Iran says civilian infrastructure hit",
-      "url": "https://www.bbc.co.uk/news/articles/c151gdjwd10o?at_medium=RSS&at_campaign=rss",
-      "summary": "Tehran says the US strikes hit bridges, while the US boards a ship in the Strait of Hormuz.",
-      "published_at": "2026-07-17T07:00:31Z",
+      "title": "Trump accuses China of election meddling and questions voting security ahead of midterms",
+      "url": "https://www.bbc.co.uk/news/articles/cx2k9wvv5wyo?at_medium=RSS&at_campaign=rss",
+      "summary": "China said Trump's claims were fabricated and US Democrats said he was paving the way to undermine November's elections.",
+      "published_at": "2026-07-17T09:12:06Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -15,9 +15,18 @@
       "title": "China hits out at British Steel nationalisation",
       "url": "https://www.bbc.co.uk/news/articles/cjd4kvxpd3do?at_medium=RSS&at_campaign=rss",
       "summary": "The UK government said taking the firm into public hands would safeguard \"a vital national capability\".",
-      "published_at": "2026-07-17T05:35:00Z",
+      "published_at": "2026-07-17T08:25:55Z",
       "country_code": "GB",
       "country_name": "United Kingdom"
+    },
+    {
+      "source": "BBC World",
+      "title": "US launches new strikes as Iran says civilian infrastructure hit",
+      "url": "https://www.bbc.co.uk/news/articles/c151gdjwd10o?at_medium=RSS&at_campaign=rss",
+      "summary": "Tehran says the US strikes hit bridges, while the US boards a ship in the Strait of Hormuz.",
+      "published_at": "2026-07-17T08:10:12Z",
+      "country_code": "US",
+      "country_name": "United States"
     },
     {
       "source": "BBC World",
@@ -27,15 +36,6 @@
       "published_at": "2026-07-17T05:16:34Z",
       "country_code": "JP",
       "country_name": "Japan"
-    },
-    {
-      "source": "BBC World",
-      "title": "Trump alleges 'shocking vulnerabilities' in US election security ahead of midterms",
-      "url": "https://www.bbc.co.uk/news/articles/cx2k9wvv5wyo?at_medium=RSS&at_campaign=rss",
-      "summary": "The president accuses China of meddling in the 2020 election, directly contradicting past findings from US intelligence.",
-      "published_at": "2026-07-17T04:08:27Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC World",
@@ -155,7 +155,7 @@
       "country_name": "Algeria"
     },
     {
-      "source": "BBC US & Canada",
+      "source": "BBC World",
       "title": "What to know about the Canadian and US wildfires and their impact",
       "url": "https://www.bbc.co.uk/news/articles/c5ywdl9ne3yo?at_medium=RSS&at_campaign=rss",
       "summary": "Wildfires in Ontario have blanketed US and Canadian cities with dangerous smoke.",
@@ -821,15 +821,6 @@
       "country_name": "Morocco"
     },
     {
-      "source": "BBC Asia",
-      "title": "Watch: Typhoon Bavi forecast to bring heavy rains and floods to Taiwan, Japan and China",
-      "url": "https://www.bbc.co.uk/news/videos/c0myengg8nzo?at_medium=RSS&at_campaign=rss",
-      "summary": "See how the powerful storm is expected to move across east Asia on Saturday.",
-      "published_at": "2026-07-10T13:40:19Z",
-      "country_code": "JP",
-      "country_name": "Japan"
-    },
-    {
       "source": "BBC Africa",
       "title": "How football has helped immigrants make a home in the US",
       "url": "https://www.bbc.co.uk/sport/football/articles/c8e2n00gge6o?at_medium=RSS&at_campaign=rss",
@@ -1127,11 +1118,6 @@
       "news_count": 2
     },
     {
-      "country_code": "JP",
-      "country_name": "Japan",
-      "news_count": 2
-    },
-    {
       "country_code": "MA",
       "country_name": "Morocco",
       "news_count": 2
@@ -1164,6 +1150,11 @@
     {
       "country_code": "EG",
       "country_name": "Egypt",
+      "news_count": 1
+    },
+    {
+      "country_code": "JP",
+      "country_name": "Japan",
       "news_count": 1
     },
     {
