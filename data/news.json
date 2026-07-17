@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-07-17T19:37:30Z",
+  "generated_at": "2026-07-17T20:41:58Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "One anti-war critic fined, another held as Russia clamps down on opponents",
+      "url": "https://www.bbc.co.uk/news/articles/cn0n3y6ewn4o?at_medium=RSS&at_campaign=rss",
+      "summary": "While Boris Nadezhdin is barred from running for parliament, blogger Ilya Remeslo is remanded in custody.",
+      "published_at": "2026-07-17T20:00:54Z",
+      "country_code": "RU",
+      "country_name": "Russia"
+    },
+    {
+      "source": "BBC World",
+      "title": "Many Ukrainian soldiers outraged over removal of defence minister, troops tell BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cvg8w4dpjkwo?at_medium=RSS&at_campaign=rss",
+      "summary": "Protests erupted in Ukraine on Thursday after Mykhailo Fedorov's removal - and now soldiers are also criticising the move.",
+      "published_at": "2026-07-17T19:04:09Z",
+      "country_code": "UA",
+      "country_name": "Ukraine"
+    },
     {
       "source": "BBC World",
       "title": "US denies Iranian claims it hit civilian infrastructure in latest strikes",
@@ -101,15 +119,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
-      "title": "One man's hunger strike changed India's map. Can it still change politics?",
-      "url": "https://www.bbc.co.uk/news/articles/cn4d4eq9n8do?at_medium=RSS&at_campaign=rss",
-      "summary": "Why hunger strikes still shape Indian politics, from Gandhi to Sonam Wangchuk.",
-      "published_at": "2026-07-16T22:21:03Z",
-      "country_code": "IN",
-      "country_name": "India"
-    },
-    {
       "source": "BBC US & Canada",
       "title": "Trump administration tightens visa rules for foreign students",
       "url": "https://www.bbc.co.uk/news/articles/czdmp87rpv1o?at_medium=RSS&at_campaign=rss",
@@ -162,15 +171,6 @@
       "published_at": "2026-07-16T16:36:21Z",
       "country_code": "UA",
       "country_name": "Ukraine"
-    },
-    {
-      "source": "BBC World",
-      "title": "Children among dead at Algeria foster care home blaze - president",
-      "url": "https://www.bbc.co.uk/news/articles/cvgwd4nz344o?at_medium=RSS&at_campaign=rss",
-      "summary": "Eleven people have died and 19 other have suffered injuries in the overnight fire, the authorities say.",
-      "published_at": "2026-07-16T16:14:45Z",
-      "country_code": "DZ",
-      "country_name": "Algeria"
     },
     {
       "source": "BBC World",
@@ -1020,13 +1020,18 @@
       "news_count": 4
     },
     {
-      "country_code": "IN",
-      "country_name": "India",
+      "country_code": "KE",
+      "country_name": "Kenya",
       "news_count": 3
     },
     {
-      "country_code": "KE",
-      "country_name": "Kenya",
+      "country_code": "RU",
+      "country_name": "Russia",
+      "news_count": 3
+    },
+    {
+      "country_code": "UA",
+      "country_name": "Ukraine",
       "news_count": 3
     },
     {
@@ -1055,13 +1060,13 @@
       "news_count": 2
     },
     {
-      "country_code": "MA",
-      "country_name": "Morocco",
+      "country_code": "IN",
+      "country_name": "India",
       "news_count": 2
     },
     {
-      "country_code": "RU",
-      "country_name": "Russia",
+      "country_code": "MA",
+      "country_name": "Morocco",
       "news_count": 2
     },
     {
@@ -1070,18 +1075,8 @@
       "news_count": 2
     },
     {
-      "country_code": "UA",
-      "country_name": "Ukraine",
-      "news_count": 2
-    },
-    {
       "country_code": "BE",
       "country_name": "Belgium",
-      "news_count": 1
-    },
-    {
-      "country_code": "DZ",
-      "country_name": "Algeria",
       "news_count": 1
     },
     {
