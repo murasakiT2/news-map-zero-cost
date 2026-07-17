@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-07-17T11:01:29Z",
+  "generated_at": "2026-07-17T12:39:06Z",
   "articles": [
     {
-      "source": "BBC World",
-      "title": "US launches new strikes as Iran says civilian infrastructure hit",
-      "url": "https://www.bbc.co.uk/news/articles/c151gdjwd10o?at_medium=RSS&at_campaign=rss",
-      "summary": "Tehran says the US strikes hit bridges, while the US boards a ship in the Strait of Hormuz.",
-      "published_at": "2026-07-17T10:57:50Z",
-      "country_code": "US",
-      "country_name": "United States"
+      "source": "BBC Europe",
+      "title": "German politician faces calls to resign over surrogacy child",
+      "url": "https://www.bbc.co.uk/news/articles/cq56ed827peo?at_medium=RSS&at_campaign=rss",
+      "summary": "Surrogacy is banned in Germany, a policy firmly backed by Jens Spahn's Christian Democrat party, and several years ago by Spahn, too.",
+      "published_at": "2026-07-17T12:26:29Z",
+      "country_code": "DE",
+      "country_name": "Germany"
     },
     {
       "source": "BBC World",
       "title": "Trump alleges China meddled in 2020 election and questions voting security ahead of midterms",
       "url": "https://www.bbc.co.uk/news/articles/cx2k9wvv5wyo?at_medium=RSS&at_campaign=rss",
       "summary": "China said Trump's claims were fabricated and US Democrats said he was paving the way to undermine November's elections.",
-      "published_at": "2026-07-17T09:12:06Z",
+      "published_at": "2026-07-17T11:37:00Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -24,9 +24,18 @@
       "title": "China hits out at British Steel nationalisation",
       "url": "https://www.bbc.co.uk/news/articles/cjd4kvxpd3do?at_medium=RSS&at_campaign=rss",
       "summary": "The UK government said taking the firm into public hands would safeguard \"a vital national capability\".",
-      "published_at": "2026-07-17T08:25:55Z",
+      "published_at": "2026-07-17T11:07:45Z",
       "country_code": "GB",
       "country_name": "United Kingdom"
+    },
+    {
+      "source": "BBC World",
+      "title": "Iran accuses US of hitting civilian infrastructure",
+      "url": "https://www.bbc.co.uk/news/articles/c151gdjwd10o?at_medium=RSS&at_campaign=rss",
+      "summary": "The US military says its attacks were intended to \"further degrade Iranian military capabilities\".",
+      "published_at": "2026-07-17T10:57:50Z",
+      "country_code": "US",
+      "country_name": "United States"
     },
     {
       "source": "BBC World",
@@ -1054,6 +1063,11 @@
       "news_count": 2
     },
     {
+      "country_code": "DE",
+      "country_name": "Germany",
+      "news_count": 2
+    },
+    {
       "country_code": "IL",
       "country_name": "Israel",
       "news_count": 2
@@ -1081,11 +1095,6 @@
     {
       "country_code": "BE",
       "country_name": "Belgium",
-      "news_count": 1
-    },
-    {
-      "country_code": "DE",
-      "country_name": "Germany",
       "news_count": 1
     },
     {
