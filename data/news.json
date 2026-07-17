@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-07-17T15:51:55Z",
+  "generated_at": "2026-07-17T16:58:22Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "China hits out at British Steel nationalisation",
+      "url": "https://www.bbc.co.uk/news/articles/cjd4kvxpd3do?at_medium=RSS&at_campaign=rss",
+      "summary": "The UK government said taking the firm into public hands would safeguard \"a vital national capability\".",
+      "published_at": "2026-07-17T16:44:22Z",
+      "country_code": "GB",
+      "country_name": "United Kingdom"
+    },
     {
       "source": "BBC Europe",
       "title": "German politician faces calls to resign over surrogacy child",
@@ -27,15 +36,6 @@
       "published_at": "2026-07-17T11:37:00Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "China hits out at British Steel nationalisation",
-      "url": "https://www.bbc.co.uk/news/articles/cjd4kvxpd3do?at_medium=RSS&at_campaign=rss",
-      "summary": "The UK government said taking the firm into public hands would safeguard \"a vital national capability\".",
-      "published_at": "2026-07-17T11:07:45Z",
-      "country_code": "GB",
-      "country_name": "United Kingdom"
     },
     {
       "source": "BBC World",
@@ -90,15 +90,6 @@
       "published_at": "2026-07-16T22:21:03Z",
       "country_code": "IN",
       "country_name": "India"
-    },
-    {
-      "source": "BBC World",
-      "title": "He escaped the Bangkok bar inferno - but his girlfriend and three bandmates didn't",
-      "url": "https://www.bbc.co.uk/news/articles/c1k13zj914mo?at_medium=RSS&at_campaign=rss",
-      "summary": "Athipat Wichan tells BBC Thai he regrets bringing his girlfriend Nahathai into his indie band Thotsakan.",
-      "published_at": "2026-07-16T22:01:32Z",
-      "country_code": "TH",
-      "country_name": "Thailand"
     },
     {
       "source": "BBC US & Canada",
@@ -1039,11 +1030,6 @@
       "news_count": 3
     },
     {
-      "country_code": "TH",
-      "country_name": "Thailand",
-      "news_count": 3
-    },
-    {
       "country_code": "AU",
       "country_name": "Australia",
       "news_count": 2
@@ -1071,6 +1057,11 @@
     {
       "country_code": "RU",
       "country_name": "Russia",
+      "news_count": 2
+    },
+    {
+      "country_code": "TH",
+      "country_name": "Thailand",
       "news_count": 2
     },
     {
