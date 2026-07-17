@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-07-17T16:58:22Z",
+  "generated_at": "2026-07-17T18:04:10Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Iran accuses US of hitting civilian infrastructure",
+      "url": "https://www.bbc.co.uk/news/articles/c151gdjwd10o?at_medium=RSS&at_campaign=rss",
+      "summary": "The US military says its attacks were intended to \"further degrade Iranian military capabilities\".",
+      "published_at": "2026-07-17T17:46:24Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "China hits out at British Steel nationalisation",
@@ -21,21 +30,21 @@
     },
     {
       "source": "BBC World",
-      "title": "Iran accuses US of hitting civilian infrastructure",
-      "url": "https://www.bbc.co.uk/news/articles/c151gdjwd10o?at_medium=RSS&at_campaign=rss",
-      "summary": "The US military says its attacks were intended to \"further degrade Iranian military capabilities\".",
-      "published_at": "2026-07-17T14:32:07Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
       "title": "Trump alleges China meddled in 2020 election and questions voting security ahead of midterms",
       "url": "https://www.bbc.co.uk/news/articles/cx2k9wvv5wyo?at_medium=RSS&at_campaign=rss",
       "summary": "China said Trump's claims were fabricated and US Democrats said he was paving the way to undermine November's elections.",
       "published_at": "2026-07-17T11:37:00Z",
       "country_code": "US",
       "country_name": "United States"
+    },
+    {
+      "source": "BBC Africa",
+      "title": "Inside rugby's greatest production factory",
+      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cwym77z8gl9o?at_medium=RSS&at_campaign=rss",
+      "summary": "On Saturday Wales face South Africa - a nation who never seem to run out of international-class players. Are there lessons the tourists can …",
+      "published_at": "2026-07-17T11:36:48Z",
+      "country_code": "ZA",
+      "country_name": "South Africa"
     },
     {
       "source": "BBC World",
@@ -165,15 +174,6 @@
     },
     {
       "source": "BBC World",
-      "title": "JD Vance says Welsh castle was 'coolest thing I've ever seen'",
-      "url": "https://www.bbc.co.uk/news/articles/ckg8g5z83glo?at_medium=RSS&at_campaign=rss",
-      "summary": "The US Vice-President writes in his new book that a visit to north Wales in 2013 changed his perspective.",
-      "published_at": "2026-07-16T16:08:28Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
       "title": "Teenager accused of carrying out sabotage actions in Poland for Russia",
       "url": "https://www.bbc.co.uk/news/articles/cp305dx493do?at_medium=RSS&at_campaign=rss",
       "summary": "Polish security services say the aim was to incite ethnic tensions between Poland and Ukraine.",
@@ -214,15 +214,6 @@
       "url": "https://www.bbc.co.uk/news/articles/c2lq1ed28jxo?at_medium=RSS&at_campaign=rss",
       "summary": "Explosions were heard across Iran overnight, shortly after neighbouring Gulf states began to report attacks.",
       "published_at": "2026-07-16T11:48:49Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "Chip giant TSMC pledges another $100bn to expand US production",
-      "url": "https://www.bbc.co.uk/news/articles/c62x8ldxr7eo?at_medium=RSS&at_campaign=rss",
-      "summary": "The company says it will create \"high-tech, high-paying jobs\", and raises its total commitment to the US to $265bn.",
-      "published_at": "2026-07-16T10:23:00Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -987,7 +978,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 42
+      "news_count": 40
     },
     {
       "country_code": "GB",
@@ -1030,6 +1021,11 @@
       "news_count": 3
     },
     {
+      "country_code": "ZA",
+      "country_name": "South Africa",
+      "news_count": 3
+    },
+    {
       "country_code": "AU",
       "country_name": "Australia",
       "news_count": 2
@@ -1067,11 +1063,6 @@
     {
       "country_code": "UA",
       "country_name": "Ukraine",
-      "news_count": 2
-    },
-    {
-      "country_code": "ZA",
-      "country_name": "South Africa",
       "news_count": 2
     },
     {
