@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-07-17T20:41:58Z",
+  "generated_at": "2026-07-17T21:41:01Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Taco Bell removes lettuce from menu in US after links to explosive diarrhoea parasite",
+      "url": "https://www.bbc.co.uk/news/articles/cm2gnglyv0jo?at_medium=RSS&at_campaign=rss",
+      "summary": "About 1,645 people in five states were infected by the parasite after having Taco Bell, according to US health officials.",
+      "published_at": "2026-07-17T21:29:22Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Trump threatens to tariff Canada over wildfire smoke choking northern US cities",
+      "url": "https://www.bbc.co.uk/news/articles/cwyq93j34lgo?at_medium=RSS&at_campaign=rss",
+      "summary": "Canadian leader Mark Carney says both the US and Canada have an equal responsibility to fight climate change, which experts say are worsenin…",
+      "published_at": "2026-07-17T21:14:02Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "One anti-war critic fined, another held as Russia clamps down on opponents",
@@ -32,7 +50,7 @@
       "source": "BBC World",
       "title": "Magnitude 7.3 earthquake quake strikes off Mexico coast",
       "url": "https://www.bbc.co.uk/news/articles/cwyjv3815yxo?at_medium=RSS&at_campaign=rss",
-      "summary": "The US Tsunami Warning Center issued a warning and has recorded waves 0.3m (1.1 feet) high in Puerto Madero and Chiapas in Mexico.",
+      "summary": "The US Tsunami Warning Center has recorded waves 0.3m (1.1 feet) high in Puerto Madero and Chiapas in Mexico after the quake.",
       "published_at": "2026-07-17T18:12:54Z",
       "country_code": "US",
       "country_name": "United States"
@@ -81,15 +99,6 @@
       "published_at": "2026-07-17T05:16:34Z",
       "country_code": "JP",
       "country_name": "Japan"
-    },
-    {
-      "source": "BBC World",
-      "title": "Taco Bell removes lettuce from menu in US after links to explosive diarrhoea",
-      "url": "https://www.bbc.co.uk/news/articles/cm2gnglyv0jo?at_medium=RSS&at_campaign=rss",
-      "summary": "Lettuce from one supplier is being removed indefinitely \"out of an abundance of caution\", the company says.",
-      "published_at": "2026-07-17T03:09:55Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC World",
@@ -191,7 +200,7 @@
       "country_name": "Russia"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "Volunteer firefighter suspected of starting devastating France forest fire",
       "url": "https://www.bbc.co.uk/news/articles/ce97zd8yx1xo?at_medium=RSS&at_campaign=rss",
       "summary": "President Macron said there would be no leniency for arsonists, as France - along with much of Europe - deals with a series of unusual heatw…",
@@ -987,7 +996,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 41
+      "news_count": 42
     },
     {
       "country_code": "GB",
