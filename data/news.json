@@ -1,12 +1,21 @@
 {
-  "generated_at": "2026-07-17T18:04:10Z",
+  "generated_at": "2026-07-17T19:37:30Z",
   "articles": [
     {
       "source": "BBC World",
-      "title": "Iran accuses US of hitting civilian infrastructure",
+      "title": "US denies Iranian claims it hit civilian infrastructure in latest strikes",
       "url": "https://www.bbc.co.uk/news/articles/c151gdjwd10o?at_medium=RSS&at_campaign=rss",
       "summary": "The US military says its attacks were intended to \"further degrade Iranian military capabilities\".",
-      "published_at": "2026-07-17T17:46:24Z",
+      "published_at": "2026-07-17T18:33:12Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Magnitude 7.3 earthquake quake strikes off Mexico coast",
+      "url": "https://www.bbc.co.uk/news/articles/cwyjv3815yxo?at_medium=RSS&at_campaign=rss",
+      "summary": "The US Tsunami Warning Center issued a warning and has recorded waves 0.3m (1.1 feet) high in Puerto Madero and Chiapas in Mexico.",
+      "published_at": "2026-07-17T18:12:54Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -978,7 +987,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 40
+      "news_count": 41
     },
     {
       "country_code": "GB",
