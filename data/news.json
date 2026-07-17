@@ -1,21 +1,30 @@
 {
-  "generated_at": "2026-07-17T22:38:05Z",
+  "generated_at": "2026-07-17T23:41:32Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Trump threatens new Canada tariffs over fires sending 'filthy' air into US cities",
+      "url": "https://www.bbc.co.uk/news/articles/cwyq93j34lgo?at_medium=RSS&at_campaign=rss",
+      "summary": "Canadian leader Mark Carney says both the US and Canada have an equal responsibility to fight climate change, which experts say are worsenin…",
+      "published_at": "2026-07-17T23:15:10Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "White House defends Argentina team over Falklands banner",
+      "url": "https://www.bbc.co.uk/news/articles/cx2rmjk0740o?at_medium=RSS&at_campaign=rss",
+      "summary": "The comments could further fuel the row over the incident, which has seen Downing Street back calls for Fifa to investigate.",
+      "published_at": "2026-07-17T22:12:54Z",
+      "country_code": "AR",
+      "country_name": "Argentina"
+    },
     {
       "source": "BBC World",
       "title": "Taco Bell removes lettuce from menu in US after links to explosive diarrhoea parasite",
       "url": "https://www.bbc.co.uk/news/articles/cm2gnglyv0jo?at_medium=RSS&at_campaign=rss",
       "summary": "About 1,645 people in five states were infected by the parasite after having Taco Bell, according to US health officials.",
       "published_at": "2026-07-17T21:29:22Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "Trump threatens to tariff Canada over wildfire smoke choking northern US cities",
-      "url": "https://www.bbc.co.uk/news/articles/cwyq93j34lgo?at_medium=RSS&at_campaign=rss",
-      "summary": "Canadian leader Mark Carney says both the US and Canada have an equal responsibility to fight climate change, which experts say are worsenin…",
-      "published_at": "2026-07-17T21:14:02Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -1082,6 +1091,11 @@
       "country_code": "TH",
       "country_name": "Thailand",
       "news_count": 2
+    },
+    {
+      "country_code": "AR",
+      "country_name": "Argentina",
+      "news_count": 1
     },
     {
       "country_code": "BE",
