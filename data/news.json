@@ -1,12 +1,21 @@
 {
-  "generated_at": "2026-07-18T11:43:38Z",
+  "generated_at": "2026-07-18T12:49:27Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Russian online retail warehouses hit by deadly Ukrainian strikes",
+      "url": "https://www.bbc.co.uk/news/articles/clyxlm877p2o?at_medium=RSS&at_campaign=rss",
+      "summary": "Drones targeted Wildberries facilities near Moscow and in Tambov. Ukraine's leader called them \"major logistics facilities\" supplying \"sanct…",
+      "published_at": "2026-07-18T11:55:54Z",
+      "country_code": "RU",
+      "country_name": "Russia"
+    },
     {
       "source": "BBC World",
       "title": "US strikes hit Iran for seventh consecutive night",
       "url": "https://www.bbc.co.uk/news/articles/cy748n8zx8ro?at_medium=RSS&at_campaign=rss",
       "summary": "Iran has retaliated against US allies in the region, with Kuwait reporting that a power and water plant had been hit.",
-      "published_at": "2026-07-18T07:33:40Z",
+      "published_at": "2026-07-18T11:48:44Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -65,7 +74,7 @@
       "country_name": "Argentina"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "Taco Bell removes lettuce from menu in US after links to explosive diarrhoea parasite",
       "url": "https://www.bbc.co.uk/news/articles/cm2gnglyv0jo?at_medium=RSS&at_campaign=rss",
       "summary": "About 1,645 people in five states were infected by the parasite after having Taco Bell, according to US health officials.",
@@ -146,7 +155,7 @@
       "country_name": "Japan"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "Philippines condemns monkey video on Chinese media as racist",
       "url": "https://www.bbc.co.uk/news/articles/cj632307934o?at_medium=RSS&at_campaign=rss",
       "summary": "The AI video on China Daily showed a monkey in Philippine garments singing its claims to the South China Sea.",
@@ -1007,13 +1016,13 @@
       "news_count": 4
     },
     {
-      "country_code": "KE",
-      "country_name": "Kenya",
-      "news_count": 3
-    },
-    {
       "country_code": "RU",
       "country_name": "Russia",
+      "news_count": 4
+    },
+    {
+      "country_code": "KE",
+      "country_name": "Kenya",
       "news_count": 3
     },
     {
