@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-18T08:14:55Z",
+  "generated_at": "2026-07-18T09:51:47Z",
   "articles": [
     {
       "source": "BBC World",
@@ -147,15 +147,6 @@
     },
     {
       "source": "BBC World",
-      "title": "Australia 'deeply frustrated' over Laos methanol poisoning charges",
-      "url": "https://www.bbc.co.uk/news/articles/cy5d4z343wlo?at_medium=RSS&at_campaign=rss",
-      "summary": "Media reports say Laos will press charges of up to one year in jail against those allegedly responsible.",
-      "published_at": "2026-07-17T02:56:45Z",
-      "country_code": "AU",
-      "country_name": "Australia"
-    },
-    {
-      "source": "BBC World",
       "title": "Philippines condemns monkey video on Chinese media as racist",
       "url": "https://www.bbc.co.uk/news/articles/cj632307934o?at_medium=RSS&at_campaign=rss",
       "summary": "The AI video on China Daily showed a monkey in Philippine garments singing its claims to the South China Sea.",
@@ -182,7 +173,7 @@
       "country_name": "United Kingdom"
     },
     {
-      "source": "BBC Europe",
+      "source": "BBC World",
       "title": "Watch: What to know as Genoa bridge disaster trial ends",
       "url": "https://www.bbc.co.uk/news/videos/cgewd07ee3go?at_medium=RSS&at_campaign=rss",
       "summary": "More than 50 defendants have been on trial in Italy over the 2018 bridge collapse which killed 43 people.",
@@ -281,7 +272,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC US & Canada",
+      "source": "BBC World",
       "title": "Orange haze from Canada wildfires seen in Ontario and northern US",
       "url": "https://www.bbc.co.uk/news/videos/c62q3kw126xo?at_medium=RSS&at_campaign=rss",
       "summary": "There are currently 838 wildfires actively burning across the country, according to the Canadian Interagency Forest Fire Centre.",
@@ -1036,11 +1027,6 @@
       "news_count": 3
     },
     {
-      "country_code": "AU",
-      "country_name": "Australia",
-      "news_count": 2
-    },
-    {
       "country_code": "CN",
       "country_name": "China",
       "news_count": 2
@@ -1068,6 +1054,11 @@
     {
       "country_code": "AR",
       "country_name": "Argentina",
+      "news_count": 1
+    },
+    {
+      "country_code": "AU",
+      "country_name": "Australia",
       "news_count": 1
     },
     {
