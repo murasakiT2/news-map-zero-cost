@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-18T04:19:22Z",
+  "generated_at": "2026-07-18T06:25:50Z",
   "articles": [
     {
       "source": "BBC World",
       "title": "US strikes hit Iran for seventh consecutive night",
       "url": "https://www.bbc.co.uk/news/articles/cy748n8zx8ro?at_medium=RSS&at_campaign=rss",
       "summary": "The US command says it is conducting more strikes to degrade Iran's armed forces, as Iran reports explosions near the Strait of Hormuz.",
-      "published_at": "2026-07-18T03:02:01Z",
+      "published_at": "2026-07-18T04:40:11Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -18,6 +18,15 @@
       "published_at": "2026-07-18T01:29:47Z",
       "country_code": "US",
       "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Space start-up launches India’s first commercial rocket designed for orbit",
+      "url": "https://www.bbc.co.uk/news/articles/clyekv7rld3o?at_medium=RSS&at_campaign=rss",
+      "summary": "India's first space-tech unicorn Skyroot Aerospace is set to launch Vikram-1 on Saturday.",
+      "published_at": "2026-07-18T00:39:18Z",
+      "country_code": "IN",
+      "country_name": "India"
     },
     {
       "source": "BBC Asia",
@@ -146,29 +155,11 @@
       "country_name": "China"
     },
     {
-      "source": "BBC World",
-      "title": "Canada fires prompt US air quality alerts as smoke blankets major cities",
-      "url": "https://www.bbc.co.uk/news/articles/c0m7n427xd8o?at_medium=RSS&at_campaign=rss",
-      "summary": "Smoke from more than 800 blazes has filled major cities from Toronto and New York, to parts of the US Midwest and Great Lakes.",
-      "published_at": "2026-07-17T02:15:23Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC US & Canada",
       "title": "Trump administration tightens visa rules for foreign students",
       "url": "https://www.bbc.co.uk/news/articles/czdmp87rpv1o?at_medium=RSS&at_campaign=rss",
       "summary": "Students will need federal permission to stay longer than four years in the US and universities will lose the power to extend visas.",
       "published_at": "2026-07-16T21:31:51Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "JD Vance accuses Israel of 'manipulating' US public opinion to prolong Iran war",
-      "url": "https://www.bbc.co.uk/news/articles/c1m107yj327o?at_medium=RSS&at_campaign=rss",
-      "summary": "The US vice president says he thinks some Israeli politicians are trying to detail efforts to end the conflict.",
-      "published_at": "2026-07-16T21:22:09Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -182,7 +173,7 @@
       "country_name": "United Kingdom"
     },
     {
-      "source": "BBC Europe",
+      "source": "BBC World",
       "title": "Watch: What to know as Genoa bridge disaster trial ends",
       "url": "https://www.bbc.co.uk/news/videos/cgewd07ee3go?at_medium=RSS&at_campaign=rss",
       "summary": "More than 50 defendants have been on trial in Italy over the 2018 bridge collapse which killed 43 people.",
@@ -191,7 +182,7 @@
       "country_name": "Italy"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "Italian officials handed jail terms for Genoa bridge disaster that killed 43",
       "url": "https://www.bbc.co.uk/news/articles/c36dnz1zez5o?at_medium=RSS&at_campaign=rss",
       "summary": "The ex-head of Italy's motorway operator Giovanni Castellucci was handed a 12-year term over the 2018 bridge collapse.",
@@ -200,7 +191,7 @@
       "country_name": "Italy"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "Zelensky's removal of popular defence minister sparks protests in Ukraine",
       "url": "https://www.bbc.co.uk/news/articles/cdx76069n3do?at_medium=RSS&at_campaign=rss",
       "summary": "A rift between Fedorov and Commander-in-Chief Oleksandr Syrskyi was apparently at the heart of Zelensky's decision.",
@@ -209,7 +200,7 @@
       "country_name": "Ukraine"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "Teenager accused of carrying out sabotage actions in Poland for Russia",
       "url": "https://www.bbc.co.uk/news/articles/cp305dx493do?at_medium=RSS&at_campaign=rss",
       "summary": "Polish security services say the aim was to incite ethnic tensions between Poland and Ukraine.",
@@ -987,7 +978,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 41
+      "news_count": 39
     },
     {
       "country_code": "GB",
@@ -1010,6 +1001,11 @@
       "news_count": 4
     },
     {
+      "country_code": "IN",
+      "country_name": "India",
+      "news_count": 4
+    },
+    {
       "country_code": "IR",
       "country_name": "Iran",
       "news_count": 4
@@ -1018,11 +1014,6 @@
       "country_code": "IT",
       "country_name": "Italy",
       "news_count": 4
-    },
-    {
-      "country_code": "IN",
-      "country_name": "India",
-      "news_count": 3
     },
     {
       "country_code": "KE",
