@@ -1,12 +1,21 @@
 {
-  "generated_at": "2026-07-18T01:24:09Z",
+  "generated_at": "2026-07-18T04:19:22Z",
   "articles": [
     {
       "source": "BBC World",
       "title": "US strikes hit Iran for seventh consecutive night",
       "url": "https://www.bbc.co.uk/news/articles/cy748n8zx8ro?at_medium=RSS&at_campaign=rss",
       "summary": "The US command says it is conducting more strikes to degrade Iran's armed forces, as Iran reports explosions near the Strait of Hormuz.",
-      "published_at": "2026-07-18T01:16:11Z",
+      "published_at": "2026-07-18T03:02:01Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Trump threatens new Canada tariffs over fires sending 'filthy' air into US cities",
+      "url": "https://www.bbc.co.uk/news/articles/cwyq93j34lgo?at_medium=RSS&at_campaign=rss",
+      "summary": "Canadian leader Mark Carney says both the US and Canada have an equal responsibility to fight climate change, which experts say are worsenin…",
+      "published_at": "2026-07-18T01:29:47Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -30,15 +39,6 @@
     },
     {
       "source": "BBC World",
-      "title": "Trump threatens new Canada tariffs over fires sending 'filthy' air into US cities",
-      "url": "https://www.bbc.co.uk/news/articles/cwyq93j34lgo?at_medium=RSS&at_campaign=rss",
-      "summary": "Canadian leader Mark Carney says both the US and Canada have an equal responsibility to fight climate change, which experts say are worsenin…",
-      "published_at": "2026-07-17T23:15:10Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
       "title": "White House defends Argentina team over Falklands banner",
       "url": "https://www.bbc.co.uk/news/articles/cx2rmjk0740o?at_medium=RSS&at_campaign=rss",
       "summary": "The comments could further fuel the row over the incident, which has seen Downing Street back calls for Fifa to investigate.",
@@ -57,7 +57,7 @@
     },
     {
       "source": "BBC World",
-      "title": "One anti-war critic fined, another held as Russia clamps down on opponents",
+      "title": "One anti-war critic fined, another held as Russia clamps down on dissent",
       "url": "https://www.bbc.co.uk/news/articles/cn0n3y6ewn4o?at_medium=RSS&at_campaign=rss",
       "summary": "While Boris Nadezhdin is barred from running for parliament, blogger Ilya Remeslo is remanded in custody.",
       "published_at": "2026-07-17T20:00:54Z",
@@ -232,15 +232,6 @@
       "url": "https://www.bbc.co.uk/news/articles/clyqwkegqk0o?at_medium=RSS&at_campaign=rss",
       "summary": "The US military targeted an unladen oil tanker which it said was heading for the key Iranian oil terminal on Kharg island.",
       "published_at": "2026-07-16T12:09:26Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC Middle East",
-      "title": "Iran targets military bases as US launches wave of strikes",
-      "url": "https://www.bbc.co.uk/news/articles/c2lq1ed28jxo?at_medium=RSS&at_campaign=rss",
-      "summary": "Explosions were heard across Iran overnight, shortly after neighbouring Gulf states began to report attacks.",
-      "published_at": "2026-07-16T11:48:49Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -990,22 +981,13 @@
       "published_at": "2026-06-17T09:13:34Z",
       "country_code": "IL",
       "country_name": "Israel"
-    },
-    {
-      "source": "BBC Middle East",
-      "title": "The bikers battling extreme heat and armed conflict to smuggle Iranian fuel to Pakistan",
-      "url": "https://www.bbc.co.uk/news/articles/c621jr3yy09o?at_medium=RSS&at_campaign=rss",
-      "summary": "It's so hot the fuel can catch fire - the bikers tell the BBC they must live with the risk of injury and death.",
-      "published_at": "2026-06-16T23:52:37Z",
-      "country_code": "PK",
-      "country_name": "Pakistan"
     }
   ],
   "regions": [
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 42
+      "news_count": 41
     },
     {
       "country_code": "GB",
@@ -1120,11 +1102,6 @@
     {
       "country_code": "NG",
       "country_name": "Nigeria",
-      "news_count": 1
-    },
-    {
-      "country_code": "PK",
-      "country_name": "Pakistan",
       "news_count": 1
     },
     {
