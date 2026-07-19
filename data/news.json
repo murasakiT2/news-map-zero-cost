@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-07-19T14:19:25Z",
+  "generated_at": "2026-07-19T15:28:46Z",
   "articles": [
+    {
+      "source": "BBC US & Canada",
+      "title": "Health officials identify source of US explosive diarrhoea outbreak",
+      "url": "https://www.bbc.co.uk/news/articles/c4gw9n1kx9do?at_medium=RSS&at_campaign=rss",
+      "summary": "The US Food and Drug Administration says iceberg lettuce supplied by Taylor Farms and sold at Taco Bell and Walmart locations was the source…",
+      "published_at": "2026-07-19T15:17:23Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "US and Iran trade fire after two US soldiers killed in Jordan",
@@ -182,6 +191,15 @@
       "country_name": "United Kingdom"
     },
     {
+      "source": "BBC World",
+      "title": "Timelapse shows World Cup final stadium nearly vanish in smoky haze",
+      "url": "https://www.bbc.co.uk/news/videos/c1w1nqwxgexo?at_medium=RSS&at_campaign=rss",
+      "summary": "MetLife stadium in New Jersey, where the World Cup final will be held, was shrouded in haze caused by hundreds of wildfires in Canada.",
+      "published_at": "2026-07-17T15:37:40Z",
+      "country_code": "CA",
+      "country_name": "Canada"
+    },
+    {
       "source": "BBC US & Canada",
       "title": "Trump alleges China meddled in 2020 election and questions voting security ahead of midterms",
       "url": "https://www.bbc.co.uk/news/articles/cx2k9wvv5wyo?at_medium=RSS&at_campaign=rss",
@@ -236,7 +254,7 @@
       "country_name": "United Kingdom"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "Watch: What to know as Genoa bridge disaster trial ends",
       "url": "https://www.bbc.co.uk/news/videos/cgewd07ee3go?at_medium=RSS&at_campaign=rss",
       "summary": "More than 50 defendants have been on trial in Italy over the 2018 bridge collapse which killed 43 people.",
@@ -479,7 +497,7 @@
       "country_name": "France"
     },
     {
-      "source": "BBC US & Canada",
+      "source": "BBC Middle East",
       "title": "Trump retreat over Hormuz tolls suggests he is struggling to end Iran war",
       "url": "https://www.bbc.co.uk/news/articles/crele3r8j19o?at_medium=RSS&at_campaign=rss",
       "summary": "The abrupt about-face from the US president was the latest twist in a conflict that has now lasted more than four months.",
@@ -924,7 +942,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 37
+      "news_count": 38
     },
     {
       "country_code": "GB",
@@ -1009,6 +1027,11 @@
     {
       "country_code": "AU",
       "country_name": "Australia",
+      "news_count": 1
+    },
+    {
+      "country_code": "CA",
+      "country_name": "Canada",
       "news_count": 1
     },
     {
