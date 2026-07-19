@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-07-19T17:29:42Z",
+  "generated_at": "2026-07-19T18:27:10Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Russia launches major ballistic missile attack on Ukrainian cities",
+      "url": "https://www.bbc.co.uk/news/articles/c2el7xpnzrpo?at_medium=RSS&at_campaign=rss",
+      "summary": "Eight people die and dozens are injured as several cities are hit by missile and drone attacks, while Kyiv continues its own assault on Russ…",
+      "published_at": "2026-07-19T18:25:40Z",
+      "country_code": "RU",
+      "country_name": "Russia"
+    },
     {
       "source": "BBC World",
       "title": "US and Iran trade fire after two US soldiers killed in Jordan",
@@ -27,15 +36,6 @@
       "published_at": "2026-07-19T12:53:20Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "Russia launches major ballistic missile attack on Ukrainian cities",
-      "url": "https://www.bbc.co.uk/news/articles/c2el7xpnzrpo?at_medium=RSS&at_campaign=rss",
-      "summary": "Five people are killed and at least 35 injured as Ukraine's two largest cities are targeted, as Kyiv continues its own assault on Russian in…",
-      "published_at": "2026-07-19T11:28:24Z",
-      "country_code": "RU",
-      "country_name": "Russia"
     },
     {
       "source": "BBC World",
@@ -367,15 +367,6 @@
       "url": "https://www.bbc.co.uk/news/videos/clyenznvj8go?at_medium=RSS&at_campaign=rss",
       "summary": "The BBC's Tom Bateman was at the hearing as Todd Blanche made his case to be permanently appointed to lead the US Justice Department.",
       "published_at": "2026-07-15T22:35:13Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "What to know about 'explosive diarrhoea' parasite outbreak in US",
-      "url": "https://www.bbc.co.uk/news/articles/c621m66qm76o?at_medium=RSS&at_campaign=rss",
-      "summary": "The source of the cyclosporiasis outbreak, which has spread across at least 34 states, is unclear.",
-      "published_at": "2026-07-15T22:24:48Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -942,7 +933,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 38
+      "news_count": 37
     },
     {
       "country_code": "GB",
