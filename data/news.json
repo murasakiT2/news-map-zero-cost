@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-19T16:26:16Z",
+  "generated_at": "2026-07-19T17:29:42Z",
   "articles": [
     {
       "source": "BBC World",
       "title": "US and Iran trade fire after two US soldiers killed in Jordan",
       "url": "https://www.bbc.co.uk/news/articles/cgk417jp83po?at_medium=RSS&at_campaign=rss",
       "summary": "Kuwait says an electricity and water plant is on fire after the second such attack in two days. Iran says US strikes hit an under-constructi…",
-      "published_at": "2026-07-19T15:35:18Z",
+      "published_at": "2026-07-19T17:22:23Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -45,6 +45,15 @@
       "published_at": "2026-07-19T09:55:22Z",
       "country_code": "AR",
       "country_name": "Argentina"
+    },
+    {
+      "source": "BBC World",
+      "title": "Neighbours actor Terence Donovan dies aged 90",
+      "url": "https://www.bbc.co.uk/news/articles/crmrznw82j4o?at_medium=RSS&at_campaign=rss",
+      "summary": "His son, actor Jason Donovan, posted to social media that his father died on Saturday night peacefully in Melbourne, Australia",
+      "published_at": "2026-07-19T08:18:32Z",
+      "country_code": "AU",
+      "country_name": "Australia"
     },
     {
       "source": "BBC World",
@@ -189,15 +198,6 @@
       "published_at": "2026-07-17T16:44:22Z",
       "country_code": "GB",
       "country_name": "United Kingdom"
-    },
-    {
-      "source": "BBC World",
-      "title": "Timelapse shows World Cup final stadium nearly vanish in smoky haze",
-      "url": "https://www.bbc.co.uk/news/videos/c1w1nqwxgexo?at_medium=RSS&at_campaign=rss",
-      "summary": "MetLife stadium in New Jersey, where the World Cup final will be held, was shrouded in haze caused by hundreds of wildfires in Canada.",
-      "published_at": "2026-07-17T15:37:40Z",
-      "country_code": "CA",
-      "country_name": "Canada"
     },
     {
       "source": "BBC US & Canada",
@@ -1000,6 +1000,11 @@
       "news_count": 2
     },
     {
+      "country_code": "AU",
+      "country_name": "Australia",
+      "news_count": 2
+    },
+    {
       "country_code": "CN",
       "country_name": "China",
       "news_count": 2
@@ -1023,16 +1028,6 @@
       "country_code": "TH",
       "country_name": "Thailand",
       "news_count": 2
-    },
-    {
-      "country_code": "AU",
-      "country_name": "Australia",
-      "news_count": 1
-    },
-    {
-      "country_code": "CA",
-      "country_name": "Canada",
-      "news_count": 1
     },
     {
       "country_code": "DE",
