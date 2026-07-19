@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-19T01:41:27Z",
+  "generated_at": "2026-07-19T05:00:11Z",
   "articles": [
     {
       "source": "BBC World",
-      "title": "Tate brothers arrested in US after more charges laid against them in UK",
+      "title": "Andrew Tate and brother arrested in US after more charges laid against them in UK",
       "url": "https://www.bbc.co.uk/news/articles/cwymly9yd33o?at_medium=RSS&at_campaign=rss",
-      "summary": "The new charges announced on Saturday include rape and sex trafficking.",
-      "published_at": "2026-07-19T00:57:18Z",
+      "summary": "The Crown Prosecution Service says it has requested their extradition from the US, while their lawyer says they are \"innocent\".",
+      "published_at": "2026-07-19T02:17:07Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -299,7 +299,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "Orange haze from Canada wildfires seen in Ontario and northern US",
       "url": "https://www.bbc.co.uk/news/videos/c62q3kw126xo?at_medium=RSS&at_campaign=rss",
       "summary": "There are currently 838 wildfires actively burning across the country, according to the Canadian Interagency Forest Fire Centre.",
@@ -371,15 +371,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Europe",
-      "title": "Russian attacks kill 14 as Ukraine hits Black Sea oil tankers",
-      "url": "https://www.bbc.co.uk/news/articles/c8929jv8kdzo?at_medium=RSS&at_campaign=rss",
-      "summary": "Civilian casualties are reported in a number of Ukrainian regions, while Kyiv hits 20 Russian vessels in the Black Sea.",
-      "published_at": "2026-07-15T21:21:19Z",
-      "country_code": "UA",
-      "country_name": "Ukraine"
-    },
-    {
       "source": "BBC Asia",
       "title": "More people around the world now favour China over the US, Pew study suggests",
       "url": "https://www.bbc.co.uk/news/articles/cd959q11g54o?at_medium=RSS&at_campaign=rss",
@@ -389,15 +380,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Europe",
-      "title": "Seven Britons among those killed in Spain wildfires",
-      "url": "https://www.bbc.co.uk/news/articles/cp8l87784ngo?at_medium=RSS&at_campaign=rss",
-      "summary": "Twelve of the 13 victims were foreign nationals, Spanish authorities said on Tuesday.",
-      "published_at": "2026-07-15T12:21:32Z",
-      "country_code": "ES",
-      "country_name": "Spain"
-    },
-    {
       "source": "BBC Latin America",
       "title": "Venezuela government to launch formal talks with opposition members",
       "url": "https://www.bbc.co.uk/news/articles/c1eye5320g5o?at_medium=RSS&at_campaign=rss",
@@ -405,24 +387,6 @@
       "published_at": "2026-07-15T12:21:21Z",
       "country_code": "VE",
       "country_name": "Venezuela"
-    },
-    {
-      "source": "BBC Europe",
-      "title": "Italy's Meloni suffers surprise setback in close vote on electoral reform",
-      "url": "https://www.bbc.co.uk/news/articles/c1kykx3vnyyo?at_medium=RSS&at_campaign=rss",
-      "summary": "The defeat triggered opposition calls for Meloni to resign ahead of next year's general election.",
-      "published_at": "2026-07-15T11:44:28Z",
-      "country_code": "IT",
-      "country_name": "Italy"
-    },
-    {
-      "source": "BBC Europe",
-      "title": "Heatwave prompts Italy's delivery riders to strike for extra rights",
-      "url": "https://www.bbc.co.uk/news/articles/c1dydw0r246o?at_medium=RSS&at_campaign=rss",
-      "summary": "Delivery riders in Milan, Bologna and Florence want to protect their health and their wages.",
-      "published_at": "2026-07-15T11:38:37Z",
-      "country_code": "IT",
-      "country_name": "Italy"
     },
     {
       "source": "BBC Africa",
@@ -513,15 +477,6 @@
       "published_at": "2026-07-14T17:13:27Z",
       "country_code": "IL",
       "country_name": "Israel"
-    },
-    {
-      "source": "BBC Europe",
-      "title": "Six people found dead in lift shaft after fire in central Brussels building",
-      "url": "https://www.bbc.co.uk/news/articles/c9323knejyzo?at_medium=RSS&at_campaign=rss",
-      "summary": "The bodies were recovered in a rescue operation that lasted several hours, officials say.",
-      "published_at": "2026-07-14T15:16:07Z",
-      "country_code": "BE",
-      "country_name": "Belgium"
     },
     {
       "source": "BBC Middle East",
@@ -991,11 +946,6 @@
       "news_count": 7
     },
     {
-      "country_code": "ES",
-      "country_name": "Spain",
-      "news_count": 4
-    },
-    {
       "country_code": "FR",
       "country_name": "France",
       "news_count": 4
@@ -1011,23 +961,23 @@
       "news_count": 4
     },
     {
-      "country_code": "IT",
-      "country_name": "Italy",
-      "news_count": 4
-    },
-    {
       "country_code": "RU",
       "country_name": "Russia",
       "news_count": 4
     },
     {
-      "country_code": "UA",
-      "country_name": "Ukraine",
-      "news_count": 4
+      "country_code": "ES",
+      "country_name": "Spain",
+      "news_count": 3
     },
     {
       "country_code": "KE",
       "country_name": "Kenya",
+      "news_count": 3
+    },
+    {
+      "country_code": "UA",
+      "country_name": "Ukraine",
       "news_count": 3
     },
     {
@@ -1043,6 +993,11 @@
     {
       "country_code": "IL",
       "country_name": "Israel",
+      "news_count": 2
+    },
+    {
+      "country_code": "IT",
+      "country_name": "Italy",
       "news_count": 2
     },
     {
@@ -1063,11 +1018,6 @@
     {
       "country_code": "AU",
       "country_name": "Australia",
-      "news_count": 1
-    },
-    {
-      "country_code": "BE",
-      "country_name": "Belgium",
       "news_count": 1
     },
     {
