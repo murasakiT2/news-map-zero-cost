@@ -1,14 +1,32 @@
 {
-  "generated_at": "2026-07-18T23:41:33Z",
+  "generated_at": "2026-07-19T01:41:27Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Tate brothers arrested in US after more charges laid against them in UK",
+      "url": "https://www.bbc.co.uk/news/articles/cwymly9yd33o?at_medium=RSS&at_campaign=rss",
+      "summary": "The new charges announced on Saturday include rape and sex trafficking.",
+      "published_at": "2026-07-19T00:57:18Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "Two US troops killed and one missing after Iranian attack in Jordan",
       "url": "https://www.bbc.co.uk/news/articles/cn8nynv8ze8o?at_medium=RSS&at_campaign=rss",
       "summary": "Iran and the US have traded strikes as hostilities re-escalated this week, with Tehran targeting US military facilities across the Gulf regi…",
-      "published_at": "2026-07-18T21:12:28Z",
+      "published_at": "2026-07-19T00:18:47Z",
       "country_code": "US",
       "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Russians turn to cash, putting more strain on slowing wartime economy",
+      "url": "https://www.bbc.co.uk/news/articles/cglj255jk8ko?at_medium=RSS&at_campaign=rss",
+      "summary": "Russians have been hit by mobile internet shutdowns and more businesses are seeking to dodge tax after more than four years of war with Ukra…",
+      "published_at": "2026-07-18T23:59:26Z",
+      "country_code": "UA",
+      "country_name": "Ukraine"
     },
     {
       "source": "BBC Middle East",
@@ -119,7 +137,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "China hits out at British Steel nationalisation",
       "url": "https://www.bbc.co.uk/news/articles/cjd4kvxpd3do?at_medium=RSS&at_campaign=rss",
       "summary": "The UK government said taking the firm into public hands would safeguard \"a vital national capability\".",
@@ -146,7 +164,7 @@
       "country_name": "South Africa"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "Japan relaxes royal succession rules - but ban on female emperors remains",
       "url": "https://www.bbc.co.uk/news/articles/cy07rz79zg9o?at_medium=RSS&at_campaign=rss",
       "summary": "The law now allows the adoption of male distant relatives aged over 15 back into the imperial family.",
@@ -281,7 +299,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC US & Canada",
+      "source": "BBC World",
       "title": "Orange haze from Canada wildfires seen in Ontario and northern US",
       "url": "https://www.bbc.co.uk/news/videos/c62q3kw126xo?at_medium=RSS&at_campaign=rss",
       "summary": "There are currently 838 wildfires actively burning across the country, according to the Canadian Interagency Forest Fire Centre.",
@@ -484,15 +502,6 @@
       "url": "https://www.bbc.co.uk/news/articles/cwy0ydn033yo?at_medium=RSS&at_campaign=rss",
       "summary": "Control of the waterway has become a key point of contention between the US and Iran, as a ceasefire deal falters.",
       "published_at": "2026-07-14T19:13:49Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "Gas prices drive down US inflation - but will it last?",
-      "url": "https://www.bbc.co.uk/news/articles/c98289j7lg7o?at_medium=RSS&at_campaign=rss",
-      "summary": "While the US inflation rate fell in June, concerns remain over price rises increasing again due to the renewed conflict in the Middle East.",
-      "published_at": "2026-07-14T17:34:55Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -1012,13 +1021,13 @@
       "news_count": 4
     },
     {
-      "country_code": "KE",
-      "country_name": "Kenya",
-      "news_count": 3
-    },
-    {
       "country_code": "UA",
       "country_name": "Ukraine",
+      "news_count": 4
+    },
+    {
+      "country_code": "KE",
+      "country_name": "Kenya",
       "news_count": 3
     },
     {
