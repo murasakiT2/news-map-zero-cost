@@ -1,12 +1,39 @@
 {
-  "generated_at": "2026-07-19T09:25:13Z",
+  "generated_at": "2026-07-19T10:49:50Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "US and Iran exchange strikes after two US soldiers killed in Jordan",
+      "url": "https://www.bbc.co.uk/news/articles/cgk417jp83po?at_medium=RSS&at_campaign=rss",
+      "summary": "US forces target Iranian sites for the eighth night in a row, while Iran says it fired drones at the US military in Kuwait.",
+      "published_at": "2026-07-19T10:44:11Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Tate brothers arrested in US as further UK charges take total to 59",
+      "url": "https://www.bbc.co.uk/news/articles/cwymly9yd33o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Crown Prosecution Service says it has requested their extradition from the US, while their lawyer says they are innocent.",
+      "published_at": "2026-07-19T10:22:35Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC Latin America",
+      "title": "Messi on the brink of history - will it be his last World Cup game?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cql1xxxpndlo?at_medium=RSS&at_campaign=rss",
+      "summary": "Argentina captain Lionel Messi will play his 34th World Cup match in Sunday's final, but will it be his last appearance?",
+      "published_at": "2026-07-19T09:55:22Z",
+      "country_code": "AR",
+      "country_name": "Argentina"
+    },
     {
       "source": "BBC World",
       "title": "Russia launches major ballistic missile attack on Kyiv",
       "url": "https://www.bbc.co.uk/news/articles/c2el7xpnzrpo?at_medium=RSS&at_campaign=rss",
       "summary": "One death is reported in what President Zelensky calls \"one of the most massive ballistic attacks\" on Ukraine's capital.",
-      "published_at": "2026-07-19T08:37:48Z",
+      "published_at": "2026-07-19T09:54:50Z",
       "country_code": "RU",
       "country_name": "Russia"
     },
@@ -16,24 +43,6 @@
       "url": "https://www.bbc.co.uk/news/articles/cx2k77p2r1xo?at_medium=RSS&at_campaign=rss",
       "summary": "He was arrested in 2021 during Cuba's largest anti-government protests in decades and spent five years ⁠in prison.",
       "published_at": "2026-07-19T07:47:02Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "US and Iran exchange strikes after two US soldiers killed in Jordan",
-      "url": "https://www.bbc.co.uk/news/articles/cgk417jp83po?at_medium=RSS&at_campaign=rss",
-      "summary": "US forces target Iranian sites for the eighth night in a row, while Iran says it fired drones at the US military in Kuwait.",
-      "published_at": "2026-07-19T05:10:57Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "Andrew Tate and brother arrested in US after more charges laid against them in UK",
-      "url": "https://www.bbc.co.uk/news/articles/cwymly9yd33o?at_medium=RSS&at_campaign=rss",
-      "summary": "The Crown Prosecution Service says it has requested their extradition from the US, while their lawyer says they are innocent.",
-      "published_at": "2026-07-19T02:17:07Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -342,15 +351,6 @@
       "published_at": "2026-07-16T00:33:23Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC Latin America",
-      "title": "'That's why he's the king' - Messi sets up third World Cup final",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c8jnl9zdzn2o?at_medium=RSS&at_campaign=rss",
-      "summary": "BBC Sport looks at Lionel Messi's masterclass on the right wing to knock England out of the World Cup.",
-      "published_at": "2026-07-15T23:42:19Z",
-      "country_code": "GB",
-      "country_name": "United Kingdom"
     },
     {
       "source": "BBC US & Canada",
@@ -947,7 +947,7 @@
     {
       "country_code": "GB",
       "country_name": "United Kingdom",
-      "news_count": 8
+      "news_count": 7
     },
     {
       "country_code": "VE",
@@ -995,6 +995,11 @@
       "news_count": 3
     },
     {
+      "country_code": "AR",
+      "country_name": "Argentina",
+      "news_count": 2
+    },
+    {
       "country_code": "CN",
       "country_name": "China",
       "news_count": 2
@@ -1018,11 +1023,6 @@
       "country_code": "TH",
       "country_name": "Thailand",
       "news_count": 2
-    },
-    {
-      "country_code": "AR",
-      "country_name": "Argentina",
-      "news_count": 1
     },
     {
       "country_code": "AU",
