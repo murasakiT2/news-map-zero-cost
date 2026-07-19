@@ -1,12 +1,21 @@
 {
-  "generated_at": "2026-07-19T12:52:23Z",
+  "generated_at": "2026-07-19T14:19:25Z",
   "articles": [
     {
       "source": "BBC World",
-      "title": "US and Iran exchange strikes after two US soldiers killed in Jordan",
+      "title": "US and Iran trade fire after two US soldiers killed in Jordan",
       "url": "https://www.bbc.co.uk/news/articles/cgk417jp83po?at_medium=RSS&at_campaign=rss",
       "summary": "Kuwait says an electricity and water plant is on fire after the second such attack in two days. Iran says US strikes hit an under-constructi…",
-      "published_at": "2026-07-19T11:57:10Z",
+      "published_at": "2026-07-19T13:10:57Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Tate brothers arrested in US as further UK charges take total to 59",
+      "url": "https://www.bbc.co.uk/news/articles/cwymly9yd33o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Crown Prosecution Service says it has requested their extradition from the US, while their lawyer says they are innocent.",
+      "published_at": "2026-07-19T12:53:20Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -14,19 +23,10 @@
       "source": "BBC World",
       "title": "Russia launches major ballistic missile attack on Ukrainian cities",
       "url": "https://www.bbc.co.uk/news/articles/c2el7xpnzrpo?at_medium=RSS&at_campaign=rss",
-      "summary": "Four people are killed and at least 36 injured as Ukraine's two largest cities are targeted, as Kyiv continues its own assault on Russian in…",
+      "summary": "Five people are killed and at least 35 injured as Ukraine's two largest cities are targeted, as Kyiv continues its own assault on Russian in…",
       "published_at": "2026-07-19T11:28:24Z",
       "country_code": "RU",
       "country_name": "Russia"
-    },
-    {
-      "source": "BBC World",
-      "title": "Tate brothers arrested in US as further UK charges take total to 59",
-      "url": "https://www.bbc.co.uk/news/articles/cwymly9yd33o?at_medium=RSS&at_campaign=rss",
-      "summary": "The Crown Prosecution Service says it has requested their extradition from the US, while their lawyer says they are innocent.",
-      "published_at": "2026-07-19T11:04:50Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC World",
@@ -90,15 +90,6 @@
       "published_at": "2026-07-18T17:18:47Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC Europe",
-      "title": "Russian online retail warehouses hit by deadly Ukrainian strikes",
-      "url": "https://www.bbc.co.uk/news/articles/clyxlm877p2o?at_medium=RSS&at_campaign=rss",
-      "summary": "Drones targeted Wildberries facilities near Moscow and in Tambov. Ukraine's leader called them \"major logistics facilities\" supplying \"sanct…",
-      "published_at": "2026-07-18T13:06:25Z",
-      "country_code": "RU",
-      "country_name": "Russia"
     },
     {
       "source": "BBC Latin America",
@@ -344,7 +335,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "Orange haze from Canada wildfires seen in Ontario and northern US",
       "url": "https://www.bbc.co.uk/news/videos/c62q3kw126xo?at_medium=RSS&at_campaign=rss",
       "summary": "There are currently 838 wildfires actively burning across the country, according to the Canadian Interagency Forest Fire Centre.",
@@ -529,15 +520,6 @@
       "url": "https://www.bbc.co.uk/news/articles/c8d2vn38dy1o?at_medium=RSS&at_campaign=rss",
       "summary": "The third consecutive night of US strikes on Iran came as Trump announced a 20% charge as part of a new blockade on the Strait of Hormuz.",
       "published_at": "2026-07-14T04:50:48Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "Hours each day in an iron lung kept her breathing, her will to live kept her alive",
-      "url": "https://www.bbc.co.uk/news/articles/cwyk4z3e2xlo?at_medium=RSS&at_campaign=rss",
-      "summary": "The sister of the last known polio patient in the US to use the life-saving machine speaks to the BBC about her sister's life.",
-      "published_at": "2026-07-14T02:20:14Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -942,7 +924,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 38
+      "news_count": 37
     },
     {
       "country_code": "GB",
@@ -953,11 +935,6 @@
       "country_code": "VE",
       "country_name": "Venezuela",
       "news_count": 7
-    },
-    {
-      "country_code": "RU",
-      "country_name": "Russia",
-      "news_count": 5
     },
     {
       "country_code": "ES",
@@ -977,6 +954,11 @@
     {
       "country_code": "IR",
       "country_name": "Iran",
+      "news_count": 4
+    },
+    {
+      "country_code": "RU",
+      "country_name": "Russia",
       "news_count": 4
     },
     {
