@@ -1,17 +1,26 @@
 {
-  "generated_at": "2026-07-19T05:00:11Z",
+  "generated_at": "2026-07-19T07:27:38Z",
   "articles": [
     {
       "source": "BBC World",
-      "title": "Andrew Tate and brother arrested in US after more charges laid against them in UK",
-      "url": "https://www.bbc.co.uk/news/articles/cwymly9yd33o?at_medium=RSS&at_campaign=rss",
-      "summary": "The Crown Prosecution Service says it has requested their extradition from the US, while their lawyer says they are \"innocent\".",
-      "published_at": "2026-07-19T02:17:07Z",
+      "title": "US and Iran exchange strikes after two US soldiers killed in Jordan",
+      "url": "https://www.bbc.co.uk/news/articles/cgk417jp83po?at_medium=RSS&at_campaign=rss",
+      "summary": "US forces target Iranian sites for the eighth night in a row, while Iran says it fired drones at the US military in Kuwait.",
+      "published_at": "2026-07-19T05:10:57Z",
       "country_code": "US",
       "country_name": "United States"
     },
     {
       "source": "BBC World",
+      "title": "Andrew Tate and brother arrested in US after more charges laid against them in UK",
+      "url": "https://www.bbc.co.uk/news/articles/cwymly9yd33o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Crown Prosecution Service says it has requested their extradition from the US, while their lawyer says they are innocent.",
+      "published_at": "2026-07-19T02:17:07Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC US & Canada",
       "title": "Two US troops killed and one missing after Iranian attack in Jordan",
       "url": "https://www.bbc.co.uk/news/articles/cn8nynv8ze8o?at_medium=RSS&at_campaign=rss",
       "summary": "Iran and the US have traded strikes as hostilities re-escalated this week, with Tehran targeting US military facilities across the Gulf regi…",
@@ -933,7 +942,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 39
+      "news_count": 40
     },
     {
       "country_code": "GB",
