@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-07-19T21:41:26Z",
+  "generated_at": "2026-07-19T22:40:24Z",
   "articles": [
+    {
+      "source": "BBC Asia",
+      "title": "India's Cockroach protesters set to march to parliament",
+      "url": "https://www.bbc.co.uk/news/articles/c0l58lw089no?at_medium=RSS&at_campaign=rss",
+      "summary": "The Cockroach Janta Party has organised the march to demand reforms in India's education system.",
+      "published_at": "2026-07-19T22:00:04Z",
+      "country_code": "IN",
+      "country_name": "India"
+    },
     {
       "source": "BBC World",
       "title": "US soldier killed and one injured after Iranian attack in Iraq",
@@ -946,6 +955,11 @@
       "news_count": 7
     },
     {
+      "country_code": "IN",
+      "country_name": "India",
+      "news_count": 5
+    },
+    {
       "country_code": "ES",
       "country_name": "Spain",
       "news_count": 4
@@ -953,11 +967,6 @@
     {
       "country_code": "FR",
       "country_name": "France",
-      "news_count": 4
-    },
-    {
-      "country_code": "IN",
-      "country_name": "India",
       "news_count": 4
     },
     {
