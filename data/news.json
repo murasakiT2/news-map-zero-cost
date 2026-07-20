@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-07-20T11:35:08Z",
+  "generated_at": "2026-07-20T13:46:18Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "‘All I think about is her’: Families demand answers as Nigeria's boat disasters keep happening",
+      "url": "https://www.bbc.co.uk/news/articles/c309vzn676go?at_medium=RSS&at_campaign=rss",
+      "summary": "Hundreds of lives are lost each year in Nigeria as a result of boat accidents yet nothing seems to change.",
+      "published_at": "2026-07-20T13:33:19Z",
+      "country_code": "NG",
+      "country_name": "Nigeria"
+    },
+    {
+      "source": "BBC Africa",
+      "title": "Many feared dead in another Nigeria boat disaster but why do they keep happening?",
+      "url": "https://www.bbc.co.uk/news/articles/c309vzn676go?at_medium=RSS&at_campaign=rss",
+      "summary": "Hundreds of lives are lost each year in Nigeria as a result of boat accidents yet nothing seems to change.",
+      "published_at": "2026-07-20T13:33:19Z",
+      "country_code": "NG",
+      "country_name": "Nigeria"
+    },
+    {
+      "source": "BBC World",
+      "title": "Lamine Yamal celebrates World Cup win with little brother who charmed fans",
+      "url": "https://www.bbc.co.uk/news/articles/c89nvnklkpdo?at_medium=RSS&at_campaign=rss",
+      "summary": "The three-year-old brother of Yamal has been hailed one of Spain's World Cup breakout stars by fans",
+      "published_at": "2026-07-20T13:13:29Z",
+      "country_code": "ES",
+      "country_name": "Spain"
+    },
+    {
+      "source": "BBC World",
+      "title": "Why are thousands of people protesting in Delhi?",
+      "url": "https://www.bbc.co.uk/news/articles/cedj9j911p8o?at_medium=RSS&at_campaign=rss",
+      "summary": "Thousands of mostly young people have marched on India's parliament to demand changes to how the education system is run.",
+      "published_at": "2026-07-20T12:33:01Z",
+      "country_code": "IN",
+      "country_name": "India"
+    },
     {
       "source": "BBC World",
       "title": "Trump says US strikes hit Iran in 'honour' of American soldiers killed",
@@ -9,15 +45,6 @@
       "published_at": "2026-07-20T11:18:40Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC Africa",
-      "title": "Dozens feared dead in another Nigeria boat disaster but why do they keep happening?",
-      "url": "https://www.bbc.co.uk/news/articles/c309vzn676go?at_medium=RSS&at_campaign=rss",
-      "summary": "Hundreds of lives are lost each year in Nigeria as a result of boat accidents yet nothing seems to change.",
-      "published_at": "2026-07-20T11:16:26Z",
-      "country_code": "NG",
-      "country_name": "Nigeria"
     },
     {
       "source": "BBC World",
@@ -119,7 +146,7 @@
       "country_name": "Ukraine"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "Moment fans in Madrid celebrate World Cup win",
       "url": "https://www.bbc.co.uk/news/videos/cgr701xrg14o?at_medium=RSS&at_campaign=rss",
       "summary": "Thousands of spectators watched Spain's victory in central Madrid on late Sunday night.",
@@ -234,15 +261,6 @@
       "published_at": "2026-07-18T07:05:19Z",
       "country_code": "IN",
       "country_name": "India"
-    },
-    {
-      "source": "BBC Latin America",
-      "title": "White House defends Argentina team over Falklands banner",
-      "url": "https://www.bbc.co.uk/news/articles/cx2rmjk0740o?at_medium=RSS&at_campaign=rss",
-      "summary": "The comments could further fuel the row over the incident, which has seen Downing Street back calls for Fifa to investigate.",
-      "published_at": "2026-07-17T22:12:54Z",
-      "country_code": "AR",
-      "country_name": "Argentina"
     },
     {
       "source": "BBC Europe",
@@ -371,15 +389,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Latin America",
-      "title": "Bellingham slapped Argentina substitute after England exit",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c74glwpv99yo?at_medium=RSS&at_campaign=rss",
-      "summary": "Jude Bellingham sparks melee as he slaps Argentina substitute Valentin Barco on the back of the head following England's 2-1 World Cup semi-…",
-      "published_at": "2026-07-16T08:38:33Z",
-      "country_code": "GB",
-      "country_name": "United Kingdom"
-    },
-    {
       "source": "BBC Asia",
       "title": "Actor Sam Neill died from pneumonia, agent confirms",
       "url": "https://www.bbc.co.uk/news/articles/cddj7e8v767o?at_medium=RSS&at_campaign=rss",
@@ -432,15 +441,6 @@
       "published_at": "2026-07-15T22:03:47Z",
       "country_code": "TH",
       "country_name": "Thailand"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "Is Trump facing a popular backlash on immigration?",
-      "url": "https://www.bbc.co.uk/news/videos/c8dnpq64yygo?at_medium=RSS&at_campaign=rss",
-      "summary": "The BBC's Sarah Smith looks at how the deaths of two men by ICE agents are impacting the US president's popularity.",
-      "published_at": "2026-07-15T21:29:28Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC Asia",
@@ -870,12 +870,12 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 29
+      "news_count": 28
     },
     {
       "country_code": "ES",
       "country_name": "Spain",
-      "news_count": 10
+      "news_count": 11
     },
     {
       "country_code": "VE",
@@ -893,18 +893,28 @@
       "news_count": 5
     },
     {
-      "country_code": "GB",
-      "country_name": "United Kingdom",
-      "news_count": 4
-    },
-    {
       "country_code": "CN",
       "country_name": "China",
       "news_count": 3
     },
     {
+      "country_code": "GB",
+      "country_name": "United Kingdom",
+      "news_count": 3
+    },
+    {
+      "country_code": "IN",
+      "country_name": "India",
+      "news_count": 3
+    },
+    {
       "country_code": "KE",
       "country_name": "Kenya",
+      "news_count": 3
+    },
+    {
+      "country_code": "NG",
+      "country_name": "Nigeria",
       "news_count": 3
     },
     {
@@ -923,11 +933,6 @@
       "news_count": 2
     },
     {
-      "country_code": "IN",
-      "country_name": "India",
-      "news_count": 2
-    },
-    {
       "country_code": "IT",
       "country_name": "Italy",
       "news_count": 2
@@ -935,11 +940,6 @@
     {
       "country_code": "MA",
       "country_name": "Morocco",
-      "news_count": 2
-    },
-    {
-      "country_code": "NG",
-      "country_name": "Nigeria",
       "news_count": 2
     },
     {
@@ -956,11 +956,6 @@
       "country_code": "TH",
       "country_name": "Thailand",
       "news_count": 2
-    },
-    {
-      "country_code": "AR",
-      "country_name": "Argentina",
-      "news_count": 1
     },
     {
       "country_code": "EG",
