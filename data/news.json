@@ -1,6 +1,51 @@
 {
-  "generated_at": "2026-07-20T15:44:03Z",
+  "generated_at": "2026-07-20T17:20:24Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "‘All I think about is her’: Families demand answers as Nigeria's boat disasters keep happening",
+      "url": "https://www.bbc.co.uk/news/articles/c309vzn676go?at_medium=RSS&at_campaign=rss",
+      "summary": "Hundreds of lives are lost each year in Nigeria as a result of boat accidents yet nothing seems to change.",
+      "published_at": "2026-07-20T17:16:20Z",
+      "country_code": "NG",
+      "country_name": "Nigeria"
+    },
+    {
+      "source": "BBC Africa",
+      "title": "Many feared dead in another Nigeria boat disaster but why do they keep happening?",
+      "url": "https://www.bbc.co.uk/news/articles/c309vzn676go?at_medium=RSS&at_campaign=rss",
+      "summary": "Hundreds of lives are lost each year in Nigeria as a result of boat accidents yet nothing seems to change.",
+      "published_at": "2026-07-20T17:16:20Z",
+      "country_code": "NG",
+      "country_name": "Nigeria"
+    },
+    {
+      "source": "BBC World",
+      "title": "Notorious drug cartel leader Ismael Zambada sentenced to life in US prison",
+      "url": "https://www.bbc.co.uk/news/articles/ce3q1d1ed5do?at_medium=RSS&at_campaign=rss",
+      "summary": "Known as \"El Mayo\", he helped found the Sinaloa Cartel and admitted to sending vast amounts of cocaine and other drugs to the US.",
+      "published_at": "2026-07-20T16:31:48Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Police block thousands of 'cockroach' protesters marching on India's parliament",
+      "url": "https://www.bbc.co.uk/news/articles/cvg9w9dxd7lo?at_medium=RSS&at_campaign=rss",
+      "summary": "Some protesters demanding education reforms said they were injured in clashes with police who banned the march.",
+      "published_at": "2026-07-20T16:26:40Z",
+      "country_code": "IN",
+      "country_name": "India"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "Will the Tate brothers be extradited from the US to the UK?",
+      "url": "https://www.bbc.co.uk/news/articles/cjej0j0lzkno?at_medium=RSS&at_campaign=rss",
+      "summary": "Andrew and Tristan Tate are set to face extradition proceedings in the US as British prosecutors issued 38 new charges against the brothers.",
+      "published_at": "2026-07-20T14:43:55Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "Newcastle, Liverpool and England legend Keegan dies",
@@ -18,24 +63,6 @@
       "published_at": "2026-07-20T14:02:31Z",
       "country_code": "PS",
       "country_name": "Palestine"
-    },
-    {
-      "source": "BBC World",
-      "title": "‘All I think about is her’: Families demand answers as Nigeria's boat disasters keep happening",
-      "url": "https://www.bbc.co.uk/news/articles/c309vzn676go?at_medium=RSS&at_campaign=rss",
-      "summary": "Hundreds of lives are lost each year in Nigeria as a result of boat accidents yet nothing seems to change.",
-      "published_at": "2026-07-20T13:33:19Z",
-      "country_code": "NG",
-      "country_name": "Nigeria"
-    },
-    {
-      "source": "BBC Africa",
-      "title": "Many feared dead in another Nigeria boat disaster but why do they keep happening?",
-      "url": "https://www.bbc.co.uk/news/articles/c309vzn676go?at_medium=RSS&at_campaign=rss",
-      "summary": "Hundreds of lives are lost each year in Nigeria as a result of boat accidents yet nothing seems to change.",
-      "published_at": "2026-07-20T13:33:19Z",
-      "country_code": "NG",
-      "country_name": "Nigeria"
     },
     {
       "source": "BBC World",
@@ -59,17 +86,8 @@
       "source": "BBC World",
       "title": "Why are thousands of people protesting in Delhi?",
       "url": "https://www.bbc.co.uk/news/articles/cedj9j911p8o?at_medium=RSS&at_campaign=rss",
-      "summary": "Thousands of mostly young people have marched on India's parliament to demand changes to how the education system is run.",
+      "summary": "Thousands of mostly young people tried to march on India's parliament to demand changes to how the education system is run.",
       "published_at": "2026-07-20T12:33:01Z",
-      "country_code": "IN",
-      "country_name": "India"
-    },
-    {
-      "source": "BBC World",
-      "title": "Police block thousands of 'cockroach' protesters marching on India's parliament",
-      "url": "https://www.bbc.co.uk/news/articles/cvg9w9dxd7lo?at_medium=RSS&at_campaign=rss",
-      "summary": "Some protesters demanding education reforms said they were injured in clashes with police who banned the march.",
-      "published_at": "2026-07-20T12:31:10Z",
       "country_code": "IN",
       "country_name": "India"
     },
@@ -915,7 +933,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 28
+      "news_count": 30
     },
     {
       "country_code": "ES",
