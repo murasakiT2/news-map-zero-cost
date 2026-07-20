@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-07-20T13:46:18Z",
+  "generated_at": "2026-07-20T15:44:03Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Newcastle, Liverpool and England legend Keegan dies",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c2lyl82n2e2o?at_medium=RSS&at_campaign=rss",
+      "summary": "Former England captain and manager Kevin Keegan dies at the age of 75, seven weeks after he revealed he had been diagnosed with stage four c…",
+      "published_at": "2026-07-20T14:38:28Z",
+      "country_code": "GB",
+      "country_name": "United Kingdom"
+    },
+    {
+      "source": "BBC World",
+      "title": "Hamas names Khalil al-Hayya as new overall leader",
+      "url": "https://www.bbc.co.uk/news/articles/cx25nzkyj50o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Palestinian armed group's Qatar-based chief negotiator replaces Yahya Sinwar, who was killed by Israeli forces in Gaza in 2024.",
+      "published_at": "2026-07-20T14:02:31Z",
+      "country_code": "PS",
+      "country_name": "Palestine"
+    },
     {
       "source": "BBC World",
       "title": "‘All I think about is her’: Families demand answers as Nigeria's boat disasters keep happening",
@@ -30,10 +48,28 @@
     },
     {
       "source": "BBC World",
+      "title": "Rare identical quadruplets born in Australia",
+      "url": "https://www.bbc.co.uk/news/articles/cx2jnj3428lo?at_medium=RSS&at_campaign=rss",
+      "summary": "The parents of the four naturally-conceived girls were taken by \"immense surprise\" with the pregnancy, the hospital said.",
+      "published_at": "2026-07-20T12:57:32Z",
+      "country_code": "AU",
+      "country_name": "Australia"
+    },
+    {
+      "source": "BBC World",
       "title": "Why are thousands of people protesting in Delhi?",
       "url": "https://www.bbc.co.uk/news/articles/cedj9j911p8o?at_medium=RSS&at_campaign=rss",
       "summary": "Thousands of mostly young people have marched on India's parliament to demand changes to how the education system is run.",
       "published_at": "2026-07-20T12:33:01Z",
+      "country_code": "IN",
+      "country_name": "India"
+    },
+    {
+      "source": "BBC World",
+      "title": "Police block thousands of 'cockroach' protesters marching on India's parliament",
+      "url": "https://www.bbc.co.uk/news/articles/cvg9w9dxd7lo?at_medium=RSS&at_campaign=rss",
+      "summary": "Some protesters demanding education reforms said they were injured in clashes with police who banned the march.",
+      "published_at": "2026-07-20T12:31:10Z",
       "country_code": "IN",
       "country_name": "India"
     },
@@ -48,6 +84,15 @@
     },
     {
       "source": "BBC World",
+      "title": "Ryanair profits drop as Iran war puts off passengers and lifts fuel costs",
+      "url": "https://www.bbc.co.uk/news/articles/cn8nldwj12jo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Irish airline said oil prices had increased costs meanwhile Brent crude surpassed $90.",
+      "published_at": "2026-07-20T10:12:36Z",
+      "country_code": "IR",
+      "country_name": "Iran"
+    },
+    {
+      "source": "BBC World",
       "title": "Boy, 13, dies during World Cup celebrations in Spain",
       "url": "https://www.bbc.co.uk/news/articles/c0qvdy0jv05o?at_medium=RSS&at_campaign=rss",
       "summary": "Two other young people were injured after a fountain partially collapsed in Salamanca's Ciudad Rodrigo.",
@@ -56,7 +101,7 @@
       "country_name": "Spain"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "From hundreds to thousands: How India's 'cockroach' protest movement has grown",
       "url": "https://www.bbc.co.uk/news/videos/c0qvdywj97ko?at_medium=RSS&at_campaign=rss",
       "summary": "BBC's Azadeh Moshiri reports as thousands attempt to march to India's parliament in support of the Cockroach Janta Party's demand for educat…",
@@ -65,7 +110,7 @@
       "country_name": "India"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "Why are Ukraine's military recruiters facing violence in their own country?",
       "url": "https://www.bbc.co.uk/news/videos/c0kmjy02rxko?at_medium=RSS&at_campaign=rss",
       "summary": "The latest National Police Service report recorded more than 600 assaults on recruitment officers to date and warned that the aggression has…",
@@ -885,7 +930,7 @@
     {
       "country_code": "IR",
       "country_name": "Iran",
-      "news_count": 5
+      "news_count": 6
     },
     {
       "country_code": "UA",
@@ -893,18 +938,23 @@
       "news_count": 5
     },
     {
-      "country_code": "CN",
-      "country_name": "China",
-      "news_count": 3
-    },
-    {
       "country_code": "GB",
       "country_name": "United Kingdom",
-      "news_count": 3
+      "news_count": 4
     },
     {
       "country_code": "IN",
       "country_name": "India",
+      "news_count": 4
+    },
+    {
+      "country_code": "AU",
+      "country_name": "Australia",
+      "news_count": 3
+    },
+    {
+      "country_code": "CN",
+      "country_name": "China",
       "news_count": 3
     },
     {
@@ -918,6 +968,11 @@
       "news_count": 3
     },
     {
+      "country_code": "PS",
+      "country_name": "Palestine",
+      "news_count": 3
+    },
+    {
       "country_code": "RU",
       "country_name": "Russia",
       "news_count": 3
@@ -926,11 +981,6 @@
       "country_code": "ZA",
       "country_name": "South Africa",
       "news_count": 3
-    },
-    {
-      "country_code": "AU",
-      "country_name": "Australia",
-      "news_count": 2
     },
     {
       "country_code": "IT",
@@ -945,11 +995,6 @@
     {
       "country_code": "NO",
       "country_name": "Norway",
-      "news_count": 2
-    },
-    {
-      "country_code": "PS",
-      "country_name": "Palestine",
       "news_count": 2
     },
     {
