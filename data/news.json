@@ -1,6 +1,51 @@
 {
-  "generated_at": "2026-07-20T17:20:24Z",
+  "generated_at": "2026-07-20T19:11:04Z",
   "articles": [
+    {
+      "source": "BBC US & Canada",
+      "title": "Canadian wildfires rage as Trump warns Carney again over 'poisoning' US air",
+      "url": "https://www.bbc.co.uk/news/articles/crl7n6j7gr3o?at_medium=RSS&at_campaign=rss",
+      "summary": "The US president raised the issue with the the Canadian prime minister while the pair attended the World Cup Final in New Jersey.",
+      "published_at": "2026-07-20T18:16:51Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "'If only people knew what a tick could do' - the deadly meat allergies caused by tick bites",
+      "url": "https://www.bbc.co.uk/news/articles/cj6g03567edo?at_medium=RSS&at_campaign=rss",
+      "summary": "Mammalian meat allergy is a growing problem along Australia's east coast - and it's caused by tick bites.",
+      "published_at": "2026-07-20T18:01:00Z",
+      "country_code": "AU",
+      "country_name": "Australia"
+    },
+    {
+      "source": "BBC World",
+      "title": "Yemen's Houthis announce 'maritime embargo' on Saudi Arabia",
+      "url": "https://www.bbc.co.uk/news/articles/cm2gmddx1ldo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Houthis say the embargo begins immediately and is a response to a Saudi blockade of ports and airports in Yemen.",
+      "published_at": "2026-07-20T17:33:02Z",
+      "country_code": "SA",
+      "country_name": "Saudi Arabia"
+    },
+    {
+      "source": "BBC World",
+      "title": "Notorious drug cartel leader Ismael Zambada sentenced to life in US prison",
+      "url": "https://www.bbc.co.uk/news/articles/ce3q1d1ed5do?at_medium=RSS&at_campaign=rss",
+      "summary": "Known as \"El Mayo\", the co-founder the Sinaloa Cartel was also ordered to pay $15bn after he admitted to sending vast amounts of drugs to th…",
+      "published_at": "2026-07-20T17:21:27Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Trump says US strikes hit Iran in 'honour' of American soldiers killed",
+      "url": "https://www.bbc.co.uk/news/articles/cly52xzjd3qo?at_medium=RSS&at_campaign=rss",
+      "summary": "Iran responded with attacks in Syria and Jordan, as two ships reportedly exploded in the Strait of Hormuz.",
+      "published_at": "2026-07-20T17:20:37Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "‘All I think about is her’: Families demand answers as Nigeria's boat disasters keep happening",
@@ -18,15 +63,6 @@
       "published_at": "2026-07-20T17:16:20Z",
       "country_code": "NG",
       "country_name": "Nigeria"
-    },
-    {
-      "source": "BBC World",
-      "title": "Notorious drug cartel leader Ismael Zambada sentenced to life in US prison",
-      "url": "https://www.bbc.co.uk/news/articles/ce3q1d1ed5do?at_medium=RSS&at_campaign=rss",
-      "summary": "Known as \"El Mayo\", he helped found the Sinaloa Cartel and admitted to sending vast amounts of cocaine and other drugs to the US.",
-      "published_at": "2026-07-20T16:31:48Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC World",
@@ -90,15 +126,6 @@
       "published_at": "2026-07-20T12:33:01Z",
       "country_code": "IN",
       "country_name": "India"
-    },
-    {
-      "source": "BBC World",
-      "title": "Trump says US strikes hit Iran in 'honour' of American soldiers killed",
-      "url": "https://www.bbc.co.uk/news/articles/cly52xzjd3qo?at_medium=RSS&at_campaign=rss",
-      "summary": "Iran responded with attacks in Syria and Jordan, as two ships reportedly exploded in the Strait of Hormuz.",
-      "published_at": "2026-07-20T11:18:40Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC World",
@@ -272,7 +299,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "Russians turn to cash, putting more strain on slowing wartime economy",
       "url": "https://www.bbc.co.uk/news/articles/cglj255jk8ko?at_medium=RSS&at_campaign=rss",
       "summary": "Russians have been hit by mobile internet shutdowns and more businesses are seeking to dodge tax after more than four years of war with Ukra…",
@@ -933,7 +960,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 30
+      "news_count": 31
     },
     {
       "country_code": "ES",
@@ -956,6 +983,11 @@
       "news_count": 5
     },
     {
+      "country_code": "AU",
+      "country_name": "Australia",
+      "news_count": 4
+    },
+    {
       "country_code": "GB",
       "country_name": "United Kingdom",
       "news_count": 4
@@ -964,11 +996,6 @@
       "country_code": "IN",
       "country_name": "India",
       "news_count": 4
-    },
-    {
-      "country_code": "AU",
-      "country_name": "Australia",
-      "news_count": 3
     },
     {
       "country_code": "CN",
@@ -1016,6 +1043,11 @@
       "news_count": 2
     },
     {
+      "country_code": "SA",
+      "country_name": "Saudi Arabia",
+      "news_count": 2
+    },
+    {
       "country_code": "TH",
       "country_name": "Thailand",
       "news_count": 2
@@ -1043,11 +1075,6 @@
     {
       "country_code": "MX",
       "country_name": "Mexico",
-      "news_count": 1
-    },
-    {
-      "country_code": "SA",
-      "country_name": "Saudi Arabia",
       "news_count": 1
     },
     {
