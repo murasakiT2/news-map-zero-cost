@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-07-20T23:45:46Z",
+  "generated_at": "2026-07-21T01:29:40Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Trump slaps 50% tariffs on Canada and Carney vows to 'intensify' trade talks",
+      "url": "https://www.bbc.co.uk/news/articles/cg4dzq3x3e1o?at_medium=RSS&at_campaign=rss",
+      "summary": "The duties mark a major escalation in trade tensions between the North American neighbours.",
+      "published_at": "2026-07-21T00:34:47Z",
+      "country_code": "CA",
+      "country_name": "Canada"
+    },
+    {
+      "source": "BBC World",
+      "title": "US launches fresh strikes on Iran, as Trump warns of retaliation for deaths of soldiers",
+      "url": "https://www.bbc.co.uk/news/articles/cx25wg2x26do?at_medium=RSS&at_campaign=rss",
+      "summary": "The US says the attacks were aimed at degrading Iran's capabilities to attack ships in the Strait of Hormuz.",
+      "published_at": "2026-07-21T00:14:27Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC US & Canada",
       "title": "Will the Tate brothers be extradited from the US to the UK?",
@@ -18,15 +36,6 @@
       "published_at": "2026-07-20T21:30:19Z",
       "country_code": "SA",
       "country_name": "Saudi Arabia"
-    },
-    {
-      "source": "BBC World",
-      "title": "US launches fresh strikes on Iran, as Trump warns of retaliation for deaths of soldiers",
-      "url": "https://www.bbc.co.uk/news/articles/cx25wg2x26do?at_medium=RSS&at_campaign=rss",
-      "summary": "The US says the attacks were aimed at degrading Iran's capabilities to attack ships in the Strait of Hormuz.",
-      "published_at": "2026-07-20T21:09:31Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC World",
@@ -1069,6 +1078,11 @@
       "country_code": "TH",
       "country_name": "Thailand",
       "news_count": 2
+    },
+    {
+      "country_code": "CA",
+      "country_name": "Canada",
+      "news_count": 1
     },
     {
       "country_code": "EG",
