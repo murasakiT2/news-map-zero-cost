@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-07-21T18:08:24Z",
+  "generated_at": "2026-07-21T19:58:01Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Zelensky sacks Ukraine's top army commander after days of protests",
+      "url": "https://www.bbc.co.uk/news/articles/cyvl35z3917o?at_medium=RSS&at_campaign=rss",
+      "summary": "The move comes days after the removal of popular Defence Minister Mykhailo Fedorov.",
+      "published_at": "2026-07-21T19:57:38Z",
+      "country_code": "UA",
+      "country_name": "Ukraine"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "'Software error' led to almost 400 non-citizens voting in New Jersey, governor says",
+      "url": "https://www.bbc.co.uk/news/articles/cgew9xw314yo?at_medium=RSS&at_campaign=rss",
+      "summary": "The department of motor vehicles wrongly registered 6,600 non-Americans to vote, despite their indicating they were not US citizens.",
+      "published_at": "2026-07-21T18:19:03Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "Lebanese army says troops deploying in 'pilot zone' after Israeli withdrawal",
@@ -72,15 +90,6 @@
       "published_at": "2026-07-21T12:48:37Z",
       "country_code": "IT",
       "country_name": "Italy"
-    },
-    {
-      "source": "BBC World",
-      "title": "Row escalates in Ukraine over army chief's future",
-      "url": "https://www.bbc.co.uk/news/articles/c7vgel8374yo?at_medium=RSS&at_campaign=rss",
-      "summary": "Protesters are demanding Oleksandr Syrskyi be removed and former defence minister Mykhailo Fedorov reinstated by Friday.",
-      "published_at": "2026-07-21T12:33:15Z",
-      "country_code": "UA",
-      "country_name": "Ukraine"
     },
     {
       "source": "BBC World",
@@ -897,7 +906,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 30
+      "news_count": 31
     },
     {
       "country_code": "ES",
