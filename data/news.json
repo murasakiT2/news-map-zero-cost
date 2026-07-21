@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-07-21T11:45:29Z",
+  "generated_at": "2026-07-21T13:14:28Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Row escalates in Ukraine over army chief's future",
+      "url": "https://www.bbc.co.uk/news/articles/c7vgel8374yo?at_medium=RSS&at_campaign=rss",
+      "summary": "Protesters are demanding Oleksandr Syrskyi be removed and former defence minister Mykhailo Fedorov reinstated by Friday.",
+      "published_at": "2026-07-21T12:33:15Z",
+      "country_code": "UA",
+      "country_name": "Ukraine"
+    },
     {
       "source": "BBC World",
       "title": "Trump slaps 50% tariffs on Canada and Carney vows to 'intensify' trade talks",
@@ -12,6 +21,15 @@
     },
     {
       "source": "BBC World",
+      "title": "Traffic officers arrested for allegedly seeking bribe from Nigeria's anti-corruption boss",
+      "url": "https://www.bbc.co.uk/news/articles/c9q97028ex5o?at_medium=RSS&at_campaign=rss",
+      "summary": "They are accused of stopping Musa Aliyu at a fake roadblock and telling him to drive to a cash machine.",
+      "published_at": "2026-07-21T11:40:53Z",
+      "country_code": "NG",
+      "country_name": "Nigeria"
+    },
+    {
+      "source": "BBC Latin America",
       "title": "Watch: Flooded towns and evacuations as Chile hit by heavy rain",
       "url": "https://www.bbc.co.uk/news/videos/cy9wq8j2p7qo?at_medium=RSS&at_campaign=rss",
       "summary": "A \"state of catastrophe\" has been declared in Coquimbo and Huasco following the downpour.",
@@ -56,7 +74,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Asia",
+      "source": "BBC World",
       "title": "India's 'cockroach' protest continues a day after police crackdown",
       "url": "https://www.bbc.co.uk/news/articles/c98v349r9lro?at_medium=RSS&at_campaign=rss",
       "summary": "Delhi witnessed overwhelming violence on Monday, with at least 60 protesters wounded. Police said 118 of their men were also injured.",
@@ -255,15 +273,6 @@
     },
     {
       "source": "BBC World",
-      "title": "Police block thousands of 'cockroach' protesters marching on India's parliament",
-      "url": "https://www.bbc.co.uk/news/articles/cvg9w9dxd7lo?at_medium=RSS&at_campaign=rss",
-      "summary": "Some protesters demanding education reforms said they were injured in clashes with police who banned the march.",
-      "published_at": "2026-07-20T16:26:40Z",
-      "country_code": "IN",
-      "country_name": "India"
-    },
-    {
-      "source": "BBC World",
       "title": "Hamas names Khalil al-Hayya as new overall leader",
       "url": "https://www.bbc.co.uk/news/articles/cx25nzkyj50o?at_medium=RSS&at_campaign=rss",
       "summary": "The Palestinian armed group's Qatar-based chief negotiator replaces Yahya Sinwar, who was killed by Israeli forces in Gaza in 2024.",
@@ -308,7 +317,7 @@
       "country_name": "Spain"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "From hundreds to thousands: How India's 'cockroach' protest movement has grown",
       "url": "https://www.bbc.co.uk/news/videos/c0qvdywj97ko?at_medium=RSS&at_campaign=rss",
       "summary": "BBC's Azadeh Moshiri reports as thousands attempt to march to India's parliament in support of the Cockroach Janta Party's demand for educat…",
@@ -317,7 +326,7 @@
       "country_name": "India"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "Why are Ukraine's military recruiters facing violence in their own country?",
       "url": "https://www.bbc.co.uk/news/videos/c0kmjy02rxko?at_medium=RSS&at_campaign=rss",
       "summary": "The latest National Police Service report recorded more than 600 assaults on recruitment officers to date and warned that the aggression has…",
@@ -857,15 +866,6 @@
       "country_name": "United Kingdom"
     },
     {
-      "source": "BBC Latin America",
-      "title": "The US deported them to Venezuela - hours later earthquakes struck",
-      "url": "https://www.bbc.co.uk/news/articles/c3eyxjy01y3o?at_medium=RSS&at_campaign=rss",
-      "summary": "They landed on Flight 164 just before the twin quakes. Family members are desperately searching for them.",
-      "published_at": "2026-07-02T14:43:31Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC Middle East",
       "title": "'Two weeks after her death I got a call': Gaza patients face agonising delays for evacuation",
       "url": "https://www.bbc.co.uk/news/articles/cn75ex1dv61o?at_medium=RSS&at_campaign=rss",
@@ -906,7 +906,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 33
+      "news_count": 32
     },
     {
       "country_code": "ES",
@@ -926,7 +926,17 @@
     {
       "country_code": "IN",
       "country_name": "India",
-      "news_count": 5
+      "news_count": 4
+    },
+    {
+      "country_code": "NG",
+      "country_name": "Nigeria",
+      "news_count": 4
+    },
+    {
+      "country_code": "UA",
+      "country_name": "Ukraine",
+      "news_count": 4
     },
     {
       "country_code": "VE",
@@ -944,11 +954,6 @@
       "news_count": 3
     },
     {
-      "country_code": "NG",
-      "country_name": "Nigeria",
-      "news_count": 3
-    },
-    {
       "country_code": "NO",
       "country_name": "Norway",
       "news_count": 3
@@ -956,11 +961,6 @@
     {
       "country_code": "PS",
       "country_name": "Palestine",
-      "news_count": 3
-    },
-    {
-      "country_code": "UA",
-      "country_name": "Ukraine",
       "news_count": 3
     },
     {
