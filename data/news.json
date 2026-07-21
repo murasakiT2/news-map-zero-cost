@@ -1,6 +1,33 @@
 {
-  "generated_at": "2026-07-21T13:14:28Z",
+  "generated_at": "2026-07-21T15:20:15Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Israeli air strike in Gaza City kills family of six, medics say",
+      "url": "https://www.bbc.co.uk/news/articles/c0qv0pdj18go?at_medium=RSS&at_campaign=rss",
+      "summary": "Firas al-Masri, his wife and their four children died in the attack, which the Israeli military says targeted a Hamas operative.",
+      "published_at": "2026-07-21T14:47:41Z",
+      "country_code": "PS",
+      "country_name": "Palestine"
+    },
+    {
+      "source": "BBC Middle East",
+      "title": "Why Iran is risking so much over the Strait of Hormuz",
+      "url": "https://www.bbc.co.uk/news/articles/cwymx3eevpjo?at_medium=RSS&at_campaign=rss",
+      "summary": "None of the choices facing Iran’s leaders offer a clear path to victory, as the conflict with the US continues.",
+      "published_at": "2026-07-21T14:36:47Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC Africa",
+      "title": "Protests in Italy after Moroccan-born man dies while being restrained by police",
+      "url": "https://www.bbc.co.uk/news/articles/c86nwgw148xo?at_medium=RSS&at_campaign=rss",
+      "summary": "Thousands of people took to the streets demanding justice for a Moroccan-born man who died on Sunday.",
+      "published_at": "2026-07-21T12:48:37Z",
+      "country_code": "IT",
+      "country_name": "Italy"
+    },
     {
       "source": "BBC World",
       "title": "Row escalates in Ukraine over army chief's future",
@@ -21,7 +48,7 @@
     },
     {
       "source": "BBC World",
-      "title": "Traffic officers arrested for allegedly seeking bribe from Nigeria's anti-corruption boss",
+      "title": "Police officers arrested for allegedly seeking roadside bribe from Nigeria's anti-corruption boss",
       "url": "https://www.bbc.co.uk/news/articles/c9q97028ex5o?at_medium=RSS&at_campaign=rss",
       "summary": "They are accused of stopping Musa Aliyu at a fake roadblock and telling him to drive to a cash machine.",
       "published_at": "2026-07-21T11:40:53Z",
@@ -29,7 +56,7 @@
       "country_name": "Nigeria"
     },
     {
-      "source": "BBC Latin America",
+      "source": "BBC World",
       "title": "Watch: Flooded towns and evacuations as Chile hit by heavy rain",
       "url": "https://www.bbc.co.uk/news/videos/cy9wq8j2p7qo?at_medium=RSS&at_campaign=rss",
       "summary": "A \"state of catastrophe\" has been declared in Coquimbo and Huasco following the downpour.",
@@ -182,7 +209,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "Paramount and Warner Bros mega merger paused by judge",
       "url": "https://www.bbc.co.uk/news/articles/c5ywxy41vg6o?at_medium=RSS&at_campaign=rss",
       "summary": "US court temporarily stops Paramount and Warner Bros merging after 12 states launched legal action.",
@@ -272,7 +299,7 @@
       "country_name": "Norway"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Middle East",
       "title": "Hamas names Khalil al-Hayya as new overall leader",
       "url": "https://www.bbc.co.uk/news/articles/cx25nzkyj50o?at_medium=RSS&at_campaign=rss",
       "summary": "The Palestinian armed group's Qatar-based chief negotiator replaces Yahya Sinwar, who was killed by Israeli forces in Gaza in 2024.",
@@ -281,7 +308,7 @@
       "country_name": "Palestine"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "Lamine Yamal celebrates World Cup win with little brother who charmed fans",
       "url": "https://www.bbc.co.uk/news/articles/c89nvnklkpdo?at_medium=RSS&at_campaign=rss",
       "summary": "The three-year-old brother of Yamal has been hailed one of Spain's World Cup breakout stars by fans",
@@ -317,7 +344,7 @@
       "country_name": "Spain"
     },
     {
-      "source": "BBC Asia",
+      "source": "BBC World",
       "title": "From hundreds to thousands: How India's 'cockroach' protest movement has grown",
       "url": "https://www.bbc.co.uk/news/videos/c0qvdywj97ko?at_medium=RSS&at_campaign=rss",
       "summary": "BBC's Azadeh Moshiri reports as thousands attempt to march to India's parliament in support of the Cockroach Janta Party's demand for educat…",
@@ -326,7 +353,7 @@
       "country_name": "India"
     },
     {
-      "source": "BBC Europe",
+      "source": "BBC World",
       "title": "Why are Ukraine's military recruiters facing violence in their own country?",
       "url": "https://www.bbc.co.uk/news/videos/c0kmjy02rxko?at_medium=RSS&at_campaign=rss",
       "summary": "The latest National Police Service report recorded more than 600 assaults on recruitment officers to date and warned that the aggression has…",
@@ -776,15 +803,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Middle East",
-      "title": "Watch: Gaza football fans watch World Cup from rubble",
-      "url": "https://www.bbc.co.uk/news/videos/c8r2nmm7xeeo?at_medium=RSS&at_campaign=rss",
-      "summary": "Hundreds of people cheered for Egypt, which shares a border with Gaza, in the match against Argentina.",
-      "published_at": "2026-07-08T07:26:49Z",
-      "country_code": "PS",
-      "country_name": "Palestine"
-    },
-    {
       "source": "BBC Africa",
       "title": "Fears of a massacre in this city on the front line of Sudan's war",
       "url": "https://www.bbc.co.uk/news/articles/c20yyjdzw7po?at_medium=RSS&at_campaign=rss",
@@ -906,7 +924,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 32
+      "news_count": 33
     },
     {
       "country_code": "ES",
@@ -979,6 +997,11 @@
       "news_count": 2
     },
     {
+      "country_code": "IT",
+      "country_name": "Italy",
+      "news_count": 2
+    },
+    {
       "country_code": "SA",
       "country_name": "Saudi Arabia",
       "news_count": 2
@@ -1011,11 +1034,6 @@
     {
       "country_code": "IL",
       "country_name": "Israel",
-      "news_count": 1
-    },
-    {
-      "country_code": "IT",
-      "country_name": "Italy",
       "news_count": 1
     },
     {
