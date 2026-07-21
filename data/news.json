@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-07-21T01:29:40Z",
+  "generated_at": "2026-07-21T04:47:24Z",
   "articles": [
+    {
+      "source": "BBC US & Canada",
+      "title": "Tropical Storm Bertha threatens US Gulf coast",
+      "url": "https://www.bbc.co.uk/news/articles/cqjxzzdrl4lo?at_medium=RSS&at_campaign=rss",
+      "summary": "Storm surges up to 4ft are possible along parts of the Louisiana and Mississippi coasts, officials say.",
+      "published_at": "2026-07-21T02:42:44Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "US launches fresh strikes on Iran, as Trump warns of retaliation for deaths of soldiers",
+      "url": "https://www.bbc.co.uk/news/articles/cx25wg2x26do?at_medium=RSS&at_campaign=rss",
+      "summary": "The US says the attacks were aimed at degrading Iran's capabilities to attack ships in the Strait of Hormuz.",
+      "published_at": "2026-07-21T02:41:28Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "Trump slaps 50% tariffs on Canada and Carney vows to 'intensify' trade talks",
@@ -9,15 +27,6 @@
       "published_at": "2026-07-21T00:34:47Z",
       "country_code": "CA",
       "country_name": "Canada"
-    },
-    {
-      "source": "BBC World",
-      "title": "US launches fresh strikes on Iran, as Trump warns of retaliation for deaths of soldiers",
-      "url": "https://www.bbc.co.uk/news/articles/cx25wg2x26do?at_medium=RSS&at_campaign=rss",
-      "summary": "The US says the attacks were aimed at degrading Iran's capabilities to attack ships in the Strait of Hormuz.",
-      "published_at": "2026-07-21T00:14:27Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC US & Canada",
@@ -987,7 +996,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 34
+      "news_count": 35
     },
     {
       "country_code": "ES",
