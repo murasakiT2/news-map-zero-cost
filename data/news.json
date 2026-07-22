@@ -1,6 +1,33 @@
 {
-  "generated_at": "2026-07-22T22:52:27Z",
+  "generated_at": "2026-07-22T23:53:59Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "US signs landmark nuclear deal with Saudi Arabia",
+      "url": "https://www.bbc.co.uk/news/articles/cj03r59z73po?at_medium=RSS&at_campaign=rss",
+      "summary": "The US Department of Energy says the \"peaceful\" co-operation agreement will give US firms \"great access\" to the Saudi nuclear energy program…",
+      "published_at": "2026-07-22T23:21:31Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Russia's businesses under strain from Ukraine's attacks on Wildberries",
+      "url": "https://www.bbc.co.uk/news/articles/cvg9n2y61w6o?at_medium=RSS&at_campaign=rss",
+      "summary": "Ukrainian drones have hit several retail warehouses belonging to Russia's biggest online retailer Wildberries in a matter of days.",
+      "published_at": "2026-07-22T23:06:08Z",
+      "country_code": "RU",
+      "country_name": "Russia"
+    },
+    {
+      "source": "BBC World",
+      "title": "Watch: What we know about the US-Saudi nuclear deal",
+      "url": "https://www.bbc.co.uk/news/videos/cn5n725lkg7o?at_medium=RSS&at_campaign=rss",
+      "summary": "The BBC's Sarah Smith explains the implications of the landmark cooperation agreement between both countries.",
+      "published_at": "2026-07-22T22:45:08Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "Trump threatens to target Iran's bridges and power plants if Hormuz attacks persist",
@@ -34,15 +61,6 @@
       "url": "https://www.bbc.co.uk/news/articles/cx2kyyeyeklo?at_medium=RSS&at_campaign=rss",
       "summary": "The European Commission gave its green light, but it came with conditions attached for Paramount.",
       "published_at": "2026-07-22T21:33:01Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "US signs landmark nuclear deal with Saudi Arabia",
-      "url": "https://www.bbc.co.uk/news/articles/cj03r59z73po?at_medium=RSS&at_campaign=rss",
-      "summary": "The US Department of Energy says the \"peaceful\" co-operation agreement will give US firms \"great access\" to the Saudi nuclear energy program…",
-      "published_at": "2026-07-22T21:31:25Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -101,7 +119,7 @@
       "country_name": "France"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "Who is Mykhailo Drapatyi, Ukraine's new commander-in-chief?",
       "url": "https://www.bbc.co.uk/news/articles/c93483k0lp1o?at_medium=RSS&at_campaign=rss",
       "summary": "Drapatyi becomes Ukraine's third commander-in-chief since Russia's full-scale invasion in February 2022.",
@@ -326,7 +344,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Latin America",
       "title": "Watch: Flooded towns and evacuations as Chile hit by heavy rain",
       "url": "https://www.bbc.co.uk/news/videos/cy9wq8j2p7qo?at_medium=RSS&at_campaign=rss",
       "summary": "A \"state of catastrophe\" has been declared in Coquimbo and Huasco following the downpour.",
@@ -549,15 +567,6 @@
       "published_at": "2026-07-17T05:16:34Z",
       "country_code": "JP",
       "country_name": "Japan"
-    },
-    {
-      "source": "BBC Asia",
-      "title": "Philippines condemns monkey video on Chinese media as racist",
-      "url": "https://www.bbc.co.uk/news/articles/cj632307934o?at_medium=RSS&at_campaign=rss",
-      "summary": "The AI video on China Daily showed a monkey in Philippine garments singing its claims to the South China Sea.",
-      "published_at": "2026-07-17T02:37:45Z",
-      "country_code": "CN",
-      "country_name": "China"
     },
     {
       "source": "BBC Europe",
@@ -852,7 +861,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 27
+      "news_count": 28
     },
     {
       "country_code": "ES",
@@ -915,11 +924,6 @@
       "news_count": 3
     },
     {
-      "country_code": "CN",
-      "country_name": "China",
-      "news_count": 2
-    },
-    {
       "country_code": "GB",
       "country_name": "United Kingdom",
       "news_count": 2
@@ -932,6 +936,11 @@
     {
       "country_code": "NO",
       "country_name": "Norway",
+      "news_count": 2
+    },
+    {
+      "country_code": "RU",
+      "country_name": "Russia",
       "news_count": 2
     },
     {
@@ -960,6 +969,11 @@
       "news_count": 1
     },
     {
+      "country_code": "CN",
+      "country_name": "China",
+      "news_count": 1
+    },
+    {
       "country_code": "IL",
       "country_name": "Israel",
       "news_count": 1
@@ -982,11 +996,6 @@
     {
       "country_code": "PE",
       "country_name": "Peru",
-      "news_count": 1
-    },
-    {
-      "country_code": "RU",
-      "country_name": "Russia",
       "news_count": 1
     },
     {
