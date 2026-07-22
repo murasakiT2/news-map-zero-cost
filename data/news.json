@@ -1,14 +1,23 @@
 {
-  "generated_at": "2026-07-22T20:17:27Z",
+  "generated_at": "2026-07-22T21:33:44Z",
   "articles": [
     {
       "source": "BBC World",
-      "title": "US to announce deal allowing Saudi Arabia a nuclear programme",
+      "title": "US signs landmark nuclear deal with Saudi Arabia",
       "url": "https://www.bbc.co.uk/news/articles/cj03r59z73po?at_medium=RSS&at_campaign=rss",
-      "summary": "The agreement would fulfil a long-held Saudi ambition but could attract concern in Israel and from some US lawmakers.",
-      "published_at": "2026-07-22T20:05:31Z",
+      "summary": "The US Department of Energy says the \"peaceful\" co-operation agreement will give US firms \"great access\" to the Saudi nuclear energy program…",
+      "published_at": "2026-07-22T21:31:25Z",
       "country_code": "US",
       "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Fire kills 10 members of same family in Peru, police say",
+      "url": "https://www.bbc.co.uk/news/articles/cm2g11ng7j2o?at_medium=RSS&at_campaign=rss",
+      "summary": "Authorities are investigating the cause of the blaze in Lima as local media report it may have been arson.",
+      "published_at": "2026-07-22T20:56:26Z",
+      "country_code": "PE",
+      "country_name": "Peru"
     },
     {
       "source": "BBC World",
@@ -340,15 +349,6 @@
       "url": "https://www.bbc.co.uk/news/articles/ce3q1d1ed5do?at_medium=RSS&at_campaign=rss",
       "summary": "Known as \"El Mayo\", the co-founder the Sinaloa Cartel was also ordered to pay $15bn after he admitted to sending vast amounts of drugs to th…",
       "published_at": "2026-07-20T21:03:24Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC Latin America",
-      "title": "Thousands of websites taken down for illegal World Cup streams",
-      "url": "https://www.bbc.co.uk/news/articles/cqx7wx4vqv1o?at_medium=RSS&at_campaign=rss",
-      "summary": "More than 1,000 illegal streaming sites were shut down in the US during the tournament, with a similar amount blocked in Colombia.",
-      "published_at": "2026-07-20T20:08:56Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -834,7 +834,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 27
+      "news_count": 26
     },
     {
       "country_code": "ES",
@@ -954,6 +954,11 @@
     {
       "country_code": "MX",
       "country_name": "Mexico",
+      "news_count": 1
+    },
+    {
+      "country_code": "PE",
+      "country_name": "Peru",
       "news_count": 1
     },
     {
