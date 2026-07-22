@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-07-22T21:33:44Z",
+  "generated_at": "2026-07-22T22:52:27Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Trump threatens to target Iran's bridges and power plants if Hormuz attacks persist",
+      "url": "https://www.bbc.co.uk/news/articles/cdrv0p37k8jo?at_medium=RSS&at_campaign=rss",
+      "summary": "Donald Trump says the US will respond any time Iranian forces shoot at a ship in the Strait of Hormuz.",
+      "published_at": "2026-07-22T22:17:54Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "A year after deadly jet crash at Bangladesh school, families demand answers",
+      "url": "https://www.bbc.co.uk/news/articles/cx2j7jgg1z1o?at_medium=RSS&at_campaign=rss",
+      "summary": "This week marks one year since a military jet struck a school in Dhaka, killing 36, most of them children.",
+      "published_at": "2026-07-22T22:04:07Z",
+      "country_code": "BD",
+      "country_name": "Bangladesh"
+    },
+    {
+      "source": "BBC World",
+      "title": "Blocked by censors, China's animal lovers take fight against abuse offline and overseas",
+      "url": "https://www.bbc.co.uk/news/articles/cqx7wd3x420o?at_medium=RSS&at_campaign=rss",
+      "summary": "The killing of a dog and her puppies in Guangdong has sparked outrage inside and outside the country.",
+      "published_at": "2026-07-22T22:03:43Z",
+      "country_code": "CN",
+      "country_name": "China"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "EU clears $110bn Paramount and Warner Bros merger, but it remains on hold in US",
+      "url": "https://www.bbc.co.uk/news/articles/cx2kyyeyeklo?at_medium=RSS&at_campaign=rss",
+      "summary": "The European Commission gave its green light, but it came with conditions attached for Paramount.",
+      "published_at": "2026-07-22T21:33:01Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "US signs landmark nuclear deal with Saudi Arabia",
@@ -18,15 +54,6 @@
       "published_at": "2026-07-22T20:56:26Z",
       "country_code": "PE",
       "country_name": "Peru"
-    },
-    {
-      "source": "BBC World",
-      "title": "Trump threatens to target Iran's bridges and power plants if Hormuz attacks persist",
-      "url": "https://www.bbc.co.uk/news/articles/cdrv0p37k8jo?at_medium=RSS&at_campaign=rss",
-      "summary": "Donald Trump says the US will respond any time Iranian forces shoot at a ship in the Strait of Hormuz.",
-      "published_at": "2026-07-22T18:57:46Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC World",
@@ -110,7 +137,7 @@
       "country_name": "Morocco"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "Why are thousands protesting for education reform in India?",
       "url": "https://www.bbc.co.uk/news/articles/cedj9j911p8o?at_medium=RSS&at_campaign=rss",
       "summary": "Thousands of mostly young people tried to march on India's parliament to demand changes to how the education system is run.",
@@ -290,7 +317,7 @@
       "country_name": "Palestine"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Middle East",
       "title": "Why Iran is risking so much over the Strait of Hormuz",
       "url": "https://www.bbc.co.uk/news/articles/cwymx3eevpjo?at_medium=RSS&at_campaign=rss",
       "summary": "None of the choices facing Iran’s leaders offer a clear path to victory, as the conflict with the US continues.",
@@ -324,15 +351,6 @@
       "published_at": "2026-07-20T22:58:06Z",
       "country_code": "ES",
       "country_name": "Spain"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "Watch: BBC reports from inside Tate brothers court appearance",
-      "url": "https://www.bbc.co.uk/news/videos/cy4k7nlyl4ko?at_medium=RSS&at_campaign=rss",
-      "summary": "Tom Bateman is in Miami where Andrew and Tristan Tate were arrested following a slate of new charges from the UK that includes rape and sex …",
-      "published_at": "2026-07-20T22:25:13Z",
-      "country_code": "GB",
-      "country_name": "United Kingdom"
     },
     {
       "source": "BBC Middle East",
@@ -834,7 +852,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 26
+      "news_count": 27
     },
     {
       "country_code": "ES",
@@ -877,11 +895,6 @@
       "news_count": 3
     },
     {
-      "country_code": "GB",
-      "country_name": "United Kingdom",
-      "news_count": 3
-    },
-    {
       "country_code": "JP",
       "country_name": "Japan",
       "news_count": 3
@@ -902,6 +915,16 @@
       "news_count": 3
     },
     {
+      "country_code": "CN",
+      "country_name": "China",
+      "news_count": 2
+    },
+    {
+      "country_code": "GB",
+      "country_name": "United Kingdom",
+      "news_count": 2
+    },
+    {
       "country_code": "NG",
       "country_name": "Nigeria",
       "news_count": 2
@@ -917,6 +940,11 @@
       "news_count": 2
     },
     {
+      "country_code": "BD",
+      "country_name": "Bangladesh",
+      "news_count": 1
+    },
+    {
       "country_code": "BR",
       "country_name": "Brazil",
       "news_count": 1
@@ -929,11 +957,6 @@
     {
       "country_code": "CL",
       "country_name": "Chile",
-      "news_count": 1
-    },
-    {
-      "country_code": "CN",
-      "country_name": "China",
       "news_count": 1
     },
     {
