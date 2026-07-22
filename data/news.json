@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-07-22T16:13:15Z",
+  "generated_at": "2026-07-22T17:46:25Z",
   "articles": [
+    {
+      "source": "BBC US & Canada",
+      "title": "'Devastated' Millie Bobby Brown leads Kaylee Hottle tributes",
+      "url": "https://www.bbc.co.uk/news/articles/cm2glm5r185o?at_medium=RSS&at_campaign=rss",
+      "summary": "The 18-year-old Godzilla vs Kong actress died in a car crash in the US.",
+      "published_at": "2026-07-22T16:58:30Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Mamdani backs off on pledge to arrest Netanyahu citing lack of authority",
+      "url": "https://www.bbc.co.uk/news/articles/c204p64pqzno?at_medium=RSS&at_campaign=rss",
+      "summary": "The New York City mayor instead called on US authorities to act on International Criminal Court's arrest warrant against the Israeli prime m…",
+      "published_at": "2026-07-22T16:29:28Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "Who is Mykhailo Drapatyi, Ukraine's new commander-in-chief?",
@@ -50,7 +68,7 @@
       "source": "BBC Africa",
       "title": "Ipswich sign Diop from Fulham",
       "url": "https://www.bbc.co.uk/sport/football/articles/cx2vqxe2e08o?at_medium=RSS&at_campaign=rss",
-      "summary": "Ipswich Town sign Morocco defender Issa Diop from Fulham for an undisclosed fee.",
+      "summary": "Ipswich Town sign Morocco defender Issa Diop from Fulham for £8.5m",
       "published_at": "2026-07-22T13:27:08Z",
       "country_code": "MA",
       "country_name": "Morocco"
@@ -137,7 +155,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "France passes law banning under-15s from social media",
       "url": "https://www.bbc.co.uk/news/articles/cq56l9p4y93o?at_medium=RSS&at_campaign=rss",
       "summary": "The law will require social media platforms in France to verify all users age from January.",
@@ -173,16 +191,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Africa",
-      "title": "UK humanitarian worker monitored for Ebola in London hospital",
-      "url": "https://www.bbc.co.uk/news/articles/cdewk5r308jo?at_medium=RSS&at_campaign=rss",
-      "summary": "The health worker was evacuated to the UK from the DR Congo after being potentially exposed to the virus.",
-      "published_at": "2026-07-22T00:52:35Z",
-      "country_code": "GB",
-      "country_name": "United Kingdom"
-    },
-    {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "Tokyo urges men to wear shorts to work, but women say it's 'leg hair harassment'",
       "url": "https://www.bbc.co.uk/news/articles/cvgwp513jpvo?at_medium=RSS&at_campaign=rss",
       "summary": "The Tokyo Metropolitan Government wants workers to ditch the suit and tie for t-shirts, trainers - and shorts.",
@@ -279,15 +288,6 @@
       "published_at": "2026-07-21T11:21:47Z",
       "country_code": "CL",
       "country_name": "Chile"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "US shoppers react to mysterious ‘explosive diarrhoea’ parasite",
-      "url": "https://www.bbc.co.uk/news/videos/c4g3p74rr6lo?at_medium=RSS&at_campaign=rss",
-      "summary": "Nearly 7,000 people in the US may have been infected with Cyclosporiasis, the Centers for Disease Control and Prevention has said.",
-      "published_at": "2026-07-20T23:29:54Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC US & Canada",
@@ -870,7 +870,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 27
+      "news_count": 28
     },
     {
       "country_code": "ES",
@@ -881,11 +881,6 @@
       "country_code": "IN",
       "country_name": "India",
       "news_count": 5
-    },
-    {
-      "country_code": "GB",
-      "country_name": "United Kingdom",
-      "news_count": 4
     },
     {
       "country_code": "IR",
@@ -910,6 +905,11 @@
     {
       "country_code": "AU",
       "country_name": "Australia",
+      "news_count": 3
+    },
+    {
+      "country_code": "GB",
+      "country_name": "United Kingdom",
       "news_count": 3
     },
     {
