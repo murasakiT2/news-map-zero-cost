@@ -1,12 +1,30 @@
 {
-  "generated_at": "2026-07-22T00:13:49Z",
+  "generated_at": "2026-07-22T03:54:13Z",
   "articles": [
+    {
+      "source": "BBC Asia",
+      "title": "Michelin-starred restaurateur faces jail for using ants as dessert garnish",
+      "url": "https://www.bbc.co.uk/news/articles/c62qw1qk95eo?at_medium=RSS&at_campaign=rss",
+      "summary": "Officials say the restaurant in South Korea used some 49,000 ants in various dishes over four years.",
+      "published_at": "2026-07-22T03:32:56Z",
+      "country_code": "KR",
+      "country_name": "South Korea"
+    },
+    {
+      "source": "BBC Asia",
+      "title": "Ex-Australia batter David Warner pleads guilty to drink driving",
+      "url": "https://www.bbc.co.uk/news/articles/c2dkxkp8wrpo?at_medium=RSS&at_campaign=rss",
+      "summary": "Star cricketer was charged after failing a random breath test in Sydney earlier this year.",
+      "published_at": "2026-07-22T03:14:38Z",
+      "country_code": "AU",
+      "country_name": "Australia"
+    },
     {
       "source": "BBC US & Canada",
       "title": "Iran war has cost US $37.5bn so far, Hegseth says, as Pentagon seeks billions more",
       "url": "https://www.bbc.co.uk/news/articles/c70gek2kqyno?at_medium=RSS&at_campaign=rss",
-      "summary": "Some senators pushed back on Hegseth's funding request as he testified at a pivotal time in the war.",
-      "published_at": "2026-07-22T00:11:58Z",
+      "summary": "The hearing was disrupted by protests and a shouting match as Hegseth testified at a pivotal time in the war.",
+      "published_at": "2026-07-22T02:15:05Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -18,6 +36,15 @@
       "published_at": "2026-07-21T23:59:34Z",
       "country_code": "UA",
       "country_name": "Ukraine"
+    },
+    {
+      "source": "BBC Asia",
+      "title": "Tokyo urges men to wear shorts to work, but some women say it's 'leg hair harassment'",
+      "url": "https://www.bbc.co.uk/news/articles/cvgwp513jpvo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Tokyo Metropolitan Government wants workers to ditch the suit and tie for t-shirts, trainers - and shorts.",
+      "published_at": "2026-07-21T22:26:19Z",
+      "country_code": "JP",
+      "country_name": "Japan"
     },
     {
       "source": "BBC US & Canada",
@@ -380,15 +407,6 @@
       "country_name": "Ukraine"
     },
     {
-      "source": "BBC Asia",
-      "title": "Food delivery rider wins China's top literary prize",
-      "url": "https://www.bbc.co.uk/news/articles/c5ydr3xd0kvo?at_medium=RSS&at_campaign=rss",
-      "summary": "Wang Jibing is among blue-collar Chinese workers gaining wider attention for their literary works.",
-      "published_at": "2026-07-20T03:53:07Z",
-      "country_code": "CN",
-      "country_name": "China"
-    },
-    {
       "source": "BBC Latin America",
       "title": "Lamine Yamal 'completes football' at 19 as Argentina betray Messi",
       "url": "https://www.bbc.co.uk/sport/football/articles/c0m7zx38v43o?at_medium=RSS&at_campaign=rss",
@@ -574,15 +592,6 @@
       "url": "https://www.bbc.co.uk/news/articles/c9323zgq6wvo?at_medium=RSS&at_campaign=rss",
       "summary": "US President Donald Trump says he is yet to decide whether or not he will \"finish off\" Iran.",
       "published_at": "2026-07-16T04:06:11Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC Asia",
-      "title": "More people around the world now favour China over the US, Pew study suggests",
-      "url": "https://www.bbc.co.uk/news/articles/cd959q11g54o?at_medium=RSS&at_campaign=rss",
-      "summary": "There is more confidence in Xi Jinping than Donald Trump, the US think tank's survey indicates.",
-      "published_at": "2026-07-15T17:02:41Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -924,7 +933,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 33
+      "news_count": 32
     },
     {
       "country_code": "ES",
@@ -987,13 +996,18 @@
       "news_count": 3
     },
     {
-      "country_code": "CN",
-      "country_name": "China",
+      "country_code": "AU",
+      "country_name": "Australia",
       "news_count": 2
     },
     {
       "country_code": "IT",
       "country_name": "Italy",
+      "news_count": 2
+    },
+    {
+      "country_code": "JP",
+      "country_name": "Japan",
       "news_count": 2
     },
     {
@@ -1004,11 +1018,6 @@
     {
       "country_code": "AR",
       "country_name": "Argentina",
-      "news_count": 1
-    },
-    {
-      "country_code": "AU",
-      "country_name": "Australia",
       "news_count": 1
     },
     {
@@ -1027,6 +1036,11 @@
       "news_count": 1
     },
     {
+      "country_code": "CN",
+      "country_name": "China",
+      "news_count": 1
+    },
+    {
       "country_code": "EG",
       "country_name": "Egypt",
       "news_count": 1
@@ -1042,8 +1056,8 @@
       "news_count": 1
     },
     {
-      "country_code": "JP",
-      "country_name": "Japan",
+      "country_code": "KR",
+      "country_name": "South Korea",
       "news_count": 1
     },
     {
