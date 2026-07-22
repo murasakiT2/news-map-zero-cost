@@ -1,12 +1,21 @@
 {
-  "generated_at": "2026-07-22T11:23:18Z",
+  "generated_at": "2026-07-22T12:53:15Z",
   "articles": [
+    {
+      "source": "BBC US & Canada",
+      "title": "US to announce deal allowing Saudi Arabia a nuclear programme, reports say",
+      "url": "https://www.bbc.co.uk/news/articles/cj03r59z73po?at_medium=RSS&at_campaign=rss",
+      "summary": "The agreement would fulfil a long-held Saudi ambition but could attract concern in Israel and from some US lawmakers.",
+      "published_at": "2026-07-22T12:40:46Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "Modelling scout linked to Epstein found dead in Paris suburbs",
       "url": "https://www.bbc.co.uk/news/articles/cp8en38vpd3o?at_medium=RSS&at_campaign=rss",
       "summary": "Daniel Siad, whose name appears in the Epstein files thousands of times, had previously denied knowledge of the threat Jeffrey Epstein posed…",
-      "published_at": "2026-07-22T10:40:14Z",
+      "published_at": "2026-07-22T12:08:41Z",
       "country_code": "FR",
       "country_name": "France"
     },
@@ -15,9 +24,18 @@
       "title": "Why are thousands protesting for education reform in India?",
       "url": "https://www.bbc.co.uk/news/articles/cedj9j911p8o?at_medium=RSS&at_campaign=rss",
       "summary": "Thousands of mostly young people tried to march on India's parliament to demand changes to how the education system is run.",
-      "published_at": "2026-07-22T10:18:32Z",
+      "published_at": "2026-07-22T11:30:59Z",
       "country_code": "IN",
       "country_name": "India"
+    },
+    {
+      "source": "BBC Africa",
+      "title": "South African hearing postponed for British-Zimbabwean triple murder suspect",
+      "url": "https://www.bbc.co.uk/news/articles/cx2k6rzlz6xo?at_medium=RSS&at_campaign=rss",
+      "summary": "Ndodana Mkhanyisi Tshuma, accused of killing his wife and two daughters, is in custody in South Africa.",
+      "published_at": "2026-07-22T11:18:57Z",
+      "country_code": "ZA",
+      "country_name": "South Africa"
     },
     {
       "source": "BBC World",
@@ -174,15 +192,6 @@
     },
     {
       "source": "BBC US & Canada",
-      "title": "Carney looking at 'all options' as Trump announces 50% tariffs on Canada",
-      "url": "https://www.bbc.co.uk/news/articles/cg4dzq3x3e1o?at_medium=RSS&at_campaign=rss",
-      "summary": "The duties mark a major escalation in trade tensions between the North American neighbours.",
-      "published_at": "2026-07-21T17:33:22Z",
-      "country_code": "CA",
-      "country_name": "Canada"
-    },
-    {
-      "source": "BBC US & Canada",
       "title": "Trump: 50% tariffs response to Canada's treatment of US farmers",
       "url": "https://www.bbc.co.uk/news/videos/c3ek302pzdzo?at_medium=RSS&at_campaign=rss",
       "summary": "This new round of duties on Canadian goods is fuelling speculation about a potential announcement of new US tariffs on countries across the …",
@@ -234,15 +243,6 @@
       "published_at": "2026-07-21T14:36:47Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC Africa",
-      "title": "Protests in Italy after Moroccan-born man dies while being restrained by police",
-      "url": "https://www.bbc.co.uk/news/articles/c86nwgw148xo?at_medium=RSS&at_campaign=rss",
-      "summary": "Thousands of people took to the streets demanding justice for a Moroccan-born man who died on Sunday.",
-      "published_at": "2026-07-21T12:48:37Z",
-      "country_code": "IT",
-      "country_name": "Italy"
     },
     {
       "source": "BBC Africa",
@@ -651,15 +651,6 @@
     },
     {
       "source": "BBC Middle East",
-      "title": "Watch: The clash between US and Iran for control of the Strait of Hormuz",
-      "url": "https://www.bbc.co.uk/news/videos/cx2425dmpl3o?at_medium=RSS&at_campaign=rss",
-      "summary": "The BBC's Barbara Plett Usher examines the latest tensions over the key international shipping channel.",
-      "published_at": "2026-07-14T21:13:12Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC Middle East",
       "title": "Strait of Hormuz 'faultline' exposes weakness of the US-Iran deal",
       "url": "https://www.bbc.co.uk/news/articles/cwy0ydn033yo?at_medium=RSS&at_campaign=rss",
       "summary": "Control of the waterway has become a key point of contention between the US and Iran, as a ceasefire deal falters.",
@@ -939,6 +930,11 @@
       "news_count": 4
     },
     {
+      "country_code": "ZA",
+      "country_name": "South Africa",
+      "news_count": 4
+    },
+    {
       "country_code": "AU",
       "country_name": "Australia",
       "news_count": 3
@@ -969,23 +965,8 @@
       "news_count": 3
     },
     {
-      "country_code": "ZA",
-      "country_name": "South Africa",
-      "news_count": 3
-    },
-    {
-      "country_code": "CA",
-      "country_name": "Canada",
-      "news_count": 2
-    },
-    {
       "country_code": "FR",
       "country_name": "France",
-      "news_count": 2
-    },
-    {
-      "country_code": "IT",
-      "country_name": "Italy",
       "news_count": 2
     },
     {
@@ -1009,6 +990,11 @@
       "news_count": 1
     },
     {
+      "country_code": "CA",
+      "country_name": "Canada",
+      "news_count": 1
+    },
+    {
       "country_code": "CL",
       "country_name": "Chile",
       "news_count": 1
@@ -1021,6 +1007,11 @@
     {
       "country_code": "IL",
       "country_name": "Israel",
+      "news_count": 1
+    },
+    {
+      "country_code": "IT",
+      "country_name": "Italy",
       "news_count": 1
     },
     {
