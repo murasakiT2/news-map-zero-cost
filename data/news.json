@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-07-22T18:56:01Z",
+  "generated_at": "2026-07-22T20:17:27Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "US to announce deal allowing Saudi Arabia a nuclear programme",
+      "url": "https://www.bbc.co.uk/news/articles/cj03r59z73po?at_medium=RSS&at_campaign=rss",
+      "summary": "The agreement would fulfil a long-held Saudi ambition but could attract concern in Israel and from some US lawmakers.",
+      "published_at": "2026-07-22T20:05:31Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Trump threatens to target Iran's bridges and power plants if Hormuz attacks persist",
+      "url": "https://www.bbc.co.uk/news/articles/cdrv0p37k8jo?at_medium=RSS&at_campaign=rss",
+      "summary": "Donald Trump says the US will respond any time Iranian forces shoot at a ship in the Strait of Hormuz.",
+      "published_at": "2026-07-22T18:57:46Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "Modelling scout linked to Epstein found dead in Paris",
@@ -39,6 +57,15 @@
     },
     {
       "source": "BBC World",
+      "title": "Watch: Louvre reopens gallery after jewellery heist",
+      "url": "https://www.bbc.co.uk/news/videos/c1m15l8kgejo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Louvre Museum reopens its Apollo Gallery nine months after a robbery that shocked France.",
+      "published_at": "2026-07-22T16:54:33Z",
+      "country_code": "FR",
+      "country_name": "France"
+    },
+    {
+      "source": "BBC World",
       "title": "Who is Mykhailo Drapatyi, Ukraine's new commander-in-chief?",
       "url": "https://www.bbc.co.uk/news/articles/c93483k0lp1o?at_medium=RSS&at_campaign=rss",
       "summary": "Drapatyi becomes Ukraine's third commander-in-chief since Russia's full-scale invasion in February 2022.",
@@ -54,15 +81,6 @@
       "published_at": "2026-07-22T15:04:09Z",
       "country_code": "MA",
       "country_name": "Morocco"
-    },
-    {
-      "source": "BBC World",
-      "title": "US to announce deal allowing Saudi Arabia a nuclear programme",
-      "url": "https://www.bbc.co.uk/news/articles/cj03r59z73po?at_medium=RSS&at_campaign=rss",
-      "summary": "The agreement would fulfil a long-held Saudi ambition but could attract concern in Israel and from some US lawmakers.",
-      "published_at": "2026-07-22T14:49:12Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC World",
@@ -99,15 +117,6 @@
       "published_at": "2026-07-22T11:18:57Z",
       "country_code": "ZA",
       "country_name": "South Africa"
-    },
-    {
-      "source": "BBC World",
-      "title": "Trump threatens to target Iran's bridges and power plants if Hormuz attacks persist",
-      "url": "https://www.bbc.co.uk/news/articles/cdrv0p37k8jo?at_medium=RSS&at_campaign=rss",
-      "summary": "Donald Trump says the US will respond any time Iranian forces shoot at a ship in the Strait of Hormuz.",
-      "published_at": "2026-07-22T10:15:03Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC World",
@@ -398,7 +407,7 @@
       "country_name": "Spain"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "From hundreds to thousands: How India's 'cockroach' protest movement has grown",
       "url": "https://www.bbc.co.uk/news/videos/c0qvdywj97ko?at_medium=RSS&at_campaign=rss",
       "summary": "BBC's Azadeh Moshiri reports as thousands attempt to march to India's parliament in support of the Cockroach Janta Party's demand for educat…",
@@ -863,6 +872,11 @@
       "news_count": 3
     },
     {
+      "country_code": "FR",
+      "country_name": "France",
+      "news_count": 3
+    },
+    {
       "country_code": "GB",
       "country_name": "United Kingdom",
       "news_count": 3
@@ -886,11 +900,6 @@
       "country_code": "PS",
       "country_name": "Palestine",
       "news_count": 3
-    },
-    {
-      "country_code": "FR",
-      "country_name": "France",
-      "news_count": 2
     },
     {
       "country_code": "NG",
