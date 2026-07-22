@@ -1,23 +1,32 @@
 {
-  "generated_at": "2026-07-22T12:53:15Z",
+  "generated_at": "2026-07-22T14:54:53Z",
   "articles": [
     {
-      "source": "BBC US & Canada",
-      "title": "US to announce deal allowing Saudi Arabia a nuclear programme, reports say",
+      "source": "BBC World",
+      "title": "Modelling scout linked to Epstein found dead in Paris",
+      "url": "https://www.bbc.co.uk/news/articles/cp8en38vpd3o?at_medium=RSS&at_campaign=rss",
+      "summary": "Daniel Siad, whose name appears in the Epstein files thousands of times, denied knowledge of the threat Jeffrey Epstein posed.",
+      "published_at": "2026-07-22T14:54:27Z",
+      "country_code": "FR",
+      "country_name": "France"
+    },
+    {
+      "source": "BBC World",
+      "title": "US to announce deal allowing Saudi Arabia a nuclear programme",
       "url": "https://www.bbc.co.uk/news/articles/cj03r59z73po?at_medium=RSS&at_campaign=rss",
       "summary": "The agreement would fulfil a long-held Saudi ambition but could attract concern in Israel and from some US lawmakers.",
-      "published_at": "2026-07-22T12:40:46Z",
+      "published_at": "2026-07-22T14:49:12Z",
       "country_code": "US",
       "country_name": "United States"
     },
     {
       "source": "BBC World",
-      "title": "Modelling scout linked to Epstein found dead in Paris suburbs",
-      "url": "https://www.bbc.co.uk/news/articles/cp8en38vpd3o?at_medium=RSS&at_campaign=rss",
-      "summary": "Daniel Siad, whose name appears in the Epstein files thousands of times, had previously denied knowledge of the threat Jeffrey Epstein posed…",
-      "published_at": "2026-07-22T12:08:41Z",
-      "country_code": "FR",
-      "country_name": "France"
+      "title": "British woman jailed for blackmail after accusing banker of rape in Hong Kong",
+      "url": "https://www.bbc.co.uk/news/articles/cz97gdjgezno?at_medium=RSS&at_campaign=rss",
+      "summary": "Isabel Rose was convicted of trying to extort £100,000 from the UK banker and perverting the course of justice.",
+      "published_at": "2026-07-22T14:14:16Z",
+      "country_code": "GB",
+      "country_name": "United Kingdom"
     },
     {
       "source": "BBC World",
@@ -39,9 +48,9 @@
     },
     {
       "source": "BBC World",
-      "title": "US renews strikes on Iran as Trump threatens to attack underground nuclear site",
+      "title": "Trump threatens to target Iran's bridges and power plants if Hormuz attacks persist",
       "url": "https://www.bbc.co.uk/news/articles/cdrv0p37k8jo?at_medium=RSS&at_campaign=rss",
-      "summary": "The US president's threat to target a key Iranian nuclear site came ahead of the 11th consecutive night of attacks.",
+      "summary": "Donald Trump says the US will respond any time Iranian forces shoot at a ship in the Strait of Hormuz.",
       "published_at": "2026-07-22T10:15:03Z",
       "country_code": "US",
       "country_name": "United States"
@@ -245,15 +254,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Africa",
-      "title": "Police officers arrested for allegedly seeking roadside bribe from Nigeria's anti-corruption boss",
-      "url": "https://www.bbc.co.uk/news/articles/c9q97028ex5o?at_medium=RSS&at_campaign=rss",
-      "summary": "They are accused of stopping Musa Aliyu at a fake roadblock and telling him to drive to a cash machine.",
-      "published_at": "2026-07-21T11:40:53Z",
-      "country_code": "NG",
-      "country_name": "Nigeria"
-    },
-    {
       "source": "BBC World",
       "title": "Watch: Flooded towns and evacuations as Chile hit by heavy rain",
       "url": "https://www.bbc.co.uk/news/videos/cy9wq8j2p7qo?at_medium=RSS&at_campaign=rss",
@@ -270,15 +270,6 @@
       "published_at": "2026-07-21T10:30:09Z",
       "country_code": "MA",
       "country_name": "Morocco"
-    },
-    {
-      "source": "BBC Asia",
-      "title": "India's 'cockroach' protest continues a day after police crackdown",
-      "url": "https://www.bbc.co.uk/news/articles/c98v349r9lro?at_medium=RSS&at_campaign=rss",
-      "summary": "Delhi witnessed overwhelming violence on Monday, with at least 60 protesters wounded. Police said 118 of their men were also injured.",
-      "published_at": "2026-07-21T08:44:43Z",
-      "country_code": "IN",
-      "country_name": "India"
     },
     {
       "source": "BBC US & Canada",
@@ -549,15 +540,6 @@
       "published_at": "2026-07-18T07:05:19Z",
       "country_code": "IN",
       "country_name": "India"
-    },
-    {
-      "source": "BBC Asia",
-      "title": "China hits out at British Steel nationalisation",
-      "url": "https://www.bbc.co.uk/news/articles/cjd4kvxpd3do?at_medium=RSS&at_campaign=rss",
-      "summary": "The UK government said taking the firm into public hands would safeguard \"a vital national capability\".",
-      "published_at": "2026-07-17T16:44:22Z",
-      "country_code": "GB",
-      "country_name": "United Kingdom"
     },
     {
       "source": "BBC Africa",
@@ -907,7 +889,7 @@
     {
       "country_code": "IN",
       "country_name": "India",
-      "news_count": 6
+      "news_count": 5
     },
     {
       "country_code": "GB",
@@ -955,11 +937,6 @@
       "news_count": 3
     },
     {
-      "country_code": "NG",
-      "country_name": "Nigeria",
-      "news_count": 3
-    },
-    {
       "country_code": "PS",
       "country_name": "Palestine",
       "news_count": 3
@@ -967,6 +944,11 @@
     {
       "country_code": "FR",
       "country_name": "France",
+      "news_count": 2
+    },
+    {
+      "country_code": "NG",
+      "country_name": "Nigeria",
       "news_count": 2
     },
     {
