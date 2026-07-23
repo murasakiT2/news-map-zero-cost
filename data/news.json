@@ -1,32 +1,59 @@
 {
-  "generated_at": "2026-07-23T16:18:22Z",
+  "generated_at": "2026-07-23T17:52:33Z",
   "articles": [
     {
       "source": "BBC World",
       "title": "Saudis must recognise Israel for nuclear deal, says Trump",
       "url": "https://www.bbc.co.uk/news/articles/cwye71yq8wwo?at_medium=RSS&at_campaign=rss",
       "summary": "The US president says the landmark agreement to help Saudis develop nuclear energy is dependent on it joining the Abraham Accords.",
-      "published_at": "2026-07-23T16:17:44Z",
+      "published_at": "2026-07-23T17:48:21Z",
       "country_code": "US",
       "country_name": "United States"
     },
     {
-      "source": "BBC Africa",
-      "title": "Ex-governor convicted of murdering a pregnant student in Kenya",
-      "url": "https://www.bbc.co.uk/news/articles/cvg9l039ljyo?at_medium=RSS&at_campaign=rss",
-      "summary": "Okoth Obado was found guilty of killing Sharon Otieno with whom he had had an affair.",
-      "published_at": "2026-07-23T16:07:24Z",
-      "country_code": "KE",
-      "country_name": "Kenya"
+      "source": "BBC World",
+      "title": "Ukraine's ousted defence minister insists on being reinstated",
+      "url": "https://www.bbc.co.uk/news/articles/ce97nm53pgxo?at_medium=RSS&at_campaign=rss",
+      "summary": "Mykhailo Fedorov refuses President Zelensky's offer to accept an alternative post, as the battle of wills continues.",
+      "published_at": "2026-07-23T17:37:59Z",
+      "country_code": "UA",
+      "country_name": "Ukraine"
+    },
+    {
+      "source": "BBC World",
+      "title": "Houthi attacks raise fears of wider Middle East conflict and more global economic damage",
+      "url": "https://www.bbc.co.uk/news/articles/cvgve0vxy1yo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Iran-backed group in Yemen has threatened to target Saudi vessels in a vital shipping route.",
+      "published_at": "2026-07-23T17:06:08Z",
+      "country_code": "IR",
+      "country_name": "Iran"
     },
     {
       "source": "BBC World",
       "title": "Yemen's Houthis attack Saudi tanker as US launches more Iran strikes",
       "url": "https://www.bbc.co.uk/news/articles/cpw9xzx9r4ko?at_medium=RSS&at_campaign=rss",
       "summary": "The Iran-backed group, which previously announced a \"maritime embargo\" against Saudi Arabia, also claims to have hit another vessel.",
-      "published_at": "2026-07-23T16:04:15Z",
+      "published_at": "2026-07-23T16:50:59Z",
       "country_code": "US",
       "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "France evacuates 20,000 as wildfires spread in south-west",
+      "url": "https://www.bbc.co.uk/news/articles/cy4kmr82n44o?at_medium=RSS&at_campaign=rss",
+      "summary": "Most of those evacuated were tourists from campsites around Arcachon Bay in France's Gironde region.",
+      "published_at": "2026-07-23T16:41:52Z",
+      "country_code": "FR",
+      "country_name": "France"
+    },
+    {
+      "source": "BBC World",
+      "title": "Ex-governor convicted of murdering a pregnant student in Kenya",
+      "url": "https://www.bbc.co.uk/news/articles/cvg9l039ljyo?at_medium=RSS&at_campaign=rss",
+      "summary": "Okoth Obado was found guilty of killing Sharon Otieno with whom he had had an affair.",
+      "published_at": "2026-07-23T16:07:24Z",
+      "country_code": "KE",
+      "country_name": "Kenya"
     },
     {
       "source": "BBC World",
@@ -39,21 +66,21 @@
     },
     {
       "source": "BBC World",
-      "title": "France evacuates 20,000 as wildfires spread in south-west",
-      "url": "https://www.bbc.co.uk/news/articles/cy4kmr82n44o?at_medium=RSS&at_campaign=rss",
-      "summary": "Most of those evacuated were tourists from campsites around Arcachon Bay in France's Gironde region.",
-      "published_at": "2026-07-23T13:25:02Z",
-      "country_code": "FR",
-      "country_name": "France"
-    },
-    {
-      "source": "BBC World",
       "title": "Trump's nuclear deal with Saudis jettisons longstanding US demands",
       "url": "https://www.bbc.co.uk/news/articles/cz05lx0xpero?at_medium=RSS&at_campaign=rss",
       "summary": "Signing a nuclear pact in the Middle East is a bold move that has drawn criticism in the US and in Israel.",
       "published_at": "2026-07-23T12:58:40Z",
       "country_code": "US",
       "country_name": "United States"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "Norway consider complaint over Balogun ban decision",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c1l1vz4n484o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Norwegian Football Federation is considering filing a formal complaint to Fifa's ethics committee.",
+      "published_at": "2026-07-23T12:43:30Z",
+      "country_code": "NO",
+      "country_name": "Norway"
     },
     {
       "source": "BBC Asia",
@@ -131,7 +158,7 @@
       "source": "BBC World",
       "title": "Canada's 'powerful' dairy sector is in Trump's trade crosshairs",
       "url": "https://www.bbc.co.uk/news/articles/ce8kvm84lxmo?at_medium=RSS&at_campaign=rss",
-      "summary": "Canada's dairy supply management system is in the spotlight after the US president singled it out as one of three main irritants used to jus…",
+      "summary": "Canada's industry is in the spotlight after the US president singled it out as one of three main irritants used to justify new tariffs.",
       "published_at": "2026-07-23T00:15:12Z",
       "country_code": "US",
       "country_name": "United States"
@@ -802,23 +829,23 @@
       "news_count": 5
     },
     {
+      "country_code": "IR",
+      "country_name": "Iran",
+      "news_count": 5
+    },
+    {
+      "country_code": "UA",
+      "country_name": "Ukraine",
+      "news_count": 5
+    },
+    {
       "country_code": "FR",
       "country_name": "France",
       "news_count": 4
     },
     {
-      "country_code": "IR",
-      "country_name": "Iran",
-      "news_count": 4
-    },
-    {
       "country_code": "KE",
       "country_name": "Kenya",
-      "news_count": 4
-    },
-    {
-      "country_code": "UA",
-      "country_name": "Ukraine",
       "news_count": 4
     },
     {
@@ -854,6 +881,11 @@
     {
       "country_code": "NG",
       "country_name": "Nigeria",
+      "news_count": 2
+    },
+    {
+      "country_code": "NO",
+      "country_name": "Norway",
       "news_count": 2
     },
     {
@@ -904,11 +936,6 @@
     {
       "country_code": "MX",
       "country_name": "Mexico",
-      "news_count": 1
-    },
-    {
-      "country_code": "NO",
-      "country_name": "Norway",
       "news_count": 1
     },
     {
