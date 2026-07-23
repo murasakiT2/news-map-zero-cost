@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-07-23T07:53:52Z",
+  "generated_at": "2026-07-23T10:10:13Z",
   "articles": [
+    {
+      "source": "BBC Asia",
+      "title": "South Korea woman acquitted of murdering newborn after hospital delivery",
+      "url": "https://www.bbc.co.uk/news/articles/cwyrj7ww1gko?at_medium=RSS&at_campaign=rss",
+      "summary": "The woman, who had wanted to end her pregnancy at 36 weeks, gave birth to a baby who doctors later killed.",
+      "published_at": "2026-07-23T10:04:56Z",
+      "country_code": "KR",
+      "country_name": "South Korea"
+    },
+    {
+      "source": "BBC World",
+      "title": "US signs landmark nuclear deal with Saudi Arabia",
+      "url": "https://www.bbc.co.uk/news/articles/cj03r59z73po?at_medium=RSS&at_campaign=rss",
+      "summary": "The US Department of Energy says the \"peaceful\" co-operation agreement will give US firms \"great access\" to the Saudi nuclear energy program…",
+      "published_at": "2026-07-23T09:17:50Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Thousands evacuated in France fires",
+      "url": "https://www.bbc.co.uk/news/articles/cy4kmr82n44o?at_medium=RSS&at_campaign=rss",
+      "summary": "A third firefighter has died in Europe while tackling ongoing wildfires across the continent.",
+      "published_at": "2026-07-23T08:56:36Z",
+      "country_code": "FR",
+      "country_name": "France"
+    },
+    {
+      "source": "BBC Europe",
+      "title": "Ruiz & Gavi's reward for win... 150kg of tomatoes",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvg840jye74o?at_medium=RSS&at_campaign=rss",
+      "summary": "Spain's Fabian Ruiz and Gavi receive their body weight in tomatoes when they return to their hometown Los Palacios y Villafranca.",
+      "published_at": "2026-07-23T07:54:03Z",
+      "country_code": "ES",
+      "country_name": "Spain"
+    },
     {
       "source": "BBC World",
       "title": "Russia's businesses under strain from Ukraine's attacks on Wildberries",
@@ -48,15 +84,6 @@
     },
     {
       "source": "BBC World",
-      "title": "US signs landmark nuclear deal with Saudi Arabia",
-      "url": "https://www.bbc.co.uk/news/articles/cj03r59z73po?at_medium=RSS&at_campaign=rss",
-      "summary": "The US Department of Energy says the \"peaceful\" co-operation agreement will give US firms \"great access\" to the Saudi nuclear energy program…",
-      "published_at": "2026-07-23T00:21:53Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
       "title": "Canada's 'powerful' dairy sector is in Trump's trade crosshairs",
       "url": "https://www.bbc.co.uk/news/articles/ce8kvm84lxmo?at_medium=RSS&at_campaign=rss",
       "summary": "Canada's dairy supply management system is in the spotlight after the US president singled it out as one of three main irritants used to jus…",
@@ -83,7 +110,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Latin America",
+      "source": "BBC US & Canada",
       "title": "Watch: What it was like inside Maduro's court hearing",
       "url": "https://www.bbc.co.uk/news/videos/cvg841yw7keo?at_medium=RSS&at_campaign=rss",
       "summary": "The BBC's Kayla Epstein was inside the courtroom as a judge set the start date for the ousted Venezuelan president's trial in the US.",
@@ -101,7 +128,7 @@
       "country_name": "Bangladesh"
     },
     {
-      "source": "BBC US & Canada",
+      "source": "BBC Europe",
       "title": "EU clears $110bn Paramount and Warner Bros merger, but it remains on hold in US",
       "url": "https://www.bbc.co.uk/news/articles/cx2kyyeyeklo?at_medium=RSS&at_campaign=rss",
       "summary": "The European Commission gave its green light, but it came with conditions attached for Paramount.",
@@ -117,6 +144,15 @@
       "published_at": "2026-07-22T20:56:26Z",
       "country_code": "PE",
       "country_name": "Peru"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "Trump attends dignified transfer of four US service members killed in the Middle East",
+      "url": "https://www.bbc.co.uk/news/videos/cly9nkd4p7eo?at_medium=RSS&at_campaign=rss",
+      "summary": "The ceremony for Tyler James Feehan, Angel Rampersad, Isabella Gonzales and Michael Emmanuel Swinton took place at an air base in Delaware.",
+      "published_at": "2026-07-22T18:59:09Z",
+      "country_code": "US",
+      "country_name": "United States"
     },
     {
       "source": "BBC World",
@@ -210,15 +246,6 @@
     },
     {
       "source": "BBC Asia",
-      "title": "Japan temperatures soar over 40C, marking first 'cruelly hot day'",
-      "url": "https://www.bbc.co.uk/news/articles/cp3rz07grngo?at_medium=RSS&at_campaign=rss",
-      "summary": "The term was introduced in April by the weather agency to describe days when temperatures reach 40C.",
-      "published_at": "2026-07-22T07:00:24Z",
-      "country_code": "JP",
-      "country_name": "Japan"
-    },
-    {
-      "source": "BBC Asia",
       "title": "Tunnel collapse in India kills 14 workers",
       "url": "https://www.bbc.co.uk/news/articles/c80nv79204eo?at_medium=RSS&at_campaign=rss",
       "summary": "Rescue operation is ongoing but hazardous conditions have hampered efforts to reach those still inside.",
@@ -263,7 +290,7 @@
       "country_name": "Australia"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Middle East",
       "title": "Iran war has cost US $37.5bn so far, Hegseth says, as Pentagon seeks billions more",
       "url": "https://www.bbc.co.uk/news/articles/c70gek2kqyno?at_medium=RSS&at_campaign=rss",
       "summary": "The hearing was disrupted by protests and a shouting match as Hegseth testified at a pivotal time in the war.",
@@ -304,15 +331,6 @@
       "url": "https://www.bbc.co.uk/news/articles/cy8mynlmn55o?at_medium=RSS&at_campaign=rss",
       "summary": "A US-brokered agreement should see Israeli troops pulling out of a small part of Lebanon occupied during their conflict with Hezbollah.",
       "published_at": "2026-07-21T18:07:34Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "Trump: 50% tariffs response to Canada's treatment of US farmers",
-      "url": "https://www.bbc.co.uk/news/videos/c3ek302pzdzo?at_medium=RSS&at_campaign=rss",
-      "summary": "This new round of duties on Canadian goods is fuelling speculation about a potential announcement of new US tariffs on countries across the …",
-      "published_at": "2026-07-21T17:27:47Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -416,15 +434,6 @@
       "country_name": "Nigeria"
     },
     {
-      "source": "BBC Europe",
-      "title": "Norway teen did not plan to carry out 'hit' - court",
-      "url": "https://www.bbc.co.uk/news/articles/c4g4pnknkyko?at_medium=RSS&at_campaign=rss",
-      "summary": "Johannes Natland, 19, was arrested at a Huddersfield hotel with two guns and 19 ammunition rounds.",
-      "published_at": "2026-07-20T17:07:46Z",
-      "country_code": "NO",
-      "country_name": "Norway"
-    },
-    {
       "source": "BBC Middle East",
       "title": "Hamas names Khalil al-Hayya as new overall leader",
       "url": "https://www.bbc.co.uk/news/articles/cx25nzkyj50o?at_medium=RSS&at_campaign=rss",
@@ -441,24 +450,6 @@
       "published_at": "2026-07-20T13:38:17Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC Europe",
-      "title": "Lamine Yamal celebrates World Cup win with little brother who charmed fans",
-      "url": "https://www.bbc.co.uk/news/articles/c89nvnklkpdo?at_medium=RSS&at_campaign=rss",
-      "summary": "The three-year-old brother of Yamal has been hailed one of Spain's World Cup breakout stars by fans",
-      "published_at": "2026-07-20T13:13:29Z",
-      "country_code": "ES",
-      "country_name": "Spain"
-    },
-    {
-      "source": "BBC Europe",
-      "title": "Boy, 13, dies during World Cup celebrations in Spain",
-      "url": "https://www.bbc.co.uk/news/articles/c0qvdy0jv05o?at_medium=RSS&at_campaign=rss",
-      "summary": "Two other young people were injured after a fountain partially collapsed in Salamanca's Ciudad Rodrigo.",
-      "published_at": "2026-07-20T10:02:44Z",
-      "country_code": "ES",
-      "country_name": "Spain"
     },
     {
       "source": "BBC Asia",
@@ -515,15 +506,6 @@
       "country_name": "Spain"
     },
     {
-      "source": "BBC US & Canada",
-      "title": "In pictures: Joyous fans gather across the US and Canada to watch World Cup final",
-      "url": "https://www.bbc.co.uk/news/articles/cy8e097155vo?at_medium=RSS&at_campaign=rss",
-      "summary": "Spirits were high despite none of the three tournament co-hosts making it to Saturday's nail-biting conclusion.",
-      "published_at": "2026-07-19T22:25:32Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC Middle East",
       "title": "US soldier killed and one injured after Iranian attack in Iraq",
       "url": "https://www.bbc.co.uk/news/articles/cgk417jp83po?at_medium=RSS&at_campaign=rss",
@@ -576,24 +558,6 @@
       "published_at": "2026-07-16T18:52:01Z",
       "country_code": "IT",
       "country_name": "Italy"
-    },
-    {
-      "source": "BBC Middle East",
-      "title": "US strikes oil tanker with missiles as it enforces new Iran blockade",
-      "url": "https://www.bbc.co.uk/news/articles/clyqwkegqk0o?at_medium=RSS&at_campaign=rss",
-      "summary": "The US military targeted an unladen oil tanker which it said was heading for the key Iranian oil terminal on Kharg island.",
-      "published_at": "2026-07-16T12:09:26Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC Middle East",
-      "title": "US launches fresh strikes on Iran as Trump warns Tehran it 'better behave'",
-      "url": "https://www.bbc.co.uk/news/articles/c9323zgq6wvo?at_medium=RSS&at_campaign=rss",
-      "summary": "US President Donald Trump says he is yet to decide whether or not he will \"finish off\" Iran.",
-      "published_at": "2026-07-16T04:06:11Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC Africa",
@@ -816,17 +780,22 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 29
+      "news_count": 26
     },
     {
       "country_code": "ES",
       "country_name": "Spain",
-      "news_count": 7
+      "news_count": 6
     },
     {
       "country_code": "IN",
       "country_name": "India",
       "news_count": 5
+    },
+    {
+      "country_code": "FR",
+      "country_name": "France",
+      "news_count": 4
     },
     {
       "country_code": "IR",
@@ -842,11 +811,6 @@
       "country_code": "VE",
       "country_name": "Venezuela",
       "news_count": 4
-    },
-    {
-      "country_code": "FR",
-      "country_name": "France",
-      "news_count": 3
     },
     {
       "country_code": "KE",
@@ -879,18 +843,8 @@
       "news_count": 2
     },
     {
-      "country_code": "JP",
-      "country_name": "Japan",
-      "news_count": 2
-    },
-    {
       "country_code": "NG",
       "country_name": "Nigeria",
-      "news_count": 2
-    },
-    {
-      "country_code": "NO",
-      "country_name": "Norway",
       "news_count": 2
     },
     {
@@ -929,8 +883,23 @@
       "news_count": 1
     },
     {
+      "country_code": "JP",
+      "country_name": "Japan",
+      "news_count": 1
+    },
+    {
+      "country_code": "KR",
+      "country_name": "South Korea",
+      "news_count": 1
+    },
+    {
       "country_code": "MX",
       "country_name": "Mexico",
+      "news_count": 1
+    },
+    {
+      "country_code": "NO",
+      "country_name": "Norway",
       "news_count": 1
     },
     {
