@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-07-23T18:57:20Z",
+  "generated_at": "2026-07-23T20:09:19Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "France evacuates 20,000 as wildfires spread in south-west",
+      "url": "https://www.bbc.co.uk/news/articles/cy4kmr82n44o?at_medium=RSS&at_campaign=rss",
+      "summary": "Most of those evacuated were tourists from campsites around Arcachon Bay in France's Gironde region.",
+      "published_at": "2026-07-23T19:17:42Z",
+      "country_code": "FR",
+      "country_name": "France"
+    },
     {
       "source": "BBC World",
       "title": "Saudis must recognise Israel for nuclear deal, says Trump",
@@ -36,15 +45,6 @@
       "published_at": "2026-07-23T16:50:59Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "France evacuates 20,000 as wildfires spread in south-west",
-      "url": "https://www.bbc.co.uk/news/articles/cy4kmr82n44o?at_medium=RSS&at_campaign=rss",
-      "summary": "Most of those evacuated were tourists from campsites around Arcachon Bay in France's Gironde region.",
-      "published_at": "2026-07-23T16:41:52Z",
-      "country_code": "FR",
-      "country_name": "France"
     },
     {
       "source": "BBC World",
@@ -315,15 +315,6 @@
       "published_at": "2026-07-22T05:38:22Z",
       "country_code": "IN",
       "country_name": "India"
-    },
-    {
-      "source": "BBC Europe",
-      "title": "Zelensky sacks Ukraine's top army commander after days of protests",
-      "url": "https://www.bbc.co.uk/news/articles/cyvl35z3917o?at_medium=RSS&at_campaign=rss",
-      "summary": "Oleksandr Syrskyi is dismissed after backlash over the removal of popular Defence Minister Mykhailo Fedorov.",
-      "published_at": "2026-07-22T05:37:43Z",
-      "country_code": "UA",
-      "country_name": "Ukraine"
     },
     {
       "source": "BBC World",
@@ -834,11 +825,6 @@
       "news_count": 5
     },
     {
-      "country_code": "UA",
-      "country_name": "Ukraine",
-      "news_count": 5
-    },
-    {
       "country_code": "FR",
       "country_name": "France",
       "news_count": 4
@@ -846,6 +832,11 @@
     {
       "country_code": "KE",
       "country_name": "Kenya",
+      "news_count": 4
+    },
+    {
+      "country_code": "UA",
+      "country_name": "Ukraine",
       "news_count": 4
     },
     {
