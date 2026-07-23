@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-07-23T21:32:11Z",
+  "generated_at": "2026-07-23T22:45:40Z",
   "articles": [
+    {
+      "source": "BBC US & Canada",
+      "title": "US announces tariffs on dozens of trade partners over 'forced labour' imports",
+      "url": "https://www.bbc.co.uk/news/articles/cvgj61j6l08o?at_medium=RSS&at_campaign=rss",
+      "summary": "The tariffs target around 60 trading partners over claims they failed to properly stop forced labour.",
+      "published_at": "2026-07-23T22:34:36Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "What's going on with the US-Saudi nuclear deal?",
+      "url": "https://www.bbc.co.uk/news/videos/cd7ldlwlny8o?at_medium=RSS&at_campaign=rss",
+      "summary": "Less than 24 hours after the agreement was signed, President Trump posted on social media that the deal required Saudi Arabia to sign up to …",
+      "published_at": "2026-07-23T21:30:29Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "India activist ends hunger strike after 26 days",
@@ -12,10 +30,10 @@
     },
     {
       "source": "BBC US & Canada",
-      "title": "US announces fresh raft of tariffs on overseas goods",
-      "url": "https://www.bbc.co.uk/news/articles/cvgj61j6l08o?at_medium=RSS&at_campaign=rss",
-      "summary": "The tariffs target around 60 trading partners over claims they failed to properly stop forced labour.",
-      "published_at": "2026-07-23T21:25:02Z",
+      "title": "Lawmakers push for AI 'kill switch' after OpenAI goes rogue",
+      "url": "https://www.bbc.co.uk/news/articles/cx2vqj2e9x8o?at_medium=RSS&at_campaign=rss",
+      "summary": "A new bill would let the US government order the shutdown of AI models that pose a public threat.",
+      "published_at": "2026-07-23T20:58:35Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -108,15 +126,6 @@
       "published_at": "2026-07-23T12:58:40Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "Norway consider complaint over Balogun ban decision",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c1l1vz4n484o?at_medium=RSS&at_campaign=rss",
-      "summary": "The Norwegian Football Federation is considering filing a formal complaint to Fifa's ethics committee.",
-      "published_at": "2026-07-23T12:43:30Z",
-      "country_code": "NO",
-      "country_name": "Norway"
     },
     {
       "source": "BBC Asia",
@@ -834,7 +843,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 27
+      "news_count": 29
     },
     {
       "country_code": "ES",
@@ -902,11 +911,6 @@
       "news_count": 2
     },
     {
-      "country_code": "NO",
-      "country_name": "Norway",
-      "news_count": 2
-    },
-    {
       "country_code": "RU",
       "country_name": "Russia",
       "news_count": 2
@@ -954,6 +958,11 @@
     {
       "country_code": "MX",
       "country_name": "Mexico",
+      "news_count": 1
+    },
+    {
+      "country_code": "NO",
+      "country_name": "Norway",
       "news_count": 1
     },
     {
