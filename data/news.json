@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-07-23T20:09:19Z",
+  "generated_at": "2026-07-23T21:32:11Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "India activist ends hunger strike after 26 days",
+      "url": "https://www.bbc.co.uk/news/articles/cjwx4x04yqzo?at_medium=RSS&at_campaign=rss",
+      "summary": "Sonam Wangchuk, a supporter of youth-led protesters demanding education reforms, says he wants to avert \"possible violence\".",
+      "published_at": "2026-07-23T21:27:04Z",
+      "country_code": "IN",
+      "country_name": "India"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "US announces fresh raft of tariffs on overseas goods",
+      "url": "https://www.bbc.co.uk/news/articles/cvgj61j6l08o?at_medium=RSS&at_campaign=rss",
+      "summary": "The tariffs target around 60 trading partners over claims they failed to properly stop forced labour.",
+      "published_at": "2026-07-23T21:25:02Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC Africa",
+      "title": "Three men sentenced to life in jail over Nigeria school kidnappings",
+      "url": "https://www.bbc.co.uk/news/articles/cx2m5618v7yo?at_medium=RSS&at_campaign=rss",
+      "summary": "They admitted to concealing information and being members of an Islamist militant group.",
+      "published_at": "2026-07-23T20:31:41Z",
+      "country_code": "NG",
+      "country_name": "Nigeria"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "'Everything on the table' as Canada plans response to US tariffs",
+      "url": "https://www.bbc.co.uk/news/articles/cgmkye80xg1o?at_medium=RSS&at_campaign=rss",
+      "summary": "Prime Minister Mark Carney says trade talks with Washington are intensifying ahead of the new US tariffs coming into effect.",
+      "published_at": "2026-07-23T19:59:39Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "France evacuates 20,000 as wildfires spread in south-west",
@@ -216,15 +252,6 @@
       "published_at": "2026-07-22T20:56:26Z",
       "country_code": "PE",
       "country_name": "Peru"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "Trump attends dignified transfer of four US service members killed in the Middle East",
-      "url": "https://www.bbc.co.uk/news/videos/cly9nkd4p7eo?at_medium=RSS&at_campaign=rss",
-      "summary": "The ceremony for Tyler James Feehan, Angel Rampersad, Isabella Gonzales and Michael Emmanuel Swinton took place at an air base in Delaware.",
-      "published_at": "2026-07-22T18:59:09Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC Europe",
@@ -807,7 +834,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 26
+      "news_count": 27
     },
     {
       "country_code": "ES",
@@ -817,7 +844,7 @@
     {
       "country_code": "IN",
       "country_name": "India",
-      "news_count": 5
+      "news_count": 6
     },
     {
       "country_code": "IR",
@@ -850,6 +877,11 @@
       "news_count": 4
     },
     {
+      "country_code": "NG",
+      "country_name": "Nigeria",
+      "news_count": 3
+    },
+    {
       "country_code": "PS",
       "country_name": "Palestine",
       "news_count": 3
@@ -867,11 +899,6 @@
     {
       "country_code": "MA",
       "country_name": "Morocco",
-      "news_count": 2
-    },
-    {
-      "country_code": "NG",
-      "country_name": "Nigeria",
       "news_count": 2
     },
     {
