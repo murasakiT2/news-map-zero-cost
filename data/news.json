@@ -1,12 +1,30 @@
 {
-  "generated_at": "2026-07-22T23:53:59Z",
+  "generated_at": "2026-07-23T01:48:23Z",
   "articles": [
+    {
+      "source": "BBC Asia",
+      "title": "China's Moonshot AI stole from Anthropic, Trump tech adviser says",
+      "url": "https://www.bbc.co.uk/news/articles/c5ye2gyz0x4o?at_medium=RSS&at_campaign=rss",
+      "summary": "The allegations come as Chinese AI companies are facing increased US government scrutiny.",
+      "published_at": "2026-07-23T01:47:37Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "US signs landmark nuclear deal with Saudi Arabia",
       "url": "https://www.bbc.co.uk/news/articles/cj03r59z73po?at_medium=RSS&at_campaign=rss",
       "summary": "The US Department of Energy says the \"peaceful\" co-operation agreement will give US firms \"great access\" to the Saudi nuclear energy program…",
-      "published_at": "2026-07-22T23:21:31Z",
+      "published_at": "2026-07-23T00:21:53Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Canada's 'powerful' dairy sector is in Trump's trade crosshairs",
+      "url": "https://www.bbc.co.uk/news/articles/ce8kvm84lxmo?at_medium=RSS&at_campaign=rss",
+      "summary": "Canada's dairy supply management system is in the spotlight after the US president singled it out as one of three main irritants used to jus…",
+      "published_at": "2026-07-23T00:15:12Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -207,15 +225,6 @@
       "published_at": "2026-07-22T05:37:43Z",
       "country_code": "UA",
       "country_name": "Ukraine"
-    },
-    {
-      "source": "BBC World",
-      "title": "Rebel Wilson cleared in defamation case brought by actress in her own film",
-      "url": "https://www.bbc.co.uk/news/articles/c80nv4eevero?at_medium=RSS&at_campaign=rss",
-      "summary": "Wilson was accused of defaming young Australian actress Charlotte MacInnes, but cleared by a Sydney court.",
-      "published_at": "2026-07-22T05:33:04Z",
-      "country_code": "AU",
-      "country_name": "Australia"
     },
     {
       "source": "BBC World",
@@ -560,15 +569,6 @@
       "country_name": "South Africa"
     },
     {
-      "source": "BBC Asia",
-      "title": "Japan relaxes royal succession rules - but ban on female emperors remains",
-      "url": "https://www.bbc.co.uk/news/articles/cy07rz79zg9o?at_medium=RSS&at_campaign=rss",
-      "summary": "The law now allows the adoption of male distant relatives aged over 15 back into the imperial family.",
-      "published_at": "2026-07-17T05:16:34Z",
-      "country_code": "JP",
-      "country_name": "Japan"
-    },
-    {
       "source": "BBC Europe",
       "title": "Watch: What to know as Genoa bridge disaster trial ends",
       "url": "https://www.bbc.co.uk/news/videos/cgewd07ee3go?at_medium=RSS&at_campaign=rss",
@@ -861,7 +861,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 28
+      "news_count": 30
     },
     {
       "country_code": "ES",
@@ -894,18 +894,8 @@
       "news_count": 4
     },
     {
-      "country_code": "AU",
-      "country_name": "Australia",
-      "news_count": 3
-    },
-    {
       "country_code": "FR",
       "country_name": "France",
-      "news_count": 3
-    },
-    {
-      "country_code": "JP",
-      "country_name": "Japan",
       "news_count": 3
     },
     {
@@ -924,8 +914,18 @@
       "news_count": 3
     },
     {
+      "country_code": "AU",
+      "country_name": "Australia",
+      "news_count": 2
+    },
+    {
       "country_code": "GB",
       "country_name": "United Kingdom",
+      "news_count": 2
+    },
+    {
+      "country_code": "JP",
+      "country_name": "Japan",
       "news_count": 2
     },
     {
