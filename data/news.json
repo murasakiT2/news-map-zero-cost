@@ -1,21 +1,30 @@
 {
-  "generated_at": "2026-07-23T14:38:11Z",
+  "generated_at": "2026-07-23T16:18:22Z",
   "articles": [
     {
       "source": "BBC World",
       "title": "Saudis must recognise Israel for nuclear deal, says Trump",
       "url": "https://www.bbc.co.uk/news/articles/cwye71yq8wwo?at_medium=RSS&at_campaign=rss",
       "summary": "The US president says the landmark agreement to help Saudis develop nuclear energy is dependent on it joining the Abraham Accords.",
-      "published_at": "2026-07-23T14:36:24Z",
+      "published_at": "2026-07-23T16:17:44Z",
       "country_code": "US",
       "country_name": "United States"
+    },
+    {
+      "source": "BBC Africa",
+      "title": "Ex-governor convicted of murdering a pregnant student in Kenya",
+      "url": "https://www.bbc.co.uk/news/articles/cvg9l039ljyo?at_medium=RSS&at_campaign=rss",
+      "summary": "Okoth Obado was found guilty of killing Sharon Otieno with whom he had had an affair.",
+      "published_at": "2026-07-23T16:07:24Z",
+      "country_code": "KE",
+      "country_name": "Kenya"
     },
     {
       "source": "BBC World",
       "title": "Yemen's Houthis attack Saudi tanker as US launches more Iran strikes",
       "url": "https://www.bbc.co.uk/news/articles/cpw9xzx9r4ko?at_medium=RSS&at_campaign=rss",
       "summary": "The Iran-backed group, which previously announced a \"maritime embargo\" against Saudi Arabia, also claims to have hit another vessel.",
-      "published_at": "2026-07-23T14:18:13Z",
+      "published_at": "2026-07-23T16:04:15Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -650,15 +659,6 @@
       "country_name": "Spain"
     },
     {
-      "source": "BBC Africa",
-      "title": "'Honoured and grateful' - Morocco fan reflects on World Cup",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c20yw63yn68o?at_medium=RSS&at_campaign=rss",
-      "summary": "Morocco fan reflects on their World Cup journey.",
-      "published_at": "2026-07-10T14:46:17Z",
-      "country_code": "MA",
-      "country_name": "Morocco"
-    },
-    {
       "source": "BBC Middle East",
       "title": "Bowen: For all his bluster, Trump has no better option than talks with Iran",
       "url": "https://www.bbc.co.uk/news/articles/cy8we3j14ndo?at_medium=RSS&at_campaign=rss",
@@ -812,6 +812,11 @@
       "news_count": 4
     },
     {
+      "country_code": "KE",
+      "country_name": "Kenya",
+      "news_count": 4
+    },
+    {
       "country_code": "UA",
       "country_name": "Ukraine",
       "news_count": 4
@@ -827,16 +832,6 @@
       "news_count": 4
     },
     {
-      "country_code": "KE",
-      "country_name": "Kenya",
-      "news_count": 3
-    },
-    {
-      "country_code": "MA",
-      "country_name": "Morocco",
-      "news_count": 3
-    },
-    {
       "country_code": "PS",
       "country_name": "Palestine",
       "news_count": 3
@@ -849,6 +844,11 @@
     {
       "country_code": "GB",
       "country_name": "United Kingdom",
+      "news_count": 2
+    },
+    {
+      "country_code": "MA",
+      "country_name": "Morocco",
       "news_count": 2
     },
     {
