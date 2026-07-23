@@ -1,12 +1,21 @@
 {
-  "generated_at": "2026-07-23T01:48:23Z",
+  "generated_at": "2026-07-23T05:14:53Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Houthis claim attack on oil tankers as US launches more strikes on Iran",
+      "url": "https://www.bbc.co.uk/news/articles/cpw9xzx9r4ko?at_medium=RSS&at_campaign=rss",
+      "summary": "The Houthi attacks would be the first in the Red Sea since the Iran-backed group announced a \"maritime embargo\" against Saudi Arabia.",
+      "published_at": "2026-07-23T03:48:27Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC Asia",
       "title": "China's Moonshot AI stole from Anthropic, Trump tech adviser says",
       "url": "https://www.bbc.co.uk/news/articles/c5ye2gyz0x4o?at_medium=RSS&at_campaign=rss",
       "summary": "The allegations come as Chinese AI companies are facing increased US government scrutiny.",
-      "published_at": "2026-07-23T01:47:37Z",
+      "published_at": "2026-07-23T01:52:10Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -47,7 +56,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Middle East",
       "title": "Trump threatens to target Iran's bridges and power plants if Hormuz attacks persist",
       "url": "https://www.bbc.co.uk/news/articles/cdrv0p37k8jo?at_medium=RSS&at_campaign=rss",
       "summary": "Donald Trump says the US will respond any time Iranian forces shoot at a ship in the Strait of Hormuz.",
@@ -182,15 +191,6 @@
       "country_name": "India"
     },
     {
-      "source": "BBC Africa",
-      "title": "South African hearing postponed for British-Zimbabwean triple murder suspect",
-      "url": "https://www.bbc.co.uk/news/articles/cx2k6rzlz6xo?at_medium=RSS&at_campaign=rss",
-      "summary": "Ndodana Mkhanyisi Tshuma, accused of killing his wife and two daughters, is in custody in South Africa.",
-      "published_at": "2026-07-22T11:18:57Z",
-      "country_code": "ZA",
-      "country_name": "South Africa"
-    },
-    {
       "source": "BBC World",
       "title": "India's Modi government under growing pressure as 'cockroach' protests intensify",
       "url": "https://www.bbc.co.uk/news/articles/c9d8p88lyjdo?at_medium=RSS&at_campaign=rss",
@@ -218,7 +218,7 @@
       "country_name": "India"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "Zelensky sacks Ukraine's top army commander after days of protests",
       "url": "https://www.bbc.co.uk/news/articles/cyvl35z3917o?at_medium=RSS&at_campaign=rss",
       "summary": "Oleksandr Syrskyi is dismissed after backlash over the removal of popular Defence Minister Mykhailo Fedorov.",
@@ -861,7 +861,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 30
+      "news_count": 31
     },
     {
       "country_code": "ES",
@@ -889,11 +889,6 @@
       "news_count": 4
     },
     {
-      "country_code": "ZA",
-      "country_name": "South Africa",
-      "news_count": 4
-    },
-    {
       "country_code": "FR",
       "country_name": "France",
       "news_count": 3
@@ -911,6 +906,11 @@
     {
       "country_code": "PS",
       "country_name": "Palestine",
+      "news_count": 3
+    },
+    {
+      "country_code": "ZA",
+      "country_name": "South Africa",
       "news_count": 3
     },
     {
