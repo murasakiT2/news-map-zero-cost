@@ -1,14 +1,41 @@
 {
-  "generated_at": "2026-07-24T04:59:24Z",
+  "generated_at": "2026-07-24T07:31:13Z",
   "articles": [
     {
       "source": "BBC World",
-      "title": "US imposes tariffs on dozens of trade partners, citing forced labour concerns",
+      "title": "US hits dozens of trading partners with new wave of tariffs",
       "url": "https://www.bbc.co.uk/news/articles/cvgj61j6l08o?at_medium=RSS&at_campaign=rss",
-      "summary": "The tariffs target 60 trading partners over claims they failed to properly stop forced labour.",
-      "published_at": "2026-07-24T04:27:15Z",
+      "summary": "Imposed citing forced labour concerns, the levies replace a temporary global duty brought in after the US Supreme Court struck down tariffs …",
+      "published_at": "2026-07-24T07:12:13Z",
       "country_code": "US",
       "country_name": "United States"
+    },
+    {
+      "source": "BBC Europe",
+      "title": "France orders evacuation of peninsula as hundreds flee wildfires by boat",
+      "url": "https://www.bbc.co.uk/news/articles/cdx82rl5g0do?at_medium=RSS&at_campaign=rss",
+      "summary": "The fire has raged in the region for several days with officials on Friday morning saying it had continued to progress overnight.",
+      "published_at": "2026-07-24T07:07:24Z",
+      "country_code": "FR",
+      "country_name": "France"
+    },
+    {
+      "source": "BBC World",
+      "title": "India's 'cockroach' protesters and government to hold talks as stalemate continues",
+      "url": "https://www.bbc.co.uk/news/articles/cjwx4x04yqzo?at_medium=RSS&at_campaign=rss",
+      "summary": "The meeting comes hours after activist Sonam Wangchuk announced he was ending his 26-day hunger strike.",
+      "published_at": "2026-07-24T06:30:34Z",
+      "country_code": "IN",
+      "country_name": "India"
+    },
+    {
+      "source": "BBC World",
+      "title": "Families still search for bodies a month after Venezuela earthquakes",
+      "url": "https://www.bbc.co.uk/news/videos/cwylplxk8nko?at_medium=RSS&at_campaign=rss",
+      "summary": "Officials say the death toll has surpassed 5,300, though estimates of the number still missing could be as high as 50,000.",
+      "published_at": "2026-07-24T05:47:11Z",
+      "country_code": "VE",
+      "country_name": "Venezuela"
     },
     {
       "source": "BBC US & Canada",
@@ -74,17 +101,8 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
-      "title": "India activist ends hunger strike after 26 days",
-      "url": "https://www.bbc.co.uk/news/articles/cjwx4x04yqzo?at_medium=RSS&at_campaign=rss",
-      "summary": "Sonam Wangchuk, a supporter of youth-led protesters demanding education reforms, says he wants to avert \"possible violence\".",
-      "published_at": "2026-07-23T21:27:04Z",
-      "country_code": "IN",
-      "country_name": "India"
-    },
-    {
       "source": "BBC US & Canada",
-      "title": "Lawmakers push for AI 'kill switch' after OpenAI goes rogue",
+      "title": "Lawmakers push for AI 'kill switch' after OpenAI models go rogue",
       "url": "https://www.bbc.co.uk/news/articles/cx2vqj2e9x8o?at_medium=RSS&at_campaign=rss",
       "summary": "A new bill would let the US government order the shutdown of AI models that pose a public threat.",
       "published_at": "2026-07-23T20:58:35Z",
@@ -245,7 +263,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "Watch: What we know about the US-Saudi nuclear deal",
       "url": "https://www.bbc.co.uk/news/videos/cn5n725lkg7o?at_medium=RSS&at_campaign=rss",
       "summary": "The BBC's Sarah Smith explains the implications of the landmark cooperation agreement between both countries.",
@@ -326,7 +344,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "Watch: Louvre reopens gallery after jewellery heist",
       "url": "https://www.bbc.co.uk/news/videos/c1m15l8kgejo?at_medium=RSS&at_campaign=rss",
       "summary": "The Louvre Museum reopens its Apollo Gallery nine months after a robbery that shocked France.",
@@ -892,14 +910,19 @@
       "news_count": 6
     },
     {
+      "country_code": "FR",
+      "country_name": "France",
+      "news_count": 5
+    },
+    {
       "country_code": "IR",
       "country_name": "Iran",
       "news_count": 5
     },
     {
-      "country_code": "FR",
-      "country_name": "France",
-      "news_count": 4
+      "country_code": "VE",
+      "country_name": "Venezuela",
+      "news_count": 5
     },
     {
       "country_code": "KE",
@@ -909,11 +932,6 @@
     {
       "country_code": "UA",
       "country_name": "Ukraine",
-      "news_count": 4
-    },
-    {
-      "country_code": "VE",
-      "country_name": "Venezuela",
       "news_count": 4
     },
     {
