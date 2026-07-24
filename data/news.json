@@ -1,14 +1,32 @@
 {
-  "generated_at": "2026-07-24T01:43:56Z",
+  "generated_at": "2026-07-24T04:59:24Z",
   "articles": [
     {
       "source": "BBC World",
-      "title": "US imposes tariffs on dozens of trade partners over 'forced labour' imports",
+      "title": "US imposes tariffs on dozens of trade partners, citing forced labour concerns",
       "url": "https://www.bbc.co.uk/news/articles/cvgj61j6l08o?at_medium=RSS&at_campaign=rss",
-      "summary": "The tariffs target around 60 trading partners over claims they failed to properly stop forced labour.",
-      "published_at": "2026-07-24T00:40:26Z",
+      "summary": "The tariffs target 60 trading partners over claims they failed to properly stop forced labour.",
+      "published_at": "2026-07-24T04:27:15Z",
       "country_code": "US",
       "country_name": "United States"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "US health panel loosens restrictions for controversial peptides popular online",
+      "url": "https://www.bbc.co.uk/news/articles/ckg4741vklko?at_medium=RSS&at_campaign=rss",
+      "summary": "The vote marks a win for Health Secretary Robert F Kennedy who has said he's a big fan of the drugs, which haven't been well studied for hum…",
+      "published_at": "2026-07-24T02:03:11Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Houthi attacks raise fears of wider Middle East conflict and more global economic damage",
+      "url": "https://www.bbc.co.uk/news/articles/cvgve0vxy1yo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Iran-backed group in Yemen has threatened to target Saudi vessels in a vital shipping route.",
+      "published_at": "2026-07-24T01:59:49Z",
+      "country_code": "IR",
+      "country_name": "Iran"
     },
     {
       "source": "BBC Asia",
@@ -117,15 +135,6 @@
       "published_at": "2026-07-23T17:37:59Z",
       "country_code": "UA",
       "country_name": "Ukraine"
-    },
-    {
-      "source": "BBC World",
-      "title": "Houthi attacks raise fears of wider Middle East conflict and more global economic damage",
-      "url": "https://www.bbc.co.uk/news/articles/cvgve0vxy1yo?at_medium=RSS&at_campaign=rss",
-      "summary": "The Iran-backed group in Yemen has threatened to target Saudi vessels in a vital shipping route.",
-      "published_at": "2026-07-23T17:06:08Z",
-      "country_code": "IR",
-      "country_name": "Iran"
     },
     {
       "source": "BBC Middle East",
@@ -870,7 +879,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 29
+      "news_count": 30
     },
     {
       "country_code": "IN",
