@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-07-24T20:54:07Z",
+  "generated_at": "2026-07-24T21:54:38Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Firefighters struggle to contain Madrid wildfires, as more than 140,000 evacuated in France and Spain",
+      "url": "https://www.bbc.co.uk/news/articles/czjlenp0xk8o?at_medium=RSS&at_campaign=rss",
+      "summary": "Authorities face the \"worst fire in the history of the region\", Madrid officials say, as French firefighters battle a blaze heading towards …",
+      "published_at": "2026-07-24T21:47:16Z",
+      "country_code": "FR",
+      "country_name": "France"
+    },
     {
       "source": "BBC World",
       "title": "Trump vows to investigate EU over fining of US tech companies",
@@ -27,6 +36,15 @@
       "published_at": "2026-07-24T18:19:23Z",
       "country_code": "PS",
       "country_name": "Palestine"
+    },
+    {
+      "source": "BBC Africa",
+      "title": "Seven stars to watch at Wafcon 2026 and why",
+      "url": "https://www.bbc.co.uk/sport/football/articles/crk8jvpdnvno?at_medium=RSS&at_campaign=rss",
+      "summary": "As the biggest ever Women's Africa Cup of Nations gets ready for kick-off, BBC Sport Africa picks seven players to keep an eye on in Morocco…",
+      "published_at": "2026-07-24T18:18:40Z",
+      "country_code": "MA",
+      "country_name": "Morocco"
     },
     {
       "source": "BBC US & Canada",
@@ -99,15 +117,6 @@
       "published_at": "2026-07-24T15:13:46Z",
       "country_code": "FR",
       "country_name": "France"
-    },
-    {
-      "source": "BBC Africa",
-      "title": "First person gets new experimental vaccine for Ebola",
-      "url": "https://www.bbc.co.uk/news/articles/c8jn007gmpzo?at_medium=RSS&at_campaign=rss",
-      "summary": "Ed Hunt, 37 and from the UK, voluteered after seeing news reports of the deadly Ebola outbreak in DR Congo.",
-      "published_at": "2026-07-24T14:43:51Z",
-      "country_code": "GB",
-      "country_name": "United Kingdom"
     },
     {
       "source": "BBC World",
@@ -901,6 +910,11 @@
       "news_count": 5
     },
     {
+      "country_code": "FR",
+      "country_name": "France",
+      "news_count": 5
+    },
+    {
       "country_code": "IR",
       "country_name": "Iran",
       "news_count": 5
@@ -909,11 +923,6 @@
       "country_code": "VE",
       "country_name": "Venezuela",
       "news_count": 5
-    },
-    {
-      "country_code": "FR",
-      "country_name": "France",
-      "news_count": 4
     },
     {
       "country_code": "NG",
@@ -926,14 +935,14 @@
       "news_count": 4
     },
     {
-      "country_code": "PS",
-      "country_name": "Palestine",
+      "country_code": "MA",
+      "country_name": "Morocco",
       "news_count": 3
     },
     {
-      "country_code": "GB",
-      "country_name": "United Kingdom",
-      "news_count": 2
+      "country_code": "PS",
+      "country_name": "Palestine",
+      "news_count": 3
     },
     {
       "country_code": "JP",
@@ -948,11 +957,6 @@
     {
       "country_code": "KR",
       "country_name": "South Korea",
-      "news_count": 2
-    },
-    {
-      "country_code": "MA",
-      "country_name": "Morocco",
       "news_count": 2
     },
     {
@@ -998,6 +1002,11 @@
     {
       "country_code": "DE",
       "country_name": "Germany",
+      "news_count": 1
+    },
+    {
+      "country_code": "GB",
+      "country_name": "United Kingdom",
       "news_count": 1
     },
     {
