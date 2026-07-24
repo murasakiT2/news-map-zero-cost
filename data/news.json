@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-07-24T18:18:56Z",
+  "generated_at": "2026-07-24T19:52:16Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Trump vows to investigate EU over fining of US tech companies",
+      "url": "https://www.bbc.co.uk/news/articles/cvgjenp4680o?at_medium=RSS&at_campaign=rss",
+      "summary": "The US president says fines against Google, as well as Apple, Meta and Amazon, should be \"entirely reversed.\"",
+      "published_at": "2026-07-24T18:57:39Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Ten killed in Russian attack on drone exhibition near Kyiv",
+      "url": "https://www.bbc.co.uk/news/articles/cj637zd1k1ko?at_medium=RSS&at_campaign=rss",
+      "summary": "The event, attended by prominent members of the Ukrainian defence industry, was hit by ballistic missiles in the middle of the day.",
+      "published_at": "2026-07-24T18:51:17Z",
+      "country_code": "UA",
+      "country_name": "Ukraine"
+    },
+    {
+      "source": "BBC World",
+      "title": "Four Palestinians and two Israelis killed in West Bank shooting",
+      "url": "https://www.bbc.co.uk/news/articles/cx2rxmye4k3o?at_medium=RSS&at_campaign=rss",
+      "summary": "Palestinians say villagers came under attack by settlers, while the Israeli military says a Palestinian stole a weapon and opened fire on hi…",
+      "published_at": "2026-07-24T18:19:23Z",
+      "country_code": "PS",
+      "country_name": "Palestine"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "US measles cases reach 35-year high",
+      "url": "https://www.bbc.co.uk/news/articles/c36dw75dkw5o?at_medium=RSS&at_campaign=rss",
+      "summary": "There have been 2,318 confirmed cases of the virus, higher than last year's total with five months to go.",
+      "published_at": "2026-07-24T18:18:30Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "US and Iran trade more strikes in Gulf as fears of escalation mount",
@@ -11,13 +47,13 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Europe",
-      "title": "Ten killed in Russian attack on drone exhibition near Kyiv",
-      "url": "https://www.bbc.co.uk/news/articles/cj637zd1k1ko?at_medium=RSS&at_campaign=rss",
-      "summary": "The event, attended by prominent members of the Ukrainian defence industry, was hit by ballistic missiles in the middle of the day.",
-      "published_at": "2026-07-24T18:02:44Z",
-      "country_code": "UA",
-      "country_name": "Ukraine"
+      "source": "BBC US & Canada",
+      "title": "Cyclospora outbreak expands to nine US states, health officials say",
+      "url": "https://www.bbc.co.uk/news/articles/cwyqgnp8wv8o?at_medium=RSS&at_campaign=rss",
+      "summary": "Federal investigators continue to search for the sources amid the largest number of reported cyclosporiasis cases in US history.",
+      "published_at": "2026-07-24T18:00:03Z",
+      "country_code": "US",
+      "country_name": "United States"
     },
     {
       "source": "BBC US & Canada",
@@ -27,15 +63,6 @@
       "published_at": "2026-07-24T17:49:11Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "Four Palestinians and two Israelis killed in West Bank shooting",
-      "url": "https://www.bbc.co.uk/news/articles/cx2rxmye4k3o?at_medium=RSS&at_campaign=rss",
-      "summary": "Palestinians say villagers came under attack by settlers, while the Israeli military says a Palestinian stole a weapon and opened fire on hi…",
-      "published_at": "2026-07-24T16:37:17Z",
-      "country_code": "PS",
-      "country_name": "Palestine"
     },
     {
       "source": "BBC World",
@@ -245,16 +272,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC US & Canada",
-      "title": "Lawmakers push for AI 'kill switch' after OpenAI models go rogue",
-      "url": "https://www.bbc.co.uk/news/articles/cx2vqj2e9x8o?at_medium=RSS&at_campaign=rss",
-      "summary": "A new bill would let the US government order the shutdown of AI models that pose a public threat.",
-      "published_at": "2026-07-23T20:58:35Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
+      "source": "BBC Middle East",
       "title": "Saudis must recognise Israel for nuclear deal, says Trump",
       "url": "https://www.bbc.co.uk/news/articles/cwye71yq8wwo?at_medium=RSS&at_campaign=rss",
       "summary": "The US president says the landmark agreement to help Saudis develop nuclear energy is dependent on it joining the Abraham Accords.",
@@ -687,15 +705,6 @@
     },
     {
       "source": "BBC Europe",
-      "title": "Russians turn to cash, putting more strain on slowing wartime economy",
-      "url": "https://www.bbc.co.uk/news/articles/cglj255jk8ko?at_medium=RSS&at_campaign=rss",
-      "summary": "Russians have been hit by mobile internet shutdowns and more businesses are seeking to dodge tax after more than four years of war with Ukra…",
-      "published_at": "2026-07-18T23:59:26Z",
-      "country_code": "UA",
-      "country_name": "Ukraine"
-    },
-    {
-      "source": "BBC Europe",
       "title": "Helicopters dump water as huge Norway fire destroys homes",
       "url": "https://www.bbc.co.uk/news/videos/c4gj5944n4ko?at_medium=RSS&at_campaign=rss",
       "summary": "The blaze has destroyed more than 100 homes in Drammen and has spread to a nearby forest, authorities say.",
@@ -888,7 +897,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 31
+      "news_count": 33
     },
     {
       "country_code": "IN",
@@ -906,11 +915,6 @@
       "news_count": 5
     },
     {
-      "country_code": "UA",
-      "country_name": "Ukraine",
-      "news_count": 5
-    },
-    {
       "country_code": "VE",
       "country_name": "Venezuela",
       "news_count": 5
@@ -923,6 +927,11 @@
     {
       "country_code": "NG",
       "country_name": "Nigeria",
+      "news_count": 4
+    },
+    {
+      "country_code": "UA",
+      "country_name": "Ukraine",
       "news_count": 4
     },
     {
