@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-24T19:52:16Z",
+  "generated_at": "2026-07-24T20:54:07Z",
   "articles": [
     {
       "source": "BBC World",
       "title": "Trump vows to investigate EU over fining of US tech companies",
       "url": "https://www.bbc.co.uk/news/articles/cvgjenp4680o?at_medium=RSS&at_campaign=rss",
       "summary": "The US president says fines against Google, as well as Apple, Meta and Amazon, should be \"entirely reversed.\"",
-      "published_at": "2026-07-24T18:57:39Z",
+      "published_at": "2026-07-24T20:23:58Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -479,15 +479,6 @@
       "country_name": "France"
     },
     {
-      "source": "BBC Europe",
-      "title": "Who is Mykhailo Drapatyi, Ukraine's new commander-in-chief?",
-      "url": "https://www.bbc.co.uk/news/articles/c93483k0lp1o?at_medium=RSS&at_campaign=rss",
-      "summary": "Drapatyi becomes Ukraine's third commander-in-chief since Russia's full-scale invasion in February 2022.",
-      "published_at": "2026-07-22T15:19:48Z",
-      "country_code": "RU",
-      "country_name": "Russia"
-    },
-    {
       "source": "BBC Africa",
       "title": "All you need to know about Wafcon 2026",
       "url": "https://www.bbc.co.uk/sport/football/articles/c89kd259jvyo?at_medium=RSS&at_campaign=rss",
@@ -940,11 +931,6 @@
       "news_count": 3
     },
     {
-      "country_code": "RU",
-      "country_name": "Russia",
-      "news_count": 3
-    },
-    {
       "country_code": "GB",
       "country_name": "United Kingdom",
       "news_count": 2
@@ -967,6 +953,11 @@
     {
       "country_code": "MA",
       "country_name": "Morocco",
+      "news_count": 2
+    },
+    {
+      "country_code": "RU",
+      "country_name": "Russia",
       "news_count": 2
     },
     {
