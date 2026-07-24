@@ -1,8 +1,62 @@
 {
-  "generated_at": "2026-07-24T15:19:27Z",
+  "generated_at": "2026-07-24T16:59:52Z",
   "articles": [
     {
-      "source": "BBC Europe",
+      "source": "BBC World",
+      "title": "Four Palestinians and two Israelis killed in West Bank shooting",
+      "url": "https://www.bbc.co.uk/news/articles/cx2rxmye4k3o?at_medium=RSS&at_campaign=rss",
+      "summary": "Palestinians say villagers came under attack by settlers, while the Israeli military says a Palestinian stole a weapon and opened fire on hi…",
+      "published_at": "2026-07-24T16:37:17Z",
+      "country_code": "PS",
+      "country_name": "Palestine"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "This new bridge aimed to show US-Canada unity but instead stoked divisions",
+      "url": "https://www.bbc.co.uk/news/articles/cewr57kd21vo?at_medium=RSS&at_campaign=rss",
+      "summary": "A bridge linking Michigan to Ontario is about to open but Canada disinvited US dignitaries from Friday's ceremony.",
+      "published_at": "2026-07-24T16:26:42Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "India cockroach protests: Videos show officers firing 'pellet guns'",
+      "url": "https://www.bbc.co.uk/news/videos/cgje5l292g2o?at_medium=RSS&at_campaign=rss",
+      "summary": "Thousands of people have taken to the streets in Delhi as part of the cockroach protests, calling for educational reforms.",
+      "published_at": "2026-07-24T16:12:34Z",
+      "country_code": "IN",
+      "country_name": "India"
+    },
+    {
+      "source": "BBC World",
+      "title": "World chess chief faces endgame after EU announces Russia war sanctions",
+      "url": "https://www.bbc.co.uk/news/articles/cewrk58k2k4o?at_medium=RSS&at_campaign=rss",
+      "summary": "Arkady Dvorkovich, a former Russian deputy prime minister, now faces an EU travel ban and asset freeze.",
+      "published_at": "2026-07-24T16:08:51Z",
+      "country_code": "RU",
+      "country_name": "Russia"
+    },
+    {
+      "source": "BBC World",
+      "title": "Nigeria's president approves largest military expansion in recent times",
+      "url": "https://www.bbc.co.uk/news/articles/cwymjx3nrxvo?at_medium=RSS&at_campaign=rss",
+      "summary": "The government is under intense pressure to tackle a slew of armed groups, many of whom attack civilians.",
+      "published_at": "2026-07-24T15:22:56Z",
+      "country_code": "NG",
+      "country_name": "Nigeria"
+    },
+    {
+      "source": "BBC World",
+      "title": "US and Iran trade more strikes in Gulf as fears of escalation mount",
+      "url": "https://www.bbc.co.uk/news/articles/c05ql5llj4do?at_medium=RSS&at_campaign=rss",
+      "summary": "It comes as Iran condemned the US plan to use frozen Iranian assets to pay for war damages.",
+      "published_at": "2026-07-24T15:22:40Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
       "title": "Watch: Wildfires rage across Spain and France",
       "url": "https://www.bbc.co.uk/news/videos/cz641jd4p4lo?at_medium=RSS&at_campaign=rss",
       "summary": "Spain's government declares national emergency as French authorities order evacuations in tourist hot spot.",
@@ -20,15 +74,6 @@
       "country_name": "Ukraine"
     },
     {
-      "source": "BBC World",
-      "title": "Tens of thousands evacuated from French tourist spot and near Madrid as wildfires spread",
-      "url": "https://www.bbc.co.uk/news/articles/cdx82rl5g0do?at_medium=RSS&at_campaign=rss",
-      "summary": "The fire has raged in the region for several days with officials now ordering the evacuation of the entire Cap Ferret peninsula.",
-      "published_at": "2026-07-24T14:59:24Z",
-      "country_code": "ES",
-      "country_name": "Spain"
-    },
-    {
       "source": "BBC Africa",
       "title": "First person gets new experimental vaccine for Ebola",
       "url": "https://www.bbc.co.uk/news/articles/c8jn007gmpzo?at_medium=RSS&at_campaign=rss",
@@ -36,24 +81,6 @@
       "published_at": "2026-07-24T14:43:51Z",
       "country_code": "GB",
       "country_name": "United Kingdom"
-    },
-    {
-      "source": "BBC World",
-      "title": "Four Palestinians and two Israelis killed in West Bank shooting",
-      "url": "https://www.bbc.co.uk/news/articles/cx2rxmye4k3o?at_medium=RSS&at_campaign=rss",
-      "summary": "Palestinians say villagers came under attack by settlers, while the Israeli military says a Palestinian stole a weapon and opened fire on hi…",
-      "published_at": "2026-07-24T14:41:32Z",
-      "country_code": "PS",
-      "country_name": "Palestine"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "'Everything on the table' including retaliation as Canada plans response to US tariffs",
-      "url": "https://www.bbc.co.uk/news/articles/cgmkye80xg1o?at_medium=RSS&at_campaign=rss",
-      "summary": "Prime Minister Mark Carney says trade talks with Washington are intensifying ahead of the new US tariffs coming into effect in August.",
-      "published_at": "2026-07-24T13:58:34Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC World",
@@ -101,7 +128,7 @@
       "country_name": "India"
     },
     {
-      "source": "BBC US & Canada",
+      "source": "BBC World",
       "title": "Watch: Another day, more Trump tariffs - but are they working?",
       "url": "https://www.bbc.co.uk/news/videos/c5yw2xgnv2jo?at_medium=RSS&at_campaign=rss",
       "summary": "The BBC's Samira Hussain explains how President Trump's tariffs affect US economy, who pays the price, and whether they're working.",
@@ -126,15 +153,6 @@
       "published_at": "2026-07-24T09:33:22Z",
       "country_code": "DE",
       "country_name": "Germany"
-    },
-    {
-      "source": "BBC World",
-      "title": "US and Iran trade more strikes in Gulf as fears of escalation mount",
-      "url": "https://www.bbc.co.uk/news/articles/c05ql5llj4do?at_medium=RSS&at_campaign=rss",
-      "summary": "It comes as Iran condemned the US plan to use frozen Iranian assets to pay for war damages.",
-      "published_at": "2026-07-24T09:20:07Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC World",
@@ -164,16 +182,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC US & Canada",
-      "title": "This new bridge aimed to show US-Canada unity but instead stoked divisions",
-      "url": "https://www.bbc.co.uk/news/articles/cewr57kd21vo?at_medium=RSS&at_campaign=rss",
-      "summary": "A bridge linking Michigan to Ontario is about to open but Canada has disinvited US dignitaries from the ceremony.",
-      "published_at": "2026-07-24T05:56:55Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC Latin America",
+      "source": "BBC World",
       "title": "Families still search for bodies a month after Venezuela earthquakes",
       "url": "https://www.bbc.co.uk/news/videos/cwylplxk8nko?at_medium=RSS&at_campaign=rss",
       "summary": "Officials say the death toll has surpassed 5,300, though estimates of the number still missing could be as high as 50,000.",
@@ -245,15 +254,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Africa",
-      "title": "Three men sentenced to life in jail over Nigeria school kidnappings",
-      "url": "https://www.bbc.co.uk/news/articles/cx2m5618v7yo?at_medium=RSS&at_campaign=rss",
-      "summary": "They admitted to concealing information and being members of an Islamist militant group.",
-      "published_at": "2026-07-23T20:31:41Z",
-      "country_code": "NG",
-      "country_name": "Nigeria"
-    },
-    {
       "source": "BBC World",
       "title": "Saudis must recognise Israel for nuclear deal, says Trump",
       "url": "https://www.bbc.co.uk/news/articles/cwye71yq8wwo?at_medium=RSS&at_campaign=rss",
@@ -263,7 +263,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "Ukraine's ousted defence minister insists on being reinstated",
       "url": "https://www.bbc.co.uk/news/articles/ce97nm53pgxo?at_medium=RSS&at_campaign=rss",
       "summary": "Mykhailo Fedorov refuses President Zelensky's offer to accept an alternative post, as the battle of wills continues.",
@@ -291,24 +291,6 @@
     },
     {
       "source": "BBC World",
-      "title": "Ex-governor convicted of murdering a pregnant student in Kenya",
-      "url": "https://www.bbc.co.uk/news/articles/cvg9l039ljyo?at_medium=RSS&at_campaign=rss",
-      "summary": "Okoth Obado was found guilty of killing Sharon Otieno with whom he had had an affair.",
-      "published_at": "2026-07-23T16:07:24Z",
-      "country_code": "KE",
-      "country_name": "Kenya"
-    },
-    {
-      "source": "BBC World",
-      "title": "Ghanaians' ICC petition over migrant attacks 'opportunistic', says South Africa",
-      "url": "https://www.bbc.co.uk/news/articles/cp87qejzy8go?at_medium=RSS&at_campaign=rss",
-      "summary": "The petition argues the violence against migrants in South Africa could amount to crimes against humanity.",
-      "published_at": "2026-07-23T13:44:19Z",
-      "country_code": "ZA",
-      "country_name": "South Africa"
-    },
-    {
-      "source": "BBC World",
       "title": "Trump's nuclear deal with Saudis jettisons longstanding US demands",
       "url": "https://www.bbc.co.uk/news/articles/cz05lx0xpero?at_medium=RSS&at_campaign=rss",
       "summary": "Signing a nuclear pact in the Middle East is a bold move that has drawn criticism in the US and in Israel.",
@@ -326,7 +308,7 @@
       "country_name": "India"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "South Korea woman acquitted of murdering newborn after hospital delivery",
       "url": "https://www.bbc.co.uk/news/articles/cwyrj7ww1gko?at_medium=RSS&at_campaign=rss",
       "summary": "The woman, who had wanted to end her pregnancy at 36 weeks, gave birth to a baby who doctors later killed.",
@@ -353,7 +335,7 @@
       "country_name": "Spain"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "Russia's businesses under strain from Ukraine's attacks on Wildberries",
       "url": "https://www.bbc.co.uk/news/articles/cvg9n2y61w6o?at_medium=RSS&at_campaign=rss",
       "summary": "Ukrainian drones have hit several retail warehouses belonging to Russia's biggest online retailer Wildberries in a matter of days.",
@@ -362,7 +344,7 @@
       "country_name": "Russia"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "Blocked by censors, China's animal lovers take fight against abuse offline and overseas",
       "url": "https://www.bbc.co.uk/news/articles/cqx7wd3x420o?at_medium=RSS&at_campaign=rss",
       "summary": "The killing of a dog and her puppies in Guangdong has sparked outrage inside and outside the country.",
@@ -380,7 +362,7 @@
       "country_name": "Iran"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "Canada's 'powerful' dairy sector is in Trump's trade crosshairs",
       "url": "https://www.bbc.co.uk/news/articles/ce8kvm84lxmo?at_medium=RSS&at_campaign=rss",
       "summary": "Canada's industry is in the spotlight after the US president singled it out as one of three main irritants used to justify new tariffs.",
@@ -443,7 +425,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Latin America",
       "title": "Fire kills 10 members of same family in Peru, police say",
       "url": "https://www.bbc.co.uk/news/articles/cm2g11ng7j2o?at_medium=RSS&at_campaign=rss",
       "summary": "Authorities are investigating the cause of the blaze in Lima as local media report it may have been arson.",
@@ -466,15 +448,6 @@
       "url": "https://www.bbc.co.uk/news/articles/cr5936455gmo?at_medium=RSS&at_campaign=rss",
       "summary": "Maduro and his wife, who were seized and bought to the US earlier this year, deny the weapons and drug charges against them.",
       "published_at": "2026-07-22T17:59:40Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "Mamdani backs off pledge to arrest Netanyahu citing lack of authority",
-      "url": "https://www.bbc.co.uk/news/articles/c204p64pqzno?at_medium=RSS&at_campaign=rss",
-      "summary": "The New York City mayor instead called on US authorities to act on International Criminal Court's arrest warrant against the Israeli prime m…",
-      "published_at": "2026-07-22T17:54:57Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -732,15 +705,6 @@
     },
     {
       "source": "BBC Africa",
-      "title": "Inside rugby's greatest production factory",
-      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cwym77z8gl9o?at_medium=RSS&at_campaign=rss",
-      "summary": "On Saturday Wales face South Africa - a nation who never seem to run out of international-class players. Are there lessons the tourists can …",
-      "published_at": "2026-07-17T11:36:48Z",
-      "country_code": "ZA",
-      "country_name": "South Africa"
-    },
-    {
-      "source": "BBC Africa",
       "title": "Former 'street kid' key to South Africa's police corruption inquiry",
       "url": "https://www.bbc.co.uk/news/articles/cpq3q75y40do?at_medium=RSS&at_campaign=rss",
       "summary": "Vusimusi \"Cat\" Matlala, due to appear at the Madlanga Commission, grew up hustling to make a living.",
@@ -924,17 +888,17 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 33
+      "news_count": 31
     },
     {
       "country_code": "IN",
       "country_name": "India",
-      "news_count": 7
+      "news_count": 8
     },
     {
       "country_code": "ES",
       "country_name": "Spain",
-      "news_count": 6
+      "news_count": 5
     },
     {
       "country_code": "IR",
@@ -962,18 +926,13 @@
       "news_count": 4
     },
     {
-      "country_code": "ZA",
-      "country_name": "South Africa",
-      "news_count": 4
-    },
-    {
-      "country_code": "KE",
-      "country_name": "Kenya",
+      "country_code": "PS",
+      "country_name": "Palestine",
       "news_count": 3
     },
     {
-      "country_code": "PS",
-      "country_name": "Palestine",
+      "country_code": "RU",
+      "country_name": "Russia",
       "news_count": 3
     },
     {
@@ -987,6 +946,11 @@
       "news_count": 2
     },
     {
+      "country_code": "KE",
+      "country_name": "Kenya",
+      "news_count": 2
+    },
+    {
       "country_code": "KR",
       "country_name": "South Korea",
       "news_count": 2
@@ -997,8 +961,8 @@
       "news_count": 2
     },
     {
-      "country_code": "RU",
-      "country_name": "Russia",
+      "country_code": "ZA",
+      "country_name": "South Africa",
       "news_count": 2
     },
     {
