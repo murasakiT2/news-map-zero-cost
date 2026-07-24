@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-07-24T21:54:38Z",
+  "generated_at": "2026-07-24T22:52:12Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Four Palestinians and two Israelis killed in West Bank shooting",
+      "url": "https://www.bbc.co.uk/news/articles/cx2rxmye4k3o?at_medium=RSS&at_campaign=rss",
+      "summary": "Palestinians say villagers came under attack by settlers, while the Israeli military says a Palestinian stole a weapon and opened fire on hi…",
+      "published_at": "2026-07-24T22:49:59Z",
+      "country_code": "PS",
+      "country_name": "Palestine"
+    },
     {
       "source": "BBC World",
       "title": "Firefighters struggle to contain Madrid wildfires, as more than 140,000 evacuated in France and Spain",
@@ -27,15 +36,6 @@
       "published_at": "2026-07-24T18:51:17Z",
       "country_code": "UA",
       "country_name": "Ukraine"
-    },
-    {
-      "source": "BBC World",
-      "title": "Four Palestinians and two Israelis killed in West Bank shooting",
-      "url": "https://www.bbc.co.uk/news/articles/cx2rxmye4k3o?at_medium=RSS&at_campaign=rss",
-      "summary": "Palestinians say villagers came under attack by settlers, while the Israeli military says a Palestinian stole a weapon and opened fire on hi…",
-      "published_at": "2026-07-24T18:19:23Z",
-      "country_code": "PS",
-      "country_name": "Palestine"
     },
     {
       "source": "BBC Africa",
@@ -369,15 +369,6 @@
       "published_at": "2026-07-23T06:15:35Z",
       "country_code": "RU",
       "country_name": "Russia"
-    },
-    {
-      "source": "BBC Asia",
-      "title": "Blocked by censors, China's animal lovers take fight against abuse offline and overseas",
-      "url": "https://www.bbc.co.uk/news/articles/cqx7wd3x420o?at_medium=RSS&at_campaign=rss",
-      "summary": "The killing of a dog and her puppies in Guangdong has sparked outrage inside and outside the country.",
-      "published_at": "2026-07-23T05:46:09Z",
-      "country_code": "CN",
-      "country_name": "China"
     },
     {
       "source": "BBC World",
@@ -992,11 +983,6 @@
     {
       "country_code": "CL",
       "country_name": "Chile",
-      "news_count": 1
-    },
-    {
-      "country_code": "CN",
-      "country_name": "China",
       "news_count": 1
     },
     {
