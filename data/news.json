@@ -1,14 +1,50 @@
 {
-  "generated_at": "2026-07-23T23:50:44Z",
+  "generated_at": "2026-07-24T01:43:56Z",
   "articles": [
     {
-      "source": "BBC US & Canada",
+      "source": "BBC World",
       "title": "US imposes tariffs on dozens of trade partners over 'forced labour' imports",
       "url": "https://www.bbc.co.uk/news/articles/cvgj61j6l08o?at_medium=RSS&at_campaign=rss",
       "summary": "The tariffs target around 60 trading partners over claims they failed to properly stop forced labour.",
-      "published_at": "2026-07-23T23:03:29Z",
+      "published_at": "2026-07-24T00:40:26Z",
       "country_code": "US",
       "country_name": "United States"
+    },
+    {
+      "source": "BBC Asia",
+      "title": "China's Moonshot AI stole from Anthropic, Trump tech adviser says",
+      "url": "https://www.bbc.co.uk/news/articles/c5ye2gyz0x4o?at_medium=RSS&at_campaign=rss",
+      "summary": "The allegations come as Chinese AI companies are facing increased US government scrutiny.",
+      "published_at": "2026-07-23T23:50:38Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "CJP protest: The youth movement India's Modi didn't see coming",
+      "url": "https://www.bbc.co.uk/news/articles/c07rgpxe51no?at_medium=RSS&at_campaign=rss",
+      "summary": "The CJP protest began with exam paper leaks. It became India's biggest student movement in years - why?",
+      "published_at": "2026-07-23T23:41:32Z",
+      "country_code": "IN",
+      "country_name": "India"
+    },
+    {
+      "source": "BBC World",
+      "title": "Indonesian babies were trafficked to Singapore. What happens to them now?",
+      "url": "https://www.bbc.co.uk/news/articles/c7vgeredvlgo?at_medium=RSS&at_campaign=rss",
+      "summary": "At least 12 babies have been trafficked from Indonesia to Singapore, but what will happen to them remains unclear.",
+      "published_at": "2026-07-23T23:19:58Z",
+      "country_code": "ID",
+      "country_name": "Indonesia"
+    },
+    {
+      "source": "BBC World",
+      "title": "Could you run a country on just three hours of sleep? Japan's PM says she does",
+      "url": "https://www.bbc.co.uk/news/videos/cz05l8ndy0mo?at_medium=RSS&at_campaign=rss",
+      "summary": "Japan’s prime minister Sanae Takaichi says she survives on zero to three hours a night, and people are reacting.",
+      "published_at": "2026-07-23T22:03:09Z",
+      "country_code": "JP",
+      "country_name": "Japan"
     },
     {
       "source": "BBC US & Canada",
@@ -92,7 +128,7 @@
       "country_name": "Iran"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Middle East",
       "title": "Yemen's Houthis attack Saudi tanker as US launches more Iran strikes",
       "url": "https://www.bbc.co.uk/news/articles/cpw9xzx9r4ko?at_medium=RSS&at_campaign=rss",
       "summary": "The Iran-backed group, which previously announced a \"maritime embargo\" against Saudi Arabia, also claims to have hit another vessel.",
@@ -189,15 +225,6 @@
       "published_at": "2026-07-23T04:49:24Z",
       "country_code": "IR",
       "country_name": "Iran"
-    },
-    {
-      "source": "BBC Asia",
-      "title": "China's Moonshot AI stole from Anthropic, Trump tech adviser says",
-      "url": "https://www.bbc.co.uk/news/articles/c5ye2gyz0x4o?at_medium=RSS&at_campaign=rss",
-      "summary": "The allegations come as Chinese AI companies are facing increased US government scrutiny.",
-      "published_at": "2026-07-23T01:52:10Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC World",
@@ -353,7 +380,7 @@
       "country_name": "India"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "Watch: Beluga whales travel by plane and lorry to US from closed Canadian marine park",
       "url": "https://www.bbc.co.uk/news/videos/ckg4x8lpe50o?at_medium=RSS&at_campaign=rss",
       "summary": "Six beluga whales have arrived in Illinois and Texas after being moved from a Canadian marine park that could no longer care for them.",
@@ -846,13 +873,13 @@
       "news_count": 29
     },
     {
-      "country_code": "ES",
-      "country_name": "Spain",
-      "news_count": 6
-    },
-    {
       "country_code": "IN",
       "country_name": "India",
+      "news_count": 7
+    },
+    {
+      "country_code": "ES",
+      "country_name": "Spain",
       "news_count": 6
     },
     {
@@ -906,6 +933,11 @@
       "news_count": 2
     },
     {
+      "country_code": "JP",
+      "country_name": "Japan",
+      "news_count": 2
+    },
+    {
       "country_code": "MA",
       "country_name": "Morocco",
       "news_count": 2
@@ -941,13 +973,13 @@
       "news_count": 1
     },
     {
-      "country_code": "IT",
-      "country_name": "Italy",
+      "country_code": "ID",
+      "country_name": "Indonesia",
       "news_count": 1
     },
     {
-      "country_code": "JP",
-      "country_name": "Japan",
+      "country_code": "IT",
+      "country_name": "Italy",
       "news_count": 1
     },
     {
