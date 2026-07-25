@@ -1,15 +1,6 @@
 {
-  "generated_at": "2026-07-25T22:22:17Z",
+  "generated_at": "2026-07-25T23:26:12Z",
   "articles": [
-    {
-      "source": "BBC World",
-      "title": "Several injured at Berlin Pride after reports vehicle drove into crowd, police say",
-      "url": "https://www.bbc.co.uk/news/articles/clyqzylz3zno?at_medium=RSS&at_campaign=rss",
-      "summary": "Police say an intensive manhunt is under way after the incident in Berlin's city centre.",
-      "published_at": "2026-07-25T21:33:00Z",
-      "country_code": "DE",
-      "country_name": "Germany"
-    },
     {
       "source": "BBC World",
       "title": "India's 'cockroach' protest called off after education minister quits",
@@ -281,7 +272,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Middle East",
       "title": "Houthi attacks raise fears of wider Middle East conflict and more global economic damage",
       "url": "https://www.bbc.co.uk/news/articles/cvgve0vxy1yo?at_medium=RSS&at_campaign=rss",
       "summary": "The Iran-backed group in Yemen has threatened to target Saudi vessels in a vital shipping route.",
@@ -954,11 +945,6 @@
       "news_count": 3
     },
     {
-      "country_code": "DE",
-      "country_name": "Germany",
-      "news_count": 2
-    },
-    {
       "country_code": "JP",
       "country_name": "Japan",
       "news_count": 2
@@ -1001,6 +987,11 @@
     {
       "country_code": "CL",
       "country_name": "Chile",
+      "news_count": 1
+    },
+    {
+      "country_code": "DE",
+      "country_name": "Germany",
       "news_count": 1
     },
     {
