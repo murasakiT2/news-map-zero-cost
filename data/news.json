@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-07-24T23:54:32Z",
+  "generated_at": "2026-07-25T01:44:05Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Firefighters struggle to contain Madrid wildfires, as more than 160,000 evacuated in France and Spain",
+      "url": "https://www.bbc.co.uk/news/articles/czjlenp0xk8o?at_medium=RSS&at_campaign=rss",
+      "summary": "Authorities face the \"worst fire in the history of the region\", Madrid officials say, as French firefighters battle a blaze heading towards …",
+      "published_at": "2026-07-25T01:23:39Z",
+      "country_code": "FR",
+      "country_name": "France"
+    },
+    {
+      "source": "BBC World",
+      "title": "Ten killed in Russian attack on drone exhibition near Kyiv",
+      "url": "https://www.bbc.co.uk/news/articles/cj637zd1k1ko?at_medium=RSS&at_campaign=rss",
+      "summary": "The event, attended by prominent members of the Ukrainian defence industry, was hit by ballistic missiles in the middle of the day.",
+      "published_at": "2026-07-25T00:06:53Z",
+      "country_code": "UA",
+      "country_name": "Ukraine"
+    },
     {
       "source": "BBC World",
       "title": "Four Palestinians and two Israelis killed in West Bank shooting",
@@ -12,30 +30,12 @@
     },
     {
       "source": "BBC World",
-      "title": "Firefighters struggle to contain Madrid wildfires, as more than 140,000 evacuated in France and Spain",
-      "url": "https://www.bbc.co.uk/news/articles/czjlenp0xk8o?at_medium=RSS&at_campaign=rss",
-      "summary": "Authorities face the \"worst fire in the history of the region\", Madrid officials say, as French firefighters battle a blaze heading towards …",
-      "published_at": "2026-07-24T21:47:16Z",
-      "country_code": "FR",
-      "country_name": "France"
-    },
-    {
-      "source": "BBC World",
       "title": "Trump vows to investigate EU over fining of US tech companies",
       "url": "https://www.bbc.co.uk/news/articles/cvgjenp4680o?at_medium=RSS&at_campaign=rss",
       "summary": "The US president says fines against Google, as well as Apple, Meta and Amazon, should be \"entirely reversed.\"",
       "published_at": "2026-07-24T20:23:58Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "Ten killed in Russian attack on drone exhibition near Kyiv",
-      "url": "https://www.bbc.co.uk/news/articles/cj637zd1k1ko?at_medium=RSS&at_campaign=rss",
-      "summary": "The event, attended by prominent members of the Ukrainian defence industry, was hit by ballistic missiles in the middle of the day.",
-      "published_at": "2026-07-24T18:51:17Z",
-      "country_code": "UA",
-      "country_name": "Ukraine"
     },
     {
       "source": "BBC Africa",
@@ -423,15 +423,6 @@
       "published_at": "2026-07-22T22:16:07Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "A year after deadly jet crash at Bangladesh school, families demand answers",
-      "url": "https://www.bbc.co.uk/news/articles/cx2j7jgg1z1o?at_medium=RSS&at_campaign=rss",
-      "summary": "This week marks one year since a military jet struck a school in Dhaka, killing 36, most of them children.",
-      "published_at": "2026-07-22T22:04:07Z",
-      "country_code": "BD",
-      "country_name": "Bangladesh"
     },
     {
       "source": "BBC Europe",
@@ -963,11 +954,6 @@
     {
       "country_code": "AU",
       "country_name": "Australia",
-      "news_count": 1
-    },
-    {
-      "country_code": "BD",
-      "country_name": "Bangladesh",
       "news_count": 1
     },
     {
