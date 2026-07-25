@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-07-25T21:13:50Z",
+  "generated_at": "2026-07-25T22:22:17Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Several injured at Berlin Pride after reports vehicle drove into crowd, police say",
+      "url": "https://www.bbc.co.uk/news/articles/clyqzylz3zno?at_medium=RSS&at_campaign=rss",
+      "summary": "Police say an intensive manhunt is under way after the incident in Berlin's city centre.",
+      "published_at": "2026-07-25T21:33:00Z",
+      "country_code": "DE",
+      "country_name": "Germany"
+    },
     {
       "source": "BBC World",
       "title": "India's 'cockroach' protest called off after education minister quits",
@@ -378,15 +387,6 @@
       "published_at": "2026-07-23T09:17:50Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC Europe",
-      "title": "Ruiz & Gavi's reward for win... 150kg of tomatoes",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cvg840jye74o?at_medium=RSS&at_campaign=rss",
-      "summary": "Spain's Fabian Ruiz and Gavi receive their body weight in tomatoes when they return to their hometown Los Palacios y Villafranca.",
-      "published_at": "2026-07-23T07:54:03Z",
-      "country_code": "ES",
-      "country_name": "Spain"
     },
     {
       "source": "BBC Europe",
@@ -919,11 +919,6 @@
       "news_count": 6
     },
     {
-      "country_code": "ES",
-      "country_name": "Spain",
-      "news_count": 5
-    },
-    {
       "country_code": "IR",
       "country_name": "Iran",
       "news_count": 5
@@ -932,6 +927,11 @@
       "country_code": "VE",
       "country_name": "Venezuela",
       "news_count": 5
+    },
+    {
+      "country_code": "ES",
+      "country_name": "Spain",
+      "news_count": 4
     },
     {
       "country_code": "NG",
@@ -952,6 +952,11 @@
       "country_code": "PS",
       "country_name": "Palestine",
       "news_count": 3
+    },
+    {
+      "country_code": "DE",
+      "country_name": "Germany",
+      "news_count": 2
     },
     {
       "country_code": "JP",
@@ -996,11 +1001,6 @@
     {
       "country_code": "CL",
       "country_name": "Chile",
-      "news_count": 1
-    },
-    {
-      "country_code": "DE",
-      "country_name": "Germany",
       "news_count": 1
     },
     {
