@@ -1,14 +1,32 @@
 {
-  "generated_at": "2026-07-25T01:44:05Z",
+  "generated_at": "2026-07-25T04:55:27Z",
   "articles": [
     {
       "source": "BBC World",
-      "title": "Firefighters struggle to contain Madrid wildfires, as more than 160,000 evacuated in France and Spain",
+      "title": "Saudi Arabia and Houthis exchange fire as US attacks tanker in Hormuz Strait",
+      "url": "https://www.bbc.co.uk/news/articles/cj9d27v70j1o?at_medium=RSS&at_campaign=rss",
+      "summary": "US military says it disabled a tanker that was attempting to evade the American blockade on Iranian ports.",
+      "published_at": "2026-07-25T04:48:40Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "More than 220,000 evacuated in France and Spain due to wildfires",
       "url": "https://www.bbc.co.uk/news/articles/czjlenp0xk8o?at_medium=RSS&at_campaign=rss",
-      "summary": "Authorities face the \"worst fire in the history of the region\", Madrid officials say, as French firefighters battle a blaze heading towards …",
-      "published_at": "2026-07-25T01:23:39Z",
+      "summary": "French firefighters battle a blaze heading towards Bordeaux while officials in Madrid say they face the \"worst fire in the history of the re…",
+      "published_at": "2026-07-25T02:29:36Z",
       "country_code": "FR",
       "country_name": "France"
+    },
+    {
+      "source": "BBC World",
+      "title": "Trump orders Smithsonian to post warnings about 'inaccurate' US history",
+      "url": "https://www.bbc.co.uk/news/articles/c1w10gwnj74o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Trump administration has often accused the world's largest research museum of harbouring an anti-American bias.",
+      "published_at": "2026-07-25T02:23:09Z",
+      "country_code": "US",
+      "country_name": "United States"
     },
     {
       "source": "BBC World",
@@ -155,7 +173,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "India's 'cockroach' protesters hold talks with government as stalemate continues",
       "url": "https://www.bbc.co.uk/news/articles/cjwx4x04yqzo?at_medium=RSS&at_campaign=rss",
       "summary": "The meeting came hours after activist Sonam Wangchuk announced he was ending his 26-day hunger strike.",
@@ -191,7 +209,7 @@
       "country_name": "Germany"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "Tech titan ordered to pay ex-wife $644m in divorce settlement",
       "url": "https://www.bbc.co.uk/news/articles/ckg68jky65eo?at_medium=RSS&at_campaign=rss",
       "summary": "The divorce, involving the chairman of one of South Korea's biggest companies, has gripped the nation.",
@@ -317,7 +335,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "Trump's nuclear deal with Saudis jettisons longstanding US demands",
       "url": "https://www.bbc.co.uk/news/articles/cz05lx0xpero?at_medium=RSS&at_campaign=rss",
       "summary": "Signing a nuclear pact in the Middle East is a bold move that has drawn criticism in the US and in Israel.",
@@ -879,7 +897,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 33
+      "news_count": 35
     },
     {
       "country_code": "IN",
