@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-07-25T16:44:10Z",
+  "generated_at": "2026-07-25T17:49:22Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "India's 'cockroach' protest called off after education minister quits",
+      "url": "https://www.bbc.co.uk/news/articles/cdx828gj5xko?at_medium=RSS&at_campaign=rss",
+      "summary": "The CJP protest has been the most visible expression of public anger against PM Narendra Modi's government in recent years.",
+      "published_at": "2026-07-25T17:44:46Z",
+      "country_code": "IN",
+      "country_name": "India"
+    },
+    {
+      "source": "BBC World",
+      "title": "More than 250,000 flee wildfires in France and Spain",
+      "url": "https://www.bbc.co.uk/news/articles/cd7le0d53y2o?at_medium=RSS&at_campaign=rss",
+      "summary": "Spain's PM warns of \"complex hours\" ahead as authorities in France say they are far from bringing blazes burning near Bordeaux under control…",
+      "published_at": "2026-07-25T17:13:40Z",
+      "country_code": "FR",
+      "country_name": "France"
+    },
     {
       "source": "BBC World",
       "title": "Protesters celebrate resignation of India's education minister",
@@ -893,16 +911,16 @@
     {
       "country_code": "IN",
       "country_name": "India",
-      "news_count": 8
-    },
-    {
-      "country_code": "ES",
-      "country_name": "Spain",
-      "news_count": 5
+      "news_count": 9
     },
     {
       "country_code": "FR",
       "country_name": "France",
+      "news_count": 6
+    },
+    {
+      "country_code": "ES",
+      "country_name": "Spain",
       "news_count": 5
     },
     {
