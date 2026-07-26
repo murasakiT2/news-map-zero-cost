@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-07-26T09:33:33Z",
+  "generated_at": "2026-07-26T11:12:38Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Israeli settlers set fire to mosques, cars and farm land in West Bank, Palestinians say",
+      "url": "https://www.bbc.co.uk/news/articles/cjrv77gl4deo?at_medium=RSS&at_campaign=rss",
+      "summary": "The latest attacks come two days after a clash between settlers and Palestinians near the village of Tell, which left four Palestinians and …",
+      "published_at": "2026-07-26T10:26:05Z",
+      "country_code": "PS",
+      "country_name": "Palestine"
+    },
     {
       "source": "BBC World",
       "title": "What we know so far about the Berlin Pride ramming attack",
@@ -898,6 +907,11 @@
       "news_count": 4
     },
     {
+      "country_code": "PS",
+      "country_name": "Palestine",
+      "news_count": 4
+    },
+    {
       "country_code": "DE",
       "country_name": "Germany",
       "news_count": 3
@@ -905,11 +919,6 @@
     {
       "country_code": "MA",
       "country_name": "Morocco",
-      "news_count": 3
-    },
-    {
-      "country_code": "PS",
-      "country_name": "Palestine",
       "news_count": 3
     },
     {
