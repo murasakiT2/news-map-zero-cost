@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-07-26T18:54:47Z",
+  "generated_at": "2026-07-26T20:03:19Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Berlin Pride attack suspect shot and killed during police operation",
+      "url": "https://www.bbc.co.uk/news/articles/c62eg899l99o?at_medium=RSS&at_campaign=rss",
+      "summary": "Police say Abdul Ballout was shot and killed after he rushed at officers with a knife in a western borough of Berlin.",
+      "published_at": "2026-07-26T19:21:26Z",
+      "country_code": "DE",
+      "country_name": "Germany"
+    },
     {
       "source": "BBC World",
       "title": "Firefighters battle wildfire as tens of thousands evacuated near Bordeaux",
@@ -893,6 +902,11 @@
       "news_count": 5
     },
     {
+      "country_code": "DE",
+      "country_name": "Germany",
+      "news_count": 4
+    },
+    {
       "country_code": "NG",
       "country_name": "Nigeria",
       "news_count": 4
@@ -901,11 +915,6 @@
       "country_code": "PS",
       "country_name": "Palestine",
       "news_count": 4
-    },
-    {
-      "country_code": "DE",
-      "country_name": "Germany",
-      "news_count": 3
     },
     {
       "country_code": "MA",
