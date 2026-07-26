@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-07-26T21:23:06Z",
+  "generated_at": "2026-07-26T22:26:10Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "PM pledges continued support for Ukraine ahead of Zelensky visit",
+      "url": "https://www.bbc.co.uk/news/articles/cy8me5vyjg2o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Ukrainian president will be Andy Burnham's first international visitor since taking office.",
+      "published_at": "2026-07-26T21:30:20Z",
+      "country_code": "UA",
+      "country_name": "Ukraine"
+    },
+    {
+      "source": "BBC World",
+      "title": "Israeli settlers set fire to mosques, cars and farm land in West Bank, Palestinians say",
+      "url": "https://www.bbc.co.uk/news/articles/cjrv77gl4deo?at_medium=RSS&at_campaign=rss",
+      "summary": "The latest attacks come two days after a clash between settlers and Palestinians near the village of Tal, which left four Palestinians and t…",
+      "published_at": "2026-07-26T21:23:53Z",
+      "country_code": "PS",
+      "country_name": "Palestine"
+    },
     {
       "source": "BBC US & Canada",
       "title": "Trump paused attacks on Iran to make space for talks, US ambassador says",
@@ -36,15 +54,6 @@
       "published_at": "2026-07-26T18:40:08Z",
       "country_code": "FR",
       "country_name": "France"
-    },
-    {
-      "source": "BBC World",
-      "title": "Israeli settlers set fire to mosques, cars and farm land in West Bank, Palestinians say",
-      "url": "https://www.bbc.co.uk/news/articles/cjrv77gl4deo?at_medium=RSS&at_campaign=rss",
-      "summary": "The latest attacks come two days after a clash between settlers and Palestinians near the village of Tell, which left four Palestinians and …",
-      "published_at": "2026-07-26T10:26:05Z",
-      "country_code": "PS",
-      "country_name": "Palestine"
     },
     {
       "source": "BBC World",
@@ -182,7 +191,7 @@
       "country_name": "India"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "World chess chief faces endgame after EU announces Russia war sanctions",
       "url": "https://www.bbc.co.uk/news/articles/cewrk58k2k4o?at_medium=RSS&at_campaign=rss",
       "summary": "Arkady Dvorkovich, a former Russian deputy prime minister, now faces an EU travel ban and asset freeze.",
@@ -191,7 +200,7 @@
       "country_name": "Russia"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Africa",
       "title": "Nigeria's president approves largest military expansion in recent times",
       "url": "https://www.bbc.co.uk/news/articles/cwymjx3nrxvo?at_medium=RSS&at_campaign=rss",
       "summary": "The government is under intense pressure to tackle a slew of armed groups, many of whom attack civilians.",
@@ -216,15 +225,6 @@
       "published_at": "2026-07-24T13:33:06Z",
       "country_code": "ID",
       "country_name": "Indonesia"
-    },
-    {
-      "source": "BBC World",
-      "title": "US hits dozens of countries with new wave of tariffs",
-      "url": "https://www.bbc.co.uk/news/articles/cvgj61j6l08o?at_medium=RSS&at_campaign=rss",
-      "summary": "Imposed citing forced labour concerns, the levies replace a temporary global duty brought in after the US Supreme Court struck down tariffs …",
-      "published_at": "2026-07-24T12:40:44Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC Africa",
@@ -879,7 +879,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 34
+      "news_count": 33
     },
     {
       "country_code": "IN",
@@ -917,13 +917,13 @@
       "news_count": 4
     },
     {
-      "country_code": "MA",
-      "country_name": "Morocco",
-      "news_count": 3
-    },
-    {
       "country_code": "UA",
       "country_name": "Ukraine",
+      "news_count": 4
+    },
+    {
+      "country_code": "MA",
+      "country_name": "Morocco",
       "news_count": 3
     },
     {
