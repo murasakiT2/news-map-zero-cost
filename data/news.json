@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-07-25T23:26:12Z",
+  "generated_at": "2026-07-26T01:03:58Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "More than 300,000 flee wildfires in France and Spain",
+      "url": "https://www.bbc.co.uk/news/articles/cd7le0d53y2o?at_medium=RSS&at_campaign=rss",
+      "summary": "Spain's PM warns of \"complex hours\" ahead as authorities in France say they are far from bringing blazes burning near Bordeaux under control…",
+      "published_at": "2026-07-26T00:54:06Z",
+      "country_code": "FR",
+      "country_name": "France"
+    },
+    {
+      "source": "BBC World",
+      "title": "What Love Island tells us about the changing face of dating",
+      "url": "https://www.bbc.co.uk/news/articles/c935q2k6pxqo?at_medium=RSS&at_campaign=rss",
+      "summary": "From women making the first move to shifting relationship dynamics, Love Island has become a window into Britain's evolving dating culture",
+      "published_at": "2026-07-25T23:31:49Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "India's 'cockroach' protest called off after education minister quits",
@@ -9,15 +27,6 @@
       "published_at": "2026-07-25T17:44:46Z",
       "country_code": "IN",
       "country_name": "India"
-    },
-    {
-      "source": "BBC World",
-      "title": "More than 250,000 flee wildfires in France and Spain",
-      "url": "https://www.bbc.co.uk/news/articles/cd7le0d53y2o?at_medium=RSS&at_campaign=rss",
-      "summary": "Spain's PM warns of \"complex hours\" ahead as authorities in France say they are far from bringing blazes burning near Bordeaux under control…",
-      "published_at": "2026-07-25T17:13:40Z",
-      "country_code": "FR",
-      "country_name": "France"
     },
     {
       "source": "BBC World",
@@ -164,7 +173,7 @@
       "country_name": "France"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "Indonesian babies were trafficked to Singapore. What happens to them now?",
       "url": "https://www.bbc.co.uk/news/articles/c7vgeredvlgo?at_medium=RSS&at_campaign=rss",
       "summary": "At least 12 babies have been trafficked from Indonesia to Singapore, but what will happen to them remains unclear.",
@@ -182,7 +191,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Africa",
       "title": "South Africa's president wins bid to temporarily halt impeachment inquiry over 'Farmgate'",
       "url": "https://www.bbc.co.uk/news/articles/cwymj9lkx13o?at_medium=RSS&at_campaign=rss",
       "summary": "Ramaphosa has faced scrutiny following the theft of large sums of cash from his private farm in 2020.",
@@ -821,15 +830,6 @@
       "country_name": "Iran"
     },
     {
-      "source": "BBC Africa",
-      "title": "More cows than pupils - what is behind mass school closures in rural Kenya?",
-      "url": "https://www.bbc.co.uk/news/articles/cy72mn3m7l3o?at_medium=RSS&at_campaign=rss",
-      "summary": "More than 2,000 primary schools are facing closure as enrolment numbers plummet.",
-      "published_at": "2026-07-04T00:51:44Z",
-      "country_code": "KE",
-      "country_name": "Kenya"
-    },
-    {
       "source": "BBC Middle East",
       "title": "Iran nuclear and military damage revealed after restricted satellite images released",
       "url": "https://www.bbc.co.uk/news/articles/cr5j1qn6deno?at_medium=RSS&at_campaign=rss",
@@ -897,7 +897,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 34
+      "news_count": 35
     },
     {
       "country_code": "IN",
@@ -947,11 +947,6 @@
     {
       "country_code": "JP",
       "country_name": "Japan",
-      "news_count": 2
-    },
-    {
-      "country_code": "KE",
-      "country_name": "Kenya",
       "news_count": 2
     },
     {
@@ -1007,6 +1002,11 @@
     {
       "country_code": "IT",
       "country_name": "Italy",
+      "news_count": 1
+    },
+    {
+      "country_code": "KE",
+      "country_name": "Kenya",
       "news_count": 1
     },
     {
