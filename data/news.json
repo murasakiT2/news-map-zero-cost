@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-07-26T17:53:15Z",
+  "generated_at": "2026-07-26T18:54:47Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Firefighters battle wildfire as tens of thousands evacuated near Bordeaux",
+      "url": "https://www.bbc.co.uk/news/articles/clyj8k4nn5jo?at_medium=RSS&at_campaign=rss",
+      "summary": "More than 330,000 people have now been evacuated from wildfires across France and Spain.",
+      "published_at": "2026-07-26T18:40:08Z",
+      "country_code": "FR",
+      "country_name": "France"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "Trump paused attacks on Iran to make space for talks, US ambassador says",
+      "url": "https://www.bbc.co.uk/news/articles/c5y45kdkynpo?at_medium=RSS&at_campaign=rss",
+      "summary": "Neither the US nor Iran have launched attacks in the last two nights, after almost two weeks of tit-for-tat strikes risked derailing talks t…",
+      "published_at": "2026-07-26T18:04:53Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "What we know so far about the Berlin Pride ramming attack",
@@ -9,15 +27,6 @@
       "published_at": "2026-07-26T17:45:30Z",
       "country_code": "DE",
       "country_name": "Germany"
-    },
-    {
-      "source": "BBC World",
-      "title": "Firefighters battle wildfire as tens of thousands evacuated near Bordeaux",
-      "url": "https://www.bbc.co.uk/news/articles/clyj8k4nn5jo?at_medium=RSS&at_campaign=rss",
-      "summary": "More than 330,000 people have now been evacuated from wildfires across France and Spain.",
-      "published_at": "2026-07-26T16:48:16Z",
-      "country_code": "FR",
-      "country_name": "France"
     },
     {
       "source": "BBC World",
@@ -861,7 +870,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 33
+      "news_count": 34
     },
     {
       "country_code": "IN",
