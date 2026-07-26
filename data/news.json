@@ -1,14 +1,32 @@
 {
-  "generated_at": "2026-07-26T07:29:56Z",
+  "generated_at": "2026-07-26T09:33:33Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "What we know so far about the Berlin Pride ramming attack",
+      "url": "https://www.bbc.co.uk/news/articles/cevmdxz4872o?at_medium=RSS&at_campaign=rss",
+      "summary": "A police manhunt is underway after a suspect rammed a car into a crowd at a Pride event in the German capital on Saturday night.",
+      "published_at": "2026-07-26T09:18:33Z",
+      "country_code": "DE",
+      "country_name": "Germany"
+    },
     {
       "source": "BBC World",
       "title": "France battles fire 'whirlwinds' as another 55,000 evacuated",
       "url": "https://www.bbc.co.uk/news/articles/clyj8k4nn5jo?at_medium=RSS&at_campaign=rss",
       "summary": "More than 340,000 people have now been evacuated from wildfires in France and Spain.",
-      "published_at": "2026-07-26T07:21:11Z",
+      "published_at": "2026-07-26T09:16:46Z",
       "country_code": "FR",
       "country_name": "France"
+    },
+    {
+      "source": "BBC World",
+      "title": "Watch: At the scene of Berlin Pride attack as manhunt continues",
+      "url": "https://www.bbc.co.uk/news/videos/c74gzknyyz2o?at_medium=RSS&at_campaign=rss",
+      "summary": "A 21-year-old suspect has been identified by police, but he has not been found.",
+      "published_at": "2026-07-26T08:14:55Z",
+      "country_code": "DE",
+      "country_name": "Germany"
     },
     {
       "source": "BBC World",
@@ -155,7 +173,7 @@
       "country_name": "Nigeria"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "Watch: Wildfires rage across Spain and France",
       "url": "https://www.bbc.co.uk/news/videos/cz641jd4p4lo?at_medium=RSS&at_campaign=rss",
       "summary": "Spain's government declares national emergency as French authorities order evacuations in tourist hot spot.",
@@ -254,7 +272,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Latin America",
       "title": "Families still search for bodies a month after Venezuela earthquakes",
       "url": "https://www.bbc.co.uk/news/videos/cwylplxk8nko?at_medium=RSS&at_campaign=rss",
       "summary": "Officials say the death toll has surpassed 5,300, though estimates of the number still missing could be as high as 50,000.",
@@ -614,15 +632,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Europe",
-      "title": "Watch: Spain World Cup champions receive royal welcome in Madrid",
-      "url": "https://www.bbc.co.uk/news/videos/c78g69nddgeo?at_medium=RSS&at_campaign=rss",
-      "summary": "After meeting the royal family, the squad boarded an open-top bus for a victory parade through the capital city, where nearly two million fa…",
-      "published_at": "2026-07-20T22:58:06Z",
-      "country_code": "ES",
-      "country_name": "Spain"
-    },
-    {
       "source": "BBC Asia",
       "title": "'If only people knew what a tick could do' - the deadly meat allergy caused by tick bites",
       "url": "https://www.bbc.co.uk/news/articles/cj6g03567edo?at_medium=RSS&at_campaign=rss",
@@ -660,15 +669,6 @@
     },
     {
       "source": "BBC Europe",
-      "title": "Why are Ukraine's military recruiters facing violence in their own country?",
-      "url": "https://www.bbc.co.uk/news/videos/c0kmjy02rxko?at_medium=RSS&at_campaign=rss",
-      "summary": "The latest National Police Service report recorded more than 600 assaults on recruitment officers to date and warned that the aggression has…",
-      "published_at": "2026-07-20T08:21:09Z",
-      "country_code": "UA",
-      "country_name": "Ukraine"
-    },
-    {
-      "source": "BBC Europe",
       "title": "Sixteen titles in five years - why Spain are a dominant force",
       "url": "https://www.bbc.co.uk/sport/football/articles/c39elvrye40o?at_medium=RSS&at_campaign=rss",
       "summary": "We look at what's behind Spain's dominance after they become the first nation to be men's and women's World Cup champions at the same time.",
@@ -693,24 +693,6 @@
       "published_at": "2026-07-20T00:19:12Z",
       "country_code": "UA",
       "country_name": "Ukraine"
-    },
-    {
-      "source": "BBC Europe",
-      "title": "Moment fans in Madrid celebrate World Cup win",
-      "url": "https://www.bbc.co.uk/news/videos/cgr701xrg14o?at_medium=RSS&at_campaign=rss",
-      "summary": "Thousands of spectators watched Spain's victory in central Madrid on late Sunday night.",
-      "published_at": "2026-07-19T23:48:36Z",
-      "country_code": "ES",
-      "country_name": "Spain"
-    },
-    {
-      "source": "BBC Europe",
-      "title": "Helicopters dump water as huge Norway fire destroys homes",
-      "url": "https://www.bbc.co.uk/news/videos/c4gj5944n4ko?at_medium=RSS&at_campaign=rss",
-      "summary": "The blaze has destroyed more than 100 homes in Drammen and has spread to a nearby forest, authorities say.",
-      "published_at": "2026-07-18T07:13:07Z",
-      "country_code": "NO",
-      "country_name": "Norway"
     },
     {
       "source": "BBC Africa",
@@ -911,19 +893,14 @@
       "news_count": 5
     },
     {
-      "country_code": "ES",
-      "country_name": "Spain",
-      "news_count": 4
-    },
-    {
       "country_code": "NG",
       "country_name": "Nigeria",
       "news_count": 4
     },
     {
-      "country_code": "UA",
-      "country_name": "Ukraine",
-      "news_count": 4
+      "country_code": "DE",
+      "country_name": "Germany",
+      "news_count": 3
     },
     {
       "country_code": "MA",
@@ -934,6 +911,16 @@
       "country_code": "PS",
       "country_name": "Palestine",
       "news_count": 3
+    },
+    {
+      "country_code": "UA",
+      "country_name": "Ukraine",
+      "news_count": 3
+    },
+    {
+      "country_code": "ES",
+      "country_name": "Spain",
+      "news_count": 2
     },
     {
       "country_code": "JP",
@@ -976,11 +963,6 @@
       "news_count": 1
     },
     {
-      "country_code": "DE",
-      "country_name": "Germany",
-      "news_count": 1
-    },
-    {
       "country_code": "GB",
       "country_name": "United Kingdom",
       "news_count": 1
@@ -1003,11 +985,6 @@
     {
       "country_code": "MX",
       "country_name": "Mexico",
-      "news_count": 1
-    },
-    {
-      "country_code": "NO",
-      "country_name": "Norway",
       "news_count": 1
     },
     {
