@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-07-27T17:14:17Z",
+  "generated_at": "2026-07-27T18:52:12Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "What you need to know if you're travelling to France or Spain",
+      "url": "https://www.bbc.co.uk/news/videos/c89npw4q3g4o?at_medium=RSS&at_campaign=rss",
+      "summary": "The BBC’s cost of living correspondent explains how to handle holiday cancellations as a result of European wildfires.",
+      "published_at": "2026-07-27T17:20:27Z",
+      "country_code": "FR",
+      "country_name": "France"
+    },
+    {
+      "source": "BBC World",
+      "title": "France and Spain wildfire witnesses describe 'wall of flames', fear and stress",
+      "url": "https://www.bbc.co.uk/news/articles/cly5qwwdvr1o?at_medium=RSS&at_campaign=rss",
+      "summary": "Local and visitors tell the BBC of disbelief and anxiety as wildfires force more than 300,000 people to evacuate.",
+      "published_at": "2026-07-27T17:17:24Z",
+      "country_code": "FR",
+      "country_name": "France"
+    },
     {
       "source": "BBC World",
       "title": "Shots fired at US consulate in Toronto for a second time this year",
@@ -164,15 +182,6 @@
       "country_name": "France"
     },
     {
-      "source": "BBC World",
-      "title": "Watch: Scaffolding tumbles from Hong Kong building as Typhoon Noul makes landfall",
-      "url": "https://www.bbc.co.uk/news/videos/ckg9ewekpk1o?at_medium=RSS&at_campaign=rss",
-      "summary": "Typhoon Noul is the strongest to make landfall in China so far this year, according to state media.",
-      "published_at": "2026-07-27T01:54:30Z",
-      "country_code": "CN",
-      "country_name": "China"
-    },
-    {
       "source": "BBC Middle East",
       "title": "Israeli settlers set fire to mosques, cars and farm land in West Bank, Palestinians say",
       "url": "https://www.bbc.co.uk/news/articles/cjrv77gl4deo?at_medium=RSS&at_campaign=rss",
@@ -200,7 +209,7 @@
       "country_name": "Germany"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "Watch: At the scene of Berlin Pride attack as manhunt continues",
       "url": "https://www.bbc.co.uk/news/videos/c74gzknyyz2o?at_medium=RSS&at_campaign=rss",
       "summary": "A 21-year-old suspect has been identified by police, but he has not been found.",
@@ -214,15 +223,6 @@
       "url": "https://www.bbc.co.uk/news/articles/cdx828gj5xko?at_medium=RSS&at_campaign=rss",
       "summary": "The CJP protest has been the most visible expression of public anger against PM Narendra Modi's government in recent years.",
       "published_at": "2026-07-25T17:44:46Z",
-      "country_code": "IN",
-      "country_name": "India"
-    },
-    {
-      "source": "BBC World",
-      "title": "Protesters celebrate resignation of India's education minister",
-      "url": "https://www.bbc.co.uk/news/videos/cly949k3g1do?at_medium=RSS&at_campaign=rss",
-      "summary": "The youth-led Cockroach Janta Party (CJP) has called off its protest, hours after the resignation of India's education minister",
-      "published_at": "2026-07-25T13:44:01Z",
       "country_code": "IN",
       "country_name": "India"
     },
@@ -605,15 +605,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Europe",
-      "title": "Watch: Louvre reopens gallery after jewellery heist",
-      "url": "https://www.bbc.co.uk/news/videos/c1m15l8kgejo?at_medium=RSS&at_campaign=rss",
-      "summary": "The Louvre Museum reopens its Apollo Gallery nine months after a robbery that shocked France.",
-      "published_at": "2026-07-22T16:54:33Z",
-      "country_code": "FR",
-      "country_name": "France"
-    },
-    {
       "source": "BBC Africa",
       "title": "All you need to know about Wafcon 2026",
       "url": "https://www.bbc.co.uk/sport/football/articles/c89kd259jvyo?at_medium=RSS&at_campaign=rss",
@@ -668,15 +659,6 @@
       "country_name": "Japan"
     },
     {
-      "source": "BBC US & Canada",
-      "title": "Canada's Carney under pressure to fight back against Trump tariffs",
-      "url": "https://www.bbc.co.uk/news/articles/cg5l2mn8lllo?at_medium=RSS&at_campaign=rss",
-      "summary": "The Canadian leader must weigh whether to make more concessions or take a tough stance as difficult trade talks drag on.",
-      "published_at": "2026-07-21T20:56:56Z",
-      "country_code": "CA",
-      "country_name": "Canada"
-    },
-    {
       "source": "BBC Middle East",
       "title": "Why Iran is risking so much over the Strait of Hormuz",
       "url": "https://www.bbc.co.uk/news/articles/cwymx3eevpjo?at_medium=RSS&at_campaign=rss",
@@ -693,15 +675,6 @@
       "published_at": "2026-07-21T11:21:47Z",
       "country_code": "CL",
       "country_name": "Chile"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "Will the Tate brothers be extradited from the US to the UK?",
-      "url": "https://www.bbc.co.uk/news/articles/cjej0j0lzkno?at_medium=RSS&at_campaign=rss",
-      "summary": "Andrew and Tristan Tate are set to face extradition proceedings in the US as British prosecutors issued 38 new charges against the brothers.",
-      "published_at": "2026-07-20T23:25:44Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC Asia",
@@ -915,21 +888,21 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 32
+      "news_count": 31
     },
     {
       "country_code": "IN",
       "country_name": "India",
-      "news_count": 9
-    },
-    {
-      "country_code": "ES",
-      "country_name": "Spain",
-      "news_count": 5
+      "news_count": 8
     },
     {
       "country_code": "FR",
       "country_name": "France",
+      "news_count": 6
+    },
+    {
+      "country_code": "ES",
+      "country_name": "Spain",
       "news_count": 5
     },
     {
@@ -996,16 +969,6 @@
       "country_code": "ZA",
       "country_name": "South Africa",
       "news_count": 2
-    },
-    {
-      "country_code": "CA",
-      "country_name": "Canada",
-      "news_count": 1
-    },
-    {
-      "country_code": "CN",
-      "country_name": "China",
-      "news_count": 1
     },
     {
       "country_code": "EG",
