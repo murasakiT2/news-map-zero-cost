@@ -1,6 +1,33 @@
 {
-  "generated_at": "2026-07-27T01:05:49Z",
+  "generated_at": "2026-07-27T05:01:47Z",
   "articles": [
+    {
+      "source": "BBC Asia",
+      "title": "Chipmaker CXMT becomes mainland China's most valuable listed firm",
+      "url": "https://www.bbc.co.uk/news/articles/c9q9w3x9qn2o?at_medium=RSS&at_campaign=rss",
+      "summary": "The company's shares soared by 470% in its market debut, as the AI boom drives chip demand.",
+      "published_at": "2026-07-27T04:25:54Z",
+      "country_code": "CN",
+      "country_name": "China"
+    },
+    {
+      "source": "BBC World",
+      "title": "Watch: Scaffolding ripped from Hong Kong building as Typhoon Noul makes landfall",
+      "url": "https://www.bbc.co.uk/news/videos/ckg9ewekpk1o?at_medium=RSS&at_campaign=rss",
+      "summary": "Typhoon Noul is the strongest to make landfall in China so far this year, according to state media.",
+      "published_at": "2026-07-27T01:54:30Z",
+      "country_code": "CN",
+      "country_name": "China"
+    },
+    {
+      "source": "BBC World",
+      "title": "Argentinian leader calls Brazilian president a 'thief' and a 'convict'",
+      "url": "https://www.bbc.co.uk/news/articles/cvgx91vdedno?at_medium=RSS&at_campaign=rss",
+      "summary": "Javier Milei made the comments while in Brazil at a rally to launch the campaign of right-wing presidential candidate Flávio Bolsonaro.",
+      "published_at": "2026-07-27T01:35:51Z",
+      "country_code": "BR",
+      "country_name": "Brazil"
+    },
     {
       "source": "BBC World",
       "title": "PM pledges continued support for Ukraine ahead of Zelensky visit",
@@ -47,7 +74,7 @@
       "country_name": "Germany"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "Firefighters battle wildfire as tens of thousands evacuated near Bordeaux",
       "url": "https://www.bbc.co.uk/news/articles/clyj8k4nn5jo?at_medium=RSS&at_campaign=rss",
       "summary": "More than 330,000 people have now been evacuated from wildfires across France and Spain.",
@@ -236,7 +263,7 @@
       "country_name": "South Africa"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "Watch: Another day, more Trump tariffs - but are they working?",
       "url": "https://www.bbc.co.uk/news/videos/c5yw2xgnv2jo?at_medium=RSS&at_campaign=rss",
       "summary": "The BBC's Samira Hussain explains how President Trump's tariffs affect US economy, who pays the price, and whether they're working.",
@@ -315,15 +342,6 @@
       "published_at": "2026-07-23T23:50:38Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC Asia",
-      "title": "Could you run a country on just three hours of sleep? Japan's PM says she does",
-      "url": "https://www.bbc.co.uk/news/videos/cz05l8ndy0mo?at_medium=RSS&at_campaign=rss",
-      "summary": "Japan’s prime minister Sanae Takaichi says she survives on zero to three hours a night, and people are reacting.",
-      "published_at": "2026-07-23T22:03:09Z",
-      "country_code": "JP",
-      "country_name": "Japan"
     },
     {
       "source": "BBC US & Canada",
@@ -927,13 +945,18 @@
       "news_count": 3
     },
     {
-      "country_code": "ES",
-      "country_name": "Spain",
+      "country_code": "BR",
+      "country_name": "Brazil",
       "news_count": 2
     },
     {
-      "country_code": "JP",
-      "country_name": "Japan",
+      "country_code": "CN",
+      "country_name": "China",
+      "news_count": 2
+    },
+    {
+      "country_code": "ES",
+      "country_name": "Spain",
       "news_count": 2
     },
     {
@@ -954,11 +977,6 @@
     {
       "country_code": "AU",
       "country_name": "Australia",
-      "news_count": 1
-    },
-    {
-      "country_code": "BR",
-      "country_name": "Brazil",
       "news_count": 1
     },
     {
@@ -984,6 +1002,11 @@
     {
       "country_code": "IT",
       "country_name": "Italy",
+      "news_count": 1
+    },
+    {
+      "country_code": "JP",
+      "country_name": "Japan",
       "news_count": 1
     },
     {
