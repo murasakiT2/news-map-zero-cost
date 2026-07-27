@@ -1,18 +1,63 @@
 {
-  "generated_at": "2026-07-27T05:01:47Z",
+  "generated_at": "2026-07-27T08:50:47Z",
   "articles": [
     {
-      "source": "BBC Asia",
-      "title": "Chipmaker CXMT becomes mainland China's most valuable listed firm",
-      "url": "https://www.bbc.co.uk/news/articles/c9q9w3x9qn2o?at_medium=RSS&at_campaign=rss",
-      "summary": "The company's shares soared by 470% in its market debut, as the AI boom drives chip demand.",
-      "published_at": "2026-07-27T04:25:54Z",
-      "country_code": "CN",
-      "country_name": "China"
+      "source": "BBC US & Canada",
+      "title": "Trump paused attacks on Iran to make space for talks, US ambassador says",
+      "url": "https://www.bbc.co.uk/news/articles/c5y45kdkynpo?at_medium=RSS&at_campaign=rss",
+      "summary": "Neither the US nor Iran have launched attacks in the last two nights, after almost two weeks of tit-for-tat strikes risked derailing talks t…",
+      "published_at": "2026-07-27T08:14:46Z",
+      "country_code": "US",
+      "country_name": "United States"
     },
     {
       "source": "BBC World",
-      "title": "Watch: Scaffolding ripped from Hong Kong building as Typhoon Noul makes landfall",
+      "title": "Rapper Yung Filly tells trial 'vibes were good' with woman who accuses him of rape",
+      "url": "https://www.bbc.co.uk/news/articles/cm2g044ydl4o?at_medium=RSS&at_campaign=rss",
+      "summary": "The rapper takes the witness stand at his trial in Australia where he denies raping a fan in a hotel room.",
+      "published_at": "2026-07-27T07:37:11Z",
+      "country_code": "AU",
+      "country_name": "Australia"
+    },
+    {
+      "source": "BBC World",
+      "title": "UK PM pledges continued support for Ukraine ahead of Zelensky visit",
+      "url": "https://www.bbc.co.uk/news/articles/cy8me5vyjg2o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Ukrainian president will be Andy Burnham's first international visitor since taking office.",
+      "published_at": "2026-07-27T06:48:02Z",
+      "country_code": "GB",
+      "country_name": "United Kingdom"
+    },
+    {
+      "source": "BBC World",
+      "title": "'This is just the start': India's Gen Z protesters force out a minister, but what next?",
+      "url": "https://www.bbc.co.uk/news/articles/c8dng1v72lno?at_medium=RSS&at_campaign=rss",
+      "summary": "The education minister's resignation, a rare setback for the Modi government, brings hope to many young protesters that their voices will be…",
+      "published_at": "2026-07-27T05:59:22Z",
+      "country_code": "IN",
+      "country_name": "India"
+    },
+    {
+      "source": "BBC Africa",
+      "title": "Diomande agrees Real Madrid terms as PSG step away",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqx74lpprd7o?at_medium=RSS&at_campaign=rss",
+      "summary": "RB Leipzig winger Yan Diomande agrees personal terms with Real Madrid after Paris St-Germain withdraw their interest.",
+      "published_at": "2026-07-27T05:46:37Z",
+      "country_code": "FR",
+      "country_name": "France"
+    },
+    {
+      "source": "BBC World",
+      "title": "The woman promoting the UK Potteries region in Japan",
+      "url": "https://www.bbc.co.uk/news/articles/cy7405m8ke1o?at_medium=RSS&at_campaign=rss",
+      "summary": "Yuri Kawakami-Shotton is praised for her Spode Museum tours, in bringing in Japanese visitors.",
+      "published_at": "2026-07-27T05:29:09Z",
+      "country_code": "GB",
+      "country_name": "United Kingdom"
+    },
+    {
+      "source": "BBC World",
+      "title": "Watch: Scaffolding tumbles from Hong Kong building as Typhoon Noul makes landfall",
       "url": "https://www.bbc.co.uk/news/videos/ckg9ewekpk1o?at_medium=RSS&at_campaign=rss",
       "summary": "Typhoon Noul is the strongest to make landfall in China so far this year, according to state media.",
       "published_at": "2026-07-27T01:54:30Z",
@@ -30,15 +75,6 @@
     },
     {
       "source": "BBC World",
-      "title": "PM pledges continued support for Ukraine ahead of Zelensky visit",
-      "url": "https://www.bbc.co.uk/news/articles/cy8me5vyjg2o?at_medium=RSS&at_campaign=rss",
-      "summary": "The Ukrainian president will be Andy Burnham's first international visitor since taking office.",
-      "published_at": "2026-07-26T21:30:20Z",
-      "country_code": "UA",
-      "country_name": "Ukraine"
-    },
-    {
-      "source": "BBC World",
       "title": "Israeli settlers set fire to mosques, cars and farm land in West Bank, Palestinians say",
       "url": "https://www.bbc.co.uk/news/articles/cjrv77gl4deo?at_medium=RSS&at_campaign=rss",
       "summary": "The latest attacks come two days after a clash between settlers and Palestinians near the village of Tal, which left four Palestinians and t…",
@@ -47,13 +83,13 @@
       "country_name": "Palestine"
     },
     {
-      "source": "BBC US & Canada",
-      "title": "Trump paused attacks on Iran to make space for talks, US ambassador says",
-      "url": "https://www.bbc.co.uk/news/articles/c5y45kdkynpo?at_medium=RSS&at_campaign=rss",
-      "summary": "Neither the US nor Iran have launched attacks in the last two nights, after almost two weeks of tit-for-tat strikes risked derailing talks t…",
-      "published_at": "2026-07-26T21:10:58Z",
-      "country_code": "US",
-      "country_name": "United States"
+      "source": "BBC Middle East",
+      "title": "BBC speaks to Palestinians targeted by Israeli settlers",
+      "url": "https://www.bbc.co.uk/news/videos/cwy47pkpkrwo?at_medium=RSS&at_campaign=rss",
+      "summary": "Israeli settlers set fire to two mosques, as well as cars and agricultural land in the occupied West Bank, Palestinian officials say.",
+      "published_at": "2026-07-26T20:58:36Z",
+      "country_code": "PS",
+      "country_name": "Palestine"
     },
     {
       "source": "BBC World",
@@ -74,15 +110,6 @@
       "country_name": "Germany"
     },
     {
-      "source": "BBC Europe",
-      "title": "Firefighters battle wildfire as tens of thousands evacuated near Bordeaux",
-      "url": "https://www.bbc.co.uk/news/articles/clyj8k4nn5jo?at_medium=RSS&at_campaign=rss",
-      "summary": "More than 330,000 people have now been evacuated from wildfires across France and Spain.",
-      "published_at": "2026-07-26T18:40:08Z",
-      "country_code": "FR",
-      "country_name": "France"
-    },
-    {
       "source": "BBC World",
       "title": "Watch: At the scene of Berlin Pride attack as manhunt continues",
       "url": "https://www.bbc.co.uk/news/videos/c74gzknyyz2o?at_medium=RSS&at_campaign=rss",
@@ -101,7 +128,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "India's 'cockroach' protest called off after education minister quits",
       "url": "https://www.bbc.co.uk/news/articles/cdx828gj5xko?at_medium=RSS&at_campaign=rss",
       "summary": "The CJP protest has been the most visible expression of public anger against PM Narendra Modi's government in recent years.",
@@ -155,7 +182,7 @@
       "country_name": "Ukraine"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Middle East",
       "title": "Four Palestinians and two Israelis killed in West Bank shooting",
       "url": "https://www.bbc.co.uk/news/articles/cx2rxmye4k3o?at_medium=RSS&at_campaign=rss",
       "summary": "Palestinians say villagers came under attack by settlers, while the Israeli military says a Palestinian stole a weapon and opened fire on hi…",
@@ -164,7 +191,7 @@
       "country_name": "Palestine"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "Trump vows to investigate EU over fining of US tech companies",
       "url": "https://www.bbc.co.uk/news/articles/cvgjenp4680o?at_medium=RSS&at_campaign=rss",
       "summary": "The US president says fines against Google, as well as Apple, Meta and Amazon, should be \"entirely reversed.\"",
@@ -605,15 +632,6 @@
       "country_name": "Canada"
     },
     {
-      "source": "BBC Middle East",
-      "title": "Lebanese army says troops deploying in 'pilot zone' after Israeli withdrawal",
-      "url": "https://www.bbc.co.uk/news/articles/cy8mynlmn55o?at_medium=RSS&at_campaign=rss",
-      "summary": "A US-brokered agreement should see Israeli troops pulling out of a small part of Lebanon occupied during their conflict with Hezbollah.",
-      "published_at": "2026-07-21T18:07:34Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC Latin America",
       "title": "Brazil's Amazon sees sharp decline in size of area burned in 2025",
       "url": "https://www.bbc.co.uk/news/articles/cqx78eplqqlo?at_medium=RSS&at_campaign=rss",
@@ -621,15 +639,6 @@
       "published_at": "2026-07-21T15:57:29Z",
       "country_code": "BR",
       "country_name": "Brazil"
-    },
-    {
-      "source": "BBC Middle East",
-      "title": "Israeli strikes in Gaza kill 12, including family of six, medics say",
-      "url": "https://www.bbc.co.uk/news/articles/c0qv0pdj18go?at_medium=RSS&at_campaign=rss",
-      "summary": "Firas al-Masri, his wife and their four children died in one attack, which the Israeli military says targeted a Hamas operative.",
-      "published_at": "2026-07-21T15:54:11Z",
-      "country_code": "PS",
-      "country_name": "Palestine"
     },
     {
       "source": "BBC Middle East",
@@ -866,29 +875,11 @@
       "country_name": "Palestine"
     },
     {
-      "source": "BBC Latin America",
-      "title": "Families search for earthquake survivors in one of Venezuela's hardest hit areas",
-      "url": "https://www.bbc.co.uk/news/videos/cy06378zyl3o?at_medium=RSS&at_campaign=rss",
-      "summary": "BBC correspondent Will Grant reports from Caraballeda, La Guaira, where locals are still desperately searching for family members in the rub…",
-      "published_at": "2026-07-01T06:10:43Z",
-      "country_code": "VE",
-      "country_name": "Venezuela"
-    },
-    {
       "source": "BBC Middle East",
       "title": "What Iran and US get from deal and why both could struggle to keep it",
       "url": "https://www.bbc.co.uk/news/articles/c932yqz8lggo?at_medium=RSS&at_campaign=rss",
       "summary": "BBC analysts assess the claims by both Washington and Tehran to have won a victory with the deal to end their war.",
       "published_at": "2026-06-18T20:04:40Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC Middle East",
-      "title": "Bowen: US-Iran deal raises inescapable question of what the war was for",
-      "url": "https://www.bbc.co.uk/news/articles/clyegr2mp8jo?at_medium=RSS&at_campaign=rss",
-      "summary": "While the human cost is clear, the Iranian regime has not just survived the war, it has been empowered.",
-      "published_at": "2026-06-18T15:53:55Z",
       "country_code": "US",
       "country_name": "United States"
     }
@@ -897,12 +888,12 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 33
+      "news_count": 31
     },
     {
       "country_code": "IN",
       "country_name": "India",
-      "news_count": 9
+      "news_count": 10
     },
     {
       "country_code": "FR",
@@ -912,11 +903,6 @@
     {
       "country_code": "IR",
       "country_name": "Iran",
-      "news_count": 5
-    },
-    {
-      "country_code": "VE",
-      "country_name": "Venezuela",
       "news_count": 5
     },
     {
@@ -935,9 +921,14 @@
       "news_count": 4
     },
     {
-      "country_code": "UA",
-      "country_name": "Ukraine",
+      "country_code": "VE",
+      "country_name": "Venezuela",
       "news_count": 4
+    },
+    {
+      "country_code": "GB",
+      "country_name": "United Kingdom",
+      "news_count": 3
     },
     {
       "country_code": "MA",
@@ -945,13 +936,18 @@
       "news_count": 3
     },
     {
-      "country_code": "BR",
-      "country_name": "Brazil",
+      "country_code": "UA",
+      "country_name": "Ukraine",
+      "news_count": 3
+    },
+    {
+      "country_code": "AU",
+      "country_name": "Australia",
       "news_count": 2
     },
     {
-      "country_code": "CN",
-      "country_name": "China",
+      "country_code": "BR",
+      "country_name": "Brazil",
       "news_count": 2
     },
     {
@@ -975,11 +971,6 @@
       "news_count": 2
     },
     {
-      "country_code": "AU",
-      "country_name": "Australia",
-      "news_count": 1
-    },
-    {
       "country_code": "CA",
       "country_name": "Canada",
       "news_count": 1
@@ -990,8 +981,8 @@
       "news_count": 1
     },
     {
-      "country_code": "GB",
-      "country_name": "United Kingdom",
+      "country_code": "CN",
+      "country_name": "China",
       "news_count": 1
     },
     {
