@@ -1,6 +1,60 @@
 {
-  "generated_at": "2026-07-27T20:12:42Z",
+  "generated_at": "2026-07-27T21:34:24Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "US singer D4vd to go on trial for murder in death of teen",
+      "url": "https://www.bbc.co.uk/news/articles/c70gkg62w0ro?at_medium=RSS&at_campaign=rss",
+      "summary": "The star is accused of killing Celeste Rivas Hernandez, whose remains were found in a Tesla registered to his address.",
+      "published_at": "2026-07-27T21:17:05Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Trump says Iran war talks taking place during lull in strikes",
+      "url": "https://www.bbc.co.uk/news/articles/c62xn4vzmnpo?at_medium=RSS&at_campaign=rss",
+      "summary": "The US president says \"there is a good chance that something could happen\", as Iran denies direct talks are taking place.",
+      "published_at": "2026-07-27T21:10:56Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "As the US pauses the war with Iran, is Trump really running out of weapons?",
+      "url": "https://www.bbc.co.uk/news/articles/c0qvnk2ezp7o?at_medium=RSS&at_campaign=rss",
+      "summary": "The US has fired thousands of hard-to-replace missiles during its war with Iran. We unpack whether its \"arsenal of freedom\" is perilously lo…",
+      "published_at": "2026-07-27T21:06:42Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "North America wildfires burn millions of acres in western US and Canada",
+      "url": "https://www.bbc.co.uk/news/videos/clyv341nwn6o?at_medium=RSS&at_campaign=rss",
+      "summary": "Dozens of wildfires in the US state of Oregon and British Columbia in Canada continue to spread as temperatures rise.",
+      "published_at": "2026-07-27T21:05:50Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "Trump defends tariffs in hard-hit Michigan as Canada tax hike looms",
+      "url": "https://www.bbc.co.uk/news/articles/cy0jknp3e6yo?at_medium=RSS&at_campaign=rss",
+      "summary": "The president says his economic policies are reinvigorating the auto industry and forcing overseas companies to relocate to the US.",
+      "published_at": "2026-07-27T20:42:50Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "US mother's mental health was getting 'worse and worse' before her children's murders, ex-husband says",
+      "url": "https://www.bbc.co.uk/news/articles/cg5lv820586o?at_medium=RSS&at_campaign=rss",
+      "summary": "Prosecutors say Lindsay Clancy \"knew exactly what she was doing\" and made a \"calculated\" decision to kill the three small children.",
+      "published_at": "2026-07-27T20:36:12Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "Pirlo out of Italy football top job after backlash over Russian betting firm links",
@@ -12,7 +66,7 @@
     },
     {
       "source": "BBC US & Canada",
-      "title": "'Do the right thing': Savannah Guthrie makes another plea to mom's kidnappers",
+      "title": "'Do the right thing': Savannah Guthrie makes another plea to mother's kidnappers",
       "url": "https://www.bbc.co.uk/news/articles/c5y4grv7pp8o?at_medium=RSS&at_campaign=rss",
       "summary": "The US journalist has made several social media pleas for the abductors of her mother Nancy to share where she is.",
       "published_at": "2026-07-27T19:54:24Z",
@@ -47,7 +101,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "What you need to know if you're travelling to France or Spain",
       "url": "https://www.bbc.co.uk/news/videos/c89npw4q3g4o?at_medium=RSS&at_campaign=rss",
       "summary": "The BBC’s cost of living correspondent explains how to handle holiday cancellations as a result of European wildfires.",
@@ -173,7 +227,7 @@
       "country_name": "Spain"
     },
     {
-      "source": "BBC US & Canada",
+      "source": "BBC Middle East",
       "title": "US and Iran pause strikes for third night to make space for talks, US ambassador says",
       "url": "https://www.bbc.co.uk/news/articles/c5y45kdkynpo?at_medium=RSS&at_campaign=rss",
       "summary": "Neither the US nor Iran have launched attacks in the last three nights, after almost two weeks of tit-for-tat strikes risked derailing talks…",
@@ -362,15 +416,6 @@
       "country_name": "Indonesia"
     },
     {
-      "source": "BBC US & Canada",
-      "title": "Watch: Another day, more Trump tariffs - but are they working?",
-      "url": "https://www.bbc.co.uk/news/videos/c5yw2xgnv2jo?at_medium=RSS&at_campaign=rss",
-      "summary": "The BBC's Samira Hussain explains how President Trump's tariffs affect US economy, who pays the price, and whether they're working.",
-      "published_at": "2026-07-24T10:21:31Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC Europe",
       "title": "Guardiola turns down Italy manager job",
       "url": "https://www.bbc.co.uk/sport/football/articles/cd7len4lvy9o?at_medium=RSS&at_campaign=rss",
@@ -479,7 +524,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC US & Canada",
+      "source": "BBC Middle East",
       "title": "Trump's nuclear deal with Saudis jettisons longstanding US demands",
       "url": "https://www.bbc.co.uk/news/articles/cz05lx0xpero?at_medium=RSS&at_campaign=rss",
       "summary": "Signing a nuclear pact in the Middle East is a bold move that has drawn criticism in the US and in Israel.",
@@ -749,15 +794,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Middle East",
-      "title": "Watch: The clash between US and Iran for control of the Strait of Hormuz",
-      "url": "https://www.bbc.co.uk/news/videos/cx2425dmpl3o?at_medium=RSS&at_campaign=rss",
-      "summary": "The BBC's Barbara Plett Usher examines the latest tensions over the key international shipping channel.",
-      "published_at": "2026-07-14T21:13:12Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC Latin America",
       "title": "The Chinese graduate accused of being Mexico's 'fentanyl king'",
       "url": "https://www.bbc.co.uk/news/articles/c39ymggglxeo?at_medium=RSS&at_campaign=rss",
@@ -888,7 +924,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 31
+      "news_count": 35
     },
     {
       "country_code": "IN",
