@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-07-28T14:55:33Z",
+  "generated_at": "2026-07-28T16:27:38Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Japan earthquake: What we know so far",
+      "url": "https://www.bbc.co.uk/news/articles/cgewgxlpj3po?at_medium=RSS&at_campaign=rss",
+      "summary": "Japan is reeling from a major 7.1 earthquake that hit Kyushu island. Here is what we know so far.",
+      "published_at": "2026-07-28T15:45:02Z",
+      "country_code": "JP",
+      "country_name": "Japan"
+    },
+    {
+      "source": "BBC World",
+      "title": "'It's a hell of a situation': Spain grapples with devastating wildfires",
+      "url": "https://www.bbc.co.uk/news/articles/c235m71mrreo?at_medium=RSS&at_campaign=rss",
+      "summary": "Three fires in the Madrid region have caused special concerns, with a new heatwave expected to hit Spain from Wednesday.",
+      "published_at": "2026-07-28T15:07:17Z",
+      "country_code": "ES",
+      "country_name": "Spain"
+    },
     {
       "source": "BBC Asia",
       "title": "Powerful earthquake hits Japan, with many people feared trapped in collapsed mall",
@@ -18,15 +36,6 @@
       "published_at": "2026-07-28T13:54:00Z",
       "country_code": "IT",
       "country_name": "Italy"
-    },
-    {
-      "source": "BBC World",
-      "title": "'It's a hell of a situation': Spain grapples with devastating wildfires",
-      "url": "https://www.bbc.co.uk/news/articles/c235m71mrreo?at_medium=RSS&at_campaign=rss",
-      "summary": "Three fires in the Madrid region have caused special concerns, with a new heatwave expected to hit Spain from Wednesday.",
-      "published_at": "2026-07-28T13:03:38Z",
-      "country_code": "ES",
-      "country_name": "Spain"
     },
     {
       "source": "BBC World",
@@ -396,6 +405,15 @@
       "published_at": "2026-07-26T08:14:55Z",
       "country_code": "DE",
       "country_name": "Germany"
+    },
+    {
+      "source": "BBC Africa",
+      "title": "Joshua wins first fight since fatal Nigeria crash despite knockdowns",
+      "url": "https://www.bbc.co.uk/sport/boxing/articles/cgew1lrpgzro?at_medium=RSS&at_campaign=rss",
+      "summary": "Anthony Joshua suffers two knockdowns before recovering to dramatically stop Kristian Prenga in the second round.",
+      "published_at": "2026-07-25T23:06:47Z",
+      "country_code": "NG",
+      "country_name": "Nigeria"
     },
     {
       "source": "BBC Asia",
@@ -842,6 +860,11 @@
       "news_count": 7
     },
     {
+      "country_code": "NG",
+      "country_name": "Nigeria",
+      "news_count": 6
+    },
+    {
       "country_code": "FR",
       "country_name": "France",
       "news_count": 5
@@ -849,11 +872,6 @@
     {
       "country_code": "IR",
       "country_name": "Iran",
-      "news_count": 5
-    },
-    {
-      "country_code": "NG",
-      "country_name": "Nigeria",
       "news_count": 5
     },
     {
@@ -877,6 +895,11 @@
       "news_count": 3
     },
     {
+      "country_code": "JP",
+      "country_name": "Japan",
+      "news_count": 3
+    },
+    {
       "country_code": "CL",
       "country_name": "Chile",
       "news_count": 2
@@ -889,11 +912,6 @@
     {
       "country_code": "IT",
       "country_name": "Italy",
-      "news_count": 2
-    },
-    {
-      "country_code": "JP",
-      "country_name": "Japan",
       "news_count": 2
     },
     {
