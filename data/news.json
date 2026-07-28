@@ -1,26 +1,44 @@
 {
-  "generated_at": "2026-07-28T12:18:19Z",
+  "generated_at": "2026-07-28T14:55:33Z",
   "articles": [
     {
-      "source": "BBC World",
-      "title": "'It's a hell of a situation': Spain grapples with devastating wildfires",
-      "url": "https://www.bbc.co.uk/news/articles/c235m71mrreo?at_medium=RSS&at_campaign=rss",
-      "summary": "Three fires in the Madrid region have caused special concerns, with a new heatwave expected to hit Spain from Wednesday.",
-      "published_at": "2026-07-28T12:03:50Z",
-      "country_code": "ES",
-      "country_name": "Spain"
-    },
-    {
       "source": "BBC Asia",
-      "title": "Widespread damage from magnitude 7.1 earthquake in south-west Japan",
+      "title": "Powerful earthquake hits Japan, with many people feared trapped in collapsed mall",
       "url": "https://www.bbc.co.uk/news/articles/cgewg24qgnjo?at_medium=RSS&at_campaign=rss",
-      "summary": "Some reports say there was an explosion at the Aeon Mall in Kumamoto, following the magnitude 7.1 earthquake.",
-      "published_at": "2026-07-28T10:44:50Z",
+      "summary": "Media reports say up to 30 people are missing after a blast in a shopping centre, following a magnitude 7.1 tremor.",
+      "published_at": "2026-07-28T14:46:12Z",
       "country_code": "JP",
       "country_name": "Japan"
     },
     {
       "source": "BBC World",
+      "title": "Mancini reappointed Italy boss after Pirlo controversy",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c0ly412r412o?at_medium=RSS&at_campaign=rss",
+      "summary": "Roberto Mancini is appointed Italy manager for a second time - just a day after Andrea Pirlo rules himself out of the running for the job an…",
+      "published_at": "2026-07-28T13:54:00Z",
+      "country_code": "IT",
+      "country_name": "Italy"
+    },
+    {
+      "source": "BBC World",
+      "title": "'It's a hell of a situation': Spain grapples with devastating wildfires",
+      "url": "https://www.bbc.co.uk/news/articles/c235m71mrreo?at_medium=RSS&at_campaign=rss",
+      "summary": "Three fires in the Madrid region have caused special concerns, with a new heatwave expected to hit Spain from Wednesday.",
+      "published_at": "2026-07-28T13:03:38Z",
+      "country_code": "ES",
+      "country_name": "Spain"
+    },
+    {
+      "source": "BBC World",
+      "title": "US singer D4vd to go on trial for murder in death of 14-year-old",
+      "url": "https://www.bbc.co.uk/news/articles/c70gkg62w0ro?at_medium=RSS&at_campaign=rss",
+      "summary": "The star is accused of killing Celeste Rivas Hernandez, whose remains were found in a Tesla registered to his address.",
+      "published_at": "2026-07-28T12:31:45Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC Europe",
       "title": "Zelensky to press Trump on air defences while in Washington",
       "url": "https://www.bbc.co.uk/news/articles/c9v4g7e047zo?at_medium=RSS&at_campaign=rss",
       "summary": "Ukraine's leader is hoping to firm up US commitments to bolstering Kyiv's anti-ballistic missile defences, as Russia has escalated deadly at…",
@@ -81,15 +99,6 @@
       "published_at": "2026-07-28T04:59:36Z",
       "country_code": "GB",
       "country_name": "United Kingdom"
-    },
-    {
-      "source": "BBC World",
-      "title": "US singer D4vd to go on trial for murder in death of 14-year-old",
-      "url": "https://www.bbc.co.uk/news/articles/c70gkg62w0ro?at_medium=RSS&at_campaign=rss",
-      "summary": "The star is accused of killing Celeste Rivas Hernandez, whose remains were found in a Tesla registered to his address.",
-      "published_at": "2026-07-28T01:39:50Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC World",
@@ -227,6 +236,15 @@
       "country_name": "Ukraine"
     },
     {
+      "source": "BBC Africa",
+      "title": "Are some soldiers colluding with Nigeria's criminal gangs? A recent arrest prompts questions",
+      "url": "https://www.bbc.co.uk/news/articles/cr7k8y5272eo?at_medium=RSS&at_campaign=rss",
+      "summary": "A private's detention reignites concerns that troops are contributing to the country's security challenges.",
+      "published_at": "2026-07-27T16:19:50Z",
+      "country_code": "NG",
+      "country_name": "Nigeria"
+    },
+    {
       "source": "BBC World",
       "title": "European wildfires in maps - and how they're being tackled",
       "url": "https://www.bbc.co.uk/news/articles/cj638jx0l53o?at_medium=RSS&at_campaign=rss",
@@ -272,7 +290,7 @@
       "country_name": "South Africa"
     },
     {
-      "source": "BBC US & Canada",
+      "source": "BBC Middle East",
       "title": "More than 600 US military service members injured since Iran War began in February",
       "url": "https://www.bbc.co.uk/news/articles/c998pzd1e8xo?at_medium=RSS&at_campaign=rss",
       "summary": "The latest figure includes casualties from Operation Fury and a new category called \"Overseas Operations\".",
@@ -834,13 +852,13 @@
       "news_count": 5
     },
     {
-      "country_code": "IN",
-      "country_name": "India",
-      "news_count": 4
-    },
-    {
       "country_code": "NG",
       "country_name": "Nigeria",
+      "news_count": 5
+    },
+    {
+      "country_code": "IN",
+      "country_name": "India",
       "news_count": 4
     },
     {
@@ -866,6 +884,11 @@
     {
       "country_code": "GB",
       "country_name": "United Kingdom",
+      "news_count": 2
+    },
+    {
+      "country_code": "IT",
+      "country_name": "Italy",
       "news_count": 2
     },
     {
@@ -901,11 +924,6 @@
     {
       "country_code": "ID",
       "country_name": "Indonesia",
-      "news_count": 1
-    },
-    {
-      "country_code": "IT",
-      "country_name": "Italy",
       "news_count": 1
     },
     {
