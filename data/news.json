@@ -1,8 +1,53 @@
 {
-  "generated_at": "2026-07-28T07:31:25Z",
+  "generated_at": "2026-07-28T10:22:56Z",
   "articles": [
     {
-      "source": "BBC Asia",
+      "source": "BBC US & Canada",
+      "title": "Chip stocks slide in US and Asia as AI jitters rattle investors",
+      "url": "https://www.bbc.co.uk/news/articles/cly8zng43npo?at_medium=RSS&at_campaign=rss",
+      "summary": "Trading on South Korea's Kospi index was paused temporarily on Tuesday morning after slumping by 8%.",
+      "published_at": "2026-07-28T10:15:47Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "US walks out of UN Security Council meeting during France's remarks",
+      "url": "https://www.bbc.co.uk/news/articles/c87nj3w9gxjo?at_medium=RSS&at_campaign=rss",
+      "summary": "The row sparked after the US joined North Korea and Russia in voting against extending the term of the UN high commissioner for human rights…",
+      "published_at": "2026-07-28T09:32:25Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Zidane confirmed as France head coach",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cpd741qn2y9o?at_medium=RSS&at_campaign=rss",
+      "summary": "Former Real Madrid manager Zinedine Zidane has been confirmed as the head coach of the France national team.",
+      "published_at": "2026-07-28T09:03:49Z",
+      "country_code": "FR",
+      "country_name": "France"
+    },
+    {
+      "source": "BBC World",
+      "title": "Zoo staff rescue near-extinct snails from remote rock",
+      "url": "https://www.bbc.co.uk/news/articles/cwyq7e5d1gko?at_medium=RSS&at_campaign=rss",
+      "summary": "Just 21 Madeiran land snails were found clinging to a rock on Portugal's Bugio Island, say conservationists.",
+      "published_at": "2026-07-28T08:50:20Z",
+      "country_code": "PT",
+      "country_name": "Portugal"
+    },
+    {
+      "source": "BBC World",
+      "title": "Why Netanyahu's visit with Trump at the White House is high-stakes",
+      "url": "https://www.bbc.co.uk/news/videos/c98v94dmmz0o?at_medium=RSS&at_campaign=rss",
+      "summary": "The meeting comes amid signs of friction between the two leaders and decreasing public support for Israel in the US.",
+      "published_at": "2026-07-28T08:39:17Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
       "title": "Hong Kong activist allowed to stay in UK after deportation threat",
       "url": "https://www.bbc.co.uk/news/articles/cpd74e0yy12o?at_medium=RSS&at_campaign=rss",
       "summary": "Wu was detained for hours at London's Heathrow Airport last week and refused entry, he told the BBC.",
@@ -25,15 +70,6 @@
       "url": "https://www.bbc.co.uk/news/articles/ckgvnw44rz9o?at_medium=RSS&at_campaign=rss",
       "summary": "Police said they engaged in a high-speed car chase but failed to arrest the suspect, who remains at large. Three people were arrested in Jun…",
       "published_at": "2026-07-28T00:36:16Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "US Secret Service agent among three charged over alleged violent fraternity hazing",
-      "url": "https://www.bbc.co.uk/news/articles/c4gdrg2pxv0o?at_medium=RSS&at_campaign=rss",
-      "summary": "The suspected hazing involved repeated beatings with canes and paddles, Florida authorities say, which put two people in hospital.",
-      "published_at": "2026-07-28T00:04:00Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -110,7 +146,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "Pirlo out of Italy football top job after backlash over Russian betting firm links",
       "url": "https://www.bbc.co.uk/news/articles/c4g49r2338xo?at_medium=RSS&at_campaign=rss",
       "summary": "The uproar throws the Italian Football Federation into further disarray following Italy's third consecutive failure to qualify for the World…",
@@ -191,7 +227,7 @@
       "country_name": "Chile"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Middle East",
       "title": "Oil price dives as US and Iran pause attacks",
       "url": "https://www.bbc.co.uk/news/articles/clyj834jn5lo?at_medium=RSS&at_campaign=rss",
       "summary": "The US says attacks on Iran have been halted to give \"talks some space\", raising hopes of a resolution to the conflict.",
@@ -201,6 +237,15 @@
     },
     {
       "source": "BBC World",
+      "title": "Cycling in rude health thanks to Pogacar and testing",
+      "url": "https://www.bbc.co.uk/sport/cycling/articles/c0l503edee8o?at_medium=RSS&at_campaign=rss",
+      "summary": "Tour de France fans were spoilt for choice in Paris when it came to drinking in the drama of cycling's greatest race.",
+      "published_at": "2026-07-27T15:06:36Z",
+      "country_code": "FR",
+      "country_name": "France"
+    },
+    {
+      "source": "BBC Africa",
       "title": "South Africa investigates death of Nigerian who collapsed during arrest",
       "url": "https://www.bbc.co.uk/news/articles/cn7nx3rz16jo?at_medium=RSS&at_campaign=rss",
       "summary": "Initial reports from a post-mortem said he had \"abrasions on his back and chest\", investigators say.",
@@ -209,7 +254,7 @@
       "country_name": "South Africa"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "More than 600 US military service members injured since Iran War began in February",
       "url": "https://www.bbc.co.uk/news/articles/c998pzd1e8xo?at_medium=RSS&at_campaign=rss",
       "summary": "The latest figure includes casualties from Operation Fury and a new category called \"Overseas Operations\".",
@@ -261,15 +306,6 @@
       "published_at": "2026-07-27T08:14:46Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "'This is just the start': India's Gen Z protesters force out a minister, but what next?",
-      "url": "https://www.bbc.co.uk/news/articles/c8dng1v72lno?at_medium=RSS&at_campaign=rss",
-      "summary": "The education minister's resignation, a rare setback for the Modi government, brings hope to many young protesters that their voices will be…",
-      "published_at": "2026-07-27T05:59:22Z",
-      "country_code": "IN",
-      "country_name": "India"
     },
     {
       "source": "BBC Africa",
@@ -587,15 +623,6 @@
       "country_name": "Iran"
     },
     {
-      "source": "BBC US & Canada",
-      "title": "Canada's 'powerful' dairy sector is in Trump's trade crosshairs",
-      "url": "https://www.bbc.co.uk/news/articles/ce8kvm84lxmo?at_medium=RSS&at_campaign=rss",
-      "summary": "Canada's industry is in the spotlight after the US president singled it out as one of three main irritants used to justify new tariffs.",
-      "published_at": "2026-07-23T00:15:12Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC Africa",
       "title": "India cruise to seven-wicket win over Zimbabwe - first T20 scorecard",
       "url": "https://www.bbc.co.uk/sport/cricket/scorecard/e-238972?at_medium=RSS&at_campaign=rss",
@@ -879,16 +906,16 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 34
-    },
-    {
-      "country_code": "IN",
-      "country_name": "India",
-      "news_count": 7
+      "news_count": 35
     },
     {
       "country_code": "FR",
       "country_name": "France",
+      "news_count": 8
+    },
+    {
+      "country_code": "IN",
+      "country_name": "India",
       "news_count": 6
     },
     {
@@ -989,6 +1016,11 @@
     {
       "country_code": "MX",
       "country_name": "Mexico",
+      "news_count": 1
+    },
+    {
+      "country_code": "PT",
+      "country_name": "Portugal",
       "news_count": 1
     },
     {
