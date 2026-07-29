@@ -1,12 +1,21 @@
 {
-  "generated_at": "2026-07-28T23:50:02Z",
+  "generated_at": "2026-07-29T01:28:51Z",
   "articles": [
     {
-      "source": "BBC US & Canada",
-      "title": "Lindsey Graham remembered by Trump as 'giant of the US Senate' at funeral",
-      "url": "https://www.bbc.co.uk/news/articles/cwyj6xqn40lo?at_medium=RSS&at_campaign=rss",
-      "summary": "The US president was among several dignitaries who attended the service for the late lawmaker, who died earlier this month.",
-      "published_at": "2026-07-28T21:38:37Z",
+      "source": "BBC World",
+      "title": "Trump administration bans new Chinese humanoid robots",
+      "url": "https://www.bbc.co.uk/news/articles/cp9e2ex3ekyo?at_medium=RSS&at_campaign=rss",
+      "summary": "The US and China are locked in a race to the lead the world in robotics and artificial intelligence.",
+      "published_at": "2026-07-29T01:22:14Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Iran and US trade strikes, shattering brief lull in fighting",
+      "url": "https://www.bbc.co.uk/news/articles/c70g6y24d76o?at_medium=RSS&at_campaign=rss",
+      "summary": "US Central Command says it intercepted \"multiple\" ballistic missiles fired by Iran.",
+      "published_at": "2026-07-29T00:51:45Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -15,7 +24,25 @@
       "title": "Zelensky and Netanyahu meet Trump as wars in Ukraine and Iran drag on",
       "url": "https://www.bbc.co.uk/news/articles/cj4k2z8z45ro?at_medium=RSS&at_campaign=rss",
       "summary": "The two leaders were in Washington to attend the funeral of Senator Lindsey Graham, a staunch supporter of Israel and advocate for US aid to…",
-      "published_at": "2026-07-28T20:57:29Z",
+      "published_at": "2026-07-29T00:11:43Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "How Mexican drug cartels have outsourced meth labs to Nigeria",
+      "url": "https://www.bbc.co.uk/news/articles/crmrnxp4nllo?at_medium=RSS&at_campaign=rss",
+      "summary": "West Africa is becoming increasingly attractive to those who want to make and export illicit drugs.",
+      "published_at": "2026-07-28T23:25:53Z",
+      "country_code": "NG",
+      "country_name": "Nigeria"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "Lindsey Graham remembered by Trump as 'giant of the US Senate' at funeral",
+      "url": "https://www.bbc.co.uk/news/articles/cwyj6xqn40lo?at_medium=RSS&at_campaign=rss",
+      "summary": "The US president was among several dignitaries who attended the service for the late lawmaker, who died earlier this month.",
+      "published_at": "2026-07-28T21:38:37Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -63,6 +90,15 @@
       "published_at": "2026-07-28T16:14:03Z",
       "country_code": "FR",
       "country_name": "France"
+    },
+    {
+      "source": "BBC World",
+      "title": "Watch: The moment quake hit Japan",
+      "url": "https://www.bbc.co.uk/news/videos/cvg7v55gxnqo?at_medium=RSS&at_campaign=rss",
+      "summary": "Video shows locations across the region where a strong earthquake struck Japan's Kyushu island on 28 July.",
+      "published_at": "2026-07-28T15:32:37Z",
+      "country_code": "JP",
+      "country_name": "Japan"
     },
     {
       "source": "BBC World",
@@ -117,15 +153,6 @@
       "published_at": "2026-07-28T08:50:20Z",
       "country_code": "PT",
       "country_name": "Portugal"
-    },
-    {
-      "source": "BBC World",
-      "title": "Why Netanyahu's visit with Trump at the White House is high-stakes",
-      "url": "https://www.bbc.co.uk/news/videos/c98v94dmmz0o?at_medium=RSS&at_campaign=rss",
-      "summary": "The meeting comes amid signs of friction between the two leaders and decreasing public support for Israel in the US.",
-      "published_at": "2026-07-28T08:39:17Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC World",
@@ -834,7 +861,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 32
+      "news_count": 33
     },
     {
       "country_code": "ES",
@@ -852,13 +879,18 @@
       "news_count": 5
     },
     {
+      "country_code": "NG",
+      "country_name": "Nigeria",
+      "news_count": 5
+    },
+    {
       "country_code": "IN",
       "country_name": "India",
       "news_count": 4
     },
     {
-      "country_code": "NG",
-      "country_name": "Nigeria",
+      "country_code": "JP",
+      "country_name": "Japan",
       "news_count": 4
     },
     {
@@ -870,11 +902,6 @@
       "country_code": "VE",
       "country_name": "Venezuela",
       "news_count": 4
-    },
-    {
-      "country_code": "JP",
-      "country_name": "Japan",
-      "news_count": 3
     },
     {
       "country_code": "CL",
