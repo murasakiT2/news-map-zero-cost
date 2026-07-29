@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-07-29T21:24:00Z",
+  "generated_at": "2026-07-29T22:26:21Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "The Chinese robot army transforming the UK's retail industry",
+      "url": "https://www.bbc.co.uk/news/articles/c0jl8v23qwgo?at_medium=RSS&at_campaign=rss",
+      "summary": "Britain's weak productivity growth and labour shortages are creating an opportunity for China's robotics firms.",
+      "published_at": "2026-07-29T22:08:29Z",
+      "country_code": "GB",
+      "country_name": "United Kingdom"
+    },
+    {
+      "source": "BBC World",
+      "title": "Anthony Fauci refuses to answer questions during tense US Senate hearing about Covid origins",
+      "url": "https://www.bbc.co.uk/news/articles/cdx85vkk0gko?at_medium=RSS&at_campaign=rss",
+      "summary": "The former top US health official said he feared Republicans could try to trip him up and use his testimony to prosecute him for perjury.",
+      "published_at": "2026-07-29T21:45:25Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC US & Canada",
       "title": "'No magic wand' to tackle high prices, Fed boss says as US interest rates held",
@@ -25,15 +43,6 @@
       "url": "https://www.bbc.co.uk/news/articles/clyx83l8jv8o?at_medium=RSS&at_campaign=rss",
       "summary": "The kingdom faces a choice of whether to keep hitting back as a deterrent or to try to de-escalate the situation.",
       "published_at": "2026-07-29T18:41:31Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "Anthony Fauci refuses to answer questions during tense US Senate hearing about Covid origins",
-      "url": "https://www.bbc.co.uk/news/articles/cdx85vkk0gko?at_medium=RSS&at_campaign=rss",
-      "summary": "The former top US health official said he feared Republicans could try to trip him up and use his testimony to prosecute him for perjury.",
-      "published_at": "2026-07-29T17:58:42Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -72,15 +81,6 @@
       "published_at": "2026-07-29T12:17:42Z",
       "country_code": "UA",
       "country_name": "Ukraine"
-    },
-    {
-      "source": "BBC World",
-      "title": "European wildfires in maps - and how they're being tackled",
-      "url": "https://www.bbc.co.uk/news/articles/cj638jx0l53o?at_medium=RSS&at_campaign=rss",
-      "summary": "Spain and France have so far borne the burnt of this summer's wildfires, caused by a succession of heatwaves and prolonged dry spells.",
-      "published_at": "2026-07-29T11:53:40Z",
-      "country_code": "FR",
-      "country_name": "France"
     },
     {
       "source": "BBC Europe",
@@ -209,7 +209,7 @@
       "country_name": "Japan"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "Trump administration bans new Chinese humanoid robots",
       "url": "https://www.bbc.co.uk/news/articles/cp9e2ex3ekyo?at_medium=RSS&at_campaign=rss",
       "summary": "The US and China are locked in a race to the lead the world in robotics and artificial intelligence.",
@@ -884,7 +884,7 @@
     {
       "country_code": "FR",
       "country_name": "France",
-      "news_count": 10
+      "news_count": 9
     },
     {
       "country_code": "ES",
@@ -912,6 +912,11 @@
       "news_count": 5
     },
     {
+      "country_code": "GB",
+      "country_name": "United Kingdom",
+      "news_count": 4
+    },
+    {
       "country_code": "JP",
       "country_name": "Japan",
       "news_count": 4
@@ -920,11 +925,6 @@
       "country_code": "VE",
       "country_name": "Venezuela",
       "news_count": 4
-    },
-    {
-      "country_code": "GB",
-      "country_name": "United Kingdom",
-      "news_count": 3
     },
     {
       "country_code": "SD",
