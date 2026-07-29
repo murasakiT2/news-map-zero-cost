@@ -1,6 +1,33 @@
 {
-  "generated_at": "2026-07-29T12:28:12Z",
+  "generated_at": "2026-07-29T14:40:23Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Anthony Fauci refuses to answer questions during US Senate hearing about Covid origins",
+      "url": "https://www.bbc.co.uk/news/articles/cdx85vkk0gko?at_medium=RSS&at_campaign=rss",
+      "summary": "The former top US health official said he feared Republicans could try to trip him up and use his testimony to prosecute him for perjury.",
+      "published_at": "2026-07-29T14:29:34Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Thousands in Spain return home but new heatwave raises wildfire fears",
+      "url": "https://www.bbc.co.uk/news/articles/cwyjgwg8jddo?at_medium=RSS&at_campaign=rss",
+      "summary": "Spain and France are both braced for the start of the fourth heatwave so far this summer and some fires have continued to burn.",
+      "published_at": "2026-07-29T14:27:13Z",
+      "country_code": "FR",
+      "country_name": "France"
+    },
+    {
+      "source": "BBC World",
+      "title": "Saudi Arabia joins US in strikes on Iran-backed militias in Iraq",
+      "url": "https://www.bbc.co.uk/news/articles/c70g6y24d76o?at_medium=RSS&at_campaign=rss",
+      "summary": "US Central Command says proxy groups launched attacks against US bases and Saudi energy infrastructure.",
+      "published_at": "2026-07-29T13:48:41Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "Zelensky and Netanyahu meet Trump as wars in Ukraine and Iran drag on",
@@ -39,15 +66,6 @@
     },
     {
       "source": "BBC World",
-      "title": "Thousands in Spain return home but new heatwave raises wildfire fears",
-      "url": "https://www.bbc.co.uk/news/articles/cwyjgwg8jddo?at_medium=RSS&at_campaign=rss",
-      "summary": "Spain and France are both braced for the start of the fourth heatwave so far this summer and some fires have continued to burn.",
-      "published_at": "2026-07-29T11:42:05Z",
-      "country_code": "FR",
-      "country_name": "France"
-    },
-    {
-      "source": "BBC World",
       "title": "'I thought I would die': Survivors describe shock and horror of powerful Japan earthquake",
       "url": "https://www.bbc.co.uk/news/articles/cvgw52l5kyyo?at_medium=RSS&at_campaign=rss",
       "summary": "Rescue operations are ongoing following the 6.8-magnitude quake, as survivors wrestle with the shock.",
@@ -66,7 +84,7 @@
     },
     {
       "source": "BBC World",
-      "title": "French DJ ​and electropop ‌musician Kavinsky dies aged 50",
+      "title": "French DJ ​and electronic ‌musician Kavinsky dies aged 50",
       "url": "https://www.bbc.co.uk/news/articles/c204n74xyv3o?at_medium=RSS&at_campaign=rss",
       "summary": "He had a hit with Nightfall, which featured on the Drive soundtrack and at the Paris 2024 Olympics.",
       "published_at": "2026-07-29T10:35:13Z",
@@ -81,15 +99,6 @@
       "published_at": "2026-07-29T10:23:29Z",
       "country_code": "RU",
       "country_name": "Russia"
-    },
-    {
-      "source": "BBC World",
-      "title": "Saudi Arabia joins US in strikes on Iran-backed militias in Iraq",
-      "url": "https://www.bbc.co.uk/news/articles/c70g6y24d76o?at_medium=RSS&at_campaign=rss",
-      "summary": "US Central Command says proxy groups launched attacks against US bases and Saudi energy infrastructure.",
-      "published_at": "2026-07-29T09:39:56Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC World",
@@ -171,15 +180,6 @@
       "published_at": "2026-07-29T05:01:12Z",
       "country_code": "PS",
       "country_name": "Palestine"
-    },
-    {
-      "source": "BBC World",
-      "title": "Wildfires in south-west France flare up as region braces for new 40C heatwave",
-      "url": "https://www.bbc.co.uk/news/articles/c5yd8gly1ydo?at_medium=RSS&at_campaign=rss",
-      "summary": "Firefighters are braced for a sharp rise in temperatures on Wednesday, which could complicate the containment of wildfires in Gironde.",
-      "published_at": "2026-07-29T04:43:36Z",
-      "country_code": "FR",
-      "country_name": "France"
     },
     {
       "source": "BBC Asia",
@@ -870,12 +870,12 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 26
+      "news_count": 27
     },
     {
       "country_code": "FR",
       "country_name": "France",
-      "news_count": 11
+      "news_count": 10
     },
     {
       "country_code": "PS",
