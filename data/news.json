@@ -1,6 +1,33 @@
 {
-  "generated_at": "2026-07-29T17:44:32Z",
+  "generated_at": "2026-07-29T18:54:52Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Saudi Arabia's dilemma as it tries to stay out of US-Iran war",
+      "url": "https://www.bbc.co.uk/news/articles/clyx83l8jv8o?at_medium=RSS&at_campaign=rss",
+      "summary": "The kingdom faces a choice of whether to keep hitting back as a deterrent or to try to de-escalate the situation.",
+      "published_at": "2026-07-29T18:41:31Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Anthony Fauci refuses to answer questions during tense US Senate hearing about Covid origins",
+      "url": "https://www.bbc.co.uk/news/articles/cdx85vkk0gko?at_medium=RSS&at_campaign=rss",
+      "summary": "The former top US health official said he feared Republicans could try to trip him up and use his testimony to prosecute him for perjury.",
+      "published_at": "2026-07-29T17:58:42Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC Latin America",
+      "title": "Fifa opens disciplinary proceedings against Argentina",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cp3rkwgy6y7o?at_medium=RSS&at_campaign=rss",
+      "summary": "Fifa opens disciplinary proceedings against Argentina over their behaviour after their World Cup final loss to Spain and throughout the tour…",
+      "published_at": "2026-07-29T17:21:57Z",
+      "country_code": "ES",
+      "country_name": "Spain"
+    },
     {
       "source": "BBC World",
       "title": "France fire crews face searing heat in battle to contain flames",
@@ -9,15 +36,6 @@
       "published_at": "2026-07-29T16:49:41Z",
       "country_code": "FR",
       "country_name": "France"
-    },
-    {
-      "source": "BBC World",
-      "title": "Anthony Fauci refuses to answer questions during US Senate hearing discussing Covid origins",
-      "url": "https://www.bbc.co.uk/news/articles/cdx85vkk0gko?at_medium=RSS&at_campaign=rss",
-      "summary": "The former top US health official said he feared Republicans could try to trip him up and use his testimony to prosecute him for perjury.",
-      "published_at": "2026-07-29T16:49:06Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC World",
@@ -84,7 +102,7 @@
     },
     {
       "source": "BBC World",
-      "title": "Tributes paid to DJ ​and electronic ‌musician Kavinsky who has died",
+      "title": "DJ Guetta leads tributes to electronic ‌musician Kavinsky who has died",
       "url": "https://www.bbc.co.uk/news/articles/c204n74xyv3o?at_medium=RSS&at_campaign=rss",
       "summary": "He had a hit with Nightfall, which featured on the Drive soundtrack and at the Paris 2024 Olympics.",
       "published_at": "2026-07-29T10:35:13Z",
@@ -434,15 +452,6 @@
       "country_name": "Germany"
     },
     {
-      "source": "BBC Latin America",
-      "title": "Real Madrid contract talks and Arsenal interest - what is Vinicius Jr's future?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c62vx42zd83o?at_medium=RSS&at_campaign=rss",
-      "summary": "With Real Madrid renewing contract talks and Arsenal showing interest, there may be no more intriguing transfer situation right now than Vin…",
-      "published_at": "2026-07-27T10:26:36Z",
-      "country_code": "ES",
-      "country_name": "Spain"
-    },
-    {
       "source": "BBC Europe",
       "title": "'I can't take it anymore': Residents evacuated from town west of Madrid",
       "url": "https://www.bbc.co.uk/news/videos/c1l1m66qdeyo?at_medium=RSS&at_campaign=rss",
@@ -484,15 +493,6 @@
       "url": "https://www.bbc.co.uk/news/articles/cjrv77gl4deo?at_medium=RSS&at_campaign=rss",
       "summary": "The latest attacks come two days after a clash between settlers and Palestinians near the village of Tal, which left four Palestinians and t…",
       "published_at": "2026-07-26T21:23:53Z",
-      "country_code": "PS",
-      "country_name": "Palestine"
-    },
-    {
-      "source": "BBC Middle East",
-      "title": "BBC speaks to Palestinians targeted by Israeli settlers",
-      "url": "https://www.bbc.co.uk/news/videos/cwy47pkpkrwo?at_medium=RSS&at_campaign=rss",
-      "summary": "Israeli settlers set fire to two mosques, as well as cars and agricultural land in the occupied West Bank, Palestinian officials say.",
-      "published_at": "2026-07-26T20:58:36Z",
       "country_code": "PS",
       "country_name": "Palestine"
     },
@@ -861,17 +861,12 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 27
+      "news_count": 28
     },
     {
       "country_code": "FR",
       "country_name": "France",
       "news_count": 10
-    },
-    {
-      "country_code": "PS",
-      "country_name": "Palestine",
-      "news_count": 6
     },
     {
       "country_code": "ES",
@@ -891,6 +886,11 @@
     {
       "country_code": "NG",
       "country_name": "Nigeria",
+      "news_count": 5
+    },
+    {
+      "country_code": "PS",
+      "country_name": "Palestine",
       "news_count": 5
     },
     {
