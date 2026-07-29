@@ -1,21 +1,48 @@
 {
-  "generated_at": "2026-07-29T01:28:51Z",
+  "generated_at": "2026-07-29T04:45:30Z",
   "articles": [
     {
       "source": "BBC World",
-      "title": "Trump administration bans new Chinese humanoid robots",
-      "url": "https://www.bbc.co.uk/news/articles/cp9e2ex3ekyo?at_medium=RSS&at_campaign=rss",
-      "summary": "The US and China are locked in a race to the lead the world in robotics and artificial intelligence.",
-      "published_at": "2026-07-29T01:22:14Z",
-      "country_code": "US",
-      "country_name": "United States"
+      "title": "Wildfires in south-west France flare up as region braces for new 40C heatwave",
+      "url": "https://www.bbc.co.uk/news/articles/c5yd8gly1ydo?at_medium=RSS&at_campaign=rss",
+      "summary": "Firefighters are braced for a sharp rise in temperatures on Wednesday, which could complicate the containment of wildfires in Gironde.",
+      "published_at": "2026-07-29T04:43:36Z",
+      "country_code": "FR",
+      "country_name": "France"
     },
     {
       "source": "BBC World",
       "title": "Iran and US trade strikes, shattering brief lull in fighting",
       "url": "https://www.bbc.co.uk/news/articles/c70g6y24d76o?at_medium=RSS&at_campaign=rss",
       "summary": "US Central Command says it intercepted \"multiple\" ballistic missiles fired by Iran.",
-      "published_at": "2026-07-29T00:51:45Z",
+      "published_at": "2026-07-29T04:30:08Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC Asia",
+      "title": "Japan earthquake kills at least 13 as rescuers race to find survivors",
+      "url": "https://www.bbc.co.uk/news/articles/cgewg24qgnjo?at_medium=RSS&at_campaign=rss",
+      "summary": "The quake damaged roads and buildings, shut rail networks, and forced thousands to evacuate to shelters.",
+      "published_at": "2026-07-29T03:42:53Z",
+      "country_code": "JP",
+      "country_name": "Japan"
+    },
+    {
+      "source": "BBC World",
+      "title": "Japan earthquake: What we know so far",
+      "url": "https://www.bbc.co.uk/news/articles/cgewgxlpj3po?at_medium=RSS&at_campaign=rss",
+      "summary": "Japan is reeling from a major earthquake that hit Kyushu island. Here is what we know so far.",
+      "published_at": "2026-07-29T02:47:08Z",
+      "country_code": "JP",
+      "country_name": "Japan"
+    },
+    {
+      "source": "BBC World",
+      "title": "Trump administration bans new Chinese humanoid robots",
+      "url": "https://www.bbc.co.uk/news/articles/cp9e2ex3ekyo?at_medium=RSS&at_campaign=rss",
+      "summary": "The US and China are locked in a race to the lead the world in robotics and artificial intelligence.",
+      "published_at": "2026-07-29T02:30:50Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -23,10 +50,10 @@
       "source": "BBC US & Canada",
       "title": "Zelensky and Netanyahu meet Trump as wars in Ukraine and Iran drag on",
       "url": "https://www.bbc.co.uk/news/articles/cj4k2z8z45ro?at_medium=RSS&at_campaign=rss",
-      "summary": "The two leaders were in Washington to attend the funeral of Senator Lindsey Graham, a staunch supporter of Israel and advocate for US aid to…",
-      "published_at": "2026-07-29T00:11:43Z",
-      "country_code": "US",
-      "country_name": "United States"
+      "summary": "The two leaders sound encouraged after holding back-to-back bilaterals at the White House.",
+      "published_at": "2026-07-29T02:24:03Z",
+      "country_code": "UA",
+      "country_name": "Ukraine"
     },
     {
       "source": "BBC World",
@@ -47,24 +74,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Asia",
-      "title": "People missing in collapsed mall and factory after earthquake hits Japan",
-      "url": "https://www.bbc.co.uk/news/articles/cgewg24qgnjo?at_medium=RSS&at_campaign=rss",
-      "summary": "A disaster official says 19 people are missing in the south-western Kumamoto prefecture after a magnitude 6.8 tremor.",
-      "published_at": "2026-07-28T17:44:53Z",
-      "country_code": "JP",
-      "country_name": "Japan"
-    },
-    {
-      "source": "BBC World",
-      "title": "Japan earthquake: What we know so far",
-      "url": "https://www.bbc.co.uk/news/articles/cgewgxlpj3po?at_medium=RSS&at_campaign=rss",
-      "summary": "Japan is reeling from a major earthquake that hit Kyushu island. Here is what we know so far.",
-      "published_at": "2026-07-28T17:15:14Z",
-      "country_code": "JP",
-      "country_name": "Japan"
-    },
-    {
       "source": "BBC World",
       "title": "'It's a hell of a situation': Spain grapples with devastating wildfires",
       "url": "https://www.bbc.co.uk/news/articles/c235m71mrreo?at_medium=RSS&at_campaign=rss",
@@ -81,15 +90,6 @@
       "published_at": "2026-07-28T16:37:02Z",
       "country_code": "KE",
       "country_name": "Kenya"
-    },
-    {
-      "source": "BBC World",
-      "title": "Wildfires in south-west France flare up as region braces for new 40C heatwave",
-      "url": "https://www.bbc.co.uk/news/articles/c5yd8gly1ydo?at_medium=RSS&at_campaign=rss",
-      "summary": "Firefighters are braced for a sharp rise in temperatures on Wednesday, which could complicate the containment of wildfires in Gironde.",
-      "published_at": "2026-07-28T16:14:03Z",
-      "country_code": "FR",
-      "country_name": "France"
     },
     {
       "source": "BBC World",
@@ -861,7 +861,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 33
+      "news_count": 32
     },
     {
       "country_code": "ES",
@@ -904,6 +904,11 @@
       "news_count": 4
     },
     {
+      "country_code": "UA",
+      "country_name": "Ukraine",
+      "news_count": 3
+    },
+    {
       "country_code": "CL",
       "country_name": "Chile",
       "news_count": 2
@@ -926,11 +931,6 @@
     {
       "country_code": "MA",
       "country_name": "Morocco",
-      "news_count": 2
-    },
-    {
-      "country_code": "UA",
-      "country_name": "Ukraine",
       "news_count": 2
     },
     {
