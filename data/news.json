@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-07-29T18:54:52Z",
+  "generated_at": "2026-07-29T20:07:06Z",
   "articles": [
+    {
+      "source": "BBC Africa",
+      "title": "The athlete from Cameroon who has never held her Olympic medal",
+      "url": "https://www.bbc.co.uk/sport/weightlifting/articles/cn8nxg5rvvko?at_medium=RSS&at_campaign=rss",
+      "summary": "The story of Cameroon Olympic medallist Madias Ngake's remarkable journey from sleeping rough and seeking asylum to winning silver for Engla…",
+      "published_at": "2026-07-29T19:38:24Z",
+      "country_code": "GB",
+      "country_name": "United Kingdom"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "US interest rates held for fifth time in a row",
+      "url": "https://www.bbc.co.uk/news/articles/cy07wgqjv08o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Federal Reserve's decision, which was broadly expected, means rates remain between the 3.5% and 3.75%.",
+      "published_at": "2026-07-29T19:30:40Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "Saudi Arabia's dilemma as it tries to stay out of US-Iran war",
@@ -20,7 +38,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Latin America",
+      "source": "BBC World",
       "title": "Fifa opens disciplinary proceedings against Argentina",
       "url": "https://www.bbc.co.uk/sport/football/articles/cp3rkwgy6y7o?at_medium=RSS&at_campaign=rss",
       "summary": "Fifa opens disciplinary proceedings against Argentina over their behaviour after their World Cup final loss to Spain and throughout the tour…",
@@ -30,7 +48,7 @@
     },
     {
       "source": "BBC World",
-      "title": "France fire crews face searing heat in battle to contain flames",
+      "title": "France fire crews battle heat as locals tell BBC of fight to save homes",
       "url": "https://www.bbc.co.uk/news/articles/c62q5we799ro?at_medium=RSS&at_campaign=rss",
       "summary": "\"It's our forest,\" one volunteer fighting the fire in the Gironde region told the BBC, as other locals have refused to heed evacuations.",
       "published_at": "2026-07-29T16:49:41Z",
@@ -153,15 +171,6 @@
       "published_at": "2026-07-29T06:28:17Z",
       "country_code": "ES",
       "country_name": "Spain"
-    },
-    {
-      "source": "BBC Africa",
-      "title": "The athlete from Cameroon who has never held her Olympic medal",
-      "url": "https://www.bbc.co.uk/sport/weightlifting/articles/cn8nxg5rvvko?at_medium=RSS&at_campaign=rss",
-      "summary": "The story of Cameroon Olympic medallist Madias Ngake's remarkable journey from sleeping rough and seeking asylum to competing for England at…",
-      "published_at": "2026-07-29T05:23:46Z",
-      "country_code": "GB",
-      "country_name": "United Kingdom"
     },
     {
       "source": "BBC World",
@@ -861,7 +870,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 28
+      "news_count": 29
     },
     {
       "country_code": "FR",
