@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-07-29T20:07:06Z",
+  "generated_at": "2026-07-29T21:24:00Z",
   "articles": [
+    {
+      "source": "BBC US & Canada",
+      "title": "'No magic wand' to tackle high prices, Fed boss says as US interest rates held",
+      "url": "https://www.bbc.co.uk/news/articles/cy07wgqjv08o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Federal Reserve's decision, which was broadly expected, means rates remain between the 3.5% and 3.75%.",
+      "published_at": "2026-07-29T20:32:50Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC Africa",
       "title": "The athlete from Cameroon who has never held her Olympic medal",
@@ -9,15 +18,6 @@
       "published_at": "2026-07-29T19:38:24Z",
       "country_code": "GB",
       "country_name": "United Kingdom"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "US interest rates held for fifth time in a row",
-      "url": "https://www.bbc.co.uk/news/articles/cy07wgqjv08o?at_medium=RSS&at_campaign=rss",
-      "summary": "The Federal Reserve's decision, which was broadly expected, means rates remain between the 3.5% and 3.75%.",
-      "published_at": "2026-07-29T19:30:40Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC World",
@@ -48,9 +48,9 @@
     },
     {
       "source": "BBC World",
-      "title": "France fire crews battle heat as locals tell BBC of fight to save homes",
+      "title": "'It's our home, it's our forest': BBC speaks to locals fighting France wildfire",
       "url": "https://www.bbc.co.uk/news/articles/c62q5we799ro?at_medium=RSS&at_campaign=rss",
-      "summary": "\"It's our forest,\" one volunteer fighting the fire in the Gironde region told the BBC, as other locals have refused to heed evacuations.",
+      "summary": "Firefighters are battling flare-ups in 40C heat in the Gironde region, as some locals have refused to heed evacuations.",
       "published_at": "2026-07-29T16:49:41Z",
       "country_code": "FR",
       "country_name": "France"
@@ -243,6 +243,15 @@
       "published_at": "2026-07-28T22:05:26Z",
       "country_code": "IN",
       "country_name": "India"
+    },
+    {
+      "source": "BBC Latin America",
+      "title": "Peru's new president says military will lead crime operations in emergencies",
+      "url": "https://www.bbc.co.uk/news/articles/crmrkpk9dlno?at_medium=RSS&at_campaign=rss",
+      "summary": "More than 100 protesters gathered during the inauguration of Peru's first elected female leader.",
+      "published_at": "2026-07-28T22:01:51Z",
+      "country_code": "PE",
+      "country_name": "Peru"
     },
     {
       "source": "BBC US & Canada",
@@ -975,6 +984,11 @@
     {
       "country_code": "MX",
       "country_name": "Mexico",
+      "news_count": 1
+    },
+    {
+      "country_code": "PE",
+      "country_name": "Peru",
       "news_count": 1
     },
     {
