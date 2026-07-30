@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-07-29T23:28:38Z",
+  "generated_at": "2026-07-30T00:53:45Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Anthony Fauci refuses to answer questions during tense US Senate hearing about Covid origins",
+      "url": "https://www.bbc.co.uk/news/articles/cdx85vkk0gko?at_medium=RSS&at_campaign=rss",
+      "summary": "The former top US health official said he feared Republicans could try to trip him up and use his testimony to prosecute him for perjury.",
+      "published_at": "2026-07-30T00:14:56Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "India's CJP protests: Why tech alone won't stop exam paper leaks",
+      "url": "https://www.bbc.co.uk/news/articles/c1m1gz1nx45o?at_medium=RSS&at_campaign=rss",
+      "summary": "Can computer-based testing stop NEET paper leaks? Experts say governance matters as much as tech.",
+      "published_at": "2026-07-29T22:50:14Z",
+      "country_code": "IN",
+      "country_name": "India"
+    },
     {
       "source": "BBC World",
       "title": "The Chinese robot army transforming the UK's retail industry",
@@ -9,15 +27,6 @@
       "published_at": "2026-07-29T22:08:29Z",
       "country_code": "GB",
       "country_name": "United Kingdom"
-    },
-    {
-      "source": "BBC World",
-      "title": "Anthony Fauci refuses to answer questions during tense US Senate hearing about Covid origins",
-      "url": "https://www.bbc.co.uk/news/articles/cdx85vkk0gko?at_medium=RSS&at_campaign=rss",
-      "summary": "The former top US health official said he feared Republicans could try to trip him up and use his testimony to prosecute him for perjury.",
-      "published_at": "2026-07-29T21:45:25Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC US & Canada",
@@ -135,15 +144,6 @@
       "published_at": "2026-07-29T10:23:29Z",
       "country_code": "RU",
       "country_name": "Russia"
-    },
-    {
-      "source": "BBC World",
-      "title": "Trump's new spy chief Jay Clayton confirmed by US Senate",
-      "url": "https://www.bbc.co.uk/news/articles/c0rd1kl1825o?at_medium=RSS&at_campaign=rss",
-      "summary": "Jay Clayton's confirmation comes after the US president's original choice was rejected by lawmakers due to lack of relevant experience",
-      "published_at": "2026-07-29T09:07:40Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC Africa",
@@ -879,7 +879,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 29
+      "news_count": 28
     },
     {
       "country_code": "FR",
@@ -887,13 +887,13 @@
       "news_count": 9
     },
     {
-      "country_code": "ES",
-      "country_name": "Spain",
-      "news_count": 5
-    },
-    {
       "country_code": "IN",
       "country_name": "India",
+      "news_count": 6
+    },
+    {
+      "country_code": "ES",
+      "country_name": "Spain",
       "news_count": 5
     },
     {
