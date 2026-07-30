@@ -1,14 +1,41 @@
 {
-  "generated_at": "2026-07-30T15:28:40Z",
+  "generated_at": "2026-07-30T16:58:47Z",
   "articles": [
+    {
+      "source": "BBC US & Canada",
+      "title": "Belgium says a Canadian intern is suspected of spying at Nato. Here's what we know",
+      "url": "https://www.bbc.co.uk/news/articles/cwymk20n0v7o?at_medium=RSS&at_campaign=rss",
+      "summary": "The suspect was working as an intern in Nato's Supreme Headquarters Allied Powers (Shape) Europe in Mons, Belgium.",
+      "published_at": "2026-07-30T16:48:40Z",
+      "country_code": "BE",
+      "country_name": "Belgium"
+    },
     {
       "source": "BBC Africa",
       "title": "Oprah Winfrey to close her school for girls in South Africa",
       "url": "https://www.bbc.co.uk/news/articles/c75gre70vr6o?at_medium=RSS&at_campaign=rss",
       "summary": "The campus will be returned to local authorities as she expands a wider scholarship programme for girls.",
-      "published_at": "2026-07-30T14:53:55Z",
+      "published_at": "2026-07-30T16:15:33Z",
       "country_code": "ZA",
       "country_name": "South Africa"
+    },
+    {
+      "source": "BBC World",
+      "title": "Missile that left crater deep inside Poland was probably Russian - Polish PM",
+      "url": "https://www.bbc.co.uk/news/articles/cwymkgenv2ro?at_medium=RSS&at_campaign=rss",
+      "summary": "The missile left a 10m-wide (33ft) crater a short distance from the village of Tarnawa Kolonia, about 100km from the border with Ukraine.",
+      "published_at": "2026-07-30T15:35:50Z",
+      "country_code": "UA",
+      "country_name": "Ukraine"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "Brazil's president confirms two US government officials were denied visas over election interference fears",
+      "url": "https://www.bbc.co.uk/news/articles/c4g3dv60ry9o?at_medium=RSS&at_campaign=rss",
+      "summary": "Brazil has argued the visit could have been used to raise suspicions about the electoral system's reliability ahead of October's vote, which…",
+      "published_at": "2026-07-30T15:02:39Z",
+      "country_code": "US",
+      "country_name": "United States"
     },
     {
       "source": "BBC US & Canada",
@@ -20,13 +47,13 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
-      "title": "Missile that left crater deep inside Poland was probably Russian - Polish PM",
-      "url": "https://www.bbc.co.uk/news/articles/cwymkgenv2ro?at_medium=RSS&at_campaign=rss",
-      "summary": "The missile left a 10m-wide (33ft) crater a short distance from the village of Tarnawa Kolonia, about 100km from the border with Ukraine.",
-      "published_at": "2026-07-30T13:38:50Z",
-      "country_code": "UA",
-      "country_name": "Ukraine"
+      "source": "BBC Africa",
+      "title": "Rangers move a 'dream come true' for South Africa's Makhanya",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cp8e621386mo?at_medium=RSS&at_campaign=rss",
+      "summary": "South Africa defender Olwethu Makhanya becomes Rangers' eighth summer signing, joining for an undisclosed fee from Philadelphia Union.",
+      "published_at": "2026-07-30T14:03:15Z",
+      "country_code": "ZA",
+      "country_name": "South Africa"
     },
     {
       "source": "BBC World",
@@ -209,7 +236,7 @@
       "country_name": "France"
     },
     {
-      "source": "BBC US & Canada",
+      "source": "BBC Middle East",
       "title": "Saudi Arabia joins US in strikes on Iran-backed militias in Iraq",
       "url": "https://www.bbc.co.uk/news/articles/c70g6y24d76o?at_medium=RSS&at_campaign=rss",
       "summary": "US Central Command says proxy groups launched attacks against US bases and Saudi energy infrastructure.",
@@ -335,15 +362,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Latin America",
-      "title": "Peru's new president says military will lead crime operations in emergencies",
-      "url": "https://www.bbc.co.uk/news/articles/crmrkpk9dlno?at_medium=RSS&at_campaign=rss",
-      "summary": "More than 100 protesters gathered during the inauguration of Peru's first elected female leader.",
-      "published_at": "2026-07-28T22:01:51Z",
-      "country_code": "PE",
-      "country_name": "Peru"
-    },
-    {
       "source": "BBC Europe",
       "title": "The race to stop the French woodland fires in their tracks",
       "url": "https://www.bbc.co.uk/news/videos/cvgxd11d11po?at_medium=RSS&at_campaign=rss",
@@ -360,15 +378,6 @@
       "published_at": "2026-07-28T13:54:00Z",
       "country_code": "IT",
       "country_name": "Italy"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "Why is Ukraine rolling out the red carpet for a US far-right influencer?",
-      "url": "https://www.bbc.co.uk/news/videos/cn8n41ywwj1o?at_medium=RSS&at_campaign=rss",
-      "summary": "Laura Loomer, Trump ally, MAGA influencer, and former Ukraine critic was granted extensive access to the country.",
-      "published_at": "2026-07-28T13:13:26Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC Europe",
@@ -434,7 +443,7 @@
       "country_name": "France"
     },
     {
-      "source": "BBC Europe",
+      "source": "BBC Middle East",
       "title": "Ukraine dismisses Iranian threats as Caspian Sea strike directly links wars",
       "url": "https://www.bbc.co.uk/news/articles/cwyj7yl0xndo?at_medium=RSS&at_campaign=rss",
       "summary": "Iran has reacted with fury to the assault on the vessel, with Tehran's foreign minister saying it \"cannot go unanswered\".",
@@ -887,6 +896,11 @@
       "news_count": 3
     },
     {
+      "country_code": "ZA",
+      "country_name": "South Africa",
+      "news_count": 3
+    },
+    {
       "country_code": "KE",
       "country_name": "Kenya",
       "news_count": 2
@@ -897,13 +911,13 @@
       "news_count": 2
     },
     {
-      "country_code": "ZA",
-      "country_name": "South Africa",
-      "news_count": 2
-    },
-    {
       "country_code": "AU",
       "country_name": "Australia",
+      "news_count": 1
+    },
+    {
+      "country_code": "BE",
+      "country_name": "Belgium",
       "news_count": 1
     },
     {
@@ -934,11 +948,6 @@
     {
       "country_code": "MX",
       "country_name": "Mexico",
-      "news_count": 1
-    },
-    {
-      "country_code": "PE",
-      "country_name": "Peru",
       "news_count": 1
     },
     {
