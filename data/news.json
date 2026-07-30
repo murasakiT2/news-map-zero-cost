@@ -1,6 +1,33 @@
 {
-  "generated_at": "2026-07-30T00:53:45Z",
+  "generated_at": "2026-07-30T03:49:27Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "US launches 'heavy' strikes on Iran after attempted attack on American troops",
+      "url": "https://www.bbc.co.uk/news/articles/c74gwdzywmeo?at_medium=RSS&at_campaign=rss",
+      "summary": "The US military said the strikes were in response to Iran firing missiles at US forces in the Middle East on Tuesday.",
+      "published_at": "2026-07-30T03:33:01Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Australia takes Telegram to court over alleged failure to remove 'pro-terror' material",
+      "url": "https://www.bbc.co.uk/news/articles/crmrv4pnexmo?at_medium=RSS&at_campaign=rss",
+      "summary": "Telegram told the BBC it rejects the allegations and will contest them in court.",
+      "published_at": "2026-07-30T03:03:12Z",
+      "country_code": "AU",
+      "country_name": "Australia"
+    },
+    {
+      "source": "BBC World",
+      "title": "Singapore fines French teen $465 for viral straw-licking stunt",
+      "url": "https://www.bbc.co.uk/news/articles/crrvqjw8epko?at_medium=RSS&at_campaign=rss",
+      "summary": "The 19-year-old was \"truly sorry\" for causing trouble, his lawyers said.",
+      "published_at": "2026-07-30T02:54:54Z",
+      "country_code": "SG",
+      "country_name": "Singapore"
+    },
     {
       "source": "BBC World",
       "title": "Anthony Fauci refuses to answer questions during tense US Senate hearing about Covid origins",
@@ -56,7 +83,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Latin America",
       "title": "Fifa opens disciplinary proceedings against Argentina",
       "url": "https://www.bbc.co.uk/sport/football/articles/cp3rkwgy6y7o?at_medium=RSS&at_campaign=rss",
       "summary": "Fifa opens disciplinary proceedings against Argentina over their behaviour after their World Cup final loss to Spain and throughout the tour…",
@@ -83,7 +110,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "Zelensky and Netanyahu meet Trump as wars in Ukraine and Iran drag on",
       "url": "https://www.bbc.co.uk/news/articles/cj4k2z8z45ro?at_medium=RSS&at_campaign=rss",
       "summary": "The two leaders sound encouraged after holding back-to-back bilaterals at the White House.",
@@ -360,15 +387,6 @@
       "published_at": "2026-07-27T22:08:21Z",
       "country_code": "JP",
       "country_name": "Japan"
-    },
-    {
-      "source": "BBC Asia",
-      "title": "China's new challenge as natural disasters strike - fake AI videos",
-      "url": "https://www.bbc.co.uk/news/articles/cx27mjvxgg1o?at_medium=RSS&at_campaign=rss",
-      "summary": "Storms and flooding incidents over the last few months have seen fake videos inundating social media.",
-      "published_at": "2026-07-27T22:07:23Z",
-      "country_code": "CN",
-      "country_name": "China"
     },
     {
       "source": "BBC Middle East",
@@ -879,7 +897,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 28
+      "news_count": 29
     },
     {
       "country_code": "FR",
@@ -957,8 +975,8 @@
       "news_count": 2
     },
     {
-      "country_code": "CN",
-      "country_name": "China",
+      "country_code": "AU",
+      "country_name": "Australia",
       "news_count": 1
     },
     {
@@ -989,6 +1007,11 @@
     {
       "country_code": "PE",
       "country_name": "Peru",
+      "news_count": 1
+    },
+    {
+      "country_code": "SG",
+      "country_name": "Singapore",
       "news_count": 1
     },
     {
