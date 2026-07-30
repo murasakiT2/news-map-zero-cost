@@ -1,23 +1,41 @@
 {
-  "generated_at": "2026-07-30T13:01:48Z",
+  "generated_at": "2026-07-30T15:28:40Z",
   "articles": [
     {
       "source": "BBC Africa",
-      "title": "Pesticide-sprayed tomatoes suspected to have killed 15 elephants in Kenya",
-      "url": "https://www.bbc.co.uk/news/articles/cp9e0v5xmdyo?at_medium=RSS&at_campaign=rss",
-      "summary": "Foul play is ruled out in the record number of elephant deaths for decades in this area of southern Kenya.",
-      "published_at": "2026-07-30T12:14:00Z",
-      "country_code": "KE",
-      "country_name": "Kenya"
+      "title": "Oprah Winfrey to close her school for girls in South Africa",
+      "url": "https://www.bbc.co.uk/news/articles/c75gre70vr6o?at_medium=RSS&at_campaign=rss",
+      "summary": "The campus will be returned to local authorities as she expands a wider scholarship programme for girls.",
+      "published_at": "2026-07-30T14:53:55Z",
+      "country_code": "ZA",
+      "country_name": "South Africa"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "US economic growth sees surprise slowdown in second quarter",
+      "url": "https://www.bbc.co.uk/news/articles/cd0xvrmlx2eo?at_medium=RSS&at_campaign=rss",
+      "summary": "The economy grew at an annual rate of 1.5% in the three months to June, down from 2.1% seen in the previous quarter.",
+      "published_at": "2026-07-30T14:24:41Z",
+      "country_code": "US",
+      "country_name": "United States"
     },
     {
       "source": "BBC World",
       "title": "Missile that left crater deep inside Poland was probably Russian - Polish PM",
       "url": "https://www.bbc.co.uk/news/articles/cwymkgenv2ro?at_medium=RSS&at_campaign=rss",
       "summary": "The missile left a 10m-wide (33ft) crater a short distance from the village of Tarnawa Kolonia, about 100km from the border with Ukraine.",
-      "published_at": "2026-07-30T11:48:50Z",
+      "published_at": "2026-07-30T13:38:50Z",
       "country_code": "UA",
       "country_name": "Ukraine"
+    },
+    {
+      "source": "BBC World",
+      "title": "Cyanide in tomato pesticide killed 15 elephants, Kenyan officials suspect",
+      "url": "https://www.bbc.co.uk/news/articles/cp9e0v5xmdyo?at_medium=RSS&at_campaign=rss",
+      "summary": "Foul play is ruled out in the record number of elephant deaths for decades in this area of southern Kenya.",
+      "published_at": "2026-07-30T12:14:00Z",
+      "country_code": "KE",
+      "country_name": "Kenya"
     },
     {
       "source": "BBC Middle East",
@@ -45,15 +63,6 @@
       "published_at": "2026-07-30T10:29:15Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC Europe",
-      "title": "Three children among eight dead in Russian strikes on Ukraine, officials say",
-      "url": "https://www.bbc.co.uk/news/articles/cy8mk59l5jzo?at_medium=RSS&at_campaign=rss",
-      "summary": "A six-year-old girl and two boys, aged 11 and 17, were among six killed in a village near the central city of Kryvyi Rih.",
-      "published_at": "2026-07-30T09:21:55Z",
-      "country_code": "UA",
-      "country_name": "Ukraine"
     },
     {
       "source": "BBC Asia",
@@ -129,7 +138,7 @@
     },
     {
       "source": "BBC US & Canada",
-      "title": "Red Cross declares crisis over blood supply shortage in US for second time its history",
+      "title": "Red Cross declares crisis over blood supply shortage in US for second time in its history",
       "url": "https://www.bbc.co.uk/news/articles/c74gze89783o?at_medium=RSS&at_campaign=rss",
       "summary": "Fewer donations and higher demand has seen a supply shortage worsen, the American Red Cross tells the BBC.",
       "published_at": "2026-07-29T23:04:35Z",
@@ -236,7 +245,7 @@
       "country_name": "Japan"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "'I thought I would die': Survivors describe shock and horror of powerful Japan earthquake",
       "url": "https://www.bbc.co.uk/news/articles/cvgw52l5kyyo?at_medium=RSS&at_campaign=rss",
       "summary": "Rescue operations are ongoing following the 6.8-magnitude quake, as survivors wrestle with the shock.",
@@ -261,15 +270,6 @@
       "published_at": "2026-07-29T10:35:13Z",
       "country_code": "FR",
       "country_name": "France"
-    },
-    {
-      "source": "BBC World",
-      "title": "Russia charges Telegram founder Durov with facilitating terrorism",
-      "url": "https://www.bbc.co.uk/news/articles/cj4kexqkpzno?at_medium=RSS&at_campaign=rss",
-      "summary": "The FSB claims the messenger app, created by Pavel Durov, has failed to remove accounts and channels used for recruitment by Ukraine's secre…",
-      "published_at": "2026-07-29T10:23:29Z",
-      "country_code": "RU",
-      "country_name": "Russia"
     },
     {
       "source": "BBC Europe",
@@ -834,7 +834,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 28
+      "news_count": 29
     },
     {
       "country_code": "FR",
@@ -857,11 +857,6 @@
       "news_count": 5
     },
     {
-      "country_code": "UA",
-      "country_name": "Ukraine",
-      "news_count": 5
-    },
-    {
       "country_code": "IN",
       "country_name": "India",
       "news_count": 4
@@ -874,6 +869,11 @@
     {
       "country_code": "PS",
       "country_name": "Palestine",
+      "news_count": 4
+    },
+    {
+      "country_code": "UA",
+      "country_name": "Ukraine",
       "news_count": 4
     },
     {
@@ -892,13 +892,13 @@
       "news_count": 2
     },
     {
-      "country_code": "RU",
-      "country_name": "Russia",
+      "country_code": "SD",
+      "country_name": "Sudan",
       "news_count": 2
     },
     {
-      "country_code": "SD",
-      "country_name": "Sudan",
+      "country_code": "ZA",
+      "country_name": "South Africa",
       "news_count": 2
     },
     {
@@ -942,6 +942,11 @@
       "news_count": 1
     },
     {
+      "country_code": "RU",
+      "country_name": "Russia",
+      "news_count": 1
+    },
+    {
       "country_code": "SA",
       "country_name": "Saudi Arabia",
       "news_count": 1
@@ -949,11 +954,6 @@
     {
       "country_code": "SG",
       "country_name": "Singapore",
-      "news_count": 1
-    },
-    {
-      "country_code": "ZA",
-      "country_name": "South Africa",
       "news_count": 1
     }
   ]
