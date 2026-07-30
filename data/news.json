@@ -1,6 +1,33 @@
 {
-  "generated_at": "2026-07-30T11:26:18Z",
+  "generated_at": "2026-07-30T13:01:48Z",
   "articles": [
+    {
+      "source": "BBC Africa",
+      "title": "Pesticide-sprayed tomatoes suspected to have killed 15 elephants in Kenya",
+      "url": "https://www.bbc.co.uk/news/articles/cp9e0v5xmdyo?at_medium=RSS&at_campaign=rss",
+      "summary": "Foul play is ruled out in the record number of elephant deaths for decades in this area of southern Kenya.",
+      "published_at": "2026-07-30T12:14:00Z",
+      "country_code": "KE",
+      "country_name": "Kenya"
+    },
+    {
+      "source": "BBC World",
+      "title": "Missile that left crater deep inside Poland was probably Russian - Polish PM",
+      "url": "https://www.bbc.co.uk/news/articles/cwymkgenv2ro?at_medium=RSS&at_campaign=rss",
+      "summary": "The missile left a 10m-wide (33ft) crater a short distance from the village of Tarnawa Kolonia, about 100km from the border with Ukraine.",
+      "published_at": "2026-07-30T11:48:50Z",
+      "country_code": "UA",
+      "country_name": "Ukraine"
+    },
+    {
+      "source": "BBC Middle East",
+      "title": "Drone attack caused fire on gas ships at Mediterranean port, Egypt says",
+      "url": "https://www.bbc.co.uk/news/articles/c39ez3klwmro?at_medium=RSS&at_campaign=rss",
+      "summary": "The drone reportedly hit a US-owned regasification vessel and a Greek-owned tanker at Damietta port on Wednesday.",
+      "published_at": "2026-07-30T11:35:25Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "US launches 'heavy' strikes on Iran after attempted attack on American troops",
@@ -18,15 +45,6 @@
       "published_at": "2026-07-30T10:29:15Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "Missile that left crater deep inside Poland was probably Russian - Polish PM",
-      "url": "https://www.bbc.co.uk/news/articles/cwymkgenv2ro?at_medium=RSS&at_campaign=rss",
-      "summary": "The unidentified object caused a 10m-wide (33ft) crater a short distance from the village of Tarnawa Kolonia, about 100km from the border wi…",
-      "published_at": "2026-07-30T09:56:06Z",
-      "country_code": "UA",
-      "country_name": "Ukraine"
     },
     {
       "source": "BBC Europe",
@@ -414,15 +432,6 @@
       "published_at": "2026-07-27T17:20:27Z",
       "country_code": "FR",
       "country_name": "France"
-    },
-    {
-      "source": "BBC Africa",
-      "title": "'Every country wants to beat Nigeria' - Super Falcons hunt 11th Wafcon title",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cly5q0e2g0ro?at_medium=RSS&at_campaign=rss",
-      "summary": "Nigeria face Malawi, Zambia and Egypt at the 2026 Women's Africa Cup of Nations, looking to defend their crown and claim an 11th title.",
-      "published_at": "2026-07-27T16:47:12Z",
-      "country_code": "EG",
-      "country_name": "Egypt"
     },
     {
       "source": "BBC Europe",
@@ -825,7 +834,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 27
+      "news_count": 28
     },
     {
       "country_code": "FR",
@@ -878,6 +887,11 @@
       "news_count": 3
     },
     {
+      "country_code": "KE",
+      "country_name": "Kenya",
+      "news_count": 2
+    },
+    {
       "country_code": "RU",
       "country_name": "Russia",
       "news_count": 2
@@ -903,11 +917,6 @@
       "news_count": 1
     },
     {
-      "country_code": "EG",
-      "country_name": "Egypt",
-      "news_count": 1
-    },
-    {
       "country_code": "ID",
       "country_name": "Indonesia",
       "news_count": 1
@@ -920,11 +929,6 @@
     {
       "country_code": "IT",
       "country_name": "Italy",
-      "news_count": 1
-    },
-    {
-      "country_code": "KE",
-      "country_name": "Kenya",
       "news_count": 1
     },
     {
