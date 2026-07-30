@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-07-30T18:14:25Z",
+  "generated_at": "2026-07-30T19:58:41Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Migrants seen swimming around border fence of Spanish enclave Ceuta",
+      "url": "https://www.bbc.co.uk/news/videos/cnvnml1pen6o?at_medium=RSS&at_campaign=rss",
+      "summary": "The North African enclave's leader said resources were being overwhelmed after so many people entered by sea from Morocco.",
+      "published_at": "2026-07-30T19:16:18Z",
+      "country_code": "MA",
+      "country_name": "Morocco"
+    },
     {
       "source": "BBC World",
       "title": "Why limited war with the US may suit Iran better than peace",
@@ -36,6 +45,15 @@
       "published_at": "2026-07-30T16:15:33Z",
       "country_code": "ZA",
       "country_name": "South Africa"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "Flash flooding destroys structures, submerges roads in Northeast US",
+      "url": "https://www.bbc.co.uk/news/videos/c77gvyyve57o?at_medium=RSS&at_campaign=rss",
+      "summary": "More than 10 million people were under flood alerts across the region on Wednesday.",
+      "published_at": "2026-07-30T16:08:58Z",
+      "country_code": "US",
+      "country_name": "United States"
     },
     {
       "source": "BBC World",
@@ -209,15 +227,6 @@
       "country_name": "United Kingdom"
     },
     {
-      "source": "BBC US & Canada",
-      "title": "'No magic wand' to tackle high prices, Fed boss says as US interest rates held",
-      "url": "https://www.bbc.co.uk/news/articles/cy07wgqjv08o?at_medium=RSS&at_campaign=rss",
-      "summary": "The Federal Reserve's decision, which was broadly expected, means rates remain between the 3.5% and 3.75%.",
-      "published_at": "2026-07-29T20:32:50Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC Africa",
       "title": "The athlete from Cameroon who has never held her Olympic medal",
       "url": "https://www.bbc.co.uk/sport/weightlifting/articles/cn8nxg5rvvko?at_medium=RSS&at_campaign=rss",
@@ -360,15 +369,6 @@
       "published_at": "2026-07-28T23:25:53Z",
       "country_code": "NG",
       "country_name": "Nigeria"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "Watch: Trump delivers eulogy honouring Lindsey Graham",
-      "url": "https://www.bbc.co.uk/news/videos/cy45kev0709o?at_medium=RSS&at_campaign=rss",
-      "summary": "The US president hailed the late senator as a \"true American original\" at the funeral attended by Netanyahu and Zelensky.",
-      "published_at": "2026-07-28T22:05:57Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC Europe",
@@ -843,7 +843,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 29
+      "news_count": 28
     },
     {
       "country_code": "FR",
@@ -906,6 +906,11 @@
       "news_count": 2
     },
     {
+      "country_code": "MA",
+      "country_name": "Morocco",
+      "news_count": 2
+    },
+    {
       "country_code": "SD",
       "country_name": "Sudan",
       "news_count": 2
@@ -943,11 +948,6 @@
     {
       "country_code": "IT",
       "country_name": "Italy",
-      "news_count": 1
-    },
-    {
-      "country_code": "MA",
-      "country_name": "Morocco",
       "news_count": 1
     },
     {
