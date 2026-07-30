@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-07-30T16:58:47Z",
+  "generated_at": "2026-07-30T18:14:25Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Why limited war with the US may suit Iran better than peace",
+      "url": "https://www.bbc.co.uk/news/articles/c78gnyq3wvdo?at_medium=RSS&at_campaign=rss",
+      "summary": "Iran may believe it can control its conflict carefully enough to keep pressure on the US while avoiding an all-out war.",
+      "published_at": "2026-07-30T17:26:01Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Hundreds of migrants swim from Morocco to Spanish enclave of Ceuta",
+      "url": "https://www.bbc.co.uk/news/articles/cg4drwzkrkxo?at_medium=RSS&at_campaign=rss",
+      "summary": "The territory's leader said the influx is overwhelming resources and urged the Spanish government to intervene.",
+      "published_at": "2026-07-30T17:19:27Z",
+      "country_code": "MA",
+      "country_name": "Morocco"
+    },
     {
       "source": "BBC US & Canada",
       "title": "Belgium says a Canadian intern is suspected of spying at Nato. Here's what we know",
@@ -299,15 +317,6 @@
       "country_name": "France"
     },
     {
-      "source": "BBC Europe",
-      "title": "Cucurella gets tattoo of Spain coach De la Fuente",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cdewdedl44go?at_medium=RSS&at_campaign=rss",
-      "summary": "Spain defender Marc Cucurella keeps his promise to get a tattoo of World Cup-winning coach Luis de la Fuente.",
-      "published_at": "2026-07-29T07:42:52Z",
-      "country_code": "ES",
-      "country_name": "Spain"
-    },
-    {
       "source": "BBC Africa",
       "title": "Diomande's rapid and remarkable rise to Real Madrid",
       "url": "https://www.bbc.co.uk/sport/football/articles/cm2g3dd2jxko?at_medium=RSS&at_campaign=rss",
@@ -344,7 +353,7 @@
       "country_name": "Japan"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Africa",
       "title": "How Mexican drug cartels have outsourced meth labs to Nigeria",
       "url": "https://www.bbc.co.uk/news/articles/crmrnxp4nllo?at_medium=RSS&at_campaign=rss",
       "summary": "West Africa is becoming increasingly attractive to those who want to make and export illicit drugs.",
@@ -378,15 +387,6 @@
       "published_at": "2026-07-28T13:54:00Z",
       "country_code": "IT",
       "country_name": "Italy"
-    },
-    {
-      "source": "BBC Europe",
-      "title": "US walks out of UN Security Council meeting during France's remarks",
-      "url": "https://www.bbc.co.uk/news/articles/c87nj3w9gxjo?at_medium=RSS&at_campaign=rss",
-      "summary": "The row sparked after the US joined North Korea and Russia in voting against extending the term of the UN high commissioner for human rights…",
-      "published_at": "2026-07-28T09:32:25Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC Asia",
@@ -853,7 +853,7 @@
     {
       "country_code": "ES",
       "country_name": "Spain",
-      "news_count": 6
+      "news_count": 5
     },
     {
       "country_code": "IR",
@@ -943,6 +943,11 @@
     {
       "country_code": "IT",
       "country_name": "Italy",
+      "news_count": 1
+    },
+    {
+      "country_code": "MA",
+      "country_name": "Morocco",
       "news_count": 1
     },
     {
