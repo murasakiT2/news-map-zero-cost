@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-07-30T22:32:40Z",
+  "generated_at": "2026-07-30T23:52:29Z",
   "articles": [
+    {
+      "source": "BBC Asia",
+      "title": "Nirmal Purja among 10 climbers feared missing after avalanche",
+      "url": "https://www.bbc.co.uk/news/articles/cddjz1r01l8o?at_medium=RSS&at_campaign=rss",
+      "summary": "An American, a Chinese national, an Omani and five Nepalis are said to be part of the group feared missing in Pakistan.",
+      "published_at": "2026-07-30T23:37:47Z",
+      "country_code": "PK",
+      "country_name": "Pakistan"
+    },
+    {
+      "source": "BBC World",
+      "title": "Trump says Board of Peace has reached agreement for disarmament of Hamas",
+      "url": "https://www.bbc.co.uk/news/articles/cj03m512r4go?at_medium=RSS&at_campaign=rss",
+      "summary": "Israel and Hamas have yet to comment on the announcement.",
+      "published_at": "2026-07-30T23:30:41Z",
+      "country_code": "IL",
+      "country_name": "Israel"
+    },
     {
       "source": "BBC Asia",
       "title": "India wants to join the strawberry superpowers",
@@ -196,15 +214,6 @@
       "url": "https://www.bbc.co.uk/news/articles/c621m66qm76o?at_medium=RSS&at_campaign=rss",
       "summary": "The source of the cyclosporiasis outbreak, which has spread across at least 45 states, is unclear.",
       "published_at": "2026-07-30T00:52:09Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "Anthony Fauci refuses to answer questions during tense US Senate hearing about Covid origins",
-      "url": "https://www.bbc.co.uk/news/articles/cdx85vkk0gko?at_medium=RSS&at_campaign=rss",
-      "summary": "The former top US health official said he feared Republicans could try to trip him up and use his testimony to prosecute him for perjury.",
-      "published_at": "2026-07-30T00:14:56Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -834,7 +843,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 29
+      "news_count": 28
     },
     {
       "country_code": "FR",
@@ -892,6 +901,11 @@
       "news_count": 3
     },
     {
+      "country_code": "IL",
+      "country_name": "Israel",
+      "news_count": 2
+    },
+    {
       "country_code": "KE",
       "country_name": "Kenya",
       "news_count": 2
@@ -932,11 +946,6 @@
       "news_count": 1
     },
     {
-      "country_code": "IL",
-      "country_name": "Israel",
-      "news_count": 1
-    },
-    {
       "country_code": "IT",
       "country_name": "Italy",
       "news_count": 1
@@ -944,6 +953,11 @@
     {
       "country_code": "MX",
       "country_name": "Mexico",
+      "news_count": 1
+    },
+    {
+      "country_code": "PK",
+      "country_name": "Pakistan",
       "news_count": 1
     },
     {
