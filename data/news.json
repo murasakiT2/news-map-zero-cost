@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-07-30T21:08:19Z",
+  "generated_at": "2026-07-30T22:32:40Z",
   "articles": [
+    {
+      "source": "BBC Asia",
+      "title": "India wants to join the strawberry superpowers",
+      "url": "https://www.bbc.co.uk/news/articles/c8x274xxxpwo?at_medium=RSS&at_campaign=rss",
+      "summary": "Indian strawberry farmers rely on varieties imported from the US and Europe, but that could change.",
+      "published_at": "2026-07-30T22:04:09Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Hundreds of migrants swim from Morocco to Spanish enclave of Ceuta",
+      "url": "https://www.bbc.co.uk/news/articles/cg4drwzkrkxo?at_medium=RSS&at_campaign=rss",
+      "summary": "The territory's leader said the influx is overwhelming resources and urged the Spanish government to intervene.",
+      "published_at": "2026-07-30T21:24:31Z",
+      "country_code": "MA",
+      "country_name": "Morocco"
+    },
     {
       "source": "BBC US & Canada",
       "title": "Fauci on 'solid legal ground' in face of prosecution threat, lawyer says",
@@ -27,15 +45,6 @@
       "published_at": "2026-07-30T17:26:01Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "Hundreds of migrants swim from Morocco to Spanish enclave of Ceuta",
-      "url": "https://www.bbc.co.uk/news/articles/cg4drwzkrkxo?at_medium=RSS&at_campaign=rss",
-      "summary": "The territory's leader said the influx is overwhelming resources and urged the Spanish government to intervene.",
-      "published_at": "2026-07-30T17:19:27Z",
-      "country_code": "MA",
-      "country_name": "Morocco"
     },
     {
       "source": "BBC US & Canada",
@@ -353,15 +362,6 @@
       "country_name": "Palestine"
     },
     {
-      "source": "BBC Asia",
-      "title": "Japan earthquake kills at least 13 as rescuers race to find survivors",
-      "url": "https://www.bbc.co.uk/news/articles/cgewg24qgnjo?at_medium=RSS&at_campaign=rss",
-      "summary": "The quake damaged roads and buildings, shut rail networks, and forced thousands to evacuate to shelters.",
-      "published_at": "2026-07-29T03:42:53Z",
-      "country_code": "JP",
-      "country_name": "Japan"
-    },
-    {
       "source": "BBC Africa",
       "title": "How Mexican drug cartels have outsourced meth labs to Nigeria",
       "url": "https://www.bbc.co.uk/news/articles/crmrnxp4nllo?at_medium=RSS&at_campaign=rss",
@@ -522,15 +522,6 @@
       "published_at": "2026-07-26T08:14:55Z",
       "country_code": "DE",
       "country_name": "Germany"
-    },
-    {
-      "source": "BBC Asia",
-      "title": "India's 'cockroach' protest called off after education minister quits",
-      "url": "https://www.bbc.co.uk/news/articles/cdx828gj5xko?at_medium=RSS&at_campaign=rss",
-      "summary": "The CJP protest has been the most visible expression of public anger against PM Narendra Modi's government in recent years.",
-      "published_at": "2026-07-25T17:44:46Z",
-      "country_code": "IN",
-      "country_name": "India"
     },
     {
       "source": "BBC Asia",
@@ -843,7 +834,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 28
+      "news_count": 29
     },
     {
       "country_code": "FR",
@@ -863,11 +854,6 @@
     {
       "country_code": "JP",
       "country_name": "Japan",
-      "news_count": 5
-    },
-    {
-      "country_code": "IN",
-      "country_name": "India",
       "news_count": 4
     },
     {
@@ -893,6 +879,11 @@
     {
       "country_code": "GB",
       "country_name": "United Kingdom",
+      "news_count": 3
+    },
+    {
+      "country_code": "IN",
+      "country_name": "India",
       "news_count": 3
     },
     {
