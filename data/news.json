@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-07-31T13:10:31Z",
+  "generated_at": "2026-07-31T15:33:55Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Bowen: Plan for Hamas to disarm faces big obstacles, yet it offers rare hope for Gaza",
+      "url": "https://www.bbc.co.uk/news/articles/c2dkje4p4klo?at_medium=RSS&at_campaign=rss",
+      "summary": "The realities of politics, war, zero trust, the deaths of thousands and the destruction of Gaza will make any agreement very complicated.",
+      "published_at": "2026-07-31T15:18:31Z",
+      "country_code": "PS",
+      "country_name": "Palestine"
+    },
+    {
+      "source": "BBC Africa",
+      "title": "Nigeria date removed from South African pop star Tyla's world tour after boycott petition",
+      "url": "https://www.bbc.co.uk/news/articles/c7vglz56gg5o?at_medium=RSS&at_campaign=rss",
+      "summary": "Nigerians urged Tyla to cancel her concert in Lagos over anti-migrant protests in South Africa.",
+      "published_at": "2026-07-31T14:49:49Z",
+      "country_code": "ZA",
+      "country_name": "South Africa"
+    },
+    {
+      "source": "BBC World",
+      "title": "About 60,000 migrants arrive in Ceuta in 24 hours, Spanish territory's leader says",
+      "url": "https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&at_campaign=rss",
+      "summary": "Spain's prime minister described the situation as an \"attack\" on its North African territory and said all illegal migrants would be returned…",
+      "published_at": "2026-07-31T14:20:18Z",
+      "country_code": "ES",
+      "country_name": "Spain"
+    },
+    {
+      "source": "BBC Africa",
+      "title": "At least 25 people killed in Algeria bus crash",
+      "url": "https://www.bbc.co.uk/news/articles/cg5l0dj86y8o?at_medium=RSS&at_campaign=rss",
+      "summary": "Prime Minister ​Sifi ​Ghrieb ⁠has visited the hospital where some of thoe injured ⁠have ​been taken.",
+      "published_at": "2026-07-31T13:26:28Z",
+      "country_code": "DZ",
+      "country_name": "Algeria"
+    },
     {
       "source": "BBC Asia",
       "title": "Four climbers killed and six feared missing after avalanche hit Nirmal Purja's team",
@@ -9,15 +45,6 @@
       "published_at": "2026-07-31T12:37:49Z",
       "country_code": "PK",
       "country_name": "Pakistan"
-    },
-    {
-      "source": "BBC Africa",
-      "title": "Nigeria removed from South African pop star Tyla's upcoming world tour",
-      "url": "https://www.bbc.co.uk/news/articles/c7vglz56gg5o?at_medium=RSS&at_campaign=rss",
-      "summary": "Nigerians urged Tyla to cancel her concert in Lagos over anti-migrant protests in South Africa.",
-      "published_at": "2026-07-31T12:18:22Z",
-      "country_code": "ZA",
-      "country_name": "South Africa"
     },
     {
       "source": "BBC Africa",
@@ -92,7 +119,7 @@
       "country_name": "United Kingdom"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Middle East",
       "title": "If Hamas disarmament plan holds, it could mark first credible step to ending Gaza war",
       "url": "https://www.bbc.co.uk/news/articles/c9d8gd87d83o?at_medium=RSS&at_campaign=rss",
       "summary": "The plan - if successful - potentially removes the most significant obstacle to advancing the Trump-backed peace initiative in Gaza.",
@@ -488,15 +515,6 @@
       "country_name": "Nigeria"
     },
     {
-      "source": "BBC Middle East",
-      "title": "More than 600 US military service members injured since Iran War began in February",
-      "url": "https://www.bbc.co.uk/news/articles/c998pzd1e8xo?at_medium=RSS&at_campaign=rss",
-      "summary": "The latest figure includes casualties from Operation Fury and a new category called \"Overseas Operations\".",
-      "published_at": "2026-07-27T13:31:57Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC Europe",
       "title": "'I can't take it anymore': Residents evacuated from town west of Madrid",
       "url": "https://www.bbc.co.uk/news/videos/c1l1m66qdeyo?at_medium=RSS&at_campaign=rss",
@@ -834,7 +852,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 28
+      "news_count": 27
     },
     {
       "country_code": "FR",
@@ -844,7 +862,12 @@
     {
       "country_code": "ES",
       "country_name": "Spain",
-      "news_count": 5
+      "news_count": 6
+    },
+    {
+      "country_code": "PS",
+      "country_name": "Palestine",
+      "news_count": 6
     },
     {
       "country_code": "GB",
@@ -854,11 +877,6 @@
     {
       "country_code": "IR",
       "country_name": "Iran",
-      "news_count": 5
-    },
-    {
-      "country_code": "PS",
-      "country_name": "Palestine",
       "news_count": 5
     },
     {
@@ -924,6 +942,11 @@
     {
       "country_code": "DE",
       "country_name": "Germany",
+      "news_count": 1
+    },
+    {
+      "country_code": "DZ",
+      "country_name": "Algeria",
       "news_count": 1
     },
     {
