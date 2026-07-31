@@ -1,6 +1,33 @@
 {
-  "generated_at": "2026-07-31T11:02:50Z",
+  "generated_at": "2026-07-31T13:10:31Z",
   "articles": [
+    {
+      "source": "BBC Asia",
+      "title": "Four climbers killed and six feared missing after avalanche hit Nirmal Purja's team",
+      "url": "https://www.bbc.co.uk/news/articles/cddjz1r01l8o?at_medium=RSS&at_campaign=rss",
+      "summary": "An American, a Chinese national, an Omani and five Nepalis are said to be part of the group feared missing or killed in Pakistan.",
+      "published_at": "2026-07-31T12:37:49Z",
+      "country_code": "PK",
+      "country_name": "Pakistan"
+    },
+    {
+      "source": "BBC Africa",
+      "title": "Nigeria removed from South African pop star Tyla's upcoming world tour",
+      "url": "https://www.bbc.co.uk/news/articles/c7vglz56gg5o?at_medium=RSS&at_campaign=rss",
+      "summary": "Nigerians urged Tyla to cancel her concert in Lagos over anti-migrant protests in South Africa.",
+      "published_at": "2026-07-31T12:18:22Z",
+      "country_code": "ZA",
+      "country_name": "South Africa"
+    },
+    {
+      "source": "BBC Africa",
+      "title": "US admits 'unfortunate error' after mislabelling countries on map of Africa",
+      "url": "https://www.bbc.co.uk/news/articles/c89n0xykw2go?at_medium=RSS&at_campaign=rss",
+      "summary": "A State Department presentation at HIV conference put Ivory Coast in East Africa and made Nigeria landlocked.",
+      "published_at": "2026-07-31T11:30:04Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "Peru's ex-president has 15-year jail sentence for corruption charges overturned",
@@ -47,22 +74,13 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Middle East",
       "title": "Hamas says it has agreed to disarm after Trump announces Board of Peace plan",
       "url": "https://www.bbc.co.uk/news/articles/cj03m512r4go?at_medium=RSS&at_campaign=rss",
       "summary": "A senior Hamas official has told the BBC they have agreed to the Board of Peace's plan. Israel has not commented.",
       "published_at": "2026-07-31T07:03:29Z",
       "country_code": "IL",
       "country_name": "Israel"
-    },
-    {
-      "source": "BBC Asia",
-      "title": "Nirmal Purja among 10 climbers feared missing after avalanche",
-      "url": "https://www.bbc.co.uk/news/articles/cddjz1r01l8o?at_medium=RSS&at_campaign=rss",
-      "summary": "An American, a Chinese national, an Omani and five Nepalis are said to be part of the group feared missing in Pakistan.",
-      "published_at": "2026-07-31T06:52:56Z",
-      "country_code": "PK",
-      "country_name": "Pakistan"
     },
     {
       "source": "BBC World",
@@ -360,15 +378,6 @@
       "published_at": "2026-07-29T10:35:13Z",
       "country_code": "FR",
       "country_name": "France"
-    },
-    {
-      "source": "BBC Africa",
-      "title": "Diomande's rapid and remarkable rise to Real Madrid",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cm2g3dd2jxko?at_medium=RSS&at_campaign=rss",
-      "summary": "Yan Diomande has quickly gone from being a relatively unknown winger to the brink of becoming Real Madrid's record signing.",
-      "published_at": "2026-07-29T06:28:17Z",
-      "country_code": "ES",
-      "country_name": "Spain"
     },
     {
       "source": "BBC Africa",
@@ -825,7 +834,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 27
+      "news_count": 28
     },
     {
       "country_code": "FR",
@@ -835,7 +844,7 @@
     {
       "country_code": "ES",
       "country_name": "Spain",
-      "news_count": 6
+      "news_count": 5
     },
     {
       "country_code": "GB",
@@ -863,13 +872,13 @@
       "news_count": 4
     },
     {
-      "country_code": "UA",
-      "country_name": "Ukraine",
-      "news_count": 3
-    },
-    {
       "country_code": "ZA",
       "country_name": "South Africa",
+      "news_count": 4
+    },
+    {
+      "country_code": "UA",
+      "country_name": "Ukraine",
       "news_count": 3
     },
     {
