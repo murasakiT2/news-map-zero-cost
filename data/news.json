@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-07-31T01:48:31Z",
+  "generated_at": "2026-07-31T05:23:50Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "UK rapper Yung Filly found not guilty of raping woman after Australian show",
+      "url": "https://www.bbc.co.uk/news/articles/crrv7vk0knro?at_medium=RSS&at_campaign=rss",
+      "summary": "The YouTuber has been found guilty for two counts of assault over the 2024 incident in Perth.",
+      "published_at": "2026-07-31T05:21:18Z",
+      "country_code": "GB",
+      "country_name": "United Kingdom"
+    },
+    {
+      "source": "BBC World",
+      "title": "Rushdi Abualouf: If Hamas disarmament plan holds, it could mark first credible step to ending Gaza war",
+      "url": "https://www.bbc.co.uk/news/articles/c9d8gd87d83o?at_medium=RSS&at_campaign=rss",
+      "summary": "The plan - if successful - potentially removes the most significant obstacle to advancing the Trump-backed peace initiative in Gaza.",
+      "published_at": "2026-07-31T04:25:49Z",
+      "country_code": "PS",
+      "country_name": "Palestine"
+    },
+    {
+      "source": "BBC World",
+      "title": "Hamas says it has agreed to disarm after Trump announces Board of Peace plan",
+      "url": "https://www.bbc.co.uk/news/articles/cj03m512r4go?at_medium=RSS&at_campaign=rss",
+      "summary": "A senior Hamas official has told the BBC they have agreed to the Board of Peace's plan. Israel has not commented.",
+      "published_at": "2026-07-31T03:24:14Z",
+      "country_code": "IL",
+      "country_name": "Israel"
+    },
+    {
+      "source": "BBC World",
+      "title": "Spain sending troops as thousands enter enclave of Ceuta from Morocco",
+      "url": "https://www.bbc.co.uk/news/articles/cg4drwzkrkxo?at_medium=RSS&at_campaign=rss",
+      "summary": "At least 15 people drown as migrants try to swim to Spanish territory amid scenes of chaos at the border.",
+      "published_at": "2026-07-31T02:41:09Z",
+      "country_code": "ES",
+      "country_name": "Spain"
+    },
     {
       "source": "BBC World",
       "title": "Nirmal Purja among 10 climbers feared missing after avalanche",
@@ -12,30 +48,12 @@
     },
     {
       "source": "BBC World",
-      "title": "Hamas says it has agreed to disarm after Trump announces Board of Peace plan",
-      "url": "https://www.bbc.co.uk/news/articles/cj03m512r4go?at_medium=RSS&at_campaign=rss",
-      "summary": "A senior Hamas official has told the BBC they have agreed to the Board of Peace's plan. Israel has not commented.",
-      "published_at": "2026-07-31T00:07:17Z",
-      "country_code": "IL",
-      "country_name": "Israel"
-    },
-    {
-      "source": "BBC Asia",
       "title": "India wants to join the strawberry superpowers",
       "url": "https://www.bbc.co.uk/news/articles/c8x274xxxpwo?at_medium=RSS&at_campaign=rss",
       "summary": "Indian strawberry farmers rely on varieties imported from the US and Europe, but that could change.",
       "published_at": "2026-07-30T22:04:09Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "Hundreds of migrants swim from Morocco to Spanish enclave of Ceuta",
-      "url": "https://www.bbc.co.uk/news/articles/cg4drwzkrkxo?at_medium=RSS&at_campaign=rss",
-      "summary": "The territory's leader said the influx is overwhelming resources and urged the Spanish government to intervene.",
-      "published_at": "2026-07-30T21:24:31Z",
-      "country_code": "MA",
-      "country_name": "Morocco"
     },
     {
       "source": "BBC US & Canada",
@@ -45,15 +63,6 @@
       "published_at": "2026-07-30T20:48:44Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "Migrants seen swimming around border fence of Spanish enclave Ceuta",
-      "url": "https://www.bbc.co.uk/news/videos/cnvnml1pen6o?at_medium=RSS&at_campaign=rss",
-      "summary": "The North African enclave's leader said resources were being overwhelmed after so many people entered by sea from Morocco.",
-      "published_at": "2026-07-30T19:16:18Z",
-      "country_code": "MA",
-      "country_name": "Morocco"
     },
     {
       "source": "BBC World",
@@ -225,15 +234,6 @@
       "published_at": "2026-07-29T23:04:35Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "India's CJP protests: Why tech alone won't stop exam paper leaks",
-      "url": "https://www.bbc.co.uk/news/articles/c1m1gz1nx45o?at_medium=RSS&at_campaign=rss",
-      "summary": "Can computer-based testing stop NEET paper leaks? Experts say governance matters as much as tech.",
-      "published_at": "2026-07-29T22:50:14Z",
-      "country_code": "IN",
-      "country_name": "India"
     },
     {
       "source": "BBC World",
@@ -844,7 +844,7 @@
     {
       "country_code": "ES",
       "country_name": "Spain",
-      "news_count": 5
+      "news_count": 6
     },
     {
       "country_code": "IR",
@@ -852,13 +852,18 @@
       "news_count": 5
     },
     {
-      "country_code": "NG",
-      "country_name": "Nigeria",
+      "country_code": "PS",
+      "country_name": "Palestine",
+      "news_count": 5
+    },
+    {
+      "country_code": "GB",
+      "country_name": "United Kingdom",
       "news_count": 4
     },
     {
-      "country_code": "PS",
-      "country_name": "Palestine",
+      "country_code": "NG",
+      "country_name": "Nigeria",
       "news_count": 4
     },
     {
@@ -870,16 +875,6 @@
       "country_code": "VE",
       "country_name": "Venezuela",
       "news_count": 4
-    },
-    {
-      "country_code": "GB",
-      "country_name": "United Kingdom",
-      "news_count": 3
-    },
-    {
-      "country_code": "IN",
-      "country_name": "India",
-      "news_count": 3
     },
     {
       "country_code": "JP",
@@ -897,13 +892,13 @@
       "news_count": 2
     },
     {
-      "country_code": "KE",
-      "country_name": "Kenya",
+      "country_code": "IN",
+      "country_name": "India",
       "news_count": 2
     },
     {
-      "country_code": "MA",
-      "country_name": "Morocco",
+      "country_code": "KE",
+      "country_name": "Kenya",
       "news_count": 2
     },
     {
