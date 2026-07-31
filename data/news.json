@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-07-30T23:52:29Z",
+  "generated_at": "2026-07-31T01:48:31Z",
   "articles": [
     {
-      "source": "BBC Asia",
+      "source": "BBC World",
       "title": "Nirmal Purja among 10 climbers feared missing after avalanche",
       "url": "https://www.bbc.co.uk/news/articles/cddjz1r01l8o?at_medium=RSS&at_campaign=rss",
       "summary": "An American, a Chinese national, an Omani and five Nepalis are said to be part of the group feared missing in Pakistan.",
-      "published_at": "2026-07-30T23:37:47Z",
+      "published_at": "2026-07-31T00:52:54Z",
       "country_code": "PK",
       "country_name": "Pakistan"
     },
     {
       "source": "BBC World",
-      "title": "Trump says Board of Peace has reached agreement for disarmament of Hamas",
+      "title": "Hamas says it has agreed to disarm after Trump announces Board of Peace plan",
       "url": "https://www.bbc.co.uk/news/articles/cj03m512r4go?at_medium=RSS&at_campaign=rss",
-      "summary": "Israel and Hamas have yet to comment on the announcement.",
-      "published_at": "2026-07-30T23:30:41Z",
+      "summary": "A senior Hamas official has told the BBC they have agreed to the Board of Peace's plan. Israel has not commented.",
+      "published_at": "2026-07-31T00:07:17Z",
       "country_code": "IL",
       "country_name": "Israel"
     },
@@ -146,7 +146,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "US launches 'heavy' strikes on Iran after attempted attack on American troops",
       "url": "https://www.bbc.co.uk/news/articles/c74gwdzywmeo?at_medium=RSS&at_campaign=rss",
       "summary": "After a short period of relative calm when hostilities were paused, both sides have now restarted missile attacks.",
@@ -306,15 +306,6 @@
       "published_at": "2026-07-29T11:53:40Z",
       "country_code": "FR",
       "country_name": "France"
-    },
-    {
-      "source": "BBC World",
-      "title": "More than 100 aftershocks hit Japan after powerful quake that killed 13",
-      "url": "https://www.bbc.co.uk/news/articles/cgk43y21j0do?at_medium=RSS&at_campaign=rss",
-      "summary": "People are being urged to stay alert, with earthquake aftershocks potentially reaching magnitude 7, officials say",
-      "published_at": "2026-07-29T11:47:05Z",
-      "country_code": "JP",
-      "country_name": "Japan"
     },
     {
       "source": "BBC Asia",
@@ -861,11 +852,6 @@
       "news_count": 5
     },
     {
-      "country_code": "JP",
-      "country_name": "Japan",
-      "news_count": 4
-    },
-    {
       "country_code": "NG",
       "country_name": "Nigeria",
       "news_count": 4
@@ -893,6 +879,11 @@
     {
       "country_code": "IN",
       "country_name": "India",
+      "news_count": 3
+    },
+    {
+      "country_code": "JP",
+      "country_name": "Japan",
       "news_count": 3
     },
     {
