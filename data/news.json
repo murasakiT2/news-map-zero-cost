@@ -1,6 +1,33 @@
 {
-  "generated_at": "2026-07-31T15:33:55Z",
+  "generated_at": "2026-07-31T17:17:40Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Spain's PM blames traffickers after 60,000 migrants reach Ceuta from Morocco",
+      "url": "https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&at_campaign=rss",
+      "summary": "Spain's prime minister described the situation as an \"attack\" on its North African territory and said all illegal migrants would be returned…",
+      "published_at": "2026-07-31T17:03:47Z",
+      "country_code": "ES",
+      "country_name": "Spain"
+    },
+    {
+      "source": "BBC World",
+      "title": "Two bodies located and search ongoing after avalanche hits Nirmal Purja's team",
+      "url": "https://www.bbc.co.uk/news/articles/cddjz1r01l8o?at_medium=RSS&at_campaign=rss",
+      "summary": "Two bodies have been recovered from Pakistan's Broad Peak and seven spotted by drones - though their condition remains unclear.",
+      "published_at": "2026-07-31T16:41:59Z",
+      "country_code": "PK",
+      "country_name": "Pakistan"
+    },
+    {
+      "source": "BBC World",
+      "title": "What's in the Gaza peace deal roadmap?",
+      "url": "https://www.bbc.co.uk/news/articles/c20e94k2ex5o?at_medium=RSS&at_campaign=rss",
+      "summary": "Hamas says it has accepted a disarmament plan for Gaza which will see it lay down its arms and Israeli troops withdraw from the territory.",
+      "published_at": "2026-07-31T16:00:56Z",
+      "country_code": "PS",
+      "country_name": "Palestine"
+    },
     {
       "source": "BBC World",
       "title": "Bowen: Plan for Hamas to disarm faces big obstacles, yet it offers rare hope for Gaza",
@@ -20,15 +47,6 @@
       "country_name": "South Africa"
     },
     {
-      "source": "BBC World",
-      "title": "About 60,000 migrants arrive in Ceuta in 24 hours, Spanish territory's leader says",
-      "url": "https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&at_campaign=rss",
-      "summary": "Spain's prime minister described the situation as an \"attack\" on its North African territory and said all illegal migrants would be returned…",
-      "published_at": "2026-07-31T14:20:18Z",
-      "country_code": "ES",
-      "country_name": "Spain"
-    },
-    {
       "source": "BBC Africa",
       "title": "At least 25 people killed in Algeria bus crash",
       "url": "https://www.bbc.co.uk/news/articles/cg5l0dj86y8o?at_medium=RSS&at_campaign=rss",
@@ -36,15 +54,6 @@
       "published_at": "2026-07-31T13:26:28Z",
       "country_code": "DZ",
       "country_name": "Algeria"
-    },
-    {
-      "source": "BBC Asia",
-      "title": "Four climbers killed and six feared missing after avalanche hit Nirmal Purja's team",
-      "url": "https://www.bbc.co.uk/news/articles/cddjz1r01l8o?at_medium=RSS&at_campaign=rss",
-      "summary": "An American, a Chinese national, an Omani and five Nepalis are said to be part of the group feared missing or killed in Pakistan.",
-      "published_at": "2026-07-31T12:37:49Z",
-      "country_code": "PK",
-      "country_name": "Pakistan"
     },
     {
       "source": "BBC Africa",
@@ -63,15 +72,6 @@
       "published_at": "2026-07-31T10:32:17Z",
       "country_code": "PE",
       "country_name": "Peru"
-    },
-    {
-      "source": "BBC World",
-      "title": "AC Milan and Italy great Baresi dies aged 66",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckgvlz45l3eo?at_medium=RSS&at_campaign=rss",
-      "summary": "AC Milan and Italy great Franco Baresi has died at the age of 66, the Italian club announces.",
-      "published_at": "2026-07-31T09:44:48Z",
-      "country_code": "IT",
-      "country_name": "Italy"
     },
     {
       "source": "BBC Asia",
@@ -99,15 +99,6 @@
       "published_at": "2026-07-31T08:06:57Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC Middle East",
-      "title": "Hamas says it has agreed to disarm after Trump announces Board of Peace plan",
-      "url": "https://www.bbc.co.uk/news/articles/cj03m512r4go?at_medium=RSS&at_campaign=rss",
-      "summary": "A senior Hamas official has told the BBC they have agreed to the Board of Peace's plan. Israel has not commented.",
-      "published_at": "2026-07-31T07:03:29Z",
-      "country_code": "IL",
-      "country_name": "Israel"
     },
     {
       "source": "BBC World",
@@ -351,15 +342,6 @@
       "published_at": "2026-07-29T17:21:57Z",
       "country_code": "ES",
       "country_name": "Spain"
-    },
-    {
-      "source": "BBC World",
-      "title": "'It's our home, it's our forest': BBC speaks to locals fighting France wildfire",
-      "url": "https://www.bbc.co.uk/news/articles/c62q5we799ro?at_medium=RSS&at_campaign=rss",
-      "summary": "Firefighters are battling flare-ups in 40C heat in the Gironde region, as some locals have refused to heed evacuations.",
-      "published_at": "2026-07-29T16:49:41Z",
-      "country_code": "FR",
-      "country_name": "France"
     },
     {
       "source": "BBC Middle East",
@@ -855,8 +837,8 @@
       "news_count": 27
     },
     {
-      "country_code": "FR",
-      "country_name": "France",
+      "country_code": "PS",
+      "country_name": "Palestine",
       "news_count": 7
     },
     {
@@ -865,8 +847,8 @@
       "news_count": 6
     },
     {
-      "country_code": "PS",
-      "country_name": "Palestine",
+      "country_code": "FR",
+      "country_name": "France",
       "news_count": 6
     },
     {
@@ -898,16 +880,6 @@
       "country_code": "UA",
       "country_name": "Ukraine",
       "news_count": 3
-    },
-    {
-      "country_code": "IL",
-      "country_name": "Israel",
-      "news_count": 2
-    },
-    {
-      "country_code": "IT",
-      "country_name": "Italy",
-      "news_count": 2
     },
     {
       "country_code": "JP",
@@ -955,8 +927,18 @@
       "news_count": 1
     },
     {
+      "country_code": "IL",
+      "country_name": "Israel",
+      "news_count": 1
+    },
+    {
       "country_code": "IN",
       "country_name": "India",
+      "news_count": 1
+    },
+    {
+      "country_code": "IT",
+      "country_name": "Italy",
       "news_count": 1
     },
     {
