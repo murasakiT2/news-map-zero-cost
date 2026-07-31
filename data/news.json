@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-07-31T20:13:35Z",
+  "generated_at": "2026-07-31T21:34:11Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Body of US climber the latest recovered after Pakistan avalanche",
+      "url": "https://www.bbc.co.uk/news/articles/cddjz1r01l8o?at_medium=RSS&at_campaign=rss",
+      "summary": "The bodies of two other climbers have already been recovered from the mountain, while others are still missing.",
+      "published_at": "2026-07-31T20:22:46Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC Europe",
       "title": "Influx of migrants to Ceuta gives Spain diplomatic headache",
@@ -45,15 +54,6 @@
       "published_at": "2026-07-31T17:03:47Z",
       "country_code": "IT",
       "country_name": "Italy"
-    },
-    {
-      "source": "BBC World",
-      "title": "Two bodies located and search ongoing after avalanche hits Nirmal Purja's team",
-      "url": "https://www.bbc.co.uk/news/articles/cddjz1r01l8o?at_medium=RSS&at_campaign=rss",
-      "summary": "Two bodies have been recovered from Pakistan's Broad Peak and seven spotted by drones - though their condition remains unclear.",
-      "published_at": "2026-07-31T16:41:59Z",
-      "country_code": "PK",
-      "country_name": "Pakistan"
     },
     {
       "source": "BBC World",
@@ -834,7 +834,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 27
+      "news_count": 28
     },
     {
       "country_code": "PS",
@@ -954,11 +954,6 @@
     {
       "country_code": "PE",
       "country_name": "Peru",
-      "news_count": 1
-    },
-    {
-      "country_code": "PK",
-      "country_name": "Pakistan",
       "news_count": 1
     },
     {
