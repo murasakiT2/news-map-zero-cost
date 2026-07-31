@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-07-31T18:49:02Z",
+  "generated_at": "2026-07-31T20:13:35Z",
   "articles": [
+    {
+      "source": "BBC Europe",
+      "title": "Influx of migrants to Ceuta gives Spain diplomatic headache",
+      "url": "https://www.bbc.co.uk/news/articles/cr7k49p7enjo?at_medium=RSS&at_campaign=rss",
+      "summary": "The incident has sparked concern in Europe while Spain also faces a challenge in balancing its relations with neighbouring Morocco and Alger…",
+      "published_at": "2026-07-31T19:17:09Z",
+      "country_code": "ES",
+      "country_name": "Spain"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "Minnesota not Iran to blame for state's water issues, says Trump",
+      "url": "https://www.bbc.co.uk/news/articles/cvgwe2qpgq1o?at_medium=RSS&at_campaign=rss",
+      "summary": "The US president's comments come after cyber attacks on Minnesota's water systems earlier this week, with US media indicating Iran could be …",
+      "published_at": "2026-07-31T19:03:28Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC Europe",
       "title": "What triggered the mass migrant crossings into Ceuta?",
@@ -23,7 +41,7 @@
       "source": "BBC World",
       "title": "Spain's PM blames traffickers after 60,000 migrants reach Ceuta from Morocco",
       "url": "https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&at_campaign=rss",
-      "summary": "Spain said most of the migrants had returned to Morocco by Friday evening, as Italy suspended its Schengen agreement on free movement with S…",
+      "summary": "Spain said most had returned to Morocco by Friday evening, as Italy suspended its Schengen agreement on free movement with Madrid.",
       "published_at": "2026-07-31T17:03:47Z",
       "country_code": "IT",
       "country_name": "Italy"
@@ -128,15 +146,6 @@
       "country_name": "Palestine"
     },
     {
-      "source": "BBC US & Canada",
-      "title": "US cyber defence agency warns of water attacks after Minnesota targeted",
-      "url": "https://www.bbc.co.uk/news/articles/cvgwe2qpgq1o?at_medium=RSS&at_campaign=rss",
-      "summary": "More than 30 water systems in the state faced an attack this week - with US media indicating Iran could be behind it.",
-      "published_at": "2026-07-31T01:46:58Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC Africa",
       "title": "England edge South Africa thriller to reach semis",
       "url": "https://www.bbc.co.uk/sport/netball/articles/cjrvlpdvr0no?at_medium=RSS&at_campaign=rss",
@@ -171,15 +180,6 @@
       "published_at": "2026-07-30T16:48:40Z",
       "country_code": "BE",
       "country_name": "Belgium"
-    },
-    {
-      "source": "BBC Africa",
-      "title": "Oprah Winfrey to close her school for girls in South Africa",
-      "url": "https://www.bbc.co.uk/news/articles/c75gre70vr6o?at_medium=RSS&at_campaign=rss",
-      "summary": "The campus will be returned to local authorities as she expands a wider scholarship programme for girls.",
-      "published_at": "2026-07-30T16:15:33Z",
-      "country_code": "ZA",
-      "country_name": "South Africa"
     },
     {
       "source": "BBC US & Canada",
@@ -396,15 +396,6 @@
       "published_at": "2026-07-29T10:40:35Z",
       "country_code": "PS",
       "country_name": "Palestine"
-    },
-    {
-      "source": "BBC Europe",
-      "title": "DJ Guetta leads tributes to electronic ‌musician Kavinsky who has died",
-      "url": "https://www.bbc.co.uk/news/articles/c204n74xyv3o?at_medium=RSS&at_campaign=rss",
-      "summary": "He had a hit with Nightfall, which featured on the Drive soundtrack and at the Paris 2024 Olympics.",
-      "published_at": "2026-07-29T10:35:13Z",
-      "country_code": "FR",
-      "country_name": "France"
     },
     {
       "source": "BBC Africa",
@@ -851,24 +842,24 @@
       "news_count": 7
     },
     {
+      "country_code": "ES",
+      "country_name": "Spain",
+      "news_count": 6
+    },
+    {
       "country_code": "GB",
       "country_name": "United Kingdom",
       "news_count": 6
     },
     {
-      "country_code": "ES",
-      "country_name": "Spain",
+      "country_code": "IR",
+      "country_name": "Iran",
       "news_count": 5
     },
     {
       "country_code": "FR",
       "country_name": "France",
-      "news_count": 5
-    },
-    {
-      "country_code": "IR",
-      "country_name": "Iran",
-      "news_count": 5
+      "news_count": 4
     },
     {
       "country_code": "NG",
@@ -881,13 +872,13 @@
       "news_count": 4
     },
     {
-      "country_code": "ZA",
-      "country_name": "South Africa",
-      "news_count": 4
-    },
-    {
       "country_code": "UA",
       "country_name": "Ukraine",
+      "news_count": 3
+    },
+    {
+      "country_code": "ZA",
+      "country_name": "South Africa",
       "news_count": 3
     },
     {
