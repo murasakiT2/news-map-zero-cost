@@ -1,14 +1,32 @@
 {
-  "generated_at": "2026-07-31T17:17:40Z",
+  "generated_at": "2026-07-31T18:49:02Z",
   "articles": [
+    {
+      "source": "BBC Europe",
+      "title": "What triggered the mass migrant crossings into Ceuta?",
+      "url": "https://www.bbc.co.uk/news/videos/c171nnql1j4o?at_medium=RSS&at_campaign=rss",
+      "summary": "An estimated 60,000 migrants from Morocco have crossed into Ceuta, with dozens dying during the journey.",
+      "published_at": "2026-07-31T18:29:04Z",
+      "country_code": "MA",
+      "country_name": "Morocco"
+    },
+    {
+      "source": "BBC Asia",
+      "title": "Massive Attack banned from Singapore after pro-Palestine display at show",
+      "url": "https://www.bbc.co.uk/news/articles/cwyle421806o?at_medium=RSS&at_campaign=rss",
+      "summary": "The UK band is told not to return to the city-state after shouting \"free Palestine\" at a gig on Wednesday.",
+      "published_at": "2026-07-31T17:55:04Z",
+      "country_code": "GB",
+      "country_name": "United Kingdom"
+    },
     {
       "source": "BBC World",
       "title": "Spain's PM blames traffickers after 60,000 migrants reach Ceuta from Morocco",
       "url": "https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&at_campaign=rss",
-      "summary": "Spain's prime minister described the situation as an \"attack\" on its North African territory and said all illegal migrants would be returned…",
+      "summary": "Spain said most of the migrants had returned to Morocco by Friday evening, as Italy suspended its Schengen agreement on free movement with S…",
       "published_at": "2026-07-31T17:03:47Z",
-      "country_code": "ES",
-      "country_name": "Spain"
+      "country_code": "IT",
+      "country_name": "Italy"
     },
     {
       "source": "BBC World",
@@ -74,15 +92,6 @@
       "country_name": "Peru"
     },
     {
-      "source": "BBC Asia",
-      "title": "Massive Attack investigated after reports of pro-Palestinian display in Singapore show",
-      "url": "https://www.bbc.co.uk/news/articles/cwyle421806o?at_medium=RSS&at_campaign=rss",
-      "summary": "The UK band reportedly expressed pro-Palestinian sentiments during a performance.",
-      "published_at": "2026-07-31T09:20:09Z",
-      "country_code": "GB",
-      "country_name": "United Kingdom"
-    },
-    {
       "source": "BBC World",
       "title": "Spain sending troops as thousands enter enclave of Ceuta from Morocco",
       "url": "https://www.bbc.co.uk/news/articles/cg4drwzkrkxo?at_medium=RSS&at_campaign=rss",
@@ -126,6 +135,15 @@
       "published_at": "2026-07-31T01:46:58Z",
       "country_code": "US",
       "country_name": "United States"
+    },
+    {
+      "source": "BBC Africa",
+      "title": "England edge South Africa thriller to reach semis",
+      "url": "https://www.bbc.co.uk/sport/netball/articles/cjrvlpdvr0no?at_medium=RSS&at_campaign=rss",
+      "summary": "England's netballers reach the Commonwealth Games semi-finals after producing a pulsating comeback to beat South Africa 58-54.",
+      "published_at": "2026-07-30T22:11:25Z",
+      "country_code": "GB",
+      "country_name": "United Kingdom"
     },
     {
       "source": "BBC World",
@@ -533,15 +551,6 @@
       "country_name": "Germany"
     },
     {
-      "source": "BBC Europe",
-      "title": "Watch: Wildfires rage across Spain and France",
-      "url": "https://www.bbc.co.uk/news/videos/cz641jd4p4lo?at_medium=RSS&at_campaign=rss",
-      "summary": "Spain's government declares national emergency as French authorities order evacuations in tourist hot spot.",
-      "published_at": "2026-07-24T15:13:46Z",
-      "country_code": "FR",
-      "country_name": "France"
-    },
-    {
       "source": "BBC Asia",
       "title": "Indonesian babies were trafficked to Singapore. What happens to them now?",
       "url": "https://www.bbc.co.uk/news/articles/c7vgeredvlgo?at_medium=RSS&at_campaign=rss",
@@ -842,18 +851,18 @@
       "news_count": 7
     },
     {
+      "country_code": "GB",
+      "country_name": "United Kingdom",
+      "news_count": 6
+    },
+    {
       "country_code": "ES",
       "country_name": "Spain",
-      "news_count": 6
+      "news_count": 5
     },
     {
       "country_code": "FR",
       "country_name": "France",
-      "news_count": 6
-    },
-    {
-      "country_code": "GB",
-      "country_name": "United Kingdom",
       "news_count": 5
     },
     {
@@ -880,6 +889,11 @@
       "country_code": "UA",
       "country_name": "Ukraine",
       "news_count": 3
+    },
+    {
+      "country_code": "IT",
+      "country_name": "Italy",
+      "news_count": 2
     },
     {
       "country_code": "JP",
@@ -937,8 +951,8 @@
       "news_count": 1
     },
     {
-      "country_code": "IT",
-      "country_name": "Italy",
+      "country_code": "MA",
+      "country_name": "Morocco",
       "news_count": 1
     },
     {
