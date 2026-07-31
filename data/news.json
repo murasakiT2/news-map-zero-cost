@@ -1,6 +1,33 @@
 {
-  "generated_at": "2026-07-31T08:13:29Z",
+  "generated_at": "2026-07-31T11:02:50Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Peru's ex-president has 15-year jail sentence for corruption charges overturned",
+      "url": "https://www.bbc.co.uk/news/articles/cx2j9nj88rro?at_medium=RSS&at_campaign=rss",
+      "summary": "Ollanta Humala had been convicted of money laundering offences alongside his wife in 2025.",
+      "published_at": "2026-07-31T10:32:17Z",
+      "country_code": "PE",
+      "country_name": "Peru"
+    },
+    {
+      "source": "BBC World",
+      "title": "AC Milan and Italy great Baresi dies aged 66",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckgvlz45l3eo?at_medium=RSS&at_campaign=rss",
+      "summary": "AC Milan and Italy great Franco Baresi has died at the age of 66, the Italian club announces.",
+      "published_at": "2026-07-31T09:44:48Z",
+      "country_code": "IT",
+      "country_name": "Italy"
+    },
+    {
+      "source": "BBC Asia",
+      "title": "Massive Attack investigated after reports of pro-Palestinian display in Singapore show",
+      "url": "https://www.bbc.co.uk/news/articles/cwyle421806o?at_medium=RSS&at_campaign=rss",
+      "summary": "The UK band reportedly expressed pro-Palestinian sentiments during a performance.",
+      "published_at": "2026-07-31T09:20:09Z",
+      "country_code": "GB",
+      "country_name": "United Kingdom"
+    },
     {
       "source": "BBC World",
       "title": "Spain sending troops as thousands enter enclave of Ceuta from Morocco",
@@ -18,15 +45,6 @@
       "published_at": "2026-07-31T08:06:57Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "AC Milan and Italy great Baresi dies aged 66",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckgvlz45l3eo?at_medium=RSS&at_campaign=rss",
-      "summary": "AC Milan and Italy great Franco Baresi has died at the age of 66, the Italian club announces.",
-      "published_at": "2026-07-31T07:27:00Z",
-      "country_code": "IT",
-      "country_name": "Italy"
     },
     {
       "source": "BBC World",
@@ -254,7 +272,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "The Chinese robot army transforming the UK's retail industry",
       "url": "https://www.bbc.co.uk/news/articles/c0jl8v23qwgo?at_medium=RSS&at_campaign=rss",
       "summary": "Britain's weak productivity growth and labour shortages are creating an opportunity for China's robotics firms.",
@@ -504,15 +522,6 @@
       "published_at": "2026-07-26T08:14:55Z",
       "country_code": "DE",
       "country_name": "Germany"
-    },
-    {
-      "source": "BBC Asia",
-      "title": "CJP protest: The youth movement India's Modi didn't see coming",
-      "url": "https://www.bbc.co.uk/news/articles/c07rgpxe51no?at_medium=RSS&at_campaign=rss",
-      "summary": "The CJP protest began with exam paper leaks. It became India's biggest student movement in years - why?",
-      "published_at": "2026-07-25T13:26:04Z",
-      "country_code": "IN",
-      "country_name": "India"
     },
     {
       "source": "BBC Europe",
@@ -829,6 +838,11 @@
       "news_count": 6
     },
     {
+      "country_code": "GB",
+      "country_name": "United Kingdom",
+      "news_count": 5
+    },
+    {
       "country_code": "IR",
       "country_name": "Iran",
       "news_count": 5
@@ -837,11 +851,6 @@
       "country_code": "PS",
       "country_name": "Palestine",
       "news_count": 5
-    },
-    {
-      "country_code": "GB",
-      "country_name": "United Kingdom",
-      "news_count": 4
     },
     {
       "country_code": "NG",
@@ -866,11 +875,6 @@
     {
       "country_code": "IL",
       "country_name": "Israel",
-      "news_count": 2
-    },
-    {
-      "country_code": "IN",
-      "country_name": "India",
       "news_count": 2
     },
     {
@@ -919,8 +923,18 @@
       "news_count": 1
     },
     {
+      "country_code": "IN",
+      "country_name": "India",
+      "news_count": 1
+    },
+    {
       "country_code": "MX",
       "country_name": "Mexico",
+      "news_count": 1
+    },
+    {
+      "country_code": "PE",
+      "country_name": "Peru",
       "news_count": 1
     },
     {
