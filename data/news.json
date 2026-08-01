@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-07-31T23:52:34Z",
+  "generated_at": "2026-08-01T01:49:18Z",
   "articles": [
+    {
+      "source": "BBC Africa",
+      "title": "Death row inmates desperate to escape execution in Saudi Arabia call the BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c80nkgdnl4no?at_medium=RSS&at_campaign=rss",
+      "summary": "Dozens of Ethiopians are awaiting execution - some called the BBC to tell their stories.",
+      "published_at": "2026-07-31T23:41:10Z",
+      "country_code": "SA",
+      "country_name": "Saudi Arabia"
+    },
     {
       "source": "BBC US & Canada",
       "title": "Trump now 'not sure' about letting Ukraine build Patriot missiles",
@@ -906,6 +915,11 @@
       "news_count": 2
     },
     {
+      "country_code": "SA",
+      "country_name": "Saudi Arabia",
+      "news_count": 2
+    },
+    {
       "country_code": "SD",
       "country_name": "Sudan",
       "news_count": 2
@@ -968,11 +982,6 @@
     {
       "country_code": "RU",
       "country_name": "Russia",
-      "news_count": 1
-    },
-    {
-      "country_code": "SA",
-      "country_name": "Saudi Arabia",
       "news_count": 1
     },
     {
