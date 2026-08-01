@@ -1,6 +1,33 @@
 {
-  "generated_at": "2026-08-01T12:32:27Z",
+  "generated_at": "2026-08-01T14:21:18Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Mountaineer Nirmal Purja killed in Pakistan avalanche, his company says",
+      "url": "https://www.bbc.co.uk/news/articles/clyljq79kdko?at_medium=RSS&at_campaign=rss",
+      "summary": "The renowned mountaineer was known for scaling the world's 14 highest peaks in just over six months in 2019.",
+      "published_at": "2026-08-01T14:11:40Z",
+      "country_code": "PK",
+      "country_name": "Pakistan"
+    },
+    {
+      "source": "BBC World",
+      "title": "Nine killed in strikes on Kyiv, as Ukraine sinks Russian container ship",
+      "url": "https://www.bbc.co.uk/news/articles/ce973yvk7pko?at_medium=RSS&at_campaign=rss",
+      "summary": "The attack comes as Moscow escalates deadly ballistic missile attacks on the Ukrainian capital.",
+      "published_at": "2026-08-01T13:35:39Z",
+      "country_code": "RU",
+      "country_name": "Russia"
+    },
+    {
+      "source": "BBC World",
+      "title": "Spain attacks 'selfish' response of some EU countries to Ceuta migrant crossings",
+      "url": "https://www.bbc.co.uk/news/articles/cx2v91xn1z9o?at_medium=RSS&at_campaign=rss",
+      "summary": "Italy has temporarily suspended the Schengen arrangement with Spain as Prime Minister Giorgia Meloni called scenes in Ceuta \"shocking\".",
+      "published_at": "2026-08-01T12:43:21Z",
+      "country_code": "IT",
+      "country_name": "Italy"
+    },
     {
       "source": "BBC World",
       "title": "Watch: Tens of thousands of migrants enter Spain's Ceuta from Morocco",
@@ -11,25 +38,7 @@
       "country_name": "Spain"
     },
     {
-      "source": "BBC World",
-      "title": "Nine killed in strikes on Kyiv, as Ukraine sinks Russian container ship",
-      "url": "https://www.bbc.co.uk/news/articles/ce973yvk7pko?at_medium=RSS&at_campaign=rss",
-      "summary": "The attack comes as Moscow escalates deadly ballistic missile attacks on the Ukrainian capital.",
-      "published_at": "2026-08-01T11:52:29Z",
-      "country_code": "RU",
-      "country_name": "Russia"
-    },
-    {
-      "source": "BBC World",
-      "title": "Spain attacks 'selfish' response of some EU countries to Ceuta migrant crossings",
-      "url": "https://www.bbc.co.uk/news/articles/cx2v91xn1z9o?at_medium=RSS&at_campaign=rss",
-      "summary": "Italy has temporarily suspended the Schengen arrangement with Spain as Prime Minister Giorgia Meloni called scenes in Ceuta \"shocking\".",
-      "published_at": "2026-08-01T11:00:05Z",
-      "country_code": "IT",
-      "country_name": "Italy"
-    },
-    {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "Race to rescue remaining climbers after deadly avalanche in Pakistan",
       "url": "https://www.bbc.co.uk/news/articles/cddjz1r01l8o?at_medium=RSS&at_campaign=rss",
       "summary": "Poor weather has been hampering the search for seven still missing after Thursday's avalanche on Broad Peak.",
@@ -315,15 +324,6 @@
       "published_at": "2026-07-30T14:03:15Z",
       "country_code": "ZA",
       "country_name": "South Africa"
-    },
-    {
-      "source": "BBC World",
-      "title": "Cyanide in tomato pesticide killed 15 elephants, Kenyan officials suspect",
-      "url": "https://www.bbc.co.uk/news/articles/cp9e0v5xmdyo?at_medium=RSS&at_campaign=rss",
-      "summary": "Foul play is ruled out in the record number of elephant deaths for decades in this area of southern Kenya.",
-      "published_at": "2026-07-30T12:14:00Z",
-      "country_code": "KE",
-      "country_name": "Kenya"
     },
     {
       "source": "BBC Middle East",
@@ -958,6 +958,11 @@
       "news_count": 3
     },
     {
+      "country_code": "PK",
+      "country_name": "Pakistan",
+      "news_count": 3
+    },
+    {
       "country_code": "SA",
       "country_name": "Saudi Arabia",
       "news_count": 3
@@ -985,16 +990,6 @@
     {
       "country_code": "JP",
       "country_name": "Japan",
-      "news_count": 2
-    },
-    {
-      "country_code": "KE",
-      "country_name": "Kenya",
-      "news_count": 2
-    },
-    {
-      "country_code": "PK",
-      "country_name": "Pakistan",
       "news_count": 2
     },
     {
@@ -1035,6 +1030,11 @@
     {
       "country_code": "IL",
       "country_name": "Israel",
+      "news_count": 1
+    },
+    {
+      "country_code": "KE",
+      "country_name": "Kenya",
       "news_count": 1
     },
     {
