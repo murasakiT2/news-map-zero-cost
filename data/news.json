@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-08-01T18:52:56Z",
+  "generated_at": "2026-08-01T20:04:10Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Three killed in Moscow restaurant explosion",
+      "url": "https://www.bbc.co.uk/news/articles/c86n4ljxp63o?at_medium=RSS&at_campaign=rss",
+      "summary": "The deadly blast took place in a venue near the centre of the city, but the cause is currently unclear.",
+      "published_at": "2026-08-01T19:34:09Z",
+      "country_code": "RU",
+      "country_name": "Russia"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "Will Canada's WestJet airline strike go ahead - and can I get a refund?",
+      "url": "https://www.bbc.co.uk/news/articles/cq568j06zgxo?at_medium=RSS&at_campaign=rss",
+      "summary": "The potential strike by flight attendants for Canada's second-largest air carrier comes during the busy August long weekend in the country.",
+      "published_at": "2026-08-01T18:55:52Z",
+      "country_code": "CA",
+      "country_name": "Canada"
+    },
     {
       "source": "BBC World",
       "title": "Italy putting nearly all major cities on highest heat alert",
@@ -90,15 +108,6 @@
       "published_at": "2026-08-01T02:21:29Z",
       "country_code": "PE",
       "country_name": "Peru"
-    },
-    {
-      "source": "BBC World",
-      "title": "How police in US are using the power of podcasts to crack unsolved murders",
-      "url": "https://www.bbc.co.uk/news/articles/cpw9q0ekd9eo?at_medium=RSS&at_campaign=rss",
-      "summary": "More police departments are trying to invigorate unsolved murder or missing cases through the power of podcasts.",
-      "published_at": "2026-07-31T23:42:32Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC World",
@@ -933,7 +942,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 29
+      "news_count": 28
     },
     {
       "country_code": "PS",
@@ -981,6 +990,11 @@
       "news_count": 3
     },
     {
+      "country_code": "RU",
+      "country_name": "Russia",
+      "news_count": 3
+    },
+    {
       "country_code": "SA",
       "country_name": "Saudi Arabia",
       "news_count": 3
@@ -1011,11 +1025,6 @@
       "news_count": 2
     },
     {
-      "country_code": "RU",
-      "country_name": "Russia",
-      "news_count": 2
-    },
-    {
       "country_code": "SD",
       "country_name": "Sudan",
       "news_count": 2
@@ -1023,6 +1032,11 @@
     {
       "country_code": "BE",
       "country_name": "Belgium",
+      "news_count": 1
+    },
+    {
+      "country_code": "CA",
+      "country_name": "Canada",
       "news_count": 1
     },
     {
