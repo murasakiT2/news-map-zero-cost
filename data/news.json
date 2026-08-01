@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-08-01T22:26:54Z",
+  "generated_at": "2026-08-01T23:25:11Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "The Sopranos star Vincent Pastore dies aged 80",
+      "url": "https://www.bbc.co.uk/news/articles/cm2gz0epljgo?at_medium=RSS&at_campaign=rss",
+      "summary": "Pastore, who played Salvatore \"Big Pussy\" Bonpensiero in the hit US show, was found at his home in New York City, US media report.",
+      "published_at": "2026-08-01T22:57:55Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Tourist plane crashes in Peru, killing 13",
+      "url": "https://www.bbc.co.uk/news/articles/c70g132erlko?at_medium=RSS&at_campaign=rss",
+      "summary": "The small plane was flying over the Nazca Lines ​archaeological site when it crashed, according to local reports.",
+      "published_at": "2026-08-01T22:34:20Z",
+      "country_code": "PE",
+      "country_name": "Peru"
+    },
     {
       "source": "BBC World",
       "title": "Three killed after bomb detonated at Moscow restaurant, state media say",
@@ -18,15 +36,6 @@
       "published_at": "2026-08-01T21:03:42Z",
       "country_code": "AU",
       "country_name": "Australia"
-    },
-    {
-      "source": "BBC World",
-      "title": "Tourist plane crashes in Peru, killing 13",
-      "url": "https://www.bbc.co.uk/news/articles/c70g132erlko?at_medium=RSS&at_campaign=rss",
-      "summary": "The small plane was flying over the Nazca Lines ​archaeological site when it crashed, according to local reports.",
-      "published_at": "2026-08-01T20:51:09Z",
-      "country_code": "PE",
-      "country_name": "Peru"
     },
     {
       "source": "BBC World",
@@ -83,7 +92,7 @@
       "country_name": "Pakistan"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "India's 'cockroach' protesters have wounds consistent with pellet-gun fire, say experts",
       "url": "https://www.bbc.co.uk/news/articles/c74gwvygkjdo?at_medium=RSS&at_campaign=rss",
       "summary": "Ballistic experts say the dozens of tiny round punctures are tell-tale signs of pellet gun injuries.",
@@ -135,6 +144,15 @@
       "published_at": "2026-08-01T02:21:29Z",
       "country_code": "PE",
       "country_name": "Peru"
+    },
+    {
+      "source": "BBC World",
+      "title": "Police in the US are making their own true crime podcasts - will it help catch killers?",
+      "url": "https://www.bbc.co.uk/news/articles/cpw9q0ekd9eo?at_medium=RSS&at_campaign=rss",
+      "summary": "More police departments are trying to invigorate unsolved murder or missing cases through the power of podcasts.",
+      "published_at": "2026-07-31T23:42:32Z",
+      "country_code": "US",
+      "country_name": "United States"
     },
     {
       "source": "BBC World",
@@ -281,7 +299,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "UK rapper Yung Filly found not guilty of raping woman after Australian show",
       "url": "https://www.bbc.co.uk/news/articles/crrv7vk0knro?at_medium=RSS&at_campaign=rss",
       "summary": "The YouTuber has been found guilty for two counts of assault over the 2024 incident in Perth.",
@@ -308,7 +326,7 @@
       "country_name": "United Kingdom"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "India wants to join the strawberry superpowers",
       "url": "https://www.bbc.co.uk/news/articles/c8x274xxxpwo?at_medium=RSS&at_campaign=rss",
       "summary": "Indian strawberry farmers rely on varieties imported from the US and Europe, but that could change.",
@@ -857,15 +875,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Africa",
-      "title": "Fears of a massacre in this city on the front line of Sudan's war",
-      "url": "https://www.bbc.co.uk/news/articles/c20yyjdzw7po?at_medium=RSS&at_campaign=rss",
-      "summary": "El-Obeid has been under \"siege-like conditions\" for 18 months says the UN human rights chief.",
-      "published_at": "2026-07-07T23:32:04Z",
-      "country_code": "SD",
-      "country_name": "Sudan"
-    },
-    {
       "source": "BBC Middle East",
       "title": "Resistance and revenge - Iran wanted to send a message with its farewell to Khamenei",
       "url": "https://www.bbc.co.uk/news/articles/c07yy3j3nljo?at_medium=RSS&at_campaign=rss",
@@ -951,7 +960,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 28
+      "news_count": 30
     },
     {
       "country_code": "PS",
@@ -1039,11 +1048,6 @@
       "news_count": 2
     },
     {
-      "country_code": "SD",
-      "country_name": "Sudan",
-      "news_count": 2
-    },
-    {
       "country_code": "BE",
       "country_name": "Belgium",
       "news_count": 1
@@ -1091,6 +1095,11 @@
     {
       "country_code": "NL",
       "country_name": "Netherlands",
+      "news_count": 1
+    },
+    {
+      "country_code": "SD",
+      "country_name": "Sudan",
       "news_count": 1
     },
     {
