@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-08-01T17:51:20Z",
+  "generated_at": "2026-08-01T18:52:56Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Italy putting nearly all major cities on highest heat alert",
+      "url": "https://www.bbc.co.uk/news/articles/cr7k4gdrgljo?at_medium=RSS&at_campaign=rss",
+      "summary": "Some 19 major Italian cities - including Rome, Milan and Naples - are already on red alert, and by Monday all but two will be.",
+      "published_at": "2026-08-01T17:51:46Z",
+      "country_code": "IT",
+      "country_name": "Italy"
+    },
     {
       "source": "BBC World",
       "title": "Call for 'full review' as pressure grows on Infantino",
@@ -470,7 +479,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Europe",
+      "source": "BBC Middle East",
       "title": "Zelensky and Netanyahu meet Trump as wars in Ukraine and Iran drag on",
       "url": "https://www.bbc.co.uk/news/articles/cj4k2z8z45ro?at_medium=RSS&at_campaign=rss",
       "summary": "The two leaders sound encouraged after holding back-to-back bilaterals at the White House.",
@@ -952,6 +961,11 @@
       "news_count": 4
     },
     {
+      "country_code": "IT",
+      "country_name": "Italy",
+      "news_count": 4
+    },
+    {
       "country_code": "NG",
       "country_name": "Nigeria",
       "news_count": 4
@@ -960,11 +974,6 @@
       "country_code": "VE",
       "country_name": "Venezuela",
       "news_count": 4
-    },
-    {
-      "country_code": "IT",
-      "country_name": "Italy",
-      "news_count": 3
     },
     {
       "country_code": "PK",
