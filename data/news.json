@@ -1,14 +1,41 @@
 {
-  "generated_at": "2026-08-01T20:04:10Z",
+  "generated_at": "2026-08-01T21:13:52Z",
   "articles": [
     {
       "source": "BBC World",
-      "title": "Three killed in Moscow restaurant explosion",
+      "title": "Three killed after bomb detonated at Moscow restaurant, state media say",
       "url": "https://www.bbc.co.uk/news/articles/c86n4ljxp63o?at_medium=RSS&at_campaign=rss",
-      "summary": "The deadly blast took place in a venue near the centre of the city, but the cause is currently unclear.",
-      "published_at": "2026-08-01T19:34:09Z",
+      "summary": "Security officials said a woman tried to enter the restaurant with explosives but was stopped by a security guard.",
+      "published_at": "2026-08-01T21:13:17Z",
       "country_code": "RU",
       "country_name": "Russia"
+    },
+    {
+      "source": "BBC World",
+      "title": "Tourist plane crashes in Peru, killing 13",
+      "url": "https://www.bbc.co.uk/news/articles/c70g132erlko?at_medium=RSS&at_campaign=rss",
+      "summary": "The small plane was flying over the Nazca Lines ​archaeological site when it crashed, according to local reports.",
+      "published_at": "2026-08-01T20:51:09Z",
+      "country_code": "PE",
+      "country_name": "Peru"
+    },
+    {
+      "source": "BBC World",
+      "title": "EU calls emergency meeting to discuss Ceuta migrant crossings",
+      "url": "https://www.bbc.co.uk/news/articles/cz7d17r455go?at_medium=RSS&at_campaign=rss",
+      "summary": "There have been tense exchanges between Spain and other EU states over the influx of migrants into the enclave of Ceuta.",
+      "published_at": "2026-08-01T20:09:27Z",
+      "country_code": "ES",
+      "country_name": "Spain"
+    },
+    {
+      "source": "BBC World",
+      "title": "Crowds line Amsterdam's canals for Pride boat parade",
+      "url": "https://www.bbc.co.uk/news/videos/cp3rqd9kp91o?at_medium=RSS&at_campaign=rss",
+      "summary": "Costumed participants danced and waved from a colourful flotilla of 80 decorated vessels as they made their way through the city's waterways…",
+      "published_at": "2026-08-01T19:39:48Z",
+      "country_code": "NL",
+      "country_name": "Netherlands"
     },
     {
       "source": "BBC US & Canada",
@@ -36,15 +63,6 @@
       "published_at": "2026-08-01T17:07:46Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "Spain attacks 'selfish' response of some EU countries to Ceuta migrant crossings",
-      "url": "https://www.bbc.co.uk/news/articles/cx2v91xn1z9o?at_medium=RSS&at_campaign=rss",
-      "summary": "Italy has temporarily suspended the Schengen arrangement with Spain as Prime Minister Giorgia Meloni called scenes in Ceuta \"shocking\".",
-      "published_at": "2026-08-01T15:46:08Z",
-      "country_code": "IT",
-      "country_name": "Italy"
     },
     {
       "source": "BBC World",
@@ -317,7 +335,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "Missile that left crater deep inside Poland was probably Russian - Polish PM",
       "url": "https://www.bbc.co.uk/news/articles/cwymkgenv2ro?at_medium=RSS&at_campaign=rss",
       "summary": "The missile left a 10m-wide (33ft) crater a short distance from the village of Tarnawa Kolonia, about 100km from the border with Ukraine.",
@@ -641,15 +659,6 @@
       "country_name": "Palestine"
     },
     {
-      "source": "BBC Europe",
-      "title": "Watch: At the scene of Berlin Pride attack as manhunt continues",
-      "url": "https://www.bbc.co.uk/news/videos/c74gzknyyz2o?at_medium=RSS&at_campaign=rss",
-      "summary": "A 21-year-old suspect has been identified by police, but he has not been found.",
-      "published_at": "2026-07-26T08:14:55Z",
-      "country_code": "DE",
-      "country_name": "Germany"
-    },
-    {
       "source": "BBC Asia",
       "title": "Indonesian babies were trafficked to Singapore. What happens to them now?",
       "url": "https://www.bbc.co.uk/news/articles/c7vgeredvlgo?at_medium=RSS&at_campaign=rss",
@@ -952,7 +961,7 @@
     {
       "country_code": "ES",
       "country_name": "Spain",
-      "news_count": 6
+      "news_count": 7
     },
     {
       "country_code": "GB",
@@ -970,11 +979,6 @@
       "news_count": 4
     },
     {
-      "country_code": "IT",
-      "country_name": "Italy",
-      "news_count": 4
-    },
-    {
       "country_code": "NG",
       "country_name": "Nigeria",
       "news_count": 4
@@ -983,6 +987,11 @@
       "country_code": "VE",
       "country_name": "Venezuela",
       "news_count": 4
+    },
+    {
+      "country_code": "IT",
+      "country_name": "Italy",
+      "news_count": 3
     },
     {
       "country_code": "PK",
@@ -1025,6 +1034,11 @@
       "news_count": 2
     },
     {
+      "country_code": "PE",
+      "country_name": "Peru",
+      "news_count": 2
+    },
+    {
       "country_code": "SD",
       "country_name": "Sudan",
       "news_count": 2
@@ -1042,11 +1056,6 @@
     {
       "country_code": "CL",
       "country_name": "Chile",
-      "news_count": 1
-    },
-    {
-      "country_code": "DE",
-      "country_name": "Germany",
       "news_count": 1
     },
     {
@@ -1080,8 +1089,8 @@
       "news_count": 1
     },
     {
-      "country_code": "PE",
-      "country_name": "Peru",
+      "country_code": "NL",
+      "country_name": "Netherlands",
       "news_count": 1
     },
     {
