@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-08-01T01:49:18Z",
+  "generated_at": "2026-08-01T05:16:48Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Israeli West Bank settler tells BBC attacks on Palestinians are justified as revenge",
+      "url": "https://www.bbc.co.uk/news/articles/c4g4djgdyk2o?at_medium=RSS&at_campaign=rss",
+      "summary": "Settler violence against Palestinians is on the rise in the West Bank, as settlements and outposts expand.",
+      "published_at": "2026-08-01T05:01:56Z",
+      "country_code": "PS",
+      "country_name": "Palestine"
+    },
+    {
+      "source": "BBC World",
+      "title": "Peru's ex-president leaves jail after 15-year jail term for corruption overturned",
+      "url": "https://www.bbc.co.uk/news/articles/cx2j9nj88rro?at_medium=RSS&at_campaign=rss",
+      "summary": "Ollanta Humala had been convicted of money laundering offences alongside his wife in 2025.",
+      "published_at": "2026-08-01T02:21:29Z",
+      "country_code": "PE",
+      "country_name": "Peru"
+    },
     {
       "source": "BBC Africa",
       "title": "Death row inmates desperate to escape execution in Saudi Arabia call the BBC",
@@ -117,24 +135,6 @@
       "published_at": "2026-07-31T11:30:04Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "Peru's ex-president has 15-year jail sentence for corruption charges overturned",
-      "url": "https://www.bbc.co.uk/news/articles/cx2j9nj88rro?at_medium=RSS&at_campaign=rss",
-      "summary": "Ollanta Humala had been convicted of money laundering offences alongside his wife in 2025.",
-      "published_at": "2026-07-31T10:32:17Z",
-      "country_code": "PE",
-      "country_name": "Peru"
-    },
-    {
-      "source": "BBC World",
-      "title": "Spain sending troops as thousands enter enclave of Ceuta from Morocco",
-      "url": "https://www.bbc.co.uk/news/articles/cg4drwzkrkxo?at_medium=RSS&at_campaign=rss",
-      "summary": "At least 18 people drown as migrants try to swim to Spanish territory amid scenes of chaos at the border.",
-      "published_at": "2026-07-31T08:09:17Z",
-      "country_code": "ES",
-      "country_name": "Spain"
     },
     {
       "source": "BBC US & Canada",
@@ -344,7 +344,16 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Asia",
+      "source": "BBC World",
+      "title": "India's CJP protests: Why tech alone won't stop exam paper leaks",
+      "url": "https://www.bbc.co.uk/news/articles/c1m1gz1nx45o?at_medium=RSS&at_campaign=rss",
+      "summary": "Can computer-based testing stop NEET paper leaks? Experts say governance matters as much as tech.",
+      "published_at": "2026-07-29T22:50:14Z",
+      "country_code": "IN",
+      "country_name": "India"
+    },
+    {
+      "source": "BBC World",
       "title": "The Chinese robot army transforming the UK's retail industry",
       "url": "https://www.bbc.co.uk/news/articles/c0jl8v23qwgo?at_medium=RSS&at_campaign=rss",
       "summary": "Britain's weak productivity growth and labour shortages are creating an opportunity for China's robotics firms.",
@@ -378,6 +387,15 @@
       "published_at": "2026-07-29T17:21:57Z",
       "country_code": "ES",
       "country_name": "Spain"
+    },
+    {
+      "source": "BBC World",
+      "title": "'It's our home, it's our forest': BBC speaks to locals fighting France wildfire",
+      "url": "https://www.bbc.co.uk/news/articles/c62q5we799ro?at_medium=RSS&at_campaign=rss",
+      "summary": "Firefighters are battling flare-ups in 40C heat in the Gironde region, as some locals have refused to heed evacuations.",
+      "published_at": "2026-07-29T16:49:41Z",
+      "country_code": "FR",
+      "country_name": "France"
     },
     {
       "source": "BBC Middle East",
@@ -857,12 +875,7 @@
     {
       "country_code": "PS",
       "country_name": "Palestine",
-      "news_count": 7
-    },
-    {
-      "country_code": "ES",
-      "country_name": "Spain",
-      "news_count": 6
+      "news_count": 8
     },
     {
       "country_code": "GB",
@@ -870,14 +883,19 @@
       "news_count": 6
     },
     {
-      "country_code": "IR",
-      "country_name": "Iran",
+      "country_code": "ES",
+      "country_name": "Spain",
       "news_count": 5
     },
     {
       "country_code": "FR",
       "country_name": "France",
-      "news_count": 4
+      "news_count": 5
+    },
+    {
+      "country_code": "IR",
+      "country_name": "Iran",
+      "news_count": 5
     },
     {
       "country_code": "NG",
@@ -898,6 +916,11 @@
       "country_code": "ZA",
       "country_name": "South Africa",
       "news_count": 3
+    },
+    {
+      "country_code": "IN",
+      "country_name": "India",
+      "news_count": 2
     },
     {
       "country_code": "IT",
@@ -957,11 +980,6 @@
     {
       "country_code": "IL",
       "country_name": "Israel",
-      "news_count": 1
-    },
-    {
-      "country_code": "IN",
-      "country_name": "India",
       "news_count": 1
     },
     {
