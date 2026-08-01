@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-08-01T05:16:48Z",
+  "generated_at": "2026-08-01T07:39:42Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Race to rescue remaining climbers after deadly avalanche in Pakistan",
+      "url": "https://www.bbc.co.uk/news/articles/cddjz1r01l8o?at_medium=RSS&at_campaign=rss",
+      "summary": "Poor weather has been hampering the search for seven still missing after Thursday's avalanche on Broad Peak.",
+      "published_at": "2026-08-01T07:22:30Z",
+      "country_code": "PK",
+      "country_name": "Pakistan"
+    },
+    {
+      "source": "BBC World",
+      "title": "Russian strikes on Kyiv kill at least nine, Ukraine officials say",
+      "url": "https://www.bbc.co.uk/news/articles/ce973yvk7pko?at_medium=RSS&at_campaign=rss",
+      "summary": "The attack comes as Moscow escalates deadly ballistic missile attacks on the Ukrainian capital.",
+      "published_at": "2026-08-01T07:21:46Z",
+      "country_code": "RU",
+      "country_name": "Russia"
+    },
     {
       "source": "BBC World",
       "title": "Israeli West Bank settler tells BBC attacks on Palestinians are justified as revenge",
@@ -20,13 +38,40 @@
       "country_name": "Peru"
     },
     {
-      "source": "BBC Africa",
+      "source": "BBC World",
+      "title": "India's 'cockroach' protesters have wounds consistent with pellet-gun fire, say experts",
+      "url": "https://www.bbc.co.uk/news/articles/c74gwvygkjdo?at_medium=RSS&at_campaign=rss",
+      "summary": "Ballistic experts say the dozens of tiny round punctures are tell-tale signs of pellet gun injuries.",
+      "published_at": "2026-07-31T23:58:12Z",
+      "country_code": "IN",
+      "country_name": "India"
+    },
+    {
+      "source": "BBC World",
+      "title": "How police in US are using the power of podcasts to crack unsolved murders",
+      "url": "https://www.bbc.co.uk/news/articles/cpw9q0ekd9eo?at_medium=RSS&at_campaign=rss",
+      "summary": "More police departments are trying to invigorate unsolved murder or missing cases through the power of podcasts.",
+      "published_at": "2026-07-31T23:42:32Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
       "title": "Death row inmates desperate to escape execution in Saudi Arabia call the BBC",
       "url": "https://www.bbc.co.uk/news/articles/c80nkgdnl4no?at_medium=RSS&at_campaign=rss",
       "summary": "Dozens of Ethiopians are awaiting execution - some called the BBC to tell their stories.",
       "published_at": "2026-07-31T23:41:10Z",
       "country_code": "SA",
       "country_name": "Saudi Arabia"
+    },
+    {
+      "source": "BBC World",
+      "title": "What we know about the Pakistan avalanche and missing climbers",
+      "url": "https://www.bbc.co.uk/news/videos/c8rny08xnpyo?at_medium=RSS&at_campaign=rss",
+      "summary": "Three bodies have been recovered so far, with the search continuing for the remaining seven.",
+      "published_at": "2026-07-31T23:20:35Z",
+      "country_code": "PK",
+      "country_name": "Pakistan"
     },
     {
       "source": "BBC US & Canada",
@@ -39,12 +84,12 @@
     },
     {
       "source": "BBC World",
-      "title": "Body of US climber the latest recovered after Pakistan avalanche",
-      "url": "https://www.bbc.co.uk/news/articles/cddjz1r01l8o?at_medium=RSS&at_campaign=rss",
-      "summary": "The bodies of two other climbers have already been recovered from the mountain, while others are still missing.",
-      "published_at": "2026-07-31T20:22:46Z",
-      "country_code": "US",
-      "country_name": "United States"
+      "title": "Greyhounds bound for Australia as New Zealand racing ban takes effect",
+      "url": "https://www.bbc.co.uk/news/articles/c5y62pe9g3no?at_medium=RSS&at_campaign=rss",
+      "summary": "At least two chartered flights carrying up to 150 greyhounds are set to fly to Australia's eastern states, the BBC understands.",
+      "published_at": "2026-07-31T21:09:39Z",
+      "country_code": "AU",
+      "country_name": "Australia"
     },
     {
       "source": "BBC Europe",
@@ -65,7 +110,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Europe",
+      "source": "BBC World",
       "title": "What triggered the mass migrant crossings into Ceuta?",
       "url": "https://www.bbc.co.uk/news/videos/c171nnql1j4o?at_medium=RSS&at_campaign=rss",
       "summary": "An estimated 60,000 migrants from Morocco have crossed into Ceuta, with dozens dying during the journey.",
@@ -99,6 +144,15 @@
       "published_at": "2026-07-31T16:00:56Z",
       "country_code": "PS",
       "country_name": "Palestine"
+    },
+    {
+      "source": "BBC World",
+      "title": "Watch: Tens of thousands of migrants enter Spain's Ceuta from Morocco",
+      "url": "https://www.bbc.co.uk/news/videos/cnvnml1pen6o?at_medium=RSS&at_campaign=rss",
+      "summary": "Spain's North African territory of Ceuta from Morocco, though more than 25,000 have returned voluntarily, officials said.",
+      "published_at": "2026-07-31T15:48:34Z",
+      "country_code": "ES",
+      "country_name": "Spain"
     },
     {
       "source": "BBC World",
@@ -299,7 +353,7 @@
       "country_name": "Israel"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "Australia takes Telegram to court over alleged failure to remove 'pro-terror' material",
       "url": "https://www.bbc.co.uk/news/articles/crmrv4pnexmo?at_medium=RSS&at_campaign=rss",
       "summary": "Telegram told the BBC it rejects the allegations and will contest them in court.",
@@ -308,7 +362,7 @@
       "country_name": "Australia"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "Singapore fines French teen $465 for viral straw-licking stunt",
       "url": "https://www.bbc.co.uk/news/articles/crrvqjw8epko?at_medium=RSS&at_campaign=rss",
       "summary": "The 19-year-old was \"truly sorry\" for causing trouble, his lawyers said.",
@@ -344,16 +398,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
-      "title": "India's CJP protests: Why tech alone won't stop exam paper leaks",
-      "url": "https://www.bbc.co.uk/news/articles/c1m1gz1nx45o?at_medium=RSS&at_campaign=rss",
-      "summary": "Can computer-based testing stop NEET paper leaks? Experts say governance matters as much as tech.",
-      "published_at": "2026-07-29T22:50:14Z",
-      "country_code": "IN",
-      "country_name": "India"
-    },
-    {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "The Chinese robot army transforming the UK's retail industry",
       "url": "https://www.bbc.co.uk/news/articles/c0jl8v23qwgo?at_medium=RSS&at_campaign=rss",
       "summary": "Britain's weak productivity growth and labour shortages are creating an opportunity for China's robotics firms.",
@@ -371,7 +416,7 @@
       "country_name": "United Kingdom"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Middle East",
       "title": "Saudi Arabia's dilemma as it tries to stay out of US-Iran war",
       "url": "https://www.bbc.co.uk/news/articles/clyx83l8jv8o?at_medium=RSS&at_campaign=rss",
       "summary": "The kingdom faces a choice of whether to keep hitting back as a deterrent or to try to de-escalate the situation.",
@@ -387,15 +432,6 @@
       "published_at": "2026-07-29T17:21:57Z",
       "country_code": "ES",
       "country_name": "Spain"
-    },
-    {
-      "source": "BBC World",
-      "title": "'It's our home, it's our forest': BBC speaks to locals fighting France wildfire",
-      "url": "https://www.bbc.co.uk/news/articles/c62q5we799ro?at_medium=RSS&at_campaign=rss",
-      "summary": "Firefighters are battling flare-ups in 40C heat in the Gironde region, as some locals have refused to heed evacuations.",
-      "published_at": "2026-07-29T16:49:41Z",
-      "country_code": "FR",
-      "country_name": "France"
     },
     {
       "source": "BBC Middle East",
@@ -495,15 +531,6 @@
       "published_at": "2026-07-27T22:08:21Z",
       "country_code": "JP",
       "country_name": "Japan"
-    },
-    {
-      "source": "BBC Middle East",
-      "title": "Trump says Iran war talks taking place during lull in strikes",
-      "url": "https://www.bbc.co.uk/news/articles/c62xn4vzmnpo?at_medium=RSS&at_campaign=rss",
-      "summary": "The US president says \"there is a good chance that something could happen\", as Iran denies direct talks are taking place.",
-      "published_at": "2026-07-27T21:10:56Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC US & Canada",
@@ -870,7 +897,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 29
+      "news_count": 28
     },
     {
       "country_code": "PS",
@@ -878,24 +905,24 @@
       "news_count": 8
     },
     {
+      "country_code": "ES",
+      "country_name": "Spain",
+      "news_count": 6
+    },
+    {
       "country_code": "GB",
       "country_name": "United Kingdom",
       "news_count": 6
     },
     {
-      "country_code": "ES",
-      "country_name": "Spain",
+      "country_code": "IR",
+      "country_name": "Iran",
       "news_count": 5
     },
     {
       "country_code": "FR",
       "country_name": "France",
-      "news_count": 5
-    },
-    {
-      "country_code": "IR",
-      "country_name": "Iran",
-      "news_count": 5
+      "news_count": 4
     },
     {
       "country_code": "NG",
@@ -918,6 +945,11 @@
       "news_count": 3
     },
     {
+      "country_code": "AU",
+      "country_name": "Australia",
+      "news_count": 2
+    },
+    {
       "country_code": "IN",
       "country_name": "India",
       "news_count": 2
@@ -938,6 +970,16 @@
       "news_count": 2
     },
     {
+      "country_code": "PK",
+      "country_name": "Pakistan",
+      "news_count": 2
+    },
+    {
+      "country_code": "RU",
+      "country_name": "Russia",
+      "news_count": 2
+    },
+    {
       "country_code": "SA",
       "country_name": "Saudi Arabia",
       "news_count": 2
@@ -946,11 +988,6 @@
       "country_code": "SD",
       "country_name": "Sudan",
       "news_count": 2
-    },
-    {
-      "country_code": "AU",
-      "country_name": "Australia",
-      "news_count": 1
     },
     {
       "country_code": "BE",
@@ -995,11 +1032,6 @@
     {
       "country_code": "PE",
       "country_name": "Peru",
-      "news_count": 1
-    },
-    {
-      "country_code": "RU",
-      "country_name": "Russia",
       "news_count": 1
     },
     {
