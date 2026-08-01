@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-08-01T09:48:30Z",
+  "generated_at": "2026-08-01T11:09:34Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Spain attacks 'selfish' response of some EU countries to Ceuta migrant crossings",
+      "url": "https://www.bbc.co.uk/news/articles/cx2v91xn1z9o?at_medium=RSS&at_campaign=rss",
+      "summary": "Italy has temporarily suspended the Schengen arrangement with Spain as Prime Minister Giorgia Meloni called scenes in Ceuta \"shocking\".",
+      "published_at": "2026-08-01T11:00:05Z",
+      "country_code": "IT",
+      "country_name": "Italy"
+    },
     {
       "source": "BBC World",
       "title": "Russian strikes on Kyiv kill at least nine, Ukraine officials say",
@@ -60,6 +69,15 @@
       "title": "Death row inmates desperate to escape execution in Saudi Arabia call the BBC",
       "url": "https://www.bbc.co.uk/news/articles/c80nkgdnl4no?at_medium=RSS&at_campaign=rss",
       "summary": "Dozens of Ethiopians are awaiting execution - some called the BBC to tell their stories.",
+      "published_at": "2026-07-31T23:41:10Z",
+      "country_code": "SA",
+      "country_name": "Saudi Arabia"
+    },
+    {
+      "source": "BBC Africa",
+      "title": "Ethiopian death row inmates desperate to escape execution in Saudi Arabia call the BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c80nkgdnl4no?at_medium=RSS&at_campaign=rss",
+      "summary": "Dozens, many from Tigray, are awaiting execution - some called the BBC to tell their stories.",
       "published_at": "2026-07-31T23:41:10Z",
       "country_code": "SA",
       "country_name": "Saudi Arabia"
@@ -128,7 +146,7 @@
       "country_name": "United Kingdom"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Africa",
       "title": "Spain's PM blames traffickers after 60,000 migrants reach Ceuta from Morocco",
       "url": "https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&at_campaign=rss",
       "summary": "Spain said most had returned to Morocco by Friday evening, as Italy suspended its Schengen agreement on free movement with Madrid.",
@@ -935,6 +953,16 @@
       "news_count": 4
     },
     {
+      "country_code": "IT",
+      "country_name": "Italy",
+      "news_count": 3
+    },
+    {
+      "country_code": "SA",
+      "country_name": "Saudi Arabia",
+      "news_count": 3
+    },
+    {
       "country_code": "UA",
       "country_name": "Ukraine",
       "news_count": 3
@@ -955,11 +983,6 @@
       "news_count": 2
     },
     {
-      "country_code": "IT",
-      "country_name": "Italy",
-      "news_count": 2
-    },
-    {
       "country_code": "JP",
       "country_name": "Japan",
       "news_count": 2
@@ -977,11 +1000,6 @@
     {
       "country_code": "RU",
       "country_name": "Russia",
-      "news_count": 2
-    },
-    {
-      "country_code": "SA",
-      "country_name": "Saudi Arabia",
       "news_count": 2
     },
     {
