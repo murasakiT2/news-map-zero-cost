@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-08-02T09:29:25Z",
+  "generated_at": "2026-08-02T10:59:32Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Three killed after bomb detonated at Moscow restaurant, state media say",
+      "url": "https://www.bbc.co.uk/news/articles/c86n4ljxp63o?at_medium=RSS&at_campaign=rss",
+      "summary": "Security officials said a woman tried to enter the restaurant with explosives but was stopped by a security guard.",
+      "published_at": "2026-08-02T10:54:44Z",
+      "country_code": "RU",
+      "country_name": "Russia"
+    },
+    {
+      "source": "BBC World",
+      "title": "Five dead, 41 missing, after Indonesia ferry catches fire",
+      "url": "https://www.bbc.co.uk/news/articles/c74g0wjvlrxo?at_medium=RSS&at_campaign=rss",
+      "summary": "The vessel with at least 250 people on board caught fire off Madura island.",
+      "published_at": "2026-08-02T10:46:47Z",
+      "country_code": "ID",
+      "country_name": "Indonesia"
+    },
+    {
+      "source": "BBC World",
+      "title": "How Spain's migrant crisis created a political storm - whipped up by social media",
+      "url": "https://www.bbc.co.uk/news/articles/c62vl925dqdo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Ceuta crossings have shaken Europe politically, exposing divisions over the sensitive issue of migration, the BBC's Sarah Rainsford writ…",
+      "published_at": "2026-08-02T10:32:28Z",
+      "country_code": "ES",
+      "country_name": "Spain"
+    },
+    {
+      "source": "BBC World",
+      "title": "Body of mountaineer Nirmal Purja recovered after Pakistan avalanche",
+      "url": "https://www.bbc.co.uk/news/articles/clyljq79kdko?at_medium=RSS&at_campaign=rss",
+      "summary": "The renowned climber was known for scaling the world's 14 highest peaks in just over six months in 2019.",
+      "published_at": "2026-08-02T10:11:26Z",
+      "country_code": "PK",
+      "country_name": "Pakistan"
+    },
     {
       "source": "BBC World",
       "title": "Trump cancels Iran strikes subject to deal being made 'rapidly'",
@@ -18,33 +54,6 @@
       "published_at": "2026-08-02T06:38:20Z",
       "country_code": "CA",
       "country_name": "Canada"
-    },
-    {
-      "source": "BBC World",
-      "title": "Three killed after bomb detonated at Moscow restaurant, state media say",
-      "url": "https://www.bbc.co.uk/news/articles/c86n4ljxp63o?at_medium=RSS&at_campaign=rss",
-      "summary": "Security officials said a woman tried to enter the restaurant with explosives but was stopped by a security guard.",
-      "published_at": "2026-08-02T05:40:42Z",
-      "country_code": "RU",
-      "country_name": "Russia"
-    },
-    {
-      "source": "BBC World",
-      "title": "Mountaineer Nirmal Purja killed in Pakistan avalanche, his company says",
-      "url": "https://www.bbc.co.uk/news/articles/clyljq79kdko?at_medium=RSS&at_campaign=rss",
-      "summary": "The renowned mountaineer was known for scaling the world's 14 highest peaks in just over six months in 2019.",
-      "published_at": "2026-08-02T05:26:39Z",
-      "country_code": "PK",
-      "country_name": "Pakistan"
-    },
-    {
-      "source": "BBC World",
-      "title": "How Spain's migrant crisis created a political storm - whipped up by social media",
-      "url": "https://www.bbc.co.uk/news/articles/c62vl925dqdo?at_medium=RSS&at_campaign=rss",
-      "summary": "The Ceuta crossings have shaken Europe politically, exposing divisions over the sensitive issue of migration, the BBC's Sarah Rainsford writ…",
-      "published_at": "2026-08-02T00:55:16Z",
-      "country_code": "ES",
-      "country_name": "Spain"
     },
     {
       "source": "BBC World",
@@ -83,7 +92,7 @@
       "country_name": "Australia"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "EU calls emergency meeting to discuss Ceuta migrant crossings",
       "url": "https://www.bbc.co.uk/news/articles/cz7d17r455go?at_medium=RSS&at_campaign=rss",
       "summary": "There have been tense exchanges between Spain and other EU states over the influx of migrants into the enclave of Ceuta.",
@@ -497,15 +506,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Asia",
-      "title": "The Chinese robot army transforming the UK's retail industry",
-      "url": "https://www.bbc.co.uk/news/articles/c0jl8v23qwgo?at_medium=RSS&at_campaign=rss",
-      "summary": "Britain's weak productivity growth and labour shortages are creating an opportunity for China's robotics firms.",
-      "published_at": "2026-07-29T22:08:29Z",
-      "country_code": "GB",
-      "country_name": "United Kingdom"
-    },
-    {
       "source": "BBC Africa",
       "title": "The athlete from Cameroon who has never held her Olympic medal",
       "url": "https://www.bbc.co.uk/sport/weightlifting/articles/cn8nxg5rvvko?at_medium=RSS&at_campaign=rss",
@@ -632,7 +632,7 @@
       "country_name": "Japan"
     },
     {
-      "source": "BBC US & Canada",
+      "source": "BBC Middle East",
       "title": "As the US pauses the war with Iran, is Trump really running out of weapons?",
       "url": "https://www.bbc.co.uk/news/articles/c0qvnk2ezp7o?at_medium=RSS&at_campaign=rss",
       "summary": "The US has fired thousands of hard-to-replace missiles during its war with Iran. We unpack whether its \"arsenal of freedom\" is perilously lo…",
@@ -993,7 +993,7 @@
     {
       "country_code": "GB",
       "country_name": "United Kingdom",
-      "news_count": 6
+      "news_count": 5
     },
     {
       "country_code": "IR",
@@ -1051,6 +1051,11 @@
       "news_count": 2
     },
     {
+      "country_code": "ID",
+      "country_name": "Indonesia",
+      "news_count": 2
+    },
+    {
       "country_code": "IN",
       "country_name": "India",
       "news_count": 2
@@ -1083,11 +1088,6 @@
     {
       "country_code": "DZ",
       "country_name": "Algeria",
-      "news_count": 1
-    },
-    {
-      "country_code": "ID",
-      "country_name": "Indonesia",
       "news_count": 1
     },
     {
