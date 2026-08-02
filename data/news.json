@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-08-01T23:25:11Z",
+  "generated_at": "2026-08-02T01:02:55Z",
   "articles": [
     {
       "source": "BBC World",
-      "title": "The Sopranos star Vincent Pastore dies aged 80",
-      "url": "https://www.bbc.co.uk/news/articles/cm2gz0epljgo?at_medium=RSS&at_campaign=rss",
-      "summary": "Pastore, who played Salvatore \"Big Pussy\" Bonpensiero in the hit US show, was found at his home in New York City, US media report.",
-      "published_at": "2026-08-01T22:57:55Z",
-      "country_code": "US",
-      "country_name": "United States"
+      "title": "How Spain's migrant crisis created a political storm - whipped up by social media",
+      "url": "https://www.bbc.co.uk/news/articles/c62vl925dqdo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Ceuta crossings have shaken Europe politically, exposing divisions over the sensitive issue of migration, the BBC's Sarah Rainsford writ…",
+      "published_at": "2026-08-02T00:55:16Z",
+      "country_code": "ES",
+      "country_name": "Spain"
     },
     {
       "source": "BBC World",
       "title": "Tourist plane crashes in Peru, killing 13",
       "url": "https://www.bbc.co.uk/news/articles/c70g132erlko?at_medium=RSS&at_campaign=rss",
       "summary": "The small plane was flying over the Nazca Lines ​archaeological site when it crashed, according to local reports.",
-      "published_at": "2026-08-01T22:34:20Z",
+      "published_at": "2026-08-02T00:29:55Z",
       "country_code": "PE",
       "country_name": "Peru"
     },
@@ -24,9 +24,18 @@
       "title": "Three killed after bomb detonated at Moscow restaurant, state media say",
       "url": "https://www.bbc.co.uk/news/articles/c86n4ljxp63o?at_medium=RSS&at_campaign=rss",
       "summary": "Security officials said a woman tried to enter the restaurant with explosives but was stopped by a security guard.",
-      "published_at": "2026-08-01T21:13:17Z",
+      "published_at": "2026-08-02T00:02:18Z",
       "country_code": "RU",
       "country_name": "Russia"
+    },
+    {
+      "source": "BBC World",
+      "title": "The Sopranos star Vincent Pastore dies aged 80",
+      "url": "https://www.bbc.co.uk/news/articles/cm2gz0epljgo?at_medium=RSS&at_campaign=rss",
+      "summary": "Pastore, who played Salvatore \"Big Pussy\" Bonpensiero in the hit US show, was found at his home in New York City, US media report.",
+      "published_at": "2026-08-01T22:57:55Z",
+      "country_code": "US",
+      "country_name": "United States"
     },
     {
       "source": "BBC World",
@@ -335,7 +344,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Middle East",
       "title": "Why limited war with the US may suit Iran better than peace",
       "url": "https://www.bbc.co.uk/news/articles/c78gnyq3wvdo?at_medium=RSS&at_campaign=rss",
       "summary": "Iran may believe it can control its conflict carefully enough to keep pressure on the US while avoiding an all-out war.",
@@ -963,14 +972,14 @@
       "news_count": 30
     },
     {
-      "country_code": "PS",
-      "country_name": "Palestine",
+      "country_code": "ES",
+      "country_name": "Spain",
       "news_count": 8
     },
     {
-      "country_code": "ES",
-      "country_name": "Spain",
-      "news_count": 7
+      "country_code": "PS",
+      "country_name": "Palestine",
+      "news_count": 8
     },
     {
       "country_code": "GB",
