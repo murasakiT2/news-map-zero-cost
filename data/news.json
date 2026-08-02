@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-08-02T12:02:54Z",
+  "generated_at": "2026-08-02T14:04:53Z",
   "articles": [
+    {
+      "source": "BBC US & Canada",
+      "title": "Hundreds of flights cancelled as workers strike at Canada's WestJet",
+      "url": "https://www.bbc.co.uk/news/articles/cq568j06zgxo?at_medium=RSS&at_campaign=rss",
+      "summary": "The strike by flight attendants at Canada's second-largest air carrier hits travellers on one of the busiest summer holiday weekends.",
+      "published_at": "2026-08-02T13:58:30Z",
+      "country_code": "CA",
+      "country_name": "Canada"
+    },
     {
       "source": "BBC World",
       "title": "Five dead, 41 missing, after Indonesia ferry catches fire",
@@ -45,15 +54,6 @@
       "published_at": "2026-08-02T10:11:26Z",
       "country_code": "PK",
       "country_name": "Pakistan"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "Canada's WestJet airline flight attendants go on strike - can I get a refund?",
-      "url": "https://www.bbc.co.uk/news/articles/cq568j06zgxo?at_medium=RSS&at_campaign=rss",
-      "summary": "The potential strike by flight attendants for Canada's second-largest air carrier comes during the busy August long weekend in the country.",
-      "published_at": "2026-08-02T06:38:20Z",
-      "country_code": "CA",
-      "country_name": "Canada"
     },
     {
       "source": "BBC World",
@@ -225,6 +225,15 @@
       "published_at": "2026-07-31T21:09:39Z",
       "country_code": "AU",
       "country_name": "Australia"
+    },
+    {
+      "source": "BBC Middle East",
+      "title": "Israeli official says troops won't pull back in Gaza without 'genuine' Hamas disarmament",
+      "url": "https://www.bbc.co.uk/news/articles/cd9wjj4qleeo?at_medium=RSS&at_campaign=rss",
+      "summary": "Donald Trump insists Israel is \"very happy\" with a proposal for the Palestinian group to give up weapons in exchange for an Israeli withdraw…",
+      "published_at": "2026-07-31T20:58:27Z",
+      "country_code": "IL",
+      "country_name": "Israel"
     },
     {
       "source": "BBC Europe",
@@ -459,15 +468,6 @@
       "published_at": "2026-07-30T05:05:24Z",
       "country_code": "IL",
       "country_name": "Israel"
-    },
-    {
-      "source": "BBC Asia",
-      "title": "Singapore fines French teen $465 for viral straw-licking stunt",
-      "url": "https://www.bbc.co.uk/news/articles/crrvqjw8epko?at_medium=RSS&at_campaign=rss",
-      "summary": "The 19-year-old was \"truly sorry\" for causing trouble, his lawyers said.",
-      "published_at": "2026-07-30T02:54:54Z",
-      "country_code": "SG",
-      "country_name": "Singapore"
     },
     {
       "source": "BBC US & Canada",
@@ -776,15 +776,6 @@
       "country_name": "Nigeria"
     },
     {
-      "source": "BBC Middle East",
-      "title": "Trump: Strikes carried out 'in honour' of American soldiers killed",
-      "url": "https://www.bbc.co.uk/news/videos/c3r0x5x7qd7o?at_medium=RSS&at_campaign=rss",
-      "summary": "The US said it launched a \"new wave\" of strikes for the ninth consecutive night as explosions were heard across Iran.",
-      "published_at": "2026-07-20T13:38:17Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC Europe",
       "title": "Sixteen titles in five years - why Spain are a dominant force",
       "url": "https://www.bbc.co.uk/sport/football/articles/c39elvrye40o?at_medium=RSS&at_campaign=rss",
@@ -951,7 +942,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 30
+      "news_count": 29
     },
     {
       "country_code": "PS",
@@ -1024,6 +1015,11 @@
       "news_count": 2
     },
     {
+      "country_code": "IL",
+      "country_name": "Israel",
+      "news_count": 2
+    },
+    {
       "country_code": "IN",
       "country_name": "India",
       "news_count": 2
@@ -1064,11 +1060,6 @@
       "news_count": 1
     },
     {
-      "country_code": "IL",
-      "country_name": "Israel",
-      "news_count": 1
-    },
-    {
       "country_code": "KE",
       "country_name": "Kenya",
       "news_count": 1
@@ -1091,11 +1082,6 @@
     {
       "country_code": "SD",
       "country_name": "Sudan",
-      "news_count": 1
-    },
-    {
-      "country_code": "SG",
-      "country_name": "Singapore",
       "news_count": 1
     }
   ]
