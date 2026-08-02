@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-08-02T14:04:53Z",
+  "generated_at": "2026-08-02T15:34:34Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "At least eight killed in Israeli strikes on Gaza after Hamas agree disarmament deal",
+      "url": "https://www.bbc.co.uk/news/articles/czjlvvkzj20o?at_medium=RSS&at_campaign=rss",
+      "summary": "Israel says it was targeting military operatives in the strikes on Gaza City, Khan Younis and Deir el-Balah.",
+      "published_at": "2026-08-02T15:02:56Z",
+      "country_code": "IL",
+      "country_name": "Israel"
+    },
     {
       "source": "BBC US & Canada",
       "title": "Hundreds of flights cancelled as workers strike at Canada's WestJet",
@@ -164,7 +173,7 @@
       "country_name": "Pakistan"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Middle East",
       "title": "Israeli West Bank settler tells BBC attacks on Palestinians are justified as revenge",
       "url": "https://www.bbc.co.uk/news/articles/c4g4djgdyk2o?at_medium=RSS&at_campaign=rss",
       "summary": "Settler violence against Palestinians is on the rise in the West Bank, as settlements and outposts expand.",
@@ -533,15 +542,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Middle East",
-      "title": "Zelensky and Netanyahu meet Trump as wars in Ukraine and Iran drag on",
-      "url": "https://www.bbc.co.uk/news/articles/cj4k2z8z45ro?at_medium=RSS&at_campaign=rss",
-      "summary": "The two leaders sound encouraged after holding back-to-back bilaterals at the White House.",
-      "published_at": "2026-07-29T12:17:42Z",
-      "country_code": "UA",
-      "country_name": "Ukraine"
-    },
-    {
       "source": "BBC Europe",
       "title": "Devastating European wildfires in maps - and how they're being tackled",
       "url": "https://www.bbc.co.uk/news/articles/cj638jx0l53o?at_medium=RSS&at_campaign=rss",
@@ -594,15 +594,6 @@
       "published_at": "2026-07-28T17:30:15Z",
       "country_code": "FR",
       "country_name": "France"
-    },
-    {
-      "source": "BBC Europe",
-      "title": "Mancini reappointed Italy boss after Pirlo controversy",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c0ly412r412o?at_medium=RSS&at_campaign=rss",
-      "summary": "Roberto Mancini is appointed Italy manager for a second time - just a day after Andrea Pirlo rules himself out of the running for the job an…",
-      "published_at": "2026-07-28T13:54:00Z",
-      "country_code": "IT",
-      "country_name": "Italy"
     },
     {
       "source": "BBC Asia",
@@ -980,8 +971,8 @@
       "news_count": 3
     },
     {
-      "country_code": "IT",
-      "country_name": "Italy",
+      "country_code": "IL",
+      "country_name": "Israel",
       "news_count": 3
     },
     {
@@ -992,11 +983,6 @@
     {
       "country_code": "SA",
       "country_name": "Saudi Arabia",
-      "news_count": 3
-    },
-    {
-      "country_code": "UA",
-      "country_name": "Ukraine",
       "news_count": 3
     },
     {
@@ -1015,13 +1001,13 @@
       "news_count": 2
     },
     {
-      "country_code": "IL",
-      "country_name": "Israel",
+      "country_code": "IN",
+      "country_name": "India",
       "news_count": 2
     },
     {
-      "country_code": "IN",
-      "country_name": "India",
+      "country_code": "IT",
+      "country_name": "Italy",
       "news_count": 2
     },
     {
@@ -1037,6 +1023,11 @@
     {
       "country_code": "PK",
       "country_name": "Pakistan",
+      "news_count": 2
+    },
+    {
+      "country_code": "UA",
+      "country_name": "Ukraine",
       "news_count": 2
     },
     {
