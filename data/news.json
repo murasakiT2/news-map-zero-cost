@@ -1,14 +1,41 @@
 {
-  "generated_at": "2026-08-02T04:46:57Z",
+  "generated_at": "2026-08-02T07:26:00Z",
   "articles": [
     {
+      "source": "BBC US & Canada",
+      "title": "Canada's WestJet airline flight attendants go on strike - can I get a refund?",
+      "url": "https://www.bbc.co.uk/news/articles/cq568j06zgxo?at_medium=RSS&at_campaign=rss",
+      "summary": "The potential strike by flight attendants for Canada's second-largest air carrier comes during the busy August long weekend in the country.",
+      "published_at": "2026-08-02T06:38:20Z",
+      "country_code": "CA",
+      "country_name": "Canada"
+    },
+    {
       "source": "BBC World",
-      "title": "Trump says he is cancelling strikes on Iran subject to 'rapidly' making deal",
+      "title": "Trump says he is cancelling strikes on Iran subject to deal being made 'rapidly'",
       "url": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss",
-      "summary": "The US president's message came amid media reports that he was planning new, intense strikes on Iran over the weekend.",
-      "published_at": "2026-08-02T03:05:16Z",
+      "summary": "The US president claims Iran and other Middle Eastern countries asked Washington to hold off on any attack as the \"perimeters\" of a deal had…",
+      "published_at": "2026-08-02T06:24:01Z",
       "country_code": "US",
       "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Three killed after bomb detonated at Moscow restaurant, state media say",
+      "url": "https://www.bbc.co.uk/news/articles/c86n4ljxp63o?at_medium=RSS&at_campaign=rss",
+      "summary": "Security officials said a woman tried to enter the restaurant with explosives but was stopped by a security guard.",
+      "published_at": "2026-08-02T05:40:42Z",
+      "country_code": "RU",
+      "country_name": "Russia"
+    },
+    {
+      "source": "BBC World",
+      "title": "Mountaineer Nirmal Purja killed in Pakistan avalanche, his company says",
+      "url": "https://www.bbc.co.uk/news/articles/clyljq79kdko?at_medium=RSS&at_campaign=rss",
+      "summary": "The renowned mountaineer was known for scaling the world's 14 highest peaks in just over six months in 2019.",
+      "published_at": "2026-08-02T05:26:39Z",
+      "country_code": "PK",
+      "country_name": "Pakistan"
     },
     {
       "source": "BBC World",
@@ -30,15 +57,6 @@
     },
     {
       "source": "BBC World",
-      "title": "Three killed after bomb detonated at Moscow restaurant, state media say",
-      "url": "https://www.bbc.co.uk/news/articles/c86n4ljxp63o?at_medium=RSS&at_campaign=rss",
-      "summary": "Security officials said a woman tried to enter the restaurant with explosives but was stopped by a security guard.",
-      "published_at": "2026-08-02T00:02:18Z",
-      "country_code": "RU",
-      "country_name": "Russia"
-    },
-    {
-      "source": "BBC World",
       "title": "The Sopranos star Vincent Pastore dies aged 80",
       "url": "https://www.bbc.co.uk/news/articles/cm2gz0epljgo?at_medium=RSS&at_campaign=rss",
       "summary": "Pastore, who played Salvatore \"Big Pussy\" Bonpensiero in the hit US show, was found at his home in New York City, US media report.",
@@ -48,7 +66,7 @@
     },
     {
       "source": "BBC World",
-      "title": "How Australia combines modern tech and Indigenous knowledge to fight fire",
+      "title": "How Australia combines modern tech and Indigenous knowledge to fight wildfires",
       "url": "https://www.bbc.co.uk/news/articles/czdmvr984yyo?at_medium=RSS&at_campaign=rss",
       "summary": "As Europe faces its worst wildfires in decades, Australia offers lessons in disaster preparedness.",
       "published_at": "2026-08-01T21:03:42Z",
@@ -74,15 +92,6 @@
       "country_name": "Netherlands"
     },
     {
-      "source": "BBC US & Canada",
-      "title": "Will Canada's WestJet airline strike go ahead - and can I get a refund?",
-      "url": "https://www.bbc.co.uk/news/articles/cq568j06zgxo?at_medium=RSS&at_campaign=rss",
-      "summary": "The potential strike by flight attendants for Canada's second-largest air carrier comes during the busy August long weekend in the country.",
-      "published_at": "2026-08-01T18:55:52Z",
-      "country_code": "CA",
-      "country_name": "Canada"
-    },
-    {
       "source": "BBC World",
       "title": "Italy putting nearly all major cities on highest heat alert",
       "url": "https://www.bbc.co.uk/news/articles/cr7k4gdrgljo?at_medium=RSS&at_campaign=rss",
@@ -99,15 +108,6 @@
       "published_at": "2026-08-01T17:07:46Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "Mountaineer Nirmal Purja killed in Pakistan avalanche, his company says",
-      "url": "https://www.bbc.co.uk/news/articles/clyljq79kdko?at_medium=RSS&at_campaign=rss",
-      "summary": "The renowned mountaineer was known for scaling the world's 14 highest peaks in just over six months in 2019.",
-      "published_at": "2026-08-01T15:25:30Z",
-      "country_code": "PK",
-      "country_name": "Pakistan"
     },
     {
       "source": "BBC Asia",
@@ -421,15 +421,6 @@
       "url": "https://www.bbc.co.uk/news/articles/c39ez3klwmro?at_medium=RSS&at_campaign=rss",
       "summary": "The drone reportedly hit a US-owned regasification vessel and a Greek-owned tanker at Damietta port on Wednesday.",
       "published_at": "2026-07-30T11:35:25Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC Middle East",
-      "title": "US launches 'heavy' strikes on Iran after attempted attack on American troops",
-      "url": "https://www.bbc.co.uk/news/articles/c74gwdzywmeo?at_medium=RSS&at_campaign=rss",
-      "summary": "After a short period of relative calm when hostilities were paused, both sides have now restarted missile attacks.",
-      "published_at": "2026-07-30T10:49:14Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -978,7 +969,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 31
+      "news_count": 30
     },
     {
       "country_code": "ES",
