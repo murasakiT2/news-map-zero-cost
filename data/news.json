@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-08-02T16:44:58Z",
+  "generated_at": "2026-08-02T17:52:14Z",
   "articles": [
+    {
+      "source": "BBC Asia",
+      "title": "Massive Attack responds after Singapore ban over Palestine display",
+      "url": "https://www.bbc.co.uk/news/articles/cr59qe86yj4o?at_medium=RSS&at_campaign=rss",
+      "summary": "The UK band says it is \"surprised and disappointed\" by its treatment over shouting \"free Palestine\" at a concert there.",
+      "published_at": "2026-08-02T17:40:02Z",
+      "country_code": "GB",
+      "country_name": "United Kingdom"
+    },
+    {
+      "source": "BBC World",
+      "title": "At the scene of deadly Moscow bomb blast",
+      "url": "https://www.bbc.co.uk/news/videos/c1719pk0xq8o?at_medium=RSS&at_campaign=rss",
+      "summary": "Three people have been killed and 21 injured after an explosive device detonated at an Italian restaurant, Russian media reports.",
+      "published_at": "2026-08-02T16:52:35Z",
+      "country_code": "RU",
+      "country_name": "Russia"
+    },
     {
       "source": "BBC US & Canada",
       "title": "Hundreds of flights cancelled as workers strike at Canada's WestJet",
@@ -39,7 +57,7 @@
     },
     {
       "source": "BBC World",
-      "title": "Five dead, 41 missing, after Indonesia ferry catches fire",
+      "title": "Five dead and 41 missing after Indonesia ferry catches fire",
       "url": "https://www.bbc.co.uk/news/articles/c74g0wjvlrxo?at_medium=RSS&at_campaign=rss",
       "summary": "The vessel with at least 250 people on board caught fire off Madura island.",
       "published_at": "2026-08-02T11:49:40Z",
@@ -164,15 +182,6 @@
       "country_name": "India"
     },
     {
-      "source": "BBC World",
-      "title": "Watch: Tens of thousands of migrants enter Spain's Ceuta from Morocco",
-      "url": "https://www.bbc.co.uk/news/videos/cnvnml1pen6o?at_medium=RSS&at_campaign=rss",
-      "summary": "Most migrants who reached Spain's North African territory of Ceuta from Morocco have returned, officials said.",
-      "published_at": "2026-08-01T12:04:46Z",
-      "country_code": "ES",
-      "country_name": "Spain"
-    },
-    {
       "source": "BBC US & Canada",
       "title": "Race to rescue remaining climbers after deadly avalanche in Pakistan",
       "url": "https://www.bbc.co.uk/news/articles/cddjz1r01l8o?at_medium=RSS&at_campaign=rss",
@@ -279,15 +288,6 @@
       "published_at": "2026-07-31T18:29:04Z",
       "country_code": "MA",
       "country_name": "Morocco"
-    },
-    {
-      "source": "BBC Asia",
-      "title": "Massive Attack banned from Singapore after pro-Palestine display at show",
-      "url": "https://www.bbc.co.uk/news/articles/cwyle421806o?at_medium=RSS&at_campaign=rss",
-      "summary": "The UK band is told not to return to the city-state after shouting \"free Palestine\" at a gig on Wednesday.",
-      "published_at": "2026-07-31T17:55:04Z",
-      "country_code": "GB",
-      "country_name": "United Kingdom"
     },
     {
       "source": "BBC Africa",
@@ -614,15 +614,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Europe",
-      "title": "What you need to know if you're travelling to France or Spain",
-      "url": "https://www.bbc.co.uk/news/videos/c89npw4q3g4o?at_medium=RSS&at_campaign=rss",
-      "summary": "The BBC’s cost of living correspondent explains how to handle holiday cancellations as a result of European wildfires.",
-      "published_at": "2026-07-27T17:20:27Z",
-      "country_code": "FR",
-      "country_name": "France"
-    },
-    {
       "source": "BBC Africa",
       "title": "Are some soldiers colluding with Nigeria's criminal gangs? A recent arrest prompts questions",
       "url": "https://www.bbc.co.uk/news/articles/cr7k8y5272eo?at_medium=RSS&at_campaign=rss",
@@ -916,7 +907,7 @@
     {
       "country_code": "ES",
       "country_name": "Spain",
-      "news_count": 6
+      "news_count": 5
     },
     {
       "country_code": "GB",
@@ -939,19 +930,14 @@
       "news_count": 4
     },
     {
-      "country_code": "VE",
-      "country_name": "Venezuela",
+      "country_code": "RU",
+      "country_name": "Russia",
       "news_count": 4
     },
     {
-      "country_code": "FR",
-      "country_name": "France",
-      "news_count": 3
-    },
-    {
-      "country_code": "RU",
-      "country_name": "Russia",
-      "news_count": 3
+      "country_code": "VE",
+      "country_name": "Venezuela",
+      "news_count": 4
     },
     {
       "country_code": "SA",
@@ -966,6 +952,11 @@
     {
       "country_code": "AU",
       "country_name": "Australia",
+      "news_count": 2
+    },
+    {
+      "country_code": "FR",
+      "country_name": "France",
       "news_count": 2
     },
     {
