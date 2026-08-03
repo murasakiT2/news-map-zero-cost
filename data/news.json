@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-08-03T18:42:08Z",
+  "generated_at": "2026-08-03T20:19:35Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "US reports first two deaths linked to 'explosive diarrhoea' outbreak",
+      "url": "https://www.bbc.co.uk/news/articles/c2k7px317eeo?at_medium=RSS&at_campaign=rss",
+      "summary": "The illness caused by parasitic infection that spreads through contaminated food or water is not generally life-threatening, health official…",
+      "published_at": "2026-08-03T20:05:46Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Iran says it is in talks with Oman but not the US after Trump says negotiations to resume",
+      "url": "https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss",
+      "summary": "Iran's remarks that there were no talks with the US prompts Donald Trump to issue a strong condemnation of its leadership.",
+      "published_at": "2026-08-03T19:42:55Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "Russia says seven killed and 40 injured by Ukrainian drone hitting busy beach",
@@ -9,15 +27,6 @@
       "published_at": "2026-08-03T18:04:30Z",
       "country_code": "RU",
       "country_name": "Russia"
-    },
-    {
-      "source": "BBC World",
-      "title": "Iran says it is in talks with Oman but not the US after Trump says negotiations to resume",
-      "url": "https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss",
-      "summary": "Iran's remarks that there were no talks with the US prompts Donald Trump to issue a strong condemnation of its leadership.",
-      "published_at": "2026-08-03T17:41:27Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC World",
@@ -108,15 +117,6 @@
       "published_at": "2026-08-03T07:30:52Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "Outside the Moscow restaurant where bomb killed three",
-      "url": "https://www.bbc.co.uk/news/articles/cdx8qp451lko?at_medium=RSS&at_campaign=rss",
-      "summary": "The BBC's Russia editor reports from Kudrinskaya Square, where the blast took place.",
-      "published_at": "2026-08-03T03:53:05Z",
-      "country_code": "RU",
-      "country_name": "Russia"
     },
     {
       "source": "BBC Europe",
@@ -870,17 +870,12 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 26
+      "news_count": 27
     },
     {
       "country_code": "PS",
       "country_name": "Palestine",
       "news_count": 8
-    },
-    {
-      "country_code": "RU",
-      "country_name": "Russia",
-      "news_count": 6
     },
     {
       "country_code": "ES",
@@ -890,6 +885,11 @@
     {
       "country_code": "NG",
       "country_name": "Nigeria",
+      "news_count": 5
+    },
+    {
+      "country_code": "RU",
+      "country_name": "Russia",
       "news_count": 5
     },
     {
