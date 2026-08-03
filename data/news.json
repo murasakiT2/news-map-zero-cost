@@ -1,6 +1,33 @@
 {
-  "generated_at": "2026-08-03T11:52:37Z",
+  "generated_at": "2026-08-03T14:13:45Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Iran denies Trump's claim that new talks will begin on Monday",
+      "url": "https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss",
+      "summary": "While Iran denies that talks with the US are taking place, it is currently in negotiations with Oman over Strait of Hormuz access.",
+      "published_at": "2026-08-03T12:44:09Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Moroccan king's letter confirms naming of major highway in honour of Trump",
+      "url": "https://www.bbc.co.uk/news/articles/c3r0vg88zr2o?at_medium=RSS&at_campaign=rss",
+      "summary": "The highway enters Western Sahara, a disputed territory that Morocco claims sovereignty over.",
+      "published_at": "2026-08-03T12:20:11Z",
+      "country_code": "MA",
+      "country_name": "Morocco"
+    },
+    {
+      "source": "BBC World",
+      "title": "Hundreds flee fighting in northern Ethiopia as fears rise of return to civil war",
+      "url": "https://www.bbc.co.uk/news/articles/cdrv6r3xgyeo?at_medium=RSS&at_campaign=rss",
+      "summary": "There are concerns of a full-scale conflict once again as a peace deal has not been fully implemented.",
+      "published_at": "2026-08-03T11:49:48Z",
+      "country_code": "ET",
+      "country_name": "Ethiopia"
+    },
     {
       "source": "BBC World",
       "title": "Ariana Grande to take a break from public life amid 'endless' scrutiny",
@@ -18,15 +45,6 @@
       "published_at": "2026-08-03T10:29:24Z",
       "country_code": "SD",
       "country_name": "Sudan"
-    },
-    {
-      "source": "BBC World",
-      "title": "Iran denies Trump's claim that new talks will begin on Monday",
-      "url": "https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss",
-      "summary": "While Iran denies that talks with the US are taking place, it is currently in negotiations with Oman over Strait of Hormuz access.",
-      "published_at": "2026-08-03T10:23:35Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC World",
@@ -164,7 +182,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "Three killed after bomb detonated at Moscow restaurant, state media say",
       "url": "https://www.bbc.co.uk/news/articles/c86n4ljxp63o?at_medium=RSS&at_campaign=rss",
       "summary": "Security officials said a woman tried to enter the restaurant with explosives but was stopped by a security guard.",
@@ -236,7 +254,7 @@
       "country_name": "Netherlands"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "Italy putting nearly all major cities on highest heat alert",
       "url": "https://www.bbc.co.uk/news/articles/cr7k4gdrgljo?at_medium=RSS&at_campaign=rss",
       "summary": "Some 19 major Italian cities - including Rome, Milan and Naples - are already on red alert, and by Monday all but two will be.",
@@ -915,6 +933,11 @@
       "news_count": 2
     },
     {
+      "country_code": "MA",
+      "country_name": "Morocco",
+      "news_count": 2
+    },
+    {
       "country_code": "PE",
       "country_name": "Peru",
       "news_count": 2
@@ -965,6 +988,11 @@
       "news_count": 1
     },
     {
+      "country_code": "ET",
+      "country_name": "Ethiopia",
+      "news_count": 1
+    },
+    {
       "country_code": "ID",
       "country_name": "Indonesia",
       "news_count": 1
@@ -977,11 +1005,6 @@
     {
       "country_code": "KE",
       "country_name": "Kenya",
-      "news_count": 1
-    },
-    {
-      "country_code": "MA",
-      "country_name": "Morocco",
       "news_count": 1
     },
     {
