@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-08-02T23:25:30Z",
+  "generated_at": "2026-08-03T01:02:42Z",
   "articles": [
+    {
+      "source": "BBC US & Canada",
+      "title": "Trump suggests new talks with Iran to begin on Monday",
+      "url": "https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss",
+      "summary": "Tehran has not responded to the suggestion that new talks are imminent. Trump has previously said a negotiated end to the war is close, only…",
+      "published_at": "2026-08-03T00:11:18Z",
+      "country_code": "IR",
+      "country_name": "Iran"
+    },
+    {
+      "source": "BBC Asia",
+      "title": "'What was my fault?': How India's exam paper leak ended young lives",
+      "url": "https://www.bbc.co.uk/news/articles/crl7jl1d95eo?at_medium=RSS&at_campaign=rss",
+      "summary": "Two families reveal the human toll of India's medical entrance examination paper leak.",
+      "published_at": "2026-08-02T23:35:54Z",
+      "country_code": "IN",
+      "country_name": "India"
+    },
     {
       "source": "BBC US & Canada",
       "title": "Ariana Grande to take a break from public life amid 'endless' scrutiny",
@@ -344,15 +362,6 @@
       "country_name": "Algeria"
     },
     {
-      "source": "BBC US & Canada",
-      "title": "Fauci on 'solid legal ground' in face of prosecution threat, lawyer says",
-      "url": "https://www.bbc.co.uk/news/articles/czdmv0vyv4zo?at_medium=RSS&at_campaign=rss",
-      "summary": "The US medical expert faces possible contempt-of-Congress proceedings for refusing to answer questions during a hearing on Covid.",
-      "published_at": "2026-07-31T08:06:57Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC Asia",
       "title": "UK rapper Yung Filly found not guilty of raping woman after Australian show",
       "url": "https://www.bbc.co.uk/news/articles/crrv7vk0knro?at_medium=RSS&at_campaign=rss",
@@ -425,7 +434,7 @@
       "country_name": "Ukraine"
     },
     {
-      "source": "BBC US & Canada",
+      "source": "BBC Latin America",
       "title": "Brazil's president confirms two US government officials were denied visas over election interference fears",
       "url": "https://www.bbc.co.uk/news/articles/c4g3dv60ry9o?at_medium=RSS&at_campaign=rss",
       "summary": "Brazil has argued the visit could have been used to raise suspicions about the electoral system's reliability ahead of October's vote, which…",
@@ -480,10 +489,10 @@
     },
     {
       "source": "BBC US & Canada",
-      "title": "Wiped out by a hurricane, this US community is now a global energy giant",
-      "url": "https://www.bbc.co.uk/news/articles/c0ejq9g2pz4o?at_medium=RSS&at_campaign=rss",
-      "summary": "A US county flattened by Hurricane Rita is now the world's largest exporter of liquified natural gas.",
-      "published_at": "2026-07-30T02:08:24Z",
+      "title": "What to know about 'explosive diarrhoea' parasite outbreak in US",
+      "url": "https://www.bbc.co.uk/news/articles/c621m66qm76o?at_medium=RSS&at_campaign=rss",
+      "summary": "The source of the cyclosporiasis outbreak, which has spread across at least 45 states, is unclear.",
+      "published_at": "2026-07-30T00:52:09Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -605,7 +614,7 @@
       "country_name": "Japan"
     },
     {
-      "source": "BBC Middle East",
+      "source": "BBC US & Canada",
       "title": "As the US pauses the war with Iran, is Trump really running out of weapons?",
       "url": "https://www.bbc.co.uk/news/articles/c0qvnk2ezp7o?at_medium=RSS&at_campaign=rss",
       "summary": "The US has fired thousands of hard-to-replace missiles during its war with Iran. We unpack whether its \"arsenal of freedom\" is perilously lo…",
@@ -897,12 +906,17 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 27
+      "news_count": 26
     },
     {
       "country_code": "PS",
       "country_name": "Palestine",
       "news_count": 8
+    },
+    {
+      "country_code": "IR",
+      "country_name": "Iran",
+      "news_count": 6
     },
     {
       "country_code": "ES",
@@ -912,11 +926,6 @@
     {
       "country_code": "GB",
       "country_name": "United Kingdom",
-      "news_count": 5
-    },
-    {
-      "country_code": "IR",
-      "country_name": "Iran",
       "news_count": 5
     },
     {
@@ -938,6 +947,11 @@
       "country_code": "VE",
       "country_name": "Venezuela",
       "news_count": 4
+    },
+    {
+      "country_code": "IN",
+      "country_name": "India",
+      "news_count": 3
     },
     {
       "country_code": "SA",
@@ -962,11 +976,6 @@
     {
       "country_code": "ID",
       "country_name": "Indonesia",
-      "news_count": 2
-    },
-    {
-      "country_code": "IN",
-      "country_name": "India",
       "news_count": 2
     },
     {
