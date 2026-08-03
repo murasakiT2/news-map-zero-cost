@@ -1,6 +1,51 @@
 {
-  "generated_at": "2026-08-03T04:55:51Z",
+  "generated_at": "2026-08-03T08:21:25Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Trump suggests new talks with Iran to begin on Monday",
+      "url": "https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss",
+      "summary": "Tehran has not responded to the suggestion that new talks are imminent. Trump has previously said a negotiated end to the war is close, only…",
+      "published_at": "2026-08-03T08:03:15Z",
+      "country_code": "IR",
+      "country_name": "Iran"
+    },
+    {
+      "source": "BBC World",
+      "title": "Ariana Grande to take a break from public life amid 'endless' scrutiny",
+      "url": "https://www.bbc.co.uk/news/articles/c80ngjjvevyo?at_medium=RSS&at_campaign=rss",
+      "summary": "The US singer, 33, will \"step back from visibility\" at the end of her world tour next month, her representative says.",
+      "published_at": "2026-08-03T07:31:21Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "US and Japan take action to prop up yen in rare joint move",
+      "url": "https://www.bbc.co.uk/news/articles/cglj1pr0wjwo?at_medium=RSS&at_campaign=rss",
+      "summary": "Both countries have said that they will not hesitate to conduct joint interventions in the future.",
+      "published_at": "2026-08-03T07:30:52Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Outside the Moscow restaurant where bomb killed three",
+      "url": "https://www.bbc.co.uk/news/articles/cdx8qp451lko?at_medium=RSS&at_campaign=rss",
+      "summary": "The BBC's Russia editor reports from Kudrinskaya Square, where the blast took place.",
+      "published_at": "2026-08-03T03:53:05Z",
+      "country_code": "RU",
+      "country_name": "Russia"
+    },
+    {
+      "source": "BBC Europe",
+      "title": "Steve Rosenberg at the Moscow restaurant where bomb killed three",
+      "url": "https://www.bbc.co.uk/news/articles/cdx8qp451lko?at_medium=RSS&at_campaign=rss",
+      "summary": "The BBC's Russia editor reports from Kudrinskaya Square, where the blast took place.",
+      "published_at": "2026-08-03T03:53:05Z",
+      "country_code": "RU",
+      "country_name": "Russia"
+    },
     {
       "source": "BBC World",
       "title": "'My only son was shot standing up for justice' - inside city gripped by deadly protests in Pakistan-administered Kashmir",
@@ -9,15 +54,6 @@
       "published_at": "2026-08-03T03:32:21Z",
       "country_code": "PK",
       "country_name": "Pakistan"
-    },
-    {
-      "source": "BBC World",
-      "title": "US and Japan take action to prop up yen in rare joint move",
-      "url": "https://www.bbc.co.uk/news/articles/cglj1pr0wjwo?at_medium=RSS&at_campaign=rss",
-      "summary": "Both countries have said that they will not hesitate to conduct joint interventions in the future.",
-      "published_at": "2026-08-03T02:43:06Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC World",
@@ -39,30 +75,12 @@
     },
     {
       "source": "BBC World",
-      "title": "Trump suggests new talks with Iran to begin on Monday",
-      "url": "https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss",
-      "summary": "Tehran has not responded to the suggestion that new talks are imminent. Trump has previously said a negotiated end to the war is close, only…",
-      "published_at": "2026-08-03T00:11:18Z",
-      "country_code": "IR",
-      "country_name": "Iran"
-    },
-    {
-      "source": "BBC World",
       "title": "'What was my fault?': How India's exam paper leak ended young lives",
       "url": "https://www.bbc.co.uk/news/articles/crl7jl1d95eo?at_medium=RSS&at_campaign=rss",
       "summary": "Two families reveal the human toll of India's medical entrance examination paper leak.",
       "published_at": "2026-08-02T23:35:54Z",
       "country_code": "IN",
       "country_name": "India"
-    },
-    {
-      "source": "BBC World",
-      "title": "Ariana Grande to take a break from public life amid 'endless' scrutiny",
-      "url": "https://www.bbc.co.uk/news/articles/c80ngjjvevyo?at_medium=RSS&at_campaign=rss",
-      "summary": "The US singer, 33, will \"step back from visibility\" at the end of her world tour next month, her representative says.",
-      "published_at": "2026-08-02T23:15:14Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC World",
@@ -101,7 +119,7 @@
       "country_name": "Israel"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "Ukraine says major Russian oil refinery and airfield hit, as Moscow reports eight deaths",
       "url": "https://www.bbc.co.uk/news/articles/c998gg5pe09o?at_medium=RSS&at_campaign=rss",
       "summary": "Russia's military says it attacked Ukraine's ports and vessels in the Black Sea overnight.",
@@ -254,6 +272,15 @@
       "country_name": "Palestine"
     },
     {
+      "source": "BBC Middle East",
+      "title": "What is Iran's Pickaxe Mountain and why does Trump say he wants to bomb it?",
+      "url": "https://www.bbc.co.uk/news/articles/c9w0ygrwrn5o?at_medium=RSS&at_campaign=rss",
+      "summary": "BBC Verify has spoken to experts and analysed satellite imagery to piece together what we know about the site, and the potential impact of a…",
+      "published_at": "2026-08-01T05:01:19Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
       "source": "BBC Latin America",
       "title": "Peru's ex-president leaves jail after 15-year jail term for corruption overturned",
       "url": "https://www.bbc.co.uk/news/articles/cx2j9nj88rro?at_medium=RSS&at_campaign=rss",
@@ -389,6 +416,24 @@
       "country_name": "Algeria"
     },
     {
+      "source": "BBC Middle East",
+      "title": "Bowen: Hamas diminished, but still part of the picture",
+      "url": "https://www.bbc.co.uk/news/videos/c1w18e5p2yjo?at_medium=RSS&at_campaign=rss",
+      "summary": "International editor Jeremy Bowen reacts after a senior Hamas official tells the BBC the group has agreed to disarm in Gaza.",
+      "published_at": "2026-07-31T09:54:26Z",
+      "country_code": "PS",
+      "country_name": "Palestine"
+    },
+    {
+      "source": "BBC Middle East",
+      "title": "'A lot of scepticism' from some Israeli politicians",
+      "url": "https://www.bbc.co.uk/news/videos/czxqyrv118no?at_medium=RSS&at_campaign=rss",
+      "summary": "US President Donald Trump said the Board of Peace has reached an agreement for the \"complete disarmament\" of Hamas in Gaza.",
+      "published_at": "2026-07-31T07:09:22Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
       "source": "BBC Asia",
       "title": "UK rapper Yung Filly found not guilty of raping woman after Australian show",
       "url": "https://www.bbc.co.uk/news/articles/crrv7vk0knro?at_medium=RSS&at_campaign=rss",
@@ -466,15 +511,6 @@
       "url": "https://www.bbc.co.uk/news/articles/c4g3dv60ry9o?at_medium=RSS&at_campaign=rss",
       "summary": "Brazil has argued the visit could have been used to raise suspicions about the electoral system's reliability ahead of October's vote, which…",
       "published_at": "2026-07-30T15:02:39Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "US economic growth sees surprise slowdown in second quarter",
-      "url": "https://www.bbc.co.uk/news/articles/cd0xvrmlx2eo?at_medium=RSS&at_campaign=rss",
-      "summary": "The economy grew at an annual rate of 1.5% in the three months to June, down from 2.1% seen in the previous quarter.",
-      "published_at": "2026-07-30T14:24:41Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -641,7 +677,7 @@
       "country_name": "Japan"
     },
     {
-      "source": "BBC US & Canada",
+      "source": "BBC Middle East",
       "title": "As the US pauses the war with Iran, is Trump really running out of weapons?",
       "url": "https://www.bbc.co.uk/news/articles/c0qvnk2ezp7o?at_medium=RSS&at_campaign=rss",
       "summary": "The US has fired thousands of hard-to-replace missiles during its war with Iran. We unpack whether its \"arsenal of freedom\" is perilously lo…",
@@ -720,15 +756,6 @@
       "published_at": "2026-07-23T04:49:24Z",
       "country_code": "IR",
       "country_name": "Iran"
-    },
-    {
-      "source": "BBC Middle East",
-      "title": "Watch: What we know about the US-Saudi nuclear deal",
-      "url": "https://www.bbc.co.uk/news/videos/cn5n725lkg7o?at_medium=RSS&at_campaign=rss",
-      "summary": "The BBC's Sarah Smith explains the implications of the landmark cooperation agreement between both countries.",
-      "published_at": "2026-07-22T22:45:08Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC Latin America",
@@ -830,24 +857,6 @@
       "country_name": "Nigeria"
     },
     {
-      "source": "BBC Middle East",
-      "title": "Bowen: For all his bluster, Trump has no better option than talks with Iran",
-      "url": "https://www.bbc.co.uk/news/articles/cy8we3j14ndo?at_medium=RSS&at_campaign=rss",
-      "summary": "The negotiating process is fragile and recent US strikes show how hard it will be to reach agreement, writes BBC's International Editor Jere…",
-      "published_at": "2026-07-08T15:30:00Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC Middle East",
-      "title": "Resistance and revenge - Iran wanted to send a message with its farewell to Khamenei",
-      "url": "https://www.bbc.co.uk/news/articles/c07yy3j3nljo?at_medium=RSS&at_campaign=rss",
-      "summary": "Three days of public mourning in Tehran was a political spectacle Iran's leaders wanted the world to see, writes the BBC's international cor…",
-      "published_at": "2026-07-07T00:46:03Z",
-      "country_code": "IR",
-      "country_name": "Iran"
-    },
-    {
       "source": "BBC Latin America",
       "title": "Girl trapped in Venezuela quake 'survived on ketchup and cheese'",
       "url": "https://www.bbc.co.uk/news/videos/cjrggj051pvo?at_medium=RSS&at_campaign=rss",
@@ -866,24 +875,6 @@
       "country_name": "Venezuela"
     },
     {
-      "source": "BBC Middle East",
-      "title": "How Iran's new regime is very different to what came before",
-      "url": "https://www.bbc.co.uk/news/articles/cg534ryp660o?at_medium=RSS&at_campaign=rss",
-      "summary": "Khamenei's funeral is another reminder of the change Iran has seen, but what does its new leadership want?",
-      "published_at": "2026-07-05T05:40:07Z",
-      "country_code": "IR",
-      "country_name": "Iran"
-    },
-    {
-      "source": "BBC Middle East",
-      "title": "Iran nuclear and military damage revealed after restricted satellite images released",
-      "url": "https://www.bbc.co.uk/news/articles/cr5j1qn6deno?at_medium=RSS&at_campaign=rss",
-      "summary": "Targets hit include ballistic missile infrastructure, nuclear sites, and naval bases.",
-      "published_at": "2026-07-03T11:02:55Z",
-      "country_code": "IR",
-      "country_name": "Iran"
-    },
-    {
       "source": "BBC Latin America",
       "title": "Venezuela quake survivor pulled out alive after eight days",
       "url": "https://www.bbc.co.uk/news/articles/ce375v12z0qo?at_medium=RSS&at_campaign=rss",
@@ -891,31 +882,13 @@
       "published_at": "2026-07-03T06:38:45Z",
       "country_code": "VE",
       "country_name": "Venezuela"
-    },
-    {
-      "source": "BBC Middle East",
-      "title": "On the Strait of Hormuz, BBC finds seized ships and shark fishermen as uneasy calm returns",
-      "url": "https://www.bbc.co.uk/news/articles/cvg53ngvvpxo?at_medium=RSS&at_campaign=rss",
-      "summary": "The BBC travels to the city of Bandar Abbas - the first time journalists from a UK broadcaster have been to the Iranian side of the strait.",
-      "published_at": "2026-07-02T23:15:22Z",
-      "country_code": "GB",
-      "country_name": "United Kingdom"
-    },
-    {
-      "source": "BBC Middle East",
-      "title": "'Two weeks after her death I got a call': Gaza patients face agonising delays for evacuation",
-      "url": "https://www.bbc.co.uk/news/articles/cn75ex1dv61o?at_medium=RSS&at_campaign=rss",
-      "summary": "An estimated 300 Palestinians referred for treatment abroad have died since the ceasefire began, according to Gaza's Hamas-run health minist…",
-      "published_at": "2026-07-02T04:59:55Z",
-      "country_code": "PS",
-      "country_name": "Palestine"
     }
   ],
   "regions": [
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 27
+      "news_count": 26
     },
     {
       "country_code": "PS",
@@ -923,8 +896,8 @@
       "news_count": 8
     },
     {
-      "country_code": "IR",
-      "country_name": "Iran",
+      "country_code": "RU",
+      "country_name": "Russia",
       "news_count": 6
     },
     {
@@ -933,14 +906,14 @@
       "news_count": 5
     },
     {
-      "country_code": "GB",
-      "country_name": "United Kingdom",
-      "news_count": 5
-    },
-    {
       "country_code": "NG",
       "country_name": "Nigeria",
       "news_count": 5
+    },
+    {
+      "country_code": "GB",
+      "country_name": "United Kingdom",
+      "news_count": 4
     },
     {
       "country_code": "IL",
@@ -948,14 +921,14 @@
       "news_count": 4
     },
     {
-      "country_code": "RU",
-      "country_name": "Russia",
-      "news_count": 4
-    },
-    {
       "country_code": "VE",
       "country_name": "Venezuela",
       "news_count": 4
+    },
+    {
+      "country_code": "IR",
+      "country_name": "Iran",
+      "news_count": 3
     },
     {
       "country_code": "PK",
