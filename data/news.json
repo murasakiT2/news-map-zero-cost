@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T21:35:50Z",
+  "generated_at": "2026-08-03T22:50:56Z",
   "articles": [
     {
       "source": "BBC World",
@@ -56,7 +56,7 @@
       "country_name": "Canada"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Africa",
       "title": "Moroccan king's letter confirms naming of major highway in honour of Trump",
       "url": "https://www.bbc.co.uk/news/articles/c3r0vg88zr2o?at_medium=RSS&at_campaign=rss",
       "summary": "The highway enters Western Sahara, a disputed territory that Morocco claims sovereignty over.",
@@ -243,15 +243,6 @@
       "published_at": "2026-08-01T21:03:42Z",
       "country_code": "AU",
       "country_name": "Australia"
-    },
-    {
-      "source": "BBC Europe",
-      "title": "EU calls emergency meeting to discuss Ceuta migrant crossings",
-      "url": "https://www.bbc.co.uk/news/articles/cz7d17r455go?at_medium=RSS&at_campaign=rss",
-      "summary": "There have been tense exchanges between Spain and other EU states over the influx of migrants into the enclave of Ceuta.",
-      "published_at": "2026-08-01T20:09:27Z",
-      "country_code": "ES",
-      "country_name": "Spain"
     },
     {
       "source": "BBC World",
@@ -860,11 +851,6 @@
       "news_count": 8
     },
     {
-      "country_code": "ES",
-      "country_name": "Spain",
-      "news_count": 5
-    },
-    {
       "country_code": "NG",
       "country_name": "Nigeria",
       "news_count": 5
@@ -873,6 +859,11 @@
       "country_code": "RU",
       "country_name": "Russia",
       "news_count": 5
+    },
+    {
+      "country_code": "ES",
+      "country_name": "Spain",
+      "news_count": 4
     },
     {
       "country_code": "IL",
