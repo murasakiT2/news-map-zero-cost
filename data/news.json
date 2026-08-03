@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-08-03T22:50:56Z",
+  "generated_at": "2026-08-03T23:58:44Z",
   "articles": [
+    {
+      "source": "BBC Asia",
+      "title": "Why keeping youth discontent in check remains Indian PM Modi's biggest challenge",
+      "url": "https://www.bbc.co.uk/news/articles/cm2gv4dgqv4o?at_medium=RSS&at_campaign=rss",
+      "summary": "India has the biggest youth population in the world but few are able to find good jobs despite rising education levels.",
+      "published_at": "2026-08-03T23:04:37Z",
+      "country_code": "IN",
+      "country_name": "India"
+    },
     {
       "source": "BBC World",
       "title": "US reports first two deaths linked to 'explosive diarrhoea' outbreak",
@@ -876,6 +885,11 @@
       "news_count": 4
     },
     {
+      "country_code": "IN",
+      "country_name": "India",
+      "news_count": 3
+    },
+    {
       "country_code": "IR",
       "country_name": "Iran",
       "news_count": 3
@@ -888,11 +902,6 @@
     {
       "country_code": "GB",
       "country_name": "United Kingdom",
-      "news_count": 2
-    },
-    {
-      "country_code": "IN",
-      "country_name": "India",
       "news_count": 2
     },
     {
