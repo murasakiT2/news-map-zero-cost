@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T20:19:35Z",
+  "generated_at": "2026-08-03T21:35:50Z",
   "articles": [
     {
       "source": "BBC World",
@@ -27,15 +27,6 @@
       "published_at": "2026-08-03T18:04:30Z",
       "country_code": "RU",
       "country_name": "Russia"
-    },
-    {
-      "source": "BBC World",
-      "title": "Todd Blanche formally withdraws Trump's 'anti-weaponisation' fund plan",
-      "url": "https://www.bbc.co.uk/news/articles/c3w05gx32d4o?at_medium=RSS&at_campaign=rss",
-      "summary": "Trump's controversial $1.8bn \"anti-weaponisation\" fund could have been used to compensate people prosecuted over the US Capitol riot.",
-      "published_at": "2026-08-03T17:18:04Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC US & Canada",
@@ -74,7 +65,7 @@
       "country_name": "Morocco"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Africa",
       "title": "Hundreds flee fighting in northern Ethiopia as fears rise of return to civil war",
       "url": "https://www.bbc.co.uk/news/articles/cdrv6r3xgyeo?at_medium=RSS&at_campaign=rss",
       "summary": "There are concerns of a full-scale conflict once again as a peace deal has not been fully implemented.",
@@ -137,22 +128,13 @@
       "country_name": "Pakistan"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "Malaysian boy on trial for allegedly murdering girl in school",
       "url": "https://www.bbc.co.uk/news/articles/cgewq549988o?at_medium=RSS&at_campaign=rss",
       "summary": "The high-profile case has shocked Malaysia and sparked debate about the effect of social media on children.",
       "published_at": "2026-08-03T01:43:16Z",
       "country_code": "MY",
       "country_name": "Malaysia"
-    },
-    {
-      "source": "BBC World",
-      "title": "Massive Attack respond after Singapore ban over Palestine display",
-      "url": "https://www.bbc.co.uk/news/articles/cr59qe86yj4o?at_medium=RSS&at_campaign=rss",
-      "summary": "The UK band says they are \"surprised and disappointed\" by their treatment over shouting \"free Palestine\" at a concert there.",
-      "published_at": "2026-08-03T01:31:05Z",
-      "country_code": "GB",
-      "country_name": "United Kingdom"
     },
     {
       "source": "BBC World",
@@ -182,7 +164,7 @@
       "country_name": "Israel"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Middle East",
       "title": "At least 13 killed in Israeli strikes on Gaza after Hamas agree disarmament deal",
       "url": "https://www.bbc.co.uk/news/articles/czjlvvkzj20o?at_medium=RSS&at_campaign=rss",
       "summary": "Israel says it was targeting military operatives in the strikes on Gaza City, Khan Younis and Deir el-Balah.",
@@ -870,7 +852,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 27
+      "news_count": 26
     },
     {
       "country_code": "PS",
@@ -903,11 +885,6 @@
       "news_count": 4
     },
     {
-      "country_code": "GB",
-      "country_name": "United Kingdom",
-      "news_count": 3
-    },
-    {
       "country_code": "IR",
       "country_name": "Iran",
       "news_count": 3
@@ -915,6 +892,11 @@
     {
       "country_code": "AU",
       "country_name": "Australia",
+      "news_count": 2
+    },
+    {
+      "country_code": "GB",
+      "country_name": "United Kingdom",
       "news_count": 2
     },
     {
