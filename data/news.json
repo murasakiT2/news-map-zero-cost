@@ -1,21 +1,39 @@
 {
-  "generated_at": "2026-08-04T12:52:21Z",
+  "generated_at": "2026-08-04T15:14:38Z",
   "articles": [
     {
-      "source": "BBC Africa",
-      "title": "Zimbabwe funeral held for family believed to have been murdered in the UK",
-      "url": "https://www.bbc.co.uk/news/articles/clye1g9pg57o?at_medium=RSS&at_campaign=rss",
-      "summary": "Relatives describe the mother as \"the family's pride and joy\".",
-      "published_at": "2026-08-04T12:02:37Z",
-      "country_code": "GB",
-      "country_name": "United Kingdom"
+      "source": "BBC World",
+      "title": "Mass funeral in Gaza for 112 Palestinians killed in 2023 Israeli strike",
+      "url": "https://www.bbc.co.uk/news/articles/cn0n99npjejo?at_medium=RSS&at_campaign=rss",
+      "summary": "The bodies - belonging to members of two extended families - have only recently been recovered from under rubble in Gaza City.",
+      "published_at": "2026-08-04T15:07:52Z",
+      "country_code": "PS",
+      "country_name": "Palestine"
+    },
+    {
+      "source": "BBC World",
+      "title": "Oil prices fall on hopes Strait of Hormuz could reopen",
+      "url": "https://www.bbc.co.uk/news/articles/cpw9v0gnzxwo?at_medium=RSS&at_campaign=rss",
+      "summary": "US Secretary of State Marco Rubio and Treasury Secretary Scott Bessent both announced talks had progressed to allow shipments to resume.",
+      "published_at": "2026-08-04T14:58:16Z",
+      "country_code": "US",
+      "country_name": "United States"
     },
     {
       "source": "BBC World",
       "title": "More than 150 migrants rescued after boat catches fire in Channel",
       "url": "https://www.bbc.co.uk/news/articles/c4gkpeppjyqo?at_medium=RSS&at_campaign=rss",
       "summary": "The boat was attempting to cross to the UK when its engine caught fire, according to French authorities.",
-      "published_at": "2026-08-04T11:19:08Z",
+      "published_at": "2026-08-04T14:37:42Z",
+      "country_code": "GB",
+      "country_name": "United Kingdom"
+    },
+    {
+      "source": "BBC Africa",
+      "title": "Zimbabwe funeral held for family believed to have been murdered in the UK",
+      "url": "https://www.bbc.co.uk/news/articles/clye1g9pg57o?at_medium=RSS&at_campaign=rss",
+      "summary": "Relatives describe the mother as \"the family's pride and joy\".",
+      "published_at": "2026-08-04T12:02:37Z",
       "country_code": "GB",
       "country_name": "United Kingdom"
     },
@@ -191,7 +209,7 @@
       "country_name": "India"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "US reports first two deaths linked to 'explosive diarrhoea' outbreak",
       "url": "https://www.bbc.co.uk/news/articles/c2k7px317eeo?at_medium=RSS&at_campaign=rss",
       "summary": "The illness caused by parasitic infection that spreads through contaminated food or water is not generally life-threatening, health official…",
@@ -234,15 +252,6 @@
       "published_at": "2026-08-03T12:20:11Z",
       "country_code": "MA",
       "country_name": "Morocco"
-    },
-    {
-      "source": "BBC Africa",
-      "title": "Hundreds flee fighting in northern Ethiopia as fears rise of return to civil war",
-      "url": "https://www.bbc.co.uk/news/articles/cdrv6r3xgyeo?at_medium=RSS&at_campaign=rss",
-      "summary": "There are concerns of a full-scale conflict once again as a peace deal has not been fully implemented.",
-      "published_at": "2026-08-03T11:49:48Z",
-      "country_code": "ET",
-      "country_name": "Ethiopia"
     },
     {
       "source": "BBC Africa",
@@ -308,7 +317,7 @@
       "country_name": "United Kingdom"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "At the scene of deadly Moscow bomb blast",
       "url": "https://www.bbc.co.uk/news/videos/c1719pk0xq8o?at_medium=RSS&at_campaign=rss",
       "summary": "Three people have been killed and 21 injured after an explosive device detonated at an Italian restaurant, Russian media reports.",
@@ -897,12 +906,12 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 24
+      "news_count": 25
     },
     {
       "country_code": "PS",
       "country_name": "Palestine",
-      "news_count": 9
+      "news_count": 10
     },
     {
       "country_code": "GB",
@@ -943,11 +952,6 @@
       "country_code": "IR",
       "country_name": "Iran",
       "news_count": 3
-    },
-    {
-      "country_code": "ET",
-      "country_name": "Ethiopia",
-      "news_count": 2
     },
     {
       "country_code": "FR",
@@ -1007,6 +1011,11 @@
     {
       "country_code": "CL",
       "country_name": "Chile",
+      "news_count": 1
+    },
+    {
+      "country_code": "ET",
+      "country_name": "Ethiopia",
       "news_count": 1
     },
     {
