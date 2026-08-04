@@ -1,14 +1,50 @@
 {
-  "generated_at": "2026-08-04T10:41:43Z",
+  "generated_at": "2026-08-04T12:52:21Z",
   "articles": [
+    {
+      "source": "BBC Africa",
+      "title": "Zimbabwe funeral held for family believed to have been murdered in the UK",
+      "url": "https://www.bbc.co.uk/news/articles/clye1g9pg57o?at_medium=RSS&at_campaign=rss",
+      "summary": "Relatives describe the mother as \"the family's pride and joy\".",
+      "published_at": "2026-08-04T12:02:37Z",
+      "country_code": "GB",
+      "country_name": "United Kingdom"
+    },
     {
       "source": "BBC World",
       "title": "More than 150 migrants rescued after boat catches fire in Channel",
       "url": "https://www.bbc.co.uk/news/articles/c4gkpeppjyqo?at_medium=RSS&at_campaign=rss",
       "summary": "The boat was attempting to cross to the UK when its engine caught fire, according to French authorities.",
-      "published_at": "2026-08-04T10:38:27Z",
+      "published_at": "2026-08-04T11:19:08Z",
       "country_code": "GB",
       "country_name": "United Kingdom"
+    },
+    {
+      "source": "BBC World",
+      "title": "Ukraine hits more Wildberries sites as strike kills five in Moscow region",
+      "url": "https://www.bbc.co.uk/news/articles/c151pkww79zo?at_medium=RSS&at_campaign=rss",
+      "summary": "Facilities operated by Russia's largest online retailer were also hit in St Petersburg and Tver.",
+      "published_at": "2026-08-04T11:19:01Z",
+      "country_code": "RU",
+      "country_name": "Russia"
+    },
+    {
+      "source": "BBC World",
+      "title": "Guatemala volcano eruption sends lava spewing into the air",
+      "url": "https://www.bbc.co.uk/news/articles/c2lqpvv1wlxo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Fuego stratovolcano is one of the most active in Central America and popular with hikers.",
+      "published_at": "2026-08-04T10:56:50Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC Europe",
+      "title": "Mourners line streets of Milan for legend Baresi's funeral",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cyvl88rr95zo?at_medium=RSS&at_campaign=rss",
+      "summary": "Thousands gather on the streets of Milan for the funeral of legendary former AC Milan and Italy defender Franco Baresi.",
+      "published_at": "2026-08-04T10:45:34Z",
+      "country_code": "IT",
+      "country_name": "Italy"
     },
     {
       "source": "BBC World",
@@ -18,15 +54,6 @@
       "published_at": "2026-08-04T10:04:53Z",
       "country_code": "ET",
       "country_name": "Ethiopia"
-    },
-    {
-      "source": "BBC World",
-      "title": "Five dead in Moscow region as Ukraine continues warehouse strikes",
-      "url": "https://www.bbc.co.uk/news/articles/c151pkww79zo?at_medium=RSS&at_campaign=rss",
-      "summary": "Facilities in St Petersburg and Tver were also hit, while at least one was killed in Russian strikes on Ukraine.",
-      "published_at": "2026-08-04T09:35:06Z",
-      "country_code": "RU",
-      "country_name": "Russia"
     },
     {
       "source": "BBC World",
@@ -227,15 +254,6 @@
       "country_name": "United Kingdom"
     },
     {
-      "source": "BBC Africa",
-      "title": "Sudan army drone strike on court session kills 35, rights group says",
-      "url": "https://www.bbc.co.uk/news/articles/ce85097leydo?at_medium=RSS&at_campaign=rss",
-      "summary": "The army has not commented on claims that civilians died in the attack on a paramilitary-held village.",
-      "published_at": "2026-08-03T10:29:24Z",
-      "country_code": "SD",
-      "country_name": "Sudan"
-    },
-    {
       "source": "BBC Asia",
       "title": "Two workers killed in blast after re-entering quake-hit Japan mall on boss' order",
       "url": "https://www.bbc.co.uk/news/articles/c24mr09r99eo?at_medium=RSS&at_campaign=rss",
@@ -243,15 +261,6 @@
       "published_at": "2026-08-03T08:40:22Z",
       "country_code": "JP",
       "country_name": "Japan"
-    },
-    {
-      "source": "BBC Asia",
-      "title": "US and Japan take action to prop up yen in rare joint move",
-      "url": "https://www.bbc.co.uk/news/articles/cglj1pr0wjwo?at_medium=RSS&at_campaign=rss",
-      "summary": "Both countries have said that they will not hesitate to conduct joint interventions in the future.",
-      "published_at": "2026-08-03T07:30:52Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC Europe",
@@ -882,24 +891,6 @@
       "published_at": "2026-07-06T07:17:57Z",
       "country_code": "VE",
       "country_name": "Venezuela"
-    },
-    {
-      "source": "BBC Latin America",
-      "title": "'I ate ketchup and cheese,' says Venezuelan girl trapped under quake rubble for 32 hours",
-      "url": "https://www.bbc.co.uk/news/articles/c9922x87nj8o?at_medium=RSS&at_campaign=rss",
-      "summary": "Fabiana was trapped in the rubble of a 10-storey residential building after two earthquakes rocked Venezuela in June.",
-      "published_at": "2026-07-06T05:04:28Z",
-      "country_code": "VE",
-      "country_name": "Venezuela"
-    },
-    {
-      "source": "BBC Latin America",
-      "title": "Venezuela quake survivor pulled out alive after eight days",
-      "url": "https://www.bbc.co.uk/news/articles/ce375v12z0qo?at_medium=RSS&at_campaign=rss",
-      "summary": "Hernán Gil was trapped under a collapsed multi-storey car park.",
-      "published_at": "2026-07-03T06:38:45Z",
-      "country_code": "VE",
-      "country_name": "Venezuela"
     }
   ],
   "regions": [
@@ -914,14 +905,14 @@
       "news_count": 9
     },
     {
-      "country_code": "RU",
-      "country_name": "Russia",
+      "country_code": "GB",
+      "country_name": "United Kingdom",
       "news_count": 7
     },
     {
-      "country_code": "GB",
-      "country_name": "United Kingdom",
-      "news_count": 6
+      "country_code": "RU",
+      "country_name": "Russia",
+      "news_count": 7
     },
     {
       "country_code": "AU",
@@ -941,11 +932,6 @@
     {
       "country_code": "NG",
       "country_name": "Nigeria",
-      "news_count": 4
-    },
-    {
-      "country_code": "VE",
-      "country_name": "Venezuela",
       "news_count": 4
     },
     {
@@ -974,6 +960,11 @@
       "news_count": 2
     },
     {
+      "country_code": "IT",
+      "country_name": "Italy",
+      "news_count": 2
+    },
+    {
       "country_code": "JP",
       "country_name": "Japan",
       "news_count": 2
@@ -994,13 +985,13 @@
       "news_count": 2
     },
     {
-      "country_code": "SD",
-      "country_name": "Sudan",
+      "country_code": "UA",
+      "country_name": "Ukraine",
       "news_count": 2
     },
     {
-      "country_code": "UA",
-      "country_name": "Ukraine",
+      "country_code": "VE",
+      "country_name": "Venezuela",
       "news_count": 2
     },
     {
@@ -1016,11 +1007,6 @@
     {
       "country_code": "CL",
       "country_name": "Chile",
-      "news_count": 1
-    },
-    {
-      "country_code": "IT",
-      "country_name": "Italy",
       "news_count": 1
     },
     {
@@ -1046,6 +1032,11 @@
     {
       "country_code": "PK",
       "country_name": "Pakistan",
+      "news_count": 1
+    },
+    {
+      "country_code": "SD",
+      "country_name": "Sudan",
       "news_count": 1
     }
   ]
