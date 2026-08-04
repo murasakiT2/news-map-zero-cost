@@ -1,6 +1,51 @@
 {
-  "generated_at": "2026-08-04T15:14:38Z",
+  "generated_at": "2026-08-04T17:10:03Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Oil prices fall on hopes Strait of Hormuz could reopen",
+      "url": "https://www.bbc.co.uk/news/articles/cpw9v0gnzxwo?at_medium=RSS&at_campaign=rss",
+      "summary": "US Secretary of State Marco Rubio and Treasury Secretary Scott Bessent both announced talks had progressed to allow shipments to resume.",
+      "published_at": "2026-08-04T17:06:17Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Video shows Russian drone chasing Ukrainian street vendor in 'human safari' attack",
+      "url": "https://www.bbc.co.uk/news/articles/cn4n03xg981o?at_medium=RSS&at_campaign=rss",
+      "summary": "Ukraine said the video - showing a terrified civilian being hounded by a remotely-controlled drone - amounted to a war crime.",
+      "published_at": "2026-08-04T16:33:39Z",
+      "country_code": "UA",
+      "country_name": "Ukraine"
+    },
+    {
+      "source": "BBC World",
+      "title": "More than 170 migrants rescued after boat catches fire in Channel",
+      "url": "https://www.bbc.co.uk/news/articles/c4gkpeppjyqo?at_medium=RSS&at_campaign=rss",
+      "summary": "The government says all of the migrants, who were attempting to cross to the UK, will be returned to France.",
+      "published_at": "2026-08-04T16:21:43Z",
+      "country_code": "GB",
+      "country_name": "United Kingdom"
+    },
+    {
+      "source": "BBC World",
+      "title": "EU commends Spain's 'swift response' to Ceuta migrant crisis",
+      "url": "https://www.bbc.co.uk/news/articles/c80n3j55g0do?at_medium=RSS&at_campaign=rss",
+      "summary": "About 70,000 of the 72,000 people who came to Ceuta illegally last week have been returned to Morocco, Spain says.",
+      "published_at": "2026-08-04T16:07:29Z",
+      "country_code": "ES",
+      "country_name": "Spain"
+    },
+    {
+      "source": "BBC Middle East",
+      "title": "Qatar says US-Iran mediation efforts continuing but no direct talks planned",
+      "url": "https://www.bbc.co.uk/news/articles/c1l1q9n3v15o?at_medium=RSS&at_campaign=rss",
+      "summary": "There have been conflicting signals from the US and Iran, with Tehran denying President Trump's assertion that talks are under way.",
+      "published_at": "2026-08-04T15:11:51Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "Mass funeral in Gaza for 112 Palestinians killed in 2023 Israeli strike",
@@ -9,24 +54,6 @@
       "published_at": "2026-08-04T15:07:52Z",
       "country_code": "PS",
       "country_name": "Palestine"
-    },
-    {
-      "source": "BBC World",
-      "title": "Oil prices fall on hopes Strait of Hormuz could reopen",
-      "url": "https://www.bbc.co.uk/news/articles/cpw9v0gnzxwo?at_medium=RSS&at_campaign=rss",
-      "summary": "US Secretary of State Marco Rubio and Treasury Secretary Scott Bessent both announced talks had progressed to allow shipments to resume.",
-      "published_at": "2026-08-04T14:58:16Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "More than 150 migrants rescued after boat catches fire in Channel",
-      "url": "https://www.bbc.co.uk/news/articles/c4gkpeppjyqo?at_medium=RSS&at_campaign=rss",
-      "summary": "The boat was attempting to cross to the UK when its engine caught fire, according to French authorities.",
-      "published_at": "2026-08-04T14:37:42Z",
-      "country_code": "GB",
-      "country_name": "United Kingdom"
     },
     {
       "source": "BBC Africa",
@@ -47,7 +74,7 @@
       "country_name": "Russia"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Latin America",
       "title": "Guatemala volcano eruption sends lava spewing into the air",
       "url": "https://www.bbc.co.uk/news/articles/c2lqpvv1wlxo?at_medium=RSS&at_campaign=rss",
       "summary": "The Fuego stratovolcano is one of the most active in Central America and popular with hikers.",
@@ -106,6 +133,15 @@
       "url": "https://www.bbc.co.uk/news/articles/cy4kp8jd0ppo?at_medium=RSS&at_campaign=rss",
       "summary": "The duties were imposed over claims that 60 US trading partners have failed to tackle forced labour.",
       "published_at": "2026-08-04T09:08:40Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "UFC loses $30m on Freedom 250 event at White House",
+      "url": "https://www.bbc.co.uk/sport/mixed-martial-arts/articles/ckgdky8d94eo?at_medium=RSS&at_campaign=rss",
+      "summary": "UFC owners lose $30m (£22m) staging the Freedom 250 event, which was attended by US President Donald Trump, at the White House in June.",
+      "published_at": "2026-08-04T08:59:56Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -587,15 +623,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Europe",
-      "title": "Missile that left crater deep inside Poland was probably Russian - Polish PM",
-      "url": "https://www.bbc.co.uk/news/articles/cwymkgenv2ro?at_medium=RSS&at_campaign=rss",
-      "summary": "The missile left a 10m-wide (33ft) crater a short distance from the village of Tarnawa Kolonia, about 100km from the border with Ukraine.",
-      "published_at": "2026-07-30T15:35:50Z",
-      "country_code": "UA",
-      "country_name": "Ukraine"
-    },
-    {
       "source": "BBC Latin America",
       "title": "Brazil's president confirms two US government officials were denied visas over election interference fears",
       "url": "https://www.bbc.co.uk/news/articles/c4g3dv60ry9o?at_medium=RSS&at_campaign=rss",
@@ -677,15 +704,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Middle East",
-      "title": "BBC reports from Palestinian village under weekly attack by Israeli settlers",
-      "url": "https://www.bbc.co.uk/programmes/p0p1f8wj?at_medium=RSS&at_campaign=rss",
-      "summary": "BBC reports from Palestinian village under weekly attack by Israeli settlers",
-      "published_at": "2026-07-29T10:40:35Z",
-      "country_code": "PS",
-      "country_name": "Palestine"
-    },
-    {
       "source": "BBC Africa",
       "title": "'No safe options' for thousands sheltering in key Sudan city as RSF fighters advance",
       "url": "https://www.bbc.co.uk/news/articles/c4gx399l0wyo?at_medium=RSS&at_campaign=rss",
@@ -738,15 +756,6 @@
       "published_at": "2026-07-27T16:19:50Z",
       "country_code": "NG",
       "country_name": "Nigeria"
-    },
-    {
-      "source": "BBC Middle East",
-      "title": "BBC speaks to Palestinians targeted by Israeli settlers",
-      "url": "https://www.bbc.co.uk/news/videos/cwy47pkpkrwo?at_medium=RSS&at_campaign=rss",
-      "summary": "Israeli settlers set fire to two mosques, as well as cars and agricultural land in the occupied West Bank, Palestinian officials say.",
-      "published_at": "2026-07-26T20:58:36Z",
-      "country_code": "PS",
-      "country_name": "Palestine"
     },
     {
       "source": "BBC Latin America",
@@ -891,27 +900,18 @@
       "published_at": "2026-07-11T00:46:15Z",
       "country_code": "NG",
       "country_name": "Nigeria"
-    },
-    {
-      "source": "BBC Latin America",
-      "title": "Girl trapped in Venezuela quake 'survived on ketchup and cheese'",
-      "url": "https://www.bbc.co.uk/news/videos/cjrggj051pvo?at_medium=RSS&at_campaign=rss",
-      "summary": "BBC international correspondent Yogita Limayee meets 12-year-old Fabiana, who was trapped in Venezuela's devastating earthquakes.",
-      "published_at": "2026-07-06T07:17:57Z",
-      "country_code": "VE",
-      "country_name": "Venezuela"
     }
   ],
   "regions": [
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 25
+      "news_count": 27
     },
     {
       "country_code": "PS",
       "country_name": "Palestine",
-      "news_count": 10
+      "news_count": 8
     },
     {
       "country_code": "GB",
@@ -924,13 +924,13 @@
       "news_count": 7
     },
     {
-      "country_code": "AU",
-      "country_name": "Australia",
-      "news_count": 4
-    },
-    {
       "country_code": "ES",
       "country_name": "Spain",
+      "news_count": 5
+    },
+    {
+      "country_code": "AU",
+      "country_name": "Australia",
       "news_count": 4
     },
     {
@@ -994,11 +994,6 @@
       "news_count": 2
     },
     {
-      "country_code": "VE",
-      "country_name": "Venezuela",
-      "news_count": 2
-    },
-    {
       "country_code": "ZA",
       "country_name": "South Africa",
       "news_count": 2
@@ -1046,6 +1041,11 @@
     {
       "country_code": "SD",
       "country_name": "Sudan",
+      "news_count": 1
+    },
+    {
+      "country_code": "VE",
+      "country_name": "Venezuela",
       "news_count": 1
     }
   ]
