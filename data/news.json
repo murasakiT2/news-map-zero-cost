@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-08-04T20:52:33Z",
+  "generated_at": "2026-08-04T22:02:32Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "EU commends Spain's 'swift response' to Ceuta migrant crisis",
+      "url": "https://www.bbc.co.uk/news/articles/c80n3j55g0do?at_medium=RSS&at_campaign=rss",
+      "summary": "About 70,000 of the 72,000 people who came to Ceuta illegally last week have been returned to Morocco, Spain says.",
+      "published_at": "2026-08-04T21:45:20Z",
+      "country_code": "ES",
+      "country_name": "Spain"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "US revokes Brazilian ambassador's visa, official says, as diplomatic tensions escalate",
+      "url": "https://www.bbc.co.uk/news/articles/cy9wpww7dyro?at_medium=RSS&at_campaign=rss",
+      "summary": "It comes after the Brazilian government refused to grant visas for two US state department officials.",
+      "published_at": "2026-08-04T21:43:28Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "US congressman refuses to drop reelection bid over ex-wife's abuse claims",
+      "url": "https://www.bbc.co.uk/news/articles/czrj1751r02o?at_medium=RSS&at_campaign=rss",
+      "summary": "Ohio Republican Max Miller, who is fighting for his political life, told CNN: \"I'm never going to back down.\"",
+      "published_at": "2026-08-04T21:35:35Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Projectile sinks Indian-flagged ship off Yemen coast",
+      "url": "https://www.bbc.co.uk/news/articles/cly84we1y37o?at_medium=RSS&at_campaign=rss",
+      "summary": "All 14 people on board the Indian-flagged vessel were safely rescued, India's ministry of external affairs says.",
+      "published_at": "2026-08-04T21:24:50Z",
+      "country_code": "IN",
+      "country_name": "India"
+    },
     {
       "source": "BBC World",
       "title": "More than 170 migrants rescued after boat catches fire in Channel",
@@ -9,15 +45,6 @@
       "published_at": "2026-08-04T19:45:58Z",
       "country_code": "GB",
       "country_name": "United Kingdom"
-    },
-    {
-      "source": "BBC World",
-      "title": "EU commends Spain's 'swift response' to Ceuta migrant crisis",
-      "url": "https://www.bbc.co.uk/news/articles/c80n3j55g0do?at_medium=RSS&at_campaign=rss",
-      "summary": "About 70,000 of the 72,000 people who came to Ceuta illegally last week have been returned to Morocco, Spain says.",
-      "published_at": "2026-08-04T19:30:43Z",
-      "country_code": "ES",
-      "country_name": "Spain"
     },
     {
       "source": "BBC World",
@@ -128,7 +155,7 @@
       "country_name": "Russia"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "Moment pilot caught with 70,000 ecstasy pills at Indonesian airport",
       "url": "https://www.bbc.co.uk/news/videos/c9d8662gyx5o?at_medium=RSS&at_campaign=rss",
       "summary": "A Malaysian pilot was arrested at Jakarta airport after being found with around four stone (26kg) of drugs hidden in his luggage.",
@@ -434,15 +461,6 @@
       "country_name": "Italy"
     },
     {
-      "source": "BBC Asia",
-      "title": "India's 'cockroach' protesters have wounds consistent with pellet-gun fire, say experts",
-      "url": "https://www.bbc.co.uk/news/articles/c74gwvygkjdo?at_medium=RSS&at_campaign=rss",
-      "summary": "Ballistic experts say the dozens of tiny round punctures are tell-tale signs of pellet gun injuries.",
-      "published_at": "2026-08-01T15:00:07Z",
-      "country_code": "IN",
-      "country_name": "India"
-    },
-    {
       "source": "BBC Middle East",
       "title": "Israeli West Bank settler tells BBC attacks on Palestinians are justified as revenge",
       "url": "https://www.bbc.co.uk/news/articles/c4g4djgdyk2o?at_medium=RSS&at_campaign=rss",
@@ -540,15 +558,6 @@
       "published_at": "2026-07-31T09:54:26Z",
       "country_code": "PS",
       "country_name": "Palestine"
-    },
-    {
-      "source": "BBC Middle East",
-      "title": "'A lot of scepticism' from some Israeli politicians",
-      "url": "https://www.bbc.co.uk/news/videos/czxqyrv118no?at_medium=RSS&at_campaign=rss",
-      "summary": "US President Donald Trump said the Board of Peace has reached an agreement for the \"complete disarmament\" of Hamas in Gaza.",
-      "published_at": "2026-07-31T07:09:22Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC Asia",
@@ -861,7 +870,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 25
+      "news_count": 26
     },
     {
       "country_code": "PS",
