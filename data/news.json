@@ -1,14 +1,77 @@
 {
-  "generated_at": "2026-08-04T08:00:07Z",
+  "generated_at": "2026-08-04T10:41:43Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "More than 150 migrants rescued after boat catches fire in Channel",
+      "url": "https://www.bbc.co.uk/news/articles/c4gkpeppjyqo?at_medium=RSS&at_campaign=rss",
+      "summary": "The boat was attempting to cross to the UK when its engine caught fire, according to French authorities.",
+      "published_at": "2026-08-04T10:38:27Z",
+      "country_code": "GB",
+      "country_name": "United Kingdom"
+    },
+    {
+      "source": "BBC World",
+      "title": "Deadly landslide hits Ethiopia mountain monastery during prayer service",
+      "url": "https://www.bbc.co.uk/news/articles/c2lqpx1qd8lo?at_medium=RSS&at_campaign=rss",
+      "summary": "It sent rocks and earth crashing on to those praying at an overnight service, the authorities say.",
+      "published_at": "2026-08-04T10:04:53Z",
+      "country_code": "ET",
+      "country_name": "Ethiopia"
+    },
     {
       "source": "BBC World",
       "title": "Five dead in Moscow region as Ukraine continues warehouse strikes",
       "url": "https://www.bbc.co.uk/news/articles/c151pkww79zo?at_medium=RSS&at_campaign=rss",
       "summary": "Facilities in St Petersburg and Tver were also hit, while at least one was killed in Russian strikes on Ukraine.",
-      "published_at": "2026-08-04T07:42:56Z",
+      "published_at": "2026-08-04T09:35:06Z",
       "country_code": "RU",
       "country_name": "Russia"
+    },
+    {
+      "source": "BBC World",
+      "title": "Soldier kills four in gun rampage in Russian-occupied Crimea",
+      "url": "https://www.bbc.co.uk/news/articles/c80n33lrnm5o?at_medium=RSS&at_campaign=rss",
+      "summary": "The region's Moscow-installed governor says the gunman has been detained after firing at fellow soldiers and civilians.",
+      "published_at": "2026-08-04T09:23:06Z",
+      "country_code": "RU",
+      "country_name": "Russia"
+    },
+    {
+      "source": "BBC World",
+      "title": "Moment pilot caught with 70,000 ecstasy pills at Indonesian airport",
+      "url": "https://www.bbc.co.uk/news/videos/c9d8662gyx5o?at_medium=RSS&at_campaign=rss",
+      "summary": "A Malaysian pilot was arrested at Jakarta airport after being found with around four stone (26kg) of drugs hidden in his luggage.",
+      "published_at": "2026-08-04T09:18:03Z",
+      "country_code": "ID",
+      "country_name": "Indonesia"
+    },
+    {
+      "source": "BBC World",
+      "title": "Analysis: Trump challenged by cold reality from top allies",
+      "url": "https://www.bbc.co.uk/news/articles/cgjed2q2l0xo?at_medium=RSS&at_campaign=rss",
+      "summary": "A president used to bending US politics to his will faces two stinging losses in a matter of days, writes the BBC's Anthony Zurcher.",
+      "published_at": "2026-08-04T09:11:39Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "US states sue to block Trump tariffs impacting dozens of countries",
+      "url": "https://www.bbc.co.uk/news/articles/cy4kp8jd0ppo?at_medium=RSS&at_campaign=rss",
+      "summary": "The duties were imposed over claims that 60 US trading partners have failed to tackle forced labour.",
+      "published_at": "2026-08-04T09:08:40Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC Europe",
+      "title": "What tariffs has Trump introduced and why?",
+      "url": "https://www.bbc.co.uk/news/articles/cn93e12rypgo?at_medium=RSS&at_campaign=rss",
+      "summary": "Trump's volatile trade policy has thrown the world economy into chaos, and put some US prices up.",
+      "published_at": "2026-08-04T08:09:49Z",
+      "country_code": "US",
+      "country_name": "United States"
     },
     {
       "source": "BBC World",
@@ -18,15 +81,6 @@
       "published_at": "2026-08-04T07:13:40Z",
       "country_code": "AU",
       "country_name": "Australia"
-    },
-    {
-      "source": "BBC World",
-      "title": "US states sue to block Trump tariffs impacting dozens of countries",
-      "url": "https://www.bbc.co.uk/news/articles/cy4kp8jd0ppo?at_medium=RSS&at_campaign=rss",
-      "summary": "The duties were imposed over claims that 60 US trading partners have failed to tackle forced labour.",
-      "published_at": "2026-08-04T07:11:35Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC World",
@@ -47,7 +101,7 @@
       "country_name": "Japan"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "Russia says seven killed and 40 injured by Ukrainian drone hitting busy beach",
       "url": "https://www.bbc.co.uk/news/articles/cr7kmnyrdn7o?at_medium=RSS&at_campaign=rss",
       "summary": "Three children were killed when the drone crashed at a popular resort on the Black Sea.",
@@ -70,15 +124,6 @@
       "url": "https://www.bbc.co.uk/news/articles/c934dq95zpgo?at_medium=RSS&at_campaign=rss",
       "summary": "While US President Donald Trump has said Iran is not to blame, cyber experts tell the BBC it likely the attack was at the hands of the Iran.",
       "published_at": "2026-08-04T02:29:03Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "Analysis: Trump challenged by cold reality from top allies",
-      "url": "https://www.bbc.co.uk/news/articles/cgjed2q2l0xo?at_medium=RSS&at_campaign=rss",
-      "summary": "A president used to bending US politics to his will faces two stinging losses in a matter of days, writes the BBC's Anthony Zurcher.",
-      "published_at": "2026-08-04T00:02:40Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -128,20 +173,11 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Middle East",
       "title": "Iran says it is in talks with Oman but not the US after Trump says negotiations to resume",
       "url": "https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss",
       "summary": "Iran's remarks that there were no talks with the US prompts Donald Trump to issue a strong condemnation of its leadership.",
       "published_at": "2026-08-03T19:42:55Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "Holdout senators back Blanche for AG after he formally withdraws Trump fund plan",
-      "url": "https://www.bbc.co.uk/news/articles/c3w05gx32d4o?at_medium=RSS&at_campaign=rss",
-      "summary": "Trump's controversial $1.8bn \"anti-weaponisation\" fund could have been used to compensate people prosecuted over the US Capitol riot.",
-      "published_at": "2026-08-03T17:18:04Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -333,15 +369,6 @@
       "published_at": "2026-08-02T00:29:55Z",
       "country_code": "PE",
       "country_name": "Peru"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "The Sopranos star Vincent Pastore dies aged 80",
-      "url": "https://www.bbc.co.uk/news/articles/cm2gz0epljgo?at_medium=RSS&at_campaign=rss",
-      "summary": "Pastore, who played Salvatore \"Big Pussy\" Bonpensiero in the hit US show, was found at his home in New York City, US media report.",
-      "published_at": "2026-08-01T22:57:55Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC Asia",
@@ -704,15 +731,6 @@
       "country_name": "Palestine"
     },
     {
-      "source": "BBC Europe",
-      "title": "What tariffs has Trump introduced and why?",
-      "url": "https://www.bbc.co.uk/news/articles/cn93e12rypgo?at_medium=RSS&at_campaign=rss",
-      "summary": "Trump's volatile trade policy has thrown the world economy into chaos, and put some US prices up.",
-      "published_at": "2026-07-24T08:28:16Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC Latin America",
       "title": "Families still search for bodies a month after Venezuela earthquakes",
       "url": "https://www.bbc.co.uk/news/videos/cwylplxk8nko?at_medium=RSS&at_campaign=rss",
@@ -888,7 +906,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 26
+      "news_count": 24
     },
     {
       "country_code": "PS",
@@ -898,12 +916,12 @@
     {
       "country_code": "RU",
       "country_name": "Russia",
-      "news_count": 6
+      "news_count": 7
     },
     {
       "country_code": "GB",
       "country_name": "United Kingdom",
-      "news_count": 5
+      "news_count": 6
     },
     {
       "country_code": "AU",
@@ -941,8 +959,18 @@
       "news_count": 3
     },
     {
+      "country_code": "ET",
+      "country_name": "Ethiopia",
+      "news_count": 2
+    },
+    {
       "country_code": "FR",
       "country_name": "France",
+      "news_count": 2
+    },
+    {
+      "country_code": "ID",
+      "country_name": "Indonesia",
       "news_count": 2
     },
     {
@@ -988,16 +1016,6 @@
     {
       "country_code": "CL",
       "country_name": "Chile",
-      "news_count": 1
-    },
-    {
-      "country_code": "ET",
-      "country_name": "Ethiopia",
-      "news_count": 1
-    },
-    {
-      "country_code": "ID",
-      "country_name": "Indonesia",
       "news_count": 1
     },
     {
