@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-08-05T00:55:02Z",
+  "generated_at": "2026-08-05T03:52:12Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Trump says Iran will be 'hit very hard' if Hormuz Strait not open soon as oil prices fall",
+      "url": "https://www.bbc.co.uk/news/articles/cpw9v0gnzxwo?at_medium=RSS&at_campaign=rss",
+      "summary": "US Secretary of State Marco Rubio and Treasury Secretary Scott Bessent both announced talks had progressed to allow shipments to resume.",
+      "published_at": "2026-08-05T03:44:30Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Russian ballistic missile strike on Kyiv kills two and injures others, officials say",
+      "url": "https://www.bbc.co.uk/news/articles/c330pxyvzzyo?at_medium=RSS&at_campaign=rss",
+      "summary": "The head of Kyiv's military administration says Russia is \"once again massively attacking\" and has hit residential buildings.",
+      "published_at": "2026-08-05T03:37:50Z",
+      "country_code": "RU",
+      "country_name": "Russia"
+    },
     {
       "source": "BBC US & Canada",
       "title": "US revokes Brazil ambassador's visa as diplomatic tensions escalate",
@@ -93,15 +111,6 @@
     },
     {
       "source": "BBC World",
-      "title": "Oil prices fall on hopes Strait of Hormuz could reopen",
-      "url": "https://www.bbc.co.uk/news/articles/cpw9v0gnzxwo?at_medium=RSS&at_campaign=rss",
-      "summary": "US Secretary of State Marco Rubio and Treasury Secretary Scott Bessent both announced talks had progressed to allow shipments to resume.",
-      "published_at": "2026-08-04T19:00:43Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
       "title": "How to avoid the worst of the Italian heat",
       "url": "https://www.bbc.co.uk/news/articles/c05q1gz0p1yo?at_medium=RSS&at_campaign=rss",
       "summary": "From supermarkets to night-time tours, experts share how to make the most of Italy during this latest heatwave.",
@@ -113,7 +122,7 @@
       "source": "BBC World",
       "title": "Video shows Russian drone chasing Ukrainian street vendor in 'human safari' attack",
       "url": "https://www.bbc.co.uk/news/articles/cn4n03xg981o?at_medium=RSS&at_campaign=rss",
-      "summary": "Ukraine said the video - showing a terrified civilian being hounded by a remotely-controlled drone - amounted to a war crime.",
+      "summary": "Ukraine said the video - showing a terrified civilian being hounded by a remotely controlled drone - amounted to a war crime.",
       "published_at": "2026-08-04T17:26:06Z",
       "country_code": "UA",
       "country_name": "Ukraine"
@@ -381,6 +390,15 @@
     },
     {
       "source": "BBC Asia",
+      "title": "Massive Attack respond after Singapore ban over Palestine display",
+      "url": "https://www.bbc.co.uk/news/articles/cr59qe86yj4o?at_medium=RSS&at_campaign=rss",
+      "summary": "The UK band says they are \"surprised and disappointed\" by their treatment over shouting \"free Palestine\" at a concert there.",
+      "published_at": "2026-08-03T01:31:05Z",
+      "country_code": "GB",
+      "country_name": "United Kingdom"
+    },
+    {
+      "source": "BBC Asia",
       "title": "'What was my fault?': How India's exam paper leak ended young lives",
       "url": "https://www.bbc.co.uk/news/articles/crl7jl1d95eo?at_medium=RSS&at_campaign=rss",
       "summary": "Two families reveal the human toll of India's medical entrance examination paper leak.",
@@ -533,15 +551,6 @@
       "country_name": "Saudi Arabia"
     },
     {
-      "source": "BBC Asia",
-      "title": "Greyhounds bound for Australia as New Zealand racing ban takes effect",
-      "url": "https://www.bbc.co.uk/news/articles/c5y62pe9g3no?at_medium=RSS&at_campaign=rss",
-      "summary": "At least two chartered flights carrying up to 150 greyhounds are set to fly to Australia's eastern states, the BBC understands.",
-      "published_at": "2026-07-31T21:09:39Z",
-      "country_code": "AU",
-      "country_name": "Australia"
-    },
-    {
       "source": "BBC Middle East",
       "title": "Israeli official says troops won't pull back in Gaza without 'genuine' Hamas disarmament",
       "url": "https://www.bbc.co.uk/news/articles/cd9wjj4qleeo?at_medium=RSS&at_campaign=rss",
@@ -585,15 +594,6 @@
       "published_at": "2026-07-31T09:54:26Z",
       "country_code": "PS",
       "country_name": "Palestine"
-    },
-    {
-      "source": "BBC Asia",
-      "title": "UK rapper Yung Filly found not guilty of raping woman after Australian show",
-      "url": "https://www.bbc.co.uk/news/articles/crrv7vk0knro?at_medium=RSS&at_campaign=rss",
-      "summary": "The YouTuber has been found guilty for two counts of assault over the 2024 incident in Perth.",
-      "published_at": "2026-07-31T05:21:18Z",
-      "country_code": "GB",
-      "country_name": "United Kingdom"
     },
     {
       "source": "BBC Middle East",
@@ -905,13 +905,13 @@
       "news_count": 8
     },
     {
-      "country_code": "GB",
-      "country_name": "United Kingdom",
-      "news_count": 6
-    },
-    {
       "country_code": "RU",
       "country_name": "Russia",
+      "news_count": 7
+    },
+    {
+      "country_code": "GB",
+      "country_name": "United Kingdom",
       "news_count": 6
     },
     {
@@ -930,11 +930,6 @@
       "news_count": 4
     },
     {
-      "country_code": "AU",
-      "country_name": "Australia",
-      "news_count": 3
-    },
-    {
       "country_code": "IN",
       "country_name": "India",
       "news_count": 3
@@ -948,6 +943,11 @@
       "country_code": "IT",
       "country_name": "Italy",
       "news_count": 3
+    },
+    {
+      "country_code": "AU",
+      "country_name": "Australia",
+      "news_count": 2
     },
     {
       "country_code": "ID",
