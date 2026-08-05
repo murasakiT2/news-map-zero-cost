@@ -1,12 +1,21 @@
 {
-  "generated_at": "2026-08-05T09:16:19Z",
+  "generated_at": "2026-08-05T11:34:23Z",
   "articles": [
+    {
+      "source": "BBC Asia",
+      "title": "Pakistan restricts international media reporting",
+      "url": "https://www.bbc.co.uk/news/articles/cn0n9w95n70o?at_medium=RSS&at_campaign=rss",
+      "summary": "Anyone working for foreign media, including Pakistanis, will now need permission to report from anywhere outside three major cities.",
+      "published_at": "2026-08-05T11:19:42Z",
+      "country_code": "PK",
+      "country_name": "Pakistan"
+    },
     {
       "source": "BBC World",
       "title": "Russian strike kills at least 17 as Zelensky says interceptors could have saved lives",
       "url": "https://www.bbc.co.uk/news/articles/c330pxyvzzyo?at_medium=RSS&at_campaign=rss",
       "summary": "The Russia defence ministry said it had struck logistics hubs and supply centres in Kyiv and the surrounding region.",
-      "published_at": "2026-08-05T08:29:40Z",
+      "published_at": "2026-08-05T11:19:37Z",
       "country_code": "RU",
       "country_name": "Russia"
     },
@@ -47,7 +56,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Africa",
       "title": "Mysterious elephant deaths in Kenya raise questions around pesticides",
       "url": "https://www.bbc.co.uk/news/articles/cx27p32jzj2o?at_medium=RSS&at_campaign=rss",
       "summary": "A wave of Kenyan elephant deaths has been blamed on pesticides, but experts tell the BBC they are doubtful.",
@@ -452,15 +461,6 @@
       "country_name": "Israel"
     },
     {
-      "source": "BBC Asia",
-      "title": "Five dead and 41 missing after Indonesia ferry catches fire",
-      "url": "https://www.bbc.co.uk/news/articles/c74g0wjvlrxo?at_medium=RSS&at_campaign=rss",
-      "summary": "The vessel with at least 250 people on board caught fire off Madura island.",
-      "published_at": "2026-08-02T11:49:40Z",
-      "country_code": "ID",
-      "country_name": "Indonesia"
-    },
-    {
       "source": "BBC Middle East",
       "title": "Trump cancels Iran strikes subject to deal being made 'rapidly'",
       "url": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss",
@@ -619,15 +619,6 @@
       "url": "https://www.bbc.co.uk/news/articles/c78gnyq3wvdo?at_medium=RSS&at_campaign=rss",
       "summary": "Iran may believe it can control its conflict carefully enough to keep pressure on the US while avoiding an all-out war.",
       "published_at": "2026-07-30T17:26:01Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC Latin America",
-      "title": "Brazil's president confirms two US government officials were denied visas over election interference fears",
-      "url": "https://www.bbc.co.uk/news/articles/c4g3dv60ry9o?at_medium=RSS&at_campaign=rss",
-      "summary": "Brazil has argued the visit could have been used to raise suspicions about the electoral system's reliability ahead of October's vote, which…",
-      "published_at": "2026-07-30T15:02:39Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -861,7 +852,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 26
+      "news_count": 25
     },
     {
       "country_code": "PS",
@@ -914,13 +905,13 @@
       "news_count": 3
     },
     {
-      "country_code": "AU",
-      "country_name": "Australia",
-      "news_count": 2
+      "country_code": "PK",
+      "country_name": "Pakistan",
+      "news_count": 3
     },
     {
-      "country_code": "ID",
-      "country_name": "Indonesia",
+      "country_code": "AU",
+      "country_name": "Australia",
       "news_count": 2
     },
     {
@@ -931,11 +922,6 @@
     {
       "country_code": "PE",
       "country_name": "Peru",
-      "news_count": 2
-    },
-    {
-      "country_code": "PK",
-      "country_name": "Pakistan",
       "news_count": 2
     },
     {
@@ -971,6 +957,11 @@
     {
       "country_code": "FR",
       "country_name": "France",
+      "news_count": 1
+    },
+    {
+      "country_code": "ID",
+      "country_name": "Indonesia",
       "news_count": 1
     },
     {
