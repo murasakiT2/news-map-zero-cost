@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-08-05T13:40:52Z",
+  "generated_at": "2026-08-05T15:53:28Z",
   "articles": [
+    {
+      "source": "BBC US & Canada",
+      "title": "Did Iran hack water systems in at least seven US states?",
+      "url": "https://www.bbc.co.uk/news/articles/c934dq95zpgo?at_medium=RSS&at_campaign=rss",
+      "summary": "President Donald Trump has said Iran is not to blame, but cyber experts tell the BBC it is likely the attack was directed by Tehran.",
+      "published_at": "2026-08-05T15:43:45Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Left-wing political outsider wins Democratic Senate primary in Michigan",
+      "url": "https://www.bbc.co.uk/news/articles/ckgdkpz07kvo?at_medium=RSS&at_campaign=rss",
+      "summary": "Abdul El-Sayed, the son of Egyptian immigrants, would be the first Muslim US senator if elected in November.",
+      "published_at": "2026-08-05T15:05:30Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "South Africa plans new rules on ex-leaders' foreign trips after Zuma's visit to India",
+      "url": "https://www.bbc.co.uk/news/articles/c1e14lj7vg7o?at_medium=RSS&at_campaign=rss",
+      "summary": "Jacob Zuma was pictured with a businessmen allegedly at the heart of a corruption scandal in South Africa",
+      "published_at": "2026-08-05T14:58:41Z",
+      "country_code": "IN",
+      "country_name": "India"
+    },
+    {
+      "source": "BBC World",
+      "title": "UN rights chief alarmed by rise in Iran executions since March",
+      "url": "https://www.bbc.co.uk/news/articles/c75gvzxrz49o?at_medium=RSS&at_campaign=rss",
+      "summary": "Volker Türk says 56 people have been executed on national security-related charges, including 27 in cases linked to January's protests.",
+      "published_at": "2026-08-05T14:04:09Z",
+      "country_code": "IR",
+      "country_name": "Iran"
+    },
     {
       "source": "BBC World",
       "title": "Nigeria's president orders a 80% salary increase for junior soldiers",
@@ -14,7 +50,7 @@
       "source": "BBC World",
       "title": "Waste workers help winner find binned €1m lottery ticket in Italy",
       "url": "https://www.bbc.co.uk/news/articles/c62qvll0z94o?at_medium=RSS&at_campaign=rss",
-      "summary": "The player only realised he binned the life-changing ticket after family told him the numbers he played for years had been drawn.",
+      "summary": "The player only realised they binned the life-changing ticket after family told them the numbers he played for years had been drawn.",
       "published_at": "2026-08-05T12:33:43Z",
       "country_code": "IT",
       "country_name": "Italy"
@@ -45,6 +81,15 @@
       "published_at": "2026-08-05T11:19:42Z",
       "country_code": "PK",
       "country_name": "Pakistan"
+    },
+    {
+      "source": "BBC Africa",
+      "title": "Salah given hero's welcome before Trabzonspor move",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cn8negllz1ko?at_medium=RSS&at_campaign=rss",
+      "summary": "Turkish club Trabzonspor are set to confirm the signing of Egypt captain and former Liverpool forward Mohamed Salah.",
+      "published_at": "2026-08-05T10:57:54Z",
+      "country_code": "EG",
+      "country_name": "Egypt"
     },
     {
       "source": "BBC World",
@@ -191,15 +236,6 @@
       "country_name": "Palestine"
     },
     {
-      "source": "BBC Africa",
-      "title": "Zimbabwe funeral held for family believed to have been murdered in the UK",
-      "url": "https://www.bbc.co.uk/news/articles/clye1g9pg57o?at_medium=RSS&at_campaign=rss",
-      "summary": "Relatives describe the mother as \"the family's pride and joy\".",
-      "published_at": "2026-08-04T12:02:37Z",
-      "country_code": "GB",
-      "country_name": "United Kingdom"
-    },
-    {
       "source": "BBC Europe",
       "title": "Ukraine hits more Wildberries sites as strike kills five in Moscow region",
       "url": "https://www.bbc.co.uk/news/articles/c151pkww79zo?at_medium=RSS&at_campaign=rss",
@@ -297,15 +333,6 @@
       "published_at": "2026-08-04T02:47:26Z",
       "country_code": "AU",
       "country_name": "Australia"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "Did Iran hack water systems in seven US states?",
-      "url": "https://www.bbc.co.uk/news/articles/c934dq95zpgo?at_medium=RSS&at_campaign=rss",
-      "summary": "While US President Donald Trump has said Iran is not to blame, cyber experts tell the BBC it likely the attack was at the hands of the Iran.",
-      "published_at": "2026-08-04T02:29:03Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC Africa",
@@ -828,15 +855,6 @@
       "published_at": "2026-07-15T11:19:52Z",
       "country_code": "ZA",
       "country_name": "South Africa"
-    },
-    {
-      "source": "BBC Middle East",
-      "title": "Trump retreat over Hormuz tolls suggests he is struggling to end Iran war",
-      "url": "https://www.bbc.co.uk/news/articles/crele3r8j19o?at_medium=RSS&at_campaign=rss",
-      "summary": "The abrupt about-face from the US president was the latest twist in a conflict that has now lasted more than four months.",
-      "published_at": "2026-07-14T23:17:27Z",
-      "country_code": "US",
-      "country_name": "United States"
     }
   ],
   "regions": [
@@ -856,18 +874,28 @@
       "news_count": 7
     },
     {
-      "country_code": "GB",
-      "country_name": "United Kingdom",
-      "news_count": 5
-    },
-    {
       "country_code": "ES",
       "country_name": "Spain",
       "news_count": 4
     },
     {
+      "country_code": "GB",
+      "country_name": "United Kingdom",
+      "news_count": 4
+    },
+    {
       "country_code": "IL",
       "country_name": "Israel",
+      "news_count": 4
+    },
+    {
+      "country_code": "IN",
+      "country_name": "India",
+      "news_count": 4
+    },
+    {
+      "country_code": "IR",
+      "country_name": "Iran",
       "news_count": 4
     },
     {
@@ -886,16 +914,6 @@
       "news_count": 4
     },
     {
-      "country_code": "IN",
-      "country_name": "India",
-      "news_count": 3
-    },
-    {
-      "country_code": "IR",
-      "country_name": "Iran",
-      "news_count": 3
-    },
-    {
       "country_code": "PK",
       "country_name": "Pakistan",
       "news_count": 3
@@ -903,6 +921,11 @@
     {
       "country_code": "AU",
       "country_name": "Australia",
+      "news_count": 2
+    },
+    {
+      "country_code": "EG",
+      "country_name": "Egypt",
       "news_count": 2
     },
     {
@@ -933,11 +956,6 @@
     {
       "country_code": "CO",
       "country_name": "Colombia",
-      "news_count": 1
-    },
-    {
-      "country_code": "EG",
-      "country_name": "Egypt",
       "news_count": 1
     },
     {
