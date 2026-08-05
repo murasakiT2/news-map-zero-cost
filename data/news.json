@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-08-05T03:52:12Z",
+  "generated_at": "2026-08-05T06:18:24Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Russian ballistic missile strike on Kyiv kills at least 14, officials say",
+      "url": "https://www.bbc.co.uk/news/articles/c330pxyvzzyo?at_medium=RSS&at_campaign=rss",
+      "summary": "The head of Kyiv's military administration says Russia is \"once again massively attacking\" the region around the city.",
+      "published_at": "2026-08-05T05:08:43Z",
+      "country_code": "RU",
+      "country_name": "Russia"
+    },
     {
       "source": "BBC World",
       "title": "Trump says Iran will be 'hit very hard' if Hormuz Strait not open soon as oil prices fall",
@@ -9,15 +18,6 @@
       "published_at": "2026-08-05T03:44:30Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "Russian ballistic missile strike on Kyiv kills two and injures others, officials say",
-      "url": "https://www.bbc.co.uk/news/articles/c330pxyvzzyo?at_medium=RSS&at_campaign=rss",
-      "summary": "The head of Kyiv's military administration says Russia is \"once again massively attacking\" and has hit residential buildings.",
-      "published_at": "2026-08-05T03:37:50Z",
-      "country_code": "RU",
-      "country_name": "Russia"
     },
     {
       "source": "BBC US & Canada",
@@ -686,15 +686,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Latin America",
-      "title": "Fifa opens disciplinary proceedings against Argentina",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cp3rkwgy6y7o?at_medium=RSS&at_campaign=rss",
-      "summary": "Fifa opens disciplinary proceedings against Argentina over their behaviour after their World Cup final loss to Spain and throughout the tour…",
-      "published_at": "2026-07-29T17:21:57Z",
-      "country_code": "ES",
-      "country_name": "Spain"
-    },
-    {
       "source": "BBC Middle East",
       "title": "Saudi Arabia joins US in strikes on Iran-backed militias in Iraq",
       "url": "https://www.bbc.co.uk/news/articles/c70g6y24d76o?at_medium=RSS&at_campaign=rss",
@@ -866,15 +857,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Latin America",
-      "title": "The Chinese graduate accused of being Mexico's 'fentanyl king'",
-      "url": "https://www.bbc.co.uk/news/articles/c39ymggglxeo?at_medium=RSS&at_campaign=rss",
-      "summary": "Cartel members and ex-colleagues describe how Zhang Zhidong allegedly linked Chinese chemicals to Mexican drug labs.",
-      "published_at": "2026-07-13T00:05:46Z",
-      "country_code": "MX",
-      "country_name": "Mexico"
-    },
-    {
       "source": "BBC Africa",
       "title": "How men with female surnames are standing up to ridicule in Kenya",
       "url": "https://www.bbc.co.uk/news/articles/c75ygy71wdgo?at_medium=RSS&at_campaign=rss",
@@ -917,7 +899,7 @@
     {
       "country_code": "ES",
       "country_name": "Spain",
-      "news_count": 5
+      "news_count": 4
     },
     {
       "country_code": "IL",
@@ -1017,11 +999,6 @@
     {
       "country_code": "MA",
       "country_name": "Morocco",
-      "news_count": 1
-    },
-    {
-      "country_code": "MX",
-      "country_name": "Mexico",
       "news_count": 1
     },
     {
