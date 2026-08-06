@@ -1,6 +1,33 @@
 {
-  "generated_at": "2026-08-06T07:31:50Z",
+  "generated_at": "2026-08-06T10:26:28Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Indian journalist Tarun Tejpal sentenced to 10 years in jail for rape",
+      "url": "https://www.bbc.co.uk/news/articles/cx2v551w9v8o?at_medium=RSS&at_campaign=rss",
+      "summary": "Tejpal, who has denied the accusations, can appeal against the verdict in India's Supreme Court.",
+      "published_at": "2026-08-06T09:49:24Z",
+      "country_code": "IN",
+      "country_name": "India"
+    },
+    {
+      "source": "BBC World",
+      "title": "Iranian footballers who defied Tehran become Australian citizens",
+      "url": "https://www.bbc.co.uk/news/articles/cn5nlgxv6vdo?at_medium=RSS&at_campaign=rss",
+      "summary": "There were among seven to be granted humanitarian visas while playing in Australia - but the other five changed their minds and returned to …",
+      "published_at": "2026-08-06T09:04:17Z",
+      "country_code": "AU",
+      "country_name": "Australia"
+    },
+    {
+      "source": "BBC World",
+      "title": "Air India's new CEO faces financial and safety turbulence",
+      "url": "https://www.bbc.co.uk/news/articles/c9987kkrnl5o?at_medium=RSS&at_campaign=rss",
+      "summary": "The aftermath of last's year deadly crash and mounting financial losses will be Gebremariam's main challenges.",
+      "published_at": "2026-08-06T08:18:02Z",
+      "country_code": "IN",
+      "country_name": "India"
+    },
     {
       "source": "BBC Africa",
       "title": "Salah given hero's welcome before Trabzonspor move",
@@ -66,9 +93,9 @@
     },
     {
       "source": "BBC World",
-      "title": "Israel strikes south Lebanon after first evacuation warning in weeks",
+      "title": "Israel strikes south Lebanon after two soldiers killed by explosion",
       "url": "https://www.bbc.co.uk/news/articles/c998711dyjvo?at_medium=RSS&at_campaign=rss",
-      "summary": "Lebanon's health ministry says one person was killed in the strikes, which the Israeli military says were a response to a Hezbollah ceasefir…",
+      "summary": "Lebanese authorities says one person was killed in the strikes, which came after the first Israeli military fatalities in Lebanon in more th…",
       "published_at": "2026-08-05T20:03:36Z",
       "country_code": "IL",
       "country_name": "Israel"
@@ -461,15 +488,6 @@
       "country_name": "United Kingdom"
     },
     {
-      "source": "BBC Asia",
-      "title": "'What was my fault?': How India's exam paper leak ended young lives",
-      "url": "https://www.bbc.co.uk/news/articles/crl7jl1d95eo?at_medium=RSS&at_campaign=rss",
-      "summary": "Two families reveal the human toll of India's medical entrance examination paper leak.",
-      "published_at": "2026-08-02T23:35:54Z",
-      "country_code": "IN",
-      "country_name": "India"
-    },
-    {
       "source": "BBC Africa",
       "title": "Final medal table as Nigeria lead for Africa at Glasgow 2026",
       "url": "https://www.bbc.co.uk/sport/articles/crl788216dro?at_medium=RSS&at_campaign=rss",
@@ -677,15 +695,6 @@
       "country_name": "Israel"
     },
     {
-      "source": "BBC US & Canada",
-      "title": "Red Cross declares crisis over blood supply shortage in US for second time in its history",
-      "url": "https://www.bbc.co.uk/news/articles/c74gze89783o?at_medium=RSS&at_campaign=rss",
-      "summary": "Fewer donations and higher demand has seen a supply shortage worsen, the American Red Cross tells the BBC.",
-      "published_at": "2026-07-29T23:04:35Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC Africa",
       "title": "The athlete from Cameroon who has never held her Olympic medal",
       "url": "https://www.bbc.co.uk/sport/weightlifting/articles/cn8nxg5rvvko?at_medium=RSS&at_campaign=rss",
@@ -812,15 +821,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Middle East",
-      "title": "Why Iran is risking so much over the Strait of Hormuz",
-      "url": "https://www.bbc.co.uk/news/articles/cwymx3eevpjo?at_medium=RSS&at_campaign=rss",
-      "summary": "None of the choices facing Iran’s leaders offer a clear path to victory, as the conflict with the US continues.",
-      "published_at": "2026-07-21T14:36:47Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC Latin America",
       "title": "Watch: Flooded towns and evacuations as Chile hit by heavy rain",
       "url": "https://www.bbc.co.uk/news/videos/cy9wq8j2p7qo?at_medium=RSS&at_campaign=rss",
@@ -870,7 +870,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 23
+      "news_count": 21
     },
     {
       "country_code": "RU",
@@ -883,13 +883,13 @@
       "news_count": 7
     },
     {
-      "country_code": "IL",
-      "country_name": "Israel",
-      "news_count": 5
-    },
-    {
       "country_code": "IN",
       "country_name": "India",
+      "news_count": 6
+    },
+    {
+      "country_code": "IL",
+      "country_name": "Israel",
       "news_count": 5
     },
     {
@@ -946,6 +946,11 @@
       "country_code": "SA",
       "country_name": "Saudi Arabia",
       "news_count": 2
+    },
+    {
+      "country_code": "AU",
+      "country_name": "Australia",
+      "news_count": 1
     },
     {
       "country_code": "BD",
