@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-08-05T23:47:05Z",
+  "generated_at": "2026-08-06T01:26:48Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Iran says deal with Oman on Strait of Hormuz is in final stages",
+      "url": "https://www.bbc.co.uk/news/articles/ckg9d3eyeggo?at_medium=RSS&at_campaign=rss",
+      "summary": "Neither the US or Oman have commented on the proposed agreement on the vital waterway.",
+      "published_at": "2026-08-06T01:19:59Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "What's causing record high US beef prices?",
+      "url": "https://www.bbc.co.uk/news/articles/cdrv0k0j662o?at_medium=RSS&at_campaign=rss",
+      "summary": "The meat has never been more expensive, due to supply shortages, but no-one is making more money.",
+      "published_at": "2026-08-05T23:23:05Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC Europe",
       "title": "What tariffs has Trump introduced and why?",
@@ -9,15 +27,6 @@
       "published_at": "2026-08-05T22:47:45Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "Iran says it has agreed Strait of Hormuz shipping route with Oman",
-      "url": "https://www.bbc.co.uk/news/articles/ckg9d3eyeggo?at_medium=RSS&at_campaign=rss",
-      "summary": "A foreign ministry spokesman did not give details but said an agreement with the Gulf nation was \"in the final stages\".",
-      "published_at": "2026-08-05T21:21:51Z",
-      "country_code": "IR",
-      "country_name": "Iran"
     },
     {
       "source": "BBC World",
@@ -843,7 +852,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 21
+      "news_count": 23
     },
     {
       "country_code": "PS",
@@ -866,11 +875,6 @@
       "news_count": 5
     },
     {
-      "country_code": "IR",
-      "country_name": "Iran",
-      "news_count": 5
-    },
-    {
       "country_code": "ES",
       "country_name": "Spain",
       "news_count": 4
@@ -878,6 +882,11 @@
     {
       "country_code": "GB",
       "country_name": "United Kingdom",
+      "news_count": 4
+    },
+    {
+      "country_code": "IR",
+      "country_name": "Iran",
       "news_count": 4
     },
     {
