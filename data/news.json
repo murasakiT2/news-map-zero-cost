@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-08-06T01:26:48Z",
+  "generated_at": "2026-08-06T04:39:00Z",
   "articles": [
+    {
+      "source": "BBC Asia",
+      "title": "Myanmar's Min Aung Hlaing arrives in Thailand on first trip as civilian leader",
+      "url": "https://www.bbc.co.uk/news/articles/clye0n55dd6o?at_medium=RSS&at_campaign=rss",
+      "summary": "The military leader has been barred from western countries and accused of crimes against humanity.",
+      "published_at": "2026-08-06T03:36:41Z",
+      "country_code": "TH",
+      "country_name": "Thailand"
+    },
     {
       "source": "BBC World",
       "title": "Iran says deal with Oman on Strait of Hormuz is in final stages",
@@ -27,6 +36,15 @@
       "published_at": "2026-08-05T22:47:45Z",
       "country_code": "US",
       "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "AI or real? BBC analyses viral China disaster videos",
+      "url": "https://www.bbc.co.uk/news/videos/ckg9d2egn11o?at_medium=RSS&at_campaign=rss",
+      "summary": "As weather events become more extreme, fake videos are being shared rapidly online, and it’s causing real world problems in China.",
+      "published_at": "2026-08-05T22:00:32Z",
+      "country_code": "CN",
+      "country_name": "China"
     },
     {
       "source": "BBC World",
@@ -317,7 +335,7 @@
       "country_name": "Russia"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "Moment pilot caught with 70,000 ecstasy pills at Indonesian airport",
       "url": "https://www.bbc.co.uk/news/videos/c9d8662gyx5o?at_medium=RSS&at_campaign=rss",
       "summary": "A Malaysian pilot was arrested at Jakarta airport after being found with around four stone (26kg) of drugs hidden in his luggage.",
@@ -945,6 +963,11 @@
       "news_count": 1
     },
     {
+      "country_code": "CN",
+      "country_name": "China",
+      "news_count": 1
+    },
+    {
       "country_code": "CO",
       "country_name": "Colombia",
       "news_count": 1
@@ -977,6 +1000,11 @@
     {
       "country_code": "SD",
       "country_name": "Sudan",
+      "news_count": 1
+    },
+    {
+      "country_code": "TH",
+      "country_name": "Thailand",
       "news_count": 1
     },
     {
