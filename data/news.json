@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-08-06T10:26:28Z",
+  "generated_at": "2026-08-06T12:23:49Z",
   "articles": [
+    {
+      "source": "BBC Asia",
+      "title": "Myanmar leader breaks diplomatic isolation on first official visit to Thailand since coup",
+      "url": "https://www.bbc.co.uk/news/articles/clye0n55dd6o?at_medium=RSS&at_campaign=rss",
+      "summary": "The military leader has been barred from western countries and accused of crimes against humanity.",
+      "published_at": "2026-08-06T11:19:31Z",
+      "country_code": "TH",
+      "country_name": "Thailand"
+    },
     {
       "source": "BBC World",
       "title": "Indian journalist Tarun Tejpal sentenced to 10 years in jail for rape",
@@ -47,15 +56,6 @@
       "country_name": "Russia"
     },
     {
-      "source": "BBC Asia",
-      "title": "Myanmar leader breaks diplomatic isolation on first official visit to Thailand since coup",
-      "url": "https://www.bbc.co.uk/news/articles/clye0n55dd6o?at_medium=RSS&at_campaign=rss",
-      "summary": "The military leader has been barred from western countries and accused of crimes against humanity.",
-      "published_at": "2026-08-06T03:36:41Z",
-      "country_code": "TH",
-      "country_name": "Thailand"
-    },
-    {
       "source": "BBC World",
       "title": "Iran says deal with Oman on Strait of Hormuz is in final stages",
       "url": "https://www.bbc.co.uk/news/articles/ckg9d3eyeggo?at_medium=RSS&at_campaign=rss",
@@ -66,9 +66,9 @@
     },
     {
       "source": "BBC US & Canada",
-      "title": "What's causing record high US beef prices?",
+      "title": "US beef prices have soared but farmers aren't making more money",
       "url": "https://www.bbc.co.uk/news/articles/cdrv0k0j662o?at_medium=RSS&at_campaign=rss",
-      "summary": "The meat has never been more expensive, due to supply shortages, but no-one is making more money.",
+      "summary": "The meat has never been more expensive, due to supply shortages, but there's a big squeeze on profits.",
       "published_at": "2026-08-05T23:23:05Z",
       "country_code": "US",
       "country_name": "United States"
@@ -389,15 +389,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC US & Canada",
-      "title": "UFC loses $30m on Freedom 250 event at White House",
-      "url": "https://www.bbc.co.uk/sport/mixed-martial-arts/articles/ckgdky8d94eo?at_medium=RSS&at_campaign=rss",
-      "summary": "UFC owners lose $30m (£22m) staging the Freedom 250 event, which was attended by US President Donald Trump, at the White House in June.",
-      "published_at": "2026-08-04T08:59:56Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC Asia",
       "title": "Three lions die in zoo as Japan battles extreme heat",
       "url": "https://www.bbc.co.uk/news/articles/c3r0j9qqdxpo?at_medium=RSS&at_campaign=rss",
@@ -693,6 +684,15 @@
       "published_at": "2026-07-30T05:05:24Z",
       "country_code": "IL",
       "country_name": "Israel"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "Red Cross declares crisis over blood supply shortage in US for second time in its history",
+      "url": "https://www.bbc.co.uk/news/articles/c74gze89783o?at_medium=RSS&at_campaign=rss",
+      "summary": "Fewer donations and higher demand has seen a supply shortage worsen, the American Red Cross tells the BBC.",
+      "published_at": "2026-07-29T23:04:35Z",
+      "country_code": "US",
+      "country_name": "United States"
     },
     {
       "source": "BBC Africa",
