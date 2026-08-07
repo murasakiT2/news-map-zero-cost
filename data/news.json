@@ -1,32 +1,41 @@
 {
-  "generated_at": "2026-08-07T12:04:15Z",
+  "generated_at": "2026-08-07T13:45:02Z",
   "articles": [
-    {
-      "source": "BBC World",
-      "title": "Saudi Arabia, Turkey and Pakistan sign defence pact",
-      "url": "https://www.bbc.co.uk/news/articles/c30418m4mj4o?at_medium=RSS&at_campaign=rss",
-      "summary": "Pakistan says an attack on any of the three will amount to an attack against all, amid conflict in the Middle East.",
-      "published_at": "2026-08-07T12:02:28Z",
-      "country_code": "PK",
-      "country_name": "Pakistan"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "Republican Lisa Murkowski opposes Todd Blanche nomination for US attorney general",
-      "url": "https://www.bbc.co.uk/news/articles/c0kme3114xko?at_medium=RSS&at_campaign=rss",
-      "summary": "Murkowski cited concerns over the “politicisation” of the Justice Department, putting Blanche's confirmation in jeopardy.",
-      "published_at": "2026-08-07T11:40:45Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
     {
       "source": "BBC World",
       "title": "US strikes $1.2bn deal to pay German firm to halt offshore wind projects",
       "url": "https://www.bbc.co.uk/news/articles/c1e1vg0gjl5o?at_medium=RSS&at_campaign=rss",
       "summary": "The RWE payout is the latest in a string of deals cancelling wind energy projects, a power source long derided by Trump.",
-      "published_at": "2026-08-07T09:50:54Z",
+      "published_at": "2026-08-07T13:32:41Z",
       "country_code": "US",
       "country_name": "United States"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "Surprise fall in US jobs last month as slow summer continues",
+      "url": "https://www.bbc.co.uk/news/articles/c20j5rle717o?at_medium=RSS&at_campaign=rss",
+      "summary": "Analysts had expected an uptick in the number of jobs created, but the number of roles fell by 23,000 in July.",
+      "published_at": "2026-08-07T13:26:22Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Saudi Arabia, Turkey and Pakistan sign defence pact",
+      "url": "https://www.bbc.co.uk/news/articles/c30418m4mj4o?at_medium=RSS&at_campaign=rss",
+      "summary": "Pakistan says an attack on any of the three will amount to an attack against all, amid conflict in the Middle East.",
+      "published_at": "2026-08-07T13:18:33Z",
+      "country_code": "PK",
+      "country_name": "Pakistan"
+    },
+    {
+      "source": "BBC Europe",
+      "title": "Norway call for Infantino to resign as Mexico and Argentina back president",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c4g6l3gnv0go?at_medium=RSS&at_campaign=rss",
+      "summary": "The Norwegian Football Federation calls for Fifa president Gianni Infantino to resign after he attempted to sell off stakes in the World Cup…",
+      "published_at": "2026-08-07T12:04:25Z",
+      "country_code": "NO",
+      "country_name": "Norway"
     },
     {
       "source": "BBC US & Canada",
@@ -804,15 +813,6 @@
     },
     {
       "source": "BBC Europe",
-      "title": "Sixteen titles in five years - why Spain are a dominant force",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c39elvrye40o?at_medium=RSS&at_campaign=rss",
-      "summary": "We look at what's behind Spain's dominance after they become the first nation to be men's and women's World Cup champions at the same time.",
-      "published_at": "2026-07-20T01:19:50Z",
-      "country_code": "ES",
-      "country_name": "Spain"
-    },
-    {
-      "source": "BBC Europe",
       "title": "‘Everyone's afraid to die’: Struggle to recruit soldiers in Ukraine turns violent",
       "url": "https://www.bbc.co.uk/news/articles/cr7k5ngde3vo?at_medium=RSS&at_campaign=rss",
       "summary": "Aggression against recruitment officers has become increasingly threatening, police say.",
@@ -847,11 +847,6 @@
       "news_count": 7
     },
     {
-      "country_code": "ES",
-      "country_name": "Spain",
-      "news_count": 5
-    },
-    {
       "country_code": "IL",
       "country_name": "Israel",
       "news_count": 5
@@ -860,6 +855,11 @@
       "country_code": "IN",
       "country_name": "India",
       "news_count": 5
+    },
+    {
+      "country_code": "ES",
+      "country_name": "Spain",
+      "news_count": 4
     },
     {
       "country_code": "IR",
@@ -959,6 +959,11 @@
     {
       "country_code": "MX",
       "country_name": "Mexico",
+      "news_count": 1
+    },
+    {
+      "country_code": "NO",
+      "country_name": "Norway",
       "news_count": 1
     },
     {
