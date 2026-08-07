@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T03:22:54Z",
+  "generated_at": "2026-08-07T05:09:34Z",
   "articles": [
     {
       "source": "BBC World",
@@ -12,12 +12,12 @@
     },
     {
       "source": "BBC World",
-      "title": "Meta fined $567m in largest child safety ruling against social media giant",
-      "url": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&at_campaign=rss",
-      "summary": "A New Mexico judge ordered the Instagram, Facebook and Whatsapp parent company to pay another $567m for the way it has harmed children.",
-      "published_at": "2026-08-07T00:54:03Z",
-      "country_code": "MX",
-      "country_name": "Mexico"
+      "title": "Trump again tries to limit US birthright citizenship with new executive orders",
+      "url": "https://www.bbc.co.uk/news/articles/cj63966j95yo?at_medium=RSS&at_campaign=rss",
+      "summary": "The executive orders ban birth tourism and expand the existing definition of people whose children are not eligible for US birthright citize…",
+      "published_at": "2026-08-07T00:34:14Z",
+      "country_code": "US",
+      "country_name": "United States"
     },
     {
       "source": "BBC World",
@@ -182,7 +182,7 @@
       "country_name": "India"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Middle East",
       "title": "Iranian footballers who defied Tehran become Australian citizens",
       "url": "https://www.bbc.co.uk/news/articles/cn5nlgxv6vdo?at_medium=RSS&at_campaign=rss",
       "summary": "There were among seven to be granted humanitarian visas while playing in Australia - but the other five changed their minds and returned to …",
@@ -870,7 +870,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 23
+      "news_count": 24
     },
     {
       "country_code": "IN",
@@ -925,11 +925,6 @@
     {
       "country_code": "AU",
       "country_name": "Australia",
-      "news_count": 2
-    },
-    {
-      "country_code": "MX",
-      "country_name": "Mexico",
       "news_count": 2
     },
     {
@@ -990,6 +985,11 @@
     {
       "country_code": "MA",
       "country_name": "Morocco",
+      "news_count": 1
+    },
+    {
+      "country_code": "MX",
+      "country_name": "Mexico",
       "news_count": 1
     },
     {
