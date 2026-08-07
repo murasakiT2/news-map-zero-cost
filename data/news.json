@@ -1,23 +1,32 @@
 {
-  "generated_at": "2026-08-07T00:20:32Z",
+  "generated_at": "2026-08-07T03:22:54Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Trump imposes 15% tariff on key chip material to counter China",
+      "url": "https://www.bbc.co.uk/news/articles/cdrvn686dljo?at_medium=RSS&at_campaign=rss",
+      "summary": "The move aims to protect US firms as they face increasing competition from China's chip industry.",
+      "published_at": "2026-08-07T01:03:35Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "Meta fined $567m in largest child safety ruling against social media giant",
       "url": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&at_campaign=rss",
       "summary": "A New Mexico judge ordered the Instagram, Facebook and Whatsapp parent company to pay another $567m for the way it has harmed children.",
-      "published_at": "2026-08-07T00:06:17Z",
+      "published_at": "2026-08-07T00:54:03Z",
       "country_code": "MX",
       "country_name": "Mexico"
     },
     {
       "source": "BBC World",
-      "title": "Some of Doge's $110bn saving reports are wrong or lack evidence, US watchdog finds",
-      "url": "https://www.bbc.co.uk/news/articles/cvg0rg9wmvlo?at_medium=RSS&at_campaign=rss",
-      "summary": "A review of the body formerly charged with reducing government spending has found several issues with its calculations.",
-      "published_at": "2026-08-06T23:55:35Z",
-      "country_code": "US",
-      "country_name": "United States"
+      "title": "Sudan's invisible children - born in war with no legal identity",
+      "url": "https://www.bbc.co.uk/news/articles/cr7kldz4djno?at_medium=RSS&at_campaign=rss",
+      "summary": "Babies born as a result of rape are often unable to get a birth certificate, meaning a life-time of problems.",
+      "published_at": "2026-08-07T00:26:52Z",
+      "country_code": "SD",
+      "country_name": "Sudan"
     },
     {
       "source": "BBC World",
@@ -200,7 +209,7 @@
       "country_name": "India"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "In Odesa, no-one is safe from Russia's new Black Sea strikes",
       "url": "https://www.bbc.co.uk/news/articles/cy8ev4y172yo?at_medium=RSS&at_campaign=rss",
       "summary": "Blackened ships and smashed docks mark Russia's recent surge of attacks on Ukraine's coastline.",
@@ -254,7 +263,7 @@
       "country_name": "India"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "After deadly Kyiv strike, Ukraine warns interceptor shortage is costing lives",
       "url": "https://www.bbc.co.uk/news/articles/cyvlgq2gp2eo?at_medium=RSS&at_campaign=rss",
       "summary": "Without Patriot interceptors, Ukraine's skies are wide open and people are fully exposed to Russia's missile barrages.",
@@ -450,15 +459,6 @@
       "published_at": "2026-08-04T09:23:06Z",
       "country_code": "RU",
       "country_name": "Russia"
-    },
-    {
-      "source": "BBC Asia",
-      "title": "Moment pilot caught with 70,000 ecstasy pills at Indonesian airport",
-      "url": "https://www.bbc.co.uk/news/videos/c9d8662gyx5o?at_medium=RSS&at_campaign=rss",
-      "summary": "A Malaysian pilot was arrested at Jakarta airport after being found with around four stone (26kg) of drugs hidden in his luggage.",
-      "published_at": "2026-08-04T09:18:03Z",
-      "country_code": "ID",
-      "country_name": "Indonesia"
     },
     {
       "source": "BBC US & Canada",
@@ -857,15 +857,6 @@
       "country_name": "Ukraine"
     },
     {
-      "source": "BBC Africa",
-      "title": "Former 'street kid' key to South Africa's police corruption inquiry",
-      "url": "https://www.bbc.co.uk/news/articles/cpq3q75y40do?at_medium=RSS&at_campaign=rss",
-      "summary": "Vusimusi \"Cat\" Matlala, due to appear at the Madlanga Commission, grew up hustling to make a living.",
-      "published_at": "2026-07-15T11:19:52Z",
-      "country_code": "ZA",
-      "country_name": "South Africa"
-    },
-    {
       "source": "BBC Middle East",
       "title": "Trump retreat over Hormuz tolls suggests he is struggling to end Iran war",
       "url": "https://www.bbc.co.uk/news/articles/crele3r8j19o?at_medium=RSS&at_campaign=rss",
@@ -932,11 +923,6 @@
       "news_count": 3
     },
     {
-      "country_code": "ZA",
-      "country_name": "South Africa",
-      "news_count": 3
-    },
-    {
       "country_code": "AU",
       "country_name": "Australia",
       "news_count": 2
@@ -952,8 +938,18 @@
       "news_count": 2
     },
     {
+      "country_code": "SD",
+      "country_name": "Sudan",
+      "news_count": 2
+    },
+    {
       "country_code": "UA",
       "country_name": "Ukraine",
+      "news_count": 2
+    },
+    {
+      "country_code": "ZA",
+      "country_name": "South Africa",
       "news_count": 2
     },
     {
@@ -982,11 +978,6 @@
       "news_count": 1
     },
     {
-      "country_code": "ID",
-      "country_name": "Indonesia",
-      "news_count": 1
-    },
-    {
       "country_code": "KE",
       "country_name": "Kenya",
       "news_count": 1
@@ -1004,11 +995,6 @@
     {
       "country_code": "PH",
       "country_name": "Philippines",
-      "news_count": 1
-    },
-    {
-      "country_code": "SD",
-      "country_name": "Sudan",
       "news_count": 1
     },
     {
