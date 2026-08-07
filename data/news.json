@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-08-07T05:09:34Z",
+  "generated_at": "2026-08-07T06:39:42Z",
   "articles": [
+    {
+      "source": "BBC Asia",
+      "title": "Why was Taiwan’s president evacuated in the middle of the night?",
+      "url": "https://www.bbc.co.uk/news/videos/cly83vm923go?at_medium=RSS&at_campaign=rss",
+      "summary": "President William Lai took part in an emergency evacuation drill as part of Taiwan military exercises preparing for a potential Chinese inva…",
+      "published_at": "2026-08-07T04:52:19Z",
+      "country_code": "TW",
+      "country_name": "Taiwan"
+    },
+    {
+      "source": "BBC Asia",
+      "title": "Drone warnings and sheltering in airports as South Korea battles historic heatwave",
+      "url": "https://www.bbc.co.uk/news/articles/cr597m1vm96o?at_medium=RSS&at_campaign=rss",
+      "summary": "The president has called the extreme heat a \"national disaster\" and ordered agencies to mobilise all resources.",
+      "published_at": "2026-08-07T04:49:18Z",
+      "country_code": "KR",
+      "country_name": "South Korea"
+    },
     {
       "source": "BBC World",
       "title": "Trump imposes 15% tariff on key chip material to counter China",
@@ -524,15 +542,6 @@
       "country_name": "Russia"
     },
     {
-      "source": "BBC Asia",
-      "title": "'My only son was shot standing up for justice' - inside city gripped by deadly protests in Pakistan-administered Kashmir",
-      "url": "https://www.bbc.co.uk/news/articles/c5yvqk69enko?at_medium=RSS&at_campaign=rss",
-      "summary": "The BBC gains unique access to Rawalakot, scene of violent clashes between security forces and protesters in Pakistan-administered Kashmir.",
-      "published_at": "2026-08-03T03:32:21Z",
-      "country_code": "PK",
-      "country_name": "Pakistan"
-    },
-    {
       "source": "BBC Middle East",
       "title": "At least 13 killed in Israeli strikes on Gaza after Hamas agree disarmament deal",
       "url": "https://www.bbc.co.uk/news/articles/czjlvvkzj20o?at_medium=RSS&at_campaign=rss",
@@ -605,15 +614,6 @@
       "country_name": "Peru"
     },
     {
-      "source": "BBC US & Canada",
-      "title": "Police in the US are making their own true crime podcasts - will it help catch killers?",
-      "url": "https://www.bbc.co.uk/news/articles/cpw9q0ekd9eo?at_medium=RSS&at_campaign=rss",
-      "summary": "More police departments are trying to invigorate unsolved murder or missing cases through the power of podcasts.",
-      "published_at": "2026-07-31T23:42:32Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC Africa",
       "title": "Ethiopian death row inmates desperate to escape execution in Saudi Arabia call the BBC",
       "url": "https://www.bbc.co.uk/news/articles/c80nkgdnl4no?at_medium=RSS&at_campaign=rss",
@@ -684,15 +684,6 @@
       "published_at": "2026-07-30T05:05:24Z",
       "country_code": "IL",
       "country_name": "Israel"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "Red Cross declares crisis over blood supply shortage in US for second time in its history",
-      "url": "https://www.bbc.co.uk/news/articles/c74gze89783o?at_medium=RSS&at_campaign=rss",
-      "summary": "Fewer donations and higher demand has seen a supply shortage worsen, the American Red Cross tells the BBC.",
-      "published_at": "2026-07-29T23:04:35Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC Africa",
@@ -870,7 +861,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 24
+      "news_count": 22
     },
     {
       "country_code": "IN",
@@ -913,11 +904,6 @@
       "news_count": 3
     },
     {
-      "country_code": "PK",
-      "country_name": "Pakistan",
-      "news_count": 3
-    },
-    {
       "country_code": "SA",
       "country_name": "Saudi Arabia",
       "news_count": 3
@@ -928,8 +914,18 @@
       "news_count": 2
     },
     {
+      "country_code": "KR",
+      "country_name": "South Korea",
+      "news_count": 2
+    },
+    {
       "country_code": "PE",
       "country_name": "Peru",
+      "news_count": 2
+    },
+    {
+      "country_code": "PK",
+      "country_name": "Pakistan",
       "news_count": 2
     },
     {
@@ -978,11 +974,6 @@
       "news_count": 1
     },
     {
-      "country_code": "KR",
-      "country_name": "South Korea",
-      "news_count": 1
-    },
-    {
       "country_code": "MA",
       "country_name": "Morocco",
       "news_count": 1
@@ -1000,6 +991,11 @@
     {
       "country_code": "TH",
       "country_name": "Thailand",
+      "news_count": 1
+    },
+    {
+      "country_code": "TW",
+      "country_name": "Taiwan",
       "news_count": 1
     },
     {
