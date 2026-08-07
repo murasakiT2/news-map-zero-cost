@@ -1,12 +1,21 @@
 {
-  "generated_at": "2026-08-07T20:28:23Z",
+  "generated_at": "2026-08-07T21:09:21Z",
   "articles": [
+    {
+      "source": "BBC US & Canada",
+      "title": "Coroners try to identify dozens of bodies kept in 'deplorable conditions' at US funeral home",
+      "url": "https://www.bbc.co.uk/news/articles/c86nv0elnzlo?at_medium=RSS&at_campaign=rss",
+      "summary": "The medical examiner's office in Chicago said the process to identify the remains could take days.",
+      "published_at": "2026-08-07T20:58:14Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "Spain to impose border controls against Italy as row over Ceuta migrant influx intensifies",
       "url": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss",
       "summary": "Italy introduced border controls following an influx of about 78,000 migrants from neighbouring Morocco into the Spanish exclave of Ceuta.",
-      "published_at": "2026-08-07T19:51:16Z",
+      "published_at": "2026-08-07T20:33:23Z",
       "country_code": "IT",
       "country_name": "Italy"
     },
@@ -155,15 +164,6 @@
       "country_name": "India"
     },
     {
-      "source": "BBC US & Canada",
-      "title": "TikTok star Sydney Towle, who shared her cancer journey online, dies aged 26",
-      "url": "https://www.bbc.co.uk/news/articles/cn4n1eyze05o?at_medium=RSS&at_campaign=rss",
-      "summary": "Towle was known for chronicling her hopes and struggles as a young person living with cancer.",
-      "published_at": "2026-08-06T19:17:39Z",
-      "country_code": "AU",
-      "country_name": "Australia"
-    },
-    {
       "source": "BBC World",
       "title": "Trump denies US weapons shortage and says information 'leakers' being 'hunted down'",
       "url": "https://www.bbc.co.uk/news/articles/cy8mjd19xm7o?at_medium=RSS&at_campaign=rss",
@@ -295,15 +295,6 @@
       "url": "https://www.bbc.co.uk/news/articles/ckg9d3eyeggo?at_medium=RSS&at_campaign=rss",
       "summary": "Neither the US or Oman have commented on the proposed agreement on the vital waterway.",
       "published_at": "2026-08-06T01:19:59Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC Europe",
-      "title": "What tariffs has Trump introduced and why?",
-      "url": "https://www.bbc.co.uk/news/articles/cn93e12rypgo?at_medium=RSS&at_campaign=rss",
-      "summary": "Trump's volatile trade policy has thrown the world economy into chaos, and put some US prices up.",
-      "published_at": "2026-08-05T22:47:45Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -905,11 +896,6 @@
       "news_count": 3
     },
     {
-      "country_code": "AU",
-      "country_name": "Australia",
-      "news_count": 2
-    },
-    {
       "country_code": "KR",
       "country_name": "South Korea",
       "news_count": 2
@@ -933,6 +919,11 @@
       "country_code": "SD",
       "country_name": "Sudan",
       "news_count": 2
+    },
+    {
+      "country_code": "AU",
+      "country_name": "Australia",
+      "news_count": 1
     },
     {
       "country_code": "BD",
