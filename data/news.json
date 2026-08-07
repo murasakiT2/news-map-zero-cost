@@ -1,8 +1,26 @@
 {
-  "generated_at": "2026-08-07T11:13:08Z",
+  "generated_at": "2026-08-07T12:04:15Z",
   "articles": [
     {
+      "source": "BBC World",
+      "title": "Saudi Arabia, Turkey and Pakistan sign defence pact",
+      "url": "https://www.bbc.co.uk/news/articles/c30418m4mj4o?at_medium=RSS&at_campaign=rss",
+      "summary": "Pakistan says an attack on any of the three will amount to an attack against all, amid conflict in the Middle East.",
+      "published_at": "2026-08-07T12:02:28Z",
+      "country_code": "PK",
+      "country_name": "Pakistan"
+    },
+    {
       "source": "BBC US & Canada",
+      "title": "Republican Lisa Murkowski opposes Todd Blanche nomination for US attorney general",
+      "url": "https://www.bbc.co.uk/news/articles/c0kme3114xko?at_medium=RSS&at_campaign=rss",
+      "summary": "Murkowski cited concerns over the “politicisation” of the Justice Department, putting Blanche's confirmation in jeopardy.",
+      "published_at": "2026-08-07T11:40:45Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
       "title": "US strikes $1.2bn deal to pay German firm to halt offshore wind projects",
       "url": "https://www.bbc.co.uk/news/articles/c1e1vg0gjl5o?at_medium=RSS&at_campaign=rss",
       "summary": "The RWE payout is the latest in a string of deals cancelling wind energy projects, a power source long derided by Trump.",
@@ -54,15 +72,6 @@
       "published_at": "2026-08-07T04:49:18Z",
       "country_code": "KR",
       "country_name": "South Korea"
-    },
-    {
-      "source": "BBC World",
-      "title": "Trump imposes 15% tariff on key chip material to counter China",
-      "url": "https://www.bbc.co.uk/news/articles/cdrvn686dljo?at_medium=RSS&at_campaign=rss",
-      "summary": "The move aims to protect US firms as they face increasing competition from China's chip industry.",
-      "published_at": "2026-08-07T01:03:35Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC World",
@@ -137,7 +146,7 @@
       "country_name": "Morocco"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "Ukraine hits two oil refineries deep in Russian territory",
       "url": "https://www.bbc.co.uk/news/articles/cwymv212xrxo?at_medium=RSS&at_campaign=rss",
       "summary": "Ukraine's president says the strikes aim to limit revenues Russia \"used to finance\" its war.",
@@ -164,7 +173,7 @@
       "country_name": "Israel"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Middle East",
       "title": "Rights groups say Israeli attack that killed Lebanese journalist an apparent war crime",
       "url": "https://www.bbc.co.uk/news/articles/cx2md67y3nlo?at_medium=RSS&at_campaign=rss",
       "summary": "Amal Khalil was killed and her colleague Zeinab Faraj wounded in an Israeli attack in April; Israel denied targeting the journalists.",
@@ -893,6 +902,11 @@
       "news_count": 2
     },
     {
+      "country_code": "PK",
+      "country_name": "Pakistan",
+      "news_count": 2
+    },
+    {
       "country_code": "SD",
       "country_name": "Sudan",
       "news_count": 2
@@ -945,11 +959,6 @@
     {
       "country_code": "MX",
       "country_name": "Mexico",
-      "news_count": 1
-    },
-    {
-      "country_code": "PK",
-      "country_name": "Pakistan",
       "news_count": 1
     },
     {
