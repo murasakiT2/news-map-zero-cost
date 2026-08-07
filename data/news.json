@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-08-07T14:43:58Z",
+  "generated_at": "2026-08-07T15:42:49Z",
   "articles": [
+    {
+      "source": "BBC US & Canada",
+      "title": "US appeals court halts Trump ballroom project paving way for Supreme Court showdown",
+      "url": "https://www.bbc.co.uk/news/articles/cwyq80jqqleo?at_medium=RSS&at_campaign=rss",
+      "summary": "\"Whether or not a ⁠massive ballroom should be constructed is for Congress to decide,\" the appeals panel's ​majority said.",
+      "published_at": "2026-08-07T15:42:33Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC Latin America",
+      "title": "Mexico and Peru restore diplomatic relations after asylum row",
+      "url": "https://www.bbc.co.uk/news/articles/cz7dy1l3e77o?at_medium=RSS&at_campaign=rss",
+      "summary": "Relations broke down after former Peruvian Prime Minister Betssy Chávez sought asylum in the Mexican embassy in November 2025.",
+      "published_at": "2026-08-07T15:38:28Z",
+      "country_code": "MX",
+      "country_name": "Mexico"
+    },
+    {
+      "source": "BBC Europe",
+      "title": "Spain threatens retaliation if Italy fails to lift border controls after Ceuta crossings",
+      "url": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss",
+      "summary": "Spain said Italy had been \"unjustified\" for taking border action after the mass crossing of migrants from Morocco last week.",
+      "published_at": "2026-08-07T15:25:42Z",
+      "country_code": "IT",
+      "country_name": "Italy"
+    },
+    {
+      "source": "BBC World",
+      "title": "Seven killed after teen shooter opens fire at home and school in Thailand",
+      "url": "https://www.bbc.co.uk/news/articles/c980j3j578do?at_medium=RSS&at_campaign=rss",
+      "summary": "Authorities say the 14-year-old killed his grandparents before gunning down five teachers at his school.",
+      "published_at": "2026-08-07T15:17:59Z",
+      "country_code": "TH",
+      "country_name": "Thailand"
+    },
     {
       "source": "BBC World",
       "title": "Saudi Arabia, Turkey and Pakistan sign defence pact",
@@ -812,15 +848,6 @@
       "country_name": "Nigeria"
     },
     {
-      "source": "BBC Europe",
-      "title": "‘Everyone's afraid to die’: Struggle to recruit soldiers in Ukraine turns violent",
-      "url": "https://www.bbc.co.uk/news/articles/cr7k5ngde3vo?at_medium=RSS&at_campaign=rss",
-      "summary": "Aggression against recruitment officers has become increasingly threatening, police say.",
-      "published_at": "2026-07-20T00:19:12Z",
-      "country_code": "UA",
-      "country_name": "Ukraine"
-    },
-    {
       "source": "BBC Middle East",
       "title": "Trump retreat over Hormuz tolls suggests he is struggling to end Iran war",
       "url": "https://www.bbc.co.uk/news/articles/crele3r8j19o?at_medium=RSS&at_campaign=rss",
@@ -834,7 +861,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 20
+      "news_count": 21
     },
     {
       "country_code": "RU",
@@ -857,6 +884,11 @@
       "news_count": 5
     },
     {
+      "country_code": "IT",
+      "country_name": "Italy",
+      "news_count": 5
+    },
+    {
       "country_code": "ES",
       "country_name": "Spain",
       "news_count": 4
@@ -864,11 +896,6 @@
     {
       "country_code": "IR",
       "country_name": "Iran",
-      "news_count": 4
-    },
-    {
-      "country_code": "IT",
-      "country_name": "Italy",
       "news_count": 4
     },
     {
@@ -897,6 +924,11 @@
       "news_count": 2
     },
     {
+      "country_code": "MX",
+      "country_name": "Mexico",
+      "news_count": 2
+    },
+    {
       "country_code": "PE",
       "country_name": "Peru",
       "news_count": 2
@@ -912,8 +944,8 @@
       "news_count": 2
     },
     {
-      "country_code": "UA",
-      "country_name": "Ukraine",
+      "country_code": "TH",
+      "country_name": "Thailand",
       "news_count": 2
     },
     {
@@ -957,23 +989,18 @@
       "news_count": 1
     },
     {
-      "country_code": "MX",
-      "country_name": "Mexico",
-      "news_count": 1
-    },
-    {
       "country_code": "NO",
       "country_name": "Norway",
       "news_count": 1
     },
     {
-      "country_code": "TH",
-      "country_name": "Thailand",
+      "country_code": "TW",
+      "country_name": "Taiwan",
       "news_count": 1
     },
     {
-      "country_code": "TW",
-      "country_name": "Taiwan",
+      "country_code": "UA",
+      "country_name": "Ukraine",
       "news_count": 1
     },
     {
