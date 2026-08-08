@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-08-08T18:27:58Z",
+  "generated_at": "2026-08-08T19:06:50Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Australia is the planet's extinction hotspot, but one animal offers a glimmer of hope",
+      "url": "https://www.bbc.co.uk/news/articles/c9q94lxqrzzo?at_medium=RSS&at_campaign=rss",
+      "summary": "The country is home to some of the world's most unique species - but it is losing them at an alarming rate.",
+      "published_at": "2026-08-08T19:00:22Z",
+      "country_code": "AU",
+      "country_name": "Australia"
+    },
     {
       "source": "BBC World",
       "title": "Fast-moving Canada wildfire doubles in size forcing thousands to flee homes",
@@ -954,6 +963,11 @@
       "news_count": 3
     },
     {
+      "country_code": "AU",
+      "country_name": "Australia",
+      "news_count": 2
+    },
+    {
       "country_code": "JP",
       "country_name": "Japan",
       "news_count": 2
@@ -992,11 +1006,6 @@
       "country_code": "ZA",
       "country_name": "South Africa",
       "news_count": 2
-    },
-    {
-      "country_code": "AU",
-      "country_name": "Australia",
-      "news_count": 1
     },
     {
       "country_code": "BD",
