@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T09:07:01Z",
+  "generated_at": "2026-08-08T10:00:28Z",
   "articles": [
     {
       "source": "BBC World",
@@ -117,6 +117,15 @@
       "published_at": "2026-08-07T15:38:28Z",
       "country_code": "MX",
       "country_name": "Mexico"
+    },
+    {
+      "source": "BBC Africa",
+      "title": "Barca cancel friendly in Morocco after Ceuta border crisis",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cn0nyrdq1r1o?at_medium=RSS&at_campaign=rss",
+      "summary": "Barcelona cancel pre-season friendly in Morocco because of the ongoing border crisis in Ceuta.",
+      "published_at": "2026-08-07T15:11:48Z",
+      "country_code": "MA",
+      "country_name": "Morocco"
     },
     {
       "source": "BBC US & Canada",
@@ -459,15 +468,6 @@
       "published_at": "2026-08-04T21:45:20Z",
       "country_code": "ES",
       "country_name": "Spain"
-    },
-    {
-      "source": "BBC Africa",
-      "title": "Le Clos' home destroyed by fire after he sets Commonwealths record",
-      "url": "https://www.bbc.co.uk/sport/swimming/articles/c141p18xl30o?at_medium=RSS&at_campaign=rss",
-      "summary": "Chad le Clos reveals his apartment in South Africa was destroyed by a fatal fire in a \"heartbreaking tragedy\" - the night after he became th…",
-      "published_at": "2026-08-04T21:44:59Z",
-      "country_code": "ZA",
-      "country_name": "South Africa"
     },
     {
       "source": "BBC Middle East",
@@ -945,13 +945,13 @@
       "news_count": 3
     },
     {
-      "country_code": "ZA",
-      "country_name": "South Africa",
-      "news_count": 3
-    },
-    {
       "country_code": "KR",
       "country_name": "South Korea",
+      "news_count": 2
+    },
+    {
+      "country_code": "MA",
+      "country_name": "Morocco",
       "news_count": 2
     },
     {
@@ -977,6 +977,11 @@
     {
       "country_code": "UA",
       "country_name": "Ukraine",
+      "news_count": 2
+    },
+    {
+      "country_code": "ZA",
+      "country_name": "South Africa",
       "news_count": 2
     },
     {
@@ -1017,11 +1022,6 @@
     {
       "country_code": "KE",
       "country_name": "Kenya",
-      "news_count": 1
-    },
-    {
-      "country_code": "MA",
-      "country_name": "Morocco",
       "news_count": 1
     },
     {
