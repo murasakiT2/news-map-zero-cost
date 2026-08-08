@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-08-08T20:16:22Z",
+  "generated_at": "2026-08-08T20:54:17Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Paris tells e-scooter riders to wear safety gear or face fines",
+      "url": "https://www.bbc.co.uk/news/articles/c89nkln7w7ko?at_medium=RSS&at_campaign=rss",
+      "summary": "Police in the French capital tighten rules for riders after a sharp increase in fatal accidents.",
+      "published_at": "2026-08-08T20:18:28Z",
+      "country_code": "FR",
+      "country_name": "France"
+    },
     {
       "source": "BBC World",
       "title": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
@@ -1039,6 +1048,11 @@
     {
       "country_code": "EG",
       "country_name": "Egypt",
+      "news_count": 1
+    },
+    {
+      "country_code": "FR",
+      "country_name": "France",
       "news_count": 1
     },
     {
