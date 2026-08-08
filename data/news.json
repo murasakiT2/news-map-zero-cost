@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-08-08T14:54:59Z",
+  "generated_at": "2026-08-08T15:18:40Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Typhoon Dolphin batters Japan's Okinawa before bearing down on China",
+      "url": "https://www.bbc.co.uk/news/articles/cvglp2zlvrlo?at_medium=RSS&at_campaign=rss",
+      "summary": "The storm has cut power to at least 44,000 buildings and injured five people on the Japanese island.",
+      "published_at": "2026-08-08T15:15:17Z",
+      "country_code": "JP",
+      "country_name": "Japan"
+    },
     {
       "source": "BBC World",
       "title": "Spain imposes border controls against Italy as row over Ceuta migrant influx intensifies",
@@ -74,7 +83,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "What is birthright citizenship and how common is birth tourism in the US?",
       "url": "https://www.bbc.co.uk/news/articles/cn9nz5qwl8jo?at_medium=RSS&at_campaign=rss",
       "summary": "The Trump administration is trying to restrict access to US citizenship for some people through attempts to end birth tourism and tighten ot…",
@@ -963,6 +972,11 @@
       "news_count": 3
     },
     {
+      "country_code": "JP",
+      "country_name": "Japan",
+      "news_count": 2
+    },
+    {
       "country_code": "KR",
       "country_name": "South Korea",
       "news_count": 2
@@ -1030,11 +1044,6 @@
     {
       "country_code": "GB",
       "country_name": "United Kingdom",
-      "news_count": 1
-    },
-    {
-      "country_code": "JP",
-      "country_name": "Japan",
       "news_count": 1
     },
     {
