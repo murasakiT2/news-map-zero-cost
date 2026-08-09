@@ -1,6 +1,33 @@
 {
-  "generated_at": "2026-08-09T12:27:07Z",
+  "generated_at": "2026-08-09T13:29:15Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Residents warned to brace for the worst as Canada wildfire rages out of control",
+      "url": "https://www.bbc.co.uk/news/articles/cx25dkwk3e3o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Bald Range wildfire in British Columbia, still considered \"out of control\", has spread over more than 39 sq miles (103 sq km).",
+      "published_at": "2026-08-09T13:08:21Z",
+      "country_code": "CA",
+      "country_name": "Canada"
+    },
+    {
+      "source": "BBC World",
+      "title": "Suspected crime boss Daniel Kinahan returning to Ireland in high-security operation",
+      "url": "https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Irish Prison Service bought a bulletproof and bombproof van to transport the 49-year-old to court after his extradition from Dubai.",
+      "published_at": "2026-08-09T12:39:18Z",
+      "country_code": "AE",
+      "country_name": "United Arab Emirates"
+    },
+    {
+      "source": "BBC World",
+      "title": "Ancient Roman shipwreck discovered off Sicily coast",
+      "url": "https://www.bbc.co.uk/news/articles/cvgx1kpz17go?at_medium=RSS&at_campaign=rss",
+      "summary": "Italy's culture minister says it is one of the most important underwater archaeological finds in years.",
+      "published_at": "2026-08-09T12:27:26Z",
+      "country_code": "IT",
+      "country_name": "Italy"
+    },
     {
       "source": "BBC World",
       "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
@@ -9,24 +36,6 @@
       "published_at": "2026-08-09T12:12:10Z",
       "country_code": "IL",
       "country_name": "Israel"
-    },
-    {
-      "source": "BBC World",
-      "title": "Suspected crime boss Daniel Kinahan returning to Ireland in high-security operation",
-      "url": "https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&at_campaign=rss",
-      "summary": "The Irish Prison Service bought a bulletproof and bombproof van to transport the 49-year-old to court after his extradition from Dubai.",
-      "published_at": "2026-08-09T10:02:52Z",
-      "country_code": "AE",
-      "country_name": "United Arab Emirates"
-    },
-    {
-      "source": "BBC World",
-      "title": "State of emergency declared as fast-moving Canada wildfire doubles in size",
-      "url": "https://www.bbc.co.uk/news/articles/cx25dkwk3e3o?at_medium=RSS&at_campaign=rss",
-      "summary": "The Bald Range wildfire in British Columbia, still considered \"out of control\", has spread over more than 36 sq miles (95 sq km).",
-      "published_at": "2026-08-09T06:46:40Z",
-      "country_code": "CA",
-      "country_name": "Canada"
     },
     {
       "source": "BBC World",
@@ -969,6 +978,11 @@
       "news_count": 6
     },
     {
+      "country_code": "IT",
+      "country_name": "Italy",
+      "news_count": 6
+    },
+    {
       "country_code": "PS",
       "country_name": "Palestine",
       "news_count": 6
@@ -981,11 +995,6 @@
     {
       "country_code": "IR",
       "country_name": "Iran",
-      "news_count": 5
-    },
-    {
-      "country_code": "IT",
-      "country_name": "Italy",
       "news_count": 5
     },
     {
