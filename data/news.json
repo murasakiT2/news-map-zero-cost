@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-08-09T09:08:15Z",
+  "generated_at": "2026-08-09T10:02:05Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Suspected crime boss Daniel Kinahan to be returned to Ireland in high-security operation",
+      "url": "https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Irish Prison Service bought a bulletproof and bomb-proof van to transport the 49-year-old to court after his extradition from Dubai.",
+      "published_at": "2026-08-09T08:50:14Z",
+      "country_code": "AE",
+      "country_name": "United Arab Emirates"
+    },
     {
       "source": "BBC World",
       "title": "State of emergency declared as fast-moving Canada wildfire doubles in size",
@@ -29,7 +38,7 @@
       "country_name": "India"
     },
     {
-      "source": "BBC Africa",
+      "source": "BBC World",
       "title": "Nigeria's mass wedding - and how telling lovers from fraudsters is proving tricky",
       "url": "https://www.bbc.co.uk/news/articles/cqx7q17531do?at_medium=RSS&at_campaign=rss",
       "summary": "The scheme is for couples who cannot afford the significant financial costs associated with marriage.",
@@ -111,24 +120,6 @@
     },
     {
       "source": "BBC World",
-      "title": "Scale of devastation shocks US city's fire-seasoned residents",
-      "url": "https://www.bbc.co.uk/news/articles/cvglpvgljzdo?at_medium=RSS&at_campaign=rss",
-      "summary": "One Spokane resident tells the BBC she realised the immense danger when she heard the fire had jumped over the river.",
-      "published_at": "2026-08-08T00:51:16Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "'I ran because I knew I would die': Russian drones target medics in Ukraine",
-      "url": "https://www.bbc.co.uk/news/articles/c3r073eqvrjo?at_medium=RSS&at_campaign=rss",
-      "summary": "Ukrainian emergency workers warn of growing Russian attacks on hospitals and ambulances.",
-      "published_at": "2026-08-08T00:02:49Z",
-      "country_code": "UA",
-      "country_name": "Ukraine"
-    },
-    {
-      "source": "BBC World",
       "title": "The phone book that led us to Assad's spy chief in hiding",
       "url": "https://www.bbc.co.uk/news/articles/c4gyrzn8p94o?at_medium=RSS&at_campaign=rss",
       "summary": "How we tracked down \"The Spider\" who was once one of the most-feared men in Syria.",
@@ -180,6 +171,15 @@
       "published_at": "2026-08-07T17:41:30Z",
       "country_code": "US",
       "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "What we know so far about the deadly Thailand shooting",
+      "url": "https://www.bbc.co.uk/news/videos/c70glx1ww78o?at_medium=RSS&at_campaign=rss",
+      "summary": "At least seven people have died after a teenage boy shot his grandparents before opening fire on a school in Bangkok.",
+      "published_at": "2026-08-07T17:17:36Z",
+      "country_code": "TH",
+      "country_name": "Thailand"
     },
     {
       "source": "BBC US & Canada",
@@ -254,7 +254,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "German airport drone-bomb: Could Russia be involved?",
       "url": "https://www.bbc.co.uk/news/articles/ckgdmrxxkdxo?at_medium=RSS&at_campaign=rss",
       "summary": "The BBC has seen evidence from previous cases that Russian-linked proxies not only handled drones and explosives, but also delivered them to…",
@@ -263,7 +263,7 @@
       "country_name": "Russia"
     },
     {
-      "source": "BBC Asia",
+      "source": "BBC World",
       "title": "Moment earthquake shakes hospital operating room in Japan",
       "url": "https://www.bbc.co.uk/news/videos/c1j1eg31y6no?at_medium=RSS&at_campaign=rss",
       "summary": "Security camera footage shows doctors shielding a patient on the operating table as last month's magnitude 6.8 quake shook Kumamoto General …",
@@ -299,7 +299,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Africa",
       "title": "Sudan's invisible children - born in war with no legal identity",
       "url": "https://www.bbc.co.uk/news/articles/cr7kldz4djno?at_medium=RSS&at_campaign=rss",
       "summary": "Babies born as a result of rape are often unable to get a birth certificate, meaning a life-time of problems.",
@@ -942,7 +942,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 27
+      "news_count": 26
     },
     {
       "country_code": "RU",
@@ -1020,14 +1020,14 @@
       "news_count": 2
     },
     {
-      "country_code": "UA",
-      "country_name": "Ukraine",
-      "news_count": 2
-    },
-    {
       "country_code": "ZA",
       "country_name": "South Africa",
       "news_count": 2
+    },
+    {
+      "country_code": "AE",
+      "country_name": "United Arab Emirates",
+      "news_count": 1
     },
     {
       "country_code": "BD",
@@ -1080,8 +1080,18 @@
       "news_count": 1
     },
     {
+      "country_code": "TH",
+      "country_name": "Thailand",
+      "news_count": 1
+    },
+    {
       "country_code": "TW",
       "country_name": "Taiwan",
+      "news_count": 1
+    },
+    {
+      "country_code": "UA",
+      "country_name": "Ukraine",
       "news_count": 1
     },
     {
