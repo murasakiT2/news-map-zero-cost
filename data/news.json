@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-08-09T11:54:28Z",
+  "generated_at": "2026-08-09T12:27:07Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
+      "url": "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss",
+      "summary": "Israel's PM says its military will not pull-out from Gaza until Hamas is \"genuinely\" disarmed.",
+      "published_at": "2026-08-09T12:12:10Z",
+      "country_code": "IL",
+      "country_name": "Israel"
+    },
     {
       "source": "BBC World",
       "title": "Suspected crime boss Daniel Kinahan returning to Ireland in high-security operation",
@@ -92,7 +101,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "Trump's ex-lawyer Todd Blanche narrowly confirmed as US attorney general",
       "url": "https://www.bbc.co.uk/news/articles/cewr898jy8go?at_medium=RSS&at_campaign=rss",
       "summary": "The vote cements Trump's former criminal defence lawyer as the nation's top law enforcement official despite a rare pushback from some Repub…",
@@ -952,7 +961,7 @@
     {
       "country_code": "IL",
       "country_name": "Israel",
-      "news_count": 6
+      "news_count": 7
     },
     {
       "country_code": "IN",
