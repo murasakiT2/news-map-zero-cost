@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-08-09T04:12:08Z",
+  "generated_at": "2026-08-09T05:27:19Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Perez Hilton faces long recovery after self-harm livestream",
+      "url": "https://www.bbc.co.uk/news/articles/cg5lnqjz497o?at_medium=RSS&at_campaign=rss",
+      "summary": "The US blogger is in a \"serious but stable\" condition in hospital, according to his family.",
+      "published_at": "2026-08-09T04:32:06Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "How a schoolteacher's son became Kashmir's first India Test cricketer",
+      "url": "https://www.bbc.co.uk/news/articles/c2elpkg1l0jo?at_medium=RSS&at_campaign=rss",
+      "summary": "Auqib Nabi becomes Jammu and Kashmir's first cricketer to get India Test call-up, inspiring millions.",
+      "published_at": "2026-08-09T03:00:44Z",
+      "country_code": "IN",
+      "country_name": "India"
+    },
     {
       "source": "BBC Africa",
       "title": "Nigeria's mass wedding - and how telling lovers from fraudsters is proving tricky",
@@ -12,21 +30,21 @@
     },
     {
       "source": "BBC World",
+      "title": "Israel accused of weaponising archaeology at ancient West Bank sites",
+      "url": "https://www.bbc.co.uk/news/articles/c20d8qre98do?at_medium=RSS&at_campaign=rss",
+      "summary": "Israel is planning large-scale land expropriations in historic, Palestinian areas of the West Bank.",
+      "published_at": "2026-08-08T23:43:44Z",
+      "country_code": "IL",
+      "country_name": "Israel"
+    },
+    {
+      "source": "BBC World",
       "title": "Fast-moving Canada wildfire doubles in size forcing thousands to flee homes",
       "url": "https://www.bbc.co.uk/news/articles/cx25dkwk3e3o?at_medium=RSS&at_campaign=rss",
       "summary": "The Bald Range wildfire in British Columbia, still considered \"out of control\", has spread to more than 36 sq miles (95 sq km).",
       "published_at": "2026-08-08T22:01:54Z",
       "country_code": "CA",
       "country_name": "Canada"
-    },
-    {
-      "source": "BBC World",
-      "title": "Paris tells e-scooter riders to wear safety gear or face fines",
-      "url": "https://www.bbc.co.uk/news/articles/c89nkln7w7ko?at_medium=RSS&at_campaign=rss",
-      "summary": "Police in the French capital tighten rules for riders after a sharp increase in fatal accidents.",
-      "published_at": "2026-08-08T20:18:28Z",
-      "country_code": "FR",
-      "country_name": "France"
     },
     {
       "source": "BBC World",
@@ -164,15 +182,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
-      "title": "What we know so far about the deadly Thailand shooting",
-      "url": "https://www.bbc.co.uk/news/videos/c70glx1ww78o?at_medium=RSS&at_campaign=rss",
-      "summary": "At least seven people have died after a teenage boy shot his grandparents before opening fire on a school in Bangkok.",
-      "published_at": "2026-08-07T17:17:36Z",
-      "country_code": "TH",
-      "country_name": "Thailand"
-    },
-    {
       "source": "BBC US & Canada",
       "title": "US Senator Cassidy will vote to confirm Blanche for AG, likely saving teetering nomination",
       "url": "https://www.bbc.co.uk/news/articles/c0kme3114xko?at_medium=RSS&at_campaign=rss",
@@ -254,7 +263,7 @@
       "country_name": "Russia"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "Moment earthquake shakes hospital operating room in Japan",
       "url": "https://www.bbc.co.uk/news/videos/c1j1eg31y6no?at_medium=RSS&at_campaign=rss",
       "summary": "Security camera footage shows doctors shielding a patient on the operating table as last month's magnitude 6.8 quake shook Kumamoto General …",
@@ -933,12 +942,22 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 26
+      "news_count": 27
     },
     {
       "country_code": "RU",
       "country_name": "Russia",
       "news_count": 9
+    },
+    {
+      "country_code": "IL",
+      "country_name": "Israel",
+      "news_count": 6
+    },
+    {
+      "country_code": "IN",
+      "country_name": "India",
+      "news_count": 6
     },
     {
       "country_code": "PS",
@@ -948,16 +967,6 @@
     {
       "country_code": "ES",
       "country_name": "Spain",
-      "news_count": 5
-    },
-    {
-      "country_code": "IL",
-      "country_name": "Israel",
-      "news_count": 5
-    },
-    {
-      "country_code": "IN",
-      "country_name": "India",
       "news_count": 5
     },
     {
@@ -1046,11 +1055,6 @@
       "news_count": 1
     },
     {
-      "country_code": "FR",
-      "country_name": "France",
-      "news_count": 1
-    },
-    {
       "country_code": "GB",
       "country_name": "United Kingdom",
       "news_count": 1
@@ -1073,11 +1077,6 @@
     {
       "country_code": "PE",
       "country_name": "Peru",
-      "news_count": 1
-    },
-    {
-      "country_code": "TH",
-      "country_name": "Thailand",
       "news_count": 1
     },
     {
