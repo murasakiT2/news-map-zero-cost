@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T13:29:15Z",
+  "generated_at": "2026-08-09T14:06:11Z",
   "articles": [
     {
       "source": "BBC World",
@@ -443,6 +443,15 @@
       "country_name": "United States"
     },
     {
+      "source": "BBC Europe",
+      "title": "What tariffs has Trump introduced and why?",
+      "url": "https://www.bbc.co.uk/news/articles/cn93e12rypgo?at_medium=RSS&at_campaign=rss",
+      "summary": "Trump's volatile trade policy has thrown the world economy into chaos, and put some US prices up.",
+      "published_at": "2026-08-05T22:47:45Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
       "source": "BBC Asia",
       "title": "Ex-leader Hasina gambles on return to Bangladesh despite death penalty",
       "url": "https://www.bbc.co.uk/news/articles/cvg9j8820v6o?at_medium=RSS&at_campaign=rss",
@@ -686,15 +695,6 @@
       "country_name": "Iran"
     },
     {
-      "source": "BBC Europe",
-      "title": "Steve Rosenberg at the Moscow restaurant where bomb killed three",
-      "url": "https://www.bbc.co.uk/news/articles/cdx8qp451lko?at_medium=RSS&at_campaign=rss",
-      "summary": "The BBC's Russia editor reports from Kudrinskaya Square, where the blast took place.",
-      "published_at": "2026-08-03T03:53:05Z",
-      "country_code": "RU",
-      "country_name": "Russia"
-    },
-    {
       "source": "BBC Middle East",
       "title": "At least 13 killed in Israeli strikes on Gaza after Hamas agree disarmament deal",
       "url": "https://www.bbc.co.uk/news/articles/czjlvvkzj20o?at_medium=RSS&at_campaign=rss",
@@ -729,15 +729,6 @@
       "published_at": "2026-08-02T00:29:55Z",
       "country_code": "PE",
       "country_name": "Peru"
-    },
-    {
-      "source": "BBC Europe",
-      "title": "Italy putting nearly all major cities on highest heat alert",
-      "url": "https://www.bbc.co.uk/news/articles/cr7k4gdrgljo?at_medium=RSS&at_campaign=rss",
-      "summary": "Some 19 major Italian cities - including Rome, Milan and Naples - are already on red alert, and by Monday all but two will be.",
-      "published_at": "2026-08-01T17:51:46Z",
-      "country_code": "IT",
-      "country_name": "Italy"
     },
     {
       "source": "BBC Middle East",
@@ -903,15 +894,6 @@
     },
     {
       "source": "BBC Middle East",
-      "title": "Trump's nuclear deal with Saudis jettisons longstanding US demands",
-      "url": "https://www.bbc.co.uk/news/articles/cz05lx0xpero?at_medium=RSS&at_campaign=rss",
-      "summary": "Signing a nuclear pact in the Middle East is a bold move that has drawn criticism in the US and in Israel.",
-      "published_at": "2026-07-23T12:58:40Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC Middle East",
       "title": "'What was their crime?': BBC visits Iran school where strike killed 120 children",
       "url": "https://www.bbc.co.uk/news/articles/cewrx0ldlkko?at_medium=RSS&at_campaign=rss",
       "summary": "Nearly five months on, grief is still raw as a teacher and a mother recall the horror of the attack in Minab.",
@@ -925,15 +907,6 @@
       "url": "https://www.bbc.co.uk/news/videos/cvg841yw7keo?at_medium=RSS&at_campaign=rss",
       "summary": "The BBC's Kayla Epstein was inside the courtroom as a judge set the start date for the ousted Venezuelan president's trial in the US.",
       "published_at": "2026-07-22T22:16:07Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC Middle East",
-      "title": "Why Iran is risking so much over the Strait of Hormuz",
-      "url": "https://www.bbc.co.uk/news/articles/cwymx3eevpjo?at_medium=RSS&at_campaign=rss",
-      "summary": "None of the choices facing Iran’s leaders offer a clear path to victory, as the conflict with the US continues.",
-      "published_at": "2026-07-21T14:36:47Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -960,12 +933,12 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 26
+      "news_count": 25
     },
     {
       "country_code": "RU",
       "country_name": "Russia",
-      "news_count": 9
+      "news_count": 8
     },
     {
       "country_code": "IL",
@@ -975,11 +948,6 @@
     {
       "country_code": "IN",
       "country_name": "India",
-      "news_count": 6
-    },
-    {
-      "country_code": "IT",
-      "country_name": "Italy",
       "news_count": 6
     },
     {
@@ -995,6 +963,11 @@
     {
       "country_code": "IR",
       "country_name": "Iran",
+      "news_count": 5
+    },
+    {
+      "country_code": "IT",
+      "country_name": "Italy",
       "news_count": 5
     },
     {
