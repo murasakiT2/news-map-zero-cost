@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-08-10T05:00:51Z",
+  "generated_at": "2026-08-10T06:48:16Z",
   "articles": [
+    {
+      "source": "BBC Asia",
+      "title": "China evacuates one million from homes as massive storm arrives",
+      "url": "https://www.bbc.co.uk/news/articles/cx2rgzyplg2o?at_medium=RSS&at_campaign=rss",
+      "summary": "Typhoon Dolphin has made landfall, bringing strong winds and heavy rain across eastern China including Shanghai.",
+      "published_at": "2026-08-10T06:15:13Z",
+      "country_code": "CN",
+      "country_name": "China"
+    },
+    {
+      "source": "BBC Asia",
+      "title": "'Body in suitcase' found in Australia turns out to be lifelike doll",
+      "url": "https://www.bbc.co.uk/news/articles/clyqg4w3gz9o?at_medium=RSS&at_campaign=rss",
+      "summary": "Forensics revealed that the 'realistic' looking body was in fact not human.",
+      "published_at": "2026-08-10T05:16:40Z",
+      "country_code": "AU",
+      "country_name": "Australia"
+    },
     {
       "source": "BBC World",
       "title": "Residents warned to brace for the worst as Canada wildfire rages out of control",
@@ -12,21 +30,21 @@
     },
     {
       "source": "BBC Asia",
-      "title": "China evacuates one million from homes as massive storm arrives",
-      "url": "https://www.bbc.co.uk/news/articles/cx2rgzyplg2o?at_medium=RSS&at_campaign=rss",
-      "summary": "Typhoon Dolphin has made landfall, bringing strong winds and heavy rain across eastern China including Shanghai.",
-      "published_at": "2026-08-10T03:15:21Z",
-      "country_code": "CN",
-      "country_name": "China"
-    },
-    {
-      "source": "BBC Asia",
-      "title": "Why nine million were removed from a landmark Indian cash scheme for women",
+      "title": "An Indian cash scheme for women drops nine million - 29,000 were men",
       "url": "https://www.bbc.co.uk/news/articles/c0ejxe0q3q4o?at_medium=RSS&at_campaign=rss",
       "summary": "India's largest cash-transfer scheme for women in Maharashtra state is facing scrutiny over alleged lapses.",
       "published_at": "2026-08-10T00:39:14Z",
       "country_code": "IN",
       "country_name": "India"
+    },
+    {
+      "source": "BBC Africa",
+      "title": "African quartet secure Women's World Cup places",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c4gw456e3xxo?at_medium=RSS&at_campaign=rss",
+      "summary": "Algeria, Morocco, Cameroon and Malawi all qualify for the 2027 Women's World Cup in Brazil by reaching the semi-finals of the Women's Africa…",
+      "published_at": "2026-08-09T22:06:43Z",
+      "country_code": "DZ",
+      "country_name": "Algeria"
     },
     {
       "source": "BBC World",
@@ -254,15 +272,6 @@
       "country_name": "Mexico"
     },
     {
-      "source": "BBC Africa",
-      "title": "Barca cancel friendly in Morocco after Ceuta border crisis",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cn0nyrdq1r1o?at_medium=RSS&at_campaign=rss",
-      "summary": "Barcelona cancel pre-season friendly in Morocco because of the ongoing border crisis in Ceuta.",
-      "published_at": "2026-08-07T15:11:48Z",
-      "country_code": "MA",
-      "country_name": "Morocco"
-    },
-    {
       "source": "BBC US & Canada",
       "title": "Surprise fall in US jobs last month as slow summer continues",
       "url": "https://www.bbc.co.uk/news/articles/c20j5rle717o?at_medium=RSS&at_campaign=rss",
@@ -452,15 +461,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Asia",
-      "title": "Youth protests have weakened Modi, Indian activist who went on hunger strike tells BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cn7nkyr1j7ro?at_medium=RSS&at_campaign=rss",
-      "summary": "The \"cockroach\" movement was one of the biggest public displays of dissent against India's prime minister in years.",
-      "published_at": "2026-08-05T18:38:46Z",
-      "country_code": "IN",
-      "country_name": "India"
-    },
-    {
       "source": "BBC Europe",
       "title": "After deadly Kyiv strike, Ukraine warns interceptor shortage is costing lives",
       "url": "https://www.bbc.co.uk/news/articles/cyvlgq2gp2eo?at_medium=RSS&at_campaign=rss",
@@ -477,15 +477,6 @@
       "published_at": "2026-08-05T15:43:45Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC Africa",
-      "title": "South Africa plans new rules on ex-leaders' foreign trips after Zuma's visit to India",
-      "url": "https://www.bbc.co.uk/news/articles/c1e14lj7vg7o?at_medium=RSS&at_campaign=rss",
-      "summary": "Jacob Zuma was pictured with a businessmen allegedly at the heart of a corruption scandal in South Africa",
-      "published_at": "2026-08-05T14:58:41Z",
-      "country_code": "IN",
-      "country_name": "India"
     },
     {
       "source": "BBC Middle East",
@@ -919,11 +910,6 @@
       "news_count": 7
     },
     {
-      "country_code": "IN",
-      "country_name": "India",
-      "news_count": 6
-    },
-    {
       "country_code": "PS",
       "country_name": "Palestine",
       "news_count": 6
@@ -944,9 +930,19 @@
       "news_count": 5
     },
     {
+      "country_code": "IN",
+      "country_name": "India",
+      "news_count": 4
+    },
+    {
       "country_code": "NG",
       "country_name": "Nigeria",
       "news_count": 4
+    },
+    {
+      "country_code": "AU",
+      "country_name": "Australia",
+      "news_count": 3
     },
     {
       "country_code": "SA",
@@ -956,11 +952,6 @@
     {
       "country_code": "AE",
       "country_name": "United Arab Emirates",
-      "news_count": 2
-    },
-    {
-      "country_code": "AU",
-      "country_name": "Australia",
       "news_count": 2
     },
     {
@@ -1004,6 +995,11 @@
       "news_count": 1
     },
     {
+      "country_code": "DZ",
+      "country_name": "Algeria",
+      "news_count": 1
+    },
+    {
       "country_code": "EG",
       "country_name": "Egypt",
       "news_count": 1
@@ -1021,11 +1017,6 @@
     {
       "country_code": "KR",
       "country_name": "South Korea",
-      "news_count": 1
-    },
-    {
-      "country_code": "MA",
-      "country_name": "Morocco",
       "news_count": 1
     },
     {
