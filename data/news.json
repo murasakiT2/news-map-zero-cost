@@ -1,21 +1,48 @@
 {
-  "generated_at": "2026-08-10T14:12:00Z",
+  "generated_at": "2026-08-10T15:28:10Z",
   "articles": [
     {
       "source": "BBC Latin America",
-      "title": "Strong earthquake causes significant damage and injuries in Colombia",
+      "title": "Deadly earthquake hits Colombia, causing buildings to collapse",
       "url": "https://www.bbc.co.uk/news/articles/c20e360lx0vo?at_medium=RSS&at_campaign=rss",
-      "summary": "The magnitude-7.4 quake had its epicentre near a village on the Pacific Coast.",
-      "published_at": "2026-08-10T13:54:53Z",
+      "summary": "The magnitude-7.4 quake had its epicentre near the Pacific Coast but could be felt in cities hundreds of kilometres away.",
+      "published_at": "2026-08-10T15:19:13Z",
       "country_code": "CO",
       "country_name": "Colombia"
+    },
+    {
+      "source": "BBC Africa",
+      "title": "Kenya bids to host 2029 World Athletics Championships",
+      "url": "https://www.bbc.co.uk/sport/athletics/articles/czekx3jlegro?at_medium=RSS&at_campaign=rss",
+      "summary": "Kenya submits a bid to host the 2029 World Athletics Championships as it seeks to become the first African nation to stage the flagship even…",
+      "published_at": "2026-08-10T15:09:01Z",
+      "country_code": "KE",
+      "country_name": "Kenya"
+    },
+    {
+      "source": "BBC World",
+      "title": "Netanyahu's rejection of Trump's 15-point Gaza plan unlikely to be final word",
+      "url": "https://www.bbc.co.uk/news/articles/ce3q5282ep3o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Trump administration is said to be unbothered by the Israeli prime minister's rejection of the deal, viewing it as campaign rhetoric ahe…",
+      "published_at": "2026-08-10T14:43:08Z",
+      "country_code": "PS",
+      "country_name": "Palestine"
+    },
+    {
+      "source": "BBC World",
+      "title": "Watch: What we know about suspected crime boss Daniel Kinahan",
+      "url": "https://www.bbc.co.uk/news/videos/cm2g97nnr5go?at_medium=RSS&at_campaign=rss",
+      "summary": "Suspected crime boss Daniel Kinahan, one of the world's most wanted men, has spent his first night in custody in Ireland after being extradi…",
+      "published_at": "2026-08-10T14:34:49Z",
+      "country_code": "AE",
+      "country_name": "United Arab Emirates"
     },
     {
       "source": "BBC World",
       "title": "At least 13 killed in Ukrainian drone strike deep into Russia",
       "url": "https://www.bbc.co.uk/news/articles/cvgjvgv926po?at_medium=RSS&at_campaign=rss",
-      "summary": "Russian officials say another 75 people were injured by the attack in the Tatarstan region, one of the deadliest Ukrainian drone attacks on …",
-      "published_at": "2026-08-10T12:54:13Z",
+      "summary": "Russian officials say another 75 people were injured by the attack - one of the deadliest Ukrainian drone attacks since Moscow's full-scale …",
+      "published_at": "2026-08-10T14:34:25Z",
       "country_code": "RU",
       "country_name": "Russia"
     },
@@ -38,7 +65,7 @@
       "country_name": "Colombia"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "India police fire tear gas at protesters seeking exam reforms",
       "url": "https://www.bbc.co.uk/news/articles/c89nkz4vjyxo?at_medium=RSS&at_campaign=rss",
       "summary": "Thousands of students and job seekers have gathered in Jharkhand state, weeks after the \"cockroach\" protests took place in Delhi.",
@@ -90,6 +117,15 @@
       "published_at": "2026-08-10T00:39:14Z",
       "country_code": "IN",
       "country_name": "India"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "'Not afraid to stay': The Canadians who want to change how wildfires are fought",
+      "url": "https://www.bbc.co.uk/news/articles/c20d89jxpqno?at_medium=RSS&at_campaign=rss",
+      "summary": "With wildfires now widespread and frequent, some rural residents in Canada are learning how to fight the flames themselves and protect their…",
+      "published_at": "2026-08-09T23:02:39Z",
+      "country_code": "CA",
+      "country_name": "Canada"
     },
     {
       "source": "BBC Africa",
@@ -254,15 +290,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
-      "title": "What we know so far about the deadly Thailand shooting",
-      "url": "https://www.bbc.co.uk/news/videos/c70glx1ww78o?at_medium=RSS&at_campaign=rss",
-      "summary": "At least seven people have died after a teenage boy shot his grandparents before opening fire on a school in Bangkok.",
-      "published_at": "2026-08-07T17:17:36Z",
-      "country_code": "TH",
-      "country_name": "Thailand"
-    },
-    {
       "source": "BBC Europe",
       "title": "Spanish police arrest 78 people in bust of 'one of largest' smuggling networks",
       "url": "https://www.bbc.co.uk/news/articles/clylejzkkx4o?at_medium=RSS&at_campaign=rss",
@@ -423,15 +450,6 @@
       "published_at": "2026-08-05T22:47:45Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC Europe",
-      "title": "Watch: 'Scariest night' as Ukraine fails to intercept Russian attack",
-      "url": "https://www.bbc.co.uk/news/videos/clyxdgx7m8no?at_medium=RSS&at_campaign=rss",
-      "summary": "Kyiv's depleted air defences meant many of the missiles were not intercepted - like the one that hit Anastasiia's home.",
-      "published_at": "2026-08-05T19:00:32Z",
-      "country_code": "UA",
-      "country_name": "Ukraine"
     },
     {
       "source": "BBC US & Canada",
@@ -740,15 +758,6 @@
       "country_name": "Russia"
     },
     {
-      "source": "BBC Middle East",
-      "title": "'What was their crime?': BBC visits Iran school where strike killed 120 children",
-      "url": "https://www.bbc.co.uk/news/articles/cewrx0ldlkko?at_medium=RSS&at_campaign=rss",
-      "summary": "Nearly five months on, grief is still raw as a teacher and a mother recall the horror of the attack in Minab.",
-      "published_at": "2026-07-23T04:49:24Z",
-      "country_code": "IR",
-      "country_name": "Iran"
-    },
-    {
       "source": "BBC Latin America",
       "title": "Watch: What it was like inside Maduro's court hearing",
       "url": "https://www.bbc.co.uk/news/videos/cvg841yw7keo?at_medium=RSS&at_campaign=rss",
@@ -799,12 +808,7 @@
     {
       "country_code": "PS",
       "country_name": "Palestine",
-      "news_count": 6
-    },
-    {
-      "country_code": "IR",
-      "country_name": "Iran",
-      "news_count": 5
+      "news_count": 7
     },
     {
       "country_code": "NG",
@@ -822,6 +826,16 @@
       "news_count": 4
     },
     {
+      "country_code": "IR",
+      "country_name": "Iran",
+      "news_count": 4
+    },
+    {
+      "country_code": "AE",
+      "country_name": "United Arab Emirates",
+      "news_count": 3
+    },
+    {
       "country_code": "AU",
       "country_name": "Australia",
       "news_count": 3
@@ -837,8 +851,8 @@
       "news_count": 3
     },
     {
-      "country_code": "AE",
-      "country_name": "United Arab Emirates",
+      "country_code": "CA",
+      "country_name": "Canada",
       "news_count": 2
     },
     {
@@ -849,6 +863,11 @@
     {
       "country_code": "JP",
       "country_name": "Japan",
+      "news_count": 2
+    },
+    {
+      "country_code": "KE",
+      "country_name": "Kenya",
       "news_count": 2
     },
     {
@@ -867,19 +886,9 @@
       "news_count": 2
     },
     {
-      "country_code": "UA",
-      "country_name": "Ukraine",
-      "news_count": 2
-    },
-    {
       "country_code": "ZA",
       "country_name": "South Africa",
       "news_count": 2
-    },
-    {
-      "country_code": "CA",
-      "country_name": "Canada",
-      "news_count": 1
     },
     {
       "country_code": "CL",
@@ -907,11 +916,6 @@
       "news_count": 1
     },
     {
-      "country_code": "KE",
-      "country_name": "Kenya",
-      "news_count": 1
-    },
-    {
       "country_code": "KR",
       "country_name": "South Korea",
       "news_count": 1
@@ -927,13 +931,13 @@
       "news_count": 1
     },
     {
-      "country_code": "TH",
-      "country_name": "Thailand",
+      "country_code": "TW",
+      "country_name": "Taiwan",
       "news_count": 1
     },
     {
-      "country_code": "TW",
-      "country_name": "Taiwan",
+      "country_code": "UA",
+      "country_name": "Ukraine",
       "news_count": 1
     },
     {
