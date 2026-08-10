@@ -1,12 +1,21 @@
 {
-  "generated_at": "2026-08-10T17:16:15Z",
+  "generated_at": "2026-08-10T18:10:00Z",
   "articles": [
     {
+      "source": "BBC World",
+      "title": "We are chasing Ebola virus - it is ahead of us, WHO warns",
+      "url": "https://www.bbc.co.uk/news/articles/c5ydx7m8gzeo?at_medium=RSS&at_campaign=rss",
+      "summary": "Infection rates are high, adding to concern that authorities are struggling to get to grips with the disease.",
+      "published_at": "2026-08-10T17:50:29Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
       "source": "BBC Latin America",
-      "title": "Dozens killed as earthquake hits Colombia, causing buildings to collapse",
+      "title": "More than 70 killed in Colombia earthquake as national disaster declared",
       "url": "https://www.bbc.co.uk/news/articles/c20e360lx0vo?at_medium=RSS&at_campaign=rss",
       "summary": "The magnitude-7.4 quake had its epicentre in Chocó province, near the Pacific Coast, but could be felt in cities hundreds of kilometres away…",
-      "published_at": "2026-08-10T17:10:35Z",
+      "published_at": "2026-08-10T17:30:22Z",
       "country_code": "CO",
       "country_name": "Colombia"
     },
@@ -92,7 +101,7 @@
       "country_name": "India"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "Suspected crime boss Kinahan spends first night in custody in Ireland",
       "url": "https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&at_campaign=rss",
       "summary": "The Irish Prison Service bought a bulletproof and bombproof van to transport the 49-year-old to court after his extradition from Dubai.",
@@ -119,7 +128,7 @@
       "country_name": "Australia"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "Residents warned to brace for the worst as Canada wildfire rages out of control",
       "url": "https://www.bbc.co.uk/news/articles/cx25dkwk3e3o?at_medium=RSS&at_campaign=rss",
       "summary": "One person has died in the Bald Range wildfire in British Columbia which has spread over 53 sq miles.",
@@ -164,7 +173,7 @@
       "country_name": "United Arab Emirates"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Middle East",
       "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
       "url": "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss",
       "summary": "Israel's PM says its military will not pull out from Gaza until Hamas is \"genuinely\" disarmed.",
@@ -173,7 +182,7 @@
       "country_name": "Israel"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "Ancient Roman shipwreck discovered off Sicily coast",
       "url": "https://www.bbc.co.uk/news/articles/cvgx1kpz17go?at_medium=RSS&at_campaign=rss",
       "summary": "Italy's culture minister says it is one of the most important underwater archaeological finds in years.",
@@ -798,7 +807,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 16
+      "news_count": 17
     },
     {
       "country_code": "IL",
