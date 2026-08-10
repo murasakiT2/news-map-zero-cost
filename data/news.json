@@ -1,14 +1,23 @@
 {
-  "generated_at": "2026-08-10T16:21:49Z",
+  "generated_at": "2026-08-10T17:16:15Z",
   "articles": [
     {
       "source": "BBC Latin America",
-      "title": "Deadly earthquake hits Colombia, causing buildings to collapse",
+      "title": "Dozens killed as earthquake hits Colombia, causing buildings to collapse",
       "url": "https://www.bbc.co.uk/news/articles/c20e360lx0vo?at_medium=RSS&at_campaign=rss",
       "summary": "The magnitude-7.4 quake had its epicentre in Chocó province, near the Pacific Coast, but could be felt in cities hundreds of kilometres away…",
-      "published_at": "2026-08-10T16:10:59Z",
+      "published_at": "2026-08-10T17:10:35Z",
       "country_code": "CO",
       "country_name": "Colombia"
+    },
+    {
+      "source": "BBC World",
+      "title": "'Total incinerated destruction': Canada wildfire evacuees wonder if they still have homes",
+      "url": "https://www.bbc.co.uk/news/articles/cx2lwv032j9o?at_medium=RSS&at_campaign=rss",
+      "summary": "More than 12,000 people have been forced to evacuate over the weekend after a wildfire quickly tore through Canada's picturesque Okanagan re…",
+      "published_at": "2026-08-10T16:10:56Z",
+      "country_code": "CA",
+      "country_name": "Canada"
     },
     {
       "source": "BBC World",
@@ -268,15 +277,6 @@
       "url": "https://www.bbc.co.uk/news/articles/cn9nz5qwl8jo?at_medium=RSS&at_campaign=rss",
       "summary": "The Trump administration is trying to restrict access to US citizenship for some people through attempts to end birth tourism and tighten ot…",
       "published_at": "2026-08-07T21:09:51Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "Coroners try to identify dozens of bodies kept in 'deplorable conditions' at US funeral home",
-      "url": "https://www.bbc.co.uk/news/articles/c86nv0elnzlo?at_medium=RSS&at_campaign=rss",
-      "summary": "The medical examiner's office in Chicago said the process to identify the remains could take days.",
-      "published_at": "2026-08-07T20:58:14Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -798,7 +798,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 17
+      "news_count": 16
     },
     {
       "country_code": "IL",
@@ -841,6 +841,11 @@
       "news_count": 3
     },
     {
+      "country_code": "CA",
+      "country_name": "Canada",
+      "news_count": 3
+    },
+    {
       "country_code": "CO",
       "country_name": "Colombia",
       "news_count": 3
@@ -849,11 +854,6 @@
       "country_code": "ES",
       "country_name": "Spain",
       "news_count": 3
-    },
-    {
-      "country_code": "CA",
-      "country_name": "Canada",
-      "news_count": 2
     },
     {
       "country_code": "IT",
