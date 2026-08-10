@@ -1,14 +1,23 @@
 {
-  "generated_at": "2026-08-09T23:54:27Z",
+  "generated_at": "2026-08-10T00:54:56Z",
   "articles": [
     {
       "source": "BBC World",
       "title": "Residents warned to brace for the worst as Canada wildfire rages out of control",
       "url": "https://www.bbc.co.uk/news/articles/cx25dkwk3e3o?at_medium=RSS&at_campaign=rss",
       "summary": "The Bald Range wildfire in British Columbia, still considered \"out of control\", has spread over 53 sq miles (136 sq km).",
-      "published_at": "2026-08-09T22:27:53Z",
+      "published_at": "2026-08-10T00:17:46Z",
       "country_code": "CA",
       "country_name": "Canada"
+    },
+    {
+      "source": "BBC World",
+      "title": "How Kinahan's hearing unfolded inside the courtroom in Dublin",
+      "url": "https://www.bbc.co.uk/news/videos/cly5zpx0ypdo?at_medium=RSS&at_campaign=rss",
+      "summary": "Suspected crime boss Daniel Kinahan appeared in court and was charged with directing the activities of a criminal organisation after being e…",
+      "published_at": "2026-08-09T21:26:56Z",
+      "country_code": "AE",
+      "country_name": "United Arab Emirates"
     },
     {
       "source": "BBC World",
@@ -101,7 +110,7 @@
       "country_name": "Russia"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Latin America",
       "title": "US offers $1bn to Colombia on new right-wing president's first day of office",
       "url": "https://www.bbc.co.uk/news/articles/cy9wy3y0e5wo?at_medium=RSS&at_campaign=rss",
       "summary": "Abelardo de la Espriella used his maiden speech to promise an \"all-out war\" on what he calls \"narco-terrorism\".",
@@ -173,7 +182,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "Saudi Arabia, Turkey and Pakistan sign defence pact",
       "url": "https://www.bbc.co.uk/news/articles/c30418m4mj4o?at_medium=RSS&at_campaign=rss",
       "summary": "Pakistan says an attack on any of the three will amount to an attack against all, amid conflict in the Middle East.",
@@ -209,7 +218,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "Spanish police arrest 78 people in bust of 'one of largest' smuggling networks",
       "url": "https://www.bbc.co.uk/news/articles/clylejzkkx4o?at_medium=RSS&at_campaign=rss",
       "summary": "The group moved synthetic drugs from Spain to Algeria, then used the return journey to smuggle migrants and weapons.",
@@ -963,6 +972,11 @@
       "news_count": 3
     },
     {
+      "country_code": "AE",
+      "country_name": "United Arab Emirates",
+      "news_count": 2
+    },
+    {
       "country_code": "AU",
       "country_name": "Australia",
       "news_count": 2
@@ -996,11 +1010,6 @@
       "country_code": "ZA",
       "country_name": "South Africa",
       "news_count": 2
-    },
-    {
-      "country_code": "AE",
-      "country_name": "United Arab Emirates",
-      "news_count": 1
     },
     {
       "country_code": "BD",
