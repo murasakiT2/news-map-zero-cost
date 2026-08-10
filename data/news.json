@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-10T12:42:14Z",
+  "generated_at": "2026-08-10T14:12:00Z",
   "articles": [
     {
-      "source": "BBC World",
-      "title": "Alleged rebel leader killed in Colombia as president targets armed groups",
-      "url": "https://www.bbc.co.uk/news/articles/c5yrljp9x9eo?at_medium=RSS&at_campaign=rss",
-      "summary": "The military operation against Hernando Forero Mosquera was carried out just days after Colombia's new president was sworn in.",
-      "published_at": "2026-08-10T12:23:21Z",
+      "source": "BBC Latin America",
+      "title": "Strong earthquake causes significant damage and injuries in Colombia",
+      "url": "https://www.bbc.co.uk/news/articles/c20e360lx0vo?at_medium=RSS&at_campaign=rss",
+      "summary": "The magnitude-7.4 quake had its epicentre near a village on the Pacific Coast.",
+      "published_at": "2026-08-10T13:54:53Z",
       "country_code": "CO",
       "country_name": "Colombia"
     },
@@ -15,9 +15,27 @@
       "title": "At least 13 killed in Ukrainian drone strike deep into Russia",
       "url": "https://www.bbc.co.uk/news/articles/cvgjvgv926po?at_medium=RSS&at_campaign=rss",
       "summary": "Russian officials say another 75 people were injured by the attack in the Tatarstan region, one of the deadliest Ukrainian drone attacks on …",
-      "published_at": "2026-08-10T12:13:22Z",
+      "published_at": "2026-08-10T12:54:13Z",
       "country_code": "RU",
       "country_name": "Russia"
+    },
+    {
+      "source": "BBC Africa",
+      "title": "Nigeria 'still have hope' for 2027 World Cup spot",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cg4d0qd33gwo?at_medium=RSS&at_campaign=rss",
+      "summary": "Nigeria must go \"back to the drawing board\" after missing out on automatic qualification for the 2027 Women's World Cup, says keeper Chiamak…",
+      "published_at": "2026-08-10T12:28:00Z",
+      "country_code": "NG",
+      "country_name": "Nigeria"
+    },
+    {
+      "source": "BBC World",
+      "title": "Alleged rebel leader killed in Colombia as president targets armed groups",
+      "url": "https://www.bbc.co.uk/news/articles/c5yrljp9x9eo?at_medium=RSS&at_campaign=rss",
+      "summary": "The military operation against Hernando Forero Mosquera was carried out just days after Colombia's new president was sworn in.",
+      "published_at": "2026-08-10T12:23:21Z",
+      "country_code": "CO",
+      "country_name": "Colombia"
     },
     {
       "source": "BBC World",
@@ -50,7 +68,7 @@
       "source": "BBC World",
       "title": "'Body in suitcase' found in Australia turns out to be lifelike doll",
       "url": "https://www.bbc.co.uk/news/articles/clyqg4w3gz9o?at_medium=RSS&at_campaign=rss",
-      "summary": "Forensics revealed that the 'realistic' looking body was in fact not human.",
+      "summary": "Forensics revealed that the \"realistic\" looking body was in fact not human.",
       "published_at": "2026-08-10T05:16:40Z",
       "country_code": "AU",
       "country_name": "Australia"
@@ -369,15 +387,6 @@
       "published_at": "2026-08-06T13:46:27Z",
       "country_code": "MX",
       "country_name": "Mexico"
-    },
-    {
-      "source": "BBC Africa",
-      "title": "Why has Salah chosen to join Trabzonspor?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cy74v1j1v6zo?at_medium=RSS&at_campaign=rss",
-      "summary": "Why Mohamed Salah chose Trabzonspor over Saudi Arabia and MLS, and what the move means for him and Turkish football.",
-      "published_at": "2026-08-06T12:02:05Z",
-      "country_code": "SA",
-      "country_name": "Saudi Arabia"
     },
     {
       "source": "BBC Middle East",
@@ -798,6 +807,11 @@
       "news_count": 5
     },
     {
+      "country_code": "NG",
+      "country_name": "Nigeria",
+      "news_count": 5
+    },
+    {
       "country_code": "RU",
       "country_name": "Russia",
       "news_count": 5
@@ -808,13 +822,13 @@
       "news_count": 4
     },
     {
-      "country_code": "NG",
-      "country_name": "Nigeria",
-      "news_count": 4
-    },
-    {
       "country_code": "AU",
       "country_name": "Australia",
+      "news_count": 3
+    },
+    {
+      "country_code": "CO",
+      "country_name": "Colombia",
       "news_count": 3
     },
     {
@@ -823,18 +837,8 @@
       "news_count": 3
     },
     {
-      "country_code": "SA",
-      "country_name": "Saudi Arabia",
-      "news_count": 3
-    },
-    {
       "country_code": "AE",
       "country_name": "United Arab Emirates",
-      "news_count": 2
-    },
-    {
-      "country_code": "CO",
-      "country_name": "Colombia",
       "news_count": 2
     },
     {
@@ -850,6 +854,11 @@
     {
       "country_code": "MX",
       "country_name": "Mexico",
+      "news_count": 2
+    },
+    {
+      "country_code": "SA",
+      "country_name": "Saudi Arabia",
       "news_count": 2
     },
     {
