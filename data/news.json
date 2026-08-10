@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-08-10T21:08:33Z",
+  "generated_at": "2026-08-10T22:04:06Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Canada flight cancelled after child refuses to wear seat belt",
+      "url": "https://www.bbc.co.uk/news/articles/cj6307x3wdgo?at_medium=RSS&at_campaign=rss",
+      "summary": "The incident has sparked a debate over child safety and discipline on commercial planes.",
+      "published_at": "2026-08-10T21:06:27Z",
+      "country_code": "CA",
+      "country_name": "Canada"
+    },
     {
       "source": "BBC Latin America",
       "title": "Watch: Moment powerful earthquake shakes Colombia and crumbles buildings",
@@ -830,6 +839,11 @@
       "news_count": 5
     },
     {
+      "country_code": "CA",
+      "country_name": "Canada",
+      "news_count": 4
+    },
+    {
       "country_code": "IN",
       "country_name": "India",
       "news_count": 4
@@ -847,11 +861,6 @@
     {
       "country_code": "AU",
       "country_name": "Australia",
-      "news_count": 3
-    },
-    {
-      "country_code": "CA",
-      "country_name": "Canada",
       "news_count": 3
     },
     {
