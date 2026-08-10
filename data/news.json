@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-08-10T20:06:54Z",
+  "generated_at": "2026-08-10T21:08:33Z",
   "articles": [
+    {
+      "source": "BBC Latin America",
+      "title": "Watch: Moment powerful earthquake shakes Colombia and crumbles buildings",
+      "url": "https://www.bbc.co.uk/news/videos/cz6473llqpwo?at_medium=RSS&at_campaign=rss",
+      "summary": "At least 111 people have been killed and dozens more injured after the 7.4 temblor hit the western part of the country, according to local o…",
+      "published_at": "2026-08-10T20:55:34Z",
+      "country_code": "CO",
+      "country_name": "Colombia"
+    },
     {
       "source": "BBC World",
       "title": "'We've had a lot of close calls': Canada wildfire evacuees wonder if they still have homes",
@@ -9,15 +18,6 @@
       "published_at": "2026-08-10T19:17:11Z",
       "country_code": "CA",
       "country_name": "Canada"
-    },
-    {
-      "source": "BBC Latin America",
-      "title": "At least 111 killed in Colombia earthquake as national disaster declared",
-      "url": "https://www.bbc.co.uk/news/articles/c20e360lx0vo?at_medium=RSS&at_campaign=rss",
-      "summary": "The magnitude-7.4 quake had its epicentre in Chocó province, near the Pacific Coast, but could be felt in cities hundreds of kilometres away…",
-      "published_at": "2026-08-10T19:02:45Z",
-      "country_code": "CO",
-      "country_name": "Colombia"
     },
     {
       "source": "BBC World",
@@ -396,15 +396,6 @@
       "published_at": "2026-08-06T18:37:12Z",
       "country_code": "IL",
       "country_name": "Israel"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "South Korea space agency shares Moon images after SpaceX rocket debris crash",
-      "url": "https://www.bbc.co.uk/news/articles/cqjxgx5y51lo?at_medium=RSS&at_campaign=rss",
-      "summary": "Seoul's lunar orbiter captured images of the Moon before and after part of SpaceX's rocket hit its surface on Wednesday.",
-      "published_at": "2026-08-06T17:38:51Z",
-      "country_code": "KR",
-      "country_name": "South Korea"
     },
     {
       "source": "BBC Middle East",
@@ -931,11 +922,6 @@
     {
       "country_code": "GB",
       "country_name": "United Kingdom",
-      "news_count": 1
-    },
-    {
-      "country_code": "KR",
-      "country_name": "South Korea",
       "news_count": 1
     },
     {
