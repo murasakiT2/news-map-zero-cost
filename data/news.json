@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-08-10T00:54:56Z",
+  "generated_at": "2026-08-10T03:05:58Z",
   "articles": [
+    {
+      "source": "BBC Asia",
+      "title": "Why nine million were removed from a landmark Indian cash scheme for women",
+      "url": "https://www.bbc.co.uk/news/articles/c0ejxe0q3q4o?at_medium=RSS&at_campaign=rss",
+      "summary": "India's largest cash-transfer scheme for women in Maharashtra state is facing scrutiny over alleged lapses.",
+      "published_at": "2026-08-10T00:39:14Z",
+      "country_code": "IN",
+      "country_name": "India"
+    },
     {
       "source": "BBC World",
       "title": "Residents warned to brace for the worst as Canada wildfire rages out of control",
@@ -308,15 +317,6 @@
       "country_name": "Taiwan"
     },
     {
-      "source": "BBC Asia",
-      "title": "Drone warnings and sheltering in airports as South Korea battles historic heatwave",
-      "url": "https://www.bbc.co.uk/news/articles/cr597m1vm96o?at_medium=RSS&at_campaign=rss",
-      "summary": "The president has called the extreme heat a \"national disaster\" and ordered agencies to mobilise all resources.",
-      "published_at": "2026-08-07T04:49:18Z",
-      "country_code": "KR",
-      "country_name": "South Korea"
-    },
-    {
       "source": "BBC US & Canada",
       "title": "Trump again tries to limit US birthright citizenship with new executive orders",
       "url": "https://www.bbc.co.uk/news/articles/cj63966j95yo?at_medium=RSS&at_campaign=rss",
@@ -353,7 +353,7 @@
       "country_name": "Israel"
     },
     {
-      "source": "BBC Asia",
+      "source": "BBC US & Canada",
       "title": "South Korea space agency shares Moon images after SpaceX rocket debris crash",
       "url": "https://www.bbc.co.uk/news/articles/cqjxgx5y51lo?at_medium=RSS&at_campaign=rss",
       "summary": "Seoul's lunar orbiter captured images of the Moon before and after part of SpaceX's rocket hit its surface on Wednesday.",
@@ -414,15 +414,6 @@
       "published_at": "2026-08-06T12:02:05Z",
       "country_code": "SA",
       "country_name": "Saudi Arabia"
-    },
-    {
-      "source": "BBC Asia",
-      "title": "Indian journalist Tarun Tejpal sentenced to 10 years in jail for rape",
-      "url": "https://www.bbc.co.uk/news/articles/cx2v551w9v8o?at_medium=RSS&at_campaign=rss",
-      "summary": "Tejpal, who has denied the accusations, can appeal against the verdict in India's Supreme Court.",
-      "published_at": "2026-08-06T09:49:24Z",
-      "country_code": "IN",
-      "country_name": "India"
     },
     {
       "source": "BBC Middle East",
@@ -540,15 +531,6 @@
       "published_at": "2026-08-04T23:13:01Z",
       "country_code": "CO",
       "country_name": "Colombia"
-    },
-    {
-      "source": "BBC Asia",
-      "title": "The avalanche that killed a climbing legend - and a generation of record-setting guides",
-      "url": "https://www.bbc.co.uk/news/articles/cm2ge4dnj80o?at_medium=RSS&at_campaign=rss",
-      "summary": "Their fellow guides say their deaths in Pakistan dealt a devastating blow to Nepal's mountaineering community.",
-      "published_at": "2026-08-04T22:09:50Z",
-      "country_code": "PK",
-      "country_name": "Pakistan"
     },
     {
       "source": "BBC Europe",
@@ -987,18 +969,8 @@
       "news_count": 2
     },
     {
-      "country_code": "KR",
-      "country_name": "South Korea",
-      "news_count": 2
-    },
-    {
       "country_code": "MX",
       "country_name": "Mexico",
-      "news_count": 2
-    },
-    {
-      "country_code": "PK",
-      "country_name": "Pakistan",
       "news_count": 2
     },
     {
@@ -1047,6 +1019,11 @@
       "news_count": 1
     },
     {
+      "country_code": "KR",
+      "country_name": "South Korea",
+      "news_count": 1
+    },
+    {
       "country_code": "MA",
       "country_name": "Morocco",
       "news_count": 1
@@ -1054,6 +1031,11 @@
     {
       "country_code": "NO",
       "country_name": "Norway",
+      "news_count": 1
+    },
+    {
+      "country_code": "PK",
+      "country_name": "Pakistan",
       "news_count": 1
     },
     {
