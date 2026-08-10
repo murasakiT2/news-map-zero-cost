@@ -1,6 +1,51 @@
 {
-  "generated_at": "2026-08-10T18:10:00Z",
+  "generated_at": "2026-08-10T19:26:59Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "'We've had a lot of close calls': Canada wildfire evacuees wonder if they still have homes",
+      "url": "https://www.bbc.co.uk/news/articles/cx2lwv032j9o?at_medium=RSS&at_campaign=rss",
+      "summary": "More than 12,000 people have been forced to evacuate and some homes have been lost after a wildfire tore through Canada's picturesque Okanag…",
+      "published_at": "2026-08-10T19:17:11Z",
+      "country_code": "CA",
+      "country_name": "Canada"
+    },
+    {
+      "source": "BBC Latin America",
+      "title": "At least 111 killed in Colombia earthquake as national disaster declared",
+      "url": "https://www.bbc.co.uk/news/articles/c20e360lx0vo?at_medium=RSS&at_campaign=rss",
+      "summary": "The magnitude-7.4 quake had its epicentre in Chocó province, near the Pacific Coast, but could be felt in cities hundreds of kilometres away…",
+      "published_at": "2026-08-10T19:02:45Z",
+      "country_code": "CO",
+      "country_name": "Colombia"
+    },
+    {
+      "source": "BBC World",
+      "title": "New train service connects Finland and Sweden for first time in decades",
+      "url": "https://www.bbc.co.uk/news/articles/cx2lwpzz6qjo?at_medium=RSS&at_campaign=rss",
+      "summary": "The service will enable rail travel from Portugal to Lapland - what is believed to be the longest train journey in Europe.",
+      "published_at": "2026-08-10T18:28:11Z",
+      "country_code": "PT",
+      "country_name": "Portugal"
+    },
+    {
+      "source": "BBC World",
+      "title": "Watch: What we know about suspected crime boss Daniel Kinahan",
+      "url": "https://www.bbc.co.uk/news/videos/cm2g97nnr5go?at_medium=RSS&at_campaign=rss",
+      "summary": "Suspected crime boss Daniel Kinahan, one of the world's most wanted men, has spent his first night in custody in Ireland after being extradi…",
+      "published_at": "2026-08-10T18:24:45Z",
+      "country_code": "AE",
+      "country_name": "United Arab Emirates"
+    },
+    {
+      "source": "BBC World",
+      "title": "Russian court bars only anti-war party from standing in parliamentary elections",
+      "url": "https://www.bbc.co.uk/news/articles/cy9w1l5jr7lo?at_medium=RSS&at_campaign=rss",
+      "summary": "Russia's only liberal, anti-war party will not be able to take part in next month's parliamentary elections, a Moscow court rules.",
+      "published_at": "2026-08-10T18:19:41Z",
+      "country_code": "RU",
+      "country_name": "Russia"
+    },
     {
       "source": "BBC World",
       "title": "We are chasing Ebola virus - it is ahead of us, WHO warns",
@@ -9,33 +54,6 @@
       "published_at": "2026-08-10T17:50:29Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC Latin America",
-      "title": "More than 70 killed in Colombia earthquake as national disaster declared",
-      "url": "https://www.bbc.co.uk/news/articles/c20e360lx0vo?at_medium=RSS&at_campaign=rss",
-      "summary": "The magnitude-7.4 quake had its epicentre in Chocó province, near the Pacific Coast, but could be felt in cities hundreds of kilometres away…",
-      "published_at": "2026-08-10T17:30:22Z",
-      "country_code": "CO",
-      "country_name": "Colombia"
-    },
-    {
-      "source": "BBC World",
-      "title": "'Total incinerated destruction': Canada wildfire evacuees wonder if they still have homes",
-      "url": "https://www.bbc.co.uk/news/articles/cx2lwv032j9o?at_medium=RSS&at_campaign=rss",
-      "summary": "More than 12,000 people have been forced to evacuate over the weekend after a wildfire quickly tore through Canada's picturesque Okanagan re…",
-      "published_at": "2026-08-10T16:10:56Z",
-      "country_code": "CA",
-      "country_name": "Canada"
-    },
-    {
-      "source": "BBC World",
-      "title": "Watch: What we know about suspected crime boss Daniel Kinahan",
-      "url": "https://www.bbc.co.uk/news/videos/cm2g97nnr5go?at_medium=RSS&at_campaign=rss",
-      "summary": "Suspected crime boss Daniel Kinahan, one of the world's most wanted men, has spent his first night in custody in Ireland after being extradi…",
-      "published_at": "2026-08-10T15:54:19Z",
-      "country_code": "AE",
-      "country_name": "United Arab Emirates"
     },
     {
       "source": "BBC US & Canada",
@@ -83,7 +101,7 @@
       "country_name": "Nigeria"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Latin America",
       "title": "Alleged rebel leader killed in Colombia as president targets armed groups",
       "url": "https://www.bbc.co.uk/news/articles/c5yrljp9x9eo?at_medium=RSS&at_campaign=rss",
       "summary": "The military operation against Hernando Forero Mosquera was carried out just days after Colombia's new president was sworn in.",
@@ -119,7 +137,7 @@
       "country_name": "China"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "'Body in suitcase' found in Australia turns out to be lifelike doll",
       "url": "https://www.bbc.co.uk/news/articles/clyqg4w3gz9o?at_medium=RSS&at_campaign=rss",
       "summary": "Forensics revealed that the \"realistic\" looking body was in fact not human.",
@@ -387,15 +405,6 @@
       "published_at": "2026-08-06T17:38:51Z",
       "country_code": "KR",
       "country_name": "South Korea"
-    },
-    {
-      "source": "BBC Europe",
-      "title": "Ukraine hits two oil refineries deep in Russian territory",
-      "url": "https://www.bbc.co.uk/news/articles/cwymv212xrxo?at_medium=RSS&at_campaign=rss",
-      "summary": "Ukraine's president says the strikes aim to limit revenues Russia \"used to finance\" its war.",
-      "published_at": "2026-08-06T15:41:05Z",
-      "country_code": "RU",
-      "country_name": "Russia"
     },
     {
       "source": "BBC Middle East",
@@ -937,6 +946,11 @@
     {
       "country_code": "PK",
       "country_name": "Pakistan",
+      "news_count": 1
+    },
+    {
+      "country_code": "PT",
+      "country_name": "Portugal",
       "news_count": 1
     },
     {
