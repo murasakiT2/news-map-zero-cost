@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-08-10T03:05:58Z",
+  "generated_at": "2026-08-10T05:00:51Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Residents warned to brace for the worst as Canada wildfire rages out of control",
+      "url": "https://www.bbc.co.uk/news/articles/cx25dkwk3e3o?at_medium=RSS&at_campaign=rss",
+      "summary": "One person has died in the Bald Range wildfire in British Columbia which has spread over 53 sq miles.",
+      "published_at": "2026-08-10T03:33:51Z",
+      "country_code": "CA",
+      "country_name": "Canada"
+    },
+    {
+      "source": "BBC Asia",
+      "title": "China evacuates one million from homes as massive storm arrives",
+      "url": "https://www.bbc.co.uk/news/articles/cx2rgzyplg2o?at_medium=RSS&at_campaign=rss",
+      "summary": "Typhoon Dolphin has made landfall, bringing strong winds and heavy rain across eastern China including Shanghai.",
+      "published_at": "2026-08-10T03:15:21Z",
+      "country_code": "CN",
+      "country_name": "China"
+    },
     {
       "source": "BBC Asia",
       "title": "Why nine million were removed from a landmark Indian cash scheme for women",
@@ -9,15 +27,6 @@
       "published_at": "2026-08-10T00:39:14Z",
       "country_code": "IN",
       "country_name": "India"
-    },
-    {
-      "source": "BBC World",
-      "title": "Residents warned to brace for the worst as Canada wildfire rages out of control",
-      "url": "https://www.bbc.co.uk/news/articles/cx25dkwk3e3o?at_medium=RSS&at_campaign=rss",
-      "summary": "The Bald Range wildfire in British Columbia, still considered \"out of control\", has spread over 53 sq miles (136 sq km).",
-      "published_at": "2026-08-10T00:17:46Z",
-      "country_code": "CA",
-      "country_name": "Canada"
     },
     {
       "source": "BBC World",
@@ -441,15 +450,6 @@
       "published_at": "2026-08-06T01:19:59Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC Asia",
-      "title": "Ex-leader Hasina gambles on return to Bangladesh despite death penalty",
-      "url": "https://www.bbc.co.uk/news/articles/cvg9j8820v6o?at_medium=RSS&at_campaign=rss",
-      "summary": "The 78-year-old has been convicted of crimes against humanity over a deadly crackdown on a 2024 uprising.",
-      "published_at": "2026-08-05T19:02:06Z",
-      "country_code": "BD",
-      "country_name": "Bangladesh"
     },
     {
       "source": "BBC Asia",
@@ -984,11 +984,6 @@
       "news_count": 2
     },
     {
-      "country_code": "BD",
-      "country_name": "Bangladesh",
-      "news_count": 1
-    },
-    {
       "country_code": "CA",
       "country_name": "Canada",
       "news_count": 1
@@ -996,6 +991,11 @@
     {
       "country_code": "CL",
       "country_name": "Chile",
+      "news_count": 1
+    },
+    {
+      "country_code": "CN",
+      "country_name": "China",
       "news_count": 1
     },
     {
