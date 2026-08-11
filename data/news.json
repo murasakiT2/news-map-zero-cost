@@ -1,8 +1,26 @@
 {
-  "generated_at": "2026-08-11T09:26:42Z",
+  "generated_at": "2026-08-11T10:22:50Z",
   "articles": [
     {
-      "source": "BBC Asia",
+      "source": "BBC World",
+      "title": "Trump hid in catering truck in secret plane swap over Iran threat, reports say",
+      "url": "https://www.bbc.co.uk/news/articles/cm2g90vvy62o?at_medium=RSS&at_campaign=rss",
+      "summary": "The US president was moved from the old Air Force One to a military plane as he left a Nato summit in Turkey last month, US media say.",
+      "published_at": "2026-08-11T09:58:45Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Russia using North Korean missiles to strike Ukraine, Zelensky says",
+      "url": "https://www.bbc.co.uk/news/articles/c151dpzwnvxo?at_medium=RSS&at_campaign=rss",
+      "summary": "Ukraine's president says strikes in Zaporizhzhia - which killed at least six and injured 19 - involved ballistic missiles from Russia's ally…",
+      "published_at": "2026-08-11T09:39:58Z",
+      "country_code": "RU",
+      "country_name": "Russia"
+    },
+    {
+      "source": "BBC World",
       "title": "Australia PM under fire for remarks on Japanese counterpart's melon gifts",
       "url": "https://www.bbc.co.uk/news/articles/c0jl6ewvq42o?at_medium=RSS&at_campaign=rss",
       "summary": "An ex-Japanese envoy said the \"sexist\" comments \"betrayed the close bond\" between the countries.",
@@ -65,7 +83,7 @@
       "country_name": "Colombia"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "'We've had a lot of close calls': Canada wildfire evacuees wonder if they still have homes",
       "url": "https://www.bbc.co.uk/news/articles/cx2lwv032j9o?at_medium=RSS&at_campaign=rss",
       "summary": "More than 12,000 people have been forced to evacuate and some homes have been lost after a wildfire tore through Canada's picturesque Okanag…",
@@ -110,15 +128,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC US & Canada",
-      "title": "Taylor Farms recalls jalapeno products after salmonella outbreak",
-      "url": "https://www.bbc.co.uk/news/articles/cgljd9p6027o?at_medium=RSS&at_campaign=rss",
-      "summary": "Food producer Taylor Farms is recalling sandwiches, sauces and dips across 26 US states after a salmonella outbreak.",
-      "published_at": "2026-08-10T15:10:33Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC Africa",
       "title": "Kenya bids to host 2029 World Athletics Championships",
       "url": "https://www.bbc.co.uk/sport/athletics/articles/czekx3jlegro?at_medium=RSS&at_campaign=rss",
@@ -128,7 +137,7 @@
       "country_name": "Kenya"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Middle East",
       "title": "Netanyahu's rejection of Trump's 15-point Gaza plan unlikely to be final word",
       "url": "https://www.bbc.co.uk/news/articles/ce3q5282ep3o?at_medium=RSS&at_campaign=rss",
       "summary": "The Trump administration is said to be unbothered by the Israeli prime minister's rejection of the deal, viewing it as campaign rhetoric ahe…",
@@ -137,7 +146,7 @@
       "country_name": "Palestine"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "At least 13 killed in Ukrainian drone strike deep into Russia",
       "url": "https://www.bbc.co.uk/news/articles/cvgjvgv926po?at_medium=RSS&at_campaign=rss",
       "summary": "Russian officials say another 75 people were injured by the attack - one of the deadliest Ukrainian drone attacks since Moscow's full-scale …",
@@ -820,6 +829,11 @@
       "news_count": 7
     },
     {
+      "country_code": "RU",
+      "country_name": "Russia",
+      "news_count": 6
+    },
+    {
       "country_code": "AU",
       "country_name": "Australia",
       "news_count": 5
@@ -827,11 +841,6 @@
     {
       "country_code": "NG",
       "country_name": "Nigeria",
-      "news_count": 5
-    },
-    {
-      "country_code": "RU",
-      "country_name": "Russia",
       "news_count": 5
     },
     {
