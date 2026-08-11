@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-08-11T13:49:01Z",
+  "generated_at": "2026-08-11T14:49:01Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Trump hid in catering truck in secret plane swap over Iran threat, reports say",
+      "url": "https://www.bbc.co.uk/news/articles/cm2g90vvy62o?at_medium=RSS&at_campaign=rss",
+      "summary": "The US president was reportedly part of a ruse where reporters were falsely told he was with them on Air Force One leaving a Nato summit in …",
+      "published_at": "2026-08-11T14:47:28Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC Europe",
+      "title": "France bans unsolicited telemarketing calls",
+      "url": "https://www.bbc.co.uk/news/articles/cy5d11g72ppo?at_medium=RSS&at_campaign=rss",
+      "summary": "Cold calling is coming to an end in France, with one consumer group calling the ban a \"small revolution\".",
+      "published_at": "2026-08-11T14:19:45Z",
+      "country_code": "FR",
+      "country_name": "France"
+    },
+    {
+      "source": "BBC Africa",
+      "title": "South Africa dump site collapse kills 14 suspected illegal miners",
+      "url": "https://www.bbc.co.uk/news/articles/cq6djprvevlo?at_medium=RSS&at_campaign=rss",
+      "summary": "The authorities are searching for anyone who may still be trapped under the rubble.",
+      "published_at": "2026-08-11T13:57:56Z",
+      "country_code": "ZA",
+      "country_name": "South Africa"
+    },
+    {
+      "source": "BBC Middle East",
+      "title": "Houthis kill three in first deadly attack since start of Iran war - reports",
+      "url": "https://www.bbc.co.uk/news/articles/ckg9wpmzmlno?at_medium=RSS&at_campaign=rss",
+      "summary": "The attack was reportedly carried out by Iranian proxy on a small cargo ship, as tensions in region over the US-Iran conflict remain high.",
+      "published_at": "2026-08-11T13:35:57Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "At least 169 killed in Colombia's largest earthquake in years",
@@ -36,15 +72,6 @@
       "published_at": "2026-08-11T10:12:21Z",
       "country_code": "CO",
       "country_name": "Colombia"
-    },
-    {
-      "source": "BBC World",
-      "title": "Trump hid in catering truck in secret plane swap over Iran threat, reports say",
-      "url": "https://www.bbc.co.uk/news/articles/cm2g90vvy62o?at_medium=RSS&at_campaign=rss",
-      "summary": "The US president was reportedly part of a ruse where reporters were falsely told he was with them on Air Force One leaving a Nato summit in …",
-      "published_at": "2026-08-11T09:58:45Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC World",
@@ -749,15 +776,6 @@
       "country_name": "Nigeria"
     },
     {
-      "source": "BBC Middle East",
-      "title": "As the US pauses the war with Iran, is Trump really running out of weapons?",
-      "url": "https://www.bbc.co.uk/news/articles/c0qvnk2ezp7o?at_medium=RSS&at_campaign=rss",
-      "summary": "The US has fired thousands of hard-to-replace missiles during its war with Iran. We unpack whether its \"arsenal of freedom\" is perilously lo…",
-      "published_at": "2026-07-27T21:06:42Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC Africa",
       "title": "Are some soldiers colluding with Nigeria's criminal gangs? A recent arrest prompts questions",
       "url": "https://www.bbc.co.uk/news/articles/cr7k8y5272eo?at_medium=RSS&at_campaign=rss",
@@ -878,6 +896,11 @@
       "news_count": 3
     },
     {
+      "country_code": "ZA",
+      "country_name": "South Africa",
+      "news_count": 3
+    },
+    {
       "country_code": "CL",
       "country_name": "Chile",
       "news_count": 2
@@ -918,11 +941,6 @@
       "news_count": 2
     },
     {
-      "country_code": "ZA",
-      "country_name": "South Africa",
-      "news_count": 2
-    },
-    {
       "country_code": "DZ",
       "country_name": "Algeria",
       "news_count": 1
@@ -935,6 +953,11 @@
     {
       "country_code": "ET",
       "country_name": "Ethiopia",
+      "news_count": 1
+    },
+    {
+      "country_code": "FR",
+      "country_name": "France",
       "news_count": 1
     },
     {
