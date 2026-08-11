@@ -1,17 +1,26 @@
 {
-  "generated_at": "2026-08-11T20:33:08Z",
+  "generated_at": "2026-08-11T21:34:19Z",
   "articles": [
     {
-      "source": "BBC US & Canada",
+      "source": "BBC World",
       "title": "US says helicopter fired missiles to disable ship breaking Iran blockade",
       "url": "https://www.bbc.co.uk/news/articles/cvg8lyyyjedo?at_medium=RSS&at_campaign=rss",
       "summary": "US Central Command says its helicopter hit the engine room of a Panama-flagged cargo vessel in the Gulf of Oman.",
-      "published_at": "2026-08-11T20:04:11Z",
+      "published_at": "2026-08-11T21:14:56Z",
       "country_code": "US",
       "country_name": "United States"
     },
     {
       "source": "BBC World",
+      "title": "Inside the Secret Service 'shell game' to hide US presidents in plain sight",
+      "url": "https://www.bbc.co.uk/news/articles/c9d84874dzjo?at_medium=RSS&at_campaign=rss",
+      "summary": "Elaborate deception operations and decoys are often used to deceive potential threats to the US president.",
+      "published_at": "2026-08-11T20:39:42Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC Middle East",
       "title": "Houthis reportedly kill six in first deadly attack since start of Iran war",
       "url": "https://www.bbc.co.uk/news/articles/ckg9wpmzmlno?at_medium=RSS&at_campaign=rss",
       "summary": "Iran's proxy says it hit a ship with Saudi military equipment in the Red Sea, as tensions over the US-Iran war remain high.",
@@ -92,7 +101,7 @@
       "country_name": "Thailand"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "Trump hid in catering truck in secret plane swap over Iran threat, reports say",
       "url": "https://www.bbc.co.uk/news/articles/cm2g90vvy62o?at_medium=RSS&at_campaign=rss",
       "summary": "The US president was reportedly part of a ruse where reporters were falsely told he was with them on Air Force One leaving a Nato summit in …",
@@ -879,7 +888,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 17
+      "news_count": 18
     },
     {
       "country_code": "IL",
