@@ -1,6 +1,33 @@
 {
-  "generated_at": "2026-08-11T01:12:04Z",
+  "generated_at": "2026-08-11T03:14:12Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "At least 132 killed in Colombia's largest earthquake in years",
+      "url": "https://www.bbc.co.uk/news/articles/c20e360lx0vo?at_medium=RSS&at_campaign=rss",
+      "summary": "The magnitude 7.4 quake had its epicentre in Chocó province, near the Pacific Coast, but could be felt in cities hundreds of kilometres away…",
+      "published_at": "2026-08-11T01:59:40Z",
+      "country_code": "CO",
+      "country_name": "Colombia"
+    },
+    {
+      "source": "BBC World",
+      "title": "Young girl finds whale stranded on Australian beach",
+      "url": "https://www.bbc.co.uk/news/videos/c1w148g9e5vo?at_medium=RSS&at_campaign=rss",
+      "summary": "The humpback whale later successfully freed itself after the tide rose in Queensland, Australia.",
+      "published_at": "2026-08-11T01:31:10Z",
+      "country_code": "AU",
+      "country_name": "Australia"
+    },
+    {
+      "source": "BBC World",
+      "title": "The lonely Chinese men being conned by fake brides",
+      "url": "https://www.bbc.co.uk/news/articles/cn9n8pqglg4o?at_medium=RSS&at_campaign=rss",
+      "summary": "\"Flash marriage\" scams are an extreme symptom of a demographic crisis long in the making in China.",
+      "published_at": "2026-08-10T22:02:21Z",
+      "country_code": "CN",
+      "country_name": "China"
+    },
     {
       "source": "BBC World",
       "title": "Canada flight cancelled after child refuses to wear seat belt",
@@ -11,7 +38,7 @@
       "country_name": "Canada"
     },
     {
-      "source": "BBC Latin America",
+      "source": "BBC World",
       "title": "Watch: Moment powerful earthquake shakes Colombia and crumbles buildings",
       "url": "https://www.bbc.co.uk/news/videos/cz6473llqpwo?at_medium=RSS&at_campaign=rss",
       "summary": "At least 111 people have been killed and dozens more injured after the 7.4 temblor hit the western part of the country, according to local o…",
@@ -218,7 +245,7 @@
       "country_name": "Italy"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "How a schoolteacher's son became Kashmir's first India Test cricketer",
       "url": "https://www.bbc.co.uk/news/articles/c2elpkg1l0jo?at_medium=RSS&at_campaign=rss",
       "summary": "Auqib Nabi becomes Jammu and Kashmir's first cricketer to get India Test call-up, inspiring millions.",
@@ -227,7 +254,7 @@
       "country_name": "India"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Africa",
       "title": "Nigeria's mass wedding - and how telling lovers from fraudsters is proving tricky",
       "url": "https://www.bbc.co.uk/news/articles/cqx7q17531do?at_medium=RSS&at_campaign=rss",
       "summary": "The scheme is for couples who cannot afford the significant financial costs associated with marriage.",
@@ -839,8 +866,18 @@
       "news_count": 5
     },
     {
+      "country_code": "AU",
+      "country_name": "Australia",
+      "news_count": 4
+    },
+    {
       "country_code": "CA",
       "country_name": "Canada",
+      "news_count": 4
+    },
+    {
+      "country_code": "CO",
+      "country_name": "Colombia",
       "news_count": 4
     },
     {
@@ -859,19 +896,14 @@
       "news_count": 3
     },
     {
-      "country_code": "AU",
-      "country_name": "Australia",
-      "news_count": 3
-    },
-    {
-      "country_code": "CO",
-      "country_name": "Colombia",
-      "news_count": 3
-    },
-    {
       "country_code": "ES",
       "country_name": "Spain",
       "news_count": 3
+    },
+    {
+      "country_code": "CN",
+      "country_name": "China",
+      "news_count": 2
     },
     {
       "country_code": "IT",
@@ -911,11 +943,6 @@
     {
       "country_code": "CL",
       "country_name": "Chile",
-      "news_count": 1
-    },
-    {
-      "country_code": "CN",
-      "country_name": "China",
       "news_count": 1
     },
     {
