@@ -1,6 +1,33 @@
 {
-  "generated_at": "2026-08-11T15:49:17Z",
+  "generated_at": "2026-08-11T16:44:50Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Russia using North Korean missiles to strike Ukraine, Zelensky says",
+      "url": "https://www.bbc.co.uk/news/articles/c151dpzwnvxo?at_medium=RSS&at_campaign=rss",
+      "summary": "Ukraine's president says strikes in Zaporizhzhia - which killed seven people - involved ballistic missiles from Russia's ally.",
+      "published_at": "2026-08-11T16:19:44Z",
+      "country_code": "RU",
+      "country_name": "Russia"
+    },
+    {
+      "source": "BBC World",
+      "title": "Watch: Tide of rubbish blankets Philippines river",
+      "url": "https://www.bbc.co.uk/news/videos/c5y3vzvnnkro?at_medium=RSS&at_campaign=rss",
+      "summary": "Workers in Manila waded through the river, collecting waste that washed in during days of heavy rain.",
+      "published_at": "2026-08-11T16:10:55Z",
+      "country_code": "PH",
+      "country_name": "Philippines"
+    },
+    {
+      "source": "BBC World",
+      "title": "Watch: Was Trump smuggled out of Air Force One in a catering truck?",
+      "url": "https://www.bbc.co.uk/news/videos/cj3672ljgzro?at_medium=RSS&at_campaign=rss",
+      "summary": "US media reports say the president secretly left via a catering truck to avoid a threat to his life from Iran.",
+      "published_at": "2026-08-11T15:53:53Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "Russia releases former US Marine reported in poor health",
@@ -12,7 +39,7 @@
     },
     {
       "source": "BBC World",
-      "title": "Houthis kill four in first deadly attack since start of Iran war, Yemen says",
+      "title": "Houthis reportedly kill four in first deadly attack since start of Iran war",
       "url": "https://www.bbc.co.uk/news/articles/ckg9wpmzmlno?at_medium=RSS&at_campaign=rss",
       "summary": "The attack was reportedly carried out by Iranian proxy on a small cargo ship, as tensions in region over the US-Iran conflict remain high.",
       "published_at": "2026-08-11T15:41:13Z",
@@ -93,15 +120,6 @@
     },
     {
       "source": "BBC World",
-      "title": "Russia using North Korean missiles to strike Ukraine, Zelensky says",
-      "url": "https://www.bbc.co.uk/news/articles/c151dpzwnvxo?at_medium=RSS&at_campaign=rss",
-      "summary": "Ukraine's president says strikes in Zaporizhzhia - which killed at least six and injured 19 - involved ballistic missiles from Russia's ally…",
-      "published_at": "2026-08-11T09:39:58Z",
-      "country_code": "RU",
-      "country_name": "Russia"
-    },
-    {
-      "source": "BBC World",
       "title": "Australia PM under fire for remarks on Japanese counterpart's melon gifts",
       "url": "https://www.bbc.co.uk/news/articles/c0jl6ewvq42o?at_medium=RSS&at_campaign=rss",
       "summary": "An ex-Japanese envoy said the \"sexist\" comments \"betrayed the close bond\" between the countries.",
@@ -146,7 +164,7 @@
       "country_name": "Canada"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Latin America",
       "title": "Watch: Moment powerful earthquake shakes Colombia and crumbles buildings",
       "url": "https://www.bbc.co.uk/news/videos/cz6473llqpwo?at_medium=RSS&at_campaign=rss",
       "summary": "At least 111 people have been killed and dozens more injured after the 7.4 temblor hit the western part of the country, according to local o…",
@@ -173,7 +191,7 @@
       "country_name": "Portugal"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "Watch: What we know about suspected crime boss Daniel Kinahan",
       "url": "https://www.bbc.co.uk/news/videos/cm2g97nnr5go?at_medium=RSS&at_campaign=rss",
       "summary": "Suspected crime boss Daniel Kinahan, one of the world's most wanted men, has spent his first night in custody in Ireland after being extradi…",
@@ -843,7 +861,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 15
+      "news_count": 16
     },
     {
       "country_code": "IL",
@@ -973,6 +991,11 @@
     {
       "country_code": "NO",
       "country_name": "Norway",
+      "news_count": 1
+    },
+    {
+      "country_code": "PH",
+      "country_name": "Philippines",
       "news_count": 1
     },
     {
