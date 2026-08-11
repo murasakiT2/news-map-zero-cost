@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-08-11T19:53:26Z",
+  "generated_at": "2026-08-11T20:33:08Z",
   "articles": [
+    {
+      "source": "BBC US & Canada",
+      "title": "US says helicopter fired missiles to disable ship breaking Iran blockade",
+      "url": "https://www.bbc.co.uk/news/articles/cvg8lyyyjedo?at_medium=RSS&at_campaign=rss",
+      "summary": "US Central Command says its helicopter hit the engine room of a Panama-flagged cargo vessel in the Gulf of Oman.",
+      "published_at": "2026-08-11T20:04:11Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "Houthis reportedly kill six in first deadly attack since start of Iran war",
@@ -27,6 +36,15 @@
       "published_at": "2026-08-11T19:09:52Z",
       "country_code": "CO",
       "country_name": "Colombia"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "Miss Universe Canada contestants apologise for wearing indigenous dress",
+      "url": "https://www.bbc.co.uk/news/articles/cx2kv12nqx6o?at_medium=RSS&at_campaign=rss",
+      "summary": "\"My outfit caused hurt and offence to people in the indigenous community,\" one of the contestants said after the pageant.",
+      "published_at": "2026-08-11T18:04:48Z",
+      "country_code": "CA",
+      "country_name": "Canada"
     },
     {
       "source": "BBC World",
@@ -861,7 +879,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 16
+      "news_count": 17
     },
     {
       "country_code": "IL",
@@ -896,7 +914,7 @@
     {
       "country_code": "CA",
       "country_name": "Canada",
-      "news_count": 3
+      "news_count": 4
     },
     {
       "country_code": "ES",
