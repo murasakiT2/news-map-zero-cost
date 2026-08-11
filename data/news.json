@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-08-11T05:46:02Z",
+  "generated_at": "2026-08-11T06:45:44Z",
   "articles": [
+    {
+      "source": "BBC Asia",
+      "title": "US judge drops bribery and fraud case against Indian billionaire Gautam Adani",
+      "url": "https://www.bbc.co.uk/news/articles/clyqxknpp26o?at_medium=RSS&at_campaign=rss",
+      "summary": "The judge, however, criticised the way the Justice Department decided to drop the case.",
+      "published_at": "2026-08-11T06:33:03Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "At least 132 killed in Colombia's largest earthquake in years",
@@ -180,6 +189,15 @@
       "published_at": "2026-08-10T05:16:40Z",
       "country_code": "AU",
       "country_name": "Australia"
+    },
+    {
+      "source": "BBC Latin America",
+      "title": "The Argentine who wishes he could play for Wales",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c5ywqxvgzl0o?at_medium=RSS&at_campaign=rss",
+      "summary": "Proud of his Welsh roots, Chile-based Argentine defender Jeremias James hopes for a rule change to help his international ambitions.",
+      "published_at": "2026-08-10T03:47:50Z",
+      "country_code": "CL",
+      "country_name": "Chile"
     },
     {
       "source": "BBC US & Canada",
@@ -843,7 +861,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 17
+      "news_count": 18
     },
     {
       "country_code": "IL",
@@ -901,6 +919,11 @@
       "news_count": 3
     },
     {
+      "country_code": "CL",
+      "country_name": "Chile",
+      "news_count": 2
+    },
+    {
       "country_code": "CN",
       "country_name": "China",
       "news_count": 2
@@ -939,11 +962,6 @@
       "country_code": "ZA",
       "country_name": "South Africa",
       "news_count": 2
-    },
-    {
-      "country_code": "CL",
-      "country_name": "Chile",
-      "news_count": 1
     },
     {
       "country_code": "DZ",
