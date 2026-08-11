@@ -1,11 +1,20 @@
 {
-  "generated_at": "2026-08-11T10:22:50Z",
+  "generated_at": "2026-08-11T11:10:37Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Watch: Family escapes home during Colombia earthquake",
+      "url": "https://www.bbc.co.uk/news/videos/cwyl3w1e6zxo?at_medium=RSS&at_campaign=rss",
+      "summary": "At least 132 people are dead and a state of emergency has been declared after Colombia was hit by one of its largest earthquakes in years.",
+      "published_at": "2026-08-11T10:12:21Z",
+      "country_code": "CO",
+      "country_name": "Colombia"
+    },
     {
       "source": "BBC World",
       "title": "Trump hid in catering truck in secret plane swap over Iran threat, reports say",
       "url": "https://www.bbc.co.uk/news/articles/cm2g90vvy62o?at_medium=RSS&at_campaign=rss",
-      "summary": "The US president was moved from the old Air Force One to a military plane as he left a Nato summit in Turkey last month, US media say.",
+      "summary": "The US president was part of a ruse where reporters were falsely told he was with them on Air Force One leaving a Nato summit in Turkey.",
       "published_at": "2026-08-11T09:58:45Z",
       "country_code": "US",
       "country_name": "United States"
@@ -236,7 +245,7 @@
       "country_name": "Algeria"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "How Kinahan's hearing unfolded inside the courtroom in Dublin",
       "url": "https://www.bbc.co.uk/news/videos/cly5zpx0ypdo?at_medium=RSS&at_campaign=rss",
       "summary": "Suspected crime boss Daniel Kinahan appeared in court and was charged with directing the activities of a criminal organisation after being e…",
@@ -758,15 +767,6 @@
       "country_name": "Venezuela"
     },
     {
-      "source": "BBC Middle East",
-      "title": "Houthi attacks raise fears of wider Middle East conflict and more global economic damage",
-      "url": "https://www.bbc.co.uk/news/articles/cvgve0vxy1yo?at_medium=RSS&at_campaign=rss",
-      "summary": "The Iran-backed group in Yemen has threatened to target Saudi vessels in a vital shipping route.",
-      "published_at": "2026-07-24T01:59:49Z",
-      "country_code": "IR",
-      "country_name": "Iran"
-    },
-    {
       "source": "BBC Europe",
       "title": "Russia's businesses under strain from Ukraine's attacks on Wildberries",
       "url": "https://www.bbc.co.uk/news/articles/cvg9n2y61w6o?at_medium=RSS&at_campaign=rss",
@@ -839,14 +839,14 @@
       "news_count": 5
     },
     {
-      "country_code": "NG",
-      "country_name": "Nigeria",
+      "country_code": "CO",
+      "country_name": "Colombia",
       "news_count": 5
     },
     {
-      "country_code": "CO",
-      "country_name": "Colombia",
-      "news_count": 4
+      "country_code": "NG",
+      "country_name": "Nigeria",
+      "news_count": 5
     },
     {
       "country_code": "AE",
@@ -869,11 +869,6 @@
       "news_count": 3
     },
     {
-      "country_code": "IR",
-      "country_name": "Iran",
-      "news_count": 3
-    },
-    {
       "country_code": "CL",
       "country_name": "Chile",
       "news_count": 2
@@ -881,6 +876,11 @@
     {
       "country_code": "CN",
       "country_name": "China",
+      "news_count": 2
+    },
+    {
+      "country_code": "IR",
+      "country_name": "Iran",
       "news_count": 2
     },
     {
