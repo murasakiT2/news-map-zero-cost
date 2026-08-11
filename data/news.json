@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-08-11T22:30:24Z",
+  "generated_at": "2026-08-11T23:28:25Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Russia releases former US Marine reported in poor health",
+      "url": "https://www.bbc.co.uk/news/articles/cvgj4m8e1ryo?at_medium=RSS&at_campaign=rss",
+      "summary": "Robert Gilman, who was arrested in 2022, was left in \"life-threatening condition\" after being subjected to \"harsh and abusive treatment\", hi…",
+      "published_at": "2026-08-11T23:21:57Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "Fact-checking Trump's claims as he rolls back some recommended vaccines",
+      "url": "https://www.bbc.co.uk/news/articles/c9q9dzp97l4o?at_medium=RSS&at_campaign=rss",
+      "summary": "The US president has repeatedly cast doubt on the safety of childhood vaccines, making several misleading claims.",
+      "published_at": "2026-08-11T23:16:38Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "Trump hid in catering truck in secret plane swap over Iran threat, reports say",
+      "url": "https://www.bbc.co.uk/news/articles/cm2g90vvy62o?at_medium=RSS&at_campaign=rss",
+      "summary": "The US president was reportedly part of a ruse where reporters were falsely told he was with them on Air Force One leaving a Nato summit in …",
+      "published_at": "2026-08-11T23:04:06Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "UK prosecutors argue Tate brothers a flight risk ahead of bail hearing",
+      "url": "https://www.bbc.co.uk/news/articles/c8rn4n8v6k7o?at_medium=RSS&at_campaign=rss",
+      "summary": "Andrew and Tristan Tate would attempt to evade prosecution if they are freed on bail, prosecutors argue.",
+      "published_at": "2026-08-11T22:22:33Z",
+      "country_code": "GB",
+      "country_name": "United Kingdom"
+    },
     {
       "source": "BBC World",
       "title": "US says helicopter fired missiles to disable ship breaking Iran blockade",
@@ -57,15 +93,6 @@
     },
     {
       "source": "BBC World",
-      "title": "Russia releases former US Marine reported in poor health",
-      "url": "https://www.bbc.co.uk/news/articles/cvgj4m8e1ryo?at_medium=RSS&at_campaign=rss",
-      "summary": "Trump said Robert Gilman, who was arrested in 2022, was released on a humanitarian basis, after he had reportedly been in a catatonic-like s…",
-      "published_at": "2026-08-11T17:02:22Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
       "title": "Russia using North Korean missiles to strike Ukraine, Zelensky says",
       "url": "https://www.bbc.co.uk/news/articles/c151dpzwnvxo?at_medium=RSS&at_campaign=rss",
       "summary": "Ukraine's president says strikes in Zaporizhzhia - which killed seven people - involved ballistic missiles from Russia's ally.",
@@ -99,15 +126,6 @@
       "published_at": "2026-08-11T15:11:54Z",
       "country_code": "TH",
       "country_name": "Thailand"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "Trump hid in catering truck in secret plane swap over Iran threat, reports say",
-      "url": "https://www.bbc.co.uk/news/articles/cm2g90vvy62o?at_medium=RSS&at_campaign=rss",
-      "summary": "The US president was reportedly part of a ruse where reporters were falsely told he was with them on Air Force One leaving a Nato summit in …",
-      "published_at": "2026-08-11T14:47:28Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC World",
@@ -870,7 +888,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 18
+      "news_count": 19
     },
     {
       "country_code": "IL",
@@ -938,6 +956,11 @@
       "news_count": 2
     },
     {
+      "country_code": "GB",
+      "country_name": "United Kingdom",
+      "news_count": 2
+    },
+    {
       "country_code": "IR",
       "country_name": "Iran",
       "news_count": 2
@@ -980,11 +1003,6 @@
     {
       "country_code": "FR",
       "country_name": "France",
-      "news_count": 1
-    },
-    {
-      "country_code": "GB",
-      "country_name": "United Kingdom",
       "news_count": 1
     },
     {
