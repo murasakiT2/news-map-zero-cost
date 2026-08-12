@@ -1,12 +1,21 @@
 {
-  "generated_at": "2026-08-12T12:42:10Z",
+  "generated_at": "2026-08-12T14:12:26Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "US inflation eases as food and fuel costs cool",
+      "url": "https://www.bbc.co.uk/news/articles/c0qv2nn1gpeo?at_medium=RSS&at_campaign=rss",
+      "summary": "Annual US inflation dipped to 3.4% in July, with food costs slowing and housing keeping prices slightly higher.",
+      "published_at": "2026-08-12T14:09:48Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "Israeli settlers besieging Palestinian families in West Bank village",
       "url": "https://www.bbc.co.uk/news/articles/cn0npjkqrleo?at_medium=RSS&at_campaign=rss",
       "summary": "Israeli security forces have reportedly withdrawn and about a dozen settlers are said to remain at the site where two families have been bes…",
-      "published_at": "2026-08-12T12:16:22Z",
+      "published_at": "2026-08-12T14:03:48Z",
       "country_code": "PS",
       "country_name": "Palestine"
     },
@@ -14,7 +23,7 @@
       "source": "BBC World",
       "title": "Zhu Rongji, who helped turn China into a trading giant, dies at 97",
       "url": "https://www.bbc.co.uk/news/articles/c75g9777wwxo?at_medium=RSS&at_campaign=rss",
-      "summary": "Zhu brought China into the WTO and championed reforms that fuelled growth.",
+      "summary": "The former premier brought China into the WTO and championed reforms that fuelled growth.",
       "published_at": "2026-08-12T12:10:45Z",
       "country_code": "CN",
       "country_name": "China"
@@ -142,15 +151,6 @@
       "url": "https://www.bbc.co.uk/news/articles/cvg8lyyyjedo?at_medium=RSS&at_campaign=rss",
       "summary": "US Central Command says its helicopter hit the engine room of a Panama-flagged cargo vessel in the Gulf of Oman.",
       "published_at": "2026-08-11T21:14:56Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "Inside the Secret Service 'shell game' to hide US presidents in plain sight",
-      "url": "https://www.bbc.co.uk/news/articles/c9d84874dzjo?at_medium=RSS&at_campaign=rss",
-      "summary": "Elaborate deception operations and decoys are often used to deceive potential threats to the US president.",
-      "published_at": "2026-08-11T20:39:42Z",
       "country_code": "US",
       "country_name": "United States"
     },
