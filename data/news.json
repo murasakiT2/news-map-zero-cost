@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-08-12T14:12:26Z",
+  "generated_at": "2026-08-12T15:25:54Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Members of Trump's cabinet remained on decoy plane, after Trump's quiet exit",
+      "url": "https://www.bbc.co.uk/news/articles/c4g306eln8wo?at_medium=RSS&at_campaign=rss",
+      "summary": "The president boarded a different plane in Turkey during a Nato summit to evade an Iranian threat.",
+      "published_at": "2026-08-12T14:44:48Z",
+      "country_code": "TR",
+      "country_name": "Turkey"
+    },
     {
       "source": "BBC World",
       "title": "US inflation eases as food and fuel costs cool",
@@ -92,7 +101,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "Trump's dramatic plane swap hints at personal stakes of Iran war",
       "url": "https://www.bbc.co.uk/news/articles/cly8jexn1z9o?at_medium=RSS&at_campaign=rss",
       "summary": "It marks another striking episode in the turbulent history of his relationship with Iran, writes the BBC's Anthony Zurcher.",
@@ -1022,6 +1031,11 @@
       "news_count": 2
     },
     {
+      "country_code": "TR",
+      "country_name": "Turkey",
+      "news_count": 2
+    },
+    {
       "country_code": "DZ",
       "country_name": "Algeria",
       "news_count": 1
@@ -1089,11 +1103,6 @@
     {
       "country_code": "TH",
       "country_name": "Thailand",
-      "news_count": 1
-    },
-    {
-      "country_code": "TR",
-      "country_name": "Turkey",
       "news_count": 1
     },
     {
