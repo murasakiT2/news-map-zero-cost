@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-08-12T17:24:25Z",
+  "generated_at": "2026-08-12T18:12:57Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Major Russian grain export terminals hit in Ukraine Black Sea port attack",
+      "url": "https://www.bbc.co.uk/news/articles/c5y49xp2wrno?at_medium=RSS&at_campaign=rss",
+      "summary": "Grain exports from both Russia and Ukraine are falling as both countries attack each other's shipping facilities and ports.",
+      "published_at": "2026-08-12T17:47:01Z",
+      "country_code": "RU",
+      "country_name": "Russia"
+    },
     {
       "source": "BBC World",
       "title": "US inflation eases as food and fuel costs cool",
@@ -982,13 +991,13 @@
       "news_count": 7
     },
     {
-      "country_code": "CO",
-      "country_name": "Colombia",
-      "news_count": 6
-    },
-    {
       "country_code": "RU",
       "country_name": "Russia",
+      "news_count": 7
+    },
+    {
+      "country_code": "CO",
+      "country_name": "Colombia",
       "news_count": 6
     },
     {
