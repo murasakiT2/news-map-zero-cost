@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-08-12T19:32:40Z",
+  "generated_at": "2026-08-12T20:31:06Z",
   "articles": [
+    {
+      "source": "BBC Africa",
+      "title": "Chawinga sisters fire Malawi into Wafcon final",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckg9p34wgxvo?at_medium=RSS&at_campaign=rss",
+      "summary": "Malawi's fairy tale run at the 2026 Women's Africa Cup of Nations goes on as sisters Tabitha and Temwa Chawinga share three goals in a 3-1 s…",
+      "published_at": "2026-08-12T19:57:26Z",
+      "country_code": "DZ",
+      "country_name": "Algeria"
+    },
+    {
+      "source": "BBC Asia",
+      "title": "Under strain, Australia's world-leading disability support faces major restructure",
+      "url": "https://www.bbc.co.uk/news/articles/c20d8g0qze0o?at_medium=RSS&at_campaign=rss",
+      "summary": "The NDIS was game-changing for its users - but as costs balloon, its success has led to its downfall.",
+      "published_at": "2026-08-12T19:56:41Z",
+      "country_code": "AU",
+      "country_name": "Australia"
+    },
     {
       "source": "BBC World",
       "title": "US immigration officers to be equipped with gloves that deliver electric shocks",
@@ -245,15 +263,6 @@
       "country_name": "Colombia"
     },
     {
-      "source": "BBC US & Canada",
-      "title": "Miss Universe Canada contestants apologise for wearing indigenous dress",
-      "url": "https://www.bbc.co.uk/news/articles/cx2kv12nqx6o?at_medium=RSS&at_campaign=rss",
-      "summary": "\"My outfit caused hurt and offence to people in the indigenous community,\" one of the contestants said after the pageant.",
-      "published_at": "2026-08-11T18:04:48Z",
-      "country_code": "CA",
-      "country_name": "Canada"
-    },
-    {
       "source": "BBC Europe",
       "title": "Russia using North Korean missiles to strike Ukraine, Zelensky says",
       "url": "https://www.bbc.co.uk/news/articles/c151dpzwnvxo?at_medium=RSS&at_campaign=rss",
@@ -333,15 +342,6 @@
       "published_at": "2026-08-11T07:55:22Z",
       "country_code": "AU",
       "country_name": "Australia"
-    },
-    {
-      "source": "BBC Asia",
-      "title": "US judge drops bribery and fraud case against Indian billionaire Gautam Adani",
-      "url": "https://www.bbc.co.uk/news/articles/clyqxknpp26o?at_medium=RSS&at_campaign=rss",
-      "summary": "The judge, however, criticised the way the Justice Department decided to drop the case.",
-      "published_at": "2026-08-11T06:33:03Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC Asia",
@@ -965,15 +965,6 @@
       "country_name": "Chile"
     },
     {
-      "source": "BBC Africa",
-      "title": "Many feared dead in another Nigeria boat disaster but why do they keep happening?",
-      "url": "https://www.bbc.co.uk/news/articles/c309vzn676go?at_medium=RSS&at_campaign=rss",
-      "summary": "Hundreds of lives are lost each year in Nigeria as a result of boat accidents yet nothing seems to change.",
-      "published_at": "2026-07-20T17:16:20Z",
-      "country_code": "NG",
-      "country_name": "Nigeria"
-    },
-    {
       "source": "BBC Europe",
       "title": "‘Everyone's afraid to die’: Struggle to recruit soldiers in Ukraine turns violent",
       "url": "https://www.bbc.co.uk/news/articles/cr7k5ngde3vo?at_medium=RSS&at_campaign=rss",
@@ -987,7 +978,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 22
+      "news_count": 21
     },
     {
       "country_code": "PS",
@@ -1010,19 +1001,14 @@
       "news_count": 6
     },
     {
-      "country_code": "NG",
-      "country_name": "Nigeria",
+      "country_code": "AU",
+      "country_name": "Australia",
       "news_count": 5
     },
     {
-      "country_code": "AU",
-      "country_name": "Australia",
+      "country_code": "NG",
+      "country_name": "Nigeria",
       "news_count": 4
-    },
-    {
-      "country_code": "CA",
-      "country_name": "Canada",
-      "news_count": 3
     },
     {
       "country_code": "ES",
@@ -1055,6 +1041,11 @@
       "news_count": 2
     },
     {
+      "country_code": "CA",
+      "country_name": "Canada",
+      "news_count": 2
+    },
+    {
       "country_code": "CL",
       "country_name": "Chile",
       "news_count": 2
@@ -1062,6 +1053,11 @@
     {
       "country_code": "CN",
       "country_name": "China",
+      "news_count": 2
+    },
+    {
+      "country_code": "DZ",
+      "country_name": "Algeria",
       "news_count": 2
     },
     {
@@ -1088,11 +1084,6 @@
       "country_code": "SD",
       "country_name": "Sudan",
       "news_count": 2
-    },
-    {
-      "country_code": "DZ",
-      "country_name": "Algeria",
-      "news_count": 1
     },
     {
       "country_code": "EG",
