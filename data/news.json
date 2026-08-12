@@ -1,6 +1,33 @@
 {
-  "generated_at": "2026-08-12T00:06:16Z",
+  "generated_at": "2026-08-12T03:01:32Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Trump says he switched planes after Nato summit because of possible threat",
+      "url": "https://www.bbc.co.uk/news/articles/c980r4wpl9lo?at_medium=RSS&at_campaign=rss",
+      "summary": "The president says the Secret Service wanted him to go on a different flight after the Nato summit in Turkey.",
+      "published_at": "2026-08-12T02:45:01Z",
+      "country_code": "TR",
+      "country_name": "Turkey"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "What to know about Trump's Patriot Games for high school athletes",
+      "url": "https://www.bbc.co.uk/news/articles/c89n5p4g38eo?at_medium=RSS&at_campaign=rss",
+      "summary": "Two teenagers from each state are competing as part of the celebration of America's 250th anniversary.",
+      "published_at": "2026-08-12T01:17:56Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Trump's dramatic plane swap hints at personal stakes of Iran war",
+      "url": "https://www.bbc.co.uk/news/articles/cly8jexn1z9o?at_medium=RSS&at_campaign=rss",
+      "summary": "It marks another striking episode in the turbulent history of his relationship with Iran, writes the BBC's Anthony Zurcher.",
+      "published_at": "2026-08-12T00:14:42Z",
+      "country_code": "IR",
+      "country_name": "Iran"
+    },
     {
       "source": "BBC World",
       "title": "Russia releases former US Marine reported in poor health",
@@ -155,15 +182,6 @@
       "country_name": "South Africa"
     },
     {
-      "source": "BBC US & Canada",
-      "title": "What to know about Trump's Patriot Games for high school athletes",
-      "url": "https://www.bbc.co.uk/news/articles/c89n5p4g38eo?at_medium=RSS&at_campaign=rss",
-      "summary": "Two teenagers from each state are competing as part of the celebration of America's 250th anniversary.",
-      "published_at": "2026-08-11T13:15:51Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC Africa",
       "title": "Ethiopia drone strike in north kills three, Tigray sources say",
       "url": "https://www.bbc.co.uk/news/articles/c24m8ge0qnpo?at_medium=RSS&at_campaign=rss",
@@ -209,7 +227,7 @@
       "country_name": "Australia"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "The lonely Chinese men being conned by fake brides",
       "url": "https://www.bbc.co.uk/news/articles/cn9n8pqglg4o?at_medium=RSS&at_campaign=rss",
       "summary": "\"Flash marriage\" scams are an extreme symptom of a demographic crisis long in the making in China.",
@@ -936,6 +954,11 @@
       "news_count": 3
     },
     {
+      "country_code": "IR",
+      "country_name": "Iran",
+      "news_count": 3
+    },
+    {
       "country_code": "ZA",
       "country_name": "South Africa",
       "news_count": 3
@@ -958,11 +981,6 @@
     {
       "country_code": "GB",
       "country_name": "United Kingdom",
-      "news_count": 2
-    },
-    {
-      "country_code": "IR",
-      "country_name": "Iran",
       "news_count": 2
     },
     {
@@ -1038,6 +1056,11 @@
     {
       "country_code": "TH",
       "country_name": "Thailand",
+      "news_count": 1
+    },
+    {
+      "country_code": "TR",
+      "country_name": "Turkey",
       "news_count": 1
     },
     {
