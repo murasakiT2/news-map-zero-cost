@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-08-12T08:07:57Z",
+  "generated_at": "2026-08-12T09:36:04Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Singapore and S Korea pull Trader Joe's seasoning over poppy seeds",
+      "url": "https://www.bbc.co.uk/news/articles/cdewpklnzwxo?at_medium=RSS&at_campaign=rss",
+      "summary": "Trader Joe's Everything But the Bagel seasoning contains poppy seeds which are banned in both countries.",
+      "published_at": "2026-08-12T07:44:44Z",
+      "country_code": "SG",
+      "country_name": "Singapore"
+    },
     {
       "source": "BBC Asia",
       "title": "Indonesia haze spreads across region as firefighters battle wildfires",
@@ -1061,6 +1070,11 @@
     {
       "country_code": "PT",
       "country_name": "Portugal",
+      "news_count": 1
+    },
+    {
+      "country_code": "SG",
+      "country_name": "Singapore",
       "news_count": 1
     },
     {
