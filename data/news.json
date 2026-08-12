@@ -1,14 +1,23 @@
 {
-  "generated_at": "2026-08-12T03:01:32Z",
+  "generated_at": "2026-08-12T05:10:43Z",
   "articles": [
     {
       "source": "BBC World",
-      "title": "Trump says he switched planes after Nato summit because of possible threat",
-      "url": "https://www.bbc.co.uk/news/articles/c980r4wpl9lo?at_medium=RSS&at_campaign=rss",
-      "summary": "The president says the Secret Service wanted him to go on a different flight after the Nato summit in Turkey.",
-      "published_at": "2026-08-12T02:45:01Z",
-      "country_code": "TR",
-      "country_name": "Turkey"
+      "title": "Bondi Beach shooting hero's assault charges dropped by police",
+      "url": "https://www.bbc.co.uk/news/articles/crk51ky7xzlo?at_medium=RSS&at_campaign=rss",
+      "summary": "Police charged Ahmed al Ahmed in June after an alleged incident with his father at a Sydney home.",
+      "published_at": "2026-08-12T02:59:51Z",
+      "country_code": "AU",
+      "country_name": "Australia"
+    },
+    {
+      "source": "BBC World",
+      "title": "New Zealand PM survives second leadership challenge ahead of election",
+      "url": "https://www.bbc.co.uk/news/articles/cx2ve2jk5qeo?at_medium=RSS&at_campaign=rss",
+      "summary": "Christopher Luxon says he has \"full support\" of his party, after a vote of confidence 12 weeks before a general election.",
+      "published_at": "2026-08-12T02:51:02Z",
+      "country_code": "NZ",
+      "country_name": "New Zealand"
     },
     {
       "source": "BBC US & Canada",
@@ -200,7 +209,7 @@
       "country_name": "Colombia"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "Australia PM under fire for remarks on Japanese counterpart's melon gifts",
       "url": "https://www.bbc.co.uk/news/articles/c0jl6ewvq42o?at_medium=RSS&at_campaign=rss",
       "summary": "An ex-Japanese envoy said the \"sexist\" comments \"betrayed the close bond\" between the countries.",
@@ -919,14 +928,14 @@
       "news_count": 7
     },
     {
-      "country_code": "RU",
-      "country_name": "Russia",
+      "country_code": "AU",
+      "country_name": "Australia",
       "news_count": 6
     },
     {
-      "country_code": "AU",
-      "country_name": "Australia",
-      "news_count": 5
+      "country_code": "RU",
+      "country_name": "Russia",
+      "news_count": 6
     },
     {
       "country_code": "CO",
@@ -1039,6 +1048,11 @@
       "news_count": 1
     },
     {
+      "country_code": "NZ",
+      "country_name": "New Zealand",
+      "news_count": 1
+    },
+    {
       "country_code": "PH",
       "country_name": "Philippines",
       "news_count": 1
@@ -1056,11 +1070,6 @@
     {
       "country_code": "TH",
       "country_name": "Thailand",
-      "news_count": 1
-    },
-    {
-      "country_code": "TR",
-      "country_name": "Turkey",
       "news_count": 1
     },
     {
