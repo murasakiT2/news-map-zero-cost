@@ -1,12 +1,30 @@
 {
-  "generated_at": "2026-08-12T15:25:54Z",
+  "generated_at": "2026-08-12T16:23:03Z",
   "articles": [
     {
       "source": "BBC World",
-      "title": "Members of Trump's cabinet remained on decoy plane, after Trump's quiet exit",
+      "title": "Israeli settlers besieging Palestinian families in West Bank village",
+      "url": "https://www.bbc.co.uk/news/articles/cn0npjkqrleo?at_medium=RSS&at_campaign=rss",
+      "summary": "Israeli security forces have reportedly withdrawn and about a dozen settlers are said to remain at the site where two families have been bes…",
+      "published_at": "2026-08-12T16:14:08Z",
+      "country_code": "PS",
+      "country_name": "Palestine"
+    },
+    {
+      "source": "BBC World",
+      "title": "Thousands of Canadians call for US ambassador's expulsion",
+      "url": "https://www.bbc.co.uk/news/articles/c9d83j4ql2xo?at_medium=RSS&at_campaign=rss",
+      "summary": "An online petition accusing Pete Hoekstra of diplomatic interference in Canadian domestic affairs has garnered more than 60,000 signatures.",
+      "published_at": "2026-08-12T16:03:19Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Members of Trump's cabinet remained on decoy plane, after president's quiet exit",
       "url": "https://www.bbc.co.uk/news/articles/c4g306eln8wo?at_medium=RSS&at_campaign=rss",
-      "summary": "The president boarded a different plane in Turkey during a Nato summit to evade an Iranian threat.",
-      "published_at": "2026-08-12T14:44:48Z",
+      "summary": "Trump boarded a different plane in Turkey during a Nato summit for security reasons involving Iran.",
+      "published_at": "2026-08-12T15:57:18Z",
       "country_code": "TR",
       "country_name": "Turkey"
     },
@@ -20,13 +38,13 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
-      "title": "Israeli settlers besieging Palestinian families in West Bank village",
-      "url": "https://www.bbc.co.uk/news/articles/cn0npjkqrleo?at_medium=RSS&at_campaign=rss",
-      "summary": "Israeli security forces have reportedly withdrawn and about a dozen settlers are said to remain at the site where two families have been bes…",
-      "published_at": "2026-08-12T14:03:48Z",
-      "country_code": "PS",
-      "country_name": "Palestine"
+      "source": "BBC US & Canada",
+      "title": "Watch: Trump tells reporters why he switched planes",
+      "url": "https://www.bbc.co.uk/news/videos/cp30p4ze3gxo?at_medium=RSS&at_campaign=rss",
+      "summary": "The President confirmed that he secretly swapped planes as he left a Nato summit in Turkey last month due to a possible threat.",
+      "published_at": "2026-08-12T13:13:40Z",
+      "country_code": "TR",
+      "country_name": "Turkey"
     },
     {
       "source": "BBC World",
@@ -933,7 +951,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 18
+      "news_count": 19
     },
     {
       "country_code": "PS",
@@ -986,6 +1004,11 @@
       "news_count": 3
     },
     {
+      "country_code": "TR",
+      "country_name": "Turkey",
+      "news_count": 3
+    },
+    {
       "country_code": "ZA",
       "country_name": "South Africa",
       "news_count": 3
@@ -1028,11 +1051,6 @@
     {
       "country_code": "SD",
       "country_name": "Sudan",
-      "news_count": 2
-    },
-    {
-      "country_code": "TR",
-      "country_name": "Turkey",
       "news_count": 2
     },
     {
