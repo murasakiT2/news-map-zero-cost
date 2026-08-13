@@ -1,23 +1,32 @@
 {
-  "generated_at": "2026-08-13T05:14:47Z",
+  "generated_at": "2026-08-13T06:52:59Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Japan protests against Putin visit to disputed islands",
+      "url": "https://www.bbc.co.uk/news/articles/cqx7ple0nxxo?at_medium=RSS&at_campaign=rss",
+      "summary": "It was the first time the Russian leader had visited the Kuril islands, according to state media.",
+      "published_at": "2026-08-13T06:21:31Z",
+      "country_code": "JP",
+      "country_name": "Japan"
+    },
+    {
+      "source": "BBC Asia",
+      "title": "South Korea's Incheon airport beats Heathrow to become world's busiest",
+      "url": "https://www.bbc.co.uk/news/articles/cr49p1279n0o?at_medium=RSS&at_campaign=rss",
+      "summary": "The airport said diversions caused by the Middle East conflict helped boost its traffic, while Heathrow was ranked second.",
+      "published_at": "2026-08-13T05:49:22Z",
+      "country_code": "KR",
+      "country_name": "South Korea"
+    },
     {
       "source": "BBC World",
       "title": "Putin can no longer claim victory in Ukraine, Nobel Peace Prize winner tells BBC",
       "url": "https://www.bbc.co.uk/news/articles/c74grmy2v7ko?at_medium=RSS&at_campaign=rss",
-      "summary": "In an exclusive interview with the BBC’s Steve Rosenberg, Dmitry Muratov says the Kremlin leader can only “destroy Ukraine, not conquer it,”…",
+      "summary": "In an exclusive interview with the BBC’s Steve Rosenberg, Dmitry Muratov says the Kremlin leader can only \"destroy Ukraine, not conquer it\",…",
       "published_at": "2026-08-13T04:55:58Z",
       "country_code": "UA",
       "country_name": "Ukraine"
-    },
-    {
-      "source": "BBC World",
-      "title": "Japan protests Putin visit to disputed islands",
-      "url": "https://www.bbc.co.uk/news/articles/cqx7ple0nxxo?at_medium=RSS&at_campaign=rss",
-      "summary": "The Russian leader visited the Kuril islands for the first time, according to state media.",
-      "published_at": "2026-08-13T04:50:16Z",
-      "country_code": "JP",
-      "country_name": "Japan"
     },
     {
       "source": "BBC World",
@@ -135,6 +144,15 @@
       "published_at": "2026-08-12T17:03:05Z",
       "country_code": "US",
       "country_name": "United States"
+    },
+    {
+      "source": "BBC Africa",
+      "title": "Freestyle fundamentals with Nigeria's national champion",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cp3rp1v2y24o?at_medium=RSS&at_campaign=rss",
+      "summary": "Meet Evelyn Okafor – a four-time Nigerian champion, three-time African champion, and the first African woman to qualify for the World Freest…",
+      "published_at": "2026-08-12T16:29:59Z",
+      "country_code": "NG",
+      "country_name": "Nigeria"
     },
     {
       "source": "BBC World",
@@ -477,15 +495,6 @@
       "published_at": "2026-08-09T23:02:39Z",
       "country_code": "CA",
       "country_name": "Canada"
-    },
-    {
-      "source": "BBC Africa",
-      "title": "African quartet secure Women's World Cup places",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c4gw456e3xxo?at_medium=RSS&at_campaign=rss",
-      "summary": "Algeria, Morocco, Cameroon and Malawi all qualify for the 2027 Women's World Cup in Brazil by reaching the semi-finals of the Women's Africa…",
-      "published_at": "2026-08-09T22:06:43Z",
-      "country_code": "DZ",
-      "country_name": "Algeria"
     },
     {
       "source": "BBC Europe",
@@ -1003,7 +1012,7 @@
     {
       "country_code": "NG",
       "country_name": "Nigeria",
-      "news_count": 5
+      "news_count": 6
     },
     {
       "country_code": "AU",
@@ -1056,11 +1065,6 @@
       "news_count": 2
     },
     {
-      "country_code": "DZ",
-      "country_name": "Algeria",
-      "news_count": 2
-    },
-    {
       "country_code": "IT",
       "country_name": "Italy",
       "news_count": 2
@@ -1091,6 +1095,11 @@
       "news_count": 2
     },
     {
+      "country_code": "DZ",
+      "country_name": "Algeria",
+      "news_count": 1
+    },
+    {
       "country_code": "EG",
       "country_name": "Egypt",
       "news_count": 1
@@ -1113,6 +1122,11 @@
     {
       "country_code": "ID",
       "country_name": "Indonesia",
+      "news_count": 1
+    },
+    {
+      "country_code": "KR",
+      "country_name": "South Korea",
       "news_count": 1
     },
     {
