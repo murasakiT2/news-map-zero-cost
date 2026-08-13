@@ -1,14 +1,32 @@
 {
-  "generated_at": "2026-08-13T09:36:50Z",
+  "generated_at": "2026-08-13T10:51:33Z",
   "articles": [
     {
       "source": "BBC World",
       "title": "Japan PM says Putin's visit to disputed islands 'absolutely unacceptable'",
       "url": "https://www.bbc.co.uk/news/articles/cqx7ple0nxxo?at_medium=RSS&at_campaign=rss",
       "summary": "It was the first time the Russian leader had visited the Kuril islands, according to state media.",
-      "published_at": "2026-08-13T08:13:55Z",
+      "published_at": "2026-08-13T09:54:03Z",
       "country_code": "JP",
       "country_name": "Japan"
+    },
+    {
+      "source": "BBC World",
+      "title": "UK defends seizing shadow fleet tanker after Putin threat",
+      "url": "https://www.bbc.co.uk/news/articles/cn0npn249qvo?at_medium=RSS&at_campaign=rss",
+      "summary": "The UK government says it is \"disrupting and deterring shadow fleet vessels\" in accordance with the law.",
+      "published_at": "2026-08-13T09:52:30Z",
+      "country_code": "GB",
+      "country_name": "United Kingdom"
+    },
+    {
+      "source": "BBC World",
+      "title": "Members of Trump's cabinet remained on decoy plane, after president's quiet exit",
+      "url": "https://www.bbc.co.uk/news/articles/c4g306eln8wo?at_medium=RSS&at_campaign=rss",
+      "summary": "Trump boarded a different plane in Turkey during a Nato summit for security reasons involving Iran.",
+      "published_at": "2026-08-13T09:40:18Z",
+      "country_code": "TR",
+      "country_name": "Turkey"
     },
     {
       "source": "BBC World",
@@ -30,7 +48,7 @@
     },
     {
       "source": "BBC Asia",
-      "title": "South Korea's Incheon airport beats Heathrow to become world's busiest",
+      "title": "South Korea's Incheon airport becomes world's busiest for global traffic",
       "url": "https://www.bbc.co.uk/news/articles/cr49p1279n0o?at_medium=RSS&at_campaign=rss",
       "summary": "The airport said diversions caused by the Middle East conflict helped boost its traffic, while Heathrow was ranked second.",
       "published_at": "2026-08-13T05:49:22Z",
@@ -72,15 +90,6 @@
       "published_at": "2026-08-12T23:22:57Z",
       "country_code": "DZ",
       "country_name": "Algeria"
-    },
-    {
-      "source": "BBC World",
-      "title": "Members of Trump's cabinet remained on decoy plane, after president's quiet exit",
-      "url": "https://www.bbc.co.uk/news/articles/c4g306eln8wo?at_medium=RSS&at_campaign=rss",
-      "summary": "Trump boarded a different plane in Turkey during a Nato summit for security reasons involving Iran.",
-      "published_at": "2026-08-12T23:19:57Z",
-      "country_code": "TR",
-      "country_name": "Turkey"
     },
     {
       "source": "BBC World",
@@ -279,15 +288,6 @@
       "published_at": "2026-08-11T23:16:38Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "Watch: What is it like to travel on Air Force One with Trump?",
-      "url": "https://www.bbc.co.uk/news/videos/cy4k1jldxnwo?at_medium=RSS&at_campaign=rss",
-      "summary": "Donald Trump secretly swapped planes as he left a Nato summit in Turkey last month, deceiving even the press pool who flew on board without …",
-      "published_at": "2026-08-11T21:49:01Z",
-      "country_code": "TR",
-      "country_name": "Turkey"
     },
     {
       "source": "BBC Middle East",
@@ -981,11 +981,6 @@
       "news_count": 3
     },
     {
-      "country_code": "TR",
-      "country_name": "Turkey",
-      "news_count": 3
-    },
-    {
       "country_code": "CL",
       "country_name": "Chile",
       "news_count": 2
@@ -993,6 +988,11 @@
     {
       "country_code": "CN",
       "country_name": "China",
+      "news_count": 2
+    },
+    {
+      "country_code": "GB",
+      "country_name": "United Kingdom",
       "news_count": 2
     },
     {
@@ -1013,6 +1013,11 @@
     {
       "country_code": "SD",
       "country_name": "Sudan",
+      "news_count": 2
+    },
+    {
+      "country_code": "TR",
+      "country_name": "Turkey",
       "news_count": 2
     },
     {
@@ -1048,11 +1053,6 @@
     {
       "country_code": "FR",
       "country_name": "France",
-      "news_count": 1
-    },
-    {
-      "country_code": "GB",
-      "country_name": "United Kingdom",
       "news_count": 1
     },
     {
