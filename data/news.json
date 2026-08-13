@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-08-13T08:10:03Z",
+  "generated_at": "2026-08-13T09:36:50Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Japan PM says Putin's visit to disputed islands 'absolutely unacceptable'",
+      "url": "https://www.bbc.co.uk/news/articles/cqx7ple0nxxo?at_medium=RSS&at_campaign=rss",
+      "summary": "It was the first time the Russian leader had visited the Kuril islands, according to state media.",
+      "published_at": "2026-08-13T08:13:55Z",
+      "country_code": "JP",
+      "country_name": "Japan"
+    },
+    {
+      "source": "BBC World",
+      "title": "More troops to be sent to West Bank village besieged by Israeli settlers",
+      "url": "https://www.bbc.co.uk/news/articles/cj4kppdk2qwo?at_medium=RSS&at_campaign=rss",
+      "summary": "Two Palestinian families in the village of Qusra say they have been trapped in their homes, with water and power cut off, since Sunday.",
+      "published_at": "2026-08-13T08:12:53Z",
+      "country_code": "PS",
+      "country_name": "Palestine"
+    },
     {
       "source": "BBC World",
       "title": "Indian actor's video with endangered gibbon sparks investigation",
@@ -9,15 +27,6 @@
       "published_at": "2026-08-13T07:05:35Z",
       "country_code": "IN",
       "country_name": "India"
-    },
-    {
-      "source": "BBC World",
-      "title": "Japan protests against Putin visit to disputed islands",
-      "url": "https://www.bbc.co.uk/news/articles/cqx7ple0nxxo?at_medium=RSS&at_campaign=rss",
-      "summary": "It was the first time the Russian leader had visited the Kuril islands, according to state media.",
-      "published_at": "2026-08-13T06:21:31Z",
-      "country_code": "JP",
-      "country_name": "Japan"
     },
     {
       "source": "BBC Asia",
@@ -115,15 +124,6 @@
       "url": "https://www.bbc.co.uk/news/articles/c20d292gdp4o?at_medium=RSS&at_campaign=rss",
       "summary": "The US immigration agency is spending $20m on gloves that deliver a sharp electric shock intended to compel subjects to comply.",
       "published_at": "2026-08-12T21:53:26Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "Sixteen inmates injured after lightning strikes US prison",
-      "url": "https://www.bbc.co.uk/news/articles/cvg0zn3dv9ko?at_medium=RSS&at_campaign=rss",
-      "summary": "Ohio and other midwestern states have seen severe storms in recent days, which have damaged homes and have been linked to three fatalities.",
-      "published_at": "2026-08-12T21:14:10Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -326,15 +326,6 @@
       "country_name": "Russia"
     },
     {
-      "source": "BBC World",
-      "title": "Watch: Why was Trump smuggled out of Air Force One in a catering truck?",
-      "url": "https://www.bbc.co.uk/news/videos/cj3672ljgzro?at_medium=RSS&at_campaign=rss",
-      "summary": "US media reports say the president secretly left via a catering truck to avoid a threat to his life from Iran.",
-      "published_at": "2026-08-11T15:53:53Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC Asia",
       "title": "Thailand suspends new gun permits after mass shooting",
       "url": "https://www.bbc.co.uk/news/articles/cm2g550v0pvo?at_medium=RSS&at_campaign=rss",
@@ -351,15 +342,6 @@
       "published_at": "2026-08-11T14:19:45Z",
       "country_code": "FR",
       "country_name": "France"
-    },
-    {
-      "source": "BBC Africa",
-      "title": "South Africa dump site collapse kills 14 suspected illegal miners",
-      "url": "https://www.bbc.co.uk/news/articles/cq6djprvevlo?at_medium=RSS&at_campaign=rss",
-      "summary": "The authorities are searching for anyone who may still be trapped under the rubble.",
-      "published_at": "2026-08-11T13:57:56Z",
-      "country_code": "ZA",
-      "country_name": "South Africa"
     },
     {
       "source": "BBC Latin America",
@@ -477,15 +459,6 @@
       "published_at": "2026-08-10T00:39:14Z",
       "country_code": "IN",
       "country_name": "India"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "'Not afraid to stay': The Canadians who want to change how wildfires are fought",
-      "url": "https://www.bbc.co.uk/news/articles/c20d89jxpqno?at_medium=RSS&at_campaign=rss",
-      "summary": "With wildfires now widespread and frequent, some rural residents in Canada are learning how to fight the flames themselves and protect their…",
-      "published_at": "2026-08-09T23:02:39Z",
-      "country_code": "CA",
-      "country_name": "Canada"
     },
     {
       "source": "BBC Middle East",
@@ -867,15 +840,6 @@
     },
     {
       "source": "BBC Middle East",
-      "title": "'End this nightmare': Wife of ailing Briton jailed in Saudi Arabia appeals for release",
-      "url": "https://www.bbc.co.uk/news/articles/ckg4jxxn4ggo?at_medium=RSS&at_campaign=rss",
-      "summary": "Ahmed al-Doush has been in jail in Saudi Arabia since 2024, apparently over a handful of social media posts dating back several years.",
-      "published_at": "2026-07-30T06:51:46Z",
-      "country_code": "SA",
-      "country_name": "Saudi Arabia"
-    },
-    {
-      "source": "BBC Middle East",
       "title": "Israel building new land barriers in Gaza and displacing families",
       "url": "https://www.bbc.co.uk/news/articles/cpvwjmme3p0o?at_medium=RSS&at_campaign=rss",
       "summary": "Experts have told the BBC that the earthworks suggest Israel is planning for a long-term internal border.",
@@ -969,16 +933,16 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 19
-    },
-    {
-      "country_code": "IL",
-      "country_name": "Israel",
-      "news_count": 7
+      "news_count": 17
     },
     {
       "country_code": "PS",
       "country_name": "Palestine",
+      "news_count": 8
+    },
+    {
+      "country_code": "IL",
+      "country_name": "Israel",
       "news_count": 7
     },
     {
@@ -1022,16 +986,6 @@
       "news_count": 3
     },
     {
-      "country_code": "ZA",
-      "country_name": "South Africa",
-      "news_count": 3
-    },
-    {
-      "country_code": "CA",
-      "country_name": "Canada",
-      "news_count": 2
-    },
-    {
       "country_code": "CL",
       "country_name": "Chile",
       "news_count": 2
@@ -1057,11 +1011,6 @@
       "news_count": 2
     },
     {
-      "country_code": "SA",
-      "country_name": "Saudi Arabia",
-      "news_count": 2
-    },
-    {
       "country_code": "SD",
       "country_name": "Sudan",
       "news_count": 2
@@ -1072,8 +1021,18 @@
       "news_count": 2
     },
     {
+      "country_code": "ZA",
+      "country_name": "South Africa",
+      "news_count": 2
+    },
+    {
       "country_code": "AE",
       "country_name": "United Arab Emirates",
+      "news_count": 1
+    },
+    {
+      "country_code": "CA",
+      "country_name": "Canada",
       "news_count": 1
     },
     {
@@ -1139,6 +1098,11 @@
     {
       "country_code": "PT",
       "country_name": "Portugal",
+      "news_count": 1
+    },
+    {
+      "country_code": "SA",
+      "country_name": "Saudi Arabia",
       "news_count": 1
     },
     {
