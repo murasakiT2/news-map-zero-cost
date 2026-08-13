@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-08-12T23:09:39Z",
+  "generated_at": "2026-08-13T00:04:45Z",
   "articles": [
+    {
+      "source": "BBC Africa",
+      "title": "Keeper Bihina stars as Cameroon upset Morocco to make Wafcon final",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckg3pzne52xo?at_medium=RSS&at_campaign=rss",
+      "summary": "Cameroon's Michaely Bihina saves an extra-time penalty and three more spot kicks in a shootout to send her side though to the 2026 Wafcon fi…",
+      "published_at": "2026-08-12T23:36:44Z",
+      "country_code": "MA",
+      "country_name": "Morocco"
+    },
+    {
+      "source": "BBC Africa",
+      "title": "Chawinga sisters fire Malawi into Wafcon final",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckg9p34wgxvo?at_medium=RSS&at_campaign=rss",
+      "summary": "Malawi's fairy tale run at the 2026 Women's Africa Cup of Nations goes on as sisters Tabitha and Temwa Chawinga share three goals in a 3-1 s…",
+      "published_at": "2026-08-12T23:22:57Z",
+      "country_code": "DZ",
+      "country_name": "Algeria"
+    },
+    {
+      "source": "BBC World",
+      "title": "Members of Trump's cabinet remained on decoy plane, after president's quiet exit",
+      "url": "https://www.bbc.co.uk/news/articles/c4g306eln8wo?at_medium=RSS&at_campaign=rss",
+      "summary": "Trump boarded a different plane in Turkey during a Nato summit for security reasons involving Iran.",
+      "published_at": "2026-08-12T23:19:57Z",
+      "country_code": "TR",
+      "country_name": "Turkey"
+    },
+    {
+      "source": "BBC World",
+      "title": "Vultures are disappearing in Nigeria - but the 'Vulture King' is fighting to reverse the trend",
+      "url": "https://www.bbc.co.uk/news/articles/cx256pp33l3o?at_medium=RSS&at_campaign=rss",
+      "summary": "Some see them as sinister or hunt them for ritual use but these birds play a vital role in nature's cycle.",
+      "published_at": "2026-08-12T23:19:28Z",
+      "country_code": "NG",
+      "country_name": "Nigeria"
+    },
     {
       "source": "BBC World",
       "title": "Thousands of Canadians call for US ambassador's expulsion",
@@ -47,15 +83,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
-      "title": "Members of Trump's cabinet remained on decoy plane, after president's quiet exit",
-      "url": "https://www.bbc.co.uk/news/articles/c4g306eln8wo?at_medium=RSS&at_campaign=rss",
-      "summary": "Trump boarded a different plane in Turkey during a Nato summit for security reasons involving Iran.",
-      "published_at": "2026-08-12T20:58:39Z",
-      "country_code": "TR",
-      "country_name": "Turkey"
-    },
-    {
       "source": "BBC US & Canada",
       "title": "Three men will be executed on the same day as death penalties rise in US",
       "url": "https://www.bbc.co.uk/news/articles/cn5n399n6zvo?at_medium=RSS&at_campaign=rss",
@@ -63,15 +90,6 @@
       "published_at": "2026-08-12T20:52:20Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC Africa",
-      "title": "Chawinga sisters fire Malawi into Wafcon final",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckg9p34wgxvo?at_medium=RSS&at_campaign=rss",
-      "summary": "Malawi's fairy tale run at the 2026 Women's Africa Cup of Nations goes on as sisters Tabitha and Temwa Chawinga share three goals in a 3-1 s…",
-      "published_at": "2026-08-12T19:57:26Z",
-      "country_code": "DZ",
-      "country_name": "Algeria"
     },
     {
       "source": "BBC World",
@@ -990,7 +1008,7 @@
     {
       "country_code": "NG",
       "country_name": "Nigeria",
-      "news_count": 4
+      "news_count": 5
     },
     {
       "country_code": "ES",
@@ -1090,6 +1108,11 @@
     {
       "country_code": "JP",
       "country_name": "Japan",
+      "news_count": 1
+    },
+    {
+      "country_code": "MA",
+      "country_name": "Morocco",
       "news_count": 1
     },
     {
