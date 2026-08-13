@@ -1,12 +1,21 @@
 {
-  "generated_at": "2026-08-13T21:20:44Z",
+  "generated_at": "2026-08-13T22:08:12Z",
   "articles": [
     {
       "source": "BBC World",
       "title": "Conditions on US aircraft carrier at sea for more than 250 days raise alarms",
       "url": "https://www.bbc.co.uk/news/articles/cyvl2d5j52lo?at_medium=RSS&at_campaign=rss",
       "summary": "Thousands of sailors on the USS Abraham Lincoln have reportedly faced food shortages and broken plumbing, with some considering jumping over…",
-      "published_at": "2026-08-13T20:01:30Z",
+      "published_at": "2026-08-13T22:02:54Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Engine parts smashed Ryanair window that man's head was sucked out of, report says",
+      "url": "https://www.bbc.co.uk/news/articles/cr59j4z3vl8o?at_medium=RSS&at_campaign=rss",
+      "summary": "A preliminary report by US investigators says an engine fan blade broke on last month's flight from Greece to Germany.",
+      "published_at": "2026-08-13T21:43:47Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -227,7 +236,7 @@
       "country_name": "Turkey"
     },
     {
-      "source": "BBC Asia",
+      "source": "BBC World",
       "title": "Zhu Rongji, who helped turn China into a trading giant, dies at 97",
       "url": "https://www.bbc.co.uk/news/articles/c75g9777wwxo?at_medium=RSS&at_campaign=rss",
       "summary": "The former premier brought China into the WTO and championed reforms that fuelled growth.",
@@ -794,15 +803,6 @@
       "country_name": "Saudi Arabia"
     },
     {
-      "source": "BBC Europe",
-      "title": "Influx of migrants to Ceuta gives Spain diplomatic headache",
-      "url": "https://www.bbc.co.uk/news/articles/cr7k49p7enjo?at_medium=RSS&at_campaign=rss",
-      "summary": "The incident has sparked concern in Europe while Spain also faces a challenge in balancing its relations with neighbouring Morocco and Alger…",
-      "published_at": "2026-07-31T19:17:09Z",
-      "country_code": "ES",
-      "country_name": "Spain"
-    },
-    {
       "source": "BBC Middle East",
       "title": "What's in the Gaza peace deal roadmap?",
       "url": "https://www.bbc.co.uk/news/articles/c20e94k2ex5o?at_medium=RSS&at_campaign=rss",
@@ -897,7 +897,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 17
+      "news_count": 18
     },
     {
       "country_code": "IL",
@@ -940,11 +940,6 @@
       "news_count": 4
     },
     {
-      "country_code": "ES",
-      "country_name": "Spain",
-      "news_count": 3
-    },
-    {
       "country_code": "CA",
       "country_name": "Canada",
       "news_count": 2
@@ -952,6 +947,11 @@
     {
       "country_code": "CN",
       "country_name": "China",
+      "news_count": 2
+    },
+    {
+      "country_code": "ES",
+      "country_name": "Spain",
       "news_count": 2
     },
     {
