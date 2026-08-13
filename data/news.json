@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-08-13T10:51:33Z",
+  "generated_at": "2026-08-13T11:37:57Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "UK defends seizing shadow fleet tanker after Putin threat",
+      "url": "https://www.bbc.co.uk/news/articles/cn0npn249qvo?at_medium=RSS&at_campaign=rss",
+      "summary": "The UK government says it is \"disrupting and deterring shadow fleet vessels\" in accordance with the law.",
+      "published_at": "2026-08-13T11:05:03Z",
+      "country_code": "GB",
+      "country_name": "United Kingdom"
+    },
     {
       "source": "BBC World",
       "title": "Japan PM says Putin's visit to disputed islands 'absolutely unacceptable'",
@@ -9,15 +18,6 @@
       "published_at": "2026-08-13T09:54:03Z",
       "country_code": "JP",
       "country_name": "Japan"
-    },
-    {
-      "source": "BBC World",
-      "title": "UK defends seizing shadow fleet tanker after Putin threat",
-      "url": "https://www.bbc.co.uk/news/articles/cn0npn249qvo?at_medium=RSS&at_campaign=rss",
-      "summary": "The UK government says it is \"disrupting and deterring shadow fleet vessels\" in accordance with the law.",
-      "published_at": "2026-08-13T09:52:30Z",
-      "country_code": "GB",
-      "country_name": "United Kingdom"
     },
     {
       "source": "BBC World",
@@ -120,15 +120,6 @@
     },
     {
       "source": "BBC World",
-      "title": "Why are 'human fridges' being sold in Japan?",
-      "url": "https://www.bbc.co.uk/news/videos/cjej4y3gvzlo?at_medium=RSS&at_campaign=rss",
-      "summary": "As Japan swelters through extreme summer heat, BBC Tokyo correspondent Kurumi Mori tries out a new way to cool down.",
-      "published_at": "2026-08-12T22:07:47Z",
-      "country_code": "JP",
-      "country_name": "Japan"
-    },
-    {
-      "source": "BBC World",
       "title": "ICE plans to equip agents with gloves that can deliver electric shocks",
       "url": "https://www.bbc.co.uk/news/articles/c20d292gdp4o?at_medium=RSS&at_campaign=rss",
       "summary": "The US immigration agency is spending $20m on gloves that deliver a sharp electric shock intended to compel subjects to comply.",
@@ -153,6 +144,15 @@
       "published_at": "2026-08-12T19:56:41Z",
       "country_code": "AU",
       "country_name": "Australia"
+    },
+    {
+      "source": "BBC Latin America",
+      "title": "Discord ordered to suspend livestreams in Brazil",
+      "url": "https://www.bbc.co.uk/news/articles/cgewpqxyrddo?at_medium=RSS&at_campaign=rss",
+      "summary": "Discord told the BBC it was \"thoughtfully reviewing\" the order by Brazil's data protection agency and it was \"committed to user safety\"",
+      "published_at": "2026-08-12T17:10:31Z",
+      "country_code": "BR",
+      "country_name": "Brazil"
     },
     {
       "source": "BBC US & Canada",
@@ -299,20 +299,11 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Latin America",
       "title": "In shattered Cali, residents search for loved ones and signs of hope",
       "url": "https://www.bbc.co.uk/news/videos/ckge0e0g95no?at_medium=RSS&at_campaign=rss",
       "summary": "Most deaths from the magnitude-7.4 quake were reported in Cali, Colombia’s third-most populous city, as crews search collapsed buildings for…",
       "published_at": "2026-08-11T19:15:48Z",
-      "country_code": "CO",
-      "country_name": "Colombia"
-    },
-    {
-      "source": "BBC Latin America",
-      "title": "Rescuers scramble for survivors with 180 dead in Colombia earthquake",
-      "url": "https://www.bbc.co.uk/news/articles/c20dqd9qwq4o?at_medium=RSS&at_campaign=rss",
-      "summary": "Colombia experienced a number of aftershocks on Tuesday, as efforts continued to free survivors trapped in rubble and buildings.",
-      "published_at": "2026-08-11T19:09:52Z",
       "country_code": "CO",
       "country_name": "Colombia"
     },
@@ -360,6 +351,15 @@
       "published_at": "2026-08-10T22:02:21Z",
       "country_code": "CN",
       "country_name": "China"
+    },
+    {
+      "source": "BBC Latin America",
+      "title": "Watch: Moment powerful earthquake shakes Colombia and crumbles buildings",
+      "url": "https://www.bbc.co.uk/news/videos/cz6473llqpwo?at_medium=RSS&at_campaign=rss",
+      "summary": "At least 111 people have been killed and dozens more injured after the 7.4 temblor hit the western part of the country, according to local o…",
+      "published_at": "2026-08-10T20:55:34Z",
+      "country_code": "CO",
+      "country_name": "Colombia"
     },
     {
       "source": "BBC US & Canada",
@@ -423,15 +423,6 @@
       "published_at": "2026-08-10T14:34:25Z",
       "country_code": "RU",
       "country_name": "Russia"
-    },
-    {
-      "source": "BBC Africa",
-      "title": "Nigeria 'still have hope' for 2027 World Cup spot",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cg4d0qd33gwo?at_medium=RSS&at_campaign=rss",
-      "summary": "Nigeria must go \"back to the drawing board\" after missing out on automatic qualification for the 2027 Women's World Cup, says keeper Chiamak…",
-      "published_at": "2026-08-10T12:28:00Z",
-      "country_code": "NG",
-      "country_name": "Nigeria"
     },
     {
       "source": "BBC Latin America",
@@ -839,6 +830,15 @@
       "country_name": "South Africa"
     },
     {
+      "source": "BBC Latin America",
+      "title": "Watch: Giant 100-metre Mexican sandwich sets Guinness record",
+      "url": "https://www.bbc.co.uk/news/videos/cx27k743d42o?at_medium=RSS&at_campaign=rss",
+      "summary": "The record-breaking row of traditional sandwiches was assembled during Torta Fair, an annual food festival celebrating one of Mexico's most …",
+      "published_at": "2026-07-30T17:51:32Z",
+      "country_code": "MX",
+      "country_name": "Mexico"
+    },
+    {
       "source": "BBC Middle East",
       "title": "Israel building new land barriers in Gaza and displacing families",
       "url": "https://www.bbc.co.uk/news/articles/cpvwjmme3p0o?at_medium=RSS&at_campaign=rss",
@@ -902,24 +902,6 @@
       "country_name": "Russia"
     },
     {
-      "source": "BBC Latin America",
-      "title": "Watch: What it was like inside Maduro's court hearing",
-      "url": "https://www.bbc.co.uk/news/videos/cvg841yw7keo?at_medium=RSS&at_campaign=rss",
-      "summary": "The BBC's Kayla Epstein was inside the courtroom as a judge set the start date for the ousted Venezuelan president's trial in the US.",
-      "published_at": "2026-07-22T22:16:07Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC Latin America",
-      "title": "Watch: Flooded towns and evacuations as Chile hit by heavy rain",
-      "url": "https://www.bbc.co.uk/news/videos/cy9wq8j2p7qo?at_medium=RSS&at_campaign=rss",
-      "summary": "A \"state of catastrophe\" has been declared in Coquimbo and Huasco following the downpour.",
-      "published_at": "2026-07-21T11:21:47Z",
-      "country_code": "CL",
-      "country_name": "Chile"
-    },
-    {
       "source": "BBC Europe",
       "title": "‘Everyone's afraid to die’: Struggle to recruit soldiers in Ukraine turns violent",
       "url": "https://www.bbc.co.uk/news/articles/cr7k5ngde3vo?at_medium=RSS&at_campaign=rss",
@@ -933,7 +915,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 17
+      "news_count": 16
     },
     {
       "country_code": "PS",
@@ -958,7 +940,7 @@
     {
       "country_code": "NG",
       "country_name": "Nigeria",
-      "news_count": 6
+      "news_count": 5
     },
     {
       "country_code": "AU",
@@ -981,11 +963,6 @@
       "news_count": 3
     },
     {
-      "country_code": "CL",
-      "country_name": "Chile",
-      "news_count": 2
-    },
-    {
       "country_code": "CN",
       "country_name": "China",
       "news_count": 2
@@ -1001,13 +978,13 @@
       "news_count": 2
     },
     {
-      "country_code": "JP",
-      "country_name": "Japan",
+      "country_code": "KE",
+      "country_name": "Kenya",
       "news_count": 2
     },
     {
-      "country_code": "KE",
-      "country_name": "Kenya",
+      "country_code": "MX",
+      "country_name": "Mexico",
       "news_count": 2
     },
     {
@@ -1036,8 +1013,18 @@
       "news_count": 1
     },
     {
+      "country_code": "BR",
+      "country_name": "Brazil",
+      "news_count": 1
+    },
+    {
       "country_code": "CA",
       "country_name": "Canada",
+      "news_count": 1
+    },
+    {
+      "country_code": "CL",
+      "country_name": "Chile",
       "news_count": 1
     },
     {
@@ -1061,6 +1048,11 @@
       "news_count": 1
     },
     {
+      "country_code": "JP",
+      "country_name": "Japan",
+      "news_count": 1
+    },
+    {
       "country_code": "KR",
       "country_name": "South Korea",
       "news_count": 1
@@ -1068,11 +1060,6 @@
     {
       "country_code": "MA",
       "country_name": "Morocco",
-      "news_count": 1
-    },
-    {
-      "country_code": "MX",
-      "country_name": "Mexico",
       "news_count": 1
     },
     {
