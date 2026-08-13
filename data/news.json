@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-08-13T16:22:52Z",
+  "generated_at": "2026-08-13T17:24:52Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Conditions on US aircraft carrier at sea for more than 250 days raise alarms",
+      "url": "https://www.bbc.co.uk/news/articles/cyvl2d5j52lo?at_medium=RSS&at_campaign=rss",
+      "summary": "There are reports of food shortages, broken plumbing and other potential harms aboard the USS Abraham Lincoln, which has been at sea since N…",
+      "published_at": "2026-08-13T17:21:00Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Air India to test all pilots for banned substances",
+      "url": "https://www.bbc.co.uk/news/articles/c2352jyvm5xo?at_medium=RSS&at_campaign=rss",
+      "summary": "It comes after one of its planes suddenly lost altitude last week, with a number of passengers injured.",
+      "published_at": "2026-08-13T16:52:15Z",
+      "country_code": "IN",
+      "country_name": "India"
+    },
     {
       "source": "BBC World",
       "title": "Presidential pardon for French alleged spy accused of plotting Mali coup",
@@ -65,7 +83,7 @@
       "country_name": "Japan"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "Members of Trump's cabinet remained on decoy plane, after president's quiet exit",
       "url": "https://www.bbc.co.uk/news/articles/c4g306eln8wo?at_medium=RSS&at_campaign=rss",
       "summary": "Trump boarded a different plane in Turkey during a Nato summit for security reasons involving Iran.",
@@ -209,7 +227,7 @@
       "country_name": "Turkey"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "Zhu Rongji, who helped turn China into a trading giant, dies at 97",
       "url": "https://www.bbc.co.uk/news/articles/c75g9777wwxo?at_medium=RSS&at_campaign=rss",
       "summary": "The former premier brought China into the WTO and championed reforms that fuelled growth.",
@@ -897,7 +915,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 16
+      "news_count": 17
     },
     {
       "country_code": "IL",
@@ -920,6 +938,11 @@
       "news_count": 6
     },
     {
+      "country_code": "IN",
+      "country_name": "India",
+      "news_count": 5
+    },
+    {
       "country_code": "NG",
       "country_name": "Nigeria",
       "news_count": 5
@@ -927,11 +950,6 @@
     {
       "country_code": "AU",
       "country_name": "Australia",
-      "news_count": 4
-    },
-    {
-      "country_code": "IN",
-      "country_name": "India",
       "news_count": 4
     },
     {
