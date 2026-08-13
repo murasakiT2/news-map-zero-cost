@@ -1,12 +1,21 @@
 {
-  "generated_at": "2026-08-13T18:13:27Z",
+  "generated_at": "2026-08-13T19:31:04Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Family of Irish plane crash victim awarded $29m in damages",
+      "url": "https://www.bbc.co.uk/news/articles/ce85p80nn2yo?at_medium=RSS&at_campaign=rss",
+      "summary": "A jury in Chicago in the US awarded the sum to Michael Ryan's family after his widow Naoise Connolly Ryan brought a civil suit against Boein…",
+      "published_at": "2026-08-13T19:08:49Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "Conditions on US aircraft carrier at sea for more than 250 days raise alarms",
       "url": "https://www.bbc.co.uk/news/articles/cyvl2d5j52lo?at_medium=RSS&at_campaign=rss",
-      "summary": "There are reports of food shortages, broken plumbing and other potential harms aboard the USS Abraham Lincoln, which has been deployed since…",
-      "published_at": "2026-08-13T17:21:00Z",
+      "summary": "Thousands of sailors on the USS Abraham Lincoln have reportedly faced food shortages and broken plumbing, with some considering jumping over…",
+      "published_at": "2026-08-13T19:07:55Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -27,15 +36,6 @@
       "published_at": "2026-08-13T15:50:49Z",
       "country_code": "FR",
       "country_name": "France"
-    },
-    {
-      "source": "BBC World",
-      "title": "UK defends seizing shadow fleet tanker after Putin threat",
-      "url": "https://www.bbc.co.uk/news/articles/cn0npn249qvo?at_medium=RSS&at_campaign=rss",
-      "summary": "The UK government says it is \"disrupting and deterring shadow fleet vessels\" in accordance with the law.",
-      "published_at": "2026-08-13T15:05:12Z",
-      "country_code": "GB",
-      "country_name": "United Kingdom"
     },
     {
       "source": "BBC World",
@@ -650,15 +650,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Europe",
-      "title": "What tariffs has Trump introduced and why?",
-      "url": "https://www.bbc.co.uk/news/articles/cn93e12rypgo?at_medium=RSS&at_campaign=rss",
-      "summary": "Trump's volatile trade policy has thrown the world economy into chaos, and put some US prices up.",
-      "published_at": "2026-08-05T22:47:45Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC Middle East",
       "title": "UN rights chief alarmed by rise in Iran executions since March",
       "url": "https://www.bbc.co.uk/news/articles/c75gvzxrz49o?at_medium=RSS&at_campaign=rss",
@@ -900,15 +891,6 @@
       "published_at": "2026-07-24T05:47:11Z",
       "country_code": "VE",
       "country_name": "Venezuela"
-    },
-    {
-      "source": "BBC Europe",
-      "title": "Russia's businesses under strain from Ukraine's attacks on Wildberries",
-      "url": "https://www.bbc.co.uk/news/articles/cvg9n2y61w6o?at_medium=RSS&at_campaign=rss",
-      "summary": "Ukrainian drones have hit several retail warehouses belonging to Russia's biggest online retailer Wildberries in a matter of days.",
-      "published_at": "2026-07-23T06:15:35Z",
-      "country_code": "RU",
-      "country_name": "Russia"
     }
   ],
   "regions": [
@@ -928,13 +910,13 @@
       "news_count": 7
     },
     {
-      "country_code": "RU",
-      "country_name": "Russia",
-      "news_count": 7
-    },
-    {
       "country_code": "CO",
       "country_name": "Colombia",
+      "news_count": 6
+    },
+    {
+      "country_code": "RU",
+      "country_name": "Russia",
       "news_count": 6
     },
     {
@@ -975,11 +957,6 @@
     {
       "country_code": "FR",
       "country_name": "France",
-      "news_count": 2
-    },
-    {
-      "country_code": "GB",
-      "country_name": "United Kingdom",
       "news_count": 2
     },
     {
@@ -1025,6 +1002,11 @@
     {
       "country_code": "EG",
       "country_name": "Egypt",
+      "news_count": 1
+    },
+    {
+      "country_code": "GB",
+      "country_name": "United Kingdom",
       "news_count": 1
     },
     {
