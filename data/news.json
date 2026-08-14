@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-08-14T15:12:10Z",
+  "generated_at": "2026-08-14T16:11:08Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Trump asks Supreme Court to allow ballroom work to continue",
+      "url": "https://www.bbc.co.uk/news/articles/c3v0yz2r4wlo?at_medium=RSS&at_campaign=rss",
+      "summary": "Forcing the US president to go \"hat-in-hand to Congress\" for permission would be \"dangerous\", the administration says.",
+      "published_at": "2026-08-14T15:10:41Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Moment €9m worth of art stolen from Italy museum",
+      "url": "https://www.bbc.co.uk/news/videos/cddjlrzd26eo?at_medium=RSS&at_campaign=rss",
+      "summary": "Police released the CCTV footage after the art, which was stolen in March, was recovered.",
+      "published_at": "2026-08-14T14:56:04Z",
+      "country_code": "IT",
+      "country_name": "Italy"
+    },
     {
       "source": "BBC World",
       "title": "Instagram accounts fuelling Ceuta crisis with paid advice for help to cross",
@@ -119,7 +137,7 @@
       "country_name": "France"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "Four Canadian hockey stars remain suspended after sexual assault acquittal",
       "url": "https://www.bbc.co.uk/news/articles/cj9dpdmr77do?at_medium=RSS&at_campaign=rss",
       "summary": "A fifth has been reinstated, though an appeals board found that the whole group broke Hockey Canada's code of conduct.",
@@ -254,15 +272,6 @@
       "country_name": "Nigeria"
     },
     {
-      "source": "BBC US & Canada",
-      "title": "Thousands of Canadians call for US ambassador's expulsion",
-      "url": "https://www.bbc.co.uk/news/articles/c9d83j4ql2xo?at_medium=RSS&at_campaign=rss",
-      "summary": "An online petition accusing Pete Hoekstra of diplomatic interference in Canadian domestic affairs has garnered more than 60,000 signatures.",
-      "published_at": "2026-08-12T22:56:44Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC Latin America",
       "title": "Woman pulled alive from rubble 36 hours after Colombia quake",
       "url": "https://www.bbc.co.uk/news/articles/cz7d2e5wlgno?at_medium=RSS&at_campaign=rss",
@@ -272,7 +281,7 @@
       "country_name": "Colombia"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "Why are 'human fridges' being sold in Japan?",
       "url": "https://www.bbc.co.uk/news/videos/cjej4y3gvzlo?at_medium=RSS&at_campaign=rss",
       "summary": "As Japan swelters through extreme summer heat, BBC Tokyo correspondent Kurumi Mori tries out a new way to cool down.",
@@ -962,6 +971,11 @@
       "news_count": 3
     },
     {
+      "country_code": "IT",
+      "country_name": "Italy",
+      "news_count": 3
+    },
+    {
       "country_code": "JP",
       "country_name": "Japan",
       "news_count": 3
@@ -994,11 +1008,6 @@
     {
       "country_code": "FR",
       "country_name": "France",
-      "news_count": 2
-    },
-    {
-      "country_code": "IT",
-      "country_name": "Italy",
       "news_count": 2
     },
     {
