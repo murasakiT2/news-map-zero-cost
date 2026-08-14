@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-08-14T12:39:22Z",
+  "generated_at": "2026-08-14T14:07:28Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Instagram accounts fuelling Ceuta crisis with paid advice for help to cross",
+      "url": "https://www.bbc.co.uk/news/articles/c89n20wj9kko?at_medium=RSS&at_campaign=rss",
+      "summary": "BBC's Top Comment podcast has found a network of Instagram profiles glamourising the swim around the Morocco-Ceuta border fence.",
+      "published_at": "2026-08-14T12:19:21Z",
+      "country_code": "MA",
+      "country_name": "Morocco"
+    },
     {
       "source": "BBC World",
       "title": "Stolen Matisse artworks recovered by police in Brazil",
@@ -101,7 +110,7 @@
       "country_name": "India"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "Presidential pardon for French alleged spy accused of plotting Mali coup",
       "url": "https://www.bbc.co.uk/news/articles/c2el29e3m3xo?at_medium=RSS&at_campaign=rss",
       "summary": "France is yet to comment on Yann Vezilier's pardon and previously called the accusations \"unfounded\".",
@@ -998,6 +1007,11 @@
       "news_count": 2
     },
     {
+      "country_code": "MA",
+      "country_name": "Morocco",
+      "news_count": 2
+    },
+    {
       "country_code": "MX",
       "country_name": "Mexico",
       "news_count": 2
@@ -1040,11 +1054,6 @@
     {
       "country_code": "KE",
       "country_name": "Kenya",
-      "news_count": 1
-    },
-    {
-      "country_code": "MA",
-      "country_name": "Morocco",
       "news_count": 1
     },
     {
