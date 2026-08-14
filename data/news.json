@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-08-14T05:12:08Z",
+  "generated_at": "2026-08-14T06:50:17Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "'Unprecedented' rains in Japan kill four people",
+      "url": "https://www.bbc.co.uk/news/articles/cq561gpen8lo?at_medium=RSS&at_campaign=rss",
+      "summary": "The storm cut power to more than 20,000 households and left 7,000 people stranded at Tokyo's Narita airport.",
+      "published_at": "2026-08-14T04:54:13Z",
+      "country_code": "JP",
+      "country_name": "Japan"
+    },
     {
       "source": "BBC World",
       "title": "US says dozens of countries helped China dodge Trump's tariffs",
@@ -47,7 +56,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "Family of Irish plane crash victim awarded $29m in damages",
       "url": "https://www.bbc.co.uk/news/articles/ce85p80nn2yo?at_medium=RSS&at_campaign=rss",
       "summary": "A jury in Chicago in the US awarded the sum to Michael Ryan's family after his widow Naoise Connolly Ryan brought a civil suit against Boein…",
@@ -405,15 +414,6 @@
       "published_at": "2026-08-11T10:12:21Z",
       "country_code": "CO",
       "country_name": "Colombia"
-    },
-    {
-      "source": "BBC Asia",
-      "title": "The lonely Chinese men being conned by fake brides",
-      "url": "https://www.bbc.co.uk/news/articles/cn9n8pqglg4o?at_medium=RSS&at_campaign=rss",
-      "summary": "\"Flash marriage\" scams are an extreme symptom of a demographic crisis long in the making in China.",
-      "published_at": "2026-08-10T22:02:21Z",
-      "country_code": "CN",
-      "country_name": "China"
     },
     {
       "source": "BBC Latin America",
@@ -935,6 +935,11 @@
       "news_count": 3
     },
     {
+      "country_code": "JP",
+      "country_name": "Japan",
+      "news_count": 3
+    },
+    {
       "country_code": "ZA",
       "country_name": "South Africa",
       "news_count": 3
@@ -950,11 +955,6 @@
       "news_count": 2
     },
     {
-      "country_code": "CN",
-      "country_name": "China",
-      "news_count": 2
-    },
-    {
       "country_code": "ES",
       "country_name": "Spain",
       "news_count": 2
@@ -967,11 +967,6 @@
     {
       "country_code": "IT",
       "country_name": "Italy",
-      "news_count": 2
-    },
-    {
-      "country_code": "JP",
-      "country_name": "Japan",
       "news_count": 2
     },
     {
@@ -1002,6 +997,11 @@
     {
       "country_code": "CL",
       "country_name": "Chile",
+      "news_count": 1
+    },
+    {
+      "country_code": "CN",
+      "country_name": "China",
       "news_count": 1
     },
     {
