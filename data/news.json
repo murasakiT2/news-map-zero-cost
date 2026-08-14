@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-08-14T03:03:40Z",
+  "generated_at": "2026-08-14T05:12:08Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "US says dozens of countries helped China dodge Trump's tariffs",
+      "url": "https://www.bbc.co.uk/news/articles/c78gy6ep3n5o?at_medium=RSS&at_campaign=rss",
+      "summary": "A new US report said China had moved goods through nations with lower tariffs to dodge higher levies.",
+      "published_at": "2026-08-14T03:09:48Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "Conditions on US aircraft carrier at sea for more than 250 days raise alarms",
@@ -83,6 +92,15 @@
       "country_name": "United States"
     },
     {
+      "source": "BBC World",
+      "title": "‘Justified’ or ’no business being there’? Tennessee munitions town loyal to Trump but divided on Iran",
+      "url": "https://www.bbc.co.uk/news/videos/cgewp4ep9dro?at_medium=RSS&at_campaign=rss",
+      "summary": "Hear from voters in Kingsport, home to a munitions plant supplying the US military, as tensions over the Iran war spark debate.",
+      "published_at": "2026-08-13T13:20:55Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
       "source": "BBC US & Canada",
       "title": "Flock boss admits surveillance firm took too long to act over police abuse",
       "url": "https://www.bbc.co.uk/news/articles/crrv1rjwgl9o?at_medium=RSS&at_campaign=rss",
@@ -146,7 +164,7 @@
       "country_name": "Ukraine"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "Major Russian grain export terminals hit in Ukraine Black Sea port attack",
       "url": "https://www.bbc.co.uk/news/articles/c5y49xp2wrno?at_medium=RSS&at_campaign=rss",
       "summary": "Grain exports from both Russia and Ukraine are falling as both countries attack each other's shipping facilities and ports.",
@@ -191,7 +209,7 @@
       "country_name": "Nigeria"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "Thousands of Canadians call for US ambassador's expulsion",
       "url": "https://www.bbc.co.uk/news/articles/c9d83j4ql2xo?at_medium=RSS&at_campaign=rss",
       "summary": "An online petition accusing Pete Hoekstra of diplomatic interference in Canadian domestic affairs has garnered more than 60,000 signatures.",
@@ -200,13 +218,22 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Latin America",
       "title": "Woman pulled alive from rubble 36 hours after Colombia quake",
       "url": "https://www.bbc.co.uk/news/articles/cz7d2e5wlgno?at_medium=RSS&at_campaign=rss",
       "summary": "Following a 10-hour rescue operation, emergency workers pulled the 32-year-old from beneath slabs of concrete.",
       "published_at": "2026-08-12T22:41:46Z",
       "country_code": "CO",
       "country_name": "Colombia"
+    },
+    {
+      "source": "BBC World",
+      "title": "Why are 'human fridges' being sold in Japan?",
+      "url": "https://www.bbc.co.uk/news/videos/cjej4y3gvzlo?at_medium=RSS&at_campaign=rss",
+      "summary": "As Japan swelters through extreme summer heat, BBC Tokyo correspondent Kurumi Mori tries out a new way to cool down.",
+      "published_at": "2026-08-12T22:07:47Z",
+      "country_code": "JP",
+      "country_name": "Japan"
     },
     {
       "source": "BBC World",
@@ -236,7 +263,7 @@
       "country_name": "Nigeria"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Middle East",
       "title": "Israeli settlers besieging Palestinian families in West Bank village",
       "url": "https://www.bbc.co.uk/news/articles/cn0npjkqrleo?at_medium=RSS&at_campaign=rss",
       "summary": "Israeli security forces have reportedly withdrawn and about a dozen settlers are said to remain at the site where two families have been bes…",
@@ -252,6 +279,15 @@
       "published_at": "2026-08-12T13:13:40Z",
       "country_code": "TR",
       "country_name": "Turkey"
+    },
+    {
+      "source": "BBC Asia",
+      "title": "Zhu Rongji, who helped turn China into a trading giant, dies at 97",
+      "url": "https://www.bbc.co.uk/news/articles/c75g9777wwxo?at_medium=RSS&at_campaign=rss",
+      "summary": "The former premier brought China into the WTO and championed reforms that fuelled growth.",
+      "published_at": "2026-08-12T12:10:45Z",
+      "country_code": "CN",
+      "country_name": "China"
     },
     {
       "source": "BBC US & Canada",
@@ -270,15 +306,6 @@
       "published_at": "2026-08-12T05:16:45Z",
       "country_code": "ID",
       "country_name": "Indonesia"
-    },
-    {
-      "source": "BBC Asia",
-      "title": "Bondi Beach shooting hero's assault charges dropped by police",
-      "url": "https://www.bbc.co.uk/news/articles/crk51ky7xzlo?at_medium=RSS&at_campaign=rss",
-      "summary": "Police charged Ahmed al Ahmed in June after an alleged incident with his father at a Sydney home.",
-      "published_at": "2026-08-12T02:59:51Z",
-      "country_code": "AU",
-      "country_name": "Australia"
     },
     {
       "source": "BBC Asia",
@@ -344,7 +371,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Latin America",
+      "source": "BBC World",
       "title": "In shattered Cali, residents search for loved ones and signs of hope",
       "url": "https://www.bbc.co.uk/news/videos/ckge0e0g95no?at_medium=RSS&at_campaign=rss",
       "summary": "Most deaths from the magnitude-7.4 quake were reported in Cali, Colombia’s third-most populous city, as crews search collapsed buildings for…",
@@ -360,15 +387,6 @@
       "published_at": "2026-08-11T16:19:44Z",
       "country_code": "RU",
       "country_name": "Russia"
-    },
-    {
-      "source": "BBC Asia",
-      "title": "Thailand suspends new gun permits after mass shooting",
-      "url": "https://www.bbc.co.uk/news/articles/cm2g550v0pvo?at_medium=RSS&at_campaign=rss",
-      "summary": "Authorities promise tough new laws in the country, which has high levels of firearms ownership.",
-      "published_at": "2026-08-11T15:11:54Z",
-      "country_code": "TH",
-      "country_name": "Thailand"
     },
     {
       "source": "BBC Europe",
@@ -504,15 +522,6 @@
       "published_at": "2026-08-08T23:43:44Z",
       "country_code": "IL",
       "country_name": "Israel"
-    },
-    {
-      "source": "BBC Asia",
-      "title": "Australia is the planet's extinction hotspot, but one animal offers a glimmer of hope",
-      "url": "https://www.bbc.co.uk/news/articles/c9q94lxqrzzo?at_medium=RSS&at_campaign=rss",
-      "summary": "The country is home to some of the world's most unique species - but it is losing them at an alarming rate.",
-      "published_at": "2026-08-08T19:00:22Z",
-      "country_code": "AU",
-      "country_name": "Australia"
     },
     {
       "source": "BBC Europe",
@@ -888,7 +897,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 18
+      "news_count": 20
     },
     {
       "country_code": "IL",
@@ -916,11 +925,6 @@
       "news_count": 5
     },
     {
-      "country_code": "AU",
-      "country_name": "Australia",
-      "news_count": 4
-    },
-    {
       "country_code": "IR",
       "country_name": "Iran",
       "news_count": 4
@@ -936,8 +940,18 @@
       "news_count": 3
     },
     {
+      "country_code": "AU",
+      "country_name": "Australia",
+      "news_count": 2
+    },
+    {
       "country_code": "CA",
       "country_name": "Canada",
+      "news_count": 2
+    },
+    {
+      "country_code": "CN",
+      "country_name": "China",
       "news_count": 2
     },
     {
@@ -953,6 +967,11 @@
     {
       "country_code": "IT",
       "country_name": "Italy",
+      "news_count": 2
+    },
+    {
+      "country_code": "JP",
+      "country_name": "Japan",
       "news_count": 2
     },
     {
@@ -986,11 +1005,6 @@
       "news_count": 1
     },
     {
-      "country_code": "CN",
-      "country_name": "China",
-      "news_count": 1
-    },
-    {
       "country_code": "DZ",
       "country_name": "Algeria",
       "news_count": 1
@@ -1008,11 +1022,6 @@
     {
       "country_code": "ID",
       "country_name": "Indonesia",
-      "news_count": 1
-    },
-    {
-      "country_code": "JP",
-      "country_name": "Japan",
       "news_count": 1
     },
     {
@@ -1053,11 +1062,6 @@
     {
       "country_code": "SA",
       "country_name": "Saudi Arabia",
-      "news_count": 1
-    },
-    {
-      "country_code": "TH",
-      "country_name": "Thailand",
       "news_count": 1
     },
     {
