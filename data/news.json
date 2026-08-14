@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T23:11:17Z",
+  "generated_at": "2026-08-14T23:43:27Z",
   "articles": [
     {
       "source": "BBC World",
@@ -11,7 +11,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC US & Canada",
+      "source": "BBC World",
       "title": "US aircraft carrier on way to relieve USS Lincoln after issues reported on board",
       "url": "https://www.bbc.co.uk/news/articles/c171yp5zdrxo?at_medium=RSS&at_campaign=rss",
       "summary": "Thousands of sailors on the Lincoln have reportedly faced food shortages and broken plumbing, with some considering jumping overboard.",
@@ -333,15 +333,6 @@
       "published_at": "2026-08-12T12:10:45Z",
       "country_code": "CN",
       "country_name": "China"
-    },
-    {
-      "source": "BBC Asia",
-      "title": "New Zealand PM survives second leadership challenge ahead of election",
-      "url": "https://www.bbc.co.uk/news/articles/cx2ve2jk5qeo?at_medium=RSS&at_campaign=rss",
-      "summary": "Christopher Luxon says he has \"full support\" of his party, after a vote of confidence 12 weeks before a general election.",
-      "published_at": "2026-08-12T02:51:02Z",
-      "country_code": "NZ",
-      "country_name": "New Zealand"
     },
     {
       "source": "BBC US & Canada",
@@ -1050,11 +1041,6 @@
     {
       "country_code": "MY",
       "country_name": "Malaysia",
-      "news_count": 1
-    },
-    {
-      "country_code": "NZ",
-      "country_name": "New Zealand",
       "news_count": 1
     },
     {
