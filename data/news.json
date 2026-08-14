@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T00:04:26Z",
+  "generated_at": "2026-08-14T03:03:40Z",
   "articles": [
     {
       "source": "BBC World",
@@ -252,15 +252,6 @@
       "published_at": "2026-08-12T13:13:40Z",
       "country_code": "TR",
       "country_name": "Turkey"
-    },
-    {
-      "source": "BBC World",
-      "title": "Zhu Rongji, who helped turn China into a trading giant, dies at 97",
-      "url": "https://www.bbc.co.uk/news/articles/c75g9777wwxo?at_medium=RSS&at_campaign=rss",
-      "summary": "The former premier brought China into the WTO and championed reforms that fuelled growth.",
-      "published_at": "2026-08-12T12:10:45Z",
-      "country_code": "CN",
-      "country_name": "China"
     },
     {
       "source": "BBC US & Canada",
@@ -950,11 +941,6 @@
       "news_count": 2
     },
     {
-      "country_code": "CN",
-      "country_name": "China",
-      "news_count": 2
-    },
-    {
       "country_code": "ES",
       "country_name": "Spain",
       "news_count": 2
@@ -997,6 +983,11 @@
     {
       "country_code": "CL",
       "country_name": "Chile",
+      "news_count": 1
+    },
+    {
+      "country_code": "CN",
+      "country_name": "China",
       "news_count": 1
     },
     {
