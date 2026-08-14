@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-08-14T09:32:08Z",
+  "generated_at": "2026-08-14T10:47:57Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "'Unprecedented' rain in Japan kills eight people",
+      "url": "https://www.bbc.co.uk/news/articles/cq561gpen8lo?at_medium=RSS&at_campaign=rss",
+      "summary": "The storm cut power to more than 20,000 households and left 7,000 people stranded at Tokyo's Narita airport.",
+      "published_at": "2026-08-14T10:36:14Z",
+      "country_code": "JP",
+      "country_name": "Japan"
+    },
+    {
+      "source": "BBC World",
+      "title": "US missionary released following kidnap in Niger, Christian group says",
+      "url": "https://www.bbc.co.uk/news/articles/ckg40jvvkp7o?at_medium=RSS&at_campaign=rss",
+      "summary": "Kevin Rideout, who was kidnapped outside his home in the capital last October, is now with US officials.",
+      "published_at": "2026-08-14T10:18:02Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "US says dozens of countries helped China dodge Trump's tariffs",
@@ -27,15 +45,6 @@
       "published_at": "2026-08-14T08:02:35Z",
       "country_code": "CO",
       "country_name": "Colombia"
-    },
-    {
-      "source": "BBC World",
-      "title": "'Unprecedented' rain in Japan kills six people",
-      "url": "https://www.bbc.co.uk/news/articles/cq561gpen8lo?at_medium=RSS&at_campaign=rss",
-      "summary": "The storm cut power to more than 20,000 households and left 7,000 people stranded at Tokyo's Narita airport.",
-      "published_at": "2026-08-14T07:00:56Z",
-      "country_code": "JP",
-      "country_name": "Japan"
     },
     {
       "source": "BBC World",
@@ -906,7 +915,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 20
+      "news_count": 21
     },
     {
       "country_code": "CO",
