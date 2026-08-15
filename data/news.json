@@ -1,14 +1,23 @@
 {
-  "generated_at": "2026-08-15T12:16:01Z",
+  "generated_at": "2026-08-15T13:04:25Z",
   "articles": [
     {
       "source": "BBC World",
-      "title": "Powerful 7.7-magnitude earthquake kills at least 38 in Indonesia",
+      "title": "Powerful magnitude 7.7 earthquake kills at least 38 in Indonesia",
       "url": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss",
       "summary": "A search and rescue operation is under way to find survivors in Flores, an island in eastern Indonesia.",
-      "published_at": "2026-08-15T11:48:58Z",
+      "published_at": "2026-08-15T12:31:55Z",
       "country_code": "ID",
       "country_name": "Indonesia"
+    },
+    {
+      "source": "BBC World",
+      "title": "Eleven killed in Israeli strikes on southern Lebanon, authorities say",
+      "url": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss",
+      "summary": "Israel's military said it had struck \"Hezbollah terror infrastructure\" in response to what it described as an earlier action against its sol…",
+      "published_at": "2026-08-15T12:25:11Z",
+      "country_code": "IL",
+      "country_name": "Israel"
     },
     {
       "source": "BBC World",
@@ -909,13 +918,13 @@
       "news_count": 19
     },
     {
-      "country_code": "CO",
-      "country_name": "Colombia",
-      "news_count": 7
-    },
-    {
       "country_code": "IL",
       "country_name": "Israel",
+      "news_count": 8
+    },
+    {
+      "country_code": "CO",
+      "country_name": "Colombia",
       "news_count": 7
     },
     {
