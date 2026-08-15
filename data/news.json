@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-08-15T19:13:05Z",
+  "generated_at": "2026-08-15T19:41:16Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Morocco detains dozens of migrants trying to cross into Ceuta",
+      "url": "https://www.bbc.co.uk/news/articles/ckg44x2ey1ro?at_medium=RSS&at_campaign=rss",
+      "summary": "Security had been stepped up amid suggestions on social media of a second mass crossing on Saturday.",
+      "published_at": "2026-08-15T19:16:40Z",
+      "country_code": "MA",
+      "country_name": "Morocco"
+    },
     {
       "source": "BBC World",
       "title": "Eleven killed in Israeli strikes on southern Lebanon, authorities say",
@@ -929,6 +938,11 @@
       "news_count": 6
     },
     {
+      "country_code": "MA",
+      "country_name": "Morocco",
+      "news_count": 4
+    },
+    {
       "country_code": "NG",
       "country_name": "Nigeria",
       "news_count": 4
@@ -956,11 +970,6 @@
     {
       "country_code": "KR",
       "country_name": "South Korea",
-      "news_count": 3
-    },
-    {
-      "country_code": "MA",
-      "country_name": "Morocco",
       "news_count": 3
     },
     {
