@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T17:41:12Z",
+  "generated_at": "2026-08-15T18:12:43Z",
   "articles": [
     {
       "source": "BBC World",
@@ -560,15 +560,6 @@
       "country_name": "Israel"
     },
     {
-      "source": "BBC Europe",
-      "title": "Spain imposes border controls against Italy as row over Ceuta migrant influx intensifies",
-      "url": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss",
-      "summary": "Italy introduced border controls following an influx of about 78,000 migrants from Morocco into the neighbouring Spanish exclave of Ceuta.",
-      "published_at": "2026-08-08T14:25:19Z",
-      "country_code": "IT",
-      "country_name": "Italy"
-    },
-    {
       "source": "BBC Middle East",
       "title": "The phone book that led us to Assad's spy chief in hiding",
       "url": "https://www.bbc.co.uk/news/articles/c4gyrzn8p94o?at_medium=RSS&at_campaign=rss",
@@ -958,11 +949,6 @@
       "news_count": 3
     },
     {
-      "country_code": "IT",
-      "country_name": "Italy",
-      "news_count": 3
-    },
-    {
       "country_code": "JP",
       "country_name": "Japan",
       "news_count": 3
@@ -990,6 +976,11 @@
     {
       "country_code": "CA",
       "country_name": "Canada",
+      "news_count": 2
+    },
+    {
+      "country_code": "IT",
+      "country_name": "Italy",
       "news_count": 2
     },
     {
