@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-08-15T21:11:08Z",
+  "generated_at": "2026-08-15T21:41:06Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Qatar denies capturing three Iranian pilots after downing fighter jets",
+      "url": "https://www.bbc.co.uk/news/articles/cj4kk8kz271o?at_medium=RSS&at_campaign=rss",
+      "summary": "Iran claims they have been held since Qatar downed two fighter jets at the start of the US-Iran war.",
+      "published_at": "2026-08-15T21:03:57Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "Morocco detains dozens of migrants trying to cross into Ceuta, reports say",
@@ -27,6 +36,15 @@
       "published_at": "2026-08-15T20:00:15Z",
       "country_code": "ID",
       "country_name": "Indonesia"
+    },
+    {
+      "source": "BBC World",
+      "title": "Why is Australia's mushroom killer back in court this week?",
+      "url": "https://www.bbc.co.uk/news/videos/c62e1v8p07go?at_medium=RSS&at_campaign=rss",
+      "summary": "The BBC’s Katy Watson explains why triple-murder Erin Patterson is back in court this week trying to overturn her conviction.",
+      "published_at": "2026-08-15T18:02:30Z",
+      "country_code": "AU",
+      "country_name": "Australia"
     },
     {
       "source": "BBC World",
@@ -126,15 +144,6 @@
       "published_at": "2026-08-14T16:35:06Z",
       "country_code": "FR",
       "country_name": "France"
-    },
-    {
-      "source": "BBC World",
-      "title": "Moment €9m worth of art stolen from Italy museum",
-      "url": "https://www.bbc.co.uk/news/videos/cddjlrzd26eo?at_medium=RSS&at_campaign=rss",
-      "summary": "Police released the CCTV footage after the art, which was stolen in March, was recovered.",
-      "published_at": "2026-08-14T14:56:04Z",
-      "country_code": "IT",
-      "country_name": "Italy"
     },
     {
       "source": "BBC World",
@@ -848,24 +857,6 @@
       "country_name": "Mexico"
     },
     {
-      "source": "BBC Middle East",
-      "title": "'End this nightmare': Wife of ailing Briton jailed in Saudi Arabia appeals for release",
-      "url": "https://www.bbc.co.uk/news/articles/ckg4jxxn4ggo?at_medium=RSS&at_campaign=rss",
-      "summary": "Ahmed al-Doush has been in jail in Saudi Arabia since 2024, apparently over a handful of social media posts dating back several years.",
-      "published_at": "2026-07-30T06:51:46Z",
-      "country_code": "SA",
-      "country_name": "Saudi Arabia"
-    },
-    {
-      "source": "BBC Middle East",
-      "title": "Israel building new land barriers in Gaza and displacing families",
-      "url": "https://www.bbc.co.uk/news/articles/cpvwjmme3p0o?at_medium=RSS&at_campaign=rss",
-      "summary": "Experts have told the BBC that the earthworks suggest Israel is planning for a long-term internal border.",
-      "published_at": "2026-07-30T05:05:24Z",
-      "country_code": "IL",
-      "country_name": "Israel"
-    },
-    {
       "source": "BBC Africa",
       "title": "The athlete from Cameroon who has never held her Olympic medal",
       "url": "https://www.bbc.co.uk/sport/weightlifting/articles/cn8nxg5rvvko?at_medium=RSS&at_campaign=rss",
@@ -915,16 +906,16 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 19
-    },
-    {
-      "country_code": "IL",
-      "country_name": "Israel",
-      "news_count": 8
+      "news_count": 20
     },
     {
       "country_code": "CO",
       "country_name": "Colombia",
+      "news_count": 7
+    },
+    {
+      "country_code": "IL",
+      "country_name": "Israel",
       "news_count": 7
     },
     {
@@ -978,6 +969,11 @@
       "news_count": 3
     },
     {
+      "country_code": "AU",
+      "country_name": "Australia",
+      "news_count": 2
+    },
+    {
       "country_code": "BR",
       "country_name": "Brazil",
       "news_count": 2
@@ -988,18 +984,8 @@
       "news_count": 2
     },
     {
-      "country_code": "IT",
-      "country_name": "Italy",
-      "news_count": 2
-    },
-    {
       "country_code": "MX",
       "country_name": "Mexico",
-      "news_count": 2
-    },
-    {
-      "country_code": "SA",
-      "country_name": "Saudi Arabia",
       "news_count": 2
     },
     {
@@ -1011,11 +997,6 @@
       "country_code": "TH",
       "country_name": "Thailand",
       "news_count": 2
-    },
-    {
-      "country_code": "AU",
-      "country_name": "Australia",
-      "news_count": 1
     },
     {
       "country_code": "CL",
@@ -1048,6 +1029,11 @@
       "news_count": 1
     },
     {
+      "country_code": "IT",
+      "country_name": "Italy",
+      "news_count": 1
+    },
+    {
       "country_code": "KE",
       "country_name": "Kenya",
       "news_count": 1
@@ -1065,6 +1051,11 @@
     {
       "country_code": "PT",
       "country_name": "Portugal",
+      "news_count": 1
+    },
+    {
+      "country_code": "SA",
+      "country_name": "Saudi Arabia",
       "news_count": 1
     },
     {
