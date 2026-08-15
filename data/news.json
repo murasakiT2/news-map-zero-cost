@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-08-15T04:31:50Z",
+  "generated_at": "2026-08-15T05:15:36Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "BBC seeks to subpoena Trump's family members in Panorama lawsuit",
+      "url": "https://www.bbc.co.uk/news/articles/cd69ely319eo?at_medium=RSS&at_campaign=rss",
+      "summary": "The BBC's lawyers argue Trump's family members \"have personal knowledge\" of his intentions in the speech he gave outside the US Capitol on 6…",
+      "published_at": "2026-08-15T00:01:53Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Air India pilot's reported cannabis test: What it can and can't tell investigators",
+      "url": "https://www.bbc.co.uk/news/articles/c74gdgly3g3o?at_medium=RSS&at_campaign=rss",
+      "summary": "A reported cannabis-positive test involving an Air India pilot raises questions about what such a result can actually tell investigators.",
+      "published_at": "2026-08-15T00:01:44Z",
+      "country_code": "IN",
+      "country_name": "India"
+    },
     {
       "source": "BBC US & Canada",
       "title": "Many Canadians are boycotting the US, so this is where they're travelling instead",
@@ -21,7 +39,7 @@
     },
     {
       "source": "BBC World",
-      "title": "US aircraft carrier on way to relieve USS Lincoln after issues reported on board",
+      "title": "US aircraft carrier on way to relieve USS Lincoln after issues reported aboard",
       "url": "https://www.bbc.co.uk/news/articles/c171yp5zdrxo?at_medium=RSS&at_campaign=rss",
       "summary": "Thousands of sailors on the Lincoln have reportedly faced food shortages and broken plumbing, with some considering jumping overboard.",
       "published_at": "2026-08-14T17:36:27Z",
@@ -92,7 +110,7 @@
       "country_name": "Japan"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "US missionary released following kidnap in Niger, Christian group says",
       "url": "https://www.bbc.co.uk/news/articles/ckg40jvvkp7o?at_medium=RSS&at_campaign=rss",
       "summary": "Kevin Rideout, who was kidnapped outside his home in the capital last October, is now with US officials.",
@@ -119,7 +137,7 @@
       "country_name": "Colombia"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "Conditions on US aircraft carrier at sea for more than 250 days raise alarms",
       "url": "https://www.bbc.co.uk/news/articles/cyvl2d5j52lo?at_medium=RSS&at_campaign=rss",
       "summary": "Thousands of sailors on the USS Abraham Lincoln have reportedly faced food shortages and broken plumbing, with some considering jumping over…",
@@ -146,7 +164,7 @@
       "country_name": "South Korea"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "Engine parts smashed Ryanair window that man's head was sucked out of, report says",
       "url": "https://www.bbc.co.uk/news/articles/cr59j4z3vl8o?at_medium=RSS&at_campaign=rss",
       "summary": "A preliminary report by US investigators says an engine fan blade broke on last month's flight from Greece to Germany.",
@@ -164,7 +182,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "Air India to test all pilots for banned substances",
       "url": "https://www.bbc.co.uk/news/articles/c2352jyvm5xo?at_medium=RSS&at_campaign=rss",
       "summary": "It comes after one of its planes suddenly lost altitude last week, with a number of passengers injured.",
@@ -297,15 +315,6 @@
       "published_at": "2026-08-12T22:07:47Z",
       "country_code": "JP",
       "country_name": "Japan"
-    },
-    {
-      "source": "BBC World",
-      "title": "Australia's game-changing disability support is in crisis – what went wrong?",
-      "url": "https://www.bbc.co.uk/news/articles/c20d8g0qze0o?at_medium=RSS&at_campaign=rss",
-      "summary": "The programme was game-changing for its users - but as costs balloon, its success has led to its downfall.",
-      "published_at": "2026-08-12T19:56:41Z",
-      "country_code": "AU",
-      "country_name": "Australia"
     },
     {
       "source": "BBC Latin America",
@@ -915,7 +924,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 20
+      "news_count": 21
     },
     {
       "country_code": "CO",
@@ -943,13 +952,13 @@
       "news_count": 5
     },
     {
-      "country_code": "FR",
-      "country_name": "France",
-      "news_count": 3
-    },
-    {
       "country_code": "IN",
       "country_name": "India",
+      "news_count": 4
+    },
+    {
+      "country_code": "FR",
+      "country_name": "France",
       "news_count": 3
     },
     {
@@ -971,11 +980,6 @@
       "country_code": "ZA",
       "country_name": "South Africa",
       "news_count": 3
-    },
-    {
-      "country_code": "AU",
-      "country_name": "Australia",
-      "news_count": 2
     },
     {
       "country_code": "BR",
@@ -1021,6 +1025,11 @@
       "country_code": "SD",
       "country_name": "Sudan",
       "news_count": 2
+    },
+    {
+      "country_code": "AU",
+      "country_name": "Australia",
+      "news_count": 1
     },
     {
       "country_code": "CL",
