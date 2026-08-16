@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-08-16T19:40:29Z",
+  "generated_at": "2026-08-16T20:09:33Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Trump envoy Kushner meets Hamas leader to push Gaza peace plan",
+      "url": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
+      "summary": "The rare meeting comes a week after Israel rejected Donald Trump's peace plan for Gaza.",
+      "published_at": "2026-08-16T19:58:14Z",
+      "country_code": "IL",
+      "country_name": "Israel"
+    },
+    {
+      "source": "BBC Europe",
+      "title": "Barcelona agree £65m deal to sign Rodri from Man City",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cy0jj65r18yo?at_medium=RSS&at_campaign=rss",
+      "summary": "Barcelona agree a deal to sign Spain captain Rodri from Manchester City.",
+      "published_at": "2026-08-16T19:37:45Z",
+      "country_code": "ES",
+      "country_name": "Spain"
+    },
     {
       "source": "BBC World",
       "title": "Russia says at least seven killed in largest Ukrainian attack of 2026",
@@ -97,15 +115,6 @@
       "url": "https://www.bbc.co.uk/news/articles/cy0j60p0d29o?at_medium=RSS&at_campaign=rss",
       "summary": "A father and his two young sons spent a night adrift before being rescued off the coast of the island of Koh Samui.",
       "published_at": "2026-08-15T13:41:09Z",
-      "country_code": "TH",
-      "country_name": "Thailand"
-    },
-    {
-      "source": "BBC World",
-      "title": "Moment family rescued after 16 hours floating on jet ski off Thailand",
-      "url": "https://www.bbc.co.uk/news/videos/cj4kg74ndggo?at_medium=RSS&at_campaign=rss",
-      "summary": "A 50-year-old father and his two sons were found floating off Koh Samui island, a local official told AFP on Saturday.",
-      "published_at": "2026-08-15T09:29:31Z",
       "country_code": "TH",
       "country_name": "Thailand"
     },
@@ -515,15 +524,6 @@
       "country_name": "Palestine"
     },
     {
-      "source": "BBC Europe",
-      "title": "At least 13 killed in Ukrainian drone strike deep into Russia",
-      "url": "https://www.bbc.co.uk/news/articles/cvgjvgv926po?at_medium=RSS&at_campaign=rss",
-      "summary": "Russian officials say another 75 people were injured by the attack - one of the deadliest Ukrainian drone attacks since Moscow's full-scale …",
-      "published_at": "2026-08-10T14:34:25Z",
-      "country_code": "RU",
-      "country_name": "Russia"
-    },
-    {
       "source": "BBC Latin America",
       "title": "Alleged rebel leader killed in Colombia as president targets armed groups",
       "url": "https://www.bbc.co.uk/news/articles/c5yrljp9x9eo?at_medium=RSS&at_campaign=rss",
@@ -813,15 +813,6 @@
     },
     {
       "source": "BBC Middle East",
-      "title": "What's in the Gaza peace deal roadmap?",
-      "url": "https://www.bbc.co.uk/news/articles/c20e94k2ex5o?at_medium=RSS&at_campaign=rss",
-      "summary": "Hamas says it has accepted a disarmament plan for Gaza which will see it lay down its arms and Israeli troops withdraw from the territory.",
-      "published_at": "2026-07-31T16:00:56Z",
-      "country_code": "PS",
-      "country_name": "Palestine"
-    },
-    {
-      "source": "BBC Middle East",
       "title": "Bowen: Plan for Hamas to disarm faces big obstacles, yet it offers rare hope for Gaza",
       "url": "https://www.bbc.co.uk/news/articles/c2dkje4p4klo?at_medium=RSS&at_campaign=rss",
       "summary": "The realities of politics, war, zero trust, the deaths of thousands and the destruction of Gaza will make any agreement very complicated.",
@@ -900,24 +891,24 @@
       "news_count": 20
     },
     {
+      "country_code": "IL",
+      "country_name": "Israel",
+      "news_count": 8
+    },
+    {
       "country_code": "CO",
       "country_name": "Colombia",
       "news_count": 7
     },
     {
-      "country_code": "IL",
-      "country_name": "Israel",
-      "news_count": 7
-    },
-    {
       "country_code": "PS",
       "country_name": "Palestine",
-      "news_count": 7
+      "news_count": 6
     },
     {
       "country_code": "RU",
       "country_name": "Russia",
-      "news_count": 6
+      "news_count": 5
     },
     {
       "country_code": "NG",
@@ -975,6 +966,11 @@
       "news_count": 2
     },
     {
+      "country_code": "ES",
+      "country_name": "Spain",
+      "news_count": 2
+    },
+    {
       "country_code": "MX",
       "country_name": "Mexico",
       "news_count": 2
@@ -982,11 +978,6 @@
     {
       "country_code": "SD",
       "country_name": "Sudan",
-      "news_count": 2
-    },
-    {
-      "country_code": "TH",
-      "country_name": "Thailand",
       "news_count": 2
     },
     {
@@ -1007,11 +998,6 @@
     {
       "country_code": "EG",
       "country_name": "Egypt",
-      "news_count": 1
-    },
-    {
-      "country_code": "ES",
-      "country_name": "Spain",
       "news_count": 1
     },
     {
@@ -1047,6 +1033,11 @@
     {
       "country_code": "SA",
       "country_name": "Saudi Arabia",
+      "news_count": 1
+    },
+    {
+      "country_code": "TH",
+      "country_name": "Thailand",
       "news_count": 1
     },
     {
