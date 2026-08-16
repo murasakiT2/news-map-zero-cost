@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T16:11:55Z",
+  "generated_at": "2026-08-16T16:46:35Z",
   "articles": [
     {
       "source": "BBC World",
@@ -29,15 +29,6 @@
       "country_name": "Ukraine"
     },
     {
-      "source": "BBC Europe",
-      "title": "Watch: BBC visits smouldering market in Ukraine after overnight strikes",
-      "url": "https://www.bbc.co.uk/news/videos/c8dnn05e90lo?at_medium=RSS&at_campaign=rss",
-      "summary": "Six people were injured in the strike on the market selling second-hand records, posters, toys and tools.",
-      "published_at": "2026-08-16T12:18:09Z",
-      "country_code": "UA",
-      "country_name": "Ukraine"
-    },
-    {
       "source": "BBC World",
       "title": "Europe's tallest Virgin Mary statue unveiled in rural Poland",
       "url": "https://www.bbc.co.uk/news/articles/cn5nnlq2pwpo?at_medium=RSS&at_campaign=rss",
@@ -57,9 +48,9 @@
     },
     {
       "source": "BBC US & Canada",
-      "title": "US women in politics spark conversation about balancing family and career",
+      "title": "'I can't be the best mum': US women in politics spark conversation on motherhood",
       "url": "https://www.bbc.co.uk/news/articles/cjwxgz95jvgo?at_medium=RSS&at_campaign=rss",
-      "summary": "The BBC spoke to working mothers about the challenges of a high-pressure career and making time for family.",
+      "summary": "The White House press secretary quit this week to spend more time with her children, while Democrat Alexandra Ocasio-Cortez said she was fre…",
       "published_at": "2026-08-15T23:01:50Z",
       "country_code": "US",
       "country_name": "United States"
@@ -515,15 +506,6 @@
       "country_name": "Canada"
     },
     {
-      "source": "BBC Europe",
-      "title": "Russian court bars only anti-war party from standing in parliamentary elections",
-      "url": "https://www.bbc.co.uk/news/articles/cy9w1l5jr7lo?at_medium=RSS&at_campaign=rss",
-      "summary": "Russia's only liberal, anti-war party will not be able to take part in next month's parliamentary elections, a Moscow court rules.",
-      "published_at": "2026-08-10T18:19:41Z",
-      "country_code": "RU",
-      "country_name": "Russia"
-    },
-    {
       "source": "BBC Middle East",
       "title": "Netanyahu's rejection of Trump's 15-point Gaza plan unlikely to be final word",
       "url": "https://www.bbc.co.uk/news/articles/ce3q5282ep3o?at_medium=RSS&at_campaign=rss",
@@ -935,7 +917,7 @@
     {
       "country_code": "RU",
       "country_name": "Russia",
-      "news_count": 7
+      "news_count": 6
     },
     {
       "country_code": "NG",
@@ -973,11 +955,6 @@
       "news_count": 3
     },
     {
-      "country_code": "UA",
-      "country_name": "Ukraine",
-      "news_count": 3
-    },
-    {
       "country_code": "ZA",
       "country_name": "South Africa",
       "news_count": 3
@@ -1010,6 +987,11 @@
     {
       "country_code": "TH",
       "country_name": "Thailand",
+      "news_count": 2
+    },
+    {
+      "country_code": "UA",
+      "country_name": "Ukraine",
       "news_count": 2
     },
     {
