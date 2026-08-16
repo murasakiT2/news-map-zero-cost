@@ -1,8 +1,17 @@
 {
-  "generated_at": "2026-08-16T21:09:53Z",
+  "generated_at": "2026-08-16T21:40:27Z",
   "articles": [
     {
-      "source": "BBC US & Canada",
+      "source": "BBC World",
+      "title": "Trump says US will scale back military drills with South Korea",
+      "url": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
+      "summary": "His decision to reduce the partnership came after South Korea recently declined to aid his war effort in Iran.",
+      "published_at": "2026-08-16T21:27:42Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
       "title": "US commander says mental health a 'priority' on USS Lincoln",
       "url": "https://www.bbc.co.uk/news/articles/ceqeeendz42o?at_medium=RSS&at_campaign=rss",
       "summary": "Adm Brad Cooper acknowledged that navy service at sea for long periods is \"uniquely challenging and tough\", following a visit to the warship…",
@@ -99,15 +108,6 @@
       "published_at": "2026-08-15T20:21:14Z",
       "country_code": "IL",
       "country_name": "Israel"
-    },
-    {
-      "source": "BBC World",
-      "title": "Why is Australia's mushroom killer back in court this week?",
-      "url": "https://www.bbc.co.uk/news/videos/c62e1v8p07go?at_medium=RSS&at_campaign=rss",
-      "summary": "The BBC’s Katy Watson explains why triple-murder Erin Patterson is back in court this week trying to overturn her conviction.",
-      "published_at": "2026-08-15T18:02:30Z",
-      "country_code": "AU",
-      "country_name": "Australia"
     },
     {
       "source": "BBC World",
@@ -363,15 +363,6 @@
     },
     {
       "source": "BBC Africa",
-      "title": "Chawinga sisters fire Malawi into Wafcon final",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckg9p34wgxvo?at_medium=RSS&at_campaign=rss",
-      "summary": "Malawi's fairy tale run at the 2026 Women's Africa Cup of Nations goes on as sisters Tabitha and Temwa Chawinga share three goals in a 3-1 s…",
-      "published_at": "2026-08-12T23:22:57Z",
-      "country_code": "DZ",
-      "country_name": "Algeria"
-    },
-    {
-      "source": "BBC Africa",
       "title": "Vultures are disappearing in Nigeria - but the 'Vulture King' is fighting to reverse the trend",
       "url": "https://www.bbc.co.uk/news/articles/cx256pp33l3o?at_medium=RSS&at_campaign=rss",
       "summary": "Some see them as sinister or hunt them for ritual use but these birds play a vital role in nature's cycle.",
@@ -513,15 +504,6 @@
       "published_at": "2026-08-10T20:55:34Z",
       "country_code": "CO",
       "country_name": "Colombia"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "'We've had a lot of close calls': Canada wildfire evacuees wonder if they still have homes",
-      "url": "https://www.bbc.co.uk/news/articles/cx2lwv032j9o?at_medium=RSS&at_campaign=rss",
-      "summary": "More than 12,000 people have been forced to evacuate and some homes have been lost after a wildfire tore through Canada's picturesque Okanag…",
-      "published_at": "2026-08-10T19:17:11Z",
-      "country_code": "CA",
-      "country_name": "Canada"
     },
     {
       "source": "BBC Middle East",
@@ -897,7 +879,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 21
+      "news_count": 22
     },
     {
       "country_code": "IL",
@@ -960,18 +942,8 @@
       "news_count": 3
     },
     {
-      "country_code": "AU",
-      "country_name": "Australia",
-      "news_count": 2
-    },
-    {
       "country_code": "BR",
       "country_name": "Brazil",
-      "news_count": 2
-    },
-    {
-      "country_code": "CA",
-      "country_name": "Canada",
       "news_count": 2
     },
     {
@@ -995,13 +967,18 @@
       "news_count": 2
     },
     {
-      "country_code": "CL",
-      "country_name": "Chile",
+      "country_code": "AU",
+      "country_name": "Australia",
       "news_count": 1
     },
     {
-      "country_code": "DZ",
-      "country_name": "Algeria",
+      "country_code": "CA",
+      "country_name": "Canada",
+      "news_count": 1
+    },
+    {
+      "country_code": "CL",
+      "country_name": "Chile",
       "news_count": 1
     },
     {
