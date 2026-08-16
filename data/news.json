@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-08-16T12:17:04Z",
+  "generated_at": "2026-08-16T13:06:25Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Thousands displaced by deadly Indonesia earthquake as rescue efforts continue",
+      "url": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
+      "summary": "Hundreds of homes and public buildings have been severely damaged with at least 53 people killed.",
+      "published_at": "2026-08-16T12:37:21Z",
+      "country_code": "ID",
+      "country_name": "Indonesia"
+    },
+    {
+      "source": "BBC World",
+      "title": "BBC visits smouldering Kyiv market after Russian strikes",
+      "url": "https://www.bbc.co.uk/news/videos/c8dnn05e90lo?at_medium=RSS&at_campaign=rss",
+      "summary": "Six people were injured in the strike on the market selling second-hand records, posters, toys and tools.",
+      "published_at": "2026-08-16T12:18:09Z",
+      "country_code": "UA",
+      "country_name": "Ukraine"
+    },
     {
       "source": "BBC World",
       "title": "Europe's tallest Virgin Mary statue unveiled in rural Poland",
@@ -27,15 +45,6 @@
       "published_at": "2026-08-16T09:27:58Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "Thousands displaced by deadly Indonesia earthquake as rescue efforts continue",
-      "url": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
-      "summary": "Hundreds of homes and public buildings have been severely damaged with at least 51 people killed.",
-      "published_at": "2026-08-16T08:23:38Z",
-      "country_code": "ID",
-      "country_name": "Indonesia"
     },
     {
       "source": "BBC World",
@@ -153,15 +162,6 @@
       "published_at": "2026-08-14T16:35:06Z",
       "country_code": "FR",
       "country_name": "France"
-    },
-    {
-      "source": "BBC World",
-      "title": "Moment €9m worth of art stolen from Italy museum",
-      "url": "https://www.bbc.co.uk/news/videos/cddjlrzd26eo?at_medium=RSS&at_campaign=rss",
-      "summary": "Police released the CCTV footage after the art, which was stolen in March, was recovered.",
-      "published_at": "2026-08-14T14:56:04Z",
-      "country_code": "IT",
-      "country_name": "Italy"
     },
     {
       "source": "BBC Latin America",
@@ -993,11 +993,6 @@
       "news_count": 2
     },
     {
-      "country_code": "IT",
-      "country_name": "Italy",
-      "news_count": 2
-    },
-    {
       "country_code": "MX",
       "country_name": "Mexico",
       "news_count": 2
@@ -1010,6 +1005,11 @@
     {
       "country_code": "TH",
       "country_name": "Thailand",
+      "news_count": 2
+    },
+    {
+      "country_code": "UA",
+      "country_name": "Ukraine",
       "news_count": 2
     },
     {
@@ -1040,6 +1040,11 @@
     {
       "country_code": "ID",
       "country_name": "Indonesia",
+      "news_count": 1
+    },
+    {
+      "country_code": "IT",
+      "country_name": "Italy",
       "news_count": 1
     },
     {
@@ -1075,11 +1080,6 @@
     {
       "country_code": "TR",
       "country_name": "Turkey",
-      "news_count": 1
-    },
-    {
-      "country_code": "UA",
-      "country_name": "Ukraine",
       "news_count": 1
     },
     {
