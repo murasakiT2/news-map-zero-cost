@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T13:06:25Z",
+  "generated_at": "2026-08-16T13:49:41Z",
   "articles": [
     {
       "source": "BBC World",
@@ -13,6 +13,15 @@
     {
       "source": "BBC World",
       "title": "BBC visits smouldering Kyiv market after Russian strikes",
+      "url": "https://www.bbc.co.uk/news/videos/c8dnn05e90lo?at_medium=RSS&at_campaign=rss",
+      "summary": "Six people were injured in the strike on the market selling second-hand records, posters, toys and tools.",
+      "published_at": "2026-08-16T12:18:09Z",
+      "country_code": "UA",
+      "country_name": "Ukraine"
+    },
+    {
+      "source": "BBC Europe",
+      "title": "Watch: BBC visits smouldering market in Ukraine after overnight strikes",
       "url": "https://www.bbc.co.uk/news/videos/c8dnn05e90lo?at_medium=RSS&at_campaign=rss",
       "summary": "Six people were injured in the strike on the market selling second-hand records, posters, toys and tools.",
       "published_at": "2026-08-16T12:18:09Z",
@@ -43,6 +52,15 @@
       "url": "https://www.bbc.co.uk/news/articles/cj4kk8kz271o?at_medium=RSS&at_campaign=rss",
       "summary": "Iran claims they have been held since Qatar downed two fighter jets at the start of the US-Iran war.",
       "published_at": "2026-08-16T09:27:58Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "US women in politics spark conversation about balancing family and career",
+      "url": "https://www.bbc.co.uk/news/articles/cjwxgz95jvgo?at_medium=RSS&at_campaign=rss",
+      "summary": "The BBC spoke to working mothers about the challenges of a high-pressure career and making time for family.",
+      "published_at": "2026-08-15T23:01:50Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -498,15 +516,6 @@
     },
     {
       "source": "BBC Europe",
-      "title": "New train service connects Finland and Sweden for first time in decades",
-      "url": "https://www.bbc.co.uk/news/articles/cx2lwpzz6qjo?at_medium=RSS&at_campaign=rss",
-      "summary": "The service will enable rail travel from Portugal to Lapland - what is believed to be the longest train journey in Europe.",
-      "published_at": "2026-08-10T18:28:11Z",
-      "country_code": "PT",
-      "country_name": "Portugal"
-    },
-    {
-      "source": "BBC Europe",
       "title": "Russian court bars only anti-war party from standing in parliamentary elections",
       "url": "https://www.bbc.co.uk/news/articles/cy9w1l5jr7lo?at_medium=RSS&at_campaign=rss",
       "summary": "Russia's only liberal, anti-war party will not be able to take part in next month's parliamentary elections, a Moscow court rules.",
@@ -558,15 +567,6 @@
       "published_at": "2026-08-09T21:25:04Z",
       "country_code": "IL",
       "country_name": "Israel"
-    },
-    {
-      "source": "BBC Europe",
-      "title": "Ancient Roman shipwreck discovered off Sicily coast",
-      "url": "https://www.bbc.co.uk/news/articles/cvgx1kpz17go?at_medium=RSS&at_campaign=rss",
-      "summary": "Italy's culture minister says it is one of the most important underwater archaeological finds in years.",
-      "published_at": "2026-08-09T12:27:26Z",
-      "country_code": "IT",
-      "country_name": "Italy"
     },
     {
       "source": "BBC Africa",
@@ -915,7 +915,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 19
+      "news_count": 20
     },
     {
       "country_code": "CO",
@@ -973,6 +973,11 @@
       "news_count": 3
     },
     {
+      "country_code": "UA",
+      "country_name": "Ukraine",
+      "news_count": 3
+    },
+    {
       "country_code": "ZA",
       "country_name": "South Africa",
       "news_count": 3
@@ -1008,11 +1013,6 @@
       "news_count": 2
     },
     {
-      "country_code": "UA",
-      "country_name": "Ukraine",
-      "news_count": 2
-    },
-    {
       "country_code": "CL",
       "country_name": "Chile",
       "news_count": 1
@@ -1043,11 +1043,6 @@
       "news_count": 1
     },
     {
-      "country_code": "IT",
-      "country_name": "Italy",
-      "news_count": 1
-    },
-    {
       "country_code": "KE",
       "country_name": "Kenya",
       "news_count": 1
@@ -1065,11 +1060,6 @@
     {
       "country_code": "PL",
       "country_name": "Poland",
-      "news_count": 1
-    },
-    {
-      "country_code": "PT",
-      "country_name": "Portugal",
       "news_count": 1
     },
     {
