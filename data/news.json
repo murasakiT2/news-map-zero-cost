@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T04:56:28Z",
+  "generated_at": "2026-08-16T05:20:55Z",
   "articles": [
     {
       "source": "BBC World",
@@ -119,7 +119,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Middle East",
       "title": "Activists try to deliver aid to Palestinians in homes besieged by Israeli settlers",
       "url": "https://www.bbc.co.uk/news/articles/c1w1ylw0p3no?at_medium=RSS&at_campaign=rss",
       "summary": "Two families have been trapped in their homes in the occupied West Bank for several days.",
@@ -138,12 +138,12 @@
     },
     {
       "source": "BBC World",
-      "title": "Instagram accounts fuelling Ceuta crisis with paid advice for help to cross",
-      "url": "https://www.bbc.co.uk/news/articles/c89n20wj9kko?at_medium=RSS&at_campaign=rss",
-      "summary": "BBC's Top Comment podcast has found a network of Instagram profiles glamourising the swim around the Morocco-Ceuta border fence.",
-      "published_at": "2026-08-14T12:19:21Z",
-      "country_code": "MA",
-      "country_name": "Morocco"
+      "title": "Moment €9m worth of art stolen from Italy museum",
+      "url": "https://www.bbc.co.uk/news/videos/cddjlrzd26eo?at_medium=RSS&at_campaign=rss",
+      "summary": "Police released the CCTV footage after the art, which was stolen in March, was recovered.",
+      "published_at": "2026-08-14T14:56:04Z",
+      "country_code": "IT",
+      "country_name": "Italy"
     },
     {
       "source": "BBC Latin America",
@@ -155,7 +155,7 @@
       "country_name": "Brazil"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "'Unprecedented' rain in Japan kills eight people",
       "url": "https://www.bbc.co.uk/news/articles/cq561gpen8lo?at_medium=RSS&at_campaign=rss",
       "summary": "The storm cut power to more than 20,000 households and left 7,000 people stranded at Tokyo's Narita airport.",
@@ -920,11 +920,6 @@
       "news_count": 6
     },
     {
-      "country_code": "MA",
-      "country_name": "Morocco",
-      "news_count": 4
-    },
-    {
       "country_code": "NG",
       "country_name": "Nigeria",
       "news_count": 4
@@ -955,6 +950,11 @@
       "news_count": 3
     },
     {
+      "country_code": "MA",
+      "country_name": "Morocco",
+      "news_count": 3
+    },
+    {
       "country_code": "ZA",
       "country_name": "South Africa",
       "news_count": 3
@@ -972,6 +972,11 @@
     {
       "country_code": "CA",
       "country_name": "Canada",
+      "news_count": 2
+    },
+    {
+      "country_code": "IT",
+      "country_name": "Italy",
       "news_count": 2
     },
     {
@@ -1017,11 +1022,6 @@
     {
       "country_code": "ID",
       "country_name": "Indonesia",
-      "news_count": 1
-    },
-    {
-      "country_code": "IT",
-      "country_name": "Italy",
       "news_count": 1
     },
     {
