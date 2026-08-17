@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T00:36:33Z",
+  "generated_at": "2026-08-17T02:12:33Z",
   "articles": [
     {
       "source": "BBC World",
@@ -32,7 +32,7 @@
       "source": "BBC World",
       "title": "US commander says mental health a 'priority' on USS Lincoln",
       "url": "https://www.bbc.co.uk/news/articles/ceqeeendz42o?at_medium=RSS&at_campaign=rss",
-      "summary": "Adm Brad Cooper acknowledged that navy service at sea for long periods is \"uniquely challenging and tough\", following a visit to the warship…",
+      "summary": "Adm Cooper acknowledges service at sea for long periods is \"uniquely challenging\", after visiting the warship.",
       "published_at": "2026-08-16T21:04:27Z",
       "country_code": "US",
       "country_name": "United States"
@@ -131,7 +131,7 @@
       "source": "BBC World",
       "title": "Why is Australia's mushroom killer back in court this week?",
       "url": "https://www.bbc.co.uk/news/videos/c62e1v8p07go?at_medium=RSS&at_campaign=rss",
-      "summary": "The BBC’s Katy Watson explains why triple-murder Erin Patterson is back in court this week trying to overturn her conviction.",
+      "summary": "The BBC’s Katy Watson explains why triple-murderer Erin Patterson is back in court this week trying to overturn her conviction.",
       "published_at": "2026-08-15T18:02:30Z",
       "country_code": "AU",
       "country_name": "Australia"
@@ -151,15 +151,6 @@
       "url": "https://www.bbc.co.uk/news/articles/cy0j60p0d29o?at_medium=RSS&at_campaign=rss",
       "summary": "A father and his two young sons spent a night adrift before being rescued off the coast of the island of Koh Samui.",
       "published_at": "2026-08-15T13:41:09Z",
-      "country_code": "TH",
-      "country_name": "Thailand"
-    },
-    {
-      "source": "BBC World",
-      "title": "Moment family rescued after 16 hours floating on jet ski off Thailand",
-      "url": "https://www.bbc.co.uk/news/videos/cj4kg74ndggo?at_medium=RSS&at_campaign=rss",
-      "summary": "A 50-year-old father and his two sons were found floating off Koh Samui island, a local official told AFP on Saturday.",
-      "published_at": "2026-08-15T09:29:31Z",
       "country_code": "TH",
       "country_name": "Thailand"
     },
@@ -964,11 +955,6 @@
       "news_count": 3
     },
     {
-      "country_code": "TH",
-      "country_name": "Thailand",
-      "news_count": 3
-    },
-    {
       "country_code": "ZA",
       "country_name": "South Africa",
       "news_count": 3
@@ -996,6 +982,11 @@
     {
       "country_code": "SD",
       "country_name": "Sudan",
+      "news_count": 2
+    },
+    {
+      "country_code": "TH",
+      "country_name": "Thailand",
       "news_count": 2
     },
     {
