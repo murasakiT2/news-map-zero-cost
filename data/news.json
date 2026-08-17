@@ -1,6 +1,33 @@
 {
-  "generated_at": "2026-08-17T18:21:35Z",
+  "generated_at": "2026-08-17T19:04:33Z",
   "articles": [
+    {
+      "source": "BBC US & Canada",
+      "title": "UK PM Burnham exchanged messages with White House imposter",
+      "url": "https://www.bbc.co.uk/news/articles/clyvj5zdjj2o?at_medium=RSS&at_campaign=rss",
+      "summary": "Downing Street has declined to comment on the security breach, first reported by Politico.",
+      "published_at": "2026-08-17T18:51:22Z",
+      "country_code": "GB",
+      "country_name": "United Kingdom"
+    },
+    {
+      "source": "BBC World",
+      "title": "Supreme Court again rejects Trump's bid to overturn E Jean Carroll sex abuse case",
+      "url": "https://www.bbc.co.uk/news/articles/c74gekjgrllo?at_medium=RSS&at_campaign=rss",
+      "summary": "The US president has already paid the writer over $5m in damages in the assault and defamation case.",
+      "published_at": "2026-08-17T18:45:59Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Trump says US to reduce military drills with South Korea after it stayed out of Iran war",
+      "url": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
+      "summary": "Trump cites his \"very good relationship\" with North Korea's leader in deciding to downsize the exercises.",
+      "published_at": "2026-08-17T18:39:39Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "Tributes to actress Hayden Panettiere as coroner finds 'no signs of trauma'",
@@ -45,24 +72,6 @@
       "published_at": "2026-08-17T16:02:31Z",
       "country_code": "NG",
       "country_name": "Nigeria"
-    },
-    {
-      "source": "BBC World",
-      "title": "Supreme Court again rejects Trump's bid to overturn E Jean Carroll sex abuse case",
-      "url": "https://www.bbc.co.uk/news/articles/c74gekjgrllo?at_medium=RSS&at_campaign=rss",
-      "summary": "The US president has already paid the writer over $5m in damages in the assault and defamation case.",
-      "published_at": "2026-08-17T15:33:42Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "UK PM Burnham exchanged messages with White House imposter",
-      "url": "https://www.bbc.co.uk/news/articles/clyvj5zdjj2o?at_medium=RSS&at_campaign=rss",
-      "summary": "Downing Street has declined to comment on the security breach, first reported by Politico.",
-      "published_at": "2026-08-17T14:24:58Z",
-      "country_code": "GB",
-      "country_name": "United Kingdom"
     },
     {
       "source": "BBC Africa",
@@ -126,15 +135,6 @@
       "published_at": "2026-08-17T07:33:20Z",
       "country_code": "SG",
       "country_name": "Singapore"
-    },
-    {
-      "source": "BBC World",
-      "title": "Trump says US to reduce military drills with South Korea after it stayed out of Iran war",
-      "url": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
-      "summary": "Trump cites his \"very good relationship\" with North Korea's leader in deciding to downsize the exercises.",
-      "published_at": "2026-08-17T06:24:31Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC World",
@@ -279,15 +279,6 @@
       "published_at": "2026-08-15T14:40:15Z",
       "country_code": "KR",
       "country_name": "South Korea"
-    },
-    {
-      "source": "BBC Asia",
-      "title": "Family stranded at sea for 16 hours after jet ski capsized in Thailand",
-      "url": "https://www.bbc.co.uk/news/articles/cy0j60p0d29o?at_medium=RSS&at_campaign=rss",
-      "summary": "A father and his two young sons spent a night adrift before being rescued off the coast of the island of Koh Samui.",
-      "published_at": "2026-08-15T13:41:09Z",
-      "country_code": "TH",
-      "country_name": "Thailand"
     },
     {
       "source": "BBC World",
@@ -477,15 +468,6 @@
       "published_at": "2026-08-11T19:15:48Z",
       "country_code": "CO",
       "country_name": "Colombia"
-    },
-    {
-      "source": "BBC Europe",
-      "title": "Russia using North Korean missiles to strike Ukraine, Zelensky says",
-      "url": "https://www.bbc.co.uk/news/articles/c151dpzwnvxo?at_medium=RSS&at_campaign=rss",
-      "summary": "Ukraine's president says strikes in Zaporizhzhia - which killed seven people - involved ballistic missiles from Russia's ally.",
-      "published_at": "2026-08-11T16:19:44Z",
-      "country_code": "RU",
-      "country_name": "Russia"
     },
     {
       "source": "BBC Latin America",
@@ -879,13 +861,13 @@
       "news_count": 6
     },
     {
-      "country_code": "RU",
-      "country_name": "Russia",
-      "news_count": 6
-    },
-    {
       "country_code": "NG",
       "country_name": "Nigeria",
+      "news_count": 5
+    },
+    {
+      "country_code": "RU",
+      "country_name": "Russia",
       "news_count": 5
     },
     {
@@ -906,11 +888,6 @@
     {
       "country_code": "MA",
       "country_name": "Morocco",
-      "news_count": 3
-    },
-    {
-      "country_code": "TH",
-      "country_name": "Thailand",
       "news_count": 3
     },
     {
@@ -951,6 +928,11 @@
     {
       "country_code": "SD",
       "country_name": "Sudan",
+      "news_count": 2
+    },
+    {
+      "country_code": "TH",
+      "country_name": "Thailand",
       "news_count": 2
     },
     {
