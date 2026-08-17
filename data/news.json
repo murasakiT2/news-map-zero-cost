@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T07:42:15Z",
+  "generated_at": "2026-08-17T08:29:57Z",
   "articles": [
     {
       "source": "BBC World",
@@ -110,7 +110,7 @@
       "country_name": "Poland"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Middle East",
       "title": "Qatar denies capturing three Iranian pilots after downing fighter jets",
       "url": "https://www.bbc.co.uk/news/articles/cj4kk8kz271o?at_medium=RSS&at_campaign=rss",
       "summary": "Iran claims they have been held since Qatar downed two fighter jets at the start of the US-Iran war.",
@@ -128,7 +128,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "Morocco detains dozens of migrants trying to cross into Ceuta, reports say",
       "url": "https://www.bbc.co.uk/news/articles/ckg44x2ey1ro?at_medium=RSS&at_campaign=rss",
       "summary": "Security had been stepped up amid suggestions on social media of a second mass crossing on Saturday.",
@@ -169,6 +169,15 @@
       "url": "https://www.bbc.co.uk/news/articles/cy0j60p0d29o?at_medium=RSS&at_campaign=rss",
       "summary": "A father and his two young sons spent a night adrift before being rescued off the coast of the island of Koh Samui.",
       "published_at": "2026-08-15T13:41:09Z",
+      "country_code": "TH",
+      "country_name": "Thailand"
+    },
+    {
+      "source": "BBC World",
+      "title": "Moment family rescued after 16 hours floating on jet ski off Thailand",
+      "url": "https://www.bbc.co.uk/news/videos/cj4kg74ndggo?at_medium=RSS&at_campaign=rss",
+      "summary": "A 50-year-old father and his two sons were found floating off Koh Samui island, a local official told AFP on Saturday.",
+      "published_at": "2026-08-15T09:29:31Z",
       "country_code": "TH",
       "country_name": "Thailand"
     },
@@ -227,6 +236,15 @@
       "country_name": "Palestine"
     },
     {
+      "source": "BBC Latin America",
+      "title": "UK diplomats no longer get hardship bonus for being posted to Buenos Aires",
+      "url": "https://www.bbc.co.uk/news/articles/cly5p995ykko?at_medium=RSS&at_campaign=rss",
+      "summary": "Civil servants are entitled to extra money for working in difficult or dangerous cities around the world.",
+      "published_at": "2026-08-14T17:00:46Z",
+      "country_code": "GB",
+      "country_name": "United Kingdom"
+    },
+    {
       "source": "BBC Europe",
       "title": "France's top court blocks social media ban for under-15s",
       "url": "https://www.bbc.co.uk/news/articles/cx2vj433xqlo?at_medium=RSS&at_campaign=rss",
@@ -250,6 +268,15 @@
       "url": "https://www.bbc.co.uk/news/articles/ckg40jvvkp7o?at_medium=RSS&at_campaign=rss",
       "summary": "Kevin Rideout, who was kidnapped outside his home in the capital last October, is now with US officials.",
       "published_at": "2026-08-14T10:18:02Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC Latin America",
+      "title": "US says dozens of countries helped China dodge Trump's tariffs",
+      "url": "https://www.bbc.co.uk/news/articles/c78gy6ep3n5o?at_medium=RSS&at_campaign=rss",
+      "summary": "A new US report said China had moved goods through nations with lower tariffs to dodge higher levies.",
+      "published_at": "2026-08-14T08:39:46Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -360,15 +387,6 @@
       "published_at": "2026-08-13T03:28:56Z",
       "country_code": "RU",
       "country_name": "Russia"
-    },
-    {
-      "source": "BBC Africa",
-      "title": "Keeper Bihina stars as Cameroon upset Morocco to make Wafcon final",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckg3pzne52xo?at_medium=RSS&at_campaign=rss",
-      "summary": "Cameroon's Michaely Bihina saves an extra-time penalty and three more spot kicks in a shootout to send her side though to the 2026 Wafcon fi…",
-      "published_at": "2026-08-12T23:36:44Z",
-      "country_code": "MA",
-      "country_name": "Morocco"
     },
     {
       "source": "BBC Africa",
@@ -504,15 +522,6 @@
       "published_at": "2026-08-10T14:43:08Z",
       "country_code": "PS",
       "country_name": "Palestine"
-    },
-    {
-      "source": "BBC Latin America",
-      "title": "Alleged rebel leader killed in Colombia as president targets armed groups",
-      "url": "https://www.bbc.co.uk/news/articles/c5yrljp9x9eo?at_medium=RSS&at_campaign=rss",
-      "summary": "The military operation against Hernando Forero Mosquera was carried out just days after Colombia's new president was sworn in.",
-      "published_at": "2026-08-10T12:23:21Z",
-      "country_code": "CO",
-      "country_name": "Colombia"
     },
     {
       "source": "BBC Latin America",
@@ -855,32 +864,23 @@
       "published_at": "2026-07-27T16:19:50Z",
       "country_code": "NG",
       "country_name": "Nigeria"
-    },
-    {
-      "source": "BBC Latin America",
-      "title": "Families still search for bodies a month after Venezuela earthquakes",
-      "url": "https://www.bbc.co.uk/news/videos/cwylplxk8nko?at_medium=RSS&at_campaign=rss",
-      "summary": "Officials say the death toll has surpassed 5,300, though estimates of the number still missing could be as high as 50,000.",
-      "published_at": "2026-07-24T05:47:11Z",
-      "country_code": "VE",
-      "country_name": "Venezuela"
     }
   ],
   "regions": [
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 23
-    },
-    {
-      "country_code": "CO",
-      "country_name": "Colombia",
-      "news_count": 7
+      "news_count": 24
     },
     {
       "country_code": "IL",
       "country_name": "Israel",
       "news_count": 7
+    },
+    {
+      "country_code": "CO",
+      "country_name": "Colombia",
+      "news_count": 6
     },
     {
       "country_code": "PS",
@@ -918,8 +918,8 @@
       "news_count": 3
     },
     {
-      "country_code": "MA",
-      "country_name": "Morocco",
+      "country_code": "TH",
+      "country_name": "Thailand",
       "news_count": 3
     },
     {
@@ -938,8 +938,18 @@
       "news_count": 2
     },
     {
+      "country_code": "GB",
+      "country_name": "United Kingdom",
+      "news_count": 2
+    },
+    {
       "country_code": "KR",
       "country_name": "South Korea",
+      "news_count": 2
+    },
+    {
+      "country_code": "MA",
+      "country_name": "Morocco",
       "news_count": 2
     },
     {
@@ -950,11 +960,6 @@
     {
       "country_code": "SD",
       "country_name": "Sudan",
-      "news_count": 2
-    },
-    {
-      "country_code": "TH",
-      "country_name": "Thailand",
       "news_count": 2
     },
     {
@@ -975,11 +980,6 @@
     {
       "country_code": "EG",
       "country_name": "Egypt",
-      "news_count": 1
-    },
-    {
-      "country_code": "GB",
-      "country_name": "United Kingdom",
       "news_count": 1
     },
     {
@@ -1015,11 +1015,6 @@
     {
       "country_code": "TR",
       "country_name": "Turkey",
-      "news_count": 1
-    },
-    {
-      "country_code": "VE",
-      "country_name": "Venezuela",
       "news_count": 1
     }
   ]
