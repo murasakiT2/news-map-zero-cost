@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-08-17T14:23:59Z",
+  "generated_at": "2026-08-17T14:50:21Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Trump threatens to bomb Oman if it 'gets in the way' over Iran issue",
+      "url": "https://www.bbc.co.uk/news/articles/cy5dzk0ryzdo?at_medium=RSS&at_campaign=rss",
+      "summary": "The president also told Fox News the US had a direct backchannel with the Islamic Revolutionary Guard Corps - something it denies.",
+      "published_at": "2026-08-17T14:36:44Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "UK PM Burnham exchanged messages with White House imposter",
+      "url": "https://www.bbc.co.uk/news/articles/clyvj5zdjj2o?at_medium=RSS&at_campaign=rss",
+      "summary": "Downing Street has declined to comment on the security breach, first reported by Politico.",
+      "published_at": "2026-08-17T14:24:58Z",
+      "country_code": "GB",
+      "country_name": "United Kingdom"
+    },
     {
       "source": "BBC World",
       "title": "Trump envoy Kushner meets Netanyahu after Hamas talks on peace plan",
@@ -20,15 +38,6 @@
       "country_name": "Morocco"
     },
     {
-      "source": "BBC US & Canada",
-      "title": "UK PM Burnham exchanged messages with White House imposter",
-      "url": "https://www.bbc.co.uk/news/articles/clyvj5zdjj2o?at_medium=RSS&at_campaign=rss",
-      "summary": "Downing Street has declined to comment on the security breach, first reported by Politico.",
-      "published_at": "2026-08-17T13:30:35Z",
-      "country_code": "GB",
-      "country_name": "United Kingdom"
-    },
-    {
       "source": "BBC World",
       "title": "Russia and Ukraine trade more deadly strikes",
       "url": "https://www.bbc.co.uk/news/articles/cn7n4lm11vro?at_medium=RSS&at_campaign=rss",
@@ -38,7 +47,7 @@
       "country_name": "Russia"
     },
     {
-      "source": "BBC Europe",
+      "source": "BBC World",
       "title": "US hiker dies after being struck by lightning on Mount Etna",
       "url": "https://www.bbc.co.uk/news/articles/ce34rlkw6q7o?at_medium=RSS&at_campaign=rss",
       "summary": "The 30-year-old was on the active volcano when a thunderstorm developed, local media report.",
@@ -146,7 +155,7 @@
       "country_name": "Spain"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "Thousands displaced by deadly Indonesia earthquake as rescue efforts continue",
       "url": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
       "summary": "Hundreds of homes and public buildings have been severely damaged with at least 53 people killed.",
@@ -843,7 +852,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 20
+      "news_count": 21
     },
     {
       "country_code": "IL",
