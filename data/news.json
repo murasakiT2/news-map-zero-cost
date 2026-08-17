@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-08-17T03:24:44Z",
+  "generated_at": "2026-08-17T04:08:17Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Actress Hayden Panettiere dies aged 36, US media report",
+      "url": "https://www.bbc.co.uk/news/articles/cq5665zgg1po?at_medium=RSS&at_campaign=rss",
+      "summary": "A representative for the actress confirmed the news to US outlet ABC News, but did not provide further details of her death.",
+      "published_at": "2026-08-17T04:03:52Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "Trump says US to scale back South Korea military drills after it stayed out of Iran war",
@@ -9,6 +18,15 @@
       "published_at": "2026-08-17T02:51:27Z",
       "country_code": "US",
       "country_name": "United States"
+    },
+    {
+      "source": "BBC Asia",
+      "title": "Singapore police investigate assault on elderly man who patted child's head",
+      "url": "https://www.bbc.co.uk/news/articles/cy077exnv8jo?at_medium=RSS&at_campaign=rss",
+      "summary": "A man believed to be the father of the young girl allegedly threw the 73-year-old to the ground.",
+      "published_at": "2026-08-17T02:24:32Z",
+      "country_code": "SG",
+      "country_name": "Singapore"
     },
     {
       "source": "BBC Asia",
@@ -119,7 +137,7 @@
       "country_name": "Morocco"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Middle East",
       "title": "Eleven killed in Israeli strikes on southern Lebanon, authorities say",
       "url": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss",
       "summary": "Israel's military said it had struck \"Hezbollah terror infrastructure\" in response to what it described as earlier action against its soldie…",
@@ -146,11 +164,20 @@
       "country_name": "South Korea"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "Family stranded at sea for 16 hours after jet ski capsized in Thailand",
       "url": "https://www.bbc.co.uk/news/articles/cy0j60p0d29o?at_medium=RSS&at_campaign=rss",
       "summary": "A father and his two young sons spent a night adrift before being rescued off the coast of the island of Koh Samui.",
       "published_at": "2026-08-15T13:41:09Z",
+      "country_code": "TH",
+      "country_name": "Thailand"
+    },
+    {
+      "source": "BBC World",
+      "title": "Moment family rescued after 16 hours floating on jet ski off Thailand",
+      "url": "https://www.bbc.co.uk/news/videos/cj4kg74ndggo?at_medium=RSS&at_campaign=rss",
+      "summary": "A 50-year-old father and his two sons were found floating off Koh Samui island, a local official told AFP on Saturday.",
+      "published_at": "2026-08-15T09:29:31Z",
       "country_code": "TH",
       "country_name": "Thailand"
     },
@@ -333,15 +360,6 @@
       "published_at": "2026-08-13T13:02:24Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC Asia",
-      "title": "Japan PM says Putin's visit to disputed islands 'absolutely unacceptable'",
-      "url": "https://www.bbc.co.uk/news/articles/cqx7ple0nxxo?at_medium=RSS&at_campaign=rss",
-      "summary": "It was the first time the Russian leader had visited the Kuril islands, according to state media.",
-      "published_at": "2026-08-13T09:54:03Z",
-      "country_code": "JP",
-      "country_name": "Japan"
     },
     {
       "source": "BBC Asia",
@@ -897,7 +915,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 22
+      "news_count": 23
     },
     {
       "country_code": "IL",
@@ -940,11 +958,6 @@
       "news_count": 3
     },
     {
-      "country_code": "JP",
-      "country_name": "Japan",
-      "news_count": 3
-    },
-    {
       "country_code": "KR",
       "country_name": "South Korea",
       "news_count": 3
@@ -952,6 +965,11 @@
     {
       "country_code": "MA",
       "country_name": "Morocco",
+      "news_count": 3
+    },
+    {
+      "country_code": "TH",
+      "country_name": "Thailand",
       "news_count": 3
     },
     {
@@ -975,6 +993,11 @@
       "news_count": 2
     },
     {
+      "country_code": "JP",
+      "country_name": "Japan",
+      "news_count": 2
+    },
+    {
       "country_code": "MX",
       "country_name": "Mexico",
       "news_count": 2
@@ -982,11 +1005,6 @@
     {
       "country_code": "SD",
       "country_name": "Sudan",
-      "news_count": 2
-    },
-    {
-      "country_code": "TH",
-      "country_name": "Thailand",
       "news_count": 2
     },
     {
@@ -1037,6 +1055,11 @@
     {
       "country_code": "SA",
       "country_name": "Saudi Arabia",
+      "news_count": 1
+    },
+    {
+      "country_code": "SG",
+      "country_name": "Singapore",
       "news_count": 1
     },
     {
