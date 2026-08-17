@@ -1,14 +1,23 @@
 {
-  "generated_at": "2026-08-16T23:39:58Z",
+  "generated_at": "2026-08-17T00:36:33Z",
   "articles": [
     {
       "source": "BBC World",
       "title": "Trump says US to scale back military drills with South Korea after it stayed out of Iran war",
       "url": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
       "summary": "Trump cites his \"very good relationship\" with North Korea's leader in deciding to downsize the exercises.",
-      "published_at": "2026-08-16T23:28:14Z",
+      "published_at": "2026-08-17T00:06:05Z",
       "country_code": "US",
       "country_name": "United States"
+    },
+    {
+      "source": "BBC Asia",
+      "title": "India built the world's biggest digital payments miracle. Now comes the bill",
+      "url": "https://www.bbc.co.uk/news/articles/c8xnwqe00v1o?at_medium=RSS&at_campaign=rss",
+      "summary": "India's UPI may finally face merchant fees, raising questions over who pays and whether users will resist.",
+      "published_at": "2026-08-16T23:26:30Z",
+      "country_code": "IN",
+      "country_name": "India"
     },
     {
       "source": "BBC World",
@@ -459,15 +468,6 @@
       "published_at": "2026-08-11T23:33:45Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC Asia",
-      "title": "These seaside apartments were a ghost city - then police say scammers moved in",
-      "url": "https://www.bbc.co.uk/news/articles/cx2kvlye1k5o?at_medium=RSS&at_campaign=rss",
-      "summary": "Malaysia's Forest City was pitched as \"paradise\" but last month police raided it over alleged scam operations.",
-      "published_at": "2026-08-11T23:31:18Z",
-      "country_code": "MY",
-      "country_name": "Malaysia"
     },
     {
       "source": "BBC US & Canada",
@@ -929,6 +929,11 @@
       "news_count": 5
     },
     {
+      "country_code": "IN",
+      "country_name": "India",
+      "news_count": 4
+    },
+    {
       "country_code": "NG",
       "country_name": "Nigeria",
       "news_count": 4
@@ -936,11 +941,6 @@
     {
       "country_code": "FR",
       "country_name": "France",
-      "news_count": 3
-    },
-    {
-      "country_code": "IN",
-      "country_name": "India",
       "news_count": 3
     },
     {
@@ -1031,11 +1031,6 @@
     {
       "country_code": "KE",
       "country_name": "Kenya",
-      "news_count": 1
-    },
-    {
-      "country_code": "MY",
-      "country_name": "Malaysia",
       "news_count": 1
     },
     {
