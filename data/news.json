@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-08-17T09:09:13Z",
+  "generated_at": "2026-08-17T10:02:29Z",
   "articles": [
+    {
+      "source": "BBC Africa",
+      "title": "Man City in advanced talks for £85m Bouaddi, 18",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cd7l9n4qnlno?at_medium=RSS&at_campaign=rss",
+      "summary": "Manchester City are in advanced talks with Lille over a move for Morocco midfielder Ayyoub Bouaddi.",
+      "published_at": "2026-08-17T09:23:32Z",
+      "country_code": "MA",
+      "country_name": "Morocco"
+    },
     {
       "source": "BBC Africa",
       "title": "From former 'street kid' key to South Africa's police corruption inquiry",
@@ -47,7 +56,7 @@
       "country_name": "United Kingdom"
     },
     {
-      "source": "BBC Asia",
+      "source": "BBC World",
       "title": "Movie that went viral for terrible animation becomes China box office hit",
       "url": "https://www.bbc.co.uk/news/articles/c4g4r0mrmlpo?at_medium=RSS&at_campaign=rss",
       "summary": "Niu Lai's confusing plot and laughable animation quality has won ironic fans on the internet.",
@@ -146,7 +155,7 @@
       "country_name": "Ukraine"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "Europe's tallest Virgin Mary statue unveiled in rural Poland",
       "url": "https://www.bbc.co.uk/news/articles/cn5nnlq2pwpo?at_medium=RSS&at_campaign=rss",
       "summary": "The 55.6-metre (182ft) concrete figure is head-and-shoulders above Rio de Janeiro's Christ the Redeemer.",
@@ -333,15 +342,6 @@
       "published_at": "2026-08-14T08:02:35Z",
       "country_code": "CO",
       "country_name": "Colombia"
-    },
-    {
-      "source": "BBC Africa",
-      "title": "Nigeria to miss Women's World Cup after South Africa and Ghana win play-offs",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cgk46yrk2pjo?at_medium=RSS&at_campaign=rss",
-      "summary": "South Africa and Ghana progress to an inter-confederation qualifier for the 2027 Women's World Cup, but Nigeria will miss the tournament for…",
-      "published_at": "2026-08-13T22:49:29Z",
-      "country_code": "ZA",
-      "country_name": "South Africa"
     },
     {
       "source": "BBC Europe",
@@ -867,11 +867,6 @@
       "news_count": 4
     },
     {
-      "country_code": "ZA",
-      "country_name": "South Africa",
-      "news_count": 4
-    },
-    {
       "country_code": "AU",
       "country_name": "Australia",
       "news_count": 3
@@ -887,8 +882,18 @@
       "news_count": 3
     },
     {
+      "country_code": "MA",
+      "country_name": "Morocco",
+      "news_count": 3
+    },
+    {
       "country_code": "TH",
       "country_name": "Thailand",
+      "news_count": 3
+    },
+    {
+      "country_code": "ZA",
+      "country_name": "South Africa",
       "news_count": 3
     },
     {
@@ -909,11 +914,6 @@
     {
       "country_code": "IR",
       "country_name": "Iran",
-      "news_count": 2
-    },
-    {
-      "country_code": "MA",
-      "country_name": "Morocco",
       "news_count": 2
     },
     {
