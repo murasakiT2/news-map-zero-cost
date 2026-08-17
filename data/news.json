@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-08-17T12:20:25Z",
+  "generated_at": "2026-08-17T13:12:38Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Trump envoy Kushner meets Netanyahu after Hamas talks on peace plan",
+      "url": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
+      "summary": "US President Trump's son-in-law Jared Kushner is seeking to gain Israeli backing for the US-backed Gaza peace plan.",
+      "published_at": "2026-08-17T12:27:11Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC Europe",
+      "title": "US hiker dies after being struck by lightning on Mount Etna",
+      "url": "https://www.bbc.co.uk/news/articles/ce34rlkw6q7o?at_medium=RSS&at_campaign=rss",
+      "summary": "The 30-year-old was on the active volcano when a thunderstorm developed, local media report.",
+      "published_at": "2026-08-17T12:23:26Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC US & Canada",
       "title": "UK PM Burnham exchanged messages with White House imposter",
@@ -9,15 +27,6 @@
       "published_at": "2026-08-17T11:20:23Z",
       "country_code": "GB",
       "country_name": "United Kingdom"
-    },
-    {
-      "source": "BBC World",
-      "title": "Trump envoy Kushner meets Netanyahu after Hamas talks on peace plan",
-      "url": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
-      "summary": "US President Trump's son-in-law Jared Kushner is seeking to gain Israeli backing for the US-backed Gaza peace plan.",
-      "published_at": "2026-08-17T11:16:31Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC World",
@@ -834,7 +843,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 19
+      "news_count": 20
     },
     {
       "country_code": "IL",
