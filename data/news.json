@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-08-17T05:56:30Z",
+  "generated_at": "2026-08-17T06:38:25Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Trump says US to reduce military drills with South Korea after it stayed out of Iran war",
+      "url": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
+      "summary": "Trump cites his \"very good relationship\" with North Korea's leader in deciding to downsize the exercises.",
+      "published_at": "2026-08-17T06:24:31Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "Aussie rules footy players referred to police as detectives investigate sexual assault",
@@ -18,15 +27,6 @@
       "published_at": "2026-08-17T05:38:13Z",
       "country_code": "RU",
       "country_name": "Russia"
-    },
-    {
-      "source": "BBC World",
-      "title": "Trump says US to reduce military drills with South Korea after it stayed out of Iran war",
-      "url": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
-      "summary": "Trump cites his \"very good relationship\" with North Korea's leader in deciding to downsize the exercises.",
-      "published_at": "2026-08-17T05:06:47Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC World",
@@ -81,15 +81,6 @@
       "published_at": "2026-08-16T19:37:45Z",
       "country_code": "ES",
       "country_name": "Spain"
-    },
-    {
-      "source": "BBC Europe",
-      "title": "Russia says at least seven killed in largest Ukrainian attack of 2026",
-      "url": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
-      "summary": "Moscow also launched deadly strikes against Ukraine overnight, sparking fires across the capital Kyiv.",
-      "published_at": "2026-08-16T19:03:04Z",
-      "country_code": "RU",
-      "country_name": "Russia"
     },
     {
       "source": "BBC World",
@@ -899,7 +890,7 @@
     {
       "country_code": "RU",
       "country_name": "Russia",
-      "news_count": 6
+      "news_count": 5
     },
     {
       "country_code": "NG",
