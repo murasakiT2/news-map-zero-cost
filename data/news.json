@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-18T11:47:22Z",
+  "generated_at": "2026-08-18T12:22:17Z",
   "articles": [
     {
       "source": "BBC World",
       "title": "UK 'supports Ukraine 100%', Burnham says, after Russia's drone warning",
       "url": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss",
-      "summary": "Prime Minister Andy Burnham vows to support Ukraine in its \"hour of need\" after Russia accuses the UK of escalating the Ukraine war by suppl…",
+      "summary": "Russia accuses the UK of escalating the Ukraine war by supplying British-made drones as the prime minister vows to support Kyiv in its \"hour…",
       "published_at": "2026-08-18T11:41:23Z",
       "country_code": "GB",
       "country_name": "United Kingdom"
@@ -288,15 +288,6 @@
       "published_at": "2026-08-15T18:02:30Z",
       "country_code": "AU",
       "country_name": "Australia"
-    },
-    {
-      "source": "BBC Africa",
-      "title": "Why Michaely Bihina is the keeper making waves at Wafcon",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c7vgylpgmz7o?at_medium=RSS&at_campaign=rss",
-      "summary": "Fans in Cameroon want a statue built for Michaely Bihina after she made four penalty saves against Morocco to help Cameroon reach the 2026 W…",
-      "published_at": "2026-08-15T07:38:19Z",
-      "country_code": "MA",
-      "country_name": "Morocco"
     },
     {
       "source": "BBC Asia",
@@ -889,11 +880,6 @@
       "news_count": 2
     },
     {
-      "country_code": "MA",
-      "country_name": "Morocco",
-      "news_count": 2
-    },
-    {
       "country_code": "MX",
       "country_name": "Mexico",
       "news_count": 2
@@ -936,6 +922,11 @@
     {
       "country_code": "KE",
       "country_name": "Kenya",
+      "news_count": 1
+    },
+    {
+      "country_code": "MA",
+      "country_name": "Morocco",
       "news_count": 1
     },
     {
