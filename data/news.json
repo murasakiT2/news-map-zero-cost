@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-08-18T00:36:22Z",
+  "generated_at": "2026-08-18T02:08:32Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Russia warns UK over supplying drones to Ukraine",
+      "url": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss",
+      "summary": "An MoD spokesperson responds by saying Britain stands \"shoulder to shoulder\" with Ukraine.",
+      "published_at": "2026-08-18T01:16:41Z",
+      "country_code": "GB",
+      "country_name": "United Kingdom"
+    },
+    {
+      "source": "BBC World",
+      "title": "BBC breaks down Trump's latest shift on North and South Korea",
+      "url": "https://www.bbc.co.uk/news/videos/cy45zjw424xo?at_medium=RSS&at_campaign=rss",
+      "summary": "Trump said the US will \"substantially reduce\" joint military exercises with South Korea, citing his \"very good relationship\" with Kim Jong U…",
+      "published_at": "2026-08-17T23:42:38Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "Tributes to actress Hayden Panettiere as coroner finds 'no signs of trauma'",
@@ -9,6 +27,15 @@
       "published_at": "2026-08-17T23:28:54Z",
       "country_code": "US",
       "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Norway's king admitted to hospital and put on sick leave",
+      "url": "https://www.bbc.co.uk/news/articles/c4g3qdj1z77o?at_medium=RSS&at_campaign=rss",
+      "summary": "The 89-year-old - one of Europe's longest-serving monarchs - is suffering from a rare blood condition.",
+      "published_at": "2026-08-17T21:34:26Z",
+      "country_code": "NO",
+      "country_name": "Norway"
     },
     {
       "source": "BBC US & Canada",
@@ -272,7 +299,7 @@
       "country_name": "Israel"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "Why is Australia's mushroom killer back in court this week?",
       "url": "https://www.bbc.co.uk/news/videos/c62e1v8p07go?at_medium=RSS&at_campaign=rss",
       "summary": "The BBC’s Katy Watson explains why triple-murderer Erin Patterson is back in court this week trying to overturn her conviction.",
@@ -288,15 +315,6 @@
       "published_at": "2026-08-15T14:40:15Z",
       "country_code": "KR",
       "country_name": "South Korea"
-    },
-    {
-      "source": "BBC World",
-      "title": "Moment family rescued after 16 hours floating on jet ski off Thailand",
-      "url": "https://www.bbc.co.uk/news/videos/cj4kg74ndggo?at_medium=RSS&at_campaign=rss",
-      "summary": "A 50-year-old father and his two sons were found floating off Koh Samui island, a local official told AFP on Saturday.",
-      "published_at": "2026-08-15T09:29:31Z",
-      "country_code": "TH",
-      "country_name": "Thailand"
     },
     {
       "source": "BBC Africa",
@@ -852,7 +870,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 22
+      "news_count": 23
     },
     {
       "country_code": "IL",
@@ -870,6 +888,11 @@
       "news_count": 6
     },
     {
+      "country_code": "GB",
+      "country_name": "United Kingdom",
+      "news_count": 5
+    },
+    {
       "country_code": "NG",
       "country_name": "Nigeria",
       "news_count": 5
@@ -878,11 +901,6 @@
       "country_code": "RU",
       "country_name": "Russia",
       "news_count": 5
-    },
-    {
-      "country_code": "GB",
-      "country_name": "United Kingdom",
-      "news_count": 4
     },
     {
       "country_code": "AU",
@@ -940,11 +958,6 @@
       "news_count": 2
     },
     {
-      "country_code": "TH",
-      "country_name": "Thailand",
-      "news_count": 2
-    },
-    {
       "country_code": "UA",
       "country_name": "Ukraine",
       "news_count": 2
@@ -975,6 +988,11 @@
       "news_count": 1
     },
     {
+      "country_code": "NO",
+      "country_name": "Norway",
+      "news_count": 1
+    },
+    {
       "country_code": "PK",
       "country_name": "Pakistan",
       "news_count": 1
@@ -992,6 +1010,11 @@
     {
       "country_code": "SG",
       "country_name": "Singapore",
+      "news_count": 1
+    },
+    {
+      "country_code": "TH",
+      "country_name": "Thailand",
       "news_count": 1
     }
   ]
