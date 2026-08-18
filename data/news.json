@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T05:53:16Z",
+  "generated_at": "2026-08-18T06:23:27Z",
   "articles": [
     {
       "source": "BBC World",
@@ -30,6 +30,15 @@
     },
     {
       "source": "BBC Asia",
+      "title": "China censors public mourning as it holds former premier's funeral",
+      "url": "https://www.bbc.co.uk/news/articles/c8dn3rqlyrgo?at_medium=RSS&at_campaign=rss",
+      "summary": "While hailing Zhu’s legacy, authorities are wary that the nostalgia could lead to criticisms of Xi’s rule.",
+      "published_at": "2026-08-18T04:28:23Z",
+      "country_code": "CN",
+      "country_name": "China"
+    },
+    {
+      "source": "BBC Asia",
       "title": "Student killed in Philippines Catholic school shooting",
       "url": "https://www.bbc.co.uk/news/articles/c1e154qjw96o?at_medium=RSS&at_campaign=rss",
       "summary": "The alleged shooter, also a student, later took his own life.",
@@ -39,7 +48,7 @@
     },
     {
       "source": "BBC World",
-      "title": "BBC breaks down Trump's latest shift on North and South Korea",
+      "title": "Watch: Why has Trump shifted on North Korea?",
       "url": "https://www.bbc.co.uk/news/videos/cy45zjw424xo?at_medium=RSS&at_campaign=rss",
       "summary": "Trump said the US will \"substantially reduce\" joint military exercises with South Korea, citing his \"very good relationship\" with Kim Jong U…",
       "published_at": "2026-08-17T23:42:38Z",
@@ -324,15 +333,6 @@
       "published_at": "2026-08-15T18:02:30Z",
       "country_code": "AU",
       "country_name": "Australia"
-    },
-    {
-      "source": "BBC Asia",
-      "title": "South Korea proposes talks to officially end war with North",
-      "url": "https://www.bbc.co.uk/news/articles/c8en2z9jp2xo?at_medium=RSS&at_campaign=rss",
-      "summary": "Lee Jae Myung offers chance to end the conflict, which has been frozen since an armistice in 1953.",
-      "published_at": "2026-08-15T14:40:15Z",
-      "country_code": "KR",
-      "country_name": "South Korea"
     },
     {
       "source": "BBC Africa",
@@ -946,6 +946,11 @@
       "news_count": 2
     },
     {
+      "country_code": "CN",
+      "country_name": "China",
+      "news_count": 2
+    },
+    {
       "country_code": "ES",
       "country_name": "Spain",
       "news_count": 2
@@ -981,11 +986,6 @@
       "news_count": 1
     },
     {
-      "country_code": "CN",
-      "country_name": "China",
-      "news_count": 1
-    },
-    {
       "country_code": "DE",
       "country_name": "Germany",
       "news_count": 1
@@ -998,11 +998,6 @@
     {
       "country_code": "KE",
       "country_name": "Kenya",
-      "news_count": 1
-    },
-    {
-      "country_code": "KR",
-      "country_name": "South Korea",
       "news_count": 1
     },
     {
