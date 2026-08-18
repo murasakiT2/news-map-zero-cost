@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-08-18T13:15:33Z",
+  "generated_at": "2026-08-18T14:02:17Z",
   "articles": [
+    {
+      "source": "BBC Latin America",
+      "title": "Brazil's President Lula hails oil discovery near Amazon river",
+      "url": "https://www.bbc.co.uk/news/articles/c4gd7xd8e8lo?at_medium=RSS&at_campaign=rss",
+      "summary": "Environmentalists have heavily criticised the exploratory drilling in the sea off the mouth of the Amazon.",
+      "published_at": "2026-08-18T13:13:54Z",
+      "country_code": "BR",
+      "country_name": "Brazil"
+    },
     {
       "source": "BBC World",
       "title": "UK 'supports Ukraine 100%', Burnham says, after Russia's drone warning",
@@ -378,15 +387,6 @@
       "published_at": "2026-08-12T23:19:28Z",
       "country_code": "NG",
       "country_name": "Nigeria"
-    },
-    {
-      "source": "BBC Latin America",
-      "title": "Woman pulled alive from rubble 36 hours after Colombia quake",
-      "url": "https://www.bbc.co.uk/news/articles/cz7d2e5wlgno?at_medium=RSS&at_campaign=rss",
-      "summary": "Following a 10-hour rescue operation, emergency workers pulled the 32-year-old from beneath slabs of concrete.",
-      "published_at": "2026-08-12T22:41:46Z",
-      "country_code": "CO",
-      "country_name": "Colombia"
     },
     {
       "source": "BBC Latin America",
@@ -815,14 +815,14 @@
       "news_count": 7
     },
     {
-      "country_code": "CO",
-      "country_name": "Colombia",
-      "news_count": 6
-    },
-    {
       "country_code": "PS",
       "country_name": "Palestine",
       "news_count": 6
+    },
+    {
+      "country_code": "CO",
+      "country_name": "Colombia",
+      "news_count": 5
     },
     {
       "country_code": "GB",
@@ -838,6 +838,11 @@
       "country_code": "RU",
       "country_name": "Russia",
       "news_count": 4
+    },
+    {
+      "country_code": "BR",
+      "country_name": "Brazil",
+      "news_count": 3
     },
     {
       "country_code": "IN",
@@ -857,11 +862,6 @@
     {
       "country_code": "AU",
       "country_name": "Australia",
-      "news_count": 2
-    },
-    {
-      "country_code": "BR",
-      "country_name": "Brazil",
       "news_count": 2
     },
     {
