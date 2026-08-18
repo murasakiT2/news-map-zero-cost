@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-08-18T16:23:44Z",
+  "generated_at": "2026-08-18T16:54:43Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Nigeria influencer arrested after seizure of cocaine worth $28m destined for the UK",
+      "url": "https://www.bbc.co.uk/news/articles/c1e155428qyo?at_medium=RSS&at_campaign=rss",
+      "summary": "Afolabi Kazeem Micheal has not commented on allegations he is linked to a global drug trafficking network.",
+      "published_at": "2026-08-18T16:26:22Z",
+      "country_code": "GB",
+      "country_name": "United Kingdom"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "How the Meta trial could change social media for young people",
+      "url": "https://www.bbc.co.uk/news/videos/c05qrr5r4e2o?at_medium=RSS&at_campaign=rss",
+      "summary": "The trial stems from a lawsuit filed in 2023 by 29 US states, in which they claim numerous violations of federal and state privacy laws for …",
+      "published_at": "2026-08-18T16:24:08Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "Pakistan top court orders ex-PM Imran Khan be moved to hospital from jail",
@@ -128,20 +146,11 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "Trump threatens to bomb US ally Oman if it 'gets in the way' over Iran deal",
       "url": "https://www.bbc.co.uk/news/articles/cy5dzk0ryzdo?at_medium=RSS&at_campaign=rss",
       "summary": "Trump's threat on Oman, which has been holding its own talks with Iran to reopen the Strait of Hormuz, comes as a 60-day window for peace ne…",
       "published_at": "2026-08-17T19:25:05Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "Supreme Court again rejects Trump's bid to overturn E Jean Carroll sex abuse case",
-      "url": "https://www.bbc.co.uk/news/articles/c74gekjgrllo?at_medium=RSS&at_campaign=rss",
-      "summary": "The US president has already paid the writer over $5m in damages in the assault and defamation case.",
-      "published_at": "2026-08-17T18:45:59Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -824,6 +833,11 @@
       "news_count": 7
     },
     {
+      "country_code": "GB",
+      "country_name": "United Kingdom",
+      "news_count": 6
+    },
+    {
       "country_code": "PS",
       "country_name": "Palestine",
       "news_count": 6
@@ -831,11 +845,6 @@
     {
       "country_code": "CO",
       "country_name": "Colombia",
-      "news_count": 5
-    },
-    {
-      "country_code": "GB",
-      "country_name": "United Kingdom",
       "news_count": 5
     },
     {
