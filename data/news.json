@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-08-18T07:11:57Z",
+  "generated_at": "2026-08-18T07:59:13Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "China censors public mourning as it holds former premier's funeral",
+      "url": "https://www.bbc.co.uk/news/articles/c8dn3rqlyrgo?at_medium=RSS&at_campaign=rss",
+      "summary": "While hailing Zhu’s legacy, authorities are wary that the nostalgia could lead to criticisms of Xi’s rule.",
+      "published_at": "2026-08-18T07:17:07Z",
+      "country_code": "CN",
+      "country_name": "China"
+    },
     {
       "source": "BBC World",
       "title": "Russia says UK 'will pay' for supplying drones to Ukraine",
@@ -29,16 +38,7 @@
       "country_name": "United Kingdom"
     },
     {
-      "source": "BBC Asia",
-      "title": "China censors public mourning as it holds former premier's funeral",
-      "url": "https://www.bbc.co.uk/news/articles/c8dn3rqlyrgo?at_medium=RSS&at_campaign=rss",
-      "summary": "While hailing Zhu’s legacy, authorities are wary that the nostalgia could lead to criticisms of Xi’s rule.",
-      "published_at": "2026-08-18T04:28:23Z",
-      "country_code": "CN",
-      "country_name": "China"
-    },
-    {
-      "source": "BBC Asia",
+      "source": "BBC World",
       "title": "Student killed in Philippines Catholic school shooting",
       "url": "https://www.bbc.co.uk/news/articles/c1e154qjw96o?at_medium=RSS&at_campaign=rss",
       "summary": "The alleged shooter, also a student, later took his own life.",
@@ -101,7 +101,7 @@
       "country_name": "United Kingdom"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "Supreme Court again rejects Trump's bid to overturn E Jean Carroll sex abuse case",
       "url": "https://www.bbc.co.uk/news/articles/c74gekjgrllo?at_medium=RSS&at_campaign=rss",
       "summary": "The US president has already paid the writer over $5m in damages in the assault and defamation case.",
@@ -191,22 +191,13 @@
       "country_name": "South Africa"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "Movie that went viral for terrible animation becomes China box office hit",
       "url": "https://www.bbc.co.uk/news/articles/c4g4r0mrmlpo?at_medium=RSS&at_campaign=rss",
       "summary": "Niu Lai's confusing plot and laughable animation quality has won ironic fans on the internet.",
       "published_at": "2026-08-17T08:35:07Z",
       "country_code": "CN",
       "country_name": "China"
-    },
-    {
-      "source": "BBC World",
-      "title": "Aussie rules footy players under investigation as police probe sexual assault claim",
-      "url": "https://www.bbc.co.uk/news/articles/cg4dd420ezlo?at_medium=RSS&at_campaign=rss",
-      "summary": "The Sydney Swans confirmed an incident had occurred in the hours after the team's win on Sunday.",
-      "published_at": "2026-08-17T05:46:45Z",
-      "country_code": "AU",
-      "country_name": "Australia"
     },
     {
       "source": "BBC US & Canada",
@@ -254,7 +245,7 @@
       "country_name": "Indonesia"
     },
     {
-      "source": "BBC Europe",
+      "source": "BBC World",
       "title": "BBC visits smouldering Kyiv market after Russian strikes",
       "url": "https://www.bbc.co.uk/news/videos/c8dnn05e90lo?at_medium=RSS&at_campaign=rss",
       "summary": "Six people were injured in the strike on the market selling second-hand records, posters, toys and tools.",
@@ -876,11 +867,6 @@
       "news_count": 4
     },
     {
-      "country_code": "AU",
-      "country_name": "Australia",
-      "news_count": 3
-    },
-    {
       "country_code": "IN",
       "country_name": "India",
       "news_count": 3
@@ -893,6 +879,11 @@
     {
       "country_code": "AE",
       "country_name": "United Arab Emirates",
+      "news_count": 2
+    },
+    {
+      "country_code": "AU",
+      "country_name": "Australia",
       "news_count": 2
     },
     {
