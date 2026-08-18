@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-08-18T07:59:13Z",
+  "generated_at": "2026-08-18T08:36:37Z",
   "articles": [
+    {
+      "source": "BBC US & Canada",
+      "title": "US states call for big changes to Instagram and Facebook as Meta child privacy trial begins",
+      "url": "https://www.bbc.co.uk/news/articles/clyqpx6xk69o?at_medium=RSS&at_campaign=rss",
+      "summary": "US states are suing the social media giant to force an overhaul of its platforms for young users.",
+      "published_at": "2026-08-18T08:19:37Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "IVF staff accused of misleading UK parents about sperm and egg donors in northern Cyprus",
+      "url": "https://www.bbc.co.uk/news/articles/c75gv9xnr3po?at_medium=RSS&at_campaign=rss",
+      "summary": "Multiple children are feared to have been conceived using sperm and egg donors which were not the ones selected by the parents.",
+      "published_at": "2026-08-18T08:07:37Z",
+      "country_code": "GB",
+      "country_name": "United Kingdom"
+    },
     {
       "source": "BBC World",
       "title": "China censors public mourning as it holds former premier's funeral",
@@ -27,15 +45,6 @@
       "published_at": "2026-08-18T05:02:58Z",
       "country_code": "DE",
       "country_name": "Germany"
-    },
-    {
-      "source": "BBC World",
-      "title": "IVF staff accused of misleading UK parents about sperm and egg donors in northern Cyprus",
-      "url": "https://www.bbc.co.uk/news/articles/c75gv9xnr3po?at_medium=RSS&at_campaign=rss",
-      "summary": "Multiple children are feared to have been conceived using sperm and egg donors which were not the ones selected by the parents.",
-      "published_at": "2026-08-18T05:00:04Z",
-      "country_code": "GB",
-      "country_name": "United Kingdom"
     },
     {
       "source": "BBC World",
@@ -128,7 +137,7 @@
       "country_name": "Russia"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "Kushner hails 'very good' meeting with Netanyahu after Hamas talks on Gaza peace plan",
       "url": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
       "summary": "Donald Trump's Middle East envoy and son-in-law, Jared Kushner, is seeking to gain Israeli backing for the US-backed Gaza peace plan.",
@@ -156,15 +165,6 @@
     },
     {
       "source": "BBC World",
-      "title": "Russia and Ukraine trade more deadly strikes",
-      "url": "https://www.bbc.co.uk/news/articles/cn7n4lm11vro?at_medium=RSS&at_campaign=rss",
-      "summary": "Moscow says nine people have been killed in the past 24 hours, while Kyiv reports four deaths.",
-      "published_at": "2026-08-17T13:16:50Z",
-      "country_code": "RU",
-      "country_name": "Russia"
-    },
-    {
-      "source": "BBC World",
       "title": "US hiker dies after being struck by lightning on Mount Etna",
       "url": "https://www.bbc.co.uk/news/articles/ce34rlkw6q7o?at_medium=RSS&at_campaign=rss",
       "summary": "The 30-year-old was on the active volcano when a thunderstorm developed, local media report.",
@@ -173,7 +173,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "Aid shortages and fears of starvation as Indonesia reels from deadly earthquake",
       "url": "https://www.bbc.co.uk/news/articles/crl7686r71yo?at_medium=RSS&at_campaign=rss",
       "summary": "Some 53 people were killed and thousands displaced by the earthquake, which struck early on Saturday.",
@@ -198,15 +198,6 @@
       "published_at": "2026-08-17T08:35:07Z",
       "country_code": "CN",
       "country_name": "China"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "Instagram and Facebook could change forever if Meta loses child privacy trial",
-      "url": "https://www.bbc.co.uk/news/articles/clyqpx6xk69o?at_medium=RSS&at_campaign=rss",
-      "summary": "US states are suing the social media giant to force an overhaul of its platforms for young users.",
-      "published_at": "2026-08-17T05:00:25Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC Asia",
@@ -299,7 +290,7 @@
       "country_name": "Israel"
     },
     {
-      "source": "BBC Asia",
+      "source": "BBC World",
       "title": "Why is Australia's mushroom killer back in court this week?",
       "url": "https://www.bbc.co.uk/news/videos/c62e1v8p07go?at_medium=RSS&at_campaign=rss",
       "summary": "The BBC’s Katy Watson explains why triple-murderer Erin Patterson is back in court this week trying to overturn her conviction.",
@@ -862,13 +853,13 @@
       "news_count": 5
     },
     {
-      "country_code": "RU",
-      "country_name": "Russia",
-      "news_count": 4
-    },
-    {
       "country_code": "IN",
       "country_name": "India",
+      "news_count": 3
+    },
+    {
+      "country_code": "RU",
+      "country_name": "Russia",
       "news_count": 3
     },
     {
