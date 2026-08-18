@@ -1,8 +1,17 @@
 {
-  "generated_at": "2026-08-18T14:02:17Z",
+  "generated_at": "2026-08-18T14:58:28Z",
   "articles": [
     {
-      "source": "BBC Latin America",
+      "source": "BBC Africa",
+      "title": "Vieira named new Senegal head coach",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cr49v9dn431o?at_medium=RSS&at_campaign=rss",
+      "summary": "Former Arsenal and France captain Patrick Vieira is appointed as the new head coach of the Senegal men's national team.",
+      "published_at": "2026-08-18T14:38:57Z",
+      "country_code": "FR",
+      "country_name": "France"
+    },
+    {
+      "source": "BBC World",
       "title": "Brazil's President Lula hails oil discovery near Amazon river",
       "url": "https://www.bbc.co.uk/news/articles/c4gd7xd8e8lo?at_medium=RSS&at_campaign=rss",
       "summary": "Environmentalists have heavily criticised the exploratory drilling in the sea off the mouth of the Amazon.",
@@ -128,7 +137,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "Trump says US to reduce military drills with South Korea after it stayed out of Iran war",
       "url": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
       "summary": "Trump cites his \"very good relationship\" with North Korea's leader in deciding to downsize the exercises.",
@@ -156,24 +165,15 @@
     },
     {
       "source": "BBC Africa",
-      "title": "Coventry sign Forest striker Awoniyi for £9m",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cvgjjr90l0lo?at_medium=RSS&at_campaign=rss",
-      "summary": "Coventry City have signed Nigeria striker Taiwo Awoniyi from Nottingham Forest for £9m.",
-      "published_at": "2026-08-17T16:02:31Z",
-      "country_code": "NG",
-      "country_name": "Nigeria"
+      "title": "Is All Blacks' tour of South Africa a new chapter for rugby union?",
+      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c2dkz3k94dlo?at_medium=RSS&at_campaign=rss",
+      "summary": "Is New Zealand's 'Greatest Rivalry' tour of world champions South Africa a signpost to the future of rugby union?",
+      "published_at": "2026-08-17T13:18:44Z",
+      "country_code": "NZ",
+      "country_name": "New Zealand"
     },
     {
-      "source": "BBC Africa",
-      "title": "Man City move for £85m Bouaddi and still want Fernandez",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cd7l9n4qnlno?at_medium=RSS&at_campaign=rss",
-      "summary": "Manchester City are in advanced talks with Lille over a move for Morocco midfielder Ayyoub Bouaddi.",
-      "published_at": "2026-08-17T13:50:22Z",
-      "country_code": "MA",
-      "country_name": "Morocco"
-    },
-    {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "US hiker dies after being struck by lightning on Mount Etna",
       "url": "https://www.bbc.co.uk/news/articles/ce34rlkw6q7o?at_medium=RSS&at_campaign=rss",
       "summary": "The 30-year-old was on the active volcano when a thunderstorm developed, local media report.",
@@ -832,7 +832,7 @@
     {
       "country_code": "NG",
       "country_name": "Nigeria",
-      "news_count": 5
+      "news_count": 4
     },
     {
       "country_code": "RU",
@@ -867,6 +867,11 @@
     {
       "country_code": "CN",
       "country_name": "China",
+      "news_count": 2
+    },
+    {
+      "country_code": "FR",
+      "country_name": "France",
       "news_count": 2
     },
     {
@@ -910,11 +915,6 @@
       "news_count": 1
     },
     {
-      "country_code": "FR",
-      "country_name": "France",
-      "news_count": 1
-    },
-    {
       "country_code": "IT",
       "country_name": "Italy",
       "news_count": 1
@@ -925,13 +925,13 @@
       "news_count": 1
     },
     {
-      "country_code": "MA",
-      "country_name": "Morocco",
+      "country_code": "NO",
+      "country_name": "Norway",
       "news_count": 1
     },
     {
-      "country_code": "NO",
-      "country_name": "Norway",
+      "country_code": "NZ",
+      "country_name": "New Zealand",
       "news_count": 1
     },
     {
