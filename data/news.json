@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-08-18T23:11:24Z",
+  "generated_at": "2026-08-18T23:42:38Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Meta hooked children on Facebook and Instagram, court hears",
+      "url": "https://www.bbc.co.uk/news/articles/cly5r7vr7q1o?at_medium=RSS&at_campaign=rss",
+      "summary": "Meta argued social media addiction does not exist, as a trial stemming from a major lawsuit brought by US states got under way.",
+      "published_at": "2026-08-18T22:11:07Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "Tracking USS Lincoln's months-long mission as concerns about conditions grow",
@@ -146,7 +155,7 @@
       "country_name": "Germany"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "Student killed in Philippines Catholic school shooting",
       "url": "https://www.bbc.co.uk/news/articles/c1e154qjw96o?at_medium=RSS&at_campaign=rss",
       "summary": "The alleged shooter, also a student, later took his own life.",
@@ -162,15 +171,6 @@
       "published_at": "2026-08-17T23:42:38Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "Norway's king admitted to hospital and put on sick leave",
-      "url": "https://www.bbc.co.uk/news/articles/c4g3qdj1z77o?at_medium=RSS&at_campaign=rss",
-      "summary": "The 89-year-old - one of Europe's longest-serving monarchs - is suffering from a rare blood condition.",
-      "published_at": "2026-08-17T21:34:26Z",
-      "country_code": "NO",
-      "country_name": "Norway"
     },
     {
       "source": "BBC US & Canada",
@@ -281,7 +281,7 @@
       "country_name": "Indonesia"
     },
     {
-      "source": "BBC Europe",
+      "source": "BBC World",
       "title": "BBC visits smouldering Kyiv market after Russian strikes",
       "url": "https://www.bbc.co.uk/news/videos/c8dnn05e90lo?at_medium=RSS&at_campaign=rss",
       "summary": "Six people were injured in the strike on the market selling second-hand records, posters, toys and tools.",
@@ -335,7 +335,7 @@
       "country_name": "Israel"
     },
     {
-      "source": "BBC Asia",
+      "source": "BBC World",
       "title": "Why is Australia's mushroom killer back in court this week?",
       "url": "https://www.bbc.co.uk/news/videos/c62e1v8p07go?at_medium=RSS&at_campaign=rss",
       "summary": "The BBC’s Katy Watson explains why triple-murderer Erin Patterson is back in court this week trying to overturn her conviction.",
@@ -852,7 +852,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 22
+      "news_count": 23
     },
     {
       "country_code": "IL",
@@ -972,11 +972,6 @@
     {
       "country_code": "KE",
       "country_name": "Kenya",
-      "news_count": 1
-    },
-    {
-      "country_code": "NO",
-      "country_name": "Norway",
       "news_count": 1
     },
     {
