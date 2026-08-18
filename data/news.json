@@ -1,6 +1,33 @@
 {
-  "generated_at": "2026-08-18T04:58:41Z",
+  "generated_at": "2026-08-18T05:27:28Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Inside secret police warehouse as Germany targets small boats gangs",
+      "url": "https://www.bbc.co.uk/news/articles/cpq809zrvqdo?at_medium=RSS&at_campaign=rss",
+      "summary": "German authorities seize dinghies and life jackets during their first raids under a new law that cracks down on smuggling.",
+      "published_at": "2026-08-18T05:02:58Z",
+      "country_code": "DE",
+      "country_name": "Germany"
+    },
+    {
+      "source": "BBC World",
+      "title": "IVF staff accused of misleading UK parents about sperm and egg donors in northern Cyprus",
+      "url": "https://www.bbc.co.uk/news/articles/c75gv9xnr3po?at_medium=RSS&at_campaign=rss",
+      "summary": "Multiple children are feared to have been conceived using sperm and egg donors which were not the ones selected by the parents.",
+      "published_at": "2026-08-18T05:00:04Z",
+      "country_code": "GB",
+      "country_name": "United Kingdom"
+    },
+    {
+      "source": "BBC World",
+      "title": "Russia warns UK over supplying drones to Ukraine",
+      "url": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss",
+      "summary": "An MoD spokesperson responds by saying Britain stands \"shoulder to shoulder\" with Ukraine.",
+      "published_at": "2026-08-18T04:59:25Z",
+      "country_code": "GB",
+      "country_name": "United Kingdom"
+    },
     {
       "source": "BBC Asia",
       "title": "Student killed in Philippines Catholic school shooting",
@@ -9,15 +36,6 @@
       "published_at": "2026-08-18T03:43:53Z",
       "country_code": "PH",
       "country_name": "Philippines"
-    },
-    {
-      "source": "BBC World",
-      "title": "Russia warns UK over supplying drones to Ukraine",
-      "url": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss",
-      "summary": "An MoD spokesperson responds by saying Britain stands \"shoulder to shoulder\" with Ukraine.",
-      "published_at": "2026-08-18T01:16:41Z",
-      "country_code": "GB",
-      "country_name": "United Kingdom"
     },
     {
       "source": "BBC World",
@@ -243,15 +261,6 @@
       "published_at": "2026-08-16T12:37:21Z",
       "country_code": "ID",
       "country_name": "Indonesia"
-    },
-    {
-      "source": "BBC World",
-      "title": "BBC visits smouldering Kyiv market after Russian strikes",
-      "url": "https://www.bbc.co.uk/news/videos/c8dnn05e90lo?at_medium=RSS&at_campaign=rss",
-      "summary": "Six people were injured in the strike on the market selling second-hand records, posters, toys and tools.",
-      "published_at": "2026-08-16T12:18:09Z",
-      "country_code": "UA",
-      "country_name": "Ukraine"
     },
     {
       "source": "BBC Europe",
@@ -892,14 +901,14 @@
       "news_count": 6
     },
     {
-      "country_code": "PS",
-      "country_name": "Palestine",
+      "country_code": "GB",
+      "country_name": "United Kingdom",
       "news_count": 6
     },
     {
-      "country_code": "GB",
-      "country_name": "United Kingdom",
-      "news_count": 5
+      "country_code": "PS",
+      "country_name": "Palestine",
+      "news_count": 6
     },
     {
       "country_code": "NG",
@@ -967,11 +976,6 @@
       "news_count": 2
     },
     {
-      "country_code": "UA",
-      "country_name": "Ukraine",
-      "news_count": 2
-    },
-    {
       "country_code": "CL",
       "country_name": "Chile",
       "news_count": 1
@@ -979,6 +983,11 @@
     {
       "country_code": "CN",
       "country_name": "China",
+      "news_count": 1
+    },
+    {
+      "country_code": "DE",
+      "country_name": "Germany",
       "news_count": 1
     },
     {
@@ -1029,6 +1038,11 @@
     {
       "country_code": "TH",
       "country_name": "Thailand",
+      "news_count": 1
+    },
+    {
+      "country_code": "UA",
+      "country_name": "Ukraine",
       "news_count": 1
     }
   ]
