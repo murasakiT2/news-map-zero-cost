@@ -1,15 +1,6 @@
 {
-  "generated_at": "2026-08-18T18:20:35Z",
+  "generated_at": "2026-08-18T19:04:08Z",
   "articles": [
-    {
-      "source": "BBC World",
-      "title": "US mother begged for help before her children's killings, mother-in-law testifies",
-      "url": "https://www.bbc.co.uk/news/articles/c62emm4yp8go?at_medium=RSS&at_campaign=rss",
-      "summary": "Lindsay Clancy has admitted killing her daughter and two sons but has pleaded not guilty to murder, saying she was experiencing postpartum p…",
-      "published_at": "2026-08-18T17:54:46Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
     {
       "source": "BBC World",
       "title": "US announces new sanctions on top ICC figures",
@@ -18,6 +9,15 @@
       "published_at": "2026-08-18T17:40:09Z",
       "country_code": "US",
       "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Earthquake rocks Spain's historic Granada, injuring three",
+      "url": "https://www.bbc.co.uk/news/articles/cdx755dyy1yo?at_medium=RSS&at_campaign=rss",
+      "summary": "A number of buildings and cars are damaged in the historic city, and the world famous Alhambra palace has temporarily closed.",
+      "published_at": "2026-08-18T17:15:39Z",
+      "country_code": "ES",
+      "country_name": "Spain"
     },
     {
       "source": "BBC World",
@@ -843,7 +843,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 21
+      "news_count": 20
     },
     {
       "country_code": "IL",
@@ -906,6 +906,11 @@
       "news_count": 2
     },
     {
+      "country_code": "ES",
+      "country_name": "Spain",
+      "news_count": 2
+    },
+    {
       "country_code": "FR",
       "country_name": "France",
       "news_count": 2
@@ -948,11 +953,6 @@
     {
       "country_code": "EG",
       "country_name": "Egypt",
-      "news_count": 1
-    },
-    {
-      "country_code": "ES",
-      "country_name": "Spain",
       "news_count": 1
     },
     {
