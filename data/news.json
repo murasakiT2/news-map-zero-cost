@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-08-19T13:22:03Z",
+  "generated_at": "2026-08-19T14:02:52Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Israel confirms it opened fire on vehicle carrying five-year-old Hind Rajab in Gaza",
+      "url": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss",
+      "summary": "She initially survived the attack but her body was recovered days later in Gaza City in 2024.",
+      "published_at": "2026-08-19T13:53:51Z",
+      "country_code": "IL",
+      "country_name": "Israel"
+    },
     {
       "source": "BBC World",
       "title": "Six tourists and pilot killed in Kenya helicopter crash",
@@ -9,15 +18,6 @@
       "published_at": "2026-08-19T13:00:09Z",
       "country_code": "KE",
       "country_name": "Kenya"
-    },
-    {
-      "source": "BBC World",
-      "title": "Israeli army orders criminal investigation into killing of Palestinian girl Hind Rajab in Gaza",
-      "url": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss",
-      "summary": "The five-year-old spent hours on the phone to paramedics before her body was recovered days later in Gaza City in 2024.",
-      "published_at": "2026-08-19T12:41:46Z",
-      "country_code": "PS",
-      "country_name": "Palestine"
     },
     {
       "source": "BBC World",
@@ -882,18 +882,18 @@
       "news_count": 25
     },
     {
+      "country_code": "IL",
+      "country_name": "Israel",
+      "news_count": 7
+    },
+    {
       "country_code": "PS",
       "country_name": "Palestine",
-      "news_count": 8
+      "news_count": 7
     },
     {
       "country_code": "GB",
       "country_name": "United Kingdom",
-      "news_count": 6
-    },
-    {
-      "country_code": "IL",
-      "country_name": "Israel",
       "news_count": 6
     },
     {
