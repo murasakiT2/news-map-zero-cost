@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-08-19T07:59:20Z",
+  "generated_at": "2026-08-19T08:37:28Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Mushroom murderer trial undermined by 'catastrophic' hotel mix-up, court told",
+      "url": "https://www.bbc.co.uk/news/articles/czjlxenlgkko?at_medium=RSS&at_campaign=rss",
+      "summary": "Erin Patterson's defence team appeal against her conviction for killing relatives with a beef Wellington laced with toxic mushrooms.",
+      "published_at": "2026-08-19T08:25:03Z",
+      "country_code": "NZ",
+      "country_name": "New Zealand"
+    },
+    {
+      "source": "BBC Asia",
+      "title": "Alleged sexual assault by local official and businessman sparks outrage in China",
+      "url": "https://www.bbc.co.uk/news/articles/c1d1wgqqxp5o?at_medium=RSS&at_campaign=rss",
+      "summary": "Both men are arrested after the alleged assault on a woman at a karaoke bar during a business event.",
+      "published_at": "2026-08-19T07:21:51Z",
+      "country_code": "CN",
+      "country_name": "China"
+    },
     {
       "source": "BBC World",
       "title": "Sacked Ukrainian defence minister calls for presidential election",
@@ -164,24 +182,6 @@
       "country_name": "United Kingdom"
     },
     {
-      "source": "BBC US & Canada",
-      "title": "Carney's final chance to convince Trump as US-Canada trade deadline looms",
-      "url": "https://www.bbc.co.uk/news/articles/crl7600rpnko?at_medium=RSS&at_campaign=rss",
-      "summary": "Negotiators want a deal to avoid fresh US tariffs - though Canadians are not in the mood to offer many concessions.",
-      "published_at": "2026-08-18T12:27:47Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "US states call for big changes to Instagram and Facebook as Meta child privacy trial begins",
-      "url": "https://www.bbc.co.uk/news/articles/clyqpx6xk69o?at_medium=RSS&at_campaign=rss",
-      "summary": "US states are suing the social media giant to force an overhaul of its platforms for young users.",
-      "published_at": "2026-08-18T09:00:33Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC Asia",
       "title": "China censors public mourning as it holds former premier's funeral",
       "url": "https://www.bbc.co.uk/news/articles/c8dn3rqlyrgo?at_medium=RSS&at_campaign=rss",
@@ -214,15 +214,6 @@
       "url": "https://www.bbc.co.uk/news/videos/cy45zjw424xo?at_medium=RSS&at_campaign=rss",
       "summary": "Trump said the US will \"substantially reduce\" joint military exercises with South Korea, citing his \"very good relationship\" with Kim Jong U…",
       "published_at": "2026-08-17T23:42:38Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "'He's a real hero' - Trump meets teen lifeguard after dramatic rescue",
-      "url": "https://www.bbc.co.uk/news/videos/c4g35e9jgzko?at_medium=RSS&at_campaign=rss",
-      "summary": "The US president hosted Ryder Williams at the White House after the 16-year-old rescued a 10-year-old boy from a beach in California on 25 J…",
-      "published_at": "2026-08-17T20:07:13Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -317,15 +308,6 @@
       "country_name": "Thailand"
     },
     {
-      "source": "BBC Asia",
-      "title": "Thousands displaced by deadly Indonesia earthquake as rescue efforts continue",
-      "url": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
-      "summary": "Hundreds of homes and public buildings have been severely damaged with at least 53 people killed.",
-      "published_at": "2026-08-16T12:37:21Z",
-      "country_code": "ID",
-      "country_name": "Indonesia"
-    },
-    {
       "source": "BBC World",
       "title": "BBC visits smouldering Kyiv market after Russian strikes",
       "url": "https://www.bbc.co.uk/news/videos/c8dnn05e90lo?at_medium=RSS&at_campaign=rss",
@@ -378,15 +360,6 @@
       "published_at": "2026-08-15T18:02:30Z",
       "country_code": "AU",
       "country_name": "Australia"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "Many Canadians are boycotting the US, so this is where they're travelling instead",
-      "url": "https://www.bbc.co.uk/news/articles/c8jnwnw22ngo?at_medium=RSS&at_campaign=rss",
-      "summary": "From exploring their own backyard to travelling abroad, many Canadians are spending their money elsewhere to send a message to the US presid…",
-      "published_at": "2026-08-14T23:16:43Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC Middle East",
@@ -870,7 +843,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 27
+      "news_count": 23
     },
     {
       "country_code": "PS",
@@ -903,6 +876,11 @@
       "news_count": 3
     },
     {
+      "country_code": "CN",
+      "country_name": "China",
+      "news_count": 3
+    },
+    {
       "country_code": "RU",
       "country_name": "Russia",
       "news_count": 3
@@ -923,11 +901,6 @@
       "news_count": 2
     },
     {
-      "country_code": "CN",
-      "country_name": "China",
-      "news_count": 2
-    },
-    {
       "country_code": "ES",
       "country_name": "Spain",
       "news_count": 2
@@ -935,11 +908,6 @@
     {
       "country_code": "FR",
       "country_name": "France",
-      "news_count": 2
-    },
-    {
-      "country_code": "ID",
-      "country_name": "Indonesia",
       "news_count": 2
     },
     {
@@ -955,6 +923,11 @@
     {
       "country_code": "MX",
       "country_name": "Mexico",
+      "news_count": 2
+    },
+    {
+      "country_code": "NZ",
+      "country_name": "New Zealand",
       "news_count": 2
     },
     {
@@ -988,6 +961,11 @@
       "news_count": 1
     },
     {
+      "country_code": "ID",
+      "country_name": "Indonesia",
+      "news_count": 1
+    },
+    {
       "country_code": "IT",
       "country_name": "Italy",
       "news_count": 1
@@ -995,11 +973,6 @@
     {
       "country_code": "KE",
       "country_name": "Kenya",
-      "news_count": 1
-    },
-    {
-      "country_code": "NZ",
-      "country_name": "New Zealand",
       "news_count": 1
     },
     {
