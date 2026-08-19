@@ -1,21 +1,30 @@
 {
-  "generated_at": "2026-08-19T03:22:03Z",
+  "generated_at": "2026-08-19T04:04:27Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Trump pauses new tariffs on Canada and says countries close to a deal",
+      "url": "https://www.bbc.co.uk/news/articles/cy9wz79ze29o?at_medium=RSS&at_campaign=rss",
+      "summary": "US President Donald Trump said he will delay imposing new tariffs on a wide array of Canadian goods for three days as the countries firm up …",
+      "published_at": "2026-08-19T03:56:35Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "South Korea shortens war games with US citing Washington request",
+      "url": "https://www.bbc.co.uk/news/articles/cnvn0j31qj8o?at_medium=RSS&at_campaign=rss",
+      "summary": "It comes after Trump announced plans to curtail joint exercises with South Korea, citing a \"very good\" relationship with North Korea's Kim J…",
+      "published_at": "2026-08-19T03:39:41Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "Iranian academic writes of US detention 'hell' over link to 1979 hostage crisis",
       "url": "https://www.bbc.co.uk/news/articles/cgjeped6ewxo?at_medium=RSS&at_campaign=rss",
       "summary": "The immigration status of Maryam Tahmasebi was revoked because her husband is the son of a prominent figure in Iran.",
       "published_at": "2026-08-19T03:12:06Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "Trump pauses new tariffs on Canada and says countries close to a deal",
-      "url": "https://www.bbc.co.uk/news/articles/cy9wz79ze29o?at_medium=RSS&at_campaign=rss",
-      "summary": "US President Donald Trump said he will delay imposing new tariffs on a wide array of Canadian goods for three days as the countries firm up …",
-      "published_at": "2026-08-19T02:41:36Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -29,6 +38,15 @@
       "country_name": "Ukraine"
     },
     {
+      "source": "BBC Middle East",
+      "title": "US condemns 'unnecessary escalation' after Israeli airstrikes on Syrian airbase",
+      "url": "https://www.bbc.co.uk/news/articles/c62vy3wl31lo?at_medium=RSS&at_campaign=rss",
+      "summary": "Damascus called the attacks \"an unjustified act of aggression\" that imperilled regional security.",
+      "published_at": "2026-08-19T00:48:16Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
       "source": "BBC World",
       "title": "Meta hooked children on Facebook and Instagram, US court hears",
       "url": "https://www.bbc.co.uk/news/articles/cly5r7vr7q1o?at_medium=RSS&at_campaign=rss",
@@ -38,7 +56,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "Tracking USS Lincoln's months-long mission as concerns about conditions grow",
       "url": "https://www.bbc.co.uk/news/videos/cdrv71lzejpo?at_medium=RSS&at_campaign=rss",
       "summary": "BBC Verify has used satellite imagery to monitor the warship on one of the longest ever US deployments.",
@@ -750,15 +768,6 @@
     },
     {
       "source": "BBC Middle East",
-      "title": "At least 13 killed in Israeli strikes on Gaza after Hamas agree disarmament deal",
-      "url": "https://www.bbc.co.uk/news/articles/czjlvvkzj20o?at_medium=RSS&at_campaign=rss",
-      "summary": "Israel says it was targeting military operatives in the strikes on Gaza City, Khan Younis and Deir el-Balah.",
-      "published_at": "2026-08-02T15:50:59Z",
-      "country_code": "IL",
-      "country_name": "Israel"
-    },
-    {
-      "source": "BBC Middle East",
       "title": "Trump cancels Iran strikes subject to deal being made 'rapidly'",
       "url": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss",
       "summary": "The US president claims Iran and other Middle Eastern countries asked Washington to hold off on any attack as the \"perimeters\" of a deal had…",
@@ -870,16 +879,16 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 25
-    },
-    {
-      "country_code": "IL",
-      "country_name": "Israel",
-      "news_count": 7
+      "news_count": 27
     },
     {
       "country_code": "GB",
       "country_name": "United Kingdom",
+      "news_count": 6
+    },
+    {
+      "country_code": "IL",
+      "country_name": "Israel",
       "news_count": 6
     },
     {
