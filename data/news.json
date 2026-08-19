@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T05:55:20Z",
+  "generated_at": "2026-08-19T06:25:10Z",
   "articles": [
     {
       "source": "BBC World",
@@ -7,6 +7,15 @@
       "url": "https://www.bbc.co.uk/news/articles/cnvn0j31qj8o?at_medium=RSS&at_campaign=rss",
       "summary": "It comes after Trump announced plans to curtail joint military exercises with South Korea, citing a \"very good\" relationship with North Kore…",
       "published_at": "2026-08-19T05:53:53Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC Europe",
+      "title": "French civil servant drugged us to make us urinate on ourselves, say accusers",
+      "url": "https://www.bbc.co.uk/news/articles/crrv48lenwgo?at_medium=RSS&at_campaign=rss",
+      "summary": "More than 200 women accuse Christian Nègre of drugging them to make them urinate - two share their stories.",
+      "published_at": "2026-08-19T05:00:39Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -333,15 +342,6 @@
       "published_at": "2026-08-16T12:18:09Z",
       "country_code": "UA",
       "country_name": "Ukraine"
-    },
-    {
-      "source": "BBC Europe",
-      "title": "Europe's tallest Virgin Mary statue unveiled in rural Poland",
-      "url": "https://www.bbc.co.uk/news/articles/cn5nnlq2pwpo?at_medium=RSS&at_campaign=rss",
-      "summary": "The 55.6-metre (182ft) concrete figure is head-and-shoulders above Rio de Janeiro's Christ the Redeemer.",
-      "published_at": "2026-08-16T11:35:25Z",
-      "country_code": "PL",
-      "country_name": "Poland"
     },
     {
       "source": "BBC Middle East",
@@ -870,7 +870,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 27
+      "news_count": 28
     },
     {
       "country_code": "GB",
@@ -1005,11 +1005,6 @@
     {
       "country_code": "PH",
       "country_name": "Philippines",
-      "news_count": 1
-    },
-    {
-      "country_code": "PL",
-      "country_name": "Poland",
       "news_count": 1
     },
     {
