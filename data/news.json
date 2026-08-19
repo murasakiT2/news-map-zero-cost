@@ -1,6 +1,33 @@
 {
-  "generated_at": "2026-08-19T10:17:33Z",
+  "generated_at": "2026-08-19T10:51:35Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Sacked Ukrainian defence minister calls for presidential election",
+      "url": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss",
+      "summary": "Martial law has been in place in Ukraine since February 2022, under which elections are suspended.",
+      "published_at": "2026-08-19T10:49:25Z",
+      "country_code": "UA",
+      "country_name": "Ukraine"
+    },
+    {
+      "source": "BBC Africa",
+      "title": "Liberia agrees to accept 1,200 foreign deportees from the US",
+      "url": "https://www.bbc.co.uk/news/articles/cpq8g22715vo?at_medium=RSS&at_campaign=rss",
+      "summary": "Liberia says the deal is a \"humanitarian arrangement\" and is receiving no compensation.",
+      "published_at": "2026-08-19T10:47:22Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Apparent human remains found in US reservoir as water levels hit record low",
+      "url": "https://www.bbc.co.uk/news/articles/cp87gvmedlmo?at_medium=RSS&at_campaign=rss",
+      "summary": "The skeletal remains in Lake Mead include what appears to be a human jaw with teeth attached, a witness says.",
+      "published_at": "2026-08-19T10:10:09Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "US charges 17 Iranians over 'massive' cyber theft campaign",
@@ -9,15 +36,6 @@
       "published_at": "2026-08-19T09:48:16Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "Sacked Ukrainian defence minister calls for presidential election",
-      "url": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss",
-      "summary": "Martial law has been in place in Ukraine since February 2022, under which elections are suspended.",
-      "published_at": "2026-08-19T09:02:08Z",
-      "country_code": "UA",
-      "country_name": "Ukraine"
     },
     {
       "source": "BBC World",
@@ -99,6 +117,15 @@
       "published_at": "2026-08-18T22:11:07Z",
       "country_code": "US",
       "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Why has Russia threatened the UK and what happens next?",
+      "url": "https://www.bbc.co.uk/news/videos/cvgwygqv5dqo?at_medium=RSS&at_campaign=rss",
+      "summary": "UK Prime Minister Andy Burnham has said London will continue \"to support Ukraine 100%\".",
+      "published_at": "2026-08-18T21:45:17Z",
+      "country_code": "GB",
+      "country_name": "United Kingdom"
     },
     {
       "source": "BBC World",
@@ -852,12 +879,17 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 24
+      "news_count": 26
     },
     {
       "country_code": "PS",
       "country_name": "Palestine",
       "news_count": 7
+    },
+    {
+      "country_code": "GB",
+      "country_name": "United Kingdom",
+      "news_count": 6
     },
     {
       "country_code": "IL",
@@ -867,11 +899,6 @@
     {
       "country_code": "CO",
       "country_name": "Colombia",
-      "news_count": 5
-    },
-    {
-      "country_code": "GB",
-      "country_name": "United Kingdom",
       "news_count": 5
     },
     {
