@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-08-19T18:17:33Z",
+  "generated_at": "2026-08-19T18:59:17Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Ecuador intelligence chief and five Americans killed in Kenya helicopter crash",
+      "url": "https://www.bbc.co.uk/news/articles/clylkv4z59vo?at_medium=RSS&at_campaign=rss",
+      "summary": "Michele Sensi-Contugi, and his wife Stephany Hollihan among the seven people killed in the crash.",
+      "published_at": "2026-08-19T18:43:11Z",
+      "country_code": "KE",
+      "country_name": "Kenya"
+    },
+    {
+      "source": "BBC World",
+      "title": "81-year-old confesses to German cold case murder of US tourist in 1994",
+      "url": "https://www.bbc.co.uk/news/articles/cq89n5j9npdo?at_medium=RSS&at_campaign=rss",
+      "summary": "Amy Lopez from Texas was last seen alive in September 1994 while on a visit to a fortress in Koblenz.",
+      "published_at": "2026-08-19T18:26:21Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "Canada and US say they are finalising a trade deal, but details remain murky",
@@ -9,6 +27,15 @@
       "published_at": "2026-08-19T17:47:52Z",
       "country_code": "US",
       "country_name": "United States"
+    },
+    {
+      "source": "BBC Middle East",
+      "title": "Multiple deadly Israeli strikes in Gaza in under 24 hours",
+      "url": "https://www.bbc.co.uk/news/videos/cp3rgxzk5x2o?at_medium=RSS&at_campaign=rss",
+      "summary": "BBC Verify looks at footage from two deadly strikes in under 24 hours in Gaza.",
+      "published_at": "2026-08-19T17:46:01Z",
+      "country_code": "PS",
+      "country_name": "Palestine"
     },
     {
       "source": "BBC World",
@@ -120,15 +147,6 @@
     },
     {
       "source": "BBC World",
-      "title": "Six tourists and pilot killed in Kenya helicopter crash",
-      "url": "https://www.bbc.co.uk/news/articles/clylkv4z59vo?at_medium=RSS&at_campaign=rss",
-      "summary": "The Aircraft Accident Investigation Department tells the BBC the nationalities are yet to be confirmed.",
-      "published_at": "2026-08-19T13:00:09Z",
-      "country_code": "KE",
-      "country_name": "Kenya"
-    },
-    {
-      "source": "BBC World",
       "title": "Head-on collision between bus and lorry in Brazil kills more than 20",
       "url": "https://www.bbc.co.uk/news/articles/cpvwgk1n2k8o?at_medium=RSS&at_campaign=rss",
       "summary": "It is not yet clear what caused the two vehicles to crash into each other in the early hours of Wednesday morning.",
@@ -164,7 +182,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "Apparent human remains found in US reservoir as water levels hit record low",
       "url": "https://www.bbc.co.uk/news/articles/cp87gvmedlmo?at_medium=RSS&at_campaign=rss",
       "summary": "The skeletal remains in Lake Mead include what appears to be a human jaw with teeth attached, a witness says.",
@@ -822,15 +840,6 @@
     },
     {
       "source": "BBC Middle East",
-      "title": "Israeli West Bank settler tells BBC attacks on Palestinians are justified as revenge",
-      "url": "https://www.bbc.co.uk/news/articles/c4g4djgdyk2o?at_medium=RSS&at_campaign=rss",
-      "summary": "Settler violence against Palestinians is on the rise in the West Bank, as settlements and outposts expand.",
-      "published_at": "2026-08-01T05:01:56Z",
-      "country_code": "PS",
-      "country_name": "Palestine"
-    },
-    {
-      "source": "BBC Middle East",
       "title": "What is Iran's Pickaxe Mountain and why does Trump say he wants to bomb it?",
       "url": "https://www.bbc.co.uk/news/articles/c9w0ygrwrn5o?at_medium=RSS&at_campaign=rss",
       "summary": "BBC Verify has spoken to experts and analysed satellite imagery to piece together what we know about the site, and the potential impact of a…",
@@ -897,7 +906,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 28
+      "news_count": 29
     },
     {
       "country_code": "IL",
