@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-08-19T15:29:22Z",
+  "generated_at": "2026-08-19T15:57:17Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Trump pauses new tariffs on Canada for three days, saying deal close",
+      "url": "https://www.bbc.co.uk/news/articles/cy9wz79ze29o?at_medium=RSS&at_campaign=rss",
+      "summary": "The US president says the two sides are finalising documents to avert import taxes targeting a range of Canadian goods.",
+      "published_at": "2026-08-19T15:47:31Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Jellyfish mesmerise in their own museum in Florida",
+      "url": "https://www.bbc.co.uk/news/videos/c0m7eld12l1o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Jellyfish Museum in Pompano Beach is believed to be the first in the US dedicated entirely to the floating predators.",
+      "published_at": "2026-08-19T15:39:08Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Israel confirms soldiers fired at car in which Hind Rajab was killed and opens criminal investigation",
+      "url": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss",
+      "summary": "The five-year old Gaza girl initially survived the attack and pleaded for help but her body was recovered later with those of six of her rel…",
+      "published_at": "2026-08-19T15:33:32Z",
+      "country_code": "IL",
+      "country_name": "Israel"
+    },
+    {
+      "source": "BBC World",
+      "title": "'I was born in South Africa', says beauty queen facing legal bid to deport her",
+      "url": "https://www.bbc.co.uk/news/articles/cj364xxr5ngo?at_medium=RSS&at_campaign=rss",
+      "summary": "Chidimma Adetshina is challenging efforts to have her deported from South Africa, which she says is her home.",
+      "published_at": "2026-08-19T15:12:41Z",
+      "country_code": "ZA",
+      "country_name": "South Africa"
+    },
     {
       "source": "BBC US & Canada",
       "title": "Florida picks nominees for governor, and other takeaways from US primaries",
@@ -27,15 +63,6 @@
       "published_at": "2026-08-19T14:16:27Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "Israel confirms it opened fire on vehicle carrying five-year-old Hind Rajab in Gaza",
-      "url": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss",
-      "summary": "She initially survived the attack but her body was recovered days later in Gaza City in 2024.",
-      "published_at": "2026-08-19T13:53:51Z",
-      "country_code": "IL",
-      "country_name": "Israel"
     },
     {
       "source": "BBC World",
@@ -75,7 +102,7 @@
     },
     {
       "source": "BBC World",
-      "title": "'Catastrophic' hotel mix-up at the heart of Australia's mushroom murder appeal",
+      "title": "Watch: 'Catastrophic' hotel mix-up at the heart of Australia's mushroom murder appeal",
       "url": "https://www.bbc.co.uk/news/videos/c9v4ze2dpdjo?at_medium=RSS&at_campaign=rss",
       "summary": "Lawyers for Erin Patterson say her conviction was undermined by a \"catastrophic\" mix-up that led to the jury staying at the same hotel as pr…",
       "published_at": "2026-08-19T10:52:46Z",
@@ -137,15 +164,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
-      "title": "Trump pauses new tariffs on Canada for three days, saying deal close",
-      "url": "https://www.bbc.co.uk/news/articles/cy9wz79ze29o?at_medium=RSS&at_campaign=rss",
-      "summary": "The US president says the two sides are finalising documents to avert import taxes targeting a range of Canadian goods.",
-      "published_at": "2026-08-19T03:56:35Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC US & Canada",
       "title": "Iranian academic writes of US detention 'hell' over link to 1979 hostage crisis",
       "url": "https://www.bbc.co.uk/news/articles/cgjeped6ewxo?at_medium=RSS&at_campaign=rss",
@@ -164,7 +182,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "Meta hooked children on Facebook and Instagram, US court hears",
       "url": "https://www.bbc.co.uk/news/articles/cly5r7vr7q1o?at_medium=RSS&at_campaign=rss",
       "summary": "Meta argued social media addiction does not exist, as a trial stemming from a major lawsuit brought by US states started.",
@@ -380,7 +398,7 @@
       "country_name": "Thailand"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "BBC visits smouldering Kyiv market after Russian strikes",
       "url": "https://www.bbc.co.uk/news/videos/c8dnn05e90lo?at_medium=RSS&at_campaign=rss",
       "summary": "Six people were injured in the strike on the market selling second-hand records, posters, toys and tools.",
@@ -879,7 +897,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 26
+      "news_count": 27
     },
     {
       "country_code": "IL",
@@ -902,6 +920,11 @@
       "news_count": 5
     },
     {
+      "country_code": "ZA",
+      "country_name": "South Africa",
+      "news_count": 4
+    },
+    {
       "country_code": "BR",
       "country_name": "Brazil",
       "news_count": 3
@@ -919,11 +942,6 @@
     {
       "country_code": "RU",
       "country_name": "Russia",
-      "news_count": 3
-    },
-    {
-      "country_code": "ZA",
-      "country_name": "South Africa",
       "news_count": 3
     },
     {
