@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-08-19T14:58:48Z",
+  "generated_at": "2026-08-19T15:29:22Z",
   "articles": [
+    {
+      "source": "BBC US & Canada",
+      "title": "Florida picks nominees for governor, and other takeaways from US primaries",
+      "url": "https://www.bbc.co.uk/news/articles/cpvwgym9xl9o?at_medium=RSS&at_campaign=rss",
+      "summary": "Highlights from a day of voting in the US - including triumph in Alaska for one Dan Sullivan over another Dan Sullivan.",
+      "published_at": "2026-08-19T14:59:16Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Retail giant Target receives $1bn boost from tariff refunds",
+      "url": "https://www.bbc.co.uk/news/articles/c78gp4y8d3eo?at_medium=RSS&at_campaign=rss",
+      "summary": "The US chain said it received a $994 million pre-tax reimbursement, which resulted in its second quarter operating income rising to $2.6bn.",
+      "published_at": "2026-08-19T14:47:02Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "South Korea shortens war games with US, citing Washington request",
@@ -47,15 +65,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC US & Canada",
-      "title": "Florida picks nominees for governor, and other takeaways from US primaries",
-      "url": "https://www.bbc.co.uk/news/articles/cpvwgym9xl9o?at_medium=RSS&at_campaign=rss",
-      "summary": "Highlights from a day of voting in the US - including triumph in Alaska for one Dan Sullivan over another Dan Sullivan.",
-      "published_at": "2026-08-19T11:05:06Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC World",
       "title": "Sacked Ukrainian defence minister calls for presidential election",
       "url": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss",
@@ -63,6 +72,15 @@
       "published_at": "2026-08-19T11:00:21Z",
       "country_code": "UA",
       "country_name": "Ukraine"
+    },
+    {
+      "source": "BBC World",
+      "title": "'Catastrophic' hotel mix-up at the heart of Australia's mushroom murder appeal",
+      "url": "https://www.bbc.co.uk/news/videos/c9v4ze2dpdjo?at_medium=RSS&at_campaign=rss",
+      "summary": "Lawyers for Erin Patterson say her conviction was undermined by a \"catastrophic\" mix-up that led to the jury staying at the same hotel as pr…",
+      "published_at": "2026-08-19T10:52:46Z",
+      "country_code": "AU",
+      "country_name": "Australia"
     },
     {
       "source": "BBC World",
@@ -90,15 +108,6 @@
       "published_at": "2026-08-19T09:48:16Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "Mushroom murderer trial undermined by 'catastrophic' hotel mix-up, appeal court told",
-      "url": "https://www.bbc.co.uk/news/articles/czjlxenlgkko?at_medium=RSS&at_campaign=rss",
-      "summary": "Erin Patterson's defence team appeal against her conviction for killing relatives with a beef Wellington laced with toxic mushrooms.",
-      "published_at": "2026-08-19T08:25:03Z",
-      "country_code": "NZ",
-      "country_name": "New Zealand"
     },
     {
       "source": "BBC Asia",
@@ -414,15 +423,6 @@
       "published_at": "2026-08-15T20:21:14Z",
       "country_code": "IL",
       "country_name": "Israel"
-    },
-    {
-      "source": "BBC World",
-      "title": "Why is Australia's mushroom killer back in court this week?",
-      "url": "https://www.bbc.co.uk/news/videos/c62e1v8p07go?at_medium=RSS&at_campaign=rss",
-      "summary": "The BBC’s Katy Watson explains why triple-murderer Erin Patterson is back in court this week trying to overturn her conviction.",
-      "published_at": "2026-08-15T18:02:30Z",
-      "country_code": "AU",
-      "country_name": "Australia"
     },
     {
       "source": "BBC Middle East",
@@ -879,7 +879,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 25
+      "news_count": 26
     },
     {
       "country_code": "IL",
@@ -967,11 +967,6 @@
       "news_count": 2
     },
     {
-      "country_code": "NZ",
-      "country_name": "New Zealand",
-      "news_count": 2
-    },
-    {
       "country_code": "PK",
       "country_name": "Pakistan",
       "news_count": 2
@@ -1009,6 +1004,11 @@
     {
       "country_code": "IT",
       "country_name": "Italy",
+      "news_count": 1
+    },
+    {
+      "country_code": "NZ",
+      "country_name": "New Zealand",
       "news_count": 1
     },
     {
