@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T18:59:17Z",
+  "generated_at": "2026-08-19T19:25:14Z",
   "articles": [
     {
       "source": "BBC World",
@@ -281,15 +281,6 @@
       "country_name": "Spain"
     },
     {
-      "source": "BBC Africa",
-      "title": "Nigeria influencer arrested after seizure of cocaine worth $28m destined for the UK",
-      "url": "https://www.bbc.co.uk/news/articles/c1e155428qyo?at_medium=RSS&at_campaign=rss",
-      "summary": "Afolabi Kazeem Micheal has not commented on allegations he is linked to a global drug trafficking network.",
-      "published_at": "2026-08-18T16:26:22Z",
-      "country_code": "GB",
-      "country_name": "United Kingdom"
-    },
-    {
       "source": "BBC US & Canada",
       "title": "How the Meta trial could change social media for young people",
       "url": "https://www.bbc.co.uk/news/videos/c05qrr5r4e2o?at_medium=RSS&at_campaign=rss",
@@ -477,15 +468,6 @@
       "published_at": "2026-08-14T17:03:17Z",
       "country_code": "PS",
       "country_name": "Palestine"
-    },
-    {
-      "source": "BBC Latin America",
-      "title": "UK diplomats no longer get hardship bonus for being posted to Buenos Aires",
-      "url": "https://www.bbc.co.uk/news/articles/cly5p995ykko?at_medium=RSS&at_campaign=rss",
-      "summary": "Civil servants are entitled to extra money for working in difficult or dangerous cities around the world.",
-      "published_at": "2026-08-14T17:00:46Z",
-      "country_code": "GB",
-      "country_name": "United Kingdom"
     },
     {
       "source": "BBC Europe",
@@ -924,11 +906,6 @@
       "news_count": 5
     },
     {
-      "country_code": "GB",
-      "country_name": "United Kingdom",
-      "news_count": 5
-    },
-    {
       "country_code": "ZA",
       "country_name": "South Africa",
       "news_count": 4
@@ -941,6 +918,11 @@
     {
       "country_code": "CN",
       "country_name": "China",
+      "news_count": 3
+    },
+    {
+      "country_code": "GB",
+      "country_name": "United Kingdom",
       "news_count": 3
     },
     {
