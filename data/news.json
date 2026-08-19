@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T04:58:50Z",
+  "generated_at": "2026-08-19T05:28:46Z",
   "articles": [
     {
       "source": "BBC World",
@@ -378,15 +378,6 @@
       "published_at": "2026-08-15T20:21:14Z",
       "country_code": "IL",
       "country_name": "Israel"
-    },
-    {
-      "source": "BBC Asia",
-      "title": "Why is Australia's mushroom killer back in court this week?",
-      "url": "https://www.bbc.co.uk/news/videos/c62e1v8p07go?at_medium=RSS&at_campaign=rss",
-      "summary": "The BBC’s Katy Watson explains why triple-murderer Erin Patterson is back in court this week trying to overturn her conviction.",
-      "published_at": "2026-08-15T18:02:30Z",
-      "country_code": "AU",
-      "country_name": "Australia"
     },
     {
       "source": "BBC US & Canada",
@@ -927,11 +918,6 @@
       "news_count": 2
     },
     {
-      "country_code": "AU",
-      "country_name": "Australia",
-      "news_count": 2
-    },
-    {
       "country_code": "CN",
       "country_name": "China",
       "news_count": 2
@@ -980,6 +966,11 @@
       "country_code": "UA",
       "country_name": "Ukraine",
       "news_count": 2
+    },
+    {
+      "country_code": "AU",
+      "country_name": "Australia",
+      "news_count": 1
     },
     {
       "country_code": "CL",
