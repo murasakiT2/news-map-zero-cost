@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-08-19T22:13:12Z",
+  "generated_at": "2026-08-19T22:47:16Z",
   "articles": [
+    {
+      "source": "BBC US & Canada",
+      "title": "US national debt passes $40tn after doubling in a decade",
+      "url": "https://www.bbc.co.uk/news/articles/c70gp8252ejo?at_medium=RSS&at_campaign=rss",
+      "summary": "It comes after the interest rate on 30-year bonds reached the highest level in almost 20 years.",
+      "published_at": "2026-08-19T22:31:46Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "Australia 'outraged' after Israeli decision not to prosecute over killing of aid worker in Gaza",
@@ -45,15 +54,6 @@
       "published_at": "2026-08-19T19:59:06Z",
       "country_code": "GB",
       "country_name": "United Kingdom"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "US long-term borrowing costs ease after government steps in",
-      "url": "https://www.bbc.co.uk/news/articles/c70gp8252ejo?at_medium=RSS&at_campaign=rss",
-      "summary": "It comes after the interest rate on 30-year bonds reached the highest level in almost 20 years.",
-      "published_at": "2026-08-19T19:26:06Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC World",
@@ -225,6 +225,15 @@
       "published_at": "2026-08-19T09:48:16Z",
       "country_code": "US",
       "country_name": "United States"
+    },
+    {
+      "source": "BBC Asia",
+      "title": "Mushroom murderer trial undermined by 'catastrophic' hotel mix-up, appeal court told",
+      "url": "https://www.bbc.co.uk/news/articles/czjlxenlgkko?at_medium=RSS&at_campaign=rss",
+      "summary": "Erin Patterson's defence team appeal against her conviction for killing relatives with a beef Wellington laced with toxic mushrooms.",
+      "published_at": "2026-08-19T08:25:03Z",
+      "country_code": "NZ",
+      "country_name": "New Zealand"
     },
     {
       "source": "BBC Asia",
@@ -405,15 +414,6 @@
       "published_at": "2026-08-17T08:56:09Z",
       "country_code": "ZA",
       "country_name": "South Africa"
-    },
-    {
-      "source": "BBC Asia",
-      "title": "Movie that went viral for terrible animation becomes China box office hit",
-      "url": "https://www.bbc.co.uk/news/articles/c4g4r0mrmlpo?at_medium=RSS&at_campaign=rss",
-      "summary": "Niu Lai's confusing plot and laughable animation quality has won ironic fans on the internet.",
-      "published_at": "2026-08-17T08:35:07Z",
-      "country_code": "CN",
-      "country_name": "China"
     },
     {
       "source": "BBC Asia",
@@ -930,11 +930,6 @@
       "news_count": 3
     },
     {
-      "country_code": "CN",
-      "country_name": "China",
-      "news_count": 3
-    },
-    {
       "country_code": "GB",
       "country_name": "United Kingdom",
       "news_count": 3
@@ -957,6 +952,11 @@
     {
       "country_code": "AE",
       "country_name": "United Arab Emirates",
+      "news_count": 2
+    },
+    {
+      "country_code": "CN",
+      "country_name": "China",
       "news_count": 2
     },
     {
@@ -1027,6 +1027,11 @@
     {
       "country_code": "MA",
       "country_name": "Morocco",
+      "news_count": 1
+    },
+    {
+      "country_code": "NZ",
+      "country_name": "New Zealand",
       "news_count": 1
     },
     {
