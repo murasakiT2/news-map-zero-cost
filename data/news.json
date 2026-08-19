@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-08-19T00:36:25Z",
+  "generated_at": "2026-08-19T02:11:03Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Sacked Ukrainian defence minister calls for presidential election",
+      "url": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss",
+      "summary": "Martial law has been in place in Ukraine since February 2022, under which elections are suspended.",
+      "published_at": "2026-08-19T01:31:15Z",
+      "country_code": "UA",
+      "country_name": "Ukraine"
+    },
     {
       "source": "BBC World",
       "title": "Meta hooked children on Facebook and Instagram, court hears",
@@ -101,7 +110,7 @@
       "country_name": "Brazil"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "UK 'supports Ukraine 100%', Burnham says, after Russia's drone warning",
       "url": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss",
       "summary": "Russia accuses the UK of escalating the Ukraine war by supplying British-made drones as the prime minister vows to support Kyiv in its \"hour…",
@@ -342,15 +351,6 @@
       "published_at": "2026-08-15T18:02:30Z",
       "country_code": "AU",
       "country_name": "Australia"
-    },
-    {
-      "source": "BBC Asia",
-      "title": "Air India pilot's reported cannabis test: What it can and can't tell investigators",
-      "url": "https://www.bbc.co.uk/news/articles/c74gdgly3g3o?at_medium=RSS&at_campaign=rss",
-      "summary": "A reported cannabis-positive test involving an Air India pilot raises questions about what such a result can actually tell investigators.",
-      "published_at": "2026-08-15T00:01:44Z",
-      "country_code": "IN",
-      "country_name": "India"
     },
     {
       "source": "BBC US & Canada",
@@ -885,11 +885,6 @@
       "news_count": 3
     },
     {
-      "country_code": "IN",
-      "country_name": "India",
-      "news_count": 3
-    },
-    {
       "country_code": "RU",
       "country_name": "Russia",
       "news_count": 3
@@ -930,6 +925,11 @@
       "news_count": 2
     },
     {
+      "country_code": "IN",
+      "country_name": "India",
+      "news_count": 2
+    },
+    {
       "country_code": "IR",
       "country_name": "Iran",
       "news_count": 2
@@ -947,6 +947,11 @@
     {
       "country_code": "SD",
       "country_name": "Sudan",
+      "news_count": 2
+    },
+    {
+      "country_code": "UA",
+      "country_name": "Ukraine",
       "news_count": 2
     },
     {
@@ -997,11 +1002,6 @@
     {
       "country_code": "TH",
       "country_name": "Thailand",
-      "news_count": 1
-    },
-    {
-      "country_code": "UA",
-      "country_name": "Ukraine",
       "news_count": 1
     }
   ]
