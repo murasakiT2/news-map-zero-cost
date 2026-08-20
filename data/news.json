@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-08-20T19:07:53Z",
+  "generated_at": "2026-08-20T19:51:48Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "US says sanctions will 'squash' Iran's economy and 'collapse' its regime",
+      "url": "https://www.bbc.co.uk/news/articles/c87n90eg0p2o?at_medium=RSS&at_campaign=rss",
+      "summary": "The US treasury secretary says allies will need to decide whether they \"are with us or against us\".",
+      "published_at": "2026-08-20T19:19:20Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "ICE arrests captain in New York Harbor boat accident that killed mother and infant",
+      "url": "https://www.bbc.co.uk/news/articles/cwy45lxry14o?at_medium=RSS&at_campaign=rss",
+      "summary": "Immigration officials allege the boat operator illegally entered the US from El Salvador and lied about his citizenship.",
+      "published_at": "2026-08-20T19:07:55Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC US & Canada",
       "title": "Carney asks Canada's provinces to end US alcohol ban as trade deal nears",
@@ -18,15 +36,6 @@
       "published_at": "2026-08-20T18:55:14Z",
       "country_code": "GB",
       "country_name": "United Kingdom"
-    },
-    {
-      "source": "BBC World",
-      "title": "Bessent urges US partners to back plans to 'squash' Iran economy",
-      "url": "https://www.bbc.co.uk/news/articles/c87n90eg0p2o?at_medium=RSS&at_campaign=rss",
-      "summary": "The US Treasury secretary says allies will need to decide whether they \"are with us or against us\".",
-      "published_at": "2026-08-20T18:40:46Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC World",
@@ -245,15 +254,6 @@
       "country_name": "South Africa"
     },
     {
-      "source": "BBC US & Canada",
-      "title": "Trump administration can target Ethiopians for deportation",
-      "url": "https://www.bbc.co.uk/news/articles/c39e8zy12pyo?at_medium=RSS&at_campaign=rss",
-      "summary": "Judge Brian Murphy cleared the way for the Trump administration to cancel Temporary Protected Status for Ethiopians living in the US.",
-      "published_at": "2026-08-19T15:11:19Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC Latin America",
       "title": "Head-on collision between bus and lorry in Brazil kills more than 20",
       "url": "https://www.bbc.co.uk/news/articles/cpvwgk1n2k8o?at_medium=RSS&at_campaign=rss",
@@ -279,15 +279,6 @@
       "published_at": "2026-08-19T10:52:46Z",
       "country_code": "AU",
       "country_name": "Australia"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "Apparent human remains found in US reservoir as water levels hit record low",
-      "url": "https://www.bbc.co.uk/news/articles/cp87gvmedlmo?at_medium=RSS&at_campaign=rss",
-      "summary": "The skeletal remains in Lake Mead include what appears to be a human jaw with teeth attached, a witness says.",
-      "published_at": "2026-08-19T10:10:09Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC Asia",
@@ -846,22 +837,13 @@
       "published_at": "2026-07-23T04:49:24Z",
       "country_code": "IR",
       "country_name": "Iran"
-    },
-    {
-      "source": "BBC Middle East",
-      "title": "Why Iran is risking so much over the Strait of Hormuz",
-      "url": "https://www.bbc.co.uk/news/articles/cwymx3eevpjo?at_medium=RSS&at_campaign=rss",
-      "summary": "None of the choices facing Iran’s leaders offer a clear path to victory, as the conflict with the US continues.",
-      "published_at": "2026-07-21T14:36:47Z",
-      "country_code": "US",
-      "country_name": "United States"
     }
   ],
   "regions": [
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 23
+      "news_count": 21
     },
     {
       "country_code": "PS",
