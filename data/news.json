@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-08-20T10:53:57Z",
+  "generated_at": "2026-08-20T11:16:29Z",
   "articles": [
+    {
+      "source": "BBC US & Canada",
+      "title": "Carney asks for end to US alcohol ban, province leader says, as trade deal nears",
+      "url": "https://www.bbc.co.uk/news/articles/c3ekl74jnk5o?at_medium=RSS&at_campaign=rss",
+      "summary": "An agreement preventing a new wave of US tariffs is close and could include an end to Canada's boycott of US whiskey.",
+      "published_at": "2026-08-20T11:10:25Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "At least 15 killed in Kyiv as Ukraine grapples with air defence shortages",
+      "url": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
+      "summary": "Apartment blocks and warehouses were targeted in the \"massive attack\" on Thursday, officials say.",
+      "published_at": "2026-08-20T11:06:54Z",
+      "country_code": "UA",
+      "country_name": "Ukraine"
+    },
     {
       "source": "BBC World",
       "title": "Ecuador intelligence chief and five Americans killed in Kenya helicopter crash",
@@ -9,15 +27,6 @@
       "published_at": "2026-08-20T10:41:25Z",
       "country_code": "KE",
       "country_name": "Kenya"
-    },
-    {
-      "source": "BBC World",
-      "title": "At least 13 killed in Kyiv as Ukraine grapples with air defence shortages",
-      "url": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
-      "summary": "Apartment blocks and warehouses were targeted in the \"massive attack\" on Thursday, officials say.",
-      "published_at": "2026-08-20T10:34:33Z",
-      "country_code": "UA",
-      "country_name": "Ukraine"
     },
     {
       "source": "BBC World",
@@ -54,6 +63,15 @@
       "published_at": "2026-08-20T09:13:18Z",
       "country_code": "IR",
       "country_name": "Iran"
+    },
+    {
+      "source": "BBC Africa",
+      "title": "Spurs in talks to sign Egypt's Marmoush from Man City",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cz645z0w3ypo?at_medium=RSS&at_campaign=rss",
+      "summary": "Spurs open talks with Manchester City to sign attacking duo Omar Marmoush and Savinho.",
+      "published_at": "2026-08-20T09:01:26Z",
+      "country_code": "EG",
+      "country_name": "Egypt"
     },
     {
       "source": "BBC World",
@@ -99,15 +117,6 @@
       "published_at": "2026-08-20T04:17:53Z",
       "country_code": "IL",
       "country_name": "Israel"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "Canada and US say they are finalising a trade deal",
-      "url": "https://www.bbc.co.uk/news/articles/c3ekl74jnk5o?at_medium=RSS&at_campaign=rss",
-      "summary": "Prime Minister Carney hailed \"significant progress\" in trade talks as the two countries seek to hammer out final details ahead of a new week…",
-      "published_at": "2026-08-20T03:10:48Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC US & Canada",
@@ -243,15 +252,6 @@
       "published_at": "2026-08-19T10:52:46Z",
       "country_code": "AU",
       "country_name": "Australia"
-    },
-    {
-      "source": "BBC Africa",
-      "title": "Liberia agrees to accept 1,200 foreign deportees from the US",
-      "url": "https://www.bbc.co.uk/news/articles/cpq8g22715vo?at_medium=RSS&at_campaign=rss",
-      "summary": "Liberia says the deal is a \"humanitarian arrangement\" and is receiving no compensation.",
-      "published_at": "2026-08-19T10:47:22Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC US & Canada",
@@ -785,6 +785,15 @@
       "country_name": "Israel"
     },
     {
+      "source": "BBC Africa",
+      "title": "The athlete from Cameroon who has never held her Olympic medal",
+      "url": "https://www.bbc.co.uk/sport/weightlifting/articles/cn8nxg5rvvko?at_medium=RSS&at_campaign=rss",
+      "summary": "The story of Cameroon Olympic medallist Madias Ngake's remarkable journey from sleeping rough and seeking asylum to winning silver for Engla…",
+      "published_at": "2026-07-29T19:38:24Z",
+      "country_code": "GB",
+      "country_name": "United Kingdom"
+    },
+    {
       "source": "BBC Middle East",
       "title": "Saudi Arabia's dilemma as it tries to stay out of US-Iran war",
       "url": "https://www.bbc.co.uk/news/articles/clyx83l8jv8o?at_medium=RSS&at_campaign=rss",
@@ -879,7 +888,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 25
+      "news_count": 24
     },
     {
       "country_code": "PS",
@@ -887,13 +896,13 @@
       "news_count": 9
     },
     {
-      "country_code": "CO",
-      "country_name": "Colombia",
-      "news_count": 5
-    },
-    {
       "country_code": "GB",
       "country_name": "United Kingdom",
+      "news_count": 6
+    },
+    {
+      "country_code": "CO",
+      "country_name": "Colombia",
       "news_count": 5
     },
     {
@@ -979,6 +988,11 @@
     {
       "country_code": "DE",
       "country_name": "Germany",
+      "news_count": 1
+    },
+    {
+      "country_code": "EG",
+      "country_name": "Egypt",
       "news_count": 1
     },
     {
