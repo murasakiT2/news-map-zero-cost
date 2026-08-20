@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-08-20T12:24:13Z",
+  "generated_at": "2026-08-20T13:24:10Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Assad officer extradited to Syria on war crimes charges for first time",
+      "url": "https://www.bbc.co.uk/news/articles/cvgjdy8q766o?at_medium=RSS&at_campaign=rss",
+      "summary": "Lebanon handed over former General Adel Issa, as Syria steps up its pursuit of wanted members of the former regime.",
+      "published_at": "2026-08-20T12:38:35Z",
+      "country_code": "SY",
+      "country_name": "Syria"
+    },
     {
       "source": "BBC US & Canada",
       "title": "Prince Harry and Meghan moving back to UK later this month",
@@ -23,7 +32,7 @@
       "source": "BBC World",
       "title": "At least 15 killed in Kyiv as Ukraine grapples with air defence shortages",
       "url": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
-      "summary": "Apartment blocks and warehouses were targeted in the \"massive attack\" on Thursday, officials say.",
+      "summary": "Blocks of flats and warehouses were targeted in the \"massive attack\" on Thursday, Ukrainian officials say.",
       "published_at": "2026-08-20T11:06:54Z",
       "country_code": "UA",
       "country_name": "Ukraine"
@@ -587,15 +596,6 @@
       "country_name": "United Arab Emirates"
     },
     {
-      "source": "BBC Middle East",
-      "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
-      "url": "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss",
-      "summary": "Israel's PM says its military will not pull out from Gaza until Hamas is \"genuinely\" disarmed.",
-      "published_at": "2026-08-09T21:25:04Z",
-      "country_code": "IL",
-      "country_name": "Israel"
-    },
-    {
       "source": "BBC Africa",
       "title": "Nigeria's mass wedding - and how telling lovers from fraudsters is proving tricky",
       "url": "https://www.bbc.co.uk/news/articles/cqx7q17531do?at_medium=RSS&at_campaign=rss",
@@ -897,11 +897,6 @@
       "news_count": 5
     },
     {
-      "country_code": "IL",
-      "country_name": "Israel",
-      "news_count": 4
-    },
-    {
       "country_code": "RU",
       "country_name": "Russia",
       "news_count": 4
@@ -924,6 +919,11 @@
     {
       "country_code": "CN",
       "country_name": "China",
+      "news_count": 3
+    },
+    {
+      "country_code": "IL",
+      "country_name": "Israel",
       "news_count": 3
     },
     {
@@ -1024,6 +1024,11 @@
     {
       "country_code": "PH",
       "country_name": "Philippines",
+      "news_count": 1
+    },
+    {
+      "country_code": "SY",
+      "country_name": "Syria",
       "news_count": 1
     },
     {
