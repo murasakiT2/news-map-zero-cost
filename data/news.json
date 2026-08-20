@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-08-20T06:25:29Z",
+  "generated_at": "2026-08-20T07:13:54Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "At least 12 killed in Kyiv as Ukraine grapples with air defence shortages",
+      "url": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
+      "summary": "Apartment blocks and warehouses were targeted in the \"massive attack\" on Thursday, officials say.",
+      "published_at": "2026-08-20T06:44:20Z",
+      "country_code": "UA",
+      "country_name": "Ukraine"
+    },
+    {
+      "source": "BBC World",
+      "title": "Australia 'outraged' after Israel decides not to open criminal investigation into killing of aid worker in Gaza",
+      "url": "https://www.bbc.co.uk/news/articles/cp87g29r718o?at_medium=RSS&at_campaign=rss",
+      "summary": "Australia's foreign minister summoned the Israeli ambassador over \"insulting\" Zomi Frankcom decision.",
+      "published_at": "2026-08-20T06:39:14Z",
+      "country_code": "AU",
+      "country_name": "Australia"
+    },
     {
       "source": "BBC US & Canada",
       "title": "US national debt passes $40tn after doubling in a decade",
@@ -20,22 +38,13 @@
       "country_name": "China"
     },
     {
-      "source": "BBC World",
-      "title": "Russia launches missile strikes on Kyiv and surrounding region, killing at least eight",
-      "url": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
-      "summary": "Apartment blocks and warehouses were targeted in the \"massive attack\" on Thursday, according to the State Emergency Service of Ukraine.",
-      "published_at": "2026-08-20T05:25:23Z",
-      "country_code": "RU",
-      "country_name": "Russia"
-    },
-    {
-      "source": "BBC World",
-      "title": "Australia 'outraged' after Israel decides not to open criminal investigation into killing of aid worker in Gaza",
-      "url": "https://www.bbc.co.uk/news/articles/cp87g29r718o?at_medium=RSS&at_campaign=rss",
-      "summary": "Australia's foreign minister summoned the Israeli ambassador over \"insulting\" Zomi Frankcom decision.",
-      "published_at": "2026-08-20T05:10:09Z",
-      "country_code": "AU",
-      "country_name": "Australia"
+      "source": "BBC Asia",
+      "title": "Four workers dead after being hit by train in Japan",
+      "url": "https://www.bbc.co.uk/news/articles/c5yrnz24j22o?at_medium=RSS&at_campaign=rss",
+      "summary": "The train collided with the four men at Shin-Kanuma Station, north of Tokyo, authorities say.",
+      "published_at": "2026-08-20T06:02:10Z",
+      "country_code": "JP",
+      "country_name": "Japan"
     },
     {
       "source": "BBC World",
@@ -57,7 +66,7 @@
     },
     {
       "source": "BBC World",
-      "title": "Trump threatens 'tremendous economic consequences' on any country helping Iran",
+      "title": "Trump vows tougher economic measures on Iran and supporting countries",
       "url": "https://www.bbc.co.uk/news/articles/c2k7e83ynj4o?at_medium=RSS&at_campaign=rss",
       "summary": "It comes after a 60-day ceasefire expired on Monday, with no sign of a diplomatic or military off-ramp to the conflict.",
       "published_at": "2026-08-20T03:22:57Z",
@@ -387,15 +396,6 @@
       "published_at": "2026-08-18T03:43:53Z",
       "country_code": "PH",
       "country_name": "Philippines"
-    },
-    {
-      "source": "BBC Asia",
-      "title": "Trump says US to reduce military drills with South Korea after it stayed out of Iran war",
-      "url": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
-      "summary": "Trump cites his \"very good relationship\" with North Korea's leader in deciding to downsize the exercises.",
-      "published_at": "2026-08-17T18:39:39Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC Europe",
@@ -915,7 +915,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 31
+      "news_count": 30
     },
     {
       "country_code": "PS",
@@ -928,11 +928,6 @@
       "news_count": 5
     },
     {
-      "country_code": "RU",
-      "country_name": "Russia",
-      "news_count": 5
-    },
-    {
       "country_code": "GB",
       "country_name": "United Kingdom",
       "news_count": 4
@@ -940,6 +935,16 @@
     {
       "country_code": "IL",
       "country_name": "Israel",
+      "news_count": 4
+    },
+    {
+      "country_code": "RU",
+      "country_name": "Russia",
+      "news_count": 4
+    },
+    {
+      "country_code": "UA",
+      "country_name": "Ukraine",
       "news_count": 4
     },
     {
@@ -965,11 +970,6 @@
     {
       "country_code": "NG",
       "country_name": "Nigeria",
-      "news_count": 3
-    },
-    {
-      "country_code": "UA",
-      "country_name": "Ukraine",
       "news_count": 3
     },
     {
@@ -1035,6 +1035,11 @@
     {
       "country_code": "IT",
       "country_name": "Italy",
+      "news_count": 1
+    },
+    {
+      "country_code": "JP",
+      "country_name": "Japan",
       "news_count": 1
     },
     {
