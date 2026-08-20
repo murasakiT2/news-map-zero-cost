@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-08-20T17:24:57Z",
+  "generated_at": "2026-08-20T17:52:50Z",
   "articles": [
     {
       "source": "BBC World",
-      "title": "At least 15 killed in Kyiv as Ukraine grapples with air defence shortages",
+      "title": "Russia 'purposefully' hit critical infrastructure in latest strikes, Kyiv mayor says",
       "url": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
-      "summary": "Blocks of flats and warehouses were targeted in the \"massive attack\" on Thursday, Ukrainian officials say.",
+      "summary": "At least 17 people were killed in the \"massive attack\" overnight on Ukraine's capital, as mayor Vitali Klitschko warns hot water supply has …",
       "published_at": "2026-08-20T17:14:55Z",
-      "country_code": "UA",
-      "country_name": "Ukraine"
+      "country_code": "RU",
+      "country_name": "Russia"
     },
     {
       "source": "BBC World",
@@ -870,11 +870,6 @@
       "news_count": 5
     },
     {
-      "country_code": "UA",
-      "country_name": "Ukraine",
-      "news_count": 4
-    },
-    {
       "country_code": "ZA",
       "country_name": "South Africa",
       "news_count": 4
@@ -905,6 +900,16 @@
       "news_count": 3
     },
     {
+      "country_code": "RU",
+      "country_name": "Russia",
+      "news_count": 3
+    },
+    {
+      "country_code": "UA",
+      "country_name": "Ukraine",
+      "news_count": 3
+    },
+    {
       "country_code": "AE",
       "country_name": "United Arab Emirates",
       "news_count": 2
@@ -927,11 +932,6 @@
     {
       "country_code": "MX",
       "country_name": "Mexico",
-      "news_count": 2
-    },
-    {
-      "country_code": "RU",
-      "country_name": "Russia",
       "news_count": 2
     },
     {
