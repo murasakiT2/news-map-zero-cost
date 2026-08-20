@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-08-20T20:52:35Z",
+  "generated_at": "2026-08-20T21:17:29Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Watch: Fishermen rescued after five days adrift in cool box",
+      "url": "https://www.bbc.co.uk/news/videos/c1l10g94yg1o?at_medium=RSS&at_campaign=rss",
+      "summary": "The men, aged 53 and 32, lost contact with their fishing cooperative on 14 August, 75 miles off the coast of Mexico.",
+      "published_at": "2026-08-20T20:41:31Z",
+      "country_code": "MX",
+      "country_name": "Mexico"
+    },
     {
       "source": "BBC World",
       "title": "Jailed Pakistan ex-PM Imran Khan taken to hospital for treatment",
@@ -236,7 +245,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "Jellyfish mesmerise in their own museum in Florida",
       "url": "https://www.bbc.co.uk/news/videos/c0m7eld12l1o?at_medium=RSS&at_campaign=rss",
       "summary": "The Jellyfish Museum in Pompano Beach is believed to be the first in the US dedicated entirely to the floating predators.",
@@ -279,15 +288,6 @@
       "published_at": "2026-08-19T11:22:09Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "'Catastrophic' hotel mix-up at the heart of Australia's mushroom murder appeal",
-      "url": "https://www.bbc.co.uk/news/videos/c9v4ze2dpdjo?at_medium=RSS&at_campaign=rss",
-      "summary": "Lawyers for Erin Patterson say her conviction was undermined by a \"catastrophic\" mix-up that led to the jury staying at the same hotel as pr…",
-      "published_at": "2026-08-19T10:52:46Z",
-      "country_code": "AU",
-      "country_name": "Australia"
     },
     {
       "source": "BBC Asia",
@@ -450,15 +450,6 @@
       "published_at": "2026-08-16T09:27:58Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "Ariana Grande leaves problems at home as her tour hits the UK",
-      "url": "https://www.bbc.co.uk/news/articles/cn0n7rln2rno?at_medium=RSS&at_campaign=rss",
-      "summary": "The star plays the first of 10 dates in London, after which she will \"step back\" from public life.",
-      "published_at": "2026-08-16T02:01:42Z",
-      "country_code": "GB",
-      "country_name": "United Kingdom"
     },
     {
       "source": "BBC Middle East",
@@ -740,15 +731,6 @@
       "country_name": "South Africa"
     },
     {
-      "source": "BBC Latin America",
-      "title": "Watch: Giant 100-metre Mexican sandwich sets Guinness record",
-      "url": "https://www.bbc.co.uk/news/videos/cx27k743d42o?at_medium=RSS&at_campaign=rss",
-      "summary": "The record-breaking row of traditional sandwiches was assembled during Torta Fair, an annual food festival celebrating one of Mexico's most …",
-      "published_at": "2026-07-30T17:51:32Z",
-      "country_code": "MX",
-      "country_name": "Mexico"
-    },
-    {
       "source": "BBC Middle East",
       "title": "'End this nightmare': Wife of ailing Briton jailed in Saudi Arabia appeals for release",
       "url": "https://www.bbc.co.uk/news/articles/ckg4jxxn4ggo?at_medium=RSS&at_campaign=rss",
@@ -862,7 +844,7 @@
     {
       "country_code": "GB",
       "country_name": "United Kingdom",
-      "news_count": 7
+      "news_count": 6
     },
     {
       "country_code": "CO",
@@ -915,11 +897,6 @@
       "news_count": 2
     },
     {
-      "country_code": "AU",
-      "country_name": "Australia",
-      "news_count": 2
-    },
-    {
       "country_code": "FR",
       "country_name": "France",
       "news_count": 2
@@ -943,6 +920,11 @@
       "country_code": "SD",
       "country_name": "Sudan",
       "news_count": 2
+    },
+    {
+      "country_code": "AU",
+      "country_name": "Australia",
+      "news_count": 1
     },
     {
       "country_code": "CL",
