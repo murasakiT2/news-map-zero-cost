@@ -1,11 +1,29 @@
 {
-  "generated_at": "2026-08-20T03:15:46Z",
+  "generated_at": "2026-08-20T04:04:00Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Trump threatens 'tremendous economic consequences' on any country helping Iran",
+      "url": "https://www.bbc.co.uk/news/articles/c2k7e83ynj4o?at_medium=RSS&at_campaign=rss",
+      "summary": "It comes after a 60-day ceasefire expired on Monday, with no sign of a diplomatic or military off-ramp to the conflict.",
+      "published_at": "2026-08-20T03:22:57Z",
+      "country_code": "IR",
+      "country_name": "Iran"
+    },
+    {
+      "source": "BBC World",
+      "title": "Missing teen hiker found dead in Australian bush after eight-day search",
+      "url": "https://www.bbc.co.uk/news/articles/c304e2dlv20o?at_medium=RSS&at_campaign=rss",
+      "summary": "Lily Hooper was reported missing on 12 August after failing to return from a hike in a Sydney national park.",
+      "published_at": "2026-08-20T03:16:22Z",
+      "country_code": "AU",
+      "country_name": "Australia"
+    },
     {
       "source": "BBC World",
       "title": "Australia 'outraged' after Israeli decision not to prosecute over killing of aid worker in Gaza",
       "url": "https://www.bbc.co.uk/news/articles/cp87g29r718o?at_medium=RSS&at_campaign=rss",
-      "summary": "Australia's foreign minister summoned the Israeli ambassador over 'insulting' Zomi Frankcom decision.",
+      "summary": "Australia's foreign minister summoned the Israeli ambassador over \"insulting\" Zomi Frankcom decision.",
       "published_at": "2026-08-20T03:12:07Z",
       "country_code": "AU",
       "country_name": "Australia"
@@ -18,15 +36,6 @@
       "published_at": "2026-08-20T03:10:48Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "Trump threatens 'tremendous economic consequences' on any country helping Iran",
-      "url": "https://www.bbc.co.uk/news/articles/c2k7e83ynj4o?at_medium=RSS&at_campaign=rss",
-      "summary": "It comes after a 60-day ceasefire expired on Monday, with no sign of a diplomatic or military off-ramp to the conflict.",
-      "published_at": "2026-08-20T02:16:49Z",
-      "country_code": "IR",
-      "country_name": "Iran"
     },
     {
       "source": "BBC US & Canada",
@@ -315,15 +324,6 @@
       "published_at": "2026-08-18T16:24:08Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC Asia",
-      "title": "Pakistan top court orders ex-PM Imran Khan be moved to hospital from jail",
-      "url": "https://www.bbc.co.uk/news/articles/cy4kzzlydrro?at_medium=RSS&at_campaign=rss",
-      "summary": "Imran Khan has been imprisoned since 2023 on corruption charges which he says were politically motivated.",
-      "published_at": "2026-08-18T16:00:30Z",
-      "country_code": "PK",
-      "country_name": "Pakistan"
     },
     {
       "source": "BBC Latin America",
@@ -915,6 +915,11 @@
       "news_count": 5
     },
     {
+      "country_code": "AU",
+      "country_name": "Australia",
+      "news_count": 4
+    },
+    {
       "country_code": "GB",
       "country_name": "United Kingdom",
       "news_count": 4
@@ -923,11 +928,6 @@
       "country_code": "ZA",
       "country_name": "South Africa",
       "news_count": 4
-    },
-    {
-      "country_code": "AU",
-      "country_name": "Australia",
-      "news_count": 3
     },
     {
       "country_code": "BR",
@@ -985,11 +985,6 @@
       "news_count": 2
     },
     {
-      "country_code": "PK",
-      "country_name": "Pakistan",
-      "news_count": 2
-    },
-    {
       "country_code": "SD",
       "country_name": "Sudan",
       "news_count": 2
@@ -1037,6 +1032,11 @@
     {
       "country_code": "PH",
       "country_name": "Philippines",
+      "news_count": 1
+    },
+    {
+      "country_code": "PK",
+      "country_name": "Pakistan",
       "news_count": 1
     },
     {
