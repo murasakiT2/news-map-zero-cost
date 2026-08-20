@@ -1,6 +1,33 @@
 {
-  "generated_at": "2026-08-20T20:16:21Z",
+  "generated_at": "2026-08-20T20:52:35Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Jailed Pakistan ex-PM Imran Khan taken to hospital for treatment",
+      "url": "https://www.bbc.co.uk/news/articles/ckgdr9vr50po?at_medium=RSS&at_campaign=rss",
+      "summary": "Khan was taken from Adiala jail and sent to Shifa International Hospital under heavy security, local media report.",
+      "published_at": "2026-08-20T20:40:17Z",
+      "country_code": "PK",
+      "country_name": "Pakistan"
+    },
+    {
+      "source": "BBC World",
+      "title": "Dozens dead after boat capsizes in north-western Nigeria",
+      "url": "https://www.bbc.co.uk/news/articles/cj035jg256no?at_medium=RSS&at_campaign=rss",
+      "summary": "The incident took place in the country's northwest ​Sokoto state, with many of the victims feared to be children.",
+      "published_at": "2026-08-20T20:27:36Z",
+      "country_code": "NG",
+      "country_name": "Nigeria"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "Carney asks Canada's provinces to end US alcohol ban as trade deal nears",
+      "url": "https://www.bbc.co.uk/news/articles/c3ekl74jnk5o?at_medium=RSS&at_campaign=rss",
+      "summary": "An agreement preventing a new wave of US tariffs is close and could include an end to Canada's boycott of US wine and spirits.",
+      "published_at": "2026-08-20T20:15:45Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "US says sanctions will 'squash' Iran's economy and 'collapse' its regime",
@@ -16,15 +43,6 @@
       "url": "https://www.bbc.co.uk/news/articles/cwy45lxry14o?at_medium=RSS&at_campaign=rss",
       "summary": "Immigration officials allege the boat operator illegally entered the US from El Salvador and lied about his citizenship.",
       "published_at": "2026-08-20T19:07:55Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "Carney asks Canada's provinces to end US alcohol ban as trade deal nears",
-      "url": "https://www.bbc.co.uk/news/articles/c3ekl74jnk5o?at_medium=RSS&at_campaign=rss",
-      "summary": "An agreement preventing a new wave of US tariffs is close and could include an end to Canada's boycott of US wine and spirits.",
-      "published_at": "2026-08-20T19:04:26Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -216,15 +234,6 @@
       "published_at": "2026-08-19T17:39:49Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC Africa",
-      "title": "'Missing' Baptiste jailed in Morocco for sexual assault",
-      "url": "https://www.bbc.co.uk/sport/athletics/articles/c204wq61e19o?at_medium=RSS&at_campaign=rss",
-      "summary": "English athletics coach Leon Baptiste was given a 10-month prison sentence in Morocco for sexually assaulting a minor.",
-      "published_at": "2026-08-19T15:47:20Z",
-      "country_code": "MA",
-      "country_name": "Morocco"
     },
     {
       "source": "BBC World",
@@ -861,6 +870,11 @@
       "news_count": 5
     },
     {
+      "country_code": "NG",
+      "country_name": "Nigeria",
+      "news_count": 4
+    },
+    {
       "country_code": "ZA",
       "country_name": "South Africa",
       "news_count": 4
@@ -883,11 +897,6 @@
     {
       "country_code": "IR",
       "country_name": "Iran",
-      "news_count": 3
-    },
-    {
-      "country_code": "NG",
-      "country_name": "Nigeria",
       "news_count": 3
     },
     {
@@ -971,11 +980,6 @@
       "news_count": 1
     },
     {
-      "country_code": "MA",
-      "country_name": "Morocco",
-      "news_count": 1
-    },
-    {
       "country_code": "NZ",
       "country_name": "New Zealand",
       "news_count": 1
@@ -983,6 +987,11 @@
     {
       "country_code": "PH",
       "country_name": "Philippines",
+      "news_count": 1
+    },
+    {
+      "country_code": "PK",
+      "country_name": "Pakistan",
       "news_count": 1
     },
     {
