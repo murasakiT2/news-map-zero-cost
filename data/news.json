@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-08-20T23:15:22Z",
+  "generated_at": "2026-08-20T23:46:01Z",
   "articles": [
+    {
+      "source": "BBC Africa",
+      "title": "Why Nigeria's one-time political giant may face extinction",
+      "url": "https://www.bbc.co.uk/news/articles/cj364klz857o?at_medium=RSS&at_campaign=rss",
+      "summary": "Once a giant of African politics, the PDP is in danger of being wiped out after January's elections.",
+      "published_at": "2026-08-20T23:21:22Z",
+      "country_code": "NG",
+      "country_name": "Nigeria"
+    },
     {
       "source": "BBC World",
       "title": "Jailed Pakistan ex-PM Imran Khan taken to hospital for treatment",
@@ -758,15 +767,6 @@
       "country_name": "Israel"
     },
     {
-      "source": "BBC Africa",
-      "title": "The athlete from Cameroon who has never held her Olympic medal",
-      "url": "https://www.bbc.co.uk/sport/weightlifting/articles/cn8nxg5rvvko?at_medium=RSS&at_campaign=rss",
-      "summary": "The story of Cameroon Olympic medallist Madias Ngake's remarkable journey from sleeping rough and seeking asylum to winning silver for Engla…",
-      "published_at": "2026-07-29T19:38:24Z",
-      "country_code": "GB",
-      "country_name": "United Kingdom"
-    },
-    {
       "source": "BBC Middle East",
       "title": "Saudi Arabia's dilemma as it tries to stay out of US-Iran war",
       "url": "https://www.bbc.co.uk/news/articles/clyx83l8jv8o?at_medium=RSS&at_campaign=rss",
@@ -851,19 +851,19 @@
       "news_count": 9
     },
     {
-      "country_code": "GB",
-      "country_name": "United Kingdom",
-      "news_count": 6
-    },
-    {
       "country_code": "CO",
       "country_name": "Colombia",
       "news_count": 5
     },
     {
+      "country_code": "GB",
+      "country_name": "United Kingdom",
+      "news_count": 5
+    },
+    {
       "country_code": "NG",
       "country_name": "Nigeria",
-      "news_count": 4
+      "news_count": 5
     },
     {
       "country_code": "ZA",
