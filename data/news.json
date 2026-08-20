@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-08-20T13:24:10Z",
+  "generated_at": "2026-08-20T14:05:38Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "At least 15 killed in Kyiv as Ukraine grapples with air defence shortages",
+      "url": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
+      "summary": "Blocks of flats and warehouses were targeted in the \"massive attack\" on Thursday, Ukrainian officials say.",
+      "published_at": "2026-08-20T13:56:25Z",
+      "country_code": "UA",
+      "country_name": "Ukraine"
+    },
     {
       "source": "BBC World",
       "title": "Assad officer extradited to Syria on war crimes charges for first time",
@@ -27,15 +36,6 @@
       "published_at": "2026-08-20T11:10:25Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "At least 15 killed in Kyiv as Ukraine grapples with air defence shortages",
-      "url": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
-      "summary": "Blocks of flats and warehouses were targeted in the \"massive attack\" on Thursday, Ukrainian officials say.",
-      "published_at": "2026-08-20T11:06:54Z",
-      "country_code": "UA",
-      "country_name": "Ukraine"
     },
     {
       "source": "BBC World",
@@ -317,15 +317,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Europe",
-      "title": "Earthquake rocks Spain's historic Granada, injuring three",
-      "url": "https://www.bbc.co.uk/news/articles/cdx755dyy1yo?at_medium=RSS&at_campaign=rss",
-      "summary": "A number of buildings and cars are damaged in the historic city, and the world famous Alhambra palace has temporarily closed.",
-      "published_at": "2026-08-18T17:15:39Z",
-      "country_code": "ES",
-      "country_name": "Spain"
-    },
-    {
       "source": "BBC Latin America",
       "title": "Brazil's President Lula hails oil discovery near Amazon river",
       "url": "https://www.bbc.co.uk/news/articles/c4gd7xd8e8lo?at_medium=RSS&at_campaign=rss",
@@ -369,15 +360,6 @@
       "published_at": "2026-08-18T03:43:53Z",
       "country_code": "PH",
       "country_name": "Philippines"
-    },
-    {
-      "source": "BBC Europe",
-      "title": "Russia's prominent anti-war politician jailed for 11 years",
-      "url": "https://www.bbc.co.uk/news/articles/cj4kjnle2neo?at_medium=RSS&at_campaign=rss",
-      "summary": "Lev Schlosberg is found guilty of \"discrediting\" Russia's army - a verdict he condemns as punishment for his political position.",
-      "published_at": "2026-08-17T16:17:34Z",
-      "country_code": "RU",
-      "country_name": "Russia"
     },
     {
       "source": "BBC Middle East",
@@ -641,15 +623,6 @@
       "country_name": "Mexico"
     },
     {
-      "source": "BBC Europe",
-      "title": "In Odesa, no-one is safe from Russia's new Black Sea strikes",
-      "url": "https://www.bbc.co.uk/news/articles/cy8ev4y172yo?at_medium=RSS&at_campaign=rss",
-      "summary": "Blackened ships and smashed docks mark Russia's recent surge of attacks on Ukraine's coastline.",
-      "published_at": "2026-08-06T05:00:54Z",
-      "country_code": "RU",
-      "country_name": "Russia"
-    },
-    {
       "source": "BBC Africa",
       "title": "Mysterious elephant deaths in Kenya raise questions around pesticides",
       "url": "https://www.bbc.co.uk/news/articles/cx27p32jzj2o?at_medium=RSS&at_campaign=rss",
@@ -684,15 +657,6 @@
       "published_at": "2026-08-03T23:13:03Z",
       "country_code": "PS",
       "country_name": "Palestine"
-    },
-    {
-      "source": "BBC Europe",
-      "title": "How Spain's migrant crisis created a political storm - whipped up by social media",
-      "url": "https://www.bbc.co.uk/news/articles/c62vl925dqdo?at_medium=RSS&at_campaign=rss",
-      "summary": "The Ceuta crossings have shaken Europe politically, exposing divisions over the sensitive issue of migration, the BBC's Sarah Rainsford writ…",
-      "published_at": "2026-08-02T10:32:28Z",
-      "country_code": "ES",
-      "country_name": "Spain"
     },
     {
       "source": "BBC Middle East",
@@ -897,11 +861,6 @@
       "news_count": 5
     },
     {
-      "country_code": "RU",
-      "country_name": "Russia",
-      "news_count": 4
-    },
-    {
       "country_code": "UA",
       "country_name": "Ukraine",
       "news_count": 4
@@ -947,11 +906,6 @@
       "news_count": 2
     },
     {
-      "country_code": "ES",
-      "country_name": "Spain",
-      "news_count": 2
-    },
-    {
       "country_code": "KE",
       "country_name": "Kenya",
       "news_count": 2
@@ -959,6 +913,11 @@
     {
       "country_code": "MX",
       "country_name": "Mexico",
+      "news_count": 2
+    },
+    {
+      "country_code": "RU",
+      "country_name": "Russia",
       "news_count": 2
     },
     {
