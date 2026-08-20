@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T09:56:21Z",
+  "generated_at": "2026-08-20T10:21:11Z",
   "articles": [
     {
       "source": "BBC World",
@@ -137,16 +137,7 @@
       "country_name": "Ukraine"
     },
     {
-      "source": "BBC Africa",
-      "title": "Two accused of drug trafficking after UK-Nigeria investigation",
-      "url": "https://www.bbc.co.uk/news/articles/c77gpz8nd11o?at_medium=RSS&at_campaign=rss",
-      "summary": "The Metropolitan Police say the man and woman were arrested following the seizure of more than 180kg (397lb) of cocaine this month.",
-      "published_at": "2026-08-19T19:59:06Z",
-      "country_code": "GB",
-      "country_name": "United Kingdom"
-    },
-    {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "81-year-old confesses to German cold case murder of US tourist in 1994",
       "url": "https://www.bbc.co.uk/news/articles/cq89n5j9npdo?at_medium=RSS&at_campaign=rss",
       "summary": "Amy Lopez from Texas was last seen alive in September 1994 while on a visit to a fortress in Koblenz.",
@@ -896,13 +887,13 @@
       "news_count": 9
     },
     {
-      "country_code": "GB",
-      "country_name": "United Kingdom",
-      "news_count": 6
-    },
-    {
       "country_code": "CO",
       "country_name": "Colombia",
+      "news_count": 5
+    },
+    {
+      "country_code": "GB",
+      "country_name": "United Kingdom",
       "news_count": 5
     },
     {
