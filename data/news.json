@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-08-20T04:04:00Z",
+  "generated_at": "2026-08-20T05:00:42Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Missing teen hiker found dead in Australian bush after eight-day search",
+      "url": "https://www.bbc.co.uk/news/articles/c304e2dlv20o?at_medium=RSS&at_campaign=rss",
+      "summary": "Lily Hooper was reported missing on 12 August after failing to return from a hike in a Sydney national park.",
+      "published_at": "2026-08-20T04:49:52Z",
+      "country_code": "AU",
+      "country_name": "Australia"
+    },
+    {
+      "source": "BBC World",
+      "title": "Russia launches missile strikes on Kyiv and surrounding region, killing at least eight",
+      "url": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
+      "summary": "Apartment blocks and warehouses were targeted in the \"massive attack\" on Thursday, according to the State Emergency Service of Ukraine.",
+      "published_at": "2026-08-20T04:46:32Z",
+      "country_code": "RU",
+      "country_name": "Russia"
+    },
+    {
+      "source": "BBC Asia",
+      "title": "Founder of China's Evergrande sentenced to life in prison",
+      "url": "https://www.bbc.co.uk/news/articles/cd0x9mjjmgjo?at_medium=RSS&at_campaign=rss",
+      "summary": "Hui's sentencing marks a pivotal moment in the fallout from Evergrande's collapse, which shook China's property sector.",
+      "published_at": "2026-08-20T04:42:13Z",
+      "country_code": "CN",
+      "country_name": "China"
+    },
+    {
+      "source": "BBC World",
+      "title": "Israel confirms soldiers fired at car in which Hind Rajab was killed and opens criminal investigation",
+      "url": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss",
+      "summary": "The five-year-old Palestinian girl initially survived the attack and pleaded for help but her body was recovered later with those of six of …",
+      "published_at": "2026-08-20T04:17:53Z",
+      "country_code": "IL",
+      "country_name": "Israel"
+    },
     {
       "source": "BBC World",
       "title": "Trump threatens 'tremendous economic consequences' on any country helping Iran",
@@ -9,15 +45,6 @@
       "published_at": "2026-08-20T03:22:57Z",
       "country_code": "IR",
       "country_name": "Iran"
-    },
-    {
-      "source": "BBC World",
-      "title": "Missing teen hiker found dead in Australian bush after eight-day search",
-      "url": "https://www.bbc.co.uk/news/articles/c304e2dlv20o?at_medium=RSS&at_campaign=rss",
-      "summary": "Lily Hooper was reported missing on 12 August after failing to return from a hike in a Sydney national park.",
-      "published_at": "2026-08-20T03:16:22Z",
-      "country_code": "AU",
-      "country_name": "Australia"
     },
     {
       "source": "BBC World",
@@ -144,15 +171,6 @@
       "published_at": "2026-08-19T15:38:38Z",
       "country_code": "UA",
       "country_name": "Ukraine"
-    },
-    {
-      "source": "BBC World",
-      "title": "Israel confirms soldiers fired at car in which Hind Rajab was killed and opens criminal investigation",
-      "url": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss",
-      "summary": "The five-year-old Palestinian girl initially survived the attack and pleaded for help but her body was recovered later with those of six of …",
-      "published_at": "2026-08-19T15:33:32Z",
-      "country_code": "IL",
-      "country_name": "Israel"
     },
     {
       "source": "BBC World",
@@ -925,6 +943,11 @@
       "news_count": 4
     },
     {
+      "country_code": "RU",
+      "country_name": "Russia",
+      "news_count": 4
+    },
+    {
       "country_code": "ZA",
       "country_name": "South Africa",
       "news_count": 4
@@ -932,6 +955,11 @@
     {
       "country_code": "BR",
       "country_name": "Brazil",
+      "news_count": 3
+    },
+    {
+      "country_code": "CN",
+      "country_name": "China",
       "news_count": 3
     },
     {
@@ -945,11 +973,6 @@
       "news_count": 3
     },
     {
-      "country_code": "RU",
-      "country_name": "Russia",
-      "news_count": 3
-    },
-    {
       "country_code": "UA",
       "country_name": "Ukraine",
       "news_count": 3
@@ -957,11 +980,6 @@
     {
       "country_code": "AE",
       "country_name": "United Arab Emirates",
-      "news_count": 2
-    },
-    {
-      "country_code": "CN",
-      "country_name": "China",
       "news_count": 2
     },
     {
