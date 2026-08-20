@@ -1,32 +1,41 @@
 {
-  "generated_at": "2026-08-20T05:00:42Z",
+  "generated_at": "2026-08-20T05:52:16Z",
   "articles": [
-    {
-      "source": "BBC World",
-      "title": "Missing teen hiker found dead in Australian bush after eight-day search",
-      "url": "https://www.bbc.co.uk/news/articles/c304e2dlv20o?at_medium=RSS&at_campaign=rss",
-      "summary": "Lily Hooper was reported missing on 12 August after failing to return from a hike in a Sydney national park.",
-      "published_at": "2026-08-20T04:49:52Z",
-      "country_code": "AU",
-      "country_name": "Australia"
-    },
     {
       "source": "BBC World",
       "title": "Russia launches missile strikes on Kyiv and surrounding region, killing at least eight",
       "url": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
       "summary": "Apartment blocks and warehouses were targeted in the \"massive attack\" on Thursday, according to the State Emergency Service of Ukraine.",
-      "published_at": "2026-08-20T04:46:32Z",
+      "published_at": "2026-08-20T05:25:23Z",
       "country_code": "RU",
       "country_name": "Russia"
     },
     {
-      "source": "BBC Asia",
-      "title": "Founder of China's Evergrande sentenced to life in prison",
+      "source": "BBC World",
+      "title": "Australia 'outraged' after Israeli decision not to prosecute over killing of aid worker in Gaza",
+      "url": "https://www.bbc.co.uk/news/articles/cp87g29r718o?at_medium=RSS&at_campaign=rss",
+      "summary": "Australia's foreign minister summoned the Israeli ambassador over \"insulting\" Zomi Frankcom decision.",
+      "published_at": "2026-08-20T05:10:09Z",
+      "country_code": "AU",
+      "country_name": "Australia"
+    },
+    {
+      "source": "BBC World",
+      "title": "Founder of collapsed Chinese property giant Evergrande sentenced to life in prison",
       "url": "https://www.bbc.co.uk/news/articles/cd0x9mjjmgjo?at_medium=RSS&at_campaign=rss",
-      "summary": "Hui's sentencing marks a pivotal moment in the fallout from Evergrande's collapse, which shook China's property sector.",
-      "published_at": "2026-08-20T04:42:13Z",
+      "summary": "Hui's sentencing marks a key moment in the fallout from Evergrande's collapse, which shook China's property sector.",
+      "published_at": "2026-08-20T05:07:00Z",
       "country_code": "CN",
       "country_name": "China"
+    },
+    {
+      "source": "BBC World",
+      "title": "Captured Ukrainian-born soldiers tell BBC why they fought for Russia",
+      "url": "https://www.bbc.co.uk/news/articles/cn9nr195drzo?at_medium=RSS&at_campaign=rss",
+      "summary": "Men born in Ukraine who fought for Russia are tried for treason, but at a prisoner of war camp in western Ukraine, many believe they were de…",
+      "published_at": "2026-08-20T05:01:24Z",
+      "country_code": "RU",
+      "country_name": "Russia"
     },
     {
       "source": "BBC World",
@@ -45,15 +54,6 @@
       "published_at": "2026-08-20T03:22:57Z",
       "country_code": "IR",
       "country_name": "Iran"
-    },
-    {
-      "source": "BBC World",
-      "title": "Australia 'outraged' after Israeli decision not to prosecute over killing of aid worker in Gaza",
-      "url": "https://www.bbc.co.uk/news/articles/cp87g29r718o?at_medium=RSS&at_campaign=rss",
-      "summary": "Australia's foreign minister summoned the Israeli ambassador over \"insulting\" Zomi Frankcom decision.",
-      "published_at": "2026-08-20T03:12:07Z",
-      "country_code": "AU",
-      "country_name": "Australia"
     },
     {
       "source": "BBC World",
@@ -209,7 +209,7 @@
       "country_name": "Brazil"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "Spared execution eight times, oldest inmate in US dies at 101",
       "url": "https://www.bbc.co.uk/news/articles/c98vr7ql2vdo?at_medium=RSS&at_campaign=rss",
       "summary": "Francis Smith was one of a growing number of elderly people who are incarcerated.",
@@ -651,30 +651,12 @@
     },
     {
       "source": "BBC Middle East",
-      "title": "Israel accused of weaponising archaeology at ancient West Bank sites",
-      "url": "https://www.bbc.co.uk/news/articles/c20d8qre98do?at_medium=RSS&at_campaign=rss",
-      "summary": "Israel is planning large-scale land expropriations in historic, Palestinian areas of the West Bank.",
-      "published_at": "2026-08-08T23:43:44Z",
-      "country_code": "IL",
-      "country_name": "Israel"
-    },
-    {
-      "source": "BBC Middle East",
       "title": "The phone book that led us to Assad's spy chief in hiding",
       "url": "https://www.bbc.co.uk/news/articles/c4gyrzn8p94o?at_medium=RSS&at_campaign=rss",
       "summary": "How we tracked down \"The Spider\" who was once one of the most-feared men in Syria.",
       "published_at": "2026-08-07T23:23:12Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC Middle East",
-      "title": "Saudi Arabia, Turkey and Pakistan sign defence pact",
-      "url": "https://www.bbc.co.uk/news/articles/c30418m4mj4o?at_medium=RSS&at_campaign=rss",
-      "summary": "Pakistan says an attack on any of the three will amount to an attack against all, amid conflict in the Middle East.",
-      "published_at": "2026-08-07T17:42:54Z",
-      "country_code": "PK",
-      "country_name": "Pakistan"
     },
     {
       "source": "BBC Europe",
@@ -695,33 +677,6 @@
       "country_name": "Sudan"
     },
     {
-      "source": "BBC Middle East",
-      "title": "Israel charges settler over killing of Palestinian involved in Oscar-winning West Bank film",
-      "url": "https://www.bbc.co.uk/news/articles/cn4n1e8159yo?at_medium=RSS&at_campaign=rss",
-      "summary": "Yinon Levy is charged with reckless manslaughter over the July 2025 shooting of Odeh Hathaleen.",
-      "published_at": "2026-08-06T18:37:12Z",
-      "country_code": "IL",
-      "country_name": "Israel"
-    },
-    {
-      "source": "BBC Middle East",
-      "title": "Israel strikes south Lebanon after two soldiers killed by explosion",
-      "url": "https://www.bbc.co.uk/news/articles/c998711dyjvo?at_medium=RSS&at_campaign=rss",
-      "summary": "Lebanese authorities says one person was killed in the strikes, which came after the first Israeli military fatalities in Lebanon in more th…",
-      "published_at": "2026-08-06T14:51:47Z",
-      "country_code": "IL",
-      "country_name": "Israel"
-    },
-    {
-      "source": "BBC Middle East",
-      "title": "Rights groups say Israeli attack that killed Lebanese journalist an apparent war crime",
-      "url": "https://www.bbc.co.uk/news/articles/cx2md67y3nlo?at_medium=RSS&at_campaign=rss",
-      "summary": "Amal Khalil was killed and her colleague Zeinab Faraj wounded in an Israeli attack in April; Israel denied targeting the journalists.",
-      "published_at": "2026-08-06T14:20:15Z",
-      "country_code": "IL",
-      "country_name": "Israel"
-    },
-    {
       "source": "BBC Latin America",
       "title": "Livestreamer's murder raises questions over relations between Mexico's creators and cartels",
       "url": "https://www.bbc.co.uk/news/articles/ckg9dwz8p30o?at_medium=RSS&at_campaign=rss",
@@ -731,15 +686,6 @@
       "country_name": "Mexico"
     },
     {
-      "source": "BBC Middle East",
-      "title": "Iranian footballers who defied Tehran become Australian citizens",
-      "url": "https://www.bbc.co.uk/news/articles/cn5nlgxv6vdo?at_medium=RSS&at_campaign=rss",
-      "summary": "There were among seven to be granted humanitarian visas while playing in Australia - but the other five changed their minds and returned to …",
-      "published_at": "2026-08-06T09:04:17Z",
-      "country_code": "AU",
-      "country_name": "Australia"
-    },
-    {
       "source": "BBC Europe",
       "title": "In Odesa, no-one is safe from Russia's new Black Sea strikes",
       "url": "https://www.bbc.co.uk/news/articles/cy8ev4y172yo?at_medium=RSS&at_campaign=rss",
@@ -747,24 +693,6 @@
       "published_at": "2026-08-06T05:00:54Z",
       "country_code": "RU",
       "country_name": "Russia"
-    },
-    {
-      "source": "BBC Middle East",
-      "title": "Iran says deal with Oman on Strait of Hormuz is in final stages",
-      "url": "https://www.bbc.co.uk/news/articles/ckg9d3eyeggo?at_medium=RSS&at_campaign=rss",
-      "summary": "Neither the US or Oman have commented on the proposed agreement on the vital waterway.",
-      "published_at": "2026-08-06T01:19:59Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC Middle East",
-      "title": "UN rights chief alarmed by rise in Iran executions since March",
-      "url": "https://www.bbc.co.uk/news/articles/c75gvzxrz49o?at_medium=RSS&at_campaign=rss",
-      "summary": "Volker Türk says 56 people have been executed on national security-related charges, including 27 in cases linked to January's protests.",
-      "published_at": "2026-08-05T14:04:09Z",
-      "country_code": "IR",
-      "country_name": "Iran"
     },
     {
       "source": "BBC Africa",
@@ -785,33 +713,6 @@
       "country_name": "Colombia"
     },
     {
-      "source": "BBC Middle East",
-      "title": "Projectile sinks Indian-flagged ship off Yemen coast",
-      "url": "https://www.bbc.co.uk/news/articles/cly84we1y37o?at_medium=RSS&at_campaign=rss",
-      "summary": "All 14 people on board the Indian-flagged vessel were safely rescued, India's ministry of external affairs says.",
-      "published_at": "2026-08-04T21:24:50Z",
-      "country_code": "IN",
-      "country_name": "India"
-    },
-    {
-      "source": "BBC Middle East",
-      "title": "Arrests in Egypt after people allegedly impersonate judges",
-      "url": "https://www.bbc.co.uk/news/articles/cn0n9wpvlwpo?at_medium=RSS&at_campaign=rss",
-      "summary": "Egyptian authorities say the alleged scam involved fabricated scenes in court as part of a plot to defraud people.",
-      "published_at": "2026-08-04T19:25:00Z",
-      "country_code": "EG",
-      "country_name": "Egypt"
-    },
-    {
-      "source": "BBC Middle East",
-      "title": "Mass funeral in Gaza for 112 Palestinians killed in 2023 Israeli strike",
-      "url": "https://www.bbc.co.uk/news/articles/cn0n99npjejo?at_medium=RSS&at_campaign=rss",
-      "summary": "The bodies - belonging to members of two extended families - have only recently been recovered from under rubble in Gaza City.",
-      "published_at": "2026-08-04T15:07:52Z",
-      "country_code": "PS",
-      "country_name": "Palestine"
-    },
-    {
       "source": "BBC Africa",
       "title": "I left my wife and twins behind - why this Nigerian man fled South Africa",
       "url": "https://www.bbc.co.uk/news/articles/c4gx2y454w5o?at_medium=RSS&at_campaign=rss",
@@ -830,24 +731,6 @@
       "country_name": "Palestine"
     },
     {
-      "source": "BBC Middle East",
-      "title": "Threat to oil tankers in Middle East worst since start of Iran war, analysts say",
-      "url": "https://www.bbc.co.uk/news/articles/cjrv0dy2e90o?at_medium=RSS&at_campaign=rss",
-      "summary": "Fresh attacks on alternative shipping routes have left tankers facing an increasingly complex situation, analysts say.",
-      "published_at": "2026-08-03T15:57:27Z",
-      "country_code": "IR",
-      "country_name": "Iran"
-    },
-    {
-      "source": "BBC Middle East",
-      "title": "Trump cancels Iran strikes subject to deal being made 'rapidly'",
-      "url": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss",
-      "summary": "The US president claims Iran and other Middle Eastern countries asked Washington to hold off on any attack as the \"perimeters\" of a deal had…",
-      "published_at": "2026-08-02T11:12:00Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC Europe",
       "title": "How Spain's migrant crisis created a political storm - whipped up by social media",
       "url": "https://www.bbc.co.uk/news/articles/c62vl925dqdo?at_medium=RSS&at_campaign=rss",
@@ -855,6 +738,15 @@
       "published_at": "2026-08-02T10:32:28Z",
       "country_code": "ES",
       "country_name": "Spain"
+    },
+    {
+      "source": "BBC Middle East",
+      "title": "Israeli West Bank settler tells BBC attacks on Palestinians are justified as revenge",
+      "url": "https://www.bbc.co.uk/news/articles/c4g4djgdyk2o?at_medium=RSS&at_campaign=rss",
+      "summary": "Settler violence against Palestinians is on the rise in the West Bank, as settlements and outposts expand.",
+      "published_at": "2026-08-01T05:01:56Z",
+      "country_code": "PS",
+      "country_name": "Palestine"
     },
     {
       "source": "BBC Middle East",
@@ -875,6 +767,24 @@
       "country_name": "Saudi Arabia"
     },
     {
+      "source": "BBC Middle East",
+      "title": "What's in the Gaza peace deal roadmap?",
+      "url": "https://www.bbc.co.uk/news/articles/c20e94k2ex5o?at_medium=RSS&at_campaign=rss",
+      "summary": "Hamas says it has accepted a disarmament plan for Gaza which will see it lay down its arms and Israeli troops withdraw from the territory.",
+      "published_at": "2026-07-31T16:00:56Z",
+      "country_code": "PS",
+      "country_name": "Palestine"
+    },
+    {
+      "source": "BBC Middle East",
+      "title": "Bowen: Plan for Hamas to disarm faces big obstacles, yet it offers rare hope for Gaza",
+      "url": "https://www.bbc.co.uk/news/articles/c2dkje4p4klo?at_medium=RSS&at_campaign=rss",
+      "summary": "The realities of politics, war, zero trust, the deaths of thousands and the destruction of Gaza will make any agreement very complicated.",
+      "published_at": "2026-07-31T15:18:31Z",
+      "country_code": "PS",
+      "country_name": "Palestine"
+    },
+    {
       "source": "BBC Africa",
       "title": "Tyla's Nigeria date removed from world tour as South African stars face backlash",
       "url": "https://www.bbc.co.uk/news/articles/c7vglz56gg5o?at_medium=RSS&at_campaign=rss",
@@ -893,6 +803,33 @@
       "country_name": "Mexico"
     },
     {
+      "source": "BBC Middle East",
+      "title": "'End this nightmare': Wife of ailing Briton jailed in Saudi Arabia appeals for release",
+      "url": "https://www.bbc.co.uk/news/articles/ckg4jxxn4ggo?at_medium=RSS&at_campaign=rss",
+      "summary": "Ahmed al-Doush has been in jail in Saudi Arabia since 2024, apparently over a handful of social media posts dating back several years.",
+      "published_at": "2026-07-30T06:51:46Z",
+      "country_code": "SA",
+      "country_name": "Saudi Arabia"
+    },
+    {
+      "source": "BBC Middle East",
+      "title": "Israel building new land barriers in Gaza and displacing families",
+      "url": "https://www.bbc.co.uk/news/articles/cpvwjmme3p0o?at_medium=RSS&at_campaign=rss",
+      "summary": "Experts have told the BBC that the earthworks suggest Israel is planning for a long-term internal border.",
+      "published_at": "2026-07-30T05:05:24Z",
+      "country_code": "IL",
+      "country_name": "Israel"
+    },
+    {
+      "source": "BBC Middle East",
+      "title": "Saudi Arabia's dilemma as it tries to stay out of US-Iran war",
+      "url": "https://www.bbc.co.uk/news/articles/clyx83l8jv8o?at_medium=RSS&at_campaign=rss",
+      "summary": "The kingdom faces a choice of whether to keep hitting back as a deterrent or to try to de-escalate the situation.",
+      "published_at": "2026-07-29T18:41:31Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
       "source": "BBC Africa",
       "title": "'No safe options' for thousands sheltering in key Sudan city as RSF fighters advance",
       "url": "https://www.bbc.co.uk/news/articles/c4gx399l0wyo?at_medium=RSS&at_campaign=rss",
@@ -902,6 +839,15 @@
       "country_name": "Sudan"
     },
     {
+      "source": "BBC Middle East",
+      "title": "'Israeli settlers laid siege to our home': Inside a Palestinian village under weekly attack",
+      "url": "https://www.bbc.co.uk/news/articles/clyxgn37lg5o?at_medium=RSS&at_campaign=rss",
+      "summary": "A home on the edge of al-Mughayyir has become a weekly frontline in the battle for the occupied West Bank.",
+      "published_at": "2026-07-29T05:01:12Z",
+      "country_code": "PS",
+      "country_name": "Palestine"
+    },
+    {
       "source": "BBC Africa",
       "title": "How Mexican drug cartels have outsourced meth labs to Nigeria",
       "url": "https://www.bbc.co.uk/news/articles/crmrnxp4nllo?at_medium=RSS&at_campaign=rss",
@@ -909,23 +855,72 @@
       "published_at": "2026-07-28T23:25:53Z",
       "country_code": "NG",
       "country_name": "Nigeria"
+    },
+    {
+      "source": "BBC Middle East",
+      "title": "As the US pauses the war with Iran, is Trump really running out of weapons?",
+      "url": "https://www.bbc.co.uk/news/articles/c0qvnk2ezp7o?at_medium=RSS&at_campaign=rss",
+      "summary": "The US has fired thousands of hard-to-replace missiles during its war with Iran. We unpack whether its \"arsenal of freedom\" is perilously lo…",
+      "published_at": "2026-07-27T21:06:42Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC Middle East",
+      "title": "Houthi attacks raise fears of wider Middle East conflict and more global economic damage",
+      "url": "https://www.bbc.co.uk/news/articles/cvgve0vxy1yo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Iran-backed group in Yemen has threatened to target Saudi vessels in a vital shipping route.",
+      "published_at": "2026-07-24T01:59:49Z",
+      "country_code": "IR",
+      "country_name": "Iran"
+    },
+    {
+      "source": "BBC Middle East",
+      "title": "Trump's nuclear deal with Saudis jettisons longstanding US demands",
+      "url": "https://www.bbc.co.uk/news/articles/cz05lx0xpero?at_medium=RSS&at_campaign=rss",
+      "summary": "Signing a nuclear pact in the Middle East is a bold move that has drawn criticism in the US and in Israel.",
+      "published_at": "2026-07-23T12:58:40Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC Middle East",
+      "title": "'What was their crime?': BBC visits Iran school where strike killed 120 children",
+      "url": "https://www.bbc.co.uk/news/articles/cewrx0ldlkko?at_medium=RSS&at_campaign=rss",
+      "summary": "Nearly five months on, grief is still raw as a teacher and a mother recall the horror of the attack in Minab.",
+      "published_at": "2026-07-23T04:49:24Z",
+      "country_code": "IR",
+      "country_name": "Iran"
+    },
+    {
+      "source": "BBC Middle East",
+      "title": "Why Iran is risking so much over the Strait of Hormuz",
+      "url": "https://www.bbc.co.uk/news/articles/cwymx3eevpjo?at_medium=RSS&at_campaign=rss",
+      "summary": "None of the choices facing Iran’s leaders offer a clear path to victory, as the conflict with the US continues.",
+      "published_at": "2026-07-21T14:36:47Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC Middle East",
+      "title": "Trump retreat over Hormuz tolls suggests he is struggling to end Iran war",
+      "url": "https://www.bbc.co.uk/news/articles/crele3r8j19o?at_medium=RSS&at_campaign=rss",
+      "summary": "The abrupt about-face from the US president was the latest twist in a conflict that has now lasted more than four months.",
+      "published_at": "2026-07-14T23:17:27Z",
+      "country_code": "US",
+      "country_name": "United States"
     }
   ],
   "regions": [
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 28
-    },
-    {
-      "country_code": "IL",
-      "country_name": "Israel",
-      "news_count": 7
+      "news_count": 31
     },
     {
       "country_code": "PS",
       "country_name": "Palestine",
-      "news_count": 6
+      "news_count": 9
     },
     {
       "country_code": "CO",
@@ -933,9 +928,9 @@
       "news_count": 5
     },
     {
-      "country_code": "AU",
-      "country_name": "Australia",
-      "news_count": 4
+      "country_code": "RU",
+      "country_name": "Russia",
+      "news_count": 5
     },
     {
       "country_code": "GB",
@@ -943,8 +938,8 @@
       "news_count": 4
     },
     {
-      "country_code": "RU",
-      "country_name": "Russia",
+      "country_code": "IL",
+      "country_name": "Israel",
       "news_count": 4
     },
     {
@@ -983,13 +978,13 @@
       "news_count": 2
     },
     {
-      "country_code": "ES",
-      "country_name": "Spain",
+      "country_code": "AU",
+      "country_name": "Australia",
       "news_count": 2
     },
     {
-      "country_code": "IN",
-      "country_name": "India",
+      "country_code": "ES",
+      "country_name": "Spain",
       "news_count": 2
     },
     {
@@ -1000,6 +995,11 @@
     {
       "country_code": "MX",
       "country_name": "Mexico",
+      "news_count": 2
+    },
+    {
+      "country_code": "SA",
+      "country_name": "Saudi Arabia",
       "news_count": 2
     },
     {
@@ -1018,11 +1018,6 @@
       "news_count": 1
     },
     {
-      "country_code": "EG",
-      "country_name": "Egypt",
-      "news_count": 1
-    },
-    {
       "country_code": "FR",
       "country_name": "France",
       "news_count": 1
@@ -1030,6 +1025,11 @@
     {
       "country_code": "ID",
       "country_name": "Indonesia",
+      "news_count": 1
+    },
+    {
+      "country_code": "IN",
+      "country_name": "India",
       "news_count": 1
     },
     {
@@ -1050,16 +1050,6 @@
     {
       "country_code": "PH",
       "country_name": "Philippines",
-      "news_count": 1
-    },
-    {
-      "country_code": "PK",
-      "country_name": "Pakistan",
-      "news_count": 1
-    },
-    {
-      "country_code": "SA",
-      "country_name": "Saudi Arabia",
       "news_count": 1
     },
     {
