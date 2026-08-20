@@ -1,6 +1,33 @@
 {
-  "generated_at": "2026-08-20T18:21:48Z",
+  "generated_at": "2026-08-20T19:07:53Z",
   "articles": [
+    {
+      "source": "BBC US & Canada",
+      "title": "Carney asks Canada's provinces to end US alcohol ban as trade deal nears",
+      "url": "https://www.bbc.co.uk/news/articles/c3ekl74jnk5o?at_medium=RSS&at_campaign=rss",
+      "summary": "An agreement preventing a new wave of US tariffs is close and could include an end to Canada's boycott of US wine and spirits.",
+      "published_at": "2026-08-20T19:04:26Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "UK, France, Germany, Italy and Canada condemn Israel's West Bank settlement project",
+      "url": "https://www.bbc.co.uk/news/articles/c998evlgz8ko?at_medium=RSS&at_campaign=rss",
+      "summary": "European countries and Canada pile on pressure over Israel's plans to expand settlements in a strategically vital part of the occupied West …",
+      "published_at": "2026-08-20T18:55:14Z",
+      "country_code": "GB",
+      "country_name": "United Kingdom"
+    },
+    {
+      "source": "BBC World",
+      "title": "Bessent urges US partners to back plans to 'squash' Iran economy",
+      "url": "https://www.bbc.co.uk/news/articles/c87n90eg0p2o?at_medium=RSS&at_campaign=rss",
+      "summary": "The US Treasury secretary says allies will need to decide whether they \"are with us or against us\".",
+      "published_at": "2026-08-20T18:40:46Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "Russia 'purposefully' hit critical infrastructure in latest strikes, Kyiv mayor says",
@@ -30,15 +57,6 @@
     },
     {
       "source": "BBC US & Canada",
-      "title": "Carney asks for end to US alcohol ban, province leader says, as trade deal nears",
-      "url": "https://www.bbc.co.uk/news/articles/c3ekl74jnk5o?at_medium=RSS&at_campaign=rss",
-      "summary": "An agreement preventing a new wave of US tariffs is close and could include an end to Canada's boycott of US whiskey.",
-      "published_at": "2026-08-20T11:10:25Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC US & Canada",
       "title": "Ecuador intelligence chief and five Americans killed in Kenya helicopter crash",
       "url": "https://www.bbc.co.uk/news/articles/clylkv4z59vo?at_medium=RSS&at_campaign=rss",
       "summary": "Michele Sensi-Contugi and his wife Stephany Hollihan are among the seven people killed in the crash.",
@@ -65,7 +83,7 @@
       "country_name": "United Kingdom"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "Trump vows tougher economic measures on Iran and supporting countries",
       "url": "https://www.bbc.co.uk/news/articles/c2k7e83ynj4o?at_medium=RSS&at_campaign=rss",
       "summary": "It comes after a 60-day ceasefire expired on Monday, with no sign of a diplomatic or military off-ramp to the conflict.",
@@ -837,15 +855,6 @@
       "published_at": "2026-07-21T14:36:47Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC Middle East",
-      "title": "Trump retreat over Hormuz tolls suggests he is struggling to end Iran war",
-      "url": "https://www.bbc.co.uk/news/articles/crele3r8j19o?at_medium=RSS&at_campaign=rss",
-      "summary": "The abrupt about-face from the US president was the latest twist in a conflict that has now lasted more than four months.",
-      "published_at": "2026-07-14T23:17:27Z",
-      "country_code": "US",
-      "country_name": "United States"
     }
   ],
   "regions": [
@@ -862,7 +871,7 @@
     {
       "country_code": "GB",
       "country_name": "United Kingdom",
-      "news_count": 6
+      "news_count": 7
     },
     {
       "country_code": "CO",
