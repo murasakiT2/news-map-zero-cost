@@ -1,12 +1,21 @@
 {
-  "generated_at": "2026-08-19T23:42:58Z",
+  "generated_at": "2026-08-20T00:36:23Z",
   "articles": [
+    {
+      "source": "BBC US & Canada",
+      "title": "Trump threatens 'tremendous economic consequences' on any country helping Iran",
+      "url": "https://www.bbc.co.uk/news/articles/c2k7e83ynj4o?at_medium=RSS&at_campaign=rss",
+      "summary": "It comes after a 60-day ceasefire expired on Monday, with no sign of a diplomatic or military off-ramp to the conflict.",
+      "published_at": "2026-08-20T00:25:38Z",
+      "country_code": "IR",
+      "country_name": "Iran"
+    },
     {
       "source": "BBC World",
       "title": "Canada and US say they are finalising a trade deal, but details remain murky",
       "url": "https://www.bbc.co.uk/news/articles/c3ekl74jnk5o?at_medium=RSS&at_campaign=rss",
       "summary": "Prime Minister Carney hailed \"significant progress\" in trade talks as the two countries seek to hammer out final details ahead of a new week…",
-      "published_at": "2026-08-19T23:32:37Z",
+      "published_at": "2026-08-20T00:18:01Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -935,6 +944,11 @@
       "news_count": 3
     },
     {
+      "country_code": "IR",
+      "country_name": "Iran",
+      "news_count": 3
+    },
+    {
       "country_code": "NG",
       "country_name": "Nigeria",
       "news_count": 3
@@ -967,11 +981,6 @@
     {
       "country_code": "IN",
       "country_name": "India",
-      "news_count": 2
-    },
-    {
-      "country_code": "IR",
-      "country_name": "Iran",
       "news_count": 2
     },
     {
