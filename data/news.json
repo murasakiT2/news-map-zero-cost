@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-08-21T11:16:08Z",
+  "generated_at": "2026-08-21T11:48:32Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Rosenberg: Shortage of petrol but not patriotism as Russians feel growing impact of war",
+      "url": "https://www.bbc.co.uk/news/articles/c4gknzgje7go?at_medium=RSS&at_campaign=rss",
+      "summary": "Drivers are waiting hours in fuel queues, as Moscow prepares to celebrate Russian Flag Day.",
+      "published_at": "2026-08-21T11:31:51Z",
+      "country_code": "RU",
+      "country_name": "Russia"
+    },
     {
       "source": "BBC World",
       "title": "Pakistan ex-PM Imran Khan back in jail after hospital examination",
@@ -894,6 +903,11 @@
       "news_count": 4
     },
     {
+      "country_code": "RU",
+      "country_name": "Russia",
+      "news_count": 4
+    },
+    {
       "country_code": "ZA",
       "country_name": "South Africa",
       "news_count": 4
@@ -906,11 +920,6 @@
     {
       "country_code": "IR",
       "country_name": "Iran",
-      "news_count": 3
-    },
-    {
-      "country_code": "RU",
-      "country_name": "Russia",
       "news_count": 3
     },
     {
