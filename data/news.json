@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-08-21T18:20:47Z",
+  "generated_at": "2026-08-21T19:03:53Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Two injured in stabbing attack at Canada Sikh temple",
+      "url": "https://www.bbc.co.uk/news/articles/ce8l7w0n0jeo?at_medium=RSS&at_campaign=rss",
+      "summary": "One suspect is in custody, but police have not disclosed a possible motive.",
+      "published_at": "2026-08-21T18:27:15Z",
+      "country_code": "CA",
+      "country_name": "Canada"
+    },
     {
       "source": "BBC US & Canada",
       "title": "US borrowing costs rise as attempts to ease rates prove short-lived",
@@ -47,7 +56,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Africa",
       "title": "Corruption charges dropped against South Africa's police intelligence boss",
       "url": "https://www.bbc.co.uk/news/articles/c0rd1pkdky8o?at_medium=RSS&at_campaign=rss",
       "summary": "Officials had faced charges over the appointment of a civilian to a top post within crime intelligence.",
@@ -144,15 +153,6 @@
       "published_at": "2026-08-21T05:00:57Z",
       "country_code": "IL",
       "country_name": "Israel"
-    },
-    {
-      "source": "BBC World",
-      "title": "Japan executes man who killed five in Pachinko parlour fire",
-      "url": "https://www.bbc.co.uk/news/articles/cly8k232mn7o?at_medium=RSS&at_campaign=rss",
-      "summary": "This is the first time since June 2025 that the country has enacted capital punishment.",
-      "published_at": "2026-08-21T02:49:27Z",
-      "country_code": "JP",
-      "country_name": "Japan"
     },
     {
       "source": "BBC Latin America",
@@ -272,15 +272,6 @@
       "country_name": "United Kingdom"
     },
     {
-      "source": "BBC Europe",
-      "title": "Damaged pitch forces PSG to switch season opener",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cx2dwdxqylwo?at_medium=RSS&at_campaign=rss",
-      "summary": "Paris St-Germain's opening Ligue 1 game will now be played in Rennes after hot weather \"severely damaged\" the Parc des Princes pitch.",
-      "published_at": "2026-08-20T07:48:29Z",
-      "country_code": "FR",
-      "country_name": "France"
-    },
-    {
       "source": "BBC Asia",
       "title": "Australia 'outraged' after Israel decides not to open criminal investigation into killing of aid worker in Gaza",
       "url": "https://www.bbc.co.uk/news/articles/cp87g29r718o?at_medium=RSS&at_campaign=rss",
@@ -336,15 +327,6 @@
     },
     {
       "source": "BBC Europe",
-      "title": "Sacked Ukrainian defence minister calls for presidential election",
-      "url": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss",
-      "summary": "Martial law has been in place in Ukraine since February 2022, under which elections are suspended.",
-      "published_at": "2026-08-19T20:34:39Z",
-      "country_code": "UA",
-      "country_name": "Ukraine"
-    },
-    {
-      "source": "BBC Europe",
       "title": "81-year-old confesses to German cold case murder of US tourist in 1994",
       "url": "https://www.bbc.co.uk/news/articles/cq89n5j9npdo?at_medium=RSS&at_campaign=rss",
       "summary": "Amy Lopez from Texas was last seen alive in September 1994 while on a visit to a fortress in Koblenz.",
@@ -353,7 +335,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Middle East",
+      "source": "BBC World",
       "title": "Multiple deadly Israeli strikes in Gaza in under 24 hours",
       "url": "https://www.bbc.co.uk/news/videos/cp3rgxzk5x2o?at_medium=RSS&at_campaign=rss",
       "summary": "BBC Verify looks at footage from two deadly strikes in under 24 hours in Gaza.",
@@ -371,7 +353,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Europe",
+      "source": "BBC World",
       "title": "Why is Ukraine's ex-defence minister calling for wartime elections?",
       "url": "https://www.bbc.co.uk/news/videos/c62eyn5ggnzo?at_medium=RSS&at_campaign=rss",
       "summary": "Mykhailo Fedorov has called for elections, without addressing concerns over how they could be held while at war.",
@@ -450,15 +432,6 @@
       "published_at": "2026-08-18T13:13:54Z",
       "country_code": "BR",
       "country_name": "Brazil"
-    },
-    {
-      "source": "BBC Europe",
-      "title": "UK 'supports Ukraine 100%', Burnham says, after Russia's drone warning",
-      "url": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss",
-      "summary": "Russia accuses the UK of escalating the Ukraine war by supplying British-made drones as the prime minister vows to support Kyiv in its \"hour…",
-      "published_at": "2026-08-18T12:36:11Z",
-      "country_code": "GB",
-      "country_name": "United Kingdom"
     },
     {
       "source": "BBC Europe",
@@ -896,11 +869,6 @@
       "news_count": 8
     },
     {
-      "country_code": "GB",
-      "country_name": "United Kingdom",
-      "news_count": 5
-    },
-    {
       "country_code": "RU",
       "country_name": "Russia",
       "news_count": 5
@@ -913,6 +881,11 @@
     {
       "country_code": "CO",
       "country_name": "Colombia",
+      "news_count": 4
+    },
+    {
+      "country_code": "GB",
+      "country_name": "United Kingdom",
       "news_count": 4
     },
     {
@@ -946,23 +919,8 @@
       "news_count": 3
     },
     {
-      "country_code": "UA",
-      "country_name": "Ukraine",
-      "news_count": 3
-    },
-    {
       "country_code": "AE",
       "country_name": "United Arab Emirates",
-      "news_count": 2
-    },
-    {
-      "country_code": "FR",
-      "country_name": "France",
-      "news_count": 2
-    },
-    {
-      "country_code": "JP",
-      "country_name": "Japan",
       "news_count": 2
     },
     {
@@ -986,8 +944,18 @@
       "news_count": 2
     },
     {
+      "country_code": "UA",
+      "country_name": "Ukraine",
+      "news_count": 2
+    },
+    {
       "country_code": "AU",
       "country_name": "Australia",
+      "news_count": 1
+    },
+    {
+      "country_code": "CA",
+      "country_name": "Canada",
       "news_count": 1
     },
     {
@@ -1006,6 +974,11 @@
       "news_count": 1
     },
     {
+      "country_code": "FR",
+      "country_name": "France",
+      "news_count": 1
+    },
+    {
       "country_code": "ID",
       "country_name": "Indonesia",
       "news_count": 1
@@ -1013,6 +986,11 @@
     {
       "country_code": "IT",
       "country_name": "Italy",
+      "news_count": 1
+    },
+    {
+      "country_code": "JP",
+      "country_name": "Japan",
       "news_count": 1
     },
     {
