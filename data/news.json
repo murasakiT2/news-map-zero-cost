@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-08-21T10:24:08Z",
+  "generated_at": "2026-08-21T10:54:40Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Pakistan ex-PM Imran Khan back in jail after hospital examination",
+      "url": "https://www.bbc.co.uk/news/articles/ckgdr9vr50po?at_medium=RSS&at_campaign=rss",
+      "summary": "It comes as the court had earlier this week ordered that he had to be taken for a hospital examination.",
+      "published_at": "2026-08-21T10:46:09Z",
+      "country_code": "PK",
+      "country_name": "Pakistan"
+    },
     {
       "source": "BBC World",
       "title": "Why the US economy is ringing alarm bells",
@@ -45,15 +54,6 @@
       "published_at": "2026-08-21T05:00:57Z",
       "country_code": "IL",
       "country_name": "Israel"
-    },
-    {
-      "source": "BBC World",
-      "title": "Pakistan ex-PM Imran Khan back in jail after hospital examination",
-      "url": "https://www.bbc.co.uk/news/articles/ckgdr9vr50po?at_medium=RSS&at_campaign=rss",
-      "summary": "It comes as the court had earlier this week ordered that he had to be taken for a hospital examination.",
-      "published_at": "2026-08-21T04:27:13Z",
-      "country_code": "PK",
-      "country_name": "Pakistan"
     },
     {
       "source": "BBC World",
@@ -117,15 +117,6 @@
       "published_at": "2026-08-20T20:41:31Z",
       "country_code": "MX",
       "country_name": "Mexico"
-    },
-    {
-      "source": "BBC Africa",
-      "title": "Dozens dead after boat capsizes in north-western Nigeria",
-      "url": "https://www.bbc.co.uk/news/articles/cj035jg256no?at_medium=RSS&at_campaign=rss",
-      "summary": "The incident took place in the country's northwest ​Sokoto state, with many of the victims feared to be children.",
-      "published_at": "2026-08-20T20:27:36Z",
-      "country_code": "NG",
-      "country_name": "Nigeria"
     },
     {
       "source": "BBC US & Canada",
@@ -883,11 +874,6 @@
       "news_count": 5
     },
     {
-      "country_code": "NG",
-      "country_name": "Nigeria",
-      "news_count": 5
-    },
-    {
       "country_code": "CN",
       "country_name": "China",
       "news_count": 4
@@ -900,6 +886,11 @@
     {
       "country_code": "IL",
       "country_name": "Israel",
+      "news_count": 4
+    },
+    {
+      "country_code": "NG",
+      "country_name": "Nigeria",
       "news_count": 4
     },
     {
