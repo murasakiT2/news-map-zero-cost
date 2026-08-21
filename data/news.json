@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-08-21T14:03:53Z",
+  "generated_at": "2026-08-21T14:59:48Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Corruption charges dropped against South Africa's police intelligence boss",
+      "url": "https://www.bbc.co.uk/news/articles/c0rd1pkdky8o?at_medium=RSS&at_campaign=rss",
+      "summary": "Officials had faced charges over the appointment of a civilian to a top post within crime intelligence.",
+      "published_at": "2026-08-21T14:38:05Z",
+      "country_code": "ZA",
+      "country_name": "South Africa"
+    },
+    {
+      "source": "BBC World",
+      "title": "Priyanka Chopra Jonas on making a film about love and caste inequality",
+      "url": "https://www.bbc.co.uk/news/videos/cn4nk1915vxo?at_medium=RSS&at_campaign=rss",
+      "summary": "Priyanka Chopra Jonas has executive produced The Cycle of Love, based on an Indian artist who cycled from India to Europe to reunite with hi…",
+      "published_at": "2026-08-21T13:32:28Z",
+      "country_code": "IN",
+      "country_name": "India"
+    },
     {
       "source": "BBC World",
       "title": "Rosenberg: Shortage of petrol but not patriotism as Russians feel growing impact of war",
@@ -9,6 +27,15 @@
       "published_at": "2026-08-21T13:07:00Z",
       "country_code": "RU",
       "country_name": "Russia"
+    },
+    {
+      "source": "BBC World",
+      "title": "Peru earthquake damages buildings and causes power cuts",
+      "url": "https://www.bbc.co.uk/news/articles/c0km6n3ng7ko?at_medium=RSS&at_campaign=rss",
+      "summary": "A magnitude 6.7 earthquake struck the Ayacucho region on Thursday, the US Geological Survey says.",
+      "published_at": "2026-08-21T11:14:38Z",
+      "country_code": "US",
+      "country_name": "United States"
     },
     {
       "source": "BBC World",
@@ -54,15 +81,6 @@
       "published_at": "2026-08-21T05:47:32Z",
       "country_code": "CN",
       "country_name": "China"
-    },
-    {
-      "source": "BBC World",
-      "title": "British rapper Yung Filly to face retrial on rape charges in Australia",
-      "url": "https://www.bbc.co.uk/news/articles/cd7l1g8922jo?at_medium=RSS&at_campaign=rss",
-      "summary": "A jury last month cleared the YouTuber of several sexual assault offences, but it couldn't reach a decision on three others.",
-      "published_at": "2026-08-21T05:30:18Z",
-      "country_code": "AU",
-      "country_name": "Australia"
     },
     {
       "source": "BBC World",
@@ -870,7 +888,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 24
+      "news_count": 25
     },
     {
       "country_code": "PS",
@@ -908,8 +926,18 @@
       "news_count": 4
     },
     {
+      "country_code": "ZA",
+      "country_name": "South Africa",
+      "news_count": 4
+    },
+    {
       "country_code": "BR",
       "country_name": "Brazil",
+      "news_count": 3
+    },
+    {
+      "country_code": "IN",
+      "country_name": "India",
       "news_count": 3
     },
     {
@@ -923,28 +951,13 @@
       "news_count": 3
     },
     {
-      "country_code": "ZA",
-      "country_name": "South Africa",
-      "news_count": 3
-    },
-    {
       "country_code": "AE",
       "country_name": "United Arab Emirates",
       "news_count": 2
     },
     {
-      "country_code": "AU",
-      "country_name": "Australia",
-      "news_count": 2
-    },
-    {
       "country_code": "FR",
       "country_name": "France",
-      "news_count": 2
-    },
-    {
-      "country_code": "IN",
-      "country_name": "India",
       "news_count": 2
     },
     {
@@ -971,6 +984,11 @@
       "country_code": "SD",
       "country_name": "Sudan",
       "news_count": 2
+    },
+    {
+      "country_code": "AU",
+      "country_name": "Australia",
+      "news_count": 1
     },
     {
       "country_code": "CL",
