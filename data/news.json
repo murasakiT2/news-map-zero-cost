@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T11:48:32Z",
+  "generated_at": "2026-08-21T12:23:31Z",
   "articles": [
     {
       "source": "BBC World",
@@ -22,6 +22,15 @@
     {
       "source": "BBC World",
       "title": "Why the US economy is ringing alarm bells",
+      "url": "https://www.bbc.co.uk/news/articles/c9d8z72nn02o?at_medium=RSS&at_campaign=rss",
+      "summary": "The US hit a debt milestone this week, but just how worried should we be about the world's largest economy?",
+      "published_at": "2026-08-21T08:38:18Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "Warning signs flash on US economy as debt spirals",
       "url": "https://www.bbc.co.uk/news/articles/c9d8z72nn02o?at_medium=RSS&at_campaign=rss",
       "summary": "The US hit a debt milestone this week, but just how worried should we be about the world's largest economy?",
       "published_at": "2026-08-21T08:38:18Z",
@@ -351,15 +360,6 @@
       "published_at": "2026-08-19T15:38:38Z",
       "country_code": "UA",
       "country_name": "Ukraine"
-    },
-    {
-      "source": "BBC Africa",
-      "title": "'I was born in South Africa', says beauty queen facing legal bid to deport her",
-      "url": "https://www.bbc.co.uk/news/articles/cj364xxr5ngo?at_medium=RSS&at_campaign=rss",
-      "summary": "Chidimma Adetshina is challenging efforts to have her deported from South Africa, which she says is her home.",
-      "published_at": "2026-08-19T15:12:41Z",
-      "country_code": "ZA",
-      "country_name": "South Africa"
     },
     {
       "source": "BBC Latin America",
@@ -870,7 +870,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 23
+      "news_count": 24
     },
     {
       "country_code": "PS",
@@ -908,11 +908,6 @@
       "news_count": 4
     },
     {
-      "country_code": "ZA",
-      "country_name": "South Africa",
-      "news_count": 4
-    },
-    {
       "country_code": "BR",
       "country_name": "Brazil",
       "news_count": 3
@@ -925,6 +920,11 @@
     {
       "country_code": "UA",
       "country_name": "Ukraine",
+      "news_count": 3
+    },
+    {
+      "country_code": "ZA",
+      "country_name": "South Africa",
       "news_count": 3
     },
     {
