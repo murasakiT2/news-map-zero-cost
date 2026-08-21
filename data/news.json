@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-08-21T16:19:19Z",
+  "generated_at": "2026-08-21T16:57:50Z",
   "articles": [
+    {
+      "source": "BBC Europe",
+      "title": "Germany investigates Russia links to weapons cache discovered in woods, reports say",
+      "url": "https://www.bbc.co.uk/news/articles/cp9edjpvplpo?at_medium=RSS&at_campaign=rss",
+      "summary": "German intelligence believes guns found last year were for carrying out assassinations on behalf of Moscow, reports say.",
+      "published_at": "2026-08-21T16:26:53Z",
+      "country_code": "RU",
+      "country_name": "Russia"
+    },
+    {
+      "source": "BBC World",
+      "title": "Ethiopia's Virgin Mary festival in Tigray cancelled over drone strike fears",
+      "url": "https://www.bbc.co.uk/news/articles/c24me64n31qo?at_medium=RSS&at_campaign=rss",
+      "summary": "An eagerly anticipated gathering of women will not be taking place following recent aerial strikes.",
+      "published_at": "2026-08-21T16:20:55Z",
+      "country_code": "ET",
+      "country_name": "Ethiopia"
+    },
     {
       "source": "BBC Middle East",
       "title": "UK, Canada and Australia condemn Israel for refusing criminal probe into aid worker killings in Gaza",
@@ -353,7 +371,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "Why is Ukraine's ex-defence minister calling for wartime elections?",
       "url": "https://www.bbc.co.uk/news/videos/c62eyn5ggnzo?at_medium=RSS&at_campaign=rss",
       "summary": "Mykhailo Fedorov has called for elections, without addressing concerns over how they could be held while at war.",
@@ -883,6 +901,11 @@
       "news_count": 5
     },
     {
+      "country_code": "RU",
+      "country_name": "Russia",
+      "news_count": 5
+    },
+    {
       "country_code": "CN",
       "country_name": "China",
       "news_count": 4
@@ -900,11 +923,6 @@
     {
       "country_code": "NG",
       "country_name": "Nigeria",
-      "news_count": 4
-    },
-    {
-      "country_code": "RU",
-      "country_name": "Russia",
       "news_count": 4
     },
     {
@@ -980,6 +998,11 @@
     {
       "country_code": "DE",
       "country_name": "Germany",
+      "news_count": 1
+    },
+    {
+      "country_code": "ET",
+      "country_name": "Ethiopia",
       "news_count": 1
     },
     {
