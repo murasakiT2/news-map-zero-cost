@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T06:26:25Z",
+  "generated_at": "2026-08-21T07:21:45Z",
   "articles": [
     {
       "source": "BBC World",
@@ -27,6 +27,15 @@
       "published_at": "2026-08-21T05:30:18Z",
       "country_code": "AU",
       "country_name": "Australia"
+    },
+    {
+      "source": "BBC Middle East",
+      "title": "Israel reopens evacuated West Bank settlement, defying growing international protests",
+      "url": "https://www.bbc.co.uk/news/articles/cn7n0l4p0kzo?at_medium=RSS&at_campaign=rss",
+      "summary": "Thirty \"pioneer families\" have arrived on a wave of nationalism driven by Israel's government, but the rapid change has left nearby Palestin…",
+      "published_at": "2026-08-21T05:00:57Z",
+      "country_code": "IL",
+      "country_name": "Israel"
     },
     {
       "source": "BBC World",
@@ -542,24 +551,6 @@
       "country_name": "Brazil"
     },
     {
-      "source": "BBC Latin America",
-      "title": "US says dozens of countries helped China dodge Trump's tariffs",
-      "url": "https://www.bbc.co.uk/news/articles/c78gy6ep3n5o?at_medium=RSS&at_campaign=rss",
-      "summary": "A new US report said China had moved goods through nations with lower tariffs to dodge higher levies.",
-      "published_at": "2026-08-14T08:39:46Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC Latin America",
-      "title": "Teens who fled Venezuela after deadly quakes caught in another disaster in Colombia",
-      "url": "https://www.bbc.co.uk/news/articles/c9v42m3430vo?at_medium=RSS&at_campaign=rss",
-      "summary": "Deivi Delfín and his brother moved to Colombia after a quake in Venezuela killed their mother, but were caught in another deadly disaster.",
-      "published_at": "2026-08-14T08:02:35Z",
-      "country_code": "CO",
-      "country_name": "Colombia"
-    },
-    {
       "source": "BBC Africa",
       "title": "Presidential pardon for French alleged spy accused of plotting Mali coup",
       "url": "https://www.bbc.co.uk/news/articles/c2el29e3m3xo?at_medium=RSS&at_campaign=rss",
@@ -576,15 +567,6 @@
       "published_at": "2026-08-12T23:19:28Z",
       "country_code": "NG",
       "country_name": "Nigeria"
-    },
-    {
-      "source": "BBC Middle East",
-      "title": "Houthis reportedly kill six in first deadly attack since start of Iran war",
-      "url": "https://www.bbc.co.uk/news/articles/ckg9wpmzmlno?at_medium=RSS&at_campaign=rss",
-      "summary": "Iran's proxy says it hit a ship with Saudi military equipment in the Red Sea, as tensions over the US-Iran war remain high.",
-      "published_at": "2026-08-11T19:27:17Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC Latin America",
@@ -873,23 +855,27 @@
       "published_at": "2026-07-23T04:49:24Z",
       "country_code": "IR",
       "country_name": "Iran"
+    },
+    {
+      "source": "BBC Middle East",
+      "title": "Why Iran is risking so much over the Strait of Hormuz",
+      "url": "https://www.bbc.co.uk/news/articles/cwymx3eevpjo?at_medium=RSS&at_campaign=rss",
+      "summary": "None of the choices facing Iran’s leaders offer a clear path to victory, as the conflict with the US continues.",
+      "published_at": "2026-07-21T14:36:47Z",
+      "country_code": "US",
+      "country_name": "United States"
     }
   ],
   "regions": [
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 24
+      "news_count": 23
     },
     {
       "country_code": "PS",
       "country_name": "Palestine",
       "news_count": 8
-    },
-    {
-      "country_code": "CO",
-      "country_name": "Colombia",
-      "news_count": 5
     },
     {
       "country_code": "GB",
@@ -907,6 +893,16 @@
       "news_count": 4
     },
     {
+      "country_code": "CO",
+      "country_name": "Colombia",
+      "news_count": 4
+    },
+    {
+      "country_code": "IL",
+      "country_name": "Israel",
+      "news_count": 4
+    },
+    {
       "country_code": "ZA",
       "country_name": "South Africa",
       "news_count": 4
@@ -914,11 +910,6 @@
     {
       "country_code": "BR",
       "country_name": "Brazil",
-      "news_count": 3
-    },
-    {
-      "country_code": "IL",
-      "country_name": "Israel",
       "news_count": 3
     },
     {
