@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T23:13:27Z",
+  "generated_at": "2026-08-21T23:44:10Z",
   "articles": [
     {
       "source": "BBC World",
@@ -381,15 +381,6 @@
     },
     {
       "source": "BBC Asia",
-      "title": "Mushroom murderer trial undermined by 'catastrophic' hotel mix-up, appeal court told",
-      "url": "https://www.bbc.co.uk/news/articles/czjlxenlgkko?at_medium=RSS&at_campaign=rss",
-      "summary": "Erin Patterson's defence team appeal against her conviction for killing relatives with a beef Wellington laced with toxic mushrooms.",
-      "published_at": "2026-08-19T08:25:03Z",
-      "country_code": "NZ",
-      "country_name": "New Zealand"
-    },
-    {
-      "source": "BBC Asia",
       "title": "Alleged sexual assault by local official and businessman sparks outrage in China",
       "url": "https://www.bbc.co.uk/news/articles/c1d1wgqqxp5o?at_medium=RSS&at_campaign=rss",
       "summary": "Both men are arrested after the alleged assault on a woman at a karaoke bar during a business event.",
@@ -468,15 +459,6 @@
       "published_at": "2026-08-16T23:26:30Z",
       "country_code": "IN",
       "country_name": "India"
-    },
-    {
-      "source": "BBC Asia",
-      "title": "Thailand has a gun problem - 10 million of them",
-      "url": "https://www.bbc.co.uk/news/articles/cevml4701emo?at_medium=RSS&at_campaign=rss",
-      "summary": "Recent shootings have highlighted the country's troubled relationship with guns, with laws doing little to curb the violence.",
-      "published_at": "2026-08-16T22:09:04Z",
-      "country_code": "TH",
-      "country_name": "Thailand"
     },
     {
       "source": "BBC Europe",
@@ -985,11 +967,6 @@
       "news_count": 1
     },
     {
-      "country_code": "NZ",
-      "country_name": "New Zealand",
-      "news_count": 1
-    },
-    {
       "country_code": "PK",
       "country_name": "Pakistan",
       "news_count": 1
@@ -997,11 +974,6 @@
     {
       "country_code": "SY",
       "country_name": "Syria",
-      "news_count": 1
-    },
-    {
-      "country_code": "TH",
-      "country_name": "Thailand",
       "news_count": 1
     }
   ]
