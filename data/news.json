@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T03:26:46Z",
+  "generated_at": "2026-08-21T04:07:28Z",
   "articles": [
     {
       "source": "BBC World",
@@ -21,12 +21,30 @@
     },
     {
       "source": "BBC World",
+      "title": "Japan executes man who killed five in Pachinko parlour fire",
+      "url": "https://www.bbc.co.uk/news/articles/cly8k232mn7o?at_medium=RSS&at_campaign=rss",
+      "summary": "This is the first time since June 2025 that the country has enacted capital punishment.",
+      "published_at": "2026-08-21T02:49:27Z",
+      "country_code": "JP",
+      "country_name": "Japan"
+    },
+    {
+      "source": "BBC World",
       "title": "US sanctions more Cuban companies and officials",
       "url": "https://www.bbc.co.uk/news/articles/cgq5x9l7054o?at_medium=RSS&at_campaign=rss",
       "summary": "An international socialist institute and Cuba's construction ministry are subject to the latest US sanctions, Marco Rubio announces.",
       "published_at": "2026-08-21T02:06:28Z",
       "country_code": "US",
       "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Broken toilets, leaking roofs: Why India's 'cockroach' party wants to fix schools",
+      "url": "https://www.bbc.co.uk/news/articles/ckg4q8kyxp7o?at_medium=RSS&at_campaign=rss",
+      "summary": "The poor state of government schools is the focus of a new campaign by India's Cockroach Janta Party (CJP).",
+      "published_at": "2026-08-21T00:04:10Z",
+      "country_code": "IN",
+      "country_name": "India"
     },
     {
       "source": "BBC World",
@@ -362,7 +380,7 @@
       "country_name": "China"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "French civil servant drugged us to make us urinate on ourselves, say accusers",
       "url": "https://www.bbc.co.uk/news/articles/crrv48lenwgo?at_medium=RSS&at_campaign=rss",
       "summary": "More than 200 women accuse Christian Nègre of drugging them to make them urinate - two share their stories.",
@@ -920,6 +938,16 @@
       "news_count": 2
     },
     {
+      "country_code": "IN",
+      "country_name": "India",
+      "news_count": 2
+    },
+    {
+      "country_code": "JP",
+      "country_name": "Japan",
+      "news_count": 2
+    },
+    {
       "country_code": "KE",
       "country_name": "Kenya",
       "news_count": 2
@@ -965,18 +993,8 @@
       "news_count": 1
     },
     {
-      "country_code": "IN",
-      "country_name": "India",
-      "news_count": 1
-    },
-    {
       "country_code": "IT",
       "country_name": "Italy",
-      "news_count": 1
-    },
-    {
-      "country_code": "JP",
-      "country_name": "Japan",
       "news_count": 1
     },
     {
