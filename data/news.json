@@ -1,14 +1,23 @@
 {
-  "generated_at": "2026-08-20T23:46:01Z",
+  "generated_at": "2026-08-21T00:38:53Z",
   "articles": [
     {
-      "source": "BBC Africa",
+      "source": "BBC World",
       "title": "Why Nigeria's one-time political giant may face extinction",
       "url": "https://www.bbc.co.uk/news/articles/cj364klz857o?at_medium=RSS&at_campaign=rss",
       "summary": "Once a giant of African politics, the PDP is in danger of being wiped out after January's elections.",
       "published_at": "2026-08-20T23:21:22Z",
       "country_code": "NG",
       "country_name": "Nigeria"
+    },
+    {
+      "source": "BBC World",
+      "title": "How much could Trump's 'economic D-Day' hurt Iran?",
+      "url": "https://www.bbc.co.uk/news/articles/cre4gdvlj9ro?at_medium=RSS&at_campaign=rss",
+      "summary": "Iran has so far proved adept at finding ways around years of already punishing sanctions on its economy.",
+      "published_at": "2026-08-20T23:16:45Z",
+      "country_code": "IR",
+      "country_name": "Iran"
     },
     {
       "source": "BBC World",
@@ -20,7 +29,7 @@
       "country_name": "Pakistan"
     },
     {
-      "source": "BBC Asia",
+      "source": "BBC World",
       "title": "Trump wants to be friends with Kim - but South Korea could pay the price",
       "url": "https://www.bbc.co.uk/news/articles/c4gj1vje8dxo?at_medium=RSS&at_campaign=rss",
       "summary": "US military exercises with South Korea end early on Friday, at a time when the North is in a position of strength.",
@@ -56,7 +65,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "US says sanctions will 'squash' Iran's economy and 'collapse' its regime",
       "url": "https://www.bbc.co.uk/news/articles/c87n90eg0p2o?at_medium=RSS&at_campaign=rss",
       "summary": "US Treasury Secretary Scott Bessent says allies will need to decide whether they \"are with us or against us\".",
@@ -128,7 +137,7 @@
       "country_name": "Kenya"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "Four workers dead after being hit by train in Japan",
       "url": "https://www.bbc.co.uk/news/articles/c5yrnz24j22o?at_medium=RSS&at_campaign=rss",
       "summary": "The train collided with the four men at Shin-Kanuma Station, north of Tokyo, authorities say.",
@@ -164,7 +173,7 @@
       "country_name": "France"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "Australia 'outraged' after Israel decides not to open criminal investigation into killing of aid worker in Gaza",
       "url": "https://www.bbc.co.uk/news/articles/cp87g29r718o?at_medium=RSS&at_campaign=rss",
       "summary": "Australia's foreign minister summoned the Israeli ambassador over \"insulting\" Zomi Frankcom decision.",
@@ -200,7 +209,7 @@
       "country_name": "Russia"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Middle East",
       "title": "Israel confirms soldiers fired at car in which Hind Rajab was killed and opens criminal investigation",
       "url": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss",
       "summary": "The five-year-old Palestinian girl initially survived the attack and pleaded for help but her body was recovered later with those of six of …",
@@ -324,15 +333,6 @@
       "published_at": "2026-08-19T07:21:51Z",
       "country_code": "CN",
       "country_name": "China"
-    },
-    {
-      "source": "BBC World",
-      "title": "Families' agonising search for answers as thousands still missing in Gaza",
-      "url": "https://www.bbc.co.uk/news/articles/ce34r0er75go?at_medium=RSS&at_campaign=rss",
-      "summary": "Ten months after a ceasefire was declared, thousands of Palestinians in Gaza are still reported missing.",
-      "published_at": "2026-08-19T05:04:00Z",
-      "country_code": "PS",
-      "country_name": "Palestine"
     },
     {
       "source": "BBC World",
@@ -848,7 +848,7 @@
     {
       "country_code": "PS",
       "country_name": "Palestine",
-      "news_count": 9
+      "news_count": 8
     },
     {
       "country_code": "CO",
@@ -886,6 +886,11 @@
       "news_count": 3
     },
     {
+      "country_code": "IR",
+      "country_name": "Iran",
+      "news_count": 3
+    },
+    {
       "country_code": "RU",
       "country_name": "Russia",
       "news_count": 3
@@ -903,11 +908,6 @@
     {
       "country_code": "FR",
       "country_name": "France",
-      "news_count": 2
-    },
-    {
-      "country_code": "IR",
-      "country_name": "Iran",
       "news_count": 2
     },
     {
