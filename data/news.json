@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-08-21T20:13:20Z",
+  "generated_at": "2026-08-21T20:45:24Z",
   "articles": [
+    {
+      "source": "BBC US & Canada",
+      "title": "Watch: How does the US national debt affect consumers around the world?",
+      "url": "https://www.bbc.co.uk/news/videos/c4gjn4ezljno?at_medium=RSS&at_campaign=rss",
+      "summary": "The debt has more than doubled in a decade to reach a milestone $40tn (£29.4tn), Treasury figures show.",
+      "published_at": "2026-08-21T20:28:12Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "How Israel is expanding settlements in drive to reshape West Bank",
+      "url": "https://www.bbc.co.uk/news/articles/c2lq5g4dedpo?at_medium=RSS&at_campaign=rss",
+      "summary": "There has been a significant expansion of building and road construction on Palestinian land occupied by Israel in recent years.",
+      "published_at": "2026-08-21T19:31:47Z",
+      "country_code": "IL",
+      "country_name": "Israel"
+    },
     {
       "source": "BBC World",
       "title": "Two injured in stabbing attack at Canada Sikh temple",
@@ -110,15 +128,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
-      "title": "Why the US economy is ringing alarm bells",
-      "url": "https://www.bbc.co.uk/news/articles/c9d8z72nn02o?at_medium=RSS&at_campaign=rss",
-      "summary": "The US hit a debt milestone this week, but just how worried should we be about the world's largest economy?",
-      "published_at": "2026-08-21T08:38:18Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC US & Canada",
       "title": "Warning signs flash on US economy as debt spirals",
       "url": "https://www.bbc.co.uk/news/articles/c9d8z72nn02o?at_medium=RSS&at_campaign=rss",
@@ -173,7 +182,7 @@
       "country_name": "India"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Africa",
       "title": "Why Nigeria's one-time political giant may face extinction",
       "url": "https://www.bbc.co.uk/news/articles/cj364klz857o?at_medium=RSS&at_campaign=rss",
       "summary": "Once a giant of African politics, the PDP is in danger of being wiped out after January's elections.",
@@ -191,7 +200,7 @@
       "country_name": "Iran"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "Trump wants to be friends with Kim - but South Korea could pay the price",
       "url": "https://www.bbc.co.uk/news/articles/c4gj1vje8dxo?at_medium=RSS&at_campaign=rss",
       "summary": "US military exercises with South Korea end early on Friday, at a time when the North is in a position of strength.",
@@ -869,6 +878,11 @@
       "news_count": 8
     },
     {
+      "country_code": "IL",
+      "country_name": "Israel",
+      "news_count": 5
+    },
+    {
       "country_code": "RU",
       "country_name": "Russia",
       "news_count": 5
@@ -886,11 +900,6 @@
     {
       "country_code": "GB",
       "country_name": "United Kingdom",
-      "news_count": 4
-    },
-    {
-      "country_code": "IL",
-      "country_name": "Israel",
       "news_count": 4
     },
     {
