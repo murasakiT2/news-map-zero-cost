@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-08-21T04:07:28Z",
+  "generated_at": "2026-08-21T05:00:41Z",
   "articles": [
     {
       "source": "BBC World",
-      "title": "Hong Kong's Tiananmen activists guilty in national security trial",
-      "url": "https://www.bbc.co.uk/news/articles/c1l10mdrld5o?at_medium=RSS&at_campaign=rss",
-      "summary": "Three activists were accused of inciting others to subvert state power under the China-introduced law.",
-      "published_at": "2026-08-21T02:59:46Z",
-      "country_code": "CN",
-      "country_name": "China"
+      "title": "Pakistan ex-PM Imran Khan back in jail after hospital examination",
+      "url": "https://www.bbc.co.uk/news/articles/ckgdr9vr50po?at_medium=RSS&at_campaign=rss",
+      "summary": "It comes as the court had earlier this week ordered that he had to be taken for a hospital examination.",
+      "published_at": "2026-08-21T04:27:13Z",
+      "country_code": "PK",
+      "country_name": "Pakistan"
     },
     {
-      "source": "BBC Asia",
-      "title": "HK's Tiananmen activists guilty in national security trial",
+      "source": "BBC World",
+      "title": "Hong Kong's Tiananmen activists guilty in national security trial",
       "url": "https://www.bbc.co.uk/news/articles/c1l10mdrld5o?at_medium=RSS&at_campaign=rss",
       "summary": "Three activists were accused of inciting others to subvert state power under the China-introduced law.",
       "published_at": "2026-08-21T02:59:46Z",
@@ -39,7 +39,7 @@
     },
     {
       "source": "BBC World",
-      "title": "Broken toilets, leaking roofs: Why India's 'cockroach' party wants to fix schools",
+      "title": "Fix schools, say India's 'cockroach' protesters. Schoolchildren agree",
       "url": "https://www.bbc.co.uk/news/articles/ckg4q8kyxp7o?at_medium=RSS&at_campaign=rss",
       "summary": "The poor state of government schools is the focus of a new campaign by India's Cockroach Janta Party (CJP).",
       "published_at": "2026-08-21T00:04:10Z",
@@ -72,15 +72,6 @@
       "published_at": "2026-08-20T23:15:15Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "Jailed Pakistan ex-PM Imran Khan taken to hospital for treatment",
-      "url": "https://www.bbc.co.uk/news/articles/ckgdr9vr50po?at_medium=RSS&at_campaign=rss",
-      "summary": "Khan was taken from Adiala jail and sent to Shifa International Hospital under heavy security, according to his party.",
-      "published_at": "2026-08-20T22:43:42Z",
-      "country_code": "PK",
-      "country_name": "Pakistan"
     },
     {
       "source": "BBC World",
@@ -893,11 +884,6 @@
       "news_count": 5
     },
     {
-      "country_code": "CN",
-      "country_name": "China",
-      "news_count": 4
-    },
-    {
       "country_code": "ZA",
       "country_name": "South Africa",
       "news_count": 4
@@ -905,6 +891,11 @@
     {
       "country_code": "BR",
       "country_name": "Brazil",
+      "news_count": 3
+    },
+    {
+      "country_code": "CN",
+      "country_name": "China",
       "news_count": 3
     },
     {
