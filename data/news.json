@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-08-22T04:01:44Z",
+  "generated_at": "2026-08-22T04:56:10Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Canada says it will match US tariffs 'dollar for dollar' as trade talks break down",
+      "url": "https://www.bbc.co.uk/news/articles/cvgvyy4x2mvo?at_medium=RSS&at_campaign=rss",
+      "summary": "New 50% levy on $20bn of Canadian imports comes into force after last minute breakdown in trade talks.",
+      "published_at": "2026-08-22T04:46:33Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "Russian strikes on Ukraine kill two, officials say, a day after deadly attack on mall",
@@ -12,12 +21,30 @@
     },
     {
       "source": "BBC World",
+      "title": "'Quiet, quiet, quiet!' - What triggers Trump to shut down reporters?",
+      "url": "https://www.bbc.co.uk/news/videos/c235j22d85ro?at_medium=RSS&at_campaign=rss",
+      "summary": "As the US president insults a journalist again, the BBC looks at the questions he does not like to answer.",
+      "published_at": "2026-08-22T02:39:10Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC US & Canada",
       "title": "'We have more work to do', says Canada negotiator as US trade deadline looms",
       "url": "https://www.bbc.co.uk/news/articles/czjlr0evy0do?at_medium=RSS&at_campaign=rss",
       "summary": "Negotiations to finalise a deal between the US and Canada are going down to the wire ahead of a Friday night deadline.",
       "published_at": "2026-08-22T00:40:47Z",
       "country_code": "US",
       "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "As they return to the UK, Harry and Meghan search for a brand that sticks",
+      "url": "https://www.bbc.co.uk/news/articles/c0l5d387j18o?at_medium=RSS&at_campaign=rss",
+      "summary": "They will not be working royals when they come back. So what could they be doing instead?",
+      "published_at": "2026-08-22T00:03:10Z",
+      "country_code": "GB",
+      "country_name": "United Kingdom"
     },
     {
       "source": "BBC World",
@@ -353,7 +380,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Middle East",
       "title": "Multiple deadly Israeli strikes in Gaza in under 24 hours",
       "url": "https://www.bbc.co.uk/news/videos/cp3rgxzk5x2o?at_medium=RSS&at_campaign=rss",
       "summary": "BBC Verify looks at footage from two deadly strikes in under 24 hours in Gaza.",
@@ -362,7 +389,7 @@
       "country_name": "Palestine"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "Why is Ukraine's ex-defence minister calling for wartime elections?",
       "url": "https://www.bbc.co.uk/news/videos/c62eyn5ggnzo?at_medium=RSS&at_campaign=rss",
       "summary": "Mykhailo Fedorov has called for elections, without addressing concerns over how they could be held while at war.",
@@ -834,12 +861,17 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 22
+      "news_count": 24
     },
     {
       "country_code": "PS",
       "country_name": "Palestine",
       "news_count": 8
+    },
+    {
+      "country_code": "GB",
+      "country_name": "United Kingdom",
+      "news_count": 5
     },
     {
       "country_code": "IL",
@@ -859,11 +891,6 @@
     {
       "country_code": "CO",
       "country_name": "Colombia",
-      "news_count": 4
-    },
-    {
-      "country_code": "GB",
-      "country_name": "United Kingdom",
       "news_count": 4
     },
     {
