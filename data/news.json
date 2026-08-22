@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T13:48:45Z",
+  "generated_at": "2026-08-22T14:10:25Z",
   "articles": [
     {
       "source": "BBC World",
@@ -153,15 +153,6 @@
       "published_at": "2026-08-21T14:38:05Z",
       "country_code": "ZA",
       "country_name": "South Africa"
-    },
-    {
-      "source": "BBC World",
-      "title": "Priyanka Chopra Jonas on making a film about love and caste inequality",
-      "url": "https://www.bbc.co.uk/news/videos/cn4nk1915vxo?at_medium=RSS&at_campaign=rss",
-      "summary": "Priyanka Chopra Jonas has executive produced The Cycle of Love, based on an Indian artist who cycled from India to Europe to reunite with hi…",
-      "published_at": "2026-08-21T13:32:28Z",
-      "country_code": "IN",
-      "country_name": "India"
     },
     {
       "source": "BBC World",
@@ -938,11 +929,6 @@
       "news_count": 2
     },
     {
-      "country_code": "IN",
-      "country_name": "India",
-      "news_count": 2
-    },
-    {
       "country_code": "KE",
       "country_name": "Kenya",
       "news_count": 2
@@ -990,6 +976,11 @@
     {
       "country_code": "ID",
       "country_name": "Indonesia",
+      "news_count": 1
+    },
+    {
+      "country_code": "IN",
+      "country_name": "India",
       "news_count": 1
     },
     {
