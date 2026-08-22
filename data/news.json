@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T17:10:52Z",
+  "generated_at": "2026-08-22T17:42:05Z",
   "articles": [
     {
       "source": "BBC World",
@@ -396,15 +396,6 @@
       "published_at": "2026-08-20T04:17:53Z",
       "country_code": "IL",
       "country_name": "Israel"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "Harry and Meghan are experts in surprise - but why are they returning to UK now?",
-      "url": "https://www.bbc.co.uk/news/articles/cqjxn9j410vo?at_medium=RSS&at_campaign=rss",
-      "summary": "The sudden decision to return leaves lots of questions for the Duke and Duchess of Sussex and Royal Family.",
-      "published_at": "2026-08-20T02:00:51Z",
-      "country_code": "GB",
-      "country_name": "United Kingdom"
     },
     {
       "source": "BBC US & Canada",
@@ -901,11 +892,6 @@
       "news_count": 6
     },
     {
-      "country_code": "GB",
-      "country_name": "United Kingdom",
-      "news_count": 5
-    },
-    {
       "country_code": "IL",
       "country_name": "Israel",
       "news_count": 5
@@ -918,6 +904,11 @@
     {
       "country_code": "CO",
       "country_name": "Colombia",
+      "news_count": 4
+    },
+    {
+      "country_code": "GB",
+      "country_name": "United Kingdom",
       "news_count": 4
     },
     {
