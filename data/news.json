@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-08-22T16:11:13Z",
+  "generated_at": "2026-08-22T16:45:44Z",
   "articles": [
     {
       "source": "BBC World",
       "title": "Carney calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse",
       "url": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
-      "summary": "In a speech on Saturday morning, Prime Minister Mark Carney said Canada walked away from the negotiation table to protect its sovereignty.",
-      "published_at": "2026-08-22T16:05:04Z",
-      "country_code": "CA",
-      "country_name": "Canada"
+      "summary": "Canada's prime minister said he was \"reluctantly\" announcing retaliatory tariffs as he accused the US of starting a trade war.",
+      "published_at": "2026-08-22T16:45:02Z",
+      "country_code": "US",
+      "country_name": "United States"
     },
     {
       "source": "BBC World",
@@ -888,7 +888,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 24
+      "news_count": 25
     },
     {
       "country_code": "PS",
@@ -956,11 +956,6 @@
       "news_count": 2
     },
     {
-      "country_code": "CA",
-      "country_name": "Canada",
-      "news_count": 2
-    },
-    {
       "country_code": "IN",
       "country_name": "India",
       "news_count": 2
@@ -984,6 +979,11 @@
       "country_code": "SD",
       "country_name": "Sudan",
       "news_count": 2
+    },
+    {
+      "country_code": "CA",
+      "country_name": "Canada",
+      "news_count": 1
     },
     {
       "country_code": "CL",
