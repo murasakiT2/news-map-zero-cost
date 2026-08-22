@@ -1,14 +1,23 @@
 {
-  "generated_at": "2026-08-22T08:53:24Z",
+  "generated_at": "2026-08-22T09:16:36Z",
   "articles": [
     {
       "source": "BBC World",
       "title": "Search for survivors after 16 killed by Russian double-tap strike on Ukraine mall",
       "url": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
       "summary": "Nine people are still missing after the attack which left 130 injured, including a number of children.",
-      "published_at": "2026-08-22T06:40:30Z",
+      "published_at": "2026-08-22T09:13:26Z",
       "country_code": "UA",
       "country_name": "Ukraine"
+    },
+    {
+      "source": "BBC World",
+      "title": "Sydney Marathon medal mistakenly depicts Munich stadium",
+      "url": "https://www.bbc.co.uk/news/articles/cvg92y1wzn8o?at_medium=RSS&at_campaign=rss",
+      "summary": "Online sleuths detected the error after Sydney Marathon unveiled the double-sided medal.",
+      "published_at": "2026-08-22T07:53:57Z",
+      "country_code": "AU",
+      "country_name": "Australia"
     },
     {
       "source": "BBC World",
@@ -892,6 +901,11 @@
       "news_count": 2
     },
     {
+      "country_code": "AU",
+      "country_name": "Australia",
+      "news_count": 2
+    },
+    {
       "country_code": "BR",
       "country_name": "Brazil",
       "news_count": 2
@@ -920,11 +934,6 @@
       "country_code": "SD",
       "country_name": "Sudan",
       "news_count": 2
-    },
-    {
-      "country_code": "AU",
-      "country_name": "Australia",
-      "news_count": 1
     },
     {
       "country_code": "CA",
