@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T11:41:35Z",
+  "generated_at": "2026-08-22T12:16:49Z",
   "articles": [
     {
       "source": "BBC World",
@@ -18,6 +18,15 @@
       "published_at": "2026-08-22T10:01:22Z",
       "country_code": "UA",
       "country_name": "Ukraine"
+    },
+    {
+      "source": "BBC World",
+      "title": "Robot horse and rider steal the spotlight at Chinese conference",
+      "url": "https://www.bbc.co.uk/news/videos/c0qvqzzdd02o?at_medium=RSS&at_campaign=rss",
+      "summary": "More than 300 companies are showcasing the latest advances in robotics at the five-day event in Beijing, China, organisers say.",
+      "published_at": "2026-08-22T10:01:18Z",
+      "country_code": "CN",
+      "country_name": "China"
     },
     {
       "source": "BBC World",
@@ -245,7 +254,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Latin America",
       "title": "Watch: Fishermen rescued after five days adrift in cool box",
       "url": "https://www.bbc.co.uk/news/videos/c1l10g94yg1o?at_medium=RSS&at_campaign=rss",
       "summary": "The men, aged 53 and 32, lost contact with their fishing cooperative on 14 August, 75 miles off the coast of Mexico.",
@@ -851,6 +860,11 @@
       "news_count": 8
     },
     {
+      "country_code": "CN",
+      "country_name": "China",
+      "news_count": 5
+    },
+    {
       "country_code": "GB",
       "country_name": "United Kingdom",
       "news_count": 5
@@ -864,11 +878,6 @@
       "country_code": "RU",
       "country_name": "Russia",
       "news_count": 5
-    },
-    {
-      "country_code": "CN",
-      "country_name": "China",
-      "news_count": 4
     },
     {
       "country_code": "CO",
