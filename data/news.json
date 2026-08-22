@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T15:09:54Z",
+  "generated_at": "2026-08-22T15:41:53Z",
   "articles": [
     {
       "source": "BBC World",
@@ -137,7 +137,7 @@
       "country_name": "Russia"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Africa",
       "title": "Ethiopia's Virgin Mary festival in Tigray cancelled over drone strike fears",
       "url": "https://www.bbc.co.uk/news/articles/c24me64n31qo?at_medium=RSS&at_campaign=rss",
       "summary": "An eagerly anticipated gathering of women will not be taking place following recent aerial strikes.",
@@ -165,6 +165,15 @@
     },
     {
       "source": "BBC World",
+      "title": "Priyanka Chopra Jonas on making a film about love and caste inequality",
+      "url": "https://www.bbc.co.uk/news/videos/cn4nk1915vxo?at_medium=RSS&at_campaign=rss",
+      "summary": "Priyanka Chopra Jonas has executive produced The Cycle of Love, based on an Indian artist who cycled from India to Europe to reunite with hi…",
+      "published_at": "2026-08-21T13:32:28Z",
+      "country_code": "IN",
+      "country_name": "India"
+    },
+    {
+      "source": "BBC World",
       "title": "Rosenberg: Shortage of petrol but not patriotism as Russians feel growing impact of war",
       "url": "https://www.bbc.co.uk/news/articles/c4gknzgje7go?at_medium=RSS&at_campaign=rss",
       "summary": "Drivers are waiting hours in fuel queues, as Moscow prepares to celebrate Russian Flag Day.",
@@ -182,7 +191,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "Pakistan ex-PM Imran Khan back in jail after hospital examination",
       "url": "https://www.bbc.co.uk/news/articles/ckgdr9vr50po?at_medium=RSS&at_campaign=rss",
       "summary": "It comes as the court had earlier this week ordered that he had to be taken for a hospital examination.",
@@ -938,6 +947,11 @@
       "news_count": 2
     },
     {
+      "country_code": "IN",
+      "country_name": "India",
+      "news_count": 2
+    },
+    {
       "country_code": "KE",
       "country_name": "Kenya",
       "news_count": 2
@@ -985,11 +999,6 @@
     {
       "country_code": "ID",
       "country_name": "Indonesia",
-      "news_count": 1
-    },
-    {
-      "country_code": "IN",
-      "country_name": "India",
       "news_count": 1
     },
     {
