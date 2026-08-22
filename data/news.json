@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-08-22T03:11:57Z",
+  "generated_at": "2026-08-22T04:01:44Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Russian strikes on Ukraine kill two, officials say, a day after deadly attack on mall",
+      "url": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
+      "summary": "Attacks come a day after at least 16 people were killed in a double-tap strike on a shopping mall.",
+      "published_at": "2026-08-22T03:17:29Z",
+      "country_code": "UA",
+      "country_name": "Ukraine"
+    },
     {
       "source": "BBC World",
       "title": "'We have more work to do', says Canada negotiator as US trade deadline looms",
@@ -878,6 +887,11 @@
       "news_count": 3
     },
     {
+      "country_code": "UA",
+      "country_name": "Ukraine",
+      "news_count": 3
+    },
+    {
       "country_code": "AE",
       "country_name": "United Arab Emirates",
       "news_count": 2
@@ -905,11 +919,6 @@
     {
       "country_code": "SD",
       "country_name": "Sudan",
-      "news_count": 2
-    },
-    {
-      "country_code": "UA",
-      "country_name": "Ukraine",
       "news_count": 2
     },
     {
