@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T05:49:26Z",
+  "generated_at": "2026-08-22T06:20:20Z",
   "articles": [
     {
       "source": "BBC World",
@@ -14,7 +14,7 @@
       "source": "BBC World",
       "title": "Canada says it will match US tariffs 'dollar for dollar' as trade talks break down",
       "url": "https://www.bbc.co.uk/news/articles/cvgvyy4x2mvo?at_medium=RSS&at_campaign=rss",
-      "summary": "New 50% levy on $20bn of Canadian imports comes into force after last minute breakdown in trade talks.",
+      "summary": "A new 50% levy on $20bn of Canadian imports comes into force after a last-minute breakdown in trade talks.",
       "published_at": "2026-08-22T04:46:33Z",
       "country_code": "US",
       "country_name": "United States"
@@ -828,22 +828,13 @@
       "published_at": "2026-07-23T04:49:24Z",
       "country_code": "IR",
       "country_name": "Iran"
-    },
-    {
-      "source": "BBC Middle East",
-      "title": "Why Iran is risking so much over the Strait of Hormuz",
-      "url": "https://www.bbc.co.uk/news/articles/cwymx3eevpjo?at_medium=RSS&at_campaign=rss",
-      "summary": "None of the choices facing Iran’s leaders offer a clear path to victory, as the conflict with the US continues.",
-      "published_at": "2026-07-21T14:36:47Z",
-      "country_code": "US",
-      "country_name": "United States"
     }
   ],
   "regions": [
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 23
+      "news_count": 22
     },
     {
       "country_code": "PS",
