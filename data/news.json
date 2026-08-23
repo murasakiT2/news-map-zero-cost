@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T15:43:10Z",
+  "generated_at": "2026-08-23T16:12:16Z",
   "articles": [
     {
       "source": "BBC World",
@@ -333,15 +333,6 @@
       "published_at": "2026-08-20T23:21:22Z",
       "country_code": "NG",
       "country_name": "Nigeria"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "How much could Trump's 'economic D-Day' hurt Iran?",
-      "url": "https://www.bbc.co.uk/news/articles/cre4gdvlj9ro?at_medium=RSS&at_campaign=rss",
-      "summary": "Iran has so far proved adept at finding ways around years of already punishing sanctions on its economy.",
-      "published_at": "2026-08-20T23:16:45Z",
-      "country_code": "IR",
-      "country_name": "Iran"
     },
     {
       "source": "BBC Asia",
@@ -913,11 +904,6 @@
       "news_count": 3
     },
     {
-      "country_code": "IR",
-      "country_name": "Iran",
-      "news_count": 3
-    },
-    {
       "country_code": "AE",
       "country_name": "United Arab Emirates",
       "news_count": 2
@@ -940,6 +926,11 @@
     {
       "country_code": "IN",
       "country_name": "India",
+      "news_count": 2
+    },
+    {
+      "country_code": "IR",
+      "country_name": "Iran",
       "news_count": 2
     },
     {
