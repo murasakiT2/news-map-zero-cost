@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-08-23T07:53:22Z",
+  "generated_at": "2026-08-23T08:17:03Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Zelensky has 'questions to answer' about corruption in his government, sacked minister says",
+      "url": "https://www.bbc.co.uk/news/articles/cwy4ypzvd7po?at_medium=RSS&at_campaign=rss",
+      "summary": "The sacked former defence minister has also called for elections to be held in Ukraine.",
+      "published_at": "2026-08-23T08:02:22Z",
+      "country_code": "UA",
+      "country_name": "Ukraine"
+    },
     {
       "source": "BBC World",
       "title": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
@@ -443,15 +452,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Europe",
-      "title": "81-year-old confesses to German cold case murder of US tourist in 1994",
-      "url": "https://www.bbc.co.uk/news/articles/cq89n5j9npdo?at_medium=RSS&at_campaign=rss",
-      "summary": "Amy Lopez from Texas was last seen alive in September 1994 while on a visit to a fortress in Koblenz.",
-      "published_at": "2026-08-19T18:26:21Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC Middle East",
       "title": "Multiple deadly Israeli strikes in Gaza in under 24 hours",
       "url": "https://www.bbc.co.uk/news/videos/cp3rgxzk5x2o?at_medium=RSS&at_campaign=rss",
@@ -852,7 +852,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 26
+      "news_count": 25
     },
     {
       "country_code": "PS",
@@ -885,6 +885,11 @@
       "news_count": 4
     },
     {
+      "country_code": "UA",
+      "country_name": "Ukraine",
+      "news_count": 4
+    },
+    {
       "country_code": "AU",
       "country_name": "Australia",
       "news_count": 3
@@ -897,11 +902,6 @@
     {
       "country_code": "IR",
       "country_name": "Iran",
-      "news_count": 3
-    },
-    {
-      "country_code": "UA",
-      "country_name": "Ukraine",
       "news_count": 3
     },
     {
