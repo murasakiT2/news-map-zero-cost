@@ -1,18 +1,27 @@
 {
-  "generated_at": "2026-08-23T13:07:49Z",
+  "generated_at": "2026-08-23T13:50:32Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Kejelcha breaks men's half marathon world record by 29 seconds",
+      "url": "https://www.bbc.co.uk/sport/athletics/articles/c9989lm0vkro?at_medium=RSS&at_campaign=rss",
+      "summary": "Ethiopia's Yomif Kejelcha breaks the men's half marathon world record in a time of 56 minutes 51 seconds in a World Athletics road race in B…",
+      "published_at": "2026-08-23T13:35:06Z",
+      "country_code": "ET",
+      "country_name": "Ethiopia"
+    },
     {
       "source": "BBC World",
       "title": "Zelensky should be asked what he knew about government corruption, sacked minister tells BBC",
       "url": "https://www.bbc.co.uk/news/articles/cwy4ypzvd7po?at_medium=RSS&at_campaign=rss",
-      "summary": "The former defence minister has also called for wartime elections to be held in Ukraine.",
+      "summary": "Mykhailo Fedorov has also called for wartime elections to be held in Ukraine.",
       "published_at": "2026-08-23T12:56:43Z",
       "country_code": "UA",
       "country_name": "Ukraine"
     },
     {
       "source": "BBC World",
-      "title": "Robots compete in boxing, football and sprinting at World Humanoid Games",
+      "title": "Robot boxing, football and sprinting at World Humanoid Games",
       "url": "https://www.bbc.co.uk/news/videos/c7vgvj6e1emo?at_medium=RSS&at_campaign=rss",
       "summary": "The second-edition of the five-day competition kicked off in Beijing, China, on Saturday.",
       "published_at": "2026-08-23T12:47:06Z",
@@ -128,15 +137,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
-      "title": "Robot horse and rider steal the spotlight at Chinese conference",
-      "url": "https://www.bbc.co.uk/news/videos/c0qvqzzdd02o?at_medium=RSS&at_campaign=rss",
-      "summary": "More than 300 companies are showcasing the latest advances in robotics at the five-day event in Beijing, China, organisers say.",
-      "published_at": "2026-08-22T10:01:18Z",
-      "country_code": "CN",
-      "country_name": "China"
-    },
-    {
       "source": "BBC Asia",
       "title": "Sydney Marathon medal mistakenly depicts Munich stadium",
       "url": "https://www.bbc.co.uk/news/articles/cvg92y1wzn8o?at_medium=RSS&at_campaign=rss",
@@ -164,7 +164,7 @@
       "country_name": "United Kingdom"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "Two injured in stabbing attack at Canada Sikh temple",
       "url": "https://www.bbc.co.uk/news/articles/ce8l7w0n0jeo?at_medium=RSS&at_campaign=rss",
       "summary": "One suspect is in custody, and police have said they are still investigating if the attack was motivated by hate.",
@@ -227,22 +227,13 @@
       "country_name": "Ethiopia"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "UK, Canada and Australia condemn Israel for refusing criminal probe into aid worker killings in Gaza",
       "url": "https://www.bbc.co.uk/news/articles/cvgl2pe09eno?at_medium=RSS&at_campaign=rss",
       "summary": "Seven World Central Kitchen workers were killed in the Israeli strike on their convoy in 2024.",
       "published_at": "2026-08-21T15:58:57Z",
       "country_code": "GB",
       "country_name": "United Kingdom"
-    },
-    {
-      "source": "BBC Africa",
-      "title": "Corruption charges dropped against South Africa's police intelligence boss",
-      "url": "https://www.bbc.co.uk/news/articles/c0rd1pkdky8o?at_medium=RSS&at_campaign=rss",
-      "summary": "Officials had faced charges over the appointment of a civilian to a top post within crime intelligence.",
-      "published_at": "2026-08-21T14:38:05Z",
-      "country_code": "ZA",
-      "country_name": "South Africa"
     },
     {
       "source": "BBC World",
@@ -299,7 +290,7 @@
       "country_name": "China"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Middle East",
       "title": "Israel re-establishes closed West Bank settlement, defying growing international protests",
       "url": "https://www.bbc.co.uk/news/articles/cn7n0l4p0kzo?at_medium=RSS&at_campaign=rss",
       "summary": "Thirty \"pioneer families\" have arrived on a wave of nationalism driven by Israel's government, but the rapid change has left nearby Palestin…",
@@ -883,14 +874,14 @@
       "news_count": 6
     },
     {
-      "country_code": "CN",
-      "country_name": "China",
-      "news_count": 5
-    },
-    {
       "country_code": "RU",
       "country_name": "Russia",
       "news_count": 5
+    },
+    {
+      "country_code": "CN",
+      "country_name": "China",
+      "news_count": 4
     },
     {
       "country_code": "CO",
@@ -918,11 +909,6 @@
       "news_count": 3
     },
     {
-      "country_code": "ZA",
-      "country_name": "South Africa",
-      "news_count": 3
-    },
-    {
       "country_code": "AE",
       "country_name": "United Arab Emirates",
       "news_count": 2
@@ -930,6 +916,11 @@
     {
       "country_code": "BR",
       "country_name": "Brazil",
+      "news_count": 2
+    },
+    {
+      "country_code": "ET",
+      "country_name": "Ethiopia",
       "news_count": 2
     },
     {
@@ -953,6 +944,11 @@
       "news_count": 2
     },
     {
+      "country_code": "ZA",
+      "country_name": "South Africa",
+      "news_count": 2
+    },
+    {
       "country_code": "CA",
       "country_name": "Canada",
       "news_count": 1
@@ -970,11 +966,6 @@
     {
       "country_code": "EG",
       "country_name": "Egypt",
-      "news_count": 1
-    },
-    {
-      "country_code": "ET",
-      "country_name": "Ethiopia",
       "news_count": 1
     },
     {
