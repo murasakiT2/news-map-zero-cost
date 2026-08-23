@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-08-23T18:13:32Z",
+  "generated_at": "2026-08-23T18:53:19Z",
   "articles": [
+    {
+      "source": "BBC Europe",
+      "title": "Viral 'Cat in the Hat' TikTok trend sparks fun fake videos but also real fear",
+      "url": "https://www.bbc.co.uk/news/articles/cwyqy29jn74o?at_medium=RSS&at_campaign=rss",
+      "summary": "The social media posts have prompted police forces in Ireland and the UK to issue statements that the images are fake.",
+      "published_at": "2026-08-23T18:38:36Z",
+      "country_code": "GB",
+      "country_name": "United Kingdom"
+    },
     {
       "source": "BBC World",
       "title": "France links sharp rise in drownings to heatwaves",
@@ -874,6 +883,11 @@
       "news_count": 6
     },
     {
+      "country_code": "GB",
+      "country_name": "United Kingdom",
+      "news_count": 5
+    },
+    {
       "country_code": "RU",
       "country_name": "Russia",
       "news_count": 5
@@ -886,11 +900,6 @@
     {
       "country_code": "CO",
       "country_name": "Colombia",
-      "news_count": 4
-    },
-    {
-      "country_code": "GB",
-      "country_name": "United Kingdom",
       "news_count": 4
     },
     {
