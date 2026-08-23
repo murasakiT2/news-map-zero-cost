@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T14:12:28Z",
+  "generated_at": "2026-08-23T14:45:34Z",
   "articles": [
     {
       "source": "BBC World",
@@ -45,6 +45,15 @@
       "published_at": "2026-08-23T09:16:22Z",
       "country_code": "US",
       "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Man completes 2,800 mile scoot across Australia",
+      "url": "https://www.bbc.co.uk/news/articles/clylqlkq5e5o?at_medium=RSS&at_campaign=rss",
+      "summary": "Bob Brown from Saltash has ridden a non-electric scooter from Perth to Sydney.",
+      "published_at": "2026-08-23T06:01:16Z",
+      "country_code": "AU",
+      "country_name": "Australia"
     },
     {
       "source": "BBC World",
@@ -146,7 +155,7 @@
       "country_name": "Australia"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "'Quiet, quiet, quiet!' - What triggers Trump to shut down reporters?",
       "url": "https://www.bbc.co.uk/news/videos/c235j22d85ro?at_medium=RSS&at_campaign=rss",
       "summary": "As the US president insults a journalist again, the BBC looks at the questions he does not like to answer.",
@@ -879,6 +888,11 @@
       "news_count": 5
     },
     {
+      "country_code": "AU",
+      "country_name": "Australia",
+      "news_count": 4
+    },
+    {
       "country_code": "CN",
       "country_name": "China",
       "news_count": 4
@@ -897,11 +911,6 @@
       "country_code": "UA",
       "country_name": "Ukraine",
       "news_count": 4
-    },
-    {
-      "country_code": "AU",
-      "country_name": "Australia",
-      "news_count": 3
     },
     {
       "country_code": "IR",
