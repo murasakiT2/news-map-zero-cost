@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-08-23T04:07:09Z",
+  "generated_at": "2026-08-23T04:58:05Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "'We're not going to run from it': Sydney Marathon laughs off medal error",
+      "url": "https://www.bbc.co.uk/news/articles/cn4n4l1yyvro?at_medium=RSS&at_campaign=rss",
+      "summary": "Runners will receive a medal at the 2026 Sydney Marathon with an engraving of a German stadium.",
+      "published_at": "2026-08-23T03:44:19Z",
+      "country_code": "AU",
+      "country_name": "Australia"
+    },
     {
       "source": "BBC Africa",
       "title": "Did a goat herder's lucky $200 nugget spark a gold rush in western Kenya?",
@@ -21,7 +30,7 @@
     },
     {
       "source": "BBC World",
-      "title": "Carney calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse",
+      "title": "Carney say Trump started trade war with fresh tarrifs 'attack'",
       "url": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
       "summary": "Canada's prime minister said he was \"reluctantly\" announcing retaliatory tariffs as he accused the US of starting a trade war.",
       "published_at": "2026-08-22T20:10:00Z",
@@ -92,7 +101,7 @@
       "country_name": "China"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "Sydney Marathon medal mistakenly depicts Munich stadium",
       "url": "https://www.bbc.co.uk/news/articles/cvg92y1wzn8o?at_medium=RSS&at_campaign=rss",
       "summary": "Online sleuths detected the error after Sydney Marathon unveiled the double-sided medal.",
@@ -876,6 +885,11 @@
       "news_count": 4
     },
     {
+      "country_code": "AU",
+      "country_name": "Australia",
+      "news_count": 3
+    },
+    {
       "country_code": "IN",
       "country_name": "India",
       "news_count": 3
@@ -893,11 +907,6 @@
     {
       "country_code": "AE",
       "country_name": "United Arab Emirates",
-      "news_count": 2
-    },
-    {
-      "country_code": "AU",
-      "country_name": "Australia",
       "news_count": 2
     },
     {
