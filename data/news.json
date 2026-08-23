@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-08-23T12:17:34Z",
+  "generated_at": "2026-08-23T13:07:49Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Zelensky should be asked what he knew about government corruption, sacked minister tells BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cwy4ypzvd7po?at_medium=RSS&at_campaign=rss",
+      "summary": "The former defence minister has also called for wartime elections to be held in Ukraine.",
+      "published_at": "2026-08-23T12:56:43Z",
+      "country_code": "UA",
+      "country_name": "Ukraine"
+    },
+    {
+      "source": "BBC World",
+      "title": "Robots compete in boxing, football and sprinting at World Humanoid Games",
+      "url": "https://www.bbc.co.uk/news/videos/c7vgvj6e1emo?at_medium=RSS&at_campaign=rss",
+      "summary": "The second-edition of the five-day competition kicked off in Beijing, China, on Saturday.",
+      "published_at": "2026-08-23T12:47:06Z",
+      "country_code": "CN",
+      "country_name": "China"
+    },
     {
       "source": "BBC World",
       "title": "Dozens of co-ordinated arson attacks hit southern Thailand",
@@ -9,24 +27,6 @@
       "published_at": "2026-08-23T11:50:59Z",
       "country_code": "TH",
       "country_name": "Thailand"
-    },
-    {
-      "source": "BBC World",
-      "title": "Robots compete in boxing, football and sprinting at World Humanoid Games",
-      "url": "https://www.bbc.co.uk/news/videos/c7vgvj6e1emo?at_medium=RSS&at_campaign=rss",
-      "summary": "The second-edition of the five-day competition kicked off in Beijing, China, on Saturday.",
-      "published_at": "2026-08-23T09:42:05Z",
-      "country_code": "CN",
-      "country_name": "China"
-    },
-    {
-      "source": "BBC World",
-      "title": "Zelensky has 'questions to answer' about corruption in his government, sacked minister tells BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cwy4ypzvd7po?at_medium=RSS&at_campaign=rss",
-      "summary": "The sacked former defence minister has also called for elections to be held in Ukraine.",
-      "published_at": "2026-08-23T09:37:05Z",
-      "country_code": "UA",
-      "country_name": "Ukraine"
     },
     {
       "source": "BBC US & Canada",
@@ -99,6 +99,15 @@
       "published_at": "2026-08-22T13:13:16Z",
       "country_code": "UA",
       "country_name": "Ukraine"
+    },
+    {
+      "source": "BBC Africa",
+      "title": "Two-time world champion Tete shot dead outside home",
+      "url": "https://www.bbc.co.uk/sport/boxing/articles/c98v78n72v5o?at_medium=RSS&at_campaign=rss",
+      "summary": "Zolani Tete, a former WBO bantamweight and IBF super-flyweight world champion, has been shot dead outside his home in South Africa.",
+      "published_at": "2026-08-22T13:11:18Z",
+      "country_code": "ZA",
+      "country_name": "South Africa"
     },
     {
       "source": "BBC US & Canada",
@@ -909,6 +918,11 @@
       "news_count": 3
     },
     {
+      "country_code": "ZA",
+      "country_name": "South Africa",
+      "news_count": 3
+    },
+    {
       "country_code": "AE",
       "country_name": "United Arab Emirates",
       "news_count": 2
@@ -936,11 +950,6 @@
     {
       "country_code": "NG",
       "country_name": "Nigeria",
-      "news_count": 2
-    },
-    {
-      "country_code": "ZA",
-      "country_name": "South Africa",
       "news_count": 2
     },
     {
