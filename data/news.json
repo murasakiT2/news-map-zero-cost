@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-08-23T09:16:46Z",
+  "generated_at": "2026-08-23T09:49:07Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Robots compete in boxing, football and sprinting at World Humanoid Games",
+      "url": "https://www.bbc.co.uk/news/videos/c7vgvj6e1emo?at_medium=RSS&at_campaign=rss",
+      "summary": "The second-edition of the five-day competition kicked off in Beijing, China, on Saturday.",
+      "published_at": "2026-08-23T09:42:05Z",
+      "country_code": "CN",
+      "country_name": "China"
+    },
+    {
+      "source": "BBC World",
+      "title": "Zelensky has 'questions to answer' about corruption in his government, sacked minister tells BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cwy4ypzvd7po?at_medium=RSS&at_campaign=rss",
+      "summary": "The sacked former defence minister has also called for elections to be held in Ukraine.",
+      "published_at": "2026-08-23T09:37:05Z",
+      "country_code": "UA",
+      "country_name": "Ukraine"
+    },
     {
       "source": "BBC US & Canada",
       "title": "US rapper BigXthaPlug arrested on drug and gun charges",
@@ -9,15 +27,6 @@
       "published_at": "2026-08-23T09:16:22Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "Zelensky has 'questions to answer' about corruption in his government, sacked minister tells BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cwy4ypzvd7po?at_medium=RSS&at_campaign=rss",
-      "summary": "The sacked former defence minister has also called for elections to be held in Ukraine.",
-      "published_at": "2026-08-23T08:47:47Z",
-      "country_code": "UA",
-      "country_name": "Ukraine"
     },
     {
       "source": "BBC World",
@@ -216,15 +225,6 @@
       "published_at": "2026-08-21T14:38:05Z",
       "country_code": "ZA",
       "country_name": "South Africa"
-    },
-    {
-      "source": "BBC World",
-      "title": "Priyanka Chopra Jonas on making a film about love and caste inequality",
-      "url": "https://www.bbc.co.uk/news/videos/cn4nk1915vxo?at_medium=RSS&at_campaign=rss",
-      "summary": "Priyanka Chopra Jonas has executive produced The Cycle of Love, based on an Indian artist who cycled from India to Europe to reunite with hi…",
-      "published_at": "2026-08-21T13:32:28Z",
-      "country_code": "IN",
-      "country_name": "India"
     },
     {
       "source": "BBC World",
@@ -865,14 +865,14 @@
       "news_count": 6
     },
     {
-      "country_code": "RU",
-      "country_name": "Russia",
+      "country_code": "CN",
+      "country_name": "China",
       "news_count": 5
     },
     {
-      "country_code": "CN",
-      "country_name": "China",
-      "news_count": 4
+      "country_code": "RU",
+      "country_name": "Russia",
+      "news_count": 5
     },
     {
       "country_code": "CO",
@@ -895,11 +895,6 @@
       "news_count": 3
     },
     {
-      "country_code": "IN",
-      "country_name": "India",
-      "news_count": 3
-    },
-    {
       "country_code": "IR",
       "country_name": "Iran",
       "news_count": 3
@@ -912,6 +907,11 @@
     {
       "country_code": "BR",
       "country_name": "Brazil",
+      "news_count": 2
+    },
+    {
+      "country_code": "IN",
+      "country_name": "India",
       "news_count": 2
     },
     {
