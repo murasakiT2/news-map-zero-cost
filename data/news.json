@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-08-23T14:45:34Z",
+  "generated_at": "2026-08-23T15:11:26Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "France links rise in drownings to heatwaves",
+      "url": "https://www.bbc.co.uk/news/articles/cqlxlp4lx9yo?at_medium=RSS&at_campaign=rss",
+      "summary": "A government minister says people have been taking risks by going into the water, with 301 deaths since 19 June.",
+      "published_at": "2026-08-23T15:00:17Z",
+      "country_code": "FR",
+      "country_name": "France"
+    },
     {
       "source": "BBC World",
       "title": "Kejelcha breaks men's half marathon world record by 29 seconds",
@@ -90,15 +99,6 @@
       "published_at": "2026-08-22T21:42:42Z",
       "country_code": "IL",
       "country_name": "Israel"
-    },
-    {
-      "source": "BBC World",
-      "title": "Watch: Moment humanoid robot beats Usain Bolt's 100m record",
-      "url": "https://www.bbc.co.uk/news/videos/cgljl9zp47xo?at_medium=RSS&at_campaign=rss",
-      "summary": "The robot ran the distance in 9.39 seconds at the World Humanoid Robot Games in Beijing.",
-      "published_at": "2026-08-22T17:02:06Z",
-      "country_code": "CN",
-      "country_name": "China"
     },
     {
       "source": "BBC World",
@@ -893,11 +893,6 @@
       "news_count": 4
     },
     {
-      "country_code": "CN",
-      "country_name": "China",
-      "news_count": 4
-    },
-    {
       "country_code": "CO",
       "country_name": "Colombia",
       "news_count": 4
@@ -911,6 +906,11 @@
       "country_code": "UA",
       "country_name": "Ukraine",
       "news_count": 4
+    },
+    {
+      "country_code": "CN",
+      "country_name": "China",
+      "news_count": 3
     },
     {
       "country_code": "IR",
@@ -930,6 +930,11 @@
     {
       "country_code": "ET",
       "country_name": "Ethiopia",
+      "news_count": 2
+    },
+    {
+      "country_code": "FR",
+      "country_name": "France",
       "news_count": 2
     },
     {
@@ -975,11 +980,6 @@
     {
       "country_code": "EG",
       "country_name": "Egypt",
-      "news_count": 1
-    },
-    {
-      "country_code": "FR",
-      "country_name": "France",
       "news_count": 1
     },
     {
