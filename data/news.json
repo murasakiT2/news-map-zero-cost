@@ -1,23 +1,32 @@
 {
-  "generated_at": "2026-08-24T05:07:43Z",
+  "generated_at": "2026-08-24T05:59:35Z",
   "articles": [
     {
-      "source": "BBC World",
-      "title": "Nearly 3 million Teslas recalled in China over hidden door handles",
-      "url": "https://www.bbc.co.uk/news/articles/c4g6ggdg030o?at_medium=RSS&at_campaign=rss",
-      "summary": "Other brands affected by the recall include Chinese carmakers XPeng, Xiaomi and Geely.",
-      "published_at": "2026-08-24T05:01:17Z",
+      "source": "BBC Asia",
+      "title": "China probes use of formaldehyde to keep cabbages fresh",
+      "url": "https://www.bbc.co.uk/news/articles/cy9ze48l2yeo?at_medium=RSS&at_campaign=rss",
+      "summary": "Using the carcinogen to preserve food is prohibited in China, the world's largest producer of cabbages.",
+      "published_at": "2026-08-24T05:40:48Z",
       "country_code": "CN",
       "country_name": "China"
     },
     {
       "source": "BBC World",
-      "title": "Burnham visits Kyiv to reaffirm UK support for Ukraine",
+      "title": "Burnham to hand long-range missile blueprints to Zelensky as he visits Kyiv",
       "url": "https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&at_campaign=rss",
       "summary": "It comes after Moscow warned of \"consequences\" over the reported use of British drones by Ukraine.",
-      "published_at": "2026-08-24T05:00:12Z",
-      "country_code": "GB",
-      "country_name": "United Kingdom"
+      "published_at": "2026-08-24T05:16:57Z",
+      "country_code": "RU",
+      "country_name": "Russia"
+    },
+    {
+      "source": "BBC World",
+      "title": "Nearly three million Teslas recalled in China over hidden door handles",
+      "url": "https://www.bbc.co.uk/news/articles/c4g6ggdg030o?at_medium=RSS&at_campaign=rss",
+      "summary": "Other brands affected by the recall include Chinese carmakers XPeng, Xiaomi and Geely.",
+      "published_at": "2026-08-24T05:01:17Z",
+      "country_code": "CN",
+      "country_name": "China"
     },
     {
       "source": "BBC World",
@@ -27,6 +36,15 @@
       "published_at": "2026-08-24T03:55:35Z",
       "country_code": "PK",
       "country_name": "Pakistan"
+    },
+    {
+      "source": "BBC Asia",
+      "title": "New Tata boss to face formidable challenges",
+      "url": "https://www.bbc.co.uk/news/articles/c20drryz7nvo?at_medium=RSS&at_campaign=rss",
+      "summary": "Corporate India's most coveted top job is open. But finding a new leader for Tata Sons is no easy task.",
+      "published_at": "2026-08-23T22:35:00Z",
+      "country_code": "IN",
+      "country_name": "India"
     },
     {
       "source": "BBC World",
@@ -281,15 +299,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Asia",
-      "title": "Pakistan ex-PM Imran Khan back in jail after hospital examination",
-      "url": "https://www.bbc.co.uk/news/articles/ckgdr9vr50po?at_medium=RSS&at_campaign=rss",
-      "summary": "It comes as the court had earlier this week ordered that he had to be taken for a hospital examination.",
-      "published_at": "2026-08-21T10:46:09Z",
-      "country_code": "PK",
-      "country_name": "Pakistan"
-    },
-    {
       "source": "BBC Africa",
       "title": "The inside story of how Trabzonspor pulled off Salah deal",
       "url": "https://www.bbc.co.uk/sport/football/articles/cvg0jgy929do?at_medium=RSS&at_campaign=rss",
@@ -443,15 +452,6 @@
       "country_name": "Australia"
     },
     {
-      "source": "BBC Asia",
-      "title": "Founder of collapsed Chinese property giant Evergrande sentenced to life in prison",
-      "url": "https://www.bbc.co.uk/news/articles/cd0x9mjjmgjo?at_medium=RSS&at_campaign=rss",
-      "summary": "Hui's sentencing marks a key moment in the fallout from Evergrande's collapse, which shook China's property sector.",
-      "published_at": "2026-08-20T06:08:02Z",
-      "country_code": "CN",
-      "country_name": "China"
-    },
-    {
       "source": "BBC Europe",
       "title": "Captured Ukrainian-born soldiers tell BBC why they fought for Russia",
       "url": "https://www.bbc.co.uk/news/articles/cn9nr195drzo?at_medium=RSS&at_campaign=rss",
@@ -576,15 +576,6 @@
       "published_at": "2026-08-17T13:18:44Z",
       "country_code": "NZ",
       "country_name": "New Zealand"
-    },
-    {
-      "source": "BBC Asia",
-      "title": "Aid shortages and fears of starvation as Indonesia reels from deadly earthquake",
-      "url": "https://www.bbc.co.uk/news/articles/crl7686r71yo?at_medium=RSS&at_campaign=rss",
-      "summary": "Some 53 people were killed and thousands displaced by the earthquake, which struck early on Saturday.",
-      "published_at": "2026-08-17T10:39:24Z",
-      "country_code": "ID",
-      "country_name": "Indonesia"
     },
     {
       "source": "BBC Africa",
@@ -892,14 +883,9 @@
       "news_count": 6
     },
     {
-      "country_code": "GB",
-      "country_name": "United Kingdom",
-      "news_count": 5
-    },
-    {
       "country_code": "RU",
       "country_name": "Russia",
-      "news_count": 5
+      "news_count": 6
     },
     {
       "country_code": "CN",
@@ -912,6 +898,11 @@
       "news_count": 4
     },
     {
+      "country_code": "GB",
+      "country_name": "United Kingdom",
+      "news_count": 4
+    },
+    {
       "country_code": "UA",
       "country_name": "Ukraine",
       "news_count": 4
@@ -919,6 +910,11 @@
     {
       "country_code": "AU",
       "country_name": "Australia",
+      "news_count": 3
+    },
+    {
+      "country_code": "IN",
+      "country_name": "India",
       "news_count": 3
     },
     {
@@ -942,11 +938,6 @@
       "news_count": 2
     },
     {
-      "country_code": "IN",
-      "country_name": "India",
-      "news_count": 2
-    },
-    {
       "country_code": "IR",
       "country_name": "Iran",
       "news_count": 2
@@ -964,11 +955,6 @@
     {
       "country_code": "NG",
       "country_name": "Nigeria",
-      "news_count": 2
-    },
-    {
-      "country_code": "PK",
-      "country_name": "Pakistan",
       "news_count": 2
     },
     {
@@ -997,11 +983,6 @@
       "news_count": 1
     },
     {
-      "country_code": "ID",
-      "country_name": "Indonesia",
-      "news_count": 1
-    },
-    {
       "country_code": "IT",
       "country_name": "Italy",
       "news_count": 1
@@ -1014,6 +995,11 @@
     {
       "country_code": "NZ",
       "country_name": "New Zealand",
+      "news_count": 1
+    },
+    {
+      "country_code": "PK",
+      "country_name": "Pakistan",
       "news_count": 1
     },
     {
