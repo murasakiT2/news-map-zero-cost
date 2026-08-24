@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-08-24T07:58:27Z",
+  "generated_at": "2026-08-24T08:44:24Z",
   "articles": [
+    {
+      "source": "BBC Africa",
+      "title": "Four arrested over boxing champion's murder in South Africa",
+      "url": "https://www.bbc.co.uk/news/articles/cg7k9rmnzp7o?at_medium=RSS&at_campaign=rss",
+      "summary": "One of the suspects is due in court on Monday to be charged with murder and attempted murder.",
+      "published_at": "2026-08-24T08:32:46Z",
+      "country_code": "ZA",
+      "country_name": "South Africa"
+    },
+    {
+      "source": "BBC World",
+      "title": "King of Norway's health has worsened, palace says",
+      "url": "https://www.bbc.co.uk/news/articles/c36lnekj659o?at_medium=RSS&at_campaign=rss",
+      "summary": "Norway's King Harald remains in hospital receiving antibiotics for a bloodstream bacterial infection.",
+      "published_at": "2026-08-24T08:31:55Z",
+      "country_code": "NO",
+      "country_name": "Norway"
+    },
     {
       "source": "BBC World",
       "title": "Maradona's 'Hand of God' ball sells for £2.5m",
@@ -120,15 +138,6 @@
     },
     {
       "source": "BBC World",
-      "title": "'We're not going to run from it': Sydney Marathon laughs off medal error",
-      "url": "https://www.bbc.co.uk/news/articles/cn4n4l1yyvro?at_medium=RSS&at_campaign=rss",
-      "summary": "Runners will receive a medal at the 2026 Sydney Marathon with an engraving of a German stadium.",
-      "published_at": "2026-08-23T03:44:19Z",
-      "country_code": "AU",
-      "country_name": "Australia"
-    },
-    {
-      "source": "BBC World",
       "title": "Did a goat herder's lucky $200 nugget spark a gold rush in western Kenya?",
       "url": "https://www.bbc.co.uk/news/articles/clyjmnvdr95o?at_medium=RSS&at_campaign=rss",
       "summary": "Prospectors have come to West Pokot county in the hope a gram of the precious metal can change their lives.",
@@ -173,15 +182,6 @@
       "country_name": "Ukraine"
     },
     {
-      "source": "BBC Africa",
-      "title": "Two-time world champion Tete shot dead outside home",
-      "url": "https://www.bbc.co.uk/sport/boxing/articles/c98v78n72v5o?at_medium=RSS&at_campaign=rss",
-      "summary": "Zolani Tete, a former WBO bantamweight and IBF super-flyweight world champion, has been shot dead outside his home in South Africa.",
-      "published_at": "2026-08-22T13:11:18Z",
-      "country_code": "ZA",
-      "country_name": "South Africa"
-    },
-    {
       "source": "BBC US & Canada",
       "title": "Canada says it will match US tariffs 'dollar for dollar' as trade talks break down",
       "url": "https://www.bbc.co.uk/news/articles/cvgvyy4x2mvo?at_medium=RSS&at_campaign=rss",
@@ -200,7 +200,16 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC US & Canada",
+      "source": "BBC World",
+      "title": "Robot horse and rider steal the spotlight at Chinese conference",
+      "url": "https://www.bbc.co.uk/news/videos/c0qvqzzdd02o?at_medium=RSS&at_campaign=rss",
+      "summary": "More than 300 companies are showcasing the latest advances in robotics at the five-day event in Beijing, China, organisers say.",
+      "published_at": "2026-08-22T10:01:18Z",
+      "country_code": "CN",
+      "country_name": "China"
+    },
+    {
+      "source": "BBC World",
       "title": "'Quiet, quiet, quiet!' - What triggers Trump to shut down reporters?",
       "url": "https://www.bbc.co.uk/news/videos/c235j22d85ro?at_medium=RSS&at_campaign=rss",
       "summary": "As the US president insults a journalist again, the BBC looks at the questions he does not like to answer.",
@@ -236,6 +245,15 @@
       "country_name": "United States"
     },
     {
+      "source": "BBC World",
+      "title": "Watch: Taking a 180mph spin round America's birthday Grand Prix racetrack",
+      "url": "https://www.bbc.co.uk/news/videos/cn0nd7y883zo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Freedom 250 Grand Prix is part of the nation’s 250th anniversary celebrations and the first major auto race in the US capital in more th…",
+      "published_at": "2026-08-21T21:50:27Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
       "source": "BBC US & Canada",
       "title": "Watch: How does the US national debt affect consumers around the world?",
       "url": "https://www.bbc.co.uk/news/videos/c4gjn4ezljno?at_medium=RSS&at_campaign=rss",
@@ -245,7 +263,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Middle East",
       "title": "How Israel is expanding settlements in drive to reshape West Bank",
       "url": "https://www.bbc.co.uk/news/articles/c2lq5g4dedpo?at_medium=RSS&at_campaign=rss",
       "summary": "There has been a significant expansion of building and road construction on Palestinian land occupied by Israel in recent years.",
@@ -290,7 +308,7 @@
       "country_name": "United Kingdom"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "Rosenberg: Shortage of petrol but not patriotism as Russians feel growing impact of war",
       "url": "https://www.bbc.co.uk/news/articles/c4gknzgje7go?at_medium=RSS&at_campaign=rss",
       "summary": "Drivers are waiting hours in fuel queues, as Moscow prepares to celebrate Russian Flag Day.",
@@ -861,12 +879,17 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 24
+      "news_count": 25
     },
     {
       "country_code": "PS",
       "country_name": "Palestine",
       "news_count": 8
+    },
+    {
+      "country_code": "CN",
+      "country_name": "China",
+      "news_count": 6
     },
     {
       "country_code": "GB",
@@ -877,11 +900,6 @@
       "country_code": "IL",
       "country_name": "Israel",
       "news_count": 6
-    },
-    {
-      "country_code": "CN",
-      "country_name": "China",
-      "news_count": 5
     },
     {
       "country_code": "RU",
@@ -906,11 +924,6 @@
     {
       "country_code": "AE",
       "country_name": "United Arab Emirates",
-      "news_count": 2
-    },
-    {
-      "country_code": "AU",
-      "country_name": "Australia",
       "news_count": 2
     },
     {
@@ -949,6 +962,11 @@
       "news_count": 2
     },
     {
+      "country_code": "AU",
+      "country_name": "Australia",
+      "news_count": 1
+    },
+    {
       "country_code": "BR",
       "country_name": "Brazil",
       "news_count": 1
@@ -981,6 +999,11 @@
     {
       "country_code": "MA",
       "country_name": "Morocco",
+      "news_count": 1
+    },
+    {
+      "country_code": "NO",
+      "country_name": "Norway",
       "news_count": 1
     },
     {
