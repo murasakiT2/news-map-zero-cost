@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T12:24:14Z",
+  "generated_at": "2026-08-24T13:27:30Z",
   "articles": [
     {
       "source": "BBC World",
@@ -216,15 +216,6 @@
       "published_at": "2026-08-23T11:50:59Z",
       "country_code": "TH",
       "country_name": "Thailand"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "US rapper BigXthaPlug arrested on drug and gun charges",
-      "url": "https://www.bbc.co.uk/news/articles/cn4n4737n32o?at_medium=RSS&at_campaign=rss",
-      "summary": "The rapper, who has faced similar charges in the past, had been due to perform at the Country Rising Festival.",
-      "published_at": "2026-08-23T09:16:22Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC Africa",
@@ -873,22 +864,13 @@
       "published_at": "2026-07-24T01:59:49Z",
       "country_code": "IR",
       "country_name": "Iran"
-    },
-    {
-      "source": "BBC Middle East",
-      "title": "'What was their crime?': BBC visits Iran school where strike killed 120 children",
-      "url": "https://www.bbc.co.uk/news/articles/cewrx0ldlkko?at_medium=RSS&at_campaign=rss",
-      "summary": "Nearly five months on, grief is still raw as a teacher and a mother recall the horror of the attack in Minab.",
-      "published_at": "2026-07-23T04:49:24Z",
-      "country_code": "IR",
-      "country_name": "Iran"
     }
   ],
   "regions": [
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 24
+      "news_count": 23
     },
     {
       "country_code": "PS",
@@ -931,11 +913,6 @@
       "news_count": 4
     },
     {
-      "country_code": "IR",
-      "country_name": "Iran",
-      "news_count": 3
-    },
-    {
       "country_code": "KE",
       "country_name": "Kenya",
       "news_count": 3
@@ -948,6 +925,11 @@
     {
       "country_code": "FR",
       "country_name": "France",
+      "news_count": 2
+    },
+    {
+      "country_code": "IR",
+      "country_name": "Iran",
       "news_count": 2
     },
     {
