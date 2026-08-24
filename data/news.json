@@ -1,6 +1,33 @@
 {
-  "generated_at": "2026-08-24T13:27:30Z",
+  "generated_at": "2026-08-24T14:09:04Z",
   "articles": [
+    {
+      "source": "BBC Africa",
+      "title": "'101-year-old great-grandmother' arrested for selling cannabis in Nigeria",
+      "url": "https://www.bbc.co.uk/news/articles/c93e5gyejgdo?at_medium=RSS&at_campaign=rss",
+      "summary": "Esther Ogunmabo is accused of selling \"retail sachets\" of a strain of cannabis known as skunk.",
+      "published_at": "2026-08-24T13:50:23Z",
+      "country_code": "NG",
+      "country_name": "Nigeria"
+    },
+    {
+      "source": "BBC World",
+      "title": "Iran faces 'greatest financial offensive ever', says US treasury secretary",
+      "url": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
+      "summary": "Scott Bessent says the US will sever all economic ties with the country and that any nation partnering with Iran financially will also be is…",
+      "published_at": "2026-08-24T13:35:07Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Sonya Massey's killer Sean Grayson dies in US prison",
+      "url": "https://www.bbc.co.uk/news/articles/cgrvj28wrxgo?at_medium=RSS&at_campaign=rss",
+      "summary": "The former police officer, whose crime reignited the debate about US police brutality, was undergoing treatment for cancer.",
+      "published_at": "2026-08-24T13:14:10Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "New Zealand to introduce bill for under-16s social media ban",
@@ -27,15 +54,6 @@
       "published_at": "2026-08-24T10:40:22Z",
       "country_code": "RU",
       "country_name": "Russia"
-    },
-    {
-      "source": "BBC World",
-      "title": "Iran faces 'greatest financial offensive ever', says US treasury secretary",
-      "url": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
-      "summary": "Scott Bessent says the US will sever all economic ties with the country and that any nation partnering with Iran financially will also be is…",
-      "published_at": "2026-08-24T10:39:23Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC World",
@@ -605,15 +623,6 @@
       "country_name": "South Africa"
     },
     {
-      "source": "BBC Asia",
-      "title": "India built the world's biggest digital payments miracle. Now comes the bill",
-      "url": "https://www.bbc.co.uk/news/articles/c8xnwqe00v1o?at_medium=RSS&at_campaign=rss",
-      "summary": "India's UPI may finally face merchant fees, raising questions over who pays and whether users will resist.",
-      "published_at": "2026-08-16T23:26:30Z",
-      "country_code": "IN",
-      "country_name": "India"
-    },
-    {
       "source": "BBC Europe",
       "title": "BBC visits smouldering Kyiv market after Russian strikes",
       "url": "https://www.bbc.co.uk/news/videos/c8dnn05e90lo?at_medium=RSS&at_campaign=rss",
@@ -870,7 +879,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 23
+      "news_count": 24
     },
     {
       "country_code": "PS",
@@ -903,18 +912,23 @@
       "news_count": 4
     },
     {
-      "country_code": "IN",
-      "country_name": "India",
-      "news_count": 4
-    },
-    {
       "country_code": "UA",
       "country_name": "Ukraine",
       "news_count": 4
     },
     {
+      "country_code": "IN",
+      "country_name": "India",
+      "news_count": 3
+    },
+    {
       "country_code": "KE",
       "country_name": "Kenya",
+      "news_count": 3
+    },
+    {
+      "country_code": "NG",
+      "country_name": "Nigeria",
       "news_count": 3
     },
     {
@@ -935,11 +949,6 @@
     {
       "country_code": "MX",
       "country_name": "Mexico",
-      "news_count": 2
-    },
-    {
-      "country_code": "NG",
-      "country_name": "Nigeria",
       "news_count": 2
     },
     {
