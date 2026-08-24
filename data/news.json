@@ -1,12 +1,21 @@
 {
-  "generated_at": "2026-08-24T09:35:19Z",
+  "generated_at": "2026-08-24T10:26:47Z",
   "articles": [
     {
       "source": "BBC World",
-      "title": "Watch: Wildfire seen near Reno as tens of thousands told to evacuate",
+      "title": "'Scared to death': Thousands evacuate Nevada homes as wildfire spreads",
       "url": "https://www.bbc.co.uk/news/videos/cy0zr8lkr8lo?at_medium=RSS&at_campaign=rss",
-      "summary": "Thousands of people in the US state of Nevada have been warned to evacuate as the wildfire continues to spread in the outskirts of Reno.",
-      "published_at": "2026-08-24T08:41:11Z",
+      "summary": "Tens of thousands of people in the US state have been warned to evacuate as the wildfire spreads in the outskirts of Reno.",
+      "published_at": "2026-08-24T10:05:22Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "'Half my business will be gone' - Firms in Canada and US fear trade war",
+      "url": "https://www.bbc.co.uk/news/articles/cy0j0zz8l83o?at_medium=RSS&at_campaign=rss",
+      "summary": "Business owners in both countries are navigating uncertainty and worry as the tit-for-tat import taxes ratchet up.",
+      "published_at": "2026-08-24T09:47:22Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -38,6 +47,15 @@
       "country_name": "United Kingdom"
     },
     {
+      "source": "BBC US & Canada",
+      "title": "Maradona's 'Hand of God' ball sells for $3.3m in US auction",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqxvj8j7gy8o?at_medium=RSS&at_campaign=rss",
+      "summary": "It is the football with which the star scored an infamous goal in a 1986 World Cup win against England.",
+      "published_at": "2026-08-24T06:55:06Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
       "source": "BBC World",
       "title": "China probes use of formaldehyde to keep cabbages fresh",
       "url": "https://www.bbc.co.uk/news/articles/cy9ze48l2yeo?at_medium=RSS&at_campaign=rss",
@@ -63,6 +81,15 @@
       "published_at": "2026-08-24T03:55:35Z",
       "country_code": "PK",
       "country_name": "Pakistan"
+    },
+    {
+      "source": "BBC World",
+      "title": "The formidable challenges facing new Tata boss",
+      "url": "https://www.bbc.co.uk/news/articles/c20drryz7nvo?at_medium=RSS&at_campaign=rss",
+      "summary": "Corporate India's most coveted top job is open. But finding a new leader for Tata Sons is no easy task.",
+      "published_at": "2026-08-23T22:35:00Z",
+      "country_code": "IN",
+      "country_name": "India"
     },
     {
       "source": "BBC Asia",
@@ -192,15 +219,6 @@
     },
     {
       "source": "BBC US & Canada",
-      "title": "Canada says it will match US tariffs 'dollar for dollar' as trade talks break down",
-      "url": "https://www.bbc.co.uk/news/articles/cvgvyy4x2mvo?at_medium=RSS&at_campaign=rss",
-      "summary": "A new 50% levy on $20bn of Canadian imports comes into force after a last-minute breakdown in trade talks.",
-      "published_at": "2026-08-22T12:20:46Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC US & Canada",
       "title": "Laptop catches fire on US flight, with passenger treated at airport",
       "url": "https://www.bbc.co.uk/news/articles/ce979zpjj85o?at_medium=RSS&at_campaign=rss",
       "summary": "The pilot had reported a \"cabin fire in the back\" of American Airlines Flight 2398, which landed safely.",
@@ -225,15 +243,6 @@
       "published_at": "2026-08-22T02:39:10Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "As they return to the UK, Harry and Meghan search for a brand that sticks",
-      "url": "https://www.bbc.co.uk/news/articles/c0l5d387j18o?at_medium=RSS&at_campaign=rss",
-      "summary": "They will not be working royals when they come back. So what could they be doing instead?",
-      "published_at": "2026-08-22T00:03:10Z",
-      "country_code": "GB",
-      "country_name": "United Kingdom"
     },
     {
       "source": "BBC US & Canada",
@@ -870,7 +879,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 25
+      "news_count": 26
     },
     {
       "country_code": "PS",
@@ -883,14 +892,14 @@
       "news_count": 6
     },
     {
-      "country_code": "GB",
-      "country_name": "United Kingdom",
-      "news_count": 6
-    },
-    {
       "country_code": "IL",
       "country_name": "Israel",
       "news_count": 6
+    },
+    {
+      "country_code": "GB",
+      "country_name": "United Kingdom",
+      "news_count": 5
     },
     {
       "country_code": "RU",
@@ -903,14 +912,14 @@
       "news_count": 4
     },
     {
-      "country_code": "UA",
-      "country_name": "Ukraine",
+      "country_code": "IN",
+      "country_name": "India",
       "news_count": 4
     },
     {
-      "country_code": "IN",
-      "country_name": "India",
-      "news_count": 3
+      "country_code": "UA",
+      "country_name": "Ukraine",
+      "news_count": 4
     },
     {
       "country_code": "AE",
