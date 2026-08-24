@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T16:01:08Z",
+  "generated_at": "2026-08-24T17:02:06Z",
   "articles": [
     {
       "source": "BBC World",
@@ -324,15 +324,6 @@
       "published_at": "2026-08-22T13:13:16Z",
       "country_code": "UA",
       "country_name": "Ukraine"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "Laptop catches fire on US flight, with passenger treated at airport",
-      "url": "https://www.bbc.co.uk/news/articles/ce979zpjj85o?at_medium=RSS&at_campaign=rss",
-      "summary": "The pilot had reported a \"cabin fire in the back\" of American Airlines Flight 2398, which landed safely.",
-      "published_at": "2026-08-22T10:27:25Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC World",
@@ -668,15 +659,6 @@
       "country_name": "South Africa"
     },
     {
-      "source": "BBC Europe",
-      "title": "BBC visits smouldering Kyiv market after Russian strikes",
-      "url": "https://www.bbc.co.uk/news/videos/c8dnn05e90lo?at_medium=RSS&at_campaign=rss",
-      "summary": "Six people were injured in the strike on the market selling second-hand records, posters, toys and tools.",
-      "published_at": "2026-08-16T12:18:09Z",
-      "country_code": "UA",
-      "country_name": "Ukraine"
-    },
-    {
       "source": "BBC Middle East",
       "title": "Qatar denies capturing three Iranian pilots after downing fighter jets",
       "url": "https://www.bbc.co.uk/news/articles/cj4kk8kz271o?at_medium=RSS&at_campaign=rss",
@@ -879,7 +861,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 24
+      "news_count": 23
     },
     {
       "country_code": "GB",
@@ -912,11 +894,6 @@
       "news_count": 4
     },
     {
-      "country_code": "UA",
-      "country_name": "Ukraine",
-      "news_count": 4
-    },
-    {
       "country_code": "IN",
       "country_name": "India",
       "news_count": 3
@@ -929,6 +906,11 @@
     {
       "country_code": "NG",
       "country_name": "Nigeria",
+      "news_count": 3
+    },
+    {
+      "country_code": "UA",
+      "country_name": "Ukraine",
       "news_count": 3
     },
     {
