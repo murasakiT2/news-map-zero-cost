@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-08-24T11:00:24Z",
+  "generated_at": "2026-08-24T11:49:40Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Four arrested over suspected poisoning of elephants in Kenya",
+      "url": "https://www.bbc.co.uk/news/articles/c790w8wxv0do?at_medium=RSS&at_campaign=rss",
+      "summary": "An investigation is looking into whether the deaths were caused by pesticides sprayed on tomato crops.",
+      "published_at": "2026-08-24T11:08:27Z",
+      "country_code": "KE",
+      "country_name": "Kenya"
+    },
     {
       "source": "BBC World",
       "title": "Russia's second-biggest online retailer targeted in Ukrainian strikes",
@@ -11,8 +20,8 @@
       "country_name": "Russia"
     },
     {
-      "source": "BBC US & Canada",
-      "title": "Iran faces 'economic D-Day', US Treasury Secretary warns",
+      "source": "BBC World",
+      "title": "Iran faces 'greatest financial offensive ever', says US treasury secretary",
       "url": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
       "summary": "Scott Bessent says the US will sever all economic ties with the country and that any nation partnering with Iran financially will also be is…",
       "published_at": "2026-08-24T10:39:23Z",
@@ -30,7 +39,7 @@
     },
     {
       "source": "BBC World",
-      "title": "'Half my business will be gone' - Firms in Canada and US fear trade war",
+      "title": "'Half my business will be gone' - firms in Canada and US fear trade war",
       "url": "https://www.bbc.co.uk/news/articles/cy0j0zz8l83o?at_medium=RSS&at_campaign=rss",
       "summary": "Business owners in both countries are navigating uncertainty and worry as the tit-for-tat import taxes ratchet up.",
       "published_at": "2026-08-24T09:47:22Z",
@@ -164,7 +173,7 @@
       "country_name": "Ethiopia"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "Zelensky should be asked what he knew about government corruption, sacked minister tells BBC",
       "url": "https://www.bbc.co.uk/news/articles/cwy4ypzvd7po?at_medium=RSS&at_campaign=rss",
       "summary": "Mykhailo Fedorov has also called for wartime elections to be held in Ukraine.",
@@ -182,7 +191,7 @@
       "country_name": "China"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "Dozens of co-ordinated arson attacks hit southern Thailand",
       "url": "https://www.bbc.co.uk/news/articles/c8enegx4xy3o?at_medium=RSS&at_campaign=rss",
       "summary": "No group has claimed responsibility for the attacks, which the military said \"aimed at creating unrest\".",
@@ -200,7 +209,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Africa",
       "title": "Did a goat herder's lucky $200 nugget spark a gold rush in western Kenya?",
       "url": "https://www.bbc.co.uk/news/articles/clyjmnvdr95o?at_medium=RSS&at_campaign=rss",
       "summary": "Prospectors have come to West Pokot county in the hope a gram of the precious metal can change their lives.",
@@ -909,6 +918,11 @@
       "news_count": 3
     },
     {
+      "country_code": "KE",
+      "country_name": "Kenya",
+      "news_count": 3
+    },
+    {
       "country_code": "AE",
       "country_name": "United Arab Emirates",
       "news_count": 2
@@ -916,11 +930,6 @@
     {
       "country_code": "FR",
       "country_name": "France",
-      "news_count": 2
-    },
-    {
-      "country_code": "KE",
-      "country_name": "Kenya",
       "news_count": 2
     },
     {
