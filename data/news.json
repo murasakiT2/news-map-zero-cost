@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-08-24T19:50:42Z",
+  "generated_at": "2026-08-24T20:17:27Z",
   "articles": [
+    {
+      "source": "BBC Asia",
+      "title": "Manga-inspired theme park to be built near Paris",
+      "url": "https://www.bbc.co.uk/news/articles/c8r6xy3ryndo?at_medium=RSS&at_campaign=rss",
+      "summary": "The construction of three new parks was given the green light after a €6bn investment from Saudi Arabia.",
+      "published_at": "2026-08-24T19:57:55Z",
+      "country_code": "FR",
+      "country_name": "France"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "Watch: Doug Ford's blunt warning to Trump over Canada tariffs",
+      "url": "https://www.bbc.co.uk/news/videos/cx2zgr4272zo?at_medium=RSS&at_campaign=rss",
+      "summary": "Ontario Premier Doug Ford lists the ways Canada could hurt the US economy - and uses blunt language to taunt the US president.",
+      "published_at": "2026-08-24T19:45:59Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "Iran faces 'greatest financial offensive ever', says US treasury secretary",
@@ -578,15 +596,6 @@
       "country_name": "Morocco"
     },
     {
-      "source": "BBC Europe",
-      "title": "Why is Ukraine's ex-defence minister calling for wartime elections?",
-      "url": "https://www.bbc.co.uk/news/videos/c62eyn5ggnzo?at_medium=RSS&at_campaign=rss",
-      "summary": "Mykhailo Fedorov has called for elections, without addressing concerns over how they could be held while at war.",
-      "published_at": "2026-08-19T15:38:38Z",
-      "country_code": "UA",
-      "country_name": "Ukraine"
-    },
-    {
       "source": "BBC Latin America",
       "title": "Head-on collision between bus and lorry in Brazil kills more than 20",
       "url": "https://www.bbc.co.uk/news/articles/cpvwgk1n2k8o?at_medium=RSS&at_campaign=rss",
@@ -861,7 +870,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 23
+      "news_count": 24
     },
     {
       "country_code": "GB",
@@ -894,6 +903,11 @@
       "news_count": 4
     },
     {
+      "country_code": "FR",
+      "country_name": "France",
+      "news_count": 3
+    },
+    {
       "country_code": "IN",
       "country_name": "India",
       "news_count": 3
@@ -909,16 +923,6 @@
       "news_count": 3
     },
     {
-      "country_code": "UA",
-      "country_name": "Ukraine",
-      "news_count": 3
-    },
-    {
-      "country_code": "FR",
-      "country_name": "France",
-      "news_count": 2
-    },
-    {
       "country_code": "MX",
       "country_name": "Mexico",
       "news_count": 2
@@ -926,6 +930,11 @@
     {
       "country_code": "NZ",
       "country_name": "New Zealand",
+      "news_count": 2
+    },
+    {
+      "country_code": "UA",
+      "country_name": "Ukraine",
       "news_count": 2
     },
     {
