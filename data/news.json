@@ -1,32 +1,32 @@
 {
-  "generated_at": "2026-08-24T04:12:45Z",
+  "generated_at": "2026-08-24T05:07:43Z",
   "articles": [
     {
-      "source": "BBC Asia",
+      "source": "BBC World",
+      "title": "Nearly 3 million Teslas recalled in China over hidden door handles",
+      "url": "https://www.bbc.co.uk/news/articles/c4g6ggdg030o?at_medium=RSS&at_campaign=rss",
+      "summary": "Other brands affected by the recall include Chinese carmakers XPeng, Xiaomi and Geely.",
+      "published_at": "2026-08-24T05:01:17Z",
+      "country_code": "CN",
+      "country_name": "China"
+    },
+    {
+      "source": "BBC World",
+      "title": "Burnham visits Kyiv to reaffirm UK support for Ukraine",
+      "url": "https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&at_campaign=rss",
+      "summary": "It comes after Moscow warned of \"consequences\" over the reported use of British drones by Ukraine.",
+      "published_at": "2026-08-24T05:00:12Z",
+      "country_code": "GB",
+      "country_name": "United Kingdom"
+    },
+    {
+      "source": "BBC World",
       "title": "Ex-cricket captains urge 'proper medical care' for Imran Khan",
       "url": "https://www.bbc.co.uk/news/articles/cx2z889l0dxo?at_medium=RSS&at_campaign=rss",
       "summary": "The former skippers say it is \"basic decency\" for Pakistan to comply with a court-ordered medical assessment.",
       "published_at": "2026-08-24T03:55:35Z",
       "country_code": "PK",
       "country_name": "Pakistan"
-    },
-    {
-      "source": "BBC World",
-      "title": "Nearly 3 million Teslas recalled in China over hidden door handles",
-      "url": "https://www.bbc.co.uk/news/articles/c4g6ggdg030o?at_medium=RSS&at_campaign=rss",
-      "summary": "Other brands affected by the recall include Chinese carmakers XPeng, Xiaomi and Geely.",
-      "published_at": "2026-08-24T03:27:11Z",
-      "country_code": "CN",
-      "country_name": "China"
-    },
-    {
-      "source": "BBC World",
-      "title": "Burnham to visit Kyiv on first foreign trip and reaffirm UK support for Ukraine",
-      "url": "https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&at_campaign=rss",
-      "summary": "It comes after Moscow warned of \"consequences\" over the reported use of British drones by Ukraine.",
-      "published_at": "2026-08-23T23:07:10Z",
-      "country_code": "GB",
-      "country_name": "United Kingdom"
     },
     {
       "source": "BBC World",
@@ -189,15 +189,6 @@
       "published_at": "2026-08-22T02:39:10Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "As they return to the UK, Harry and Meghan search for a brand that sticks",
-      "url": "https://www.bbc.co.uk/news/articles/c0l5d387j18o?at_medium=RSS&at_campaign=rss",
-      "summary": "They will not be working royals when they come back. So what could they be doing instead?",
-      "published_at": "2026-08-22T00:03:10Z",
-      "country_code": "GB",
-      "country_name": "United Kingdom"
     },
     {
       "source": "BBC US & Canada",
@@ -896,14 +887,14 @@
       "news_count": 8
     },
     {
-      "country_code": "GB",
-      "country_name": "United Kingdom",
-      "news_count": 6
-    },
-    {
       "country_code": "IL",
       "country_name": "Israel",
       "news_count": 6
+    },
+    {
+      "country_code": "GB",
+      "country_name": "United Kingdom",
+      "news_count": 5
     },
     {
       "country_code": "RU",
