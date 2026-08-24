@@ -1,8 +1,17 @@
 {
-  "generated_at": "2026-08-24T08:44:24Z",
+  "generated_at": "2026-08-24T09:35:19Z",
   "articles": [
     {
-      "source": "BBC Africa",
+      "source": "BBC World",
+      "title": "Watch: Wildfire seen near Reno as tens of thousands told to evacuate",
+      "url": "https://www.bbc.co.uk/news/videos/cy0zr8lkr8lo?at_medium=RSS&at_campaign=rss",
+      "summary": "Thousands of people in the US state of Nevada have been warned to evacuate as the wildfire continues to spread in the outskirts of Reno.",
+      "published_at": "2026-08-24T08:41:11Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
       "title": "Four arrested over boxing champion's murder in South Africa",
       "url": "https://www.bbc.co.uk/news/articles/cg7k9rmnzp7o?at_medium=RSS&at_campaign=rss",
       "summary": "One of the suspects is due in court on Monday to be charged with murder and attempted murder.",
@@ -245,15 +254,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
-      "title": "Watch: Taking a 180mph spin round America's birthday Grand Prix racetrack",
-      "url": "https://www.bbc.co.uk/news/videos/cn0nd7y883zo?at_medium=RSS&at_campaign=rss",
-      "summary": "The Freedom 250 Grand Prix is part of the nation’s 250th anniversary celebrations and the first major auto race in the US capital in more th…",
-      "published_at": "2026-08-21T21:50:27Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC US & Canada",
       "title": "Watch: How does the US national debt affect consumers around the world?",
       "url": "https://www.bbc.co.uk/news/videos/c4gjn4ezljno?at_medium=RSS&at_campaign=rss",
@@ -288,15 +288,6 @@
       "published_at": "2026-08-21T16:26:53Z",
       "country_code": "RU",
       "country_name": "Russia"
-    },
-    {
-      "source": "BBC Africa",
-      "title": "Ethiopia's Virgin Mary festival in Tigray cancelled over drone strike fears",
-      "url": "https://www.bbc.co.uk/news/articles/c24me64n31qo?at_medium=RSS&at_campaign=rss",
-      "summary": "An eagerly anticipated gathering of women will not be taking place following recent aerial strikes.",
-      "published_at": "2026-08-21T16:20:55Z",
-      "country_code": "ET",
-      "country_name": "Ethiopia"
     },
     {
       "source": "BBC Middle East",
@@ -927,11 +918,6 @@
       "news_count": 2
     },
     {
-      "country_code": "ET",
-      "country_name": "Ethiopia",
-      "news_count": 2
-    },
-    {
       "country_code": "FR",
       "country_name": "France",
       "news_count": 2
@@ -989,6 +975,11 @@
     {
       "country_code": "EG",
       "country_name": "Egypt",
+      "news_count": 1
+    },
+    {
+      "country_code": "ET",
+      "country_name": "Ethiopia",
       "news_count": 1
     },
     {
