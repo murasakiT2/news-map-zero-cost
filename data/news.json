@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-08-24T14:09:04Z",
+  "generated_at": "2026-08-24T15:06:39Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Israel warns of 'forceful' response to kites flown from Gaza",
+      "url": "https://www.bbc.co.uk/news/articles/c5y58g2dp3xo?at_medium=RSS&at_campaign=rss",
+      "summary": "Hamas says the kites found in Israeli border communities in recent days were launched by children in Gaza.",
+      "published_at": "2026-08-24T13:56:22Z",
+      "country_code": "IL",
+      "country_name": "Israel"
+    },
     {
       "source": "BBC Africa",
       "title": "'101-year-old great-grandmother' arrested for selling cannabis in Nigeria",
@@ -182,7 +191,7 @@
       "country_name": "United Kingdom"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "France links sharp rise in drownings to heatwaves",
       "url": "https://www.bbc.co.uk/news/articles/cqlxlp4lx9yo?at_medium=RSS&at_campaign=rss",
       "summary": "A government minister says people have been taking risks by going into the water, with 301 deaths since 19 June.",
@@ -864,15 +873,6 @@
       "published_at": "2026-07-27T21:06:42Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC Middle East",
-      "title": "Houthi attacks raise fears of wider Middle East conflict and more global economic damage",
-      "url": "https://www.bbc.co.uk/news/articles/cvgve0vxy1yo?at_medium=RSS&at_campaign=rss",
-      "summary": "The Iran-backed group in Yemen has threatened to target Saudi vessels in a vital shipping route.",
-      "published_at": "2026-07-24T01:59:49Z",
-      "country_code": "IR",
-      "country_name": "Iran"
     }
   ],
   "regions": [
@@ -887,13 +887,13 @@
       "news_count": 8
     },
     {
-      "country_code": "CN",
-      "country_name": "China",
-      "news_count": 6
-    },
-    {
       "country_code": "IL",
       "country_name": "Israel",
+      "news_count": 7
+    },
+    {
+      "country_code": "CN",
+      "country_name": "China",
       "news_count": 6
     },
     {
@@ -942,11 +942,6 @@
       "news_count": 2
     },
     {
-      "country_code": "IR",
-      "country_name": "Iran",
-      "news_count": 2
-    },
-    {
       "country_code": "MX",
       "country_name": "Mexico",
       "news_count": 2
@@ -989,6 +984,11 @@
     {
       "country_code": "ET",
       "country_name": "Ethiopia",
+      "news_count": 1
+    },
+    {
+      "country_code": "IR",
+      "country_name": "Iran",
       "news_count": 1
     },
     {
