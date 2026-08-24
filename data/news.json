@@ -1,6 +1,33 @@
 {
-  "generated_at": "2026-08-24T03:28:19Z",
+  "generated_at": "2026-08-24T04:12:45Z",
   "articles": [
+    {
+      "source": "BBC Asia",
+      "title": "Ex-cricket captains urge 'proper medical care' for Imran Khan",
+      "url": "https://www.bbc.co.uk/news/articles/cx2z889l0dxo?at_medium=RSS&at_campaign=rss",
+      "summary": "The former skippers say it is \"basic decency\" for Pakistan to comply with a court-ordered medical assessment.",
+      "published_at": "2026-08-24T03:55:35Z",
+      "country_code": "PK",
+      "country_name": "Pakistan"
+    },
+    {
+      "source": "BBC World",
+      "title": "Nearly 3 million Teslas recalled in China over hidden door handles",
+      "url": "https://www.bbc.co.uk/news/articles/c4g6ggdg030o?at_medium=RSS&at_campaign=rss",
+      "summary": "Other brands affected by the recall include Chinese carmakers XPeng, Xiaomi and Geely.",
+      "published_at": "2026-08-24T03:27:11Z",
+      "country_code": "CN",
+      "country_name": "China"
+    },
+    {
+      "source": "BBC World",
+      "title": "Burnham to visit Kyiv on first foreign trip and reaffirm UK support for Ukraine",
+      "url": "https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&at_campaign=rss",
+      "summary": "It comes after Moscow warned of \"consequences\" over the reported use of British drones by Ukraine.",
+      "published_at": "2026-08-23T23:07:10Z",
+      "country_code": "GB",
+      "country_name": "United Kingdom"
+    },
     {
       "source": "BBC World",
       "title": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
@@ -153,15 +180,6 @@
       "published_at": "2026-08-22T10:27:25Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC Asia",
-      "title": "Sydney Marathon medal mistakenly depicts Munich stadium",
-      "url": "https://www.bbc.co.uk/news/articles/cvg92y1wzn8o?at_medium=RSS&at_campaign=rss",
-      "summary": "Online sleuths detected the error after Sydney Marathon unveiled the double-sided medal.",
-      "published_at": "2026-08-22T07:53:57Z",
-      "country_code": "AU",
-      "country_name": "Australia"
     },
     {
       "source": "BBC US & Canada",
@@ -878,14 +896,14 @@
       "news_count": 8
     },
     {
-      "country_code": "IL",
-      "country_name": "Israel",
+      "country_code": "GB",
+      "country_name": "United Kingdom",
       "news_count": 6
     },
     {
-      "country_code": "GB",
-      "country_name": "United Kingdom",
-      "news_count": 5
+      "country_code": "IL",
+      "country_name": "Israel",
+      "news_count": 6
     },
     {
       "country_code": "RU",
@@ -893,8 +911,8 @@
       "news_count": 5
     },
     {
-      "country_code": "AU",
-      "country_name": "Australia",
+      "country_code": "CN",
+      "country_name": "China",
       "news_count": 4
     },
     {
@@ -908,8 +926,8 @@
       "news_count": 4
     },
     {
-      "country_code": "CN",
-      "country_name": "China",
+      "country_code": "AU",
+      "country_name": "Australia",
       "news_count": 3
     },
     {
@@ -958,6 +976,11 @@
       "news_count": 2
     },
     {
+      "country_code": "PK",
+      "country_name": "Pakistan",
+      "news_count": 2
+    },
+    {
       "country_code": "ZA",
       "country_name": "South Africa",
       "news_count": 2
@@ -1000,11 +1023,6 @@
     {
       "country_code": "NZ",
       "country_name": "New Zealand",
-      "news_count": 1
-    },
-    {
-      "country_code": "PK",
-      "country_name": "Pakistan",
       "news_count": 1
     },
     {
