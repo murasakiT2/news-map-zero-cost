@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-08-24T11:49:40Z",
+  "generated_at": "2026-08-24T12:24:14Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "New Zealand to introduce bill for under-16s social media ban",
+      "url": "https://www.bbc.co.uk/news/articles/cj068q7qj19o?at_medium=RSS&at_campaign=rss",
+      "summary": "The government faces opposition to its proposals from MPs who believe a ban will not work.",
+      "published_at": "2026-08-24T12:17:34Z",
+      "country_code": "NZ",
+      "country_name": "New Zealand"
+    },
     {
       "source": "BBC World",
       "title": "Four arrested over suspected poisoning of elephants in Kenya",
@@ -162,6 +171,15 @@
       "published_at": "2026-08-23T17:39:33Z",
       "country_code": "FR",
       "country_name": "France"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "Frustration builds in US city struggling without power for 12 days",
+      "url": "https://www.bbc.co.uk/news/articles/clyly8vdpdwo?at_medium=RSS&at_campaign=rss",
+      "summary": "In the town of Gary, where a third of residents live in poverty, people say they have been living in \"survival mode\".",
+      "published_at": "2026-08-23T15:54:32Z",
+      "country_code": "US",
+      "country_name": "United States"
     },
     {
       "source": "BBC Africa",
@@ -870,7 +888,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 23
+      "news_count": 24
     },
     {
       "country_code": "PS",
@@ -943,6 +961,11 @@
       "news_count": 2
     },
     {
+      "country_code": "NZ",
+      "country_name": "New Zealand",
+      "news_count": 2
+    },
+    {
       "country_code": "ZA",
       "country_name": "South Africa",
       "news_count": 2
@@ -990,11 +1013,6 @@
     {
       "country_code": "NO",
       "country_name": "Norway",
-      "news_count": 1
-    },
-    {
-      "country_code": "NZ",
-      "country_name": "New Zealand",
       "news_count": 1
     },
     {
