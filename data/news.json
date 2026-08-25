@@ -1,9 +1,27 @@
 {
-  "generated_at": "2026-08-25T09:04:49Z",
+  "generated_at": "2026-08-25T09:57:28Z",
   "articles": [
     {
+      "source": "BBC World",
+      "title": "Sonya Massey's killer Sean Grayson dies in US prison",
+      "url": "https://www.bbc.co.uk/news/articles/cgrvj28wrxgo?at_medium=RSS&at_campaign=rss",
+      "summary": "The former police officer, whose crime reignited the debate about US police brutality, was undergoing treatment for cancer.",
+      "published_at": "2026-08-25T09:50:42Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "US firefighters say major blaze near Reno about a quarter contained",
+      "url": "https://www.bbc.co.uk/news/articles/c4gqlp0yzyjo?at_medium=RSS&at_campaign=rss",
+      "summary": "But officials fear that winds could fan the flames for two more days, as many locals remain under evacuation orders.",
+      "published_at": "2026-08-25T09:49:02Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
       "source": "BBC Asia",
-      "title": "Singapore arrests British man two years after alleged theft at Changi Airport",
+      "title": "British man charged in Singapore two years after alleged theft at airport",
       "url": "https://www.bbc.co.uk/news/articles/ckg024vrzxjo?at_medium=RSS&at_campaign=rss",
       "summary": "The 26-year-old faces up to seven years in jail for allegedly stealing a denim jacket from an airport shop in 2024.",
       "published_at": "2026-08-25T09:01:35Z",
@@ -153,15 +171,6 @@
       "published_at": "2026-08-24T13:50:23Z",
       "country_code": "NG",
       "country_name": "Nigeria"
-    },
-    {
-      "source": "BBC World",
-      "title": "Sonya Massey's killer Sean Grayson dies in US prison",
-      "url": "https://www.bbc.co.uk/news/articles/cgrvj28wrxgo?at_medium=RSS&at_campaign=rss",
-      "summary": "The former police officer, whose crime reignited the debate about US police brutality, was undergoing treatment for cancer.",
-      "published_at": "2026-08-24T13:14:10Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC Europe",
@@ -879,7 +888,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 23
+      "news_count": 24
     },
     {
       "country_code": "GB",
