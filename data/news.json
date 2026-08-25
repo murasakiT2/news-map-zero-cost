@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-08-25T04:05:25Z",
+  "generated_at": "2026-08-25T05:00:36Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Songs created by AI banned from Australia's music charts",
+      "url": "https://www.bbc.co.uk/news/articles/c20vl4vm2pno?at_medium=RSS&at_campaign=rss",
+      "summary": "The move comes weeks after a DJ admitted using AI to remix a Madonna song that topped the Australian charts.",
+      "published_at": "2026-08-25T04:54:01Z",
+      "country_code": "AU",
+      "country_name": "Australia"
+    },
     {
       "source": "BBC World",
       "title": "Iran says it is ready for what US calls 'greatest financial offensive ever'",
@@ -12,7 +21,7 @@
     },
     {
       "source": "BBC US & Canada",
-      "title": "US-Canada trade war escalates as Trump threatens tariff hike on autos after Carney vows to retaliate",
+      "title": "US-Canada trade war escalates as Trump threatens tariff hike on vehicles",
       "url": "https://www.bbc.co.uk/news/articles/c93vpd60654o?at_medium=RSS&at_campaign=rss",
       "summary": "Mark Carney accused Trump of wanting to \"destroy\" Canada's auto industry, and said he would only resume trade talks if the US comes with the…",
       "published_at": "2026-08-25T02:51:53Z",
@@ -968,6 +977,11 @@
       "news_count": 3
     },
     {
+      "country_code": "AU",
+      "country_name": "Australia",
+      "news_count": 2
+    },
+    {
       "country_code": "MX",
       "country_name": "Mexico",
       "news_count": 2
@@ -986,11 +1000,6 @@
       "country_code": "ZA",
       "country_name": "South Africa",
       "news_count": 2
-    },
-    {
-      "country_code": "AU",
-      "country_name": "Australia",
-      "news_count": 1
     },
     {
       "country_code": "BR",
