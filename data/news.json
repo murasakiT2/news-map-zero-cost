@@ -1,32 +1,50 @@
 {
-  "generated_at": "2026-08-25T16:05:33Z",
+  "generated_at": "2026-08-25T17:02:30Z",
   "articles": [
     {
-      "source": "BBC Middle East",
+      "source": "BBC World",
+      "title": "CIA chief travels to Moscow for unannounced talks, US media reports",
+      "url": "https://www.bbc.co.uk/news/articles/c87vg9x5d7do?at_medium=RSS&at_campaign=rss",
+      "summary": "Flight tracking data confirms an American military aircraft travelled to Russia from the US via Latvia on Tuesday.",
+      "published_at": "2026-08-25T16:56:20Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC US & Canada",
       "title": "Trump says all mines cleared from Strait of Hormuz",
       "url": "https://www.bbc.co.uk/news/articles/cwyzw836d05o?at_medium=RSS&at_campaign=rss",
       "summary": "Iran has closed the vital waterway since the beginning of the conflict causing wild fluctuations in oil prices worldwide.",
-      "published_at": "2026-08-25T16:03:47Z",
+      "published_at": "2026-08-25T16:43:58Z",
       "country_code": "IR",
       "country_name": "Iran"
     },
     {
-      "source": "BBC Europe",
+      "source": "BBC World",
+      "title": "Two unvaccinated people die of measles in Pennsylvania",
+      "url": "https://www.bbc.co.uk/news/articles/c5yednen30go?at_medium=RSS&at_campaign=rss",
+      "summary": "Cases in the US have hit the highest point since the virus was eliminated, as vaccination rates decline.",
+      "published_at": "2026-08-25T16:43:08Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC Africa",
+      "title": "Nigeria's president orders manhunt after kidnappers upload victim video",
+      "url": "https://www.bbc.co.uk/news/articles/c0rewkerdpyo?at_medium=RSS&at_campaign=rss",
+      "summary": "The footage shows dozens of men, women and children sitting in a forest.",
+      "published_at": "2026-08-25T16:40:11Z",
+      "country_code": "NG",
+      "country_name": "Nigeria"
+    },
+    {
+      "source": "BBC World",
       "title": "European rights court orders Turkey to free imprisoned businessman",
       "url": "https://www.bbc.co.uk/news/articles/cn5drvyg92no?at_medium=RSS&at_campaign=rss",
       "summary": "Philanthropist and activist Osman Kavala has spent almost a decade in jail over charges rights groups say are politically motivated.",
       "published_at": "2026-08-25T15:58:20Z",
       "country_code": "TR",
       "country_name": "Turkey"
-    },
-    {
-      "source": "BBC World",
-      "title": "CIA chief in Moscow for unannounced talks, US media reports",
-      "url": "https://www.bbc.co.uk/news/articles/c87vg9x5d7do?at_medium=RSS&at_campaign=rss",
-      "summary": "Flight tracking data confirms an American military aircraft travelled to Russia from the US via Latvia on Tuesday.",
-      "published_at": "2026-08-25T15:43:50Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC Africa",
@@ -43,15 +61,6 @@
       "url": "https://www.bbc.co.uk/news/articles/cqxvj1zd4qjo?at_medium=RSS&at_campaign=rss",
       "summary": "Iran is no stranger to US sanctions and has developed deep economic ties with several countries.",
       "published_at": "2026-08-25T15:04:52Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "Two unvaccinated people die of measles in Pennsylvania",
-      "url": "https://www.bbc.co.uk/news/articles/c5yednen30go?at_medium=RSS&at_campaign=rss",
-      "summary": "Cases in the US have hit the highest point since the virus was eliminated, as vaccination rates decline.",
-      "published_at": "2026-08-25T14:54:34Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -119,7 +128,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "British man charged in Singapore two years after alleged theft at airport",
       "url": "https://www.bbc.co.uk/news/articles/ckg024vrzxjo?at_medium=RSS&at_campaign=rss",
       "summary": "The 26-year-old faces up to seven years in jail for allegedly stealing a denim jacket from an airport shop in 2024.",
@@ -137,22 +146,13 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "UK drone factories may face attacks from 'unknown sources', says former Russian minister",
       "url": "https://www.bbc.co.uk/news/articles/cg598m3meeyo?at_medium=RSS&at_campaign=rss",
       "summary": "The comments on BBC Newsnight come after the UK announced it has agreed to hand over blueprints for British-made missile components to Ukrai…",
       "published_at": "2026-08-25T04:06:34Z",
       "country_code": "GB",
       "country_name": "United Kingdom"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "US-Canada trade war escalates as Trump threatens tariff hike on vehicles",
-      "url": "https://www.bbc.co.uk/news/articles/c93vpd60654o?at_medium=RSS&at_campaign=rss",
-      "summary": "Mark Carney accused Trump of wanting to \"destroy\" Canada's auto industry, and said he would only resume trade talks if the US comes with the…",
-      "published_at": "2026-08-25T02:51:53Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC World",
@@ -198,6 +198,15 @@
       "published_at": "2026-08-24T23:53:32Z",
       "country_code": "CN",
       "country_name": "China"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "'What you see is what you pay' - why some US restaurants are banning tips",
+      "url": "https://www.bbc.co.uk/news/articles/c4g36yze692o?at_medium=RSS&at_campaign=rss",
+      "summary": "Tips are central to US dining culture but some eateries think that they are unfair.",
+      "published_at": "2026-08-24T23:04:17Z",
+      "country_code": "US",
+      "country_name": "United States"
     },
     {
       "source": "BBC World",
@@ -880,13 +889,13 @@
       "news_count": 4
     },
     {
-      "country_code": "FR",
-      "country_name": "France",
-      "news_count": 3
-    },
-    {
       "country_code": "NG",
       "country_name": "Nigeria",
+      "news_count": 4
+    },
+    {
+      "country_code": "FR",
+      "country_name": "France",
       "news_count": 3
     },
     {
