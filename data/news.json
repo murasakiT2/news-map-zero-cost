@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-08-25T17:02:30Z",
+  "generated_at": "2026-08-25T17:51:48Z",
   "articles": [
+    {
+      "source": "BBC US & Canada",
+      "title": "Trump says all mines cleared from Strait of Hormuz",
+      "url": "https://www.bbc.co.uk/news/articles/cwyzw836d05o?at_medium=RSS&at_campaign=rss",
+      "summary": "Iran has closed the vital waterway since the beginning of the conflict causing wild fluctuations in oil prices worldwide.",
+      "published_at": "2026-08-25T17:32:50Z",
+      "country_code": "IR",
+      "country_name": "Iran"
+    },
+    {
+      "source": "BBC Europe",
+      "title": "Germany's Merz warns attackers will 'pay price' after drone incident",
+      "url": "https://www.bbc.co.uk/news/articles/cddv71p4j2jo?at_medium=RSS&at_campaign=rss",
+      "summary": "A drone attack on Leipzig Airport highlights the \"very real threat\" faced by the country, the German chancellor says.",
+      "published_at": "2026-08-25T17:12:21Z",
+      "country_code": "DE",
+      "country_name": "Germany"
+    },
     {
       "source": "BBC World",
       "title": "CIA chief travels to Moscow for unannounced talks, US media reports",
@@ -9,15 +27,6 @@
       "published_at": "2026-08-25T16:56:20Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "Trump says all mines cleared from Strait of Hormuz",
-      "url": "https://www.bbc.co.uk/news/articles/cwyzw836d05o?at_medium=RSS&at_campaign=rss",
-      "summary": "Iran has closed the vital waterway since the beginning of the conflict causing wild fluctuations in oil prices worldwide.",
-      "published_at": "2026-08-25T16:43:58Z",
-      "country_code": "IR",
-      "country_name": "Iran"
     },
     {
       "source": "BBC World",
@@ -899,6 +908,11 @@
       "news_count": 3
     },
     {
+      "country_code": "DE",
+      "country_name": "Germany",
+      "news_count": 2
+    },
+    {
       "country_code": "ET",
       "country_name": "Ethiopia",
       "news_count": 2
@@ -951,11 +965,6 @@
     {
       "country_code": "CL",
       "country_name": "Chile",
-      "news_count": 1
-    },
-    {
-      "country_code": "DE",
-      "country_name": "Germany",
       "news_count": 1
     },
     {
