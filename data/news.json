@@ -1,9 +1,27 @@
 {
-  "generated_at": "2026-08-25T12:25:02Z",
+  "generated_at": "2026-08-25T13:25:36Z",
   "articles": [
     {
+      "source": "BBC Africa",
+      "title": "Trump envoy calls for Sudan-wide arms embargo as drone attacks escalate",
+      "url": "https://www.bbc.co.uk/news/articles/c4g5zy4p815o?at_medium=RSS&at_campaign=rss",
+      "summary": "A wider arms embargo would require a UN Security Council vote - and Russia and China oppose the move.",
+      "published_at": "2026-08-25T12:45:47Z",
+      "country_code": "CN",
+      "country_name": "China"
+    },
+    {
+      "source": "BBC Middle East",
+      "title": "Trump hopes sanctions will topple Iran's regime - its leaders are betting otherwise",
+      "url": "https://www.bbc.co.uk/news/articles/cr50n9gnljgo?at_medium=RSS&at_campaign=rss",
+      "summary": "The US says new sanctions are an \"economic D-Day\", but Tehran's leaders have survived restrictions before.",
+      "published_at": "2026-08-25T12:37:53Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
       "source": "BBC World",
-      "title": "China warns it will safeguard its interests after US widens sanctions against Iran",
+      "title": "China hits out at 'illegal' new US sanctions on Iran and trading partners",
       "url": "https://www.bbc.co.uk/news/articles/clyl8965j5go?at_medium=RSS&at_campaign=rss",
       "summary": "The US has threatened to isolate nations that continue to do business with Tehran, which sells much of its oil to Beijing.",
       "published_at": "2026-08-25T11:53:36Z",
@@ -38,7 +56,7 @@
       "country_name": "Singapore"
     },
     {
-      "source": "BBC US & Canada",
+      "source": "BBC Middle East",
       "title": "Iran says it is 'fully prepared' to counter widened US economic sanctions",
       "url": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
       "summary": "The US calls its latest sanctions on Iran an \"economic D-Day\", but Tehran says it has a plan to address them.",
@@ -77,7 +95,7 @@
       "source": "BBC World",
       "title": "How Canada could hit back to hurt the US economy - and Trump",
       "url": "https://www.bbc.co.uk/news/articles/c05rj80ve56o?at_medium=RSS&at_campaign=rss",
-      "summary": "What leverage does Canada, which sells about 70% of its goods to the US, actually have in this spiralling trade dispute?",
+      "summary": "What leverage does Canada, which sells about 70% of its exports to the US, actually have in this spiralling trade dispute?",
       "published_at": "2026-08-25T02:49:22Z",
       "country_code": "US",
       "country_name": "United States"
@@ -252,15 +270,6 @@
       "published_at": "2026-08-24T08:31:55Z",
       "country_code": "NO",
       "country_name": "Norway"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "Maradona's 'Hand of God' ball sells for $3.3m in US auction",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cqxvj8j7gy8o?at_medium=RSS&at_campaign=rss",
-      "summary": "It is the football with which the star scored an infamous goal in a 1986 World Cup win against England.",
-      "published_at": "2026-08-24T06:55:06Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC Latin America",
@@ -578,15 +587,6 @@
       "country_name": "Israel"
     },
     {
-      "source": "BBC Middle East",
-      "title": "Multiple deadly Israeli strikes in Gaza in under 24 hours",
-      "url": "https://www.bbc.co.uk/news/videos/cp3rgxzk5x2o?at_medium=RSS&at_campaign=rss",
-      "summary": "BBC Verify looks at footage from two deadly strikes in under 24 hours in Gaza.",
-      "published_at": "2026-08-19T17:46:01Z",
-      "country_code": "PS",
-      "country_name": "Palestine"
-    },
-    {
       "source": "BBC Africa",
       "title": "'Missing' Baptiste jailed in Morocco for sexual assault",
       "url": "https://www.bbc.co.uk/sport/athletics/articles/c204wq61e19o?at_medium=RSS&at_campaign=rss",
@@ -639,15 +639,6 @@
       "published_at": "2026-08-18T05:02:58Z",
       "country_code": "DE",
       "country_name": "Germany"
-    },
-    {
-      "source": "BBC Middle East",
-      "title": "Kushner hails 'very good' meeting with Netanyahu after Hamas talks on Gaza peace plan",
-      "url": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
-      "summary": "Donald Trump's Middle East envoy and son-in-law, Jared Kushner, is seeking to gain Israeli backing for the US-backed Gaza peace plan.",
-      "published_at": "2026-08-17T16:02:58Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC Africa",
@@ -867,6 +858,15 @@
     },
     {
       "source": "BBC Middle East",
+      "title": "Trump's nuclear deal with Saudis jettisons longstanding US demands",
+      "url": "https://www.bbc.co.uk/news/articles/cz05lx0xpero?at_medium=RSS&at_campaign=rss",
+      "summary": "Signing a nuclear pact in the Middle East is a bold move that has drawn criticism in the US and in Israel.",
+      "published_at": "2026-07-23T12:58:40Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC Middle East",
       "title": "'What was their crime?': BBC visits Iran school where strike killed 120 children",
       "url": "https://www.bbc.co.uk/news/articles/cewrx0ldlkko?at_medium=RSS&at_campaign=rss",
       "summary": "Nearly five months on, grief is still raw as a teacher and a mother recall the horror of the attack in Minab.",
@@ -887,9 +887,9 @@
       "news_count": 8
     },
     {
-      "country_code": "PS",
-      "country_name": "Palestine",
-      "news_count": 7
+      "country_code": "CN",
+      "country_name": "China",
+      "news_count": 6
     },
     {
       "country_code": "IL",
@@ -897,9 +897,9 @@
       "news_count": 6
     },
     {
-      "country_code": "CN",
-      "country_name": "China",
-      "news_count": 5
+      "country_code": "PS",
+      "country_name": "Palestine",
+      "news_count": 6
     },
     {
       "country_code": "FR",
