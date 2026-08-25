@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-08-25T10:56:58Z",
+  "generated_at": "2026-08-25T11:21:16Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "China warns it will safeguard its interests after US widens sanctions against Iran",
+      "url": "https://www.bbc.co.uk/news/articles/clyl8965j5go?at_medium=RSS&at_campaign=rss",
+      "summary": "The US has threatened to isolate nations that continue to do business with Tehran, which sells much of its oil to Beijing.",
+      "published_at": "2026-08-25T10:56:03Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "Sonya Massey's killer Sean Grayson dies in US prison",
@@ -29,7 +38,7 @@
       "country_name": "Singapore"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "Iran says it is 'fully prepared' to counter widened US economic sanctions",
       "url": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
       "summary": "The US calls its latest sanctions on Iran an \"economic D-Day\", but Tehran says it has a plan to address them.",
@@ -870,7 +879,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 24
+      "news_count": 25
     },
     {
       "country_code": "GB",
