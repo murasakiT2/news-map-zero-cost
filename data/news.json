@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T07:22:54Z",
+  "generated_at": "2026-08-25T08:04:41Z",
   "articles": [
     {
       "source": "BBC World",
@@ -81,15 +81,6 @@
       "published_at": "2026-08-24T23:53:32Z",
       "country_code": "CN",
       "country_name": "China"
-    },
-    {
-      "source": "BBC World",
-      "title": "Caste divides make scorching summers harder in a parched corner of India",
-      "url": "https://www.bbc.co.uk/news/articles/cyvlzp2zn67o?at_medium=RSS&at_campaign=rss",
-      "summary": "Rising heat and water scarcity are deepening old caste inequalities in Bundelkhand region, activists say.",
-      "published_at": "2026-08-24T23:36:58Z",
-      "country_code": "IN",
-      "country_name": "India"
     },
     {
       "source": "BBC World",
@@ -939,11 +930,6 @@
       "news_count": 4
     },
     {
-      "country_code": "IN",
-      "country_name": "India",
-      "news_count": 3
-    },
-    {
       "country_code": "IR",
       "country_name": "Iran",
       "news_count": 3
@@ -966,6 +952,11 @@
     {
       "country_code": "AU",
       "country_name": "Australia",
+      "news_count": 2
+    },
+    {
+      "country_code": "IN",
+      "country_name": "India",
       "news_count": 2
     },
     {
