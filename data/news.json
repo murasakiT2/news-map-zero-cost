@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-08-25T13:25:36Z",
+  "generated_at": "2026-08-25T14:10:46Z",
   "articles": [
+    {
+      "source": "BBC Middle East",
+      "title": "Israeli attacks kill five in Gaza, including two children, medics say",
+      "url": "https://www.bbc.co.uk/news/articles/ce8x1rdgp3lo?at_medium=RSS&at_campaign=rss",
+      "summary": "An Israeli strike on Monday killed a four-year-old boy, while a 10-year-old girl was hit by a bullet inside her tent, according to medics an…",
+      "published_at": "2026-08-25T14:07:50Z",
+      "country_code": "PS",
+      "country_name": "Palestine"
+    },
     {
       "source": "BBC Africa",
       "title": "Trump envoy calls for Sudan-wide arms embargo as drone attacks escalate",
@@ -83,7 +92,7 @@
       "country_name": "United Kingdom"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "US-Canada trade war escalates as Trump threatens tariff hike on vehicles",
       "url": "https://www.bbc.co.uk/news/articles/c93vpd60654o?at_medium=RSS&at_campaign=rss",
       "summary": "Mark Carney accused Trump of wanting to \"destroy\" Canada's auto industry, and said he would only resume trade talks if the US comes with the…",
@@ -214,6 +223,15 @@
       "url": "https://www.bbc.co.uk/news/articles/cj068q7qj19o?at_medium=RSS&at_campaign=rss",
       "summary": "The government faces opposition to its proposals from MPs who believe a ban will not work.",
       "published_at": "2026-08-24T12:17:34Z",
+      "country_code": "NZ",
+      "country_name": "New Zealand"
+    },
+    {
+      "source": "BBC Africa",
+      "title": "Boks drop Feinberg-Mngomezulu to bench for All Blacks rematch",
+      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cg7k90y8j9no?at_medium=RSS&at_campaign=rss",
+      "summary": "Sacha Feinberg-Mngomezulu pays for an indifferent showing in South Africa's series opener against New Zealand, as the fly-half drops to the …",
+      "published_at": "2026-08-24T11:24:25Z",
       "country_code": "NZ",
       "country_name": "New Zealand"
     },
@@ -578,15 +596,6 @@
       "country_name": "Australia"
     },
     {
-      "source": "BBC Middle East",
-      "title": "Israel confirms soldiers fired at car in which Hind Rajab was killed and opens criminal investigation",
-      "url": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss",
-      "summary": "The five-year-old Palestinian girl initially survived the attack and pleaded for help but her body was recovered later with those of six of …",
-      "published_at": "2026-08-20T04:17:53Z",
-      "country_code": "IL",
-      "country_name": "Israel"
-    },
-    {
       "source": "BBC Africa",
       "title": "'Missing' Baptiste jailed in Morocco for sexual assault",
       "url": "https://www.bbc.co.uk/sport/athletics/articles/c204wq61e19o?at_medium=RSS&at_campaign=rss",
@@ -623,15 +632,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Africa",
-      "title": "Vieira named new Senegal head coach",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cr49v9dn431o?at_medium=RSS&at_campaign=rss",
-      "summary": "Former Arsenal and France captain Patrick Vieira is appointed as the new head coach of the Senegal men's national team.",
-      "published_at": "2026-08-18T14:38:57Z",
-      "country_code": "FR",
-      "country_name": "France"
-    },
-    {
       "source": "BBC Europe",
       "title": "Inside secret police warehouse as Germany targets small boats gangs",
       "url": "https://www.bbc.co.uk/news/articles/cpq809zrvqdo?at_medium=RSS&at_campaign=rss",
@@ -639,15 +639,6 @@
       "published_at": "2026-08-18T05:02:58Z",
       "country_code": "DE",
       "country_name": "Germany"
-    },
-    {
-      "source": "BBC Africa",
-      "title": "Is All Blacks' tour of South Africa a new chapter for rugby union?",
-      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c2dkz3k94dlo?at_medium=RSS&at_campaign=rss",
-      "summary": "Is New Zealand's 'Greatest Rivalry' tour of world champions South Africa a signpost to the future of rugby union?",
-      "published_at": "2026-08-17T13:18:44Z",
-      "country_code": "NZ",
-      "country_name": "New Zealand"
     },
     {
       "source": "BBC Africa",
@@ -887,6 +878,11 @@
       "news_count": 8
     },
     {
+      "country_code": "PS",
+      "country_name": "Palestine",
+      "news_count": 7
+    },
+    {
       "country_code": "CN",
       "country_name": "China",
       "news_count": 6
@@ -894,21 +890,16 @@
     {
       "country_code": "IL",
       "country_name": "Israel",
-      "news_count": 6
-    },
-    {
-      "country_code": "PS",
-      "country_name": "Palestine",
-      "news_count": 6
-    },
-    {
-      "country_code": "FR",
-      "country_name": "France",
       "news_count": 5
     },
     {
       "country_code": "CO",
       "country_name": "Colombia",
+      "news_count": 4
+    },
+    {
+      "country_code": "FR",
+      "country_name": "France",
       "news_count": 4
     },
     {
