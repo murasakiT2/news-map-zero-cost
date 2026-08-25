@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T10:26:11Z",
+  "generated_at": "2026-08-25T10:56:58Z",
   "articles": [
     {
       "source": "BBC World",
@@ -11,7 +11,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC US & Canada",
+      "source": "BBC World",
       "title": "US firefighters say major blaze near Reno about a quarter contained",
       "url": "https://www.bbc.co.uk/news/articles/c4gqlp0yzyjo?at_medium=RSS&at_campaign=rss",
       "summary": "But officials fear that winds could fan the flames for two more days, as many locals remain under evacuation orders.",
@@ -20,7 +20,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Asia",
+      "source": "BBC World",
       "title": "British man charged in Singapore two years after alleged theft at airport",
       "url": "https://www.bbc.co.uk/news/articles/ckg024vrzxjo?at_medium=RSS&at_campaign=rss",
       "summary": "The 26-year-old faces up to seven years in jail for allegedly stealing a denim jacket from an airport shop in 2024.",
@@ -191,7 +191,7 @@
       "country_name": "New Zealand"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Africa",
       "title": "Four arrested over suspected poisoning of elephants in Kenya",
       "url": "https://www.bbc.co.uk/news/articles/c790w8wxv0do?at_medium=RSS&at_campaign=rss",
       "summary": "An investigation is looking into whether the deaths were caused by pesticides sprayed on tomato crops.",
@@ -263,7 +263,7 @@
       "country_name": "United Kingdom"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "China probes use of formaldehyde to keep cabbages fresh",
       "url": "https://www.bbc.co.uk/news/articles/cy9ze48l2yeo?at_medium=RSS&at_campaign=rss",
       "summary": "Using the carcinogen to preserve food is prohibited in China, the world's largest producer of cabbages.",
@@ -389,16 +389,7 @@
       "country_name": "China"
     },
     {
-      "source": "BBC World",
-      "title": "Robot horse and rider steal the spotlight at Chinese conference",
-      "url": "https://www.bbc.co.uk/news/videos/c0qvqzzdd02o?at_medium=RSS&at_campaign=rss",
-      "summary": "More than 300 companies are showcasing the latest advances in robotics at the five-day event in Beijing, China, organisers say.",
-      "published_at": "2026-08-22T10:01:18Z",
-      "country_code": "CN",
-      "country_name": "China"
-    },
-    {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "'Quiet, quiet, quiet!' - What triggers Trump to shut down reporters?",
       "url": "https://www.bbc.co.uk/news/videos/c235j22d85ro?at_medium=RSS&at_campaign=rss",
       "summary": "As the US president insults a journalist again, the BBC looks at the questions he does not like to answer.",
@@ -486,15 +477,6 @@
       "published_at": "2026-08-20T23:21:22Z",
       "country_code": "NG",
       "country_name": "Nigeria"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "How much could Trump's 'economic D-Day' hurt Iran?",
-      "url": "https://www.bbc.co.uk/news/articles/cre4gdvlj9ro?at_medium=RSS&at_campaign=rss",
-      "summary": "Iran has so far proved adept at finding ways around years of already punishing sanctions on its economy.",
-      "published_at": "2026-08-20T23:16:45Z",
-      "country_code": "IR",
-      "country_name": "Iran"
     },
     {
       "source": "BBC Asia",
@@ -901,14 +883,14 @@
       "news_count": 7
     },
     {
-      "country_code": "CN",
-      "country_name": "China",
-      "news_count": 6
-    },
-    {
       "country_code": "IL",
       "country_name": "Israel",
       "news_count": 6
+    },
+    {
+      "country_code": "CN",
+      "country_name": "China",
+      "news_count": 5
     },
     {
       "country_code": "FR",
@@ -919,11 +901,6 @@
       "country_code": "CO",
       "country_name": "Colombia",
       "news_count": 4
-    },
-    {
-      "country_code": "IR",
-      "country_name": "Iran",
-      "news_count": 3
     },
     {
       "country_code": "KE",
@@ -948,6 +925,11 @@
     {
       "country_code": "IN",
       "country_name": "India",
+      "news_count": 2
+    },
+    {
+      "country_code": "IR",
+      "country_name": "Iran",
       "news_count": 2
     },
     {
