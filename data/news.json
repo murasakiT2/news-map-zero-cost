@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-08-25T14:10:46Z",
+  "generated_at": "2026-08-25T15:11:06Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Two unvaccinated people die of measles in Pennsylvania",
+      "url": "https://www.bbc.co.uk/news/articles/c5yednen30go?at_medium=RSS&at_campaign=rss",
+      "summary": "Cases in the US have hit the highest point since the virus was eliminated, as vaccination rates decline.",
+      "published_at": "2026-08-25T14:54:34Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC Middle East",
       "title": "Israeli attacks kill five in Gaza, including two children, medics say",
@@ -234,15 +243,6 @@
       "published_at": "2026-08-24T11:24:25Z",
       "country_code": "NZ",
       "country_name": "New Zealand"
-    },
-    {
-      "source": "BBC Africa",
-      "title": "Four arrested over suspected poisoning of elephants in Kenya",
-      "url": "https://www.bbc.co.uk/news/articles/c790w8wxv0do?at_medium=RSS&at_campaign=rss",
-      "summary": "An investigation is looking into whether the deaths were caused by pesticides sprayed on tomato crops.",
-      "published_at": "2026-08-24T11:08:27Z",
-      "country_code": "KE",
-      "country_name": "Kenya"
     },
     {
       "source": "BBC World",
@@ -870,7 +870,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 25
+      "news_count": 26
     },
     {
       "country_code": "GB",
@@ -903,11 +903,6 @@
       "news_count": 4
     },
     {
-      "country_code": "KE",
-      "country_name": "Kenya",
-      "news_count": 3
-    },
-    {
       "country_code": "NG",
       "country_name": "Nigeria",
       "news_count": 3
@@ -930,6 +925,11 @@
     {
       "country_code": "IR",
       "country_name": "Iran",
+      "news_count": 2
+    },
+    {
+      "country_code": "KE",
+      "country_name": "Kenya",
       "news_count": 2
     },
     {
