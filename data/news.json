@@ -1,12 +1,21 @@
 {
-  "generated_at": "2026-08-25T08:04:41Z",
+  "generated_at": "2026-08-25T09:04:49Z",
   "articles": [
+    {
+      "source": "BBC Asia",
+      "title": "Singapore arrests British man two years after alleged theft at Changi Airport",
+      "url": "https://www.bbc.co.uk/news/articles/ckg024vrzxjo?at_medium=RSS&at_campaign=rss",
+      "summary": "The 26-year-old faces up to seven years in jail for allegedly stealing a denim jacket from an airport shop in 2024.",
+      "published_at": "2026-08-25T09:01:35Z",
+      "country_code": "SG",
+      "country_name": "Singapore"
+    },
     {
       "source": "BBC World",
       "title": "Iran says it is 'fully prepared' to counter widened US economic sanctions",
       "url": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
       "summary": "The US calls its latest sanctions on Iran an \"economic D-Day\", but Tehran says it has a plan to address them.",
-      "published_at": "2026-08-25T06:54:46Z",
+      "published_at": "2026-08-25T08:08:26Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -21,7 +30,7 @@
     },
     {
       "source": "BBC World",
-      "title": "UK drone factories may face attacks from 'unknown sources', says Kremlin adviser",
+      "title": "UK drone factories may face attacks from 'unknown sources', says former Russian minister",
       "url": "https://www.bbc.co.uk/news/articles/cg598m3meeyo?at_medium=RSS&at_campaign=rss",
       "summary": "The comments on BBC Newsnight come after the UK announced it has agreed to hand over blueprints for British-made missile components to Ukrai…",
       "published_at": "2026-08-25T04:06:34Z",
@@ -41,7 +50,7 @@
       "source": "BBC World",
       "title": "How Canada could hit back to hurt the US economy - and Trump",
       "url": "https://www.bbc.co.uk/news/articles/c05rj80ve56o?at_medium=RSS&at_campaign=rss",
-      "summary": "What leverage does Canada, which sells about 70% of its goods to the US, actually have in this spiraling trade dispute?",
+      "summary": "What leverage does Canada, which sells about 70% of its goods to the US, actually have in this spiralling trade dispute?",
       "published_at": "2026-08-25T02:49:22Z",
       "country_code": "US",
       "country_name": "United States"
@@ -281,15 +290,6 @@
       "country_name": "India"
     },
     {
-      "source": "BBC US & Canada",
-      "title": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
-      "url": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
-      "summary": "Canada's PM said he was \"reluctantly\" announcing retaliatory tariffs and accused the US of starting a trade war.",
-      "published_at": "2026-08-23T19:11:30Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC Europe",
       "title": "Viral 'Cat in the Hat' TikTok trend sparks fun fake videos but also real fear",
       "url": "https://www.bbc.co.uk/news/articles/cwyqy29jn74o?at_medium=RSS&at_campaign=rss",
@@ -380,15 +380,6 @@
       "country_name": "China"
     },
     {
-      "source": "BBC US & Canada",
-      "title": "US military newspaper editor voices censorship fears after being fired",
-      "url": "https://www.bbc.co.uk/news/articles/cm2g23ng8p4o?at_medium=RSS&at_campaign=rss",
-      "summary": "Erik Slavin believes he was fired for saying in an interview that \"in a hypothetical situation, censorship would be a red line\".",
-      "published_at": "2026-08-22T16:57:19Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC World",
       "title": "Robot horse and rider steal the spotlight at Chinese conference",
       "url": "https://www.bbc.co.uk/news/videos/c0qvqzzdd02o?at_medium=RSS&at_campaign=rss",
@@ -450,15 +441,6 @@
       "published_at": "2026-08-21T09:41:46Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC Asia",
-      "title": "Hong Kong's Tiananmen activists convicted in national security trial",
-      "url": "https://www.bbc.co.uk/news/articles/c1l10mdrld5o?at_medium=RSS&at_campaign=rss",
-      "summary": "Three activists were accused of inciting others to subvert state power under the China-introduced law.",
-      "published_at": "2026-08-21T05:47:32Z",
-      "country_code": "CN",
-      "country_name": "China"
     },
     {
       "source": "BBC Middle East",
@@ -897,7 +879,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 25
+      "news_count": 23
     },
     {
       "country_code": "GB",
@@ -905,14 +887,14 @@
       "news_count": 8
     },
     {
-      "country_code": "CN",
-      "country_name": "China",
-      "news_count": 7
-    },
-    {
       "country_code": "PS",
       "country_name": "Palestine",
       "news_count": 7
+    },
+    {
+      "country_code": "CN",
+      "country_name": "China",
+      "news_count": 6
     },
     {
       "country_code": "IL",
@@ -1032,6 +1014,11 @@
     {
       "country_code": "SA",
       "country_name": "Saudi Arabia",
+      "news_count": 1
+    },
+    {
+      "country_code": "SG",
+      "country_name": "Singapore",
       "news_count": 1
     },
     {
