@@ -1,6 +1,33 @@
 {
-  "generated_at": "2026-08-25T00:37:24Z",
+  "generated_at": "2026-08-25T02:11:30Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "UK PM Burnham vows support for Ukraine despite 'outrageous threats' from Russia",
+      "url": "https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&at_campaign=rss",
+      "summary": "It comes after Moscow warned of \"consequences\" over the reported use of British drones by Ukraine.",
+      "published_at": "2026-08-25T01:48:24Z",
+      "country_code": "GB",
+      "country_name": "United Kingdom"
+    },
+    {
+      "source": "BBC Europe",
+      "title": "Burnham vows support for Ukraine despite 'outrageous threats' from Russia",
+      "url": "https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&at_campaign=rss",
+      "summary": "It comes after Moscow warned of \"consequences\" over the reported use of British drones by Ukraine.",
+      "published_at": "2026-08-25T01:48:24Z",
+      "country_code": "RU",
+      "country_name": "Russia"
+    },
+    {
+      "source": "BBC World",
+      "title": "How Canada could hit back to hurt the US economy - and Trump",
+      "url": "https://www.bbc.co.uk/news/articles/c05rj80ve56o?at_medium=RSS&at_campaign=rss",
+      "summary": "What leverage does Canada, which sells about 70% of its goods to the US, actually have in this spiraling trade dispute?",
+      "published_at": "2026-08-25T00:40:06Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC US & Canada",
       "title": "US-Canada trade war escalates as Trump threatens tariff hike on autos after Carney vows to retaliate",
@@ -14,7 +41,7 @@
       "source": "BBC World",
       "title": "US removes Syria from list of state sponsors of terrorism",
       "url": "https://www.bbc.co.uk/news/articles/c33knmyl0y5o?at_medium=RSS&at_campaign=rss",
-      "summary": "The Trump administration has embraced Syria's new president, former al-Qaeda militant Ahmed al-Sharaa.",
+      "summary": "The Trump administration has embraced Syria's new president, former al-Qaeda linked militant Ahmed al-Sharaa.",
       "published_at": "2026-08-25T00:17:25Z",
       "country_code": "US",
       "country_name": "United States"
@@ -81,33 +108,6 @@
       "published_at": "2026-08-24T19:57:55Z",
       "country_code": "FR",
       "country_name": "France"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "Watch: Doug Ford's blunt warning to Trump over Canada tariffs",
-      "url": "https://www.bbc.co.uk/news/videos/cx2zgr4272zo?at_medium=RSS&at_campaign=rss",
-      "summary": "Ontario Premier Doug Ford lists the ways Canada could hurt the US economy - and uses blunt language to taunt the US president.",
-      "published_at": "2026-08-24T19:45:59Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "UK PM Burnham vows support for Ukraine despite 'outrageous threats' from Russia",
-      "url": "https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&at_campaign=rss",
-      "summary": "It comes after Moscow warned of \"consequences\" over the reported use of British drones by Ukraine.",
-      "published_at": "2026-08-24T17:29:59Z",
-      "country_code": "GB",
-      "country_name": "United Kingdom"
-    },
-    {
-      "source": "BBC Europe",
-      "title": "Burnham vows support for Ukraine despite 'outrageous threats' from Russia",
-      "url": "https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&at_campaign=rss",
-      "summary": "It comes after Moscow warned of \"consequences\" over the reported use of British drones by Ukraine.",
-      "published_at": "2026-08-24T17:29:59Z",
-      "country_code": "RU",
-      "country_name": "Russia"
     },
     {
       "source": "BBC World",
@@ -261,15 +261,6 @@
       "published_at": "2026-08-24T03:55:35Z",
       "country_code": "PK",
       "country_name": "Pakistan"
-    },
-    {
-      "source": "BBC World",
-      "title": "The formidable challenges facing new Tata boss",
-      "url": "https://www.bbc.co.uk/news/articles/c20drryz7nvo?at_medium=RSS&at_campaign=rss",
-      "summary": "Corporate India's most coveted top job is open. But finding a new leader for Tata Sons is no easy task.",
-      "published_at": "2026-08-23T22:35:00Z",
-      "country_code": "IN",
-      "country_name": "India"
     },
     {
       "source": "BBC Asia",
@@ -964,7 +955,7 @@
     {
       "country_code": "IN",
       "country_name": "India",
-      "news_count": 4
+      "news_count": 3
     },
     {
       "country_code": "KE",
