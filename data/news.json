@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T05:56:17Z",
+  "generated_at": "2026-08-26T06:34:27Z",
   "articles": [
     {
       "source": "BBC Asia",
@@ -9,6 +9,15 @@
       "published_at": "2026-08-26T03:33:59Z",
       "country_code": "CN",
       "country_name": "China"
+    },
+    {
+      "source": "BBC Europe",
+      "title": "As Ukraine hits Russia's refineries, Russia targets Ukraine's petrol pumps",
+      "url": "https://www.bbc.co.uk/news/articles/c5y6x777gk4o?at_medium=RSS&at_campaign=rss",
+      "summary": "Fuel companies are urging customers not to linger at the pumps after a wave of deadly attacks.",
+      "published_at": "2026-08-25T23:50:53Z",
+      "country_code": "RU",
+      "country_name": "Russia"
     },
     {
       "source": "BBC US & Canada",
@@ -917,6 +926,11 @@
       "news_count": 3
     },
     {
+      "country_code": "RU",
+      "country_name": "Russia",
+      "news_count": 3
+    },
+    {
       "country_code": "ZA",
       "country_name": "South Africa",
       "news_count": 3
@@ -949,11 +963,6 @@
     {
       "country_code": "NZ",
       "country_name": "New Zealand",
-      "news_count": 2
-    },
-    {
-      "country_code": "RU",
-      "country_name": "Russia",
       "news_count": 2
     },
     {
