@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-08-26T03:29:58Z",
+  "generated_at": "2026-08-26T04:10:14Z",
   "articles": [
+    {
+      "source": "BBC Asia",
+      "title": "Why Tesla has been caught up in a massive car recall in China",
+      "url": "https://www.bbc.co.uk/news/articles/c9w4jx2rvgro?at_medium=RSS&at_campaign=rss",
+      "summary": "The country's biggest ever car recall affects more than four million vehicles made by Tesla, XPeng, Xiaomi and other firms.",
+      "published_at": "2026-08-26T03:33:59Z",
+      "country_code": "CN",
+      "country_name": "China"
+    },
     {
       "source": "BBC US & Canada",
       "title": "Trump says all mines cleared from Strait of Hormuz",
@@ -889,7 +898,7 @@
     {
       "country_code": "CN",
       "country_name": "China",
-      "news_count": 6
+      "news_count": 7
     },
     {
       "country_code": "GB",
