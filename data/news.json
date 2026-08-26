@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-08-26T11:52:55Z",
+  "generated_at": "2026-08-26T12:27:59Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "China advises its citizens to leave Taiwan ally Eswatini over 'security risks'",
+      "url": "https://www.bbc.co.uk/news/articles/c3rel9rgnx5o?at_medium=RSS&at_campaign=rss",
+      "summary": "Eswatini is one of 12 countries, and the only one in Africa, that has diplomatic relations with Taiwan.",
+      "published_at": "2026-08-26T12:17:12Z",
+      "country_code": "CN",
+      "country_name": "China"
+    },
+    {
+      "source": "BBC World",
+      "title": "Door was locked at Pakistan hospital where fire killed 14 babies, witnesses say",
+      "url": "https://www.bbc.co.uk/news/articles/czdz13elezlo?at_medium=RSS&at_campaign=rss",
+      "summary": "A hospital official told the BBC that the door to the ward was not locked, but manned with security guards, to protect the babies.",
+      "published_at": "2026-08-26T11:55:05Z",
+      "country_code": "PK",
+      "country_name": "Pakistan"
+    },
     {
       "source": "BBC US & Canada",
       "title": "Darline Graham wins primary to contest late brother's US Senate seat",
@@ -9,15 +27,6 @@
       "published_at": "2026-08-26T10:46:46Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "At least 14 babies die in Pakistan hospital fire",
-      "url": "https://www.bbc.co.uk/news/articles/crk3dxj6zneo?at_medium=RSS&at_campaign=rss",
-      "summary": "The fire broke out in an air conditioning unit at the mother and child unit in one of Islamabad's main hospitals.",
-      "published_at": "2026-08-26T10:42:00Z",
-      "country_code": "PK",
-      "country_name": "Pakistan"
     },
     {
       "source": "BBC Middle East",
@@ -110,7 +119,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Africa",
       "title": "Mass arrests in global crackdown on West African cyber-crime networks",
       "url": "https://www.bbc.co.uk/news/articles/cq5xdnxppl4o?at_medium=RSS&at_campaign=rss",
       "summary": "The operation included the arrest of 39 people in South Africa for romance and investment scams.",
@@ -155,7 +164,7 @@
       "country_name": "Nigeria"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "European rights court orders Turkey to free imprisoned businessman",
       "url": "https://www.bbc.co.uk/news/articles/cn5drvyg92no?at_medium=RSS&at_campaign=rss",
       "summary": "Philanthropist and activist Osman Kavala has spent almost a decade in jail over charges rights groups say are politically motivated.",
@@ -880,7 +889,7 @@
     {
       "country_code": "CN",
       "country_name": "China",
-      "news_count": 6
+      "news_count": 7
     },
     {
       "country_code": "IL",
