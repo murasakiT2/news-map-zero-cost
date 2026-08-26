@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T11:24:37Z",
+  "generated_at": "2026-08-26T11:52:55Z",
   "articles": [
     {
       "source": "BBC US & Canada",
@@ -11,6 +11,15 @@
       "country_name": "United States"
     },
     {
+      "source": "BBC World",
+      "title": "At least 14 babies die in Pakistan hospital fire",
+      "url": "https://www.bbc.co.uk/news/articles/crk3dxj6zneo?at_medium=RSS&at_campaign=rss",
+      "summary": "The fire broke out in an air conditioning unit at the mother and child unit in one of Islamabad's main hospitals.",
+      "published_at": "2026-08-26T10:42:00Z",
+      "country_code": "PK",
+      "country_name": "Pakistan"
+    },
+    {
       "source": "BBC Middle East",
       "title": "Israel's seizure of Unrwa training college in East Jerusalem condemned",
       "url": "https://www.bbc.co.uk/news/articles/c5yl89yrldpo?at_medium=RSS&at_campaign=rss",
@@ -20,7 +29,7 @@
       "country_name": "Israel"
     },
     {
-      "source": "BBC Europe",
+      "source": "BBC World",
       "title": "Radiation link in flight attendant's breast cancer, French court finds",
       "url": "https://www.bbc.co.uk/news/articles/cn0j3z6147jo?at_medium=RSS&at_campaign=rss",
       "summary": "Former Air France stewardess Sophie Lainault has had her cancer recognised as an occupational disease.",
@@ -56,7 +65,7 @@
       "country_name": "India"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "Why Tesla has been caught up in a massive car recall in China",
       "url": "https://www.bbc.co.uk/news/articles/c9w4jx2rvgro?at_medium=RSS&at_campaign=rss",
       "summary": "The country's biggest ever car recall affects more than four million vehicles made by Tesla, XPeng, Xiaomi and other firms.",
@@ -380,15 +389,6 @@
       "country_name": "New Zealand"
     },
     {
-      "source": "BBC Europe",
-      "title": "Russia's second-biggest online retailer targeted in Ukrainian strikes",
-      "url": "https://www.bbc.co.uk/news/articles/cg598yvrzpro?at_medium=RSS&at_campaign=rss",
-      "summary": "Ozon says its warehouses across southern Russia, including in Dagestan and Krasnodar, were hit in the overnight strikes.",
-      "published_at": "2026-08-24T10:40:22Z",
-      "country_code": "RU",
-      "country_name": "Russia"
-    },
-    {
       "source": "BBC World",
       "title": "'Scared to death': Thousands evacuate Nevada homes as wildfire spreads",
       "url": "https://www.bbc.co.uk/news/videos/cy0zr8lkr8lo?at_medium=RSS&at_campaign=rss",
@@ -414,15 +414,6 @@
       "published_at": "2026-08-24T08:32:46Z",
       "country_code": "ZA",
       "country_name": "South Africa"
-    },
-    {
-      "source": "BBC Europe",
-      "title": "King of Norway's health has worsened, palace says",
-      "url": "https://www.bbc.co.uk/news/articles/c36lnekj659o?at_medium=RSS&at_campaign=rss",
-      "summary": "Norway's King Harald remains in hospital receiving antibiotics for a bloodstream bacterial infection.",
-      "published_at": "2026-08-24T08:31:55Z",
-      "country_code": "NO",
-      "country_name": "Norway"
     },
     {
       "source": "BBC Latin America",
@@ -917,11 +908,6 @@
       "news_count": 4
     },
     {
-      "country_code": "RU",
-      "country_name": "Russia",
-      "news_count": 3
-    },
-    {
       "country_code": "ZA",
       "country_name": "South Africa",
       "news_count": 3
@@ -962,6 +948,11 @@
       "news_count": 2
     },
     {
+      "country_code": "RU",
+      "country_name": "Russia",
+      "news_count": 2
+    },
+    {
       "country_code": "UA",
       "country_name": "Ukraine",
       "news_count": 2
@@ -992,8 +983,8 @@
       "news_count": 1
     },
     {
-      "country_code": "NO",
-      "country_name": "Norway",
+      "country_code": "PK",
+      "country_name": "Pakistan",
       "news_count": 1
     },
     {
