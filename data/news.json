@@ -1,6 +1,33 @@
 {
-  "generated_at": "2026-08-26T20:20:52Z",
+  "generated_at": "2026-08-26T23:50:18Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "'If you started running, they shot you' - inside Nigeria's growing kidnapping crisis",
+      "url": "https://www.bbc.co.uk/news/articles/cx2z0p3nmdro?at_medium=RSS&at_campaign=rss",
+      "summary": "Many communities are living in fear of being kidnapped for ransom as the crisis spreads further south.",
+      "published_at": "2026-08-26T23:11:24Z",
+      "country_code": "NG",
+      "country_name": "Nigeria"
+    },
+    {
+      "source": "BBC World",
+      "title": "US drug agency approves breakthrough treatment for pancreatic cancer",
+      "url": "https://www.bbc.co.uk/news/articles/clyq4ge4wk9o?at_medium=RSS&at_campaign=rss",
+      "summary": "Experts have hailed the drug, daraxonrasib, as a game changer for one of the world's deadliest cancers.",
+      "published_at": "2026-08-26T22:02:18Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "Meta to pay up to $18bn to settle claims its platforms harm children",
+      "url": "https://www.bbc.co.uk/news/articles/cd68q3wynnqo?at_medium=RSS&at_campaign=rss",
+      "summary": "The deal has been reached during a California federal court trial over claims brought by US states.",
+      "published_at": "2026-08-26T21:27:23Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC US & Canada",
       "title": "US designates Palestine Action a terrorist group",
@@ -18,15 +45,6 @@
       "published_at": "2026-08-26T18:22:41Z",
       "country_code": "DE",
       "country_name": "Germany"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "Meta to pay up to $18bn to settle claims its platforms harm children",
-      "url": "https://www.bbc.co.uk/news/articles/cd68q3wynnqo?at_medium=RSS&at_campaign=rss",
-      "summary": "The deal has been reached during a California federal court trial over claims brought by US states.",
-      "published_at": "2026-08-26T17:44:39Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC Middle East",
@@ -119,15 +137,6 @@
       "country_name": "Palestine"
     },
     {
-      "source": "BBC World",
-      "title": "India's sugar squeeze threatens its biggest season for sweets",
-      "url": "https://www.bbc.co.uk/news/articles/cm2r9y9eleno?at_medium=RSS&at_campaign=rss",
-      "summary": "Domestic sugar prices have jumped nearly 40%, forcing India to import 1 million tonnes of the sweetener.",
-      "published_at": "2026-08-26T06:30:24Z",
-      "country_code": "IN",
-      "country_name": "India"
-    },
-    {
       "source": "BBC Asia",
       "title": "Why Tesla has been caught up in a massive car recall in China",
       "url": "https://www.bbc.co.uk/news/articles/c9w4jx2rvgro?at_medium=RSS&at_campaign=rss",
@@ -137,7 +146,7 @@
       "country_name": "China"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "As Ukraine hits Russia's refineries, Russia targets Ukraine's petrol pumps",
       "url": "https://www.bbc.co.uk/news/articles/c5y6x777gk4o?at_medium=RSS&at_campaign=rss",
       "summary": "Fuel companies are urging customers not to linger at the pumps after a wave of deadly attacks.",
@@ -160,15 +169,6 @@
       "url": "https://www.bbc.co.uk/news/articles/c3v4xg5klx7o?at_medium=RSS&at_campaign=rss",
       "summary": "The latest escalation in an ongoing trade war between the US and Canada will see new levies on goods from steel to furniture, fresh tuna and…",
       "published_at": "2026-08-25T19:50:57Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "CIA chief travels to Moscow for unannounced talks, US media reports",
-      "url": "https://www.bbc.co.uk/news/articles/c87vg9x5d7do?at_medium=RSS&at_campaign=rss",
-      "summary": "Flight tracking data confirms an American military aircraft travelled to Russia from the US via Latvia on Tuesday.",
-      "published_at": "2026-08-25T19:48:14Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -459,15 +459,6 @@
       "published_at": "2026-08-24T06:55:06Z",
       "country_code": "GB",
       "country_name": "United Kingdom"
-    },
-    {
-      "source": "BBC Asia",
-      "title": "China probes use of formaldehyde to keep cabbages fresh",
-      "url": "https://www.bbc.co.uk/news/articles/cy9ze48l2yeo?at_medium=RSS&at_campaign=rss",
-      "summary": "Using the carcinogen to preserve food is prohibited in China, the world's largest producer of cabbages.",
-      "published_at": "2026-08-24T05:40:48Z",
-      "country_code": "CN",
-      "country_name": "China"
     },
     {
       "source": "BBC World",
@@ -878,14 +869,14 @@
       "news_count": 12
     },
     {
-      "country_code": "CN",
-      "country_name": "China",
-      "news_count": 5
-    },
-    {
       "country_code": "IL",
       "country_name": "Israel",
       "news_count": 5
+    },
+    {
+      "country_code": "CN",
+      "country_name": "China",
+      "news_count": 4
     },
     {
       "country_code": "CO",
@@ -903,13 +894,13 @@
       "news_count": 4
     },
     {
-      "country_code": "DE",
-      "country_name": "Germany",
-      "news_count": 3
-    },
-    {
       "country_code": "NG",
       "country_name": "Nigeria",
+      "news_count": 4
+    },
+    {
+      "country_code": "DE",
+      "country_name": "Germany",
       "news_count": 3
     },
     {
@@ -925,11 +916,6 @@
     {
       "country_code": "ET",
       "country_name": "Ethiopia",
-      "news_count": 2
-    },
-    {
-      "country_code": "IN",
-      "country_name": "India",
       "news_count": 2
     },
     {
@@ -975,6 +961,11 @@
     {
       "country_code": "EG",
       "country_name": "Egypt",
+      "news_count": 1
+    },
+    {
+      "country_code": "IN",
+      "country_name": "India",
       "news_count": 1
     },
     {
