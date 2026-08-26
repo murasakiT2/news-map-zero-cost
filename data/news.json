@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-08-26T16:08:47Z",
+  "generated_at": "2026-08-26T18:09:22Z",
   "articles": [
+    {
+      "source": "BBC US & Canada",
+      "title": "Meta's $18bn settlement a landmark victory for US states",
+      "url": "https://www.bbc.co.uk/news/articles/cd68q3wynnqo?at_medium=RSS&at_campaign=rss",
+      "summary": "The deal has been reached during a California federal court trial over claims brought by US states.",
+      "published_at": "2026-08-26T17:44:39Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "US designates Palestine Action a terrorist group",
+      "url": "https://www.bbc.co.uk/news/articles/cn4kzd7k2nvo?at_medium=RSS&at_campaign=rss",
+      "summary": "Supporting Palestine Action became illegal in the UK in 2025 after the government banned it under anti-terror legislation.",
+      "published_at": "2026-08-26T17:31:45Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC Middle East",
+      "title": "Funeral held for renowned Palestinian artist Sliman Mansour",
+      "url": "https://www.bbc.co.uk/news/articles/c8xker87k7do?at_medium=RSS&at_campaign=rss",
+      "summary": "The 79-year-old was best known for paintings depicting the Palestinian landscape and cultural scenes featuring Palestinian symbols of identi…",
+      "published_at": "2026-08-26T16:58:36Z",
+      "country_code": "PS",
+      "country_name": "Palestine"
+    },
+    {
+      "source": "BBC Europe",
+      "title": "Trump says 'something may come out of' CIA head's unannounced visit to Moscow",
+      "url": "https://www.bbc.co.uk/news/articles/c0klj7ykp81o?at_medium=RSS&at_campaign=rss",
+      "summary": "John Ratcliffe travelled to the Russian capital on Tuesday in a rare and unannounced visit.",
+      "published_at": "2026-08-26T16:31:53Z",
+      "country_code": "RU",
+      "country_name": "Russia"
+    },
     {
       "source": "BBC Asia",
       "title": "Watch: 'We grabbed newborn and rushed out of Islamabad hospital'",
@@ -18,24 +54,6 @@
       "published_at": "2026-08-26T14:42:03Z",
       "country_code": "PK",
       "country_name": "Pakistan"
-    },
-    {
-      "source": "BBC Europe",
-      "title": "Trump says 'something may come out of' CIA head's unannounced visit to Moscow",
-      "url": "https://www.bbc.co.uk/news/articles/c0klj7ykp81o?at_medium=RSS&at_campaign=rss",
-      "summary": "John Ratcliffe travelled to the Russian capital on Tuesday in a rare and unannounced visit.",
-      "published_at": "2026-08-26T14:34:38Z",
-      "country_code": "RU",
-      "country_name": "Russia"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "Meta agrees to pay up to $18bn to settle social media case",
-      "url": "https://www.bbc.co.uk/news/articles/cd68q3wynnqo?at_medium=RSS&at_campaign=rss",
-      "summary": "The deal has been reached during a California federal court trial over claims brought by US states.",
-      "published_at": "2026-08-26T14:10:17Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC World",
@@ -497,15 +515,6 @@
       "country_name": "Kenya"
     },
     {
-      "source": "BBC Middle East",
-      "title": "Syria says Israeli strike near Damascus violation of international law",
-      "url": "https://www.bbc.co.uk/news/articles/c2dkdegr2xeo?at_medium=RSS&at_campaign=rss",
-      "summary": "The latest incident comes days after reports emerged Israel had struck a military airbase close to the Turkish border.",
-      "published_at": "2026-08-22T21:42:42Z",
-      "country_code": "IL",
-      "country_name": "Israel"
-    },
-    {
       "source": "BBC World",
       "title": "Watch: Moment humanoid robot beats Usain Bolt's 100m record",
       "url": "https://www.bbc.co.uk/news/videos/cgljl9zp47xo?at_medium=RSS&at_campaign=rss",
@@ -522,15 +531,6 @@
       "published_at": "2026-08-21T19:31:47Z",
       "country_code": "IL",
       "country_name": "Israel"
-    },
-    {
-      "source": "BBC Middle East",
-      "title": "UK, Canada and Australia condemn Israel for refusing criminal probe into aid worker killings in Gaza",
-      "url": "https://www.bbc.co.uk/news/articles/cvgl2pe09eno?at_medium=RSS&at_campaign=rss",
-      "summary": "Seven World Central Kitchen workers were killed in the Israeli strike on their convoy in 2024.",
-      "published_at": "2026-08-21T15:58:57Z",
-      "country_code": "GB",
-      "country_name": "United Kingdom"
     },
     {
       "source": "BBC Europe",
@@ -870,12 +870,12 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 24
+      "news_count": 25
     },
     {
       "country_code": "PS",
       "country_name": "Palestine",
-      "news_count": 11
+      "news_count": 12
     },
     {
       "country_code": "CN",
@@ -885,11 +885,6 @@
     {
       "country_code": "IL",
       "country_name": "Israel",
-      "news_count": 6
-    },
-    {
-      "country_code": "GB",
-      "country_name": "United Kingdom",
       "news_count": 5
     },
     {
@@ -900,6 +895,11 @@
     {
       "country_code": "FR",
       "country_name": "France",
+      "news_count": 4
+    },
+    {
+      "country_code": "GB",
+      "country_name": "United Kingdom",
       "news_count": 4
     },
     {
