@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-08-26T07:36:20Z",
+  "generated_at": "2026-08-26T08:29:42Z",
   "articles": [
+    {
+      "source": "BBC Middle East",
+      "title": "Far-right Israeli lawmaker damages Palestinian memorial with sledgehammer",
+      "url": "https://www.bbc.co.uk/news/articles/c0lrw8325pzo?at_medium=RSS&at_campaign=rss",
+      "summary": "Zvi Sukkot's actions have drawn widespread condemnation, including from Israeli Prime Minister Benjamin Netanyahu.",
+      "published_at": "2026-08-26T08:17:45Z",
+      "country_code": "PS",
+      "country_name": "Palestine"
+    },
     {
       "source": "BBC Asia",
       "title": "Why Tesla has been caught up in a massive car recall in China",
@@ -588,33 +597,6 @@
     },
     {
       "source": "BBC Middle East",
-      "title": "US says sanctions will 'squash' Iran's economy and 'collapse' its regime",
-      "url": "https://www.bbc.co.uk/news/articles/c87n90eg0p2o?at_medium=RSS&at_campaign=rss",
-      "summary": "US Treasury Secretary Scott Bessent says allies will need to decide whether they \"are with us or against us\".",
-      "published_at": "2026-08-20T19:52:48Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC Middle East",
-      "title": "UK, France, Germany, Italy and Canada condemn Israel's West Bank settlement project",
-      "url": "https://www.bbc.co.uk/news/articles/c998evlgz8ko?at_medium=RSS&at_campaign=rss",
-      "summary": "European countries and Canada pile on pressure over Israel's plans to expand settlements in a strategically vital part of the occupied West …",
-      "published_at": "2026-08-20T18:55:14Z",
-      "country_code": "GB",
-      "country_name": "United Kingdom"
-    },
-    {
-      "source": "BBC Middle East",
-      "title": "Assad officer extradited to Syria on war crimes charges for first time",
-      "url": "https://www.bbc.co.uk/news/articles/cvgjdy8q766o?at_medium=RSS&at_campaign=rss",
-      "summary": "Lebanon handed over former General Adel Issa, as Syria steps up its pursuit of wanted members of the former regime.",
-      "published_at": "2026-08-20T12:38:35Z",
-      "country_code": "SY",
-      "country_name": "Syria"
-    },
-    {
-      "source": "BBC Middle East",
       "title": "What we know about Israel's criminal investigations",
       "url": "https://www.bbc.co.uk/news/videos/cdx8w1g2q5eo?at_medium=RSS&at_campaign=rss",
       "summary": "The Israeli military has confirmed for the first time that it opened fire on a car carrying five-year-old Palestinian girl Hind Rajab, who w…",
@@ -729,6 +711,15 @@
       "published_at": "2026-08-14T14:56:04Z",
       "country_code": "IT",
       "country_name": "Italy"
+    },
+    {
+      "source": "BBC Middle East",
+      "title": "How Israeli settlers are besieging Palestinian family homes in West Bank",
+      "url": "https://www.bbc.co.uk/news/videos/ckg6pepygr0o?at_medium=RSS&at_campaign=rss",
+      "summary": "After the homeowners made their initial report to the Israeli army, the first soldiers who arrived at the scene were filmed praying with the…",
+      "published_at": "2026-08-12T20:32:03Z",
+      "country_code": "PS",
+      "country_name": "Palestine"
     },
     {
       "source": "BBC Latin America",
@@ -888,12 +879,12 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 27
+      "news_count": 26
     },
     {
       "country_code": "PS",
       "country_name": "Palestine",
-      "news_count": 9
+      "news_count": 11
     },
     {
       "country_code": "CN",
@@ -901,14 +892,14 @@
       "news_count": 6
     },
     {
-      "country_code": "GB",
-      "country_name": "United Kingdom",
-      "news_count": 6
-    },
-    {
       "country_code": "IL",
       "country_name": "Israel",
       "news_count": 6
+    },
+    {
+      "country_code": "GB",
+      "country_name": "United Kingdom",
+      "news_count": 5
     },
     {
       "country_code": "CO",
@@ -966,11 +957,6 @@
       "news_count": 2
     },
     {
-      "country_code": "SY",
-      "country_name": "Syria",
-      "news_count": 2
-    },
-    {
       "country_code": "UA",
       "country_name": "Ukraine",
       "news_count": 2
@@ -1023,6 +1009,11 @@
     {
       "country_code": "SG",
       "country_name": "Singapore",
+      "news_count": 1
+    },
+    {
+      "country_code": "SY",
+      "country_name": "Syria",
       "news_count": 1
     },
     {
