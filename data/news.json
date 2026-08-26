@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-08-26T13:32:32Z",
+  "generated_at": "2026-08-26T14:33:34Z",
   "articles": [
+    {
+      "source": "BBC Europe",
+      "title": "CIA head's visit to Moscow was 'semi-routine', says Trump",
+      "url": "https://www.bbc.co.uk/news/articles/c0klj7ykp81o?at_medium=RSS&at_campaign=rss",
+      "summary": "John Ratcliffe travelled to the Russian capital on Tuesday in a rare and unannounced visit.",
+      "published_at": "2026-08-26T14:16:16Z",
+      "country_code": "RU",
+      "country_name": "Russia"
+    },
     {
       "source": "BBC World",
       "title": "Door was locked at Pakistan hospital where fire killed 14 babies, witnesses say",
@@ -18,6 +27,15 @@
       "published_at": "2026-08-26T12:17:12Z",
       "country_code": "CN",
       "country_name": "China"
+    },
+    {
+      "source": "BBC Asia",
+      "title": "At least 14 babies die in Pakistan hospital fire",
+      "url": "https://www.bbc.co.uk/news/articles/crk3dxj6zneo?at_medium=RSS&at_campaign=rss",
+      "summary": "The fire broke out in an air conditioning unit at the mother and child unit in one of Islamabad's main hospitals.",
+      "published_at": "2026-08-26T12:08:35Z",
+      "country_code": "PK",
+      "country_name": "Pakistan"
     },
     {
       "source": "BBC US & Canada",
@@ -227,7 +245,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "China hits out at 'illegal' new US sanctions on Iran and trading partners",
       "url": "https://www.bbc.co.uk/news/articles/clyl8965j5go?at_medium=RSS&at_campaign=rss",
       "summary": "The US has threatened to isolate nations that continue to do business with Tehran, which sells much of its oil to Beijing.",
@@ -335,7 +353,7 @@
       "country_name": "Syria"
     },
     {
-      "source": "BBC Asia",
+      "source": "BBC Europe",
       "title": "Manga-inspired theme park to be built near Paris",
       "url": "https://www.bbc.co.uk/news/articles/c8r6xy3ryndo?at_medium=RSS&at_campaign=rss",
       "summary": "The construction of three new parks was given the green light after a €6bn investment from Saudi Arabia.",
@@ -360,15 +378,6 @@
       "published_at": "2026-08-24T13:56:22Z",
       "country_code": "IL",
       "country_name": "Israel"
-    },
-    {
-      "source": "BBC Africa",
-      "title": "'101-year-old great-grandmother' arrested for selling cannabis in Nigeria",
-      "url": "https://www.bbc.co.uk/news/articles/c93e5gyejgdo?at_medium=RSS&at_campaign=rss",
-      "summary": "Esther Ogunmabo is accused of selling \"retail sachets\" of a strain of cannabis known as skunk.",
-      "published_at": "2026-08-24T13:50:23Z",
-      "country_code": "NG",
-      "country_name": "Nigeria"
     },
     {
       "source": "BBC Europe",
@@ -477,15 +486,6 @@
       "published_at": "2026-08-23T13:35:06Z",
       "country_code": "ET",
       "country_name": "Ethiopia"
-    },
-    {
-      "source": "BBC Asia",
-      "title": "Robot boxing, football and sprinting at World Humanoid Games",
-      "url": "https://www.bbc.co.uk/news/videos/c7vgvj6e1emo?at_medium=RSS&at_campaign=rss",
-      "summary": "The second-edition of the five-day competition kicked off in Beijing, China, on Saturday.",
-      "published_at": "2026-08-23T12:47:06Z",
-      "country_code": "CN",
-      "country_name": "China"
     },
     {
       "source": "BBC Africa",
@@ -889,7 +889,7 @@
     {
       "country_code": "CN",
       "country_name": "China",
-      "news_count": 7
+      "news_count": 6
     },
     {
       "country_code": "IL",
@@ -914,7 +914,12 @@
     {
       "country_code": "NG",
       "country_name": "Nigeria",
-      "news_count": 4
+      "news_count": 3
+    },
+    {
+      "country_code": "RU",
+      "country_name": "Russia",
+      "news_count": 3
     },
     {
       "country_code": "ZA",
@@ -957,8 +962,8 @@
       "news_count": 2
     },
     {
-      "country_code": "RU",
-      "country_name": "Russia",
+      "country_code": "PK",
+      "country_name": "Pakistan",
       "news_count": 2
     },
     {
@@ -989,11 +994,6 @@
     {
       "country_code": "IT",
       "country_name": "Italy",
-      "news_count": 1
-    },
-    {
-      "country_code": "PK",
-      "country_name": "Pakistan",
       "news_count": 1
     },
     {
