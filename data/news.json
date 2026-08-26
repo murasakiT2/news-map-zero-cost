@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T23:44:41Z",
+  "generated_at": "2026-08-26T00:38:27Z",
   "articles": [
     {
       "source": "BBC US & Canada",
@@ -461,15 +461,6 @@
       "country_name": "China"
     },
     {
-      "source": "BBC Asia",
-      "title": "Dozens of co-ordinated arson attacks hit southern Thailand",
-      "url": "https://www.bbc.co.uk/news/articles/c8enegx4xy3o?at_medium=RSS&at_campaign=rss",
-      "summary": "No group has claimed responsibility for the attacks, which the military said \"aimed at creating unrest\".",
-      "published_at": "2026-08-23T11:50:59Z",
-      "country_code": "TH",
-      "country_name": "Thailand"
-    },
-    {
       "source": "BBC Africa",
       "title": "Did a goat herder's lucky $200 nugget spark a gold rush in western Kenya?",
       "url": "https://www.bbc.co.uk/news/articles/clyjmnvdr95o?at_medium=RSS&at_campaign=rss",
@@ -569,15 +560,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Asia",
-      "title": "Broken toilets, leaking roofs: Why India's 'cockroach' party wants to fix schools",
-      "url": "https://www.bbc.co.uk/news/articles/ckg4q8kyxp7o?at_medium=RSS&at_campaign=rss",
-      "summary": "The poor state of government schools is the focus of a new campaign by India's Cockroach Janta Party (CJP).",
-      "published_at": "2026-08-21T00:04:10Z",
-      "country_code": "IN",
-      "country_name": "India"
-    },
-    {
       "source": "BBC Africa",
       "title": "Why Nigeria's one-time political giant may face extinction",
       "url": "https://www.bbc.co.uk/news/articles/cj364klz857o?at_medium=RSS&at_campaign=rss",
@@ -585,15 +567,6 @@
       "published_at": "2026-08-20T23:21:22Z",
       "country_code": "NG",
       "country_name": "Nigeria"
-    },
-    {
-      "source": "BBC Asia",
-      "title": "Trump wants to be friends with Kim - but South Korea could pay the price",
-      "url": "https://www.bbc.co.uk/news/articles/c4gj1vje8dxo?at_medium=RSS&at_campaign=rss",
-      "summary": "US military exercises with South Korea end early on Friday, at a time when the North is in a position of strength.",
-      "published_at": "2026-08-20T22:01:26Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC Latin America",
@@ -906,7 +879,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 28
+      "news_count": 27
     },
     {
       "country_code": "PS",
@@ -956,11 +929,6 @@
     {
       "country_code": "ET",
       "country_name": "Ethiopia",
-      "news_count": 2
-    },
-    {
-      "country_code": "IN",
-      "country_name": "India",
       "news_count": 2
     },
     {
@@ -1014,6 +982,11 @@
       "news_count": 1
     },
     {
+      "country_code": "IN",
+      "country_name": "India",
+      "news_count": 1
+    },
+    {
       "country_code": "IR",
       "country_name": "Iran",
       "news_count": 1
@@ -1041,11 +1014,6 @@
     {
       "country_code": "SG",
       "country_name": "Singapore",
-      "news_count": 1
-    },
-    {
-      "country_code": "TH",
-      "country_name": "Thailand",
       "news_count": 1
     },
     {
