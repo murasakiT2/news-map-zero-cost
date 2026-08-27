@@ -1,17 +1,98 @@
 {
-  "generated_at": "2026-08-27T05:39:29Z",
+  "generated_at": "2026-08-27T17:02:50Z",
   "articles": [
     {
+      "source": "BBC Africa",
+      "title": "Nigeria's football leadership resigns amid governance concerns",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cpvezz222l7o?at_medium=RSS&at_campaign=rss",
+      "summary": "The president, general secretary and executive committee of the Nigeria Football Federation all resign, leaving a leadership vacuum.",
+      "published_at": "2026-08-27T16:02:36Z",
+      "country_code": "NG",
+      "country_name": "Nigeria"
+    },
+    {
       "source": "BBC World",
-      "title": "At least one dead after car crashes into crowd in northern France",
-      "url": "https://www.bbc.co.uk/news/articles/cqxvrl744nyo?at_medium=RSS&at_campaign=rss",
-      "summary": "One suspect was arrested after the incident in Caen, police said, following a reported fight at a nearby bar.",
-      "published_at": "2026-08-27T02:42:17Z",
+      "title": "Two killed in 'violent incident' at school near Berlin",
+      "url": "https://www.bbc.co.uk/news/articles/cgqdy8g2zlgo?at_medium=RSS&at_campaign=rss",
+      "summary": "Police have arrested a man after an incident in which two people were killed including an 18-year-old.",
+      "published_at": "2026-08-27T15:47:34Z",
+      "country_code": "DE",
+      "country_name": "Germany"
+    },
+    {
+      "source": "BBC Europe",
+      "title": "Memory wars: Election clash over Germany's Nazi past as AfD eyes power in east",
+      "url": "https://www.bbc.co.uk/news/articles/cddv43d4jn2o?at_medium=RSS&at_campaign=rss",
+      "summary": "Remembering its role in the World Wars is a key aspect of modern Germany's identity but the AfD argues it is time to take a more positive vi…",
+      "published_at": "2026-08-27T14:52:11Z",
+      "country_code": "DE",
+      "country_name": "Germany"
+    },
+    {
+      "source": "BBC World",
+      "title": "Jellyfish force partial shutdown of French nuclear plant",
+      "url": "https://www.bbc.co.uk/news/articles/cy8znx3g4e2o?at_medium=RSS&at_campaign=rss",
+      "summary": "It is the second consecutive year that jellyfish has forced the closure of the Gravelines power station in northern France.",
+      "published_at": "2026-08-27T14:49:23Z",
       "country_code": "FR",
       "country_name": "France"
     },
     {
       "source": "BBC World",
+      "title": "Board of Peace's Gaza envoy criticises Israeli strikes and Hamas actions",
+      "url": "https://www.bbc.co.uk/news/articles/cew92l07kwzo?at_medium=RSS&at_campaign=rss",
+      "summary": "Nickolay Mladenov warns that a collapse of last October's ceasefire would be \"a point of no return\" for the region.",
+      "published_at": "2026-08-27T14:17:24Z",
+      "country_code": "PS",
+      "country_name": "Palestine"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "Dozens of US and Canadian citizens missing after flash flooding in Nepal",
+      "url": "https://www.bbc.co.uk/news/articles/cn5dzldq1pzo?at_medium=RSS&at_campaign=rss",
+      "summary": "They are among hundreds of people still unaccounted for, with authorities for both countries saying they are closely monitoring the situatio…",
+      "published_at": "2026-08-27T12:26:12Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Man who attacked nun on CCTV in Jerusalem acquitted on grounds of mental health",
+      "url": "https://www.bbc.co.uk/news/articles/cpwl54kddeko?at_medium=RSS&at_campaign=rss",
+      "summary": "A Jerusalem court said the Jewish attacker was having a psychotic episode when he assaulted the nun, in an incident which caused outrage.",
+      "published_at": "2026-08-27T11:23:28Z",
+      "country_code": "IL",
+      "country_name": "Israel"
+    },
+    {
+      "source": "BBC Africa",
+      "title": "'If you started running, they shot you' - inside Nigeria's growing kidnapping crisis",
+      "url": "https://www.bbc.co.uk/news/articles/cx2z0p3nmdro?at_medium=RSS&at_campaign=rss",
+      "summary": "Many communities are living in fear of being kidnapped for ransom as the crisis spreads further south.",
+      "published_at": "2026-08-27T09:56:23Z",
+      "country_code": "NG",
+      "country_name": "Nigeria"
+    },
+    {
+      "source": "BBC Europe",
+      "title": "Fan backlash as gay World Cup star joins Saudi club",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvgyl2dvvv0o?at_medium=RSS&at_campaign=rss",
+      "summary": "Spain forward Esther Gonzalez attracts backlash after signing for Saudi Women's Premier League side Al Qadsiah.",
+      "published_at": "2026-08-27T08:52:41Z",
+      "country_code": "ES",
+      "country_name": "Spain"
+    },
+    {
+      "source": "BBC Europe",
+      "title": "Two dead and 10 hurt after car rams into crowd in northern France",
+      "url": "https://www.bbc.co.uk/news/articles/cqxvrl744nyo?at_medium=RSS&at_campaign=rss",
+      "summary": "A suspect was arrested after the incident in Caen, police said, following a reported fight at a nearby bar.",
+      "published_at": "2026-08-27T07:07:34Z",
+      "country_code": "FR",
+      "country_name": "France"
+    },
+    {
+      "source": "BBC Africa",
       "title": "At least 12 dead as wildfires sweep through northern Algeria",
       "url": "https://www.bbc.co.uk/news/articles/cvgyd4x6nj4o?at_medium=RSS&at_campaign=rss",
       "summary": "Northern Africa has experienced severe heatwaves this summer, leading to hundreds of fires across the region.",
@@ -20,29 +101,11 @@
       "country_name": "Algeria"
     },
     {
-      "source": "BBC World",
-      "title": "'If you started running, they shot you' - inside Nigeria's growing kidnapping crisis",
-      "url": "https://www.bbc.co.uk/news/articles/cx2z0p3nmdro?at_medium=RSS&at_campaign=rss",
-      "summary": "Many communities are living in fear of being kidnapped for ransom as the crisis spreads further south.",
-      "published_at": "2026-08-26T23:11:24Z",
-      "country_code": "NG",
-      "country_name": "Nigeria"
-    },
-    {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "US drug agency approves breakthrough treatment for pancreatic cancer",
       "url": "https://www.bbc.co.uk/news/articles/clyq4ge4wk9o?at_medium=RSS&at_campaign=rss",
       "summary": "Experts have hailed the drug, daraxonrasib, as a game changer for one of the world's deadliest cancers.",
       "published_at": "2026-08-26T22:02:18Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "Meta to pay up to $18bn to settle claims its platforms harm children",
-      "url": "https://www.bbc.co.uk/news/articles/cd68q3wynnqo?at_medium=RSS&at_campaign=rss",
-      "summary": "The deal has been reached during a California federal court trial over claims brought by US states.",
-      "published_at": "2026-08-26T21:27:23Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -56,7 +119,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "Two German airport workers die of malaria after 'mosquito arrives on plane'",
       "url": "https://www.bbc.co.uk/news/articles/cz6zwgg9y8go?at_medium=RSS&at_campaign=rss",
       "summary": "It is believed the mosquitoes arrived at Germany's busiest airport on a plane, according to German public health officials.",
@@ -74,7 +137,7 @@
       "country_name": "Palestine"
     },
     {
-      "source": "BBC Europe",
+      "source": "BBC US & Canada",
       "title": "Trump says 'something may come out of' CIA head's unannounced visit to Moscow",
       "url": "https://www.bbc.co.uk/news/articles/c0klj7ykp81o?at_medium=RSS&at_campaign=rss",
       "summary": "John Ratcliffe travelled to the Russian capital on Tuesday in a rare and unannounced visit.",
@@ -92,31 +155,13 @@
       "country_name": "Pakistan"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "Door was locked at Pakistan hospital where fire killed 14 babies, witnesses say",
       "url": "https://www.bbc.co.uk/news/articles/czdz13elezlo?at_medium=RSS&at_campaign=rss",
       "summary": "The hospital tells the BBC the ward door was not locked but manned with security guards, to protect the babies.",
       "published_at": "2026-08-26T14:42:03Z",
       "country_code": "PK",
       "country_name": "Pakistan"
-    },
-    {
-      "source": "BBC World",
-      "title": "China advises its citizens to leave Taiwan ally Eswatini over 'security risks'",
-      "url": "https://www.bbc.co.uk/news/articles/c3rel9rgnx5o?at_medium=RSS&at_campaign=rss",
-      "summary": "Eswatini is one of 12 countries, and the only one in Africa, that has diplomatic relations with Taiwan.",
-      "published_at": "2026-08-26T12:17:12Z",
-      "country_code": "CN",
-      "country_name": "China"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "Darline Graham wins primary to contest late brother's US Senate seat",
-      "url": "https://www.bbc.co.uk/news/articles/c8r6dxxy27eo?at_medium=RSS&at_campaign=rss",
-      "summary": "The Trump-backed candidate, whose brother Lindsey Graham died in July, has never previously run for elected office.",
-      "published_at": "2026-08-26T10:46:46Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC Middle East",
@@ -128,7 +173,16 @@
       "country_name": "Israel"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Africa",
+      "title": "Man City complete £86m Bouaddi signing from Lille",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c8d3jej2lqlo?at_medium=RSS&at_campaign=rss",
+      "summary": "Manchester City complete the signing of Morocco midfielder Ayyoub Bouaddi from Lille in a £85.6m deal on a five-year contract.",
+      "published_at": "2026-08-26T10:30:52Z",
+      "country_code": "MA",
+      "country_name": "Morocco"
+    },
+    {
+      "source": "BBC Europe",
       "title": "Radiation link in flight attendant's breast cancer, French court finds",
       "url": "https://www.bbc.co.uk/news/articles/cn0j3z6147jo?at_medium=RSS&at_campaign=rss",
       "summary": "Former Air France stewardess Sophie Lainault has had her cancer recognised as an occupational disease.",
@@ -137,7 +191,7 @@
       "country_name": "France"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "Canada's retaliation tests the limit of American power under Trump",
       "url": "https://www.bbc.co.uk/news/articles/ce8xd5k1krpo?at_medium=RSS&at_campaign=rss",
       "summary": "The president is using US dominance to challenge allies and enemies alike - but both Canada and Iran have found ways to fight back.",
@@ -146,7 +200,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Middle East",
       "title": "Far-right Israeli lawmaker damages Palestinian memorial with sledgehammer",
       "url": "https://www.bbc.co.uk/news/articles/c0lrw8325pzo?at_medium=RSS&at_campaign=rss",
       "summary": "Zvi Sukkot's actions have drawn widespread condemnation, including from Israeli Prime Minister Benjamin Netanyahu.",
@@ -173,67 +227,13 @@
       "country_name": "Russia"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Middle East",
       "title": "Trump says all mines cleared from Strait of Hormuz",
       "url": "https://www.bbc.co.uk/news/articles/cwyzw836d05o?at_medium=RSS&at_campaign=rss",
       "summary": "Iran has closed the vital waterway since the beginning of the conflict causing wild fluctuations in oil prices worldwide.",
       "published_at": "2026-08-25T21:23:41Z",
       "country_code": "IR",
       "country_name": "Iran"
-    },
-    {
-      "source": "BBC World",
-      "title": "Canada announces 'dollar-for-dollar' retaliatory tariffs on US as high as 50%",
-      "url": "https://www.bbc.co.uk/news/articles/c3v4xg5klx7o?at_medium=RSS&at_campaign=rss",
-      "summary": "The latest escalation in an ongoing trade war between the US and Canada will see new levies on goods from steel to furniture, fresh tuna and…",
-      "published_at": "2026-08-25T19:50:57Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC Africa",
-      "title": "Mass arrests in global crackdown on West African cyber-crime networks",
-      "url": "https://www.bbc.co.uk/news/articles/cq5xdnxppl4o?at_medium=RSS&at_campaign=rss",
-      "summary": "The operation included the arrest of 39 people in South Africa for romance and investment scams.",
-      "published_at": "2026-08-25T19:30:37Z",
-      "country_code": "ZA",
-      "country_name": "South Africa"
-    },
-    {
-      "source": "BBC Europe",
-      "title": "Spanish government says sorry to people of Ceuta for migrant crisis",
-      "url": "https://www.bbc.co.uk/news/articles/c1dl7dykrnvo?at_medium=RSS&at_campaign=rss",
-      "summary": "Several thousand migrants remain in the enclave after a mass crossing from Morocco in late July.",
-      "published_at": "2026-08-25T19:11:40Z",
-      "country_code": "MA",
-      "country_name": "Morocco"
-    },
-    {
-      "source": "BBC World",
-      "title": "Germany's Merz warns attackers will 'pay price' after drone incident",
-      "url": "https://www.bbc.co.uk/news/articles/cddv71p4j2jo?at_medium=RSS&at_campaign=rss",
-      "summary": "A drone attack on Leipzig Airport highlights the \"very real threat\" faced by the country, the German chancellor says.",
-      "published_at": "2026-08-25T17:12:21Z",
-      "country_code": "DE",
-      "country_name": "Germany"
-    },
-    {
-      "source": "BBC Africa",
-      "title": "Nigeria's president orders manhunt after kidnappers upload victim video",
-      "url": "https://www.bbc.co.uk/news/articles/c0rewkerdpyo?at_medium=RSS&at_campaign=rss",
-      "summary": "The footage shows dozens of men, women and children sitting in a forest.",
-      "published_at": "2026-08-25T16:40:11Z",
-      "country_code": "NG",
-      "country_name": "Nigeria"
-    },
-    {
-      "source": "BBC Europe",
-      "title": "European rights court orders Turkey to free imprisoned businessman",
-      "url": "https://www.bbc.co.uk/news/articles/cn5drvyg92no?at_medium=RSS&at_campaign=rss",
-      "summary": "Philanthropist and activist Osman Kavala has spent almost a decade in jail over charges rights groups say are politically motivated.",
-      "published_at": "2026-08-25T15:58:20Z",
-      "country_code": "TR",
-      "country_name": "Turkey"
     },
     {
       "source": "BBC Africa",
@@ -252,15 +252,6 @@
       "published_at": "2026-08-25T15:04:52Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC Middle East",
-      "title": "Israeli attacks kill five in Gaza, including two children, medics say",
-      "url": "https://www.bbc.co.uk/news/articles/ce8x1rdgp3lo?at_medium=RSS&at_campaign=rss",
-      "summary": "An Israeli strike on Monday killed a four-year-old boy, while a 10-year-old girl was hit by a bullet inside her tent, according to medics an…",
-      "published_at": "2026-08-25T14:07:50Z",
-      "country_code": "PS",
-      "country_name": "Palestine"
     },
     {
       "source": "BBC Middle East",
@@ -308,15 +299,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Europe",
-      "title": "UK drone factories may face attacks from 'unknown sources', says former Russian minister",
-      "url": "https://www.bbc.co.uk/news/articles/cg598m3meeyo?at_medium=RSS&at_campaign=rss",
-      "summary": "The comments on BBC Newsnight come after the UK announced it has agreed to hand over blueprints for British-made missile components to Ukrai…",
-      "published_at": "2026-08-25T04:06:34Z",
-      "country_code": "GB",
-      "country_name": "United Kingdom"
-    },
-    {
       "source": "BBC US & Canada",
       "title": "How Canada could hit back to hurt the US economy - and Trump",
       "url": "https://www.bbc.co.uk/news/articles/c05rj80ve56o?at_medium=RSS&at_campaign=rss",
@@ -340,24 +322,6 @@
       "url": "https://www.bbc.co.uk/news/articles/c33knmyl0y5o?at_medium=RSS&at_campaign=rss",
       "summary": "The Trump administration has embraced Syria's new president, former al-Qaeda linked militant Ahmed al-Sharaa.",
       "published_at": "2026-08-25T00:17:25Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "Moment tornado tears through southern France",
-      "url": "https://www.bbc.co.uk/news/videos/ckg8wkd0j7do?at_medium=RSS&at_campaign=rss",
-      "summary": "The tornado has injured more than 40 people and destroyed homes in villages.",
-      "published_at": "2026-08-25T00:16:35Z",
-      "country_code": "FR",
-      "country_name": "France"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "'What you see is what you pay' - why some US restaurants are banning tips",
-      "url": "https://www.bbc.co.uk/news/articles/c4g36yze692o?at_medium=RSS&at_campaign=rss",
-      "summary": "Tips are central to US dining culture but some eateries think that they are unfair.",
-      "published_at": "2026-08-24T23:04:17Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -398,7 +362,7 @@
       "country_name": "France"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "Is UK's Storm Shadow missile a game changer for Ukraine?",
       "url": "https://www.bbc.co.uk/news/videos/cx2znjly4dno?at_medium=RSS&at_campaign=rss",
       "summary": "Correspondent Joe Inwood breaks down the weapons technology that could make a difference in the Russia-Ukraine war.",
@@ -443,7 +407,7 @@
       "country_name": "New Zealand"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "'Scared to death': Thousands evacuate Nevada homes as wildfire spreads",
       "url": "https://www.bbc.co.uk/news/videos/cy0zr8lkr8lo?at_medium=RSS&at_campaign=rss",
       "summary": "Tens of thousands of people in the US state have been warned to evacuate as the wildfire spreads in the outskirts of Reno.",
@@ -479,7 +443,7 @@
       "country_name": "United Kingdom"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "What do locals think of IndyCar in Washington DC?",
       "url": "https://www.bbc.co.uk/news/videos/c93e5q5783wo?at_medium=RSS&at_campaign=rss",
       "summary": "US President Donald Trump was among hundreds of people who gathered to see the race through Washington DC streets on Sunday.",
@@ -495,15 +459,6 @@
       "published_at": "2026-08-23T22:35:00Z",
       "country_code": "IN",
       "country_name": "India"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "Frustration builds in US city struggling without power for 12 days",
-      "url": "https://www.bbc.co.uk/news/articles/clyly8vdpdwo?at_medium=RSS&at_campaign=rss",
-      "summary": "In the town of Gary, where a third of residents live in poverty, people say they have been living in \"survival mode\".",
-      "published_at": "2026-08-23T15:54:32Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC Africa",
@@ -524,15 +479,6 @@
       "country_name": "Kenya"
     },
     {
-      "source": "BBC World",
-      "title": "Watch: Moment humanoid robot beats Usain Bolt's 100m record",
-      "url": "https://www.bbc.co.uk/news/videos/cgljl9zp47xo?at_medium=RSS&at_campaign=rss",
-      "summary": "The robot ran the distance in 9.39 seconds at the World Humanoid Robot Games in Beijing.",
-      "published_at": "2026-08-22T17:02:06Z",
-      "country_code": "CN",
-      "country_name": "China"
-    },
-    {
       "source": "BBC Middle East",
       "title": "How Israel is expanding settlements in drive to reshape West Bank",
       "url": "https://www.bbc.co.uk/news/articles/c2lq5g4dedpo?at_medium=RSS&at_campaign=rss",
@@ -540,15 +486,6 @@
       "published_at": "2026-08-21T19:31:47Z",
       "country_code": "IL",
       "country_name": "Israel"
-    },
-    {
-      "source": "BBC Europe",
-      "title": "Rosenberg: Shortage of petrol but not patriotism as Russians feel growing impact of war",
-      "url": "https://www.bbc.co.uk/news/articles/c4gknzgje7go?at_medium=RSS&at_campaign=rss",
-      "summary": "Drivers are waiting hours in fuel queues, as Moscow prepares to celebrate Russian Flag Day.",
-      "published_at": "2026-08-21T13:07:00Z",
-      "country_code": "RU",
-      "country_name": "Russia"
     },
     {
       "source": "BBC Latin America",
@@ -614,15 +551,6 @@
       "country_name": "Kenya"
     },
     {
-      "source": "BBC Africa",
-      "title": "Spurs in talks to sign Egypt's Marmoush from Man City",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cz645z0w3ypo?at_medium=RSS&at_campaign=rss",
-      "summary": "Spurs open talks with Manchester City to sign attacking duo Omar Marmoush and Savinho.",
-      "published_at": "2026-08-20T09:01:26Z",
-      "country_code": "EG",
-      "country_name": "Egypt"
-    },
-    {
       "source": "BBC Middle East",
       "title": "Multiple deadly Israeli strikes in Gaza in under 24 hours",
       "url": "https://www.bbc.co.uk/news/videos/cp3rgxzk5x2o?at_medium=RSS&at_campaign=rss",
@@ -630,15 +558,6 @@
       "published_at": "2026-08-19T17:46:01Z",
       "country_code": "PS",
       "country_name": "Palestine"
-    },
-    {
-      "source": "BBC Africa",
-      "title": "'Missing' Baptiste jailed in Morocco for sexual assault",
-      "url": "https://www.bbc.co.uk/sport/athletics/articles/c204wq61e19o?at_medium=RSS&at_campaign=rss",
-      "summary": "English athletics coach Leon Baptiste was given a 10-month prison sentence in Morocco for sexually assaulting a minor.",
-      "published_at": "2026-08-19T15:47:20Z",
-      "country_code": "MA",
-      "country_name": "Morocco"
     },
     {
       "source": "BBC Europe",
@@ -666,24 +585,6 @@
       "published_at": "2026-08-19T05:04:00Z",
       "country_code": "PS",
       "country_name": "Palestine"
-    },
-    {
-      "source": "BBC Europe",
-      "title": "French civil servant drugged us to make us urinate on ourselves, say accusers",
-      "url": "https://www.bbc.co.uk/news/articles/crrv48lenwgo?at_medium=RSS&at_campaign=rss",
-      "summary": "More than 200 women accuse Christian Nègre of drugging them to make them urinate - two share their stories.",
-      "published_at": "2026-08-19T05:00:39Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC Europe",
-      "title": "Inside secret police warehouse as Germany targets small boats gangs",
-      "url": "https://www.bbc.co.uk/news/articles/cpq809zrvqdo?at_medium=RSS&at_campaign=rss",
-      "summary": "German authorities seize dinghies and life jackets during their first raids under a new law that cracks down on smuggling.",
-      "published_at": "2026-08-18T05:02:58Z",
-      "country_code": "DE",
-      "country_name": "Germany"
     },
     {
       "source": "BBC Africa",
@@ -879,7 +780,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 25
+      "news_count": 20
     },
     {
       "country_code": "PS",
@@ -887,28 +788,18 @@
       "news_count": 12
     },
     {
+      "country_code": "IL",
+      "country_name": "Israel",
+      "news_count": 6
+    },
+    {
       "country_code": "FR",
       "country_name": "France",
       "news_count": 5
     },
     {
-      "country_code": "IL",
-      "country_name": "Israel",
-      "news_count": 5
-    },
-    {
-      "country_code": "CN",
-      "country_name": "China",
-      "news_count": 4
-    },
-    {
       "country_code": "CO",
       "country_name": "Colombia",
-      "news_count": 4
-    },
-    {
-      "country_code": "GB",
-      "country_name": "United Kingdom",
       "news_count": 4
     },
     {
@@ -922,14 +813,14 @@
       "news_count": 3
     },
     {
-      "country_code": "RU",
-      "country_name": "Russia",
+      "country_code": "GB",
+      "country_name": "United Kingdom",
       "news_count": 3
     },
     {
-      "country_code": "ZA",
-      "country_name": "South Africa",
-      "news_count": 3
+      "country_code": "CN",
+      "country_name": "China",
+      "news_count": 2
     },
     {
       "country_code": "ET",
@@ -939,11 +830,6 @@
     {
       "country_code": "KE",
       "country_name": "Kenya",
-      "news_count": 2
-    },
-    {
-      "country_code": "MA",
-      "country_name": "Morocco",
       "news_count": 2
     },
     {
@@ -962,8 +848,18 @@
       "news_count": 2
     },
     {
+      "country_code": "RU",
+      "country_name": "Russia",
+      "news_count": 2
+    },
+    {
       "country_code": "UA",
       "country_name": "Ukraine",
+      "news_count": 2
+    },
+    {
+      "country_code": "ZA",
+      "country_name": "South Africa",
       "news_count": 2
     },
     {
@@ -982,8 +878,8 @@
       "news_count": 1
     },
     {
-      "country_code": "EG",
-      "country_name": "Egypt",
+      "country_code": "ES",
+      "country_name": "Spain",
       "news_count": 1
     },
     {
@@ -1002,6 +898,11 @@
       "news_count": 1
     },
     {
+      "country_code": "MA",
+      "country_name": "Morocco",
+      "news_count": 1
+    },
+    {
       "country_code": "SA",
       "country_name": "Saudi Arabia",
       "news_count": 1
@@ -1014,11 +915,6 @@
     {
       "country_code": "SY",
       "country_name": "Syria",
-      "news_count": 1
-    },
-    {
-      "country_code": "TR",
-      "country_name": "Turkey",
       "news_count": 1
     }
   ]
