@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-08-26T23:50:18Z",
+  "generated_at": "2026-08-27T05:39:29Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "At least one dead after car crashes into crowd in northern France",
+      "url": "https://www.bbc.co.uk/news/articles/cqxvrl744nyo?at_medium=RSS&at_campaign=rss",
+      "summary": "One suspect was arrested after the incident in Caen, police said, following a reported fight at a nearby bar.",
+      "published_at": "2026-08-27T02:42:17Z",
+      "country_code": "FR",
+      "country_name": "France"
+    },
+    {
+      "source": "BBC World",
+      "title": "At least 12 dead as wildfires sweep through northern Algeria",
+      "url": "https://www.bbc.co.uk/news/articles/cvgyd4x6nj4o?at_medium=RSS&at_campaign=rss",
+      "summary": "Northern Africa has experienced severe heatwaves this summer, leading to hundreds of fires across the region.",
+      "published_at": "2026-08-27T02:10:18Z",
+      "country_code": "DZ",
+      "country_name": "Algeria"
+    },
     {
       "source": "BBC World",
       "title": "'If you started running, they shot you' - inside Nigeria's growing kidnapping crisis",
@@ -869,6 +887,11 @@
       "news_count": 12
     },
     {
+      "country_code": "FR",
+      "country_name": "France",
+      "news_count": 5
+    },
+    {
       "country_code": "IL",
       "country_name": "Israel",
       "news_count": 5
@@ -881,11 +904,6 @@
     {
       "country_code": "CO",
       "country_name": "Colombia",
-      "news_count": 4
-    },
-    {
-      "country_code": "FR",
-      "country_name": "France",
       "news_count": 4
     },
     {
@@ -956,6 +974,11 @@
     {
       "country_code": "CL",
       "country_name": "Chile",
+      "news_count": 1
+    },
+    {
+      "country_code": "DZ",
+      "country_name": "Algeria",
       "news_count": 1
     },
     {
