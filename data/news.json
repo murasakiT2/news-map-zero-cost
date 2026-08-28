@@ -1,14 +1,104 @@
 {
-  "generated_at": "2026-08-28T01:33:23Z",
+  "generated_at": "2026-08-28T13:30:46Z",
   "articles": [
+    {
+      "source": "BBC Africa",
+      "title": "Nigeria names interim football leadership amid governance concerns",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cpvezz222l7o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Nigeria Football Federation names an interim board as the country's President Bola Tinubu weighs in on perceived leadership failures and…",
+      "published_at": "2026-08-28T13:05:10Z",
+      "country_code": "NG",
+      "country_name": "Nigeria"
+    },
+    {
+      "source": "BBC Asia",
+      "title": "'High risk' of lake breaching and causing second flood, warns China",
+      "url": "https://www.bbc.co.uk/news/articles/ckg8l2x8wr8o?at_medium=RSS&at_campaign=rss",
+      "summary": "Authorities say a lake formed after a recent landslide near the Nepal-Tibet border may breach in the coming days.",
+      "published_at": "2026-08-28T10:50:34Z",
+      "country_code": "CN",
+      "country_name": "China"
+    },
+    {
+      "source": "BBC World",
+      "title": "Who is Norway's new King Haakon VIII?",
+      "url": "https://www.bbc.co.uk/news/articles/cp841114eg6o?at_medium=RSS&at_campaign=rss",
+      "summary": "Haakon becomes the king at a turbulent time for Norway's monarchy.",
+      "published_at": "2026-08-28T10:37:21Z",
+      "country_code": "NO",
+      "country_name": "Norway"
+    },
+    {
+      "source": "BBC World",
+      "title": "'Not far enough' - US parents and teens on Meta's new limits for young users",
+      "url": "https://www.bbc.co.uk/news/articles/cx2zn9zj361o?at_medium=RSS&at_campaign=rss",
+      "summary": "As part of an $18bn settlement in a child-safety lawsuit, Meta announced new restrictions on its apps. We asked families what they thought.",
+      "published_at": "2026-08-28T09:32:14Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Norway's King Harald dies aged 89: A beloved monarch buffeted by family crises",
+      "url": "https://www.bbc.co.uk/news/articles/clykn5p5172o?at_medium=RSS&at_campaign=rss",
+      "summary": "The late king, who reigned for 35 years, broke with tradition by marrying a commoner and was widely loved by Norwegians.",
+      "published_at": "2026-08-28T09:27:17Z",
+      "country_code": "NO",
+      "country_name": "Norway"
+    },
+    {
+      "source": "BBC World",
+      "title": "A look back at the King who broke with tradition",
+      "url": "https://www.bbc.co.uk/news/videos/c93v7x5qr79o?at_medium=RSS&at_campaign=rss",
+      "summary": "Norway's King Harald V has died aged 89 after being treated for a bacterial infection in his blood.",
+      "published_at": "2026-08-28T09:04:11Z",
+      "country_code": "NO",
+      "country_name": "Norway"
+    },
     {
       "source": "BBC World",
       "title": "Trump signs order to rename Lake Ontario as Lake America",
       "url": "https://www.bbc.co.uk/news/articles/ckgwdn1g58yo?at_medium=RSS&at_campaign=rss",
-      "summary": "Trump's order comes after the trade talks between the US and Canada collapsed late last week.",
-      "published_at": "2026-08-27T23:14:43Z",
+      "summary": "Canada has rejected the new name of the lake, which straddles both countries, as their row deepens.",
+      "published_at": "2026-08-28T08:26:09Z",
       "country_code": "US",
       "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Trump administration illegally retaliated against Anthropic, judge rules",
+      "url": "https://www.bbc.co.uk/news/articles/cm2q7z5mlrmo?at_medium=RSS&at_campaign=rss",
+      "summary": "The AI startup has been at loggerheads with the Pentagon over the use of AI by the US military.",
+      "published_at": "2026-08-28T03:41:59Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Tate brothers blast US jail conditions as they seek bail in UK extradition fight",
+      "url": "https://www.bbc.co.uk/news/articles/c9v9nndjznvo?at_medium=RSS&at_campaign=rss",
+      "summary": "Andrew and Tristan Tate's legal team argued in a Miami court that the two were not a flight risk.",
+      "published_at": "2026-08-28T01:43:41Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC Asia",
+      "title": "Rohingya refugees face fierce new wave of hostility in Malaysia",
+      "url": "https://www.bbc.co.uk/news/articles/c1dl7yrge5do?at_medium=RSS&at_campaign=rss",
+      "summary": "A community that has long felt beleagured is looking over its shoulder again.",
+      "published_at": "2026-08-27T23:46:50Z",
+      "country_code": "MY",
+      "country_name": "Malaysia"
+    },
+    {
+      "source": "BBC Asia",
+      "title": "Why India wants Bangladesh's Tarique Rahman in Delhi",
+      "url": "https://www.bbc.co.uk/news/articles/c78313e29ypo?at_medium=RSS&at_campaign=rss",
+      "summary": "India is keen to reset ties with Bangladesh, but old tensions and new regional alliances complicate its efforts.",
+      "published_at": "2026-08-27T23:36:00Z",
+      "country_code": "IN",
+      "country_name": "India"
     },
     {
       "source": "BBC World",
@@ -29,7 +119,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC US & Canada",
+      "source": "BBC Europe",
       "title": "Belugas and dolphins rescued from closed Canadian park arrive in Spain",
       "url": "https://www.bbc.co.uk/news/videos/c5y4mmn78n3o?at_medium=RSS&at_campaign=rss",
       "summary": "Two beluga whales and four dolphins rescued from a struggling Canadian marine park arrived in Spain as part of an effort to relocate the ani…",
@@ -56,22 +146,13 @@
       "country_name": "Germany"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "What we should make of CIA boss's secret trip to Moscow",
       "url": "https://www.bbc.co.uk/news/articles/cx2z8l8xdg2o?at_medium=RSS&at_campaign=rss",
       "summary": "There is nothing routine about John Ratcliffe making a secret, 10,000-mile return dash to Moscow, writes Frank Gardner.",
       "published_at": "2026-08-27T17:02:33Z",
       "country_code": "RU",
       "country_name": "Russia"
-    },
-    {
-      "source": "BBC Africa",
-      "title": "Nigeria's football leadership resigns amid governance concerns",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cpvezz222l7o?at_medium=RSS&at_campaign=rss",
-      "summary": "The president, general secretary and executive committee of the Nigeria Football Federation all resign, leaving a leadership vacuum.",
-      "published_at": "2026-08-27T16:02:36Z",
-      "country_code": "NG",
-      "country_name": "Nigeria"
     },
     {
       "source": "BBC Europe",
@@ -83,7 +164,7 @@
       "country_name": "Germany"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "Jellyfish force partial shutdown of French nuclear plant",
       "url": "https://www.bbc.co.uk/news/articles/cy8znx3g4e2o?at_medium=RSS&at_campaign=rss",
       "summary": "It is the second consecutive year that jellyfish has forced the closure of the Gravelines power station in northern France.",
@@ -117,33 +198,6 @@
       "published_at": "2026-08-27T09:56:23Z",
       "country_code": "NG",
       "country_name": "Nigeria"
-    },
-    {
-      "source": "BBC Europe",
-      "title": "Fan backlash as gay World Cup star joins Saudi club",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cvgyl2dvvv0o?at_medium=RSS&at_campaign=rss",
-      "summary": "Spain forward Esther Gonzalez attracts backlash after signing for Saudi Women's Premier League side Al Qadsiah.",
-      "published_at": "2026-08-27T08:52:41Z",
-      "country_code": "ES",
-      "country_name": "Spain"
-    },
-    {
-      "source": "BBC Europe",
-      "title": "Two dead and 10 hurt after car rams into crowd in northern France",
-      "url": "https://www.bbc.co.uk/news/articles/cqxvrl744nyo?at_medium=RSS&at_campaign=rss",
-      "summary": "A suspect was arrested after the incident in Caen, police said, following a reported fight at a nearby bar.",
-      "published_at": "2026-08-27T07:07:34Z",
-      "country_code": "FR",
-      "country_name": "France"
-    },
-    {
-      "source": "BBC Africa",
-      "title": "At least 12 dead as wildfires sweep through northern Algeria",
-      "url": "https://www.bbc.co.uk/news/articles/cvgyd4x6nj4o?at_medium=RSS&at_campaign=rss",
-      "summary": "Northern Africa has experienced severe heatwaves this summer, leading to hundreds of fires across the region.",
-      "published_at": "2026-08-27T02:10:18Z",
-      "country_code": "DZ",
-      "country_name": "Algeria"
     },
     {
       "source": "BBC US & Canada",
@@ -180,24 +234,6 @@
       "published_at": "2026-08-26T16:31:53Z",
       "country_code": "RU",
       "country_name": "Russia"
-    },
-    {
-      "source": "BBC Asia",
-      "title": "Watch: 'We grabbed newborn and rushed out of Islamabad hospital'",
-      "url": "https://www.bbc.co.uk/news/videos/cvgydvj1w6do?at_medium=RSS&at_campaign=rss",
-      "summary": "The moment she saw smoke, Hivsa Walid fled the building with her sister-in-law's baby.",
-      "published_at": "2026-08-26T15:04:46Z",
-      "country_code": "PK",
-      "country_name": "Pakistan"
-    },
-    {
-      "source": "BBC Asia",
-      "title": "Door was locked at Pakistan hospital where fire killed 14 babies, witnesses say",
-      "url": "https://www.bbc.co.uk/news/articles/czdz13elezlo?at_medium=RSS&at_campaign=rss",
-      "summary": "The hospital tells the BBC the ward door was not locked but manned with security guards, to protect the babies.",
-      "published_at": "2026-08-26T14:42:03Z",
-      "country_code": "PK",
-      "country_name": "Pakistan"
     },
     {
       "source": "BBC Middle East",
@@ -243,15 +279,6 @@
       "published_at": "2026-08-26T08:17:45Z",
       "country_code": "PS",
       "country_name": "Palestine"
-    },
-    {
-      "source": "BBC Asia",
-      "title": "Why Tesla has been caught up in a massive car recall in China",
-      "url": "https://www.bbc.co.uk/news/articles/c9w4jx2rvgro?at_medium=RSS&at_campaign=rss",
-      "summary": "The country's biggest ever car recall affects more than four million vehicles made by Tesla, XPeng, Xiaomi and other firms.",
-      "published_at": "2026-08-26T03:33:59Z",
-      "country_code": "CN",
-      "country_name": "China"
     },
     {
       "source": "BBC Europe",
@@ -308,7 +335,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Asia",
+      "source": "BBC Middle East",
       "title": "China hits out at 'illegal' new US sanctions on Iran and trading partners",
       "url": "https://www.bbc.co.uk/news/articles/clyl8965j5go?at_medium=RSS&at_campaign=rss",
       "summary": "The US has threatened to isolate nations that continue to do business with Tehran, which sells much of its oil to Beijing.",
@@ -317,29 +344,11 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Asia",
-      "title": "British man charged in Singapore two years after alleged theft at airport",
-      "url": "https://www.bbc.co.uk/news/articles/ckg024vrzxjo?at_medium=RSS&at_campaign=rss",
-      "summary": "The 26-year-old faces up to seven years in jail for allegedly stealing a denim jacket from an airport shop in 2024.",
-      "published_at": "2026-08-25T09:01:35Z",
-      "country_code": "SG",
-      "country_name": "Singapore"
-    },
-    {
       "source": "BBC Middle East",
       "title": "Iran says it is 'fully prepared' to counter widened US economic sanctions",
       "url": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
       "summary": "The US calls its latest sanctions on Iran an \"economic D-Day\", but Tehran says it has a plan to address them.",
       "published_at": "2026-08-25T08:08:26Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "How Canada could hit back to hurt the US economy - and Trump",
-      "url": "https://www.bbc.co.uk/news/articles/c05rj80ve56o?at_medium=RSS&at_campaign=rss",
-      "summary": "What leverage does Canada, which sells about 70% of its exports to the US, actually have in this spiralling trade dispute?",
-      "published_at": "2026-08-25T02:49:22Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -362,15 +371,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Asia",
-      "title": "Beyond China's humanoid robots, a quieter machine revolution is unfolding",
-      "url": "https://www.bbc.co.uk/news/articles/c62m4zn1q6mo?at_medium=RSS&at_campaign=rss",
-      "summary": "There are more than two million robots working in China's factories - and they are scaling up fast.",
-      "published_at": "2026-08-24T22:13:20Z",
-      "country_code": "CN",
-      "country_name": "China"
-    },
-    {
       "source": "BBC US & Canada",
       "title": "'Absolutely ridiculous': Canadians react to new tariff tensions with the US",
       "url": "https://www.bbc.co.uk/news/videos/c20973ylx94o?at_medium=RSS&at_campaign=rss",
@@ -390,39 +390,12 @@
     },
     {
       "source": "BBC Europe",
-      "title": "Manga-inspired theme park to be built near Paris",
-      "url": "https://www.bbc.co.uk/news/articles/c8r6xy3ryndo?at_medium=RSS&at_campaign=rss",
-      "summary": "The construction of three new parks was given the green light after a €6bn investment from Saudi Arabia.",
-      "published_at": "2026-08-24T19:57:55Z",
-      "country_code": "FR",
-      "country_name": "France"
-    },
-    {
-      "source": "BBC Europe",
       "title": "Is UK's Storm Shadow missile a game changer for Ukraine?",
       "url": "https://www.bbc.co.uk/news/videos/cx2znjly4dno?at_medium=RSS&at_campaign=rss",
       "summary": "Correspondent Joe Inwood breaks down the weapons technology that could make a difference in the Russia-Ukraine war.",
       "published_at": "2026-08-24T15:14:14Z",
       "country_code": "GB",
       "country_name": "United Kingdom"
-    },
-    {
-      "source": "BBC Middle East",
-      "title": "Israel warns of 'forceful' response to kites flown from Gaza",
-      "url": "https://www.bbc.co.uk/news/articles/c5y58g2dp3xo?at_medium=RSS&at_campaign=rss",
-      "summary": "Hamas says the kites found in Israeli border communities in recent days were launched by children in Gaza.",
-      "published_at": "2026-08-24T13:56:22Z",
-      "country_code": "IL",
-      "country_name": "Israel"
-    },
-    {
-      "source": "BBC Asia",
-      "title": "New Zealand to introduce bill for under-16s social media ban",
-      "url": "https://www.bbc.co.uk/news/articles/cj068q7qj19o?at_medium=RSS&at_campaign=rss",
-      "summary": "The government faces opposition to its proposals from MPs who believe a ban will not work.",
-      "published_at": "2026-08-24T12:17:34Z",
-      "country_code": "NZ",
-      "country_name": "New Zealand"
     },
     {
       "source": "BBC Africa",
@@ -432,15 +405,6 @@
       "published_at": "2026-08-24T11:24:25Z",
       "country_code": "NZ",
       "country_name": "New Zealand"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "'Half my business will be gone' - firms in Canada and US fear trade war",
-      "url": "https://www.bbc.co.uk/news/articles/cy0j0zz8l83o?at_medium=RSS&at_campaign=rss",
-      "summary": "Business owners in both countries are navigating uncertainty and worry as the tit-for-tat import taxes ratchet up.",
-      "published_at": "2026-08-24T09:47:22Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC Africa",
@@ -468,15 +432,6 @@
       "published_at": "2026-08-24T04:51:49Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC Asia",
-      "title": "New Tata boss to face formidable challenges",
-      "url": "https://www.bbc.co.uk/news/articles/c20drryz7nvo?at_medium=RSS&at_campaign=rss",
-      "summary": "Corporate India's most coveted top job is open. But finding a new leader for Tata Sons is no easy task.",
-      "published_at": "2026-08-23T22:35:00Z",
-      "country_code": "IN",
-      "country_name": "India"
     },
     {
       "source": "BBC Africa",
@@ -789,7 +744,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 20
+      "news_count": 21
     },
     {
       "country_code": "PS",
@@ -797,18 +752,18 @@
       "news_count": 12
     },
     {
-      "country_code": "FR",
-      "country_name": "France",
-      "news_count": 6
-    },
-    {
       "country_code": "IL",
       "country_name": "Israel",
-      "news_count": 6
+      "news_count": 5
     },
     {
       "country_code": "CO",
       "country_name": "Colombia",
+      "news_count": 4
+    },
+    {
+      "country_code": "FR",
+      "country_name": "France",
       "news_count": 4
     },
     {
@@ -822,19 +777,14 @@
       "news_count": 3
     },
     {
-      "country_code": "RU",
-      "country_name": "Russia",
+      "country_code": "NO",
+      "country_name": "Norway",
       "news_count": 3
     },
     {
-      "country_code": "CN",
-      "country_name": "China",
-      "news_count": 2
-    },
-    {
-      "country_code": "ES",
-      "country_name": "Spain",
-      "news_count": 2
+      "country_code": "RU",
+      "country_name": "Russia",
+      "news_count": 3
     },
     {
       "country_code": "ET",
@@ -857,16 +807,6 @@
       "news_count": 2
     },
     {
-      "country_code": "NZ",
-      "country_name": "New Zealand",
-      "news_count": 2
-    },
-    {
-      "country_code": "PK",
-      "country_name": "Pakistan",
-      "news_count": 2
-    },
-    {
       "country_code": "UA",
       "country_name": "Ukraine",
       "news_count": 2
@@ -882,8 +822,13 @@
       "news_count": 1
     },
     {
-      "country_code": "DZ",
-      "country_name": "Algeria",
+      "country_code": "CN",
+      "country_name": "China",
+      "news_count": 1
+    },
+    {
+      "country_code": "ES",
+      "country_name": "Spain",
       "news_count": 1
     },
     {
@@ -907,13 +852,18 @@
       "news_count": 1
     },
     {
-      "country_code": "SA",
-      "country_name": "Saudi Arabia",
+      "country_code": "MY",
+      "country_name": "Malaysia",
       "news_count": 1
     },
     {
-      "country_code": "SG",
-      "country_name": "Singapore",
+      "country_code": "NZ",
+      "country_name": "New Zealand",
+      "news_count": 1
+    },
+    {
+      "country_code": "SA",
+      "country_name": "Saudi Arabia",
       "news_count": 1
     },
     {
