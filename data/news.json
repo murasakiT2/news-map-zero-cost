@@ -1,14 +1,50 @@
 {
-  "generated_at": "2026-08-28T23:16:26Z",
+  "generated_at": "2026-08-29T04:12:47Z",
   "articles": [
     {
       "source": "BBC World",
       "title": "Footage of Tibet floods isn't being shown in China - and we know little about victims there",
       "url": "https://www.bbc.co.uk/news/articles/cx2z415w2gpo?at_medium=RSS&at_campaign=rss",
       "summary": "Some of the most dramatic footage from the deadly flash flooding is hidden from public view in China.",
-      "published_at": "2026-08-28T22:05:41Z",
+      "published_at": "2026-08-29T03:54:11Z",
       "country_code": "CN",
       "country_name": "China"
+    },
+    {
+      "source": "BBC World",
+      "title": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
+      "url": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
+      "summary": "Venezuelan interim president says the unusual agreement will help revive her country's economy.",
+      "published_at": "2026-08-29T02:42:27Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Somali piracy surges as the impact of the US-Iran war ripples outwards",
+      "url": "https://www.bbc.co.uk/news/articles/cr4vx4pneydo?at_medium=RSS&at_campaign=rss",
+      "summary": "Two ships were seized within four days last week raising to at least 13 the number attacked since January.",
+      "published_at": "2026-08-29T01:14:13Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Right-wing commentator Milo Yiannopoulos detained by ICE",
+      "url": "https://www.bbc.co.uk/news/articles/cj06jgq62v9o?at_medium=RSS&at_campaign=rss",
+      "summary": "The British citizen, who lives and works in the US, has supported Trump and ICE agents in the past.",
+      "published_at": "2026-08-29T00:46:02Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Canada poaches dozens of top US researchers for its universities",
+      "url": "https://www.bbc.co.uk/news/articles/c209gd5jnq1o?at_medium=RSS&at_campaign=rss",
+      "summary": "Researchers in fields like climate and medicine are being lured north by new research funding.",
+      "published_at": "2026-08-28T23:47:38Z",
+      "country_code": "US",
+      "country_name": "United States"
     },
     {
       "source": "BBC World",
@@ -18,15 +54,6 @@
       "published_at": "2026-08-28T21:29:01Z",
       "country_code": "DE",
       "country_name": "Germany"
-    },
-    {
-      "source": "BBC World",
-      "title": "Right-wing commentator Milo Yiannopoulos detained by ICE",
-      "url": "https://www.bbc.co.uk/news/articles/cj06jgq62v9o?at_medium=RSS&at_campaign=rss",
-      "summary": "The British citizen, who lives and works in the US, has supported Trump and ICE agents in the past.",
-      "published_at": "2026-08-28T21:01:39Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC World",
@@ -173,7 +200,7 @@
       "country_name": "Norway"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "Trump signs order to rename Lake Ontario as Lake America",
       "url": "https://www.bbc.co.uk/news/articles/ckgwdn1g58yo?at_medium=RSS&at_campaign=rss",
       "summary": "Canada has rejected the new name of the lake, which straddles both countries, as their row deepens.",
@@ -191,7 +218,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "Trump administration illegally retaliated against Anthropic, judge rules",
       "url": "https://www.bbc.co.uk/news/articles/cm2q7z5mlrmo?at_medium=RSS&at_campaign=rss",
       "summary": "The AI startup has been at loggerheads with the Pentagon over the use of AI by the US military.",
@@ -200,7 +227,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "Tate brothers blast US jail conditions as they seek bail in UK extradition fight",
       "url": "https://www.bbc.co.uk/news/articles/c9v9nndjznvo?at_medium=RSS&at_campaign=rss",
       "summary": "Andrew and Tristan Tate's legal team argued in a Miami court that the two were not a flight risk.",
@@ -789,7 +816,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 22
+      "news_count": 25
     },
     {
       "country_code": "PS",
