@@ -1,12 +1,30 @@
 {
-  "generated_at": "2026-08-29T11:13:42Z",
+  "generated_at": "2026-08-29T15:40:55Z",
   "articles": [
     {
       "source": "BBC World",
-      "title": "At least 27 dead and hundreds evacuated after strike on Kyiv warehouse",
+      "title": "At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot",
       "url": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss",
-      "summary": "The attack sparked a series of explosions, prompting an investigation into whether ammunition was being stored on site.",
-      "published_at": "2026-08-29T10:28:41Z",
+      "summary": "An investigation has begun into the storage of weapons for Ukraine's military near a residential area.",
+      "published_at": "2026-08-29T15:27:56Z",
+      "country_code": "UA",
+      "country_name": "Ukraine"
+    },
+    {
+      "source": "BBC World",
+      "title": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
+      "url": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
+      "summary": "Venezuelan interim president says the unusual agreement will help revive her country's economy.",
+      "published_at": "2026-08-29T15:13:42Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Deadly strike on Kyiv warehouse prompts evacuations",
+      "url": "https://www.bbc.co.uk/news/videos/cy8z979y9e4o?at_medium=RSS&at_campaign=rss",
+      "summary": "Ukraine correspondent Dan Johnson reports from Kyiv after the deadly strike, which authorities said killed more than 30 people.",
+      "published_at": "2026-08-29T13:55:55Z",
       "country_code": "UA",
       "country_name": "Ukraine"
     },
@@ -18,15 +36,6 @@
       "published_at": "2026-08-29T03:54:11Z",
       "country_code": "CN",
       "country_name": "China"
-    },
-    {
-      "source": "BBC World",
-      "title": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
-      "url": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
-      "summary": "Venezuelan interim president says the unusual agreement will help revive her country's economy.",
-      "published_at": "2026-08-29T02:42:27Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC World",
@@ -844,6 +853,11 @@
       "news_count": 4
     },
     {
+      "country_code": "UA",
+      "country_name": "Ukraine",
+      "news_count": 4
+    },
+    {
       "country_code": "FR",
       "country_name": "France",
       "news_count": 3
@@ -851,11 +865,6 @@
     {
       "country_code": "GB",
       "country_name": "United Kingdom",
-      "news_count": 3
-    },
-    {
-      "country_code": "UA",
-      "country_name": "Ukraine",
       "news_count": 3
     },
     {
