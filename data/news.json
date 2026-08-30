@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-08-30T20:15:23Z",
+  "generated_at": "2026-08-30T22:50:55Z",
   "articles": [
     {
       "source": "BBC World",
-      "title": "Nasa launches new space telescope able to see 100 times more than Hubble",
-      "url": "https://www.bbc.co.uk/news/articles/ce87e55vgpjo?at_medium=RSS&at_campaign=rss",
-      "summary": "The US space agency's telescope is starting a multi-year mission to create a new map of the universe and learn more about dark energy and da…",
-      "published_at": "2026-08-30T18:53:53Z",
+      "title": "US strikes Iranian launchers on Larak Island in first known attack in weeks",
+      "url": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss",
+      "summary": "Iran says the attack killed some civilians and is the first known US strike on Iran since late July.",
+      "published_at": "2026-08-30T21:15:42Z",
       "country_code": "US",
       "country_name": "United States"
     },
     {
-      "source": "BBC US & Canada",
-      "title": "'A giant leap forward': Nasa launches powerful new space telescope to explore mysteries of the Universe",
+      "source": "BBC World",
+      "title": "'A giant leap forward': Nasa launches powerful new space telescope",
       "url": "https://www.bbc.co.uk/news/articles/ce87e55vgpjo?at_medium=RSS&at_campaign=rss",
       "summary": "The US space agency's telescope is starting a multi-year mission to create a new map of the universe and learn more about dark energy and da…",
       "published_at": "2026-08-30T18:53:53Z",
@@ -27,15 +27,6 @@
       "published_at": "2026-08-30T16:33:17Z",
       "country_code": "RU",
       "country_name": "Russia"
-    },
-    {
-      "source": "BBC World",
-      "title": "Canada installs large Lake Ontario sign in latest jab at US",
-      "url": "https://www.bbc.co.uk/news/articles/cpq09594vw7o?at_medium=RSS&at_campaign=rss",
-      "summary": "Ontario Premier Doug Ford unveiled a billboard on Canada's shoreline with the message: \"Lake Ontario. Now and Always.\"",
-      "published_at": "2026-08-30T14:25:43Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC Africa",
@@ -63,6 +54,15 @@
       "published_at": "2026-08-30T04:01:02Z",
       "country_code": "US",
       "country_name": "United States"
+    },
+    {
+      "source": "BBC Asia",
+      "title": "Mount Fuji pics, life-changing ramen and a weak yen - why young Brits are going to Japan",
+      "url": "https://www.bbc.co.uk/news/articles/c7704l1ypjgo?at_medium=RSS&at_campaign=rss",
+      "summary": "The number of UK citizens travelling to Japan has surged in recent years - with many young people citing social media as a key driving facto…",
+      "published_at": "2026-08-29T23:04:22Z",
+      "country_code": "GB",
+      "country_name": "United Kingdom"
     },
     {
       "source": "BBC World",
@@ -146,7 +146,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "Berlin is being blackmailed by hackers, mayor says",
       "url": "https://www.bbc.co.uk/news/articles/cm2q7gv3l5qo?at_medium=RSS&at_campaign=rss",
       "summary": "Kai Wegner says the German capital and city-state would not cave in to a ransom demand for data stolen in a cyber-attack.",
@@ -315,15 +315,6 @@
       "published_at": "2026-08-27T23:46:50Z",
       "country_code": "MY",
       "country_name": "Malaysia"
-    },
-    {
-      "source": "BBC Asia",
-      "title": "Why India wants Bangladesh's Tarique Rahman in Delhi",
-      "url": "https://www.bbc.co.uk/news/articles/c78313e29ypo?at_medium=RSS&at_campaign=rss",
-      "summary": "India is keen to reset ties with Bangladesh, but old tensions and new regional alliances complicate its efforts.",
-      "published_at": "2026-08-27T23:36:00Z",
-      "country_code": "IN",
-      "country_name": "India"
     },
     {
       "source": "BBC US & Canada",
@@ -843,7 +834,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 27
+      "news_count": 26
     },
     {
       "country_code": "PS",
@@ -853,7 +844,7 @@
     {
       "country_code": "GB",
       "country_name": "United Kingdom",
-      "news_count": 5
+      "news_count": 6
     },
     {
       "country_code": "IL",
@@ -938,11 +929,6 @@
     {
       "country_code": "ES",
       "country_name": "Spain",
-      "news_count": 1
-    },
-    {
-      "country_code": "IN",
-      "country_name": "India",
       "news_count": 1
     },
     {
