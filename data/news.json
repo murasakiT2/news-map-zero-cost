@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-08-30T08:25:13Z",
+  "generated_at": "2026-08-30T13:51:59Z",
   "articles": [
+    {
+      "source": "BBC Africa",
+      "title": "Antonio helps young Ghanaians chase Premier League dreams",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvg0n8l87g7o?at_medium=RSS&at_campaign=rss",
+      "summary": "Former West Ham forward Michail Antonio is helping players from a Ghana academy, who have travelled to England in the hope of turning pro.",
+      "published_at": "2026-08-30T07:01:58Z",
+      "country_code": "GB",
+      "country_name": "United Kingdom"
+    },
     {
       "source": "BBC World",
       "title": "WhatsApp chat used to send cash for crime and extremism",
@@ -56,6 +65,15 @@
       "country_name": "Australia"
     },
     {
+      "source": "BBC Africa",
+      "title": "South Africa hold off All Blacks fightback to level series",
+      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c1mvred1l7do?at_medium=RSS&at_campaign=rss",
+      "summary": "World champions South Africa deliver a powerful first-half performance as they edge past New Zealand and level 'Rugby's Greatest Rivalry' se…",
+      "published_at": "2026-08-29T18:08:14Z",
+      "country_code": "NZ",
+      "country_name": "New Zealand"
+    },
+    {
       "source": "BBC World",
       "title": "Right-wing commentator Milo Yiannopoulos deported from US to UK",
       "url": "https://www.bbc.co.uk/news/articles/cqlw52vr0dwo?at_medium=RSS&at_campaign=rss",
@@ -63,15 +81,6 @@
       "published_at": "2026-08-29T17:52:42Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "Deadly strike on Kyiv warehouse prompts evacuations",
-      "url": "https://www.bbc.co.uk/news/videos/cy8z979y9e4o?at_medium=RSS&at_campaign=rss",
-      "summary": "Ukraine correspondent Dan Johnson reports from Kyiv after the deadly strike, which authorities said killed more than 30 people.",
-      "published_at": "2026-08-29T13:55:55Z",
-      "country_code": "UA",
-      "country_name": "Ukraine"
     },
     {
       "source": "BBC World",
@@ -207,15 +216,6 @@
       "published_at": "2026-08-28T10:50:34Z",
       "country_code": "CN",
       "country_name": "China"
-    },
-    {
-      "source": "BBC World",
-      "title": "King Haakon begins reign after turbulent year for Norwegian monarchy",
-      "url": "https://www.bbc.co.uk/news/articles/cp841114eg6o?at_medium=RSS&at_campaign=rss",
-      "summary": "Haakon becomes the king at a turbulent time for Norway's monarchy.",
-      "published_at": "2026-08-28T10:37:21Z",
-      "country_code": "NO",
-      "country_name": "Norway"
     },
     {
       "source": "BBC Europe",
@@ -587,15 +587,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Africa",
-      "title": "The inside story of how Trabzonspor pulled off Salah deal",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cvg0jgy929do?at_medium=RSS&at_campaign=rss",
-      "summary": "Mohamed Salah was expected to move to Saudi Arabia or the United States after leaving Liverpool, but Turkish side Trabzonspor pulled off one…",
-      "published_at": "2026-08-21T09:41:46Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC Latin America",
       "title": "US sanctions more Cuban companies and officials",
       "url": "https://www.bbc.co.uk/news/articles/cgq5x9l7054o?at_medium=RSS&at_campaign=rss",
@@ -675,15 +666,6 @@
       "published_at": "2026-08-16T12:18:09Z",
       "country_code": "UA",
       "country_name": "Ukraine"
-    },
-    {
-      "source": "BBC Europe",
-      "title": "Moment €9m worth of art stolen from Italy museum",
-      "url": "https://www.bbc.co.uk/news/videos/cddjlrzd26eo?at_medium=RSS&at_campaign=rss",
-      "summary": "Police released the CCTV footage after the art, which was stolen in March, was recovered.",
-      "published_at": "2026-08-14T14:56:04Z",
-      "country_code": "IT",
-      "country_name": "Italy"
     },
     {
       "source": "BBC Middle East",
@@ -852,7 +834,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 26
+      "news_count": 25
     },
     {
       "country_code": "PS",
@@ -860,13 +842,13 @@
       "news_count": 13
     },
     {
-      "country_code": "IL",
-      "country_name": "Israel",
+      "country_code": "GB",
+      "country_name": "United Kingdom",
       "news_count": 5
     },
     {
-      "country_code": "NO",
-      "country_name": "Norway",
+      "country_code": "IL",
+      "country_name": "Israel",
       "news_count": 5
     },
     {
@@ -875,23 +857,23 @@
       "news_count": 4
     },
     {
-      "country_code": "GB",
-      "country_name": "United Kingdom",
-      "news_count": 4
-    },
-    {
       "country_code": "NG",
       "country_name": "Nigeria",
       "news_count": 4
     },
     {
-      "country_code": "UA",
-      "country_name": "Ukraine",
+      "country_code": "NO",
+      "country_name": "Norway",
       "news_count": 4
     },
     {
       "country_code": "FR",
       "country_name": "France",
+      "news_count": 3
+    },
+    {
+      "country_code": "UA",
+      "country_name": "Ukraine",
       "news_count": 3
     },
     {
@@ -917,6 +899,11 @@
     {
       "country_code": "MX",
       "country_name": "Mexico",
+      "news_count": 2
+    },
+    {
+      "country_code": "NZ",
+      "country_name": "New Zealand",
       "news_count": 2
     },
     {
@@ -955,11 +942,6 @@
       "news_count": 1
     },
     {
-      "country_code": "IT",
-      "country_name": "Italy",
-      "news_count": 1
-    },
-    {
       "country_code": "MA",
       "country_name": "Morocco",
       "news_count": 1
@@ -967,11 +949,6 @@
     {
       "country_code": "MY",
       "country_name": "Malaysia",
-      "news_count": 1
-    },
-    {
-      "country_code": "NZ",
-      "country_name": "New Zealand",
       "news_count": 1
     },
     {
