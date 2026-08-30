@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-08-30T17:49:48Z",
+  "generated_at": "2026-08-30T20:15:23Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Nasa launches new space telescope able to see 100 times more than Hubble",
+      "url": "https://www.bbc.co.uk/news/articles/ce87e55vgpjo?at_medium=RSS&at_campaign=rss",
+      "summary": "The US space agency's telescope is starting a multi-year mission to create a new map of the universe and learn more about dark energy and da…",
+      "published_at": "2026-08-30T18:53:53Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "'A giant leap forward': Nasa launches powerful new space telescope to explore mysteries of the Universe",
+      "url": "https://www.bbc.co.uk/news/articles/ce87e55vgpjo?at_medium=RSS&at_campaign=rss",
+      "summary": "The US space agency's telescope is starting a multi-year mission to create a new map of the universe and learn more about dark energy and da…",
+      "published_at": "2026-08-30T18:53:53Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "Russia says it helped to repel Niger attempted coup",
@@ -9,15 +27,6 @@
       "published_at": "2026-08-30T16:33:17Z",
       "country_code": "RU",
       "country_name": "Russia"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "Nasa launches powerful new space telescope to explore mysteries of the Universe",
-      "url": "https://www.bbc.co.uk/news/articles/ce87e55vgpjo?at_medium=RSS&at_campaign=rss",
-      "summary": "The US space agency's telescope is starting a multi-year mission to create a new map of the universe and learn more about dark energy and da…",
-      "published_at": "2026-08-30T15:28:08Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC World",
@@ -39,7 +48,7 @@
     },
     {
       "source": "BBC World",
-      "title": "WhatsApp chat used to send cash for crime and extremism",
+      "title": "WhatsApp chat used to launder cash for crime and extremism",
       "url": "https://www.bbc.co.uk/news/articles/cgk57lg7566o?at_medium=RSS&at_campaign=rss",
       "summary": "The WhatsApp money launderers arranged cash transfers in the UK and around the world with no paper trail.",
       "published_at": "2026-08-30T04:59:56Z",
@@ -659,15 +668,6 @@
       "country_name": "Palestine"
     },
     {
-      "source": "BBC Europe",
-      "title": "Why is Ukraine's ex-defence minister calling for wartime elections?",
-      "url": "https://www.bbc.co.uk/news/videos/c62eyn5ggnzo?at_medium=RSS&at_campaign=rss",
-      "summary": "Mykhailo Fedorov has called for elections, without addressing concerns over how they could be held while at war.",
-      "published_at": "2026-08-19T15:38:38Z",
-      "country_code": "UA",
-      "country_name": "Ukraine"
-    },
-    {
       "source": "BBC Middle East",
       "title": "Families' agonising search for answers as thousands still missing in Gaza",
       "url": "https://www.bbc.co.uk/news/articles/ce34r0er75go?at_medium=RSS&at_campaign=rss",
@@ -675,15 +675,6 @@
       "published_at": "2026-08-19T05:04:00Z",
       "country_code": "PS",
       "country_name": "Palestine"
-    },
-    {
-      "source": "BBC Europe",
-      "title": "BBC visits smouldering Kyiv market after Russian strikes",
-      "url": "https://www.bbc.co.uk/news/videos/c8dnn05e90lo?at_medium=RSS&at_campaign=rss",
-      "summary": "Six people were injured in the strike on the market selling second-hand records, posters, toys and tools.",
-      "published_at": "2026-08-16T12:18:09Z",
-      "country_code": "UA",
-      "country_name": "Ukraine"
     },
     {
       "source": "BBC Middle East",
@@ -852,7 +843,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 26
+      "news_count": 27
     },
     {
       "country_code": "PS",
@@ -882,11 +873,6 @@
     {
       "country_code": "NO",
       "country_name": "Norway",
-      "news_count": 4
-    },
-    {
-      "country_code": "UA",
-      "country_name": "Ukraine",
       "news_count": 4
     },
     {
@@ -927,6 +913,11 @@
     {
       "country_code": "RU",
       "country_name": "Russia",
+      "news_count": 2
+    },
+    {
+      "country_code": "UA",
+      "country_name": "Ukraine",
       "news_count": 2
     },
     {
