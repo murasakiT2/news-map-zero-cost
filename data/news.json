@@ -1,21 +1,30 @@
 {
-  "generated_at": "2026-08-30T02:18:14Z",
+  "generated_at": "2026-08-30T08:25:13Z",
   "articles": [
     {
       "source": "BBC World",
-      "title": "Canada installs large Lake Ontario sign in latest jab at US",
-      "url": "https://www.bbc.co.uk/news/articles/cpq09594vw7o?at_medium=RSS&at_campaign=rss",
-      "summary": "Ontario Premier Doug Ford unveiled a billboard on Canada's shoreline with the message: \"Lake Ontario. Now and Always.\"",
-      "published_at": "2026-08-30T00:17:25Z",
-      "country_code": "US",
-      "country_name": "United States"
+      "title": "WhatsApp chat used to send cash for crime and extremism",
+      "url": "https://www.bbc.co.uk/news/articles/cgk57lg7566o?at_medium=RSS&at_campaign=rss",
+      "summary": "The WhatsApp money launderers arranged cash transfers in the UK and around the world with no paper trail.",
+      "published_at": "2026-08-30T04:59:56Z",
+      "country_code": "GB",
+      "country_name": "United Kingdom"
     },
     {
       "source": "BBC World",
       "title": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
       "url": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
       "summary": "Venezuelan interim president says the unusual agreement will help revive her country's economy.",
-      "published_at": "2026-08-29T22:40:51Z",
+      "published_at": "2026-08-30T04:01:02Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Large Lake Ontario sign installed in Canada in latest jab at US",
+      "url": "https://www.bbc.co.uk/news/articles/cpq09594vw7o?at_medium=RSS&at_campaign=rss",
+      "summary": "Ontario Premier Doug Ford unveiled a billboard on Canada's shoreline with the message: \"Lake Ontario. Now and Always.\"",
+      "published_at": "2026-08-30T00:17:25Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -101,7 +110,7 @@
       "country_name": "Germany"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "US plans to cut off military aid to key Middle East ally, BBC told",
       "url": "https://www.bbc.co.uk/news/articles/cn74m8e5rleo?at_medium=RSS&at_campaign=rss",
       "summary": "Iraqi Kurdistan fears the Trump administration's plan will make the region more vulnerable to further attacks from Iran.",
@@ -866,6 +875,11 @@
       "news_count": 4
     },
     {
+      "country_code": "GB",
+      "country_name": "United Kingdom",
+      "news_count": 4
+    },
+    {
       "country_code": "NG",
       "country_name": "Nigeria",
       "news_count": 4
@@ -878,11 +892,6 @@
     {
       "country_code": "FR",
       "country_name": "France",
-      "news_count": 3
-    },
-    {
-      "country_code": "GB",
-      "country_name": "United Kingdom",
       "news_count": 3
     },
     {
