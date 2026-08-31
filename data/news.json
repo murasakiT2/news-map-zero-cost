@@ -1,14 +1,41 @@
 {
-  "generated_at": "2026-08-31T00:58:47Z",
+  "generated_at": "2026-08-31T06:41:03Z",
   "articles": [
     {
       "source": "BBC World",
-      "title": "US strikes Iranian launchers on Larak Island in first known attack in weeks",
+      "title": "US and Iran trade strikes for first time in weeks",
       "url": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss",
-      "summary": "Iran says the attack killed some civilians and is the first known US strike on Iran since late July.",
-      "published_at": "2026-08-30T23:53:03Z",
+      "summary": "Iran says the attack on Larak Island, the first known US strikes since late July, killed two people and injured two others.",
+      "published_at": "2026-08-31T05:49:37Z",
       "country_code": "US",
       "country_name": "United States"
+    },
+    {
+      "source": "BBC Asia",
+      "title": "Why is this teenager fighting fires dressed as Superman?",
+      "url": "https://www.bbc.co.uk/news/videos/cp84ql8lld9o?at_medium=RSS&at_campaign=rss",
+      "summary": "A 17-year-old boy has gone viral for wearing a superhero costume while volunteer firefighting in Indonesia, as the country faces a super El …",
+      "published_at": "2026-08-31T01:07:06Z",
+      "country_code": "ID",
+      "country_name": "Indonesia"
+    },
+    {
+      "source": "BBC Asia",
+      "title": "'Like fighting a dinosaur': Sydney woman recalls how she punched shark during attack",
+      "url": "https://www.bbc.co.uk/news/articles/c3v4px7yv6xo?at_medium=RSS&at_campaign=rss",
+      "summary": "Leah Stewart, 34, was mauled by a great white shark in June during a morning swim at Coogee Beach.",
+      "published_at": "2026-08-31T00:44:51Z",
+      "country_code": "AU",
+      "country_name": "Australia"
+    },
+    {
+      "source": "BBC Asia",
+      "title": "What will Sonia Gandhi's memoir reveal about India's most powerful dynasty?",
+      "url": "https://www.bbc.co.uk/news/articles/cdx81eveel5o?at_medium=RSS&at_campaign=rss",
+      "summary": "Sonia Gandhi’s memoir may finally answer questions about power, loss and the Gandhi family’s political legacy.",
+      "published_at": "2026-08-31T00:16:14Z",
+      "country_code": "IN",
+      "country_name": "India"
     },
     {
       "source": "BBC World",
@@ -120,7 +147,7 @@
     },
     {
       "source": "BBC World",
-      "title": "Footage of Tibet floods isn't being shown in China - and we know little about victims there",
+      "title": "Footage of Tibet floods is being heavily censored in China - and we know little about victims there",
       "url": "https://www.bbc.co.uk/news/articles/cx2z415w2gpo?at_medium=RSS&at_campaign=rss",
       "summary": "Some of the most dramatic footage from the deadly flash flooding is hidden from public view in China.",
       "published_at": "2026-08-29T03:54:11Z",
@@ -497,15 +524,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Middle East",
-      "title": "Iran says it is 'fully prepared' to counter widened US economic sanctions",
-      "url": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
-      "summary": "The US calls its latest sanctions on Iran an \"economic D-Day\", but Tehran says it has a plan to address them.",
-      "published_at": "2026-08-25T08:08:26Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC Europe",
       "title": "Moment tornado tears through southern France",
       "url": "https://www.bbc.co.uk/news/videos/c3d79mp2jeno?at_medium=RSS&at_campaign=rss",
@@ -513,15 +531,6 @@
       "published_at": "2026-08-25T01:06:01Z",
       "country_code": "FR",
       "country_name": "France"
-    },
-    {
-      "source": "BBC Middle East",
-      "title": "US removes Syria from list of state sponsors of terrorism",
-      "url": "https://www.bbc.co.uk/news/articles/c33knmyl0y5o?at_medium=RSS&at_campaign=rss",
-      "summary": "The Trump administration has embraced Syria's new president, former al-Qaeda linked militant Ahmed al-Sharaa.",
-      "published_at": "2026-08-25T00:17:25Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC US & Canada",
@@ -834,7 +843,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 26
+      "news_count": 24
     },
     {
       "country_code": "PS",
@@ -870,6 +879,11 @@
       "country_code": "FR",
       "country_name": "France",
       "news_count": 3
+    },
+    {
+      "country_code": "AU",
+      "country_name": "Australia",
+      "news_count": 2
     },
     {
       "country_code": "CN",
@@ -912,11 +926,6 @@
       "news_count": 2
     },
     {
-      "country_code": "AU",
-      "country_name": "Australia",
-      "news_count": 1
-    },
-    {
       "country_code": "BE",
       "country_name": "Belgium",
       "news_count": 1
@@ -929,6 +938,16 @@
     {
       "country_code": "ES",
       "country_name": "Spain",
+      "news_count": 1
+    },
+    {
+      "country_code": "ID",
+      "country_name": "Indonesia",
+      "news_count": 1
+    },
+    {
+      "country_code": "IN",
+      "country_name": "India",
       "news_count": 1
     },
     {
