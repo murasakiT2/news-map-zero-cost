@@ -1,6 +1,60 @@
 {
-  "generated_at": "2026-09-01T03:37:12Z",
+  "generated_at": "2026-09-01T08:58:50Z",
   "articles": [
+    {
+      "source": "BBC Europe",
+      "title": "Russian strike hits rail workers in new deadly attacks on Kyiv",
+      "url": "https://www.bbc.co.uk/news/articles/cx2zmdgry3do?at_medium=RSS&at_campaign=rss",
+      "summary": "Ukrainian officials say 20 people, including two children, were injured in the capital and the wider region.",
+      "published_at": "2026-09-01T08:38:31Z",
+      "country_code": "UA",
+      "country_name": "Ukraine"
+    },
+    {
+      "source": "BBC Africa",
+      "title": "Kenya aviation workers call off strike that disrupted flights",
+      "url": "https://www.bbc.co.uk/news/articles/c783x05nnlko?at_medium=RSS&at_campaign=rss",
+      "summary": "The go-slow strike that began on Sunday caused long delays and left passengers stranded.",
+      "published_at": "2026-09-01T06:56:44Z",
+      "country_code": "KE",
+      "country_name": "Kenya"
+    },
+    {
+      "source": "BBC World",
+      "title": "How catastrophic flash flood unfolded at remote Nepal-China border point",
+      "url": "https://www.bbc.co.uk/news/articles/c0qxw1qw3g7o?at_medium=RSS&at_campaign=rss",
+      "summary": "More than 100 Indians are missing at a vital Nepal-China trade crossing after devastating Himalayan floods.",
+      "published_at": "2026-09-01T06:02:27Z",
+      "country_code": "CN",
+      "country_name": "China"
+    },
+    {
+      "source": "BBC Asia",
+      "title": "South Korea police officer admits to closing missing person cases to avoid work",
+      "url": "https://www.bbc.co.uk/news/articles/c780wy7ype4o?at_medium=RSS&at_campaign=rss",
+      "summary": "The officer falsely claimed he contacted missing persons and prematurely closed their cases on the South Korean holiday island of Jeju.",
+      "published_at": "2026-09-01T05:47:21Z",
+      "country_code": "KR",
+      "country_name": "South Korea"
+    },
+    {
+      "source": "BBC World",
+      "title": "Flock's rapidly expanding AI surveillance network facing growing backlash in US",
+      "url": "https://www.bbc.co.uk/news/videos/cvgy4ddx1q8o?at_medium=RSS&at_campaign=rss",
+      "summary": "BBC Verify examines the expanding network of Flock cameras in the US and the backlash against it.",
+      "published_at": "2026-09-01T05:11:23Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "'I've never been to Afghanistan': Six million deportees forced to start over under the Taliban",
+      "url": "https://www.bbc.co.uk/news/articles/c2e074nn8eko?at_medium=RSS&at_campaign=rss",
+      "summary": "As of August, the number forced to return this year from Pakistan and Iran had reached another million.",
+      "published_at": "2026-09-01T05:00:34Z",
+      "country_code": "PK",
+      "country_name": "Pakistan"
+    },
     {
       "source": "BBC World",
       "title": "US army secretary resigns after months of tension",
@@ -16,6 +70,15 @@
       "url": "https://www.bbc.co.uk/news/articles/c9w457e7ydlo?at_medium=RSS&at_campaign=rss",
       "summary": "But Chief Justice John Roberts dissents, writing that \"construction is likely unlawful\".",
       "published_at": "2026-08-31T22:38:24Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "Watch: Why is the US-Venezuela oil deal so controversial?",
+      "url": "https://www.bbc.co.uk/news/videos/c207kde49dvo?at_medium=RSS&at_campaign=rss",
+      "summary": "President Donald Trump announced the US has struck a deal to control more than 65 billion barrels of proven oil reserves.",
+      "published_at": "2026-08-31T22:23:45Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -38,8 +101,8 @@
       "country_name": "Indonesia"
     },
     {
-      "source": "BBC US & Canada",
-      "title": "Amazon rigged billions in ad pricing, lawsuit from states and US watchdog alleges",
+      "source": "BBC World",
+      "title": "Amazon rigged $20bn worth of ad prices, US lawsuit alleges",
       "url": "https://www.bbc.co.uk/news/articles/cvgy91nvy27o?at_medium=RSS&at_campaign=rss",
       "summary": "Amazon responded to the lawsuit, arguing the US Federal Trade Commission \"misunderstands\" their ad market.",
       "published_at": "2026-08-31T21:28:49Z",
@@ -47,7 +110,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Latin America",
       "title": "Across Latin America, 'aura battles' burst onto the scene",
       "url": "https://www.bbc.co.uk/news/videos/c158z7g23zqo?at_medium=RSS&at_campaign=rss",
       "summary": "Young people across Latin America are taking part in the contests where participants compete to prove who has the most charisma.",
@@ -61,6 +124,15 @@
       "url": "https://www.bbc.co.uk/news/articles/crr451lpl4no?at_medium=RSS&at_campaign=rss",
       "summary": "The singer, 21, will be now represented by a public defender in the murder trial of 14-year-old Celeste Rivas Hernandez. He has pleaded not …",
       "published_at": "2026-08-31T17:54:23Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC Middle East",
+      "title": "US and Iran trade strikes for first time in weeks",
+      "url": "https://www.bbc.co.uk/news/videos/cwyzw0el1lpo?at_medium=RSS&at_campaign=rss",
+      "summary": "Iran and the US have traded strikes after American forces attacked two rocket launchers on Larak Island in the Strait of Hormuz.",
+      "published_at": "2026-08-31T15:50:00Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -99,15 +171,6 @@
       "published_at": "2026-08-31T13:34:09Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC Africa",
-      "title": "Passengers stranded as strike disrupts flights at Kenya's main airport",
-      "url": "https://www.bbc.co.uk/news/articles/c783x05nnlko?at_medium=RSS&at_campaign=rss",
-      "summary": "Kenya Airways says the strike has caused delays of more than six hours, with some flights cancelled.",
-      "published_at": "2026-08-31T10:54:01Z",
-      "country_code": "KE",
-      "country_name": "Kenya"
     },
     {
       "source": "BBC Middle East",
@@ -236,7 +299,7 @@
       "country_name": "United Kingdom"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "WhatsApp chat used to launder cash for crime and extremism",
       "url": "https://www.bbc.co.uk/news/articles/cgk57lg7566o?at_medium=RSS&at_campaign=rss",
       "summary": "The WhatsApp money launderers arranged cash transfers in the UK and around the world with no paper trail.",
@@ -281,15 +344,6 @@
       "country_name": "New Zealand"
     },
     {
-      "source": "BBC World",
-      "title": "Deadly strike on Kyiv warehouse prompts evacuations",
-      "url": "https://www.bbc.co.uk/news/videos/cy8z979y9e4o?at_medium=RSS&at_campaign=rss",
-      "summary": "Ukraine correspondent Dan Johnson reports from Kyiv after the deadly strike, which authorities said killed more than 30 people.",
-      "published_at": "2026-08-29T13:55:55Z",
-      "country_code": "UA",
-      "country_name": "Ukraine"
-    },
-    {
       "source": "BBC Europe",
       "title": "Berlin is being blackmailed by hackers, mayor says",
       "url": "https://www.bbc.co.uk/news/articles/cm2q7gv3l5qo?at_medium=RSS&at_campaign=rss",
@@ -308,15 +362,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Asia",
-      "title": "Wife of man who died after turbulence sues Singapore Airlines",
-      "url": "https://www.bbc.co.uk/news/articles/cqlwrpey1epo?at_medium=RSS&at_campaign=rss",
-      "summary": "Lawyers for Linda Kitchen say her husband was \"fatally injured\" after the flight dropped 6,000 ft.",
-      "published_at": "2026-08-28T17:47:00Z",
-      "country_code": "SG",
-      "country_name": "Singapore"
-    },
-    {
       "source": "BBC US & Canada",
       "title": "BBC speaks with US group after 77 trekkers go missing in Nepal flood",
       "url": "https://www.bbc.co.uk/news/videos/cvgy71zvdddo?at_medium=RSS&at_campaign=rss",
@@ -333,15 +378,6 @@
       "published_at": "2026-08-28T14:06:13Z",
       "country_code": "PS",
       "country_name": "Palestine"
-    },
-    {
-      "source": "BBC Africa",
-      "title": "Nigeria names interim football leadership amid governance concerns",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cpvezz222l7o?at_medium=RSS&at_campaign=rss",
-      "summary": "The Nigeria Football Federation names an interim board as the country's President Bola Tinubu weighs in on perceived leadership failures and…",
-      "published_at": "2026-08-28T13:05:10Z",
-      "country_code": "NG",
-      "country_name": "Nigeria"
     },
     {
       "source": "BBC Europe",
@@ -686,15 +722,6 @@
       "country_name": "Italy"
     },
     {
-      "source": "BBC Middle East",
-      "title": "How Israeli settlers are besieging Palestinian family homes in West Bank",
-      "url": "https://www.bbc.co.uk/news/videos/ckg6pepygr0o?at_medium=RSS&at_campaign=rss",
-      "summary": "After the homeowners made their initial report to the Israeli army, the first soldiers who arrived at the scene were filmed praying with the…",
-      "published_at": "2026-08-12T20:32:03Z",
-      "country_code": "PS",
-      "country_name": "Palestine"
-    },
-    {
       "source": "BBC Latin America",
       "title": "In shattered Cali, residents search for loved ones and signs of hope",
       "url": "https://www.bbc.co.uk/news/videos/ckge0e0g95no?at_medium=RSS&at_campaign=rss",
@@ -852,12 +879,12 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 26
+      "news_count": 29
     },
     {
       "country_code": "PS",
       "country_name": "Palestine",
-      "news_count": 13
+      "news_count": 12
     },
     {
       "country_code": "GB",
@@ -875,11 +902,6 @@
       "news_count": 4
     },
     {
-      "country_code": "NG",
-      "country_name": "Nigeria",
-      "news_count": 4
-    },
-    {
       "country_code": "UA",
       "country_name": "Ukraine",
       "news_count": 4
@@ -887,6 +909,11 @@
     {
       "country_code": "KE",
       "country_name": "Kenya",
+      "news_count": 3
+    },
+    {
+      "country_code": "NG",
+      "country_name": "Nigeria",
       "news_count": 3
     },
     {
@@ -907,6 +934,11 @@
     {
       "country_code": "ID",
       "country_name": "Indonesia",
+      "news_count": 2
+    },
+    {
+      "country_code": "KR",
+      "country_name": "South Korea",
       "news_count": 2
     },
     {
@@ -937,6 +969,11 @@
     {
       "country_code": "CL",
       "country_name": "Chile",
+      "news_count": 1
+    },
+    {
+      "country_code": "CN",
+      "country_name": "China",
       "news_count": 1
     },
     {
@@ -975,23 +1012,18 @@
       "news_count": 1
     },
     {
-      "country_code": "KR",
-      "country_name": "South Korea",
-      "news_count": 1
-    },
-    {
       "country_code": "MA",
       "country_name": "Morocco",
       "news_count": 1
     },
     {
-      "country_code": "SA",
-      "country_name": "Saudi Arabia",
+      "country_code": "PK",
+      "country_name": "Pakistan",
       "news_count": 1
     },
     {
-      "country_code": "SG",
-      "country_name": "Singapore",
+      "country_code": "SA",
+      "country_name": "Saudi Arabia",
       "news_count": 1
     },
     {
