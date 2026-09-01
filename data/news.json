@@ -1,14 +1,77 @@
 {
-  "generated_at": "2026-09-01T13:56:34Z",
+  "generated_at": "2026-09-01T17:31:07Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Germany says Russia behind Leipzig airport drone attack",
+      "url": "https://www.bbc.co.uk/news/articles/c5ylm3m67n2o?at_medium=RSS&at_campaign=rss",
+      "summary": "A drone carrying an explosive device was discovered at the airport close to Ukrainian cargo planes on 4 August.",
+      "published_at": "2026-09-01T16:53:40Z",
+      "country_code": "RU",
+      "country_name": "Russia"
+    },
+    {
+      "source": "BBC World",
+      "title": "Trump says US position on Falklands 'one of many' under review",
+      "url": "https://www.bbc.co.uk/news/articles/cm2q1qgg542o?at_medium=RSS&at_campaign=rss",
+      "summary": "The UK says Falkland islanders \"are British with a right to determine their own future\".",
+      "published_at": "2026-09-01T16:35:28Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Pistol in a lake gives hope for French cold case",
+      "url": "https://www.bbc.co.uk/news/articles/c74eklrm344o?at_medium=RSS&at_campaign=rss",
+      "summary": "Saad al-Hilli was shot dead with his wife and mother-in-law while holidaying in eastern France in September 2012.",
+      "published_at": "2026-09-01T16:33:29Z",
+      "country_code": "FR",
+      "country_name": "France"
+    },
+    {
+      "source": "BBC World",
+      "title": "'I have fired 40 of my agents for being corrupt', says Nigeria's anti-corruption chief",
+      "url": "https://www.bbc.co.uk/news/articles/c9863817xzpo?at_medium=RSS&at_campaign=rss",
+      "summary": "The EFCC boss says more than five of the dismissed officials are already facing prosecution.",
+      "published_at": "2026-09-01T15:57:18Z",
+      "country_code": "NG",
+      "country_name": "Nigeria"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "US borrowing costs hit fresh highs over inflation fears",
+      "url": "https://www.bbc.co.uk/news/articles/c980y8r98y2o?at_medium=RSS&at_campaign=rss",
+      "summary": "The effective interest rate on 10 years rose to 4.79%, its highest level since January 2025, as oil prices surged.",
+      "published_at": "2026-09-01T15:51:51Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "Sexual assaults happening almost every day in Ceuta, prosecutors say",
       "url": "https://www.bbc.co.uk/news/articles/c3v4pgk7gweo?at_medium=RSS&at_campaign=rss",
       "summary": "Most migrants have returned to neighbouring Morocco, but as many as 5,000 remain in the Spanish exclave.",
-      "published_at": "2026-09-01T13:46:05Z",
+      "published_at": "2026-09-01T15:33:14Z",
       "country_code": "MA",
       "country_name": "Morocco"
+    },
+    {
+      "source": "BBC World",
+      "title": "France targets Shein and Temu with fast fashion fees",
+      "url": "https://www.bbc.co.uk/news/articles/cm2792pendro?at_medium=RSS&at_campaign=rss",
+      "summary": "The levy on \"ultra-fast fashion\" items could reach almost €20 per garment by 2030.",
+      "published_at": "2026-09-01T15:15:57Z",
+      "country_code": "FR",
+      "country_name": "France"
+    },
+    {
+      "source": "BBC Europe",
+      "title": "Norway's new king takes oath as mourners pay respects to his late father",
+      "url": "https://www.bbc.co.uk/news/videos/ceq8945e71ro?at_medium=RSS&at_campaign=rss",
+      "summary": "Norway's new King takes the first major step of his reign as his father, the late King Harald V, lies in state at the Royal Palace.",
+      "published_at": "2026-09-01T14:06:58Z",
+      "country_code": "NO",
+      "country_name": "Norway"
     },
     {
       "source": "BBC World",
@@ -137,7 +200,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "Japan Inc is betting big on India as China risks deepen",
       "url": "https://www.bbc.co.uk/news/articles/cz64955d56po?at_medium=RSS&at_campaign=rss",
       "summary": "Japanese companies are doubling down on India amid a shrinking domestic market and rising risks in China.",
@@ -187,24 +250,6 @@
       "url": "https://www.bbc.co.uk/news/videos/cwyzw0el1lpo?at_medium=RSS&at_campaign=rss",
       "summary": "Iran and the US have traded strikes after American forces attacked two rocket launchers on Larak Island in the Strait of Hormuz.",
       "published_at": "2026-08-31T15:50:00Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "Messi retires from international football with 'nothing left to give'",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ceq89y38elro?at_medium=RSS&at_campaign=rss",
-      "summary": "Argentina great Lionel Messi announces his retirement from international football, saying it was a decision that \"hurt\" but he understands \"…",
-      "published_at": "2026-08-31T15:18:39Z",
-      "country_code": "AR",
-      "country_name": "Argentina"
-    },
-    {
-      "source": "BBC World",
-      "title": "Trump pushes Apple to change 'Lake Ontario' to 'Lake America' on its maps",
-      "url": "https://www.bbc.co.uk/news/articles/c2l80eq5lxno?at_medium=RSS&at_campaign=rss",
-      "summary": "The request comes after Google made the switch for US-based users over the weekend. MapQuest, another US map provider, said it will not chan…",
-      "published_at": "2026-08-31T15:00:11Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -879,7 +924,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 28
+      "news_count": 29
     },
     {
       "country_code": "PS",
@@ -902,18 +947,28 @@
       "news_count": 4
     },
     {
+      "country_code": "NG",
+      "country_name": "Nigeria",
+      "news_count": 4
+    },
+    {
+      "country_code": "NO",
+      "country_name": "Norway",
+      "news_count": 4
+    },
+    {
+      "country_code": "FR",
+      "country_name": "France",
+      "news_count": 3
+    },
+    {
       "country_code": "KE",
       "country_name": "Kenya",
       "news_count": 3
     },
     {
-      "country_code": "NG",
-      "country_name": "Nigeria",
-      "news_count": 3
-    },
-    {
-      "country_code": "NO",
-      "country_name": "Norway",
+      "country_code": "RU",
+      "country_name": "Russia",
       "news_count": 3
     },
     {
@@ -957,19 +1012,9 @@
       "news_count": 2
     },
     {
-      "country_code": "RU",
-      "country_name": "Russia",
-      "news_count": 2
-    },
-    {
       "country_code": "ZA",
       "country_name": "South Africa",
       "news_count": 2
-    },
-    {
-      "country_code": "AR",
-      "country_name": "Argentina",
-      "news_count": 1
     },
     {
       "country_code": "AU",
@@ -994,11 +1039,6 @@
     {
       "country_code": "ES",
       "country_name": "Spain",
-      "news_count": 1
-    },
-    {
-      "country_code": "FR",
-      "country_name": "France",
       "news_count": 1
     },
     {
