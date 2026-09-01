@@ -1,12 +1,30 @@
 {
-  "generated_at": "2026-09-01T17:31:07Z",
+  "generated_at": "2026-09-01T20:16:41Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "US launches more strikes on Iran as state media reports explosions",
+      "url": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss",
+      "summary": "US Central Command accused Iran of targeting commercial shipping and American service members deployed in the region.",
+      "published_at": "2026-09-01T19:50:05Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC Middle East",
+      "title": "Israel warns it will retaliate if UK imposes sanctions",
+      "url": "https://www.bbc.co.uk/news/articles/cr7degkkv5go?at_medium=RSS&at_campaign=rss",
+      "summary": "The UK's Foreign Secretary Ed Miliband pledged on Tuesday to introduce a \"comprehensive reset\" of policy on Israel.",
+      "published_at": "2026-09-01T19:27:38Z",
+      "country_code": "GB",
+      "country_name": "United Kingdom"
+    },
     {
       "source": "BBC World",
       "title": "Germany says Russia behind Leipzig airport drone attack",
       "url": "https://www.bbc.co.uk/news/articles/c5ylm3m67n2o?at_medium=RSS&at_campaign=rss",
       "summary": "A drone carrying an explosive device was discovered at the airport close to Ukrainian cargo planes on 4 August.",
-      "published_at": "2026-09-01T16:53:40Z",
+      "published_at": "2026-09-01T19:13:03Z",
       "country_code": "RU",
       "country_name": "Russia"
     },
@@ -155,7 +173,7 @@
       "country_name": "South Korea"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "Flock's rapidly expanding AI surveillance network facing growing backlash in US",
       "url": "https://www.bbc.co.uk/news/videos/cvgy4ddx1q8o?at_medium=RSS&at_campaign=rss",
       "summary": "BBC Verify examines the expanding network of Flock cameras in the US and the backlash against it.",
@@ -579,15 +597,6 @@
     },
     {
       "source": "BBC Middle East",
-      "title": "Who does Iran trade with and what could Trump's 'economic D-Day' mean?",
-      "url": "https://www.bbc.co.uk/news/articles/cqxvj1zd4qjo?at_medium=RSS&at_campaign=rss",
-      "summary": "Iran is no stranger to US sanctions and has developed deep economic ties with several countries.",
-      "published_at": "2026-08-25T15:04:52Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC Middle East",
       "title": "Watch: What are the US sanctions on Iran and who else will be affected?",
       "url": "https://www.bbc.co.uk/news/videos/c07lel35rllo?at_medium=RSS&at_campaign=rss",
       "summary": "Washington announced what it described as an \"economic D-Day\" against Iran, widening current sanctions and targetting countries with busines…",
@@ -711,15 +720,6 @@
       "published_at": "2026-08-20T20:41:31Z",
       "country_code": "MX",
       "country_name": "Mexico"
-    },
-    {
-      "source": "BBC Middle East",
-      "title": "What we know about Israel's criminal investigations",
-      "url": "https://www.bbc.co.uk/news/videos/cdx8w1g2q5eo?at_medium=RSS&at_campaign=rss",
-      "summary": "The Israeli military has confirmed for the first time that it opened fire on a car carrying five-year-old Palestinian girl Hind Rajab, who w…",
-      "published_at": "2026-08-20T12:16:45Z",
-      "country_code": "IL",
-      "country_name": "Israel"
     },
     {
       "source": "BBC Africa",
@@ -932,13 +932,13 @@
       "news_count": 11
     },
     {
-      "country_code": "IL",
-      "country_name": "Israel",
+      "country_code": "GB",
+      "country_name": "United Kingdom",
       "news_count": 6
     },
     {
-      "country_code": "GB",
-      "country_name": "United Kingdom",
+      "country_code": "IL",
+      "country_name": "Israel",
       "news_count": 5
     },
     {
