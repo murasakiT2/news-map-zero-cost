@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-09-02T17:32:00Z",
+  "generated_at": "2026-09-02T20:15:12Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Iranian attack on Saudi tanker killed two Filipino sailors, Saudi Arabia says",
+      "url": "https://www.bbc.co.uk/news/articles/cx2zxgg4mx9o?at_medium=RSS&at_campaign=rss",
+      "summary": "The kingdom condemns the targeting of Sidr, which was reportedly hit by unknown projectiles in the Strait of Hormuz on Monday.",
+      "published_at": "2026-09-02T17:33:45Z",
+      "country_code": "SA",
+      "country_name": "Saudi Arabia"
+    },
     {
       "source": "BBC World",
       "title": "EU and Nato vow to step up pressure on Russia after 'new escalation' in Germany",
@@ -525,15 +534,6 @@
     },
     {
       "source": "BBC Middle East",
-      "title": "Israel's seizure of Unrwa training college in East Jerusalem condemned",
-      "url": "https://www.bbc.co.uk/news/articles/c5yl89yrldpo?at_medium=RSS&at_campaign=rss",
-      "summary": "It marks the shutting of the last of the Palestinian refugee agency's facilities in the sector of the city, after Israel passed a law agains…",
-      "published_at": "2026-08-26T10:34:39Z",
-      "country_code": "IL",
-      "country_name": "Israel"
-    },
-    {
-      "source": "BBC Middle East",
       "title": "Trump hopes sanctions will topple Iran's regime - its leaders are betting otherwise",
       "url": "https://www.bbc.co.uk/news/articles/cr50n9gnljgo?at_medium=RSS&at_campaign=rss",
       "summary": "The US says new sanctions are an \"economic D-Day\", but Tehran's leaders have survived restrictions before.",
@@ -840,7 +840,7 @@
     {
       "country_code": "IL",
       "country_name": "Israel",
-      "news_count": 6
+      "news_count": 5
     },
     {
       "country_code": "NG",
@@ -895,6 +895,11 @@
     {
       "country_code": "NO",
       "country_name": "Norway",
+      "news_count": 2
+    },
+    {
+      "country_code": "SA",
+      "country_name": "Saudi Arabia",
       "news_count": 2
     },
     {
@@ -965,11 +970,6 @@
     {
       "country_code": "PK",
       "country_name": "Pakistan",
-      "news_count": 1
-    },
-    {
-      "country_code": "SA",
-      "country_name": "Saudi Arabia",
       "news_count": 1
     },
     {
