@@ -1,21 +1,30 @@
 {
-  "generated_at": "2026-09-02T00:39:11Z",
+  "generated_at": "2026-09-02T05:13:41Z",
   "articles": [
     {
       "source": "BBC World",
-      "title": "Iran retaliates after US strikes kills four at wedding party, state media reports",
+      "title": "Iran attacks US bases in Middle East after reports US strike killed five at wedding party",
       "url": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss",
-      "summary": "Iranian news agencies said retaliatory missile and drone attacks on US targets had begun.",
-      "published_at": "2026-09-02T00:13:26Z",
+      "summary": "The Iranian Red Crescent says a child was among those killed when shrapnel from a US strike hit a home. The US military says it is aware of …",
+      "published_at": "2026-09-02T05:12:07Z",
       "country_code": "US",
       "country_name": "United States"
     },
     {
-      "source": "BBC US & Canada",
-      "title": "Remarkable US oil deal puzzles analysts - and angers many Venezuelans",
-      "url": "https://www.bbc.co.uk/news/articles/c93vkgk5e1yo?at_medium=RSS&at_campaign=rss",
-      "summary": "Amounting to 65 billion barrels of crude, the deal is labelled by one ex-envoy as a colonialist \"fever dream\".",
-      "published_at": "2026-09-01T21:27:29Z",
+      "source": "BBC World",
+      "title": "Zelensky says airlines should avoid Russian airspace as Ukraine escalates drone operations",
+      "url": "https://www.bbc.co.uk/news/articles/c9v9yydy2wvo?at_medium=RSS&at_campaign=rss",
+      "summary": "Chinese and Gulf state airlines are among those still using Russian airspace. Meanwhile, Russia says it will intensify its own attacks on Uk…",
+      "published_at": "2026-09-02T04:23:23Z",
+      "country_code": "RU",
+      "country_name": "Russia"
+    },
+    {
+      "source": "BBC World",
+      "title": "US aircraft carrier docks near Thai beach resort Pattaya after record 250 days at sea",
+      "url": "https://www.bbc.co.uk/news/articles/cg7k09z4lj9o?at_medium=RSS&at_campaign=rss",
+      "summary": "The USS Lincoln is docking close to Pattaya, known for its raucous nightlife, and for sex tourism.",
+      "published_at": "2026-09-02T02:42:38Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -24,9 +33,27 @@
       "title": "Germany says Russia behind Leipzig airport drone attack",
       "url": "https://www.bbc.co.uk/news/articles/c5ylm3m67n2o?at_medium=RSS&at_campaign=rss",
       "summary": "A drone carrying an explosive device was discovered at the airport close to Ukrainian cargo planes on 4 August.",
-      "published_at": "2026-09-01T21:05:22Z",
+      "published_at": "2026-09-02T01:59:54Z",
       "country_code": "RU",
       "country_name": "Russia"
+    },
+    {
+      "source": "BBC World",
+      "title": "Apple Maps renames Lake Ontario as Lake America after Trump order",
+      "url": "https://www.bbc.co.uk/news/articles/cddvyyz0e47o?at_medium=RSS&at_campaign=rss",
+      "summary": "The iPhone maker follows rival technology giant Google in relabelling the Great Lake.",
+      "published_at": "2026-09-02T01:32:24Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Remarkable US oil deal puzzles analysts - and angers many Venezuelans",
+      "url": "https://www.bbc.co.uk/news/articles/c93vkgk5e1yo?at_medium=RSS&at_campaign=rss",
+      "summary": "Amounting to 65 billion barrels of crude, the deal is labelled by one ex-envoy as a colonialist \"fever dream\".",
+      "published_at": "2026-09-01T21:27:29Z",
+      "country_code": "US",
+      "country_name": "United States"
     },
     {
       "source": "BBC World",
@@ -128,7 +155,7 @@
       "country_name": "South Africa"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "Why did Modi urge Putin to end Ukraine war - and will he listen?",
       "url": "https://www.bbc.co.uk/news/articles/cx2zy3wdqqeo?at_medium=RSS&at_campaign=rss",
       "summary": "BBC correspondents in Delhi and Moscow look at why the Indian PM made a very public peace plea to his Russian ally.",
@@ -209,20 +236,11 @@
       "country_name": "Pakistan"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "US army secretary resigns after months of tension",
       "url": "https://www.bbc.co.uk/news/articles/czjz31dk1xmo?at_medium=RSS&at_campaign=rss",
       "summary": "Dan Driscoll, the youngest-ever army secretary, was about 18 months into his post.",
       "published_at": "2026-09-01T01:01:03Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "US Supreme Court clears way for Trump to keep building White House ballroom",
-      "url": "https://www.bbc.co.uk/news/articles/c9w457e7ydlo?at_medium=RSS&at_campaign=rss",
-      "summary": "But Chief Justice John Roberts dissents, writing that \"construction is likely unlawful\".",
-      "published_at": "2026-08-31T22:38:24Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -942,7 +960,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 30
+      "news_count": 31
     },
     {
       "country_code": "PS",
@@ -975,6 +993,11 @@
       "news_count": 4
     },
     {
+      "country_code": "RU",
+      "country_name": "Russia",
+      "news_count": 4
+    },
+    {
       "country_code": "FR",
       "country_name": "France",
       "news_count": 3
@@ -982,11 +1005,6 @@
     {
       "country_code": "KE",
       "country_name": "Kenya",
-      "news_count": 3
-    },
-    {
-      "country_code": "RU",
-      "country_name": "Russia",
       "news_count": 3
     },
     {
