@@ -1,6 +1,51 @@
 {
-  "generated_at": "2026-09-02T20:15:12Z",
+  "generated_at": "2026-09-02T22:43:16Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Protests in Spain over government's handling of Ceuta migrant crisis",
+      "url": "https://www.bbc.co.uk/news/articles/c1mvn2yp9n2o?at_medium=RSS&at_campaign=rss",
+      "summary": "Spanish opposition parties accuse Prime Minister Pedro Sánchez of abandoning the residents of Ceuta.",
+      "published_at": "2026-09-02T21:34:27Z",
+      "country_code": "ES",
+      "country_name": "Spain"
+    },
+    {
+      "source": "BBC Middle East",
+      "title": "What we know about reported strike on Iran wedding celebrations",
+      "url": "https://www.bbc.co.uk/news/videos/c0lr1krdxxwo?at_medium=RSS&at_campaign=rss",
+      "summary": "BBC Verify looks at footage showing the aftermath of a strike on a building in southern Iran.",
+      "published_at": "2026-09-02T21:02:35Z",
+      "country_code": "IR",
+      "country_name": "Iran"
+    },
+    {
+      "source": "BBC World",
+      "title": "Uber shuts operations in Nigeria and Uganda with immediate effect",
+      "url": "https://www.bbc.co.uk/news/articles/c86xpv8l9y9o?at_medium=RSS&at_campaign=rss",
+      "summary": "Nigeria - Africa's most populous country - is proving a tough market for ride-hailing services.",
+      "published_at": "2026-09-02T20:21:04Z",
+      "country_code": "NG",
+      "country_name": "Nigeria"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "Watch: Trump 'happy' that Prince Harry and Meghan left the US",
+      "url": "https://www.bbc.co.uk/news/videos/c33k72m7x11o?at_medium=RSS&at_campaign=rss",
+      "summary": "President Donald Trump said he was not a fan of the couple and added that they treated the Royal Family with \"great disrespect\".",
+      "published_at": "2026-09-02T20:15:29Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "'Below the dignity of the office': Canadian officials condemn Pete Hegseth cadet post",
+      "url": "https://www.bbc.co.uk/news/articles/clyk32nr1emo?at_medium=RSS&at_campaign=rss",
+      "summary": "The US Defence Secretary is facing criticism for his apparent online mocking of members of Canada's cadet programme.",
+      "published_at": "2026-09-02T19:20:50Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "Iranian attack on Saudi tanker killed two Filipino sailors, Saudi Arabia says",
@@ -9,6 +54,15 @@
       "published_at": "2026-09-02T17:33:45Z",
       "country_code": "SA",
       "country_name": "Saudi Arabia"
+    },
+    {
+      "source": "BBC World",
+      "title": "Netherlands moves billions in gold to London in 'crisis preparedness' move",
+      "url": "https://www.bbc.co.uk/news/articles/cvgy51xlz39o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Dutch central bank removes some of its gold reserves from the US and Canada, saying it is because of \"increasing geopolitical unrest\".",
+      "published_at": "2026-09-02T17:21:00Z",
+      "country_code": "US",
+      "country_name": "United States"
     },
     {
       "source": "BBC World",
@@ -56,7 +110,7 @@
       "country_name": "India"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Middle East",
       "title": "Bus crash on Egypt's Red Sea coast kills 22",
       "url": "https://www.bbc.co.uk/news/articles/cn8mr1myy2ko?at_medium=RSS&at_campaign=rss",
       "summary": "Reports say Jordanian nationals are among those killed in the accident in the South Sinai governorate.",
@@ -81,15 +135,6 @@
       "published_at": "2026-09-02T11:47:11Z",
       "country_code": "GB",
       "country_name": "United Kingdom"
-    },
-    {
-      "source": "BBC World",
-      "title": "What we know about reported strike on Iran wedding celebrations",
-      "url": "https://www.bbc.co.uk/news/videos/c0lr1krdxxwo?at_medium=RSS&at_campaign=rss",
-      "summary": "BBC Verify looks at footage showing the aftermath of a strike on a building in southern Iran.",
-      "published_at": "2026-09-02T10:33:47Z",
-      "country_code": "IR",
-      "country_name": "Iran"
     },
     {
       "source": "BBC World",
@@ -128,7 +173,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Middle East",
       "title": "BBC travels inside occupied Lebanon as officials say Israel expanding positions",
       "url": "https://www.bbc.co.uk/news/articles/cge41d19gq9o?at_medium=RSS&at_campaign=rss",
       "summary": "A BBC team joined a humanitarian mission of the UN peacekeeping force, which says Israeli troops are fortifying positions and continuing dem…",
@@ -299,15 +344,6 @@
       "country_name": "Pakistan"
     },
     {
-      "source": "BBC US & Canada",
-      "title": "Watch: Why is the US-Venezuela oil deal so controversial?",
-      "url": "https://www.bbc.co.uk/news/videos/c207kde49dvo?at_medium=RSS&at_campaign=rss",
-      "summary": "President Donald Trump announced the US has struck a deal to control more than 65 billion barrels of proven oil reserves.",
-      "published_at": "2026-08-31T22:23:45Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC Asia",
       "title": "Japan Inc is betting big on India as China risks deepen",
       "url": "https://www.bbc.co.uk/news/articles/cz64955d56po?at_medium=RSS&at_campaign=rss",
@@ -317,7 +353,7 @@
       "country_name": "Japan"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "Orangutans in danger as wildfires blaze through Borneo",
       "url": "https://www.bbc.co.uk/news/videos/c74emdn49kdo?at_medium=RSS&at_campaign=rss",
       "summary": "Wildfires in Indonesia have destroyed part of the natural habitat of hundreds of orangutans, risking the survival of the species.",
@@ -326,7 +362,7 @@
       "country_name": "Indonesia"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Latin America",
       "title": "Across Latin America, 'aura battles' burst onto the scene",
       "url": "https://www.bbc.co.uk/news/videos/c158z7g23zqo?at_medium=RSS&at_campaign=rss",
       "summary": "Young people across Latin America are taking part in the contests where participants compete to prove who has the most charisma.",
@@ -369,15 +405,6 @@
       "published_at": "2026-08-31T06:56:40Z",
       "country_code": "KR",
       "country_name": "South Korea"
-    },
-    {
-      "source": "BBC Europe",
-      "title": "Djokovic in tears during US Open first-round exit",
-      "url": "https://www.bbc.co.uk/sport/tennis/articles/c39m1le9gjeo?at_medium=RSS&at_campaign=rss",
-      "summary": "An emotional Novak Djokovic suffers a US Open first-round defeat which provides further evidence that age is catching up with the 39-year-ol…",
-      "published_at": "2026-08-31T06:51:44Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC Europe",
@@ -825,7 +852,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 20
+      "news_count": 21
     },
     {
       "country_code": "PS",
@@ -838,13 +865,13 @@
       "news_count": 7
     },
     {
-      "country_code": "IL",
-      "country_name": "Israel",
-      "news_count": 5
-    },
-    {
       "country_code": "NG",
       "country_name": "Nigeria",
+      "news_count": 6
+    },
+    {
+      "country_code": "IL",
+      "country_name": "Israel",
       "news_count": 5
     },
     {
@@ -861,6 +888,11 @@
       "country_code": "RU",
       "country_name": "Russia",
       "news_count": 4
+    },
+    {
+      "country_code": "ES",
+      "country_name": "Spain",
+      "news_count": 2
     },
     {
       "country_code": "ID",
@@ -940,11 +972,6 @@
     {
       "country_code": "EG",
       "country_name": "Egypt",
-      "news_count": 1
-    },
-    {
-      "country_code": "ES",
-      "country_name": "Spain",
       "news_count": 1
     },
     {
