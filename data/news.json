@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-09-03T20:16:16Z",
+  "generated_at": "2026-09-03T22:40:16Z",
   "articles": [
+    {
+      "source": "BBC US & Canada",
+      "title": "Transplanted pig kidney works in US man's body for record 271 days",
+      "url": "https://www.bbc.co.uk/news/articles/c305qn2jeggo?at_medium=RSS&at_campaign=rss",
+      "summary": "A man has lived for a record nine months with a transplanted pig kidney while waiting for a human transplant.",
+      "published_at": "2026-09-03T22:31:23Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC US & Canada",
       "title": "Canada unveils new $20 bill featuring portrait of King Charles",
@@ -21,7 +30,7 @@
     },
     {
       "source": "BBC World",
-      "title": "Data centres are booming in Australia - but at what cost?",
+      "title": "AI data centres are booming in Australia - but at what cost?",
       "url": "https://www.bbc.co.uk/news/articles/cgl3we7wdr3o?at_medium=RSS&at_campaign=rss",
       "summary": "Advocates say data centres will bring jobs but others worry they will suck up resources while providing little advantage.",
       "published_at": "2026-09-03T18:32:03Z",
@@ -45,6 +54,15 @@
       "published_at": "2026-09-03T17:52:37Z",
       "country_code": "CA",
       "country_name": "Canada"
+    },
+    {
+      "source": "BBC World",
+      "title": "Watch: Gloria Steinem dedicated her life to fight for women's equality",
+      "url": "https://www.bbc.co.uk/news/videos/c9865l26097o?at_medium=RSS&at_campaign=rss",
+      "summary": "The feminist icon who became leader of the women's liberation movement in the US died on Wednesday at the age of 92, according to her founda…",
+      "published_at": "2026-09-03T17:35:31Z",
+      "country_code": "US",
+      "country_name": "United States"
     },
     {
       "source": "BBC Europe",
@@ -353,15 +371,6 @@
       "country_name": "Israel"
     },
     {
-      "source": "BBC World",
-      "title": "Cup noodles made with cold water? BBC tries Japan's viral snack",
-      "url": "https://www.bbc.co.uk/news/videos/ce30lqln299o?at_medium=RSS&at_campaign=rss",
-      "summary": "The BBC's Tokyo correspondent Kurumi Mori tries Japan's latest food trend, instant noodles made using cold water.",
-      "published_at": "2026-09-01T22:02:14Z",
-      "country_code": "JP",
-      "country_name": "Japan"
-    },
-    {
       "source": "BBC US & Canada",
       "title": "Remarkable US oil deal puzzles analysts - and angers many Venezuelans",
       "url": "https://www.bbc.co.uk/news/articles/c93vkgk5e1yo?at_medium=RSS&at_campaign=rss",
@@ -405,15 +414,6 @@
       "published_at": "2026-09-01T17:36:44Z",
       "country_code": "CA",
       "country_name": "Canada"
-    },
-    {
-      "source": "BBC World",
-      "title": "Norway's new king takes oath as mourners pay respects to his late father",
-      "url": "https://www.bbc.co.uk/news/videos/ceq8945e71ro?at_medium=RSS&at_campaign=rss",
-      "summary": "Norway's new King takes the first major step of his reign as his father, the late King Harald V, lies in state at the Royal Palace.",
-      "published_at": "2026-09-01T14:06:58Z",
-      "country_code": "NO",
-      "country_name": "Norway"
     },
     {
       "source": "BBC Africa",
@@ -897,7 +897,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 26
+      "news_count": 28
     },
     {
       "country_code": "PS",
@@ -960,11 +960,6 @@
       "news_count": 2
     },
     {
-      "country_code": "NO",
-      "country_name": "Norway",
-      "news_count": 2
-    },
-    {
       "country_code": "RU",
       "country_name": "Russia",
       "news_count": 2
@@ -1020,13 +1015,13 @@
       "news_count": 1
     },
     {
-      "country_code": "JP",
-      "country_name": "Japan",
+      "country_code": "KR",
+      "country_name": "South Korea",
       "news_count": 1
     },
     {
-      "country_code": "KR",
-      "country_name": "South Korea",
+      "country_code": "NO",
+      "country_name": "Norway",
       "news_count": 1
     },
     {
