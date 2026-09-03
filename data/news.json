@@ -1,8 +1,35 @@
 {
-  "generated_at": "2026-09-03T00:49:57Z",
+  "generated_at": "2026-09-03T05:18:49Z",
   "articles": [
     {
-      "source": "BBC Africa",
+      "source": "BBC US & Canada",
+      "title": "Trump $1 coin makes him first living president on US currency in a century",
+      "url": "https://www.bbc.co.uk/news/articles/c7507g9v992o?at_medium=RSS&at_campaign=rss",
+      "summary": "The US Mint special edition is stamped with a portrait of Trump alongside the words \"LIBERTY\" and \"IN GOD WE TRUST\"",
+      "published_at": "2026-09-03T03:39:53Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "EU and Nato vow to step up pressure on Russia after 'new escalation' in Germany",
+      "url": "https://www.bbc.co.uk/news/articles/ce9e810pg7ko?at_medium=RSS&at_campaign=rss",
+      "summary": "Russia is accused of growing increasingly reckless after Berlin blamed Russia for a failed drone attack on Leipzig airport.",
+      "published_at": "2026-09-03T03:21:24Z",
+      "country_code": "RU",
+      "country_name": "Russia"
+    },
+    {
+      "source": "BBC World",
+      "title": "Why Nepal floods should worry India",
+      "url": "https://www.bbc.co.uk/news/articles/cn8e940gz10o?at_medium=RSS&at_campaign=rss",
+      "summary": "The disaster comes as a warning as climate change raises shared Himalayan risks.",
+      "published_at": "2026-09-03T00:58:44Z",
+      "country_code": "IN",
+      "country_name": "India"
+    },
+    {
+      "source": "BBC World",
       "title": "Sharpeville massacre survivors start legal fight for justice in South Africa",
       "url": "https://www.bbc.co.uk/news/articles/c1mvll11ll5o?at_medium=RSS&at_campaign=rss",
       "summary": "At least 69 people were shot dead in 1960 but no-one has been prosecuted and victims want restitution.",
@@ -21,7 +48,7 @@
     },
     {
       "source": "BBC World",
-      "title": "Protests in Spain over government's handling of Ceuta migrant crisis",
+      "title": "Protests in Spain against government's handling of Ceuta migrant crisis",
       "url": "https://www.bbc.co.uk/news/articles/c1mvn2yp9n2o?at_medium=RSS&at_campaign=rss",
       "summary": "Spanish opposition parties accuse Prime Minister Pedro Sánchez of abandoning the residents of Ceuta.",
       "published_at": "2026-09-02T21:34:27Z",
@@ -81,15 +108,6 @@
       "published_at": "2026-09-02T17:21:00Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "EU and Nato vow to step up pressure on Russia after 'new escalation' in Germany",
-      "url": "https://www.bbc.co.uk/news/articles/ce9e810pg7ko?at_medium=RSS&at_campaign=rss",
-      "summary": "Russia is accused of growing increasingly reckless after Berlin blamed Russia for a failed drone attack on Leipzig airport.",
-      "published_at": "2026-09-02T16:49:00Z",
-      "country_code": "RU",
-      "country_name": "Russia"
     },
     {
       "source": "BBC World",
@@ -191,6 +209,15 @@
       "country_name": "United States"
     },
     {
+      "source": "BBC Asia",
+      "title": "South Korea jails care home head for sexually assaulting disabled residents",
+      "url": "https://www.bbc.co.uk/news/articles/cn74vzl52l4o?at_medium=RSS&at_campaign=rss",
+      "summary": "The man, surnamed Kim, was handed a 15-year prison term for abusing three residents at the facility near Seoul.",
+      "published_at": "2026-09-02T05:56:44Z",
+      "country_code": "KR",
+      "country_name": "South Korea"
+    },
+    {
       "source": "BBC Middle East",
       "title": "BBC travels inside occupied Lebanon as officials say Israel expanding positions",
       "url": "https://www.bbc.co.uk/news/articles/cge41d19gq9o?at_medium=RSS&at_campaign=rss",
@@ -218,7 +245,7 @@
       "country_name": "Japan"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "Remarkable US oil deal puzzles analysts - and angers many Venezuelans",
       "url": "https://www.bbc.co.uk/news/articles/c93vkgk5e1yo?at_medium=RSS&at_campaign=rss",
       "summary": "Amounting to 65 billion barrels of crude, the deal is labelled by one ex-envoy as a colonialist \"fever dream\".",
@@ -263,7 +290,7 @@
       "country_name": "Canada"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "Pistol in a lake gives hope for French cold case",
       "url": "https://www.bbc.co.uk/news/articles/c74eklrm344o?at_medium=RSS&at_campaign=rss",
       "summary": "Saad al-Hilli was shot dead with his wife and mother-in-law while holidaying in eastern France in September 2012.",
@@ -326,25 +353,7 @@
       "country_name": "Russia"
     },
     {
-      "source": "BBC Asia",
-      "title": "The final minutes before floodwater crashed through Nepal-China border",
-      "url": "https://www.bbc.co.uk/news/articles/c0qxw1qw3g7o?at_medium=RSS&at_campaign=rss",
-      "summary": "More than 100 Indians are missing at a vital Nepal-China trade crossing after devastating Himalayan floods.",
-      "published_at": "2026-09-01T06:02:27Z",
-      "country_code": "CN",
-      "country_name": "China"
-    },
-    {
-      "source": "BBC Asia",
-      "title": "South Korea police officer admits to closing missing person cases to avoid work",
-      "url": "https://www.bbc.co.uk/news/articles/c780wy7ype4o?at_medium=RSS&at_campaign=rss",
-      "summary": "The officer falsely claimed he contacted missing persons and prematurely closed their cases on the South Korean holiday island of Jeju.",
-      "published_at": "2026-09-01T05:47:21Z",
-      "country_code": "KR",
-      "country_name": "South Korea"
-    },
-    {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "Flock's rapidly expanding AI surveillance network facing growing backlash in US",
       "url": "https://www.bbc.co.uk/news/videos/cvgy4ddx1q8o?at_medium=RSS&at_campaign=rss",
       "summary": "BBC Verify examines the expanding network of Flock cameras in the US and the backlash against it.",
@@ -353,22 +362,13 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "'I've never been to Afghanistan': Six million deportees forced to start over under the Taliban",
       "url": "https://www.bbc.co.uk/news/articles/c2e074nn8eko?at_medium=RSS&at_campaign=rss",
       "summary": "As of August, the number forced to return this year from Pakistan and Iran had reached another million.",
       "published_at": "2026-09-01T05:00:34Z",
       "country_code": "PK",
       "country_name": "Pakistan"
-    },
-    {
-      "source": "BBC Asia",
-      "title": "Japan Inc is betting big on India as China risks deepen",
-      "url": "https://www.bbc.co.uk/news/articles/cz64955d56po?at_medium=RSS&at_campaign=rss",
-      "summary": "Japanese companies are doubling down on India amid a shrinking domestic market and rising risks in China.",
-      "published_at": "2026-08-31T22:07:19Z",
-      "country_code": "JP",
-      "country_name": "Japan"
     },
     {
       "source": "BBC Asia",
@@ -414,15 +414,6 @@
       "published_at": "2026-08-31T10:00:23Z",
       "country_code": "GB",
       "country_name": "United Kingdom"
-    },
-    {
-      "source": "BBC Asia",
-      "title": "'Moonies' church leader jailed for two years over bribery offences",
-      "url": "https://www.bbc.co.uk/news/articles/c8xkqjdk142o?at_medium=RSS&at_campaign=rss",
-      "summary": "Han Hak-ja, 83, gave South Korea's former first lady two Chanel bags and a diamond necklace, a court found.",
-      "published_at": "2026-08-31T06:56:40Z",
-      "country_code": "KR",
-      "country_name": "South Korea"
     },
     {
       "source": "BBC Europe",
@@ -870,7 +861,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 22
+      "news_count": 23
     },
     {
       "country_code": "PS",
@@ -908,6 +899,11 @@
       "news_count": 4
     },
     {
+      "country_code": "IN",
+      "country_name": "India",
+      "news_count": 3
+    },
+    {
       "country_code": "ES",
       "country_name": "Spain",
       "news_count": 2
@@ -918,23 +914,8 @@
       "news_count": 2
     },
     {
-      "country_code": "IN",
-      "country_name": "India",
-      "news_count": 2
-    },
-    {
-      "country_code": "JP",
-      "country_name": "Japan",
-      "news_count": 2
-    },
-    {
       "country_code": "KE",
       "country_name": "Kenya",
-      "news_count": 2
-    },
-    {
-      "country_code": "KR",
-      "country_name": "South Korea",
       "news_count": 2
     },
     {
@@ -978,11 +959,6 @@
       "news_count": 1
     },
     {
-      "country_code": "CN",
-      "country_name": "China",
-      "news_count": 1
-    },
-    {
       "country_code": "DE",
       "country_name": "Germany",
       "news_count": 1
@@ -1005,6 +981,16 @@
     {
       "country_code": "IT",
       "country_name": "Italy",
+      "news_count": 1
+    },
+    {
+      "country_code": "JP",
+      "country_name": "Japan",
+      "news_count": 1
+    },
+    {
+      "country_code": "KR",
+      "country_name": "South Korea",
       "news_count": 1
     },
     {
