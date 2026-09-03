@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-09-02T22:43:16Z",
+  "generated_at": "2026-09-03T00:49:57Z",
   "articles": [
+    {
+      "source": "BBC Africa",
+      "title": "Sharpeville massacre survivors start legal fight for justice in South Africa",
+      "url": "https://www.bbc.co.uk/news/articles/c1mvll11ll5o?at_medium=RSS&at_campaign=rss",
+      "summary": "At least 69 people were shot dead in 1960 but no-one has been prosecuted and victims want restitution.",
+      "published_at": "2026-09-03T00:14:20Z",
+      "country_code": "ZA",
+      "country_name": "South Africa"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "Who is Alejandro Betancourt, colourful oil baron behind US-Venezuela oil deal?",
+      "url": "https://www.bbc.co.uk/news/articles/cyvze0n4vy1o?at_medium=RSS&at_campaign=rss",
+      "summary": "The 46-year-old figure of international intrigue has an apparent knack for being in the right place at the right time.",
+      "published_at": "2026-09-02T23:53:28Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "Protests in Spain over government's handling of Ceuta migrant crisis",
@@ -852,7 +870,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 21
+      "news_count": 22
     },
     {
       "country_code": "PS",
@@ -940,6 +958,11 @@
       "news_count": 2
     },
     {
+      "country_code": "ZA",
+      "country_name": "South Africa",
+      "news_count": 2
+    },
+    {
       "country_code": "AU",
       "country_name": "Australia",
       "news_count": 1
@@ -997,11 +1020,6 @@
     {
       "country_code": "PK",
       "country_name": "Pakistan",
-      "news_count": 1
-    },
-    {
-      "country_code": "ZA",
-      "country_name": "South Africa",
       "news_count": 1
     }
   ]
