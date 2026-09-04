@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-09-04T17:15:03Z",
+  "generated_at": "2026-09-04T19:43:08Z",
   "articles": [
+    {
+      "source": "BBC US & Canada",
+      "title": "Throwing papers, hurling a ninja star - Lindsay Clancy lawyer creates courtroom spectacles",
+      "url": "https://www.bbc.co.uk/news/articles/cg7k24159kpo?at_medium=RSS&at_campaign=rss",
+      "summary": "Kevin Reddington has transfixed audiences defending the US mother accused of killing her children.",
+      "published_at": "2026-09-04T18:38:58Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "What happens next after Lindsay Clancy's murder case ends in a mistrial?",
+      "url": "https://www.bbc.co.uk/news/articles/cj9x248npw1o?at_medium=RSS&at_campaign=rss",
+      "summary": "The US mother accused of murder is likely to remain in a mental health facility as lawyers weigh their next steps.",
+      "published_at": "2026-09-04T18:36:02Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "UN votes to adopt new world map to reflect Africa's true size",
+      "url": "https://www.bbc.co.uk/news/articles/ce30vp55dnlo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Togo-sponsored resolution was backed by 164 nations - the US the only nation to vote against it.",
+      "published_at": "2026-09-04T17:26:40Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Argentine couple to return Nazi-looted painting to rightful owner",
+      "url": "https://www.bbc.co.uk/news/articles/cy0zxjp50j6o?at_medium=RSS&at_campaign=rss",
+      "summary": "The late-baroque Portrait of a Lady was lost for 80 years until it was spotted in photographs of a house for sale near Buenos Aires.",
+      "published_at": "2026-09-04T17:14:21Z",
+      "country_code": "AR",
+      "country_name": "Argentina"
+    },
     {
       "source": "BBC World",
       "title": "Europe targeted by spiralling campaign of sabotage - and Russia is the chief suspect",
@@ -20,15 +56,6 @@
       "country_name": "Russia"
     },
     {
-      "source": "BBC US & Canada",
-      "title": "What happens if a mistrial is declared in Lindsay Clancy case?",
-      "url": "https://www.bbc.co.uk/news/articles/cj9x248npw1o?at_medium=RSS&at_campaign=rss",
-      "summary": "Prosecutors could seek a new trial in the case of the US mother charged with murdering her three children in 2023.",
-      "published_at": "2026-09-04T16:24:44Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC World",
       "title": "Russia hits Ukrainian security headquarters in drone attack, Zelensky says",
       "url": "https://www.bbc.co.uk/news/articles/c5yep7y48x2o?at_medium=RSS&at_campaign=rss",
@@ -45,15 +72,6 @@
       "published_at": "2026-09-04T15:44:05Z",
       "country_code": "NG",
       "country_name": "Nigeria"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "Surprisingly strong US jobs figures fuel rate rise bets",
-      "url": "https://www.bbc.co.uk/news/articles/cy0zx2pkpx9o?at_medium=RSS&at_campaign=rss",
-      "summary": "The number of roles added to the US economy increased by 162,000 in August, almost triple the 56,000 forecast.",
-      "published_at": "2026-09-04T14:38:19Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC World",
@@ -286,15 +304,6 @@
       "url": "https://www.bbc.co.uk/news/articles/cj9x2k8n3y1o?at_medium=RSS&at_campaign=rss",
       "summary": "With military haircuts and moustaches, the US sailors stand out against the flip-flops of the usual Pattaya crowd.",
       "published_at": "2026-09-03T11:33:09Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "Gloria Steinem talks about her legacy in 2023 BBC interview",
-      "url": "https://www.bbc.co.uk/news/videos/cnvl5dl6n5eo?at_medium=RSS&at_campaign=rss",
-      "summary": "The writer and activist who was an icon of the US's feminist movement has died aged 92, her foundation says.",
-      "published_at": "2026-09-03T11:24:11Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -1000,6 +1009,11 @@
       "country_code": "ZA",
       "country_name": "South Africa",
       "news_count": 2
+    },
+    {
+      "country_code": "AR",
+      "country_name": "Argentina",
+      "news_count": 1
     },
     {
       "country_code": "AU",
