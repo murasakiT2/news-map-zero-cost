@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-09-04T21:55:35Z",
+  "generated_at": "2026-09-04T23:34:14Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Germany's far-right AfD bids for first taste of power in eastern vote",
+      "url": "https://www.bbc.co.uk/news/articles/cvgypkzgy4wo?at_medium=RSS&at_campaign=rss",
+      "summary": "If it wins an outright majority in Saxony-Anhalt, it would be the first time a far-right party has held state-level power in Germany since W…",
+      "published_at": "2026-09-04T23:07:23Z",
+      "country_code": "DE",
+      "country_name": "Germany"
+    },
     {
       "source": "BBC US & Canada",
       "title": "Watch: Inside court as judge declares a mistrial in Lindsay Clancy case",
@@ -218,7 +227,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Middle East",
       "title": "US investigating if missile hit Iran wedding, Vance says",
       "url": "https://www.bbc.co.uk/news/articles/cy4zvk3z2k1o?at_medium=RSS&at_campaign=rss",
       "summary": "The Iranian Red Crescent Society (IRCS) said shrapnel from a missile hit the ceremony and killed four people on Tuesday.",
@@ -245,15 +254,6 @@
       "country_name": "Australia"
     },
     {
-      "source": "BBC World",
-      "title": "US billionaire Leon Black defies summons and sues Epstein panel",
-      "url": "https://www.bbc.co.uk/news/articles/cddve618plzo?at_medium=RSS&at_campaign=rss",
-      "summary": "The lawsuit calls the House Oversight Committee's subpoenas, which ordered him to share nondisclosure agreements, \"invalid\".",
-      "published_at": "2026-09-03T18:14:57Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC US & Canada",
       "title": "‘So scary’: massive hail and torrential rain causes chaos in Toronto",
       "url": "https://www.bbc.co.uk/news/videos/cgl7x04k3yyo?at_medium=RSS&at_campaign=rss",
@@ -263,7 +263,7 @@
       "country_name": "Canada"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "Around 2,000 fall ill in Indonesia after eating free school meals",
       "url": "https://www.bbc.co.uk/news/articles/cx2z7lz7777o?at_medium=RSS&at_campaign=rss",
       "summary": "Authorities are investigating several suspected outbreaks amid growing criticism of the scheme.",
@@ -317,7 +317,7 @@
       "country_name": "Vietnam"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Africa",
       "title": "Sharpeville massacre survivors start legal fight for justice in South Africa",
       "url": "https://www.bbc.co.uk/news/articles/c1mvll11ll5o?at_medium=RSS&at_campaign=rss",
       "summary": "At least 69 people were shot dead in 1960 but no-one has been prosecuted and victims want restitution.",
@@ -371,7 +371,7 @@
       "country_name": "Russia"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "Why Nepal floods should worry India",
       "url": "https://www.bbc.co.uk/news/articles/cn8e940gz10o?at_medium=RSS&at_campaign=rss",
       "summary": "The disaster comes as a warning as climate change raises shared Himalayan risks.",
@@ -951,7 +951,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 30
+      "news_count": 29
     },
     {
       "country_code": "PS",
@@ -1009,6 +1009,11 @@
       "news_count": 2
     },
     {
+      "country_code": "DE",
+      "country_name": "Germany",
+      "news_count": 2
+    },
+    {
       "country_code": "ES",
       "country_name": "Spain",
       "news_count": 2
@@ -1046,11 +1051,6 @@
     {
       "country_code": "CN",
       "country_name": "China",
-      "news_count": 1
-    },
-    {
-      "country_code": "DE",
-      "country_name": "Germany",
       "news_count": 1
     },
     {
