@@ -1,12 +1,21 @@
 {
-  "generated_at": "2026-09-03T22:40:16Z",
+  "generated_at": "2026-09-04T00:30:37Z",
   "articles": [
     {
-      "source": "BBC US & Canada",
+      "source": "BBC World",
       "title": "Transplanted pig kidney works in US man's body for record 271 days",
       "url": "https://www.bbc.co.uk/news/articles/c305qn2jeggo?at_medium=RSS&at_campaign=rss",
       "summary": "A man has lived for a record nine months with a transplanted pig kidney while waiting for a human transplant.",
       "published_at": "2026-09-03T22:31:23Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "US investigating if missile hit Iran wedding, Vance says",
+      "url": "https://www.bbc.co.uk/news/articles/cy4zvk3z2k1o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Iranian Red Crescent Society (IRCS) said shrapnel from a missile hit the ceremony and killed four people on Tuesday.",
+      "published_at": "2026-09-03T22:19:59Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -38,7 +47,7 @@
       "country_name": "Australia"
     },
     {
-      "source": "BBC US & Canada",
+      "source": "BBC World",
       "title": "US billionaire Leon Black defies summons and sues Epstein panel",
       "url": "https://www.bbc.co.uk/news/articles/cddve618plzo?at_medium=RSS&at_campaign=rss",
       "summary": "The lawsuit calls the House Oversight Committee's subpoenas, which ordered him to share nondisclosure agreements, \"invalid\".",
@@ -63,6 +72,24 @@
       "published_at": "2026-09-03T17:35:31Z",
       "country_code": "US",
       "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Trump hints US would not back UK over Falkland Islands due to lack of Iran war support",
+      "url": "https://www.bbc.co.uk/news/articles/c1kx4m70l4yo?at_medium=RSS&at_campaign=rss",
+      "summary": "The US president says the UK was not \"there to help me\" in his ongoing war with Iran.",
+      "published_at": "2026-09-03T16:16:49Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Around 2,000 fall ill in Indonesia after eating free school meals",
+      "url": "https://www.bbc.co.uk/news/articles/cx2z7lz7777o?at_medium=RSS&at_campaign=rss",
+      "summary": "Authorities are investigating several suspected outbreaks amid growing criticism of the scheme.",
+      "published_at": "2026-09-03T15:48:06Z",
+      "country_code": "ID",
+      "country_name": "Indonesia"
     },
     {
       "source": "BBC Europe",
@@ -182,7 +209,7 @@
       "country_name": "India"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "EU and Nato vow to step up pressure on Russia after 'new escalation' in Germany",
       "url": "https://www.bbc.co.uk/news/articles/ce9e810pg7ko?at_medium=RSS&at_campaign=rss",
       "summary": "Russia is accused of growing increasingly reckless after Berlin blamed Russia for a failed drone attack on Leipzig airport.",
@@ -207,15 +234,6 @@
       "published_at": "2026-09-03T00:58:44Z",
       "country_code": "IN",
       "country_name": "India"
-    },
-    {
-      "source": "BBC World",
-      "title": "Sydney police investigate second possible mistaken identity killing in two days",
-      "url": "https://www.bbc.co.uk/news/articles/c23x4yd9zz2o?at_medium=RSS&at_campaign=rss",
-      "summary": "Wednesday's fatal shooting of a man in his 40s comes after a university student was gunned down on Tuesday.",
-      "published_at": "2026-09-03T00:40:29Z",
-      "country_code": "AU",
-      "country_name": "Australia"
     },
     {
       "source": "BBC World",
@@ -486,15 +504,6 @@
       "published_at": "2026-08-31T10:00:23Z",
       "country_code": "GB",
       "country_name": "United Kingdom"
-    },
-    {
-      "source": "BBC Asia",
-      "title": "Why is this teenager fighting fires dressed as Superman?",
-      "url": "https://www.bbc.co.uk/news/videos/cp84ql8lld9o?at_medium=RSS&at_campaign=rss",
-      "summary": "A 17-year-old boy has gone viral for wearing a superhero costume while volunteer firefighting in Indonesia, as the country faces a super El …",
-      "published_at": "2026-08-31T01:07:06Z",
-      "country_code": "ID",
-      "country_name": "Indonesia"
     },
     {
       "source": "BBC Asia",
@@ -897,7 +906,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 28
+      "news_count": 30
     },
     {
       "country_code": "PS",
@@ -930,14 +939,14 @@
       "news_count": 4
     },
     {
-      "country_code": "AU",
-      "country_name": "Australia",
-      "news_count": 3
-    },
-    {
       "country_code": "CA",
       "country_name": "Canada",
       "news_count": 3
+    },
+    {
+      "country_code": "AU",
+      "country_name": "Australia",
+      "news_count": 2
     },
     {
       "country_code": "ES",
