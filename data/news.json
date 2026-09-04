@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-09-04T00:30:37Z",
+  "generated_at": "2026-09-04T05:12:49Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Could robots be the future of theme parks?",
+      "url": "https://www.bbc.co.uk/news/videos/cdr7g3vdl58o?at_medium=RSS&at_campaign=rss",
+      "summary": "Galaxy Robot Park is a 16,500-square-meter venue in South Korea, with attractions including humanoid robots dancing to K-pop hits.",
+      "published_at": "2026-09-04T02:02:02Z",
+      "country_code": "KR",
+      "country_name": "South Korea"
+    },
+    {
+      "source": "BBC World",
+      "title": "Kenya's chai tea lovers are not happy as the nation's cows run dry",
+      "url": "https://www.bbc.co.uk/news/articles/cgqd9ldegjqo?at_medium=RSS&at_campaign=rss",
+      "summary": "Supermarket shelves are emptying, sellers are rationing supplies and prices are rising.",
+      "published_at": "2026-09-04T00:28:56Z",
+      "country_code": "KE",
+      "country_name": "Kenya"
+    },
     {
       "source": "BBC World",
       "title": "Transplanted pig kidney works in US man's body for record 271 days",
@@ -70,15 +88,6 @@
       "url": "https://www.bbc.co.uk/news/videos/c9865l26097o?at_medium=RSS&at_campaign=rss",
       "summary": "The feminist icon who became leader of the women's liberation movement in the US died on Wednesday at the age of 92, according to her founda…",
       "published_at": "2026-09-03T17:35:31Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "Trump hints US would not back UK over Falkland Islands due to lack of Iran war support",
-      "url": "https://www.bbc.co.uk/news/articles/c1kx4m70l4yo?at_medium=RSS&at_campaign=rss",
-      "summary": "The US president says the UK was not \"there to help me\" in his ongoing war with Iran.",
-      "published_at": "2026-09-03T16:16:49Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -164,7 +173,7 @@
       "country_name": "South Africa"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "US sailors go shopping before hitting the bars in Thailand after 250-day voyage",
       "url": "https://www.bbc.co.uk/news/articles/cj9x2k8n3y1o?at_medium=RSS&at_campaign=rss",
       "summary": "With military haircuts and moustaches, the US sailors stand out against the flip-flops of the usual Pattaya crowd.",
@@ -236,7 +245,7 @@
       "country_name": "India"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "Who is Alejandro Betancourt, colourful oil baron behind US-Venezuela oil deal?",
       "url": "https://www.bbc.co.uk/news/articles/cyvze0n4vy1o?at_medium=RSS&at_campaign=rss",
       "summary": "The 46-year-old figure of international intrigue has an apparent knack for being in the right place at the right time.",
@@ -261,15 +270,6 @@
       "published_at": "2026-09-02T21:02:35Z",
       "country_code": "IR",
       "country_name": "Iran"
-    },
-    {
-      "source": "BBC Africa",
-      "title": "Uber shuts operations in Nigeria and Uganda with immediate effect",
-      "url": "https://www.bbc.co.uk/news/articles/c86xpv8l9y9o?at_medium=RSS&at_campaign=rss",
-      "summary": "Nigeria - Africa's most populous country - is proving a tough market for ride-hailing services.",
-      "published_at": "2026-09-02T20:21:04Z",
-      "country_code": "NG",
-      "country_name": "Nigeria"
     },
     {
       "source": "BBC US & Canada",
@@ -362,7 +362,7 @@
       "country_name": "France"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "Why US troops have a history in this raucous Thai city",
       "url": "https://www.bbc.co.uk/news/videos/c5yw03jr892o?at_medium=RSS&at_campaign=rss",
       "summary": "The BBC's Jonathan Head looks at the historical echoes of US troops arriving in Pattaya, a beach resort famous for its racy bars.",
@@ -906,7 +906,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 30
+      "news_count": 29
     },
     {
       "country_code": "PS",
@@ -919,13 +919,13 @@
       "news_count": 7
     },
     {
-      "country_code": "NG",
-      "country_name": "Nigeria",
-      "news_count": 6
-    },
-    {
       "country_code": "IL",
       "country_name": "Israel",
+      "news_count": 5
+    },
+    {
+      "country_code": "NG",
+      "country_name": "Nigeria",
       "news_count": 5
     },
     {
@@ -944,6 +944,11 @@
       "news_count": 3
     },
     {
+      "country_code": "KE",
+      "country_name": "Kenya",
+      "news_count": 3
+    },
+    {
       "country_code": "AU",
       "country_name": "Australia",
       "news_count": 2
@@ -959,8 +964,8 @@
       "news_count": 2
     },
     {
-      "country_code": "KE",
-      "country_name": "Kenya",
+      "country_code": "KR",
+      "country_name": "South Korea",
       "news_count": 2
     },
     {
@@ -1021,11 +1026,6 @@
     {
       "country_code": "IT",
       "country_name": "Italy",
-      "news_count": 1
-    },
-    {
-      "country_code": "KR",
-      "country_name": "South Korea",
       "news_count": 1
     },
     {
