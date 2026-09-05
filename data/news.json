@@ -1,6 +1,60 @@
 {
-  "generated_at": "2026-09-05T06:29:20Z",
+  "generated_at": "2026-09-05T10:50:12Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Trump envoys arrive in Moscow ahead of Ukraine talks, reports say",
+      "url": "https://www.bbc.co.uk/news/articles/cx2zqp46g8eo?at_medium=RSS&at_campaign=rss",
+      "summary": "Steve Witkoff and Jared Kushner are due to hold talks with Russia before travelling to Ukraine on Sunday.",
+      "published_at": "2026-09-05T10:34:08Z",
+      "country_code": "RU",
+      "country_name": "Russia"
+    },
+    {
+      "source": "BBC World",
+      "title": "Lindsay Clancy murder trial has divided US on whether she's victim or criminal",
+      "url": "https://www.bbc.co.uk/news/articles/cx2z0xnw2d6o?at_medium=RSS&at_campaign=rss",
+      "summary": "Some say the case shed light on the mental health struggles of mothers, while others argue it's no excuse for murder.",
+      "published_at": "2026-09-05T10:02:29Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Trump signs order to remove endangered species protection for grey wolves",
+      "url": "https://www.bbc.co.uk/news/articles/c62k677d4lzo?at_medium=RSS&at_campaign=rss",
+      "summary": "The US president says the move will help ranchers, but conservationists say it could derail efforts to recover populations.",
+      "published_at": "2026-09-05T09:12:48Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "How might Lindsay Clancy’s case have unfolded in another country?",
+      "url": "https://www.bbc.co.uk/news/videos/cqlw6q0xv4zo?at_medium=RSS&at_campaign=rss",
+      "summary": "The US mother was on trial for strangling her three children. In other western countries, there’s a specific law for mums who kill their you…",
+      "published_at": "2026-09-05T09:12:34Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Tate brothers officially indicted with trafficking and sex crimes in Romania",
+      "url": "https://www.bbc.co.uk/news/articles/c7v4npv1m22o?at_medium=RSS&at_campaign=rss",
+      "summary": "Andrew and Tristan Tate are currently in a Miami jail fighting extradition to the UK over separate charges and deny all the allegations.",
+      "published_at": "2026-09-05T07:20:17Z",
+      "country_code": "GB",
+      "country_name": "United Kingdom"
+    },
+    {
+      "source": "BBC World",
+      "title": "Why did USS Lincoln turn up in Thailand looking so rusty?",
+      "url": "https://www.bbc.co.uk/news/videos/c4gr9y1ny3xo?at_medium=RSS&at_campaign=rss",
+      "summary": "When the USS Abraham Lincoln docked in Thailand this week some people were quick to criticise the condition it was in.",
+      "published_at": "2026-09-05T06:53:20Z",
+      "country_code": "TH",
+      "country_name": "Thailand"
+    },
     {
       "source": "BBC US & Canada",
       "title": "Trump's response is key as Argentina's Falklands demands get louder",
@@ -11,7 +65,7 @@
       "country_name": "Argentina"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "Trump's peace envoys to visit Moscow and Kyiv over weekend",
       "url": "https://www.bbc.co.uk/news/articles/c23x0z48x0no?at_medium=RSS&at_campaign=rss",
       "summary": "Steve Witkoff and Jared Kushner have led President Donald Trump's efforts to end the Russia-Ukraine war - but talks have stalled.",
@@ -39,15 +93,6 @@
     },
     {
       "source": "BBC World",
-      "title": "Tate brothers charged with further trafficking and sex crimes in Romania",
-      "url": "https://www.bbc.co.uk/news/articles/c7v4npv1m22o?at_medium=RSS&at_campaign=rss",
-      "summary": "Andrew and Tristan Tate are currently in a Miami jail fighting extradition to the UK over separate charges and deny all the allegations.",
-      "published_at": "2026-09-05T02:29:21Z",
-      "country_code": "GB",
-      "country_name": "United Kingdom"
-    },
-    {
-      "source": "BBC World",
       "title": "How much can Canada fight back in its trade war with the US?",
       "url": "https://www.bbc.co.uk/news/videos/c74knp7y04eo?at_medium=RSS&at_campaign=rss",
       "summary": "The US may be the bigger trading partner, but Canada shouldn't be counted out quite yet in the escalating trade fight.",
@@ -65,7 +110,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC US & Canada",
+      "source": "BBC World",
       "title": "How the Lindsay Clancy trial gripped America - and ultimately fell apart",
       "url": "https://www.bbc.co.uk/news/videos/cr7dzr2e789o?at_medium=RSS&at_campaign=rss",
       "summary": "A Massachusetts judge has declared a mistrial in the murder case against the US mother after jurors were unable to reach a unanimous verdict…",
@@ -978,7 +1023,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 30
+      "news_count": 33
     },
     {
       "country_code": "PS",
@@ -993,7 +1038,7 @@
     {
       "country_code": "RU",
       "country_name": "Russia",
-      "news_count": 6
+      "news_count": 7
     },
     {
       "country_code": "IN",
@@ -1123,6 +1168,11 @@
     {
       "country_code": "PT",
       "country_name": "Portugal",
+      "news_count": 1
+    },
+    {
+      "country_code": "TH",
+      "country_name": "Thailand",
       "news_count": 1
     },
     {
