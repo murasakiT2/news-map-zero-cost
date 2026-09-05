@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-09-04T23:34:14Z",
+  "generated_at": "2026-09-05T01:55:01Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Flock says its cameras make US safer - so why are they being sabotaged?",
+      "url": "https://www.bbc.co.uk/news/articles/cew9kz1kxpvo?at_medium=RSS&at_campaign=rss",
+      "summary": "The AI-powered cameras have been vandalised across the US, as citizens object to the growing surveillance network.",
+      "published_at": "2026-09-05T01:16:27Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "UN votes to adopt new world map to reflect Africa's true size",
+      "url": "https://www.bbc.co.uk/news/articles/ce30vp55dnlo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Togo-sponsored resolution was backed by 164 nations - with the US as the only nation to vote against it.",
+      "published_at": "2026-09-05T00:53:11Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "Germany's far-right AfD bids for first taste of power in eastern vote",
@@ -38,6 +56,15 @@
       "country_name": "United States"
     },
     {
+      "source": "BBC Africa",
+      "title": "Kolisi urges Boks to channel spirit of Soweto to beat All Blacks",
+      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c5y5gnkvep8o?at_medium=RSS&at_campaign=rss",
+      "summary": "Captain Siya Kolisi calls on the Springboks to summon inspiration from Soweto's pivotal part in South Africa's history as they host New Zeal…",
+      "published_at": "2026-09-04T20:26:59Z",
+      "country_code": "NZ",
+      "country_name": "New Zealand"
+    },
+    {
       "source": "BBC US & Canada",
       "title": "Examining US official's claim that data centres 'don't use water'",
       "url": "https://www.bbc.co.uk/news/videos/ced7yj7564zo?at_medium=RSS&at_campaign=rss",
@@ -54,15 +81,6 @@
       "published_at": "2026-09-04T20:03:52Z",
       "country_code": "RU",
       "country_name": "Russia"
-    },
-    {
-      "source": "BBC World",
-      "title": "UN votes to adopt new world map to reflect Africa's true size",
-      "url": "https://www.bbc.co.uk/news/articles/ce30vp55dnlo?at_medium=RSS&at_campaign=rss",
-      "summary": "The Togo-sponsored resolution was backed by 164 nations - the US the only nation to vote against it.",
-      "published_at": "2026-09-04T19:44:40Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC US & Canada",
@@ -164,7 +182,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "100 influencers invited to US Open spark debate on 'tennis etiquette'",
       "url": "https://www.bbc.co.uk/sport/tennis/articles/cy8zqd4zg14o?at_medium=RSS&at_campaign=rss",
       "summary": "The behaviour of influencers and content creators has become a major talking point at this year's US Open amid incidents of matches being di…",
@@ -218,7 +236,7 @@
       "country_name": "India"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "Transplanted pig kidney works in US man's body for record 271 days",
       "url": "https://www.bbc.co.uk/news/articles/c305qn2jeggo?at_medium=RSS&at_campaign=rss",
       "summary": "A man has lived for a record nine months with a transplanted pig kidney while waiting for a human transplant.",
@@ -951,7 +969,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 29
+      "news_count": 30
     },
     {
       "country_code": "PS",
@@ -1081,6 +1099,11 @@
     {
       "country_code": "KR",
       "country_name": "South Korea",
+      "news_count": 1
+    },
+    {
+      "country_code": "NZ",
+      "country_name": "New Zealand",
       "news_count": 1
     },
     {
