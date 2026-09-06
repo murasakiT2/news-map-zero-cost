@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-09-06T09:01:42Z",
+  "generated_at": "2026-09-06T12:58:16Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "US envoys arrive in Ukraine for talks after meeting Putin in Russia",
+      "url": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss",
+      "summary": "Steve Witkoff and Jared Kushner arrived in Kyiv on Sunday, having \"discussed substantive plans for next steps\" with Putin on Saturday, accor…",
+      "published_at": "2026-09-06T11:19:30Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Volcano eruption leaves 150,000 passengers stranded in Indonesia",
+      "url": "https://www.bbc.co.uk/news/articles/cvgy5k4n07ko?at_medium=RSS&at_campaign=rss",
+      "summary": "More than 150,000 airline passengers are stranded after ash was detected in airspace near Jakarta following the eruptions.",
+      "published_at": "2026-09-06T09:56:39Z",
+      "country_code": "ID",
+      "country_name": "Indonesia"
+    },
     {
       "source": "BBC World",
       "title": "TV presenter among 12 sentenced to death in Egypt drugs case",
@@ -9,24 +27,6 @@
       "published_at": "2026-09-06T08:05:22Z",
       "country_code": "EG",
       "country_name": "Egypt"
-    },
-    {
-      "source": "BBC World",
-      "title": "Volcano eruption triggers flight suspensions at Indonesia's main airport",
-      "url": "https://www.bbc.co.uk/news/articles/cvgy5k4n07ko?at_medium=RSS&at_campaign=rss",
-      "summary": "More than 20,000 passengers are stranded after ash was detected in airspace near Jakarta following the eruptions.",
-      "published_at": "2026-09-06T07:06:50Z",
-      "country_code": "ID",
-      "country_name": "Indonesia"
-    },
-    {
-      "source": "BBC World",
-      "title": "US envoys set for Ukraine talks after meeting Putin in Russia",
-      "url": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss",
-      "summary": "It will be the first trip by Steve Witkoff and Jared Kushner, Trump's top negotiators, to Kyiv.",
-      "published_at": "2026-09-06T02:24:16Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC World",
@@ -63,6 +63,15 @@
       "published_at": "2026-09-05T21:00:02Z",
       "country_code": "NO",
       "country_name": "Norway"
+    },
+    {
+      "source": "BBC Africa",
+      "title": "South Africa finish strongly to take 2-1 series lead against All Blacks",
+      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c7830m55lklo?at_medium=RSS&at_campaign=rss",
+      "summary": "South Africa eventually overpower a spirited New Zealand as the world champions came on strong in the final quarter in Soweto to take a 2-1 …",
+      "published_at": "2026-09-05T17:21:39Z",
+      "country_code": "NZ",
+      "country_name": "New Zealand"
     },
     {
       "source": "BBC World",
@@ -198,15 +207,6 @@
       "published_at": "2026-09-04T20:44:26Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC Africa",
-      "title": "Kolisi urges Boks to channel spirit of Soweto to beat All Blacks",
-      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c5y5gnkvep8o?at_medium=RSS&at_campaign=rss",
-      "summary": "Captain Siya Kolisi calls on the Springboks to summon inspiration from Soweto's pivotal part in South Africa's history as they host New Zeal…",
-      "published_at": "2026-09-04T20:26:59Z",
-      "country_code": "NZ",
-      "country_name": "New Zealand"
     },
     {
       "source": "BBC US & Canada",
@@ -470,6 +470,15 @@
       "country_name": "India"
     },
     {
+      "source": "BBC Africa",
+      "title": "Were Christians the target of the Palm Sunday attack in Nigeria?",
+      "url": "https://www.bbc.co.uk/news/videos/cy4zlw9knq8o?at_medium=RSS&at_campaign=rss",
+      "summary": "Gunmen opened fire in the city of Jos on 29 March.",
+      "published_at": "2026-09-03T07:11:35Z",
+      "country_code": "NG",
+      "country_name": "Nigeria"
+    },
+    {
       "source": "BBC Asia",
       "title": "Why Nepal floods should worry India",
       "url": "https://www.bbc.co.uk/news/articles/cn8e940gz10o?at_medium=RSS&at_campaign=rss",
@@ -605,15 +614,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Africa",
-      "title": "Man Utd fail in attempt to sign Ait-Nouri from Man City",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cwyzn5n015go?at_medium=RSS&at_campaign=rss",
-      "summary": "Manchester United approached Manchester City in the final hours of the transfer window in an attempt to sign Algeria defender Rayan Ait-Nour…",
-      "published_at": "2026-09-01T21:04:30Z",
-      "country_code": "DZ",
-      "country_name": "Algeria"
-    },
-    {
       "source": "BBC Middle East",
       "title": "Israel says Hamas security chief captured as strikes kill four during Gaza raid",
       "url": "https://www.bbc.co.uk/news/articles/c1wxex4vg35o?at_medium=RSS&at_campaign=rss",
@@ -639,15 +639,6 @@
       "published_at": "2026-09-01T17:36:44Z",
       "country_code": "CA",
       "country_name": "Canada"
-    },
-    {
-      "source": "BBC Africa",
-      "title": "South Africa reappoint Mosimane as head coach",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cd79d1gnej4o?at_medium=RSS&at_campaign=rss",
-      "summary": "Pitso Mosimane is reappointed head coach of South Africa's men's national team, more than 14 years after his first spell in charge of Bafana…",
-      "published_at": "2026-09-01T12:13:12Z",
-      "country_code": "ZA",
-      "country_name": "South Africa"
     },
     {
       "source": "BBC Europe",
@@ -693,15 +684,6 @@
       "published_at": "2026-08-31T13:34:09Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC Africa",
-      "title": "Antonio helps young Ghanaians chase Premier League dreams",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cvg0n8l87g7o?at_medium=RSS&at_campaign=rss",
-      "summary": "Former West Ham forward Michail Antonio is helping players from a Ghana academy, who have travelled to England in the hope of turning pro.",
-      "published_at": "2026-08-30T07:01:58Z",
-      "country_code": "GB",
-      "country_name": "United Kingdom"
     },
     {
       "source": "BBC Latin America",
@@ -801,15 +783,6 @@
       "published_at": "2026-08-20T20:41:31Z",
       "country_code": "MX",
       "country_name": "Mexico"
-    },
-    {
-      "source": "BBC Africa",
-      "title": "Ecuador intelligence chief and five Americans killed in Kenya helicopter crash",
-      "url": "https://www.bbc.co.uk/news/articles/clylkv4z59vo?at_medium=RSS&at_campaign=rss",
-      "summary": "Michele Sensi-Contugi and his wife Stephany Hollihan are among the seven people killed in the crash.",
-      "published_at": "2026-08-20T10:41:25Z",
-      "country_code": "KE",
-      "country_name": "Kenya"
     },
     {
       "source": "BBC Europe",
@@ -947,6 +920,15 @@
       "country_name": "United States"
     },
     {
+      "source": "BBC Africa",
+      "title": "What triggered the mass migrant crossings into Ceuta?",
+      "url": "https://www.bbc.co.uk/news/videos/c171nnql1j4o?at_medium=RSS&at_campaign=rss",
+      "summary": "An estimated 60,000 migrants from Morocco have crossed into Ceuta, with dozens dying during the journey.",
+      "published_at": "2026-07-31T18:29:04Z",
+      "country_code": "MA",
+      "country_name": "Morocco"
+    },
+    {
       "source": "BBC Middle East",
       "title": "What's in the Gaza peace deal roadmap?",
       "url": "https://www.bbc.co.uk/news/articles/c20e94k2ex5o?at_medium=RSS&at_campaign=rss",
@@ -999,6 +981,15 @@
       "published_at": "2026-07-28T23:25:53Z",
       "country_code": "NG",
       "country_name": "Nigeria"
+    },
+    {
+      "source": "BBC Africa",
+      "title": "'Honoured and grateful' - Morocco fan reflects on World Cup",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c20yw63yn68o?at_medium=RSS&at_campaign=rss",
+      "summary": "Morocco fan reflects on their World Cup journey.",
+      "published_at": "2026-07-10T14:46:17Z",
+      "country_code": "MA",
+      "country_name": "Morocco"
     }
   ],
   "regions": [
@@ -1015,16 +1006,16 @@
     {
       "country_code": "GB",
       "country_name": "United Kingdom",
-      "news_count": 8
-    },
-    {
-      "country_code": "IN",
-      "country_name": "India",
-      "news_count": 5
+      "news_count": 7
     },
     {
       "country_code": "NG",
       "country_name": "Nigeria",
+      "news_count": 6
+    },
+    {
+      "country_code": "IN",
+      "country_name": "India",
       "news_count": 5
     },
     {
@@ -1038,23 +1029,18 @@
       "news_count": 4
     },
     {
-      "country_code": "KE",
-      "country_name": "Kenya",
-      "news_count": 4
-    },
-    {
       "country_code": "RU",
       "country_name": "Russia",
       "news_count": 4
     },
     {
-      "country_code": "UA",
-      "country_name": "Ukraine",
+      "country_code": "KE",
+      "country_name": "Kenya",
       "news_count": 3
     },
     {
-      "country_code": "ZA",
-      "country_name": "South Africa",
+      "country_code": "UA",
+      "country_name": "Ukraine",
       "news_count": 3
     },
     {
@@ -1088,6 +1074,11 @@
       "news_count": 2
     },
     {
+      "country_code": "MA",
+      "country_name": "Morocco",
+      "news_count": 2
+    },
+    {
       "country_code": "MX",
       "country_name": "Mexico",
       "news_count": 2
@@ -1095,6 +1086,11 @@
     {
       "country_code": "SA",
       "country_name": "Saudi Arabia",
+      "news_count": 2
+    },
+    {
+      "country_code": "ZA",
+      "country_name": "South Africa",
       "news_count": 2
     },
     {
@@ -1110,11 +1106,6 @@
     {
       "country_code": "CL",
       "country_name": "Chile",
-      "news_count": 1
-    },
-    {
-      "country_code": "DZ",
-      "country_name": "Algeria",
       "news_count": 1
     },
     {
