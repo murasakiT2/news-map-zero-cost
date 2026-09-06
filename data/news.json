@@ -1,23 +1,32 @@
 {
-  "generated_at": "2026-09-06T20:33:32Z",
+  "generated_at": "2026-09-06T22:32:23Z",
   "articles": [
     {
       "source": "BBC World",
-      "title": "Zelensky says he expects war to continue into winter after talks with US envoys",
-      "url": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss",
-      "summary": "There was no announcement of a major breakthrough, after Steve Witkoff and Jared Kushner travelled to Kyiv.",
-      "published_at": "2026-09-06T20:18:52Z",
+      "title": "Germany's far-right AfD set for big win in eastern state, just short of majority",
+      "url": "https://www.bbc.co.uk/news/articles/cy4zejgz3z9o?at_medium=RSS&at_campaign=rss",
+      "summary": "Germany's AfD has hailed a \"historic result\" and is projected to win 44% of the vote, far ahead of the conservatives on 17%.",
+      "published_at": "2026-09-06T21:37:05Z",
+      "country_code": "DE",
+      "country_name": "Germany"
+    },
+    {
+      "source": "BBC World",
+      "title": "Peace talks rich in symbolism but fundamental differences between Russia and Ukraine remain",
+      "url": "https://www.bbc.co.uk/news/articles/c980j5m8mpro?at_medium=RSS&at_campaign=rss",
+      "summary": "Despite talks between US envoys and both Putin and Zelensky, the expectation in Kyiv is the fighting will continue, writes James Landale.",
+      "published_at": "2026-09-06T20:52:12Z",
       "country_code": "US",
       "country_name": "United States"
     },
     {
       "source": "BBC World",
-      "title": "German far-right set for big win in eastern state, projections show",
-      "url": "https://www.bbc.co.uk/news/articles/cy4zejgz3z9o?at_medium=RSS&at_campaign=rss",
-      "summary": "Germany's AfD has hailed a \"historic result\" and is projected to win more than 44% of the vote, far ahead of the conservative CDU on 18.4%.",
-      "published_at": "2026-09-06T20:16:35Z",
-      "country_code": "DE",
-      "country_name": "Germany"
+      "title": "Zelensky says he expects war to continue into winter after talks with US envoys",
+      "url": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss",
+      "summary": "There was no announcement of a major breakthrough, after Steve Witkoff and Jared Kushner travelled to Kyiv.",
+      "published_at": "2026-09-06T20:41:58Z",
+      "country_code": "US",
+      "country_name": "United States"
     },
     {
       "source": "BBC World",
@@ -137,7 +146,7 @@
       "country_name": "United Kingdom"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "Why did USS Lincoln turn up in Thailand looking so rusty?",
       "url": "https://www.bbc.co.uk/news/videos/c4gr9y1ny3xo?at_medium=RSS&at_campaign=rss",
       "summary": "When the USS Abraham Lincoln docked in Thailand this week some people were quick to criticise the condition it was in.",
@@ -191,7 +200,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "How the Lindsay Clancy trial gripped America - and ultimately fell apart",
       "url": "https://www.bbc.co.uk/news/videos/cr7dzr2e789o?at_medium=RSS&at_campaign=rss",
       "summary": "A Massachusetts judge has declared a mistrial in the murder case against the US mother after jurors were unable to reach a unanimous verdict…",
@@ -326,20 +335,11 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC US & Canada",
+      "source": "BBC Middle East",
       "title": "How could US-Iran conflict end? Three experts give their views",
       "url": "https://www.bbc.co.uk/news/articles/cgjql614glvo?at_medium=RSS&at_campaign=rss",
       "summary": "After renewed strikes this week, does either side have an exit strategy?",
       "published_at": "2026-09-04T09:14:57Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "100 influencers invited to US Open spark debate on 'tennis etiquette'",
-      "url": "https://www.bbc.co.uk/sport/tennis/articles/cy8zqd4zg14o?at_medium=RSS&at_campaign=rss",
-      "summary": "The behaviour of influencers and content creators has become a major talking point at this year's US Open amid incidents of matches being di…",
-      "published_at": "2026-09-04T07:16:07Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -657,6 +657,15 @@
       "published_at": "2026-09-01T19:27:38Z",
       "country_code": "GB",
       "country_name": "United Kingdom"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "How a small island in Canada appeared, vanished, and was found again",
+      "url": "https://www.bbc.co.uk/news/articles/cgk5jk6nkxzo?at_medium=RSS&at_campaign=rss",
+      "summary": "Officials in British Columbia say the floating island drifted towards the shoreline of a local lake. But its origins remain a mystery.",
+      "published_at": "2026-09-01T17:36:44Z",
+      "country_code": "CA",
+      "country_name": "Canada"
     },
     {
       "source": "BBC Europe",
@@ -1067,6 +1076,11 @@
       "news_count": 3
     },
     {
+      "country_code": "CA",
+      "country_name": "Canada",
+      "news_count": 2
+    },
+    {
       "country_code": "EG",
       "country_name": "Egypt",
       "news_count": 2
@@ -1114,11 +1128,6 @@
     {
       "country_code": "AU",
       "country_name": "Australia",
-      "news_count": 1
-    },
-    {
-      "country_code": "CA",
-      "country_name": "Canada",
       "news_count": 1
     },
     {
