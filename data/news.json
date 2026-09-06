@@ -1,12 +1,30 @@
 {
-  "generated_at": "2026-09-06T18:01:38Z",
+  "generated_at": "2026-09-06T20:33:32Z",
   "articles": [
     {
       "source": "BBC World",
-      "title": "German far-right set for big win in eastern state - projections",
+      "title": "Zelensky says he expects war to continue into winter after talks with US envoys",
+      "url": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss",
+      "summary": "There was no announcement of a major breakthrough, after Steve Witkoff and Jared Kushner travelled to Kyiv.",
+      "published_at": "2026-09-06T20:18:52Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "German far-right set for big win in eastern state, projections show",
       "url": "https://www.bbc.co.uk/news/articles/cy4zejgz3z9o?at_medium=RSS&at_campaign=rss",
       "summary": "Germany's AfD has hailed a \"historic result\" and is projected to win more than 44% of the vote, far ahead of the conservative CDU on 18.4%.",
-      "published_at": "2026-09-06T17:42:19Z",
+      "published_at": "2026-09-06T20:16:35Z",
+      "country_code": "DE",
+      "country_name": "Germany"
+    },
+    {
+      "source": "BBC World",
+      "title": "Germany's far-right AfD celebrate projected win in state election",
+      "url": "https://www.bbc.co.uk/news/videos/c5yegd6ldy6o?at_medium=RSS&at_campaign=rss",
+      "summary": "AfD leaders celebrated tonight as exit polls projected a big lead in the Saxony-Anhalt vote.",
+      "published_at": "2026-09-06T18:32:53Z",
       "country_code": "DE",
       "country_name": "Germany"
     },
@@ -27,15 +45,6 @@
       "published_at": "2026-09-06T16:00:21Z",
       "country_code": "ID",
       "country_name": "Indonesia"
-    },
-    {
-      "source": "BBC World",
-      "title": "US envoys hold talks with Zelensky in Kyiv after meeting Putin",
-      "url": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss",
-      "summary": "Steve Witkoff tells reporters the US team feels \"encouraged\" by a \"substantive\" and important discussion.",
-      "published_at": "2026-09-06T15:32:27Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC World",
@@ -290,7 +299,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Middle East",
       "title": "'We expect our sons to be killed,' father of teen shot dead in West Bank tells BBC",
       "url": "https://www.bbc.co.uk/news/videos/cn8evz26eyqo?at_medium=RSS&at_campaign=rss",
       "summary": "Palestinian teenagers Omar al-Naasan and Khalil Abu Alia were shot dead when Israeli settlers and soldiers entered a village in the occupied…",
@@ -1033,6 +1042,11 @@
       "news_count": 4
     },
     {
+      "country_code": "DE",
+      "country_name": "Germany",
+      "news_count": 4
+    },
+    {
       "country_code": "IL",
       "country_name": "Israel",
       "news_count": 4
@@ -1041,11 +1055,6 @@
       "country_code": "RU",
       "country_name": "Russia",
       "news_count": 4
-    },
-    {
-      "country_code": "DE",
-      "country_name": "Germany",
-      "news_count": 3
     },
     {
       "country_code": "KE",
