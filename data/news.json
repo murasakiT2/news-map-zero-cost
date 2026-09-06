@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-09-05T22:27:50Z",
+  "generated_at": "2026-09-06T00:05:45Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Majority Russian-speaking city in Ukraine considers language ban in the arts",
+      "url": "https://www.bbc.co.uk/news/articles/c33kzvgn8pyo?at_medium=RSS&at_campaign=rss",
+      "summary": "Ukraine's third-biggest city Odesa decides this week whether to ban Russian-language content in music and literature in public.",
+      "published_at": "2026-09-05T23:54:07Z",
+      "country_code": "UA",
+      "country_name": "Ukraine"
+    },
+    {
+      "source": "BBC World",
+      "title": "US and Iran trade retaliatory attacks on ships as conflict flares",
+      "url": "https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&at_campaign=rss",
+      "summary": "The US says it hit three Iranian oil tankers, while Iran says it targeted three US-linked ships.",
+      "published_at": "2026-09-05T22:44:07Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "US envoys meet Putin in Moscow for Ukraine talks",
@@ -27,15 +45,6 @@
       "published_at": "2026-09-05T21:00:02Z",
       "country_code": "NO",
       "country_name": "Norway"
-    },
-    {
-      "source": "BBC World",
-      "title": "US hits three Iranian oil tankers after saying its warships were targeted",
-      "url": "https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&at_campaign=rss",
-      "summary": "Iran's state media reported that Tehran has launched retaliatory attacks against three US-affiliated vessels; the US is yet to comment.",
-      "published_at": "2026-09-05T20:41:59Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC World",
@@ -317,7 +326,7 @@
       "country_name": "India"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Africa",
       "title": "Kenya's chai lovers are not happy as the nation's cows run dry",
       "url": "https://www.bbc.co.uk/news/articles/cgqd9ldegjqo?at_medium=RSS&at_campaign=rss",
       "summary": "Supermarket shelves are emptying, sellers are rationing supplies and prices are rising.",
@@ -1075,6 +1084,11 @@
       "news_count": 4
     },
     {
+      "country_code": "UA",
+      "country_name": "Ukraine",
+      "news_count": 3
+    },
+    {
       "country_code": "ZA",
       "country_name": "South Africa",
       "news_count": 3
@@ -1117,11 +1131,6 @@
     {
       "country_code": "SA",
       "country_name": "Saudi Arabia",
-      "news_count": 2
-    },
-    {
-      "country_code": "UA",
-      "country_name": "Ukraine",
       "news_count": 2
     },
     {
