@@ -1,11 +1,29 @@
 {
-  "generated_at": "2026-09-06T04:52:49Z",
+  "generated_at": "2026-09-06T09:01:42Z",
   "articles": [
     {
       "source": "BBC World",
-      "title": "US envoys set for Ukraine talks after meeting Putin in Moscow",
+      "title": "TV presenter among 12 sentenced to death in Egypt drugs case",
+      "url": "https://www.bbc.co.uk/news/articles/c5y7gk9knnlo?at_medium=RSS&at_campaign=rss",
+      "summary": "Sarah Khalifa is best known for her TV programme Mission Impossible which dealt with crime issues.",
+      "published_at": "2026-09-06T08:05:22Z",
+      "country_code": "EG",
+      "country_name": "Egypt"
+    },
+    {
+      "source": "BBC World",
+      "title": "Volcano eruption triggers flight suspensions at Indonesia's main airport",
+      "url": "https://www.bbc.co.uk/news/articles/cvgy5k4n07ko?at_medium=RSS&at_campaign=rss",
+      "summary": "More than 20,000 passengers are stranded after ash was detected in airspace near Jakarta following the eruptions.",
+      "published_at": "2026-09-06T07:06:50Z",
+      "country_code": "ID",
+      "country_name": "Indonesia"
+    },
+    {
+      "source": "BBC World",
+      "title": "US envoys set for Ukraine talks after meeting Putin in Russia",
       "url": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss",
-      "summary": "Steve Witkoff and Jared Kushner leave Moscow talks with hopes for \"equally productive meetings\" in Ukraine.",
+      "summary": "It will be the first trip by Steve Witkoff and Jared Kushner, Trump's top negotiators, to Kyiv.",
       "published_at": "2026-09-06T02:24:16Z",
       "country_code": "US",
       "country_name": "United States"
@@ -36,15 +54,6 @@
       "published_at": "2026-09-05T22:44:07Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "TV presenter among 11 sentenced to death in Egypt drugs case",
-      "url": "https://www.bbc.co.uk/news/articles/c5y7gk9knnlo?at_medium=RSS&at_campaign=rss",
-      "summary": "Sarah Khalifa is best known for her TV programme Mission Impossible which dealt with crime issues.",
-      "published_at": "2026-09-05T21:29:38Z",
-      "country_code": "EG",
-      "country_name": "Egypt"
     },
     {
       "source": "BBC World",
@@ -110,7 +119,7 @@
       "country_name": "Argentina"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Africa",
       "title": "Is Russia proving better at protecting friends than fighting enemies in West Africa?",
       "url": "https://www.bbc.co.uk/news/articles/cx2z75keq58o?at_medium=RSS&at_campaign=rss",
       "summary": "Russian forces were brought in to help defeat jihadists but they also defend the military leadership in Niger.",
@@ -128,7 +137,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "How much can Canada fight back in its trade war with the US?",
       "url": "https://www.bbc.co.uk/news/videos/c74knp7y04eo?at_medium=RSS&at_campaign=rss",
       "summary": "The US may be the bigger trading partner, but Canada shouldn't be counted out quite yet in the escalating trade fight.",
@@ -315,15 +324,6 @@
       "published_at": "2026-09-04T05:22:34Z",
       "country_code": "IN",
       "country_name": "India"
-    },
-    {
-      "source": "BBC World",
-      "title": "Watch: Moment workers are rescued from Nepal tunnel",
-      "url": "https://www.bbc.co.uk/news/videos/cnvl5e6vy8eo?at_medium=RSS&at_campaign=rss",
-      "summary": "Rescuers pull two people from a hydropower tunnel more than a week after a massive flash flood devastated the Nepal-China border.",
-      "published_at": "2026-09-04T04:45:54Z",
-      "country_code": "CN",
-      "country_name": "China"
     },
     {
       "source": "BBC Africa",
@@ -1083,6 +1083,11 @@
       "news_count": 2
     },
     {
+      "country_code": "ID",
+      "country_name": "Indonesia",
+      "news_count": 2
+    },
+    {
       "country_code": "MX",
       "country_name": "Mexico",
       "news_count": 2
@@ -1108,18 +1113,8 @@
       "news_count": 1
     },
     {
-      "country_code": "CN",
-      "country_name": "China",
-      "news_count": 1
-    },
-    {
       "country_code": "DZ",
       "country_name": "Algeria",
-      "news_count": 1
-    },
-    {
-      "country_code": "ID",
-      "country_name": "Indonesia",
       "news_count": 1
     },
     {
