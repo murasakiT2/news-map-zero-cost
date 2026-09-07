@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-09-07T20:02:07Z",
+  "generated_at": "2026-09-07T22:53:52Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Palestinian parents fear for children's lives at school as settler attacks grow",
+      "url": "https://www.bbc.co.uk/news/articles/c3wj45g73g1o?at_medium=RSS&at_campaign=rss",
+      "summary": "A headteacher in the occupied West Bank has installed new barbed wire fencing after three pupils were killed this year.",
+      "published_at": "2026-09-07T21:12:37Z",
+      "country_code": "PS",
+      "country_name": "Palestine"
+    },
     {
       "source": "BBC World",
       "title": "Indonesia volcano eruption leaves 340,000 stranded as airports extend closure",
@@ -155,7 +164,7 @@
       "country_name": "Egypt"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "'He was a lifeline' - Families at a loss after Haitian caregivers let go in US",
       "url": "https://www.bbc.co.uk/news/articles/cg491zp13qqo?at_medium=RSS&at_campaign=rss",
       "summary": "Haitian immigrants make up a large portion of the already overburdened home-care workforce.",
@@ -911,7 +920,7 @@
     {
       "country_code": "PS",
       "country_name": "Palestine",
-      "news_count": 9
+      "news_count": 10
     },
     {
       "country_code": "GB",
