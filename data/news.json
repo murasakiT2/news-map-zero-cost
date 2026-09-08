@@ -1,6 +1,60 @@
 {
-  "generated_at": "2026-09-08T00:47:14Z",
+  "generated_at": "2026-09-08T05:25:58Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "North Korea and Russia open first road bridge linking both countries",
+      "url": "https://www.bbc.co.uk/news/articles/cj9xvg1kz0mo?at_medium=RSS&at_campaign=rss",
+      "summary": "It comes as relations between both countries have strengthened since the start of the Ukraine war.",
+      "published_at": "2026-09-08T03:53:27Z",
+      "country_code": "KP",
+      "country_name": "North Korea"
+    },
+    {
+      "source": "BBC Asia",
+      "title": "Indonesia airports reopen after volcano eruption leaves 340,000 stranded",
+      "url": "https://www.bbc.co.uk/news/articles/czezydp4l97o?at_medium=RSS&at_campaign=rss",
+      "summary": "Anak Krakatau, which lies about 150km from Jakarta, began spewing lava and volvanic ash late on Friday.",
+      "published_at": "2026-09-08T03:44:43Z",
+      "country_code": "ID",
+      "country_name": "Indonesia"
+    },
+    {
+      "source": "BBC World",
+      "title": "UK government expected to announce restrictions on trade with West Bank settlements",
+      "url": "https://www.bbc.co.uk/news/articles/c4grdjnle22o?at_medium=RSS&at_campaign=rss",
+      "summary": "Foreign Secretary Ed Miliband is set to outline the proposals today, in a move which could prompt Israel to retaliate.",
+      "published_at": "2026-09-08T01:50:55Z",
+      "country_code": "GB",
+      "country_name": "United Kingdom"
+    },
+    {
+      "source": "BBC World",
+      "title": "Trial over alleged murders of Australian surfer brothers starts in Mexico",
+      "url": "https://www.bbc.co.uk/news/articles/crernpv433vo?at_medium=RSS&at_campaign=rss",
+      "summary": "The bodies of Jake and Callum Robinson and their US friend were found with gunshot wounds to their heads.",
+      "published_at": "2026-09-08T01:32:56Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Ukraine's chief prosecutor resigns over call centre corruption scandal",
+      "url": "https://www.bbc.co.uk/news/articles/c780nlgyd79o?at_medium=RSS&at_campaign=rss",
+      "summary": "In his resignation letter, Ruslan Kravchenko denied the allegations against him, saying he did not want his office \"to be used as a tool in …",
+      "published_at": "2026-09-08T01:07:47Z",
+      "country_code": "UA",
+      "country_name": "Ukraine"
+    },
+    {
+      "source": "BBC World",
+      "title": "Trump threatens to stop sale of Canadian Bombardier jets in US",
+      "url": "https://www.bbc.co.uk/news/articles/c4gj8xx5010o?at_medium=RSS&at_campaign=rss",
+      "summary": "The threat against one of Canada's largest companies comes amid an escalating trade war between the two neighbours.",
+      "published_at": "2026-09-08T00:48:43Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "Eiffel Tower shut by staff protest after female workers moved for religious visit",
@@ -18,15 +72,6 @@
       "published_at": "2026-09-07T23:40:39Z",
       "country_code": "IN",
       "country_name": "India"
-    },
-    {
-      "source": "BBC World",
-      "title": "Trump threatens to stop sale of Canadian Bombardier jets in US",
-      "url": "https://www.bbc.co.uk/news/articles/c4gj8xx5010o?at_medium=RSS&at_campaign=rss",
-      "summary": "The threat against one of Canada's largest companies comes amid an escalating trade war between the two neighbours.",
-      "published_at": "2026-09-07T23:29:12Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC World",
@@ -48,15 +93,6 @@
     },
     {
       "source": "BBC World",
-      "title": "Indonesia volcano eruption leaves 340,000 stranded as airports extend closure",
-      "url": "https://www.bbc.co.uk/news/articles/czezydp4l97o?at_medium=RSS&at_campaign=rss",
-      "summary": "Anak Krakatau, which lies about 150km from capital Jakarta, began spewing lava and volvanic ash late on Friday.",
-      "published_at": "2026-09-07T15:40:47Z",
-      "country_code": "ID",
-      "country_name": "Indonesia"
-    },
-    {
-      "source": "BBC World",
       "title": "Grindr to pay £26m to settle claims it allegedly shared users' HIV status",
       "url": "https://www.bbc.co.uk/news/articles/cn8e63qdqwzo?at_medium=RSS&at_campaign=rss",
       "summary": "The long-running claim alleges Grindr breached UK privacy laws by sharing data with third parties.",
@@ -65,7 +101,7 @@
       "country_name": "United Kingdom"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Africa",
       "title": "Burundians rush to leave Kenya ahead of crackdown on unregistered traders",
       "url": "https://www.bbc.co.uk/news/articles/c158wwl22xko?at_medium=RSS&at_campaign=rss",
       "summary": "Kenya is due to start enforcing measures to restrict foreign nationals from operating small-scale businesses.",
@@ -432,15 +468,6 @@
       "published_at": "2026-09-04T00:00:00Z",
       "country_code": "ZA",
       "country_name": "South Africa"
-    },
-    {
-      "source": "BBC Asia",
-      "title": "Is India's internet boom running into an undersea problem?",
-      "url": "https://www.bbc.co.uk/news/articles/cx2r2mzelxko?at_medium=RSS&at_campaign=rss",
-      "summary": "At least 13 of India's 18 intercontinental cables come ashore within six kilometres of Mumbai's Versova beach.",
-      "published_at": "2026-09-03T23:40:08Z",
-      "country_code": "IN",
-      "country_name": "India"
     },
     {
       "source": "BBC Middle East",
@@ -933,7 +960,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 31
+      "news_count": 32
     },
     {
       "country_code": "PS",
@@ -943,7 +970,7 @@
     {
       "country_code": "GB",
       "country_name": "United Kingdom",
-      "news_count": 7
+      "news_count": 8
     },
     {
       "country_code": "DE",
@@ -966,13 +993,13 @@
       "news_count": 4
     },
     {
-      "country_code": "IN",
-      "country_name": "India",
+      "country_code": "KE",
+      "country_name": "Kenya",
       "news_count": 4
     },
     {
-      "country_code": "KE",
-      "country_name": "Kenya",
+      "country_code": "UA",
+      "country_name": "Ukraine",
       "news_count": 4
     },
     {
@@ -986,13 +1013,13 @@
       "news_count": 3
     },
     {
-      "country_code": "MA",
-      "country_name": "Morocco",
+      "country_code": "IN",
+      "country_name": "India",
       "news_count": 3
     },
     {
-      "country_code": "UA",
-      "country_name": "Ukraine",
+      "country_code": "MA",
+      "country_name": "Morocco",
       "news_count": 3
     },
     {
@@ -1033,6 +1060,11 @@
     {
       "country_code": "IT",
       "country_name": "Italy",
+      "news_count": 1
+    },
+    {
+      "country_code": "KP",
+      "country_name": "North Korea",
       "news_count": 1
     },
     {
