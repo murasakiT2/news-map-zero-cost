@@ -1,11 +1,74 @@
 {
-  "generated_at": "2026-09-08T05:25:58Z",
+  "generated_at": "2026-09-08T09:53:42Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Highest paid world leader to get salary increase of $1 million",
+      "url": "https://www.bbc.co.uk/news/articles/c5y5kn143d1o?at_medium=RSS&at_campaign=rss",
+      "summary": "Singapore's prime minister Lawrence Wong will see his pay rise to 3.6 million Singapore dollars ($2.8m; £2.1m).",
+      "published_at": "2026-09-08T09:20:05Z",
+      "country_code": "SG",
+      "country_name": "Singapore"
+    },
+    {
+      "source": "BBC World",
+      "title": "AI will cure cancer in our lifetime, claims boss of UK chip giant",
+      "url": "https://www.bbc.co.uk/news/articles/c0m39g7xzevo?at_medium=RSS&at_campaign=rss",
+      "summary": "Arm Holding's chief executive Rene Haas says artificial intelligence will find a solution to the disease.",
+      "published_at": "2026-09-08T09:17:48Z",
+      "country_code": "GB",
+      "country_name": "United Kingdom"
+    },
+    {
+      "source": "BBC Europe",
+      "title": "'Tirana teeth': Albania hopes to be the new Turkey for dental work",
+      "url": "https://www.bbc.co.uk/news/articles/cq63m88ymqro?at_medium=RSS&at_campaign=rss",
+      "summary": "The Balkan nation is aiming to become a new centre for medical tourism.",
+      "published_at": "2026-09-08T09:00:28Z",
+      "country_code": "TR",
+      "country_name": "Turkey"
+    },
+    {
+      "source": "BBC World",
+      "title": "Kenya moves to register frightened Burundians as tension over foreign traders rises",
+      "url": "https://www.bbc.co.uk/news/articles/c158wwl22xko?at_medium=RSS&at_campaign=rss",
+      "summary": "All foreigners without proper documents in Kenya are urged to register through their embassies.",
+      "published_at": "2026-09-08T08:28:01Z",
+      "country_code": "KE",
+      "country_name": "Kenya"
+    },
+    {
+      "source": "BBC World",
+      "title": "Pupils return to West Bank school behind barbed wire to protect against settlers",
+      "url": "https://www.bbc.co.uk/news/videos/c62jdyld8myo?at_medium=RSS&at_campaign=rss",
+      "summary": "Six people, including three pupils at the Palestinian school, have been killed in al-Mughayyir this year, in a surge of Israeli settler-rela…",
+      "published_at": "2026-09-08T06:58:02Z",
+      "country_code": "PS",
+      "country_name": "Palestine"
+    },
+    {
+      "source": "BBC World",
+      "title": "'Good to have choice': Australians on opting out of social media algorithms",
+      "url": "https://www.bbc.co.uk/news/videos/clyl2dnjgkro?at_medium=RSS&at_campaign=rss",
+      "summary": "The BBC spoke to people in Sydney about Australia's plans to force social media companies to allow users to easily opt in or out of personal…",
+      "published_at": "2026-09-08T06:20:10Z",
+      "country_code": "AU",
+      "country_name": "Australia"
+    },
+    {
+      "source": "BBC World",
+      "title": "Canada braces for prolonged trade war as counter-tariffs on US take effect",
+      "url": "https://www.bbc.co.uk/news/articles/c8jdev0422jo?at_medium=RSS&at_campaign=rss",
+      "summary": "The tariffs will apply to $20bn worth of American products, jeopardising the stability of the world's largest bilateral trading relationship…",
+      "published_at": "2026-09-08T04:39:14Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "North Korea and Russia open first road bridge linking both countries",
       "url": "https://www.bbc.co.uk/news/articles/cj9xvg1kz0mo?at_medium=RSS&at_campaign=rss",
-      "summary": "It comes as relations between both countries have strengthened since the start of the Ukraine war.",
+      "summary": "Relations between the neighbours have strengthened since the start of the Ukraine war.",
       "published_at": "2026-09-08T03:53:27Z",
       "country_code": "KP",
       "country_name": "North Korea"
@@ -18,15 +81,6 @@
       "published_at": "2026-09-08T03:44:43Z",
       "country_code": "ID",
       "country_name": "Indonesia"
-    },
-    {
-      "source": "BBC World",
-      "title": "UK government expected to announce restrictions on trade with West Bank settlements",
-      "url": "https://www.bbc.co.uk/news/articles/c4grdjnle22o?at_medium=RSS&at_campaign=rss",
-      "summary": "Foreign Secretary Ed Miliband is set to outline the proposals today, in a move which could prompt Israel to retaliate.",
-      "published_at": "2026-09-08T01:50:55Z",
-      "country_code": "GB",
-      "country_name": "United Kingdom"
     },
     {
       "source": "BBC World",
@@ -57,15 +111,6 @@
     },
     {
       "source": "BBC World",
-      "title": "Eiffel Tower shut by staff protest after female workers moved for religious visit",
-      "url": "https://www.bbc.co.uk/news/articles/clyenxp540vo?at_medium=RSS&at_campaign=rss",
-      "summary": "The mayor of Paris said an investigation would be launched into the incident, which left female employees \"humiliated\", according to a union…",
-      "published_at": "2026-09-07T23:46:44Z",
-      "country_code": "FR",
-      "country_name": "France"
-    },
-    {
-      "source": "BBC World",
       "title": "A food safety officer has become a social media star in India - why?",
       "url": "https://www.bbc.co.uk/news/articles/c1wx3v11de7o?at_medium=RSS&at_campaign=rss",
       "summary": "Tukaram Mundhe has gone viral after a series of aggressive inspections of restaurants to detect hygiene lapses.",
@@ -74,22 +119,22 @@
       "country_name": "India"
     },
     {
-      "source": "BBC World",
-      "title": "AI cancer cures slowed by chip shortage, says UK's biggest tech boss",
-      "url": "https://www.bbc.co.uk/news/articles/c0m39g7xzevo?at_medium=RSS&at_campaign=rss",
-      "summary": "The head of chip designer Arm says modelling how a DNA marker is impacted by cancer cannot be done now, but computers are \"going to solve it…",
-      "published_at": "2026-09-07T23:05:12Z",
-      "country_code": "GB",
-      "country_name": "United Kingdom"
-    },
-    {
-      "source": "BBC World",
+      "source": "BBC Middle East",
       "title": "Palestinian parents fear for children's lives at school as settler attacks grow",
       "url": "https://www.bbc.co.uk/news/articles/c3wj45g73g1o?at_medium=RSS&at_campaign=rss",
       "summary": "A headteacher in the occupied West Bank has installed new barbed wire fencing after three pupils were killed this year.",
       "published_at": "2026-09-07T21:12:37Z",
       "country_code": "PS",
       "country_name": "Palestine"
+    },
+    {
+      "source": "BBC Europe",
+      "title": "Ecclestone stopped by police for taking shotgun into Portugal",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/cy9zx52xen2o?at_medium=RSS&at_campaign=rss",
+      "summary": "Former Formula 1 boss Bernie Ecclestone says he was stopped by officials at an airport in Portugal after arriving with a shotgun he intended…",
+      "published_at": "2026-09-07T17:40:04Z",
+      "country_code": "PT",
+      "country_name": "Portugal"
     },
     {
       "source": "BBC World",
@@ -99,15 +144,6 @@
       "published_at": "2026-09-07T15:27:50Z",
       "country_code": "GB",
       "country_name": "United Kingdom"
-    },
-    {
-      "source": "BBC Africa",
-      "title": "Burundians rush to leave Kenya ahead of crackdown on unregistered traders",
-      "url": "https://www.bbc.co.uk/news/articles/c158wwl22xko?at_medium=RSS&at_campaign=rss",
-      "summary": "Kenya is due to start enforcing measures to restrict foreign nationals from operating small-scale businesses.",
-      "published_at": "2026-09-07T14:57:16Z",
-      "country_code": "KE",
-      "country_name": "Kenya"
     },
     {
       "source": "BBC World",
@@ -128,7 +164,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "Kyiv air raid alerts at record high as Russia launches round-the-clock strikes",
       "url": "https://www.bbc.co.uk/news/articles/cjdvx9pz44ro?at_medium=RSS&at_campaign=rss",
       "summary": "Schools, businesses and public transport are all struggling with the surge in Russian air attacks.",
@@ -272,7 +308,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "How might Lindsay Clancy’s case have unfolded in another country?",
       "url": "https://www.bbc.co.uk/news/videos/cqlw6q0xv4zo?at_medium=RSS&at_campaign=rss",
       "summary": "The US mother was on trial for strangling her three children. In other western countries, there’s a specific law for mums who kill their you…",
@@ -345,30 +381,12 @@
     },
     {
       "source": "BBC US & Canada",
-      "title": "How the Lindsay Clancy trial gripped America - and ultimately fell apart",
-      "url": "https://www.bbc.co.uk/news/videos/cr7dzr2e789o?at_medium=RSS&at_campaign=rss",
-      "summary": "A Massachusetts judge has declared a mistrial in the murder case against the US mother after jurors were unable to reach a unanimous verdict…",
-      "published_at": "2026-09-05T01:26:29Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC US & Canada",
       "title": "Flock says its cameras make US safer - so why are they being sabotaged?",
       "url": "https://www.bbc.co.uk/news/articles/cew9kz1kxpvo?at_medium=RSS&at_campaign=rss",
       "summary": "The AI-powered cameras have been vandalised across the US, as citizens object to the growing surveillance network.",
       "published_at": "2026-09-05T01:16:27Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC Europe",
-      "title": "Germany's far-right AfD bids for first taste of power in eastern vote",
-      "url": "https://www.bbc.co.uk/news/articles/cvgypkzgy4wo?at_medium=RSS&at_campaign=rss",
-      "summary": "If it wins an outright majority in Saxony-Anhalt, it would be the first time a far-right party has held state-level power in Germany since W…",
-      "published_at": "2026-09-04T23:07:23Z",
-      "country_code": "DE",
-      "country_name": "Germany"
     },
     {
       "source": "BBC US & Canada",
@@ -385,15 +403,6 @@
       "url": "https://www.bbc.co.uk/news/videos/ced7yj7564zo?at_medium=RSS&at_campaign=rss",
       "summary": "US Commerce Secretary Howard Lutnick falsely suggested that data centres don't use water.",
       "published_at": "2026-09-04T20:06:56Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "Throwing papers, hurling a ninja star - Lindsay Clancy lawyer creates courtroom spectacles",
-      "url": "https://www.bbc.co.uk/news/articles/cg7k24159kpo?at_medium=RSS&at_campaign=rss",
-      "summary": "Kevin Reddington has transfixed audiences defending the US mother accused of killing her children.",
-      "published_at": "2026-09-04T18:38:58Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -432,6 +441,15 @@
       "published_at": "2026-09-04T13:55:36Z",
       "country_code": "KE",
       "country_name": "Kenya"
+    },
+    {
+      "source": "BBC Middle East",
+      "title": "'We expect our sons to be killed,' father of teen shot dead in West Bank tells BBC",
+      "url": "https://www.bbc.co.uk/news/videos/cn8evz26eyqo?at_medium=RSS&at_campaign=rss",
+      "summary": "Palestinian teenagers Omar al-Naasan and Khalil Abu Alia were shot dead when Israeli settlers and soldiers entered a village in the occupied…",
+      "published_at": "2026-09-04T12:39:05Z",
+      "country_code": "PS",
+      "country_name": "Palestine"
     },
     {
       "source": "BBC Latin America",
@@ -596,15 +614,6 @@
       "country_name": "Egypt"
     },
     {
-      "source": "BBC Middle East",
-      "title": "More than 900 killed in Gaza this year despite ceasefire, Hamas-run health ministry says",
-      "url": "https://www.bbc.co.uk/news/articles/c7708dy33pdo?at_medium=RSS&at_campaign=rss",
-      "summary": "The ministry says the total number of people killed in the Strip since 10 October is now more than 1,300, including 301 children.",
-      "published_at": "2026-09-02T11:51:46Z",
-      "country_code": "PS",
-      "country_name": "Palestine"
-    },
-    {
       "source": "BBC Europe",
       "title": "Rosenberg: Putin's veiled threat to UK part of Russia's campaign against West",
       "url": "https://www.bbc.co.uk/news/articles/c62j50n131mo?at_medium=RSS&at_campaign=rss",
@@ -641,31 +650,13 @@
       "country_name": "Israel"
     },
     {
-      "source": "BBC US & Canada",
+      "source": "BBC Latin America",
       "title": "Remarkable US oil deal puzzles analysts - and angers many Venezuelans",
       "url": "https://www.bbc.co.uk/news/articles/c93vkgk5e1yo?at_medium=RSS&at_campaign=rss",
       "summary": "Amounting to 65 billion barrels of crude, the deal is labelled by one ex-envoy as a colonialist \"fever dream\".",
       "published_at": "2026-09-01T21:27:29Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC Middle East",
-      "title": "Israel says Hamas security chief captured as strikes kill four during Gaza raid",
-      "url": "https://www.bbc.co.uk/news/articles/c1wxex4vg35o?at_medium=RSS&at_campaign=rss",
-      "summary": "The Israeli military says it carried out strikes in Gaza City during a raid by special forces to capture the head of Hamas's internal securi…",
-      "published_at": "2026-09-01T20:24:28Z",
-      "country_code": "IL",
-      "country_name": "Israel"
-    },
-    {
-      "source": "BBC Middle East",
-      "title": "Israel warns it will retaliate if UK imposes sanctions",
-      "url": "https://www.bbc.co.uk/news/articles/cr7degkkv5go?at_medium=RSS&at_campaign=rss",
-      "summary": "The UK's Foreign Secretary Ed Miliband pledged on Tuesday to introduce a \"comprehensive reset\" of policy on Israel.",
-      "published_at": "2026-09-01T19:27:38Z",
-      "country_code": "GB",
-      "country_name": "United Kingdom"
     },
     {
       "source": "BBC Europe",
@@ -960,22 +951,17 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 32
+      "news_count": 31
     },
     {
       "country_code": "PS",
       "country_name": "Palestine",
-      "news_count": 10
+      "news_count": 11
     },
     {
       "country_code": "GB",
       "country_name": "United Kingdom",
-      "news_count": 8
-    },
-    {
-      "country_code": "DE",
-      "country_name": "Germany",
-      "news_count": 5
+      "news_count": 6
     },
     {
       "country_code": "NG",
@@ -988,8 +974,8 @@
       "news_count": 5
     },
     {
-      "country_code": "IL",
-      "country_name": "Israel",
+      "country_code": "DE",
+      "country_name": "Germany",
       "news_count": 4
     },
     {
@@ -1003,13 +989,13 @@
       "news_count": 4
     },
     {
-      "country_code": "FR",
-      "country_name": "France",
+      "country_code": "ID",
+      "country_name": "Indonesia",
       "news_count": 3
     },
     {
-      "country_code": "ID",
-      "country_name": "Indonesia",
+      "country_code": "IL",
+      "country_name": "Israel",
       "news_count": 3
     },
     {
@@ -1038,6 +1024,16 @@
       "news_count": 2
     },
     {
+      "country_code": "FR",
+      "country_name": "France",
+      "news_count": 2
+    },
+    {
+      "country_code": "PT",
+      "country_name": "Portugal",
+      "news_count": 2
+    },
+    {
       "country_code": "SA",
       "country_name": "Saudi Arabia",
       "news_count": 2
@@ -1046,6 +1042,11 @@
       "country_code": "ZA",
       "country_name": "South Africa",
       "news_count": 2
+    },
+    {
+      "country_code": "AU",
+      "country_name": "Australia",
+      "news_count": 1
     },
     {
       "country_code": "ES",
@@ -1073,13 +1074,18 @@
       "news_count": 1
     },
     {
-      "country_code": "PT",
-      "country_name": "Portugal",
+      "country_code": "SG",
+      "country_name": "Singapore",
       "news_count": 1
     },
     {
       "country_code": "TH",
       "country_name": "Thailand",
+      "news_count": 1
+    },
+    {
+      "country_code": "TR",
+      "country_name": "Turkey",
       "news_count": 1
     }
   ]
