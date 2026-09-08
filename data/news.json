@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-09-08T20:26:53Z",
+  "generated_at": "2026-09-08T22:50:12Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Paul Adams: British-Israeli relations at lowest ebb in decades",
+      "url": "https://www.bbc.co.uk/news/articles/c5ydlex9yn3o?at_medium=RSS&at_campaign=rss",
+      "summary": "Israel's response to London's trade ban with Israeli settlements in the occupied West Bank shows how important this moment is.",
+      "published_at": "2026-09-08T21:46:31Z",
+      "country_code": "IL",
+      "country_name": "Israel"
+    },
+    {
+      "source": "BBC World",
+      "title": "LIV files for bankruptcy protection with $45m owed to players",
+      "url": "https://www.bbc.co.uk/sport/golf/articles/ce8x39wj5p1o?at_medium=RSS&at_campaign=rss",
+      "summary": "LIV Golf still intends to start its new league early next year after filing for bankruptcy protection in the United States.",
+      "published_at": "2026-09-08T21:20:22Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "UK announces sanctions on West Bank settlements prompting furious Israeli response",
@@ -155,7 +173,7 @@
       "country_name": "Kenya"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "Highest paid world leader to get salary increase of $1 million",
       "url": "https://www.bbc.co.uk/news/articles/c5y5kn143d1o?at_medium=RSS&at_campaign=rss",
       "summary": "Singapore's prime minister Lawrence Wong will see his annual pay rise to 3.6 million Singapore dollars ($2.8m; £2.1m).",
@@ -421,15 +439,6 @@
       "url": "https://www.bbc.co.uk/news/articles/cx2z0xnw2d6o?at_medium=RSS&at_campaign=rss",
       "summary": "Some say the case shed light on the mental health struggles of mothers, while others argue it's no excuse for murder.",
       "published_at": "2026-09-05T10:02:29Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "Trump signs order to remove endangered species protection for grey wolves",
-      "url": "https://www.bbc.co.uk/news/articles/c62k677d4lzo?at_medium=RSS&at_campaign=rss",
-      "summary": "The US president says the move will help ranchers, but conservationists say it could derail efforts to recover populations.",
-      "published_at": "2026-09-05T09:12:48Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -1005,6 +1014,11 @@
       "news_count": 5
     },
     {
+      "country_code": "IL",
+      "country_name": "Israel",
+      "news_count": 4
+    },
+    {
       "country_code": "KE",
       "country_name": "Kenya",
       "news_count": 4
@@ -1032,11 +1046,6 @@
     {
       "country_code": "ID",
       "country_name": "Indonesia",
-      "news_count": 3
-    },
-    {
-      "country_code": "IL",
-      "country_name": "Israel",
       "news_count": 3
     },
     {
