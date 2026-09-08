@@ -1,6 +1,33 @@
 {
-  "generated_at": "2026-09-08T17:45:01Z",
+  "generated_at": "2026-09-08T20:26:53Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "UK announces sanctions on West Bank settlements prompting furious Israeli response",
+      "url": "https://www.bbc.co.uk/news/articles/c4g7zen0vveo?at_medium=RSS&at_campaign=rss",
+      "summary": "Britain's foreign secretary accuses settlers of carrying out the \"ethnic cleansing\" of Palestinians, as Israel responds by shutting the UK c…",
+      "published_at": "2026-09-08T19:11:39Z",
+      "country_code": "GB",
+      "country_name": "United Kingdom"
+    },
+    {
+      "source": "BBC World",
+      "title": "British widow faces deportation from Sweden after 22 years",
+      "url": "https://www.bbc.co.uk/news/articles/c62k0d4px6ro?at_medium=RSS&at_campaign=rss",
+      "summary": "A 78-year-old British woman is facing deportation for failing to fill out a Brexit residence application on time.",
+      "published_at": "2026-09-08T18:02:42Z",
+      "country_code": "SE",
+      "country_name": "Sweden"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "Sapporo to move some beer production from Canada to US after tariffs",
+      "url": "https://www.bbc.co.uk/news/articles/c87ve09pgqzo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Japanese brewer plans to shift non-alcoholic beer brewing to the US from Canada as tariffs bite",
+      "published_at": "2026-09-08T17:41:42Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC US & Canada",
       "title": "Lindsay Clancy's lawyer hopes for deal with prosecutors after mistrial",
@@ -27,15 +54,6 @@
       "published_at": "2026-09-08T16:45:32Z",
       "country_code": "GB",
       "country_name": "United Kingdom"
-    },
-    {
-      "source": "BBC World",
-      "title": "British widow faces deportation from Sweden after 22 years",
-      "url": "https://www.bbc.co.uk/news/articles/c62k0d4px6ro?at_medium=RSS&at_campaign=rss",
-      "summary": "A 78-year-old British woman is facing deportation for failing to fill out a Brexit residence application on time.",
-      "published_at": "2026-09-08T16:23:01Z",
-      "country_code": "SE",
-      "country_name": "Sweden"
     },
     {
       "source": "BBC World",
@@ -969,7 +987,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 31
+      "news_count": 32
     },
     {
       "country_code": "PS",
@@ -979,7 +997,7 @@
     {
       "country_code": "GB",
       "country_name": "United Kingdom",
-      "news_count": 7
+      "news_count": 8
     },
     {
       "country_code": "DE",
