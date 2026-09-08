@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-09-07T22:53:52Z",
+  "generated_at": "2026-09-08T00:47:14Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Eiffel Tower shut by staff protest after female workers moved for religious visit",
+      "url": "https://www.bbc.co.uk/news/articles/clyenxp540vo?at_medium=RSS&at_campaign=rss",
+      "summary": "The mayor of Paris said an investigation would be launched into the incident, which left female employees \"humiliated\", according to a union…",
+      "published_at": "2026-09-07T23:46:44Z",
+      "country_code": "FR",
+      "country_name": "France"
+    },
+    {
+      "source": "BBC World",
+      "title": "A food safety officer has become a social media star in India - why?",
+      "url": "https://www.bbc.co.uk/news/articles/c1wx3v11de7o?at_medium=RSS&at_campaign=rss",
+      "summary": "Tukaram Mundhe has gone viral after a series of aggressive inspections of restaurants to detect hygiene lapses.",
+      "published_at": "2026-09-07T23:40:39Z",
+      "country_code": "IN",
+      "country_name": "India"
+    },
+    {
+      "source": "BBC World",
+      "title": "Trump threatens to stop sale of Canadian Bombardier jets in US",
+      "url": "https://www.bbc.co.uk/news/articles/c4gj8xx5010o?at_medium=RSS&at_campaign=rss",
+      "summary": "The threat against one of Canada's largest companies comes amid an escalating trade war between the two neighbours.",
+      "published_at": "2026-09-07T23:29:12Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "AI cancer cures slowed by chip shortage, says UK's biggest tech boss",
+      "url": "https://www.bbc.co.uk/news/articles/c0m39g7xzevo?at_medium=RSS&at_campaign=rss",
+      "summary": "The head of chip designer Arm says modelling how a DNA marker is impacted by cancer cannot be done now, but computers are \"going to solve it…",
+      "published_at": "2026-09-07T23:05:12Z",
+      "country_code": "GB",
+      "country_name": "United Kingdom"
+    },
     {
       "source": "BBC World",
       "title": "Palestinian parents fear for children's lives at school as settler attacks grow",
@@ -83,16 +119,7 @@
       "country_name": "Germany"
     },
     {
-      "source": "BBC World",
-      "title": "China to pump $54bn into state banks and insurers to boost economy",
-      "url": "https://www.bbc.co.uk/news/articles/cx2z37qj4wno?at_medium=RSS&at_campaign=rss",
-      "summary": "It comes as Beijing is aiming to reshape its economy in the face of a number of challenges.",
-      "published_at": "2026-09-07T02:26:12Z",
-      "country_code": "CN",
-      "country_name": "China"
-    },
-    {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "The volunteers risking their lives to defuse Indonesia's wildfire 'carbon bombs'",
       "url": "https://www.bbc.co.uk/news/articles/c1kx4lgy4z4o?at_medium=RSS&at_campaign=rss",
       "summary": "Peat fires in Borneo are releasing ancient stores of carbon - and sending a toxic smog across South East Asia.",
@@ -101,7 +128,7 @@
       "country_name": "Indonesia"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "India's high-stakes exam system faces a crisis of trust",
       "url": "https://www.bbc.co.uk/news/articles/cvgy1g7egy9o?at_medium=RSS&at_campaign=rss",
       "summary": "As exam scandals persist, critics ask whether fixing the centralised testing agency is enough or if the model needs to change.",
@@ -387,15 +414,6 @@
       "published_at": "2026-09-04T09:14:57Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC Asia",
-      "title": "Tata Chemicals ordered out of Kenya by president",
-      "url": "https://www.bbc.co.uk/news/articles/c8e3py6rx2ro?at_medium=RSS&at_campaign=rss",
-      "summary": "Kenya's President William Ruto orders India's Tata Chemicals to quit, saying it has failed to benefit the country.",
-      "published_at": "2026-09-04T05:22:34Z",
-      "country_code": "IN",
-      "country_name": "India"
     },
     {
       "source": "BBC Africa",
@@ -915,7 +933,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 30
+      "news_count": 31
     },
     {
       "country_code": "PS",
@@ -925,7 +943,7 @@
     {
       "country_code": "GB",
       "country_name": "United Kingdom",
-      "news_count": 6
+      "news_count": 7
     },
     {
       "country_code": "DE",
@@ -958,6 +976,11 @@
       "news_count": 4
     },
     {
+      "country_code": "FR",
+      "country_name": "France",
+      "news_count": 3
+    },
+    {
       "country_code": "ID",
       "country_name": "Indonesia",
       "news_count": 3
@@ -988,11 +1011,6 @@
       "news_count": 2
     },
     {
-      "country_code": "FR",
-      "country_name": "France",
-      "news_count": 2
-    },
-    {
       "country_code": "SA",
       "country_name": "Saudi Arabia",
       "news_count": 2
@@ -1001,11 +1019,6 @@
       "country_code": "ZA",
       "country_name": "South Africa",
       "news_count": 2
-    },
-    {
-      "country_code": "CN",
-      "country_name": "China",
-      "news_count": 1
     },
     {
       "country_code": "ES",
