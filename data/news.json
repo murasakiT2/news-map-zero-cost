@@ -1,6 +1,33 @@
 {
-  "generated_at": "2026-09-09T18:08:10Z",
+  "generated_at": "2026-09-09T21:01:51Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Two die at Moldovan border as Russia-Ukraine drone war rages",
+      "url": "https://www.bbc.co.uk/news/articles/cvgyvpxe3yjo?at_medium=RSS&at_campaign=rss",
+      "summary": "Five deaths are reported in Ukraine and four in Russia as both sides launch new drone strikes.",
+      "published_at": "2026-09-09T20:28:04Z",
+      "country_code": "RU",
+      "country_name": "Russia"
+    },
+    {
+      "source": "BBC World",
+      "title": "Iran referred to UN Security Council for nuclear non-compliance",
+      "url": "https://www.bbc.co.uk/news/articles/ckgwj4kl5lno?at_medium=RSS&at_campaign=rss",
+      "summary": "Tehran condemns the resolution, blaming US and Israeli strikes on its nuclear facilities for disrupting inspections.",
+      "published_at": "2026-09-09T20:22:51Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "Tate brothers to remain in US jail as they fight extradition to UK",
+      "url": "https://www.bbc.co.uk/news/articles/cp849rlrrmlo?at_medium=RSS&at_campaign=rss",
+      "summary": "A federal judge denied them bail, saying the dual US-UK citizens' wealth and frequent international travel \"constitute quintessential flight…",
+      "published_at": "2026-09-09T19:09:13Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "Google picks Finland for its largest single investment in Europe",
@@ -45,15 +72,6 @@
       "published_at": "2026-09-09T16:13:11Z",
       "country_code": "PL",
       "country_name": "Poland"
-    },
-    {
-      "source": "BBC World",
-      "title": "Two die at Moldovan border as Russia-Ukraine drone war rages",
-      "url": "https://www.bbc.co.uk/news/articles/cvgyvpxe3yjo?at_medium=RSS&at_campaign=rss",
-      "summary": "Three deaths are reported in Ukraine and four in Russia as both sides launch new drone strikes.",
-      "published_at": "2026-09-09T16:01:54Z",
-      "country_code": "RU",
-      "country_name": "Russia"
     },
     {
       "source": "BBC World",
@@ -873,22 +891,13 @@
       "published_at": "2026-07-31T15:18:31Z",
       "country_code": "PS",
       "country_name": "Palestine"
-    },
-    {
-      "source": "BBC Middle East",
-      "title": "Israel building new land barriers in Gaza and displacing families",
-      "url": "https://www.bbc.co.uk/news/articles/cpvwjmme3p0o?at_medium=RSS&at_campaign=rss",
-      "summary": "Experts have told the BBC that the earthworks suggest Israel is planning for a long-term internal border.",
-      "published_at": "2026-07-30T05:05:24Z",
-      "country_code": "IL",
-      "country_name": "Israel"
     }
   ],
   "regions": [
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 27
+      "news_count": 29
     },
     {
       "country_code": "PS",
@@ -903,11 +912,6 @@
     {
       "country_code": "DE",
       "country_name": "Germany",
-      "news_count": 4
-    },
-    {
-      "country_code": "IL",
-      "country_name": "Israel",
       "news_count": 4
     },
     {
@@ -928,6 +932,11 @@
     {
       "country_code": "FR",
       "country_name": "France",
+      "news_count": 3
+    },
+    {
+      "country_code": "IL",
+      "country_name": "Israel",
       "news_count": 3
     },
     {
