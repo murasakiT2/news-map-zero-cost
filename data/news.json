@@ -1,6 +1,33 @@
 {
-  "generated_at": "2026-09-08T22:50:12Z",
+  "generated_at": "2026-09-09T00:50:18Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "US slaps import ban on Canadian alcohol and other goods",
+      "url": "https://www.bbc.co.uk/news/articles/c99dm1000p7o?at_medium=RSS&at_campaign=rss",
+      "summary": "It is the latest escalation in a trade war between the two countries, and comes as Canadian retaliatory tariffs on US goods come into force.",
+      "published_at": "2026-09-09T00:31:31Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Meta continues to run ads promoting child sexual abuse material in India - report",
+      "url": "https://www.bbc.co.uk/news/articles/cqxv2vwjjq3o?at_medium=RSS&at_campaign=rss",
+      "summary": "The report follows a BBC Eye investigation that found Instagram running paid ads promoting such material in India.",
+      "published_at": "2026-09-08T23:27:23Z",
+      "country_code": "IN",
+      "country_name": "India"
+    },
+    {
+      "source": "BBC World",
+      "title": "Hegseth is shaking up the Pentagon as the US wages war - but at what cost?",
+      "url": "https://www.bbc.co.uk/news/articles/cd94j8e9n12o?at_medium=RSS&at_campaign=rss",
+      "summary": "The upheaval in the military could shape the legacy of Trump's second term, writes the BBC's Tom Bateman.",
+      "published_at": "2026-09-08T23:11:41Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "Paul Adams: British-Israeli relations at lowest ebb in decades",
@@ -9,15 +36,6 @@
       "published_at": "2026-09-08T21:46:31Z",
       "country_code": "IL",
       "country_name": "Israel"
-    },
-    {
-      "source": "BBC World",
-      "title": "LIV files for bankruptcy protection with $45m owed to players",
-      "url": "https://www.bbc.co.uk/sport/golf/articles/ce8x39wj5p1o?at_medium=RSS&at_campaign=rss",
-      "summary": "LIV Golf still intends to start its new league early next year after filing for bankruptcy protection in the United States.",
-      "published_at": "2026-09-08T21:20:22Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC World",
@@ -36,15 +54,6 @@
       "published_at": "2026-09-08T18:02:42Z",
       "country_code": "SE",
       "country_name": "Sweden"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "Sapporo to move some beer production from Canada to US after tariffs",
-      "url": "https://www.bbc.co.uk/news/articles/c87ve09pgqzo?at_medium=RSS&at_campaign=rss",
-      "summary": "The Japanese brewer plans to shift non-alcoholic beer brewing to the US from Canada as tariffs bite",
-      "published_at": "2026-09-08T17:41:42Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC US & Canada",
@@ -110,10 +119,10 @@
       "country_name": "Sudan"
     },
     {
-      "source": "BBC World",
-      "title": "Carney says US trade war 'will come at a cost' as Canada strikes back on tariffs",
+      "source": "BBC US & Canada",
+      "title": "Trump hits Canada with import ban on alcohol and other goods",
       "url": "https://www.bbc.co.uk/news/articles/c8jdev0422jo?at_medium=RSS&at_campaign=rss",
-      "summary": "Canada's levies - as high as 50% - will apply to nearly $20bn of US products, from steel to T-shirts.",
+      "summary": "Trump targets booze, motor vehicles, and cheese, while Canada aims tariffs at nearly $20bn of US products, from steel to T-shirts.",
       "published_at": "2026-09-08T14:46:16Z",
       "country_code": "US",
       "country_name": "United States"
@@ -236,7 +245,7 @@
       "country_name": "Indonesia"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "Trial over killing of Australian surfer brothers and US friend starts in Mexico",
       "url": "https://www.bbc.co.uk/news/articles/crernpv433vo?at_medium=RSS&at_campaign=rss",
       "summary": "The bodies of Jake and Callum Robinson and their US friend Carter Rhoad were found at the bottom of a well with gunshot wounds.",
@@ -326,7 +335,7 @@
       "country_name": "Nigeria"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "How significant are AfD's historic gains for Germany and the rest of Europe?",
       "url": "https://www.bbc.co.uk/news/articles/c986w38r4j5o?at_medium=RSS&at_campaign=rss",
       "summary": "The BBC's Europe editor Katya Adler sees the far-right win in Saxony-Anhalt state ringing alarm bells for the EU and traditional parties.",
@@ -1019,6 +1028,11 @@
       "news_count": 4
     },
     {
+      "country_code": "IN",
+      "country_name": "India",
+      "news_count": 4
+    },
+    {
       "country_code": "KE",
       "country_name": "Kenya",
       "news_count": 4
@@ -1046,11 +1060,6 @@
     {
       "country_code": "ID",
       "country_name": "Indonesia",
-      "news_count": 3
-    },
-    {
-      "country_code": "IN",
-      "country_name": "India",
       "news_count": 3
     },
     {
