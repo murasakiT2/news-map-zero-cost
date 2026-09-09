@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-09-09T21:01:51Z",
+  "generated_at": "2026-09-09T23:22:37Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Land in limbo: BBC visits West Bank village in area earmarked by Israel for settlement",
+      "url": "https://www.bbc.co.uk/news/videos/cy5zpze3qe3o?at_medium=RSS&at_campaign=rss",
+      "summary": "BBC's Middle East Correspondent Lucy Williamson visits the Palestinian community of Khan al Ahmar in the so-called E1 area, and the neighbou…",
+      "published_at": "2026-09-09T22:17:22Z",
+      "country_code": "IL",
+      "country_name": "Israel"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "Muted US response to UK's West Bank sanctions may reflect simmering frustration",
+      "url": "https://www.bbc.co.uk/news/articles/cevw2lxnwk9o?at_medium=RSS&at_campaign=rss",
+      "summary": "The UK accuses Israel's government of turning a blind eye to the \"ethnic cleansing\" of Palestinians by settlers.",
+      "published_at": "2026-09-09T21:21:13Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "Two die at Moldovan border as Russia-Ukraine drone war rages",
@@ -335,24 +353,6 @@
       "country_name": "Turkey"
     },
     {
-      "source": "BBC World",
-      "title": "Pupils return to West Bank school behind barbed wire to protect against settlers",
-      "url": "https://www.bbc.co.uk/news/videos/c62jdyld8myo?at_medium=RSS&at_campaign=rss",
-      "summary": "Six people, including three pupils at the Palestinian school, have been killed in al-Mughayyir this year, in a surge of Israeli settler-rela…",
-      "published_at": "2026-09-08T06:58:02Z",
-      "country_code": "PS",
-      "country_name": "Palestine"
-    },
-    {
-      "source": "BBC World",
-      "title": "'Good to have choice': Australians on opting out of social media algorithms",
-      "url": "https://www.bbc.co.uk/news/videos/clyl2dnjgkro?at_medium=RSS&at_campaign=rss",
-      "summary": "The BBC spoke to people in Sydney about Australia's plans to force social media companies to allow users to easily opt in or out of personal…",
-      "published_at": "2026-09-08T06:20:10Z",
-      "country_code": "AU",
-      "country_name": "Australia"
-    },
-    {
       "source": "BBC Asia",
       "title": "North Korea and Russia open first road bridge linking both countries",
       "url": "https://www.bbc.co.uk/news/articles/cj9xvg1kz0mo?at_medium=RSS&at_campaign=rss",
@@ -551,15 +551,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC US & Canada",
-      "title": "Flock says its cameras make US safer - so why are they being sabotaged?",
-      "url": "https://www.bbc.co.uk/news/articles/cew9kz1kxpvo?at_medium=RSS&at_campaign=rss",
-      "summary": "The AI-powered cameras have been vandalised across the US, as citizens object to the growing surveillance network.",
-      "published_at": "2026-09-05T01:16:27Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC Latin America",
       "title": "Argentine couple to return Nazi-looted painting to rightful owner",
       "url": "https://www.bbc.co.uk/news/articles/cy0zxjp50j6o?at_medium=RSS&at_campaign=rss",
@@ -693,15 +684,6 @@
       "published_at": "2026-09-02T09:49:35Z",
       "country_code": "NG",
       "country_name": "Nigeria"
-    },
-    {
-      "source": "BBC Africa",
-      "title": "PSG reject Man City offers for midfielder Echegini",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cpwldyj8yp0o?at_medium=RSS&at_campaign=rss",
-      "summary": "Paris St-Germain reject several Manchester City offers for their Nigerian midfielder Jennifer Echegini.",
-      "published_at": "2026-09-02T08:29:54Z",
-      "country_code": "FR",
-      "country_name": "France"
     },
     {
       "source": "BBC Middle East",
@@ -902,7 +884,7 @@
     {
       "country_code": "PS",
       "country_name": "Palestine",
-      "news_count": 9
+      "news_count": 8
     },
     {
       "country_code": "GB",
@@ -912,6 +894,11 @@
     {
       "country_code": "DE",
       "country_name": "Germany",
+      "news_count": 4
+    },
+    {
+      "country_code": "IL",
+      "country_name": "Israel",
       "news_count": 4
     },
     {
@@ -927,16 +914,6 @@
     {
       "country_code": "AR",
       "country_name": "Argentina",
-      "news_count": 3
-    },
-    {
-      "country_code": "FR",
-      "country_name": "France",
-      "news_count": 3
-    },
-    {
-      "country_code": "IL",
-      "country_name": "Israel",
       "news_count": 3
     },
     {
@@ -960,6 +937,11 @@
       "news_count": 2
     },
     {
+      "country_code": "FR",
+      "country_name": "France",
+      "news_count": 2
+    },
+    {
       "country_code": "ID",
       "country_name": "Indonesia",
       "news_count": 2
@@ -973,11 +955,6 @@
       "country_code": "NO",
       "country_name": "Norway",
       "news_count": 2
-    },
-    {
-      "country_code": "AU",
-      "country_name": "Australia",
-      "news_count": 1
     },
     {
       "country_code": "EG",
