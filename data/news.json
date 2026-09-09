@@ -1,14 +1,41 @@
 {
-  "generated_at": "2026-09-09T00:50:18Z",
+  "generated_at": "2026-09-09T05:30:55Z",
   "articles": [
     {
       "source": "BBC World",
-      "title": "US slaps import ban on Canadian alcohol and other goods",
-      "url": "https://www.bbc.co.uk/news/articles/c99dm1000p7o?at_medium=RSS&at_campaign=rss",
-      "summary": "It is the latest escalation in a trade war between the two countries, and comes as Canadian retaliatory tariffs on US goods come into force.",
-      "published_at": "2026-09-09T00:31:31Z",
+      "title": "Hong Kong's first leader after British handover dies",
+      "url": "https://www.bbc.co.uk/news/articles/cn457lq938jo?at_medium=RSS&at_campaign=rss",
+      "summary": "The tenure of Tung Chee-hwa, Hong Kong's first leader after Britain handed over the city to China, was marked by crises and protests.",
+      "published_at": "2026-09-09T04:24:30Z",
+      "country_code": "GB",
+      "country_name": "United Kingdom"
+    },
+    {
+      "source": "BBC Asia",
+      "title": "Singaporean man pleads guilty in US to massive crypto heist",
+      "url": "https://www.bbc.co.uk/news/articles/crl6z03pr0do?at_medium=RSS&at_campaign=rss",
+      "summary": "Malone Lam and his associates used the proceeds of their crimes to fund a luxurious lifestyle, US authorities said.",
+      "published_at": "2026-09-09T03:40:48Z",
       "country_code": "US",
       "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "US slaps import ban on Canadian alcohol, motorbikes and other goods",
+      "url": "https://www.bbc.co.uk/news/articles/c99dm1000p7o?at_medium=RSS&at_campaign=rss",
+      "summary": "It is the latest strike in a long trade war, and comes as Canadian counter-tariffs on US goods come into force.",
+      "published_at": "2026-09-09T03:03:32Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "UK announces sanctions on West Bank settlements prompting furious Israeli response",
+      "url": "https://www.bbc.co.uk/news/articles/c4g7zen0vveo?at_medium=RSS&at_campaign=rss",
+      "summary": "Britain's foreign secretary accuses settlers of carrying out the \"ethnic cleansing\" of Palestinians, as Israel responds by shutting the UK c…",
+      "published_at": "2026-09-09T01:45:15Z",
+      "country_code": "GB",
+      "country_name": "United Kingdom"
     },
     {
       "source": "BBC World",
@@ -36,15 +63,6 @@
       "published_at": "2026-09-08T21:46:31Z",
       "country_code": "IL",
       "country_name": "Israel"
-    },
-    {
-      "source": "BBC World",
-      "title": "UK announces sanctions on West Bank settlements prompting furious Israeli response",
-      "url": "https://www.bbc.co.uk/news/articles/c4g7zen0vveo?at_medium=RSS&at_campaign=rss",
-      "summary": "Britain's foreign secretary accuses settlers of carrying out the \"ethnic cleansing\" of Palestinians, as Israel responds by shutting the UK c…",
-      "published_at": "2026-09-08T19:11:39Z",
-      "country_code": "GB",
-      "country_name": "United Kingdom"
     },
     {
       "source": "BBC World",
@@ -650,15 +668,6 @@
       "country_name": "Germany"
     },
     {
-      "source": "BBC Asia",
-      "title": "Why Nepal floods should worry India",
-      "url": "https://www.bbc.co.uk/news/articles/cn8e940gz10o?at_medium=RSS&at_campaign=rss",
-      "summary": "The disaster comes as a warning as climate change raises shared Himalayan risks.",
-      "published_at": "2026-09-03T00:58:44Z",
-      "country_code": "IN",
-      "country_name": "India"
-    },
-    {
       "source": "BBC Latin America",
       "title": "Who is Alejandro Betancourt, colourful oil baron behind US-Venezuela oil deal?",
       "url": "https://www.bbc.co.uk/news/articles/cyvze0n4vy1o?at_medium=RSS&at_campaign=rss",
@@ -1005,7 +1014,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 32
+      "news_count": 33
     },
     {
       "country_code": "PS",
@@ -1015,7 +1024,7 @@
     {
       "country_code": "GB",
       "country_name": "United Kingdom",
-      "news_count": 8
+      "news_count": 9
     },
     {
       "country_code": "DE",
@@ -1025,11 +1034,6 @@
     {
       "country_code": "IL",
       "country_name": "Israel",
-      "news_count": 4
-    },
-    {
-      "country_code": "IN",
-      "country_name": "India",
       "news_count": 4
     },
     {
@@ -1060,6 +1064,11 @@
     {
       "country_code": "ID",
       "country_name": "Indonesia",
+      "news_count": 3
+    },
+    {
+      "country_code": "IN",
+      "country_name": "India",
       "news_count": 3
     },
     {
