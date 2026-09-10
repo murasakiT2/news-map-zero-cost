@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T18:35:29Z",
+  "generated_at": "2026-09-10T21:17:42Z",
   "articles": [
     {
       "source": "BBC World",
@@ -92,15 +92,6 @@
       "country_name": "Iran"
     },
     {
-      "source": "BBC US & Canada",
-      "title": "Champions Seahawks beat Patriots in NFL season opener",
-      "url": "https://www.bbc.co.uk/sport/american-football/articles/ceq82n0j4jzo?at_medium=RSS&at_campaign=rss",
-      "summary": "Defending champions the Seattle Seahawks come from behind to beat the New England Patriots 13-10 in the opening game of the NFL season.",
-      "published_at": "2026-09-10T08:22:31Z",
-      "country_code": "GB",
-      "country_name": "United Kingdom"
-    },
-    {
       "source": "BBC Asia",
       "title": "The rock guitarist whose killing shocked India's north-east",
       "url": "https://www.bbc.co.uk/news/articles/ced7517j0pvo?at_medium=RSS&at_campaign=rss",
@@ -119,7 +110,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "Five dead and 86 missing as 'heartbreaking' fire breaks out on Philippines ferry",
       "url": "https://www.bbc.co.uk/news/articles/cy4zd4dn9n9o?at_medium=RSS&at_campaign=rss",
       "summary": "The fire broke out as the vessel nearing its destination at the tourist hotspot of Coron in Palawan.",
@@ -176,7 +167,7 @@
       "source": "BBC US & Canada",
       "title": "A Canadian town's famous warm welcome doesn't extend to US ambassador on 9/11 anniversary",
       "url": "https://www.bbc.co.uk/news/articles/cm27vpe7z7lo?at_medium=RSS&at_campaign=rss",
-      "summary": "Gander, Newfoundland, hosted stranded flyers on 9/11. Now some don't want Trump's envoy at their commemoration.",
+      "summary": "Gander hosted stranded flyers on 9/11. Now some don't want Trump's envoy at their commemoration.",
       "published_at": "2026-09-10T01:39:15Z",
       "country_code": "US",
       "country_name": "United States"
@@ -227,7 +218,7 @@
       "country_name": "United Kingdom"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "Muted US response to UK's West Bank sanctions may reflect simmering frustration",
       "url": "https://www.bbc.co.uk/news/articles/cevw2lxnwk9o?at_medium=RSS&at_campaign=rss",
       "summary": "The UK accuses Israel's government of turning a blind eye to the \"ethnic cleansing\" of Palestinians by settlers.",
@@ -297,15 +288,6 @@
       "published_at": "2026-09-09T16:30:28Z",
       "country_code": "NO",
       "country_name": "Norway"
-    },
-    {
-      "source": "BBC Europe",
-      "title": "Passenger killed after train hits truck at Poland level crossing",
-      "url": "https://www.bbc.co.uk/news/articles/cp30el2dkdlo?at_medium=RSS&at_campaign=rss",
-      "summary": "It is the second such incident in Poland in days and the prime minister says tough new regulations are needed.",
-      "published_at": "2026-09-09T16:13:11Z",
-      "country_code": "PL",
-      "country_name": "Poland"
     },
     {
       "source": "BBC Europe",
@@ -396,15 +378,6 @@
       "published_at": "2026-09-08T18:02:42Z",
       "country_code": "SE",
       "country_name": "Sweden"
-    },
-    {
-      "source": "BBC Europe",
-      "title": "Sabotage suspect held in Germany after spate of attacks on power grid",
-      "url": "https://www.bbc.co.uk/news/articles/cy5zw56lnx3o?at_medium=RSS&at_campaign=rss",
-      "summary": "The suspect had reportedly claimed responsibility for attacks on electricity substations in letters.",
-      "published_at": "2026-09-08T15:57:06Z",
-      "country_code": "DE",
-      "country_name": "Germany"
     },
     {
       "source": "BBC Middle East",
@@ -887,11 +860,6 @@
       "news_count": 8
     },
     {
-      "country_code": "GB",
-      "country_name": "United Kingdom",
-      "news_count": 5
-    },
-    {
       "country_code": "IL",
       "country_name": "Israel",
       "news_count": 5
@@ -902,13 +870,18 @@
       "news_count": 5
     },
     {
-      "country_code": "DE",
-      "country_name": "Germany",
+      "country_code": "GB",
+      "country_name": "United Kingdom",
       "news_count": 4
     },
     {
       "country_code": "AR",
       "country_name": "Argentina",
+      "news_count": 3
+    },
+    {
+      "country_code": "DE",
+      "country_name": "Germany",
       "news_count": 3
     },
     {
@@ -1004,11 +977,6 @@
     {
       "country_code": "PE",
       "country_name": "Peru",
-      "news_count": 1
-    },
-    {
-      "country_code": "PL",
-      "country_name": "Poland",
       "news_count": 1
     },
     {
