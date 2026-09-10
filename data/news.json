@@ -1,6 +1,60 @@
 {
-  "generated_at": "2026-09-10T01:12:46Z",
+  "generated_at": "2026-09-10T06:09:43Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Iran war won't end until after crucial November elections, says Trump",
+      "url": "https://www.bbc.co.uk/news/articles/c5ydld0gykpo?at_medium=RSS&at_campaign=rss",
+      "summary": "The president also said oil prices won't come down until after the November races, claiming without evidence that Iran wants to impact the e…",
+      "published_at": "2026-09-10T05:56:38Z",
+      "country_code": "IR",
+      "country_name": "Iran"
+    },
+    {
+      "source": "BBC World",
+      "title": "Russia outpacing Ukraine's air defences with daily use of new jet-powered drones",
+      "url": "https://www.bbc.co.uk/news/articles/c804d9lyj2jo?at_medium=RSS&at_campaign=rss",
+      "summary": "The new models can travel at speeds of up to 300mph, faster than Ukraine's air defence interceptors.",
+      "published_at": "2026-09-10T04:43:54Z",
+      "country_code": "RU",
+      "country_name": "Russia"
+    },
+    {
+      "source": "BBC World",
+      "title": "Five dead and 86 missing as 'heartbreaking' fire breaks out on Philippines ferry",
+      "url": "https://www.bbc.co.uk/news/articles/cy4zd4dn9n9o?at_medium=RSS&at_campaign=rss",
+      "summary": "The fire broke out as the vessel nearing its destination at the tourist hotspot of Coron in Palawan.",
+      "published_at": "2026-09-10T04:08:07Z",
+      "country_code": "PH",
+      "country_name": "Philippines"
+    },
+    {
+      "source": "BBC Asia",
+      "title": "Watch: Crews race to rescue passengers from burning ferry in Philippines",
+      "url": "https://www.bbc.co.uk/news/videos/cdx501qyvxno?at_medium=RSS&at_campaign=rss",
+      "summary": "Emergency teams were still searching for at least 86 missing people in the waters off the coast of Coron, in the Philippines.",
+      "published_at": "2026-09-10T01:11:30Z",
+      "country_code": "PH",
+      "country_name": "Philippines"
+    },
+    {
+      "source": "BBC Asia",
+      "title": "Inside Thailand's school shooter drills following recent attacks",
+      "url": "https://www.bbc.co.uk/news/videos/c07lpp4e993o?at_medium=RSS&at_campaign=rss",
+      "summary": "Police say they hope the drill will help prepare students, as concern grows over the increase in school shootings in South East Asia.",
+      "published_at": "2026-09-09T22:32:07Z",
+      "country_code": "TH",
+      "country_name": "Thailand"
+    },
+    {
+      "source": "BBC Asia",
+      "title": "American football is coming to Australia - can it succeed?",
+      "url": "https://www.bbc.co.uk/news/articles/crerv93pv9yo?at_medium=RSS&at_campaign=rss",
+      "summary": "The LA Rams will face the San Francisco 49ers in the first regular season American football game to be played Down Under.",
+      "published_at": "2026-09-09T22:29:13Z",
+      "country_code": "AU",
+      "country_name": "Australia"
+    },
     {
       "source": "BBC World",
       "title": "Land in limbo: BBC visits West Bank village in area earmarked by Israel for settlement",
@@ -29,7 +83,7 @@
       "country_name": "Russia"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Middle East",
       "title": "Iran referred to UN Security Council for nuclear non-compliance",
       "url": "https://www.bbc.co.uk/news/articles/ckgwj4kl5lno?at_medium=RSS&at_campaign=rss",
       "summary": "Tehran condemns the resolution, blaming US and Israeli strikes on its nuclear facilities for disrupting inspections.",
@@ -65,7 +119,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "Watch: Norway bids farewell to King Harald",
       "url": "https://www.bbc.co.uk/news/videos/clyjd6jz101o?at_medium=RSS&at_campaign=rss",
       "summary": "Tens of thousands of people lined the streets to pay their respects after 13 days of national mourning.",
@@ -227,15 +281,6 @@
       "country_name": "Ukraine"
     },
     {
-      "source": "BBC World",
-      "title": "Where is Israel's proposed West Bank settlement the UK opposes?",
-      "url": "https://www.bbc.co.uk/news/videos/c74k1lw9nwko?at_medium=RSS&at_campaign=rss",
-      "summary": "BBC's Middle East correspondent Lucy Williamson reports from an area close to Israel's proposed site in the occupied West Bank.",
-      "published_at": "2026-09-08T16:45:32Z",
-      "country_code": "GB",
-      "country_name": "United Kingdom"
-    },
-    {
       "source": "BBC Europe",
       "title": "Sabotage suspect held in Germany after spate of attacks on power grid",
       "url": "https://www.bbc.co.uk/news/articles/cy5zw56lnx3o?at_medium=RSS&at_campaign=rss",
@@ -326,24 +371,6 @@
       "country_name": "Kenya"
     },
     {
-      "source": "BBC Asia",
-      "title": "Highest paid world leader to get salary increase of $1 million",
-      "url": "https://www.bbc.co.uk/news/articles/c5y5kn143d1o?at_medium=RSS&at_campaign=rss",
-      "summary": "Singapore's prime minister Lawrence Wong will see his annual pay rise to 3.6 million Singapore dollars ($2.8m; £2.1m).",
-      "published_at": "2026-09-08T09:20:05Z",
-      "country_code": "SG",
-      "country_name": "Singapore"
-    },
-    {
-      "source": "BBC World",
-      "title": "AI will cure cancer in our lifetime, claims boss of UK chip giant",
-      "url": "https://www.bbc.co.uk/news/articles/c0m39g7xzevo?at_medium=RSS&at_campaign=rss",
-      "summary": "Arm Holding's chief executive Rene Haas says artificial intelligence will find a solution to the disease.",
-      "published_at": "2026-09-08T09:17:48Z",
-      "country_code": "GB",
-      "country_name": "United Kingdom"
-    },
-    {
       "source": "BBC Europe",
       "title": "'Tirana teeth': Albania hopes to be the new Turkey for dental work",
       "url": "https://www.bbc.co.uk/news/articles/cq63m88ymqro?at_medium=RSS&at_campaign=rss",
@@ -360,15 +387,6 @@
       "published_at": "2026-09-08T03:53:27Z",
       "country_code": "KP",
       "country_name": "North Korea"
-    },
-    {
-      "source": "BBC Asia",
-      "title": "Indonesia airports reopen after volcano eruption leaves 340,000 stranded",
-      "url": "https://www.bbc.co.uk/news/articles/czezydp4l97o?at_medium=RSS&at_campaign=rss",
-      "summary": "Anak Krakatau, which lies about 150km from Jakarta, began spewing lava and volvanic ash late on Friday.",
-      "published_at": "2026-09-08T03:44:43Z",
-      "country_code": "ID",
-      "country_name": "Indonesia"
     },
     {
       "source": "BBC Asia",
@@ -887,13 +905,18 @@
       "news_count": 8
     },
     {
-      "country_code": "GB",
-      "country_name": "United Kingdom",
-      "news_count": 6
+      "country_code": "RU",
+      "country_name": "Russia",
+      "news_count": 5
     },
     {
       "country_code": "DE",
       "country_name": "Germany",
+      "news_count": 4
+    },
+    {
+      "country_code": "GB",
+      "country_name": "United Kingdom",
       "news_count": 4
     },
     {
@@ -904,11 +927,6 @@
     {
       "country_code": "KE",
       "country_name": "Kenya",
-      "news_count": 4
-    },
-    {
-      "country_code": "RU",
-      "country_name": "Russia",
       "news_count": 4
     },
     {
@@ -942,8 +960,8 @@
       "news_count": 2
     },
     {
-      "country_code": "ID",
-      "country_name": "Indonesia",
+      "country_code": "IR",
+      "country_name": "Iran",
       "news_count": 2
     },
     {
@@ -957,6 +975,21 @@
       "news_count": 2
     },
     {
+      "country_code": "PH",
+      "country_name": "Philippines",
+      "news_count": 2
+    },
+    {
+      "country_code": "TH",
+      "country_name": "Thailand",
+      "news_count": 2
+    },
+    {
+      "country_code": "AU",
+      "country_name": "Australia",
+      "news_count": 1
+    },
+    {
       "country_code": "EG",
       "country_name": "Egypt",
       "news_count": 1
@@ -967,8 +1000,8 @@
       "news_count": 1
     },
     {
-      "country_code": "IR",
-      "country_name": "Iran",
+      "country_code": "ID",
+      "country_name": "Indonesia",
       "news_count": 1
     },
     {
@@ -1014,16 +1047,6 @@
     {
       "country_code": "SE",
       "country_name": "Sweden",
-      "news_count": 1
-    },
-    {
-      "country_code": "SG",
-      "country_name": "Singapore",
-      "news_count": 1
-    },
-    {
-      "country_code": "TH",
-      "country_name": "Thailand",
       "news_count": 1
     },
     {
