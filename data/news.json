@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-09-11T21:25:43Z",
+  "generated_at": "2026-09-11T23:23:56Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Houthis claim major advance in Yemen and tighten grip on Red Sea shipping lane",
+      "url": "https://www.bbc.co.uk/news/articles/c23x72yx2rvo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Iran-backed Houthis are also reported to have seized Perim - a strategic island on the major shipping route.",
+      "published_at": "2026-09-11T22:17:45Z",
+      "country_code": "IR",
+      "country_name": "Iran"
+    },
+    {
+      "source": "BBC World",
+      "title": "Passenger train derails in France leaving at least 44 injured",
+      "url": "https://www.bbc.co.uk/news/articles/c8d37dm8d8mo?at_medium=RSS&at_campaign=rss",
+      "summary": "France's transport minister says 180 passengers were on board the train operating the Rouen-Caen route in Normandy.",
+      "published_at": "2026-09-11T21:25:32Z",
+      "country_code": "FR",
+      "country_name": "France"
+    },
     {
       "source": "BBC World",
       "title": "Six Nigerians accused of romance scams to be extradited to the US",
@@ -11,6 +29,15 @@
       "country_name": "United States"
     },
     {
+      "source": "BBC World",
+      "title": "Tragic death of woman who testified against father in notorious mafia murder of mother",
+      "url": "https://www.bbc.co.uk/news/articles/c39mr81j2j1o?at_medium=RSS&at_campaign=rss",
+      "summary": "Denise Cosco testified against the powerful 'Ndrangheta clan and her own father over the murder of her mother in Italy.",
+      "published_at": "2026-09-11T20:34:29Z",
+      "country_code": "IT",
+      "country_name": "Italy"
+    },
+    {
       "source": "BBC US & Canada",
       "title": "'Never, ever forget' - America marks 25th anniversary of 9/11 attacks",
       "url": "https://www.bbc.co.uk/news/articles/clyjqvjzlwno?at_medium=RSS&at_campaign=rss",
@@ -18,15 +45,6 @@
       "published_at": "2026-09-11T20:12:01Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "Houthis claim major advance in Yemen and tighten grip on Red Sea shipping lane",
-      "url": "https://www.bbc.co.uk/news/articles/c23x72yx2rvo?at_medium=RSS&at_campaign=rss",
-      "summary": "The Iran-backed Houthis are also reported to have seized Perim - a strategic island on the major shipping route.",
-      "published_at": "2026-09-11T20:11:47Z",
-      "country_code": "IR",
-      "country_name": "Iran"
     },
     {
       "source": "BBC World",
@@ -101,7 +119,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "Man loses case to claw back $369,000 he spent on lavish gifts for ex-girlfriend",
       "url": "https://www.bbc.co.uk/news/articles/clyqxgzynk7o?at_medium=RSS&at_campaign=rss",
       "summary": "Singapore's High Court rules in the woman's favour, with the judge saying the man \"willingly\" showered her with gifts, even before they got …",
@@ -171,15 +189,6 @@
       "published_at": "2026-09-10T22:36:02Z",
       "country_code": "UA",
       "country_name": "Ukraine"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "Pre-9/11 security rules returning to US airports",
-      "url": "https://www.bbc.co.uk/news/articles/clyk63yg2dxo?at_medium=RSS&at_campaign=rss",
-      "summary": "Americans will soon be able to see their loved ones off at airport gates as part of the changes.",
-      "published_at": "2026-09-10T19:55:51Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC World",
@@ -888,7 +897,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 31
+      "news_count": 30
     },
     {
       "country_code": "PS",
@@ -961,6 +970,11 @@
       "news_count": 2
     },
     {
+      "country_code": "FR",
+      "country_name": "France",
+      "news_count": 2
+    },
+    {
       "country_code": "MX",
       "country_name": "Mexico",
       "news_count": 2
@@ -986,13 +1000,13 @@
       "news_count": 1
     },
     {
-      "country_code": "FR",
-      "country_name": "France",
+      "country_code": "ID",
+      "country_name": "Indonesia",
       "news_count": 1
     },
     {
-      "country_code": "ID",
-      "country_name": "Indonesia",
+      "country_code": "IT",
+      "country_name": "Italy",
       "news_count": 1
     },
     {
