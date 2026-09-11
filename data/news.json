@@ -1,14 +1,50 @@
 {
-  "generated_at": "2026-09-11T18:42:05Z",
+  "generated_at": "2026-09-11T21:25:43Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Six Nigerians accused of romance scams to be extradited to the US",
+      "url": "https://www.bbc.co.uk/news/articles/cj3dy704l71o?at_medium=RSS&at_campaign=rss",
+      "summary": "The six will face wire fraud and money-laundry charges in the US, South African police say.",
+      "published_at": "2026-09-11T21:07:19Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "'Never, ever forget' - America marks 25th anniversary of 9/11 attacks",
+      "url": "https://www.bbc.co.uk/news/articles/clyjqvjzlwno?at_medium=RSS&at_campaign=rss",
+      "summary": "In New York, the Pentagon and Pennsylvania, solemn ceremonies commemorate the landmark anniversary.",
+      "published_at": "2026-09-11T20:12:01Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "Houthis claim major advance in Yemen and tighten grip on Red Sea shipping lane",
       "url": "https://www.bbc.co.uk/news/articles/c23x72yx2rvo?at_medium=RSS&at_campaign=rss",
       "summary": "The Iran-backed Houthis are also reported to have seized Perim - a strategic island on the major shipping route.",
-      "published_at": "2026-09-11T16:58:34Z",
+      "published_at": "2026-09-11T20:11:47Z",
       "country_code": "IR",
       "country_name": "Iran"
+    },
+    {
+      "source": "BBC World",
+      "title": "Lightning Houthi advance in Yemen may bring dangerous new dimension to Iran war",
+      "url": "https://www.bbc.co.uk/news/articles/c3v4zgzr1kxo?at_medium=RSS&at_campaign=rss",
+      "summary": "The capture by the rebels of a stretch Yemen's strategic coastline is the group's most impressive military coup for several years.",
+      "published_at": "2026-09-11T19:44:58Z",
+      "country_code": "IR",
+      "country_name": "Iran"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "Surrogate who refused abortion over heart defect takes custody battle to US Supreme Court",
+      "url": "https://www.bbc.co.uk/news/articles/cgjq1q3nd52o?at_medium=RSS&at_campaign=rss",
+      "summary": "She fled to Texas where abortions are illegal and now wants custody of the four-week-old baby.",
+      "published_at": "2026-09-11T17:55:06Z",
+      "country_code": "US",
+      "country_name": "United States"
     },
     {
       "source": "BBC World",
@@ -52,15 +88,6 @@
       "url": "https://www.bbc.co.uk/news/articles/cly41rdkrleo?at_medium=RSS&at_campaign=rss",
       "summary": "Prices in the US rose 3.4% in the 12 months to August, according to the latest official report on inflation.",
       "published_at": "2026-09-11T14:22:42Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "Six Nigerians accused of romance scams to be extradited to the US",
-      "url": "https://www.bbc.co.uk/news/articles/cj3dy704l71o?at_medium=RSS&at_campaign=rss",
-      "summary": "The six will face wire fraud and money-laundry charges in the US, South African police say.",
-      "published_at": "2026-09-11T09:54:51Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -855,27 +882,18 @@
       "published_at": "2026-07-30T05:05:24Z",
       "country_code": "IL",
       "country_name": "Israel"
-    },
-    {
-      "source": "BBC Middle East",
-      "title": "'Israeli settlers laid siege to our home': Inside a Palestinian village under weekly attack",
-      "url": "https://www.bbc.co.uk/news/articles/clyxgn37lg5o?at_medium=RSS&at_campaign=rss",
-      "summary": "A home on the edge of al-Mughayyir has become a weekly frontline in the battle for the occupied West Bank.",
-      "published_at": "2026-07-29T05:01:12Z",
-      "country_code": "PS",
-      "country_name": "Palestine"
     }
   ],
   "regions": [
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 29
+      "news_count": 31
     },
     {
       "country_code": "PS",
       "country_name": "Palestine",
-      "news_count": 7
+      "news_count": 6
     },
     {
       "country_code": "RU",
@@ -890,7 +908,7 @@
     {
       "country_code": "IR",
       "country_name": "Iran",
-      "news_count": 4
+      "news_count": 5
     },
     {
       "country_code": "AR",
