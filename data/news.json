@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-09-12T13:39:40Z",
+  "generated_at": "2026-09-12T16:36:20Z",
   "articles": [
     {
       "source": "BBC World",
-      "title": "Passenger train derails in France leaving at least 44 injured",
-      "url": "https://www.bbc.co.uk/news/articles/c8d37dm8d8mo?at_medium=RSS&at_campaign=rss",
-      "summary": "Local officials say186 passengers were on board the train operating the Rouen-Caen route in Normandy.",
-      "published_at": "2026-09-12T13:02:55Z",
-      "country_code": "FR",
-      "country_name": "France"
+      "title": "Death toll from Philippines ferry fire rises to 76, with more still missing",
+      "url": "https://www.bbc.co.uk/news/articles/cwyz755yeg9o?at_medium=RSS&at_campaign=rss",
+      "summary": "Access to the burnt-out boat has been slowed by toxic fumes and lingering heat, the country's coast guard says.",
+      "published_at": "2026-09-12T15:09:55Z",
+      "country_code": "PH",
+      "country_name": "Philippines"
     },
     {
       "source": "BBC World",
@@ -75,15 +75,6 @@
     },
     {
       "source": "BBC World",
-      "title": "Death toll from Philippines ferry fire climbs to 35, with dozens still missing",
-      "url": "https://www.bbc.co.uk/news/articles/cwyz755yeg9o?at_medium=RSS&at_campaign=rss",
-      "summary": "Access to the burnt-out boat has been slowed by toxic fumes and lingering heat, the country's coast guard says.",
-      "published_at": "2026-09-12T03:02:28Z",
-      "country_code": "PH",
-      "country_name": "Philippines"
-    },
-    {
-      "source": "BBC World",
       "title": "Firefighters say this antioxidant helped them - their union warns it could be risky",
       "url": "https://www.bbc.co.uk/news/articles/crk3n5z60pvo?at_medium=RSS&at_campaign=rss",
       "summary": "Glutathione, an antioxidant, has been offered as a treatment at some of the largest US wildfires in recent years.",
@@ -144,15 +135,6 @@
       "published_at": "2026-09-11T19:44:58Z",
       "country_code": "IR",
       "country_name": "Iran"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "Surrogate who refused abortion over heart defect takes custody battle to US Supreme Court",
-      "url": "https://www.bbc.co.uk/news/articles/cgjq1q3nd52o?at_medium=RSS&at_campaign=rss",
-      "summary": "She fled to Texas where abortions are illegal and now wants custody of the four-week-old baby.",
-      "published_at": "2026-09-11T17:55:06Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC Europe",
@@ -888,7 +870,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 32
+      "news_count": 31
     },
     {
       "country_code": "PS",
@@ -916,11 +898,6 @@
       "news_count": 3
     },
     {
-      "country_code": "FR",
-      "country_name": "France",
-      "news_count": 3
-    },
-    {
       "country_code": "IN",
       "country_name": "India",
       "news_count": 3
@@ -943,6 +920,11 @@
     {
       "country_code": "ES",
       "country_name": "Spain",
+      "news_count": 2
+    },
+    {
+      "country_code": "FR",
+      "country_name": "France",
       "news_count": 2
     },
     {
