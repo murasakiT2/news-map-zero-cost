@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-09-12T01:17:04Z",
+  "generated_at": "2026-09-12T05:59:33Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq",
+      "url": "https://www.bbc.co.uk/news/articles/c62m933465eo?at_medium=RSS&at_campaign=rss",
+      "summary": "Iraq removes a military commander and opens investigations into the attack that came from an area bordering Iran.",
+      "published_at": "2026-09-12T04:43:10Z",
+      "country_code": "SA",
+      "country_name": "Saudi Arabia"
+    },
+    {
+      "source": "BBC World",
+      "title": "Death toll from Philippines ferry fire climbs to 35, with dozens still missing",
+      "url": "https://www.bbc.co.uk/news/articles/cwyz755yeg9o?at_medium=RSS&at_campaign=rss",
+      "summary": "Access to the burnt-out boat has been slowed by toxic fumes and lingering heat, the country's coast guard says.",
+      "published_at": "2026-09-12T03:02:28Z",
+      "country_code": "PH",
+      "country_name": "Philippines"
+    },
     {
       "source": "BBC US & Canada",
       "title": "'Never, ever forget' - America marks 25th anniversary of 9/11 attacks",
@@ -945,6 +963,11 @@
       "news_count": 3
     },
     {
+      "country_code": "PH",
+      "country_name": "Philippines",
+      "news_count": 3
+    },
+    {
       "country_code": "ZA",
       "country_name": "South Africa",
       "news_count": 3
@@ -985,8 +1008,8 @@
       "news_count": 2
     },
     {
-      "country_code": "PH",
-      "country_name": "Philippines",
+      "country_code": "SA",
+      "country_name": "Saudi Arabia",
       "news_count": 2
     },
     {
@@ -1017,11 +1040,6 @@
     {
       "country_code": "PE",
       "country_name": "Peru",
-      "news_count": 1
-    },
-    {
-      "country_code": "SA",
-      "country_name": "Saudi Arabia",
       "news_count": 1
     },
     {
