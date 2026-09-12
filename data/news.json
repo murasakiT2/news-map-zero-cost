@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-09-12T16:36:20Z",
+  "generated_at": "2026-09-12T18:51:01Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Céline Dion fans prepare for comeback concert in Paris",
+      "url": "https://www.bbc.co.uk/news/videos/cwyz11gk7y7o?at_medium=RSS&at_campaign=rss",
+      "summary": "Fans of the Canadian singer greeted her as she left her hotel on Saturday.",
+      "published_at": "2026-09-12T17:36:20Z",
+      "country_code": "FR",
+      "country_name": "France"
+    },
     {
       "source": "BBC World",
       "title": "Death toll from Philippines ferry fire rises to 76, with more still missing",
@@ -101,7 +110,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Middle East",
       "title": "Houthis claim major advance in Yemen and tighten grip on Red Sea shipping lane",
       "url": "https://www.bbc.co.uk/news/articles/c23x72yx2rvo?at_medium=RSS&at_campaign=rss",
       "summary": "The Iran-backed Houthis are also reported to have seized Perim - a strategic island on the major shipping route.",
@@ -223,15 +232,6 @@
       "url": "https://www.bbc.co.uk/news/articles/c0re72nvy22o?at_medium=RSS&at_campaign=rss",
       "summary": "In recent decades, Ireland has become a particularly frequent fixture for US presidential trips.",
       "published_at": "2026-09-10T23:01:55Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "Bernie Sanders speaks to the BBC about proposal to ban AI superintelligence",
-      "url": "https://www.bbc.co.uk/news/videos/cgjq11576q2o?at_medium=RSS&at_campaign=rss",
-      "summary": "The senator has also proposed a sort of sovereign wealth fund in which the US would take a 50% stake in AI companies.",
-      "published_at": "2026-09-10T22:48:37Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -713,15 +713,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Europe",
-      "title": "Belugas and dolphins rescued from closed Canadian park arrive in Spain",
-      "url": "https://www.bbc.co.uk/news/videos/c5y4mmn78n3o?at_medium=RSS&at_campaign=rss",
-      "summary": "Two beluga whales and four dolphins rescued from a struggling Canadian marine park arrived in Spain as part of an effort to relocate the ani…",
-      "published_at": "2026-08-27T18:46:26Z",
-      "country_code": "ES",
-      "country_name": "Spain"
-    },
-    {
       "source": "BBC Africa",
       "title": "'If you started running, they shot you' - inside Nigeria's growing kidnapping crisis",
       "url": "https://www.bbc.co.uk/news/articles/cx2z0p3nmdro?at_medium=RSS&at_campaign=rss",
@@ -870,7 +861,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 31
+      "news_count": 30
     },
     {
       "country_code": "PS",
@@ -898,6 +889,11 @@
       "news_count": 3
     },
     {
+      "country_code": "FR",
+      "country_name": "France",
+      "news_count": 3
+    },
+    {
       "country_code": "IN",
       "country_name": "India",
       "news_count": 3
@@ -915,16 +911,6 @@
     {
       "country_code": "CO",
       "country_name": "Colombia",
-      "news_count": 2
-    },
-    {
-      "country_code": "ES",
-      "country_name": "Spain",
-      "news_count": 2
-    },
-    {
-      "country_code": "FR",
-      "country_name": "France",
       "news_count": 2
     },
     {
@@ -980,6 +966,11 @@
     {
       "country_code": "DE",
       "country_name": "Germany",
+      "news_count": 1
+    },
+    {
+      "country_code": "ES",
+      "country_name": "Spain",
       "news_count": 1
     },
     {
