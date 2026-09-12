@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-09-12T18:51:01Z",
+  "generated_at": "2026-09-12T21:05:13Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Only Roland Garros towel left, says Ukraine tennis player after Russian strike hits flat",
+      "url": "https://www.bbc.co.uk/news/articles/c4gr33g3evlo?at_medium=RSS&at_campaign=rss",
+      "summary": "Dayana Yastremska says her flat took a \"direct hit\" by a Russian missile in Odesa, and all that left was her Roland Garros towel.",
+      "published_at": "2026-09-12T20:27:25Z",
+      "country_code": "UA",
+      "country_name": "Ukraine"
+    },
+    {
+      "source": "BBC World",
+      "title": "Fire at nursing home in Chile kills 16 residents",
+      "url": "https://www.bbc.co.uk/news/articles/cy4zpp20w77o?at_medium=RSS&at_campaign=rss",
+      "summary": "Ten people were evacuated from the home in Araucanía region in central Chile.",
+      "published_at": "2026-09-12T19:36:50Z",
+      "country_code": "CL",
+      "country_name": "Chile"
+    },
     {
       "source": "BBC World",
       "title": "Céline Dion fans prepare for comeback concert in Paris",
@@ -101,7 +119,7 @@
       "country_name": "Sweden"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "'Never, ever forget' - America marks 25th anniversary of 9/11 attacks",
       "url": "https://www.bbc.co.uk/news/articles/clyjqvjzlwno?at_medium=RSS&at_campaign=rss",
       "summary": "In New York, the Pentagon and Pennsylvania, solemn ceremonies commemorate the landmark anniversary.",
@@ -144,15 +162,6 @@
       "published_at": "2026-09-11T19:44:58Z",
       "country_code": "IR",
       "country_name": "Iran"
-    },
-    {
-      "source": "BBC Europe",
-      "title": "Norway's Princess Astrid dies two days after attending brother King Harald's funeral",
-      "url": "https://www.bbc.co.uk/news/articles/cgjq1qy98vjo?at_medium=RSS&at_campaign=rss",
-      "summary": "Princess Astrid \"represented the Royal House in a warm and dutiful manner\", the new king, Haakon VIII, said in a tribute to his aunt.",
-      "published_at": "2026-09-11T16:00:59Z",
-      "country_code": "NO",
-      "country_name": "Norway"
     },
     {
       "source": "BBC Middle East",
@@ -225,24 +234,6 @@
       "published_at": "2026-09-10T23:22:11Z",
       "country_code": "RU",
       "country_name": "Russia"
-    },
-    {
-      "source": "BBC Europe",
-      "title": "From JFK to Biden, Trump joins well-trodden path to the Emerald Isle",
-      "url": "https://www.bbc.co.uk/news/articles/c0re72nvy22o?at_medium=RSS&at_campaign=rss",
-      "summary": "In recent decades, Ireland has become a particularly frequent fixture for US presidential trips.",
-      "published_at": "2026-09-10T23:01:55Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC Europe",
-      "title": "Five killed and 67 injured in Russian strike on shopping centre, Ukraine says",
-      "url": "https://www.bbc.co.uk/news/articles/cpvelrmp1vmo?at_medium=RSS&at_campaign=rss",
-      "summary": "The attack in Pavlohrad city centre was the third Russian strike on a mall within days, local media report.",
-      "published_at": "2026-09-10T22:36:02Z",
-      "country_code": "UA",
-      "country_name": "Ukraine"
     },
     {
       "source": "BBC US & Canada",
@@ -861,7 +852,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 30
+      "news_count": 29
     },
     {
       "country_code": "PS",
@@ -929,11 +920,6 @@
       "news_count": 2
     },
     {
-      "country_code": "NO",
-      "country_name": "Norway",
-      "news_count": 2
-    },
-    {
       "country_code": "PH",
       "country_name": "Philippines",
       "news_count": 2
@@ -959,6 +945,11 @@
       "news_count": 1
     },
     {
+      "country_code": "CL",
+      "country_name": "Chile",
+      "news_count": 1
+    },
+    {
       "country_code": "CN",
       "country_name": "China",
       "news_count": 1
@@ -981,6 +972,11 @@
     {
       "country_code": "IT",
       "country_name": "Italy",
+      "news_count": 1
+    },
+    {
+      "country_code": "NO",
+      "country_name": "Norway",
       "news_count": 1
     },
     {
