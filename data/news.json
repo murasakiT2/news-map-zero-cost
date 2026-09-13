@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-09-13T19:04:29Z",
+  "generated_at": "2026-09-13T21:30:04Z",
   "articles": [
     {
       "source": "BBC World",
-      "title": "Trump downplays warnings of AI risks, citing rivalry with China",
-      "url": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
-      "summary": "The US President said \"negative forces\" were airing concerns about \"things that won't happen\".",
-      "published_at": "2026-09-13T18:49:37Z",
-      "country_code": "US",
-      "country_name": "United States"
+      "title": "Swedish party blocs tied after Sunday vote, projections say",
+      "url": "https://www.bbc.co.uk/news/articles/c0qx5d79kdeo?at_medium=RSS&at_campaign=rss",
+      "summary": "With 50% of the votes counted, the two main blocs were separated by only 20,000 votes, Sweden public broadvasteer SVT said.",
+      "published_at": "2026-09-13T21:17:15Z",
+      "country_code": "SE",
+      "country_name": "Sweden"
     },
     {
       "source": "BBC World",
-      "title": "Trump doubles down on united Ireland comments on day two of visit",
+      "title": "Trump says he will remove all Irish whiskey tariffs as he ends two-day visit",
       "url": "https://www.bbc.co.uk/news/articles/cx2z79n0eeno?at_medium=RSS&at_campaign=rss",
-      "summary": "The US president was speaking at the Irish Open on Sunday and said \"many people agree\" with his comments.",
-      "published_at": "2026-09-13T18:49:28Z",
+      "summary": "Whiskey distilled in the Republic of Ireland faces the standard 15% tariff which applies to EU goods entering the US.",
+      "published_at": "2026-09-13T19:34:36Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -24,9 +24,18 @@
       "title": "Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station",
       "url": "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss",
       "summary": "The former UK PM said \"I don't know what warped logic drove Putin to blow up a stationary Ukrainian locomotive on the Polish border this mor…",
-      "published_at": "2026-09-13T17:38:29Z",
+      "published_at": "2026-09-13T19:14:21Z",
       "country_code": "GB",
       "country_name": "United Kingdom"
+    },
+    {
+      "source": "BBC World",
+      "title": "Trump downplays warnings of AI risks, citing rivalry with China",
+      "url": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
+      "summary": "The US President said \"negative forces\" were airing concerns about \"things that won't happen\".",
+      "published_at": "2026-09-13T18:49:37Z",
+      "country_code": "US",
+      "country_name": "United States"
     },
     {
       "source": "BBC World",
@@ -110,7 +119,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "Only Roland Garros towel left, says Ukraine tennis player after Russian strike hits flat",
       "url": "https://www.bbc.co.uk/news/articles/c4gr33g3evlo?at_medium=RSS&at_campaign=rss",
       "summary": "Dayana Yastremska says her flat took a \"direct hit\" by a Russian missile in Odesa, and all that left was her Roland Garros towel.",
@@ -189,15 +198,6 @@
       "published_at": "2026-09-12T01:04:49Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC Europe",
-      "title": "Close race in Sweden as hard right eyes role in government",
-      "url": "https://www.bbc.co.uk/news/articles/cwyz8dn5nn3o?at_medium=RSS&at_campaign=rss",
-      "summary": "Prime Minister Ulf Kristersson has promised cabinet jobs for the Sweden Democrats, but the rival left-wing bloc has a narrow lead in the pol…",
-      "published_at": "2026-09-12T00:56:47Z",
-      "country_code": "SE",
-      "country_name": "Sweden"
     },
     {
       "source": "BBC US & Canada",
@@ -531,15 +531,6 @@
       "published_at": "2026-09-08T21:25:52Z",
       "country_code": "GB",
       "country_name": "United Kingdom"
-    },
-    {
-      "source": "BBC Europe",
-      "title": "British widow faces deportation from Sweden after 22 years",
-      "url": "https://www.bbc.co.uk/news/articles/c62k0d4px6ro?at_medium=RSS&at_campaign=rss",
-      "summary": "A 78-year-old British woman is facing deportation for failing to fill out a Brexit residence application on time.",
-      "published_at": "2026-09-08T18:02:42Z",
-      "country_code": "SE",
-      "country_name": "Sweden"
     },
     {
       "source": "BBC Latin America",
@@ -984,11 +975,6 @@
       "news_count": 2
     },
     {
-      "country_code": "SE",
-      "country_name": "Sweden",
-      "news_count": 2
-    },
-    {
       "country_code": "UA",
       "country_name": "Ukraine",
       "news_count": 2
@@ -1051,6 +1037,11 @@
     {
       "country_code": "SD",
       "country_name": "Sudan",
+      "news_count": 1
+    },
+    {
+      "country_code": "SE",
+      "country_name": "Sweden",
       "news_count": 1
     },
     {
