@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-09-13T06:23:58Z",
+  "generated_at": "2026-09-13T12:09:08Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Iran war reshapes Brics ties but also exposes divisions",
+      "url": "https://www.bbc.co.uk/news/articles/ce8767g4jdpo?at_medium=RSS&at_campaign=rss",
+      "summary": "Brics members agree they need a new global order but it's harder to answer what should replace it and how to get there.",
+      "published_at": "2026-09-13T11:23:42Z",
+      "country_code": "IR",
+      "country_name": "Iran"
+    },
+    {
+      "source": "BBC World",
+      "title": "Russians seek answers over hundreds missing after Ukraine's 2024 incursion",
+      "url": "https://www.bbc.co.uk/news/articles/c62ene9kr71o?at_medium=RSS&at_campaign=rss",
+      "summary": "Officials say more than 300 Russians remain missing after the 2024 Kursk offensive, but no-one really knows the true figure.",
+      "published_at": "2026-09-12T23:51:05Z",
+      "country_code": "UA",
+      "country_name": "Ukraine"
+    },
     {
       "source": "BBC World",
       "title": "Best friends for decades - until a DNA test revealed they were sisters",
@@ -56,7 +74,7 @@
       "country_name": "Philippines"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "Record heatwaves in France set to make champagne stronger",
       "url": "https://www.bbc.co.uk/news/articles/cvgydvrlep1o?at_medium=RSS&at_campaign=rss",
       "summary": "Winemakers can produce bubbly up to 15% ABV following an unusual harvest that produced sweeter grapes.",
@@ -83,7 +101,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "Grammy-winning US rapper Lil Durk acquitted in murder-for-hire trial",
       "url": "https://www.bbc.co.uk/news/articles/c1kx0jje18wo?at_medium=RSS&at_campaign=rss",
       "summary": "The Chicago rapper was arrested in 2024 and accused of involvement in a shooting that killed the cousin of rival rapper Quando Rondo.",
@@ -101,7 +119,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "Ukraine faces 'toughest winter' since Russia's full-scale invasion, UN official tells BBC",
       "url": "https://www.bbc.co.uk/news/articles/cwyz59yyqk4o?at_medium=RSS&at_campaign=rss",
       "summary": "A senior UN official tells the BBC there is a race against the clock to ensure access to power and water through winter.",
@@ -155,7 +173,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "Tragic death of woman who testified against father in notorious mafia murder of mother",
       "url": "https://www.bbc.co.uk/news/articles/c39mr81j2j1o?at_medium=RSS&at_campaign=rss",
       "summary": "Denise Cosco testified against the powerful 'Ndrangheta clan and her own father over the murder of her mother in Italy.",
@@ -864,6 +882,11 @@
       "news_count": 29
     },
     {
+      "country_code": "IR",
+      "country_name": "Iran",
+      "news_count": 6
+    },
+    {
       "country_code": "PS",
       "country_name": "Palestine",
       "news_count": 6
@@ -871,11 +894,6 @@
     {
       "country_code": "IL",
       "country_name": "Israel",
-      "news_count": 5
-    },
-    {
-      "country_code": "IR",
-      "country_name": "Iran",
       "news_count": 5
     },
     {
@@ -941,6 +959,11 @@
     {
       "country_code": "SE",
       "country_name": "Sweden",
+      "news_count": 2
+    },
+    {
+      "country_code": "UA",
+      "country_name": "Ukraine",
       "news_count": 2
     },
     {
@@ -1016,11 +1039,6 @@
     {
       "country_code": "TH",
       "country_name": "Thailand",
-      "news_count": 1
-    },
-    {
-      "country_code": "UA",
-      "country_name": "Ukraine",
       "news_count": 1
     }
   ]
