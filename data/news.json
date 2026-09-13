@@ -1,8 +1,17 @@
 {
-  "generated_at": "2026-09-13T01:13:28Z",
+  "generated_at": "2026-09-13T06:23:58Z",
   "articles": [
     {
-      "source": "BBC US & Canada",
+      "source": "BBC World",
+      "title": "Best friends for decades - until a DNA test revealed they were sisters",
+      "url": "https://www.bbc.co.uk/news/articles/c5y6z72z9lno?at_medium=RSS&at_campaign=rss",
+      "summary": "Meena Geltink and Minal Tijssen were adopted from orphanages in Mumbai in the 1980s and grew up in the Netherlands.",
+      "published_at": "2026-09-12T22:00:28Z",
+      "country_code": "NL",
+      "country_name": "Netherlands"
+    },
+    {
+      "source": "BBC World",
       "title": "Afghan woman deported from US in first use of 'alien terrorist' court",
       "url": "https://www.bbc.co.uk/news/articles/c3eqpd9zgl9o?at_medium=RSS&at_campaign=rss",
       "summary": "The legal US resident was never charged with a crime, but was deported due to her family links to terrorism.",
@@ -101,7 +110,7 @@
       "country_name": "Russia"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "Firefighters say this antioxidant helped them - their union warns it could be risky",
       "url": "https://www.bbc.co.uk/news/articles/crk3n5z60pvo?at_medium=RSS&at_campaign=rss",
       "summary": "Glutathione, an antioxidant, has been offered as a treatment at some of the largest US wildfires in recent years.",
@@ -972,6 +981,11 @@
     {
       "country_code": "IT",
       "country_name": "Italy",
+      "news_count": 1
+    },
+    {
+      "country_code": "NL",
+      "country_name": "Netherlands",
       "news_count": 1
     },
     {
