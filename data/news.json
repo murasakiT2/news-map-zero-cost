@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-09-14T13:28:20Z",
+  "generated_at": "2026-09-14T18:47:51Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Body of missing runner found in South Africa",
+      "url": "https://www.bbc.co.uk/news/articles/cxyvzggzd5jgo?at_medium=RSS&at_campaign=rss",
+      "summary": "A nationwide appeal was launched after Elizabeth Moselakgomo went missing last week. Four other women's bodies have been found nearby.",
+      "published_at": "2026-09-14T14:58:48Z",
+      "country_code": "ZA",
+      "country_name": "South Africa"
+    },
     {
       "source": "BBC World",
       "title": "Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station",
@@ -27,15 +36,6 @@
       "published_at": "2026-09-14T08:58:27Z",
       "country_code": "MY",
       "country_name": "Malaysia"
-    },
-    {
-      "source": "BBC World",
-      "title": "Swedish left-wing bloc narrowly ahead with election too close to call",
-      "url": "https://www.bbc.co.uk/news/articles/c0qx5d79kdeo?at_medium=RSS&at_campaign=rss",
-      "summary": "A preliminary count by Sweden's election authority projected that left-wing opposition bloc would win a three-seat majority.",
-      "published_at": "2026-09-14T08:36:09Z",
-      "country_code": "SE",
-      "country_name": "Sweden"
     },
     {
       "source": "BBC US & Canada",
@@ -200,15 +200,6 @@
       "country_name": "Ukraine"
     },
     {
-      "source": "BBC Africa",
-      "title": "South Africa cap series victory over NZ with Baltimore win",
-      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c07lmxpmvr9o?at_medium=RSS&at_campaign=rss",
-      "summary": "South Africa complete a 3-1 series win over New Zealand as the world champions' consistency, power and cohesion proves too much in the fourt…",
-      "published_at": "2026-09-12T23:29:11Z",
-      "country_code": "NZ",
-      "country_name": "New Zealand"
-    },
-    {
       "source": "BBC World",
       "title": "Best friends for decades - until a DNA test revealed they were sisters",
       "url": "https://www.bbc.co.uk/news/articles/c5y6z72z9lno?at_medium=RSS&at_campaign=rss",
@@ -308,15 +299,6 @@
       "country_name": "Iran"
     },
     {
-      "source": "BBC Africa",
-      "title": "Six Nigerians accused of romance scams extradited to the US",
-      "url": "https://www.bbc.co.uk/news/articles/cj3dy704l71o?at_medium=RSS&at_campaign=rss",
-      "summary": "The six will face wire fraud and money-laundry charges in the US, South African police say.",
-      "published_at": "2026-09-11T21:07:19Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC Europe",
       "title": "Tragic death of woman who testified against father in notorious mafia murder of mother",
       "url": "https://www.bbc.co.uk/news/articles/c39mr81j2j1o?at_medium=RSS&at_campaign=rss",
@@ -380,7 +362,7 @@
       "country_name": "Singapore"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "Has Trump won over voters with his midterm convention?",
       "url": "https://www.bbc.co.uk/news/videos/cn9w5e7wl9ro?at_medium=RSS&at_campaign=rss",
       "summary": "The BBC's North America editor Sarah Smith breaks down the main takeaways from the first-ever Republican convention held in the middle of a …",
@@ -696,15 +678,6 @@
     },
     {
       "source": "BBC Africa",
-      "title": "Sharpeville massacre survivors start legal fight for justice in South Africa",
-      "url": "https://www.bbc.co.uk/news/articles/c1mvll11ll5o?at_medium=RSS&at_campaign=rss",
-      "summary": "At least 69 people were shot dead in 1960 but no-one has been prosecuted and victims want restitution.",
-      "published_at": "2026-09-03T11:49:50Z",
-      "country_code": "ZA",
-      "country_name": "South Africa"
-    },
-    {
-      "source": "BBC Africa",
       "title": "Were Christians the target of the Palm Sunday attack in Nigeria?",
       "url": "https://www.bbc.co.uk/news/videos/cy4zlw9knq8o?at_medium=RSS&at_campaign=rss",
       "summary": "Gunmen opened fire in the city of Jos on 29 March.",
@@ -834,7 +807,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 31
+      "news_count": 30
     },
     {
       "country_code": "IR",
@@ -889,11 +862,6 @@
     {
       "country_code": "NG",
       "country_name": "Nigeria",
-      "news_count": 2
-    },
-    {
-      "country_code": "NZ",
-      "country_name": "New Zealand",
       "news_count": 2
     },
     {
@@ -957,6 +925,11 @@
       "news_count": 1
     },
     {
+      "country_code": "NZ",
+      "country_name": "New Zealand",
+      "news_count": 1
+    },
+    {
       "country_code": "PE",
       "country_name": "Peru",
       "news_count": 1
@@ -974,11 +947,6 @@
     {
       "country_code": "SD",
       "country_name": "Sudan",
-      "news_count": 1
-    },
-    {
-      "country_code": "SE",
-      "country_name": "Sweden",
       "news_count": 1
     },
     {
