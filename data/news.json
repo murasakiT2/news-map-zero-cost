@@ -1,12 +1,30 @@
 {
-  "generated_at": "2026-09-15T22:22:03Z",
+  "generated_at": "2026-09-16T00:34:34Z",
   "articles": [
     {
+      "source": "BBC Asia",
+      "title": "Locked offices and millions in donations: Inside India's little-known political parties",
+      "url": "https://www.bbc.co.uk/news/articles/c2l8vxz1wejo?at_medium=RSS&at_campaign=rss",
+      "summary": "Little-known political parties are receiving millions in donations despite limited electoral activity.",
+      "published_at": "2026-09-15T23:39:22Z",
+      "country_code": "IN",
+      "country_name": "India"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "Maduro ally pleads guilty in $195m money laundering case in US court",
+      "url": "https://www.bbc.co.uk/news/articles/cx5yl2980pzmo?at_medium=RSS&at_campaign=rss",
+      "summary": "Alex Saab, a former aide to the ex-Venezuelan president, agrees to \"co-operate fully\" with US prosecutors.",
+      "published_at": "2026-09-15T23:33:19Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
       "source": "BBC World",
-      "title": "Carney courts foreign money pitching Canada as 'safe harbour' at investment summit",
+      "title": "Five takeaways from Canada's push to woo the world's richest investors",
       "url": "https://www.bbc.co.uk/news/articles/cmq8jdgel128o?at_medium=RSS&at_campaign=rss",
       "summary": "A $1tn sales pitch, more than 160 projects on offer, pivot to the EU amid a bitter trade war with the US - takeaways from the first Canada I…",
-      "published_at": "2026-09-15T21:54:34Z",
+      "published_at": "2026-09-15T22:46:20Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -434,15 +452,6 @@
       "country_name": "Chile"
     },
     {
-      "source": "BBC Asia",
-      "title": "Death toll from Philippines ferry fire rises to 76, with more still missing",
-      "url": "https://www.bbc.co.uk/news/articles/cwyz755yeg9o?at_medium=RSS&at_campaign=rss",
-      "summary": "Access to the burnt-out boat has been slowed by toxic fumes and lingering heat, the country's coast guard says.",
-      "published_at": "2026-09-12T15:09:55Z",
-      "country_code": "PH",
-      "country_name": "Philippines"
-    },
-    {
       "source": "BBC Europe",
       "title": "Record heatwaves in France set to make champagne stronger",
       "url": "https://www.bbc.co.uk/news/articles/cvgydvrlep1o?at_medium=RSS&at_campaign=rss",
@@ -843,7 +852,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 28
+      "news_count": 29
     },
     {
       "country_code": "GB",
@@ -876,6 +885,11 @@
       "news_count": 4
     },
     {
+      "country_code": "IN",
+      "country_name": "India",
+      "news_count": 3
+    },
+    {
       "country_code": "NG",
       "country_name": "Nigeria",
       "news_count": 3
@@ -903,11 +917,6 @@
     {
       "country_code": "CO",
       "country_name": "Colombia",
-      "news_count": 2
-    },
-    {
-      "country_code": "IN",
-      "country_name": "India",
       "news_count": 2
     },
     {
@@ -968,11 +977,6 @@
     {
       "country_code": "PE",
       "country_name": "Peru",
-      "news_count": 1
-    },
-    {
-      "country_code": "PH",
-      "country_name": "Philippines",
       "news_count": 1
     },
     {
