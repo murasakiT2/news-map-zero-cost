@@ -1,6 +1,33 @@
 {
-  "generated_at": "2026-09-16T00:34:34Z",
+  "generated_at": "2026-09-16T05:27:06Z",
   "articles": [
+    {
+      "source": "BBC Asia",
+      "title": "Japan to charge rescue fee on Mount Fuji during off season",
+      "url": "https://www.bbc.co.uk/news/articles/cw8r6mvjdvedo?at_medium=RSS&at_campaign=rss",
+      "summary": "The fee is among a series of measures Yamanashi prefecture is introducing to deter reckless climbers.",
+      "published_at": "2026-09-16T02:40:51Z",
+      "country_code": "JP",
+      "country_name": "Japan"
+    },
+    {
+      "source": "BBC World",
+      "title": "All support acts on Ed Sheeran's US tour quit after Macklemore dropped",
+      "url": "https://www.bbc.co.uk/news/articles/c3vgyn49y4l7o?at_medium=RSS&at_campaign=rss",
+      "summary": "The star said he was not responsible for Macklemore being dropped from the line-up after he made pro-Palestinian statements on stage.",
+      "published_at": "2026-09-16T01:29:20Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "Magazine that was 132 years overdue returned to US library",
+      "url": "https://www.bbc.co.uk/news/articles/cmn0jk2z760eo?at_medium=RSS&at_campaign=rss",
+      "summary": "Concord Public Library said it would have incurred a $12,055 overdue fine, had there not been a temporary fine freeze in place.",
+      "published_at": "2026-09-16T01:15:57Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC Asia",
       "title": "Locked offices and millions in donations: Inside India's little-known political parties",
@@ -25,15 +52,6 @@
       "url": "https://www.bbc.co.uk/news/articles/cmq8jdgel128o?at_medium=RSS&at_campaign=rss",
       "summary": "A $1tn sales pitch, more than 160 projects on offer, pivot to the EU amid a bitter trade war with the US - takeaways from the first Canada I…",
       "published_at": "2026-09-15T22:46:20Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "All support acts on Ed Sheeran's US tour quit after Macklemore dropped",
-      "url": "https://www.bbc.co.uk/news/articles/c3vgyn49y4l7o?at_medium=RSS&at_campaign=rss",
-      "summary": "The star said he was not responsible for Macklemore being dropped from the line-up after he made pro-Palestinian statements on stage.",
-      "published_at": "2026-09-15T21:07:13Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -852,7 +870,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 29
+      "news_count": 30
     },
     {
       "country_code": "GB",
@@ -925,6 +943,11 @@
       "news_count": 2
     },
     {
+      "country_code": "JP",
+      "country_name": "Japan",
+      "news_count": 2
+    },
+    {
       "country_code": "MX",
       "country_name": "Mexico",
       "news_count": 2
@@ -942,11 +965,6 @@
     {
       "country_code": "CL",
       "country_name": "Chile",
-      "news_count": 1
-    },
-    {
-      "country_code": "JP",
-      "country_name": "Japan",
       "news_count": 1
     },
     {
