@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-16T21:51:37Z",
+  "generated_at": "2026-09-16T23:57:22Z",
   "articles": [
     {
-      "source": "BBC World",
-      "title": "Watch: Leaked photos reveal extensive damage at US bases in Gulf",
-      "url": "https://www.bbc.co.uk/news/videos/c9dr7e1lr265o?at_medium=RSS&at_campaign=rss",
-      "summary": "The photos, provided by active military personnel, show a severed radar jet, flattened trailers and severely damaged buildings as a result o…",
-      "published_at": "2026-09-16T21:24:24Z",
+      "source": "BBC US & Canada",
+      "title": "Top Democrat opposes US sale of heavy bombs to Israel",
+      "url": "https://www.bbc.co.uk/news/articles/crn8e20lep75o?at_medium=RSS&at_campaign=rss",
+      "summary": "But the objection is not enough to stop the sale - the Trump administration can still press ahead.",
+      "published_at": "2026-09-16T23:17:03Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -14,8 +14,26 @@
       "source": "BBC World",
       "title": "US interest rates raised for first time in three years",
       "url": "https://www.bbc.co.uk/news/articles/cw4gmlyvj422o?at_medium=RSS&at_campaign=rss",
-      "summary": "The Federal Reserve unanimously voted to increase interest rates to 3.75%-4% from 3.5%-3.75% on Wednesday.",
-      "published_at": "2026-09-16T21:02:11Z",
+      "summary": "Rates were hiked in a unanimous decision despite fierce opposition from President Donald Trump, who had called for a cut.",
+      "published_at": "2026-09-16T22:16:51Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Handbags, jewels, watches: Inside Singapore's dirty money auction",
+      "url": "https://www.bbc.co.uk/news/videos/cmew984dq92lo?at_medium=RSS&at_campaign=rss",
+      "summary": "The BBC goes inside a fortified storage facility to view luxury goods seized by police that are now up for auction.",
+      "published_at": "2026-09-16T22:13:36Z",
+      "country_code": "SG",
+      "country_name": "Singapore"
+    },
+    {
+      "source": "BBC World",
+      "title": "Watch: Leaked photos reveal extensive damage at US bases in Gulf",
+      "url": "https://www.bbc.co.uk/news/videos/c9dr7e1lr265o?at_medium=RSS&at_campaign=rss",
+      "summary": "The photos, provided by active military personnel, show a severed radar jet, flattened trailers and severely damaged buildings as a result o…",
+      "published_at": "2026-09-16T21:24:24Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -92,7 +110,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Africa",
       "title": "Nigeria’s ‘sarcasm queen’ answers ‘silly’ questions about Africa",
       "url": "https://www.bbc.co.uk/news/videos/cq62jvr18ny4o?at_medium=RSS&at_campaign=rss",
       "summary": "Nigerian journalist and content creator Charity Ekezie believes the best way to challenge negative stereotypes about Africa is to laugh at t…",
@@ -459,15 +477,6 @@
       "published_at": "2026-09-14T11:31:39Z",
       "country_code": "CN",
       "country_name": "China"
-    },
-    {
-      "source": "BBC Asia",
-      "title": "Malaysian boy acquitted for murder of schoolgirl on grounds of insanity",
-      "url": "https://www.bbc.co.uk/news/articles/ce87qzrz7p8o?at_medium=RSS&at_campaign=rss",
-      "summary": "The killing of the 16-year-old nearly a year ago had shocked Malaysia and sparked debate about social media.",
-      "published_at": "2026-09-14T08:58:27Z",
-      "country_code": "MY",
-      "country_name": "Malaysia"
     },
     {
       "source": "BBC Europe",
@@ -906,7 +915,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 31
+      "news_count": 32
     },
     {
       "country_code": "KE",
@@ -1014,11 +1023,6 @@
       "news_count": 1
     },
     {
-      "country_code": "MY",
-      "country_name": "Malaysia",
-      "news_count": 1
-    },
-    {
       "country_code": "NL",
       "country_name": "Netherlands",
       "news_count": 1
@@ -1046,6 +1050,11 @@
     {
       "country_code": "SD",
       "country_name": "Sudan",
+      "news_count": 1
+    },
+    {
+      "country_code": "SG",
+      "country_name": "Singapore",
       "news_count": 1
     },
     {
