@@ -1,6 +1,33 @@
 {
-  "generated_at": "2026-09-17T23:13:58Z",
+  "generated_at": "2026-09-18T01:20:21Z",
   "articles": [
+    {
+      "source": "BBC US & Canada",
+      "title": "US fans with Ed Sheeran tickets are left 'torn' by Macklemore controversy",
+      "url": "https://www.bbc.co.uk/news/articles/c6rer05nqlx5o?at_medium=RSS&at_campaign=rss",
+      "summary": "With Sheeran's next gig due this weekend, some fans said they were in two minds about the show.",
+      "published_at": "2026-09-18T00:38:03Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC Asia",
+      "title": "My dream was to be a doctor, now it could come to zero",
+      "url": "https://www.bbc.co.uk/news/articles/cmy0z3kez6xno?at_medium=RSS&at_campaign=rss",
+      "summary": "Afghan medical students are in despair as they fear being deported from Pakistan",
+      "published_at": "2026-09-17T23:31:43Z",
+      "country_code": "PK",
+      "country_name": "Pakistan"
+    },
+    {
+      "source": "BBC Asia",
+      "title": "India's hospital boom is improving access but pricing millions out of critical care",
+      "url": "https://www.bbc.co.uk/news/articles/c62mg9qln89o?at_medium=RSS&at_campaign=rss",
+      "summary": "Indian hospitals have attracted billions in funding, but the gap between public and private care is widening.",
+      "published_at": "2026-09-17T23:04:24Z",
+      "country_code": "IN",
+      "country_name": "India"
+    },
     {
       "source": "BBC World",
       "title": "US to allow Iran delegation to attend UN meetings in New York as war passes half-year mark",
@@ -16,6 +43,15 @@
       "url": "https://www.bbc.co.uk/news/articles/cm9w4n5nverdo?at_medium=RSS&at_campaign=rss",
       "summary": "The US has not acknowledged carrying out February's deadly strikes on a primary school in Minab and a sports complex in Lamerd.",
       "published_at": "2026-09-17T20:34:30Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Canadians welcome closer ties with Europe as tensions simmer with US",
+      "url": "https://www.bbc.co.uk/news/articles/cx980qj57r89o?at_medium=RSS&at_campaign=rss",
+      "summary": "Toronto residents tell the BBC they are excited by the possibility of working and studying in the EU.",
+      "published_at": "2026-09-17T19:59:54Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -225,15 +261,6 @@
       "published_at": "2026-09-17T05:00:18Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC Asia",
-      "title": "More than 1,000 children dead in Bangladesh measles outbreak",
-      "url": "https://www.bbc.co.uk/news/articles/c6kgw1983ky9o?at_medium=RSS&at_campaign=rss",
-      "summary": "Until March this year, Bangladesh had made \"substantial progress\" towards eliminating measles.",
-      "published_at": "2026-09-17T03:55:08Z",
-      "country_code": "BD",
-      "country_name": "Bangladesh"
     },
     {
       "source": "BBC World",
@@ -623,15 +650,6 @@
       "country_name": "North Korea"
     },
     {
-      "source": "BBC Asia",
-      "title": "The Himalayas are melting faster - and India's economy is 'at risk'",
-      "url": "https://www.bbc.co.uk/news/articles/crm9ezvwjpno?at_medium=RSS&at_campaign=rss",
-      "summary": "A new report warns Himalayan glaciers are melting faster, threatening India’s water, economy and communities.",
-      "published_at": "2026-09-13T22:07:22Z",
-      "country_code": "IN",
-      "country_name": "India"
-    },
-    {
       "source": "BBC Africa",
       "title": "Boks power & All Blacks of old - what did we learn from series?",
       "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c8e3xk48wk9o?at_medium=RSS&at_campaign=rss",
@@ -960,7 +978,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 35
+      "news_count": 37
     },
     {
       "country_code": "GB",
@@ -1023,6 +1041,11 @@
       "news_count": 2
     },
     {
+      "country_code": "PK",
+      "country_name": "Pakistan",
+      "news_count": 2
+    },
+    {
       "country_code": "RU",
       "country_name": "Russia",
       "news_count": 2
@@ -1045,11 +1068,6 @@
     {
       "country_code": "AU",
       "country_name": "Australia",
-      "news_count": 1
-    },
-    {
-      "country_code": "BD",
-      "country_name": "Bangladesh",
       "news_count": 1
     },
     {
@@ -1095,11 +1113,6 @@
     {
       "country_code": "PH",
       "country_name": "Philippines",
-      "news_count": 1
-    },
-    {
-      "country_code": "PK",
-      "country_name": "Pakistan",
       "news_count": 1
     },
     {
