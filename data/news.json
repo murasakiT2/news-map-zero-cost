@@ -1,6 +1,51 @@
 {
-  "generated_at": "2026-09-18T06:06:49Z",
+  "generated_at": "2026-09-18T11:31:25Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Three dead and eight injured in Philippines school shooting",
+      "url": "https://www.bbc.co.uk/news/articles/c6x2z4dlzyr0o?at_medium=RSS&at_campaign=rss",
+      "summary": "The gunman is among the dead in what is the third school shooting in the country since June.",
+      "published_at": "2026-09-18T11:01:46Z",
+      "country_code": "PH",
+      "country_name": "Philippines"
+    },
+    {
+      "source": "BBC World",
+      "title": "At least 16 killed in attack on mosque in Pakistan",
+      "url": "https://www.bbc.co.uk/news/articles/ckn9wenz8wjwo?at_medium=RSS&at_campaign=rss",
+      "summary": "A vehicle loaded with explosives rammed into a mosque building during Friday prayers, a senior police official says.",
+      "published_at": "2026-09-18T10:39:31Z",
+      "country_code": "PK",
+      "country_name": "Pakistan"
+    },
+    {
+      "source": "BBC Asia",
+      "title": "Man acquitted in gruesome India murder case found dead",
+      "url": "https://www.bbc.co.uk/news/articles/c64gd7k9qkz8o?at_medium=RSS&at_campaign=rss",
+      "summary": "The 50-year-old was freed of all charges by the Indian top court in November last year.",
+      "published_at": "2026-09-18T10:35:56Z",
+      "country_code": "IN",
+      "country_name": "India"
+    },
+    {
+      "source": "BBC World",
+      "title": "Japan raises interest rate to new 31-year high to curb rising prices",
+      "url": "https://www.bbc.co.uk/news/articles/cqn74jeek06no?at_medium=RSS&at_campaign=rss",
+      "summary": "Central banks around the world have hiked rates as high energy prices are pushing up inflation.",
+      "published_at": "2026-09-18T07:14:57Z",
+      "country_code": "JP",
+      "country_name": "Japan"
+    },
+    {
+      "source": "BBC Europe",
+      "title": "Healey to ask EU finance ministers to let UK into Made in Europe scheme",
+      "url": "https://www.bbc.co.uk/news/articles/cr6240ej07ejo?at_medium=RSS&at_campaign=rss",
+      "summary": "The chancellor wants the Made in Europe programme to deepen ties with the UK \"rather than erecting new barriers\".",
+      "published_at": "2026-09-18T06:52:47Z",
+      "country_code": "GB",
+      "country_name": "United Kingdom"
+    },
     {
       "source": "BBC US & Canada",
       "title": "In a border city stadium, US NFL fans sing Canada anthem with gusto",
@@ -11,8 +56,17 @@
       "country_name": "United States"
     },
     {
+      "source": "BBC World",
+      "title": "Why US plan to sell F-35 warplanes to Saudi Arabia is controversial",
+      "url": "https://www.bbc.co.uk/news/articles/c3x2zrn01pxko?at_medium=RSS&at_campaign=rss",
+      "summary": "Saudi Arabia has lobbied the US for years to buy F35s, the world's most advanced fighter jet.",
+      "published_at": "2026-09-18T01:31:43Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
       "source": "BBC US & Canada",
-      "title": "US fans with Ed Sheeran tickets are left 'torn' by Macklemore controversy",
+      "title": "US fans with Ed Sheeran tickets are left torn by Macklemore controversy",
       "url": "https://www.bbc.co.uk/news/articles/c6rer05nqlx5o?at_medium=RSS&at_campaign=rss",
       "summary": "With Sheeran's next gig this weekend, some ticket holders said they were in two minds about going.",
       "published_at": "2026-09-18T00:38:03Z",
@@ -45,6 +99,15 @@
       "published_at": "2026-09-17T22:17:19Z",
       "country_code": "US",
       "country_name": "United States"
+    },
+    {
+      "source": "BBC Asia",
+      "title": "Watch: Can humpback whales experience grief?",
+      "url": "https://www.bbc.co.uk/news/videos/c6p93mn44m42o?at_medium=RSS&at_campaign=rss",
+      "summary": "Rare footage captured by researchers off Australia's Gold Coast suggests humpback whale mothers may experience grief when their calves die.",
+      "published_at": "2026-09-17T22:10:03Z",
+      "country_code": "AU",
+      "country_name": "Australia"
     },
     {
       "source": "BBC World",
@@ -83,7 +146,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "Warm words on Canada's EU 'associate membership' but no guarantees",
       "url": "https://www.bbc.co.uk/news/articles/crlyqg1ekj4po?at_medium=RSS&at_campaign=rss",
       "summary": "There is no certainty that the idea will ever get off the ground, let alone become a blueprint for other countries, writes the BBC's Katya A…",
@@ -99,6 +162,15 @@
       "published_at": "2026-09-17T16:49:52Z",
       "country_code": "CA",
       "country_name": "Canada"
+    },
+    {
+      "source": "BBC World",
+      "title": "Is Canada about to join the EU?",
+      "url": "https://www.bbc.co.uk/news/videos/c6wyz8kk2nepo?at_medium=RSS&at_campaign=rss",
+      "summary": "Ties between Canada and the European Union have been getting closer as trade dispute with the US continue.",
+      "published_at": "2026-09-17T16:18:35Z",
+      "country_code": "US",
+      "country_name": "United States"
     },
     {
       "source": "BBC US & Canada",
@@ -120,15 +192,6 @@
     },
     {
       "source": "BBC World",
-      "title": "Klopp wants to 'reclaim' flag amid German elections",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmwyzk6xkrd0o?at_medium=RSS&at_campaign=rss",
-      "summary": "New Germany coach Jurgen Klopp says his team can help ensure \"national pride is not entrusted to the wrong people\" after a recent far-right …",
-      "published_at": "2026-09-17T13:02:40Z",
-      "country_code": "DE",
-      "country_name": "Germany"
-    },
-    {
-      "source": "BBC World",
       "title": "Canada welcomes EU proposal to become 'associate member'",
       "url": "https://www.bbc.co.uk/news/articles/cwly7vkke4jxo?at_medium=RSS&at_campaign=rss",
       "summary": "Canadian Prime Minister Mark Carney said a Canada-EU alliance would create a \"beacon for other democracies\".",
@@ -146,15 +209,6 @@
       "country_name": "France"
     },
     {
-      "source": "BBC Europe",
-      "title": "Aztec document goes on display in Mexico after 186 years in France",
-      "url": "https://www.bbc.co.uk/news/articles/ck980qyy6d2zo?at_medium=RSS&at_campaign=rss",
-      "summary": "France's national library is lending the manuscript recounting the history of the Aztecs to Mexico.",
-      "published_at": "2026-09-17T11:00:41Z",
-      "country_code": "FR",
-      "country_name": "France"
-    },
-    {
       "source": "BBC US & Canada",
       "title": "Stadium owner Robert Kraft says Ed Sheeran asked him to donate $2m in aid after Macklemore backlash",
       "url": "https://www.bbc.co.uk/news/articles/cmp3073x6464o?at_medium=RSS&at_campaign=rss",
@@ -162,15 +216,6 @@
       "published_at": "2026-09-17T10:19:04Z",
       "country_code": "PS",
       "country_name": "Palestine"
-    },
-    {
-      "source": "BBC Asia",
-      "title": "Philippines' Duterte seen in person at International Criminal Court for first time",
-      "url": "https://www.bbc.co.uk/news/articles/cq986j7x1nd3o?at_medium=RSS&at_campaign=rss",
-      "summary": "He is due to be tried for crimes against humanity over thousands of deaths linked to his war on drugs.",
-      "published_at": "2026-09-17T09:48:40Z",
-      "country_code": "PH",
-      "country_name": "Philippines"
     },
     {
       "source": "BBC Middle East",
@@ -200,7 +245,7 @@
       "country_name": "Israel"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "One dead after torrential rain and flash floods hit Barcelona region",
       "url": "https://www.bbc.co.uk/news/articles/c9lyk27g8ln7o?at_medium=RSS&at_campaign=rss",
       "summary": "Flooding has caused widespread disruption across Valencia and Catalonia in north-east Spain.",
@@ -209,7 +254,7 @@
       "country_name": "Spain"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Africa",
       "title": "Abducted South African journalist found dead with gunshot wounds",
       "url": "https://www.bbc.co.uk/news/articles/c52e047wpw7po?at_medium=RSS&at_campaign=rss",
       "summary": "The body of veteran broadcaster Owen Ndlovu was found hours after armed men kidnapped him near Johannesburg.",
@@ -219,24 +264,6 @@
     },
     {
       "source": "BBC Asia",
-      "title": "India and Pakistan summon diplomats after ships collide in international waters",
-      "url": "https://www.bbc.co.uk/news/articles/ckge48jggv8go?at_medium=RSS&at_campaign=rss",
-      "summary": "Both sides accuse each other of causing the collision which happened in the Arabian Sea on Tuesday.",
-      "published_at": "2026-09-17T06:26:55Z",
-      "country_code": "IN",
-      "country_name": "India"
-    },
-    {
-      "source": "BBC World",
-      "title": "India faces 100% tariff threat over Russian oil after US House vote",
-      "url": "https://www.bbc.co.uk/news/articles/c3lyrn4p870yo?at_medium=RSS&at_campaign=rss",
-      "summary": "Trump’s tariff threat puts India’s Russian oil strategy- and its access to the US market - in a new bind.",
-      "published_at": "2026-09-17T05:33:29Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
       "title": "International students, 'visa hoppers' and backpackers targeted in Australia migration crackdown",
       "url": "https://www.bbc.co.uk/news/articles/cm986j81ky55o?at_medium=RSS&at_campaign=rss",
       "summary": "The government wants to reduce net overseas migration to 225,000 people by 2028.",
@@ -245,22 +272,13 @@
       "country_name": "Australia"
     },
     {
-      "source": "BBC Europe",
+      "source": "BBC World",
       "title": "Rosenberg: Russia's elections will have few surprises, but for the Kremlin they matter",
       "url": "https://www.bbc.co.uk/news/articles/ck62m0r4r1y3o?at_medium=RSS&at_campaign=rss",
       "summary": "There is no doubt over the outcome of this vote, but for the Kremlin they are still an important moment.",
       "published_at": "2026-09-17T05:00:36Z",
       "country_code": "RU",
       "country_name": "Russia"
-    },
-    {
-      "source": "BBC World",
-      "title": "Assad regime planned US journalist's kidnap for weeks, BBC finds",
-      "url": "https://www.bbc.co.uk/news/articles/cv0lrxw6ygl2o?at_medium=RSS&at_campaign=rss",
-      "summary": "Austin Tice’s abduction was approved by Syria’s former leader Bashar al-Assad, a source claims.",
-      "published_at": "2026-09-17T05:00:18Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC US & Canada",
@@ -272,7 +290,16 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Middle East",
+      "title": "Assad regime planned US journalist's kidnap for weeks, BBC finds",
+      "url": "https://www.bbc.co.uk/news/articles/cv0lrxw6ygl2o?at_medium=RSS&at_campaign=rss",
+      "summary": "Austin Tice’s abduction was approved by Syria’s former leader Bashar al-Assad, a source claims.",
+      "published_at": "2026-09-17T05:00:18Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC US & Canada",
       "title": "US interest rates raised for first time in three years",
       "url": "https://www.bbc.co.uk/news/articles/cw4gmlyvj422o?at_medium=RSS&at_campaign=rss",
       "summary": "Rates were hiked in a unanimous decision despite fierce opposition from President Donald Trump, who had called for a cut.",
@@ -299,7 +326,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Asia",
+      "source": "BBC World",
       "title": "Inside Singapore's 'Fort Knox' for city's $2bn dirty money auction",
       "url": "https://www.bbc.co.uk/news/videos/cmew984dq92lo?at_medium=RSS&at_campaign=rss",
       "summary": "The BBC goes inside a fortified storage facility to view luxury goods seized by police that are now up for auction.",
@@ -317,7 +344,7 @@
       "country_name": "Pakistan"
     },
     {
-      "source": "BBC US & Canada",
+      "source": "BBC World",
       "title": "Watch: Leaked photos reveal extensive damage at US bases in Gulf",
       "url": "https://www.bbc.co.uk/news/videos/c9dr7e1lr265o?at_medium=RSS&at_campaign=rss",
       "summary": "The photos, provided by active military personnel, show a severed radar jet, flattened trailers and severely damaged buildings as a result o…",
@@ -326,25 +353,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
-      "title": "US House votes to hold billionaire Epstein associate Leon Black in contempt",
-      "url": "https://www.bbc.co.uk/news/articles/c62l8g8qlr0ko?at_medium=RSS&at_campaign=rss",
-      "summary": "Black - who had business ties to Epstein - declined to appear and provide documents related to the convicted sex offender.",
-      "published_at": "2026-09-16T19:59:57Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "Trump chief of staff Susie Wiles announces she's cancer-free",
-      "url": "https://www.bbc.co.uk/news/articles/c6j9xrx80ekro?at_medium=RSS&at_campaign=rss",
-      "summary": "The 69-year-old White House chief of staff is a powerful figure and particularly close to the US president.",
-      "published_at": "2026-09-16T19:12:48Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
+      "source": "BBC Middle East",
       "title": "Photos show widespread damage at US sites from Iranian attacks",
       "url": "https://www.bbc.co.uk/news/articles/c8g49e0gwxeno?at_medium=RSS&at_campaign=rss",
       "summary": "A wrecked air force plane and destroyed buildings are among the images obtained by the BBC's partner CBS News.",
@@ -353,7 +362,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Middle East",
       "title": "Eight children among 21 killed after war-damaged Gaza building collapses, rescuers say",
       "url": "https://www.bbc.co.uk/news/articles/cvp8d00j9gg5o?at_medium=RSS&at_campaign=rss",
       "summary": "Some 10 families had reportedly been living in the six-storey building in Gaza City that was hit by an Israeli strike last year.",
@@ -362,22 +371,13 @@
       "country_name": "Palestine"
     },
     {
-      "source": "BBC Asia",
-      "title": "Australian police reject request to reopen missing British girl's cold case",
-      "url": "https://www.bbc.co.uk/news/articles/c8ly49rgw229o?at_medium=RSS&at_campaign=rss",
-      "summary": "A man's confession to abducting UK toddler Cheryl Grimmer in Australia was previously thrown out.",
-      "published_at": "2026-09-16T16:32:29Z",
-      "country_code": "GB",
-      "country_name": "United Kingdom"
-    },
-    {
-      "source": "BBC World",
-      "title": "Michelin-starred Seoul restaurant fined for using ants as garnish",
-      "url": "https://www.bbc.co.uk/news/articles/c639m42y43v4o?at_medium=RSS&at_campaign=rss",
-      "summary": "The owner of the acclaimed establishment avoids jail but is made to pay 15 million won (£8,144; $10,965).",
-      "published_at": "2026-09-16T15:48:50Z",
-      "country_code": "KR",
-      "country_name": "South Korea"
+      "source": "BBC Africa",
+      "title": "Nigeria’s ‘sarcasm queen’ answers ‘silly’ questions about Africa",
+      "url": "https://www.bbc.co.uk/news/videos/cq62jvr18ny4o?at_medium=RSS&at_campaign=rss",
+      "summary": "Nigerian journalist and content creator Charity Ekezie believes the best way to challenge negative stereotypes about Africa is to laugh at t…",
+      "published_at": "2026-09-16T13:51:26Z",
+      "country_code": "NG",
+      "country_name": "Nigeria"
     },
     {
       "source": "BBC Africa",
@@ -387,15 +387,6 @@
       "published_at": "2026-09-16T13:29:39Z",
       "country_code": "NG",
       "country_name": "Nigeria"
-    },
-    {
-      "source": "BBC Europe",
-      "title": "US accuses Russia of trying to kill Ukrainian allies overseas",
-      "url": "https://www.bbc.co.uk/news/articles/cjp3077led9qo?at_medium=RSS&at_campaign=rss",
-      "summary": "The FBI says five men \"conspired to intimidate, threaten, or murder people on US soil and around the world\".",
-      "published_at": "2026-09-16T12:26:00Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC Latin America",
@@ -416,7 +407,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC US & Canada",
+      "source": "BBC World",
       "title": "Why Trump is all-in on AI despite the warnings",
       "url": "https://www.bbc.co.uk/news/articles/c34gd48x5rlwo?at_medium=RSS&at_campaign=rss",
       "summary": "The US president has pushed the issue to the forefront of American politics - even at the risk of losing supporters.",
@@ -425,7 +416,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Middle East",
       "title": "Saudi Arabia says it shot down Houthi drone south of Mecca",
       "url": "https://www.bbc.co.uk/news/articles/cr89jqd1w45eo?at_medium=RSS&at_campaign=rss",
       "summary": "The Houthis deny targeting the Islamic holy city after the Saudi-led coalition in Yemen accuses them of a \"disgraceful act\".",
@@ -441,6 +432,15 @@
       "published_at": "2026-09-16T07:46:57Z",
       "country_code": "IN",
       "country_name": "India"
+    },
+    {
+      "source": "BBC World",
+      "title": "Runaway horse captured by police on motorbikes",
+      "url": "https://www.bbc.co.uk/news/videos/cmzezj8gr224o?at_medium=RSS&at_campaign=rss",
+      "summary": "The unharmed horse escaped from its owner before the start of a parade in New Mexico",
+      "published_at": "2026-09-16T05:57:23Z",
+      "country_code": "MX",
+      "country_name": "Mexico"
     },
     {
       "source": "BBC Asia",
@@ -551,7 +551,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC US & Canada",
+      "source": "BBC World",
       "title": "What weapon could the US have put into space?",
       "url": "https://www.bbc.co.uk/news/articles/cmy4zqgk97wlo?at_medium=RSS&at_campaign=rss",
       "summary": "The announcement by the US points to a developing field of modern warfare in the Earth's orbit.",
@@ -569,7 +569,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Europe",
+      "source": "BBC World",
       "title": "Ukraine's postal workers deliver lifeline under Russian fire",
       "url": "https://www.bbc.co.uk/news/articles/c33kmred368o?at_medium=RSS&at_campaign=rss",
       "summary": "The state post service delivers pensions, medicine and letters to people just miles from the front.",
@@ -614,16 +614,7 @@
       "country_name": "Ukraine"
     },
     {
-      "source": "BBC Middle East",
-      "title": "US pilot shot down over Iran recalls 'free-falling' in first interview since rescue",
-      "url": "https://www.bbc.co.uk/news/articles/cy7zvxe1jm7o?at_medium=RSS&at_campaign=rss",
-      "summary": "The April rescue operation to recover the downed aircrew saw the first US boots on the ground in Iran in 46 years, American officials say.",
-      "published_at": "2026-09-14T01:00:30Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC Asia",
+      "source": "BBC Europe",
       "title": "Why a fresh wave of North Korean soldiers may fight in Russia's war in Ukraine",
       "url": "https://www.bbc.co.uk/news/articles/cgl7zrnxxy6o?at_medium=RSS&at_campaign=rss",
       "summary": "North Korea will continue to send its soldiers to fight in Russia's war, but only for as long as it is profitable to do so, writes the BBC's…",
@@ -657,15 +648,6 @@
       "published_at": "2026-09-13T02:59:29Z",
       "country_code": "FR",
       "country_name": "France"
-    },
-    {
-      "source": "BBC Middle East",
-      "title": "Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq",
-      "url": "https://www.bbc.co.uk/news/articles/c62m933465eo?at_medium=RSS&at_campaign=rss",
-      "summary": "Iraq removes a military commander and opens investigations into the attack that came from an area bordering Iran.",
-      "published_at": "2026-09-12T12:15:50Z",
-      "country_code": "SA",
-      "country_name": "Saudi Arabia"
     },
     {
       "source": "BBC Africa",
@@ -745,6 +727,15 @@
       "url": "https://www.bbc.co.uk/news/videos/cj4jwnzd2dgo?at_medium=RSS&at_campaign=rss",
       "summary": "BBC correspondent Katy Watson reports from Jerusalem.",
       "published_at": "2026-09-08T21:25:52Z",
+      "country_code": "GB",
+      "country_name": "United Kingdom"
+    },
+    {
+      "source": "BBC Middle East",
+      "title": "Where is Israel's proposed West Bank settlement the UK opposes?",
+      "url": "https://www.bbc.co.uk/news/videos/c74k1lw9nwko?at_medium=RSS&at_campaign=rss",
+      "summary": "BBC's Middle East correspondent Lucy Williamson reports from an area close to Israel's proposed site in the occupied West Bank.",
+      "published_at": "2026-09-08T16:45:32Z",
       "country_code": "GB",
       "country_name": "United Kingdom"
     },
@@ -837,15 +828,6 @@
       "published_at": "2026-09-04T09:14:57Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC Africa",
-      "title": "Kenya's chai lovers are not happy as the nation's cows run dry",
-      "url": "https://www.bbc.co.uk/news/articles/cgqd9ldegjqo?at_medium=RSS&at_campaign=rss",
-      "summary": "Supermarket shelves are emptying, sellers are rationing supplies and prices are rising.",
-      "published_at": "2026-09-04T00:28:56Z",
-      "country_code": "KE",
-      "country_name": "Kenya"
     },
     {
       "source": "BBC Africa",
@@ -945,27 +927,18 @@
       "published_at": "2026-07-31T18:29:04Z",
       "country_code": "MA",
       "country_name": "Morocco"
-    },
-    {
-      "source": "BBC Africa",
-      "title": "'Honoured and grateful' - Morocco fan reflects on World Cup",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c20yw63yn68o?at_medium=RSS&at_campaign=rss",
-      "summary": "Morocco fan reflects on their World Cup journey.",
-      "published_at": "2026-07-10T14:46:17Z",
-      "country_code": "MA",
-      "country_name": "Morocco"
     }
   ],
   "regions": [
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 37
+      "news_count": 34
     },
     {
       "country_code": "GB",
       "country_name": "United Kingdom",
-      "news_count": 6
+      "news_count": 7
     },
     {
       "country_code": "IN",
@@ -973,8 +946,8 @@
       "news_count": 5
     },
     {
-      "country_code": "KE",
-      "country_name": "Kenya",
+      "country_code": "NG",
+      "country_name": "Nigeria",
       "news_count": 5
     },
     {
@@ -988,24 +961,34 @@
       "news_count": 4
     },
     {
-      "country_code": "FR",
-      "country_name": "France",
-      "news_count": 4
-    },
-    {
       "country_code": "IL",
       "country_name": "Israel",
       "news_count": 4
     },
     {
-      "country_code": "NG",
-      "country_name": "Nigeria",
+      "country_code": "KE",
+      "country_name": "Kenya",
       "news_count": 4
     },
     {
       "country_code": "AR",
       "country_name": "Argentina",
       "news_count": 3
+    },
+    {
+      "country_code": "FR",
+      "country_name": "France",
+      "news_count": 3
+    },
+    {
+      "country_code": "PK",
+      "country_name": "Pakistan",
+      "news_count": 3
+    },
+    {
+      "country_code": "AU",
+      "country_name": "Australia",
+      "news_count": 2
     },
     {
       "country_code": "ES",
@@ -1018,23 +1001,13 @@
       "news_count": 2
     },
     {
-      "country_code": "MA",
-      "country_name": "Morocco",
-      "news_count": 2
-    },
-    {
-      "country_code": "PK",
-      "country_name": "Pakistan",
+      "country_code": "MX",
+      "country_name": "Mexico",
       "news_count": 2
     },
     {
       "country_code": "RU",
       "country_name": "Russia",
-      "news_count": 2
-    },
-    {
-      "country_code": "SA",
-      "country_name": "Saudi Arabia",
       "news_count": 2
     },
     {
@@ -1048,18 +1021,13 @@
       "news_count": 2
     },
     {
-      "country_code": "AU",
-      "country_name": "Australia",
-      "news_count": 1
-    },
-    {
       "country_code": "BR",
       "country_name": "Brazil",
       "news_count": 1
     },
     {
-      "country_code": "DE",
-      "country_name": "Germany",
+      "country_code": "JP",
+      "country_name": "Japan",
       "news_count": 1
     },
     {
@@ -1068,13 +1036,8 @@
       "news_count": 1
     },
     {
-      "country_code": "KR",
-      "country_name": "South Korea",
-      "news_count": 1
-    },
-    {
-      "country_code": "MX",
-      "country_name": "Mexico",
+      "country_code": "MA",
+      "country_name": "Morocco",
       "news_count": 1
     },
     {
@@ -1095,6 +1058,11 @@
     {
       "country_code": "PH",
       "country_name": "Philippines",
+      "news_count": 1
+    },
+    {
+      "country_code": "SA",
+      "country_name": "Saudi Arabia",
       "news_count": 1
     },
     {
