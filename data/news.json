@@ -1,23 +1,41 @@
 {
-  "generated_at": "2026-09-18T15:24:05Z",
+  "generated_at": "2026-09-18T18:34:36Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "At least 21 killed after vehicle loaded with explosives rams Pakistan mosque",
+      "url": "https://www.bbc.co.uk/news/articles/ckn9wenz8wjwo?at_medium=RSS&at_campaign=rss",
+      "summary": "A four-year-old child is among those killed in the attack, during which gunmen also opened fire on a police facility.",
+      "published_at": "2026-09-18T17:31:30Z",
+      "country_code": "PK",
+      "country_name": "Pakistan"
+    },
     {
       "source": "BBC Asia",
       "title": "Jagtar Singh Johal granted bail nine years after being detained in India",
       "url": "https://www.bbc.co.uk/news/articles/cwp845p6q2qqo?at_medium=RSS&at_campaign=rss",
-      "summary": "Th Sikh activist from Dumbarton was arrested in 2017 in India in connection with alleged terror offences.",
-      "published_at": "2026-09-18T15:22:35Z",
+      "summary": "The Sikh activist from Dumbarton was arrested in 2017 in India in connection with alleged terror offences.",
+      "published_at": "2026-09-18T17:19:13Z",
       "country_code": "IN",
       "country_name": "India"
     },
     {
-      "source": "BBC World",
-      "title": "At least 17 killed after vehicle loaded with explosives rams Pakistan mosque",
-      "url": "https://www.bbc.co.uk/news/articles/ckn9wenz8wjwo?at_medium=RSS&at_campaign=rss",
-      "summary": "A four-year-old child is among those killed in the attack, during which gunmen also opened fire on a police facility.",
-      "published_at": "2026-09-18T15:08:12Z",
-      "country_code": "PK",
-      "country_name": "Pakistan"
+      "source": "BBC Africa",
+      "title": "Senegal job an 'absolute dream' for new boss Vieira",
+      "url": "https://www.bbc.co.uk/sport/football/articles/crlyqgqwq8lyo?at_medium=RSS&at_campaign=rss",
+      "summary": "Former France international Patrick Vieira, a World Cup winner in 1998, says taking charge of Senegal, the nation of his birth, is an \"honou…",
+      "published_at": "2026-09-18T17:01:59Z",
+      "country_code": "FR",
+      "country_name": "France"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "Watch: Sixth batch of UFO files includes orbs from 1952",
+      "url": "https://www.bbc.co.uk/news/videos/cm4glen7dpx9o?at_medium=RSS&at_campaign=rss",
+      "summary": "The footage was filmed by a US Navy officer who reported the group of bright airborne objects to the Air Force's UFO investigation programme…",
+      "published_at": "2026-09-18T14:52:29Z",
+      "country_code": "US",
+      "country_name": "United States"
     },
     {
       "source": "BBC World",
@@ -128,16 +146,7 @@
       "country_name": "Australia"
     },
     {
-      "source": "BBC US & Canada",
-      "title": "US to allow Iran delegation to attend UN meetings in New York as war passes half-year mark",
-      "url": "https://www.bbc.co.uk/news/articles/c6n8m72r13ngo?at_medium=RSS&at_campaign=rss",
-      "summary": "The BBC understands Iranian President Masoud Pezeshkian and Foreign Minister Abbas Araghchi are among the delegates allowed to enter the US.",
-      "published_at": "2026-09-17T21:41:19Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
+      "source": "BBC Middle East",
       "title": "UN experts say grounds to believe US committed war crimes in Iran strikes",
       "url": "https://www.bbc.co.uk/news/articles/cm9w4n5nverdo?at_medium=RSS&at_campaign=rss",
       "summary": "The US has not acknowledged carrying out February's deadly strikes on a primary school in Minab and a sports complex in Lamerd.",
@@ -182,7 +191,7 @@
       "country_name": "Canada"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Africa",
       "title": "Ninth woman's body found as South African police investigate string of deaths",
       "url": "https://www.bbc.co.uk/news/articles/cqx2zgk8k8xvo?at_medium=RSS&at_campaign=rss",
       "summary": "South Africa police have cautioned against assuming that all the killings are linked but many women are afraid.",
@@ -888,6 +897,11 @@
       "news_count": 4
     },
     {
+      "country_code": "FR",
+      "country_name": "France",
+      "news_count": 4
+    },
+    {
       "country_code": "IL",
       "country_name": "Israel",
       "news_count": 4
@@ -910,11 +924,6 @@
     {
       "country_code": "AR",
       "country_name": "Argentina",
-      "news_count": 3
-    },
-    {
-      "country_code": "FR",
-      "country_name": "France",
       "news_count": 3
     },
     {
