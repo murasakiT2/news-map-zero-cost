@@ -1,17 +1,26 @@
 {
-  "generated_at": "2026-09-18T21:20:49Z",
+  "generated_at": "2026-09-18T23:24:23Z",
   "articles": [
     {
       "source": "BBC World",
       "title": "Trump says he is banning CNN and Politico from White House",
       "url": "https://www.bbc.co.uk/news/articles/c6e30580jqjpo?at_medium=RSS&at_campaign=rss",
       "summary": "The US president has had a tense and fiery relationship with the US media throughout his political career.",
-      "published_at": "2026-09-18T21:05:49Z",
+      "published_at": "2026-09-18T23:06:59Z",
       "country_code": "US",
       "country_name": "United States"
     },
     {
-      "source": "BBC US & Canada",
+      "source": "BBC World",
+      "title": "US and Denmark reach deal over Greenland after Trump annexation threats",
+      "url": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss",
+      "summary": "Trump said the agreement will give the US \"permanent control over security, and all other needs, in Greenland\", though specifics haven't bee…",
+      "published_at": "2026-09-18T22:58:55Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
       "title": "Watch: Trump says ban on some news outlets is 'because they're fake news'",
       "url": "https://www.bbc.co.uk/news/videos/cm93e7p1wkndo?at_medium=RSS&at_campaign=rss",
       "summary": "The US president on Friday announced he is \"immediately\" banning CNN, MS NOW and Politico from the White House.",
@@ -299,15 +308,6 @@
       "country_name": "South Africa"
     },
     {
-      "source": "BBC Asia",
-      "title": "International students, 'visa hoppers' and backpackers targeted in Australia migration crackdown",
-      "url": "https://www.bbc.co.uk/news/articles/cm986j81ky55o?at_medium=RSS&at_campaign=rss",
-      "summary": "The government wants to reduce net overseas migration to 225,000 people by 2028.",
-      "published_at": "2026-09-17T05:05:09Z",
-      "country_code": "AU",
-      "country_name": "Australia"
-    },
-    {
       "source": "BBC World",
       "title": "Rosenberg: Russia's elections will have few surprises, but for the Kremlin they matter",
       "url": "https://www.bbc.co.uk/news/articles/ck62m0r4r1y3o?at_medium=RSS&at_campaign=rss",
@@ -414,15 +414,6 @@
       "published_at": "2026-09-16T07:46:57Z",
       "country_code": "IN",
       "country_name": "India"
-    },
-    {
-      "source": "BBC World",
-      "title": "Runaway horse captured by police on motorbikes",
-      "url": "https://www.bbc.co.uk/news/videos/cmzezj8gr224o?at_medium=RSS&at_campaign=rss",
-      "summary": "The unharmed horse escaped from its owner before the start of a parade in New Mexico",
-      "published_at": "2026-09-16T05:57:23Z",
-      "country_code": "MX",
-      "country_name": "Mexico"
     },
     {
       "source": "BBC Asia",
@@ -906,7 +897,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 31
+      "news_count": 32
     },
     {
       "country_code": "GB",
@@ -959,11 +950,6 @@
       "news_count": 3
     },
     {
-      "country_code": "AU",
-      "country_name": "Australia",
-      "news_count": 2
-    },
-    {
       "country_code": "ES",
       "country_name": "Spain",
       "news_count": 2
@@ -976,11 +962,6 @@
     {
       "country_code": "JP",
       "country_name": "Japan",
-      "news_count": 2
-    },
-    {
-      "country_code": "MX",
-      "country_name": "Mexico",
       "news_count": 2
     },
     {
@@ -1004,6 +985,11 @@
       "news_count": 2
     },
     {
+      "country_code": "AU",
+      "country_name": "Australia",
+      "news_count": 1
+    },
+    {
       "country_code": "BR",
       "country_name": "Brazil",
       "news_count": 1
@@ -1016,6 +1002,11 @@
     {
       "country_code": "MA",
       "country_name": "Morocco",
+      "news_count": 1
+    },
+    {
+      "country_code": "MX",
+      "country_name": "Mexico",
       "news_count": 1
     },
     {
