@@ -1,14 +1,32 @@
 {
-  "generated_at": "2026-09-19T01:19:36Z",
+  "generated_at": "2026-09-19T06:06:05Z",
   "articles": [
     {
       "source": "BBC World",
       "title": "Trump says he is banning CNN and Politico from White House",
       "url": "https://www.bbc.co.uk/news/articles/c6e30580jqjpo?at_medium=RSS&at_campaign=rss",
       "summary": "The US president has had a tense and fiery relationship with the US media throughout his political career.",
-      "published_at": "2026-09-18T23:26:48Z",
+      "published_at": "2026-09-19T05:36:36Z",
       "country_code": "US",
       "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Saudi Arabia issues first air raid alerts for Riyadh since Houthis escalated attacks",
+      "url": "https://www.bbc.co.uk/news/articles/cmed7el18dxpo?at_medium=RSS&at_campaign=rss",
+      "summary": "Residents later received the all-clear after explosions were reported in the capital.",
+      "published_at": "2026-09-19T04:20:47Z",
+      "country_code": "SA",
+      "country_name": "Saudi Arabia"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "Everything we know about the Ed Sheeran and Macklemore controversy",
+      "url": "https://www.bbc.co.uk/news/articles/c64gvqg0k27po?at_medium=RSS&at_campaign=rss",
+      "summary": "Here's what led to the controversy surrounding singer Ed Sheeran's tour and all the twists since rapper Macklemore was dropped over pro-Pale…",
+      "published_at": "2026-09-19T01:28:41Z",
+      "country_code": "PS",
+      "country_name": "Palestine"
     },
     {
       "source": "BBC World",
@@ -41,10 +59,19 @@
       "source": "BBC World",
       "title": "US and Denmark reach deal over Greenland after Trump annexation threats",
       "url": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss",
-      "summary": "Trump said the agreement will give the US \"permanent control over security, and all other needs, in Greenland\", though specifics haven't bee…",
+      "summary": "Trump says the agreement will give the US \"permanent control over security, and all other needs, in Greenland\", though specifics have not be…",
       "published_at": "2026-09-18T22:58:55Z",
       "country_code": "US",
       "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Trump signs sweeping Russia sanctions bill",
+      "url": "https://www.bbc.co.uk/news/articles/cqvgy34ndj4eo?at_medium=RSS&at_campaign=rss",
+      "summary": "The bill is named after the late Senator Lindsey Graham, a staunch advocate of aid for Ukraine.",
+      "published_at": "2026-09-18T22:05:47Z",
+      "country_code": "RU",
+      "country_name": "Russia"
     },
     {
       "source": "BBC World",
@@ -74,7 +101,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "'We simply don't know' - JP Morgan struggling to forecast oil prices due to Trump's war with Iran",
       "url": "https://www.bbc.co.uk/news/articles/cq0m3gmv8n7ko?at_medium=RSS&at_campaign=rss",
       "summary": "The bank said it \"assumed\" there would be economic red lines, like oil at $100 a barrel, that the US would be unwilling the cross.",
@@ -173,15 +200,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC US & Canada",
-      "title": "US fans with Ed Sheeran tickets are left torn by Macklemore controversy",
-      "url": "https://www.bbc.co.uk/news/articles/c6rer05nqlx5o?at_medium=RSS&at_campaign=rss",
-      "summary": "With Sheeran's next gig this weekend, some ticket holders said they were in two minds about going.",
-      "published_at": "2026-09-18T00:38:03Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC Asia",
       "title": "'Complete despair': Afghan female medical students fear being sent home from Pakistan",
       "url": "https://www.bbc.co.uk/news/articles/cmy0z3kez6xno?at_medium=RSS&at_campaign=rss",
@@ -261,15 +279,6 @@
       "published_at": "2026-09-17T13:44:07Z",
       "country_code": "ZA",
       "country_name": "South Africa"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "Canada welcomes EU proposal to become 'associate member'",
-      "url": "https://www.bbc.co.uk/news/articles/cwly7vkke4jxo?at_medium=RSS&at_campaign=rss",
-      "summary": "Canadian Prime Minister Mark Carney said a Canada-EU alliance would create a \"beacon for other democracies\".",
-      "published_at": "2026-09-17T12:27:18Z",
-      "country_code": "CA",
-      "country_name": "Canada"
     },
     {
       "source": "BBC Latin America",
@@ -906,7 +915,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 32
+      "news_count": 31
     },
     {
       "country_code": "IN",
@@ -919,9 +928,9 @@
       "news_count": 5
     },
     {
-      "country_code": "CA",
-      "country_name": "Canada",
-      "news_count": 4
+      "country_code": "PS",
+      "country_name": "Palestine",
+      "news_count": 5
     },
     {
       "country_code": "FR",
@@ -944,18 +953,23 @@
       "news_count": 4
     },
     {
-      "country_code": "PS",
-      "country_name": "Palestine",
-      "news_count": 4
-    },
-    {
       "country_code": "AR",
       "country_name": "Argentina",
       "news_count": 3
     },
     {
+      "country_code": "CA",
+      "country_name": "Canada",
+      "news_count": 3
+    },
+    {
       "country_code": "PK",
       "country_name": "Pakistan",
+      "news_count": 3
+    },
+    {
+      "country_code": "RU",
+      "country_name": "Russia",
       "news_count": 3
     },
     {
@@ -979,8 +993,8 @@
       "news_count": 2
     },
     {
-      "country_code": "RU",
-      "country_name": "Russia",
+      "country_code": "SA",
+      "country_name": "Saudi Arabia",
       "news_count": 2
     },
     {
@@ -1036,11 +1050,6 @@
     {
       "country_code": "PH",
       "country_name": "Philippines",
-      "news_count": 1
-    },
-    {
-      "country_code": "SA",
-      "country_name": "Saudi Arabia",
       "news_count": 1
     },
     {
