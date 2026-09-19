@@ -1,6 +1,33 @@
 {
-  "generated_at": "2026-09-19T21:54:11Z",
+  "generated_at": "2026-09-19T23:46:05Z",
   "articles": [
+    {
+      "source": "BBC US & Canada",
+      "title": "Ed Sheeran set to play first concert since Macklemore controversy",
+      "url": "https://www.bbc.co.uk/news/articles/c64gvqg0k27po?at_medium=RSS&at_campaign=rss",
+      "summary": "The show in Philadelphia comes after rapper Macklemore was dropped from Ed Sheeran's tour over pro-Palestinian comments.",
+      "published_at": "2026-09-19T23:30:39Z",
+      "country_code": "PS",
+      "country_name": "Palestine"
+    },
+    {
+      "source": "BBC World",
+      "title": "Mum's viral barefoot race sparks debate over India's education crisis",
+      "url": "https://www.bbc.co.uk/news/articles/cw62m6z7m7zjo?at_medium=RSS&at_campaign=rss",
+      "summary": "Unprepared and in flip-flops, the 47-year-old widow ran 3km to try secure her daughter's future.",
+      "published_at": "2026-09-19T23:18:06Z",
+      "country_code": "IN",
+      "country_name": "India"
+    },
+    {
+      "source": "BBC World",
+      "title": "Nato welcomes Greenland deal as Trump says it will give US 'permanent security control'",
+      "url": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss",
+      "summary": "Denmark and the US have reached an agreement after months of threats from Donald Trump to annex the territory.",
+      "published_at": "2026-09-19T23:00:27Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "Trump says US will form 'AI Force' and appoint an artificial intelligence tsar",
@@ -20,15 +47,6 @@
       "country_name": "Saudi Arabia"
     },
     {
-      "source": "BBC US & Canada",
-      "title": "Ed Sheeran set to play first concert since Macklemore controversy",
-      "url": "https://www.bbc.co.uk/news/articles/c64gvqg0k27po?at_medium=RSS&at_campaign=rss",
-      "summary": "The show in Philadelphia comes after rapper Macklemore was dropped Ed Sheeran's tour over pro-Palestinian comments.",
-      "published_at": "2026-09-19T17:34:22Z",
-      "country_code": "PS",
-      "country_name": "Palestine"
-    },
-    {
       "source": "BBC World",
       "title": "'Enough is enough': Women protest after string of murders near Johannesburg",
       "url": "https://www.bbc.co.uk/news/videos/cm4gjxq1dx2eo?at_medium=RSS&at_campaign=rss",
@@ -45,15 +63,6 @@
       "published_at": "2026-09-19T11:50:22Z",
       "country_code": "AU",
       "country_name": "Australia"
-    },
-    {
-      "source": "BBC World",
-      "title": "Nato welcomes Greenland deal as Trump says it will give US 'permanent security control'",
-      "url": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss",
-      "summary": "Denmark and the US have reached an agreement after months of threats from Donald Trump to annex the territory.",
-      "published_at": "2026-09-19T11:36:55Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC World",
@@ -218,7 +227,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Middle East",
       "title": "Why US plan to sell F-35 warplanes to Saudi Arabia is controversial",
       "url": "https://www.bbc.co.uk/news/articles/c3x2zrn01pxko?at_medium=RSS&at_campaign=rss",
       "summary": "Saudi Arabia has lobbied the US for years to buy F35s, the world's most advanced fighter jet.",
@@ -909,13 +918,13 @@
       "news_count": 31
     },
     {
-      "country_code": "GB",
-      "country_name": "United Kingdom",
-      "news_count": 6
-    },
-    {
       "country_code": "IN",
       "country_name": "India",
+      "news_count": 7
+    },
+    {
+      "country_code": "GB",
+      "country_name": "United Kingdom",
       "news_count": 6
     },
     {
