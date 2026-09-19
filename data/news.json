@@ -1,6 +1,33 @@
 {
-  "generated_at": "2026-09-19T06:06:05Z",
+  "generated_at": "2026-09-19T11:15:14Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "US and Denmark reach deal over Greenland after Trump annexation threats",
+      "url": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss",
+      "summary": "Trump says the agreement will give the US \"permanent control over security, and all other needs, in Greenland\", though specifics have not be…",
+      "published_at": "2026-09-19T11:01:34Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Millions without power as Cuba hit by latest major blackout",
+      "url": "https://www.bbc.co.uk/news/articles/c6j9x4387lzxo?at_medium=RSS&at_campaign=rss",
+      "summary": "Widespread power outages have become increasingly common due to fuel shortages made worse by a US blockade.",
+      "published_at": "2026-09-19T10:27:37Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Deadly shark attack prompts rare kill order in Western Australia",
+      "url": "https://www.bbc.co.uk/news/articles/cqwyzdnk442lo?at_medium=RSS&at_campaign=rss",
+      "summary": "Police boats and helicopters are patrolling Perth's beaches as authorities continue their search for the swimmer's body, and the shark that …",
+      "published_at": "2026-09-19T09:19:12Z",
+      "country_code": "AU",
+      "country_name": "Australia"
+    },
     {
       "source": "BBC World",
       "title": "Trump says he is banning CNN and Politico from White House",
@@ -54,15 +81,6 @@
       "published_at": "2026-09-18T23:03:38Z",
       "country_code": "RU",
       "country_name": "Russia"
-    },
-    {
-      "source": "BBC World",
-      "title": "US and Denmark reach deal over Greenland after Trump annexation threats",
-      "url": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss",
-      "summary": "Trump says the agreement will give the US \"permanent control over security, and all other needs, in Greenland\", though specifics have not be…",
-      "published_at": "2026-09-18T22:58:55Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC World",
@@ -144,6 +162,15 @@
       "published_at": "2026-09-18T14:52:29Z",
       "country_code": "US",
       "country_name": "United States"
+    },
+    {
+      "source": "BBC Africa",
+      "title": "South Sudanese teen who piloted migrant boat jailed in UK",
+      "url": "https://www.bbc.co.uk/news/articles/ck05rv764l0eo?at_medium=RSS&at_campaign=rss",
+      "summary": "Chan Mathok Atak has been sentenced to two years and three months in prison after piloting the boat.",
+      "published_at": "2026-09-18T13:59:44Z",
+      "country_code": "GB",
+      "country_name": "United Kingdom"
     },
     {
       "source": "BBC World",
@@ -272,15 +299,6 @@
       "country_name": "Canada"
     },
     {
-      "source": "BBC Africa",
-      "title": "Ninth woman's body found as South African police investigate string of deaths",
-      "url": "https://www.bbc.co.uk/news/articles/cqx2zgk8k8xvo?at_medium=RSS&at_campaign=rss",
-      "summary": "South Africa police have cautioned against assuming that all the killings are linked but many women are afraid.",
-      "published_at": "2026-09-17T13:44:07Z",
-      "country_code": "ZA",
-      "country_name": "South Africa"
-    },
-    {
       "source": "BBC Latin America",
       "title": "Aztec document goes on display in Mexico after 186 years abroad",
       "url": "https://www.bbc.co.uk/news/articles/ck980qyy6d2zo?at_medium=RSS&at_campaign=rss",
@@ -324,15 +342,6 @@
       "published_at": "2026-09-17T08:39:30Z",
       "country_code": "ES",
       "country_name": "Spain"
-    },
-    {
-      "source": "BBC Africa",
-      "title": "Abducted South African journalist found dead with gunshot wounds",
-      "url": "https://www.bbc.co.uk/news/articles/c52e047wpw7po?at_medium=RSS&at_campaign=rss",
-      "summary": "The body of veteran broadcaster Owen Ndlovu was found hours after armed men kidnapped him near Johannesburg.",
-      "published_at": "2026-09-17T06:46:31Z",
-      "country_code": "ZA",
-      "country_name": "South Africa"
     },
     {
       "source": "BBC Europe",
@@ -915,17 +924,17 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 31
+      "news_count": 32
+    },
+    {
+      "country_code": "GB",
+      "country_name": "United Kingdom",
+      "news_count": 6
     },
     {
       "country_code": "IN",
       "country_name": "India",
       "news_count": 6
-    },
-    {
-      "country_code": "GB",
-      "country_name": "United Kingdom",
-      "news_count": 5
     },
     {
       "country_code": "PS",
@@ -973,9 +982,9 @@
       "news_count": 3
     },
     {
-      "country_code": "ZA",
-      "country_name": "South Africa",
-      "news_count": 3
+      "country_code": "AU",
+      "country_name": "Australia",
+      "news_count": 2
     },
     {
       "country_code": "ES",
@@ -1001,11 +1010,6 @@
       "country_code": "UA",
       "country_name": "Ukraine",
       "news_count": 2
-    },
-    {
-      "country_code": "AU",
-      "country_name": "Australia",
-      "news_count": 1
     },
     {
       "country_code": "BR",
@@ -1065,6 +1069,11 @@
     {
       "country_code": "TR",
       "country_name": "Turkey",
+      "news_count": 1
+    },
+    {
+      "country_code": "ZA",
+      "country_name": "South Africa",
       "news_count": 1
     }
   ]
