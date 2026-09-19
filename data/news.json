@@ -1,12 +1,21 @@
 {
-  "generated_at": "2026-09-19T17:34:36Z",
+  "generated_at": "2026-09-19T19:44:36Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Houthis claim attack on Saudi capital after smoke seen rising near Riyadh airport",
+      "url": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss",
+      "summary": "The King Khalid International Airport incident caused hours of flight disruptions and comes amid an escalating conflict with Houthi rebels i…",
+      "published_at": "2026-09-19T19:09:49Z",
+      "country_code": "SA",
+      "country_name": "Saudi Arabia"
+    },
     {
       "source": "BBC US & Canada",
       "title": "Ed Sheeran set to play first concert since Macklemore controversy",
       "url": "https://www.bbc.co.uk/news/articles/c64gvqg0k27po?at_medium=RSS&at_campaign=rss",
-      "summary": "The show in Philadelphia comes after Ed Sheeran dropped rapper Macklemore from his tour over pro-Palestinian comments.",
-      "published_at": "2026-09-19T16:27:40Z",
+      "summary": "The show in Philadelphia comes after rapper Macklemore was dropped Ed Sheeran's tour over pro-Palestinian comments.",
+      "published_at": "2026-09-19T17:34:22Z",
       "country_code": "PS",
       "country_name": "Palestine"
     },
@@ -54,15 +63,6 @@
       "published_at": "2026-09-19T10:24:01Z",
       "country_code": "KE",
       "country_name": "Kenya"
-    },
-    {
-      "source": "BBC World",
-      "title": "Trump says he is banning CNN and Politico from White House",
-      "url": "https://www.bbc.co.uk/news/articles/c6e30580jqjpo?at_medium=RSS&at_campaign=rss",
-      "summary": "The US president has had a tense and fiery relationship with the US media throughout his political career.",
-      "published_at": "2026-09-19T05:36:36Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC World",
@@ -155,15 +155,6 @@
       "country_name": "India"
     },
     {
-      "source": "BBC World",
-      "title": "North Korean anthem played for South Korea at Asian Games",
-      "url": "https://www.bbc.co.uk/sport/hockey/articles/cmx2zg85gq03o?at_medium=RSS&at_campaign=rss",
-      "summary": "Organisers have apologised for playing the North Korean national anthem for the South Korean men's hockey team at the Asian Games in Japan.",
-      "published_at": "2026-09-18T17:18:09Z",
-      "country_code": "JP",
-      "country_name": "Japan"
-    },
-    {
       "source": "BBC Africa",
       "title": "Senegal job an 'absolute dream' for new boss Vieira",
       "url": "https://www.bbc.co.uk/sport/football/articles/crlyqgqwq8lyo?at_medium=RSS&at_campaign=rss",
@@ -191,15 +182,6 @@
       "country_name": "United Kingdom"
     },
     {
-      "source": "BBC World",
-      "title": "Ronaldo named in first Portugal squad since World Cup - at age of 41",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmeq8v8e3ql7o?at_medium=RSS&at_campaign=rss",
-      "summary": "Cristiano Ronaldo is named in the first squad selected by new Portugal coach Jorge Jesus for their upcoming Nations League games.",
-      "published_at": "2026-09-18T12:45:25Z",
-      "country_code": "PT",
-      "country_name": "Portugal"
-    },
-    {
       "source": "BBC Europe",
       "title": "Ronaldo named in Jesus' first Portugal squad",
       "url": "https://www.bbc.co.uk/sport/football/articles/cmeq8v8e3ql7o?at_medium=RSS&at_campaign=rss",
@@ -209,7 +191,7 @@
       "country_name": "Portugal"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "Three dead and eight injured in Philippines school shooting",
       "url": "https://www.bbc.co.uk/news/articles/c6x2z4dlzyr0o?at_medium=RSS&at_campaign=rss",
       "summary": "The gunman is among the dead in what is the third school shooting in the country since June.",
@@ -587,15 +569,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Middle East",
-      "title": "AI 'SpongeBob' parody of problems in Egypt draws scrutiny of authorities",
-      "url": "https://www.bbc.co.uk/news/articles/c5y4g65vjnmo?at_medium=RSS&at_campaign=rss",
-      "summary": "A take on the hit US TV series has become an unlikely tool for Egyptians to complain about life amid strict surveillance.",
-      "published_at": "2026-09-15T06:02:35Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC Europe",
       "title": "Ukraine's postal workers deliver lifeline under Russian fire",
       "url": "https://www.bbc.co.uk/news/articles/c33kmred368o?at_medium=RSS&at_campaign=rss",
@@ -612,15 +585,6 @@
       "published_at": "2026-09-15T02:50:36Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC Middle East",
-      "title": "Israeli minister threatens to revoke filmmakers' citizenship over Gaza documentary",
-      "url": "https://www.bbc.co.uk/news/articles/c9vgy8d8256go?at_medium=RSS&at_campaign=rss",
-      "summary": "The film accuses the Israeli army of mass civilian killing in Gaza, and Israeli officials say it could be treasonous.",
-      "published_at": "2026-09-14T18:26:20Z",
-      "country_code": "PS",
-      "country_name": "Palestine"
     },
     {
       "source": "BBC Europe",
@@ -942,7 +906,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 32
+      "news_count": 30
     },
     {
       "country_code": "GB",
@@ -960,11 +924,6 @@
       "news_count": 5
     },
     {
-      "country_code": "PS",
-      "country_name": "Palestine",
-      "news_count": 5
-    },
-    {
       "country_code": "FR",
       "country_name": "France",
       "news_count": 4
@@ -977,6 +936,11 @@
     {
       "country_code": "NG",
       "country_name": "Nigeria",
+      "news_count": 4
+    },
+    {
+      "country_code": "PS",
+      "country_name": "Palestine",
       "news_count": 4
     },
     {
@@ -1000,6 +964,11 @@
       "news_count": 3
     },
     {
+      "country_code": "SA",
+      "country_name": "Saudi Arabia",
+      "news_count": 3
+    },
+    {
       "country_code": "AU",
       "country_name": "Australia",
       "news_count": 2
@@ -1015,16 +984,6 @@
       "news_count": 2
     },
     {
-      "country_code": "PT",
-      "country_name": "Portugal",
-      "news_count": 2
-    },
-    {
-      "country_code": "SA",
-      "country_name": "Saudi Arabia",
-      "news_count": 2
-    },
-    {
       "country_code": "UA",
       "country_name": "Ukraine",
       "news_count": 2
@@ -1037,11 +996,6 @@
     {
       "country_code": "BR",
       "country_name": "Brazil",
-      "news_count": 1
-    },
-    {
-      "country_code": "JP",
-      "country_name": "Japan",
       "news_count": 1
     },
     {
@@ -1077,6 +1031,11 @@
     {
       "country_code": "PH",
       "country_name": "Philippines",
+      "news_count": 1
+    },
+    {
+      "country_code": "PT",
+      "country_name": "Portugal",
       "news_count": 1
     },
     {
