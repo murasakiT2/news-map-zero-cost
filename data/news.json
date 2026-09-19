@@ -1,14 +1,41 @@
 {
-  "generated_at": "2026-09-18T23:24:23Z",
+  "generated_at": "2026-09-19T01:19:36Z",
   "articles": [
     {
       "source": "BBC World",
       "title": "Trump says he is banning CNN and Politico from White House",
       "url": "https://www.bbc.co.uk/news/articles/c6e30580jqjpo?at_medium=RSS&at_campaign=rss",
       "summary": "The US president has had a tense and fiery relationship with the US media throughout his political career.",
-      "published_at": "2026-09-18T23:06:59Z",
+      "published_at": "2026-09-18T23:26:48Z",
       "country_code": "US",
       "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Tata Sons: India's corporate crown braces for upheaval amid boardroom revolt",
+      "url": "https://www.bbc.co.uk/news/articles/c670lkvdzkn2o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Tata boardroom battle has intensified over a re-appointment of its chairman and a diktat to go public.",
+      "published_at": "2026-09-18T23:07:16Z",
+      "country_code": "IN",
+      "country_name": "India"
+    },
+    {
+      "source": "BBC World",
+      "title": "Grim discoveries of murdered women spark fear in South Africa",
+      "url": "https://www.bbc.co.uk/news/articles/cjkg71e67k17o?at_medium=RSS&at_campaign=rss",
+      "summary": "Dineo Motapane is one of nine recent victims whose deaths have left a nation traumatised over the level of violence against women.",
+      "published_at": "2026-09-18T23:04:41Z",
+      "country_code": "ZA",
+      "country_name": "South Africa"
+    },
+    {
+      "source": "BBC World",
+      "title": "A four-minute warning isn't enough: Russia's new relentless missile tactics exhaust Kyiv residents",
+      "url": "https://www.bbc.co.uk/news/articles/cwp93k9gpnv1o?at_medium=RSS&at_campaign=rss",
+      "summary": "Increasingly frequent and ferocious attacks on the Ukrainian capital have left many on edge.",
+      "published_at": "2026-09-18T23:03:38Z",
+      "country_code": "RU",
+      "country_name": "Russia"
     },
     {
       "source": "BBC World",
@@ -126,15 +153,6 @@
       "published_at": "2026-09-18T10:35:56Z",
       "country_code": "IN",
       "country_name": "India"
-    },
-    {
-      "source": "BBC Asia",
-      "title": "Japan raises interest rate to new 31-year high to curb rising prices",
-      "url": "https://www.bbc.co.uk/news/articles/cqn74jeek06no?at_medium=RSS&at_campaign=rss",
-      "summary": "Central banks around the world have hiked rates as high energy prices are pushing up inflation.",
-      "published_at": "2026-09-18T07:14:57Z",
-      "country_code": "JP",
-      "country_name": "Japan"
     },
     {
       "source": "BBC US & Canada",
@@ -308,7 +326,7 @@
       "country_name": "South Africa"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "Rosenberg: Russia's elections will have few surprises, but for the Kremlin they matter",
       "url": "https://www.bbc.co.uk/news/articles/ck62m0r4r1y3o?at_medium=RSS&at_campaign=rss",
       "summary": "There is no doubt over the outcome of this vote, but for the Kremlin they are still an important moment.",
@@ -344,7 +362,7 @@
       "country_name": "Pakistan"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "Watch: Leaked photos reveal extensive damage at US bases in Gulf",
       "url": "https://www.bbc.co.uk/news/videos/c9dr7e1lr265o?at_medium=RSS&at_campaign=rss",
       "summary": "The photos, provided by active military personnel, show a severed radar jet, flattened trailers and severely damaged buildings as a result o…",
@@ -389,7 +407,7 @@
       "country_name": "Brazil"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "Why Trump is all-in on AI despite the warnings",
       "url": "https://www.bbc.co.uk/news/articles/c34gd48x5rlwo?at_medium=RSS&at_campaign=rss",
       "summary": "The US president has pushed the issue to the forefront of American politics - even at the risk of losing supporters.",
@@ -776,15 +794,6 @@
       "country_name": "Argentina"
     },
     {
-      "source": "BBC Africa",
-      "title": "Is Russia proving better at protecting friends than fighting enemies in West Africa?",
-      "url": "https://www.bbc.co.uk/news/articles/cx2z75keq58o?at_medium=RSS&at_campaign=rss",
-      "summary": "Russian forces were brought in to help defeat jihadists but they also defend the military leadership in Niger.",
-      "published_at": "2026-09-05T04:03:51Z",
-      "country_code": "RU",
-      "country_name": "Russia"
-    },
-    {
       "source": "BBC Middle East",
       "title": "How could US-Iran conflict end? Three experts give their views",
       "url": "https://www.bbc.co.uk/news/articles/cgjql614glvo?at_medium=RSS&at_campaign=rss",
@@ -900,13 +909,13 @@
       "news_count": 32
     },
     {
-      "country_code": "GB",
-      "country_name": "United Kingdom",
-      "news_count": 5
-    },
-    {
       "country_code": "IN",
       "country_name": "India",
+      "news_count": 6
+    },
+    {
+      "country_code": "GB",
+      "country_name": "United Kingdom",
       "news_count": 5
     },
     {
@@ -950,6 +959,11 @@
       "news_count": 3
     },
     {
+      "country_code": "ZA",
+      "country_name": "South Africa",
+      "news_count": 3
+    },
+    {
       "country_code": "ES",
       "country_name": "Spain",
       "news_count": 2
@@ -957,11 +971,6 @@
     {
       "country_code": "IR",
       "country_name": "Iran",
-      "news_count": 2
-    },
-    {
-      "country_code": "JP",
-      "country_name": "Japan",
       "news_count": 2
     },
     {
@@ -980,11 +989,6 @@
       "news_count": 2
     },
     {
-      "country_code": "ZA",
-      "country_name": "South Africa",
-      "news_count": 2
-    },
-    {
       "country_code": "AU",
       "country_name": "Australia",
       "news_count": 1
@@ -992,6 +996,11 @@
     {
       "country_code": "BR",
       "country_name": "Brazil",
+      "news_count": 1
+    },
+    {
+      "country_code": "JP",
+      "country_name": "Japan",
       "news_count": 1
     },
     {
