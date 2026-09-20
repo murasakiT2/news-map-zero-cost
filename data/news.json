@@ -1,9 +1,27 @@
 {
-  "generated_at": "2026-09-20T16:37:12Z",
+  "generated_at": "2026-09-20T19:10:15Z",
   "articles": [
     {
       "source": "BBC World",
-      "title": "Trump says his planned triumphal arch will double as a military complex to store ammunition",
+      "title": "Sister of Pakistan's ex-PM Imran Khan arrested",
+      "url": "https://www.bbc.co.uk/news/articles/cm36l2pye2kwo?at_medium=RSS&at_campaign=rss",
+      "summary": "Aleema Khanum is accused of mobilising her brother’s supporters ahead of country-wide protests.",
+      "published_at": "2026-09-20T19:04:11Z",
+      "country_code": "PK",
+      "country_name": "Pakistan"
+    },
+    {
+      "source": "BBC World",
+      "title": "German Chancellor Merz calls state election a 'disaster' for his party but vows to stay on",
+      "url": "https://www.bbc.co.uk/news/articles/cvwyz29n0nn2o?at_medium=RSS&at_campaign=rss",
+      "summary": "Exit polls show damaging losses for Merz's centre-right CDU party in the states of Berlin and Mecklenburg-Vorpommern.",
+      "published_at": "2026-09-20T18:32:55Z",
+      "country_code": "DE",
+      "country_name": "Germany"
+    },
+    {
+      "source": "BBC World",
+      "title": "Trump says triumphal arch will be military complex with drones and snipers",
       "url": "https://www.bbc.co.uk/news/articles/cqdj4pez00dzo?at_medium=RSS&at_campaign=rss",
       "summary": "Trump said the updated plans were at the request of the US military and for national security purposes.",
       "published_at": "2026-09-20T16:36:43Z",
@@ -962,6 +980,11 @@
       "news_count": 4
     },
     {
+      "country_code": "PK",
+      "country_name": "Pakistan",
+      "news_count": 4
+    },
+    {
       "country_code": "RU",
       "country_name": "Russia",
       "news_count": 4
@@ -974,11 +997,6 @@
     {
       "country_code": "CA",
       "country_name": "Canada",
-      "news_count": 3
-    },
-    {
-      "country_code": "PK",
-      "country_name": "Pakistan",
       "news_count": 3
     },
     {
@@ -1009,6 +1027,11 @@
     {
       "country_code": "BR",
       "country_name": "Brazil",
+      "news_count": 1
+    },
+    {
+      "country_code": "DE",
+      "country_name": "Germany",
       "news_count": 1
     },
     {
