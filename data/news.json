@@ -1,14 +1,32 @@
 {
-  "generated_at": "2026-09-19T23:46:05Z",
+  "generated_at": "2026-09-20T02:15:34Z",
   "articles": [
     {
       "source": "BBC US & Canada",
-      "title": "Ed Sheeran set to play first concert since Macklemore controversy",
+      "title": "Ed Sheeran plays first concert since Macklemore controversy",
       "url": "https://www.bbc.co.uk/news/articles/c64gvqg0k27po?at_medium=RSS&at_campaign=rss",
       "summary": "The show in Philadelphia comes after rapper Macklemore was dropped from Ed Sheeran's tour over pro-Palestinian comments.",
-      "published_at": "2026-09-19T23:30:39Z",
+      "published_at": "2026-09-20T02:00:23Z",
       "country_code": "PS",
       "country_name": "Palestine"
+    },
+    {
+      "source": "BBC World",
+      "title": "Ed Sheeran admits 'mistakes' as he addresses Macklemore controversy at Philadelphia show",
+      "url": "https://www.bbc.co.uk/news/articles/cm780ll1de18o?at_medium=RSS&at_campaign=rss",
+      "summary": "The mega-star spoke about Israel and Gaza at his first concert since rapper Macklemore was removed from his tour.",
+      "published_at": "2026-09-20T01:38:30Z",
+      "country_code": "IL",
+      "country_name": "Israel"
+    },
+    {
+      "source": "BBC World",
+      "title": "Houthis say they targeted Saudi capital with ballistic missiles",
+      "url": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss",
+      "summary": "A reported strike on a fuel depot at Riyadh airport caused delays on Saturday, as Saudi Arabia says it shot down a ballistic missile aimed a…",
+      "published_at": "2026-09-19T23:49:26Z",
+      "country_code": "SA",
+      "country_name": "Saudi Arabia"
     },
     {
       "source": "BBC World",
@@ -36,15 +54,6 @@
       "published_at": "2026-09-19T21:01:56Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "Houthis say they targeted Saudi capital with ballistic missiles",
-      "url": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss",
-      "summary": "A reported strike on a fuel depot at Riyadh airport caused delays on Saturday, as Saudi Arabia says it shot down a ballistic missile aimed a…",
-      "published_at": "2026-09-19T20:16:07Z",
-      "country_code": "SA",
-      "country_name": "Saudi Arabia"
     },
     {
       "source": "BBC World",
@@ -928,6 +937,11 @@
       "news_count": 6
     },
     {
+      "country_code": "IL",
+      "country_name": "Israel",
+      "news_count": 5
+    },
+    {
       "country_code": "KE",
       "country_name": "Kenya",
       "news_count": 5
@@ -935,11 +949,6 @@
     {
       "country_code": "FR",
       "country_name": "France",
-      "news_count": 4
-    },
-    {
-      "country_code": "IL",
-      "country_name": "Israel",
       "news_count": 4
     },
     {
