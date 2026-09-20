@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-20T07:49:48Z",
+  "generated_at": "2026-09-20T12:44:03Z",
   "articles": [
     {
       "source": "BBC World",
-      "title": "Two killed in 'massive' Ukrainian drone attack on Moscow region, says Russia",
+      "title": "Largest attack on Moscow sees Ukraine fire hundreds of drones, mayor says",
       "url": "https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo?at_medium=RSS&at_campaign=rss",
-      "summary": "An oil refinery was also reportedly hit in Moscow, and flights were suspended at two capital airports.",
-      "published_at": "2026-09-20T07:22:04Z",
+      "summary": "Moscow's mayor says 450 drones were downed during the overnight barrage, in which two people died.",
+      "published_at": "2026-09-20T10:45:39Z",
       "country_code": "RU",
       "country_name": "Russia"
     },
@@ -137,7 +137,7 @@
       "country_name": "South Africa"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "A four-minute warning isn't enough: Russia's new relentless missile tactics exhaust Kyiv residents",
       "url": "https://www.bbc.co.uk/news/articles/cwp93k9gpnv1o?at_medium=RSS&at_campaign=rss",
       "summary": "Increasingly frequent and ferocious attacks on the Ukrainian capital have left many on edge.",
@@ -363,15 +363,6 @@
     },
     {
       "source": "BBC Europe",
-      "title": "One dead after torrential rain and flash floods hit Barcelona region",
-      "url": "https://www.bbc.co.uk/news/articles/c9lyk27g8ln7o?at_medium=RSS&at_campaign=rss",
-      "summary": "Flooding has caused widespread disruption across Valencia and Catalonia in north-east Spain.",
-      "published_at": "2026-09-17T08:39:30Z",
-      "country_code": "ES",
-      "country_name": "Spain"
-    },
-    {
-      "source": "BBC Europe",
       "title": "Rosenberg: Russia's elections will have few surprises, but for the Kremlin they matter",
       "url": "https://www.bbc.co.uk/news/articles/ck62m0r4r1y3o?at_medium=RSS&at_campaign=rss",
       "summary": "There is no doubt over the outcome of this vote, but for the Kremlin they are still an important moment.",
@@ -522,15 +513,6 @@
       "published_at": "2026-09-15T22:46:20Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC Europe",
-      "title": "Turkey arrests dozens in crackdown on LGBTQ+ activists",
-      "url": "https://www.bbc.co.uk/news/articles/cwg7ky12g14jo?at_medium=RSS&at_campaign=rss",
-      "summary": "The arrests are an escalation in the Turkish government's campaign targeting LGBTQ+ community and activists.",
-      "published_at": "2026-09-15T22:26:05Z",
-      "country_code": "TR",
-      "country_name": "Turkey"
     },
     {
       "source": "BBC Middle East",
@@ -996,11 +978,6 @@
       "news_count": 2
     },
     {
-      "country_code": "ES",
-      "country_name": "Spain",
-      "news_count": 2
-    },
-    {
       "country_code": "IR",
       "country_name": "Iran",
       "news_count": 2
@@ -1023,6 +1000,11 @@
     {
       "country_code": "BR",
       "country_name": "Brazil",
+      "news_count": 1
+    },
+    {
+      "country_code": "ES",
+      "country_name": "Spain",
       "news_count": 1
     },
     {
@@ -1073,11 +1055,6 @@
     {
       "country_code": "SG",
       "country_name": "Singapore",
-      "news_count": 1
-    },
-    {
-      "country_code": "TR",
-      "country_name": "Turkey",
       "news_count": 1
     }
   ]
