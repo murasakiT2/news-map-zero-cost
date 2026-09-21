@@ -1,23 +1,59 @@
 {
-  "generated_at": "2026-09-21T20:02:48Z",
+  "generated_at": "2026-09-21T23:24:41Z",
   "articles": [
+    {
+      "source": "BBC US & Canada",
+      "title": "Flights at major US airports delayed after cable cut by construction workers",
+      "url": "https://www.bbc.co.uk/news/articles/ckvgyzzgvv4wo?at_medium=RSS&at_campaign=rss",
+      "summary": "Verizon, which owns the cable, says it is working to repair it \"as quickly as possible\".",
+      "published_at": "2026-09-21T22:54:49Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "CNN, MS NOW and Politico file lawsuit against Trump's White House ban",
+      "url": "https://www.bbc.co.uk/news/articles/cm0e32rwvrryo?at_medium=RSS&at_campaign=rss",
+      "summary": "Major US networks later suspended White House TV coverage of Trump as he heads to New York for the UN summit.",
+      "published_at": "2026-09-21T22:48:33Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "Paramount settles lawsuit with US states, clearing way for $110bn merger with Warner Bros",
+      "url": "https://www.bbc.co.uk/news/articles/cm4gjr1qepr8o?at_medium=RSS&at_campaign=rss",
+      "summary": "The deal includes an agreement to produce 30 films a year, or Paramount will be forced to sell off parts of its company.",
+      "published_at": "2026-09-21T21:34:32Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Millions urged to evacuate as powerful Typhoon Dujuan hits Japan",
+      "url": "https://www.bbc.co.uk/news/articles/cm3wj2lexl97o?at_medium=RSS&at_campaign=rss",
+      "summary": "The country's meteorological agency had warned of an \"imminent threat to life,\" but this has now been downgraded.",
+      "published_at": "2026-09-21T20:26:41Z",
+      "country_code": "JP",
+      "country_name": "Japan"
+    },
     {
       "source": "BBC World",
       "title": "Airlines criticise air traffic control as second glitch causes more disruption in UK",
       "url": "https://www.bbc.co.uk/news/articles/cqp80p78mxx5o?at_medium=RSS&at_campaign=rss",
       "summary": "Prime Minister Andy Burnham said further issues today \"cause even greater concern\" about the UK's air traffic control and the head of the or…",
-      "published_at": "2026-09-21T20:02:24Z",
+      "published_at": "2026-09-21T20:21:18Z",
       "country_code": "GB",
       "country_name": "United Kingdom"
     },
     {
       "source": "BBC US & Canada",
-      "title": "Paramount settles lawsuit with US states, helping clear way for $110bn merger with Warner Bros",
-      "url": "https://www.bbc.co.uk/news/articles/cm4gjr1qepr8o?at_medium=RSS&at_campaign=rss",
-      "summary": "Paramount has reached a settlement with the US states in a lawsuit challenging its $110bn merger with Warner Bros",
-      "published_at": "2026-09-21T18:42:44Z",
-      "country_code": "US",
-      "country_name": "United States"
+      "title": "Man guilty of attempted murder for shooting three men of Palestinian descent in Vermont",
+      "url": "https://www.bbc.co.uk/news/articles/cm9dw32nw853o?at_medium=RSS&at_campaign=rss",
+      "summary": "The shooting in November 2023 came amid a rise in Islamophobia and antisemitism following the start of the Israel-Gaza war.",
+      "published_at": "2026-09-21T19:25:57Z",
+      "country_code": "IL",
+      "country_name": "Israel"
     },
     {
       "source": "BBC World",
@@ -61,24 +97,6 @@
       "url": "https://www.bbc.co.uk/news/videos/cm0j3224p6j8o?at_medium=RSS&at_campaign=rss",
       "summary": "The typhoon is passing Japan's eastern coast, bringing major disruption and heavy rainfall in its wake.",
       "published_at": "2026-09-21T16:52:12Z",
-      "country_code": "JP",
-      "country_name": "Japan"
-    },
-    {
-      "source": "BBC World",
-      "title": "CNN, MS NOW and Politico file lawsuit against Trump's White House ban",
-      "url": "https://www.bbc.co.uk/news/articles/cm0e32rwvrryo?at_medium=RSS&at_campaign=rss",
-      "summary": "Major US networks later suspended White House TV coverage of Trump as he heads to New York for the UN summit.",
-      "published_at": "2026-09-21T15:58:53Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "Millions urged to evacuate as powerful Typhoon Dujuan hits Japan",
-      "url": "https://www.bbc.co.uk/news/articles/cm3wj2lexl97o?at_medium=RSS&at_campaign=rss",
-      "summary": "The country's meteorological agency had warned of an \"imminent threat to life,\" but this has now been downgraded in most areas.",
-      "published_at": "2026-09-21T14:06:12Z",
       "country_code": "JP",
       "country_name": "Japan"
     },
@@ -286,15 +304,6 @@
       "url": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss",
       "summary": "Denmark and the US have reached an agreement after months of threats from Donald Trump to annex the territory.",
       "published_at": "2026-09-19T23:00:27Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "Trump says US will form 'AI Force' and appoint an artificial intelligence tsar",
-      "url": "https://www.bbc.co.uk/news/articles/cqlykr2vrv04o?at_medium=RSS&at_campaign=rss",
-      "summary": "The president said his administration \"will not in any way hinder or stifle the growth\" amid amid warnings about the emergent technology.",
-      "published_at": "2026-09-19T21:01:56Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -923,13 +932,13 @@
       "news_count": 7
     },
     {
-      "country_code": "FR",
-      "country_name": "France",
-      "news_count": 5
-    },
-    {
       "country_code": "IL",
       "country_name": "Israel",
+      "news_count": 6
+    },
+    {
+      "country_code": "FR",
+      "country_name": "France",
       "news_count": 5
     },
     {
