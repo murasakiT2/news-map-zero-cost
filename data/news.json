@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-21T23:24:41Z",
+  "generated_at": "2026-09-22T01:40:01Z",
   "articles": [
     {
       "source": "BBC US & Canada",
       "title": "Flights at major US airports delayed after cable cut by construction workers",
       "url": "https://www.bbc.co.uk/news/articles/ckvgyzzgvv4wo?at_medium=RSS&at_campaign=rss",
-      "summary": "Verizon, which owns the cable, says it is working to repair it \"as quickly as possible\".",
-      "published_at": "2026-09-21T22:54:49Z",
+      "summary": "The cable had been repaired and airports are resuming normal operations, the US transportation secretary says.",
+      "published_at": "2026-09-22T01:36:54Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -14,8 +14,8 @@
       "source": "BBC World",
       "title": "CNN, MS NOW and Politico file lawsuit against Trump's White House ban",
       "url": "https://www.bbc.co.uk/news/articles/cm0e32rwvrryo?at_medium=RSS&at_campaign=rss",
-      "summary": "Major US networks later suspended White House TV coverage of Trump as he heads to New York for the UN summit.",
-      "published_at": "2026-09-21T22:48:33Z",
+      "summary": "Major US networks later suspended White House TV coverage of Trump as he headed to New York for a UN summit.",
+      "published_at": "2026-09-22T00:16:06Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -41,7 +41,7 @@
       "source": "BBC World",
       "title": "Airlines criticise air traffic control as second glitch causes more disruption in UK",
       "url": "https://www.bbc.co.uk/news/articles/cqp80p78mxx5o?at_medium=RSS&at_campaign=rss",
-      "summary": "Prime Minister Andy Burnham said further issues today \"cause even greater concern\" about the UK's air traffic control and the head of the or…",
+      "summary": "Prime Minister Andy Burnham said further issues \"cause even greater concern\" about the UK's air traffic control and the head of the organisa…",
       "published_at": "2026-09-21T20:21:18Z",
       "country_code": "GB",
       "country_name": "United Kingdom"
@@ -441,15 +441,6 @@
       "published_at": "2026-09-17T23:31:43Z",
       "country_code": "PK",
       "country_name": "Pakistan"
-    },
-    {
-      "source": "BBC Asia",
-      "title": "India's hospital boom is improving access but pricing millions out of critical care",
-      "url": "https://www.bbc.co.uk/news/articles/c62mg9qln89o?at_medium=RSS&at_campaign=rss",
-      "summary": "Indian hospitals have attracted billions in funding, but the gap between public and private care is widening.",
-      "published_at": "2026-09-17T23:04:24Z",
-      "country_code": "IN",
-      "country_name": "India"
     },
     {
       "source": "BBC Middle East",
@@ -952,11 +943,6 @@
       "news_count": 4
     },
     {
-      "country_code": "IN",
-      "country_name": "India",
-      "news_count": 3
-    },
-    {
       "country_code": "NG",
       "country_name": "Nigeria",
       "news_count": 3
@@ -994,6 +980,11 @@
     {
       "country_code": "ID",
       "country_name": "Indonesia",
+      "news_count": 2
+    },
+    {
+      "country_code": "IN",
+      "country_name": "India",
       "news_count": 2
     },
     {
