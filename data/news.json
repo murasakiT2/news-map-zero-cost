@@ -1,14 +1,68 @@
 {
-  "generated_at": "2026-09-23T01:34:31Z",
+  "generated_at": "2026-09-23T06:55:52Z",
   "articles": [
     {
+      "source": "BBC Africa",
+      "title": "Eleven killed in mass shooting at house in South Africa",
+      "url": "https://www.bbc.co.uk/news/articles/crgjqxzl097eo?at_medium=RSS&at_campaign=rss",
+      "summary": "One of those killed is believed to be a pregnant woman, police said.",
+      "published_at": "2026-09-23T06:23:58Z",
+      "country_code": "ZA",
+      "country_name": "South Africa"
+    },
+    {
       "source": "BBC World",
+      "title": "US and Iran hold first talks since June after Trump's 'annihilation' threat",
+      "url": "https://www.bbc.co.uk/news/articles/ck62m1631d7po?at_medium=RSS&at_campaign=rss",
+      "summary": "The talks are the first since a ceasefire collapsed in June, with the sides exchanging fire intermittently.",
+      "published_at": "2026-09-23T06:12:56Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC Middle East",
+      "title": "Reports of violence against women in Gaza surge, UN agency finds",
+      "url": "https://www.bbc.co.uk/news/articles/c94gm7dp40y0o?at_medium=RSS&at_campaign=rss",
+      "summary": "The UN Population Fund also says there has been a \"severe escalation\" in the number of early and forced marriages.",
+      "published_at": "2026-09-23T05:02:26Z",
+      "country_code": "PS",
+      "country_name": "Palestine"
+    },
+    {
+      "source": "BBC Asia",
+      "title": "More than 170,000 respiratory cases recorded in haze-choked Indonesia",
+      "url": "https://www.bbc.co.uk/news/articles/cq62j13gnyrko?at_medium=RSS&at_campaign=rss",
+      "summary": "More than 40,000 of the cases – which range from mild coughs to pneumonia – involve toddlers.",
+      "published_at": "2026-09-23T04:20:12Z",
+      "country_code": "ID",
+      "country_name": "Indonesia"
+    },
+    {
+      "source": "BBC US & Canada",
       "title": "Trump threatens to 'annihilate' Iran in UN speech as officials from both countries meet on sidelines",
       "url": "https://www.bbc.co.uk/news/articles/c52e0ywl9pr7o?at_medium=RSS&at_campaign=rss",
       "summary": "In his address, the US president pondered whether a peace deal would be agreed or whether he would have to take extreme action against Iran.",
-      "published_at": "2026-09-23T01:09:54Z",
+      "published_at": "2026-09-23T02:57:00Z",
       "country_code": "US",
       "country_name": "United States"
+    },
+    {
+      "source": "BBC Asia",
+      "title": "US criticises Australia's proposed algorithm opt-out laws as 'censorship'",
+      "url": "https://www.bbc.co.uk/news/articles/cqj3dgy8x3vro?at_medium=RSS&at_campaign=rss",
+      "summary": "Under the draft laws, tech firms face fines if they do not give users the option to switch off algorithms.",
+      "published_at": "2026-09-23T01:35:56Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Watch: Key moments from Andy Burnham's first UN speech",
+      "url": "https://www.bbc.co.uk/news/videos/cq5y4zpn655ko?at_medium=RSS&at_campaign=rss",
+      "summary": "In his first speech to the UN as UK prime minister, Burnham highlighted the risks posed by Russian disinformation.",
+      "published_at": "2026-09-23T01:25:47Z",
+      "country_code": "GB",
+      "country_name": "United Kingdom"
     },
     {
       "source": "BBC Asia",
@@ -27,6 +81,24 @@
       "published_at": "2026-09-22T23:36:12Z",
       "country_code": "US",
       "country_name": "United States"
+    },
+    {
+      "source": "BBC Asia",
+      "title": "As Trump and Xi talk, China surges ahead with its AI ambitions",
+      "url": "https://www.bbc.co.uk/news/articles/cm5ydz4kl65ro?at_medium=RSS&at_campaign=rss",
+      "summary": "The BBC visits Inner Mongolia, where Beijing's AI infrastructure is progressing at \"China speed\", says one worker.",
+      "published_at": "2026-09-22T22:04:31Z",
+      "country_code": "CN",
+      "country_name": "China"
+    },
+    {
+      "source": "BBC World",
+      "title": "Rare look at the remote engine rooms powering China's AI ambitions",
+      "url": "https://www.bbc.co.uk/news/videos/cwe8ejvv0leno?at_medium=RSS&at_campaign=rss",
+      "summary": "The BBC is in Inner Mongolia where dozen of Chinese data centres are being constructed, as the country aims to lead the world in artificial …",
+      "published_at": "2026-09-22T22:03:48Z",
+      "country_code": "CN",
+      "country_name": "China"
     },
     {
       "source": "BBC World",
@@ -63,6 +135,15 @@
       "published_at": "2026-09-22T19:06:06Z",
       "country_code": "RU",
       "country_name": "Russia"
+    },
+    {
+      "source": "BBC Middle East",
+      "title": "Watch: Trump threatens to 'annihilate' Iran if no deal reached",
+      "url": "https://www.bbc.co.uk/news/videos/cmvgydqqlyx9o?at_medium=RSS&at_campaign=rss",
+      "summary": "US President Donald Trump presented Iran with a stark choice: reach an agreement or face the rapid “annihilation” of the Islamic Republic.",
+      "published_at": "2026-09-22T17:35:36Z",
+      "country_code": "US",
+      "country_name": "United States"
     },
     {
       "source": "BBC Latin America",
@@ -171,15 +252,6 @@
       "published_at": "2026-09-22T05:58:35Z",
       "country_code": "JP",
       "country_name": "Japan"
-    },
-    {
-      "source": "BBC Asia",
-      "title": "Sydney policeman says he acted in self-defence in double murder trial",
-      "url": "https://www.bbc.co.uk/news/articles/c69v93v0klxeo?at_medium=RSS&at_campaign=rss",
-      "summary": "Beau Lamarre-Condon says his ex-partner and his new boyfriend were accidentally shot in separate struggles.",
-      "published_at": "2026-09-22T04:06:43Z",
-      "country_code": "AU",
-      "country_name": "Australia"
     },
     {
       "source": "BBC Asia",
@@ -297,15 +369,6 @@
       "published_at": "2026-09-20T10:45:39Z",
       "country_code": "RU",
       "country_name": "Russia"
-    },
-    {
-      "source": "BBC Asia",
-      "title": "Former England footballer run over by pitch roller in Thailand",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cr93e70xv21ko?at_medium=RSS&at_campaign=rss",
-      "summary": "Former England winger Andros Townsend jokes that playing Stoke away \"wasn't so bad after all\" following a bizarre incident before a game in …",
-      "published_at": "2026-09-20T09:08:43Z",
-      "country_code": "GB",
-      "country_name": "United Kingdom"
     },
     {
       "source": "BBC US & Canada",
@@ -434,15 +497,6 @@
       "country_name": "France"
     },
     {
-      "source": "BBC Asia",
-      "title": "Three dead and eight injured in Philippines school shooting",
-      "url": "https://www.bbc.co.uk/news/articles/c6x2z4dlzyr0o?at_medium=RSS&at_campaign=rss",
-      "summary": "The gunman is among the dead in what is the third school shooting in the country since June.",
-      "published_at": "2026-09-18T11:01:46Z",
-      "country_code": "PH",
-      "country_name": "Philippines"
-    },
-    {
       "source": "BBC US & Canada",
       "title": "In a border city stadium, US NFL fans sing Canada anthem with gusto",
       "url": "https://www.bbc.co.uk/news/videos/cw5ylr205nj0o?at_medium=RSS&at_campaign=rss",
@@ -543,15 +597,6 @@
     },
     {
       "source": "BBC Middle East",
-      "title": "Photos show widespread damage at US sites from Iranian attacks",
-      "url": "https://www.bbc.co.uk/news/articles/c8g49e0gwxeno?at_medium=RSS&at_campaign=rss",
-      "summary": "A wrecked air force plane and destroyed buildings are among the images obtained by the BBC's partner CBS News.",
-      "published_at": "2026-09-16T18:36:16Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC Middle East",
       "title": "Eight children among 21 killed after war-damaged Gaza building collapses, rescuers say",
       "url": "https://www.bbc.co.uk/news/articles/cvp8d00j9gg5o?at_medium=RSS&at_campaign=rss",
       "summary": "Some 10 families had reportedly been living in the six-storey building in Gaza City that was hit by an Israeli strike last year.",
@@ -569,15 +614,6 @@
       "country_name": "Nigeria"
     },
     {
-      "source": "BBC Middle East",
-      "title": "Saudi Arabia says it shot down Houthi drone south of Mecca",
-      "url": "https://www.bbc.co.uk/news/articles/cr89jqd1w45eo?at_medium=RSS&at_campaign=rss",
-      "summary": "The Houthis deny targeting the Islamic holy city after the Saudi-led coalition in Yemen accuses them of a \"disgraceful act\".",
-      "published_at": "2026-09-16T08:36:17Z",
-      "country_code": "SA",
-      "country_name": "Saudi Arabia"
-    },
-    {
       "source": "BBC Africa",
       "title": "Messi in Argentina squad for farewell against Benin",
       "url": "https://www.bbc.co.uk/sport/football/articles/c8ly49lv3vx1o?at_medium=RSS&at_campaign=rss",
@@ -585,15 +621,6 @@
       "published_at": "2026-09-15T22:50:04Z",
       "country_code": "AR",
       "country_name": "Argentina"
-    },
-    {
-      "source": "BBC Middle East",
-      "title": "Iran war has led to US munitions shortfalls, Pentagon inspector confirms",
-      "url": "https://www.bbc.co.uk/news/articles/c9gk58xgng0vo?at_medium=RSS&at_campaign=rss",
-      "summary": "The inspector also found a bottleneck in resupply, despite President Donald Trump's claims that US supplies are \"virtually limitless\".",
-      "published_at": "2026-09-15T20:34:12Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC Africa",
@@ -621,15 +648,6 @@
       "published_at": "2026-09-15T17:03:14Z",
       "country_code": "KE",
       "country_name": "Kenya"
-    },
-    {
-      "source": "BBC Middle East",
-      "title": "Two sailors missing after tanker attacked in Strait of Hormuz, Oman says",
-      "url": "https://www.bbc.co.uk/news/articles/c3n07ydqdzlvo?at_medium=RSS&at_campaign=rss",
-      "summary": "Iran says El Gaia caught fire after hitting mines, but the US says the oil tanker was struck by a missile and then a drone.",
-      "published_at": "2026-09-15T16:13:41Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC Europe",
@@ -720,6 +738,15 @@
       "published_at": "2026-09-09T22:17:22Z",
       "country_code": "GB",
       "country_name": "United Kingdom"
+    },
+    {
+      "source": "BBC Middle East",
+      "title": "Watch: Trump says Iran war will end 'immediately' after US midterm elections",
+      "url": "https://www.bbc.co.uk/news/videos/c3d7p3jmk7ko?at_medium=RSS&at_campaign=rss",
+      "summary": "The president also blamed the rising price of oil on the war, and said that prices will come down after the coming elections.",
+      "published_at": "2026-09-09T21:12:12Z",
+      "country_code": "US",
+      "country_name": "United States"
     },
     {
       "source": "BBC Europe",
@@ -821,15 +848,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Africa",
-      "title": "Were Christians the target of the Palm Sunday attack in Nigeria?",
-      "url": "https://www.bbc.co.uk/news/videos/cy4zlw9knq8o?at_medium=RSS&at_campaign=rss",
-      "summary": "Gunmen opened fire in the city of Jos on 29 March.",
-      "published_at": "2026-09-03T07:11:35Z",
-      "country_code": "NG",
-      "country_name": "Nigeria"
-    },
-    {
       "source": "BBC Latin America",
       "title": "Who is Alejandro Betancourt, colourful oil baron behind US-Venezuela oil deal?",
       "url": "https://www.bbc.co.uk/news/articles/cyvze0n4vy1o?at_medium=RSS&at_campaign=rss",
@@ -915,7 +933,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 30
+      "news_count": 31
     },
     {
       "country_code": "GB",
@@ -938,28 +956,33 @@
       "news_count": 5
     },
     {
+      "country_code": "PS",
+      "country_name": "Palestine",
+      "news_count": 5
+    },
+    {
       "country_code": "RU",
       "country_name": "Russia",
       "news_count": 5
     },
     {
-      "country_code": "NG",
-      "country_name": "Nigeria",
+      "country_code": "CN",
+      "country_name": "China",
       "news_count": 4
-    },
-    {
-      "country_code": "PS",
-      "country_name": "Palestine",
-      "news_count": 4
-    },
-    {
-      "country_code": "SA",
-      "country_name": "Saudi Arabia",
-      "news_count": 3
     },
     {
       "country_code": "ZA",
       "country_name": "South Africa",
+      "news_count": 4
+    },
+    {
+      "country_code": "ID",
+      "country_name": "Indonesia",
+      "news_count": 3
+    },
+    {
+      "country_code": "NG",
+      "country_name": "Nigeria",
       "news_count": 3
     },
     {
@@ -973,11 +996,6 @@
       "news_count": 2
     },
     {
-      "country_code": "CN",
-      "country_name": "China",
-      "news_count": 2
-    },
-    {
       "country_code": "DE",
       "country_name": "Germany",
       "news_count": 2
@@ -985,11 +1003,6 @@
     {
       "country_code": "ES",
       "country_name": "Spain",
-      "news_count": 2
-    },
-    {
-      "country_code": "ID",
-      "country_name": "Indonesia",
       "news_count": 2
     },
     {
@@ -1003,14 +1016,14 @@
       "news_count": 2
     },
     {
-      "country_code": "UA",
-      "country_name": "Ukraine",
+      "country_code": "SA",
+      "country_name": "Saudi Arabia",
       "news_count": 2
     },
     {
-      "country_code": "AU",
-      "country_name": "Australia",
-      "news_count": 1
+      "country_code": "UA",
+      "country_name": "Ukraine",
+      "news_count": 2
     },
     {
       "country_code": "JP",
@@ -1040,11 +1053,6 @@
     {
       "country_code": "PE",
       "country_name": "Peru",
-      "news_count": 1
-    },
-    {
-      "country_code": "PH",
-      "country_name": "Philippines",
       "news_count": 1
     },
     {
