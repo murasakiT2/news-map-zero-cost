@@ -1,6 +1,33 @@
 {
-  "generated_at": "2026-09-24T01:31:16Z",
+  "generated_at": "2026-09-24T06:54:35Z",
   "articles": [
+    {
+      "source": "BBC Asia",
+      "title": "Teen rocker Nene Royal becomes first Thai to win America's Got Talent",
+      "url": "https://www.bbc.co.uk/news/articles/cqzjzl3d1409o?at_medium=RSS&at_campaign=rss",
+      "summary": "Her heavy metal performance trumped nine other finalists, including magicians and even a robot crew.",
+      "published_at": "2026-09-24T06:47:12Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Ethiopia and Tigray accuse each of launching offensives, fuelling fears of new war",
+      "url": "https://www.bbc.co.uk/news/articles/cry8zwwq21pxo?at_medium=RSS&at_campaign=rss",
+      "summary": "The local authorities reportedly seize Tigray's airports following reports of recent drone strikes.",
+      "published_at": "2026-09-24T04:37:47Z",
+      "country_code": "ET",
+      "country_name": "Ethiopia"
+    },
+    {
+      "source": "BBC Asia",
+      "title": "Trump offers warm welcome as China's Xi arrives for US visit",
+      "url": "https://www.bbc.co.uk/news/articles/cqgmrk7187lzo?at_medium=RSS&at_campaign=rss",
+      "summary": "The US treasury secretary said that the US and China had reached an agreement to extend a trade truce as Xi began his visit.",
+      "published_at": "2026-09-24T03:52:21Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC US & Canada",
       "title": "Eight US sailors assigned to USS Abraham Lincoln attempted suicide, Navy says",
@@ -83,13 +110,22 @@
       "country_name": "Mexico"
     },
     {
-      "source": "BBC World",
-      "title": "Ethiopia and Tigray accuse each of launching offensives, fuelling fears of new war",
-      "url": "https://www.bbc.co.uk/news/articles/cry8zwwq21pxo?at_medium=RSS&at_campaign=rss",
-      "summary": "The local authorities reportedly seize Tigray's airports following reports of recent drone strikes.",
-      "published_at": "2026-09-23T16:53:37Z",
-      "country_code": "ET",
-      "country_name": "Ethiopia"
+      "source": "BBC Europe",
+      "title": "Netherlands to return to Eurovision after 2026 boycott",
+      "url": "https://www.bbc.co.uk/news/articles/c674kyg43d3lo?at_medium=RSS&at_campaign=rss",
+      "summary": "The country did not participate in this year's contest but will return next year in Bulgaria.",
+      "published_at": "2026-09-23T17:17:47Z",
+      "country_code": "NL",
+      "country_name": "Netherlands"
+    },
+    {
+      "source": "BBC Europe",
+      "title": "Eriksen leaves Wolfsburg by mutual consent",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm5yezn8w4xdo?at_medium=RSS&at_campaign=rss",
+      "summary": "Christian Eriksen leaves Wolfsburg by mutual consent, just over three months after collapsing during Denmark's friendly with Ukraine.",
+      "published_at": "2026-09-23T16:47:34Z",
+      "country_code": "UA",
+      "country_name": "Ukraine"
     },
     {
       "source": "BBC US & Canada",
@@ -99,6 +135,24 @@
       "published_at": "2026-09-23T16:42:47Z",
       "country_code": "US",
       "country_name": "United States"
+    },
+    {
+      "source": "BBC Europe",
+      "title": "Is Burnham right to blame Russia for spreading online disinformation?",
+      "url": "https://www.bbc.co.uk/news/articles/ckd79wldjzl4o?at_medium=RSS&at_campaign=rss",
+      "summary": "BBC Verify examines Russian-linked operations spreading false information about the UK, Ukraine and other nations.",
+      "published_at": "2026-09-23T16:35:11Z",
+      "country_code": "GB",
+      "country_name": "United Kingdom"
+    },
+    {
+      "source": "BBC Europe",
+      "title": "Ronaldo spurred on by 1,000 goals and Portugal glory",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ck4glyl0nwd6o?at_medium=RSS&at_campaign=rss",
+      "summary": "Cristiano Ronaldo contemplated retirement after the World Cup but wants to reach 1,000 career goals and help a new-look Portugal thrive befo…",
+      "published_at": "2026-09-23T16:26:38Z",
+      "country_code": "PT",
+      "country_name": "Portugal"
     },
     {
       "source": "BBC World",
@@ -246,12 +300,12 @@
     },
     {
       "source": "BBC Asia",
-      "title": "Playing loud music on the bus? That will cost you hundreds of dollars in Singapore",
-      "url": "https://www.bbc.co.uk/news/articles/c3kg80ve7x0no?at_medium=RSS&at_campaign=rss",
-      "summary": "Authorities are cracking down on \"disruptive behaviours\" including eating onboard and putting feet on seats.",
-      "published_at": "2026-09-23T00:05:34Z",
-      "country_code": "SG",
-      "country_name": "Singapore"
+      "title": "India is producing more green energy - but wasting a lot of it",
+      "url": "https://www.bbc.co.uk/news/articles/c8xkvzlz0x4o?at_medium=RSS&at_campaign=rss",
+      "summary": "India has rapidly decarbonised electricity generation, but its gains are tempered by transmission shortages.",
+      "published_at": "2026-09-22T23:02:29Z",
+      "country_code": "IN",
+      "country_name": "India"
     },
     {
       "source": "BBC Asia",
@@ -259,6 +313,15 @@
       "url": "https://www.bbc.co.uk/news/articles/cm5ydz4kl65ro?at_medium=RSS&at_campaign=rss",
       "summary": "The BBC visits Inner Mongolia, an unlikely frontier in Beijing's AI race with Washington.",
       "published_at": "2026-09-22T22:04:31Z",
+      "country_code": "CN",
+      "country_name": "China"
+    },
+    {
+      "source": "BBC Asia",
+      "title": "Rare look at the remote engine rooms fuelling China's AI boom",
+      "url": "https://www.bbc.co.uk/news/videos/cwe8ejvv0leno?at_medium=RSS&at_campaign=rss",
+      "summary": "The BBC is in Inner Mongolia where dozen of Chinese data centres are being constructed, as the country aims to lead the world in artificial …",
+      "published_at": "2026-09-22T22:03:48Z",
       "country_code": "CN",
       "country_name": "China"
     },
@@ -315,15 +378,6 @@
       "published_at": "2026-09-22T16:42:23Z",
       "country_code": "NG",
       "country_name": "Nigeria"
-    },
-    {
-      "source": "BBC Europe",
-      "title": "Lithuania ready to 'fight back' but has evacuation plans in face of Russia threats, PM tells BBC",
-      "url": "https://www.bbc.co.uk/news/articles/ck5yw8npxzrlo?at_medium=RSS&at_campaign=rss",
-      "summary": "Sinkevičius told BBC Newsnight Lithuanians feel \"constantly threatened\" by Moscow, but the nation was prepared to \"fight back\" if attacked.",
-      "published_at": "2026-09-22T13:49:22Z",
-      "country_code": "RU",
-      "country_name": "Russia"
     },
     {
       "source": "BBC Middle East",
@@ -389,15 +443,6 @@
       "country_name": "China"
     },
     {
-      "source": "BBC Europe",
-      "title": "Merz vows to keep coalition together for Germany's 'democratic future'",
-      "url": "https://www.bbc.co.uk/news/articles/cqm27p8enwmko?at_medium=RSS&at_campaign=rss",
-      "summary": "The chancellor has come under increasing pressure after resounding state election defeats, but says the results \"go far beyond my own person…",
-      "published_at": "2026-09-21T16:54:56Z",
-      "country_code": "DE",
-      "country_name": "Germany"
-    },
-    {
       "source": "BBC US & Canada",
       "title": "'I am frustrated' - Protesters take to the streets after Austin ICE shooting",
       "url": "https://www.bbc.co.uk/news/videos/cj1dl26vrl6no?at_medium=RSS&at_campaign=rss",
@@ -405,15 +450,6 @@
       "published_at": "2026-09-21T13:48:20Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC Europe",
-      "title": "Merz's political crisis threatens Germany's obsession with stability",
-      "url": "https://www.bbc.co.uk/news/articles/c6vgyz1n0v1xo?at_medium=RSS&at_campaign=rss",
-      "summary": "Political shifts in Germany are being watched closely in Europe and beyond, Katya Adler writes.",
-      "published_at": "2026-09-21T13:30:45Z",
-      "country_code": "DE",
-      "country_name": "Germany"
     },
     {
       "source": "BBC Latin America",
@@ -425,24 +461,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Europe",
-      "title": "Brigitte Bardot's ballet flats and diamond rings to be sold at auction",
-      "url": "https://www.bbc.co.uk/news/articles/c5j9x83yw19wo?at_medium=RSS&at_campaign=rss",
-      "summary": "Many of the film star's personal items, on sale in Paris, are priced at under €100.",
-      "published_at": "2026-09-21T11:15:14Z",
-      "country_code": "FR",
-      "country_name": "France"
-    },
-    {
-      "source": "BBC Europe",
-      "title": "UK should 'team up' with Canada in new Europe alliance, Canadian minister tells BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cmed7p06epxjo?at_medium=RSS&at_campaign=rss",
-      "summary": "It comes after European Commission President proposed \"opening the door\" for Canada to become an associate member of the EU.",
-      "published_at": "2026-09-21T04:00:38Z",
-      "country_code": "GB",
-      "country_name": "United Kingdom"
-    },
-    {
       "source": "BBC Latin America",
       "title": "Haiti extradites 18 suspects in assassination of president to US",
       "url": "https://www.bbc.co.uk/news/articles/cvwyz2jr4r7eo?at_medium=RSS&at_campaign=rss",
@@ -452,33 +470,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Europe",
-      "title": "Russia's elections had few surprises - but how the Kremlin uses the results will be crucial",
-      "url": "https://www.bbc.co.uk/news/articles/cx4gqv239043o?at_medium=RSS&at_campaign=rss",
-      "summary": "Vladimir Putin will likely use the result to claim most Russians back the so-called special military operation in Ukraine, writes the BBC's …",
-      "published_at": "2026-09-21T00:05:11Z",
-      "country_code": "RU",
-      "country_name": "Russia"
-    },
-    {
-      "source": "BBC Asia",
-      "title": "Jailed teacher convicted of sexual abuse secretly released early in Indonesia, BBC finds",
-      "url": "https://www.bbc.co.uk/news/articles/c9zrz0nl4p70o?at_medium=RSS&at_campaign=rss",
-      "summary": "Undercover footage recorded by the BBC reveals he has been released after serving less than half his sentence.",
-      "published_at": "2026-09-20T23:12:31Z",
-      "country_code": "ID",
-      "country_name": "Indonesia"
-    },
-    {
-      "source": "BBC Asia",
-      "title": "Watch: BBC tracks down abusive teacher secretly released early",
-      "url": "https://www.bbc.co.uk/news/videos/c5gmrlm7pm0vo?at_medium=RSS&at_campaign=rss",
-      "summary": "BBC Eye has discovered a teacher who was imprisoned for sexually assaulting a student in Indonesia has been secretly released early.",
-      "published_at": "2026-09-20T23:09:42Z",
-      "country_code": "ID",
-      "country_name": "Indonesia"
-    },
-    {
       "source": "BBC Asia",
       "title": "Why a new Pakistan-China border pact has irked India",
       "url": "https://www.bbc.co.uk/news/articles/cqe9e4vjx1e5o?at_medium=RSS&at_campaign=rss",
@@ -486,15 +477,6 @@
       "published_at": "2026-09-20T23:09:04Z",
       "country_code": "CN",
       "country_name": "China"
-    },
-    {
-      "source": "BBC Europe",
-      "title": "Largest attack on Moscow sees Ukraine fire hundreds of drones, mayor says",
-      "url": "https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo?at_medium=RSS&at_campaign=rss",
-      "summary": "Moscow's mayor says 450 drones were downed during the overnight barrage, in which two people died.",
-      "published_at": "2026-09-20T10:45:39Z",
-      "country_code": "RU",
-      "country_name": "Russia"
     },
     {
       "source": "BBC US & Canada",
@@ -513,15 +495,6 @@
       "published_at": "2026-09-19T23:49:26Z",
       "country_code": "SA",
       "country_name": "Saudi Arabia"
-    },
-    {
-      "source": "BBC Asia",
-      "title": "Mum's viral barefoot race sparks debate over India's education crisis",
-      "url": "https://www.bbc.co.uk/news/articles/cw62m6z7m7zjo?at_medium=RSS&at_campaign=rss",
-      "summary": "The 47-year-old ran - and won - a 3km race where she hoped to win enough prize money to buy study books for her daughter.",
-      "published_at": "2026-09-19T23:18:06Z",
-      "country_code": "IN",
-      "country_name": "India"
     },
     {
       "source": "BBC Africa",
@@ -858,15 +831,6 @@
     },
     {
       "source": "BBC Latin America",
-      "title": "Remarkable US oil deal puzzles analysts - and angers many Venezuelans",
-      "url": "https://www.bbc.co.uk/news/articles/c93vkgk5e1yo?at_medium=RSS&at_campaign=rss",
-      "summary": "Amounting to 65 billion barrels of crude, the deal is labelled by one ex-envoy as a colonialist \"fever dream\".",
-      "published_at": "2026-09-01T21:27:29Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC Latin America",
       "title": "Watch: Why is the US-Venezuela oil deal so controversial?",
       "url": "https://www.bbc.co.uk/news/videos/c207kde49dvo?at_medium=RSS&at_campaign=rss",
       "summary": "President Donald Trump announced the US has struck a deal to control more than 65 billion barrels of proven oil reserves.",
@@ -915,7 +879,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 34
+      "news_count": 35
     },
     {
       "country_code": "GB",
@@ -928,39 +892,24 @@
       "news_count": 6
     },
     {
-      "country_code": "FR",
-      "country_name": "France",
-      "news_count": 5
-    },
-    {
       "country_code": "PS",
       "country_name": "Palestine",
       "news_count": 5
     },
     {
-      "country_code": "ID",
-      "country_name": "Indonesia",
+      "country_code": "CN",
+      "country_name": "China",
       "news_count": 4
     },
     {
-      "country_code": "RU",
-      "country_name": "Russia",
+      "country_code": "FR",
+      "country_name": "France",
       "news_count": 4
     },
     {
       "country_code": "ZA",
       "country_name": "South Africa",
       "news_count": 4
-    },
-    {
-      "country_code": "CN",
-      "country_name": "China",
-      "news_count": 3
-    },
-    {
-      "country_code": "DE",
-      "country_name": "Germany",
-      "news_count": 3
     },
     {
       "country_code": "ES",
@@ -975,6 +924,11 @@
     {
       "country_code": "AR",
       "country_name": "Argentina",
+      "news_count": 2
+    },
+    {
+      "country_code": "ID",
+      "country_name": "Indonesia",
       "news_count": 2
     },
     {
@@ -998,6 +952,16 @@
       "news_count": 2
     },
     {
+      "country_code": "UA",
+      "country_name": "Ukraine",
+      "news_count": 2
+    },
+    {
+      "country_code": "DE",
+      "country_name": "Germany",
+      "news_count": 1
+    },
+    {
       "country_code": "ET",
       "country_name": "Ethiopia",
       "news_count": 1
@@ -1010,6 +974,11 @@
     {
       "country_code": "JP",
       "country_name": "Japan",
+      "news_count": 1
+    },
+    {
+      "country_code": "NL",
+      "country_name": "Netherlands",
       "news_count": 1
     },
     {
@@ -1028,18 +997,18 @@
       "news_count": 1
     },
     {
+      "country_code": "PT",
+      "country_name": "Portugal",
+      "news_count": 1
+    },
+    {
+      "country_code": "RU",
+      "country_name": "Russia",
+      "news_count": 1
+    },
+    {
       "country_code": "SD",
       "country_name": "Sudan",
-      "news_count": 1
-    },
-    {
-      "country_code": "SG",
-      "country_name": "Singapore",
-      "news_count": 1
-    },
-    {
-      "country_code": "UA",
-      "country_name": "Ukraine",
       "news_count": 1
     }
   ]
