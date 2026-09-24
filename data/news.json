@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-09-24T20:35:37Z",
+  "generated_at": "2026-09-24T23:39:28Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Hundreds of thousands expected in Paris for Pope's visit",
+      "url": "https://www.bbc.co.uk/news/articles/cmq8j904212po?at_medium=RSS&at_campaign=rss",
+      "summary": "The highpoint of his time in Paris will be a giant Mass attended by more than half a million people.",
+      "published_at": "2026-09-24T23:17:00Z",
+      "country_code": "FR",
+      "country_name": "France"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "A military threat from US? Canadians react to Carney's concerns",
+      "url": "https://www.bbc.co.uk/news/videos/cjdx5747g7evo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Canadian Prime Minister told The New York Times that Canada has considered the remote possibility of US military action.",
+      "published_at": "2026-09-24T22:04:12Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "Italy ministers agree to ban burqa and niqab in school and cap foreigners in class",
@@ -18,6 +36,15 @@
       "published_at": "2026-09-24T19:18:12Z",
       "country_code": "UA",
       "country_name": "Ukraine"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "'It has broken us as a family,' mother of poison seller victim tells hearing",
+      "url": "https://www.bbc.co.uk/news/articles/cm20ldvx9xlxo?at_medium=RSS&at_campaign=rss",
+      "summary": "Tanya Whitaker broke down before she spoke of how her son Samuel's death had devastated her family.",
+      "published_at": "2026-09-24T19:16:05Z",
+      "country_code": "US",
+      "country_name": "United States"
     },
     {
       "source": "BBC World",
@@ -45,6 +72,15 @@
       "published_at": "2026-09-24T17:17:56Z",
       "country_code": "US",
       "country_name": "United States"
+    },
+    {
+      "source": "BBC Europe",
+      "title": "Spain's housing crisis in focus after eviction of 87-year-old woman",
+      "url": "https://www.bbc.co.uk/news/videos/cm4gjvz734w3o?at_medium=RSS&at_campaign=rss",
+      "summary": "The tenant of the flat in the Retiro area of central Madrid, Maricarmen, was unable to pay her rent set after it was increased by an investm…",
+      "published_at": "2026-09-24T16:45:45Z",
+      "country_code": "ES",
+      "country_name": "Spain"
     },
     {
       "source": "BBC World",
@@ -263,15 +299,6 @@
       "country_name": "United Kingdom"
     },
     {
-      "source": "BBC Europe",
-      "title": "Ronaldo spurred on by 1,000 goals and Portugal glory",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ck4glyl0nwd6o?at_medium=RSS&at_campaign=rss",
-      "summary": "Cristiano Ronaldo contemplated retirement after the World Cup but wants to reach 1,000 career goals and help a new-look Portugal thrive befo…",
-      "published_at": "2026-09-23T16:26:38Z",
-      "country_code": "PT",
-      "country_name": "Portugal"
-    },
-    {
       "source": "BBC Asia",
       "title": "Watch: How toxic smog from wildfires is making Indonesians sick",
       "url": "https://www.bbc.co.uk/news/videos/c962j1jgx884o?at_medium=RSS&at_campaign=rss",
@@ -380,7 +407,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Middle East",
       "title": "Reports of violence against women in Gaza surge, UN agency finds",
       "url": "https://www.bbc.co.uk/news/articles/c94gm7dp40y0o?at_medium=RSS&at_campaign=rss",
       "summary": "The UN Population Fund also says there has been a \"severe escalation\" in the number of early and forced marriages.",
@@ -432,15 +459,6 @@
       "published_at": "2026-09-22T22:03:48Z",
       "country_code": "CN",
       "country_name": "China"
-    },
-    {
-      "source": "BBC Europe",
-      "title": "US to build two military bases in Greenland under new deal with Denmark",
-      "url": "https://www.bbc.co.uk/news/articles/c9dr74g32g8go?at_medium=RSS&at_campaign=rss",
-      "summary": "The defence deal signed at the UN General Assembly also re-affirms Denmark's sovereignty over its semi-autonomous Arctic territory.",
-      "published_at": "2026-09-22T21:36:55Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC World",
@@ -785,24 +803,6 @@
       "country_name": "France"
     },
     {
-      "source": "BBC Middle East",
-      "title": "How a community living under demolition orders from Israel view UK sanctions",
-      "url": "https://www.bbc.co.uk/news/videos/cy5zpze3qe3o?at_medium=RSS&at_campaign=rss",
-      "summary": "BBC's Middle East Correspondent Lucy Williamson visits the Palestinian community of Khan al Ahmar in the so-called E1 area, and the neighbou…",
-      "published_at": "2026-09-09T22:17:22Z",
-      "country_code": "GB",
-      "country_name": "United Kingdom"
-    },
-    {
-      "source": "BBC Europe",
-      "title": "Watch: Norway bids farewell to King Harald",
-      "url": "https://www.bbc.co.uk/news/videos/clyjd6jz101o?at_medium=RSS&at_campaign=rss",
-      "summary": "Tens of thousands of people lined the streets to pay their respects after 13 days of national mourning.",
-      "published_at": "2026-09-09T16:36:45Z",
-      "country_code": "NO",
-      "country_name": "Norway"
-    },
-    {
       "source": "BBC Latin America",
       "title": "Watch: Archaeologists discover ancient tomb in Peru",
       "url": "https://www.bbc.co.uk/news/videos/c07lpd9dgzdo?at_medium=RSS&at_campaign=rss",
@@ -942,17 +942,22 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 30
+      "news_count": 31
     },
     {
       "country_code": "GB",
       "country_name": "United Kingdom",
-      "news_count": 7
+      "news_count": 6
     },
     {
       "country_code": "IL",
       "country_name": "Israel",
       "news_count": 6
+    },
+    {
+      "country_code": "FR",
+      "country_name": "France",
+      "news_count": 5
     },
     {
       "country_code": "KE",
@@ -970,8 +975,8 @@
       "news_count": 4
     },
     {
-      "country_code": "FR",
-      "country_name": "France",
+      "country_code": "ES",
+      "country_name": "Spain",
       "news_count": 4
     },
     {
@@ -987,11 +992,6 @@
     {
       "country_code": "AU",
       "country_name": "Australia",
-      "news_count": 3
-    },
-    {
-      "country_code": "ES",
-      "country_name": "Spain",
       "news_count": 3
     },
     {
@@ -1060,11 +1060,6 @@
       "news_count": 1
     },
     {
-      "country_code": "NO",
-      "country_name": "Norway",
-      "news_count": 1
-    },
-    {
       "country_code": "PE",
       "country_name": "Peru",
       "news_count": 1
@@ -1077,11 +1072,6 @@
     {
       "country_code": "PL",
       "country_name": "Poland",
-      "news_count": 1
-    },
-    {
-      "country_code": "PT",
-      "country_name": "Portugal",
       "news_count": 1
     },
     {
