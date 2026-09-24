@@ -1,23 +1,77 @@
 {
-  "generated_at": "2026-09-24T06:54:35Z",
+  "generated_at": "2026-09-24T12:24:20Z",
   "articles": [
     {
-      "source": "BBC Asia",
-      "title": "Teen rocker Nene Royal becomes first Thai to win America's Got Talent",
-      "url": "https://www.bbc.co.uk/news/articles/cqzjzl3d1409o?at_medium=RSS&at_campaign=rss",
-      "summary": "Her heavy metal performance trumped nine other finalists, including magicians and even a robot crew.",
-      "published_at": "2026-09-24T06:47:12Z",
+      "source": "BBC World",
+      "title": "Poland says fire at Starlink station is sabotage as Denmark warns of rising Russian threat",
+      "url": "https://www.bbc.co.uk/news/articles/cmp30r1klk37o?at_medium=RSS&at_campaign=rss",
+      "summary": "The satellite station is used in part to provide internet coverage to neighbouring Ukraine, the government says.",
+      "published_at": "2026-09-24T11:59:23Z",
+      "country_code": "UA",
+      "country_name": "Ukraine"
+    },
+    {
+      "source": "BBC World",
+      "title": "Judge temporarily overturns Trump's White House media ban",
+      "url": "https://www.bbc.co.uk/news/articles/cqm2mg34x2v7o?at_medium=RSS&at_campaign=rss",
+      "summary": "A court has ordered the US government to reinstate access to the building for CNN, Politico and MS NOW.",
+      "published_at": "2026-09-24T10:29:35Z",
       "country_code": "US",
       "country_name": "United States"
+    },
+    {
+      "source": "BBC Africa",
+      "title": "South Sudan's president dissolves government ahead of country's first elections",
+      "url": "https://www.bbc.co.uk/news/articles/c8750ykkglq1o?at_medium=RSS&at_campaign=rss",
+      "summary": "South Sudan has not held elections since independence in 2011 - polls have twice been postponed.",
+      "published_at": "2026-09-24T10:21:06Z",
+      "country_code": "SD",
+      "country_name": "Sudan"
+    },
+    {
+      "source": "BBC World",
+      "title": "Trump's Board of Peace unveils $2.45bn Gaza recovery plan",
+      "url": "https://www.bbc.co.uk/news/articles/cwlyke0mm0x3o?at_medium=RSS&at_campaign=rss",
+      "summary": "The figure was announced during a meeting of the group's board at the sidelines of the UN General Assembly in New York.",
+      "published_at": "2026-09-24T10:11:15Z",
+      "country_code": "PS",
+      "country_name": "Palestine"
     },
     {
       "source": "BBC World",
       "title": "Ethiopia and Tigray accuse each of launching offensives, fuelling fears of new war",
       "url": "https://www.bbc.co.uk/news/articles/cry8zwwq21pxo?at_medium=RSS&at_campaign=rss",
       "summary": "The local authorities reportedly seize Tigray's airports following reports of recent drone strikes.",
-      "published_at": "2026-09-24T04:37:47Z",
+      "published_at": "2026-09-24T09:28:33Z",
       "country_code": "ET",
       "country_name": "Ethiopia"
+    },
+    {
+      "source": "BBC World",
+      "title": "Why India's Election Commission is in the eye of a storm - again",
+      "url": "https://www.bbc.co.uk/news/articles/cqkgw68yjg29o?at_medium=RSS&at_campaign=rss",
+      "summary": "India's polling monitor is facing yet another crisis of credibility with fresh allegations against its chief.",
+      "published_at": "2026-09-24T08:26:19Z",
+      "country_code": "IN",
+      "country_name": "India"
+    },
+    {
+      "source": "BBC World",
+      "title": "Rogue OpenAI agent 'infiltrated' Australian government website in world first",
+      "url": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss",
+      "summary": "Australia criticised OpenAI for taking \"too long\" to tell them about the breach which happened in June.",
+      "published_at": "2026-09-24T07:10:58Z",
+      "country_code": "AU",
+      "country_name": "Australia"
+    },
+    {
+      "source": "BBC World",
+      "title": "Teen rocker Nene Royal becomes first Thai to win America's Got Talent",
+      "url": "https://www.bbc.co.uk/news/articles/cqzjzl3d1409o?at_medium=RSS&at_campaign=rss",
+      "summary": "Her heavy metal performance trumped nine other finalists, including magicians and even a robot crew.",
+      "published_at": "2026-09-24T06:47:12Z",
+      "country_code": "US",
+      "country_name": "United States"
     },
     {
       "source": "BBC Asia",
@@ -48,7 +102,7 @@
     },
     {
       "source": "BBC World",
-      "title": "AI superpower ambitions take centre stage as Trump and Xi meet",
+      "title": "Trump and Xi come face-to-face as US and China battle to win the AI race",
       "url": "https://www.bbc.co.uk/news/articles/c6gqdgg8w59xo?at_medium=RSS&at_campaign=rss",
       "summary": "The US and China are vying for AI supremacy while seeking to keep it under human control.",
       "published_at": "2026-09-23T22:01:17Z",
@@ -63,15 +117,6 @@
       "published_at": "2026-09-23T21:29:04Z",
       "country_code": "GB",
       "country_name": "United Kingdom"
-    },
-    {
-      "source": "BBC World",
-      "title": "Trump's Board of Peace unveils $2.45bn plan to begin Gaza's reconstruction",
-      "url": "https://www.bbc.co.uk/news/articles/cwlyke0mm0x3o?at_medium=RSS&at_campaign=rss",
-      "summary": "The figure was announced during a meeting of the group's board at the sidelines of the UN General Assembly in New York.",
-      "published_at": "2026-09-23T21:26:14Z",
-      "country_code": "PS",
-      "country_name": "Palestine"
     },
     {
       "source": "BBC US & Canada",
@@ -227,15 +272,6 @@
       "country_name": "Israel"
     },
     {
-      "source": "BBC Africa",
-      "title": "South Sudan's president dissolves government ahead of country's first elections",
-      "url": "https://www.bbc.co.uk/news/articles/c8750ykkglq1o?at_medium=RSS&at_campaign=rss",
-      "summary": "South Sudan has not held elections since independence in 2011 - polls have twice been postponed.",
-      "published_at": "2026-09-23T11:16:25Z",
-      "country_code": "SD",
-      "country_name": "Sudan"
-    },
-    {
       "source": "BBC World",
       "title": "Watch: Trump and Xi are meeting on US soil - what's at stake?",
       "url": "https://www.bbc.co.uk/news/videos/c38xk275jd21o?at_medium=RSS&at_campaign=rss",
@@ -363,7 +399,7 @@
     },
     {
       "source": "BBC Latin America",
-      "title": "ICE agent shoots and wounds Venezuelan DoorDash driver in Texas",
+      "title": "Texas ICE shooting leaves Venezuelan DoorDash driver with bullet in his back, says lawyer",
       "url": "https://www.bbc.co.uk/news/articles/c3y0z25v0zjwo?at_medium=RSS&at_campaign=rss",
       "summary": "The delivery driver was transferred from a hospital to a detention centre, his lawyer tells US media.",
       "published_at": "2026-09-22T17:17:01Z",
@@ -506,15 +542,6 @@
       "country_name": "South Africa"
     },
     {
-      "source": "BBC Latin America",
-      "title": "Millions without power as Cuba hit by latest major blackout",
-      "url": "https://www.bbc.co.uk/news/articles/c6j9x4387lzxo?at_medium=RSS&at_campaign=rss",
-      "summary": "Widespread power outages have become increasingly common due to fuel shortages made worse by a US blockade.",
-      "published_at": "2026-09-19T10:27:37Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC Africa",
       "title": "Postponement not an option as Kenya races to be ready for Afcon 2027",
       "url": "https://www.bbc.co.uk/sport/football/articles/cxr50lgjgz98o?at_medium=RSS&at_campaign=rss",
@@ -558,6 +585,15 @@
       "published_at": "2026-09-18T17:01:59Z",
       "country_code": "FR",
       "country_name": "France"
+    },
+    {
+      "source": "BBC Latin America",
+      "title": "Watch: Aztec codex on display in Mexico for first time in 186 years",
+      "url": "https://www.bbc.co.uk/news/videos/cjn5dg5ww7pdo?at_medium=RSS&at_campaign=rss",
+      "summary": "Mexicans celebrate the return of a centuries-old document that tells the story of the Aztec civilisation and its fall after the arrival of S…",
+      "published_at": "2026-09-18T16:27:10Z",
+      "country_code": "MX",
+      "country_name": "Mexico"
     },
     {
       "source": "BBC US & Canada",
@@ -639,6 +675,15 @@
       "published_at": "2026-09-15T22:50:04Z",
       "country_code": "AR",
       "country_name": "Argentina"
+    },
+    {
+      "source": "BBC Africa",
+      "title": "How an African country got the 2029 World Athletics Championships",
+      "url": "https://www.bbc.co.uk/sport/athletics/videos/cm93evnkdy81o?at_medium=RSS&at_campaign=rss",
+      "summary": "BBC Sport Africa's Celestine Karoney explains why the 2029 World Athletics Championships was given to Nairobi in Kenya, as the tournament wi…",
+      "published_at": "2026-09-15T17:23:07Z",
+      "country_code": "KE",
+      "country_name": "Kenya"
     },
     {
       "source": "BBC Africa",
@@ -768,6 +813,15 @@
     },
     {
       "source": "BBC Africa",
+      "title": "The wedding photographer of Darfur: Focusing on love in Sudan's war",
+      "url": "https://www.bbc.co.uk/news/videos/c804pkymz2eo?at_medium=RSS&at_campaign=rss",
+      "summary": "Having fled Sudan's besieged city of el-Fasher, a photographer turn his lens on more positive aspects of life.",
+      "published_at": "2026-09-07T08:34:37Z",
+      "country_code": "SD",
+      "country_name": "Sudan"
+    },
+    {
+      "source": "BBC Africa",
       "title": "Nigerian academic on rags to riches: 'Nothing good was supposed to come out of me'",
       "url": "https://www.bbc.co.uk/news/articles/cly452zwr01o?at_medium=RSS&at_campaign=rss",
       "summary": "David Etor grew up in poverty in Nigeria, but now teaches engineering at the University of Bristol",
@@ -830,24 +884,6 @@
       "country_name": "Israel"
     },
     {
-      "source": "BBC Latin America",
-      "title": "Watch: Why is the US-Venezuela oil deal so controversial?",
-      "url": "https://www.bbc.co.uk/news/videos/c207kde49dvo?at_medium=RSS&at_campaign=rss",
-      "summary": "President Donald Trump announced the US has struck a deal to control more than 65 billion barrels of proven oil reserves.",
-      "published_at": "2026-08-31T22:23:45Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC Latin America",
-      "title": "Across Latin America, 'aura battles' burst onto the scene",
-      "url": "https://www.bbc.co.uk/news/videos/c158z7g23zqo?at_medium=RSS&at_campaign=rss",
-      "summary": "Young people across Latin America are taking part in the contests where participants compete to prove who has the most charisma.",
-      "published_at": "2026-08-31T19:11:57Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC Middle East",
       "title": "Trump hopes sanctions will topple Iran's regime - its leaders are betting otherwise",
       "url": "https://www.bbc.co.uk/news/articles/cr50n9gnljgo?at_medium=RSS&at_campaign=rss",
@@ -879,7 +915,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 35
+      "news_count": 33
     },
     {
       "country_code": "GB",
@@ -917,8 +953,23 @@
       "news_count": 3
     },
     {
+      "country_code": "KE",
+      "country_name": "Kenya",
+      "news_count": 3
+    },
+    {
+      "country_code": "MX",
+      "country_name": "Mexico",
+      "news_count": 3
+    },
+    {
       "country_code": "NG",
       "country_name": "Nigeria",
+      "news_count": 3
+    },
+    {
+      "country_code": "UA",
+      "country_name": "Ukraine",
       "news_count": 3
     },
     {
@@ -932,18 +983,13 @@
       "news_count": 2
     },
     {
+      "country_code": "IN",
+      "country_name": "India",
+      "news_count": 2
+    },
+    {
       "country_code": "IR",
       "country_name": "Iran",
-      "news_count": 2
-    },
-    {
-      "country_code": "KE",
-      "country_name": "Kenya",
-      "news_count": 2
-    },
-    {
-      "country_code": "MX",
-      "country_name": "Mexico",
       "news_count": 2
     },
     {
@@ -952,9 +998,14 @@
       "news_count": 2
     },
     {
-      "country_code": "UA",
-      "country_name": "Ukraine",
+      "country_code": "SD",
+      "country_name": "Sudan",
       "news_count": 2
+    },
+    {
+      "country_code": "AU",
+      "country_name": "Australia",
+      "news_count": 1
     },
     {
       "country_code": "DE",
@@ -964,11 +1015,6 @@
     {
       "country_code": "ET",
       "country_name": "Ethiopia",
-      "news_count": 1
-    },
-    {
-      "country_code": "IN",
-      "country_name": "India",
       "news_count": 1
     },
     {
@@ -1004,11 +1050,6 @@
     {
       "country_code": "RU",
       "country_name": "Russia",
-      "news_count": 1
-    },
-    {
-      "country_code": "SD",
-      "country_name": "Sudan",
       "news_count": 1
     }
   ]
