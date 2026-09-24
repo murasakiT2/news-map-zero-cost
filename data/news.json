@@ -1,23 +1,77 @@
 {
-  "generated_at": "2026-09-24T12:24:20Z",
+  "generated_at": "2026-09-24T17:23:40Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Greek PM urges UK PM to return Elgin Marbles permanently",
+      "url": "https://www.bbc.co.uk/news/articles/cqm2mgk6mlddo?at_medium=RSS&at_campaign=rss",
+      "summary": "Andy Burnham said in 2023 the sculptures should be returned to Greece with \"no strings attached\".",
+      "published_at": "2026-09-24T16:36:33Z",
+      "country_code": "GB",
+      "country_name": "United Kingdom"
+    },
     {
       "source": "BBC World",
       "title": "Poland says fire at Starlink station is sabotage as Denmark warns of rising Russian threat",
       "url": "https://www.bbc.co.uk/news/articles/cmp30r1klk37o?at_medium=RSS&at_campaign=rss",
       "summary": "The satellite station is used in part to provide internet coverage to neighbouring Ukraine, the government says.",
-      "published_at": "2026-09-24T11:59:23Z",
+      "published_at": "2026-09-24T16:00:29Z",
       "country_code": "UA",
       "country_name": "Ukraine"
     },
     {
       "source": "BBC World",
-      "title": "Judge temporarily overturns Trump's White House media ban",
-      "url": "https://www.bbc.co.uk/news/articles/cqm2mg34x2v7o?at_medium=RSS&at_campaign=rss",
-      "summary": "A court has ordered the US government to reinstate access to the building for CNN, Politico and MS NOW.",
-      "published_at": "2026-09-24T10:29:35Z",
-      "country_code": "US",
-      "country_name": "United States"
+      "title": "Rogue OpenAI agent 'infiltrated' Australian government website in world first",
+      "url": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss",
+      "summary": "Australia criticised OpenAI for taking \"too long\" to tell them about the breach which happened in June.",
+      "published_at": "2026-09-24T15:42:07Z",
+      "country_code": "AU",
+      "country_name": "Australia"
+    },
+    {
+      "source": "BBC World",
+      "title": "Ethiopia's army says it has repelled attacks in first comment on fresh fighting",
+      "url": "https://www.bbc.co.uk/news/articles/cqevwm09w4xmo?at_medium=RSS&at_campaign=rss",
+      "summary": "The military says its soldiers inflicted casualties as fears grow of a resumption of a full-blown civil war.",
+      "published_at": "2026-09-24T15:37:45Z",
+      "country_code": "ET",
+      "country_name": "Ethiopia"
+    },
+    {
+      "source": "BBC World",
+      "title": "105-year-old investigated for crimes at Nazi PoW camp in Germany",
+      "url": "https://www.bbc.co.uk/news/articles/cwzrzjy3pynvo?at_medium=RSS&at_campaign=rss",
+      "summary": "The suspect is alleged to have been an accessory to murder at the Stalag 326 camp, where tens of thousands of Soviet PoWs died.",
+      "published_at": "2026-09-24T14:37:34Z",
+      "country_code": "DE",
+      "country_name": "Germany"
+    },
+    {
+      "source": "BBC World",
+      "title": "Why did an OpenAI system hack Australia's health system - and can it be stopped in the future?",
+      "url": "https://www.bbc.co.uk/news/articles/cw24jm9rryy3o?at_medium=RSS&at_campaign=rss",
+      "summary": "News that an automated AI agent hacked a government IT system raises big questions about regulating the tech.",
+      "published_at": "2026-09-24T14:08:38Z",
+      "country_code": "AU",
+      "country_name": "Australia"
+    },
+    {
+      "source": "BBC Middle East",
+      "title": "Who are the Houthis and what do they want?",
+      "url": "https://www.bbc.co.uk/news/articles/cqy7z228kee3o?at_medium=RSS&at_campaign=rss",
+      "summary": "A rapid military advance down Yemen's Red Sea coast has put the spotlight on the Iran-backed group, amid growing concerns about the global e…",
+      "published_at": "2026-09-24T13:58:46Z",
+      "country_code": "IR",
+      "country_name": "Iran"
+    },
+    {
+      "source": "BBC Latin America",
+      "title": "Venezuela‘s interim president promises election after Maduro ousted",
+      "url": "https://www.bbc.co.uk/news/articles/cqe8xl265dp9o?at_medium=RSS&at_campaign=rss",
+      "summary": "The opposition in Venezuela has slammed her for not setting even a tentative date for elections.",
+      "published_at": "2026-09-24T12:10:57Z",
+      "country_code": "VE",
+      "country_name": "Venezuela"
     },
     {
       "source": "BBC Africa",
@@ -39,30 +93,12 @@
     },
     {
       "source": "BBC World",
-      "title": "Ethiopia and Tigray accuse each of launching offensives, fuelling fears of new war",
-      "url": "https://www.bbc.co.uk/news/articles/cry8zwwq21pxo?at_medium=RSS&at_campaign=rss",
-      "summary": "The local authorities reportedly seize Tigray's airports following reports of recent drone strikes.",
-      "published_at": "2026-09-24T09:28:33Z",
-      "country_code": "ET",
-      "country_name": "Ethiopia"
-    },
-    {
-      "source": "BBC World",
       "title": "Why India's Election Commission is in the eye of a storm - again",
       "url": "https://www.bbc.co.uk/news/articles/cqkgw68yjg29o?at_medium=RSS&at_campaign=rss",
       "summary": "India's polling monitor is facing yet another crisis of credibility with fresh allegations against its chief.",
       "published_at": "2026-09-24T08:26:19Z",
       "country_code": "IN",
       "country_name": "India"
-    },
-    {
-      "source": "BBC World",
-      "title": "Rogue OpenAI agent 'infiltrated' Australian government website in world first",
-      "url": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss",
-      "summary": "Australia criticised OpenAI for taking \"too long\" to tell them about the breach which happened in June.",
-      "published_at": "2026-09-24T07:10:58Z",
-      "country_code": "AU",
-      "country_name": "Australia"
     },
     {
       "source": "BBC World",
@@ -88,6 +124,15 @@
       "url": "https://www.bbc.co.uk/news/articles/cr3wj0px283xo?at_medium=RSS&at_campaign=rss",
       "summary": "In a letter to Senator Kirsten Gillibrand, acting Navy Secretary Hung Cao said the crew had adequate mental health support during the long d…",
       "published_at": "2026-09-24T00:43:53Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "How the oil capital of the US welcomed a solar power boom",
+      "url": "https://www.bbc.co.uk/news/articles/cmx2zxv6936zo?at_medium=RSS&at_campaign=rss",
+      "summary": "Texas is now the country's biggest producer of solar-farmed electricity.",
+      "published_at": "2026-09-23T23:12:22Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -146,7 +191,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC US & Canada",
+      "source": "BBC Latin America",
       "title": "Hurricane Polo downgraded but remains 'very powerful' off coast of Mexico",
       "url": "https://www.bbc.co.uk/news/articles/ckddvlrlr5qeo?at_medium=RSS&at_campaign=rss",
       "summary": "The large storm in the Pacific Ocean is being driven by warm waters caused by the El Niño weather phenomenon.",
@@ -227,7 +272,7 @@
       "country_name": "France"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Africa",
       "title": "Eleven killed in mass shooting at house in South Africa",
       "url": "https://www.bbc.co.uk/news/articles/crgjqxzl097eo?at_medium=RSS&at_campaign=rss",
       "summary": "One of those killed is believed to be a pregnant woman, police said.",
@@ -281,7 +326,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC US & Canada",
+      "source": "BBC Latin America",
       "title": "Trump meets US-backed Venezuelan president for first time since Maduro seized",
       "url": "https://www.bbc.co.uk/news/articles/cj207y30wp0lo?at_medium=RSS&at_campaign=rss",
       "summary": "Rodriguez was handpicked by Trump as leader of Venezuela was arrested and taken to the US",
@@ -380,15 +425,6 @@
       "country_name": "Israel"
     },
     {
-      "source": "BBC Europe",
-      "title": "Ukraine anger as EU removes Russian oligarchs from sanctions list",
-      "url": "https://www.bbc.co.uk/news/articles/c6dj4k98107do?at_medium=RSS&at_campaign=rss",
-      "summary": "Alisher Usmanov and Mikhail Fridman both have close ties to President Putin, and Kyiv said the move sent Moscow the wrong signals.",
-      "published_at": "2026-09-22T19:06:06Z",
-      "country_code": "RU",
-      "country_name": "Russia"
-    },
-    {
       "source": "BBC Middle East",
       "title": "Watch: Trump threatens to 'annihilate' Iran if no deal reached",
       "url": "https://www.bbc.co.uk/news/videos/cmvgydqqlyx9o?at_medium=RSS&at_campaign=rss",
@@ -423,15 +459,6 @@
       "published_at": "2026-09-22T13:39:09Z",
       "country_code": "SA",
       "country_name": "Saudi Arabia"
-    },
-    {
-      "source": "BBC Latin America",
-      "title": "GB dominate Ecuador to reach Davis Cup Finals",
-      "url": "https://www.bbc.co.uk/sport/tennis/articles/c60re2wqr9j2o?at_medium=RSS&at_campaign=rss",
-      "summary": "Great Britain will play in the Davis Cup Finals for the first time since 2023 after claiming a 4-0 win against Ecuador in London.",
-      "published_at": "2026-09-22T11:58:51Z",
-      "country_code": "GB",
-      "country_name": "United Kingdom"
     },
     {
       "source": "BBC Africa",
@@ -515,6 +542,15 @@
       "country_name": "China"
     },
     {
+      "source": "BBC Africa",
+      "title": "Ngetich breaks women-only half-marathon record",
+      "url": "https://www.bbc.co.uk/sport/athletics/articles/cq2e0ve219dxo?at_medium=RSS&at_campaign=rss",
+      "summary": "Kenya's Agnes Ngetich breaks the world record for a women-only half marathon as she wins gold at the World Road Running Championships in Cop…",
+      "published_at": "2026-09-20T10:55:57Z",
+      "country_code": "KE",
+      "country_name": "Kenya"
+    },
+    {
       "source": "BBC US & Canada",
       "title": "Everything we know about the Ed Sheeran and Macklemore controversy",
       "url": "https://www.bbc.co.uk/news/articles/c64gvqg0k27po?at_medium=RSS&at_campaign=rss",
@@ -569,15 +605,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC US & Canada",
-      "title": "Watch: Patrick Clancy's new wife describes him as 'selfless father'",
-      "url": "https://www.bbc.co.uk/news/videos/cmrl61rj2xz2o?at_medium=RSS&at_campaign=rss",
-      "summary": "The couple spoke out for the first time since Lindsay Clancy's murder trial in an interview with BBC's US partner CBS.",
-      "published_at": "2026-09-18T18:40:23Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC Africa",
       "title": "Senegal job an 'absolute dream' for new boss Vieira",
       "url": "https://www.bbc.co.uk/sport/football/articles/crlyqgqwq8lyo?at_medium=RSS&at_campaign=rss",
@@ -594,15 +621,6 @@
       "published_at": "2026-09-18T16:27:10Z",
       "country_code": "MX",
       "country_name": "Mexico"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "In a border city stadium, US NFL fans sing Canada anthem with gusto",
-      "url": "https://www.bbc.co.uk/news/videos/cw5ylr205nj0o?at_medium=RSS&at_campaign=rss",
-      "summary": "The BBC's Robin Levinson-King spoke to Buffalo Bills fans at a home game about why the Canadian anthem is being played.",
-      "published_at": "2026-09-18T01:45:21Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC Middle East",
@@ -669,12 +687,12 @@
     },
     {
       "source": "BBC Africa",
-      "title": "Messi in Argentina squad for farewell against Benin",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c8ly49lv3vx1o?at_medium=RSS&at_campaign=rss",
-      "summary": "Argentina name Lionel Messi in their squad for a friendly against Benin in October in a match which is set to be the forward's farewell to i…",
-      "published_at": "2026-09-15T22:50:04Z",
-      "country_code": "AR",
-      "country_name": "Argentina"
+      "title": "'We are a great sporting nation' - Kenya president",
+      "url": "https://www.bbc.co.uk/sport/athletics/videos/cmkg8n192pk2o?at_medium=RSS&at_campaign=rss",
+      "summary": "Kenya's president William Nato hails the country's successful bid to host the 2029 World Athletics Championship in Nairobi.",
+      "published_at": "2026-09-15T17:55:07Z",
+      "country_code": "KE",
+      "country_name": "Kenya"
     },
     {
       "source": "BBC Africa",
@@ -749,15 +767,6 @@
       "country_name": "United Kingdom"
     },
     {
-      "source": "BBC Middle East",
-      "title": "Watch: Trump says Iran war will end 'immediately' after US midterm elections",
-      "url": "https://www.bbc.co.uk/news/videos/c3d7p3jmk7ko?at_medium=RSS&at_campaign=rss",
-      "summary": "The president also blamed the rising price of oil on the war, and said that prices will come down after the coming elections.",
-      "published_at": "2026-09-09T21:12:12Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC Europe",
       "title": "Watch: Norway bids farewell to King Harald",
       "url": "https://www.bbc.co.uk/news/videos/clyjd6jz101o?at_medium=RSS&at_campaign=rss",
@@ -819,15 +828,6 @@
       "published_at": "2026-09-07T08:34:37Z",
       "country_code": "SD",
       "country_name": "Sudan"
-    },
-    {
-      "source": "BBC Africa",
-      "title": "Nigerian academic on rags to riches: 'Nothing good was supposed to come out of me'",
-      "url": "https://www.bbc.co.uk/news/articles/cly452zwr01o?at_medium=RSS&at_campaign=rss",
-      "summary": "David Etor grew up in poverty in Nigeria, but now teaches engineering at the University of Bristol",
-      "published_at": "2026-09-07T05:29:39Z",
-      "country_code": "NG",
-      "country_name": "Nigeria"
     },
     {
       "source": "BBC Latin America",
@@ -915,7 +915,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 33
+      "news_count": 30
     },
     {
       "country_code": "GB",
@@ -926,6 +926,11 @@
       "country_code": "IL",
       "country_name": "Israel",
       "news_count": 6
+    },
+    {
+      "country_code": "KE",
+      "country_name": "Kenya",
+      "news_count": 5
     },
     {
       "country_code": "PS",
@@ -953,8 +958,8 @@
       "news_count": 3
     },
     {
-      "country_code": "KE",
-      "country_name": "Kenya",
+      "country_code": "IR",
+      "country_name": "Iran",
       "news_count": 3
     },
     {
@@ -963,18 +968,18 @@
       "news_count": 3
     },
     {
-      "country_code": "NG",
-      "country_name": "Nigeria",
-      "news_count": 3
-    },
-    {
       "country_code": "UA",
       "country_name": "Ukraine",
       "news_count": 3
     },
     {
-      "country_code": "AR",
-      "country_name": "Argentina",
+      "country_code": "AU",
+      "country_name": "Australia",
+      "news_count": 2
+    },
+    {
+      "country_code": "DE",
+      "country_name": "Germany",
       "news_count": 2
     },
     {
@@ -988,8 +993,8 @@
       "news_count": 2
     },
     {
-      "country_code": "IR",
-      "country_name": "Iran",
+      "country_code": "NG",
+      "country_name": "Nigeria",
       "news_count": 2
     },
     {
@@ -1003,13 +1008,8 @@
       "news_count": 2
     },
     {
-      "country_code": "AU",
-      "country_name": "Australia",
-      "news_count": 1
-    },
-    {
-      "country_code": "DE",
-      "country_name": "Germany",
+      "country_code": "AR",
+      "country_name": "Argentina",
       "news_count": 1
     },
     {
@@ -1048,8 +1048,8 @@
       "news_count": 1
     },
     {
-      "country_code": "RU",
-      "country_name": "Russia",
+      "country_code": "VE",
+      "country_name": "Venezuela",
       "news_count": 1
     }
   ]
