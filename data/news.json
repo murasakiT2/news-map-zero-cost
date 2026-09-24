@@ -1,6 +1,51 @@
 {
-  "generated_at": "2026-09-24T17:23:40Z",
+  "generated_at": "2026-09-24T20:35:37Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Italy ministers agree to ban burqa and niqab in school and cap foreigners in class",
+      "url": "https://www.bbc.co.uk/news/articles/cw99d8g48873o?at_medium=RSS&at_campaign=rss",
+      "summary": "Prime Minister Giorgia Meloni described the measures as \"common-sense tools that do not divide but really help to integrate\".",
+      "published_at": "2026-09-24T19:32:59Z",
+      "country_code": "IT",
+      "country_name": "Italy"
+    },
+    {
+      "source": "BBC World",
+      "title": "Priest killed and four injured in knife attack at Polish abbey",
+      "url": "https://www.bbc.co.uk/news/articles/c607lrvm41l3o?at_medium=RSS&at_campaign=rss",
+      "summary": "A male suspect from Ukraine was arrested after the stabbings in the town of Jarosław, police say.",
+      "published_at": "2026-09-24T19:18:12Z",
+      "country_code": "UA",
+      "country_name": "Ukraine"
+    },
+    {
+      "source": "BBC World",
+      "title": "Four civilians killed in Pakistani strikes in Afghanistan, Taliban says",
+      "url": "https://www.bbc.co.uk/news/articles/cm86xn0nnw58o?at_medium=RSS&at_campaign=rss",
+      "summary": "Pakistan says it struck 10 targets, adding the strikes were \"strictly limited to identified military objectives\".",
+      "published_at": "2026-09-24T19:02:36Z",
+      "country_code": "PK",
+      "country_name": "Pakistan"
+    },
+    {
+      "source": "BBC World",
+      "title": "Why Australia chose the world's biggest political stage to reveal OpenAI hack",
+      "url": "https://www.bbc.co.uk/news/articles/cr3eqk15ld14o?at_medium=RSS&at_campaign=rss",
+      "summary": "Australia, which has strict social media restrictions and has proposed controls on algorithms and smart glasses, announced the breach at the…",
+      "published_at": "2026-09-24T18:06:40Z",
+      "country_code": "AU",
+      "country_name": "Australia"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "Mark Carney says he has considered possibility of US military action against Canada",
+      "url": "https://www.bbc.co.uk/news/articles/c6d79l2jd2pyo?at_medium=RSS&at_campaign=rss",
+      "summary": "The prime minister described the risk of an action by the country's southern neighbour as remote, but said \"it would be irresponsible\" not t…",
+      "published_at": "2026-09-24T17:17:56Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "Greek PM urges UK PM to return Elgin Marbles permanently",
@@ -137,7 +182,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "A red carpet and military flyover - How Trump welcomed Xi",
       "url": "https://www.bbc.co.uk/news/videos/c6804ne8knklo?at_medium=RSS&at_campaign=rss",
       "summary": "The two B-1 bombers that flew overhead are a key part of the US's combat arsenal, and produce a notoriously loud roar when they pass by.",
@@ -153,15 +198,6 @@
       "published_at": "2026-09-23T22:01:17Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "Watch: The arms race in space and how the UK is defending itself",
-      "url": "https://www.bbc.co.uk/news/videos/c34gdygn5lqpo?at_medium=RSS&at_campaign=rss",
-      "summary": "The UK has jammed satellites to defend itself from hostile threats, the BBC has been told.",
-      "published_at": "2026-09-23T21:29:04Z",
-      "country_code": "GB",
-      "country_name": "United Kingdom"
     },
     {
       "source": "BBC US & Canada",
@@ -218,15 +254,6 @@
       "country_name": "Ukraine"
     },
     {
-      "source": "BBC US & Canada",
-      "title": "Trump reveals millions of dollars' worth of share deals in big tech and AI",
-      "url": "https://www.bbc.co.uk/news/articles/c6p3kxpp8lezo?at_medium=RSS&at_campaign=rss",
-      "summary": "Stock in major firms such as Microsoft, Nvidia and SpaceX was bought and sold on behalf of the US president.",
-      "published_at": "2026-09-23T16:42:47Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC Europe",
       "title": "Is Burnham right to blame Russia for spreading online disinformation?",
       "url": "https://www.bbc.co.uk/news/articles/ckd79wldjzl4o?at_medium=RSS&at_campaign=rss",
@@ -245,7 +272,7 @@
       "country_name": "Portugal"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "Watch: How toxic smog from wildfires is making Indonesians sick",
       "url": "https://www.bbc.co.uk/news/videos/c962j1jgx884o?at_medium=RSS&at_campaign=rss",
       "summary": "Around 175,000 people in Indonesia have suffered from respiratory illness since August.",
@@ -317,7 +344,7 @@
       "country_name": "Israel"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "Watch: Trump and Xi are meeting on US soil - what's at stake?",
       "url": "https://www.bbc.co.uk/news/videos/c38xk275jd21o?at_medium=RSS&at_campaign=rss",
       "summary": "The BBC’s China correspondent and US editor explain everything you need to know ahead of the Trump-Xi meeting in Washington DC.",
@@ -920,7 +947,7 @@
     {
       "country_code": "GB",
       "country_name": "United Kingdom",
-      "news_count": 8
+      "news_count": 7
     },
     {
       "country_code": "IL",
@@ -948,9 +975,19 @@
       "news_count": 4
     },
     {
+      "country_code": "UA",
+      "country_name": "Ukraine",
+      "news_count": 4
+    },
+    {
       "country_code": "ZA",
       "country_name": "South Africa",
       "news_count": 4
+    },
+    {
+      "country_code": "AU",
+      "country_name": "Australia",
+      "news_count": 3
     },
     {
       "country_code": "ES",
@@ -966,16 +1003,6 @@
       "country_code": "MX",
       "country_name": "Mexico",
       "news_count": 3
-    },
-    {
-      "country_code": "UA",
-      "country_name": "Ukraine",
-      "news_count": 3
-    },
-    {
-      "country_code": "AU",
-      "country_name": "Australia",
-      "news_count": 2
     },
     {
       "country_code": "DE",
@@ -1018,6 +1045,11 @@
       "news_count": 1
     },
     {
+      "country_code": "IT",
+      "country_name": "Italy",
+      "news_count": 1
+    },
+    {
       "country_code": "JP",
       "country_name": "Japan",
       "news_count": 1
@@ -1035,6 +1067,11 @@
     {
       "country_code": "PE",
       "country_name": "Peru",
+      "news_count": 1
+    },
+    {
+      "country_code": "PK",
+      "country_name": "Pakistan",
       "news_count": 1
     },
     {
