@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-09-23T23:18:31Z",
+  "generated_at": "2026-09-24T01:31:16Z",
   "articles": [
+    {
+      "source": "BBC US & Canada",
+      "title": "Eight US sailors assigned to USS Abraham Lincoln attempted suicide, Navy says",
+      "url": "https://www.bbc.co.uk/news/articles/cr3wj0px283xo?at_medium=RSS&at_campaign=rss",
+      "summary": "In a letter to Senator Kirsten Gillibrand, acting Navy Secretary Hung Cao said the crew had adequate mental health support during the long d…",
+      "published_at": "2026-09-24T00:43:53Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "A red carpet and military flyover - How Trump welcomed Xi",
+      "url": "https://www.bbc.co.uk/news/videos/c6804ne8knklo?at_medium=RSS&at_campaign=rss",
+      "summary": "The two B-1 bombers that flew overhead are a key part of the US's combat arsenal, and produce a notoriously loud roar when they pass by.",
+      "published_at": "2026-09-23T23:03:56Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "AI superpower ambitions take centre stage as Trump and Xi meet",
@@ -227,7 +245,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "Playing loud music on the bus? That will cost you hundreds of dollars in Singapore",
       "url": "https://www.bbc.co.uk/news/articles/c3kg80ve7x0no?at_medium=RSS&at_campaign=rss",
       "summary": "Authorities are cracking down on \"disruptive behaviours\" including eating onboard and putting feet on seats.",
@@ -236,20 +254,11 @@
       "country_name": "Singapore"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "Huge data centres rise at 'China speed' to power its AI ambitions",
       "url": "https://www.bbc.co.uk/news/articles/cm5ydz4kl65ro?at_medium=RSS&at_campaign=rss",
       "summary": "The BBC visits Inner Mongolia, an unlikely frontier in Beijing's AI race with Washington.",
       "published_at": "2026-09-22T22:04:31Z",
-      "country_code": "CN",
-      "country_name": "China"
-    },
-    {
-      "source": "BBC World",
-      "title": "Rare look at the remote engine rooms fuelling China's AI boom",
-      "url": "https://www.bbc.co.uk/news/videos/cwe8ejvv0leno?at_medium=RSS&at_campaign=rss",
-      "summary": "The BBC is in Inner Mongolia where dozen of Chinese data centres are being constructed, as the country aims to lead the world in artificial …",
-      "published_at": "2026-09-22T22:03:48Z",
       "country_code": "CN",
       "country_name": "China"
     },
@@ -299,7 +308,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Africa",
       "title": "'I have never felt heat like that' - a survivor on watching 33 cellmates die in Nigeria",
       "url": "https://www.bbc.co.uk/news/articles/cqm27jen9r23o?at_medium=RSS&at_campaign=rss",
       "summary": "The BBC goes inside the prison where prisoners were trapped in stifling, cramped conditions.",
@@ -308,16 +317,7 @@
       "country_name": "Nigeria"
     },
     {
-      "source": "BBC World",
-      "title": "Neutral venues and no 'away' fans - how Israel v Republic of Ireland became so contentious",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckz7z5w7ey2jo?at_medium=RSS&at_campaign=rss",
-      "summary": "BBC Sport explores the backdrop to the Republic of Ireland's matches against Israel, amid fraught tensions between the nations.",
-      "published_at": "2026-09-22T14:23:39Z",
-      "country_code": "IL",
-      "country_name": "Israel"
-    },
-    {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "Lithuania ready to 'fight back' but has evacuation plans in face of Russia threats, PM tells BBC",
       "url": "https://www.bbc.co.uk/news/articles/ck5yw8npxzrlo?at_medium=RSS&at_campaign=rss",
       "summary": "Sinkevičius told BBC Newsnight Lithuanians feel \"constantly threatened\" by Moscow, but the nation was prepared to \"fight back\" if attacked.",
@@ -915,7 +915,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 32
+      "news_count": 34
     },
     {
       "country_code": "GB",
@@ -925,7 +925,7 @@
     {
       "country_code": "IL",
       "country_name": "Israel",
-      "news_count": 7
+      "news_count": 6
     },
     {
       "country_code": "FR",
@@ -936,11 +936,6 @@
       "country_code": "PS",
       "country_name": "Palestine",
       "news_count": 5
-    },
-    {
-      "country_code": "CN",
-      "country_name": "China",
-      "news_count": 4
     },
     {
       "country_code": "ID",
@@ -956,6 +951,11 @@
       "country_code": "ZA",
       "country_name": "South Africa",
       "news_count": 4
+    },
+    {
+      "country_code": "CN",
+      "country_name": "China",
+      "news_count": 3
     },
     {
       "country_code": "DE",
