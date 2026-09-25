@@ -1,23 +1,68 @@
 {
-  "generated_at": "2026-09-25T13:58:26Z",
+  "generated_at": "2026-09-25T18:13:17Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Supreme Court allows Trump to use controversial database to check voter citizenship",
+      "url": "https://www.bbc.co.uk/news/articles/ck05rrj3jeylo?at_medium=RSS&at_campaign=rss",
+      "summary": "Critics have questioned the reliability of the data, warning it could result in US citizens being wrongly removed from electoral rolls.",
+      "published_at": "2026-09-25T17:32:15Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "Internet restricted after fighting breaks out in Ethiopia's Tigray region",
       "url": "https://www.bbc.co.uk/news/articles/cqp8dxxg325no?at_medium=RSS&at_campaign=rss",
       "summary": "During the two-year civil war in Tigray, the region was totally cut off from the outside world.",
-      "published_at": "2026-09-25T13:28:35Z",
+      "published_at": "2026-09-25T17:13:55Z",
       "country_code": "ET",
       "country_name": "Ethiopia"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "Ed Sheeran's next US concerts cancelled due to storm warning",
+      "url": "https://www.bbc.co.uk/news/articles/ck7900wl7nxyo?at_medium=RSS&at_campaign=rss",
+      "summary": "The star's concerts in Massachusetts on Friday and Saturday are cancelled after severe weather warnings.",
+      "published_at": "2026-09-25T15:51:52Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Students strike across Germany in protest against military service",
+      "url": "https://www.bbc.co.uk/news/articles/cxnvlnve52qdo?at_medium=RSS&at_campaign=rss",
+      "summary": "A law establishing voluntary military service came into effect in January, but protest organisers fear compulsory service could follow.",
+      "published_at": "2026-09-25T15:36:22Z",
+      "country_code": "DE",
+      "country_name": "Germany"
     },
     {
       "source": "BBC World",
       "title": "Pope warns against 'losing humanity' to AI machines",
       "url": "https://www.bbc.co.uk/news/articles/cmq8j904212po?at_medium=RSS&at_campaign=rss",
       "summary": "The pontiff delivered the warning on the first day of his trip to France on Friday.",
-      "published_at": "2026-09-25T12:44:08Z",
+      "published_at": "2026-09-25T15:06:41Z",
       "country_code": "FR",
       "country_name": "France"
+    },
+    {
+      "source": "BBC World",
+      "title": "Africa's richest man helps fund $660m fuel pipeline between Ethiopia and Djibouti",
+      "url": "https://www.bbc.co.uk/news/articles/c6z9z7lv41wgo?at_medium=RSS&at_campaign=rss",
+      "summary": "The pipeline would strengthen energy security in landlocked Ethiopia, while creating jobs at Djibouti's port.",
+      "published_at": "2026-09-25T14:24:19Z",
+      "country_code": "ET",
+      "country_name": "Ethiopia"
+    },
+    {
+      "source": "BBC World",
+      "title": "US backs Elon Musk's bid to overturn €120m EU fine against X",
+      "url": "https://www.bbc.co.uk/news/articles/cq0m373ee0v0o?at_medium=RSS&at_campaign=rss",
+      "summary": "The EU had said X \"deceives users\" by selling blue ticks without \"meaningfully verifying\" accounts.",
+      "published_at": "2026-09-25T09:48:33Z",
+      "country_code": "US",
+      "country_name": "United States"
     },
     {
       "source": "BBC World",
@@ -27,15 +72,6 @@
       "published_at": "2026-09-25T09:20:04Z",
       "country_code": "PE",
       "country_name": "Peru"
-    },
-    {
-      "source": "BBC World",
-      "title": "Africa's richest man helps fund $660m fuel pipeline between Ethiopia and Djibouti",
-      "url": "https://www.bbc.co.uk/news/articles/c6z9z7lv41wgo?at_medium=RSS&at_campaign=rss",
-      "summary": "The pipeline would strengthen energy security in landlocked Ethiopia, while creating jobs at Djibouti's port.",
-      "published_at": "2026-09-25T06:48:07Z",
-      "country_code": "ET",
-      "country_name": "Ethiopia"
     },
     {
       "source": "BBC Asia",
@@ -63,15 +99,6 @@
       "published_at": "2026-09-25T01:27:10Z",
       "country_code": "CN",
       "country_name": "China"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "Canada prosecutors drop charges against two in Toronto gold heist",
-      "url": "https://www.bbc.co.uk/news/articles/c85ydv56grx4o?at_medium=RSS&at_campaign=rss",
-      "summary": "Amit Jalota and Ali Raza had their charges dismissed while other cases related to the massive 2023 theft continue through the courts.",
-      "published_at": "2026-09-24T23:51:53Z",
-      "country_code": "CA",
-      "country_name": "Canada"
     },
     {
       "source": "BBC World",
@@ -110,15 +137,6 @@
       "country_name": "Ukraine"
     },
     {
-      "source": "BBC US & Canada",
-      "title": "'It has broken us as a family,' mother of poison seller victim tells hearing",
-      "url": "https://www.bbc.co.uk/news/articles/cm20ldvx9xlxo?at_medium=RSS&at_campaign=rss",
-      "summary": "Tanya Whitaker broke down before she spoke of how her son Samuel's death had devastated her family.",
-      "published_at": "2026-09-24T19:16:05Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC World",
       "title": "Four civilians killed in Pakistani strikes in Afghanistan, Taliban says",
       "url": "https://www.bbc.co.uk/news/articles/cm86xn0nnw58o?at_medium=RSS&at_campaign=rss",
@@ -155,16 +173,7 @@
       "country_name": "Spain"
     },
     {
-      "source": "BBC World",
-      "title": "Greek PM urges UK PM to return Elgin Marbles permanently",
-      "url": "https://www.bbc.co.uk/news/articles/cqm2mgk6mlddo?at_medium=RSS&at_campaign=rss",
-      "summary": "Andy Burnham said in 2023 the sculptures should be returned to Greece with \"no strings attached\".",
-      "published_at": "2026-09-24T16:36:33Z",
-      "country_code": "GB",
-      "country_name": "United Kingdom"
-    },
-    {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "Poland says fire at Starlink station is sabotage as Denmark warns of rising Russian threat",
       "url": "https://www.bbc.co.uk/news/articles/cmp30r1klk37o?at_medium=RSS&at_campaign=rss",
       "summary": "The satellite station is used in part to provide internet coverage to neighbouring Ukraine, the government says.",
@@ -173,16 +182,7 @@
       "country_name": "Ukraine"
     },
     {
-      "source": "BBC World",
-      "title": "Rogue OpenAI agent 'infiltrated' Australian government website in world first",
-      "url": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss",
-      "summary": "Australia criticised OpenAI for taking \"too long\" to tell them about the breach which happened in June.",
-      "published_at": "2026-09-24T15:42:07Z",
-      "country_code": "AU",
-      "country_name": "Australia"
-    },
-    {
-      "source": "BBC World",
+      "source": "BBC Africa",
       "title": "Ethiopia's army says it has repelled attacks in first comment on fresh fighting",
       "url": "https://www.bbc.co.uk/news/articles/cqevwm09w4xmo?at_medium=RSS&at_campaign=rss",
       "summary": "The military says its soldiers inflicted casualties as fears grow of a resumption of a full-blown civil war.",
@@ -198,15 +198,6 @@
       "published_at": "2026-09-24T14:37:34Z",
       "country_code": "DE",
       "country_name": "Germany"
-    },
-    {
-      "source": "BBC World",
-      "title": "Why did an OpenAI system hack Australia's health system - and can it be stopped in the future?",
-      "url": "https://www.bbc.co.uk/news/articles/cw24jm9rryy3o?at_medium=RSS&at_campaign=rss",
-      "summary": "News that an automated AI agent hacked a government IT system raises big questions about regulating the tech.",
-      "published_at": "2026-09-24T14:08:38Z",
-      "country_code": "AU",
-      "country_name": "Australia"
     },
     {
       "source": "BBC Middle East",
@@ -264,24 +255,6 @@
     },
     {
       "source": "BBC US & Canada",
-      "title": "Trump offers warm welcome as China's Xi arrives for US visit",
-      "url": "https://www.bbc.co.uk/news/articles/cqgmrk7187lzo?at_medium=RSS&at_campaign=rss",
-      "summary": "The US treasury secretary said that the US and China had reached an agreement to extend a trade truce as Xi began his visit.",
-      "published_at": "2026-09-24T03:52:21Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "Eight US sailors assigned to USS Abraham Lincoln attempted suicide, Navy says",
-      "url": "https://www.bbc.co.uk/news/articles/cr3wj0px283xo?at_medium=RSS&at_campaign=rss",
-      "summary": "In a letter to Senator Kirsten Gillibrand, acting Navy Secretary Hung Cao said the crew had adequate mental health support during the long d…",
-      "published_at": "2026-09-24T00:43:53Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC US & Canada",
       "title": "How the oil capital of the US welcomed a solar power boom",
       "url": "https://www.bbc.co.uk/news/articles/cmx2zxv6936zo?at_medium=RSS&at_campaign=rss",
       "summary": "Texas is now the country's biggest producer of solar-farmed electricity.",
@@ -290,7 +263,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Asia",
+      "source": "BBC World",
       "title": "A red carpet and military flyover - How Trump welcomed Xi",
       "url": "https://www.bbc.co.uk/news/videos/c6804ne8knklo?at_medium=RSS&at_campaign=rss",
       "summary": "The two B-1 bombers that flew overhead are a key part of the US's combat arsenal, and produce a notoriously loud roar when they pass by.",
@@ -567,15 +540,6 @@
       "published_at": "2026-09-20T10:55:57Z",
       "country_code": "KE",
       "country_name": "Kenya"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "Everything we know about the Ed Sheeran and Macklemore controversy",
-      "url": "https://www.bbc.co.uk/news/articles/c64gvqg0k27po?at_medium=RSS&at_campaign=rss",
-      "summary": "The show in Philadelphia comes after rapper Macklemore was dropped from Ed Sheeran's tour over pro-Palestinian comments.",
-      "published_at": "2026-09-20T02:00:23Z",
-      "country_code": "PS",
-      "country_name": "Palestine"
     },
     {
       "source": "BBC Middle East",
@@ -919,24 +883,9 @@
       "news_count": 5
     },
     {
-      "country_code": "GB",
-      "country_name": "United Kingdom",
-      "news_count": 5
-    },
-    {
       "country_code": "KE",
       "country_name": "Kenya",
       "news_count": 5
-    },
-    {
-      "country_code": "PS",
-      "country_name": "Palestine",
-      "news_count": 5
-    },
-    {
-      "country_code": "AU",
-      "country_name": "Australia",
-      "news_count": 4
     },
     {
       "country_code": "ES",
@@ -944,9 +893,24 @@
       "news_count": 4
     },
     {
+      "country_code": "GB",
+      "country_name": "United Kingdom",
+      "news_count": 4
+    },
+    {
+      "country_code": "PS",
+      "country_name": "Palestine",
+      "news_count": 4
+    },
+    {
       "country_code": "UA",
       "country_name": "Ukraine",
       "news_count": 4
+    },
+    {
+      "country_code": "DE",
+      "country_name": "Germany",
+      "news_count": 3
     },
     {
       "country_code": "ET",
@@ -974,13 +938,13 @@
       "news_count": 3
     },
     {
-      "country_code": "CN",
-      "country_name": "China",
+      "country_code": "AU",
+      "country_name": "Australia",
       "news_count": 2
     },
     {
-      "country_code": "DE",
-      "country_name": "Germany",
+      "country_code": "CN",
+      "country_name": "China",
       "news_count": 2
     },
     {
@@ -1006,11 +970,6 @@
     {
       "country_code": "AR",
       "country_name": "Argentina",
-      "news_count": 1
-    },
-    {
-      "country_code": "CA",
-      "country_name": "Canada",
       "news_count": 1
     },
     {
