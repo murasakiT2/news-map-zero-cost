@@ -1,12 +1,57 @@
 {
-  "generated_at": "2026-09-25T18:13:17Z",
+  "generated_at": "2026-09-25T21:42:12Z",
   "articles": [
+    {
+      "source": "BBC US & Canada",
+      "title": "Black woman found hanging from tree was dead before body was 'staged', US media reports",
+      "url": "https://www.bbc.co.uk/news/articles/cwp933nzpp9ro?at_medium=RSS&at_campaign=rss",
+      "summary": "Tasia Fortune's body was found hanging from a tree on the grounds of an abandoned home in Jackson in August.",
+      "published_at": "2026-09-25T21:16:59Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Russia targeting 'ordinary life' with attacks on Ukraine's data centres, Zelensky says",
+      "url": "https://www.bbc.co.uk/news/articles/c84gkwgk7d06o?at_medium=RSS&at_campaign=rss",
+      "summary": "Such strikes aim to disrupt \"people's ability to stay connected, study, work\", says Ukraine's president.",
+      "published_at": "2026-09-25T20:47:49Z",
+      "country_code": "RU",
+      "country_name": "Russia"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "What is kratom, the 'gas station heroin' alarming officials in the US?",
+      "url": "https://www.bbc.co.uk/news/articles/cjn5ddzekwnro?at_medium=RSS&at_campaign=rss",
+      "summary": "Kratom, found during an investigation into the deaths of two college students, has been sold in the US for around a decade.",
+      "published_at": "2026-09-25T20:06:39Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "Supreme Court allows Trump to use controversial database to check voter citizenship",
       "url": "https://www.bbc.co.uk/news/articles/ck05rrj3jeylo?at_medium=RSS&at_campaign=rss",
       "summary": "Critics have questioned the reliability of the data, warning it could result in US citizens being wrongly removed from electoral rolls.",
-      "published_at": "2026-09-25T17:32:15Z",
+      "published_at": "2026-09-25T19:13:35Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "Why an international arrest warrant didn't stop Netanyahu's US trip",
+      "url": "https://www.bbc.co.uk/news/videos/ckq633lm11jeo?at_medium=RSS&at_campaign=rss",
+      "summary": "The BBC's Nada Tawfik explains why Israel's Benjamin Netanyahu was not arrested after speaking at the UN, despite an ICC arrest warrant.",
+      "published_at": "2026-09-25T18:41:13Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Media outlets banned by Trump resume White House coverage after judge's order",
+      "url": "https://www.bbc.co.uk/news/articles/cqe8ek7608mlo?at_medium=RSS&at_campaign=rss",
+      "summary": "US TV news coverage of the White House returns to normal after a judge lifted Trump's ban of three news outlets.",
+      "published_at": "2026-09-25T18:36:30Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -155,15 +200,6 @@
       "country_name": "Australia"
     },
     {
-      "source": "BBC US & Canada",
-      "title": "Mark Carney says he has considered possibility of US military action against Canada",
-      "url": "https://www.bbc.co.uk/news/articles/c6d79l2jd2pyo?at_medium=RSS&at_campaign=rss",
-      "summary": "The prime minister described the risk of an action by the country's southern neighbour as remote, but said \"it would be irresponsible\" not t…",
-      "published_at": "2026-09-24T17:17:56Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC Europe",
       "title": "Spain's housing crisis in focus after eviction of 87-year-old woman",
       "url": "https://www.bbc.co.uk/news/videos/cm4gjvz734w3o?at_medium=RSS&at_campaign=rss",
@@ -263,7 +299,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "A red carpet and military flyover - How Trump welcomed Xi",
       "url": "https://www.bbc.co.uk/news/videos/c6804ne8knklo?at_medium=RSS&at_campaign=rss",
       "summary": "The two B-1 bombers that flew overhead are a key part of the US's combat arsenal, and produce a notoriously loud roar when they pass by.",
@@ -504,15 +540,6 @@
       "published_at": "2026-09-22T08:53:03Z",
       "country_code": "GB",
       "country_name": "United Kingdom"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "'I am frustrated' - Protesters take to the streets after Austin ICE shooting",
-      "url": "https://www.bbc.co.uk/news/videos/cj1dl26vrl6no?at_medium=RSS&at_campaign=rss",
-      "summary": "Protesters gathered in the Texas capital on Sunday after a US Immigration and Customs Enforcement (ICE) agent shot and wounded a Venezuelan …",
-      "published_at": "2026-09-21T13:48:20Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC Latin America",
@@ -870,7 +897,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 28
+      "news_count": 30
     },
     {
       "country_code": "IL",
@@ -990,6 +1017,11 @@
     {
       "country_code": "PK",
       "country_name": "Pakistan",
+      "news_count": 1
+    },
+    {
+      "country_code": "RU",
+      "country_name": "Russia",
       "news_count": 1
     },
     {
