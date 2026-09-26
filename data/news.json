@@ -1,14 +1,23 @@
 {
-  "generated_at": "2026-09-26T09:58:59Z",
+  "generated_at": "2026-09-26T14:09:39Z",
   "articles": [
     {
       "source": "BBC World",
-      "title": "One dead and five missing after explosion destroys building close to Acropolis in Athens",
-      "url": "https://www.bbc.co.uk/news/articles/c6p3kk78l4l1o?at_medium=RSS&at_campaign=rss",
-      "summary": "Local media report the property included a holiday rental, with US tourists and a UK national among the missing.",
-      "published_at": "2026-09-26T09:33:03Z",
-      "country_code": "US",
-      "country_name": "United States"
+      "title": "Huge crowds greet Pope in Paris for open-air Mass",
+      "url": "https://www.bbc.co.uk/news/articles/cm4gjjwvvlzro?at_medium=RSS&at_campaign=rss",
+      "summary": "More than half a million people are expected to attend the event in the heart of the French capital.",
+      "published_at": "2026-09-26T13:23:59Z",
+      "country_code": "FR",
+      "country_name": "France"
+    },
+    {
+      "source": "BBC World",
+      "title": "Republic of Ireland confirm rescheduled news conference before controversial Israel game",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c962jjl18g3ro?at_medium=RSS&at_campaign=rss",
+      "summary": "The Republic of Ireland will now hold their delayed news conference at 14:30 BST before they face Israel in tomorrow's Nations League fixtur…",
+      "published_at": "2026-09-26T10:44:37Z",
+      "country_code": "IL",
+      "country_name": "Israel"
     },
     {
       "source": "BBC World",
@@ -66,6 +75,15 @@
     },
     {
       "source": "BBC World",
+      "title": "How fresh fighting in Tigray could spark wider conflict in Ethiopia",
+      "url": "https://www.bbc.co.uk/news/articles/c6d94wywx0ypo?at_medium=RSS&at_campaign=rss",
+      "summary": "Exploring the issues behind the escalation of tensions between the TPLF and the national army.",
+      "published_at": "2026-09-25T23:42:39Z",
+      "country_code": "ET",
+      "country_name": "Ethiopia"
+    },
+    {
+      "source": "BBC World",
       "title": "South African white genocide does not exist, new ambassador to US tells BBC",
       "url": "https://www.bbc.co.uk/news/articles/cm2l8qv7zppko?at_medium=RSS&at_campaign=rss",
       "summary": "Roelf Meyer tells the BBC that being a white Afrikaner gives him legitimacy to challenge Trump's claim of a genocide.",
@@ -92,7 +110,7 @@
       "country_name": "Russia"
     },
     {
-      "source": "BBC US & Canada",
+      "source": "BBC World",
       "title": "What is kratom, the 'gas station heroin' alarming officials in the US?",
       "url": "https://www.bbc.co.uk/news/articles/cjn5ddzekwnro?at_medium=RSS&at_campaign=rss",
       "summary": "Kratom, found during an investigation into the deaths of two college students, has been sold in the US for around a decade.",
@@ -102,7 +120,7 @@
     },
     {
       "source": "BBC World",
-      "title": "Supreme Court allows Trump to use controversial database to check voter citizenship",
+      "title": "US Supreme Court allows Trump to use controversial database to check voter citizenship",
       "url": "https://www.bbc.co.uk/news/articles/ck05rrj3jeylo?at_medium=RSS&at_campaign=rss",
       "summary": "Critics have questioned the reliability of the data, warning it could result in US citizens being wrongly removed from electoral rolls.",
       "published_at": "2026-09-25T19:13:35Z",
@@ -155,7 +173,7 @@
       "country_name": "France"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "Students strike across Germany in protest against military service",
       "url": "https://www.bbc.co.uk/news/articles/cxnvlnve52qdo?at_medium=RSS&at_campaign=rss",
       "summary": "A law establishing voluntary military service came into effect in January, but protest organisers fear compulsory service could follow.",
@@ -164,7 +182,7 @@
       "country_name": "Germany"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "Pope warns against 'losing humanity' to AI machines",
       "url": "https://www.bbc.co.uk/news/articles/cmq8j904212po?at_medium=RSS&at_campaign=rss",
       "summary": "The pontiff delivered the warning on the first day of his trip to France on Friday.",
@@ -218,7 +236,7 @@
       "country_name": "China"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "From Nagaland to a path to the Oscars: Indian film brings a rarely seen world to global cinema",
       "url": "https://www.bbc.co.uk/news/articles/cv2dwk3z7x5eo?at_medium=RSS&at_campaign=rss",
       "summary": "After a major win at Toronto, Angh, a film from northeastern India, is now on a path towards the Oscars.",
@@ -254,7 +272,7 @@
       "country_name": "Pakistan"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "Why Australia chose the world's biggest political stage to reveal OpenAI hack",
       "url": "https://www.bbc.co.uk/news/articles/cr3eqk15ld14o?at_medium=RSS&at_campaign=rss",
       "summary": "Australia, which has strict social media restrictions and has proposed controls on algorithms and smart glasses, announced the breach at the…",
@@ -362,7 +380,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "Trump and Xi come face-to-face as US and China battle to win the AI race",
       "url": "https://www.bbc.co.uk/news/articles/c6gqdgg8w59xo?at_medium=RSS&at_campaign=rss",
       "summary": "The US and China are vying for AI supremacy while seeking to keep it under human control.",
@@ -933,17 +951,17 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 31
+      "news_count": 30
     },
     {
       "country_code": "FR",
       "country_name": "France",
-      "news_count": 6
+      "news_count": 7
     },
     {
       "country_code": "IL",
       "country_name": "Israel",
-      "news_count": 6
+      "news_count": 7
     },
     {
       "country_code": "KE",
@@ -976,6 +994,11 @@
       "news_count": 4
     },
     {
+      "country_code": "ET",
+      "country_name": "Ethiopia",
+      "news_count": 3
+    },
+    {
       "country_code": "IR",
       "country_name": "Iran",
       "news_count": 3
@@ -998,11 +1021,6 @@
     {
       "country_code": "CN",
       "country_name": "China",
-      "news_count": 2
-    },
-    {
-      "country_code": "ET",
-      "country_name": "Ethiopia",
       "news_count": 2
     },
     {
