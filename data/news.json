@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-09-26T20:19:55Z",
+  "generated_at": "2026-09-26T23:00:52Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Trump rejects Iran deal to reopen Strait of Hormuz in seven days",
+      "url": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
+      "summary": "Iran's foreign minister acknowledges Trump's comments, but adds that Tehran is waiting for the \"definitive views\" of mediators.",
+      "published_at": "2026-09-26T22:15:59Z",
+      "country_code": "IR",
+      "country_name": "Iran"
+    },
+    {
+      "source": "BBC World",
+      "title": "Republic of Ireland to wear black armbands for Israel game",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckddvv5dn4eyo?at_medium=RSS&at_campaign=rss",
+      "summary": "Republic of Ireland players intend to wear black armbands \"in recognition of all lives lost in the [Gaza] conflict\" for match against Israel…",
+      "published_at": "2026-09-26T19:59:00Z",
+      "country_code": "IL",
+      "country_name": "Israel"
+    },
     {
       "source": "BBC World",
       "title": "Pope praises young people's 'energy and commitment' at huge open-air Mass in Paris",
@@ -21,21 +39,12 @@
     },
     {
       "source": "BBC World",
-      "title": "Tenth woman's body found in South Africa suburb as police probe killings",
+      "title": "Tenth woman's body found as South Africa police probe killings",
       "url": "https://www.bbc.co.uk/news/articles/c3vgyyj8q807o?at_medium=RSS&at_campaign=rss",
       "summary": "The deaths have sparked a national outcry about the scale of violence against women in the country.",
       "published_at": "2026-09-26T18:30:04Z",
       "country_code": "ZA",
       "country_name": "South Africa"
-    },
-    {
-      "source": "BBC World",
-      "title": "Trump rejects Iran deal to reopen Strait of Hormuz in seven days",
-      "url": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
-      "summary": "The US president says Tehran had only put forward the proposal because it is losing the war.",
-      "published_at": "2026-09-26T18:17:12Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC World",
@@ -969,16 +978,16 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 30
-    },
-    {
-      "country_code": "FR",
-      "country_name": "France",
-      "news_count": 7
+      "news_count": 29
     },
     {
       "country_code": "IL",
       "country_name": "Israel",
+      "news_count": 8
+    },
+    {
+      "country_code": "FR",
+      "country_name": "France",
       "news_count": 7
     },
     {
@@ -1002,6 +1011,11 @@
       "news_count": 4
     },
     {
+      "country_code": "IR",
+      "country_name": "Iran",
+      "news_count": 4
+    },
+    {
       "country_code": "PS",
       "country_name": "Palestine",
       "news_count": 4
@@ -1019,11 +1033,6 @@
     {
       "country_code": "ET",
       "country_name": "Ethiopia",
-      "news_count": 3
-    },
-    {
-      "country_code": "IR",
-      "country_name": "Iran",
       "news_count": 3
     },
     {
