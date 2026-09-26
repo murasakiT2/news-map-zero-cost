@@ -1,14 +1,32 @@
 {
-  "generated_at": "2026-09-25T21:42:12Z",
+  "generated_at": "2026-09-26T00:14:33Z",
   "articles": [
     {
-      "source": "BBC US & Canada",
-      "title": "Black woman found hanging from tree was dead before body was 'staged', US media reports",
-      "url": "https://www.bbc.co.uk/news/articles/cwp933nzpp9ro?at_medium=RSS&at_campaign=rss",
-      "summary": "Tasia Fortune's body was found hanging from a tree on the grounds of an abandoned home in Jackson in August.",
-      "published_at": "2026-09-25T21:16:59Z",
+      "source": "BBC World",
+      "title": "Iran offers US deal to reopen Strait of Hormuz in seven days",
+      "url": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
+      "summary": "Asked about the Iranian offer, a US official told the BBC \"constructive discussions\" were taking place through mediators.",
+      "published_at": "2026-09-25T23:38:48Z",
       "country_code": "US",
       "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "South African white genocide does not exist, new ambassador to US tells BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cm2l8qv7zppko?at_medium=RSS&at_campaign=rss",
+      "summary": "Roelf Meyer tells the BBC that being a white Afrikaner gives him legitimacy to challenge Trump's claim of a genocide.",
+      "published_at": "2026-09-25T23:20:48Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "As Merz scrambles for support, Germany's identity crisis is laid bare",
+      "url": "https://www.bbc.co.uk/news/articles/cmx2zlqeje9zo?at_medium=RSS&at_campaign=rss",
+      "summary": "Voters are turning away from the centre in Germany as fears grow about the economy and migration.",
+      "published_at": "2026-09-25T23:08:02Z",
+      "country_code": "DE",
+      "country_name": "Germany"
     },
     {
       "source": "BBC World",
@@ -47,7 +65,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "Media outlets banned by Trump resume White House coverage after judge's order",
       "url": "https://www.bbc.co.uk/news/articles/cqe8ek7608mlo?at_medium=RSS&at_campaign=rss",
       "summary": "US TV news coverage of the White House returns to normal after a judge lifted Trump's ban of three news outlets.",
@@ -72,6 +90,15 @@
       "published_at": "2026-09-25T15:51:52Z",
       "country_code": "US",
       "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Thousands turn out to greet Pope in France",
+      "url": "https://www.bbc.co.uk/news/videos/cq14d142p08do?at_medium=RSS&at_campaign=rss",
+      "summary": "The BBC's Hugh Schofield looks at why the visit is met with enthusiasm the Church attributes to growing spirituality among the French.",
+      "published_at": "2026-09-25T15:44:55Z",
+      "country_code": "FR",
+      "country_name": "France"
     },
     {
       "source": "BBC World",
@@ -137,7 +164,7 @@
       "country_name": "China"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "The world’s two most powerful men just met. How did it go?",
       "url": "https://www.bbc.co.uk/news/videos/cm790gjyw1qxo?at_medium=RSS&at_campaign=rss",
       "summary": "The BBC’s China correspondent Laura Bicker unpacks how the trip panned out for Beijing and Washington.",
@@ -173,7 +200,7 @@
       "country_name": "Italy"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "Priest killed and four injured in knife attack at Polish abbey",
       "url": "https://www.bbc.co.uk/news/articles/c607lrvm41l3o?at_medium=RSS&at_campaign=rss",
       "summary": "A male suspect from Ukraine was arrested after the stabbings in the town of Jarosław, police say.",
@@ -182,7 +209,7 @@
       "country_name": "Ukraine"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "Four civilians killed in Pakistani strikes in Afghanistan, Taliban says",
       "url": "https://www.bbc.co.uk/news/articles/cm86xn0nnw58o?at_medium=RSS&at_campaign=rss",
       "summary": "Pakistan says it struck 10 targets, adding the strikes were \"strictly limited to identified military objectives\".",
@@ -227,7 +254,7 @@
       "country_name": "Ethiopia"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "105-year-old investigated for crimes at Nazi PoW camp in Germany",
       "url": "https://www.bbc.co.uk/news/articles/cwzrzjy3pynvo?at_medium=RSS&at_campaign=rss",
       "summary": "The suspect is alleged to have been an accessory to murder at the Stalag 326 camp, where tens of thousands of Soviet PoWs died.",
@@ -731,15 +758,6 @@
       "country_name": "France"
     },
     {
-      "source": "BBC Africa",
-      "title": "'It's like a dog set loose on us' - fear over Kenya's crackdown on foreign traders",
-      "url": "https://www.bbc.co.uk/news/articles/c4g5kxw4wd7o?at_medium=RSS&at_campaign=rss",
-      "summary": "The authorities have struggled to contain the fallout, as frightened migrants flee the country.",
-      "published_at": "2026-09-12T10:00:05Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC Middle East",
       "title": "Lightning Houthi advance in Yemen may bring dangerous new dimension to Iran war",
       "url": "https://www.bbc.co.uk/news/articles/c3v4zgzr1kxo?at_medium=RSS&at_campaign=rss",
@@ -900,19 +918,24 @@
       "news_count": 30
     },
     {
+      "country_code": "FR",
+      "country_name": "France",
+      "news_count": 6
+    },
+    {
       "country_code": "IL",
       "country_name": "Israel",
       "news_count": 6
     },
     {
-      "country_code": "FR",
-      "country_name": "France",
-      "news_count": 5
-    },
-    {
       "country_code": "KE",
       "country_name": "Kenya",
       "news_count": 5
+    },
+    {
+      "country_code": "DE",
+      "country_name": "Germany",
+      "news_count": 4
     },
     {
       "country_code": "ES",
@@ -933,11 +956,6 @@
       "country_code": "UA",
       "country_name": "Ukraine",
       "news_count": 4
-    },
-    {
-      "country_code": "DE",
-      "country_name": "Germany",
-      "news_count": 3
     },
     {
       "country_code": "ET",
