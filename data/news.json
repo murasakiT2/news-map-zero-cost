@@ -1,12 +1,30 @@
 {
-  "generated_at": "2026-09-27T07:18:00Z",
+  "generated_at": "2026-09-27T13:09:49Z",
   "articles": [
     {
       "source": "BBC World",
-      "title": "Iran waiting for official US response after Trump rejects Hormuz deal, minister says",
+      "title": "'Scourge' of abuse must be rooted out, says Pope, during Lourdes visit",
+      "url": "https://www.bbc.co.uk/news/articles/cm5y5nj8ejj8o?at_medium=RSS&at_campaign=rss",
+      "summary": "Pope Leo spoke to bishops before leading a service attended by thousands of worshippers in France.",
+      "published_at": "2026-09-27T11:38:03Z",
+      "country_code": "FR",
+      "country_name": "France"
+    },
+    {
+      "source": "BBC World",
+      "title": "Two mass shootings in South Africa leave 27 dead",
+      "url": "https://www.bbc.co.uk/news/articles/ck5ywnp075d1o?at_medium=RSS&at_campaign=rss",
+      "summary": "The two attacks hours apart come as the country struggles to stop high levels of gang-related armed violence.",
+      "published_at": "2026-09-27T10:00:36Z",
+      "country_code": "ZA",
+      "country_name": "South Africa"
+    },
+    {
+      "source": "BBC World",
+      "title": "Iranian minister says only negotiation can end conflict after Trump rejects Hormuz deal",
       "url": "https://www.bbc.co.uk/news/articles/cmvgyyw2jeego?at_medium=RSS&at_campaign=rss",
-      "summary": "The foreign minister says the US has not officially rejected the deal, despite comments from Donald Trump on Saturday.",
-      "published_at": "2026-09-27T06:52:49Z",
+      "summary": "The foreign minister says Tehran is waiting for an official rejection of a deal, despite the US President's comments.",
+      "published_at": "2026-09-27T07:44:11Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -48,15 +66,6 @@
     },
     {
       "source": "BBC World",
-      "title": "Pope praises young people's 'energy and commitment' at huge open-air Mass in Paris",
-      "url": "https://www.bbc.co.uk/news/articles/cm4gjjwvvlzro?at_medium=RSS&at_campaign=rss",
-      "summary": "Around 700,000 people gathered in central Paris to hear the Catholic leader speak and offer prayer.",
-      "published_at": "2026-09-26T19:48:06Z",
-      "country_code": "FR",
-      "country_name": "France"
-    },
-    {
-      "source": "BBC World",
       "title": "White House bars CNN from travelling with Trump on Air Force One",
       "url": "https://www.bbc.co.uk/news/articles/cxq633770y16o?at_medium=RSS&at_campaign=rss",
       "summary": "CNN was scheduled to fly with US President Donald Trump for his trip to Tennessee on Saturday.",
@@ -65,7 +74,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Africa",
       "title": "Tenth woman's body found as South Africa police probe killings",
       "url": "https://www.bbc.co.uk/news/articles/c3vgyyj8q807o?at_medium=RSS&at_campaign=rss",
       "summary": "The deaths have sparked a national outcry about the scale of violence against women in the country.",
@@ -768,28 +777,10 @@
     },
     {
       "source": "BBC Africa",
-      "title": "'We are a great sporting nation' - Kenya president",
-      "url": "https://www.bbc.co.uk/sport/athletics/videos/cmkg8n192pk2o?at_medium=RSS&at_campaign=rss",
-      "summary": "Kenya's president William Nato hails the country's successful bid to host the 2029 World Athletics Championship in Nairobi.",
-      "published_at": "2026-09-15T17:55:07Z",
-      "country_code": "KE",
-      "country_name": "Kenya"
-    },
-    {
-      "source": "BBC Africa",
       "title": "How an African country got the 2029 World Athletics Championships",
       "url": "https://www.bbc.co.uk/sport/athletics/videos/cm93evnkdy81o?at_medium=RSS&at_campaign=rss",
       "summary": "BBC Sport Africa's Celestine Karoney explains why the 2029 World Athletics Championships was given to Nairobi in Kenya, as the tournament wi…",
       "published_at": "2026-09-15T17:23:07Z",
-      "country_code": "KE",
-      "country_name": "Kenya"
-    },
-    {
-      "source": "BBC Africa",
-      "title": "How Kenya won its bid for 2029 World Athletics Championships",
-      "url": "https://www.bbc.co.uk/sport/athletics/articles/cxvgyrlzn10lo?at_medium=RSS&at_campaign=rss",
-      "summary": "Kenya's athletics-loving population and improved infrastructure helped Nairobi secure the rights to host the 2029 World Championships, but c…",
-      "published_at": "2026-09-15T17:03:14Z",
       "country_code": "KE",
       "country_name": "Kenya"
     },
@@ -982,18 +973,13 @@
       "news_count": 7
     },
     {
-      "country_code": "DE",
-      "country_name": "Germany",
-      "news_count": 5
-    },
-    {
-      "country_code": "KE",
-      "country_name": "Kenya",
-      "news_count": 5
-    },
-    {
       "country_code": "ZA",
       "country_name": "South Africa",
+      "news_count": 6
+    },
+    {
+      "country_code": "DE",
+      "country_name": "Germany",
       "news_count": 5
     },
     {
@@ -1024,6 +1010,11 @@
     {
       "country_code": "IR",
       "country_name": "Iran",
+      "news_count": 3
+    },
+    {
+      "country_code": "KE",
+      "country_name": "Kenya",
       "news_count": 3
     },
     {
