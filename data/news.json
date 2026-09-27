@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-09-27T17:50:53Z",
+  "generated_at": "2026-09-27T20:34:06Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Pope says 'scourge' of abuse must be rooted out as he visits Lourdes",
+      "url": "https://www.bbc.co.uk/news/articles/cm5y5nj8ejj8o?at_medium=RSS&at_campaign=rss",
+      "summary": "Pope Leo spoke to bishops before leading a service attended by thousands of worshippers in France.",
+      "published_at": "2026-09-27T19:47:21Z",
+      "country_code": "FR",
+      "country_name": "France"
+    },
     {
       "source": "BBC World",
       "title": "Venezuela releases dozens of political prisoners as election calls grow",
@@ -18,15 +27,6 @@
       "published_at": "2026-09-27T14:09:22Z",
       "country_code": "ZA",
       "country_name": "South Africa"
-    },
-    {
-      "source": "BBC World",
-      "title": "'Scourge' of abuse must be rooted out, says Pope during Lourdes visit",
-      "url": "https://www.bbc.co.uk/news/articles/cm5y5nj8ejj8o?at_medium=RSS&at_campaign=rss",
-      "summary": "Pope Leo spoke to bishops before leading a service attended by thousands of worshippers in France.",
-      "published_at": "2026-09-27T11:38:03Z",
-      "country_code": "FR",
-      "country_name": "France"
     },
     {
       "source": "BBC World",
@@ -207,15 +207,6 @@
       "published_at": "2026-09-25T15:51:52Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "Thousands turn out to greet Pope in France",
-      "url": "https://www.bbc.co.uk/news/videos/cq14d142p08do?at_medium=RSS&at_campaign=rss",
-      "summary": "The BBC's Hugh Schofield looks at why the visit is met with enthusiasm the Church attributes to growing spirituality among the French.",
-      "published_at": "2026-09-25T15:44:55Z",
-      "country_code": "FR",
-      "country_name": "France"
     },
     {
       "source": "BBC Europe",
@@ -884,7 +875,7 @@
     {
       "country_code": "FR",
       "country_name": "France",
-      "news_count": 8
+      "news_count": 7
     },
     {
       "country_code": "IL",
