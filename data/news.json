@@ -1,14 +1,41 @@
 {
-  "generated_at": "2026-09-27T01:35:33Z",
+  "generated_at": "2026-09-27T07:18:00Z",
   "articles": [
     {
       "source": "BBC World",
-      "title": "Trump rejects Iran deal to reopen Strait of Hormuz in seven days",
-      "url": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
-      "summary": "Iran's foreign minister acknowledges Trump's comments, but adds that Tehran is waiting for the \"definitive views\" of mediators.",
-      "published_at": "2026-09-26T22:15:59Z",
-      "country_code": "IR",
-      "country_name": "Iran"
+      "title": "Iran waiting for official US response after Trump rejects Hormuz deal, minister says",
+      "url": "https://www.bbc.co.uk/news/articles/cmvgyyw2jeego?at_medium=RSS&at_campaign=rss",
+      "summary": "The foreign minister says the US has not officially rejected the deal, despite comments from Donald Trump on Saturday.",
+      "published_at": "2026-09-27T06:52:49Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Bangkok roads submerged as flood disaster declared",
+      "url": "https://www.bbc.co.uk/news/articles/ck1wxx8n2x3zo?at_medium=RSS&at_campaign=rss",
+      "summary": "Authorities said the heavy rains have subsided but the flooding is not yet over.",
+      "published_at": "2026-09-27T04:45:08Z",
+      "country_code": "TH",
+      "country_name": "Thailand"
+    },
+    {
+      "source": "BBC World",
+      "title": "Young people in China are fangirling over a professor who gets their anxiety",
+      "url": "https://www.bbc.co.uk/news/articles/cq70dgdndr46o?at_medium=RSS&at_campaign=rss",
+      "summary": "China's economy and tech have developed at breakneck speed, but there is plenty worrying its Gen Z.",
+      "published_at": "2026-09-26T22:02:18Z",
+      "country_code": "CN",
+      "country_name": "China"
+    },
+    {
+      "source": "BBC World",
+      "title": "Are claims of a white genocide in South Africa real?",
+      "url": "https://www.bbc.co.uk/news/videos/cme8xx55eryno?at_medium=RSS&at_campaign=rss",
+      "summary": "Thousands of white crosses have been displayed in Washington by an Afrikaner lobby group But South Africa's new ambassador Roelf Meyer says …",
+      "published_at": "2026-09-26T21:20:17Z",
+      "country_code": "ZA",
+      "country_name": "South Africa"
     },
     {
       "source": "BBC World",
@@ -75,39 +102,12 @@
     },
     {
       "source": "BBC World",
-      "title": "Republic of Ireland confirm rescheduled news conference before controversial Israel game",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c962jjl18g3ro?at_medium=RSS&at_campaign=rss",
-      "summary": "The Republic of Ireland will now hold their delayed news conference at 14:30 BST before they face Israel in tomorrow's Nations League fixtur…",
-      "published_at": "2026-09-26T10:44:37Z",
-      "country_code": "IL",
-      "country_name": "Israel"
-    },
-    {
-      "source": "BBC World",
-      "title": "Bangkok roads submerged as flood disaster declared",
-      "url": "https://www.bbc.co.uk/news/articles/ck1wxx8n2x3zo?at_medium=RSS&at_campaign=rss",
-      "summary": "An emergency has been declared across the capital of Thailand as days of heavy rain leave the city inundated.",
-      "published_at": "2026-09-26T07:21:30Z",
-      "country_code": "TH",
-      "country_name": "Thailand"
-    },
-    {
-      "source": "BBC World",
       "title": "OpenAI bots meddled with multiple US government agency sites",
       "url": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss",
       "summary": "OpenAI said its bots accessed public data from a range of institutions during test exercises.",
       "published_at": "2026-09-26T02:50:56Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "How fresh fighting in Tigray could spark wider conflict in Ethiopia",
-      "url": "https://www.bbc.co.uk/news/articles/c6d94wywx0ypo?at_medium=RSS&at_campaign=rss",
-      "summary": "Exploring the issues behind the escalation of tensions between the TPLF and the national army.",
-      "published_at": "2026-09-25T23:42:39Z",
-      "country_code": "ET",
-      "country_name": "Ethiopia"
     },
     {
       "source": "BBC World",
@@ -146,7 +146,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "US Supreme Court allows Trump to use controversial database to check voter citizenship",
       "url": "https://www.bbc.co.uk/news/articles/ck05rrj3jeylo?at_medium=RSS&at_campaign=rss",
       "summary": "Critics have questioned the reliability of the data, warning it could result in US citizens being wrongly removed from electoral rolls.",
@@ -225,15 +225,6 @@
       "published_at": "2026-09-25T14:24:19Z",
       "country_code": "ET",
       "country_name": "Ethiopia"
-    },
-    {
-      "source": "BBC World",
-      "title": "Robbie Williams' surprise singalong after Peru gig cancelled",
-      "url": "https://www.bbc.co.uk/news/videos/c3qjkxk58y02o?at_medium=RSS&at_campaign=rss",
-      "summary": "Robbie Williams gave an impromptu performance outside a hotel in Lima after his stadium concert was cancelled.",
-      "published_at": "2026-09-25T09:20:04Z",
-      "country_code": "PE",
-      "country_name": "Peru"
     },
     {
       "source": "BBC Asia",
@@ -978,16 +969,16 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 29
-    },
-    {
-      "country_code": "IL",
-      "country_name": "Israel",
-      "news_count": 8
+      "news_count": 30
     },
     {
       "country_code": "FR",
       "country_name": "France",
+      "news_count": 7
+    },
+    {
+      "country_code": "IL",
+      "country_name": "Israel",
       "news_count": 7
     },
     {
@@ -1001,6 +992,11 @@
       "news_count": 5
     },
     {
+      "country_code": "ZA",
+      "country_name": "South Africa",
+      "news_count": 5
+    },
+    {
       "country_code": "ES",
       "country_name": "Spain",
       "news_count": 4
@@ -1008,11 +1004,6 @@
     {
       "country_code": "GB",
       "country_name": "United Kingdom",
-      "news_count": 4
-    },
-    {
-      "country_code": "IR",
-      "country_name": "Iran",
       "news_count": 4
     },
     {
@@ -1026,13 +1017,13 @@
       "news_count": 4
     },
     {
-      "country_code": "ZA",
-      "country_name": "South Africa",
-      "news_count": 4
+      "country_code": "CN",
+      "country_name": "China",
+      "news_count": 3
     },
     {
-      "country_code": "ET",
-      "country_name": "Ethiopia",
+      "country_code": "IR",
+      "country_name": "Iran",
       "news_count": 3
     },
     {
@@ -1046,8 +1037,8 @@
       "news_count": 2
     },
     {
-      "country_code": "CN",
-      "country_name": "China",
+      "country_code": "ET",
+      "country_name": "Ethiopia",
       "news_count": 2
     },
     {
@@ -1058,11 +1049,6 @@
     {
       "country_code": "NG",
       "country_name": "Nigeria",
-      "news_count": 2
-    },
-    {
-      "country_code": "PE",
-      "country_name": "Peru",
       "news_count": 2
     },
     {
@@ -1103,6 +1089,11 @@
     {
       "country_code": "NL",
       "country_name": "Netherlands",
+      "news_count": 1
+    },
+    {
+      "country_code": "PE",
+      "country_name": "Peru",
       "news_count": 1
     },
     {
