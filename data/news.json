@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-09-27T23:28:16Z",
+  "generated_at": "2026-09-28T01:50:27Z",
   "articles": [
+    {
+      "source": "BBC US & Canada",
+      "title": "Five arrested as counter-terror police investigate major incident near UK airbase used by US forces",
+      "url": "https://www.bbc.co.uk/news/articles/cqrm99mm9l84o?at_medium=RSS&at_campaign=rss",
+      "summary": "The men have been detained on suspicion of preparation of a terrorist act after three suspicious vehicles were reported to be travelling tow…",
+      "published_at": "2026-09-27T20:10:51Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "What we know about UK airbase counter-terror probe",
+      "url": "https://www.bbc.co.uk/news/articles/c85ydnwqpzyzo?at_medium=RSS&at_campaign=rss",
+      "summary": "Five men have been arrested as counter-terror police lead an investigation into a major incident near the airbase.",
+      "published_at": "2026-09-27T19:47:44Z",
+      "country_code": "GB",
+      "country_name": "United Kingdom"
+    },
     {
       "source": "BBC World",
       "title": "Pope says 'scourge' of abuse must be rooted out as he visits Lourdes",
@@ -92,22 +110,13 @@
       "country_name": "Germany"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Latin America",
       "title": "Brazil's Lula bans online gambling ahead of presidential election",
       "url": "https://www.bbc.co.uk/news/articles/c914ddj21rzlo?at_medium=RSS&at_campaign=rss",
       "summary": "Lula, who is currently in a tight presidential race against Flávio Bolsonaro, said the industry was a \"cancer\" that he must \"remove\".",
       "published_at": "2026-09-26T15:46:40Z",
       "country_code": "BR",
       "country_name": "Brazil"
-    },
-    {
-      "source": "BBC World",
-      "title": "Watch: Bangkok declared flood disaster zone",
-      "url": "https://www.bbc.co.uk/news/videos/cwp933mr9v1xo?at_medium=RSS&at_campaign=rss",
-      "summary": "Heavy rain over the last two days has overwhelmed Bangkok's water systems, with more rain forecast on Sunday.",
-      "published_at": "2026-09-26T15:34:18Z",
-      "country_code": "TH",
-      "country_name": "Thailand"
     },
     {
       "source": "BBC US & Canada",
@@ -128,7 +137,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "As Merz scrambles for support, Germany's identity crisis is laid bare",
       "url": "https://www.bbc.co.uk/news/articles/cmx2zlqeje9zo?at_medium=RSS&at_campaign=rss",
       "summary": "Voters are turning away from the centre in Germany as fears grow about the economy and migration.",
@@ -155,7 +164,7 @@
       "country_name": "Russia"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "What is kratom, the 'gas station heroin' alarming officials in the US?",
       "url": "https://www.bbc.co.uk/news/articles/cjn5ddzekwnro?at_medium=RSS&at_campaign=rss",
       "summary": "Kratom, found during an investigation into the deaths of two college students, has been sold in the US for around a decade.",
@@ -173,7 +182,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "Why an international arrest warrant didn't stop Netanyahu's US trip",
       "url": "https://www.bbc.co.uk/news/videos/ckq633lm11jeo?at_medium=RSS&at_campaign=rss",
       "summary": "The BBC's Nada Tawfik explains why Israel's Benjamin Netanyahu was not arrested after speaking at the UN, despite an ICC arrest warrant.",
@@ -870,7 +879,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 27
+      "news_count": 28
     },
     {
       "country_code": "FR",
@@ -895,7 +904,7 @@
     {
       "country_code": "GB",
       "country_name": "United Kingdom",
-      "news_count": 4
+      "news_count": 5
     },
     {
       "country_code": "PS",
@@ -953,11 +962,6 @@
       "news_count": 2
     },
     {
-      "country_code": "TH",
-      "country_name": "Thailand",
-      "news_count": 2
-    },
-    {
       "country_code": "AR",
       "country_name": "Argentina",
       "news_count": 1
@@ -995,6 +999,11 @@
     {
       "country_code": "SD",
       "country_name": "Sudan",
+      "news_count": 1
+    },
+    {
+      "country_code": "TH",
+      "country_name": "Thailand",
       "news_count": 1
     },
     {
