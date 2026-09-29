@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-09-28T22:10:36Z",
+  "generated_at": "2026-09-29T02:06:10Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "US prosecutors reopen case of alleged gang rape at Cornell University",
+      "url": "https://www.bbc.co.uk/news/articles/c5wyzrm0n74ro?at_medium=RSS&at_campaign=rss",
+      "summary": "It comes after the woman filed a civil lawsuit alleging she was drugged and raped at a fraternity house in 2024.",
+      "published_at": "2026-09-29T00:38:23Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Hurricane Polo unleashes threatening winds as it approaches Mexico",
+      "url": "https://www.bbc.co.uk/news/articles/cw8d3z5y7958o?at_medium=RSS&at_campaign=rss",
+      "summary": "The category-three storm is expected to make landfall of north of Cabo San Lucas, a popular tourist area, on the Mexican peninsula of Baja C…",
+      "published_at": "2026-09-28T23:43:48Z",
+      "country_code": "MX",
+      "country_name": "Mexico"
+    },
     {
       "source": "BBC Europe",
       "title": "Watch: RAF Fairford suspects are bailed, what happens now?",
@@ -12,12 +30,12 @@
     },
     {
       "source": "BBC World",
-      "title": "Stuck between superpowers: How Australia navigates the China-US rivalry",
+      "title": "The Frenemy: How Australia navigates superpower rivalry",
       "url": "https://www.bbc.co.uk/news/articles/c61wxyzr4rwyo?at_medium=RSS&at_campaign=rss",
       "summary": "Australia is increasingly concerned about China's military might - but Beijing is also its biggest trade partner.",
       "published_at": "2026-09-28T18:37:15Z",
-      "country_code": "US",
-      "country_name": "United States"
+      "country_code": "CN",
+      "country_name": "China"
     },
     {
       "source": "BBC US & Canada",
@@ -25,15 +43,6 @@
       "url": "https://www.bbc.co.uk/news/articles/cky9z3r00l9eo?at_medium=RSS&at_campaign=rss",
       "summary": "The threatened proposal aims to protect US consumers from rising costs, but it could trigger major economic waves if it were to happen.",
       "published_at": "2026-09-28T18:18:30Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "US prosecutors reopen case of alleged gang rape at Cornell University",
-      "url": "https://www.bbc.co.uk/news/articles/c5wyzrm0n74ro?at_medium=RSS&at_campaign=rss",
-      "summary": "It comes after the woman filed a civil lawsuit alleging she was drugged and raped at a fraternity house in 2024.",
-      "published_at": "2026-09-28T18:11:07Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -108,15 +117,6 @@
       "published_at": "2026-09-28T11:15:06Z",
       "country_code": "GB",
       "country_name": "United Kingdom"
-    },
-    {
-      "source": "BBC World",
-      "title": "Mexico's Pacific coast braces for Hurricane Polo",
-      "url": "https://www.bbc.co.uk/news/articles/cw8d3z5y7958o?at_medium=RSS&at_campaign=rss",
-      "summary": "The category-three storm is approaching the state of Baja California Sur, on Mexico's northern Pacific coast.",
-      "published_at": "2026-09-28T11:05:49Z",
-      "country_code": "MX",
-      "country_name": "Mexico"
     },
     {
       "source": "BBC Africa",
@@ -200,7 +200,7 @@
       "country_name": "Iran"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "Young people in China are fangirling over a professor who gets their anxiety",
       "url": "https://www.bbc.co.uk/news/articles/cq70dgdndr46o?at_medium=RSS&at_campaign=rss",
       "summary": "China's economy and tech have developed at breakneck speed, but there is plenty worrying its Gen Z.",
@@ -218,7 +218,7 @@
       "country_name": "France"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "German town bans 'stumbling stone' memorials to Nazi victims",
       "url": "https://www.bbc.co.uk/news/articles/cqm2mm4y5dkko?at_medium=RSS&at_campaign=rss",
       "summary": "Germany's education minister has branded the ban on the small brass memorial plaques a \"scandal\".",
@@ -362,24 +362,6 @@
       "country_name": "United Kingdom"
     },
     {
-      "source": "BBC Asia",
-      "title": "The world’s two most powerful men just met. How did it go?",
-      "url": "https://www.bbc.co.uk/news/videos/cm790gjyw1qxo?at_medium=RSS&at_campaign=rss",
-      "summary": "The BBC’s China correspondent Laura Bicker unpacks how the trip panned out for Beijing and Washington.",
-      "published_at": "2026-09-25T01:27:10Z",
-      "country_code": "CN",
-      "country_name": "China"
-    },
-    {
-      "source": "BBC Asia",
-      "title": "From Nagaland to a path to the Oscars: Indian film brings a rarely seen world to global cinema",
-      "url": "https://www.bbc.co.uk/news/articles/cv2dwk3z7x5eo?at_medium=RSS&at_campaign=rss",
-      "summary": "After a major win at Toronto, Angh, a film from northeastern India, is now on a path towards the Oscars.",
-      "published_at": "2026-09-24T23:41:10Z",
-      "country_code": "IN",
-      "country_name": "India"
-    },
-    {
       "source": "BBC Europe",
       "title": "Italy ministers agree to ban burqa and niqab in school and cap foreigners in class",
       "url": "https://www.bbc.co.uk/news/articles/cw99d8g48873o?at_medium=RSS&at_campaign=rss",
@@ -387,15 +369,6 @@
       "published_at": "2026-09-24T19:32:59Z",
       "country_code": "IT",
       "country_name": "Italy"
-    },
-    {
-      "source": "BBC Asia",
-      "title": "Why Australia chose the world's biggest political stage to reveal OpenAI hack",
-      "url": "https://www.bbc.co.uk/news/articles/cr3eqk15ld14o?at_medium=RSS&at_campaign=rss",
-      "summary": "Australia, which has strict social media restrictions and has proposed controls on algorithms and smart glasses, announced the breach at the…",
-      "published_at": "2026-09-24T18:06:40Z",
-      "country_code": "AU",
-      "country_name": "Australia"
     },
     {
       "source": "BBC Europe",
@@ -615,15 +588,6 @@
     },
     {
       "source": "BBC Africa",
-      "title": "Postponement not an option as Kenya races to be ready for Afcon 2027",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cxr50lgjgz98o?at_medium=RSS&at_campaign=rss",
-      "summary": "African football boss Patrice Motsepe wants a \"heightened sense of urgency\" from Afcon 2027 co-hosts Kenya, Tanzania and Uganda as they face…",
-      "published_at": "2026-09-19T10:24:01Z",
-      "country_code": "KE",
-      "country_name": "Kenya"
-    },
-    {
-      "source": "BBC Africa",
       "title": "Grim discoveries of murdered women spark fear in South Africa",
       "url": "https://www.bbc.co.uk/news/articles/cjkg71e67k17o?at_medium=RSS&at_campaign=rss",
       "summary": "Dineo Motapane is one of nine recent victims whose deaths have left a nation traumatised over the level of violence against women.",
@@ -789,7 +753,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 22
+      "news_count": 21
     },
     {
       "country_code": "GB",
@@ -817,11 +781,6 @@
       "news_count": 4
     },
     {
-      "country_code": "AU",
-      "country_name": "Australia",
-      "news_count": 3
-    },
-    {
       "country_code": "CN",
       "country_name": "China",
       "news_count": 3
@@ -829,11 +788,6 @@
     {
       "country_code": "IL",
       "country_name": "Israel",
-      "news_count": 3
-    },
-    {
-      "country_code": "KE",
-      "country_name": "Kenya",
       "news_count": 3
     },
     {
@@ -847,13 +801,18 @@
       "news_count": 3
     },
     {
+      "country_code": "AU",
+      "country_name": "Australia",
+      "news_count": 2
+    },
+    {
       "country_code": "ES",
       "country_name": "Spain",
       "news_count": 2
     },
     {
-      "country_code": "IN",
-      "country_name": "India",
+      "country_code": "KE",
+      "country_name": "Kenya",
       "news_count": 2
     },
     {
@@ -894,6 +853,11 @@
     {
       "country_code": "ET",
       "country_name": "Ethiopia",
+      "news_count": 1
+    },
+    {
+      "country_code": "IN",
+      "country_name": "India",
       "news_count": 1
     },
     {
