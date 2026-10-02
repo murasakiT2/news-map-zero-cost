@@ -1,23 +1,50 @@
 {
-  "generated_at": "2026-10-02T20:00:03Z",
+  "generated_at": "2026-10-02T23:36:41Z",
   "articles": [
     {
+      "source": "BBC World",
+      "title": "Riot police clash with students as education protests rage in France",
+      "url": "https://www.bbc.co.uk/news/articles/ck3r5dxxwqzpo?at_medium=RSS&at_campaign=rss",
+      "summary": "About 735 schools have faced disruption as violent protests over standards and lack of teachers continue.",
+      "published_at": "2026-10-02T21:13:27Z",
+      "country_code": "FR",
+      "country_name": "France"
+    },
+    {
       "source": "BBC US & Canada",
-      "title": "US murderer Christa Pike unconscious and on ventilator after failed execution, lawyers say",
-      "url": "https://www.bbc.co.uk/news/articles/c3kgqw7zvz47o?at_medium=RSS&at_campaign=rss",
-      "summary": "As of Thursday night, Pike remained critically ill and is being treated at a hospital in Nashville, Tennessee.",
-      "published_at": "2026-10-02T19:44:34Z",
+      "title": "Ex-US congressman sentenced to 10 years in prison for $50m lobbying scheme",
+      "url": "https://www.bbc.co.uk/news/articles/crz98wnx4n1wo?at_medium=RSS&at_campaign=rss",
+      "summary": "River's ex-housemate, Secretary of State Marco Rubio, testified he had no idea about his activities.",
+      "published_at": "2026-10-02T21:05:03Z",
       "country_code": "US",
       "country_name": "United States"
     },
     {
       "source": "BBC World",
-      "title": "Riot police clash with students as education protests rage in France",
-      "url": "https://www.bbc.co.uk/news/articles/ck3r5dxxwqzpo?at_medium=RSS&at_campaign=rss",
-      "summary": "More than 600 schools have faced disruption as protests over standards and lack of teachers continue.",
-      "published_at": "2026-10-02T17:43:10Z",
-      "country_code": "FR",
-      "country_name": "France"
+      "title": "US murderer Christa Pike unconscious and on ventilator after failed execution, lawyers say",
+      "url": "https://www.bbc.co.uk/news/articles/c3kgqw7zvz47o?at_medium=RSS&at_campaign=rss",
+      "summary": "As of Thursday night, Pike remained critically ill and is being treated at a hospital in Nashville, Tennessee.",
+      "published_at": "2026-10-02T20:32:07Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "G7 to release 100 million barrels of oil and diesel after Trump export ban threat",
+      "url": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss",
+      "summary": "The coordinated release is aimed at heading off further price spikes and avoiding a ban on US diesel exports.",
+      "published_at": "2026-10-02T20:25:19Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "How widely used is the death penalty in the US?",
+      "url": "https://www.bbc.co.uk/news/videos/c54g1e3yxv0ko?at_medium=RSS&at_campaign=rss",
+      "summary": "The death penalty is back in the news after Christa Pike survived two lethal injection attempts in Tennessee - but how widely used is it in …",
+      "published_at": "2026-10-02T19:56:28Z",
+      "country_code": "US",
+      "country_name": "United States"
     },
     {
       "source": "BBC World",
@@ -171,15 +198,6 @@
       "published_at": "2026-10-01T19:38:30Z",
       "country_code": "RU",
       "country_name": "Russia"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "Carney pitches oil pipeline as a response to US-Canada trade war",
-      "url": "https://www.bbc.co.uk/news/articles/cm7505q2v2pqo?at_medium=RSS&at_campaign=rss",
-      "summary": "A west coast pipeline project is the first to be fast-tracked and will be a major test of Carney's promise to global investors.",
-      "published_at": "2026-10-01T17:47:38Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC US & Canada",
@@ -852,7 +870,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 19
+      "news_count": 21
     },
     {
       "country_code": "IL",
