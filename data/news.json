@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-10-02T15:09:35Z",
+  "generated_at": "2026-10-02T20:00:03Z",
   "articles": [
+    {
+      "source": "BBC US & Canada",
+      "title": "US murderer Christa Pike unconscious and on ventilator after failed execution, lawyers say",
+      "url": "https://www.bbc.co.uk/news/articles/c3kgqw7zvz47o?at_medium=RSS&at_campaign=rss",
+      "summary": "As of Thursday night, Pike remained critically ill and is being treated at a hospital in Nashville, Tennessee.",
+      "published_at": "2026-10-02T19:44:34Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Riot police clash with students as education protests rage in France",
+      "url": "https://www.bbc.co.uk/news/articles/ck3r5dxxwqzpo?at_medium=RSS&at_campaign=rss",
+      "summary": "More than 600 schools have faced disruption as protests over standards and lack of teachers continue.",
+      "published_at": "2026-10-02T17:43:10Z",
+      "country_code": "FR",
+      "country_name": "France"
+    },
+    {
+      "source": "BBC World",
+      "title": "Ethiopia and Eritrea cut diplomatic ties as northern conflict escalates",
+      "url": "https://www.bbc.co.uk/news/articles/crpd0d0jl0y0o?at_medium=RSS&at_campaign=rss",
+      "summary": "The diplomatic fallout comes as Ethiopian forces battle rebel fighters across its northern region.",
+      "published_at": "2026-10-02T16:08:25Z",
+      "country_code": "ET",
+      "country_name": "Ethiopia"
+    },
+    {
+      "source": "BBC World",
+      "title": "Intensified Russian strikes are tearing Kyiv apart, warns mayor",
+      "url": "https://www.bbc.co.uk/news/articles/c6wyv44y4ywjo?at_medium=RSS&at_campaign=rss",
+      "summary": "Vitaliy Klitschko says Ukraine's capital is in a \"very dramatic situation\" as Russia hits critical infrastructure.",
+      "published_at": "2026-10-02T15:26:37Z",
+      "country_code": "RU",
+      "country_name": "Russia"
+    },
     {
       "source": "BBC US & Canada",
       "title": "US jobs market sees sharp slowdown ahead of midterm elections",
@@ -43,15 +79,6 @@
       "url": "https://www.bbc.co.uk/news/articles/c6d94wywx0ypo?at_medium=RSS&at_campaign=rss",
       "summary": "Exploring the issues behind the escalation of tensions between the TPLF and the national army.",
       "published_at": "2026-10-02T11:24:13Z",
-      "country_code": "ET",
-      "country_name": "Ethiopia"
-    },
-    {
-      "source": "BBC World",
-      "title": "Ethiopia and Eritrea cut diplomatic ties as northern conflict escalates",
-      "url": "https://www.bbc.co.uk/news/articles/crpd0d0jl0y0o?at_medium=RSS&at_campaign=rss",
-      "summary": "The diplomatic fallout comes as Ethiopian forces battle rebel fighters across its northern region.",
-      "published_at": "2026-10-02T10:04:56Z",
       "country_code": "ET",
       "country_name": "Ethiopia"
     },
@@ -117,15 +144,6 @@
       "published_at": "2026-10-01T23:42:33Z",
       "country_code": "CN",
       "country_name": "China"
-    },
-    {
-      "source": "BBC World",
-      "title": "Why are these endangered moths swarming Australia's east coast?",
-      "url": "https://www.bbc.co.uk/news/videos/c6rr4r704en4o?at_medium=RSS&at_campaign=rss",
-      "summary": "The sudden influx of Bogong moths has caused a stir in cities like Sydney and Canberra, with people filming them infiltrating their homes an…",
-      "published_at": "2026-10-01T22:26:05Z",
-      "country_code": "AU",
-      "country_name": "Australia"
     },
     {
       "source": "BBC World",
@@ -281,7 +299,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Middle East",
       "title": "Plummeting Israel flight like 'rollercoaster', says passenger",
       "url": "https://www.bbc.co.uk/news/videos/cwm2r2v42vdeo?at_medium=RSS&at_campaign=rss",
       "summary": "An aeroplane flying to Israel fell 17,000ft (5,200m) in less than two minutes before it was diverted.",
@@ -834,7 +852,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 18
+      "news_count": 19
     },
     {
       "country_code": "IL",
@@ -847,18 +865,18 @@
       "news_count": 6
     },
     {
-      "country_code": "ET",
-      "country_name": "Ethiopia",
-      "news_count": 4
-    },
-    {
       "country_code": "FR",
       "country_name": "France",
-      "news_count": 4
+      "news_count": 5
     },
     {
       "country_code": "RU",
       "country_name": "Russia",
+      "news_count": 5
+    },
+    {
+      "country_code": "ET",
+      "country_name": "Ethiopia",
       "news_count": 4
     },
     {
@@ -890,11 +908,6 @@
       "country_code": "ZA",
       "country_name": "South Africa",
       "news_count": 3
-    },
-    {
-      "country_code": "AU",
-      "country_name": "Australia",
-      "news_count": 2
     },
     {
       "country_code": "DE",
@@ -934,6 +947,11 @@
     {
       "country_code": "AR",
       "country_name": "Argentina",
+      "news_count": 1
+    },
+    {
+      "country_code": "AU",
+      "country_name": "Australia",
       "news_count": 1
     },
     {
