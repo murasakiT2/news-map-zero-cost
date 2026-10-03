@@ -1,8 +1,26 @@
 {
-  "generated_at": "2026-10-03T14:03:10Z",
+  "generated_at": "2026-10-03T18:03:46Z",
   "articles": [
     {
-      "source": "BBC US & Canada",
+      "source": "BBC World",
+      "title": "Russia hits second major bridge in Ukraine's capital Kyiv",
+      "url": "https://www.bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&at_campaign=rss",
+      "summary": "The strike on the Pivnichnyi (Northern) Bridge comes after repeat attacks on another major bridge in Ukraine's capital.",
+      "published_at": "2026-10-03T16:16:49Z",
+      "country_code": "RU",
+      "country_name": "Russia"
+    },
+    {
+      "source": "BBC World",
+      "title": "Flydubai co-pilot attacked captain with axe, UAE official says",
+      "url": "https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&at_campaign=rss",
+      "summary": "The man accused of trying to take over the Israel-bound jet is named as Hamam al-Hammami by several media outlets.",
+      "published_at": "2026-10-03T14:27:33Z",
+      "country_code": "IL",
+      "country_name": "Israel"
+    },
+    {
+      "source": "BBC World",
       "title": "Why has Brazil accused the US of election interference?",
       "url": "https://www.bbc.co.uk/news/videos/c3eweld0nddeo?at_medium=RSS&at_campaign=rss",
       "summary": "The Latin American country will vote for its next president, as Lula da Silva and Bolsonaro clash over sovereignty, security and ties with W…",
@@ -12,21 +30,12 @@
     },
     {
       "source": "BBC World",
-      "title": "Protesters across Spain demand action over housing crisis",
+      "title": "'Anger in the streets': Tens of thousands protest in Spain over housing crisis",
       "url": "https://www.bbc.co.uk/news/articles/cm2kej47095no?at_medium=RSS&at_campaign=rss",
       "summary": "More than 50 protests are taking place on Saturday after the government failed to get emergency legislation through parliament.",
       "published_at": "2026-10-03T13:34:11Z",
       "country_code": "ES",
       "country_name": "Spain"
-    },
-    {
-      "source": "BBC World",
-      "title": "Russia hits second major bridge in Ukraine's capital Kyiv",
-      "url": "https://www.bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&at_campaign=rss",
-      "summary": "The strike on the Pivnichnyi (Northern) Bridge comes after repeat attacks on another major bridge in Ukraine's capital.",
-      "published_at": "2026-10-03T12:59:10Z",
-      "country_code": "RU",
-      "country_name": "Russia"
     },
     {
       "source": "BBC Europe",
@@ -36,15 +45,6 @@
       "published_at": "2026-10-03T12:26:30Z",
       "country_code": "ES",
       "country_name": "Spain"
-    },
-    {
-      "source": "BBC World",
-      "title": "Flydubai co-pilot attacked captain with axe, UAE official says",
-      "url": "https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&at_campaign=rss",
-      "summary": "The man accused of trying to take over the Israel-bound jet is named as Hamam al-Hammami by several media outlets.",
-      "published_at": "2026-10-03T11:20:21Z",
-      "country_code": "IL",
-      "country_name": "Israel"
     },
     {
       "source": "BBC World",
@@ -124,15 +124,6 @@
       "url": "https://www.bbc.co.uk/news/articles/crz98wnx4n1wo?at_medium=RSS&at_campaign=rss",
       "summary": "River's ex-housemate, Secretary of State Marco Rubio, testified he had no idea about his activities.",
       "published_at": "2026-10-02T21:05:03Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "US murderer Christa Pike unconscious and on ventilator after failed execution, lawyers say",
-      "url": "https://www.bbc.co.uk/news/articles/c3kgqw7zvz47o?at_medium=RSS&at_campaign=rss",
-      "summary": "As of Thursday night, Pike remained critically ill and is being treated at a hospital in Nashville, Tennessee.",
-      "published_at": "2026-10-02T20:32:07Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -362,15 +353,6 @@
       "country_name": "France"
     },
     {
-      "source": "BBC World",
-      "title": "Kanye West's Russia shows officially cancelled after weeks of uncertainty",
-      "url": "https://www.bbc.co.uk/news/articles/cm74k417wpjxo?at_medium=RSS&at_campaign=rss",
-      "summary": "Chaos has surrounded the St Petersburg shows since the stadium said it had not agreed to host the rapper.",
-      "published_at": "2026-10-01T12:13:28Z",
-      "country_code": "RU",
-      "country_name": "Russia"
-    },
-    {
       "source": "BBC Middle East",
       "title": "Too early to say whether Iran involved in Dubai-Tel Aviv flight attack, Israeli PM says",
       "url": "https://www.bbc.co.uk/news/articles/cqgmrm7xd8wyo?at_medium=RSS&at_campaign=rss",
@@ -398,7 +380,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "Japan raises permanent residency fee by 20 times",
       "url": "https://www.bbc.co.uk/news/articles/c6y8z8xeg8j1o?at_medium=RSS&at_campaign=rss",
       "summary": "The hikes are part of immigration policy changes introduced to manage Japan's growing foreign population.",
@@ -915,7 +897,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 23
+      "news_count": 22
     },
     {
       "country_code": "IL",
@@ -935,11 +917,6 @@
     {
       "country_code": "ET",
       "country_name": "Ethiopia",
-      "news_count": 4
-    },
-    {
-      "country_code": "RU",
-      "country_name": "Russia",
       "news_count": 4
     },
     {
@@ -980,6 +957,11 @@
     {
       "country_code": "PS",
       "country_name": "Palestine",
+      "news_count": 3
+    },
+    {
+      "country_code": "RU",
+      "country_name": "Russia",
       "news_count": 3
     },
     {
