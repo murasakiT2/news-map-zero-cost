@@ -1,6 +1,33 @@
 {
-  "generated_at": "2026-10-02T23:36:41Z",
+  "generated_at": "2026-10-03T02:49:18Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "The South African men trying to end violence against women: 'Every man needs to play a part'",
+      "url": "https://www.bbc.co.uk/news/articles/cm3eqegwpzl4o?at_medium=RSS&at_campaign=rss",
+      "summary": "The discovery of 12 women's bodies near Johannesburg has again highlighted South Africa's problem with violence against women.",
+      "published_at": "2026-10-02T23:56:21Z",
+      "country_code": "ZA",
+      "country_name": "South Africa"
+    },
+    {
+      "source": "BBC World",
+      "title": "US road rage killer's sentence quashed because AI video of victim was shown in court",
+      "url": "https://www.bbc.co.uk/news/articles/cwgkvygg5nzvo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Arizona appeals court ruled that airing an AI message from the dead victim \"crossed that line\".",
+      "published_at": "2026-10-02T23:06:00Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "The vanishing world of India's street magicians",
+      "url": "https://www.bbc.co.uk/news/articles/ck7v4v8pmzdeo?at_medium=RSS&at_campaign=rss",
+      "summary": "India's street performers are struggling to survive as audiences shrink and public spaces become harder to access.",
+      "published_at": "2026-10-02T22:59:05Z",
+      "country_code": "IN",
+      "country_name": "India"
+    },
     {
       "source": "BBC World",
       "title": "Riot police clash with students as education protests rage in France",
@@ -32,7 +59,7 @@
       "source": "BBC World",
       "title": "G7 to release 100 million barrels of oil and diesel after Trump export ban threat",
       "url": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss",
-      "summary": "The coordinated release is aimed at heading off further price spikes and avoiding a ban on US diesel exports.",
+      "summary": "The co-ordinated release is aimed at heading off further price spikes and avoiding a ban on US diesel exports.",
       "published_at": "2026-10-02T20:25:19Z",
       "country_code": "US",
       "country_name": "United States"
@@ -92,7 +119,7 @@
       "country_name": "France"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "Who is the 'hero' Indian pilot who was stabbed on Israel-bound flight?",
       "url": "https://www.bbc.co.uk/news/articles/cje3r3z7g0zzo?at_medium=RSS&at_campaign=rss",
       "summary": "Capt Smit Machchhar was attacked by another pilot onboard the Flydubai flight bound for Tel Aviv.",
@@ -155,7 +182,7 @@
       "country_name": "South Korea"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Africa",
       "title": "Making politics 'fun, trendy, sexy': How Gen Z could shape Kenya's next election",
       "url": "https://www.bbc.co.uk/news/articles/cwly7v7kk17mo?at_medium=RSS&at_campaign=rss",
       "summary": "A voter mobilisation campaign has registered huge numbers of young people but it is not clear who they are backing.",
@@ -164,7 +191,7 @@
       "country_name": "Kenya"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "Spain and China are cosying up - to the anger of many in the EU",
       "url": "https://www.bbc.co.uk/news/articles/c6vgyg824m02o?at_medium=RSS&at_campaign=rss",
       "summary": "Amid global tumult, the two countries' alliance is not the only unlikely pairing.",
@@ -614,15 +641,6 @@
       "country_name": "Germany"
     },
     {
-      "source": "BBC Asia",
-      "title": "Young people in China are fangirling over a professor who gets their anxiety",
-      "url": "https://www.bbc.co.uk/news/articles/cq70dgdndr46o?at_medium=RSS&at_campaign=rss",
-      "summary": "China's economy and tech have developed at breakneck speed, but there is plenty worrying its Gen Z.",
-      "published_at": "2026-09-26T22:02:18Z",
-      "country_code": "CN",
-      "country_name": "China"
-    },
-    {
       "source": "BBC Latin America",
       "title": "Brazil's Lula bans online gambling ahead of presidential election",
       "url": "https://www.bbc.co.uk/news/articles/c914ddj21rzlo?at_medium=RSS&at_campaign=rss",
@@ -767,15 +785,6 @@
       "country_name": "Israel"
     },
     {
-      "source": "BBC Africa",
-      "title": "Nigeria’s ‘sarcasm queen’ answers ‘silly’ questions about Africa",
-      "url": "https://www.bbc.co.uk/news/videos/cq62jvr18ny4o?at_medium=RSS&at_campaign=rss",
-      "summary": "Nigerian journalist and content creator Charity Ekezie believes the best way to challenge negative stereotypes about Africa is to laugh at t…",
-      "published_at": "2026-09-16T13:51:26Z",
-      "country_code": "NG",
-      "country_name": "Nigeria"
-    },
-    {
       "source": "BBC Middle East",
       "title": "AI 'SpongeBob' parody of problems in Egypt draws scrutiny of authorities",
       "url": "https://www.bbc.co.uk/news/articles/c5y4g65vjnmo?at_medium=RSS&at_campaign=rss",
@@ -870,7 +879,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 21
+      "news_count": 22
     },
     {
       "country_code": "IL",
@@ -898,8 +907,13 @@
       "news_count": 4
     },
     {
-      "country_code": "CN",
-      "country_name": "China",
+      "country_code": "ZA",
+      "country_name": "South Africa",
+      "news_count": 4
+    },
+    {
+      "country_code": "IN",
+      "country_name": "India",
       "news_count": 3
     },
     {
@@ -913,19 +927,14 @@
       "news_count": 3
     },
     {
-      "country_code": "NG",
-      "country_name": "Nigeria",
-      "news_count": 3
-    },
-    {
       "country_code": "PS",
       "country_name": "Palestine",
       "news_count": 3
     },
     {
-      "country_code": "ZA",
-      "country_name": "South Africa",
-      "news_count": 3
+      "country_code": "CN",
+      "country_name": "China",
+      "news_count": 2
     },
     {
       "country_code": "DE",
@@ -938,11 +947,6 @@
       "news_count": 2
     },
     {
-      "country_code": "IN",
-      "country_name": "India",
-      "news_count": 2
-    },
-    {
       "country_code": "JP",
       "country_name": "Japan",
       "news_count": 2
@@ -950,6 +954,11 @@
     {
       "country_code": "KR",
       "country_name": "South Korea",
+      "news_count": 2
+    },
+    {
+      "country_code": "NG",
+      "country_name": "Nigeria",
       "news_count": 2
     },
     {
