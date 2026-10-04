@@ -1,6 +1,33 @@
 {
-  "generated_at": "2026-10-04T00:13:14Z",
+  "generated_at": "2026-10-04T06:05:22Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Flydubai co-pilot attacked captain with axe, UAE official says",
+      "url": "https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&at_campaign=rss",
+      "summary": "The man accused of trying to take over the Israel-bound jet is named as Hamam al-Hammami by several media outlets.",
+      "published_at": "2026-10-04T04:57:20Z",
+      "country_code": "IL",
+      "country_name": "Israel"
+    },
+    {
+      "source": "BBC World",
+      "title": "Debris found from plane that went missing off US coast",
+      "url": "https://www.bbc.co.uk/news/articles/cme3x85013llo?at_medium=RSS&at_campaign=rss",
+      "summary": "The aircraft lost communication with flight controllers after significantly dropping in altitude, according to flight data.",
+      "published_at": "2026-10-04T03:49:06Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "'Anger in the streets': Tens of thousands protest in Spain over housing crisis",
+      "url": "https://www.bbc.co.uk/news/articles/cm2kej47095no?at_medium=RSS&at_campaign=rss",
+      "summary": "More than 50 protests took place on Saturday after the government failed to get emergency legislation through parliament.",
+      "published_at": "2026-10-04T03:42:15Z",
+      "country_code": "ES",
+      "country_name": "Spain"
+    },
     {
       "source": "BBC World",
       "title": "Why Canada is preparing for a (long shot) US invasion",
@@ -21,30 +48,12 @@
     },
     {
       "source": "BBC World",
-      "title": "Flydubai co-pilot attacked captain with axe, UAE official says",
-      "url": "https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&at_campaign=rss",
-      "summary": "The man accused of trying to take over the Israel-bound jet is named as Hamam al-Hammami by several media outlets.",
-      "published_at": "2026-10-03T14:27:33Z",
-      "country_code": "IL",
-      "country_name": "Israel"
-    },
-    {
-      "source": "BBC World",
       "title": "Why has Brazil accused the US of election interference?",
       "url": "https://www.bbc.co.uk/news/videos/c3eweld0nddeo?at_medium=RSS&at_campaign=rss",
       "summary": "The Latin American country will vote for its next president, as Lula da Silva and Bolsonaro clash over sovereignty, security and ties with W…",
       "published_at": "2026-10-03T13:52:13Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "'Anger in the streets': Tens of thousands protest in Spain over housing crisis",
-      "url": "https://www.bbc.co.uk/news/articles/cm2kej47095no?at_medium=RSS&at_campaign=rss",
-      "summary": "More than 50 protests took place on Saturday after the government failed to get emergency legislation through parliament.",
-      "published_at": "2026-10-03T13:34:11Z",
-      "country_code": "ES",
-      "country_name": "Spain"
     },
     {
       "source": "BBC Europe",
@@ -888,7 +897,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 23
+      "news_count": 24
     },
     {
       "country_code": "IL",
