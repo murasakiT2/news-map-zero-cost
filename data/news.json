@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-10-03T21:32:43Z",
+  "generated_at": "2026-10-04T00:13:14Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Why Canada is preparing for a (long shot) US invasion",
+      "url": "https://www.bbc.co.uk/news/articles/c9m2mjj3yvg4o?at_medium=RSS&at_campaign=rss",
+      "summary": "Prime Minister Mark Carney has said the military is running scenarios in the unlikely case the US invades Canada.",
+      "published_at": "2026-10-03T23:30:06Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "Russia hits second major bridge in Ukraine's capital Kyiv",
@@ -306,15 +315,6 @@
       "published_at": "2026-10-01T16:02:07Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "Explosions heard in Ethiopia's capital after drone flights banned",
-      "url": "https://www.bbc.co.uk/news/articles/c3vgygpqky9zo?at_medium=RSS&at_campaign=rss",
-      "summary": "It comes a week after fighting erupted north of the capital between the army and a new alliance of armed groups.",
-      "published_at": "2026-10-01T15:05:36Z",
-      "country_code": "ET",
-      "country_name": "Ethiopia"
     },
     {
       "source": "BBC Middle East",
@@ -794,15 +794,6 @@
       "country_name": "Israel"
     },
     {
-      "source": "BBC Africa",
-      "title": "Nigeria’s ‘sarcasm queen’ answers ‘silly’ questions about Africa",
-      "url": "https://www.bbc.co.uk/news/videos/cq62jvr18ny4o?at_medium=RSS&at_campaign=rss",
-      "summary": "Nigerian journalist and content creator Charity Ekezie believes the best way to challenge negative stereotypes about Africa is to laugh at t…",
-      "published_at": "2026-09-16T13:51:26Z",
-      "country_code": "NG",
-      "country_name": "Nigeria"
-    },
-    {
       "source": "BBC Middle East",
       "title": "AI 'SpongeBob' parody of problems in Egypt draws scrutiny of authorities",
       "url": "https://www.bbc.co.uk/news/articles/c5y4g65vjnmo?at_medium=RSS&at_campaign=rss",
@@ -897,7 +888,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 22
+      "news_count": 23
     },
     {
       "country_code": "IL",
@@ -915,11 +906,6 @@
       "news_count": 5
     },
     {
-      "country_code": "ET",
-      "country_name": "Ethiopia",
-      "news_count": 4
-    },
-    {
       "country_code": "ZA",
       "country_name": "South Africa",
       "news_count": 4
@@ -927,6 +913,11 @@
     {
       "country_code": "ES",
       "country_name": "Spain",
+      "news_count": 3
+    },
+    {
+      "country_code": "ET",
+      "country_name": "Ethiopia",
       "news_count": 3
     },
     {
@@ -947,11 +938,6 @@
     {
       "country_code": "MX",
       "country_name": "Mexico",
-      "news_count": 3
-    },
-    {
-      "country_code": "NG",
-      "country_name": "Nigeria",
       "news_count": 3
     },
     {
@@ -982,6 +968,11 @@
     {
       "country_code": "JP",
       "country_name": "Japan",
+      "news_count": 2
+    },
+    {
+      "country_code": "NG",
+      "country_name": "Nigeria",
       "news_count": 2
     },
     {
