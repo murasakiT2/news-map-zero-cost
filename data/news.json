@@ -1,6 +1,33 @@
 {
-  "generated_at": "2026-10-04T20:15:46Z",
+  "generated_at": "2026-10-04T23:20:20Z",
   "articles": [
+    {
+      "source": "BBC Asia",
+      "title": "Forced to call him 'Dad': Sexual abuse of disabled residents that shocked South Korea",
+      "url": "https://www.bbc.co.uk/news/articles/cmy4z93n9n1zo?at_medium=RSS&at_campaign=rss",
+      "summary": "The BBC spoke to one of three residents at a care home who were sexually assaulted by a staff member.",
+      "published_at": "2026-10-04T22:11:33Z",
+      "country_code": "KR",
+      "country_name": "South Korea"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "US removes all bombers from UK air base",
+      "url": "https://www.bbc.co.uk/news/articles/cmwyve191dlko?at_medium=RSS&at_campaign=rss",
+      "summary": "A statement says all bombers deployed to RAF Fairford have been \"re-deployed to their home stations\" in the US.",
+      "published_at": "2026-10-04T21:57:32Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Polls close in Brazil as Lula and Flávio Bolsonaro remain neck and neck",
+      "url": "https://www.bbc.co.uk/news/articles/ck1l34ed592no?at_medium=RSS&at_campaign=rss",
+      "summary": "If no candidate gets more than 50% of the vote, the election will go to a run-off on 25 October.",
+      "published_at": "2026-10-04T21:11:49Z",
+      "country_code": "BR",
+      "country_name": "Brazil"
+    },
     {
       "source": "BBC World",
       "title": "What to know about Brazil's election as Lula and Flávio Bolsonaro face off",
@@ -852,7 +879,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 23
+      "news_count": 24
     },
     {
       "country_code": "IL",
@@ -890,6 +917,11 @@
       "news_count": 3
     },
     {
+      "country_code": "KR",
+      "country_name": "South Korea",
+      "news_count": 3
+    },
+    {
       "country_code": "MX",
       "country_name": "Mexico",
       "news_count": 3
@@ -903,6 +935,11 @@
       "country_code": "RU",
       "country_name": "Russia",
       "news_count": 3
+    },
+    {
+      "country_code": "BR",
+      "country_name": "Brazil",
+      "news_count": 2
     },
     {
       "country_code": "CN",
@@ -935,11 +972,6 @@
       "news_count": 2
     },
     {
-      "country_code": "KR",
-      "country_name": "South Korea",
-      "news_count": 2
-    },
-    {
       "country_code": "NG",
       "country_name": "Nigeria",
       "news_count": 2
@@ -957,11 +989,6 @@
     {
       "country_code": "AU",
       "country_name": "Australia",
-      "news_count": 1
-    },
-    {
-      "country_code": "BR",
-      "country_name": "Brazil",
       "news_count": 1
     },
     {
