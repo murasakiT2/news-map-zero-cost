@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-10-04T12:36:35Z",
+  "generated_at": "2026-10-04T17:10:26Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "US Marine arrested over murder of woman in Okinawa, Japan",
+      "url": "https://www.bbc.co.uk/news/articles/cme3xw4yy28do?at_medium=RSS&at_campaign=rss",
+      "summary": "Japan's government lodged a formal protest with the US, demanding that military officials take action.",
+      "published_at": "2026-10-04T14:36:57Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Watch: What we know about Russian strikes on Kyiv bridges",
+      "url": "https://www.bbc.co.uk/news/videos/cmglwkyl9djyo?at_medium=RSS&at_campaign=rss",
+      "summary": "BBC Ukraine correspondent Dan Johnson is near Kyiv's Northern Bridge, which has been hit for the second day in a row.",
+      "published_at": "2026-10-04T14:25:32Z",
+      "country_code": "UA",
+      "country_name": "Ukraine"
+    },
     {
       "source": "BBC World",
       "title": "Kyiv bridge hit in further Russian drone attack as German chancellor makes surprise visit",
@@ -57,7 +75,7 @@
     },
     {
       "source": "BBC World",
-      "title": "Why Canada is preparing for a (long shot) US invasion",
+      "title": "Why Canada is wargaming a (long shot) US invasion",
       "url": "https://www.bbc.co.uk/news/articles/c9m2mjj3yvg4o?at_medium=RSS&at_campaign=rss",
       "summary": "Prime Minister Mark Carney has said the military is running scenarios in the unlikely case the US invades Canada.",
       "published_at": "2026-10-03T23:30:06Z",
@@ -101,33 +119,6 @@
       "country_name": "Spain"
     },
     {
-      "source": "BBC World",
-      "title": "UK-Iranian dual national bailed after RAF Fairford incident arrest",
-      "url": "https://www.bbc.co.uk/news/articles/c6d095ygggv1o?at_medium=RSS&at_campaign=rss",
-      "summary": "The 25-year-old man was arrested in the London borough of Westminster on Thursday.",
-      "published_at": "2026-10-03T10:58:51Z",
-      "country_code": "GB",
-      "country_name": "United Kingdom"
-    },
-    {
-      "source": "BBC World",
-      "title": "Kim wins Asian Games gold to secure military exemption",
-      "url": "https://www.bbc.co.uk/sport/golf/articles/cmy0rn425k4xo?at_medium=RSS&at_campaign=rss",
-      "summary": "Golfer Tom Kim wins gold at the Asian Games to secure an exemption from mandatory service in South Korea's military.",
-      "published_at": "2026-10-03T08:51:14Z",
-      "country_code": "KR",
-      "country_name": "South Korea"
-    },
-    {
-      "source": "BBC World",
-      "title": "G7 to release millions of barrels of oil and diesel after Trump threat",
-      "url": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss",
-      "summary": "The co-ordinated release is aimed at heading off further price spikes and avoiding a ban on US diesel exports.",
-      "published_at": "2026-10-03T04:38:31Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC Africa",
       "title": "The South African men trying to end violence against women: 'Every man needs to play a part'",
       "url": "https://www.bbc.co.uk/news/articles/cm3eqegwpzl4o?at_medium=RSS&at_campaign=rss",
@@ -153,15 +144,6 @@
       "published_at": "2026-10-02T22:22:36Z",
       "country_code": "ZA",
       "country_name": "South Africa"
-    },
-    {
-      "source": "BBC World",
-      "title": "Riot police clash with students as education protests rage in France",
-      "url": "https://www.bbc.co.uk/news/articles/ck3r5dxxwqzpo?at_medium=RSS&at_campaign=rss",
-      "summary": "About 735 schools have faced disruption as violent protests over standards and lack of teachers continue.",
-      "published_at": "2026-10-02T21:13:27Z",
-      "country_code": "FR",
-      "country_name": "France"
     },
     {
       "source": "BBC US & Canada",
@@ -749,15 +731,6 @@
       "country_name": "Nigeria"
     },
     {
-      "source": "BBC Africa",
-      "title": "'Enough is enough': Women protest after string of murders near Johannesburg",
-      "url": "https://www.bbc.co.uk/news/videos/cm4gjxq1dx2eo?at_medium=RSS&at_campaign=rss",
-      "summary": "The police have since set up a task team to investigate the murders and have urged women in the Kempton Park area to avoid walking or runnin…",
-      "published_at": "2026-09-19T11:50:50Z",
-      "country_code": "ZA",
-      "country_name": "South Africa"
-    },
-    {
       "source": "BBC Latin America",
       "title": "Watch: Aztec codex on display in Mexico for first time in 186 years",
       "url": "https://www.bbc.co.uk/news/videos/cjn5dg5ww7pdo?at_medium=RSS&at_campaign=rss",
@@ -889,16 +862,16 @@
     {
       "country_code": "GB",
       "country_name": "United Kingdom",
-      "news_count": 7
+      "news_count": 6
     },
     {
       "country_code": "FR",
       "country_name": "France",
-      "news_count": 5
+      "news_count": 4
     },
     {
-      "country_code": "ZA",
-      "country_name": "South Africa",
+      "country_code": "UA",
+      "country_name": "Ukraine",
       "news_count": 4
     },
     {
@@ -917,11 +890,6 @@
       "news_count": 3
     },
     {
-      "country_code": "KR",
-      "country_name": "South Korea",
-      "news_count": 3
-    },
-    {
       "country_code": "MX",
       "country_name": "Mexico",
       "news_count": 3
@@ -937,8 +905,8 @@
       "news_count": 3
     },
     {
-      "country_code": "UA",
-      "country_name": "Ukraine",
+      "country_code": "ZA",
+      "country_name": "South Africa",
       "news_count": 3
     },
     {
@@ -964,6 +932,11 @@
     {
       "country_code": "JP",
       "country_name": "Japan",
+      "news_count": 2
+    },
+    {
+      "country_code": "KR",
+      "country_name": "South Korea",
       "news_count": 2
     },
     {
