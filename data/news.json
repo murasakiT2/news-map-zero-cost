@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-10-04T17:10:26Z",
+  "generated_at": "2026-10-04T20:15:46Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "What to know about Brazil's election as Lula and Flávio Bolsonaro face off",
+      "url": "https://www.bbc.co.uk/news/articles/c6wyz0r2n0djo?at_medium=RSS&at_campaign=rss",
+      "summary": "Polls suggest the election will be a closely run contest between the left-wing incumbent and his right-wing rival.",
+      "published_at": "2026-10-04T20:14:49Z",
+      "country_code": "BR",
+      "country_name": "Brazil"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "Girl, 12, fatally shot in US during 'dispute over parking space'",
+      "url": "https://www.bbc.co.uk/news/articles/cwr5y48p89vvo?at_medium=RSS&at_campaign=rss",
+      "summary": "Police in Baltimore have said the young girl was not a target of the shooting but was caught in the crossfire.",
+      "published_at": "2026-10-04T18:25:50Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "US Marine arrested over murder of woman in Okinawa, Japan",
@@ -27,15 +45,6 @@
       "published_at": "2026-10-04T12:09:04Z",
       "country_code": "UA",
       "country_name": "Ukraine"
-    },
-    {
-      "source": "BBC World",
-      "title": "What to know about Brazil's election pitting Lula against Flávio Bolsonaro",
-      "url": "https://www.bbc.co.uk/news/articles/c6wyz0r2n0djo?at_medium=RSS&at_campaign=rss",
-      "summary": "Polls suggest the election will be a closely run contest between the left-wing incumbent and his right-wing rival.",
-      "published_at": "2026-10-04T11:03:20Z",
-      "country_code": "BR",
-      "country_name": "Brazil"
     },
     {
       "source": "BBC World",
@@ -162,15 +171,6 @@
       "published_at": "2026-10-02T19:56:28Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC Africa",
-      "title": "Ethiopia and Eritrea cut diplomatic ties as northern conflict escalates",
-      "url": "https://www.bbc.co.uk/news/articles/crpd0d0jl0y0o?at_medium=RSS&at_campaign=rss",
-      "summary": "The diplomatic fallout comes as Ethiopian forces battle rebel fighters across its northern region.",
-      "published_at": "2026-10-02T16:08:25Z",
-      "country_code": "ET",
-      "country_name": "Ethiopia"
     },
     {
       "source": "BBC Middle East",
@@ -306,15 +306,6 @@
       "published_at": "2026-10-01T16:31:35Z",
       "country_code": "DZ",
       "country_name": "Algeria"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "Trump says 'some' munitions are low as Iran war grinds on",
-      "url": "https://www.bbc.co.uk/news/articles/cm4gjgzjrvp5o?at_medium=RSS&at_campaign=rss",
-      "summary": "He also said in an interview with Time magazine that it was possible the US could ramp up strikes on Iran after November's elections.",
-      "published_at": "2026-10-01T16:02:07Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC Middle East",
@@ -731,6 +722,15 @@
       "country_name": "Nigeria"
     },
     {
+      "source": "BBC Africa",
+      "title": "'Enough is enough': Women protest after string of murders near Johannesburg",
+      "url": "https://www.bbc.co.uk/news/videos/cm4gjxq1dx2eo?at_medium=RSS&at_campaign=rss",
+      "summary": "The police have since set up a task team to investigate the murders and have urged women in the Kempton Park area to avoid walking or runnin…",
+      "published_at": "2026-09-19T11:50:50Z",
+      "country_code": "ZA",
+      "country_name": "South Africa"
+    },
+    {
       "source": "BBC Latin America",
       "title": "Watch: Aztec codex on display in Mexico for first time in 186 years",
       "url": "https://www.bbc.co.uk/news/videos/cjn5dg5ww7pdo?at_medium=RSS&at_campaign=rss",
@@ -875,9 +875,9 @@
       "news_count": 4
     },
     {
-      "country_code": "ET",
-      "country_name": "Ethiopia",
-      "news_count": 3
+      "country_code": "ZA",
+      "country_name": "South Africa",
+      "news_count": 4
     },
     {
       "country_code": "IN",
@@ -905,11 +905,6 @@
       "news_count": 3
     },
     {
-      "country_code": "ZA",
-      "country_name": "South Africa",
-      "news_count": 3
-    },
-    {
       "country_code": "CN",
       "country_name": "China",
       "news_count": 2
@@ -927,6 +922,11 @@
     {
       "country_code": "ES",
       "country_name": "Spain",
+      "news_count": 2
+    },
+    {
+      "country_code": "ET",
+      "country_name": "Ethiopia",
       "news_count": 2
     },
     {
