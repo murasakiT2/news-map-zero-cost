@@ -1,9 +1,90 @@
 {
-  "generated_at": "2026-10-06T13:45:18Z",
+  "generated_at": "2026-10-06T19:12:36Z",
   "articles": [
     {
+      "source": "BBC US & Canada",
+      "title": "Amazon wins global rights to stream Emmys in six-year deal",
+      "url": "https://www.bbc.co.uk/news/articles/cqd09g77mygko?at_medium=RSS&at_campaign=rss",
+      "summary": "The gala is leaving traditional US broadcast networks for live worldwide streaming.",
+      "published_at": "2026-10-06T19:08:21Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "A separatist party just won power in Quebec - what does that mean?",
+      "url": "https://www.bbc.co.uk/news/videos/cjr4yl39pg4ro?at_medium=RSS&at_campaign=rss",
+      "summary": "Canada's Parti Québécois has promised it will hold the province's third vote on independence, but said they won’t do so until Donald Trump i…",
+      "published_at": "2026-10-06T18:23:58Z",
+      "country_code": "CA",
+      "country_name": "Canada"
+    },
+    {
       "source": "BBC World",
-      "title": "Russia responds to US help offer after death of plague researcher",
+      "title": "Tear gas in Paris and Marseille as school protests grow across France",
+      "url": "https://www.bbc.co.uk/news/articles/c8x23706pvz3o?at_medium=RSS&at_campaign=rss",
+      "summary": "Crowds of mainly teenagers called for more resources for schools and an end to what they called police repression.",
+      "published_at": "2026-10-06T18:03:19Z",
+      "country_code": "FR",
+      "country_name": "France"
+    },
+    {
+      "source": "BBC World",
+      "title": "Separatist party projected to win Quebec election, adding new test to Canada's unity",
+      "url": "https://www.bbc.co.uk/news/articles/crly09gz7ew4o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Parti Québécois, which secured a minority, has vowed to hold an independence referendum in the years to come.",
+      "published_at": "2026-10-06T16:51:59Z",
+      "country_code": "CA",
+      "country_name": "Canada"
+    },
+    {
+      "source": "BBC World",
+      "title": "White House defends Trump comment to let Iran 'take out' LA and San Diego",
+      "url": "https://www.bbc.co.uk/news/articles/c6r7yn8pknyxo?at_medium=RSS&at_campaign=rss",
+      "summary": "Gavin Newsom called the remarks \"deranged\", but the White House said Trump was warning of the risk of a nuclear Iran.",
+      "published_at": "2026-10-06T16:22:37Z",
+      "country_code": "IR",
+      "country_name": "Iran"
+    },
+    {
+      "source": "BBC World",
+      "title": "Kenya confirms its first Ebola death as outbreak spreads",
+      "url": "https://www.bbc.co.uk/news/articles/cqzrd7v1j163o?at_medium=RSS&at_campaign=rss",
+      "summary": "The patient had been living in DR Congo, where more than 4,000 people have died from the disease this year.",
+      "published_at": "2026-10-06T16:02:32Z",
+      "country_code": "KE",
+      "country_name": "Kenya"
+    },
+    {
+      "source": "BBC World",
+      "title": "Watch: At the scene of student protests in Lille",
+      "url": "https://www.bbc.co.uk/news/videos/cwzd650e2jqdo?at_medium=RSS&at_campaign=rss",
+      "summary": "The BBC's Europe correspondent Nick Beake reports from a large demonstration in northern France.",
+      "published_at": "2026-10-06T15:02:56Z",
+      "country_code": "FR",
+      "country_name": "France"
+    },
+    {
+      "source": "BBC Africa",
+      "title": "Benin prepare for 'historic' role in Messi's Argentina farewell",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqdr8j8m0mn3o?at_medium=RSS&at_campaign=rss",
+      "summary": "A tiny west African nation, Benin will be the final opponent of Lionel Messi's international career when they face Argentina in Buenos Aires…",
+      "published_at": "2026-10-06T14:46:13Z",
+      "country_code": "AR",
+      "country_name": "Argentina"
+    },
+    {
+      "source": "BBC Middle East",
+      "title": "UK to make last-ditch effort to stop Israel closing East Jerusalem consulate",
+      "url": "https://www.bbc.co.uk/news/articles/c5n4922n00wgo?at_medium=RSS&at_campaign=rss",
+      "summary": "Israel has threatened to close the consulate, which handles UK relations with Palestinians in the city, over British sanctions on Israeli se…",
+      "published_at": "2026-10-06T14:30:48Z",
+      "country_code": "GB",
+      "country_name": "United Kingdom"
+    },
+    {
+      "source": "BBC World",
+      "title": "Watch: How Russia responded to US after plague researcher death",
       "url": "https://www.bbc.co.uk/news/videos/c8e36y796enno?at_medium=RSS&at_campaign=rss",
       "summary": "The US and Russia have each offered to help each other tackling infectious diseases.",
       "published_at": "2026-10-06T13:32:42Z",
@@ -12,19 +93,10 @@
     },
     {
       "source": "BBC World",
-      "title": "Kenya confirms its first Ebola death as outbreak spreads",
-      "url": "https://www.bbc.co.uk/news/articles/cqzrd7v1j163o?at_medium=RSS&at_campaign=rss",
-      "summary": "The patient had been living in DR Congo, where more than 4,000 people have died from the disease this year.",
-      "published_at": "2026-10-06T13:10:42Z",
-      "country_code": "KE",
-      "country_name": "Kenya"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "California leaders hit back after Trump says Iran can 'take out' LA and San Diego",
-      "url": "https://www.bbc.co.uk/news/articles/c6r7yn8pknyxo?at_medium=RSS&at_campaign=rss",
-      "summary": "The US president said rising gas prices were a \"small price to pay for keeping the world safe\" at an election rally in Nebraska.",
-      "published_at": "2026-10-06T13:06:59Z",
+      "title": "US televangelist Jim Bakker, disgraced from sex scandal and fraud, dies at 86",
+      "url": "https://www.bbc.co.uk/news/articles/ckly02gd1xppo?at_medium=RSS&at_campaign=rss",
+      "summary": "Jim Bakker co-founded The PTL Club with his then-wife Tammy Faye before being jailed for fraud and conspiracy.",
+      "published_at": "2026-10-06T13:31:56Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -48,24 +120,6 @@
     },
     {
       "source": "BBC World",
-      "title": "Separatist party projected to win Quebec election, adding new test to Canada's unity",
-      "url": "https://www.bbc.co.uk/news/articles/crly09gz7ew4o?at_medium=RSS&at_campaign=rss",
-      "summary": "The Parti Québécois, which secured a minority, has vowed to hold an independence referendum in the years to come.",
-      "published_at": "2026-10-06T11:42:52Z",
-      "country_code": "CA",
-      "country_name": "Canada"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "All six passengers presumed dead after plane went missing off US coast",
-      "url": "https://www.bbc.co.uk/news/articles/cmze4g8r6nr9o?at_medium=RSS&at_campaign=rss",
-      "summary": "The aircraft lost communication with flight controllers after significantly dropping in altitude, according to flight data.",
-      "published_at": "2026-10-06T11:23:57Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
       "title": "Fear and disruption for Ukraine's rail passengers as Russia escalates drone attacks",
       "url": "https://www.bbc.co.uk/news/articles/cr4g1qxzwyj1o?at_medium=RSS&at_campaign=rss",
       "summary": "Ukrainians travelling by train are increasingly caught in the crosshairs of Russia's attacks.",
@@ -83,7 +137,7 @@
       "country_name": "Russia"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "US 'watching closely' after plague researcher dies in Russia",
       "url": "https://www.bbc.co.uk/news/articles/cv5yn3nwp5n5o?at_medium=RSS&at_campaign=rss",
       "summary": "Donald Trump says the US was looking \"very strongly\" at the case of a lab technician who died at a research centre in Siberia.",
@@ -92,7 +146,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Africa",
+      "source": "BBC World",
       "title": "The small African nation ready for Messi's big night",
       "url": "https://www.bbc.co.uk/sport/football/articles/cqly0lx461m8o?at_medium=RSS&at_campaign=rss",
       "summary": "Benin are about to have their own moment in the limelight as they visit Argentina for Lionel Messi's final game.",
@@ -101,7 +155,7 @@
       "country_name": "Argentina"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "Trump says 'threat' led US to pull bombers from RAF Fairford",
       "url": "https://www.bbc.co.uk/news/articles/cwj3413e5m1lo?at_medium=RSS&at_campaign=rss",
       "summary": "The Pentagon confirmed on Sunday it had removed the B1 bombers from the base in England back to their home stations in America.",
@@ -110,7 +164,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Latin America",
       "title": "Owner, businessman & player: Messi has big plans as a golden era ends",
       "url": "https://www.bbc.co.uk/sport/football/articles/cwly3lpmyye9o?at_medium=RSS&at_campaign=rss",
       "summary": "Lionel Messi's Argentina career will end in a friendly against Benin. BBC Sport looks at what is next for the 39-year-old.",
@@ -144,15 +198,6 @@
       "published_at": "2026-10-05T23:29:02Z",
       "country_code": "GB",
       "country_name": "United Kingdom"
-    },
-    {
-      "source": "BBC World",
-      "title": "Five reasons India's stock market is sinking even when its economy is growing",
-      "url": "https://www.bbc.co.uk/news/articles/cwp9g5p1gy7yo?at_medium=RSS&at_campaign=rss",
-      "summary": "The world's fastest growing major economy has one of the worst performing major equity markets in 2026.",
-      "published_at": "2026-10-05T23:13:11Z",
-      "country_code": "IN",
-      "country_name": "India"
     },
     {
       "source": "BBC World",
@@ -308,15 +353,6 @@
       "country_name": "South Korea"
     },
     {
-      "source": "BBC Europe",
-      "title": "Two people killed as floods hit Spain's Catalonia region",
-      "url": "https://www.bbc.co.uk/news/videos/cw8rzdkmj5n1o?at_medium=RSS&at_campaign=rss",
-      "summary": "Spain's Prime Minister Pedro Sánchez says the situation in Catalonia remains \"very complicated\".",
-      "published_at": "2026-10-04T14:56:06Z",
-      "country_code": "ES",
-      "country_name": "Spain"
-    },
-    {
       "source": "BBC Middle East",
       "title": "Australia investigating Flydubai co-pilot's links to country",
       "url": "https://www.bbc.co.uk/news/articles/cxly4nym57q9o?at_medium=RSS&at_campaign=rss",
@@ -342,15 +378,6 @@
       "published_at": "2026-10-04T03:42:15Z",
       "country_code": "ES",
       "country_name": "Spain"
-    },
-    {
-      "source": "BBC Europe",
-      "title": "Russia hits second major bridge in Ukraine's capital Kyiv",
-      "url": "https://www.bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&at_campaign=rss",
-      "summary": "The strike on the Pivnichnyi (Northern) Bridge comes after repeat attacks on another major bridge in Ukraine's capital.",
-      "published_at": "2026-10-03T16:16:49Z",
-      "country_code": "RU",
-      "country_name": "Russia"
     },
     {
       "source": "BBC US & Canada",
@@ -756,29 +783,29 @@
       "news_count": 23
     },
     {
+      "country_code": "GB",
+      "country_name": "United Kingdom",
+      "news_count": 6
+    },
+    {
       "country_code": "IL",
       "country_name": "Israel",
       "news_count": 6
     },
     {
-      "country_code": "ES",
-      "country_name": "Spain",
-      "news_count": 5
+      "country_code": "AR",
+      "country_name": "Argentina",
+      "news_count": 4
     },
     {
-      "country_code": "GB",
-      "country_name": "United Kingdom",
-      "news_count": 5
+      "country_code": "ES",
+      "country_name": "Spain",
+      "news_count": 4
     },
     {
       "country_code": "RU",
       "country_name": "Russia",
-      "news_count": 5
-    },
-    {
-      "country_code": "AR",
-      "country_name": "Argentina",
-      "news_count": 3
+      "news_count": 4
     },
     {
       "country_code": "CN",
@@ -786,8 +813,8 @@
       "news_count": 3
     },
     {
-      "country_code": "IN",
-      "country_name": "India",
+      "country_code": "IR",
+      "country_name": "Iran",
       "news_count": 3
     },
     {
@@ -806,13 +833,23 @@
       "news_count": 3
     },
     {
+      "country_code": "CA",
+      "country_name": "Canada",
+      "news_count": 2
+    },
+    {
       "country_code": "ET",
       "country_name": "Ethiopia",
       "news_count": 2
     },
     {
-      "country_code": "IR",
-      "country_name": "Iran",
+      "country_code": "FR",
+      "country_name": "France",
+      "news_count": 2
+    },
+    {
+      "country_code": "IN",
+      "country_name": "India",
       "news_count": 2
     },
     {
@@ -838,11 +875,6 @@
     {
       "country_code": "BR",
       "country_name": "Brazil",
-      "news_count": 1
-    },
-    {
-      "country_code": "CA",
-      "country_name": "Canada",
       "news_count": 1
     },
     {
