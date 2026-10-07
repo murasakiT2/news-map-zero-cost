@@ -1,41 +1,104 @@
 {
-  "generated_at": "2026-10-07T16:48:18Z",
+  "generated_at": "2026-10-07T21:41:24Z",
   "articles": [
     {
+      "source": "BBC Africa",
+      "title": "Group of 20 graduates rescued after being abducted in Nigeria",
+      "url": "https://www.bbc.co.uk/news/articles/cqm26ee4gl21o?at_medium=RSS&at_campaign=rss",
+      "summary": "The group was kidnapped earlier this month while travelling for a community service programme",
+      "published_at": "2026-10-07T21:30:57Z",
+      "country_code": "NG",
+      "country_name": "Nigeria"
+    },
+    {
+      "source": "BBC World",
+      "title": "Chinese runner dropped by sponsor after riding bike during marathon",
+      "url": "https://www.bbc.co.uk/news/articles/c3y0enr9e078o?at_medium=RSS&at_campaign=rss",
+      "summary": "Sun Yuanyuan was seemingly pictured on the back of another person's bike during part of the Berlin Marathon.",
+      "published_at": "2026-10-07T20:29:31Z",
+      "country_code": "DE",
+      "country_name": "Germany"
+    },
+    {
+      "source": "BBC World",
+      "title": "Israelis mourn 7 October attack victims three years after deadly Hamas raid",
+      "url": "https://www.bbc.co.uk/news/articles/cwkgj0g30m5jo?at_medium=RSS&at_campaign=rss",
+      "summary": "Memorial events have taken place in Israel on the third anniversary of the Hamas-led attack that sparked the devastating Gaza war.",
+      "published_at": "2026-10-07T20:27:03Z",
+      "country_code": "IL",
+      "country_name": "Israel"
+    },
+    {
       "source": "BBC US & Canada",
-      "title": "UK pharmacy chain Boots sold in $8.9bn deal to Canadian billionaire family",
-      "url": "https://www.bbc.co.uk/news/articles/cwly0jyk2vl5o?at_medium=RSS&at_campaign=rss",
-      "summary": "The sale of the High Street chain was announced on Wednesday.",
-      "published_at": "2026-10-07T16:43:51Z",
-      "country_code": "GB",
-      "country_name": "United Kingdom"
+      "title": "Watch: What we know about Christa Pike's ‘shock’ recovery in hospital",
+      "url": "https://www.bbc.co.uk/news/videos/cw99zxxx891yo?at_medium=RSS&at_campaign=rss",
+      "summary": "The US death row inmate's legal team said at a press conference that she is now \"conscious and speaking\" after her failed execution.",
+      "published_at": "2026-10-07T20:01:05Z",
+      "country_code": "US",
+      "country_name": "United States"
     },
     {
       "source": "BBC World",
       "title": "Canada suspends plans to expand assisted dying to people with mental illness",
       "url": "https://www.bbc.co.uk/news/articles/cqd09g0gj50ko?at_medium=RSS&at_campaign=rss",
       "summary": "People with mental illness alone were to be eligible for assisted dying in Canada in March 2027, but that has now been paused indefinitely.",
-      "published_at": "2026-10-07T16:42:57Z",
+      "published_at": "2026-10-07T19:30:51Z",
       "country_code": "CA",
       "country_name": "Canada"
     },
     {
-      "source": "BBC World",
-      "title": "France halts use of stun grenades after boy's hand blown off in student protests",
-      "url": "https://www.bbc.co.uk/news/articles/cqzjx7z2r4gko?at_medium=RSS&at_campaign=rss",
-      "summary": "The step comes after several groups complained of police using disproportionate force towards teenagers.",
-      "published_at": "2026-10-07T16:41:57Z",
-      "country_code": "FR",
-      "country_name": "France"
+      "source": "BBC US & Canada",
+      "title": "Western civilisation at risk of 'atrophy, servitude and decline', Rubio says",
+      "url": "https://www.bbc.co.uk/news/articles/cmzxl5696l5xo?at_medium=RSS&at_campaign=rss",
+      "summary": "In a speech overlooking the Acropolis, the US Secretary of State also said the US believes Europe \"can awaken from its long slumber\".",
+      "published_at": "2026-10-07T18:47:40Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC Africa",
+      "title": "Eritrean troops move deep into Ethiopia's Tigray region as fighting escalates",
+      "url": "https://www.bbc.co.uk/news/articles/ckvgd63rj92lo?at_medium=RSS&at_campaign=rss",
+      "summary": "Residents of Adigrat tell the BBC they have seen truck loads of soldiers from Eritrea moving south.",
+      "published_at": "2026-10-07T18:40:52Z",
+      "country_code": "ET",
+      "country_name": "Ethiopia"
     },
     {
       "source": "BBC World",
       "title": "Trump to speak to Putin about plague lab worker's death in Russia",
       "url": "https://www.bbc.co.uk/news/articles/cqgm0vrl3xp7o?at_medium=RSS&at_campaign=rss",
       "summary": "Fears that the death may have been caused by pneumonic plague has prompted calls for more transparency from Russia.",
-      "published_at": "2026-10-07T14:50:28Z",
+      "published_at": "2026-10-07T18:27:40Z",
       "country_code": "RU",
       "country_name": "Russia"
+    },
+    {
+      "source": "BBC World",
+      "title": "Children killed while they slept as Russian missile kills 19 in block of flats",
+      "url": "https://www.bbc.co.uk/news/articles/ckr5ym098vdeo?at_medium=RSS&at_campaign=rss",
+      "summary": "Five children are among the victims of a strike that destroyed 30 flats in northern Ukraine as families slept.",
+      "published_at": "2026-10-07T18:12:58Z",
+      "country_code": "UA",
+      "country_name": "Ukraine"
+    },
+    {
+      "source": "BBC World",
+      "title": "France halts use of stun grenades after boy's hand blown off in student protests",
+      "url": "https://www.bbc.co.uk/news/articles/cqzjx7z2r4gko?at_medium=RSS&at_campaign=rss",
+      "summary": "The step comes after several groups complained of police using disproportionate force towards teenagers.",
+      "published_at": "2026-10-07T17:47:31Z",
+      "country_code": "FR",
+      "country_name": "France"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "UK pharmacy chain Boots sold in $8.9bn deal to Canadian billionaire family",
+      "url": "https://www.bbc.co.uk/news/articles/cwly0jyk2vl5o?at_medium=RSS&at_campaign=rss",
+      "summary": "The sale of the High Street chain was announced on Wednesday.",
+      "published_at": "2026-10-07T17:18:30Z",
+      "country_code": "GB",
+      "country_name": "United Kingdom"
     },
     {
       "source": "BBC US & Canada",
@@ -72,15 +135,6 @@
       "published_at": "2026-10-07T10:42:54Z",
       "country_code": "KE",
       "country_name": "Kenya"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "US death row inmate Christa Pike awake and speaking after failed execution, lawyers say",
-      "url": "https://www.bbc.co.uk/news/articles/c8kgezxn54qko?at_medium=RSS&at_campaign=rss",
-      "summary": "A medical expert advising her legal team says the murderer of Colleen Slemmer is communicating in a \"basic way\".",
-      "published_at": "2026-10-07T10:12:36Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC Middle East",
@@ -164,15 +218,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC US & Canada",
-      "title": "US resident arrested in connection with deadly British Columbia school shooting",
-      "url": "https://www.bbc.co.uk/news/articles/cw1m4l3jrxlgo?at_medium=RSS&at_campaign=rss",
-      "summary": "US authorities say the 30-year-old has been charged with conspiracy to murder persons in a foreign country. Six children died in the attack.",
-      "published_at": "2026-10-06T19:49:17Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC Middle East",
       "title": "UK to make last-ditch effort to stop Israel closing East Jerusalem consulate",
       "url": "https://www.bbc.co.uk/news/articles/c5n4922n00wgo?at_medium=RSS&at_campaign=rss",
@@ -180,15 +225,6 @@
       "published_at": "2026-10-06T19:17:44Z",
       "country_code": "GB",
       "country_name": "United Kingdom"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "Amazon wins global rights to stream Emmys in six-year deal",
-      "url": "https://www.bbc.co.uk/news/articles/cqd09g77mygko?at_medium=RSS&at_campaign=rss",
-      "summary": "The gala is leaving traditional US broadcast networks for live worldwide streaming.",
-      "published_at": "2026-10-06T19:08:21Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC Europe",
@@ -243,15 +279,6 @@
       "published_at": "2026-10-06T13:11:15Z",
       "country_code": "IR",
       "country_name": "Iran"
-    },
-    {
-      "source": "BBC Africa",
-      "title": "South Africa hope to host first African Olympics",
-      "url": "https://www.bbc.co.uk/sport/olympics/articles/cm89zve3yll1o?at_medium=RSS&at_campaign=rss",
-      "summary": "The International Olympic Committee confirms South Africa have shown an interest in becoming the first African host of the summer Olympics.",
-      "published_at": "2026-10-06T12:56:20Z",
-      "country_code": "ZA",
-      "country_name": "South Africa"
     },
     {
       "source": "BBC Africa",
@@ -349,15 +376,6 @@
       "url": "https://www.bbc.co.uk/news/articles/cqj6je4jen6po?at_medium=RSS&at_campaign=rss",
       "summary": "Flávio Bolsonaro's success could be the latest example of a resurgence of right-wing support in Latin America.",
       "published_at": "2026-10-05T20:42:19Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "Trump: US 'had a threat' that led to withdrawal of bombers at RAF Fairford",
-      "url": "https://www.bbc.co.uk/news/videos/c3vgxwg081yqo?at_medium=RSS&at_campaign=rss",
-      "summary": "The Pentagon confirmed on Sunday it had removed its bombers - thought to be about a dozen B-1s - from the base back to their home stations i…",
-      "published_at": "2026-10-05T20:16:16Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -798,11 +816,16 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 23
+      "news_count": 21
     },
     {
       "country_code": "GB",
       "country_name": "United Kingdom",
+      "news_count": 5
+    },
+    {
+      "country_code": "IL",
+      "country_name": "Israel",
       "news_count": 5
     },
     {
@@ -811,23 +834,18 @@
       "news_count": 4
     },
     {
-      "country_code": "IL",
-      "country_name": "Israel",
-      "news_count": 4
-    },
-    {
       "country_code": "IR",
       "country_name": "Iran",
       "news_count": 4
     },
     {
-      "country_code": "RU",
-      "country_name": "Russia",
+      "country_code": "NG",
+      "country_name": "Nigeria",
       "news_count": 4
     },
     {
-      "country_code": "ZA",
-      "country_name": "South Africa",
+      "country_code": "RU",
+      "country_name": "Russia",
       "news_count": 4
     },
     {
@@ -838,6 +856,11 @@
     {
       "country_code": "CN",
       "country_name": "China",
+      "news_count": 3
+    },
+    {
+      "country_code": "ET",
+      "country_name": "Ethiopia",
       "news_count": 3
     },
     {
@@ -856,13 +879,13 @@
       "news_count": 3
     },
     {
-      "country_code": "NG",
-      "country_name": "Nigeria",
+      "country_code": "PS",
+      "country_name": "Palestine",
       "news_count": 3
     },
     {
-      "country_code": "PS",
-      "country_name": "Palestine",
+      "country_code": "ZA",
+      "country_name": "South Africa",
       "news_count": 3
     },
     {
@@ -876,8 +899,8 @@
       "news_count": 2
     },
     {
-      "country_code": "ET",
-      "country_name": "Ethiopia",
+      "country_code": "DE",
+      "country_name": "Germany",
       "news_count": 2
     },
     {
@@ -893,11 +916,6 @@
     {
       "country_code": "CL",
       "country_name": "Chile",
-      "news_count": 1
-    },
-    {
-      "country_code": "DE",
-      "country_name": "Germany",
       "news_count": 1
     },
     {
@@ -938,6 +956,11 @@
     {
       "country_code": "PT",
       "country_name": "Portugal",
+      "news_count": 1
+    },
+    {
+      "country_code": "UA",
+      "country_name": "Ukraine",
       "news_count": 1
     }
   ]
