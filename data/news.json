@@ -1,12 +1,21 @@
 {
-  "generated_at": "2026-10-06T23:08:36Z",
+  "generated_at": "2026-10-07T02:31:24Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Fort Hood shooter to be executed by firing squad - a first for US military since World War Two",
+      "url": "https://www.bbc.co.uk/news/articles/cq8ezkkkrpy1o?at_medium=RSS&at_campaign=rss",
+      "summary": "Nidal Malik Hasan killed 13 unarmed soldiers and injured another 32 in the deadliest ever non-combat attack on an American military base.",
+      "published_at": "2026-10-07T02:06:23Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "US death row inmate Christa Pike awake and speaking after failed execution, lawyers say",
       "url": "https://www.bbc.co.uk/news/articles/c8kgezxn54qko?at_medium=RSS&at_campaign=rss",
-      "summary": "Experts say her survival after the lethal injections is highly unusual.",
-      "published_at": "2026-10-06T22:00:43Z",
+      "summary": "Experts and lawyers called the apparent recovery unprecedented, noting she is believed to be the only known person to survive a lethal injec…",
+      "published_at": "2026-10-07T00:56:59Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -216,15 +225,6 @@
       "published_at": "2026-10-06T05:39:49Z",
       "country_code": "AR",
       "country_name": "Argentina"
-    },
-    {
-      "source": "BBC World",
-      "title": "Fort Hood shooter to be executed by firing squad - a first for US military since World War Two",
-      "url": "https://www.bbc.co.uk/news/articles/cq8ezkkkrpy1o?at_medium=RSS&at_campaign=rss",
-      "summary": "Nidal Malik Hasan killed 13 unarmed soldiers and injured another 32 in the deadliest ever non-combat attack on an American military base.",
-      "published_at": "2026-10-06T02:22:24Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC World",
@@ -506,15 +506,6 @@
       "country_name": "Nigeria"
     },
     {
-      "source": "BBC Asia",
-      "title": "Who is the 'hero' Indian pilot who was stabbed on Israel-bound flight?",
-      "url": "https://www.bbc.co.uk/news/articles/cje3r3z7g0zzo?at_medium=RSS&at_campaign=rss",
-      "summary": "Capt Smit Machchhar was attacked by another pilot onboard the Flydubai flight bound for Tel Aviv.",
-      "published_at": "2026-10-02T11:52:04Z",
-      "country_code": "IL",
-      "country_name": "Israel"
-    },
-    {
       "source": "BBC Africa",
       "title": "How fresh fighting in Tigray could spark wider conflict in Ethiopia",
       "url": "https://www.bbc.co.uk/news/articles/c6d94wywx0ypo?at_medium=RSS&at_campaign=rss",
@@ -576,15 +567,6 @@
       "published_at": "2026-10-01T06:24:27Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC Asia",
-      "title": "Japan raises permanent residency fee by 20 times",
-      "url": "https://www.bbc.co.uk/news/articles/c6y8z8xeg8j1o?at_medium=RSS&at_campaign=rss",
-      "summary": "The hikes are part of immigration policy changes introduced to manage Japan's growing foreign population.",
-      "published_at": "2026-10-01T02:57:43Z",
-      "country_code": "JP",
-      "country_name": "Japan"
     },
     {
       "source": "BBC Europe",
@@ -835,7 +817,7 @@
     {
       "country_code": "IL",
       "country_name": "Israel",
-      "news_count": 6
+      "news_count": 5
     },
     {
       "country_code": "AR",
@@ -898,11 +880,6 @@
       "news_count": 2
     },
     {
-      "country_code": "JP",
-      "country_name": "Japan",
-      "news_count": 2
-    },
-    {
       "country_code": "KE",
       "country_name": "Kenya",
       "news_count": 2
@@ -935,6 +912,11 @@
     {
       "country_code": "FI",
       "country_name": "Finland",
+      "news_count": 1
+    },
+    {
+      "country_code": "JP",
+      "country_name": "Japan",
       "news_count": 1
     },
     {
