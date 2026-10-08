@@ -1,6 +1,33 @@
 {
-  "generated_at": "2026-10-07T21:41:24Z",
+  "generated_at": "2026-10-08T01:25:42Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Japan beer giants raided over alleged price-fixing cartel",
+      "url": "https://www.bbc.co.uk/news/articles/cm5yn3592xk9o?at_medium=RSS&at_campaign=rss",
+      "summary": "Asahi, Sapporo, Kirin and Suntory confirmed to the BBC that their premises had been searched by the Japanese competition authority.",
+      "published_at": "2026-10-08T00:53:46Z",
+      "country_code": "JP",
+      "country_name": "Japan"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "New York court hears arguments in ongoing 9/11 families' lawsuit against Saudi Arabia",
+      "url": "https://www.bbc.co.uk/news/articles/cwvgrxlylj72o?at_medium=RSS&at_campaign=rss",
+      "summary": "The families allege that men with links to the Saudi government helped those who carried out the 2001 attacks, something the country denies.",
+      "published_at": "2026-10-07T23:18:40Z",
+      "country_code": "SA",
+      "country_name": "Saudi Arabia"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "What independence could mean for oil-rich Alberta's economy",
+      "url": "https://www.bbc.co.uk/news/articles/cy745jznvxpo?at_medium=RSS&at_campaign=rss",
+      "summary": "Albertans vote this month on staying in Canada or moving ahead to a binding independence referendum.",
+      "published_at": "2026-10-07T23:10:13Z",
+      "country_code": "CA",
+      "country_name": "Canada"
+    },
     {
       "source": "BBC Africa",
       "title": "Group of 20 graduates rescued after being abducted in Nigeria",
@@ -117,15 +144,6 @@
       "published_at": "2026-10-07T12:46:39Z",
       "country_code": "KE",
       "country_name": "Kenya"
-    },
-    {
-      "source": "BBC World",
-      "title": "Japan beer giants raided over alleged price-fixing cartel",
-      "url": "https://www.bbc.co.uk/news/articles/cm5yn3592xk9o?at_medium=RSS&at_campaign=rss",
-      "summary": "Asahi, Kirin and Suntory confirmed their premises were searched by Japanese competition authorities.",
-      "published_at": "2026-10-07T12:09:59Z",
-      "country_code": "JP",
-      "country_name": "Japan"
     },
     {
       "source": "BBC Africa",
@@ -854,6 +872,11 @@
       "news_count": 3
     },
     {
+      "country_code": "CA",
+      "country_name": "Canada",
+      "news_count": 3
+    },
+    {
       "country_code": "CN",
       "country_name": "China",
       "news_count": 3
@@ -884,6 +907,11 @@
       "news_count": 3
     },
     {
+      "country_code": "SA",
+      "country_name": "Saudi Arabia",
+      "news_count": 3
+    },
+    {
       "country_code": "ZA",
       "country_name": "South Africa",
       "news_count": 3
@@ -894,18 +922,8 @@
       "news_count": 2
     },
     {
-      "country_code": "CA",
-      "country_name": "Canada",
-      "news_count": 2
-    },
-    {
       "country_code": "DE",
       "country_name": "Germany",
-      "news_count": 2
-    },
-    {
-      "country_code": "SA",
-      "country_name": "Saudi Arabia",
       "news_count": 2
     },
     {
