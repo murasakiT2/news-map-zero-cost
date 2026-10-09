@@ -1,14 +1,41 @@
 {
-  "generated_at": "2026-10-09T00:47:49Z",
+  "generated_at": "2026-10-09T06:56:26Z",
   "articles": [
     {
+      "source": "BBC Europe",
+      "title": "New evidence gives family hope after death in Spain",
+      "url": "https://www.bbc.co.uk/news/articles/c317jy2vx4l1o?at_medium=RSS&at_campaign=rss",
+      "summary": "Tobias White-Sansom, from Nottingham, was on a family holiday in Spain and died on a night out.",
+      "published_at": "2026-10-09T05:11:46Z",
+      "country_code": "ES",
+      "country_name": "Spain"
+    },
+    {
       "source": "BBC World",
-      "title": "Fort Hood attacker's execution by firing squad will be livestreamed, Pentagon says",
-      "url": "https://www.bbc.co.uk/news/articles/cmy0r96xygx6o?at_medium=RSS&at_campaign=rss",
-      "summary": "\"We'll make sure that people are able to watch it,\" the US Defence Secretary Pete Hegseth said on Thursday.",
-      "published_at": "2026-10-08T23:35:57Z",
-      "country_code": "US",
-      "country_name": "United States"
+      "title": "As freezing winter approaches, Kyiv residents look for shelter elsewhere",
+      "url": "https://www.bbc.co.uk/news/articles/c6zjx7jexz1do?at_medium=RSS&at_campaign=rss",
+      "summary": "A renewed Russian campaign of strikes on power and energy infrastructure has made some contemplate leaving Ukraine's capital.",
+      "published_at": "2026-10-09T04:53:50Z",
+      "country_code": "UA",
+      "country_name": "Ukraine"
+    },
+    {
+      "source": "BBC World",
+      "title": "Cars torched and shops looted as anti-migrant violence erupts in South Africa",
+      "url": "https://www.bbc.co.uk/news/articles/cwm24v45p4jgo?at_medium=RSS&at_campaign=rss",
+      "summary": "South Africa has experienced recurrent outbreaks of violence, often targeting migrants from neighbouring countries.",
+      "published_at": "2026-10-09T04:44:22Z",
+      "country_code": "ZA",
+      "country_name": "South Africa"
+    },
+    {
+      "source": "BBC World",
+      "title": "Adidas sues Australian label White Fox over four stripes design",
+      "url": "https://www.bbc.co.uk/news/articles/c9e8ld448km8o?at_medium=RSS&at_campaign=rss",
+      "summary": "The German sportswear brand wants the Sydney-based label to stop selling the clothes and pay damages.",
+      "published_at": "2026-10-09T03:36:41Z",
+      "country_code": "AU",
+      "country_name": "Australia"
     },
     {
       "source": "BBC World",
@@ -21,9 +48,9 @@
     },
     {
       "source": "BBC US & Canada",
-      "title": "White House blocks Microsoft from foreign worker hiring program",
+      "title": "White House blocks Microsoft from foreign worker hiring programme",
       "url": "https://www.bbc.co.uk/news/articles/ck5yngl2y4gpo?at_medium=RSS&at_campaign=rss",
-      "summary": "An international visa program has for years allowed US tech companies to hire highly skilled workers from abroad.",
+      "summary": "An international visa programme has for years allowed US tech companies to hire highly skilled workers from abroad.",
       "published_at": "2026-10-08T21:37:35Z",
       "country_code": "US",
       "country_name": "United States"
@@ -36,15 +63,6 @@
       "published_at": "2026-10-08T19:10:06Z",
       "country_code": "ES",
       "country_name": "Spain"
-    },
-    {
-      "source": "BBC World",
-      "title": "Adidas sues Australian label White Fox over four stripes design",
-      "url": "https://www.bbc.co.uk/news/articles/c9e8ld448km8o?at_medium=RSS&at_campaign=rss",
-      "summary": "The German sportswear brand wants the Sydney-based label to stop selling the clothes and pay damages.",
-      "published_at": "2026-10-08T18:17:28Z",
-      "country_code": "AU",
-      "country_name": "Australia"
     },
     {
       "source": "BBC World",
@@ -126,15 +144,6 @@
       "published_at": "2026-10-08T15:21:46Z",
       "country_code": "GB",
       "country_name": "United Kingdom"
-    },
-    {
-      "source": "BBC World",
-      "title": "Christa Pike now walking after failed US execution, lawyer tells BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c60rln74yzvxo?at_medium=RSS&at_campaign=rss",
-      "summary": "A lawyer says the murderer of Colleen Slemmer is moving around her hospital room after surviving two lethal injections.",
-      "published_at": "2026-10-08T15:02:32Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC World",
@@ -354,30 +363,12 @@
     },
     {
       "source": "BBC Europe",
-      "title": "Trump to speak to Putin about plague lab worker's death in Russia",
-      "url": "https://www.bbc.co.uk/news/articles/cqgm0vrl3xp7o?at_medium=RSS&at_campaign=rss",
-      "summary": "Fears that the death may have been caused by pneumonic plague has prompted calls for more transparency from Russia.",
-      "published_at": "2026-10-07T18:27:40Z",
-      "country_code": "RU",
-      "country_name": "Russia"
-    },
-    {
-      "source": "BBC Europe",
       "title": "France halts use of stun grenades after boy's hand blown off in student protests",
       "url": "https://www.bbc.co.uk/news/articles/cqzjx7z2r4gko?at_medium=RSS&at_campaign=rss",
       "summary": "The step comes after several groups complained of police using disproportionate force towards teenagers.",
       "published_at": "2026-10-07T17:47:31Z",
       "country_code": "FR",
       "country_name": "France"
-    },
-    {
-      "source": "BBC Africa",
-      "title": "Ten people linked to Kenya's first-ever Ebola case quarantined as screening concerns grow",
-      "url": "https://www.bbc.co.uk/news/articles/c6eq3x3v11d5o?at_medium=RSS&at_campaign=rss",
-      "summary": "The patient passed through multiple cities in DR Congo, drove to Uganda and eventually flew to Kenya.",
-      "published_at": "2026-10-07T12:46:39Z",
-      "country_code": "KE",
-      "country_name": "Kenya"
     },
     {
       "source": "BBC Africa",
@@ -432,15 +423,6 @@
       "published_at": "2026-10-06T18:23:58Z",
       "country_code": "CA",
       "country_name": "Canada"
-    },
-    {
-      "source": "BBC Europe",
-      "title": "Finland orders halt to work on two Google data centres",
-      "url": "https://www.bbc.co.uk/news/articles/cvj6jkx6g1r0o?at_medium=RSS&at_campaign=rss",
-      "summary": "The order affecting two planned data centres follows concerns over forest clearance.",
-      "published_at": "2026-10-06T17:15:46Z",
-      "country_code": "FI",
-      "country_name": "Finland"
     },
     {
       "source": "BBC Europe",
@@ -843,12 +825,17 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 27
+      "news_count": 25
     },
     {
       "country_code": "GB",
       "country_name": "United Kingdom",
       "news_count": 7
+    },
+    {
+      "country_code": "ES",
+      "country_name": "Spain",
+      "news_count": 4
     },
     {
       "country_code": "FR",
@@ -866,19 +853,14 @@
       "news_count": 4
     },
     {
-      "country_code": "RU",
-      "country_name": "Russia",
-      "news_count": 4
-    },
-    {
       "country_code": "SA",
       "country_name": "Saudi Arabia",
       "news_count": 4
     },
     {
-      "country_code": "ES",
-      "country_name": "Spain",
-      "news_count": 3
+      "country_code": "ZA",
+      "country_name": "South Africa",
+      "news_count": 4
     },
     {
       "country_code": "ET",
@@ -886,13 +868,8 @@
       "news_count": 3
     },
     {
-      "country_code": "KE",
-      "country_name": "Kenya",
-      "news_count": 3
-    },
-    {
-      "country_code": "ZA",
-      "country_name": "South Africa",
+      "country_code": "RU",
+      "country_name": "Russia",
       "news_count": 3
     },
     {
@@ -918,6 +895,11 @@
     {
       "country_code": "IN",
       "country_name": "India",
+      "news_count": 2
+    },
+    {
+      "country_code": "KE",
+      "country_name": "Kenya",
       "news_count": 2
     },
     {
@@ -948,11 +930,6 @@
     {
       "country_code": "DE",
       "country_name": "Germany",
-      "news_count": 1
-    },
-    {
-      "country_code": "FI",
-      "country_name": "Finland",
       "news_count": 1
     },
     {
@@ -993,6 +970,11 @@
     {
       "country_code": "PL",
       "country_name": "Poland",
+      "news_count": 1
+    },
+    {
+      "country_code": "UA",
+      "country_name": "Ukraine",
       "news_count": 1
     }
   ]
