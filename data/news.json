@@ -1,12 +1,30 @@
 {
-  "generated_at": "2026-10-08T20:44:15Z",
+  "generated_at": "2026-10-09T00:47:49Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Fort Hood attacker's execution by firing squad will be livestreamed, Pentagon says",
+      "url": "https://www.bbc.co.uk/news/articles/cmy0r96xygx6o?at_medium=RSS&at_campaign=rss",
+      "summary": "\"We'll make sure that people are able to watch it,\" the US Defence Secretary Pete Hegseth said on Thursday.",
+      "published_at": "2026-10-08T23:35:57Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Mark Zuckerberg has an image problem - so why is Meta's business booming?",
+      "url": "https://www.bbc.co.uk/news/articles/cq8rzjv8g7ejo?at_medium=RSS&at_campaign=rss",
+      "summary": "A new film paints the Meta founder as a villain. But the tech firm seems immune to bad publicity, writes our North America tech corresponden…",
+      "published_at": "2026-10-08T23:14:02Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC US & Canada",
       "title": "White House blocks Microsoft from foreign worker hiring program",
       "url": "https://www.bbc.co.uk/news/articles/ck5yngl2y4gpo?at_medium=RSS&at_campaign=rss",
       "summary": "An international visa program has for years allowed US tech companies to hire highly skilled workers from abroad.",
-      "published_at": "2026-10-08T19:57:04Z",
+      "published_at": "2026-10-08T21:37:35Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -245,7 +263,7 @@
       "country_name": "France"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Middle East",
       "title": "Three people killed in Houthi attacks on Saudi Arabia airports, officials say",
       "url": "https://www.bbc.co.uk/news/articles/cwn8d5rx22rdo?at_medium=RSS&at_campaign=rss",
       "summary": "The Houthis have claimed responsibility for the attacks, which mark an escalation in the conflict.",
@@ -263,7 +281,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "Asahi and Kirin among Japan beer giants raided over alleged price-fixing cartel",
       "url": "https://www.bbc.co.uk/news/articles/cm5yn3592xk9o?at_medium=RSS&at_campaign=rss",
       "summary": "Japan's Fair Trade Commission conducted searches of the country's largest beer-makers.",
@@ -272,7 +290,7 @@
       "country_name": "Japan"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "She made India fall in love with women's cricket - now her era as captain is over",
       "url": "https://www.bbc.co.uk/news/articles/cm4g1pjrd5ewo?at_medium=RSS&at_campaign=rss",
       "summary": "The skipper who led India to the historic 2025 World Cup win has stepped down from her role in all three formats.",
@@ -324,15 +342,6 @@
       "published_at": "2026-10-07T20:01:05Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "Canada suspends plans to expand assisted dying to people with mental illness",
-      "url": "https://www.bbc.co.uk/news/articles/cqd09g0gj50ko?at_medium=RSS&at_campaign=rss",
-      "summary": "People with mental illness alone were to be eligible for assisted dying in Canada in March 2027, but that has now been paused indefinitely.",
-      "published_at": "2026-10-07T19:30:51Z",
-      "country_code": "CA",
-      "country_name": "Canada"
     },
     {
       "source": "BBC World",
@@ -522,15 +531,6 @@
       "published_at": "2026-10-05T22:28:02Z",
       "country_code": "SA",
       "country_name": "Saudi Arabia"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "What prompted the US bombers to leave RAF Fairford?",
-      "url": "https://www.bbc.co.uk/news/articles/ck87z09xe82qo?at_medium=RSS&at_campaign=rss",
-      "summary": "The mass evacuation of American bombers from the UK points to concern in the Pentagon, our security correspondent writes.",
-      "published_at": "2026-10-05T21:57:26Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC Latin America",
@@ -843,7 +843,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 26
+      "news_count": 27
     },
     {
       "country_code": "GB",
@@ -876,11 +876,6 @@
       "news_count": 4
     },
     {
-      "country_code": "CA",
-      "country_name": "Canada",
-      "news_count": 3
-    },
-    {
       "country_code": "ES",
       "country_name": "Spain",
       "news_count": 3
@@ -908,6 +903,11 @@
     {
       "country_code": "AU",
       "country_name": "Australia",
+      "news_count": 2
+    },
+    {
+      "country_code": "CA",
+      "country_name": "Canada",
       "news_count": 2
     },
     {
