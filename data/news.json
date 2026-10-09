@@ -1,6 +1,105 @@
 {
-  "generated_at": "2026-10-09T06:56:26Z",
+  "generated_at": "2026-10-09T14:01:29Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Three Saudi nationals killed in Houthi attacks on Riyadh airport",
+      "url": "https://www.bbc.co.uk/news/articles/cmz7xe37g5wro?at_medium=RSS&at_campaign=rss",
+      "summary": "The missile attacks come amid an escalation in fighting between the Iran-backed group and Saudi Arabia, which backs Yemen's government.",
+      "published_at": "2026-10-09T13:50:25Z",
+      "country_code": "SA",
+      "country_name": "Saudi Arabia"
+    },
+    {
+      "source": "BBC World",
+      "title": "Ethiopia warns Eritrea it will defend itself after troops cross border",
+      "url": "https://www.bbc.co.uk/news/articles/c65ynvw250y1o?at_medium=RSS&at_campaign=rss",
+      "summary": "Truckloads of Eritrean soldiers have been seen driving into Ethiopia, which has reportedly responded with drone strikes.",
+      "published_at": "2026-10-09T13:31:07Z",
+      "country_code": "ET",
+      "country_name": "Ethiopia"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "Hurricane Isaias strengthens to a major category three storm",
+      "url": "https://www.bbc.co.uk/weather/articles/cw146l6pnvx0o?at_medium=RSS&at_campaign=rss",
+      "summary": "El Niño has led to a quiet season so far but the first Atlantic hurricane of the year is set to make landfall later on Friday into Saturday …",
+      "published_at": "2026-10-09T12:54:28Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Doctor accused of 1994 Rwanda genocide offences to face trial in UK",
+      "url": "https://www.bbc.co.uk/news/articles/cmwy47lzd1vyo?at_medium=RSS&at_campaign=rss",
+      "summary": "Dr Vincent Brown was allegedly a \"leader\" or \"supervisor\" of violent acts carried out by others in the early days of the genocide.",
+      "published_at": "2026-10-09T11:44:49Z",
+      "country_code": "GB",
+      "country_name": "United Kingdom"
+    },
+    {
+      "source": "BBC World",
+      "title": "France promises 3,000 extra teachers in first step to calm student protests",
+      "url": "https://www.bbc.co.uk/news/articles/c6vg98lw017po?at_medium=RSS&at_campaign=rss",
+      "summary": "Education minister Edouard Geffray makes the offer after another day of sometimes violent demonstrations by high-school students.",
+      "published_at": "2026-10-09T11:35:00Z",
+      "country_code": "FR",
+      "country_name": "France"
+    },
+    {
+      "source": "BBC Europe",
+      "title": "Watch: Fleeing Kyiv for the countryside ahead of winter",
+      "url": "https://www.bbc.co.uk/news/videos/cqe8rn83088zo?at_medium=RSS&at_campaign=rss",
+      "summary": "A Kyiv resident told the BBC she has moved away from \"everything that can be a Russian target\" as Ukraine braces for another cold winter und…",
+      "published_at": "2026-10-09T10:00:49Z",
+      "country_code": "UA",
+      "country_name": "Ukraine"
+    },
+    {
+      "source": "BBC Asia",
+      "title": "Why is it so hard to put out Indonesian fires shrouding the region in toxic smog?",
+      "url": "https://www.bbc.co.uk/news/videos/c862y63x657no?at_medium=RSS&at_campaign=rss",
+      "summary": "We explain why Indonesia’s peatland fires are so difficult to battle and produce so much haze.",
+      "published_at": "2026-10-09T09:37:56Z",
+      "country_code": "ID",
+      "country_name": "Indonesia"
+    },
+    {
+      "source": "BBC World",
+      "title": "Thieves steal 30,000 wine bottles worth €5m in Italy, reports say",
+      "url": "https://www.bbc.co.uk/news/articles/cme3xl8ln2vko?at_medium=RSS&at_campaign=rss",
+      "summary": "The heist at the Florence-based winery is believed to be one of the largest thefts of its kind in Italy.",
+      "published_at": "2026-10-09T09:09:03Z",
+      "country_code": "IT",
+      "country_name": "Italy"
+    },
+    {
+      "source": "BBC World",
+      "title": "Cars torched and shops looted as anti-migrant violence erupts in South Africa",
+      "url": "https://www.bbc.co.uk/news/articles/cwm24v45p4jgo?at_medium=RSS&at_campaign=rss",
+      "summary": "South Africa has experienced recurrent outbreaks of violence, often targeting migrants from neighbouring countries.",
+      "published_at": "2026-10-09T08:28:57Z",
+      "country_code": "ZA",
+      "country_name": "South Africa"
+    },
+    {
+      "source": "BBC World",
+      "title": "Meet India's feisty Gen Z protester who is taking on Modi",
+      "url": "https://www.bbc.co.uk/news/articles/c5n49xln3lz0o?at_medium=RSS&at_campaign=rss",
+      "summary": "Neha Bora has emerged as one of the most recognisable faces from India's recent Gen Z-led protests.",
+      "published_at": "2026-10-09T07:19:24Z",
+      "country_code": "IN",
+      "country_name": "India"
+    },
+    {
+      "source": "BBC World",
+      "title": "Why Elon Musk is taking on India's richest man over Starlink",
+      "url": "https://www.bbc.co.uk/news/articles/cvglw9ryjrylo?at_medium=RSS&at_campaign=rss",
+      "summary": "Musk has taken pot-shots at Reliance owner Mukesh Ambani as Starlink struggles to launch in India.",
+      "published_at": "2026-10-09T06:42:37Z",
+      "country_code": "IN",
+      "country_name": "India"
+    },
     {
       "source": "BBC Europe",
       "title": "New evidence gives family hope after death in Spain",
@@ -12,21 +111,12 @@
     },
     {
       "source": "BBC World",
-      "title": "As freezing winter approaches, Kyiv residents look for shelter elsewhere",
+      "title": "Russian strikes and approaching winter force some in Kyiv to pack bags and flee",
       "url": "https://www.bbc.co.uk/news/articles/c6zjx7jexz1do?at_medium=RSS&at_campaign=rss",
       "summary": "A renewed Russian campaign of strikes on power and energy infrastructure has made some contemplate leaving Ukraine's capital.",
       "published_at": "2026-10-09T04:53:50Z",
       "country_code": "UA",
       "country_name": "Ukraine"
-    },
-    {
-      "source": "BBC World",
-      "title": "Cars torched and shops looted as anti-migrant violence erupts in South Africa",
-      "url": "https://www.bbc.co.uk/news/articles/cwm24v45p4jgo?at_medium=RSS&at_campaign=rss",
-      "summary": "South Africa has experienced recurrent outbreaks of violence, often targeting migrants from neighbouring countries.",
-      "published_at": "2026-10-09T04:44:22Z",
-      "country_code": "ZA",
-      "country_name": "South Africa"
     },
     {
       "source": "BBC World",
@@ -56,7 +146,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "Protesters blame 'vulture funds' for Spain's housing crisis",
       "url": "https://www.bbc.co.uk/news/articles/c3j4790elkx7o?at_medium=RSS&at_campaign=rss",
       "summary": "Hundreds have pitched their tents in central Madrid, while the Spanish prime minister has called a snap election.",
@@ -101,7 +191,7 @@
       "country_name": "Poland"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "Russian strike on buses kills at least 30, say officials, as deadly attacks on Ukraine surge",
       "url": "https://www.bbc.co.uk/news/articles/c875pwq134l3o?at_medium=RSS&at_campaign=rss",
       "summary": "Ukraine accused Russia of targeting two crowded vehicles in the front line city of Kramatorsk to kill as many civilians as possible.",
@@ -137,7 +227,7 @@
       "country_name": "United Kingdom"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Middle East",
       "title": "Most UK diplomats to leave East Jerusalem consulate, Israel says, as Miliband says 'vital services' to remain",
       "url": "https://www.bbc.co.uk/news/articles/cw33xd6vegnno?at_medium=RSS&at_campaign=rss",
       "summary": "Israel said in September it would act in response to UK sanctions on illegal Israeli settlements in the West Bank.",
@@ -227,15 +317,6 @@
       "country_name": "Australia"
     },
     {
-      "source": "BBC World",
-      "title": "'Every day there is killing': Palestinians in Gaza face Israeli strikes despite ceasefire as peace deal stalls",
-      "url": "https://www.bbc.co.uk/news/articles/cmx2qlz7qrd4o?at_medium=RSS&at_campaign=rss",
-      "summary": "Many Palestinians are still living in cramped tent cities, with the US plan to end the war largely stalled.",
-      "published_at": "2026-10-08T05:06:09Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC Middle East",
       "title": "'Every day there is killing': Gazans face Israeli strikes despite ceasefire as peace deal stalls",
       "url": "https://www.bbc.co.uk/news/articles/cmx2qlz7qrd4o?at_medium=RSS&at_campaign=rss",
@@ -245,7 +326,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Middle East",
       "title": "US and Lebanon protecting wanted Syrian general, BBC finds",
       "url": "https://www.bbc.co.uk/news/articles/c81dldewl5gwo?at_medium=RSS&at_campaign=rss",
       "summary": "Bassam al-Hassan is being sheltered in return for information - including about abducted US reporter Austin Tice.",
@@ -263,7 +344,7 @@
       "country_name": "United Kingdom"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "France's school protests: What lies behind the anger",
       "url": "https://www.bbc.co.uk/news/articles/c6n9rgg80z94o?at_medium=RSS&at_campaign=rss",
       "summary": "Students' blockades and marches spring from real grievances – and from France's habit of settling policy on the street.",
@@ -281,24 +362,6 @@
       "country_name": "Saudi Arabia"
     },
     {
-      "source": "BBC World",
-      "title": "Texas carries out first US execution since Christa Pike's botched lethal injections",
-      "url": "https://www.bbc.co.uk/news/articles/cw4g1j2z5zvzo?at_medium=RSS&at_campaign=rss",
-      "summary": "Lawyers for Jamaal Howard had asked a judge to pause the execution after Christa Pike's botched lethal injections.",
-      "published_at": "2026-10-08T03:02:06Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC Asia",
-      "title": "Asahi and Kirin among Japan beer giants raided over alleged price-fixing cartel",
-      "url": "https://www.bbc.co.uk/news/articles/cm5yn3592xk9o?at_medium=RSS&at_campaign=rss",
-      "summary": "Japan's Fair Trade Commission conducted searches of the country's largest beer-makers.",
-      "published_at": "2026-10-08T00:53:46Z",
-      "country_code": "JP",
-      "country_name": "Japan"
-    },
-    {
       "source": "BBC Asia",
       "title": "She made India fall in love with women's cricket - now her era as captain is over",
       "url": "https://www.bbc.co.uk/news/articles/cm4g1pjrd5ewo?at_medium=RSS&at_campaign=rss",
@@ -306,15 +369,6 @@
       "published_at": "2026-10-07T23:31:00Z",
       "country_code": "IN",
       "country_name": "India"
-    },
-    {
-      "source": "BBC World",
-      "title": "New York court hears arguments in ongoing 9/11 families' lawsuit against Saudi Arabia",
-      "url": "https://www.bbc.co.uk/news/articles/cwvgrxlylj72o?at_medium=RSS&at_campaign=rss",
-      "summary": "The families allege that men with links to the Saudi government helped those who carried out the 2001 attacks, something the country denies.",
-      "published_at": "2026-10-07T23:18:40Z",
-      "country_code": "SA",
-      "country_name": "Saudi Arabia"
     },
     {
       "source": "BBC US & Canada",
@@ -353,24 +407,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
-      "title": "Eritrean troops move deep into Ethiopia's Tigray region, residents tell BBC",
-      "url": "https://www.bbc.co.uk/news/articles/ckvgd63rj92lo?at_medium=RSS&at_campaign=rss",
-      "summary": "Residents of Adigrat tell the BBC they have seen truck loads of soldiers from Eritrea moving south.",
-      "published_at": "2026-10-07T18:40:52Z",
-      "country_code": "ET",
-      "country_name": "Ethiopia"
-    },
-    {
-      "source": "BBC Europe",
-      "title": "France halts use of stun grenades after boy's hand blown off in student protests",
-      "url": "https://www.bbc.co.uk/news/articles/cqzjx7z2r4gko?at_medium=RSS&at_campaign=rss",
-      "summary": "The step comes after several groups complained of police using disproportionate force towards teenagers.",
-      "published_at": "2026-10-07T17:47:31Z",
-      "country_code": "FR",
-      "country_name": "France"
-    },
-    {
       "source": "BBC Africa",
       "title": "Kenya must be 'clean' to be credible, says Wada chief",
       "url": "https://www.bbc.co.uk/sport/olympics/articles/c9kgj0vj0gx4o?at_medium=RSS&at_campaign=rss",
@@ -380,13 +416,13 @@
       "country_name": "Kenya"
     },
     {
-      "source": "BBC Asia",
-      "title": "India's opposition leader dragged on to bus as police break up protest",
-      "url": "https://www.bbc.co.uk/news/articles/crpdgvx82831o?at_medium=RSS&at_campaign=rss",
-      "summary": "Opposition leaders allege that CEC Gyanesh Kumar manipulated voter rolls to favour PM Narendra Modi's party.",
-      "published_at": "2026-10-07T07:45:47Z",
-      "country_code": "IN",
-      "country_name": "India"
+      "source": "BBC Middle East",
+      "title": "The situation in Gaza three years on",
+      "url": "https://www.bbc.co.uk/news/videos/c6pwgrgd9zpzo?at_medium=RSS&at_campaign=rss",
+      "summary": "The BBC's Gaza correspondent Rushdi Abualouf describes the situation in Gaza three years on from the 7 October attack.",
+      "published_at": "2026-10-07T09:19:21Z",
+      "country_code": "PS",
+      "country_name": "Palestine"
     },
     {
       "source": "BBC Europe",
@@ -452,6 +488,15 @@
       "country_name": "Iran"
     },
     {
+      "source": "BBC Africa",
+      "title": "South Africa hope to host first African Olympics",
+      "url": "https://www.bbc.co.uk/sport/olympics/articles/cm89zve3yll1o?at_medium=RSS&at_campaign=rss",
+      "summary": "The International Olympic Committee confirms South Africa have shown an interest in becoming the first African host of the summer Olympics.",
+      "published_at": "2026-10-06T12:56:20Z",
+      "country_code": "ZA",
+      "country_name": "South Africa"
+    },
+    {
       "source": "BBC Europe",
       "title": "Fear and disruption for Ukraine's rail passengers as Russia escalates drone attacks",
       "url": "https://www.bbc.co.uk/news/articles/cr4g1qxzwyj1o?at_medium=RSS&at_campaign=rss",
@@ -506,15 +551,6 @@
       "country_name": "Saudi Arabia"
     },
     {
-      "source": "BBC Middle East",
-      "title": "Saudi Arabia urged to spare man sentenced to death over Facebook post",
-      "url": "https://www.bbc.co.uk/news/articles/cq14d438vx24o?at_medium=RSS&at_campaign=rss",
-      "summary": "Anojan Sivarasa faces execution after he was found guilty of blasphemy over a Facebook comment.",
-      "published_at": "2026-10-05T22:28:02Z",
-      "country_code": "SA",
-      "country_name": "Saudi Arabia"
-    },
-    {
       "source": "BBC Latin America",
       "title": "Flávio Bolsonaro rides right-wing wave to win first round of Brazil election",
       "url": "https://www.bbc.co.uk/news/articles/cqj6je4jen6po?at_medium=RSS&at_campaign=rss",
@@ -538,15 +574,6 @@
       "url": "https://www.bbc.co.uk/news/videos/cq99zvdk5235o?at_medium=RSS&at_campaign=rss",
       "summary": "The Pentagon confirmed on Sunday it had removed its bombers - thought to be about a dozen B-1s - from the base back to their home stations i…",
       "published_at": "2026-10-05T15:47:35Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC Asia",
-      "title": "'Not again': Arrest of US marine for murder reignites protests in Japan's Okinawa",
-      "url": "https://www.bbc.co.uk/news/articles/cwgkv70gg1j3o?at_medium=RSS&at_campaign=rss",
-      "summary": "For many locals on this island, the arrest has brought decades of frustration back to the fore.",
-      "published_at": "2026-10-05T08:22:41Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -678,15 +705,6 @@
     },
     {
       "source": "BBC Africa",
-      "title": "Injured Assefa narrowly misses world record in Berlin",
-      "url": "https://www.bbc.co.uk/sport/athletics/articles/c6rr4y59n0r0o?at_medium=RSS&at_campaign=rss",
-      "summary": "Ethiopian runner Tigst Assefa wins the Berlin Marathon but narrowly misses out on breaking the women's world record because of injury.",
-      "published_at": "2026-09-27T11:14:39Z",
-      "country_code": "DE",
-      "country_name": "Germany"
-    },
-    {
-      "source": "BBC Africa",
       "title": "South African white genocide does not exist, new ambassador to US tells BBC",
       "url": "https://www.bbc.co.uk/news/articles/cm2l8qv7zppko?at_medium=RSS&at_campaign=rss",
       "summary": "Roelf Meyer tells the BBC that being a white Afrikaner gives him legitimacy to challenge Trump's claim of a genocide.",
@@ -738,6 +756,15 @@
       "published_at": "2026-09-22T20:59:00Z",
       "country_code": "IL",
       "country_name": "Israel"
+    },
+    {
+      "source": "BBC Africa",
+      "title": "'Enough is enough': Women protest after string of murders near Johannesburg",
+      "url": "https://www.bbc.co.uk/news/videos/cm4gjxq1dx2eo?at_medium=RSS&at_campaign=rss",
+      "summary": "The police have since set up a task team to investigate the murders and have urged women in the Kempton Park area to avoid walking or runnin…",
+      "published_at": "2026-09-19T11:50:50Z",
+      "country_code": "ZA",
+      "country_name": "South Africa"
     },
     {
       "source": "BBC Middle East",
@@ -825,12 +852,17 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 25
+      "news_count": 23
     },
     {
       "country_code": "GB",
       "country_name": "United Kingdom",
-      "news_count": 7
+      "news_count": 8
+    },
+    {
+      "country_code": "ZA",
+      "country_name": "South Africa",
+      "news_count": 6
     },
     {
       "country_code": "ES",
@@ -853,23 +885,33 @@
       "news_count": 4
     },
     {
-      "country_code": "SA",
-      "country_name": "Saudi Arabia",
-      "news_count": 4
-    },
-    {
-      "country_code": "ZA",
-      "country_name": "South Africa",
-      "news_count": 4
-    },
-    {
       "country_code": "ET",
       "country_name": "Ethiopia",
       "news_count": 3
     },
     {
+      "country_code": "ID",
+      "country_name": "Indonesia",
+      "news_count": 3
+    },
+    {
+      "country_code": "IN",
+      "country_name": "India",
+      "news_count": 3
+    },
+    {
+      "country_code": "PS",
+      "country_name": "Palestine",
+      "news_count": 3
+    },
+    {
       "country_code": "RU",
       "country_name": "Russia",
+      "news_count": 3
+    },
+    {
+      "country_code": "SA",
+      "country_name": "Saudi Arabia",
       "news_count": 3
     },
     {
@@ -888,13 +930,8 @@
       "news_count": 2
     },
     {
-      "country_code": "ID",
-      "country_name": "Indonesia",
-      "news_count": 2
-    },
-    {
-      "country_code": "IN",
-      "country_name": "India",
+      "country_code": "IT",
+      "country_name": "Italy",
       "news_count": 2
     },
     {
@@ -908,8 +945,8 @@
       "news_count": 2
     },
     {
-      "country_code": "PS",
-      "country_name": "Palestine",
+      "country_code": "UA",
+      "country_name": "Ukraine",
       "news_count": 2
     },
     {
@@ -925,21 +962,6 @@
     {
       "country_code": "CO",
       "country_name": "Colombia",
-      "news_count": 1
-    },
-    {
-      "country_code": "DE",
-      "country_name": "Germany",
-      "news_count": 1
-    },
-    {
-      "country_code": "IT",
-      "country_name": "Italy",
-      "news_count": 1
-    },
-    {
-      "country_code": "JP",
-      "country_name": "Japan",
       "news_count": 1
     },
     {
@@ -970,11 +992,6 @@
     {
       "country_code": "PL",
       "country_name": "Poland",
-      "news_count": 1
-    },
-    {
-      "country_code": "UA",
-      "country_name": "Ukraine",
       "news_count": 1
     }
   ]
