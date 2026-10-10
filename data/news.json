@@ -1,6 +1,33 @@
 {
-  "generated_at": "2026-10-10T19:37:23Z",
+  "generated_at": "2026-10-10T23:04:25Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Twelve killed in attack on airport in Saudi capital Riyadh",
+      "url": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
+      "summary": "Another 309 people are injured in the attack on the airport, which come days after Yemen's Houthis said they had struck it.",
+      "published_at": "2026-10-10T22:40:56Z",
+      "country_code": "SA",
+      "country_name": "Saudi Arabia"
+    },
+    {
+      "source": "BBC World",
+      "title": "Four dead and thousands without power after Hurricane Isaias lashes US",
+      "url": "https://www.bbc.co.uk/news/articles/cmje5x80yg70o?at_medium=RSS&at_campaign=rss",
+      "summary": "Roofs were ripped off buildings after Isaias barrelled into the US on Friday evening, before it weakened to a post-tropical cyclone.",
+      "published_at": "2026-10-10T22:02:07Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Russian glide bomb attack on Zaporizhzhia kills at least 20 people",
+      "url": "https://www.bbc.co.uk/news/articles/cwvgdpv642g5o?at_medium=RSS&at_campaign=rss",
+      "summary": "Volodymyr Zelensky says the attack, which left children dead, was Russia expressing its \"thanks\" for a US diesel deal.",
+      "published_at": "2026-10-10T20:51:12Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
@@ -12,19 +39,10 @@
     },
     {
       "source": "BBC World",
-      "title": "Four dead and thousands without power after Hurricane Isaias lashes US",
-      "url": "https://www.bbc.co.uk/news/articles/cmje5x80yg70o?at_medium=RSS&at_campaign=rss",
-      "summary": "Isaias made landfall in Florida on late Friday before being downgraded to a post-tropical cyclone.",
-      "published_at": "2026-10-10T19:08:17Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "Several injured in attack on airport in Saudi capital Riyadh",
-      "url": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
-      "summary": "The US embassy says it is \"aware of attacks on King Khalid International Airport\", which come days after Yemen's Houthis said they had struc…",
-      "published_at": "2026-10-10T18:37:10Z",
+      "title": "Watch: 'Time for Ukraine to get a new president', says Trump",
+      "url": "https://www.bbc.co.uk/news/videos/cwkg50dgpml7o?at_medium=RSS&at_campaign=rss",
+      "summary": "The US president's said President Volodymyr Zelensky \"wants to make problems for the world\".",
+      "published_at": "2026-10-10T19:25:03Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -72,15 +90,6 @@
       "published_at": "2026-10-10T14:24:14Z",
       "country_code": "UA",
       "country_name": "Ukraine"
-    },
-    {
-      "source": "BBC World",
-      "title": "Russian glide bomb attack on Zaporizhzhia kills at least 15 people",
-      "url": "https://www.bbc.co.uk/news/articles/cwvgdpv642g5o?at_medium=RSS&at_campaign=rss",
-      "summary": "Volodymyr Zelensky says the attack, which left children dead, was Russia expressing its \"thanks\" for a US diesel deal.",
-      "published_at": "2026-10-10T14:16:50Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC World",
@@ -920,6 +929,11 @@
       "news_count": 4
     },
     {
+      "country_code": "SA",
+      "country_name": "Saudi Arabia",
+      "news_count": 4
+    },
+    {
       "country_code": "UA",
       "country_name": "Ukraine",
       "news_count": 4
@@ -962,11 +976,6 @@
     {
       "country_code": "RU",
       "country_name": "Russia",
-      "news_count": 3
-    },
-    {
-      "country_code": "SA",
-      "country_name": "Saudi Arabia",
       "news_count": 3
     },
     {
