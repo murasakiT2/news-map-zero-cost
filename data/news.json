@@ -1,8 +1,35 @@
 {
-  "generated_at": "2026-10-09T23:40:30Z",
+  "generated_at": "2026-10-10T03:14:54Z",
   "articles": [
     {
-      "source": "BBC US & Canada",
+      "source": "BBC World",
+      "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
+      "url": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
+      "summary": "Ukraine's president sharply criticised the move, calling it an \"investment in war that must be ended, not prolonged\".",
+      "published_at": "2026-10-10T00:45:51Z",
+      "country_code": "UA",
+      "country_name": "Ukraine"
+    },
+    {
+      "source": "BBC World",
+      "title": "US immigration officials defend ICE agents who shot man in same car as child",
+      "url": "https://www.bbc.co.uk/news/articles/cq78px5y1zmzo?at_medium=RSS&at_campaign=rss",
+      "summary": "Oscar Belgal, the 28-year-old man, survived the shooting and is now being held at a detention facility outside of New York, officials said.",
+      "published_at": "2026-10-10T00:13:12Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "'Everyone hates the police' – what France's school protests reveal about a divided nation",
+      "url": "https://www.bbc.co.uk/news/articles/crq5nlqnn184o?at_medium=RSS&at_campaign=rss",
+      "summary": "Students taking to the streets in France have become a focal point in the country's increasingly polarised politics.",
+      "published_at": "2026-10-09T23:24:33Z",
+      "country_code": "FR",
+      "country_name": "France"
+    },
+    {
+      "source": "BBC World",
       "title": "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices",
       "url": "https://www.bbc.co.uk/news/articles/c5lye9z4xw4yo?at_medium=RSS&at_campaign=rss",
       "summary": "The US president hopes to ease his party's pain before next month's midterm elections, writes the BBC's North America correspondent.",
@@ -29,16 +56,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
-      "title": "Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin'",
-      "url": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
-      "summary": "Ukraine's president said allowing Russia to sell petroleum products would prolong a war that must be ended.",
-      "published_at": "2026-10-09T21:54:28Z",
-      "country_code": "RU",
-      "country_name": "Russia"
-    },
-    {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "Thai Queen makes first solo flight in fighter jet",
       "url": "https://www.bbc.co.uk/news/videos/cqm263x40y37o?at_medium=RSS&at_campaign=rss",
       "summary": "Thailand’s Queen Suthida made her first solo flight in a fighter jet, according to the Thai Royal Household.",
@@ -63,15 +81,6 @@
       "published_at": "2026-10-09T17:37:10Z",
       "country_code": "ZA",
       "country_name": "South Africa"
-    },
-    {
-      "source": "BBC World",
-      "title": "US immigration officials defend ICE agents who shot man in same car as child",
-      "url": "https://www.bbc.co.uk/news/articles/cq78px5y1zmzo?at_medium=RSS&at_campaign=rss",
-      "summary": "Oscar Belgal, the 28-year-old man, survived the shooting and is now being held at a detention facility outside of New York, officials said.",
-      "published_at": "2026-10-09T17:36:09Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC World",
@@ -101,7 +110,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Africa",
       "title": "Watch: Who is Nobel Peace Prize winner Navi Pillay?",
       "url": "https://www.bbc.co.uk/news/videos/cq8ezdww6w0do?at_medium=RSS&at_campaign=rss",
       "summary": "BBC correspondent Joe Inwood explains how Pillay's childhood in South Africa led her to become a driving force in international law from Mya…",
@@ -191,7 +200,7 @@
       "country_name": "India"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "Why Elon Musk is taking on India's richest man over Starlink",
       "url": "https://www.bbc.co.uk/news/articles/cvglw9ryjrylo?at_medium=RSS&at_campaign=rss",
       "summary": "Musk has taken pot-shots at Reliance owner Mukesh Ambani as Starlink struggles to launch in India.",
@@ -225,15 +234,6 @@
       "published_at": "2026-10-09T03:36:41Z",
       "country_code": "AU",
       "country_name": "Australia"
-    },
-    {
-      "source": "BBC World",
-      "title": "Mark Zuckerberg has an image problem - so why is Meta's business booming?",
-      "url": "https://www.bbc.co.uk/news/articles/cq8rzjv8g7ejo?at_medium=RSS&at_campaign=rss",
-      "summary": "A new film paints the Meta founder as a villain. But the tech firm seems immune to bad publicity, writes our North America tech corresponden…",
-      "published_at": "2026-10-08T23:14:02Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC Europe",
@@ -794,15 +794,6 @@
       "country_name": "Israel"
     },
     {
-      "source": "BBC Africa",
-      "title": "Nigeria’s ‘sarcasm queen’ answers ‘silly’ questions about Africa",
-      "url": "https://www.bbc.co.uk/news/videos/cq62jvr18ny4o?at_medium=RSS&at_campaign=rss",
-      "summary": "Nigerian journalist and content creator Charity Ekezie believes the best way to challenge negative stereotypes about Africa is to laugh at t…",
-      "published_at": "2026-09-16T13:51:26Z",
-      "country_code": "NG",
-      "country_name": "Nigeria"
-    },
-    {
       "source": "BBC Middle East",
       "title": "AI 'SpongeBob' parody of problems in Egypt draws scrutiny of authorities",
       "url": "https://www.bbc.co.uk/news/articles/c5y4g65vjnmo?at_medium=RSS&at_campaign=rss",
@@ -870,7 +861,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 23
+      "news_count": 22
     },
     {
       "country_code": "GB",
@@ -883,8 +874,8 @@
       "news_count": 7
     },
     {
-      "country_code": "RU",
-      "country_name": "Russia",
+      "country_code": "FR",
+      "country_name": "France",
       "news_count": 5
     },
     {
@@ -893,13 +884,13 @@
       "news_count": 4
     },
     {
-      "country_code": "FR",
-      "country_name": "France",
+      "country_code": "PS",
+      "country_name": "Palestine",
       "news_count": 4
     },
     {
-      "country_code": "PS",
-      "country_name": "Palestine",
+      "country_code": "RU",
+      "country_name": "Russia",
       "news_count": 4
     },
     {
@@ -933,6 +924,11 @@
       "news_count": 3
     },
     {
+      "country_code": "UA",
+      "country_name": "Ukraine",
+      "news_count": 3
+    },
+    {
       "country_code": "AR",
       "country_name": "Argentina",
       "news_count": 2
@@ -953,18 +949,8 @@
       "news_count": 2
     },
     {
-      "country_code": "NG",
-      "country_name": "Nigeria",
-      "news_count": 2
-    },
-    {
       "country_code": "PE",
       "country_name": "Peru",
-      "news_count": 2
-    },
-    {
-      "country_code": "UA",
-      "country_name": "Ukraine",
       "news_count": 2
     },
     {
@@ -1005,6 +991,11 @@
     {
       "country_code": "MY",
       "country_name": "Malaysia",
+      "news_count": 1
+    },
+    {
+      "country_code": "NG",
+      "country_name": "Nigeria",
       "news_count": 1
     },
     {
