@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-10-11T02:00:47Z",
+  "generated_at": "2026-10-11T09:05:51Z",
   "articles": [
+    {
+      "source": "BBC Middle East",
+      "title": "Twelve killed and 300 injured in attack on airport in Saudi capital Riyadh",
+      "url": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
+      "summary": "Saturday's attack was the deadliest in Saudi Arabia since May 2015. US and Saudi officials are blaming Yemen's Houthis, who have yet to comm…",
+      "published_at": "2026-10-11T08:41:30Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "US justice department investigates TV networks over Trump pool coverage",
+      "url": "https://www.bbc.co.uk/news/articles/c9vgregzk6gro?at_medium=RSS&at_campaign=rss",
+      "summary": "The White House had blocked access for CNN, MS Now and Politico, leading them to restrict pool coverage.",
+      "published_at": "2026-10-11T05:05:43Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
@@ -9,15 +27,6 @@
       "published_at": "2026-10-11T01:41:29Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "Twelve killed in attack on airport in Saudi capital Riyadh",
-      "url": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
-      "summary": "Another 309 people are injured, with the Saudi-led coalition saying the attack by Yemen's Houthis is \"war crime\".",
-      "published_at": "2026-10-11T00:21:52Z",
-      "country_code": "SA",
-      "country_name": "Saudi Arabia"
     },
     {
       "source": "BBC World",
@@ -90,15 +99,6 @@
       "published_at": "2026-10-10T14:24:14Z",
       "country_code": "UA",
       "country_name": "Ukraine"
-    },
-    {
-      "source": "BBC World",
-      "title": "'Cockroach' group leaders among hundreds detained in Delhi protest",
-      "url": "https://www.bbc.co.uk/news/articles/c65yn7xvde7vo?at_medium=RSS&at_campaign=rss",
-      "summary": "The group - who are not registered as a political party in India - want electoral reforms ahead of crucial state elections.",
-      "published_at": "2026-10-10T12:29:31Z",
-      "country_code": "IN",
-      "country_name": "India"
     },
     {
       "source": "BBC World",
@@ -888,7 +888,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 29
+      "news_count": 31
     },
     {
       "country_code": "ZA",
@@ -898,11 +898,6 @@
     {
       "country_code": "FR",
       "country_name": "France",
-      "news_count": 4
-    },
-    {
-      "country_code": "IN",
-      "country_name": "India",
       "news_count": 4
     },
     {
@@ -946,6 +941,11 @@
       "news_count": 3
     },
     {
+      "country_code": "IN",
+      "country_name": "India",
+      "news_count": 3
+    },
+    {
       "country_code": "IR",
       "country_name": "Iran",
       "news_count": 3
@@ -953,11 +953,6 @@
     {
       "country_code": "RU",
       "country_name": "Russia",
-      "news_count": 3
-    },
-    {
-      "country_code": "SA",
-      "country_name": "Saudi Arabia",
       "news_count": 3
     },
     {
@@ -983,6 +978,11 @@
     {
       "country_code": "PE",
       "country_name": "Peru",
+      "news_count": 2
+    },
+    {
+      "country_code": "SA",
+      "country_name": "Saudi Arabia",
       "news_count": 2
     },
     {
