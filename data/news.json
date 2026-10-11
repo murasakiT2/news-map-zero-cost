@@ -1,14 +1,41 @@
 {
-  "generated_at": "2026-10-11T19:47:20Z",
+  "generated_at": "2026-10-11T23:17:58Z",
   "articles": [
     {
-      "source": "BBC Europe",
-      "title": "Trump says Ukraine and Russia have agreed 'energy ceasefire'",
+      "source": "BBC World",
+      "title": "One killed, 11 injured in second Houthi strike on Riyadh airport in two days",
+      "url": "https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Saudi capital has been hit by multiple attacks from the Iran-backed Yemeni group over the weekend.",
+      "published_at": "2026-10-11T22:45:58Z",
+      "country_code": "SA",
+      "country_name": "Saudi Arabia"
+    },
+    {
+      "source": "BBC World",
+      "title": "Trump's 'energy ceasefire' claim welcomed by Zelensky but Russia silent",
       "url": "https://www.bbc.co.uk/news/articles/c6pvg4jyz1m0o?at_medium=RSS&at_campaign=rss",
       "summary": "Zelensky says Kyiv would support such a truce. Moscow has yet to comment.",
-      "published_at": "2026-10-11T18:58:26Z",
+      "published_at": "2026-10-11T21:36:40Z",
       "country_code": "RU",
       "country_name": "Russia"
+    },
+    {
+      "source": "BBC World",
+      "title": "Dozens of gold prospectors killed in strikes on Egypt-Sudan border, rights group says",
+      "url": "https://www.bbc.co.uk/news/articles/cqy43vrk8wv8o?at_medium=RSS&at_campaign=rss",
+      "summary": "Neither Egypt nor Sudan has commented on the alleged strikes on an artisanal mining camp on Saturday.",
+      "published_at": "2026-10-11T21:12:44Z",
+      "country_code": "EG",
+      "country_name": "Egypt"
+    },
+    {
+      "source": "BBC World",
+      "title": "Watch: What's behind Trump's energy ceasefire claim?",
+      "url": "https://www.bbc.co.uk/news/videos/cwvgde9vrdd9o?at_medium=RSS&at_campaign=rss",
+      "summary": "The US president made the announcement in a social media post, which was an apparent surprise to Ukraine and Russia is yet to comment.",
+      "published_at": "2026-10-11T20:55:02Z",
+      "country_code": "US",
+      "country_name": "United States"
     },
     {
       "source": "BBC World",
@@ -18,15 +45,6 @@
       "published_at": "2026-10-11T17:27:24Z",
       "country_code": "PL",
       "country_name": "Poland"
-    },
-    {
-      "source": "BBC World",
-      "title": "Saudi capital airport hit by second Houthi strike in two days",
-      "url": "https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&at_campaign=rss",
-      "summary": "The Yemeni group says it carried out attacks that killed 13 people in Riyadh over the weekend and targeted two airports and oil facilities.",
-      "published_at": "2026-10-11T16:41:37Z",
-      "country_code": "SA",
-      "country_name": "Saudi Arabia"
     },
     {
       "source": "BBC World",
@@ -164,7 +182,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Latin America",
       "title": "How the trial of murdered Australian brothers and US friend unfolded",
       "url": "https://www.bbc.co.uk/news/videos/cr86z34vz95yo?at_medium=RSS&at_campaign=rss",
       "summary": "The mother of two Australian surfers murdered in Mexico two years ago with their American friend said \"accountability matters\".",
@@ -236,22 +254,13 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "Thai Queen makes first solo flight in fighter jet",
       "url": "https://www.bbc.co.uk/news/videos/cqm263x40y37o?at_medium=RSS&at_campaign=rss",
       "summary": "Thailand’s Queen Suthida made her first solo flight in a fighter jet, according to the Thai Royal Household.",
       "published_at": "2026-10-09T19:48:26Z",
       "country_code": "TH",
       "country_name": "Thailand"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "US unveils sanctions on ICC in move court condemns as 'assault on rule of law'",
-      "url": "https://www.bbc.co.uk/news/articles/cj20vkkx3rdvo?at_medium=RSS&at_campaign=rss",
-      "summary": "Several member states of the international tribunal, including the UK, say they \"strongly disagree\" with the sanctions.",
-      "published_at": "2026-10-09T18:40:10Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC Africa",
@@ -272,15 +281,6 @@
       "country_name": "Peru"
     },
     {
-      "source": "BBC US & Canada",
-      "title": "Watch: 'I am Jane Doe' protests across US call for end to sexual violence",
-      "url": "https://www.bbc.co.uk/news/videos/cmy83pp3904vo?at_medium=RSS&at_campaign=rss",
-      "summary": "Protests against sexual violence took place across more than 40 US states on 8 October.",
-      "published_at": "2026-10-09T16:19:36Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC Africa",
       "title": "Watch: Who is Nobel Peace Prize winner Navi Pillay?",
       "url": "https://www.bbc.co.uk/news/videos/cq8ezdww6w0do?at_medium=RSS&at_campaign=rss",
@@ -288,15 +288,6 @@
       "published_at": "2026-10-09T15:26:33Z",
       "country_code": "PS",
       "country_name": "Palestine"
-    },
-    {
-      "source": "BBC Africa",
-      "title": "Ethiopia warns Eritrea it will defend itself after troops cross border",
-      "url": "https://www.bbc.co.uk/news/articles/c65ynvw250y1o?at_medium=RSS&at_campaign=rss",
-      "summary": "Truckloads of Eritrean soldiers have been seen driving into Ethiopia, which has reportedly responded with drone strikes.",
-      "published_at": "2026-10-09T15:24:43Z",
-      "country_code": "ET",
-      "country_name": "Ethiopia"
     },
     {
       "source": "BBC Middle East",
@@ -542,15 +533,6 @@
       "country_name": "Israel"
     },
     {
-      "source": "BBC US & Canada",
-      "title": "Watch: What we know about Christa Pike's ‘shock’ recovery in hospital",
-      "url": "https://www.bbc.co.uk/news/videos/cw99zxxx891yo?at_medium=RSS&at_campaign=rss",
-      "summary": "The US death row inmate's legal team said at a press conference that she is now \"conscious and speaking\" after her failed execution.",
-      "published_at": "2026-10-07T20:01:05Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC Africa",
       "title": "Kenya must be 'clean' to be credible, says Wada chief",
       "url": "https://www.bbc.co.uk/sport/olympics/articles/c9kgj0vj0gx4o?at_medium=RSS&at_campaign=rss",
@@ -579,15 +561,6 @@
     },
     {
       "source": "BBC Europe",
-      "title": "Watch: At the scene of student protests in Lille",
-      "url": "https://www.bbc.co.uk/news/videos/cwzd650e2jqdo?at_medium=RSS&at_campaign=rss",
-      "summary": "The BBC's Europe correspondent Nick Beake reports from a large demonstration in northern France.",
-      "published_at": "2026-10-06T15:02:56Z",
-      "country_code": "FR",
-      "country_name": "France"
-    },
-    {
-      "source": "BBC Europe",
       "title": "Watch: How Russia responded to US after plague researcher death",
       "url": "https://www.bbc.co.uk/news/videos/c8e36y796enno?at_medium=RSS&at_campaign=rss",
       "summary": "The US and Russia have each offered to help each other tackling infectious diseases.",
@@ -603,15 +576,6 @@
       "published_at": "2026-10-06T12:56:20Z",
       "country_code": "ZA",
       "country_name": "South Africa"
-    },
-    {
-      "source": "BBC Europe",
-      "title": "What is Russia saying about death of woman linked to plague lab?",
-      "url": "https://www.bbc.co.uk/news/videos/cw4g1r1k1d0ro?at_medium=RSS&at_campaign=rss",
-      "summary": "BBC Verify looks into the death of a woman linked to plague lab in Siberia.",
-      "published_at": "2026-10-06T07:58:53Z",
-      "country_code": "RU",
-      "country_name": "Russia"
     },
     {
       "source": "BBC Latin America",
@@ -870,7 +834,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 29
+      "news_count": 27
     },
     {
       "country_code": "UA",
@@ -883,11 +847,6 @@
       "news_count": 5
     },
     {
-      "country_code": "FR",
-      "country_name": "France",
-      "news_count": 4
-    },
-    {
       "country_code": "SA",
       "country_name": "Saudi Arabia",
       "news_count": 4
@@ -898,8 +857,8 @@
       "news_count": 3
     },
     {
-      "country_code": "ET",
-      "country_name": "Ethiopia",
+      "country_code": "FR",
+      "country_name": "France",
       "news_count": 3
     },
     {
@@ -938,11 +897,6 @@
       "news_count": 3
     },
     {
-      "country_code": "RU",
-      "country_name": "Russia",
-      "news_count": 3
-    },
-    {
       "country_code": "AR",
       "country_name": "Argentina",
       "news_count": 2
@@ -953,6 +907,11 @@
       "news_count": 2
     },
     {
+      "country_code": "ET",
+      "country_name": "Ethiopia",
+      "news_count": 2
+    },
+    {
       "country_code": "KE",
       "country_name": "Kenya",
       "news_count": 2
@@ -960,6 +919,11 @@
     {
       "country_code": "PE",
       "country_name": "Peru",
+      "news_count": 2
+    },
+    {
+      "country_code": "RU",
+      "country_name": "Russia",
       "news_count": 2
     },
     {
@@ -980,6 +944,11 @@
     {
       "country_code": "CO",
       "country_name": "Colombia",
+      "news_count": 1
+    },
+    {
+      "country_code": "EG",
+      "country_name": "Egypt",
       "news_count": 1
     },
     {
