@@ -1,6 +1,33 @@
 {
-  "generated_at": "2026-10-11T09:05:51Z",
+  "generated_at": "2026-10-11T15:50:11Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Riyadh airport attack another dangerous moment in already tense conflict",
+      "url": "https://www.bbc.co.uk/news/articles/cr4g1pwxxlq1o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Houthis have stepped up their attacks on Saudi Arabian soil, and while the physical damage can be quickly repaired, its reputation for s…",
+      "published_at": "2026-10-11T15:32:32Z",
+      "country_code": "SA",
+      "country_name": "Saudi Arabia"
+    },
+    {
+      "source": "BBC World",
+      "title": "Poland stabbings driven by online glorification of violence, Tusk says",
+      "url": "https://www.bbc.co.uk/news/articles/ckp8gyd65z2go?at_medium=RSS&at_campaign=rss",
+      "summary": "The PM was speaking after violent attacks at Polish schools this week left one dead and others injured.",
+      "published_at": "2026-10-11T15:18:52Z",
+      "country_code": "PL",
+      "country_name": "Poland"
+    },
+    {
+      "source": "BBC World",
+      "title": "Ukraine strikes Yandex data centre in third attack on Russian tech giant",
+      "url": "https://www.bbc.co.uk/news/articles/cw0k0g57mk3zo?at_medium=RSS&at_campaign=rss",
+      "summary": "It is the third time this week that Ukraine has targeted Russian tech giant Yandex, forcing the company to suspend its operations.",
+      "published_at": "2026-10-11T14:38:10Z",
+      "country_code": "UA",
+      "country_name": "Ukraine"
+    },
     {
       "source": "BBC Middle East",
       "title": "Twelve killed and 300 injured in attack on airport in Saudi capital Riyadh",
@@ -20,7 +47,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
       "url": "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss",
       "summary": "Ukraine's leader had said the deal with Russia to release diesel into the US would help Moscow fund the war.",
@@ -29,7 +56,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "Four dead and thousands without power after Hurricane Isaias lashes US",
       "url": "https://www.bbc.co.uk/news/articles/cmje5x80yg70o?at_medium=RSS&at_campaign=rss",
       "summary": "Roofs were ripped off buildings after Isaias barrelled into the US on Friday evening, before it weakened to a post-tropical cyclone.",
@@ -43,15 +70,6 @@
       "url": "https://www.bbc.co.uk/news/articles/cwvgdpv642g5o?at_medium=RSS&at_campaign=rss",
       "summary": "Volodymyr Zelensky says the attack, which left children dead, was Russia expressing its \"thanks\" for a US diesel deal.",
       "published_at": "2026-10-10T20:51:12Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "Watch: 'Time for Ukraine to get a new president', says Trump",
-      "url": "https://www.bbc.co.uk/news/videos/cwkg50dgpml7o?at_medium=RSS&at_campaign=rss",
-      "summary": "The US president's said President Volodymyr Zelensky \"wants to make problems for the world\".",
-      "published_at": "2026-10-10T19:25:03Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -317,7 +335,7 @@
       "country_name": "Italy"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "Meet India's feisty Gen Z protester who is taking on Modi",
       "url": "https://www.bbc.co.uk/news/articles/c5n49xln3lz0o?at_medium=RSS&at_campaign=rss",
       "summary": "Neha Bora has emerged as one of the most recognisable faces from India's recent Gen Z-led protests.",
@@ -794,15 +812,6 @@
       "country_name": "Palestine"
     },
     {
-      "source": "BBC Africa",
-      "title": "'Enough is enough': Women protest after string of murders near Johannesburg",
-      "url": "https://www.bbc.co.uk/news/videos/cm4gjxq1dx2eo?at_medium=RSS&at_campaign=rss",
-      "summary": "The police have since set up a task team to investigate the murders and have urged women in the Kempton Park area to avoid walking or runnin…",
-      "published_at": "2026-09-19T11:50:50Z",
-      "country_code": "ZA",
-      "country_name": "South Africa"
-    },
-    {
       "source": "BBC Middle East",
       "title": "Why US plan to sell F-35 warplanes to Saudi Arabia is controversial",
       "url": "https://www.bbc.co.uk/news/articles/c3x2zrn01pxko?at_medium=RSS&at_campaign=rss",
@@ -819,15 +828,6 @@
       "published_at": "2026-09-17T08:40:41Z",
       "country_code": "IL",
       "country_name": "Israel"
-    },
-    {
-      "source": "BBC Africa",
-      "title": "Nigeria’s ‘sarcasm queen’ answers ‘silly’ questions about Africa",
-      "url": "https://www.bbc.co.uk/news/videos/cq62jvr18ny4o?at_medium=RSS&at_campaign=rss",
-      "summary": "Nigerian journalist and content creator Charity Ekezie believes the best way to challenge negative stereotypes about Africa is to laugh at t…",
-      "published_at": "2026-09-16T13:51:26Z",
-      "country_code": "NG",
-      "country_name": "Nigeria"
     },
     {
       "source": "BBC Middle East",
@@ -888,12 +888,17 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 31
+      "news_count": 30
+    },
+    {
+      "country_code": "UA",
+      "country_name": "Ukraine",
+      "news_count": 5
     },
     {
       "country_code": "ZA",
       "country_name": "South Africa",
-      "news_count": 6
+      "news_count": 5
     },
     {
       "country_code": "FR",
@@ -903,11 +908,6 @@
     {
       "country_code": "PS",
       "country_name": "Palestine",
-      "news_count": 4
-    },
-    {
-      "country_code": "UA",
-      "country_name": "Ukraine",
       "news_count": 4
     },
     {
@@ -956,6 +956,11 @@
       "news_count": 3
     },
     {
+      "country_code": "SA",
+      "country_name": "Saudi Arabia",
+      "news_count": 3
+    },
+    {
       "country_code": "AR",
       "country_name": "Argentina",
       "news_count": 2
@@ -971,18 +976,13 @@
       "news_count": 2
     },
     {
-      "country_code": "NG",
-      "country_name": "Nigeria",
-      "news_count": 2
-    },
-    {
       "country_code": "PE",
       "country_name": "Peru",
       "news_count": 2
     },
     {
-      "country_code": "SA",
-      "country_name": "Saudi Arabia",
+      "country_code": "PL",
+      "country_name": "Poland",
       "news_count": 2
     },
     {
@@ -1021,8 +1021,8 @@
       "news_count": 1
     },
     {
-      "country_code": "PL",
-      "country_name": "Poland",
+      "country_code": "NG",
+      "country_name": "Nigeria",
       "news_count": 1
     },
     {
