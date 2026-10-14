@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-10-14T00:43:20Z",
+  "generated_at": "2026-10-14T05:36:00Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Russian strikes hit key power plant in Kyiv, Zelensky says",
+      "url": "https://www.bbc.co.uk/news/articles/ck20r9qpw505o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Ukrainian president says the ballistic missile strikes came with \"no early warning from our partners\".",
+      "published_at": "2026-10-14T04:36:06Z",
+      "country_code": "UA",
+      "country_name": "Ukraine"
+    },
+    {
+      "source": "BBC World",
+      "title": "Missiles intercepted near Riyadh after Saudi coalition hits Yemen fuel depot",
+      "url": "https://www.bbc.co.uk/news/articles/crx2d60y1py3o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Saudi-led coalition fighting in Yemen struck a fuel depot near the Houthi-controlled capital, Sanaa.",
+      "published_at": "2026-10-14T04:20:17Z",
+      "country_code": "SA",
+      "country_name": "Saudi Arabia"
+    },
+    {
+      "source": "BBC World",
+      "title": "Russia arrests Japanese journalist on alleged espionage",
+      "url": "https://www.bbc.co.uk/news/articles/cwp9g1el7x9zo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Hokkaido Shimbun journalist is accused of collecting information on Moscow's defence capabilities for Tokyo.",
+      "published_at": "2026-10-14T04:10:49Z",
+      "country_code": "JP",
+      "country_name": "Japan"
+    },
+    {
+      "source": "BBC World",
+      "title": "Bank of America hit with $1.2bn fine for money laundering failings",
+      "url": "https://www.bbc.co.uk/news/articles/cm3wvxy6n3z8o?at_medium=RSS&at_campaign=rss",
+      "summary": "The bank inadequately flagged transactions linked to potential Chinese money laundering networks, the Treasury said.",
+      "published_at": "2026-10-14T02:05:32Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines",
@@ -12,30 +48,12 @@
     },
     {
       "source": "BBC World",
-      "title": "Watch: 'Traumatic' - Witnesses recount moment man fell out of Six Flags roller coaster",
+      "title": "Watch: Witnesses describe 'traumatic' moment man fell out of Six Flags rollercoaster",
       "url": "https://www.bbc.co.uk/news/videos/cqy8le2mrd0po?at_medium=RSS&at_campaign=rss",
-      "summary": "One person has died and others were injured after an incident on a rollercoaster at an amusement park in the US state of Georgia.",
+      "summary": "One person has died and others were injured after an incident at a US amusement park.",
       "published_at": "2026-10-13T23:42:15Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "Missiles intercepted near Riyadh after Saudi coalition hits Yemen fuel depot",
-      "url": "https://www.bbc.co.uk/news/articles/crx2d60y1py3o?at_medium=RSS&at_campaign=rss",
-      "summary": "The Saudi-led coalition fighting in Yemen struck a fuel depot near the Houthi-controlled capital, Sanaa.",
-      "published_at": "2026-10-13T22:29:55Z",
-      "country_code": "SA",
-      "country_name": "Saudi Arabia"
-    },
-    {
-      "source": "BBC World",
-      "title": "Russian strikes hit key power plant in Kyiv, Zelensky says",
-      "url": "https://www.bbc.co.uk/news/articles/ck20r9qpw505o?at_medium=RSS&at_campaign=rss",
-      "summary": "The Ukrainian president says the ballistic missile strikes came with \"no early warning from our partners\".",
-      "published_at": "2026-10-13T22:14:33Z",
-      "country_code": "UA",
-      "country_name": "Ukraine"
     },
     {
       "source": "BBC World",
@@ -92,7 +110,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Latin America",
       "title": "Argentina targets UK in legal claim over Falklands oil exploration",
       "url": "https://www.bbc.co.uk/news/articles/cmp3g14p3z2ko?at_medium=RSS&at_campaign=rss",
       "summary": "The action filed with an international maritime tribunal is the latest development in an escalating row over the Falkland Islands.",
@@ -735,7 +753,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 22
+      "news_count": 23
     },
     {
       "country_code": "GB",
@@ -840,6 +858,11 @@
     {
       "country_code": "IR",
       "country_name": "Iran",
+      "news_count": 1
+    },
+    {
+      "country_code": "JP",
+      "country_name": "Japan",
       "news_count": 1
     },
     {
