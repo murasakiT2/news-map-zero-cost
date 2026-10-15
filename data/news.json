@@ -1,14 +1,32 @@
 {
-  "generated_at": "2026-10-15T19:34:15Z",
+  "generated_at": "2026-10-15T22:45:30Z",
   "articles": [
     {
       "source": "BBC World",
-      "title": "Letters with 'suspicious substances' sent to US election offices",
+      "title": "Letters with 'suspicious substances' sent to US senators and election offices",
       "url": "https://www.bbc.co.uk/news/articles/cmq8n513x523o?at_medium=RSS&at_campaign=rss",
       "summary": "A number of states have confirmed they were targeted by the mailings, including Oklahoma, Ohio and Louisiana.",
-      "published_at": "2026-10-15T19:13:09Z",
+      "published_at": "2026-10-15T21:42:26Z",
       "country_code": "US",
       "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "At the scene of a school roof collapse in Pakistan",
+      "url": "https://www.bbc.co.uk/news/videos/cr5yn5wel153o?at_medium=RSS&at_campaign=rss",
+      "summary": "At least 33 pupils and a teacher were killed according to hospital officials, and more than a dozen were injured.",
+      "published_at": "2026-10-15T20:31:02Z",
+      "country_code": "PK",
+      "country_name": "Pakistan"
+    },
+    {
+      "source": "BBC Africa",
+      "title": "UK threatens to ban Eritreans over migrant return policy",
+      "url": "https://www.bbc.co.uk/news/articles/c30rl1q1j200o?at_medium=RSS&at_campaign=rss",
+      "summary": "The home secretary said she would not hesitate to impose measures on other countries \"refusing to co-operate\".",
+      "published_at": "2026-10-15T20:08:41Z",
+      "country_code": "GB",
+      "country_name": "United Kingdom"
     },
     {
       "source": "BBC World",
@@ -30,7 +48,7 @@
     },
     {
       "source": "BBC US & Canada",
-      "title": "What we know about the criminal investigation into US Congresswoman Ilhan Omar",
+      "title": "What we know about the criminal investigation into US congresswoman Ilhan Omar",
       "url": "https://www.bbc.co.uk/news/articles/cq98zpk30pd5o?at_medium=RSS&at_campaign=rss",
       "summary": "The nature of the investigation is unclear but comes after officials cast doubt on her US citizenship.",
       "published_at": "2026-10-15T16:59:31Z",
@@ -54,15 +72,6 @@
       "published_at": "2026-10-15T16:15:06Z",
       "country_code": "TR",
       "country_name": "Turkey"
-    },
-    {
-      "source": "BBC Africa",
-      "title": "UK threatens to ban Eritreans over migrant return policy",
-      "url": "https://www.bbc.co.uk/news/articles/c30rl1q1j200o?at_medium=RSS&at_campaign=rss",
-      "summary": "The home secretary said she would not hesitate to impose measures on other countries \"refusing to co-operate\".",
-      "published_at": "2026-10-15T15:51:17Z",
-      "country_code": "GB",
-      "country_name": "United Kingdom"
     },
     {
       "source": "BBC World",
@@ -279,15 +288,6 @@
       "published_at": "2026-10-14T13:41:51Z",
       "country_code": "RU",
       "country_name": "Russia"
-    },
-    {
-      "source": "BBC Asia",
-      "title": "Russia arrests Japanese journalist on spying charges",
-      "url": "https://www.bbc.co.uk/news/articles/cwp9g1el7x9zo?at_medium=RSS&at_campaign=rss",
-      "summary": "The Hokkaido Shimbun journalist is accused of collecting information on Moscow's defence capabilities for Tokyo.",
-      "published_at": "2026-10-14T08:00:03Z",
-      "country_code": "JP",
-      "country_name": "Japan"
     },
     {
       "source": "BBC Asia",
@@ -750,6 +750,11 @@
       "news_count": 4
     },
     {
+      "country_code": "PK",
+      "country_name": "Pakistan",
+      "news_count": 3
+    },
+    {
       "country_code": "PS",
       "country_name": "Palestine",
       "news_count": 3
@@ -795,11 +800,6 @@
       "news_count": 2
     },
     {
-      "country_code": "PK",
-      "country_name": "Pakistan",
-      "news_count": 2
-    },
-    {
       "country_code": "EG",
       "country_name": "Egypt",
       "news_count": 1
@@ -812,11 +812,6 @@
     {
       "country_code": "IR",
       "country_name": "Iran",
-      "news_count": 1
-    },
-    {
-      "country_code": "JP",
-      "country_name": "Japan",
       "news_count": 1
     },
     {
