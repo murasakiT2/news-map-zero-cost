@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-10-14T22:48:42Z",
+  "generated_at": "2026-10-15T01:04:13Z",
   "articles": [
+    {
+      "source": "BBC Asia",
+      "title": "India and China aren't friends - but Nepal wants to unite them against climate threats",
+      "url": "https://www.bbc.co.uk/news/articles/cvy0rd1j2kzlo?at_medium=RSS&at_campaign=rss",
+      "summary": "Can Nepal bring the two regional giants together to confront a shared climate threat in the Himalayas?",
+      "published_at": "2026-10-14T23:32:11Z",
+      "country_code": "CN",
+      "country_name": "China"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "How backlash against data centres could shape the US midterm elections",
+      "url": "https://www.bbc.co.uk/news/articles/c0rezqpnekro?at_medium=RSS&at_campaign=rss",
+      "summary": "Democrats and Republicans alike are coming out against data centre development, amid growing backlash across the US.",
+      "published_at": "2026-10-14T23:02:57Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "Australia's first-ever Michelin stars go to 11 restaurants in one state",
@@ -12,7 +30,7 @@
     },
     {
       "source": "BBC World",
-      "title": "Musk says any limits on Ukraine's Starlink access down to US, not his firm",
+      "title": "Musk says US government may be behind slowdown of Ukraine drone speeds",
       "url": "https://www.bbc.co.uk/news/articles/c8wy9veedgygo?at_medium=RSS&at_campaign=rss",
       "summary": "Ukraine says Starlink access has improved but it is still facing speed limits which are disrupting its battlefield \"missions\".",
       "published_at": "2026-10-14T20:55:24Z",
@@ -378,15 +396,6 @@
       "published_at": "2026-10-12T21:20:51Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC Asia",
-      "title": "Qantas flight grounded after bedbug outbreak",
-      "url": "https://www.bbc.co.uk/news/articles/cr62yzypnw7no?at_medium=RSS&at_campaign=rss",
-      "summary": "The flight from Italy to Australia was cancelled after passengers on the plane's previous journey complained of bug bites.",
-      "published_at": "2026-10-12T21:01:45Z",
-      "country_code": "AU",
-      "country_name": "Australia"
     },
     {
       "source": "BBC Europe",
@@ -780,7 +789,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 23
+      "news_count": 24
     },
     {
       "country_code": "GB",
@@ -793,11 +802,6 @@
       "news_count": 6
     },
     {
-      "country_code": "AU",
-      "country_name": "Australia",
-      "news_count": 5
-    },
-    {
       "country_code": "UA",
       "country_name": "Ukraine",
       "news_count": 5
@@ -806,6 +810,11 @@
       "country_code": "ZA",
       "country_name": "South Africa",
       "news_count": 5
+    },
+    {
+      "country_code": "AU",
+      "country_name": "Australia",
+      "news_count": 4
     },
     {
       "country_code": "KE",
@@ -818,13 +827,13 @@
       "news_count": 4
     },
     {
-      "country_code": "AR",
-      "country_name": "Argentina",
-      "news_count": 2
-    },
-    {
       "country_code": "CN",
       "country_name": "China",
+      "news_count": 3
+    },
+    {
+      "country_code": "AR",
+      "country_name": "Argentina",
       "news_count": 2
     },
     {
