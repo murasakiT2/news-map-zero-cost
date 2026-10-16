@@ -1,6 +1,33 @@
 {
-  "generated_at": "2026-10-16T18:30:17Z",
+  "generated_at": "2026-10-16T21:48:41Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Trump denies limiting Ukraine access to Starlink network",
+      "url": "https://www.bbc.co.uk/news/articles/ckz65g34wyd8o?at_medium=RSS&at_campaign=rss",
+      "summary": "Speed curbs limited Ukraine's defences against deadly Russian attacks on Tuesday night.",
+      "published_at": "2026-10-16T19:33:48Z",
+      "country_code": "UA",
+      "country_name": "Ukraine"
+    },
+    {
+      "source": "BBC World",
+      "title": "What we learned from heated US midterm Senate debates",
+      "url": "https://www.bbc.co.uk/news/articles/cqly03y3zg7lo?at_medium=RSS&at_campaign=rss",
+      "summary": "As the 3 November election approaches and both parties fight for control of Congress, some clear themes have emerged.",
+      "published_at": "2026-10-16T19:09:37Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "Where the US midterm elections will be won and lost",
+      "url": "https://www.bbc.co.uk/news/articles/cr20wlp09gn3o?at_medium=RSS&at_campaign=rss",
+      "summary": "An in-depth look at the key polling, races and issues ahead of an election that will define Trump’s final two years as president.",
+      "published_at": "2026-10-16T18:41:54Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "Toxic algorithms wouldn't let them go - now Australia wants an off switch",
@@ -20,7 +47,7 @@
       "country_name": "Russia"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "Zelensky says Ukraine has right to defend itself after Trump calls latest strikes a 'disgrace'",
       "url": "https://www.bbc.co.uk/news/articles/c58jz174w89ro?at_medium=RSS&at_campaign=rss",
       "summary": "EU leaders rally around Ukraine's president after new criticism from Donald Trump, who says Zelensky is \"more difficult to work with than Pu…",
@@ -70,15 +97,6 @@
       "url": "https://www.bbc.co.uk/news/articles/c65ynk7212vqo?at_medium=RSS&at_campaign=rss",
       "summary": "The BBC sees masked settlers attack Palestinians trying to harvest olives, amid a surge in similar incidents.",
       "published_at": "2026-10-16T14:31:04Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "US senators call for investigation into Ukraine's Starlink restrictions",
-      "url": "https://www.bbc.co.uk/news/articles/cq398zl8jmvdo?at_medium=RSS&at_campaign=rss",
-      "summary": "Ukraine says temporary speed limits to the Starlink internet network disrupted its battlefield missions.",
-      "published_at": "2026-10-16T14:19:50Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -290,7 +308,7 @@
       "country_name": "Pakistan"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "Why is Starlink internet so important on the battlefield in Ukraine?",
       "url": "https://www.bbc.co.uk/news/articles/cqkgk4zg54reo?at_medium=RSS&at_campaign=rss",
       "summary": "It is the \"backbone of military communications in Ukraine\" that provides vital high-speed internet to forces across the country.",
@@ -326,7 +344,7 @@
       "country_name": "Brazil"
     },
     {
-      "source": "BBC Asia",
+      "source": "BBC World",
       "title": "Actor Imran Khan ordered to leave India after participating in protest",
       "url": "https://www.bbc.co.uk/news/articles/ck3r5pv5j1g1o?at_medium=RSS&at_campaign=rss",
       "summary": "The Bollywood actor had been detained and released while participating in a protest in Mumbai on 10 October.",
@@ -540,15 +558,6 @@
       "published_at": "2026-10-13T05:02:57Z",
       "country_code": "IQ",
       "country_name": "Iraq"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "Where the US midterm elections will be won and lost",
-      "url": "https://www.bbc.co.uk/news/articles/cr20wlp09gn3o?at_medium=RSS&at_campaign=rss",
-      "summary": "An in-depth look at the key polling, races and issues ahead of an election that will define Trump’s final two years as president.",
-      "published_at": "2026-10-13T05:02:44Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC Middle East",
@@ -844,6 +853,11 @@
       "news_count": 4
     },
     {
+      "country_code": "UA",
+      "country_name": "Ukraine",
+      "news_count": 4
+    },
+    {
       "country_code": "ZA",
       "country_name": "South Africa",
       "news_count": 4
@@ -861,11 +875,6 @@
     {
       "country_code": "SA",
       "country_name": "Saudi Arabia",
-      "news_count": 3
-    },
-    {
-      "country_code": "UA",
-      "country_name": "Ukraine",
       "news_count": 3
     },
     {
