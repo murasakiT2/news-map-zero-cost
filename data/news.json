@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T12:33:35Z",
+  "generated_at": "2026-10-17T16:00:55Z",
   "articles": [
     {
       "source": "BBC World",
@@ -27,6 +27,15 @@
       "published_at": "2026-10-17T10:46:41Z",
       "country_code": "FR",
       "country_name": "France"
+    },
+    {
+      "source": "BBC World",
+      "title": "Teacher fought US school attacker before armed dad shot suspect 'multiple times'",
+      "url": "https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss",
+      "summary": "The 16-year-old suspect previously attended the primary school and had targeted a special educational needs classroom, police say.",
+      "published_at": "2026-10-17T09:58:17Z",
+      "country_code": "US",
+      "country_name": "United States"
     },
     {
       "source": "BBC World",
@@ -74,7 +83,7 @@
       "country_name": "Italy"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "Trump denies limiting Ukraine access to Starlink network",
       "url": "https://www.bbc.co.uk/news/articles/ckz65g34wyd8o?at_medium=RSS&at_campaign=rss",
       "summary": "Speed curbs limited Ukraine's defences against deadly Russian attacks on Tuesday night.",
@@ -861,7 +870,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 28
+      "news_count": 29
     },
     {
       "country_code": "GB",
