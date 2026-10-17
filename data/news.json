@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-10-17T00:02:15Z",
+  "generated_at": "2026-10-17T04:43:52Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Three men jailed for 158 years each for murdering Australian and US surfers in Mexico",
+      "url": "https://www.bbc.co.uk/news/articles/c3kgqjkzw29wo?at_medium=RSS&at_campaign=rss",
+      "summary": "Brothers Jake and Callum Robinson and their friend Carter Rhoad were killed on a surfing trip in an apparent botched robbery.",
+      "published_at": "2026-10-17T03:11:10Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Trump waives several Russia sanctions as new US law takes effect",
+      "url": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
+      "summary": "Trump says parts of a new law that aims to punish Moscow for its war against Ukraine are against US national interests.",
+      "published_at": "2026-10-17T02:48:36Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Brazil sees record fall in Amazon deforestation as key election looms",
+      "url": "https://www.bbc.co.uk/news/articles/cqe8rzg6zl00o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Amazon rainforest is a crucial buffer against climate change - but deforestation had expanded under former president Jair Bolsonaro.",
+      "published_at": "2026-10-17T02:33:09Z",
+      "country_code": "BR",
+      "country_name": "Brazil"
+    },
+    {
+      "source": "BBC World",
+      "title": "The uncertain future of Canada's 30 rescued belugas",
+      "url": "https://www.bbc.co.uk/news/articles/c623dnn3xvpko?at_medium=RSS&at_campaign=rss",
+      "summary": "An international rescue operation for the last 30 captive whales in Canada made headlines. Then five of them died.",
+      "published_at": "2026-10-17T01:18:08Z",
+      "country_code": "CA",
+      "country_name": "Canada"
+    },
     {
       "source": "BBC World",
       "title": "Trump 'completely wrong' to restrict support for Ukraine, Italian minister tells BBC",
@@ -281,7 +317,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "School headscarf ban sparks rare protests in Azerbaijan and row with Turkey",
       "url": "https://www.bbc.co.uk/news/articles/cwly0g2r4k3po?at_medium=RSS&at_campaign=rss",
       "summary": "Protests have taken place over the rules which have seen pupils wearing hijabs turned away from schools.",
@@ -308,7 +344,7 @@
       "country_name": "Pakistan"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "Why is Starlink internet so important on the battlefield in Ukraine?",
       "url": "https://www.bbc.co.uk/news/articles/cqkgk4zg54reo?at_medium=RSS&at_campaign=rss",
       "summary": "It is the \"backbone of military communications in Ukraine\" that provides vital high-speed internet to forces across the country.",
@@ -324,15 +360,6 @@
       "published_at": "2026-10-15T10:51:53Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "Two dead in Istanbul after heaviest rainfall in 84 years, governor says",
-      "url": "https://www.bbc.co.uk/news/articles/cq398x7j1lrwo?at_medium=RSS&at_campaign=rss",
-      "summary": "Residents have been told to avoid leaving their homes unless absolutely necessary.",
-      "published_at": "2026-10-15T10:05:29Z",
-      "country_code": "TR",
-      "country_name": "Turkey"
     },
     {
       "source": "BBC Latin America",
@@ -587,15 +614,6 @@
       "country_name": "Russia"
     },
     {
-      "source": "BBC Latin America",
-      "title": "US detains man accused in multi-billion Venezuelan money laundering scheme",
-      "url": "https://www.bbc.co.uk/news/articles/crp3gy0x0dd1o?at_medium=RSS&at_campaign=rss",
-      "summary": "US officials had been offering a reward of $10m (£7.5m) for information leading to Álvaro Pulido's arrest.",
-      "published_at": "2026-10-12T13:49:05Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC Africa",
       "title": "Mourners killed by Kenya police at Odinga national farewell not part of violence, BBC finds",
       "url": "https://www.bbc.co.uk/news/articles/c962y4ld1d7do?at_medium=RSS&at_campaign=rss",
@@ -825,7 +843,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 28
+      "news_count": 29
     },
     {
       "country_code": "GB",
@@ -858,6 +876,16 @@
       "news_count": 4
     },
     {
+      "country_code": "BR",
+      "country_name": "Brazil",
+      "news_count": 3
+    },
+    {
+      "country_code": "CA",
+      "country_name": "Canada",
+      "news_count": 3
+    },
+    {
       "country_code": "PK",
       "country_name": "Pakistan",
       "news_count": 3
@@ -883,16 +911,6 @@
       "news_count": 2
     },
     {
-      "country_code": "BR",
-      "country_name": "Brazil",
-      "news_count": 2
-    },
-    {
-      "country_code": "CA",
-      "country_name": "Canada",
-      "news_count": 2
-    },
-    {
       "country_code": "ID",
       "country_name": "Indonesia",
       "news_count": 2
@@ -905,11 +923,6 @@
     {
       "country_code": "IN",
       "country_name": "India",
-      "news_count": 2
-    },
-    {
-      "country_code": "TR",
-      "country_name": "Turkey",
       "news_count": 2
     },
     {
@@ -960,6 +973,11 @@
     {
       "country_code": "SY",
       "country_name": "Syria",
+      "news_count": 1
+    },
+    {
+      "country_code": "TR",
+      "country_name": "Turkey",
       "news_count": 1
     }
   ]
