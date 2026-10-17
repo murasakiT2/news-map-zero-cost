@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-10-16T21:48:41Z",
+  "generated_at": "2026-10-17T00:02:15Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Trump 'completely wrong' to restrict support for Ukraine, Italian minister tells BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c64g18ljjd8do?at_medium=RSS&at_campaign=rss",
+      "summary": "Defence Minister Guido Crosetto tells the BBC the US risks prolonging Russia's full-scale invasion rather than helping to end it.",
+      "published_at": "2026-10-16T23:54:35Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Pope pictured for first time since surgery and cancer diagnosis",
+      "url": "https://www.bbc.co.uk/news/articles/cw146ej00yn7o?at_medium=RSS&at_campaign=rss",
+      "summary": "The pontiff was diagnosed with lung cancer after having surgery at Rome's Gemelli Hospital on Tuesday.",
+      "published_at": "2026-10-16T23:20:37Z",
+      "country_code": "IT",
+      "country_name": "Italy"
+    },
     {
       "source": "BBC World",
       "title": "Trump denies limiting Ukraine access to Starlink network",
@@ -56,7 +74,7 @@
       "country_name": "Ukraine"
     },
     {
-      "source": "BBC Europe",
+      "source": "BBC World",
       "title": "Watch: Will Ukraine get the support needed as tensions with US rise?",
       "url": "https://www.bbc.co.uk/news/videos/cm2ke1v8e4geo?at_medium=RSS&at_campaign=rss",
       "summary": "Zelensky thanked the \"real leaders\" ahead of a meeting with the EU in Brussels.",
@@ -72,15 +90,6 @@
       "published_at": "2026-10-16T14:57:51Z",
       "country_code": "ZA",
       "country_name": "South Africa"
-    },
-    {
-      "source": "BBC World",
-      "title": "Pope pictured for first time since surgery and cancer diagnosis",
-      "url": "https://www.bbc.co.uk/news/articles/cw146ej00yn7o?at_medium=RSS&at_campaign=rss",
-      "summary": "The pontiff was diagnosed with lung cancer after having surgery at Rome's Gemelli Hospital on Tuesday.",
-      "published_at": "2026-10-16T14:36:39Z",
-      "country_code": "IT",
-      "country_name": "Italy"
     },
     {
       "source": "BBC Africa",
@@ -218,7 +227,7 @@
       "country_name": "France"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "Letters with 'suspicious substances' sent to US senators and election offices",
       "url": "https://www.bbc.co.uk/news/articles/cmq8n513x523o?at_medium=RSS&at_campaign=rss",
       "summary": "A number of states have confirmed they were targeted by the mailings, including Oklahoma, Ohio and Louisiana.",
@@ -273,15 +282,6 @@
     },
     {
       "source": "BBC World",
-      "title": "Russia accuses Ukraine of attacking oil refinery after Zelensky says strikes to resume",
-      "url": "https://www.bbc.co.uk/news/articles/cqwyrnwd9dw1o?at_medium=RSS&at_campaign=rss",
-      "summary": "Ukraine's president says a pause on striking energy sites is over following fresh Russian attacks.",
-      "published_at": "2026-10-15T16:50:18Z",
-      "country_code": "RU",
-      "country_name": "Russia"
-    },
-    {
-      "source": "BBC World",
       "title": "School headscarf ban sparks rare protests in Azerbaijan and row with Turkey",
       "url": "https://www.bbc.co.uk/news/articles/cwly0g2r4k3po?at_medium=RSS&at_campaign=rss",
       "summary": "Protests have taken place over the rules which have seen pupils wearing hijabs turned away from schools.",
@@ -308,7 +308,7 @@
       "country_name": "Pakistan"
     },
     {
-      "source": "BBC Europe",
+      "source": "BBC World",
       "title": "Why is Starlink internet so important on the battlefield in Ukraine?",
       "url": "https://www.bbc.co.uk/news/articles/cqkgk4zg54reo?at_medium=RSS&at_campaign=rss",
       "summary": "It is the \"backbone of military communications in Ukraine\" that provides vital high-speed internet to forces across the country.",
@@ -317,7 +317,7 @@
       "country_name": "Ukraine"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "Obama says drift towards extremism 'not inevitable'",
       "url": "https://www.bbc.co.uk/news/articles/crwyd7vq3xw1o?at_medium=RSS&at_campaign=rss",
       "summary": "More than 12,000 people filled a major venue in the city to hear the former US president's take on the challenges the world is facing. .",
@@ -335,7 +335,7 @@
       "country_name": "Turkey"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Latin America",
       "title": "Brazil's Congress approves shorter working week in win for Lula",
       "url": "https://www.bbc.co.uk/news/articles/cmwy43pp08elo?at_medium=RSS&at_campaign=rss",
       "summary": "Lula's supporters hope the measure will boost his popularity ahead of a presidential run-off in 10 days.",
@@ -344,7 +344,7 @@
       "country_name": "Brazil"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "Actor Imran Khan ordered to leave India after participating in protest",
       "url": "https://www.bbc.co.uk/news/articles/ck3r5pv5j1g1o?at_medium=RSS&at_campaign=rss",
       "summary": "The Bollywood actor had been detained and released while participating in a protest in Mumbai on 10 October.",
@@ -825,7 +825,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 27
+      "news_count": 28
     },
     {
       "country_code": "GB",
@@ -848,11 +848,6 @@
       "news_count": 4
     },
     {
-      "country_code": "RU",
-      "country_name": "Russia",
-      "news_count": 4
-    },
-    {
       "country_code": "UA",
       "country_name": "Ukraine",
       "news_count": 4
@@ -870,6 +865,11 @@
     {
       "country_code": "PS",
       "country_name": "Palestine",
+      "news_count": 3
+    },
+    {
+      "country_code": "RU",
+      "country_name": "Russia",
       "news_count": 3
     },
     {
