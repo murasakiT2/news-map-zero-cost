@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-10-17T21:07:46Z",
+  "generated_at": "2026-10-17T23:13:55Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "How day of protests unfolded as disorder breaks out across France",
+      "url": "https://www.bbc.co.uk/news/videos/cwz0vy770gpzo?at_medium=RSS&at_campaign=rss",
+      "summary": "Demonstrations across the country turned violent, with cars and buildings set alight and shops ransacked.",
+      "published_at": "2026-10-17T21:33:17Z",
+      "country_code": "FR",
+      "country_name": "France"
+    },
+    {
+      "source": "BBC World",
+      "title": "Violent clashes, looting and buildings ablaze in France as over 1,000 arrested after protests",
+      "url": "https://www.bbc.co.uk/news/articles/c6d937wedj7jo?at_medium=RSS&at_campaign=rss",
+      "summary": "Disorder broke out in cities across the country on a day in which more than half a million joined cost of living protests.",
+      "published_at": "2026-10-17T20:52:17Z",
+      "country_code": "FR",
+      "country_name": "France"
+    },
     {
       "source": "BBC World",
       "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
@@ -9,6 +27,24 @@
       "published_at": "2026-10-17T19:19:19Z",
       "country_code": "US",
       "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "At least 17 dead in crush at Hindu festival event in India",
+      "url": "https://www.bbc.co.uk/news/articles/c820vwq7qg2ko?at_medium=RSS&at_campaign=rss",
+      "summary": "Many more have been injured at an event in the Indian city of Kolkata to mark a Hindu festival.",
+      "published_at": "2026-10-17T19:19:16Z",
+      "country_code": "IN",
+      "country_name": "India"
+    },
+    {
+      "source": "BBC World",
+      "title": "European diplomats attacked by Israeli settlers in West Bank",
+      "url": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Israeli military condemns the violence but the prime minister's office says it is part of a \"smear\" campaign.",
+      "published_at": "2026-10-17T18:38:57Z",
+      "country_code": "PS",
+      "country_name": "Palestine"
     },
     {
       "source": "BBC World",
@@ -164,7 +200,7 @@
       "country_name": "South Africa"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Middle East",
       "title": "Palestinians and US journalist injured by Israeli settlers in West Bank harvest attack",
       "url": "https://www.bbc.co.uk/news/articles/c65ynk7212vqo?at_medium=RSS&at_campaign=rss",
       "summary": "The BBC sees masked settlers attack Palestinians trying to harvest olives, amid a surge in similar incidents.",
@@ -326,7 +362,7 @@
       "country_name": "Australia"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "Watch: What does Starlink have to do with the Ukraine-Russia war?",
       "url": "https://www.bbc.co.uk/news/videos/cqr7yzpxm083o?at_medium=RSS&at_campaign=rss",
       "summary": "Ukraine's president has told Elon Musk that any restriction on the Starlink's system cost lives.",
@@ -358,15 +394,6 @@
       "url": "https://www.bbc.co.uk/news/articles/cked326llddgo?at_medium=RSS&at_campaign=rss",
       "summary": "Children were buried under the debris after the roof crashed through three classrooms, police say.",
       "published_at": "2026-10-15T15:26:16Z",
-      "country_code": "PK",
-      "country_name": "Pakistan"
-    },
-    {
-      "source": "BBC Asia",
-      "title": "Watch: Pupils heard 'cracking' sound moments before Pakistan school roof collapse",
-      "url": "https://www.bbc.co.uk/news/videos/cmq8n5gv1pnpo?at_medium=RSS&at_campaign=rss",
-      "summary": "Our Urdu correspondent reports from the scene in Peshawar, north-west Pakistan, where emergency services have been responding to the inciden…",
-      "published_at": "2026-10-15T15:05:29Z",
       "country_code": "PK",
       "country_name": "Pakistan"
     },
@@ -560,15 +587,6 @@
       "country_name": "Indonesia"
     },
     {
-      "source": "BBC Europe",
-      "title": "'If we don't scream, they won't listen to us': Student protesters speak to BBC in Paris",
-      "url": "https://www.bbc.co.uk/news/videos/ckg5jqg1npd7o?at_medium=RSS&at_campaign=rss",
-      "summary": "Student protesters in France have told the BBC's James Waterhouse that they will continue to take action until change has been made. The pro…",
-      "published_at": "2026-10-13T18:23:22Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC Latin America",
       "title": "Argentina targets UK in legal claim over Falklands oil exploration",
       "url": "https://www.bbc.co.uk/news/articles/cmp3g14p3z2ko?at_medium=RSS&at_campaign=rss",
@@ -632,15 +650,6 @@
       "country_name": "United Kingdom"
     },
     {
-      "source": "BBC Europe",
-      "title": "Why Moscow is staying tight-lipped on Trump's energy ceasefire",
-      "url": "https://www.bbc.co.uk/news/articles/cjx2359qekrdo?at_medium=RSS&at_campaign=rss",
-      "summary": "While Ukraine's Volodymyr Zelensky suggests he would sign up to a ceasefire on energy infrastructure, Russia has said little.",
-      "published_at": "2026-10-12T20:17:37Z",
-      "country_code": "RU",
-      "country_name": "Russia"
-    },
-    {
       "source": "BBC Africa",
       "title": "Mourners killed by Kenya police at Odinga national farewell not part of violence, BBC finds",
       "url": "https://www.bbc.co.uk/news/articles/c962y4ld1d7do?at_medium=RSS&at_campaign=rss",
@@ -657,15 +666,6 @@
       "published_at": "2026-10-10T06:04:35Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC Europe",
-      "title": "Nord Stream trial: How German police followed the evidence - to Ukraine",
-      "url": "https://www.bbc.co.uk/news/articles/c317ke5ngrq7o?at_medium=RSS&at_campaign=rss",
-      "summary": "After four years, a Ukrainian man is set to stand trial in Hamburg accused of sabotaging the Nord Stream pipelines.",
-      "published_at": "2026-10-10T04:51:57Z",
-      "country_code": "UA",
-      "country_name": "Ukraine"
     },
     {
       "source": "BBC Africa",
@@ -855,22 +855,13 @@
       "published_at": "2026-09-08T15:36:34Z",
       "country_code": "GB",
       "country_name": "United Kingdom"
-    },
-    {
-      "source": "BBC Middle East",
-      "title": "Palestinian parents fear for children's lives at school as settler attacks grow",
-      "url": "https://www.bbc.co.uk/news/articles/c3wj45g73g1o?at_medium=RSS&at_campaign=rss",
-      "summary": "A headteacher in the occupied West Bank has installed new barbed wire fencing after three pupils were killed this year.",
-      "published_at": "2026-09-07T21:12:37Z",
-      "country_code": "PS",
-      "country_name": "Palestine"
     }
   ],
   "regions": [
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 29
+      "news_count": 28
     },
     {
       "country_code": "GB",
@@ -893,13 +884,13 @@
       "news_count": 4
     },
     {
-      "country_code": "PS",
-      "country_name": "Palestine",
+      "country_code": "FR",
+      "country_name": "France",
       "news_count": 4
     },
     {
-      "country_code": "UA",
-      "country_name": "Ukraine",
+      "country_code": "PS",
+      "country_name": "Palestine",
       "news_count": 4
     },
     {
@@ -918,13 +909,8 @@
       "news_count": 3
     },
     {
-      "country_code": "PK",
-      "country_name": "Pakistan",
-      "news_count": 3
-    },
-    {
-      "country_code": "RU",
-      "country_name": "Russia",
+      "country_code": "IN",
+      "country_name": "India",
       "news_count": 3
     },
     {
@@ -933,13 +919,13 @@
       "news_count": 3
     },
     {
-      "country_code": "AR",
-      "country_name": "Argentina",
-      "news_count": 2
+      "country_code": "UA",
+      "country_name": "Ukraine",
+      "news_count": 3
     },
     {
-      "country_code": "FR",
-      "country_name": "France",
+      "country_code": "AR",
+      "country_name": "Argentina",
       "news_count": 2
     },
     {
@@ -953,8 +939,13 @@
       "news_count": 2
     },
     {
-      "country_code": "IN",
-      "country_name": "India",
+      "country_code": "PK",
+      "country_name": "Pakistan",
+      "news_count": 2
+    },
+    {
+      "country_code": "RU",
+      "country_name": "Russia",
       "news_count": 2
     },
     {
