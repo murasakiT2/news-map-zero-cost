@@ -1,14 +1,32 @@
 {
-  "generated_at": "2026-10-18T06:08:36Z",
+  "generated_at": "2026-10-18T11:27:15Z",
   "articles": [
     {
       "source": "BBC World",
-      "title": "Violent clashes, looting and buildings ablaze in France as over 1,200 arrested after protests",
-      "url": "https://www.bbc.co.uk/news/articles/c6d937wedj7jo?at_medium=RSS&at_campaign=rss",
-      "summary": "Disorder broke out in cities across the country on a day in which more than half a million joined cost of living protests.",
-      "published_at": "2026-10-18T05:56:20Z",
+      "title": "Parisians wake up to protest damage and looted shops",
+      "url": "https://www.bbc.co.uk/news/videos/cmn5vey19q3go?at_medium=RSS&at_campaign=rss",
+      "summary": "Violence broke out across France on Saturday during the latest day of demonstrations against conditions in schools and the cost of living.",
+      "published_at": "2026-10-18T10:58:39Z",
       "country_code": "FR",
       "country_name": "France"
+    },
+    {
+      "source": "BBC World",
+      "title": "Burnt out cars and shattered glass on Paris streets after protests turn to riots and looting",
+      "url": "https://www.bbc.co.uk/news/articles/c574pdzl0k4no?at_medium=RSS&at_campaign=rss",
+      "summary": "Around 1,800 people were arrested after nationwide protests saw outbreaks of violence and vandalism.",
+      "published_at": "2026-10-18T10:53:54Z",
+      "country_code": "FR",
+      "country_name": "France"
+    },
+    {
+      "source": "BBC World",
+      "title": "Several dead or injured in major fire at Canada military base",
+      "url": "https://www.bbc.co.uk/news/articles/cr86z0w4lxdxo?at_medium=RSS&at_campaign=rss",
+      "summary": "Officials have not given a cause or death toll, citing the \"very active and delicate\" situation at Canadian Forces Base Wainwright.",
+      "published_at": "2026-10-18T08:52:41Z",
+      "country_code": "CA",
+      "country_name": "Canada"
     },
     {
       "source": "BBC World",
@@ -18,15 +36,6 @@
       "published_at": "2026-10-18T05:04:31Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "Deaths confirmed in major fire at Canada military base",
-      "url": "https://www.bbc.co.uk/news/articles/cr86z0w4lxdxo?at_medium=RSS&at_campaign=rss",
-      "summary": "Number of casualties unknown in \"very, very active and delicate\" situation in Alberta, says defence minister.",
-      "published_at": "2026-10-18T04:00:50Z",
-      "country_code": "CA",
-      "country_name": "Canada"
     },
     {
       "source": "BBC World",
@@ -119,7 +128,7 @@
       "country_name": "Canada"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "Trump 'completely wrong' to restrict support for Ukraine, Italian minister tells BBC",
       "url": "https://www.bbc.co.uk/news/articles/c64g18ljjd8do?at_medium=RSS&at_campaign=rss",
       "summary": "Defence Minister Guido Crosetto tells the BBC the US risks prolonging Russia's full-scale invasion rather than helping to end it.",
@@ -838,6 +847,11 @@
       "news_count": 5
     },
     {
+      "country_code": "FR",
+      "country_name": "France",
+      "news_count": 5
+    },
+    {
       "country_code": "KE",
       "country_name": "Kenya",
       "news_count": 5
@@ -850,11 +864,6 @@
     {
       "country_code": "CA",
       "country_name": "Canada",
-      "news_count": 4
-    },
-    {
-      "country_code": "FR",
-      "country_name": "France",
       "news_count": 4
     },
     {
