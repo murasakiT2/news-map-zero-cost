@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T17:38:55Z",
+  "generated_at": "2026-10-18T19:49:48Z",
   "articles": [
     {
       "source": "BBC World",
@@ -9,15 +9,6 @@
       "published_at": "2026-10-18T15:46:10Z",
       "country_code": "RU",
       "country_name": "Russia"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "Several dead or injured in major fire at Canada military base",
-      "url": "https://www.bbc.co.uk/news/articles/cr86z0w4lxdxo?at_medium=RSS&at_campaign=rss",
-      "summary": "Officials have not given a cause or death toll, citing the \"very active and delicate\" situation at Canadian Forces Base Wainwright.",
-      "published_at": "2026-10-18T15:01:16Z",
-      "country_code": "CA",
-      "country_name": "Canada"
     },
     {
       "source": "BBC World",
@@ -871,11 +862,6 @@
       "news_count": 4
     },
     {
-      "country_code": "CA",
-      "country_name": "Canada",
-      "news_count": 4
-    },
-    {
       "country_code": "PS",
       "country_name": "Palestine",
       "news_count": 4
@@ -888,6 +874,11 @@
     {
       "country_code": "BR",
       "country_name": "Brazil",
+      "news_count": 3
+    },
+    {
+      "country_code": "CA",
+      "country_name": "Canada",
       "news_count": 3
     },
     {
