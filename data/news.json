@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-10-18T19:49:48Z",
+  "generated_at": "2026-10-18T22:00:57Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Inside Chicago's battle against the synthetic drugs flooding the US",
+      "url": "https://www.bbc.co.uk/news/videos/c84g166kz003o?at_medium=RSS&at_campaign=rss",
+      "summary": "A new wave of synthetic drugs is sweeping across the United States, raising fear of a worsening drug crisis. The BBC's Quentin Sommerville r…",
+      "published_at": "2026-10-18T21:00:22Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Macron calls for 'calm and order' after riots across France",
+      "url": "https://www.bbc.co.uk/news/articles/cw240zl08dm5o?at_medium=RSS&at_campaign=rss",
+      "summary": "French President Emmanuel Macron gives a national address after widespread disorder and as some looting continued in Paris.",
+      "published_at": "2026-10-18T20:33:21Z",
+      "country_code": "FR",
+      "country_name": "France"
+    },
     {
       "source": "BBC World",
       "title": "Oil facilities hit in deadly overnight attack on St Petersburg",
@@ -20,7 +38,7 @@
       "country_name": "Palestine"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "Burnt out cars and shattered glass on Paris streets after protests turn to riots and looting",
       "url": "https://www.bbc.co.uk/news/articles/c574pdzl0k4no?at_medium=RSS&at_campaign=rss",
       "summary": "About 1,800 people were arrested after nationwide protests saw outbreaks of violence and vandalism.",
@@ -38,7 +56,7 @@
       "country_name": "France"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "A wave of homemade, synthetic drugs sweeps US and deepens crisis",
       "url": "https://www.bbc.co.uk/news/articles/cmx2wvyv5j17o?at_medium=RSS&at_campaign=rss",
       "summary": "BBC News hears from users, dealers, prison and recovery workers as the country battles with a deadly new drug epidemic.",
@@ -261,15 +279,6 @@
       "published_at": "2026-10-16T11:41:58Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "Israeli settlers attack Palestinians in West Bank during olive harvest",
-      "url": "https://www.bbc.co.uk/news/videos/cqn06zx2r15jo?at_medium=RSS&at_campaign=rss",
-      "summary": "Israeli settlers were seen attacking Palestinian farmers and setting fire to olive trees in the West Bank.",
-      "published_at": "2026-10-16T11:40:41Z",
-      "country_code": "PS",
-      "country_name": "Palestine"
     },
     {
       "source": "BBC US & Canada",
@@ -531,15 +540,6 @@
       "published_at": "2026-10-14T06:11:08Z",
       "country_code": "SA",
       "country_name": "Saudi Arabia"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "Watch: Witnesses describe 'traumatic' moment man fell out of Six Flags rollercoaster",
-      "url": "https://www.bbc.co.uk/news/videos/cqy8le2mrd0po?at_medium=RSS&at_campaign=rss",
-      "summary": "One person has died and others were injured after an incident at a US amusement park.",
-      "published_at": "2026-10-13T23:42:15Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC Asia",
@@ -837,6 +837,11 @@
       "news_count": 24
     },
     {
+      "country_code": "FR",
+      "country_name": "France",
+      "news_count": 6
+    },
+    {
       "country_code": "GB",
       "country_name": "United Kingdom",
       "news_count": 6
@@ -847,11 +852,6 @@
       "news_count": 5
     },
     {
-      "country_code": "FR",
-      "country_name": "France",
-      "news_count": 5
-    },
-    {
       "country_code": "KE",
       "country_name": "Kenya",
       "news_count": 5
@@ -859,11 +859,6 @@
     {
       "country_code": "AU",
       "country_name": "Australia",
-      "news_count": 4
-    },
-    {
-      "country_code": "PS",
-      "country_name": "Palestine",
       "news_count": 4
     },
     {
@@ -884,6 +879,11 @@
     {
       "country_code": "IN",
       "country_name": "India",
+      "news_count": 3
+    },
+    {
+      "country_code": "PS",
+      "country_name": "Palestine",
       "news_count": 3
     },
     {
