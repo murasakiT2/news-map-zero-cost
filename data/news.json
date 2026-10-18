@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-10-18T11:27:15Z",
+  "generated_at": "2026-10-18T14:42:53Z",
   "articles": [
+    {
+      "source": "BBC US & Canada",
+      "title": "Several dead or injured in major fire at Canada military base",
+      "url": "https://www.bbc.co.uk/news/articles/cr86z0w4lxdxo?at_medium=RSS&at_campaign=rss",
+      "summary": "Officials have not given a cause or death toll, citing the \"very active and delicate\" situation at Canadian Forces Base Wainwright.",
+      "published_at": "2026-10-18T14:07:20Z",
+      "country_code": "CA",
+      "country_name": "Canada"
+    },
+    {
+      "source": "BBC World",
+      "title": "European diplomats attacked by Israeli settlers in West Bank",
+      "url": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Israeli military condemns the violence but the prime minister's office says it is part of a \"smear\" campaign.",
+      "published_at": "2026-10-18T12:16:14Z",
+      "country_code": "PS",
+      "country_name": "Palestine"
+    },
+    {
+      "source": "BBC World",
+      "title": "Burnt out cars and shattered glass on Paris streets after protests turn to riots and looting",
+      "url": "https://www.bbc.co.uk/news/articles/c574pdzl0k4no?at_medium=RSS&at_campaign=rss",
+      "summary": "Around 1,800 people were arrested after nationwide protests saw outbreaks of violence and vandalism.",
+      "published_at": "2026-10-18T12:07:31Z",
+      "country_code": "FR",
+      "country_name": "France"
+    },
+    {
+      "source": "BBC World",
+      "title": "Oil facilities hit in deadly overnight attack on St Petersburg",
+      "url": "https://www.bbc.co.uk/news/articles/c3eweygrjzd7o?at_medium=RSS&at_campaign=rss",
+      "summary": "At least one person was killed in the strikes, which also hit a data centre used by Russia's equivalent of Facebook.",
+      "published_at": "2026-10-18T11:57:49Z",
+      "country_code": "RU",
+      "country_name": "Russia"
+    },
     {
       "source": "BBC World",
       "title": "Parisians wake up to protest damage and looted shops",
@@ -9,24 +45,6 @@
       "published_at": "2026-10-18T10:58:39Z",
       "country_code": "FR",
       "country_name": "France"
-    },
-    {
-      "source": "BBC World",
-      "title": "Burnt out cars and shattered glass on Paris streets after protests turn to riots and looting",
-      "url": "https://www.bbc.co.uk/news/articles/c574pdzl0k4no?at_medium=RSS&at_campaign=rss",
-      "summary": "Around 1,800 people were arrested after nationwide protests saw outbreaks of violence and vandalism.",
-      "published_at": "2026-10-18T10:53:54Z",
-      "country_code": "FR",
-      "country_name": "France"
-    },
-    {
-      "source": "BBC World",
-      "title": "Several dead or injured in major fire at Canada military base",
-      "url": "https://www.bbc.co.uk/news/articles/cr86z0w4lxdxo?at_medium=RSS&at_campaign=rss",
-      "summary": "Officials have not given a cause or death toll, citing the \"very active and delicate\" situation at Canadian Forces Base Wainwright.",
-      "published_at": "2026-10-18T08:52:41Z",
-      "country_code": "CA",
-      "country_name": "Canada"
     },
     {
       "source": "BBC World",
@@ -45,15 +63,6 @@
       "published_at": "2026-10-18T01:10:25Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "European diplomats attacked by Israeli settlers in West Bank",
-      "url": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss",
-      "summary": "The Israeli military condemns the violence but the prime minister's office says it is part of a \"smear\" campaign.",
-      "published_at": "2026-10-17T23:52:38Z",
-      "country_code": "PS",
-      "country_name": "Palestine"
     },
     {
       "source": "BBC World",
@@ -887,6 +896,11 @@
       "news_count": 3
     },
     {
+      "country_code": "RU",
+      "country_name": "Russia",
+      "news_count": 3
+    },
+    {
       "country_code": "SA",
       "country_name": "Saudi Arabia",
       "news_count": 3
@@ -914,11 +928,6 @@
     {
       "country_code": "PK",
       "country_name": "Pakistan",
-      "news_count": 2
-    },
-    {
-      "country_code": "RU",
-      "country_name": "Russia",
       "news_count": 2
     },
     {
