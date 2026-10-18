@@ -1,6 +1,33 @@
 {
-  "generated_at": "2026-10-18T01:16:03Z",
+  "generated_at": "2026-10-18T06:08:36Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Violent clashes, looting and buildings ablaze in France as over 1,200 arrested after protests",
+      "url": "https://www.bbc.co.uk/news/articles/c6d937wedj7jo?at_medium=RSS&at_campaign=rss",
+      "summary": "Disorder broke out in cities across the country on a day in which more than half a million joined cost of living protests.",
+      "published_at": "2026-10-18T05:56:20Z",
+      "country_code": "FR",
+      "country_name": "France"
+    },
+    {
+      "source": "BBC World",
+      "title": "A wave of homemade, synthetic drugs sweeps US and deepens crisis",
+      "url": "https://www.bbc.co.uk/news/articles/cmx2wvyv5j17o?at_medium=RSS&at_campaign=rss",
+      "summary": "BBC News hears from users, dealers, prison and recovery workers as the country battles with a deadly new drug epidemic.",
+      "published_at": "2026-10-18T05:04:31Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Deaths confirmed in major fire at Canada military base",
+      "url": "https://www.bbc.co.uk/news/articles/cr86z0w4lxdxo?at_medium=RSS&at_campaign=rss",
+      "summary": "Number of casualties unknown in \"very, very active and delicate\" situation in Alberta, says defence minister.",
+      "published_at": "2026-10-18T04:00:50Z",
+      "country_code": "CA",
+      "country_name": "Canada"
+    },
     {
       "source": "BBC World",
       "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
@@ -25,15 +52,6 @@
       "url": "https://www.bbc.co.uk/news/videos/cwz0vy770gpzo?at_medium=RSS&at_campaign=rss",
       "summary": "Demonstrations across the country turned violent, with cars and buildings set alight and shops ransacked.",
       "published_at": "2026-10-17T21:33:17Z",
-      "country_code": "FR",
-      "country_name": "France"
-    },
-    {
-      "source": "BBC World",
-      "title": "Violent clashes, looting and buildings ablaze in France as over 1,000 arrested after protests",
-      "url": "https://www.bbc.co.uk/news/articles/c6d937wedj7jo?at_medium=RSS&at_campaign=rss",
-      "summary": "Disorder broke out in cities across the country on a day in which more than half a million joined cost of living protests.",
-      "published_at": "2026-10-17T20:52:17Z",
       "country_code": "FR",
       "country_name": "France"
     },
@@ -111,15 +129,6 @@
     },
     {
       "source": "BBC Europe",
-      "title": "Pope pictured for first time since surgery and cancer diagnosis",
-      "url": "https://www.bbc.co.uk/news/articles/cw146ej00yn7o?at_medium=RSS&at_campaign=rss",
-      "summary": "The pontiff was diagnosed with lung cancer after having surgery at Rome's Gemelli Hospital on Tuesday.",
-      "published_at": "2026-10-16T23:20:37Z",
-      "country_code": "IT",
-      "country_name": "Italy"
-    },
-    {
-      "source": "BBC Europe",
       "title": "Trump denies limiting Ukraine access to Starlink network",
       "url": "https://www.bbc.co.uk/news/articles/ckz65g34wyd8o?at_medium=RSS&at_campaign=rss",
       "summary": "Speed curbs limited Ukraine's defences against deadly Russian attacks on Tuesday night.",
@@ -133,6 +142,15 @@
       "url": "https://www.bbc.co.uk/news/articles/cqly03y3zg7lo?at_medium=RSS&at_campaign=rss",
       "summary": "As the 3 November election approaches and both parties fight for control of Congress, some clear themes have emerged.",
       "published_at": "2026-10-16T19:09:37Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "Where the US midterm elections will be won and lost",
+      "url": "https://www.bbc.co.uk/news/articles/cr20wlp09gn3o?at_medium=RSS&at_campaign=rss",
+      "summary": "An in-depth look at the key polling, races and issues ahead of an election that will define Trump’s final two years as president.",
+      "published_at": "2026-10-16T18:41:54Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -362,15 +380,6 @@
       "country_name": "Russia"
     },
     {
-      "source": "BBC US & Canada",
-      "title": "What we know about the criminal investigation into US congresswoman Ilhan Omar",
-      "url": "https://www.bbc.co.uk/news/articles/cq98zpk30pd5o?at_medium=RSS&at_campaign=rss",
-      "summary": "The nature of the investigation is unclear but comes after officials cast doubt on her US citizenship.",
-      "published_at": "2026-10-15T16:59:31Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC Europe",
       "title": "School headscarf ban sparks rare protests in Azerbaijan and row with Turkey",
       "url": "https://www.bbc.co.uk/news/articles/cwly0g2r4k3po?at_medium=RSS&at_campaign=rss",
@@ -396,15 +405,6 @@
       "published_at": "2026-10-15T11:25:19Z",
       "country_code": "UA",
       "country_name": "Ukraine"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "Obama says drift towards extremism 'not inevitable'",
-      "url": "https://www.bbc.co.uk/news/articles/crwyd7vq3xw1o?at_medium=RSS&at_campaign=rss",
-      "summary": "More than 12,000 people filled a major venue in the city to hear the former US president's take on the challenges the world is facing. .",
-      "published_at": "2026-10-15T10:51:53Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC Latin America",
@@ -452,15 +452,6 @@
       "country_name": "Indonesia"
     },
     {
-      "source": "BBC US & Canada",
-      "title": "Retired US generals call on Pentagon to cancel 'barbaric' execution livestream",
-      "url": "https://www.bbc.co.uk/news/articles/cmp3gnngv3e9o?at_medium=RSS&at_campaign=rss",
-      "summary": "Livestreaming the execution of Nidal Hasan \"will taint the honor of the military that employs it, and a nation that allows it,\" 72 former of…",
-      "published_at": "2026-10-15T02:26:07Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC Asia",
       "title": "India and China aren't friends - but Nepal wants to unite them against climate threats",
       "url": "https://www.bbc.co.uk/news/articles/cvy0rd1j2kzlo?at_medium=RSS&at_campaign=rss",
@@ -488,15 +479,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC US & Canada",
-      "title": "As Christmas rush looms, how do China-made toys find their way to the US?",
-      "url": "https://www.bbc.co.uk/news/articles/c5djvyde0y1jo?at_medium=RSS&at_campaign=rss",
-      "summary": "With the festive season on the horizon, we trace toys from factories in China to US shelves.",
-      "published_at": "2026-10-14T23:01:28Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC Asia",
       "title": "What if you could turn off your algorithm? Australia is about to try",
       "url": "https://www.bbc.co.uk/news/videos/ck78pj2qy42po?at_medium=RSS&at_campaign=rss",
@@ -513,15 +495,6 @@
       "published_at": "2026-10-14T17:23:01Z",
       "country_code": "KE",
       "country_name": "Kenya"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "'It's rough out here': Americans struggle with rising inflation",
-      "url": "https://www.bbc.co.uk/news/articles/c305649p2d6o?at_medium=RSS&at_campaign=rss",
-      "summary": "US inflation continues to rise, and this month the jump was above forecasts. Here's how some are surviving.",
-      "published_at": "2026-10-14T15:57:11Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC Middle East",
@@ -852,7 +825,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 27
+      "news_count": 24
     },
     {
       "country_code": "GB",
@@ -875,6 +848,11 @@
       "news_count": 4
     },
     {
+      "country_code": "CA",
+      "country_name": "Canada",
+      "news_count": 4
+    },
+    {
       "country_code": "FR",
       "country_name": "France",
       "news_count": 4
@@ -892,11 +870,6 @@
     {
       "country_code": "BR",
       "country_name": "Brazil",
-      "news_count": 3
-    },
-    {
-      "country_code": "CA",
-      "country_name": "Canada",
       "news_count": 3
     },
     {
@@ -947,11 +920,6 @@
     {
       "country_code": "IR",
       "country_name": "Iran",
-      "news_count": 1
-    },
-    {
-      "country_code": "IT",
-      "country_name": "Italy",
       "news_count": 1
     },
     {
