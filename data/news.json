@@ -1,21 +1,93 @@
 {
-  "generated_at": "2026-10-19T10:29:43Z",
+  "generated_at": "2026-10-19T17:04:38Z",
   "articles": [
     {
       "source": "BBC World",
-      "title": "Deadly fire at Canada military base moved a kilometre 'in 30 to 60 seconds'",
-      "url": "https://www.bbc.co.uk/news/articles/ckj0ly6qnp1lo?at_medium=RSS&at_campaign=rss",
-      "summary": "The blaze that killed four men and injured dozens of others spread with alarming speed, accounts suggest.",
-      "published_at": "2026-10-19T09:40:44Z",
-      "country_code": "CA",
-      "country_name": "Canada"
+      "title": "Kenya cult leader who told parents to starve children guilty of 191 murders",
+      "url": "https://www.bbc.co.uk/news/articles/ckd6d2l3dz4xo?at_medium=RSS&at_campaign=rss",
+      "summary": "Self-proclaimed pastor Paul Mackenzie was found guilty of 191 murder charges - all but one of them children.",
+      "published_at": "2026-10-19T16:16:55Z",
+      "country_code": "KE",
+      "country_name": "Kenya"
+    },
+    {
+      "source": "BBC World",
+      "title": "In pictures: French landmarks damaged and destroyed by violent protesters",
+      "url": "https://www.bbc.co.uk/news/articles/cmq8n7l0le11o?at_medium=RSS&at_campaign=rss",
+      "summary": "France is used to protests but the violence and damage seen across the country is shocking many people.",
+      "published_at": "2026-10-19T15:21:03Z",
+      "country_code": "FR",
+      "country_name": "France"
+    },
+    {
+      "source": "BBC Europe",
+      "title": "Tennis star Svitolina says emotional toll of Ukraine war led to Monfils separation",
+      "url": "https://www.bbc.co.uk/news/articles/ckd7qy12j148o?at_medium=RSS&at_campaign=rss",
+      "summary": "The two top tennis pros married in 2021 and have one child together.",
+      "published_at": "2026-10-19T14:20:03Z",
+      "country_code": "UA",
+      "country_name": "Ukraine"
+    },
+    {
+      "source": "BBC World",
+      "title": "US airman dies as daredevil descent goes wrong before Texas college football game",
+      "url": "https://www.bbc.co.uk/news/articles/crd6dn63j2xwo?at_medium=RSS&at_campaign=rss",
+      "summary": "The game continued after the incident. The American Conference said the decision was made before his death was known.",
+      "published_at": "2026-10-19T14:13:18Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Catalonia's former rebel president can return to Spain, court rules",
+      "url": "https://www.bbc.co.uk/news/articles/cvp8gzg4e143o?at_medium=RSS&at_campaign=rss",
+      "summary": "The court upholds a decision to lift an arrest warrant for Carles Puigdemont linked to the independence bid he led in 2017.",
+      "published_at": "2026-10-19T14:06:53Z",
+      "country_code": "ES",
+      "country_name": "Spain"
     },
     {
       "source": "BBC World",
       "title": "Alberta heads to polls to decide whether to hold vote on separation from Canada",
       "url": "https://www.bbc.co.uk/news/articles/cxvgd0ymgzgyo?at_medium=RSS&at_campaign=rss",
       "summary": "Polling suggests most Albertans favour remaining part of the country, although the debate alone has proven divisive.",
-      "published_at": "2026-10-19T09:24:33Z",
+      "published_at": "2026-10-19T13:44:57Z",
+      "country_code": "CA",
+      "country_name": "Canada"
+    },
+    {
+      "source": "BBC Europe",
+      "title": "Are the French riots a warning of an intense election to come?",
+      "url": "https://www.bbc.co.uk/news/videos/ckzd60dy746qo?at_medium=RSS&at_campaign=rss",
+      "summary": "Rioting, looting and vandalism has gripped France over the weekend after protests spiralled out of control across the country.",
+      "published_at": "2026-10-19T13:43:27Z",
+      "country_code": "FR",
+      "country_name": "France"
+    },
+    {
+      "source": "BBC World",
+      "title": "Personal attacks fire up debate before Brazil's run-off vote",
+      "url": "https://www.bbc.co.uk/news/articles/ck98zlzyqle3o?at_medium=RSS&at_campaign=rss",
+      "summary": "The race heats up just days before the run-off between the left-wing incumbent and his right-wing challenger.",
+      "published_at": "2026-10-19T11:41:24Z",
+      "country_code": "BR",
+      "country_name": "Brazil"
+    },
+    {
+      "source": "BBC Middle East",
+      "title": "Israeli police arrest 10 over settler attacks on journalist and diplomats in West Bank",
+      "url": "https://www.bbc.co.uk/news/articles/cqn7323p0dxyo?at_medium=RSS&at_campaign=rss",
+      "summary": "It comes after masked settlers attacked Palestinians and European officials visiting the West Bank during olive harvesting season.",
+      "published_at": "2026-10-19T10:34:18Z",
+      "country_code": "PS",
+      "country_name": "Palestine"
+    },
+    {
+      "source": "BBC World",
+      "title": "Deadly fire at Canada military base moved a kilometre 'in 30 to 60 seconds'",
+      "url": "https://www.bbc.co.uk/news/articles/ckj0ly6qnp1lo?at_medium=RSS&at_campaign=rss",
+      "summary": "The blaze that killed four men and injured dozens of others spread with alarming speed, accounts suggest.",
+      "published_at": "2026-10-19T09:40:44Z",
       "country_code": "CA",
       "country_name": "Canada"
     },
@@ -47,7 +119,7 @@
       "country_name": "Canada"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "Katya Adler: France's government under pressure after weekend of widespread violence",
       "url": "https://www.bbc.co.uk/news/articles/crwyd02yz22vo?at_medium=RSS&at_campaign=rss",
       "summary": "Political tension grips France after rioting marred protests over the cost of living and struggling public services, Katya Adler writes.",
@@ -65,7 +137,7 @@
       "country_name": "France"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "Bomb threat forces Israel to Austria flight into emergency landing",
       "url": "https://www.bbc.co.uk/news/articles/c680zdmn100lo?at_medium=RSS&at_campaign=rss",
       "summary": "The Airbus jet landed safely in Bulgaria and all passengers and crew aboard were unharmed, officials said.",
@@ -81,24 +153,6 @@
       "published_at": "2026-10-19T06:00:18Z",
       "country_code": "PS",
       "country_name": "Palestine"
-    },
-    {
-      "source": "BBC World",
-      "title": "Kenya pastor accused of ordering parents to starve their children to death faces verdict",
-      "url": "https://www.bbc.co.uk/news/articles/ckd6d2l3dz4xo?at_medium=RSS&at_campaign=rss",
-      "summary": "Self-proclaimed pastor Paul Mackenzie faces 191 murder charges - all but one of them children.",
-      "published_at": "2026-10-19T03:44:02Z",
-      "country_code": "KE",
-      "country_name": "Kenya"
-    },
-    {
-      "source": "BBC Africa",
-      "title": "Judgement day for Kenya pastor accused of ordering parents to starve their children to death",
-      "url": "https://www.bbc.co.uk/news/articles/ckd6d2l3dz4xo?at_medium=RSS&at_campaign=rss",
-      "summary": "Self-proclaimed pastor Paul Mackenzie faces 191 murder charges - all but one of them children.",
-      "published_at": "2026-10-19T03:44:02Z",
-      "country_code": "KE",
-      "country_name": "Kenya"
     },
     {
       "source": "BBC Asia",
@@ -119,7 +173,7 @@
       "country_name": "Russia"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "EU tariffs aimed at China hitting Ukraine, steel boss says",
       "url": "https://www.bbc.co.uk/news/articles/cwdd8z6gyy96o?at_medium=RSS&at_campaign=rss",
       "summary": "The boss of one of Ukraine's biggest steel companies says the country has been \"bundled together\" in measures aimed at curbing cheap imports…",
@@ -144,15 +198,6 @@
       "published_at": "2026-10-18T21:00:22Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "Oil facilities hit in deadly overnight attack on St Petersburg",
-      "url": "https://www.bbc.co.uk/news/articles/c3eweygrjzd7o?at_medium=RSS&at_campaign=rss",
-      "summary": "At least one person was killed in the strikes, which also hit a data centre used by Russia's equivalent of Facebook.",
-      "published_at": "2026-10-18T15:46:10Z",
-      "country_code": "RU",
-      "country_name": "Russia"
     },
     {
       "source": "BBC Middle East",
@@ -236,15 +281,6 @@
       "country_name": "Brazil"
     },
     {
-      "source": "BBC World",
-      "title": "The uncertain future of Canada's 30 rescued belugas",
-      "url": "https://www.bbc.co.uk/news/articles/c623dnn3xvpko?at_medium=RSS&at_campaign=rss",
-      "summary": "An international rescue operation for the last 30 captive whales in Canada made headlines. Then five of them died.",
-      "published_at": "2026-10-17T01:18:08Z",
-      "country_code": "CA",
-      "country_name": "Canada"
-    },
-    {
       "source": "BBC Europe",
       "title": "Trump 'completely wrong' to restrict support for Ukraine, Italian minister tells BBC",
       "url": "https://www.bbc.co.uk/news/articles/c64g18ljjd8do?at_medium=RSS&at_campaign=rss",
@@ -272,7 +308,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "Toxic algorithms wouldn't let them go - now Australia wants an off switch",
       "url": "https://www.bbc.co.uk/news/articles/cwr7y8er1n8vo?at_medium=RSS&at_campaign=rss",
       "summary": "The Australian government hopes to protect social media users from being served content they don't want to see.",
@@ -434,6 +470,15 @@
       "country_name": "Pakistan"
     },
     {
+      "source": "BBC Africa",
+      "title": "SA chief pledges review over 'disappointing' Test crowds",
+      "url": "https://www.bbc.co.uk/sport/cricket/articles/cky930y71xj2o?at_medium=RSS&at_campaign=rss",
+      "summary": "A senior South African cricket official pledges to order a review into the low crowd which attended the first Test against Australia in Durb…",
+      "published_at": "2026-10-15T11:48:07Z",
+      "country_code": "AU",
+      "country_name": "Australia"
+    },
+    {
       "source": "BBC Europe",
       "title": "Why is Starlink internet so important on the battlefield in Ukraine?",
       "url": "https://www.bbc.co.uk/news/articles/cqkgk4zg54reo?at_medium=RSS&at_campaign=rss",
@@ -515,15 +560,6 @@
       "country_name": "Saudi Arabia"
     },
     {
-      "source": "BBC Latin America",
-      "title": "Argentina targets UK in legal claim over Falklands oil exploration",
-      "url": "https://www.bbc.co.uk/news/articles/cmp3g14p3z2ko?at_medium=RSS&at_campaign=rss",
-      "summary": "The action filed with an international maritime tribunal is the latest development in an escalating row over the Falkland Islands.",
-      "published_at": "2026-10-13T17:36:43Z",
-      "country_code": "GB",
-      "country_name": "United Kingdom"
-    },
-    {
       "source": "BBC Africa",
       "title": "A 'landmark' moment - why has Rwanda been chosen to host F1?",
       "url": "https://www.bbc.co.uk/sport/formula1/articles/cw62yglre6y5o?at_medium=RSS&at_campaign=rss",
@@ -587,15 +623,6 @@
       "country_name": "Palestine"
     },
     {
-      "source": "BBC Africa",
-      "title": "Afcon final to play out in court - when will Morocco or Senegal be crowned champions?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckjw5jj2l26lo?at_medium=RSS&at_campaign=rss",
-      "summary": "The Court of Arbitration for Sport is set to rule on the decision to strip Senegal of their Afcon 2025 title. But fans should not expect an …",
-      "published_at": "2026-10-08T09:53:33Z",
-      "country_code": "MA",
-      "country_name": "Morocco"
-    },
-    {
       "source": "BBC Middle East",
       "title": "'Every day there is killing': Gazans face Israeli strikes despite ceasefire as peace deal stalls",
       "url": "https://www.bbc.co.uk/news/articles/cmx2qlz7qrd4o?at_medium=RSS&at_campaign=rss",
@@ -603,15 +630,6 @@
       "published_at": "2026-10-08T05:06:09Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC Africa",
-      "title": "Kenya must be 'clean' to be credible, says Wada chief",
-      "url": "https://www.bbc.co.uk/sport/olympics/articles/c9kgj0vj0gx4o?at_medium=RSS&at_campaign=rss",
-      "summary": "Wada president Witold Banka says Kenya must strengthen testing, investigations and anti-doping enforcement before hosting the 2029 World Ath…",
-      "published_at": "2026-10-07T10:42:54Z",
-      "country_code": "KE",
-      "country_name": "Kenya"
     },
     {
       "source": "BBC Latin America",
@@ -765,41 +783,27 @@
       "published_at": "2026-09-08T15:36:34Z",
       "country_code": "GB",
       "country_name": "United Kingdom"
-    },
-    {
-      "source": "BBC Middle East",
-      "title": "Palestinian parents fear for children's lives at school as settler attacks grow",
-      "url": "https://www.bbc.co.uk/news/articles/c3wj45g73g1o?at_medium=RSS&at_campaign=rss",
-      "summary": "A headteacher in the occupied West Bank has installed new barbed wire fencing after three pupils were killed this year.",
-      "published_at": "2026-09-07T21:12:37Z",
-      "country_code": "PS",
-      "country_name": "Palestine"
     }
   ],
   "regions": [
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 19
-    },
-    {
-      "country_code": "GB",
-      "country_name": "United Kingdom",
-      "news_count": 6
-    },
-    {
-      "country_code": "KE",
-      "country_name": "Kenya",
-      "news_count": 6
-    },
-    {
-      "country_code": "CA",
-      "country_name": "Canada",
-      "news_count": 5
+      "news_count": 20
     },
     {
       "country_code": "FR",
       "country_name": "France",
+      "news_count": 7
+    },
+    {
+      "country_code": "AU",
+      "country_name": "Australia",
+      "news_count": 5
+    },
+    {
+      "country_code": "GB",
+      "country_name": "United Kingdom",
       "news_count": 5
     },
     {
@@ -808,19 +812,29 @@
       "news_count": 5
     },
     {
-      "country_code": "AU",
-      "country_name": "Australia",
+      "country_code": "BR",
+      "country_name": "Brazil",
+      "news_count": 4
+    },
+    {
+      "country_code": "CA",
+      "country_name": "Canada",
+      "news_count": 4
+    },
+    {
+      "country_code": "KE",
+      "country_name": "Kenya",
+      "news_count": 4
+    },
+    {
+      "country_code": "UA",
+      "country_name": "Ukraine",
       "news_count": 4
     },
     {
       "country_code": "ZA",
       "country_name": "South Africa",
       "news_count": 4
-    },
-    {
-      "country_code": "BR",
-      "country_name": "Brazil",
-      "news_count": 3
     },
     {
       "country_code": "CN",
@@ -830,16 +844,6 @@
     {
       "country_code": "IL",
       "country_name": "Israel",
-      "news_count": 3
-    },
-    {
-      "country_code": "RU",
-      "country_name": "Russia",
-      "news_count": 3
-    },
-    {
-      "country_code": "UA",
-      "country_name": "Ukraine",
       "news_count": 3
     },
     {
@@ -858,6 +862,11 @@
       "news_count": 2
     },
     {
+      "country_code": "RU",
+      "country_name": "Russia",
+      "news_count": 2
+    },
+    {
       "country_code": "SA",
       "country_name": "Saudi Arabia",
       "news_count": 2
@@ -868,6 +877,11 @@
       "news_count": 1
     },
     {
+      "country_code": "ES",
+      "country_name": "Spain",
+      "news_count": 1
+    },
+    {
       "country_code": "ID",
       "country_name": "Indonesia",
       "news_count": 1
@@ -875,11 +889,6 @@
     {
       "country_code": "IR",
       "country_name": "Iran",
-      "news_count": 1
-    },
-    {
-      "country_code": "MA",
-      "country_name": "Morocco",
       "news_count": 1
     },
     {
