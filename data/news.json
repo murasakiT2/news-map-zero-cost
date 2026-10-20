@@ -1,6 +1,78 @@
 {
-  "generated_at": "2026-10-20T10:35:55Z",
+  "generated_at": "2026-10-20T15:26:40Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Sudan army drones hit mourners and fuel market killing more than 200 people, sources say",
+      "url": "https://www.bbc.co.uk/news/articles/cr3el70jz1nqo?at_medium=RSS&at_campaign=rss",
+      "summary": "A truck carrying people to a funeral and a market alleged to be supplying fuel to the RSF were targeted.",
+      "published_at": "2026-10-20T14:24:19Z",
+      "country_code": "SD",
+      "country_name": "Sudan"
+    },
+    {
+      "source": "BBC Middle East",
+      "title": "UK to deploy jets to defend Saudi Arabia from Houthi attacks",
+      "url": "https://www.bbc.co.uk/news/articles/ckr5yqe1r1llo?at_medium=RSS&at_campaign=rss",
+      "summary": "The UK announces it will provide additional defensive military support to Saudi Arabia as Houthi attacks escalate in the region.",
+      "published_at": "2026-10-20T13:54:35Z",
+      "country_code": "GB",
+      "country_name": "United Kingdom"
+    },
+    {
+      "source": "BBC World",
+      "title": "Zelensky and US envoys holding Oslo talks as Rubio denies withholding intelligence",
+      "url": "https://www.bbc.co.uk/news/articles/ck9qzn193lrlo?at_medium=RSS&at_campaign=rss",
+      "summary": "The US secretary of state earlier rejected accusations Ukrainians were dying because the US was withholding critical intelligence.",
+      "published_at": "2026-10-20T13:51:40Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Kenya cult leader's children still being starved weeks before trial, son says",
+      "url": "https://www.bbc.co.uk/news/articles/c6d7q2rxqxgxo?at_medium=RSS&at_campaign=rss",
+      "summary": "Dan Mackenzie initially defended his father but now says he felt he had to report his own grandmother.",
+      "published_at": "2026-10-20T13:23:32Z",
+      "country_code": "KE",
+      "country_name": "Kenya"
+    },
+    {
+      "source": "BBC Europe",
+      "title": "My son has disappeared off the face of the earth fighting for Russia",
+      "url": "https://www.bbc.co.uk/news/articles/c60e325g7p87o?at_medium=RSS&at_campaign=rss",
+      "summary": "Nathan Stobbart’s family say he faced deportation from Russia if he did not join the country's army.",
+      "published_at": "2026-10-20T13:02:09Z",
+      "country_code": "RU",
+      "country_name": "Russia"
+    },
+    {
+      "source": "BBC World",
+      "title": "Marseille braces for more unrest after protests give way to 'apocalyptic' disorder",
+      "url": "https://www.bbc.co.uk/news/articles/cm5ynkk570pno?at_medium=RSS&at_campaign=rss",
+      "summary": "France's second city saw some of the worst violence as chaos gripped the country on Saturday.",
+      "published_at": "2026-10-20T12:08:06Z",
+      "country_code": "FR",
+      "country_name": "France"
+    },
+    {
+      "source": "BBC World",
+      "title": "North Korea publishes photos of Kim Jong Un - why do rumours of his death keep coming back?",
+      "url": "https://www.bbc.co.uk/news/articles/cmvg6qv1jdydo?at_medium=RSS&at_campaign=rss",
+      "summary": "North Korean state media has published photos of the dictator with his daughter after the unsubstantiated rumour spread.",
+      "published_at": "2026-10-20T11:45:49Z",
+      "country_code": "KP",
+      "country_name": "North Korea"
+    },
+    {
+      "source": "BBC Africa",
+      "title": "Residents warned not to drink tap water after hundreds fall sick near South Africa capital",
+      "url": "https://www.bbc.co.uk/news/articles/cvrly550780po?at_medium=RSS&at_campaign=rss",
+      "summary": "More than 400 people, mostly children, become ill after drinking contaminated water, east of Pretoria.",
+      "published_at": "2026-10-20T11:09:09Z",
+      "country_code": "ZA",
+      "country_name": "South Africa"
+    },
     {
       "source": "BBC US & Canada",
       "title": "Alberta votes overwhelmingly to remain part of Canada, projections suggest",
@@ -11,8 +83,8 @@
       "country_name": "Canada"
     },
     {
-      "source": "BBC Middle East",
-      "title": "Israel's far right find fertile ground among first-time voters",
+      "source": "BBC World",
+      "title": "Why Israeli Gen Z voters are drawn to the far right",
       "url": "https://www.bbc.co.uk/news/articles/cmvg632xgndeo?at_medium=RSS&at_campaign=rss",
       "summary": "More than half a million young people will cast their ballots in Israel next week - and they could make all the difference.",
       "published_at": "2026-10-20T08:53:06Z",
@@ -20,13 +92,13 @@
       "country_name": "Israel"
     },
     {
-      "source": "BBC Europe",
-      "title": "My son has disappeared off the face of the earth fighting for Russia",
-      "url": "https://www.bbc.co.uk/news/articles/c60e325g7p87o?at_medium=RSS&at_campaign=rss",
-      "summary": "Nathan Stobbart’s family say he faced deportation from Russia if he did not join the country's army.",
-      "published_at": "2026-10-20T05:10:37Z",
-      "country_code": "RU",
-      "country_name": "Russia"
+      "source": "BBC Middle East",
+      "title": "Israel's far right find fertile ground among first-time voters",
+      "url": "https://www.bbc.co.uk/news/articles/cmvg632xgndeo?at_medium=RSS&at_campaign=rss",
+      "summary": "More than half a million young people will cast their ballots in Israel next week - and they could make all the difference.",
+      "published_at": "2026-10-20T08:53:06Z",
+      "country_code": "IL",
+      "country_name": "Israel"
     },
     {
       "source": "BBC World",
@@ -47,7 +119,7 @@
       "country_name": "Canada"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "US church on front line of battle against drug known as 'tranq'",
       "url": "https://www.bbc.co.uk/news/videos/cqd097z3epvno?at_medium=RSS&at_campaign=rss",
       "summary": "Synthetic opioids like fentanyl are more powerful and in plentiful supply, and they have transformed the drugs landscape.",
@@ -92,22 +164,13 @@
       "country_name": "Ukraine"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "Ukrainians dying because US restricting intelligence sharing, Zelensky adviser tells BBC",
       "url": "https://www.bbc.co.uk/news/articles/cmj47yx572z5o?at_medium=RSS&at_campaign=rss",
       "summary": "Serhii Beskrestnov says there has not been enough time to warn people about incoming missile attacks. The White House said there had been no…",
       "published_at": "2026-10-19T20:49:00Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "Ukraine says it carried out first drone airlift of wounded soldier from front line",
-      "url": "https://www.bbc.co.uk/news/videos/c3vgx05p149wo?at_medium=RSS&at_campaign=rss",
-      "summary": "The serviceman was surrounded by landmines and enemy drones so a ground rescue was not possible, Ukraine's military says.",
-      "published_at": "2026-10-19T20:00:43Z",
-      "country_code": "UA",
-      "country_name": "Ukraine"
     },
     {
       "source": "BBC US & Canada",
@@ -117,15 +180,6 @@
       "published_at": "2026-10-19T18:21:54Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "Kenya cult leader who told parents to starve children guilty of 191 murders",
-      "url": "https://www.bbc.co.uk/news/articles/ckd6d2l3dz4xo?at_medium=RSS&at_campaign=rss",
-      "summary": "Self-proclaimed pastor Paul Mackenzie was found guilty of 191 murder charges - all but one of them children.",
-      "published_at": "2026-10-19T17:18:04Z",
-      "country_code": "KE",
-      "country_name": "Kenya"
     },
     {
       "source": "BBC US & Canada",
@@ -191,7 +245,7 @@
       "country_name": "Palestine"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "Bangladesh says it was not informed of its citizens' execution by Saudi Arabia",
       "url": "https://www.bbc.co.uk/news/articles/cmde83w13p00o?at_medium=RSS&at_campaign=rss",
       "summary": "Saudi Arabia said it executed two Bangladeshis last week for committing an \"indecent act\" in a mosque.",
@@ -435,24 +489,6 @@
     },
     {
       "source": "BBC Asia",
-      "title": "At the scene of a school roof collapse in Pakistan",
-      "url": "https://www.bbc.co.uk/news/videos/cr5yn5wel153o?at_medium=RSS&at_campaign=rss",
-      "summary": "At least 33 pupils and a teacher were killed according to hospital officials, and more than a dozen were injured.",
-      "published_at": "2026-10-15T20:31:02Z",
-      "country_code": "PK",
-      "country_name": "Pakistan"
-    },
-    {
-      "source": "BBC Africa",
-      "title": "UK threatens to ban Eritreans over migrant return policy",
-      "url": "https://www.bbc.co.uk/news/articles/c30rl1q1j200o?at_medium=RSS&at_campaign=rss",
-      "summary": "The home secretary said she would not hesitate to impose measures on other countries \"refusing to co-operate\".",
-      "published_at": "2026-10-15T20:08:41Z",
-      "country_code": "GB",
-      "country_name": "United Kingdom"
-    },
-    {
-      "source": "BBC Asia",
       "title": "An Australian band’s ‘unreal’ journey to break a gig world record",
       "url": "https://www.bbc.co.uk/news/videos/c62keqn7wpwdo?at_medium=RSS&at_campaign=rss",
       "summary": "The dream rock band called Fathom travelled roughly 700km across Australia by car, helicopter and plane to play nine shows in 12 hours.",
@@ -495,15 +531,6 @@
       "published_at": "2026-10-15T10:05:17Z",
       "country_code": "BR",
       "country_name": "Brazil"
-    },
-    {
-      "source": "BBC Asia",
-      "title": "Actor Imran Khan ordered to leave India after participating in protest",
-      "url": "https://www.bbc.co.uk/news/articles/ck3r5pv5j1g1o?at_medium=RSS&at_campaign=rss",
-      "summary": "The Bollywood actor had been detained and released while participating in a protest in Mumbai on 10 October.",
-      "published_at": "2026-10-15T08:17:07Z",
-      "country_code": "IN",
-      "country_name": "India"
     },
     {
       "source": "BBC Africa",
@@ -567,15 +594,6 @@
       "published_at": "2026-10-13T06:38:32Z",
       "country_code": "SA",
       "country_name": "Saudi Arabia"
-    },
-    {
-      "source": "BBC Europe",
-      "title": "Why the prime minister wants to talk about Brexit again",
-      "url": "https://www.bbc.co.uk/news/articles/cxvgdql2y7zqo?at_medium=RSS&at_campaign=rss",
-      "summary": "For the first time since the UK left the EU, we have a prime minister who will \"unflinchingly\" debate Brexit, says the BBC's political edito…",
-      "published_at": "2026-10-13T01:27:59Z",
-      "country_code": "GB",
-      "country_name": "United Kingdom"
     },
     {
       "source": "BBC Africa",
@@ -765,26 +783,17 @@
       "published_at": "2026-09-08T15:36:34Z",
       "country_code": "GB",
       "country_name": "United Kingdom"
-    },
-    {
-      "source": "BBC Middle East",
-      "title": "Palestinian parents fear for children's lives at school as settler attacks grow",
-      "url": "https://www.bbc.co.uk/news/articles/c3wj45g73g1o?at_medium=RSS&at_campaign=rss",
-      "summary": "A headteacher in the occupied West Bank has installed new barbed wire fencing after three pupils were killed this year.",
-      "published_at": "2026-09-07T21:12:37Z",
-      "country_code": "PS",
-      "country_name": "Palestine"
     }
   ],
   "regions": [
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 19
+      "news_count": 20
     },
     {
-      "country_code": "PS",
-      "country_name": "Palestine",
+      "country_code": "FR",
+      "country_name": "France",
       "news_count": 6
     },
     {
@@ -793,8 +802,18 @@
       "news_count": 5
     },
     {
-      "country_code": "FR",
-      "country_name": "France",
+      "country_code": "IL",
+      "country_name": "Israel",
+      "news_count": 5
+    },
+    {
+      "country_code": "PS",
+      "country_name": "Palestine",
+      "news_count": 5
+    },
+    {
+      "country_code": "ZA",
+      "country_name": "South Africa",
       "news_count": 5
     },
     {
@@ -808,28 +827,8 @@
       "news_count": 4
     },
     {
-      "country_code": "GB",
-      "country_name": "United Kingdom",
-      "news_count": 4
-    },
-    {
-      "country_code": "IL",
-      "country_name": "Israel",
-      "news_count": 4
-    },
-    {
       "country_code": "KE",
       "country_name": "Kenya",
-      "news_count": 4
-    },
-    {
-      "country_code": "UA",
-      "country_name": "Ukraine",
-      "news_count": 4
-    },
-    {
-      "country_code": "ZA",
-      "country_name": "South Africa",
       "news_count": 4
     },
     {
@@ -838,8 +837,8 @@
       "news_count": 3
     },
     {
-      "country_code": "IN",
-      "country_name": "India",
+      "country_code": "GB",
+      "country_name": "United Kingdom",
       "news_count": 3
     },
     {
@@ -848,13 +847,18 @@
       "news_count": 3
     },
     {
+      "country_code": "UA",
+      "country_name": "Ukraine",
+      "news_count": 3
+    },
+    {
       "country_code": "AR",
       "country_name": "Argentina",
       "news_count": 2
     },
     {
-      "country_code": "PK",
-      "country_name": "Pakistan",
+      "country_code": "IN",
+      "country_name": "India",
       "news_count": 2
     },
     {
@@ -883,6 +887,11 @@
       "news_count": 1
     },
     {
+      "country_code": "KP",
+      "country_name": "North Korea",
+      "news_count": 1
+    },
+    {
       "country_code": "MA",
       "country_name": "Morocco",
       "news_count": 1
@@ -898,8 +907,18 @@
       "news_count": 1
     },
     {
+      "country_code": "PK",
+      "country_name": "Pakistan",
+      "news_count": 1
+    },
+    {
       "country_code": "SA",
       "country_name": "Saudi Arabia",
+      "news_count": 1
+    },
+    {
+      "country_code": "SD",
+      "country_name": "Sudan",
       "news_count": 1
     },
     {
