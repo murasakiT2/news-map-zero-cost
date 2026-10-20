@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-10-20T00:47:33Z",
+  "generated_at": "2026-10-20T05:30:33Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "How is the US economy really doing under President Trump?",
+      "url": "https://www.bbc.co.uk/news/articles/cv98ze40jz18o?at_medium=RSS&at_campaign=rss",
+      "summary": "Ahead of the midterms Trump has boasted about the performance of the US economy. BBC Verify looks at inflation, jobs and economic growth in …",
+      "published_at": "2026-10-20T05:00:45Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Deadly fire at Canada military base moved a kilometre 'in 30 to 60 seconds'",
+      "url": "https://www.bbc.co.uk/news/articles/ckj0ly6qnp1lo?at_medium=RSS&at_campaign=rss",
+      "summary": "The blaze that killed four men and injured dozens of others spread with alarming speed, accounts suggest.",
+      "published_at": "2026-10-20T01:52:43Z",
+      "country_code": "CA",
+      "country_name": "Canada"
+    },
     {
       "source": "BBC World",
       "title": "US church on frontline of battle against drug known as 'tranq'",
@@ -41,7 +59,7 @@
       "source": "BBC World",
       "title": "Curfew imposed in parts of central Paris and other cities after rioting across France",
       "url": "https://www.bbc.co.uk/news/articles/cx30ez03djyqo?at_medium=RSS&at_campaign=rss",
-      "summary": "It comes after the country's interior minister admits that police \"lost control\" in some cities.",
+      "summary": "The country's interior minister admits that police \"lost control\" in some cities following a weekend of riots.",
       "published_at": "2026-10-19T21:14:53Z",
       "country_code": "FR",
       "country_name": "France"
@@ -72,15 +90,6 @@
       "published_at": "2026-10-19T20:00:43Z",
       "country_code": "UA",
       "country_name": "Ukraine"
-    },
-    {
-      "source": "BBC World",
-      "title": "Deadly fire at Canada military base moved a kilometre 'in 30 to 60 seconds'",
-      "url": "https://www.bbc.co.uk/news/articles/ckj0ly6qnp1lo?at_medium=RSS&at_campaign=rss",
-      "summary": "The blaze that killed four men and injured dozens of others spread with alarming speed, accounts suggest.",
-      "published_at": "2026-10-19T18:22:48Z",
-      "country_code": "CA",
-      "country_name": "Canada"
     },
     {
       "source": "BBC US & Canada",
@@ -135,15 +144,6 @@
       "published_at": "2026-10-19T13:43:27Z",
       "country_code": "FR",
       "country_name": "France"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "Born in jail to a mum with a heroin addiction - how US teenager Abby has been affected by drugs",
-      "url": "https://www.bbc.co.uk/news/videos/cmlyljlzw487o?at_medium=RSS&at_campaign=rss",
-      "summary": "The BBC's Quentin Sommerville spoke to the daughter of a former heroin addict about the effect drugs have had on her family.",
-      "published_at": "2026-10-19T12:12:02Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC World",
@@ -245,7 +245,7 @@
       "country_name": "Indonesia"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "Inside the shadowy world of anti-Putin sabotage from within Russia",
       "url": "https://www.bbc.co.uk/news/articles/c6pwgzkj8zzgo?at_medium=RSS&at_campaign=rss",
       "summary": "Two men tell of the work they say they have been doing to support Ukrainian intelligence during the war.",
@@ -468,15 +468,6 @@
       "published_at": "2026-10-16T04:57:28Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC Asia",
-      "title": "'Onion cartel' in Philippines fined $28m for price shock",
-      "url": "https://www.bbc.co.uk/news/articles/cmwyvwyp9dgro?at_medium=RSS&at_campaign=rss",
-      "summary": "Onions were worth more than the daily minimum wage at the height of the price surge in 2022.",
-      "published_at": "2026-10-16T04:20:21Z",
-      "country_code": "PH",
-      "country_name": "Philippines"
     },
     {
       "source": "BBC Europe",
@@ -963,11 +954,6 @@
     {
       "country_code": "NG",
       "country_name": "Nigeria",
-      "news_count": 1
-    },
-    {
-      "country_code": "PH",
-      "country_name": "Philippines",
       "news_count": 1
     },
     {
