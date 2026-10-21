@@ -1,23 +1,41 @@
 {
-  "generated_at": "2026-10-21T15:43:18Z",
+  "generated_at": "2026-10-21T19:45:26Z",
   "articles": [
     {
       "source": "BBC World",
+      "title": "Nigeria's first Ebola patient holidayed in Uganda, officials say",
+      "url": "https://www.bbc.co.uk/news/articles/c62kepvg2x9lo?at_medium=RSS&at_campaign=rss",
+      "summary": "The wife of a diplomat based in Abuja travelled to Kampala for a vacation.",
+      "published_at": "2026-10-21T19:29:40Z",
+      "country_code": "NG",
+      "country_name": "Nigeria"
+    },
+    {
+      "source": "BBC World",
+      "title": "India 'cockroach' leaders who called on election chief to quit are freed from jail",
+      "url": "https://www.bbc.co.uk/news/articles/c674p0xepljeo?at_medium=RSS&at_campaign=rss",
+      "summary": "Saurav Das and Ashutosh Ranka were accused of breaking into an unauthorised protest venue in Delhi.",
+      "published_at": "2026-10-21T18:22:28Z",
+      "country_code": "IN",
+      "country_name": "India"
+    },
+    {
+      "source": "BBC Europe",
       "title": "US citizen Stephen Hubbard freed by Russia as Trump envoy meets Putin",
       "url": "https://www.bbc.co.uk/news/articles/c6m24l9v3745o?at_medium=RSS&at_campaign=rss",
       "summary": "The 74-year-old former teacher, who was captured, has been released without any \"swap\" required, Trump says.",
-      "published_at": "2026-10-21T13:49:50Z",
+      "published_at": "2026-10-21T17:46:09Z",
       "country_code": "US",
       "country_name": "United States"
     },
     {
       "source": "BBC World",
-      "title": "Nigeria confirms Ebola case linked to East Africa",
-      "url": "https://www.bbc.co.uk/news/articles/cm2l4xw7xpjgo?at_medium=RSS&at_campaign=rss",
-      "summary": "The female patient, who sources have told the BBC is not Nigerian, is in isolation and in an Abuja hospital.",
-      "published_at": "2026-10-21T12:39:34Z",
-      "country_code": "NG",
-      "country_name": "Nigeria"
+      "title": "Russia says it is ready to resume talks with Ukraine and US to end war",
+      "url": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss",
+      "summary": "The announcement came after Russian President Vladimir Putin met US President Donald Trump's special envoy Steve Witkoff in St Petersburg.",
+      "published_at": "2026-10-21T17:42:34Z",
+      "country_code": "US",
+      "country_name": "United States"
     },
     {
       "source": "BBC Africa",
@@ -115,15 +133,6 @@
       "url": "https://www.bbc.co.uk/news/articles/ckrey51jrgnro?at_medium=RSS&at_campaign=rss",
       "summary": "The Ukrainian leader's hug with Steve Witkoff in the Norwegian capital is unlikely to dispel misgivings about US policy towards his country,…",
       "published_at": "2026-10-20T20:00:57Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "OpenAI CEO Sam Altman wins dismissal of sister's lawsuit",
-      "url": "https://www.bbc.co.uk/news/articles/c94g1502el58o?at_medium=RSS&at_campaign=rss",
-      "summary": "A US district judge dismissed the case after Ann Altman had refused to attend an independent medical examination.",
-      "published_at": "2026-10-20T19:42:32Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -272,24 +281,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
-      "title": "US airman dies as daredevil descent goes wrong before Texas college football game",
-      "url": "https://www.bbc.co.uk/news/articles/crd6dn63j2xwo?at_medium=RSS&at_campaign=rss",
-      "summary": "The game continued after the incident. The American Conference said the decision was made before his death was known.",
-      "published_at": "2026-10-19T14:13:18Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC Europe",
-      "title": "Catalonia's former rebel president can return to Spain, court rules",
-      "url": "https://www.bbc.co.uk/news/articles/cvp8gzg4e143o?at_medium=RSS&at_campaign=rss",
-      "summary": "The court upholds a decision to lift an arrest warrant for Carles Puigdemont linked to the independence bid he led in 2017.",
-      "published_at": "2026-10-19T14:06:53Z",
-      "country_code": "ES",
-      "country_name": "Spain"
-    },
-    {
       "source": "BBC Europe",
       "title": "Are the French riots a warning of an intense election to come?",
       "url": "https://www.bbc.co.uk/news/videos/ckzd60dy746qo?at_medium=RSS&at_campaign=rss",
@@ -434,15 +425,6 @@
       "country_name": "Brazil"
     },
     {
-      "source": "BBC Asia",
-      "title": "Toxic algorithms wouldn't let them go - now Australia wants an off switch",
-      "url": "https://www.bbc.co.uk/news/articles/cwr7y8er1n8vo?at_medium=RSS&at_campaign=rss",
-      "summary": "The Australian government hopes to protect social media users from being served content they don't want to see.",
-      "published_at": "2026-10-16T18:11:29Z",
-      "country_code": "AU",
-      "country_name": "Australia"
-    },
-    {
       "source": "BBC Europe",
       "title": "Watch: Will Ukraine get the support needed as tensions with US rise?",
       "url": "https://www.bbc.co.uk/news/videos/cm2ke1v8e4geo?at_medium=RSS&at_campaign=rss",
@@ -479,7 +461,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Asia",
+      "source": "BBC Middle East",
       "title": "China tells Israel to stop 'forced establishment' of West Bank settlements",
       "url": "https://www.bbc.co.uk/news/articles/cq1j3wdxy48ro?at_medium=RSS&at_campaign=rss",
       "summary": "Chinese Foreign Minister Wang Yi spoke to Israeli President Isaac Herzog on the sidelines of a conference.",
@@ -744,7 +726,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 26
+      "news_count": 25
     },
     {
       "country_code": "FR",
@@ -762,11 +744,6 @@
       "news_count": 5
     },
     {
-      "country_code": "AU",
-      "country_name": "Australia",
-      "news_count": 4
-    },
-    {
       "country_code": "BR",
       "country_name": "Brazil",
       "news_count": 4
@@ -777,18 +754,23 @@
       "news_count": 4
     },
     {
+      "country_code": "IN",
+      "country_name": "India",
+      "news_count": 4
+    },
+    {
       "country_code": "KE",
       "country_name": "Kenya",
       "news_count": 4
     },
     {
-      "country_code": "GB",
-      "country_name": "United Kingdom",
+      "country_code": "AU",
+      "country_name": "Australia",
       "news_count": 3
     },
     {
-      "country_code": "IN",
-      "country_name": "India",
+      "country_code": "GB",
+      "country_name": "United Kingdom",
       "news_count": 3
     },
     {
@@ -814,11 +796,6 @@
     {
       "country_code": "CN",
       "country_name": "China",
-      "news_count": 1
-    },
-    {
-      "country_code": "ES",
-      "country_name": "Spain",
       "news_count": 1
     },
     {
