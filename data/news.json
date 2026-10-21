@@ -1,21 +1,30 @@
 {
-  "generated_at": "2026-10-21T10:47:28Z",
+  "generated_at": "2026-10-21T15:43:18Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "US citizen Stephen Hubbard freed by Russia as Trump envoy meets Putin",
+      "url": "https://www.bbc.co.uk/news/articles/c6m24l9v3745o?at_medium=RSS&at_campaign=rss",
+      "summary": "The 74-year-old former teacher, who was captured, has been released without any \"swap\" required, Trump says.",
+      "published_at": "2026-10-21T13:49:50Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Nigeria confirms Ebola case linked to East Africa",
+      "url": "https://www.bbc.co.uk/news/articles/cm2l4xw7xpjgo?at_medium=RSS&at_campaign=rss",
+      "summary": "The female patient, who sources have told the BBC is not Nigerian, is in isolation and in an Abuja hospital.",
+      "published_at": "2026-10-21T12:39:34Z",
+      "country_code": "NG",
+      "country_name": "Nigeria"
+    },
     {
       "source": "BBC Africa",
       "title": "Is Ebola under control in Kenya after nine cases confirmed?",
       "url": "https://www.bbc.co.uk/news/articles/c693z948px0jo?at_medium=RSS&at_campaign=rss",
       "summary": "The US has advised its citizens to reconsider travelling to Kenya but the government tries to reassure people.",
       "published_at": "2026-10-21T09:55:15Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "Russia frees US citizen Stephen Hubbard, state media reports",
-      "url": "https://www.bbc.co.uk/news/articles/c6m24l9v3745o?at_medium=RSS&at_campaign=rss",
-      "summary": "Stephen Hubbard has been taken to Pulkovo Airport, Putin said during talks with US envoy Steve Witkoff.",
-      "published_at": "2026-10-21T09:22:23Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -74,7 +83,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "Borneo burning: Life on the frontline of South East Asia's toxic haze",
       "url": "https://www.bbc.co.uk/news/articles/cqm2dzwdmmywo?at_medium=RSS&at_campaign=rss",
       "summary": "A \"Super El Niño\" has fuelled months-long fires in Indonesia, making hundreds of thousands of people sick.",
@@ -102,7 +111,7 @@
     },
     {
       "source": "BBC World",
-      "title": "Trump and Zelensky appear at loggerheads despite new optimism",
+      "title": "Trump and Zelensky at loggerheads despite new optimism",
       "url": "https://www.bbc.co.uk/news/articles/ckrey51jrgnro?at_medium=RSS&at_campaign=rss",
       "summary": "The Ukrainian leader's hug with Steve Witkoff in the Norwegian capital is unlikely to dispel misgivings about US policy towards his country,…",
       "published_at": "2026-10-20T20:00:57Z",
@@ -126,15 +135,6 @@
       "published_at": "2026-10-20T19:31:35Z",
       "country_code": "CA",
       "country_name": "Canada"
-    },
-    {
-      "source": "BBC Africa",
-      "title": "Nigeria confirms Ebola case linked to East Africa",
-      "url": "https://www.bbc.co.uk/news/articles/cm2l4xw7xpjgo?at_medium=RSS&at_campaign=rss",
-      "summary": "A female patient is in isolation and receiving medical care after being admitted to a hospital in Abuja.",
-      "published_at": "2026-10-20T19:11:15Z",
-      "country_code": "NG",
-      "country_name": "Nigeria"
     },
     {
       "source": "BBC World",
@@ -227,15 +227,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
-      "title": "Deadly fire at Canada military base moved a kilometre 'in 30 to 60 seconds'",
-      "url": "https://www.bbc.co.uk/news/articles/ckj0ly6qnp1lo?at_medium=RSS&at_campaign=rss",
-      "summary": "The blaze that killed four men and injured dozens of others spread with alarming speed, accounts suggest.",
-      "published_at": "2026-10-20T01:52:43Z",
-      "country_code": "CA",
-      "country_name": "Canada"
-    },
-    {
       "source": "BBC US & Canada",
       "title": "US church on front line of battle against drug known as 'tranq'",
       "url": "https://www.bbc.co.uk/news/videos/cqd097z3epvno?at_medium=RSS&at_campaign=rss",
@@ -317,15 +308,6 @@
       "country_name": "Brazil"
     },
     {
-      "source": "BBC Europe",
-      "title": "Italy plans tougher security measures after violent protests",
-      "url": "https://www.bbc.co.uk/news/articles/c6j9kwxxmxydo?at_medium=RSS&at_campaign=rss",
-      "summary": "The government crackdown comes after protests over rising costs broke out into violent clashes.",
-      "published_at": "2026-10-19T11:23:36Z",
-      "country_code": "IT",
-      "country_name": "Italy"
-    },
-    {
       "source": "BBC Middle East",
       "title": "Israeli police arrest 10 over settler attacks on journalist and diplomats in West Bank",
       "url": "https://www.bbc.co.uk/news/articles/cqn7323p0dxyo?at_medium=RSS&at_campaign=rss",
@@ -362,7 +344,7 @@
       "country_name": "France"
     },
     {
-      "source": "BBC Europe",
+      "source": "BBC Middle East",
       "title": "Bomb threat forces Israel to Austria flight into emergency landing",
       "url": "https://www.bbc.co.uk/news/articles/c680zdmn100lo?at_medium=RSS&at_campaign=rss",
       "summary": "The Airbus jet landed safely in Bulgaria and all passengers and crew aboard were unharmed, officials said.",
@@ -800,11 +782,6 @@
       "news_count": 4
     },
     {
-      "country_code": "CA",
-      "country_name": "Canada",
-      "news_count": 3
-    },
-    {
       "country_code": "GB",
       "country_name": "United Kingdom",
       "news_count": 3
@@ -813,6 +790,11 @@
       "country_code": "IN",
       "country_name": "India",
       "news_count": 3
+    },
+    {
+      "country_code": "CA",
+      "country_name": "Canada",
+      "news_count": 2
     },
     {
       "country_code": "NG",
@@ -847,11 +829,6 @@
     {
       "country_code": "IR",
       "country_name": "Iran",
-      "news_count": 1
-    },
-    {
-      "country_code": "IT",
-      "country_name": "Italy",
       "news_count": 1
     },
     {
