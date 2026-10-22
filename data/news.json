@@ -1,18 +1,45 @@
 {
-  "generated_at": "2026-10-22T20:39:27Z",
+  "generated_at": "2026-10-22T23:45:35Z",
   "articles": [
     {
+      "source": "BBC World",
+      "title": "Hospitals deliberately targeted by Sudan's RSF fighters, BBC investigation finds",
+      "url": "https://www.bbc.co.uk/news/articles/c54g1kxw4nvvo?at_medium=RSS&at_campaign=rss",
+      "summary": "The UN human rights chief Volker Türk says the multiple attacks may amount to war crimes.",
+      "published_at": "2026-10-22T23:16:16Z",
+      "country_code": "SD",
+      "country_name": "Sudan"
+    },
+    {
+      "source": "BBC World",
+      "title": "L'Oreal says weight loss drugs are impacting beauty and skin care sales",
+      "url": "https://www.bbc.co.uk/news/articles/cvglwgwpgrlpo?at_medium=RSS&at_campaign=rss",
+      "summary": "The beauty giant's CEO says the use of GLP-1s is \"a very important phenomenon for us\".",
+      "published_at": "2026-10-22T22:27:53Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Trump says Musk has restored access to Ukraine's Starlink network",
+      "url": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss",
+      "summary": "Ukraine relies on Starlink for a range of military uses - its owner Elon Musk has repeatedly denied restricting access.",
+      "published_at": "2026-10-22T21:42:39Z",
+      "country_code": "UA",
+      "country_name": "Ukraine"
+    },
+    {
       "source": "BBC US & Canada",
-      "title": "US actor Tom Skerritt, who starred in Picket Fences, Mash and Alien, dies aged 93",
+      "title": "US actor Tom Skerritt, who starred in Top Gun, Steel Magnolias and Alien, dies aged 93",
       "url": "https://www.bbc.co.uk/news/articles/cqrkyly2p54xo?at_medium=RSS&at_campaign=rss",
-      "summary": "The actor died on Wednesday of natural causes, his family said.",
-      "published_at": "2026-10-22T20:33:31Z",
+      "summary": "The moustachioed star of several 20th century hit films died on Wednesday of natural causes, his family said.",
+      "published_at": "2026-10-22T21:10:36Z",
       "country_code": "US",
       "country_name": "United States"
     },
     {
       "source": "BBC US & Canada",
-      "title": "Trump says NBA star LeBron James disrespected US anthem and demands apology",
+      "title": "Trump says NBA star LeBron James 'disrespected' US anthem",
       "url": "https://www.bbc.co.uk/news/articles/cv8ezy37rgz6o?at_medium=RSS&at_campaign=rss",
       "summary": "The basketball star recently appeared to be practising a golf swing and basketball shots while the national anthem was performed.",
       "published_at": "2026-10-22T20:04:27Z",
@@ -128,22 +155,13 @@
       "country_name": "Israel"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "No order, no seat: Starbucks China rolls out new store policy",
       "url": "https://www.bbc.co.uk/news/articles/ckzd6rjmlzvmo?at_medium=RSS&at_campaign=rss",
       "summary": "Starbucks says it is improving customers' in-store experience as it competes with homegrown rivals.",
       "published_at": "2026-10-22T04:02:29Z",
       "country_code": "CN",
       "country_name": "China"
-    },
-    {
-      "source": "BBC World",
-      "title": "US embassy accuses Canada of election meddling ahead of midterms",
-      "url": "https://www.bbc.co.uk/news/articles/cmn06g29522lo?at_medium=RSS&at_campaign=rss",
-      "summary": "Prime Minister Mark Carney dismissed the claim, noting that US initiated trade actions against Canada.",
-      "published_at": "2026-10-22T03:05:28Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC Middle East",
@@ -171,15 +189,6 @@
       "published_at": "2026-10-21T23:06:37Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "New Mexico sues Epstein lawyer and accountant, accusing them of hiding his sex crimes",
-      "url": "https://www.bbc.co.uk/news/articles/cqx287g8714lo?at_medium=RSS&at_campaign=rss",
-      "summary": "Both men have denied having any knowledge of Epstein's crimes and their attorney rejected the lawsuit as \"categorically false\".",
-      "published_at": "2026-10-21T22:20:22Z",
-      "country_code": "MX",
-      "country_name": "Mexico"
     },
     {
       "source": "BBC Asia",
@@ -533,15 +542,6 @@
       "country_name": "Russia"
     },
     {
-      "source": "BBC US & Canada",
-      "title": "Inside Chicago's battle against the synthetic drugs flooding the US",
-      "url": "https://www.bbc.co.uk/news/videos/c84g166kz003o?at_medium=RSS&at_campaign=rss",
-      "summary": "The BBC's Quentin Sommerville reports from Chicago, where communities are battling a new wave of synthetic drugs.",
-      "published_at": "2026-10-18T21:00:22Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC Middle East",
       "title": "European diplomats attacked by Israeli settlers in West Bank",
       "url": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss",
@@ -762,7 +762,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 26
+      "news_count": 25
     },
     {
       "country_code": "FR",
@@ -825,11 +825,6 @@
       "news_count": 2
     },
     {
-      "country_code": "MX",
-      "country_name": "Mexico",
-      "news_count": 2
-    },
-    {
       "country_code": "NG",
       "country_name": "Nigeria",
       "news_count": 2
@@ -837,6 +832,11 @@
     {
       "country_code": "SA",
       "country_name": "Saudi Arabia",
+      "news_count": 2
+    },
+    {
+      "country_code": "SD",
+      "country_name": "Sudan",
       "news_count": 2
     },
     {
@@ -875,8 +875,13 @@
       "news_count": 1
     },
     {
-      "country_code": "SD",
-      "country_name": "Sudan",
+      "country_code": "MX",
+      "country_name": "Mexico",
+      "news_count": 1
+    },
+    {
+      "country_code": "UA",
+      "country_name": "Ukraine",
       "news_count": 1
     }
   ]
