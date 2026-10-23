@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-10-22T23:45:35Z",
+  "generated_at": "2026-10-23T02:27:47Z",
   "articles": [
+    {
+      "source": "BBC Asia",
+      "title": "Powerful earthquake hits Tibet killing 16 people, reports say",
+      "url": "https://www.bbc.co.uk/news/articles/ck5ynd1z6e83o?at_medium=RSS&at_campaign=rss",
+      "summary": "The quake hit a mountainous, sparsely-populated area in what China calls the Tibet Autonomous Region.",
+      "published_at": "2026-10-23T00:25:30Z",
+      "country_code": "CN",
+      "country_name": "China"
+    },
     {
       "source": "BBC World",
       "title": "Hospitals deliberately targeted by Sudan's RSF fighters, BBC investigation finds",
@@ -32,7 +41,7 @@
       "source": "BBC US & Canada",
       "title": "US actor Tom Skerritt, who starred in Top Gun, Steel Magnolias and Alien, dies aged 93",
       "url": "https://www.bbc.co.uk/news/articles/cqrkyly2p54xo?at_medium=RSS&at_campaign=rss",
-      "summary": "The moustachioed star of several 20th century hit films died on Wednesday of natural causes, his family said.",
+      "summary": "The moustachioed star of several 20th Century hit films died on Wednesday of natural causes, his family said.",
       "published_at": "2026-10-22T21:10:36Z",
       "country_code": "US",
       "country_name": "United States"
@@ -191,7 +200,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Asia",
+      "source": "BBC World",
       "title": "Why is a peat fire so bad? BBC is in Indonesia to find out",
       "url": "https://www.bbc.co.uk/news/videos/cmx2302xe931o?at_medium=RSS&at_campaign=rss",
       "summary": "The BBC's Liza Tambunan is in central Kalimantan, to explain what peat is and why Indonesia is facing its worst wildfire season in a decade.",
@@ -815,6 +824,11 @@
       "news_count": 2
     },
     {
+      "country_code": "CN",
+      "country_name": "China",
+      "news_count": 2
+    },
+    {
       "country_code": "ID",
       "country_name": "Indonesia",
       "news_count": 2
@@ -842,11 +856,6 @@
     {
       "country_code": "BD",
       "country_name": "Bangladesh",
-      "news_count": 1
-    },
-    {
-      "country_code": "CN",
-      "country_name": "China",
       "news_count": 1
     },
     {
