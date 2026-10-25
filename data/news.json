@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-10-25T21:05:05Z",
+  "generated_at": "2026-10-25T23:23:24Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Deeply divided Israel braces for pivotal election",
+      "url": "https://www.bbc.co.uk/news/articles/ckpdgy6pl7xlo?at_medium=RSS&at_campaign=rss",
+      "summary": "After three years of regional war, this is a battle Israel always knew was coming, writes Lucy Williamson.",
+      "published_at": "2026-10-25T22:11:13Z",
+      "country_code": "IL",
+      "country_name": "Israel"
+    },
+    {
+      "source": "BBC World",
+      "title": "Why Israel's election is one of the most important in its history",
+      "url": "https://www.bbc.co.uk/news/videos/c64g1wje3jjwo?at_medium=RSS&at_campaign=rss",
+      "summary": "Security and democracy emerge as central issues in Israel's highly anticipated general election, as Middle East correspondent Lucy Williamso…",
+      "published_at": "2026-10-25T22:05:30Z",
+      "country_code": "IL",
+      "country_name": "Israel"
+    },
     {
       "source": "BBC World",
       "title": "Death toll in Nigeria village raided by gunmen rises to 48, police say",
@@ -416,24 +434,6 @@
       "country_name": "France"
     },
     {
-      "source": "BBC Asia",
-      "title": "Celebrity shark guided out of South Korea canal refuses to swim out to sea",
-      "url": "https://www.bbc.co.uk/news/articles/cr3wv99614deo?at_medium=RSS&at_campaign=rss",
-      "summary": "Bukangi the shark became an unlikely sensation after it was spotted in a canal in Busan weeks ago.",
-      "published_at": "2026-10-22T10:16:35Z",
-      "country_code": "KR",
-      "country_name": "South Korea"
-    },
-    {
-      "source": "BBC Asia",
-      "title": "No order, no seat: Starbucks China rolls out new store policy",
-      "url": "https://www.bbc.co.uk/news/articles/ckzd6rjmlzvmo?at_medium=RSS&at_campaign=rss",
-      "summary": "Starbucks says it is improving customers' in-store experience as it competes with homegrown rivals.",
-      "published_at": "2026-10-22T04:02:29Z",
-      "country_code": "CN",
-      "country_name": "China"
-    },
-    {
       "source": "BBC Middle East",
       "title": "US orders some diplomats to leave Saudi Arabia as Houthi attacks escalate",
       "url": "https://www.bbc.co.uk/news/articles/c6x2vpk93770o?at_medium=RSS&at_campaign=rss",
@@ -750,15 +750,6 @@
     },
     {
       "source": "BBC Middle East",
-      "title": "Watch: Why was the sign at the British consulate in East Jerusalem removed?",
-      "url": "https://www.bbc.co.uk/news/videos/c962yz01l7mmo?at_medium=RSS&at_campaign=rss",
-      "summary": "The consulate, first established in 1838, was set to be closed by the Israeli government in retaliation for UK sanctions.",
-      "published_at": "2026-10-08T12:01:55Z",
-      "country_code": "GB",
-      "country_name": "United Kingdom"
-    },
-    {
-      "source": "BBC Middle East",
       "title": "'Every day there is killing': Gazans face Israeli strikes despite ceasefire as peace deal stalls",
       "url": "https://www.bbc.co.uk/news/articles/cmx2qlz7qrd4o?at_medium=RSS&at_campaign=rss",
       "summary": "Many Palestinians are still living in cramped tent cities, with the US plan to end the war largely stalled.",
@@ -826,7 +817,7 @@
     {
       "country_code": "IL",
       "country_name": "Israel",
-      "news_count": 6
+      "news_count": 8
     },
     {
       "country_code": "BR",
@@ -842,11 +833,6 @@
       "country_code": "KE",
       "country_name": "Kenya",
       "news_count": 4
-    },
-    {
-      "country_code": "GB",
-      "country_name": "United Kingdom",
-      "news_count": 3
     },
     {
       "country_code": "NG",
@@ -869,8 +855,8 @@
       "news_count": 2
     },
     {
-      "country_code": "CN",
-      "country_name": "China",
+      "country_code": "GB",
+      "country_name": "United Kingdom",
       "news_count": 2
     },
     {
@@ -909,6 +895,11 @@
       "news_count": 1
     },
     {
+      "country_code": "CN",
+      "country_name": "China",
+      "news_count": 1
+    },
+    {
       "country_code": "DE",
       "country_name": "Germany",
       "news_count": 1
@@ -931,11 +922,6 @@
     {
       "country_code": "KP",
       "country_name": "North Korea",
-      "news_count": 1
-    },
-    {
-      "country_code": "KR",
-      "country_name": "South Korea",
       "news_count": 1
     },
     {
