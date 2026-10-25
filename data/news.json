@@ -1,23 +1,32 @@
 {
-  "generated_at": "2026-10-25T15:13:15Z",
+  "generated_at": "2026-10-25T18:29:11Z",
   "articles": [
     {
-      "source": "BBC World",
-      "title": "Russia to host first Olympic federation world event since Ukraine invasion",
-      "url": "https://www.bbc.co.uk/sport/olympics/articles/cmq5ny00gzy0o?at_medium=RSS&at_campaign=rss",
-      "summary": "The International Weightlifting Federation becomes the first Olympic federation to choose Russia to host a world championships since its inv…",
-      "published_at": "2026-10-25T14:34:33Z",
-      "country_code": "RU",
-      "country_name": "Russia"
+      "source": "BBC Middle East",
+      "title": "How do Israel's elections work and who are the main contenders?",
+      "url": "https://www.bbc.co.uk/news/articles/cx8dz75633vjo?at_medium=RSS&at_campaign=rss",
+      "summary": "Israel heads to the polls on Tuesday for what many view as one of the most pivotal elections in the country's history.",
+      "published_at": "2026-10-25T17:13:51Z",
+      "country_code": "IL",
+      "country_name": "Israel"
     },
     {
       "source": "BBC World",
-      "title": "Voters in Brazil head to polls as Lula goes up against Bolsonaro's son",
-      "url": "https://www.bbc.co.uk/news/articles/cxp8g21j4648o?at_medium=RSS&at_campaign=rss",
-      "summary": "Flávio Bolsonaro, the son of Brazil's imprisoned ex-president, is challenging Lula, who is seeking a fourth term in office.",
-      "published_at": "2026-10-25T11:54:16Z",
-      "country_code": "BR",
-      "country_name": "Brazil"
+      "title": "Venezuelan opposition leader María Machado returns after months in exile",
+      "url": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
+      "summary": "Machado had left the country just a month before the US government seized Venezuelan President Nicolás Maduro.",
+      "published_at": "2026-10-25T16:21:40Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Suspect in deadly Paris suburb shooting sent for psychiatric observation",
+      "url": "https://www.bbc.co.uk/news/articles/c6e3xek2457wo?at_medium=RSS&at_campaign=rss",
+      "summary": "He will be observed to evaluate whether his \"psychiatric health is compatible with pursuing his interrogation\", authorities said.",
+      "published_at": "2026-10-25T15:32:51Z",
+      "country_code": "FR",
+      "country_name": "France"
     },
     {
       "source": "BBC Latin America",
@@ -416,15 +425,6 @@
       "country_name": "South Korea"
     },
     {
-      "source": "BBC Middle East",
-      "title": "How do Israel's elections work and who are the main contenders?",
-      "url": "https://www.bbc.co.uk/news/articles/cx8dz75633vjo?at_medium=RSS&at_campaign=rss",
-      "summary": "Many view it as one of the most pivotal elections in Israel's history, with global implications.",
-      "published_at": "2026-10-22T09:27:10Z",
-      "country_code": "IL",
-      "country_name": "Israel"
-    },
-    {
       "source": "BBC Asia",
       "title": "No order, no seat: Starbucks China rolls out new store policy",
       "url": "https://www.bbc.co.uk/news/articles/ckzd6rjmlzvmo?at_medium=RSS&at_campaign=rss",
@@ -816,17 +816,12 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 22
+      "news_count": 23
     },
     {
       "country_code": "FR",
       "country_name": "France",
-      "news_count": 11
-    },
-    {
-      "country_code": "BR",
-      "country_name": "Brazil",
-      "news_count": 6
+      "news_count": 12
     },
     {
       "country_code": "IL",
@@ -834,9 +829,14 @@
       "news_count": 6
     },
     {
+      "country_code": "BR",
+      "country_name": "Brazil",
+      "news_count": 5
+    },
+    {
       "country_code": "RU",
       "country_name": "Russia",
-      "news_count": 6
+      "news_count": 5
     },
     {
       "country_code": "KE",
