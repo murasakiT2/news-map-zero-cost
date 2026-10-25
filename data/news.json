@@ -1,21 +1,30 @@
 {
-  "generated_at": "2026-10-25T11:51:16Z",
+  "generated_at": "2026-10-25T15:13:15Z",
   "articles": [
     {
-      "source": "BBC Latin America",
-      "title": "What to know about Brazil's run-off as Lula and Flávio Bolsonaro face off",
-      "url": "https://www.bbc.co.uk/news/articles/c6wyz0r2n0djo?at_medium=RSS&at_campaign=rss",
-      "summary": "Four years after narrowly defeating Jair Bolsonaro, President Lula now faces his son Flávio in a presidential run-off.",
-      "published_at": "2026-10-25T11:17:03Z",
-      "country_code": "BR",
-      "country_name": "Brazil"
+      "source": "BBC World",
+      "title": "Russia to host first Olympic federation world event since Ukraine invasion",
+      "url": "https://www.bbc.co.uk/sport/olympics/articles/cmq5ny00gzy0o?at_medium=RSS&at_campaign=rss",
+      "summary": "The International Weightlifting Federation becomes the first Olympic federation to choose Russia to host a world championships since its inv…",
+      "published_at": "2026-10-25T14:34:33Z",
+      "country_code": "RU",
+      "country_name": "Russia"
     },
     {
       "source": "BBC World",
       "title": "Voters in Brazil head to polls as Lula goes up against Bolsonaro's son",
       "url": "https://www.bbc.co.uk/news/articles/cxp8g21j4648o?at_medium=RSS&at_campaign=rss",
       "summary": "Flávio Bolsonaro, the son of Brazil's imprisoned ex-president, is challenging Lula, who is seeking a fourth term in office.",
-      "published_at": "2026-10-25T11:00:26Z",
+      "published_at": "2026-10-25T11:54:16Z",
+      "country_code": "BR",
+      "country_name": "Brazil"
+    },
+    {
+      "source": "BBC Latin America",
+      "title": "What to know about Brazil's run-off as Lula and Flávio Bolsonaro face off",
+      "url": "https://www.bbc.co.uk/news/articles/c6wyz0r2n0djo?at_medium=RSS&at_campaign=rss",
+      "summary": "Four years after narrowly defeating Jair Bolsonaro, President Lula now faces his son Flávio in a presidential run-off.",
+      "published_at": "2026-10-25T11:17:03Z",
       "country_code": "BR",
       "country_name": "Brazil"
     },
@@ -135,15 +144,6 @@
       "published_at": "2026-10-24T15:21:44Z",
       "country_code": "DE",
       "country_name": "Germany"
-    },
-    {
-      "source": "BBC Europe",
-      "title": "Ukraine says Starlink connection 'now stable' after network limits",
-      "url": "https://www.bbc.co.uk/news/articles/cwkg5md14j8go?at_medium=RSS&at_campaign=rss",
-      "summary": "The slowed Starlink connections had affected the Ukraine's military and drone operations for a week.",
-      "published_at": "2026-10-24T12:12:40Z",
-      "country_code": "UA",
-      "country_name": "Ukraine"
     },
     {
       "source": "BBC World",
@@ -704,15 +704,6 @@
       "country_name": "Kenya"
     },
     {
-      "source": "BBC Africa",
-      "title": "A 'landmark' moment - why has Rwanda been chosen to host F1?",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/cw62yglre6y5o?at_medium=RSS&at_campaign=rss",
-      "summary": "How Rwanda has succeeded where Morocco and South Africa, among others, have failed by agreeing a deal to stage the African Grand Prix.",
-      "published_at": "2026-10-13T15:01:17Z",
-      "country_code": "ZA",
-      "country_name": "South Africa"
-    },
-    {
       "source": "BBC Middle East",
       "title": "Why is it so hard to fight the Houthis?",
       "url": "https://www.bbc.co.uk/news/videos/cmy56nzd6y69o?at_medium=RSS&at_campaign=rss",
@@ -813,15 +804,6 @@
     },
     {
       "source": "BBC Africa",
-      "title": "Making politics 'fun, trendy, sexy': How Gen Z could shape Kenya's next election",
-      "url": "https://www.bbc.co.uk/news/articles/cwly7v7kk17mo?at_medium=RSS&at_campaign=rss",
-      "summary": "A voter mobilisation campaign has registered huge numbers of young people but it is not clear who they are backing.",
-      "published_at": "2026-10-01T23:46:12Z",
-      "country_code": "KE",
-      "country_name": "Kenya"
-    },
-    {
-      "source": "BBC Africa",
       "title": "Dangote: 'Nobody can make Africa great but us'",
       "url": "https://www.bbc.co.uk/news/videos/c893v3l7l1p0o?at_medium=RSS&at_campaign=rss",
       "summary": "Africa's richest man says Africans should take the fate of their continent in their own hands, rather than relying on foreigners.",
@@ -852,18 +834,13 @@
       "news_count": 6
     },
     {
-      "country_code": "KE",
-      "country_name": "Kenya",
-      "news_count": 5
-    },
-    {
       "country_code": "RU",
       "country_name": "Russia",
-      "news_count": 5
+      "news_count": 6
     },
     {
-      "country_code": "UA",
-      "country_name": "Ukraine",
+      "country_code": "KE",
+      "country_name": "Kenya",
       "news_count": 4
     },
     {
@@ -882,8 +859,8 @@
       "news_count": 3
     },
     {
-      "country_code": "ZA",
-      "country_name": "South Africa",
+      "country_code": "UA",
+      "country_name": "Ukraine",
       "news_count": 3
     },
     {
@@ -904,6 +881,11 @@
     {
       "country_code": "SA",
       "country_name": "Saudi Arabia",
+      "news_count": 2
+    },
+    {
+      "country_code": "ZA",
+      "country_name": "South Africa",
       "news_count": 2
     },
     {
