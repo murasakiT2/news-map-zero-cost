@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-10-25T23:23:24Z",
+  "generated_at": "2026-10-26T01:24:57Z",
   "articles": [
+    {
+      "source": "BBC Latin America",
+      "title": "Lula wins fourth term in Brazil but faces hostile Congress and divided country",
+      "url": "https://www.bbc.co.uk/news/articles/cmvg7p001qj9o?at_medium=RSS&at_campaign=rss",
+      "summary": "President Lula has pulled of a surprise win, but he will face a hostile Congress and a polarised country.",
+      "published_at": "2026-10-26T00:45:10Z",
+      "country_code": "BR",
+      "country_name": "Brazil"
+    },
+    {
+      "source": "BBC World",
+      "title": "Venezuelan opposition leader María Machado returns after months in exile",
+      "url": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
+      "summary": "Machado had left the country just a month before the US government seized Venezuelan President Nicolás Maduro.",
+      "published_at": "2026-10-25T23:33:14Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "Deeply divided Israel braces for pivotal election",
@@ -27,15 +45,6 @@
       "published_at": "2026-10-25T19:14:27Z",
       "country_code": "NG",
       "country_name": "Nigeria"
-    },
-    {
-      "source": "BBC World",
-      "title": "Venezuelan opposition leader María Machado returns after months in exile",
-      "url": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
-      "summary": "Machado had left the country just a month before the US government seized Venezuelan President Nicolás Maduro.",
-      "published_at": "2026-10-25T18:29:00Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC Middle East",
@@ -299,15 +308,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC US & Canada",
-      "title": "US justice department investigating Corey Lewandowski over DHS role",
-      "url": "https://www.bbc.co.uk/news/articles/c6ly0dg453v8o?at_medium=RSS&at_campaign=rss",
-      "summary": "Trump's former campaign manager is reportedly being investigated for allegedly using his role at the Department of Homeland for financial ga…",
-      "published_at": "2026-10-23T14:58:19Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC Africa",
       "title": "Hospitals deliberately targeted by Sudan's RSF fighters, BBC finds",
       "url": "https://www.bbc.co.uk/news/articles/c54g1kxw4nvvo?at_medium=RSS&at_campaign=rss",
@@ -360,15 +360,6 @@
       "published_at": "2026-10-22T23:16:20Z",
       "country_code": "RU",
       "country_name": "Russia"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "L'Oreal says weight loss drugs are impacting beauty and skincare sales",
-      "url": "https://www.bbc.co.uk/news/articles/cvglwgwpgrlpo?at_medium=RSS&at_campaign=rss",
-      "summary": "The beauty giant's CEO says the use of GLP-1s is \"a very important phenomenon for us\".",
-      "published_at": "2026-10-22T22:27:53Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC Europe",
@@ -807,7 +798,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 23
+      "news_count": 21
     },
     {
       "country_code": "FR",
@@ -822,7 +813,7 @@
     {
       "country_code": "BR",
       "country_name": "Brazil",
-      "news_count": 5
+      "news_count": 6
     },
     {
       "country_code": "RU",
