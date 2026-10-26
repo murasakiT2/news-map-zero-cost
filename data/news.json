@@ -1,23 +1,41 @@
 {
-  "generated_at": "2026-10-26T01:24:57Z",
+  "generated_at": "2026-10-26T06:33:00Z",
   "articles": [
-    {
-      "source": "BBC Latin America",
-      "title": "Lula wins fourth term in Brazil but faces hostile Congress and divided country",
-      "url": "https://www.bbc.co.uk/news/articles/cmvg7p001qj9o?at_medium=RSS&at_campaign=rss",
-      "summary": "President Lula has pulled of a surprise win, but he will face a hostile Congress and a polarised country.",
-      "published_at": "2026-10-26T00:45:10Z",
-      "country_code": "BR",
-      "country_name": "Brazil"
-    },
     {
       "source": "BBC World",
       "title": "Venezuelan opposition leader María Machado returns after months in exile",
       "url": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
       "summary": "Machado had left the country just a month before the US government seized Venezuelan President Nicolás Maduro.",
-      "published_at": "2026-10-25T23:33:14Z",
+      "published_at": "2026-10-26T05:20:19Z",
       "country_code": "US",
       "country_name": "United States"
+    },
+    {
+      "source": "BBC Latin America",
+      "title": "Lula wins in Brazil but faces hostile Congress and divided country",
+      "url": "https://www.bbc.co.uk/news/articles/cmvg7p001qj9o?at_medium=RSS&at_campaign=rss",
+      "summary": "President Lula has pulled of a surprise win, but he will face a hostile Congress and a polarised country.",
+      "published_at": "2026-10-26T03:55:13Z",
+      "country_code": "BR",
+      "country_name": "Brazil"
+    },
+    {
+      "source": "BBC Asia",
+      "title": "Forty Iranian sailors rescued off Sri Lanka coast after medical emergencies",
+      "url": "https://www.bbc.co.uk/news/articles/c9p8g7e4k2xjo?at_medium=RSS&at_campaign=rss",
+      "summary": "The sailors received medical treatment before being flown back to Iran, Sri Lanka authorities said.",
+      "published_at": "2026-10-26T03:47:28Z",
+      "country_code": "IR",
+      "country_name": "Iran"
+    },
+    {
+      "source": "BBC World",
+      "title": "Watch: How President Lula turned it around to beat Flávio Bolsonaro",
+      "url": "https://www.bbc.co.uk/news/videos/cmp8g0x4l11yo?at_medium=RSS&at_campaign=rss",
+      "summary": "Brazil's left-wing President has been elected for a fourth term after narrowly beating right-wing Flávio Bolsonaro in a knife-edge vote.",
+      "published_at": "2026-10-26T02:53:00Z",
+      "country_code": "BR",
+      "country_name": "Brazil"
     },
     {
       "source": "BBC World",
@@ -65,6 +83,15 @@
       "country_name": "France"
     },
     {
+      "source": "BBC World",
+      "title": "Russia to host first Olympic federation world event since Ukraine invasion",
+      "url": "https://www.bbc.co.uk/sport/olympics/articles/cmq5ny00gzy0o?at_medium=RSS&at_campaign=rss",
+      "summary": "The International Weightlifting Federation becomes the first Olympic federation to choose Russia to host a world championships since its inv…",
+      "published_at": "2026-10-25T14:34:33Z",
+      "country_code": "RU",
+      "country_name": "Russia"
+    },
+    {
       "source": "BBC Latin America",
       "title": "What to know about Brazil's run-off as Lula and Flávio Bolsonaro face off",
       "url": "https://www.bbc.co.uk/news/articles/c6wyz0r2n0djo?at_medium=RSS&at_campaign=rss",
@@ -93,15 +120,6 @@
     },
     {
       "source": "BBC World",
-      "title": "Why is Ukraine so reliant on Starlink and can Europe plug the gap?",
-      "url": "https://www.bbc.co.uk/news/articles/c65yn97xe7ypo?at_medium=RSS&at_campaign=rss",
-      "summary": "Ukraine needs another satellite internet service, but a decent alternative to Elon Musk's network doesn't exist - yet.",
-      "published_at": "2026-10-25T05:45:31Z",
-      "country_code": "UA",
-      "country_name": "Ukraine"
-    },
-    {
-      "source": "BBC World",
       "title": "Israel to close West Bank crossings on election day as crackdown escalates",
       "url": "https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o?at_medium=RSS&at_campaign=rss",
       "summary": "The Israeli Defense Forces announces restrictions on the movement of Palestinian workers in the run-up to Tuesday's election.",
@@ -110,7 +128,7 @@
       "country_name": "Israel"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Middle East",
       "title": "The bitter row over military service that could shape Israel's future",
       "url": "https://www.bbc.co.uk/news/articles/cmvg7w0x742do?at_medium=RSS&at_campaign=rss",
       "summary": "The ultra-Orthodox community is resisting being drafted into the Israeli army. But will they now bring down the Netanyahu government?",
@@ -137,7 +155,7 @@
       "country_name": "Israel"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Latin America",
       "title": "Who are the candidates in Brazil's presidential election?",
       "url": "https://www.bbc.co.uk/news/videos/cm0e0del4jewo?at_medium=RSS&at_campaign=rss",
       "summary": "Voters in Sunday's election are choosing between two very different candidates, as Americas correspondent Ione Wells reports from Rio de Jan…",
@@ -813,12 +831,12 @@
     {
       "country_code": "BR",
       "country_name": "Brazil",
-      "news_count": 6
+      "news_count": 7
     },
     {
       "country_code": "RU",
       "country_name": "Russia",
-      "news_count": 5
+      "news_count": 6
     },
     {
       "country_code": "KE",
@@ -833,11 +851,6 @@
     {
       "country_code": "PS",
       "country_name": "Palestine",
-      "news_count": 3
-    },
-    {
-      "country_code": "UA",
-      "country_name": "Ukraine",
       "news_count": 3
     },
     {
@@ -856,8 +869,18 @@
       "news_count": 2
     },
     {
+      "country_code": "IR",
+      "country_name": "Iran",
+      "news_count": 2
+    },
+    {
       "country_code": "SA",
       "country_name": "Saudi Arabia",
+      "news_count": 2
+    },
+    {
+      "country_code": "UA",
+      "country_name": "Ukraine",
       "news_count": 2
     },
     {
@@ -898,11 +921,6 @@
     {
       "country_code": "IN",
       "country_name": "India",
-      "news_count": 1
-    },
-    {
-      "country_code": "IR",
-      "country_name": "Iran",
       "news_count": 1
     },
     {
