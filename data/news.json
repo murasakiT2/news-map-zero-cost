@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-26T19:38:28Z",
+  "generated_at": "2026-10-26T23:26:43Z",
   "articles": [
     {
       "source": "BBC World",
       "title": "Lula wins fourth term in dramatic Brazil election comeback",
       "url": "https://www.bbc.co.uk/news/articles/ckm23y3mg1yyo?at_medium=RSS&at_campaign=rss",
       "summary": "The left-wing incumbent president had lost the first round to right-wing challenger Flávio Bolsonaro.",
-      "published_at": "2026-10-26T18:26:19Z",
+      "published_at": "2026-10-26T21:02:47Z",
       "country_code": "BR",
       "country_name": "Brazil"
     },
@@ -135,6 +135,15 @@
       "published_at": "2026-10-26T02:53:00Z",
       "country_code": "BR",
       "country_name": "Brazil"
+    },
+    {
+      "source": "BBC Asia",
+      "title": "India's cartoonists built an audience online - now their posts are being restricted",
+      "url": "https://www.bbc.co.uk/news/articles/cm3elp3v7jkdo?at_medium=RSS&at_campaign=rss",
+      "summary": "Indian cartoonists say online restrictions are making satire harder, but they aren't giving up.",
+      "published_at": "2026-10-26T01:09:41Z",
+      "country_code": "IN",
+      "country_name": "India"
     },
     {
       "source": "BBC Europe",
@@ -471,15 +480,6 @@
     },
     {
       "source": "BBC Asia",
-      "title": "Why is a peat fire so bad? BBC is in Indonesia to find out",
-      "url": "https://www.bbc.co.uk/news/videos/cmx2302xe931o?at_medium=RSS&at_campaign=rss",
-      "summary": "The BBC's Liza Tambunan is in central Kalimantan, to explain what peat is and why Indonesia is facing its worst wildfire season in a decade.",
-      "published_at": "2026-10-21T22:02:18Z",
-      "country_code": "ID",
-      "country_name": "Indonesia"
-    },
-    {
-      "source": "BBC Asia",
       "title": "Japan is known for world-class events - but the Asian Games were chaotic",
       "url": "https://www.bbc.co.uk/news/articles/cvze414811jlo?at_medium=RSS&at_campaign=rss",
       "summary": "Hotel chaos, transport mishaps and diplomatic blunders cast a spotlight on organisers and the firm hired to deliver the games.",
@@ -533,38 +533,11 @@
       "country_name": "France"
     },
     {
-      "source": "BBC Asia",
-      "title": "Billionaire Mukesh Ambani's Jio launches India's biggest share sale",
-      "url": "https://www.bbc.co.uk/news/articles/ck7vp17z7jv3o?at_medium=RSS&at_campaign=rss",
-      "summary": "India's second mega IPO in a month comes despite subdued equity markets and aims to raise $3.2bn.",
-      "published_at": "2026-10-21T05:16:44Z",
-      "country_code": "IN",
-      "country_name": "India"
-    },
-    {
       "source": "BBC Latin America",
       "title": "Haitian migrants changed this US town - Trump's deportation drive is reshaping it again",
       "url": "https://www.bbc.co.uk/news/articles/crp3gvpek8njo?at_medium=RSS&at_campaign=rss",
       "summary": "The president thrust Springfield, Ohio, into the spotlight with a false pet-eating claim - years later, it remains at the heart of the immig…",
       "published_at": "2026-10-21T02:37:13Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC Asia",
-      "title": "Borneo burning: Life on the frontline of South East Asia's toxic haze",
-      "url": "https://www.bbc.co.uk/news/articles/cqm2dzwdmmywo?at_medium=RSS&at_campaign=rss",
-      "summary": "A \"Super El Niño\" has fuelled months-long fires in Indonesia, making hundreds of thousands of people sick.",
-      "published_at": "2026-10-20T23:51:43Z",
-      "country_code": "ID",
-      "country_name": "Indonesia"
-    },
-    {
-      "source": "BBC Asia",
-      "title": "Is Donald Trump ready to do business with Myanmar?",
-      "url": "https://www.bbc.co.uk/news/articles/cw203zx1x1rno?at_medium=RSS&at_campaign=rss",
-      "summary": "There are signs the United States is shifting its policy towards Myanmar, formerly a global pariah.",
-      "published_at": "2026-10-20T23:21:39Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -735,7 +708,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 23
+      "news_count": 22
     },
     {
       "country_code": "BR",
@@ -765,11 +738,6 @@
     {
       "country_code": "CN",
       "country_name": "China",
-      "news_count": 2
-    },
-    {
-      "country_code": "ID",
-      "country_name": "Indonesia",
       "news_count": 2
     },
     {
