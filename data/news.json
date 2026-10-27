@@ -1,21 +1,93 @@
 {
-  "generated_at": "2026-10-27T08:05:28Z",
+  "generated_at": "2026-10-27T14:44:06Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Ballon d'Or ceremony raises case of French sports journalist jailed in Algeria",
+      "url": "https://www.bbc.co.uk/news/articles/c6x2qgyqr79wo?at_medium=RSS&at_campaign=rss",
+      "summary": "He is in jail accused of supporting terrorism after travelling to the politically sensitive region Kabylie.",
+      "published_at": "2026-10-27T14:29:39Z",
+      "country_code": "DZ",
+      "country_name": "Algeria"
+    },
+    {
+      "source": "BBC World",
+      "title": "Norway and Finland leaders hold rare call with Putin",
+      "url": "https://www.bbc.co.uk/news/articles/c6vgj813mlelo?at_medium=RSS&at_campaign=rss",
+      "summary": "This is the first time European leaders have had direct communication with Russia's president in more than a year.",
+      "published_at": "2026-10-27T14:23:05Z",
+      "country_code": "RU",
+      "country_name": "Russia"
+    },
+    {
+      "source": "BBC Europe",
+      "title": "Russia given first championships since Ukraine invasion",
+      "url": "https://www.bbc.co.uk/sport/olympics/articles/cmq5ny00gzy0o?at_medium=RSS&at_campaign=rss",
+      "summary": "The International Weightlifting Federation becomes the first Olympic federation to choose Russia to host a world championships since its inv…",
+      "published_at": "2026-10-27T14:18:44Z",
+      "country_code": "RU",
+      "country_name": "Russia"
+    },
+    {
+      "source": "BBC World",
+      "title": "Mbappé sorry for 'ill-judged' Mao remark after backlash in China",
+      "url": "https://www.bbc.co.uk/news/articles/cv62yg0erp8zo?at_medium=RSS&at_campaign=rss",
+      "summary": "The France star had referred to the former Chinese leader as a \"dictator\" during an interview about memes.",
+      "published_at": "2026-10-27T13:25:54Z",
+      "country_code": "CN",
+      "country_name": "China"
+    },
+    {
+      "source": "BBC World",
+      "title": "Co-ordinated cattle raids kill at least 72 people in South Sudan",
+      "url": "https://www.bbc.co.uk/news/articles/cr3wvl9qz3v2o?at_medium=RSS&at_campaign=rss",
+      "summary": "The cycle of revenge attacks continue as the country heads towards its first election since independence.",
+      "published_at": "2026-10-27T12:25:14Z",
+      "country_code": "SD",
+      "country_name": "Sudan"
+    },
     {
       "source": "BBC World",
       "title": "Truce begins in Ukraine city where residents ate weeds to survive",
       "url": "https://www.bbc.co.uk/news/articles/ck20wjnv3w0jo?at_medium=RSS&at_campaign=rss",
-      "summary": "The ceasefire, announced by US First Lady Melania Trump, is meant to allow aid deliveries and the evacuation of civilians.",
-      "published_at": "2026-10-27T08:01:22Z",
+      "summary": "The Oleshky ceasefire, which the White House said was secured by US First Lady Melania Trump, is meant to allow aid to get in and civilians …",
+      "published_at": "2026-10-27T11:53:57Z",
       "country_code": "US",
       "country_name": "United States"
     },
     {
-      "source": "BBC Middle East",
-      "title": "Israel heads to polls for pivotal election defined by security and democracy",
+      "source": "BBC World",
+      "title": "Netherlands pulls out of Eurovision again over Israel participation",
+      "url": "https://www.bbc.co.uk/news/articles/cmr4y5dvlzneo?at_medium=RSS&at_campaign=rss",
+      "summary": "A Dutch broadcaster reverses a decision to take part, citing \"sensitivities\" over Israel's participation.",
+      "published_at": "2026-10-27T11:23:19Z",
+      "country_code": "NL",
+      "country_name": "Netherlands"
+    },
+    {
+      "source": "BBC World",
+      "title": "Turnout so far highest on record as Israelis vote in pivotal election",
       "url": "https://www.bbc.co.uk/news/articles/c3j47l4kdez4o?at_medium=RSS&at_campaign=rss",
-      "summary": "Many fear neither of the leading political blocs will win enough seats for a majority - meaning weeks or months of political wrangling may l…",
-      "published_at": "2026-10-27T05:45:08Z",
+      "summary": "The elections - the first since the Hamas-led attacks on Israel and the wars which followed - are widely seen as a referendum on Benjamin Ne…",
+      "published_at": "2026-10-27T11:11:33Z",
+      "country_code": "IL",
+      "country_name": "Israel"
+    },
+    {
+      "source": "BBC World",
+      "title": "What does Israel's election mean for Gaza and the wider world?",
+      "url": "https://www.bbc.co.uk/news/videos/ck240dg5n4gjo?at_medium=RSS&at_campaign=rss",
+      "summary": "The BBC's diplomatic correspondent James Landale reports from Jerusalem as ballots are cast.",
+      "published_at": "2026-10-27T10:17:36Z",
+      "country_code": "IL",
+      "country_name": "Israel"
+    },
+    {
+      "source": "BBC World",
+      "title": "Why it could take time for a new Israeli government to form",
+      "url": "https://www.bbc.co.uk/news/videos/c574p31l1l2no?at_medium=RSS&at_campaign=rss",
+      "summary": "Israel faces what many view as one of the most pivotal elections in the country's history.",
+      "published_at": "2026-10-27T08:37:30Z",
       "country_code": "IL",
       "country_name": "Israel"
     },
@@ -101,7 +173,7 @@
       "country_name": "Australia"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Africa",
       "title": "Algeria to send troops to Niger in first foreign deployment since 1973",
       "url": "https://www.bbc.co.uk/news/articles/cm4g14n1e5wko?at_medium=RSS&at_campaign=rss",
       "summary": "The troops are expected to protect energy facilities in northern Niger, near the Libyan border.",
@@ -110,7 +182,7 @@
       "country_name": "Algeria"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Africa",
       "title": "More than 60 Christians killed in Ethiopia 'massacre', church official says",
       "url": "https://www.bbc.co.uk/news/articles/cm4g175dgdx2o?at_medium=RSS&at_campaign=rss",
       "summary": "One resident, whose 75-year-old father was killed, described it as an ambush, saying they were surrounded.",
@@ -137,7 +209,7 @@
       "country_name": "Brazil"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "US Marine indicted for murder and robbery of woman in Japan",
       "url": "https://www.bbc.co.uk/news/articles/c3vgxjex1z9wo?at_medium=RSS&at_campaign=rss",
       "summary": "Prosecutors have indicted Devin Jacob Ballard for a killing that has caused outrage in Japan, local media reports.",
@@ -155,7 +227,7 @@
       "country_name": "Brazil"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "Five ways Trump has changed immigration in the US",
       "url": "https://www.bbc.co.uk/news/articles/c9203k1jrmpvo?at_medium=RSS&at_campaign=rss",
       "summary": "This is how his signature policy has played out after returning to power promising a closed border and mass deportations.",
@@ -164,7 +236,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Latin America",
       "title": "Crowds welcome Venezuela's María Machado after months in exile",
       "url": "https://www.bbc.co.uk/news/videos/cwgkv8kmly4zo?at_medium=RSS&at_campaign=rss",
       "summary": "The Venezuelan opposition leader spent more than 10 months in exile after escaping the country on a speedboat.",
@@ -245,22 +317,13 @@
       "country_name": "Israel"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Middle East",
       "title": "Why Israel's election is one of the most important in its history",
       "url": "https://www.bbc.co.uk/news/videos/c64g1wje3jjwo?at_medium=RSS&at_campaign=rss",
       "summary": "Security and democracy emerge as central issues in Israel's highly anticipated general election, as Middle East correspondent Lucy Williamso…",
       "published_at": "2026-10-25T22:05:30Z",
       "country_code": "IL",
       "country_name": "Israel"
-    },
-    {
-      "source": "BBC Africa",
-      "title": "Death toll in Nigeria village raided by gunmen rises to 48, police say",
-      "url": "https://www.bbc.co.uk/news/articles/cq1kdlm1ze7do?at_medium=RSS&at_campaign=rss",
-      "summary": "Unidentified gunmen on motorcycles swooped on a remote village on Friday, looting shops and setting houses ablaze.",
-      "published_at": "2026-10-25T19:14:27Z",
-      "country_code": "NG",
-      "country_name": "Nigeria"
     },
     {
       "source": "BBC Middle East",
@@ -279,15 +342,6 @@
       "published_at": "2026-10-25T15:32:51Z",
       "country_code": "FR",
       "country_name": "France"
-    },
-    {
-      "source": "BBC Europe",
-      "title": "Russia given first championships since Ukraine invasion",
-      "url": "https://www.bbc.co.uk/sport/olympics/articles/cmq5ny00gzy0o?at_medium=RSS&at_campaign=rss",
-      "summary": "The International Weightlifting Federation becomes the first Olympic federation to choose Russia to host a world championships since its inv…",
-      "published_at": "2026-10-25T14:34:33Z",
-      "country_code": "RU",
-      "country_name": "Russia"
     },
     {
       "source": "BBC Europe",
@@ -333,15 +387,6 @@
       "published_at": "2026-10-24T23:02:06Z",
       "country_code": "IL",
       "country_name": "Israel"
-    },
-    {
-      "source": "BBC World",
-      "title": "Fireworks and tear gas as protesters and riot police clash in Paris",
-      "url": "https://www.bbc.co.uk/news/videos/cm89zqw9lx1do?at_medium=RSS&at_campaign=rss",
-      "summary": "The BBC's Europe correspondent reports from Paris where mostly peaceful protests turned into unrest after nightfall.",
-      "published_at": "2026-10-24T19:37:35Z",
-      "country_code": "FR",
-      "country_name": "France"
     },
     {
       "source": "BBC Europe",
@@ -405,15 +450,6 @@
       "published_at": "2026-10-23T22:24:36Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC Latin America",
-      "title": "Argentina drops investigation into President Milei over crypto fraud",
-      "url": "https://www.bbc.co.uk/news/articles/c64g1eplpvddo?at_medium=RSS&at_campaign=rss",
-      "summary": "Javier Milei had denied acting fraudulently when a cryptocurrency nosedived after he deleted a social media post about it.",
-      "published_at": "2026-10-23T20:59:39Z",
-      "country_code": "AR",
-      "country_name": "Argentina"
     },
     {
       "source": "BBC Middle East",
@@ -531,15 +567,6 @@
       "published_at": "2026-10-21T09:55:15Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC Europe",
-      "title": "Katya Adler: France divided over who to blame for riots and what to learn from them",
-      "url": "https://www.bbc.co.uk/news/articles/cq0me4g9p970o?at_medium=RSS&at_campaign=rss",
-      "summary": "In France and beyond there is widespread disagreement over what led to some of the worst unrest seen in French cities in modern history.",
-      "published_at": "2026-10-21T06:50:40Z",
-      "country_code": "FR",
-      "country_name": "France"
     },
     {
       "source": "BBC Latin America",
@@ -711,18 +738,18 @@
       "news_count": 20
     },
     {
-      "country_code": "FR",
-      "country_name": "France",
-      "news_count": 8
-    },
-    {
       "country_code": "IL",
       "country_name": "Israel",
-      "news_count": 8
+      "news_count": 10
     },
     {
       "country_code": "BR",
       "country_name": "Brazil",
+      "news_count": 6
+    },
+    {
+      "country_code": "FR",
+      "country_name": "France",
       "news_count": 6
     },
     {
@@ -733,11 +760,16 @@
     {
       "country_code": "RU",
       "country_name": "Russia",
-      "news_count": 3
+      "news_count": 4
     },
     {
       "country_code": "CN",
       "country_name": "China",
+      "news_count": 3
+    },
+    {
+      "country_code": "DZ",
+      "country_name": "Algeria",
       "news_count": 2
     },
     {
@@ -761,13 +793,13 @@
       "news_count": 2
     },
     {
-      "country_code": "NG",
-      "country_name": "Nigeria",
+      "country_code": "SA",
+      "country_name": "Saudi Arabia",
       "news_count": 2
     },
     {
-      "country_code": "SA",
-      "country_name": "Saudi Arabia",
+      "country_code": "SD",
+      "country_name": "Sudan",
       "news_count": 2
     },
     {
@@ -781,18 +813,8 @@
       "news_count": 1
     },
     {
-      "country_code": "AR",
-      "country_name": "Argentina",
-      "news_count": 1
-    },
-    {
       "country_code": "CA",
       "country_name": "Canada",
-      "news_count": 1
-    },
-    {
-      "country_code": "DZ",
-      "country_name": "Algeria",
       "news_count": 1
     },
     {
@@ -811,6 +833,16 @@
       "news_count": 1
     },
     {
+      "country_code": "NG",
+      "country_name": "Nigeria",
+      "news_count": 1
+    },
+    {
+      "country_code": "NL",
+      "country_name": "Netherlands",
+      "news_count": 1
+    },
+    {
       "country_code": "NZ",
       "country_name": "New Zealand",
       "news_count": 1
@@ -818,11 +850,6 @@
     {
       "country_code": "PS",
       "country_name": "Palestine",
-      "news_count": 1
-    },
-    {
-      "country_code": "SD",
-      "country_name": "Sudan",
       "news_count": 1
     },
     {
