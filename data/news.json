@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-10-27T23:18:49Z",
+  "generated_at": "2026-10-28T02:27:26Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Alexander brothers each sentenced to 30 years in prison in sex trafficking case",
+      "url": "https://www.bbc.co.uk/news/articles/cqn498mng08ro?at_medium=RSS&at_campaign=rss",
+      "summary": "The trio - two of whom were high-profile US real estate moguls - were found guilty using their social status to lure women to parties and th…",
+      "published_at": "2026-10-28T02:20:25Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC Latin America",
+      "title": "Defeated presidential candidate Flávio Bolsonaro arrives in US after Brazil cancels his passports",
+      "url": "https://www.bbc.co.uk/news/articles/ckly0xpxp243o?at_medium=RSS&at_campaign=rss",
+      "summary": "The defeated presidential candidate's arrival in the US came hours after he failed to turn in his passports to Brazilian authorities.",
+      "published_at": "2026-10-28T01:57:16Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC Asia",
+      "title": "India and China were easing tensions - then a border official spoke out",
+      "url": "https://www.bbc.co.uk/news/articles/cj3vq7nkzr0qo?at_medium=RSS&at_campaign=rss",
+      "summary": "India-China ties were on a cautious recovery path until a border official’s remarks raised fresh doubts about ground realities.",
+      "published_at": "2026-10-28T00:06:27Z",
+      "country_code": "CN",
+      "country_name": "China"
+    },
+    {
+      "source": "BBC Asia",
+      "title": "China's families are now supporting more old people than kids",
+      "url": "https://www.bbc.co.uk/news/articles/cr20wzwyzl1qo?at_medium=RSS&at_campaign=rss",
+      "summary": "The latest figures mark a major milestone as Beijing grapples with an ageing population.",
+      "published_at": "2026-10-27T23:16:08Z",
+      "country_code": "CN",
+      "country_name": "China"
+    },
     {
       "source": "BBC World",
       "title": "Ceasefire extended across Ukraine's Kherson region, officials say",
@@ -101,15 +137,6 @@
       "country_name": "Ukraine"
     },
     {
-      "source": "BBC Latin America",
-      "title": "Flávio Bolsonaro's passports cancelled after he fails to surrender them",
-      "url": "https://www.bbc.co.uk/news/articles/ckly0xpxp243o?at_medium=RSS&at_campaign=rss",
-      "summary": "The defeated presidential candidate is under investigation for alleged money laundering and barred from leaving Brazil.",
-      "published_at": "2026-10-27T17:08:24Z",
-      "country_code": "BR",
-      "country_name": "Brazil"
-    },
-    {
       "source": "BBC World",
       "title": "West warns of famine risk in Sudan as civil war grinds on",
       "url": "https://www.bbc.co.uk/news/articles/cj5ynkk6v3pzo?at_medium=RSS&at_campaign=rss",
@@ -182,7 +209,7 @@
       "country_name": "Israel"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Middle East",
       "title": "Why it could take time for a new Israeli government to form",
       "url": "https://www.bbc.co.uk/news/videos/c574p31l1l2no?at_medium=RSS&at_campaign=rss",
       "summary": "Israel faces what many view as one of the most pivotal elections in the country's history.",
@@ -515,15 +542,6 @@
       "country_name": "France"
     },
     {
-      "source": "BBC Asia",
-      "title": "Britain's posh schools are heading to India for students and profits",
-      "url": "https://www.bbc.co.uk/news/articles/c6vgx1ldvz5vo?at_medium=RSS&at_campaign=rss",
-      "summary": "Half a dozen elite British schools are chasing growth in India amid a boom in its wealthy population.",
-      "published_at": "2026-10-23T23:02:25Z",
-      "country_code": "GB",
-      "country_name": "United Kingdom"
-    },
-    {
       "source": "BBC Europe",
       "title": "Who actually controls Ukraine's access to Starlink?",
       "url": "https://www.bbc.co.uk/news/videos/cqy7lvv0lvzpo?at_medium=RSS&at_campaign=rss",
@@ -695,15 +713,6 @@
       "country_name": "Iran"
     },
     {
-      "source": "BBC Middle East",
-      "title": "Watch: CCTV shows people take cover as missile hits Riyadh airport",
-      "url": "https://www.bbc.co.uk/news/videos/cj4g17wz7gv0o?at_medium=RSS&at_campaign=rss",
-      "summary": "Footage from inside the airport shows the moment the strike hit on Saturday.",
-      "published_at": "2026-10-12T09:38:03Z",
-      "country_code": "SA",
-      "country_name": "Saudi Arabia"
-    },
-    {
       "source": "BBC Africa",
       "title": "Mourners killed by Kenya police at Odinga national farewell not part of violence, BBC finds",
       "url": "https://www.bbc.co.uk/news/articles/c962y4ld1d7do?at_medium=RSS&at_campaign=rss",
@@ -753,7 +762,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 19
+      "news_count": 21
     },
     {
       "country_code": "IL",
@@ -763,7 +772,7 @@
     {
       "country_code": "BR",
       "country_name": "Brazil",
-      "news_count": 7
+      "news_count": 6
     },
     {
       "country_code": "FR",
@@ -771,14 +780,14 @@
       "news_count": 6
     },
     {
-      "country_code": "RU",
-      "country_name": "Russia",
+      "country_code": "CN",
+      "country_name": "China",
       "news_count": 5
     },
     {
-      "country_code": "CN",
-      "country_name": "China",
-      "news_count": 3
+      "country_code": "RU",
+      "country_name": "Russia",
+      "news_count": 5
     },
     {
       "country_code": "NG",
@@ -813,11 +822,6 @@
     {
       "country_code": "KE",
       "country_name": "Kenya",
-      "news_count": 2
-    },
-    {
-      "country_code": "SA",
-      "country_name": "Saudi Arabia",
       "news_count": 2
     },
     {
@@ -856,11 +860,6 @@
       "news_count": 1
     },
     {
-      "country_code": "GB",
-      "country_name": "United Kingdom",
-      "news_count": 1
-    },
-    {
       "country_code": "MA",
       "country_name": "Morocco",
       "news_count": 1
@@ -878,6 +877,11 @@
     {
       "country_code": "PS",
       "country_name": "Palestine",
+      "news_count": 1
+    },
+    {
+      "country_code": "SA",
+      "country_name": "Saudi Arabia",
       "news_count": 1
     },
     {
