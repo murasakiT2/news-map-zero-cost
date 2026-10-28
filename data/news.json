@@ -1,21 +1,30 @@
 {
-  "generated_at": "2026-10-28T02:27:26Z",
+  "generated_at": "2026-10-28T08:48:44Z",
   "articles": [
+    {
+      "source": "BBC US & Canada",
+      "title": "FBI raids California home tied to former Congressman Eric Swalwell - US media",
+      "url": "https://www.bbc.co.uk/news/articles/cwvgrk0zx641o?at_medium=RSS&at_campaign=rss",
+      "summary": "The California Democrat has faced multiple sexual misconduct allegations which he has denied.",
+      "published_at": "2026-10-28T02:51:25Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "Defeated presidential candidate Flávio Bolsonaro arrives in US after Brazil cancels his passports, sources say",
+      "url": "https://www.bbc.co.uk/news/articles/ckly0xpxp243o?at_medium=RSS&at_campaign=rss",
+      "summary": "The defeated presidential candidate's apparent arrival in the US came hours after he failed to turn in his passports to Brazilian authoritie…",
+      "published_at": "2026-10-28T02:47:45Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "Alexander brothers each sentenced to 30 years in prison in sex trafficking case",
       "url": "https://www.bbc.co.uk/news/articles/cqn498mng08ro?at_medium=RSS&at_campaign=rss",
       "summary": "The trio - two of whom were high-profile US real estate moguls - were found guilty using their social status to lure women to parties and th…",
       "published_at": "2026-10-28T02:20:25Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC Latin America",
-      "title": "Defeated presidential candidate Flávio Bolsonaro arrives in US after Brazil cancels his passports",
-      "url": "https://www.bbc.co.uk/news/articles/ckly0xpxp243o?at_medium=RSS&at_campaign=rss",
-      "summary": "The defeated presidential candidate's arrival in the US came hours after he failed to turn in his passports to Brazilian authorities.",
-      "published_at": "2026-10-28T01:57:16Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -29,7 +38,7 @@
       "country_name": "China"
     },
     {
-      "source": "BBC Asia",
+      "source": "BBC World",
       "title": "China's families are now supporting more old people than kids",
       "url": "https://www.bbc.co.uk/news/articles/cr20wzwyzl1qo?at_medium=RSS&at_campaign=rss",
       "summary": "The latest figures mark a major milestone as Beijing grapples with an ageing population.",
@@ -47,13 +56,22 @@
       "country_name": "Russia"
     },
     {
-      "source": "BBC US & Canada",
+      "source": "BBC World",
       "title": "Trump says US voter fraud is 'rampant' - evidence suggests it is extremely rare",
       "url": "https://www.bbc.co.uk/news/articles/ckeq3vezxlx1o?at_medium=RSS&at_campaign=rss",
       "summary": "As the US president casts doubt on the security of the midterm elections, BBC Verify examines his claims.",
       "published_at": "2026-10-27T21:46:43Z",
       "country_code": "US",
       "country_name": "United States"
+    },
+    {
+      "source": "BBC Europe",
+      "title": "Barcelona fined £503 over approach for Alvarez",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmpwg0lqxkd4o?at_medium=RSS&at_campaign=rss",
+      "summary": "Barcelona are fined 602 euros (£503) following a complaint by Atletico Madrid over contact the club made with striker Julian Alvarez.",
+      "published_at": "2026-10-27T21:38:20Z",
+      "country_code": "ES",
+      "country_name": "Spain"
     },
     {
       "source": "BBC US & Canada",
@@ -83,15 +101,6 @@
       "country_name": "Russia"
     },
     {
-      "source": "BBC US & Canada",
-      "title": "FBI raids California home tied to former Congressman Eric Swalwell - US media",
-      "url": "https://www.bbc.co.uk/news/articles/cwvgrk0zx641o?at_medium=RSS&at_campaign=rss",
-      "summary": "The California Democrat has faced multiple sexual misconduct allegations which he has denied.",
-      "published_at": "2026-10-27T20:02:01Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC Africa",
       "title": "Is Ebola under control in Kenya after nine cases confirmed?",
       "url": "https://www.bbc.co.uk/news/articles/c693z948px0jo?at_medium=RSS&at_campaign=rss",
@@ -101,7 +110,7 @@
       "country_name": "Kenya"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Africa",
       "title": "Deaths in detention cells in Nigeria were entirely preventable, inquiry finds",
       "url": "https://www.bbc.co.uk/news/articles/cmgel8pqj5rwo?at_medium=RSS&at_campaign=rss",
       "summary": "Overcrowding and poor ventilation caused the deaths of 33 detainees in a prison cell in Minna state.",
@@ -119,7 +128,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Africa",
       "title": "Controversial Islamic cleric shot dead in northern Nigeria",
       "url": "https://www.bbc.co.uk/news/articles/cxdd8nq55d74o?at_medium=RSS&at_campaign=rss",
       "summary": "Yahaya Masussuka had posted videos in which he rejected some elements of mainstream Islam.",
@@ -137,22 +146,13 @@
       "country_name": "Ukraine"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Africa",
       "title": "West warns of famine risk in Sudan as civil war grinds on",
       "url": "https://www.bbc.co.uk/news/articles/cj5ynkk6v3pzo?at_medium=RSS&at_campaign=rss",
       "summary": "Millions face acute hunger in Sudan as conflict, drought and funding cuts aggravate the humanitarian crisis.",
       "published_at": "2026-10-27T15:41:46Z",
       "country_code": "SD",
       "country_name": "Sudan"
-    },
-    {
-      "source": "BBC Europe",
-      "title": "Truce begins in Ukraine city where residents ate weeds to survive",
-      "url": "https://www.bbc.co.uk/news/articles/ck20wjnv3w0jo?at_medium=RSS&at_campaign=rss",
-      "summary": "The Oleshky ceasefire, which the White House said was secured by US First Lady Melania Trump, is meant to allow aid to get in and civilians …",
-      "published_at": "2026-10-27T15:13:24Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC World",
@@ -162,15 +162,6 @@
       "published_at": "2026-10-27T14:29:39Z",
       "country_code": "DZ",
       "country_name": "Algeria"
-    },
-    {
-      "source": "BBC Europe",
-      "title": "Russia given first championships since Ukraine invasion",
-      "url": "https://www.bbc.co.uk/sport/olympics/articles/cmq5ny00gzy0o?at_medium=RSS&at_campaign=rss",
-      "summary": "The International Weightlifting Federation becomes the first Olympic federation to choose Russia to host a world championships since its inv…",
-      "published_at": "2026-10-27T14:18:44Z",
-      "country_code": "RU",
-      "country_name": "Russia"
     },
     {
       "source": "BBC World",
@@ -191,7 +182,7 @@
       "country_name": "Sudan"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "Netherlands pulls out of Eurovision again over Israel participation",
       "url": "https://www.bbc.co.uk/news/articles/cmr4y5dvlzneo?at_medium=RSS&at_campaign=rss",
       "summary": "A Dutch broadcaster reverses a decision to take part, citing \"sensitivities\" over Israel's participation.",
@@ -227,7 +218,7 @@
       "country_name": "South Africa"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "Donald Trump's biggest economic problem looks strangely familiar",
       "url": "https://www.bbc.co.uk/news/articles/cwvg0ddz1z77o?at_medium=RSS&at_campaign=rss",
       "summary": "Donald Trump heads into the US midterm elections with an issue similar to his political foe Joe Biden.",
@@ -245,7 +236,7 @@
       "country_name": "New Zealand"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Middle East",
       "title": "Jordan carries out deadly strike in Syria in retaliation for church attack",
       "url": "https://www.bbc.co.uk/news/articles/cq8ezg6dy6xlo?at_medium=RSS&at_campaign=rss",
       "summary": "The attack on a village in Syria killed five people, including women and children, Syrian health officials said.",
@@ -263,7 +254,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Latin America",
       "title": "Opposition leader María Machado returns from exile to a Venezuela reshaped by Trump",
       "url": "https://www.bbc.co.uk/news/articles/c8vgx3pvdeq1o?at_medium=RSS&at_campaign=rss",
       "summary": "Machado returns with Trump's blessing, even if Washington is happy with Venezuela's existing leader - at least for the time being.",
@@ -444,24 +435,6 @@
     },
     {
       "source": "BBC Europe",
-      "title": "Suspect in deadly Paris suburb shooting sent for psychiatric observation",
-      "url": "https://www.bbc.co.uk/news/articles/c6e3xek2457wo?at_medium=RSS&at_campaign=rss",
-      "summary": "He will be observed to evaluate whether his \"psychiatric health is compatible with pursuing his interrogation\", authorities said.",
-      "published_at": "2026-10-25T15:32:51Z",
-      "country_code": "FR",
-      "country_name": "France"
-    },
-    {
-      "source": "BBC Europe",
-      "title": "More than 1,300 arrested as clashes follow another day of mass protests across France",
-      "url": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss",
-      "summary": "Hundreds of thousands took part in demonstrations in France, with protests also taking place in other European countries.",
-      "published_at": "2026-10-25T10:38:15Z",
-      "country_code": "FR",
-      "country_name": "France"
-    },
-    {
-      "source": "BBC Europe",
       "title": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
       "url": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss",
       "summary": "The tech billionaire accuses Ukraine of violating its terms of service by using the network for military activity.",
@@ -495,15 +468,6 @@
       "published_at": "2026-10-24T23:02:06Z",
       "country_code": "IL",
       "country_name": "Israel"
-    },
-    {
-      "source": "BBC Europe",
-      "title": "Watch: BBC in Paris as police charge protesters and use tear gas during unrest",
-      "url": "https://www.bbc.co.uk/news/videos/cm89zqw9lx1do?at_medium=RSS&at_campaign=rss",
-      "summary": "The BBC's Europe correspondent reports from Paris where mostly peaceful protests turned into unrest after nightfall.",
-      "published_at": "2026-10-24T19:37:35Z",
-      "country_code": "FR",
-      "country_name": "France"
     },
     {
       "source": "BBC Middle East",
@@ -551,15 +515,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Middle East",
-      "title": "Oil spill washes up on UAE beaches after tanker strike",
-      "url": "https://www.bbc.co.uk/news/articles/c6rey3n974g5o?at_medium=RSS&at_campaign=rss",
-      "summary": "Satellite images show oil spreading for miles along the coastline, threatening local marine wildlife",
-      "published_at": "2026-10-23T15:30:47Z",
-      "country_code": "AE",
-      "country_name": "United Arab Emirates"
-    },
-    {
       "source": "BBC Africa",
       "title": "Hospitals deliberately targeted by Sudan's RSF fighters, BBC finds",
       "url": "https://www.bbc.co.uk/news/articles/c54g1kxw4nvvo?at_medium=RSS&at_campaign=rss",
@@ -601,24 +556,6 @@
       "url": "https://www.bbc.co.uk/news/videos/c9146p1vx888o?at_medium=RSS&at_campaign=rss",
       "summary": "The three waves of Russian missiles were launched at hours after Russia said it was \"ready in principle\" to resume peace talks with the US a…",
       "published_at": "2026-10-22T17:49:13Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC Middle East",
-      "title": "Two killed in Houthi attack on airport in eastern Saudi Arabia, authorities say",
-      "url": "https://www.bbc.co.uk/news/articles/cqwy71ww156ro?at_medium=RSS&at_campaign=rss",
-      "summary": "It is the latest in a series of attacks by the Houthi movement targeting airports and other sites in the kingdom.",
-      "published_at": "2026-10-22T13:46:33Z",
-      "country_code": "SA",
-      "country_name": "Saudi Arabia"
-    },
-    {
-      "source": "BBC Asia",
-      "title": "Trump's green card curbs test Indian tech workers' American dream",
-      "url": "https://www.bbc.co.uk/news/articles/cqj34j7dk771o?at_medium=RSS&at_campaign=rss",
-      "summary": "With immigration curbs and tech firms cutting foreign hiring, US residency is becoming a distant dream for many Indians.",
-      "published_at": "2026-10-21T23:06:37Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -762,7 +699,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 21
+      "news_count": 19
     },
     {
       "country_code": "IL",
@@ -775,11 +712,6 @@
       "news_count": 6
     },
     {
-      "country_code": "FR",
-      "country_name": "France",
-      "news_count": 6
-    },
-    {
       "country_code": "CN",
       "country_name": "China",
       "news_count": 5
@@ -787,7 +719,17 @@
     {
       "country_code": "RU",
       "country_name": "Russia",
-      "news_count": 5
+      "news_count": 4
+    },
+    {
+      "country_code": "ES",
+      "country_name": "Spain",
+      "news_count": 3
+    },
+    {
+      "country_code": "FR",
+      "country_name": "France",
+      "news_count": 3
     },
     {
       "country_code": "NG",
@@ -802,11 +744,6 @@
     {
       "country_code": "AU",
       "country_name": "Australia",
-      "news_count": 2
-    },
-    {
-      "country_code": "ES",
-      "country_name": "Spain",
       "news_count": 2
     },
     {
@@ -838,11 +775,6 @@
       "country_code": "ZA",
       "country_name": "South Africa",
       "news_count": 2
-    },
-    {
-      "country_code": "AE",
-      "country_name": "United Arab Emirates",
-      "news_count": 1
     },
     {
       "country_code": "CA",
@@ -877,11 +809,6 @@
     {
       "country_code": "PS",
       "country_name": "Palestine",
-      "news_count": 1
-    },
-    {
-      "country_code": "SA",
-      "country_name": "Saudi Arabia",
       "news_count": 1
     },
     {
