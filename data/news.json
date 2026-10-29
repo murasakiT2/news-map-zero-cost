@@ -1,23 +1,41 @@
 {
-  "generated_at": "2026-10-29T00:30:46Z",
+  "generated_at": "2026-10-29T06:36:31Z",
   "articles": [
     {
       "source": "BBC World",
-      "title": "Flávio Bolsonaro denies fleeing Brazil after landing in Miami",
-      "url": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&at_campaign=rss",
-      "summary": "The defeated Brazilian candidate claims to be the victim of a coup d’état and political persecution, recycling unsubstantiated allegations o…",
-      "published_at": "2026-10-28T23:21:48Z",
-      "country_code": "BR",
-      "country_name": "Brazil"
+      "title": "What we know so far about deadly Spain train crash",
+      "url": "https://www.bbc.co.uk/news/articles/cm8xz7pkd0jjo?at_medium=RSS&at_campaign=rss",
+      "summary": "More than 500 passengers were on board the trains when the crash occurred in the province of Toledo, south of Madrid.",
+      "published_at": "2026-10-29T04:08:28Z",
+      "country_code": "ES",
+      "country_name": "Spain"
+    },
+    {
+      "source": "BBC Asia",
+      "title": "Hello Kitty maker cuts ties with Japanese spy drama after China backlash",
+      "url": "https://www.bbc.co.uk/news/articles/cry4x177jlnyo?at_medium=RSS&at_campaign=rss",
+      "summary": "Sanrio has apologised after its merchandise line with Japanese TV series Vivant drew criticism.",
+      "published_at": "2026-10-29T03:16:19Z",
+      "country_code": "CN",
+      "country_name": "China"
     },
     {
       "source": "BBC US & Canada",
       "title": "Details of thousands of US immigration agents leaked in major hack",
       "url": "https://www.bbc.co.uk/news/articles/cq8jzkpjr28vo?at_medium=RSS&at_campaign=rss",
       "summary": "A group called the Department of Peace released information on more than 41,000 DHS staff.",
-      "published_at": "2026-10-28T23:11:00Z",
+      "published_at": "2026-10-29T01:30:43Z",
       "country_code": "US",
       "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Flávio Bolsonaro denies fleeing Brazil after landing in Miami",
+      "url": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&at_campaign=rss",
+      "summary": "The defeated Brazilian candidate claims to be the victim of a coup d’état and political persecution, recycling unsubstantiated allegations o…",
+      "published_at": "2026-10-29T01:14:01Z",
+      "country_code": "BR",
+      "country_name": "Brazil"
     },
     {
       "source": "BBC World",
@@ -126,15 +144,6 @@
       "published_at": "2026-10-28T16:30:29Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "What we know so far about deadly Spain train crash",
-      "url": "https://www.bbc.co.uk/news/articles/cm8xz7pkd0jjo?at_medium=RSS&at_campaign=rss",
-      "summary": "More than 500 passengers were on board the trains when the incident occurred in the province of Toledo, south of Madrid.",
-      "published_at": "2026-10-28T15:36:11Z",
-      "country_code": "ES",
-      "country_name": "Spain"
     },
     {
       "source": "BBC US & Canada",
@@ -252,15 +261,6 @@
       "published_at": "2026-10-27T19:19:10Z",
       "country_code": "KE",
       "country_name": "Kenya"
-    },
-    {
-      "source": "BBC Africa",
-      "title": "Deaths in detention cells in Nigeria were entirely preventable, inquiry finds",
-      "url": "https://www.bbc.co.uk/news/articles/cmgel8pqj5rwo?at_medium=RSS&at_campaign=rss",
-      "summary": "Overcrowding and poor ventilation caused the deaths of 33 detainees in a prison cell in Minna state.",
-      "published_at": "2026-10-27T19:01:16Z",
-      "country_code": "NG",
-      "country_name": "Nigeria"
     },
     {
       "source": "BBC Africa",
@@ -488,7 +488,7 @@
       "country_name": "Brazil"
     },
     {
-      "source": "BBC Asia",
+      "source": "BBC Middle East",
       "title": "Forty Iranian sailors stranded off Sri Lanka coast rescued",
       "url": "https://www.bbc.co.uk/news/articles/c9p8g7e4k2xjo?at_medium=RSS&at_campaign=rss",
       "summary": "The sailors received medical treatment before being flown back to Iran, Sri Lankan authorities said.",
@@ -623,15 +623,6 @@
       "country_name": "Sudan"
     },
     {
-      "source": "BBC Asia",
-      "title": "Rubio turns to small Indian city as US faces high oil prices",
-      "url": "https://www.bbc.co.uk/news/articles/c3x2wnk8ejq5o?at_medium=RSS&at_campaign=rss",
-      "summary": "US Secretary of State Marco Rubio pushed a business and energy agenda over diplomacy on his second trip to India this year.",
-      "published_at": "2026-10-23T08:39:42Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC Europe",
       "title": "Surveillance and 'constant paranoia': Western diplomats tell BBC of life in war-time Moscow",
       "url": "https://www.bbc.co.uk/news/articles/cj75p1xr7p7vo?at_medium=RSS&at_campaign=rss",
@@ -753,7 +744,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 21
+      "news_count": 20
     },
     {
       "country_code": "IL",
@@ -773,7 +764,7 @@
     {
       "country_code": "CN",
       "country_name": "China",
-      "news_count": 4
+      "news_count": 5
     },
     {
       "country_code": "RU",
@@ -783,11 +774,6 @@
     {
       "country_code": "KE",
       "country_name": "Kenya",
-      "news_count": 3
-    },
-    {
-      "country_code": "NG",
-      "country_name": "Nigeria",
       "news_count": 3
     },
     {
@@ -803,6 +789,11 @@
     {
       "country_code": "IN",
       "country_name": "India",
+      "news_count": 2
+    },
+    {
+      "country_code": "NG",
+      "country_name": "Nigeria",
       "news_count": 2
     },
     {
