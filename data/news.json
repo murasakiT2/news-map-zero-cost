@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-10-29T23:26:01Z",
+  "generated_at": "2026-10-30T02:44:32Z",
   "articles": [
+    {
+      "source": "BBC Asia",
+      "title": "China made Mbappé apologise - but many people don't know exactly what he said",
+      "url": "https://www.bbc.co.uk/news/articles/cm3wv36d603yo?at_medium=RSS&at_campaign=rss",
+      "summary": "The footballer's comments about a \"Chinese leader\" sparked outrage but censorship left many wondering what exactly happened.",
+      "published_at": "2026-10-29T23:03:15Z",
+      "country_code": "CN",
+      "country_name": "China"
+    },
     {
       "source": "BBC World",
       "title": "Young athlete and former minister among victims of Spain train crash",
@@ -380,15 +389,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Asia",
-      "title": "New Zealand election 2026: What you need to know",
-      "url": "https://www.bbc.co.uk/news/articles/cr1exvxz8g47o?at_medium=RSS&at_campaign=rss",
-      "summary": "Voters will elect a new parliament on 7 November with the cost of living among the key issues.",
-      "published_at": "2026-10-27T03:15:34Z",
-      "country_code": "NZ",
-      "country_name": "New Zealand"
-    },
-    {
       "source": "BBC Middle East",
       "title": "Jordan carries out deadly strike in Syria in retaliation for church attack",
       "url": "https://www.bbc.co.uk/news/articles/cq8ezg6dy6xlo?at_medium=RSS&at_campaign=rss",
@@ -513,15 +513,6 @@
       "published_at": "2026-10-26T03:47:28Z",
       "country_code": "IR",
       "country_name": "Iran"
-    },
-    {
-      "source": "BBC Asia",
-      "title": "India's cartoonists built an audience online - now their posts are being restricted",
-      "url": "https://www.bbc.co.uk/news/articles/cm3elp3v7jkdo?at_medium=RSS&at_campaign=rss",
-      "summary": "Indian cartoonists say online restrictions are making satire harder, but they aren't giving up.",
-      "published_at": "2026-10-26T01:09:41Z",
-      "country_code": "IN",
-      "country_name": "India"
     },
     {
       "source": "BBC Europe",
@@ -694,14 +685,14 @@
       "news_count": 5
     },
     {
-      "country_code": "ES",
-      "country_name": "Spain",
+      "country_code": "CN",
+      "country_name": "China",
       "news_count": 5
     },
     {
-      "country_code": "CN",
-      "country_name": "China",
-      "news_count": 4
+      "country_code": "ES",
+      "country_name": "Spain",
+      "news_count": 5
     },
     {
       "country_code": "AU",
@@ -714,14 +705,14 @@
       "news_count": 3
     },
     {
-      "country_code": "IN",
-      "country_name": "India",
-      "news_count": 3
-    },
-    {
       "country_code": "RU",
       "country_name": "Russia",
       "news_count": 3
+    },
+    {
+      "country_code": "IN",
+      "country_name": "India",
+      "news_count": 2
     },
     {
       "country_code": "KE",
@@ -766,11 +757,6 @@
     {
       "country_code": "NL",
       "country_name": "Netherlands",
-      "news_count": 1
-    },
-    {
-      "country_code": "NZ",
-      "country_name": "New Zealand",
       "news_count": 1
     },
     {
