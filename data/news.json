@@ -1,20 +1,29 @@
 {
-  "generated_at": "2026-10-31T20:30:58Z",
+  "generated_at": "2026-10-31T23:50:41Z",
   "articles": [
     {
       "source": "BBC World",
-      "title": "Clashes erupt between police and protesters in Paris",
+      "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
+      "url": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Federal Bureau of Investigation (FBI) says North Korea was responsible for the hack.",
+      "published_at": "2026-10-31T22:11:45Z",
+      "country_code": "KP",
+      "country_name": "North Korea"
+    },
+    {
+      "source": "BBC World",
+      "title": "Thousands demonstrate in Paris as protests spread across Europe",
       "url": "https://www.bbc.co.uk/news/videos/ck0j0y87j303o?at_medium=RSS&at_campaign=rss",
-      "summary": "Over 320,000 people protested around France in a third weekend of demonstrations against the rising cost of living and poor public services.",
-      "published_at": "2026-10-31T19:37:43Z",
+      "summary": "More than 320,000 people demonstrated across France against the rising cost of living and poor public services, with clashes between some pr…",
+      "published_at": "2026-10-31T21:29:01Z",
       "country_code": "FR",
       "country_name": "France"
     },
     {
       "source": "BBC World",
-      "title": "'We came back from hell', say Ukrainians after years in Russia-occupied frontline city",
+      "title": "'We came back from hell', say Ukrainians after years in Russia-occupied front-line city",
       "url": "https://www.bbc.co.uk/news/articles/cqglw3k7djp1o?at_medium=RSS&at_campaign=rss",
-      "summary": "One evacuated couple says they crossed minefields in Oleshky in a search for food.",
+      "summary": "One evacuated couple says they crossed minefields in Oleshky in search of food.",
       "published_at": "2026-10-31T19:22:26Z",
       "country_code": "RU",
       "country_name": "Russia"
@@ -137,15 +146,6 @@
       "country_name": "Thailand"
     },
     {
-      "source": "BBC World",
-      "title": "How has the ceasefire in Russian-occupied Oleshky been unfolding?",
-      "url": "https://www.bbc.co.uk/news/videos/cmp3gp2vg078o?at_medium=RSS&at_campaign=rss",
-      "summary": "Ukraine correspondent Dan Johnson explains the temporary ceasefire in the devastated town of Oleshky.",
-      "published_at": "2026-10-30T23:19:17Z",
-      "country_code": "UA",
-      "country_name": "Ukraine"
-    },
-    {
       "source": "BBC US & Canada",
       "title": "ICE agent charged for hitting Texas immigrant with vehicle during pursuit",
       "url": "https://www.bbc.co.uk/news/articles/ckjwep125v3eo?at_medium=RSS&at_campaign=rss",
@@ -207,15 +207,6 @@
       "published_at": "2026-10-30T17:07:19Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC Africa",
-      "title": "Cape Town set for classic finale – what does history suggest could happen?",
-      "url": "https://www.bbc.co.uk/sport/cricket/articles/c6n8dpvyyy71o?at_medium=RSS&at_campaign=rss",
-      "summary": "South Africa set up an epic final day of their decisive Test against Australia by batting throughout the fourth day. What does history sugge…",
-      "published_at": "2026-10-30T17:03:40Z",
-      "country_code": "AU",
-      "country_name": "Australia"
     },
     {
       "source": "BBC US & Canada",
@@ -849,9 +840,9 @@
       "news_count": 3
     },
     {
-      "country_code": "AU",
-      "country_name": "Australia",
-      "news_count": 2
+      "country_code": "KP",
+      "country_name": "North Korea",
+      "news_count": 3
     },
     {
       "country_code": "CA",
@@ -869,11 +860,6 @@
       "news_count": 2
     },
     {
-      "country_code": "KP",
-      "country_name": "North Korea",
-      "news_count": 2
-    },
-    {
       "country_code": "TH",
       "country_name": "Thailand",
       "news_count": 2
@@ -882,6 +868,11 @@
       "country_code": "VE",
       "country_name": "Venezuela",
       "news_count": 2
+    },
+    {
+      "country_code": "AU",
+      "country_name": "Australia",
+      "news_count": 1
     },
     {
       "country_code": "DE",
@@ -941,11 +932,6 @@
     {
       "country_code": "TR",
       "country_name": "Turkey",
-      "news_count": 1
-    },
-    {
-      "country_code": "UA",
-      "country_name": "Ukraine",
       "news_count": 1
     },
     {
