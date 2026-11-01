@@ -1,21 +1,39 @@
 {
-  "generated_at": "2026-11-01T10:40:20Z",
+  "generated_at": "2026-11-01T16:56:38Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Israeli strikes in Gaza kill eight including child, hospitals say",
+      "url": "https://www.bbc.co.uk/news/articles/cmqln14rrzxvo?at_medium=RSS&at_campaign=rss",
+      "summary": "Five officers from the Hamas-run police have been killed in Khan Younis and three people, including a child, killed in Gaza City, officials …",
+      "published_at": "2026-11-01T16:25:33Z",
+      "country_code": "PS",
+      "country_name": "Palestine"
+    },
+    {
+      "source": "BBC Latin America",
+      "title": "King to address slavery in Antigua as PM says he is open to possible UK apology",
+      "url": "https://www.bbc.co.uk/news/articles/cq398y0zj9rpo?at_medium=RSS&at_campaign=rss",
+      "summary": "King Charles III will deliver a speech to the Commonwealth Heads of Government Meeting on Tuesday as he concludes his nine-day Caribbean tou…",
+      "published_at": "2026-11-01T14:11:35Z",
+      "country_code": "GB",
+      "country_name": "United Kingdom"
+    },
     {
       "source": "BBC World",
       "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
       "url": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
       "summary": "The Federal Bureau of Investigation (FBI) says North Korea was responsible for the hack.",
-      "published_at": "2026-11-01T09:28:06Z",
+      "published_at": "2026-11-01T13:11:37Z",
       "country_code": "KP",
       "country_name": "North Korea"
     },
     {
       "source": "BBC World",
-      "title": "Shops looted as German cost of living protests turn violent",
+      "title": "Shops looted as German cost-of-living protests turn violent",
       "url": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss",
       "summary": "The protests in cities across Germany - including Berlin, Hamburg and Frankfurt - came on the same day hundreds of thousands also protested …",
-      "published_at": "2026-11-01T08:43:00Z",
+      "published_at": "2026-11-01T11:57:48Z",
       "country_code": "FR",
       "country_name": "France"
     },
@@ -23,7 +41,7 @@
       "source": "BBC World",
       "title": "India's opposition holds mega rally seeking election chief's resignation",
       "url": "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo?at_medium=RSS&at_campaign=rss",
-      "summary": "It comes amid growing protests over a voter roll revision exercise feared to leave 130 million voters off rolls.",
+      "summary": "Thousands gathered in the heart of delhi, calling for the chief election commissioner to step down.",
       "published_at": "2026-11-01T07:00:55Z",
       "country_code": "IN",
       "country_name": "India"
@@ -831,13 +849,13 @@
       "news_count": 3
     },
     {
-      "country_code": "CA",
-      "country_name": "Canada",
-      "news_count": 2
-    },
-    {
       "country_code": "GB",
       "country_name": "United Kingdom",
+      "news_count": 3
+    },
+    {
+      "country_code": "CA",
+      "country_name": "Canada",
       "news_count": 2
     },
     {
@@ -848,6 +866,11 @@
     {
       "country_code": "KE",
       "country_name": "Kenya",
+      "news_count": 2
+    },
+    {
+      "country_code": "PS",
+      "country_name": "Palestine",
       "news_count": 2
     },
     {
@@ -898,11 +921,6 @@
     {
       "country_code": "PL",
       "country_name": "Poland",
-      "news_count": 1
-    },
-    {
-      "country_code": "PS",
-      "country_name": "Palestine",
       "news_count": 1
     },
     {
