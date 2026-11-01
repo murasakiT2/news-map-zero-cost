@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-10-31T23:50:41Z",
+  "generated_at": "2026-11-01T03:06:18Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Shops looted as German cost of living protests turn violent",
+      "url": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss",
+      "summary": "Police in Frankfurt say \"violent riots\" took place in the city centre, with unrest also reported in Berlin, Hamburg and Cologne.",
+      "published_at": "2026-11-01T01:59:57Z",
+      "country_code": "DE",
+      "country_name": "Germany"
+    },
+    {
+      "source": "BBC World",
+      "title": "India's opposition set to hold mega rally seeking election chief's resignation",
+      "url": "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo?at_medium=RSS&at_campaign=rss",
+      "summary": "It comes amid growing protests over a voter roll revision exercise feared to leave 130 million voters off rolls.",
+      "published_at": "2026-11-01T00:12:07Z",
+      "country_code": "IN",
+      "country_name": "India"
+    },
     {
       "source": "BBC World",
       "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
@@ -191,7 +209,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "US tech stocks see sharp falls as AI spending nears $1tn",
       "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
       "summary": "Shares in Intel continue to fall while the tech-heavy Nasdaq opens at its lowest level in more than two months.",
@@ -200,7 +218,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "US inmate Christa Pike says she woke up 'confused and in pain' after failed execution",
       "url": "https://www.bbc.co.uk/news/articles/ck62ydn7dj9eo?at_medium=RSS&at_campaign=rss",
       "summary": "It is Pike's first public statement since she survived an execution attempt by lethal injection in September.",
@@ -236,7 +254,7 @@
       "country_name": "Spain"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "Pope Leo XIV becomes first pontiff to vote in a US election",
       "url": "https://www.bbc.co.uk/news/articles/ckwyq2509p7xo?at_medium=RSS&at_campaign=rss",
       "summary": "The Chicago-born pontiff, who has a tense relationship with Trump, mailed in a ballot for the midterm elections that will decide control of …",
@@ -850,8 +868,18 @@
       "news_count": 2
     },
     {
+      "country_code": "DE",
+      "country_name": "Germany",
+      "news_count": 2
+    },
+    {
       "country_code": "GB",
       "country_name": "United Kingdom",
+      "news_count": 2
+    },
+    {
+      "country_code": "IN",
+      "country_name": "India",
       "news_count": 2
     },
     {
@@ -875,11 +903,6 @@
       "news_count": 1
     },
     {
-      "country_code": "DE",
-      "country_name": "Germany",
-      "news_count": 1
-    },
-    {
       "country_code": "EG",
       "country_name": "Egypt",
       "news_count": 1
@@ -887,11 +910,6 @@
     {
       "country_code": "ET",
       "country_name": "Ethiopia",
-      "news_count": 1
-    },
-    {
-      "country_code": "IN",
-      "country_name": "India",
       "news_count": 1
     },
     {
