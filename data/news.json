@@ -1,23 +1,50 @@
 {
-  "generated_at": "2026-11-01T16:56:38Z",
+  "generated_at": "2026-11-01T20:54:55Z",
   "articles": [
-    {
-      "source": "BBC World",
-      "title": "Israeli strikes in Gaza kill eight including child, hospitals say",
-      "url": "https://www.bbc.co.uk/news/articles/cmqln14rrzxvo?at_medium=RSS&at_campaign=rss",
-      "summary": "Five officers from the Hamas-run police have been killed in Khan Younis and three people, including a child, killed in Gaza City, officials …",
-      "published_at": "2026-11-01T16:25:33Z",
-      "country_code": "PS",
-      "country_name": "Palestine"
-    },
     {
       "source": "BBC Latin America",
       "title": "King to address slavery in Antigua as PM says he is open to possible UK apology",
       "url": "https://www.bbc.co.uk/news/articles/cq398y0zj9rpo?at_medium=RSS&at_campaign=rss",
       "summary": "King Charles III will deliver a speech to the Commonwealth Heads of Government Meeting on Tuesday as he concludes his nine-day Caribbean tou…",
-      "published_at": "2026-11-01T14:11:35Z",
+      "published_at": "2026-11-01T19:58:20Z",
       "country_code": "GB",
       "country_name": "United Kingdom"
+    },
+    {
+      "source": "BBC World",
+      "title": "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire to end",
+      "url": "https://www.bbc.co.uk/news/articles/c64g1y90p71eo?at_medium=RSS&at_campaign=rss",
+      "summary": "A rare humanitarian ceasefire has allowed civilians to evacuate the Russian-occupied city of Oleshky.",
+      "published_at": "2026-11-01T19:48:17Z",
+      "country_code": "UA",
+      "country_name": "Ukraine"
+    },
+    {
+      "source": "BBC World",
+      "title": "Peaceful protests in Germany spiral into violence and looting",
+      "url": "https://www.bbc.co.uk/news/videos/cqgm0der7zkmo?at_medium=RSS&at_campaign=rss",
+      "summary": "Thousands joined largely orderly demonstrations earlier in the day, before violence erupted in Frankfurt, Berlin, Cologne and Hamburg.",
+      "published_at": "2026-11-01T18:51:56Z",
+      "country_code": "DE",
+      "country_name": "Germany"
+    },
+    {
+      "source": "BBC World",
+      "title": "Armed police start patrols in Sydney after Bondi Beach attack",
+      "url": "https://www.bbc.co.uk/news/articles/c9kgj7k7ry0ro?at_medium=RSS&at_campaign=rss",
+      "summary": "The new police unit is a security measure in response to last year's deadly shooting attack at a Hanukkah festival.",
+      "published_at": "2026-11-01T17:56:47Z",
+      "country_code": "AU",
+      "country_name": "Australia"
+    },
+    {
+      "source": "BBC World",
+      "title": "Israeli strikes in Gaza kill eight including child, hospitals say",
+      "url": "https://www.bbc.co.uk/news/articles/cmqln14rrzxvo?at_medium=RSS&at_campaign=rss",
+      "summary": "Five officers from the Hamas-run police have been killed in Khan Younis and three people, including a child, killed in Gaza City, officials …",
+      "published_at": "2026-11-01T17:06:32Z",
+      "country_code": "PS",
+      "country_name": "Palestine"
     },
     {
       "source": "BBC World",
@@ -164,22 +191,13 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "He questioned Thailand's monarchy dressed as Harry Potter. Now he's in jail for 34 years",
       "url": "https://www.bbc.co.uk/news/articles/cmjwepvd0qq9o?at_medium=RSS&at_campaign=rss",
       "summary": "Thailand has prosecuted 294 people since 2020 under its lèse majesté law, with sentences going up to 50 years.",
       "published_at": "2026-10-30T23:26:16Z",
       "country_code": "TH",
       "country_name": "Thailand"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "ICE agent charged for hitting Texas immigrant with vehicle during pursuit",
-      "url": "https://www.bbc.co.uk/news/articles/ckjwep125v3eo?at_medium=RSS&at_campaign=rss",
-      "summary": "The Mexican national, who was living in the US without legal documentation, suffered multiple leg fractures and a hip injury, prosecutors sa…",
-      "published_at": "2026-10-30T23:16:43Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC US & Canada",
@@ -263,7 +281,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "What's at stake for Trump in the US midterms?",
       "url": "https://www.bbc.co.uk/news/videos/cq77pm2jmmd5o?at_medium=RSS&at_campaign=rss",
       "summary": "Anthony Zurcher explains how the results of the midterm elections could reshape the rest of Trump's presidency.",
@@ -749,15 +767,6 @@
       "country_name": "Sudan"
     },
     {
-      "source": "BBC Europe",
-      "title": "Ukraine hit by strikes after Russia agrees to new peace talks",
-      "url": "https://www.bbc.co.uk/news/videos/c9146p1vx888o?at_medium=RSS&at_campaign=rss",
-      "summary": "The three waves of Russian missiles were launched at hours after Russia said it was \"ready in principle\" to resume peace talks with the US a…",
-      "published_at": "2026-10-22T17:49:13Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC Middle East",
       "title": "Israel's far right find fertile ground among first-time voters",
       "url": "https://www.bbc.co.uk/news/articles/cmvg632xgndeo?at_medium=RSS&at_campaign=rss",
@@ -816,7 +825,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 30
+      "news_count": 28
     },
     {
       "country_code": "IL",
@@ -854,8 +863,18 @@
       "news_count": 3
     },
     {
+      "country_code": "AU",
+      "country_name": "Australia",
+      "news_count": 2
+    },
+    {
       "country_code": "CA",
       "country_name": "Canada",
+      "news_count": 2
+    },
+    {
+      "country_code": "DE",
+      "country_name": "Germany",
       "news_count": 2
     },
     {
@@ -877,16 +896,6 @@
       "country_code": "VE",
       "country_name": "Venezuela",
       "news_count": 2
-    },
-    {
-      "country_code": "AU",
-      "country_name": "Australia",
-      "news_count": 1
-    },
-    {
-      "country_code": "DE",
-      "country_name": "Germany",
-      "news_count": 1
     },
     {
       "country_code": "EG",
@@ -941,6 +950,11 @@
     {
       "country_code": "TR",
       "country_name": "Turkey",
+      "news_count": 1
+    },
+    {
+      "country_code": "UA",
+      "country_name": "Ukraine",
       "news_count": 1
     },
     {
