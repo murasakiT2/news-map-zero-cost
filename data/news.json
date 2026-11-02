@@ -1,23 +1,32 @@
 {
-  "generated_at": "2026-11-01T20:54:55Z",
+  "generated_at": "2026-11-02T00:01:06Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Ukraine air raid app apparently hacked as users receive false radiation threat, Air Force says",
+      "url": "https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo?at_medium=RSS&at_campaign=rss",
+      "summary": "Authorities say there is no threat and have advised the public to stay calm and follow official channels for information.",
+      "published_at": "2026-11-01T22:38:24Z",
+      "country_code": "UA",
+      "country_name": "Ukraine"
+    },
+    {
+      "source": "BBC World",
+      "title": "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire ends",
+      "url": "https://www.bbc.co.uk/news/articles/c64g1y90p71eo?at_medium=RSS&at_campaign=rss",
+      "summary": "A rare humanitarian ceasefire allowed civilians to evacuate the Russian-occupied city of Oleshky.",
+      "published_at": "2026-11-01T21:55:01Z",
+      "country_code": "UA",
+      "country_name": "Ukraine"
+    },
     {
       "source": "BBC Latin America",
       "title": "King to address slavery in Antigua as PM says he is open to possible UK apology",
       "url": "https://www.bbc.co.uk/news/articles/cq398y0zj9rpo?at_medium=RSS&at_campaign=rss",
       "summary": "King Charles III will deliver a speech to the Commonwealth Heads of Government Meeting on Tuesday as he concludes his nine-day Caribbean tou…",
-      "published_at": "2026-11-01T19:58:20Z",
+      "published_at": "2026-11-01T21:18:12Z",
       "country_code": "GB",
       "country_name": "United Kingdom"
-    },
-    {
-      "source": "BBC World",
-      "title": "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire to end",
-      "url": "https://www.bbc.co.uk/news/articles/c64g1y90p71eo?at_medium=RSS&at_campaign=rss",
-      "summary": "A rare humanitarian ceasefire has allowed civilians to evacuate the Russian-occupied city of Oleshky.",
-      "published_at": "2026-11-01T19:48:17Z",
-      "country_code": "UA",
-      "country_name": "Ukraine"
     },
     {
       "source": "BBC World",
@@ -209,7 +218,7 @@
       "country_name": "Canada"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "G20 'family photo' cancelled after protests over presence of Russian minister",
       "url": "https://www.bbc.co.uk/news/articles/cmd6dp2y576do?at_medium=RSS&at_campaign=rss",
       "summary": "UK Foreign Secretary Ed Miliband confronted his Russian counterpart at the meeting and accused his government of killing innocent civilians …",
@@ -461,15 +470,6 @@
       "country_name": "Ethiopia"
     },
     {
-      "source": "BBC Asia",
-      "title": "Hello Kitty maker cuts ties with Japanese spy drama after China backlash",
-      "url": "https://www.bbc.co.uk/news/articles/cry4x177jlnyo?at_medium=RSS&at_campaign=rss",
-      "summary": "Sanrio has apologised after its merchandise line with Japanese TV series Vivant drew criticism.",
-      "published_at": "2026-10-29T07:54:33Z",
-      "country_code": "CN",
-      "country_name": "China"
-    },
-    {
       "source": "BBC Middle East",
       "title": "Israel's election deadlock is a sign of the country's deep divisions",
       "url": "https://www.bbc.co.uk/news/articles/cqz0ve94ygpjo?at_medium=RSS&at_campaign=rss",
@@ -639,15 +639,6 @@
       "published_at": "2026-10-27T00:00:30Z",
       "country_code": "IN",
       "country_name": "India"
-    },
-    {
-      "source": "BBC Asia",
-      "title": "Sydney's new $5bn airport has one big problem: Getting there is tough",
-      "url": "https://www.bbc.co.uk/news/videos/c64g1wy4mdwmo?at_medium=RSS&at_campaign=rss",
-      "summary": "The airport won’t have direct public transportation for a year. How do locals feel about getting there?",
-      "published_at": "2026-10-26T18:00:10Z",
-      "country_code": "AU",
-      "country_name": "Australia"
     },
     {
       "source": "BBC Middle East",
@@ -838,13 +829,13 @@
       "news_count": 7
     },
     {
-      "country_code": "CN",
-      "country_name": "China",
-      "news_count": 5
-    },
-    {
       "country_code": "BR",
       "country_name": "Brazil",
+      "news_count": 4
+    },
+    {
+      "country_code": "CN",
+      "country_name": "China",
       "news_count": 4
     },
     {
@@ -861,11 +852,6 @@
       "country_code": "GB",
       "country_name": "United Kingdom",
       "news_count": 3
-    },
-    {
-      "country_code": "AU",
-      "country_name": "Australia",
-      "news_count": 2
     },
     {
       "country_code": "CA",
@@ -893,9 +879,19 @@
       "news_count": 2
     },
     {
+      "country_code": "UA",
+      "country_name": "Ukraine",
+      "news_count": 2
+    },
+    {
       "country_code": "VE",
       "country_name": "Venezuela",
       "news_count": 2
+    },
+    {
+      "country_code": "AU",
+      "country_name": "Australia",
+      "news_count": 1
     },
     {
       "country_code": "EG",
@@ -950,11 +946,6 @@
     {
       "country_code": "TR",
       "country_name": "Turkey",
-      "news_count": 1
-    },
-    {
-      "country_code": "UA",
-      "country_name": "Ukraine",
       "news_count": 1
     },
     {
