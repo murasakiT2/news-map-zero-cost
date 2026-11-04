@@ -1,12 +1,39 @@
 {
-  "generated_at": "2026-11-03T19:40:08Z",
+  "generated_at": "2026-11-04T00:15:25Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "ANC under pressure to reverse South Africa decline",
+      "url": "https://www.bbc.co.uk/news/articles/cr4g1x6l77xyo?at_medium=RSS&at_campaign=rss",
+      "summary": "As South Africans vote in local elections, residents tell the BBC they are tired of the poor quality of services they get.",
+      "published_at": "2026-11-04T00:03:19Z",
+      "country_code": "ZA",
+      "country_name": "South Africa"
+    },
+    {
+      "source": "BBC World",
+      "title": "Spanish transport minister resigns days after deadly train crash",
+      "url": "https://www.bbc.co.uk/news/articles/c6wydqd4yxdyo?at_medium=RSS&at_campaign=rss",
+      "summary": "At least 69 people were killed and dozens injured in the collision south of the capital, Madrid.",
+      "published_at": "2026-11-03T22:45:59Z",
+      "country_code": "ES",
+      "country_name": "Spain"
+    },
+    {
+      "source": "BBC Europe",
+      "title": "UK and EU agree draft deal to scrap Brexit red tape over food exports",
+      "url": "https://www.bbc.co.uk/news/articles/cmp3grwre9xdo?at_medium=RSS&at_campaign=rss",
+      "summary": "The food deal, ahead of a UK-EU summit later this month, is the most significant part of the so-called Brexit reset agreed so far.",
+      "published_at": "2026-11-03T20:53:03Z",
+      "country_code": "GB",
+      "country_name": "United Kingdom"
+    },
     {
       "source": "BBC World",
       "title": "Seven flights across Europe targeted by suspected bomb threats",
       "url": "https://www.bbc.co.uk/news/articles/c6x2wd4v04eeo?at_medium=RSS&at_campaign=rss",
       "summary": "Planes in Poland, Spain, Bulgaria and Italy have been checked for explosives following separate threats.",
-      "published_at": "2026-11-03T17:56:03Z",
+      "published_at": "2026-11-03T20:42:47Z",
       "country_code": "IT",
       "country_name": "Italy"
     },
@@ -99,15 +126,6 @@
       "published_at": "2026-11-03T12:09:20Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC Europe",
-      "title": "UK and EU agree draft deal to scrap Brexit red tape over food exports",
-      "url": "https://www.bbc.co.uk/news/articles/cmp3grwre9xdo?at_medium=RSS&at_campaign=rss",
-      "summary": "The food deal, ahead of a UK-EU summit later this month, is the most significant part of the so-called Brexit reset agreed so far.",
-      "published_at": "2026-11-03T12:07:59Z",
-      "country_code": "GB",
-      "country_name": "United Kingdom"
     },
     {
       "source": "BBC World",
@@ -236,7 +254,7 @@
       "country_name": "Ukraine"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "Indonesia's toxic haze is giving its neighbours a political headache",
       "url": "https://www.bbc.co.uk/news/articles/c3dxwzjn2gw8o?at_medium=RSS&at_campaign=rss",
       "summary": "Governments in Singapore and Malaysia are split between anxious citizens and an irascible neighbour.",
@@ -317,7 +335,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Middle East",
       "title": "'I couldn't be silent': Iranian teen's mother seeking justice after daughter shot dead",
       "url": "https://www.bbc.co.uk/news/videos/cwjdmp25mem9o?at_medium=RSS&at_campaign=rss",
       "summary": "BBC Panorama follows grieving Samira who - after the killing of Sevda - faces up to the Tehran regime.",
@@ -696,15 +714,6 @@
     },
     {
       "source": "BBC Africa",
-      "title": "Mourners killed by Kenya police at Odinga national farewell not part of violence, BBC finds",
-      "url": "https://www.bbc.co.uk/news/articles/c962y4ld1d7do?at_medium=RSS&at_campaign=rss",
-      "summary": "After analysing 1,500 videos and images of the Raila Odinga memorial, Africa Eye finds that those killed were far from the scuffles.",
-      "published_at": "2026-10-11T23:13:20Z",
-      "country_code": "KE",
-      "country_name": "Kenya"
-    },
-    {
-      "source": "BBC Africa",
       "title": "Watch: Who is Nobel Peace Prize winner Navi Pillay?",
       "url": "https://www.bbc.co.uk/news/videos/cq8ezdww6w0do?at_medium=RSS&at_campaign=rss",
       "summary": "BBC correspondent Joe Inwood explains how Pillay's childhood in South Africa led her to become a driving force in international law from Mya…",
@@ -743,6 +752,11 @@
       "news_count": 8
     },
     {
+      "country_code": "ES",
+      "country_name": "Spain",
+      "news_count": 5
+    },
+    {
       "country_code": "AU",
       "country_name": "Australia",
       "news_count": 4
@@ -750,11 +764,6 @@
     {
       "country_code": "BR",
       "country_name": "Brazil",
-      "news_count": 4
-    },
-    {
-      "country_code": "ES",
-      "country_name": "Spain",
       "news_count": 4
     },
     {
@@ -783,13 +792,13 @@
       "news_count": 2
     },
     {
-      "country_code": "KE",
-      "country_name": "Kenya",
+      "country_code": "PS",
+      "country_name": "Palestine",
       "news_count": 2
     },
     {
-      "country_code": "PS",
-      "country_name": "Palestine",
+      "country_code": "ZA",
+      "country_name": "South Africa",
       "news_count": 2
     },
     {
@@ -833,6 +842,11 @@
       "news_count": 1
     },
     {
+      "country_code": "KE",
+      "country_name": "Kenya",
+      "news_count": 1
+    },
+    {
       "country_code": "MA",
       "country_name": "Morocco",
       "news_count": 1
@@ -865,11 +879,6 @@
     {
       "country_code": "VE",
       "country_name": "Venezuela",
-      "news_count": 1
-    },
-    {
-      "country_code": "ZA",
-      "country_name": "South Africa",
       "news_count": 1
     }
   ]
