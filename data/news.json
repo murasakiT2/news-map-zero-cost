@@ -1,8 +1,44 @@
 {
-  "generated_at": "2026-11-05T01:20:24Z",
+  "generated_at": "2026-11-05T08:01:02Z",
   "articles": [
     {
-      "source": "BBC US & Canada",
+      "source": "BBC World",
+      "title": "Vance walks Trump tightrope with scathing election critique blaming Iran war",
+      "url": "https://www.bbc.co.uk/news/articles/crz98zqkz7z0o?at_medium=RSS&at_campaign=rss",
+      "summary": "The vice-president's blunt assessment of Republican election defeat marked one of the sharpest breaks with a sitting president in recent mem…",
+      "published_at": "2026-11-05T03:47:56Z",
+      "country_code": "IR",
+      "country_name": "Iran"
+    },
+    {
+      "source": "BBC Africa",
+      "title": "UK commits to 'time-bound' talks on slavery apology",
+      "url": "https://www.bbc.co.uk/news/articles/cqdr872jkk7vo?at_medium=RSS&at_campaign=rss",
+      "summary": "British diplomats are looking to offer reassurance that there is a sense of urgency to deal with the issue, even if a date for doing so is n…",
+      "published_at": "2026-11-05T02:17:18Z",
+      "country_code": "GB",
+      "country_name": "United Kingdom"
+    },
+    {
+      "source": "BBC World",
+      "title": "Pope Leo hosts Bob Dylan at official residence in Rome",
+      "url": "https://www.bbc.co.uk/news/articles/cm0e035n13ylo?at_medium=RSS&at_campaign=rss",
+      "summary": "Pope Leo had previously quoted Dylan's work in the preface of a book warning against nuclear rearmament.",
+      "published_at": "2026-11-05T02:09:23Z",
+      "country_code": "IT",
+      "country_name": "Italy"
+    },
+    {
+      "source": "BBC Africa",
+      "title": "Why a US-funded vaccine trial on babies was cancelled in Guinea-Bissau",
+      "url": "https://www.bbc.co.uk/news/articles/cm0rlxq08ejko?at_medium=RSS&at_campaign=rss",
+      "summary": "The trial was condemned as \"unethical\" and \"neocolonial\" because half of the babies would not be given the vaccine.",
+      "published_at": "2026-11-05T00:30:37Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
       "title": "Mother and daughter die after suspected grizzly bear attack in Canada",
       "url": "https://www.bbc.co.uk/news/articles/cqvgry8k5d01o?at_medium=RSS&at_campaign=rss",
       "summary": "Authorities in British Columbia say evidence suggests an animal may have been involved in the women's deaths.",
@@ -65,7 +101,7 @@
       "country_name": "United Kingdom"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "US midterm results a 'victory' for Canadians hopeful of tariff relief",
       "url": "https://www.bbc.co.uk/news/articles/cqev3mw3e0kdo?at_medium=RSS&at_campaign=rss",
       "summary": "With Canada-US trade talks back on, Tuesday’s midterm Democratic wave puts pressure on the White House to come to a deal.",
@@ -137,7 +173,7 @@
       "country_name": "Spain"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "Sharp objects found in Halloween sweets in three European nations",
       "url": "https://www.bbc.co.uk/news/articles/cvglw7x239pwo?at_medium=RSS&at_campaign=rss",
       "summary": "Dozens of cases are reported in Austria, Germany and Hungary, including a nine-year-old girl hurting her tongue while eating chocolate conta…",
@@ -146,7 +182,7 @@
       "country_name": "Germany"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Africa",
       "title": "ANC under pressure to reverse South Africa decline",
       "url": "https://www.bbc.co.uk/news/articles/cr4g1x6l77xyo?at_medium=RSS&at_campaign=rss",
       "summary": "As South Africans vote in local elections, residents tell the BBC they are tired of the poor quality of services they get.",
@@ -155,20 +191,11 @@
       "country_name": "South Africa"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Africa",
       "title": "Rwanda's army team removed from Africa league after US sanctions, NBA says",
       "url": "https://www.bbc.co.uk/news/articles/c699zdx9knmpo?at_medium=RSS&at_campaign=rss",
       "summary": "The US imposed sanctions on Rwanda's army over its role in the conflict in DR Congo.",
       "published_at": "2026-11-04T11:46:09Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC Africa",
-      "title": "US contractor gave Ethiopia secrets to help kill Tigray fighters",
-      "url": "https://www.bbc.co.uk/news/articles/c6y8lz73vmv7o?at_medium=RSS&at_campaign=rss",
-      "summary": "The Ethiopian-born American citizen admitted sharing dozens of classified documents with senior Ethiopian officials.",
-      "published_at": "2026-11-04T10:35:03Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -369,15 +396,6 @@
       "published_at": "2026-11-02T23:02:01Z",
       "country_code": "ID",
       "country_name": "Indonesia"
-    },
-    {
-      "source": "BBC World",
-      "title": "What Florida jet audio and flight data tells us about its final moments",
-      "url": "https://www.bbc.co.uk/news/videos/c52e9lgxjz82o?at_medium=RSS&at_campaign=rss",
-      "summary": "A private jet crashed in Florida on Sunday, killing all nine people on board, according to US authorities.",
-      "published_at": "2026-11-02T19:49:22Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC Latin America",
@@ -744,7 +762,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 28
+      "news_count": 27
     },
     {
       "country_code": "IL",
@@ -757,18 +775,23 @@
       "news_count": 7
     },
     {
+      "country_code": "GB",
+      "country_name": "United Kingdom",
+      "news_count": 5
+    },
+    {
       "country_code": "BR",
       "country_name": "Brazil",
       "news_count": 4
     },
     {
-      "country_code": "GB",
-      "country_name": "United Kingdom",
+      "country_code": "IR",
+      "country_name": "Iran",
       "news_count": 4
     },
     {
-      "country_code": "IR",
-      "country_name": "Iran",
+      "country_code": "IT",
+      "country_name": "Italy",
       "news_count": 3
     },
     {
@@ -789,11 +812,6 @@
     {
       "country_code": "DE",
       "country_name": "Germany",
-      "news_count": 2
-    },
-    {
-      "country_code": "IT",
-      "country_name": "Italy",
       "news_count": 2
     },
     {
