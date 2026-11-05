@@ -1,6 +1,78 @@
 {
-  "generated_at": "2026-11-05T08:01:02Z",
+  "generated_at": "2026-11-05T16:35:31Z",
   "articles": [
+    {
+      "source": "BBC Europe",
+      "title": "European flights targeted by 'malicious hoax' bomb threats for second time this week",
+      "url": "https://www.bbc.co.uk/news/articles/cmpqg08nz3pqo?at_medium=RSS&at_campaign=rss",
+      "summary": "At least 18 flights across Europe are affected in what the UK government calls a \"malicious hoax threat\".",
+      "published_at": "2026-11-05T16:09:51Z",
+      "country_code": "GB",
+      "country_name": "United Kingdom"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "How America voted in maps and charts",
+      "url": "https://www.bbc.co.uk/news/articles/cm4g1j0n92qdo?at_medium=RSS&at_campaign=rss",
+      "summary": "See the maps and charts that show how America voted in the US midterm elections.",
+      "published_at": "2026-11-05T15:52:04Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "France holds new strikes and protests as unions demand immediate answers",
+      "url": "https://www.bbc.co.uk/news/articles/ckx2qzv835pgo?at_medium=RSS&at_campaign=rss",
+      "summary": "Five of France's unions join a wave of strikes and protests in a national day of action.",
+      "published_at": "2026-11-05T15:43:15Z",
+      "country_code": "FR",
+      "country_name": "France"
+    },
+    {
+      "source": "BBC World",
+      "title": "A bitter end for Ronaldo - the icon who transformed Portugal",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckn9rwr2zzpvo?at_medium=RSS&at_campaign=rss",
+      "summary": "As Cristiano Ronaldo retires from international football, Guillem Balague looks at why and what is next for the Portugal legend.",
+      "published_at": "2026-11-05T14:29:40Z",
+      "country_code": "PT",
+      "country_name": "Portugal"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "Democrat leads by just over 1,000 votes in surprisingly tight Mississippi Senate race",
+      "url": "https://www.bbc.co.uk/news/articles/c6n9rwxlx992o?at_medium=RSS&at_campaign=rss",
+      "summary": "If Democrat Scott Colom wins the race, he could become the first black US senator elected in Mississippi since 1875.",
+      "published_at": "2026-11-05T14:08:50Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC Europe",
+      "title": "Melania Trump hosting Russian and Ukrainian delegations at the White House",
+      "url": "https://www.bbc.co.uk/news/articles/cm87zvpzwq0no?at_medium=RSS&at_campaign=rss",
+      "summary": "On Wednesday, Ukraine gave Melania Trump an award for her \"significant personal contribution to humanitarian support\".",
+      "published_at": "2026-11-05T13:09:12Z",
+      "country_code": "UA",
+      "country_name": "Ukraine"
+    },
+    {
+      "source": "BBC Europe",
+      "title": "Ronaldo retires from Portugal duty",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cme8rxx2e1w9o?at_medium=RSS&at_campaign=rss",
+      "summary": "Portugal legend Cristiano Ronaldo says \"the day has come for me to hand back the number seven shirt\".",
+      "published_at": "2026-11-05T12:28:01Z",
+      "country_code": "PT",
+      "country_name": "Portugal"
+    },
+    {
+      "source": "BBC World",
+      "title": "India's costliest film retells a beloved Hindu epic - but divides critics",
+      "url": "https://www.bbc.co.uk/news/articles/cm93zv62v1n7o?at_medium=RSS&at_campaign=rss",
+      "summary": "Easily the most anticipated Bollywood film of the year, Ramayana: Rise of a Legend is the first of two parts.",
+      "published_at": "2026-11-05T09:04:42Z",
+      "country_code": "IN",
+      "country_name": "India"
+    },
     {
       "source": "BBC World",
       "title": "Vance walks Trump tightrope with scathing election critique blaming Iran war",
@@ -29,7 +101,16 @@
       "country_name": "Italy"
     },
     {
-      "source": "BBC Africa",
+      "source": "BBC Asia",
+      "title": "Australia's oldest department store David Jones folds after 188 years",
+      "url": "https://www.bbc.co.uk/news/articles/cky93z5y0171o?at_medium=RSS&at_campaign=rss",
+      "summary": "The brand's 38 physical stores and online site will continue to operate while receivers review its operations.",
+      "published_at": "2026-11-05T00:59:22Z",
+      "country_code": "AU",
+      "country_name": "Australia"
+    },
+    {
+      "source": "BBC World",
       "title": "Why a US-funded vaccine trial on babies was cancelled in Guinea-Bissau",
       "url": "https://www.bbc.co.uk/news/articles/cm0rlxq08ejko?at_medium=RSS&at_campaign=rss",
       "summary": "The trial was condemned as \"unethical\" and \"neocolonial\" because half of the babies would not be given the vaccine.",
@@ -38,7 +119,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "Mother and daughter die after suspected grizzly bear attack in Canada",
       "url": "https://www.bbc.co.uk/news/articles/cqvgry8k5d01o?at_medium=RSS&at_campaign=rss",
       "summary": "Authorities in British Columbia say evidence suggests an animal may have been involved in the women's deaths.",
@@ -47,7 +128,7 @@
       "country_name": "Canada"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "Ukraine says bodycam video shows deadly Russian double-tap bombing",
       "url": "https://www.bbc.co.uk/news/articles/c98rz6penv86o?at_medium=RSS&at_campaign=rss",
       "summary": "At least 40 people were killed and another 30 may still be under the rubble after Monday's attack on a Ukrainian village, Kyiv says.",
@@ -66,39 +147,12 @@
     },
     {
       "source": "BBC US & Canada",
-      "title": "Elon Musk's millions failed to deliver Republican wins in fierce midterms",
-      "url": "https://www.bbc.co.uk/news/articles/cv8ez3p3ge5ko?at_medium=RSS&at_campaign=rss",
-      "summary": "Musk spent nearly $500m in the 2026 US midterm elections, an individual election spending record.",
-      "published_at": "2026-11-04T21:41:15Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC US & Canada",
       "title": "Democrats 'got their wish': Voters react to midterm results",
       "url": "https://www.bbc.co.uk/news/videos/cqe8le668e13o?at_medium=RSS&at_campaign=rss",
       "summary": "People in the US react after the Democrats won the Senate and the House, taking control of Congress for the rest of Donald Trump's presidenc…",
       "published_at": "2026-11-04T19:01:37Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC Europe",
-      "title": "EU rules on Artificial Intelligence devices will apply in NI",
-      "url": "https://www.bbc.co.uk/news/articles/c8x23zqxwdlro?at_medium=RSS&at_campaign=rss",
-      "summary": "Some EU rules on Artificial Intelligence will apply in Northern Ireland, the UK government says.",
-      "published_at": "2026-11-04T18:47:32Z",
-      "country_code": "GB",
-      "country_name": "United Kingdom"
-    },
-    {
-      "source": "BBC Africa",
-      "title": "British man infected with Ebola in DR Congo to be flown back to UK",
-      "url": "https://www.bbc.co.uk/news/articles/crq8nj7xqdv9o?at_medium=RSS&at_campaign=rss",
-      "summary": "The wider risk to the UK public from the deadly virus remains low, a government spokesperson says.",
-      "published_at": "2026-11-04T18:34:19Z",
-      "country_code": "GB",
-      "country_name": "United Kingdom"
     },
     {
       "source": "BBC US & Canada",
@@ -110,7 +164,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Middle East",
       "title": "Iran's chief negotiator says Americans voted 'no to war'",
       "url": "https://www.bbc.co.uk/news/articles/c6d934npl9y8o?at_medium=RSS&at_campaign=rss",
       "summary": "\"We endorse this message,\" Mohammed Bagher Ghalibaf says, as Donald Trump acknowledges the conflict's role in the Republican Party's defeat.",
@@ -119,7 +173,7 @@
       "country_name": "Iran"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "The young politicians with African roots making history in the US midterms",
       "url": "https://www.bbc.co.uk/news/articles/cmrly6j6lpydo?at_medium=RSS&at_campaign=rss",
       "summary": "For some young Africans, these victories offer a glimpse of what a new generation of voters could do at home.",
@@ -128,7 +182,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Middle East",
       "title": "Israel's president begins consultations with parties after election deadlock",
       "url": "https://www.bbc.co.uk/news/articles/c6z98z5z91ppo?at_medium=RSS&at_campaign=rss",
       "summary": "Herzog warns politicians that \"not every commitment and promise can be fulfilled\" if they want to avoid another election.",
@@ -147,24 +201,6 @@
     },
     {
       "source": "BBC Europe",
-      "title": "Zelensky gives Melania Trump Ukraine's highest award after Oleshky ceasefire",
-      "url": "https://www.bbc.co.uk/news/articles/cm87zvpzwq0no?at_medium=RSS&at_campaign=rss",
-      "summary": "Russian and Ukrainian delegations will meet the US first lady at the White House on Thursday.",
-      "published_at": "2026-11-04T15:01:10Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "Everything you need to know from the US midterm elections",
-      "url": "https://www.bbc.co.uk/news/articles/cmr4y92rgd9po?at_medium=RSS&at_campaign=rss",
-      "summary": "Democrats secured some big wins - and a few historic firsts - earning congratulations from President Trump.",
-      "published_at": "2026-11-04T14:05:42Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
       "title": "Nadal set to join Real Madrid board of directors",
       "url": "https://www.bbc.co.uk/sport/articles/cmy56zekeneqo?at_medium=RSS&at_campaign=rss",
       "summary": "Tennis great Rafael Nadal is set to join the board of Spanish football giants Real Madrid.",
@@ -182,7 +218,7 @@
       "country_name": "Germany"
     },
     {
-      "source": "BBC Africa",
+      "source": "BBC World",
       "title": "ANC under pressure to reverse South Africa decline",
       "url": "https://www.bbc.co.uk/news/articles/cr4g1x6l77xyo?at_medium=RSS&at_campaign=rss",
       "summary": "As South Africans vote in local elections, residents tell the BBC they are tired of the poor quality of services they get.",
@@ -200,42 +236,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
-      "title": "How America voted in maps and charts",
-      "url": "https://www.bbc.co.uk/news/articles/cm4g1j0n92qdo?at_medium=RSS&at_campaign=rss",
-      "summary": "See the maps and charts that show how America voted in the US midterm elections.",
-      "published_at": "2026-11-04T09:53:18Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "Tears, celebrations and selfies: US midterms in pictures",
-      "url": "https://www.bbc.co.uk/news/articles/cq74pexm44elo?at_medium=RSS&at_campaign=rss",
-      "summary": "Democrats cheered as they picked up victories in Republican states. Tears were shed as Republican losses mounted.",
-      "published_at": "2026-11-04T08:05:53Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "Watch: Key moments from the US midterm election results",
-      "url": "https://www.bbc.co.uk/news/videos/cq3dj7xn2xvko?at_medium=RSS&at_campaign=rss",
-      "summary": "Democrats have won control of the Senate and House of Representatives, taking control of Congress for the rest of Donald Trump's presidency.",
-      "published_at": "2026-11-04T07:23:10Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "What the Democratic takeover of the Senate means for Trump",
-      "url": "https://www.bbc.co.uk/news/videos/cr5ynex46j75o?at_medium=RSS&at_campaign=rss",
-      "summary": "The BBC's North America editor Sarah Smith explains how Democratic control of both chambers could affect the last two years of Donald Trump'…",
-      "published_at": "2026-11-04T04:53:35Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC Asia",
       "title": "Weapon or wine bottle? China disputes reports of artillery shell in Papua New Guinea",
       "url": "https://www.bbc.co.uk/news/articles/cm0qkxzv3j99o?at_medium=RSS&at_campaign=rss",
@@ -245,15 +245,6 @@
       "country_name": "China"
     },
     {
-      "source": "BBC US & Canada",
-      "title": "Sarah Smith on Democrats flipping the House of Representatives",
-      "url": "https://www.bbc.co.uk/news/videos/cwly37l351neo?at_medium=RSS&at_campaign=rss",
-      "summary": "The BBC's North America editor Sarah Smith delivers the news: Democrats are projected to flip the House of Representatives from a Republican…",
-      "published_at": "2026-11-04T03:40:15Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC Europe",
       "title": "Spanish transport minister resigns days after deadly train crash",
       "url": "https://www.bbc.co.uk/news/articles/c6wydqd4yxdyo?at_medium=RSS&at_campaign=rss",
@@ -261,15 +252,6 @@
       "published_at": "2026-11-03T22:45:59Z",
       "country_code": "ES",
       "country_name": "Spain"
-    },
-    {
-      "source": "BBC Europe",
-      "title": "Seven flights across Europe targeted by suspected bomb threats",
-      "url": "https://www.bbc.co.uk/news/articles/c6x2wd4v04eeo?at_medium=RSS&at_campaign=rss",
-      "summary": "Planes in Poland, Spain, Bulgaria and Italy have been checked for explosives following separate threats.",
-      "published_at": "2026-11-03T20:42:47Z",
-      "country_code": "IT",
-      "country_name": "Italy"
     },
     {
       "source": "BBC Latin America",
@@ -290,15 +272,6 @@
       "country_name": "Spain"
     },
     {
-      "source": "BBC Europe",
-      "title": "Death toll rises in Ukraine after Russia attacks aid centre, hospice and hospital",
-      "url": "https://www.bbc.co.uk/news/articles/c65ynez5y599o?at_medium=RSS&at_campaign=rss",
-      "summary": "At least 38 people are killed in 24 hours and Ukraine's Volodymyr Zelensky warns dozens more could be trapped under rubble.",
-      "published_at": "2026-11-03T16:57:41Z",
-      "country_code": "RU",
-      "country_name": "Russia"
-    },
-    {
       "source": "BBC Middle East",
       "title": "Trump says US 'won't be paying Israel' by end of year",
       "url": "https://www.bbc.co.uk/news/articles/cmx2dlx86n9yo?at_medium=RSS&at_campaign=rss",
@@ -306,24 +279,6 @@
       "published_at": "2026-11-03T15:09:51Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC Europe",
-      "title": "Europe on alert after supermarket freezers hit by cyber-attacks in 10 countries",
-      "url": "https://www.bbc.co.uk/news/articles/cwy8lm1m59mvo?at_medium=RSS&at_campaign=rss",
-      "summary": "Supermarkets have reported problems from Estonia and Sweden to Portugal and Italy and many retainers have been forced to discard food.",
-      "published_at": "2026-11-03T13:55:47Z",
-      "country_code": "IT",
-      "country_name": "Italy"
-    },
-    {
-      "source": "BBC Europe",
-      "title": "UK meat industry hit by cyber-attack which targeted European supermarket freezers",
-      "url": "https://www.bbc.co.uk/news/articles/ckq6ndq8l6v0o?at_medium=RSS&at_campaign=rss",
-      "summary": "Supermarkets in countries including Ireland, Sweden and Belgium reported fridges being hiked in temperature on Monday.",
-      "published_at": "2026-11-03T13:07:00Z",
-      "country_code": "GB",
-      "country_name": "United Kingdom"
     },
     {
       "source": "BBC Latin America",
@@ -381,15 +336,6 @@
     },
     {
       "source": "BBC Asia",
-      "title": "Man and boy arrested after allegedly attacking One Nation volunteer with bat",
-      "url": "https://www.bbc.co.uk/news/articles/cwly3jd27m9xo?at_medium=RSS&at_campaign=rss",
-      "summary": "The incident comes amid growing calls for the temperature of political debate in Australia to be turned down.",
-      "published_at": "2026-11-03T03:30:16Z",
-      "country_code": "AU",
-      "country_name": "Australia"
-    },
-    {
-      "source": "BBC Asia",
       "title": "Indonesia's toxic haze is giving its neighbours a political headache",
       "url": "https://www.bbc.co.uk/news/articles/c3dxwzjn2gw8o?at_medium=RSS&at_campaign=rss",
       "summary": "Governments in Singapore and Malaysia are split between anxious citizens and an irascible neighbour.",
@@ -405,24 +351,6 @@
       "published_at": "2026-11-02T15:08:56Z",
       "country_code": "CO",
       "country_name": "Colombia"
-    },
-    {
-      "source": "BBC Asia",
-      "title": "Shock and anger in India after eight-year-old beats six-year-old in classroom",
-      "url": "https://www.bbc.co.uk/news/articles/crje5gqnl89no?at_medium=RSS&at_campaign=rss",
-      "summary": "The girl, who was seriously injured, is out of danger, but remains traumatised by her assault, her family said.",
-      "published_at": "2026-11-02T14:27:51Z",
-      "country_code": "IN",
-      "country_name": "India"
-    },
-    {
-      "source": "BBC World",
-      "title": "What we know about the alert app hack in Ukraine and Russia",
-      "url": "https://www.bbc.co.uk/news/videos/crq5n6204g20o?at_medium=RSS&at_campaign=rss",
-      "summary": "Both Ukraine and Russia say their air raid alert apps were cyber-attacked - Joe Tidy explains what we know so far.",
-      "published_at": "2026-11-02T14:24:25Z",
-      "country_code": "RU",
-      "country_name": "Russia"
     },
     {
       "source": "BBC Middle East",
@@ -443,24 +371,6 @@
       "country_name": "Iran"
     },
     {
-      "source": "BBC Asia",
-      "title": "China state broadcaster pulls La Liga matches following Mbappé joke",
-      "url": "https://www.bbc.co.uk/news/articles/cq78pypg0800o?at_medium=RSS&at_campaign=rss",
-      "summary": "China Media Group, which acknowledged Mbappé's apology, has not said how long the blackout will last.",
-      "published_at": "2026-11-02T03:58:38Z",
-      "country_code": "CN",
-      "country_name": "China"
-    },
-    {
-      "source": "BBC Europe",
-      "title": "Peaceful protests in Germany spiral into violence and looting",
-      "url": "https://www.bbc.co.uk/news/videos/cqgm0der7zkmo?at_medium=RSS&at_campaign=rss",
-      "summary": "Thousands joined largely orderly demonstrations earlier in the day, before violence erupted in Frankfurt, Berlin, Cologne and Hamburg.",
-      "published_at": "2026-11-01T18:51:56Z",
-      "country_code": "DE",
-      "country_name": "Germany"
-    },
-    {
       "source": "BBC Middle East",
       "title": "Israeli strikes in Gaza kill eight including child, hospitals say",
       "url": "https://www.bbc.co.uk/news/articles/cmqln14rrzxvo?at_medium=RSS&at_campaign=rss",
@@ -468,15 +378,6 @@
       "published_at": "2026-11-01T17:06:32Z",
       "country_code": "PS",
       "country_name": "Palestine"
-    },
-    {
-      "source": "BBC Asia",
-      "title": "He questioned Thailand's monarchy dressed as Harry Potter. Now he's in jail for 34 years",
-      "url": "https://www.bbc.co.uk/news/articles/cmjwepvd0qq9o?at_medium=RSS&at_campaign=rss",
-      "summary": "Thailand has prosecuted 294 people since 2020 under its lèse majesté law, with sentences going up to 50 years.",
-      "published_at": "2026-10-30T23:26:16Z",
-      "country_code": "TH",
-      "country_name": "Thailand"
     },
     {
       "source": "BBC Middle East",
@@ -498,28 +399,10 @@
     },
     {
       "source": "BBC Europe",
-      "title": "What we know so far about deadly Spain train crash",
-      "url": "https://www.bbc.co.uk/news/articles/cm8xz7pkd0jjo?at_medium=RSS&at_campaign=rss",
-      "summary": "More than 500 passengers were on board the trains when the crash occurred in the province of Toledo, south of Madrid.",
-      "published_at": "2026-10-29T22:14:39Z",
-      "country_code": "ES",
-      "country_name": "Spain"
-    },
-    {
-      "source": "BBC Europe",
       "title": "Young athlete and former minister among victims of Spain train crash",
       "url": "https://www.bbc.co.uk/news/articles/cr78plp1p9yvo?at_medium=RSS&at_campaign=rss",
       "summary": "As some of the victims' names are released publicly, an outpouring of grief and anger is sweeping across Spain.",
       "published_at": "2026-10-29T21:33:35Z",
-      "country_code": "ES",
-      "country_name": "Spain"
-    },
-    {
-      "source": "BBC Europe",
-      "title": "Watch: What leaked audio reveals about Spain train crash",
-      "url": "https://www.bbc.co.uk/news/videos/c6vgjeg0myzgo?at_medium=RSS&at_campaign=rss",
-      "summary": "Recordings between a control centre and the train drivers appear to show one train was given clearance to move even though another train had…",
-      "published_at": "2026-10-29T20:50:25Z",
       "country_code": "ES",
       "country_name": "Spain"
     },
@@ -531,15 +414,6 @@
       "published_at": "2026-10-29T14:58:28Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC Europe",
-      "title": "Shock of rail tragedy gives way to sorrow and outrage in politically divided Spain",
-      "url": "https://www.bbc.co.uk/news/articles/ckn9rq8204l0o?at_medium=RSS&at_campaign=rss",
-      "summary": "The latest train crash will pile pressure on the government of Pedro Sánchez, one month before the general election.",
-      "published_at": "2026-10-29T14:08:23Z",
-      "country_code": "ES",
-      "country_name": "Spain"
     },
     {
       "source": "BBC Africa",
@@ -762,7 +636,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 27
+      "news_count": 21
     },
     {
       "country_code": "IL",
@@ -770,18 +644,13 @@
       "news_count": 9
     },
     {
-      "country_code": "ES",
-      "country_name": "Spain",
-      "news_count": 7
-    },
-    {
-      "country_code": "GB",
-      "country_name": "United Kingdom",
-      "news_count": 5
-    },
-    {
       "country_code": "BR",
       "country_name": "Brazil",
+      "news_count": 4
+    },
+    {
+      "country_code": "ES",
+      "country_name": "Spain",
       "news_count": 4
     },
     {
@@ -790,13 +659,8 @@
       "news_count": 4
     },
     {
-      "country_code": "IT",
-      "country_name": "Italy",
-      "news_count": 3
-    },
-    {
-      "country_code": "RU",
-      "country_name": "Russia",
+      "country_code": "GB",
+      "country_name": "United Kingdom",
       "news_count": 3
     },
     {
@@ -805,18 +669,18 @@
       "news_count": 2
     },
     {
-      "country_code": "CN",
-      "country_name": "China",
-      "news_count": 2
-    },
-    {
-      "country_code": "DE",
-      "country_name": "Germany",
-      "news_count": 2
-    },
-    {
       "country_code": "PS",
       "country_name": "Palestine",
+      "news_count": 2
+    },
+    {
+      "country_code": "PT",
+      "country_name": "Portugal",
+      "news_count": 2
+    },
+    {
+      "country_code": "UA",
+      "country_name": "Ukraine",
       "news_count": 2
     },
     {
@@ -835,13 +699,28 @@
       "news_count": 1
     },
     {
+      "country_code": "CN",
+      "country_name": "China",
+      "news_count": 1
+    },
+    {
       "country_code": "CO",
       "country_name": "Colombia",
       "news_count": 1
     },
     {
+      "country_code": "DE",
+      "country_name": "Germany",
+      "news_count": 1
+    },
+    {
       "country_code": "EG",
       "country_name": "Egypt",
+      "news_count": 1
+    },
+    {
+      "country_code": "FR",
+      "country_name": "France",
       "news_count": 1
     },
     {
@@ -852,6 +731,11 @@
     {
       "country_code": "IN",
       "country_name": "India",
+      "news_count": 1
+    },
+    {
+      "country_code": "IT",
+      "country_name": "Italy",
       "news_count": 1
     },
     {
@@ -870,18 +754,13 @@
       "news_count": 1
     },
     {
+      "country_code": "RU",
+      "country_name": "Russia",
+      "news_count": 1
+    },
+    {
       "country_code": "SD",
       "country_name": "Sudan",
-      "news_count": 1
-    },
-    {
-      "country_code": "TH",
-      "country_name": "Thailand",
-      "news_count": 1
-    },
-    {
-      "country_code": "UA",
-      "country_name": "Ukraine",
       "news_count": 1
     }
   ]
