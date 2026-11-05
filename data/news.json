@@ -1,12 +1,84 @@
 {
-  "generated_at": "2026-11-05T16:35:31Z",
+  "generated_at": "2026-11-05T22:26:20Z",
   "articles": [
     {
-      "source": "BBC Europe",
-      "title": "European flights targeted by 'malicious hoax' bomb threats for second time this week",
+      "source": "BBC World",
+      "title": "Major tech stocks plunge as US midterms add to fears of AI slowdown",
+      "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
+      "summary": "The market has been reacting to possible tougher scrutiny of data centre construction and the AI industry following the US midterms",
+      "published_at": "2026-11-05T22:13:38Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC Africa",
+      "title": "Will Atiku Abubakar be on Nigeria's presidential ballot after court ruling?",
+      "url": "https://www.bbc.co.uk/news/articles/cw8rzzx46jd5o?at_medium=RSS&at_campaign=rss",
+      "summary": "The high court has sacked the leadership of the opposition ADC party with only months to go until elections.",
+      "published_at": "2026-11-05T22:00:33Z",
+      "country_code": "NG",
+      "country_name": "Nigeria"
+    },
+    {
+      "source": "BBC World",
+      "title": "California governor commutes sentences for state's 548 death row inmates",
+      "url": "https://www.bbc.co.uk/news/articles/cqrkyyd2j8mvo?at_medium=RSS&at_campaign=rss",
+      "summary": "California has historically had the largest population of people on death row in the US.",
+      "published_at": "2026-11-05T21:25:48Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Who could be behind hoax bomb threats to European air travel?",
+      "url": "https://www.bbc.co.uk/news/articles/cx8dzzjg3g9zo?at_medium=RSS&at_campaign=rss",
+      "summary": "There is no hard evidence so far linking airline bomb threats to Russia, Iran or any proxy groups.",
+      "published_at": "2026-11-05T19:58:40Z",
+      "country_code": "RU",
+      "country_name": "Russia"
+    },
+    {
+      "source": "BBC World",
+      "title": "Eight killed in series of shootings in western Turkey",
+      "url": "https://www.bbc.co.uk/news/articles/cvj6jj21pd2ko?at_medium=RSS&at_campaign=rss",
+      "summary": "Victims are found in several locations in three separate vehicles, according to local reports.",
+      "published_at": "2026-11-05T19:32:54Z",
+      "country_code": "TR",
+      "country_name": "Turkey"
+    },
+    {
+      "source": "BBC World",
+      "title": "Melania Trump calls for lasting Ukraine truce as she hosts Russian and Ukrainian officials",
+      "url": "https://www.bbc.co.uk/news/articles/c9p8g085mz07o?at_medium=RSS&at_campaign=rss",
+      "summary": "The US first lady was credited by all for playing a key though unspecified role in the ceasefire.",
+      "published_at": "2026-11-05T19:08:08Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "French protests see numbers surge as unions join strikes over high cost of living",
+      "url": "https://www.bbc.co.uk/news/articles/ckx2qzv835pgo?at_medium=RSS&at_campaign=rss",
+      "summary": "The interior ministry estimates 600,000 people joined protests across France, while the unions say the number was far higher.",
+      "published_at": "2026-11-05T17:59:53Z",
+      "country_code": "FR",
+      "country_name": "France"
+    },
+    {
+      "source": "BBC World",
+      "title": "Paraguay President Santiago Peña resigns after bank collapse",
+      "url": "https://www.bbc.co.uk/news/articles/c6p9g39vln3yo?at_medium=RSS&at_campaign=rss",
+      "summary": "The move follows a bank collapse and after the lower house of congress voted in favour of pursuing an impeachment trial against him.",
+      "published_at": "2026-11-05T17:40:40Z",
+      "country_code": "CL",
+      "country_name": "Chile"
+    },
+    {
+      "source": "BBC World",
+      "title": "Hoax bomb threats target European airlines and airports for second time in a week",
       "url": "https://www.bbc.co.uk/news/articles/cmpqg08nz3pqo?at_medium=RSS&at_campaign=rss",
-      "summary": "At least 18 flights across Europe are affected in what the UK government calls a \"malicious hoax threat\".",
-      "published_at": "2026-11-05T16:09:51Z",
+      "summary": "At least 21 flights across Europe are affected in what the UK government calls a \"malicious hoax threat\".",
+      "published_at": "2026-11-05T17:39:48Z",
       "country_code": "GB",
       "country_name": "United Kingdom"
     },
@@ -18,15 +90,6 @@
       "published_at": "2026-11-05T15:52:04Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "France holds new strikes and protests as unions demand immediate answers",
-      "url": "https://www.bbc.co.uk/news/articles/ckx2qzv835pgo?at_medium=RSS&at_campaign=rss",
-      "summary": "Five of France's unions join a wave of strikes and protests in a national day of action.",
-      "published_at": "2026-11-05T15:43:15Z",
-      "country_code": "FR",
-      "country_name": "France"
     },
     {
       "source": "BBC World",
@@ -65,7 +128,7 @@
       "country_name": "Portugal"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "India's costliest film retells a beloved Hindu epic - but divides critics",
       "url": "https://www.bbc.co.uk/news/articles/cm93zv62v1n7o?at_medium=RSS&at_campaign=rss",
       "summary": "Easily the most anticipated Bollywood film of the year, Ramayana: Rise of a Legend is the first of two parts.",
@@ -119,15 +182,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC US & Canada",
-      "title": "Mother and daughter die after suspected grizzly bear attack in Canada",
-      "url": "https://www.bbc.co.uk/news/articles/cqvgry8k5d01o?at_medium=RSS&at_campaign=rss",
-      "summary": "Authorities in British Columbia say evidence suggests an animal may have been involved in the women's deaths.",
-      "published_at": "2026-11-04T23:50:40Z",
-      "country_code": "CA",
-      "country_name": "Canada"
-    },
-    {
       "source": "BBC Europe",
       "title": "Ukraine says bodycam video shows deadly Russian double-tap bombing",
       "url": "https://www.bbc.co.uk/news/articles/c98rz6penv86o?at_medium=RSS&at_campaign=rss",
@@ -155,15 +209,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC US & Canada",
-      "title": "US midterm results a 'victory' for Canadians hopeful of tariff relief",
-      "url": "https://www.bbc.co.uk/news/articles/cqev3mw3e0kdo?at_medium=RSS&at_campaign=rss",
-      "summary": "With Canada-US trade talks back on, Tuesday’s midterm Democratic wave puts pressure on the White House to come to a deal.",
-      "published_at": "2026-11-04T18:01:31Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC Middle East",
       "title": "Iran's chief negotiator says Americans voted 'no to war'",
       "url": "https://www.bbc.co.uk/news/articles/c6d934npl9y8o?at_medium=RSS&at_campaign=rss",
@@ -173,7 +218,7 @@
       "country_name": "Iran"
     },
     {
-      "source": "BBC US & Canada",
+      "source": "BBC Africa",
       "title": "The young politicians with African roots making history in the US midterms",
       "url": "https://www.bbc.co.uk/news/articles/cmrly6j6lpydo?at_medium=RSS&at_campaign=rss",
       "summary": "For some young Africans, these victories offer a glimpse of what a new generation of voters could do at home.",
@@ -189,24 +234,6 @@
       "published_at": "2026-11-04T16:18:21Z",
       "country_code": "IL",
       "country_name": "Israel"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "Mother of Ghanaian boy killed in US 'wants justice' as she flies for funeral",
-      "url": "https://www.bbc.co.uk/news/articles/cq62yjnmg4ego?at_medium=RSS&at_campaign=rss",
-      "summary": "Police have not made any arrests and an investigation is ongoing as authorities search for three teenage boys.",
-      "published_at": "2026-11-04T15:18:03Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC Europe",
-      "title": "Nadal set to join Real Madrid board of directors",
-      "url": "https://www.bbc.co.uk/sport/articles/cmy56zekeneqo?at_medium=RSS&at_campaign=rss",
-      "summary": "Tennis great Rafael Nadal is set to join the board of Spanish football giants Real Madrid.",
-      "published_at": "2026-11-04T13:21:01Z",
-      "country_code": "ES",
-      "country_name": "Spain"
     },
     {
       "source": "BBC Europe",
@@ -621,15 +648,6 @@
       "published_at": "2026-10-02T12:48:56Z",
       "country_code": "NG",
       "country_name": "Nigeria"
-    },
-    {
-      "source": "BBC Africa",
-      "title": "Dangote: 'Nobody can make Africa great but us'",
-      "url": "https://www.bbc.co.uk/news/videos/c893v3l7l1p0o?at_medium=RSS&at_campaign=rss",
-      "summary": "Africa's richest man says Africans should take the fate of their continent in their own hands, rather than relying on foreigners.",
-      "published_at": "2026-10-01T06:24:27Z",
-      "country_code": "US",
-      "country_name": "United States"
     }
   ],
   "regions": [
@@ -649,14 +667,14 @@
       "news_count": 4
     },
     {
-      "country_code": "ES",
-      "country_name": "Spain",
-      "news_count": 4
-    },
-    {
       "country_code": "IR",
       "country_name": "Iran",
       "news_count": 4
+    },
+    {
+      "country_code": "ES",
+      "country_name": "Spain",
+      "news_count": 3
     },
     {
       "country_code": "GB",
@@ -669,6 +687,11 @@
       "news_count": 2
     },
     {
+      "country_code": "NG",
+      "country_name": "Nigeria",
+      "news_count": 2
+    },
+    {
       "country_code": "PS",
       "country_name": "Palestine",
       "news_count": 2
@@ -676,6 +699,11 @@
     {
       "country_code": "PT",
       "country_name": "Portugal",
+      "news_count": 2
+    },
+    {
+      "country_code": "RU",
+      "country_name": "Russia",
       "news_count": 2
     },
     {
@@ -694,8 +722,8 @@
       "news_count": 1
     },
     {
-      "country_code": "CA",
-      "country_name": "Canada",
+      "country_code": "CL",
+      "country_name": "Chile",
       "news_count": 1
     },
     {
@@ -749,18 +777,13 @@
       "news_count": 1
     },
     {
-      "country_code": "NG",
-      "country_name": "Nigeria",
-      "news_count": 1
-    },
-    {
-      "country_code": "RU",
-      "country_name": "Russia",
-      "news_count": 1
-    },
-    {
       "country_code": "SD",
       "country_name": "Sudan",
+      "news_count": 1
+    },
+    {
+      "country_code": "TR",
+      "country_name": "Turkey",
       "news_count": 1
     }
   ]
