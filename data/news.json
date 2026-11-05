@@ -1,14 +1,41 @@
 {
-  "generated_at": "2026-11-04T20:59:54Z",
+  "generated_at": "2026-11-05T01:20:24Z",
   "articles": [
+    {
+      "source": "BBC US & Canada",
+      "title": "Mother and daughter die after suspected grizzly bear attack in Canada",
+      "url": "https://www.bbc.co.uk/news/articles/cqvgry8k5d01o?at_medium=RSS&at_campaign=rss",
+      "summary": "Authorities in British Columbia say evidence suggests an animal may have been involved in the women's deaths.",
+      "published_at": "2026-11-04T23:50:40Z",
+      "country_code": "CA",
+      "country_name": "Canada"
+    },
     {
       "source": "BBC World",
       "title": "Ukraine says bodycam video shows deadly Russian double-tap bombing",
       "url": "https://www.bbc.co.uk/news/articles/c98rz6penv86o?at_medium=RSS&at_campaign=rss",
       "summary": "At least 40 people were killed and another 30 may still be under the rubble after Monday's attack on a Ukrainian village, Kyiv says.",
-      "published_at": "2026-11-04T20:22:40Z",
+      "published_at": "2026-11-04T22:48:43Z",
       "country_code": "UA",
       "country_name": "Ukraine"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "Could Democrats in Congress end the war in Iran?",
+      "url": "https://www.bbc.co.uk/news/videos/cqg7xkv1rze1o?at_medium=RSS&at_campaign=rss",
+      "summary": "The BBC's Asma Khalid looks at how the two chambers of the US Congress could put an end to the months-long conflict, which began in February…",
+      "published_at": "2026-11-04T22:14:41Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "Elon Musk's millions failed to deliver Republican wins in fierce midterms",
+      "url": "https://www.bbc.co.uk/news/articles/cv8ez3p3ge5ko?at_medium=RSS&at_campaign=rss",
+      "summary": "Musk spent nearly $500m in the 2026 US midterm elections, an individual election spending record.",
+      "published_at": "2026-11-04T21:41:15Z",
+      "country_code": "US",
+      "country_name": "United States"
     },
     {
       "source": "BBC US & Canada",
@@ -146,15 +173,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC US & Canada",
-      "title": "Democrat El-Sayed wins Michigan to become first Muslim senator in US history",
-      "url": "https://www.bbc.co.uk/news/articles/c893z55pxrewo?at_medium=RSS&at_campaign=rss",
-      "summary": "El-Sayed bested Republican Mike Rogers to become the first Muslim senator in US history.",
-      "published_at": "2026-11-04T10:03:19Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC World",
       "title": "How America voted in maps and charts",
       "url": "https://www.bbc.co.uk/news/articles/cm4g1j0n92qdo?at_medium=RSS&at_campaign=rss",
@@ -259,15 +277,6 @@
       "url": "https://www.bbc.co.uk/news/articles/cmx2dlx86n9yo?at_medium=RSS&at_campaign=rss",
       "summary": "The president accuses Democrats of weaponising US aid to Israel as a \"talking point\" with which to attack Republicans.",
       "published_at": "2026-11-03T15:09:51Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC Africa",
-      "title": "Libya's top religious authority rules against wearing Nike clothes",
-      "url": "https://www.bbc.co.uk/news/articles/c5djv0p0re2no?at_medium=RSS&at_campaign=rss",
-      "summary": "The US company was named after the Greek goddess of victory, so the Dar al-Ifta said displaying its logo was unIslamic.",
-      "published_at": "2026-11-03T14:56:46Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -800,6 +809,11 @@
     {
       "country_code": "BD",
       "country_name": "Bangladesh",
+      "news_count": 1
+    },
+    {
+      "country_code": "CA",
+      "country_name": "Canada",
       "news_count": 1
     },
     {
