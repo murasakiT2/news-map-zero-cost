@@ -1,14 +1,86 @@
 {
-  "generated_at": "2026-11-06T10:04:50Z",
+  "generated_at": "2026-11-06T17:35:14Z",
   "articles": [
     {
+      "source": "BBC Europe",
+      "title": "Self-styled 'king of Germany' goes on trial accused of heading criminal group",
+      "url": "https://www.bbc.co.uk/news/articles/c5zjxxmz7mxro?at_medium=RSS&at_campaign=rss",
+      "summary": "Peter Fitzek is a member of a banned Reichsbürger group that sought to set up the \"Kingdom of Germany\" (KRD).",
+      "published_at": "2026-11-06T16:16:46Z",
+      "country_code": "DE",
+      "country_name": "Germany"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "Could the US midterms burst the AI bubble?",
+      "url": "https://www.bbc.co.uk/news/articles/crlykkzwwpydo?at_medium=RSS&at_campaign=rss",
+      "summary": "Fears of more AI regulation appear to have sparked fear among investors, but concerns about the industry have been growing for some time.",
+      "published_at": "2026-11-06T16:14:23Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "How America voted in maps and charts",
+      "url": "https://www.bbc.co.uk/news/articles/cm4g1j0n92qdo?at_medium=RSS&at_campaign=rss",
+      "summary": "See the maps and charts that show how America voted in the US midterm elections.",
+      "published_at": "2026-11-06T15:54:14Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
       "source": "BBC World",
-      "title": "'Several victims' after bus crashes in France, officials say",
+      "title": "Two dead after bus crashes in France, officials say",
       "url": "https://www.bbc.co.uk/news/articles/cmly00l4p3lwo?at_medium=RSS&at_campaign=rss",
-      "summary": "The local mayor says the bus \"left the road and hit a tree in the ditch\", with the education minister saying students are involved.",
-      "published_at": "2026-11-06T09:57:11Z",
+      "summary": "One child and one young adult were killed in the crash, local authorities say, with more injured.",
+      "published_at": "2026-11-06T15:33:52Z",
       "country_code": "FR",
       "country_name": "France"
+    },
+    {
+      "source": "BBC Middle East",
+      "title": "US midterm results spark fears in Israel over future of two countries' ties",
+      "url": "https://www.bbc.co.uk/news/articles/cx30ee8018lvo?at_medium=RSS&at_campaign=rss",
+      "summary": "Staunch US support of Israel has been raised as one of the reasons why Republicans performed so badly.",
+      "published_at": "2026-11-06T13:23:44Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC Europe",
+      "title": "Man investigated for leaving 17-year-old on Germany's highest mountain",
+      "url": "https://www.bbc.co.uk/news/articles/ckx2dd91vz51o?at_medium=RSS&at_campaign=rss",
+      "summary": "The teenager was eventually rescued on Zugspitze and has since been discharged from hospital.",
+      "published_at": "2026-11-06T12:31:34Z",
+      "country_code": "DE",
+      "country_name": "Germany"
+    },
+    {
+      "source": "BBC Africa",
+      "title": "She lost her sight - now she is fighting to make history for Africa",
+      "url": "https://www.bbc.co.uk/sport/articles/cj5ynlyv4xrqo?at_medium=RSS&at_campaign=rss",
+      "summary": "After losing her sight in 2009, Nigeria’s Rukayat Suleimon has overcome isolation and limited support to make history as the first blind wom…",
+      "published_at": "2026-11-06T11:04:00Z",
+      "country_code": "NG",
+      "country_name": "Nigeria"
+    },
+    {
+      "source": "BBC World",
+      "title": "Homes and temples glow across India as Diwali celebrations begin",
+      "url": "https://www.bbc.co.uk/news/articles/cm70pdwz122ro?at_medium=RSS&at_campaign=rss",
+      "summary": "Millions of Indians will mark the festival of lights with glowing lamps, fireworks and traditional sweets",
+      "published_at": "2026-11-06T10:21:30Z",
+      "country_code": "IN",
+      "country_name": "India"
+    },
+    {
+      "source": "BBC World",
+      "title": "What to know about the presidential wiretapping scandal rocking Indonesia",
+      "url": "https://www.bbc.co.uk/news/articles/cwkg55155mrro?at_medium=RSS&at_campaign=rss",
+      "summary": "The scandal involves senior members of President Prabowo Subianto's government, and hint at growing tensions among its elites.",
+      "published_at": "2026-11-06T10:10:38Z",
+      "country_code": "ID",
+      "country_name": "Indonesia"
     },
     {
       "source": "BBC World",
@@ -29,15 +101,6 @@
       "country_name": "Iran"
     },
     {
-      "source": "BBC US & Canada",
-      "title": "Global tech stocks plunge as US midterms add to AI slowdown fears",
-      "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
-      "summary": "Investors have reacted to possible tougher scrutiny of data centre construction and the AI industry.",
-      "published_at": "2026-11-06T07:27:26Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC Asia",
       "title": "Watch: Moment woman rescues young koala from large snake",
       "url": "https://www.bbc.co.uk/news/videos/crlykkvzkjq8o?at_medium=RSS&at_campaign=rss",
@@ -48,7 +111,7 @@
     },
     {
       "source": "BBC World",
-      "title": "Did a data centre revolt affect the US mid-term election results?",
+      "title": "Did a data centre revolt affect the US midterm election results?",
       "url": "https://www.bbc.co.uk/news/articles/crvg9yyz5437o?at_medium=RSS&at_campaign=rss",
       "summary": "BBC Verify examines whether US voters were influenced by the data centre boom - and the impact anti-AI sentiment could have on the industry.",
       "published_at": "2026-11-06T06:01:13Z",
@@ -119,7 +182,7 @@
       "country_name": "Nigeria"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "Who could be behind hoax bomb threats to European air travel?",
       "url": "https://www.bbc.co.uk/news/articles/cx8dzzjg3g9zo?at_medium=RSS&at_campaign=rss",
       "summary": "There is no hard evidence so far linking airline bomb threats to Russia, Iran or any proxy groups.",
@@ -137,13 +200,22 @@
       "country_name": "Turkey"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "Chris vs Chris: Who's running and what's at stake this New Zealand election",
       "url": "https://www.bbc.co.uk/news/videos/cr86zxe1q5j3o?at_medium=RSS&at_campaign=rss",
       "summary": "New Zealanders will head to the polls on 7 November to elect a new government, with rising cost of living a key concern for voters.",
       "published_at": "2026-11-05T19:08:48Z",
       "country_code": "NZ",
       "country_name": "New Zealand"
+    },
+    {
+      "source": "BBC Europe",
+      "title": "Why are new strikes and protests taking place in France?",
+      "url": "https://www.bbc.co.uk/news/videos/cqy7ll65r1eko?at_medium=RSS&at_campaign=rss",
+      "summary": "More than 250,000 people had taken to the streets in almost 70 towns and cities by Thursday afternoon, and that was \"just the start\", the CG…",
+      "published_at": "2026-11-05T18:43:06Z",
+      "country_code": "FR",
+      "country_name": "France"
     },
     {
       "source": "BBC World",
@@ -164,31 +236,13 @@
       "country_name": "Chile"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "Hoax bomb threats target European airlines and airports for second time in a week",
       "url": "https://www.bbc.co.uk/news/articles/cmpqg08nz3pqo?at_medium=RSS&at_campaign=rss",
       "summary": "At least 21 flights across Europe are affected in what the UK government calls a \"malicious hoax threat\".",
       "published_at": "2026-11-05T17:39:48Z",
       "country_code": "GB",
       "country_name": "United Kingdom"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "How America voted in maps and charts",
-      "url": "https://www.bbc.co.uk/news/articles/cm4g1j0n92qdo?at_medium=RSS&at_campaign=rss",
-      "summary": "See the maps and charts that show how America voted in the US midterm elections.",
-      "published_at": "2026-11-05T15:52:04Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC Europe",
-      "title": "Portugal great Ronaldo retires from international duty",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cme8rxx2e1w9o?at_medium=RSS&at_campaign=rss",
-      "summary": "Portugal legend Cristiano Ronaldo says \"the day has come for me to hand back the number seven shirt\".",
-      "published_at": "2026-11-05T12:28:01Z",
-      "country_code": "PT",
-      "country_name": "Portugal"
     },
     {
       "source": "BBC Asia",
@@ -198,15 +252,6 @@
       "published_at": "2026-11-05T09:04:42Z",
       "country_code": "IN",
       "country_name": "India"
-    },
-    {
-      "source": "BBC World",
-      "title": "Vance walks Trump tightrope with scathing election critique blaming Iran war",
-      "url": "https://www.bbc.co.uk/news/articles/crz98zqkz7z0o?at_medium=RSS&at_campaign=rss",
-      "summary": "The vice-president's blunt assessment of Republican election defeat marked one of the sharpest breaks with a sitting president in recent mem…",
-      "published_at": "2026-11-05T03:47:56Z",
-      "country_code": "IR",
-      "country_name": "Iran"
     },
     {
       "source": "BBC Asia",
@@ -227,29 +272,11 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Europe",
-      "title": "Ukraine says bodycam video shows deadly Russian double-tap bombing",
-      "url": "https://www.bbc.co.uk/news/articles/c98rz6penv86o?at_medium=RSS&at_campaign=rss",
-      "summary": "At least 40 people were killed and another 30 may still be under the rubble after Monday's attack on a Ukrainian village, Kyiv says.",
-      "published_at": "2026-11-04T22:48:43Z",
-      "country_code": "UA",
-      "country_name": "Ukraine"
-    },
-    {
       "source": "BBC US & Canada",
       "title": "Could Democrats in Congress end the war in Iran?",
       "url": "https://www.bbc.co.uk/news/videos/cqg7xkv1rze1o?at_medium=RSS&at_campaign=rss",
       "summary": "The BBC's Asma Khalid looks at how the two chambers of the US Congress could put an end to the months-long conflict, which began in February…",
       "published_at": "2026-11-04T22:14:41Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "Democrats 'got their wish': Voters react to midterm results",
-      "url": "https://www.bbc.co.uk/news/videos/cqe8le668e13o?at_medium=RSS&at_campaign=rss",
-      "summary": "People in the US react after the Democrats won the Senate and the House, taking control of Congress for the rest of Donald Trump's presidenc…",
-      "published_at": "2026-11-04T19:01:37Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -279,15 +306,6 @@
       "published_at": "2026-11-04T16:18:21Z",
       "country_code": "IL",
       "country_name": "Israel"
-    },
-    {
-      "source": "BBC Europe",
-      "title": "Sharp objects found in Halloween sweets in three European nations",
-      "url": "https://www.bbc.co.uk/news/articles/cvglw7x239pwo?at_medium=RSS&at_campaign=rss",
-      "summary": "Dozens of cases are reported in Austria, Germany and Hungary, including a nine-year-old girl hurting her tongue while eating chocolate conta…",
-      "published_at": "2026-11-04T12:34:33Z",
-      "country_code": "DE",
-      "country_name": "Germany"
     },
     {
       "source": "BBC Africa",
@@ -506,15 +524,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Africa",
-      "title": "Is Ebola under control in Kenya after nine cases confirmed?",
-      "url": "https://www.bbc.co.uk/news/articles/c693z948px0jo?at_medium=RSS&at_campaign=rss",
-      "summary": "Kenya has already released the first group of 20 people who came into contact with its first Ebola patient.",
-      "published_at": "2026-10-27T19:19:10Z",
-      "country_code": "KE",
-      "country_name": "Kenya"
-    },
-    {
       "source": "BBC Middle East",
       "title": "What does Israel's election mean for Gaza and the wider world?",
       "url": "https://www.bbc.co.uk/news/videos/ck240dg5n4gjo?at_medium=RSS&at_campaign=rss",
@@ -531,15 +540,6 @@
       "published_at": "2026-10-27T08:37:30Z",
       "country_code": "IL",
       "country_name": "Israel"
-    },
-    {
-      "source": "BBC Africa",
-      "title": "Ulster's Augustus enjoying South Africa homecoming",
-      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c3lylzg00zg1o?at_medium=RSS&at_campaign=rss",
-      "summary": "Ulster back row Juarno Augustus is relishing being back in his native South Africa as he prepares to face his former club Stormers after rec…",
-      "published_at": "2026-10-27T08:06:24Z",
-      "country_code": "ZA",
-      "country_name": "South Africa"
     },
     {
       "source": "BBC Latin America",
@@ -630,13 +630,22 @@
       "published_at": "2026-10-02T12:48:56Z",
       "country_code": "NG",
       "country_name": "Nigeria"
+    },
+    {
+      "source": "BBC Africa",
+      "title": "Dangote: 'Nobody can make Africa great but us'",
+      "url": "https://www.bbc.co.uk/news/videos/c893v3l7l1p0o?at_medium=RSS&at_campaign=rss",
+      "summary": "Africa's richest man says Africans should take the fate of their continent in their own hands, rather than relying on foreigners.",
+      "published_at": "2026-10-01T06:24:27Z",
+      "country_code": "US",
+      "country_name": "United States"
     }
   ],
   "regions": [
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 23
+      "news_count": 24
     },
     {
       "country_code": "IL",
@@ -644,18 +653,33 @@
       "news_count": 9
     },
     {
-      "country_code": "IR",
-      "country_name": "Iran",
-      "news_count": 5
-    },
-    {
       "country_code": "BR",
       "country_name": "Brazil",
       "news_count": 4
     },
     {
+      "country_code": "IR",
+      "country_name": "Iran",
+      "news_count": 4
+    },
+    {
+      "country_code": "FR",
+      "country_name": "France",
+      "news_count": 3
+    },
+    {
+      "country_code": "NG",
+      "country_name": "Nigeria",
+      "news_count": 3
+    },
+    {
       "country_code": "AU",
       "country_name": "Australia",
+      "news_count": 2
+    },
+    {
+      "country_code": "DE",
+      "country_name": "Germany",
       "news_count": 2
     },
     {
@@ -664,18 +688,18 @@
       "news_count": 2
     },
     {
-      "country_code": "FR",
-      "country_name": "France",
-      "news_count": 2
-    },
-    {
       "country_code": "GB",
       "country_name": "United Kingdom",
       "news_count": 2
     },
     {
-      "country_code": "NG",
-      "country_name": "Nigeria",
+      "country_code": "ID",
+      "country_name": "Indonesia",
+      "news_count": 2
+    },
+    {
+      "country_code": "IN",
+      "country_name": "India",
       "news_count": 2
     },
     {
@@ -686,11 +710,6 @@
     {
       "country_code": "RU",
       "country_name": "Russia",
-      "news_count": 2
-    },
-    {
-      "country_code": "ZA",
-      "country_name": "South Africa",
       "news_count": 2
     },
     {
@@ -714,33 +733,8 @@
       "news_count": 1
     },
     {
-      "country_code": "DE",
-      "country_name": "Germany",
-      "news_count": 1
-    },
-    {
-      "country_code": "ID",
-      "country_name": "Indonesia",
-      "news_count": 1
-    },
-    {
-      "country_code": "IN",
-      "country_name": "India",
-      "news_count": 1
-    },
-    {
-      "country_code": "KE",
-      "country_name": "Kenya",
-      "news_count": 1
-    },
-    {
       "country_code": "NZ",
       "country_name": "New Zealand",
-      "news_count": 1
-    },
-    {
-      "country_code": "PT",
-      "country_name": "Portugal",
       "news_count": 1
     },
     {
@@ -754,8 +748,8 @@
       "news_count": 1
     },
     {
-      "country_code": "UA",
-      "country_name": "Ukraine",
+      "country_code": "ZA",
+      "country_name": "South Africa",
       "news_count": 1
     }
   ]
