@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-11-07T19:30:31Z",
+  "generated_at": "2026-11-07T23:13:28Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Israel's president tasks opposition leader Eisenkot with forming government",
+      "url": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&at_campaign=rss",
+      "summary": "Neither PM Benjamin Netanyahu's bloc nor that of his rival secured a majority in last week's election.",
+      "published_at": "2026-11-07T22:19:59Z",
+      "country_code": "IL",
+      "country_name": "Israel"
+    },
+    {
+      "source": "BBC Asia",
+      "title": "Can New Zealand's new government win over disillusioned voters?",
+      "url": "https://www.bbc.co.uk/news/articles/cxr5yyg2nj9eo?at_medium=RSS&at_campaign=rss",
+      "summary": "The mood is low, and Kiwi's faith in politics even lower - with voters deserting the main parties at the polls.",
+      "published_at": "2026-11-07T21:36:16Z",
+      "country_code": "NZ",
+      "country_name": "New Zealand"
+    },
     {
       "source": "BBC World",
       "title": "Paraguay's former president charged after bank collapse",
@@ -9,15 +27,6 @@
       "published_at": "2026-11-07T19:17:22Z",
       "country_code": "CL",
       "country_name": "Chile"
-    },
-    {
-      "source": "BBC World",
-      "title": "What we know about Krakow mass shooting so far",
-      "url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
-      "summary": "At least six people were killed by a gunman in military fatigues who opened fire in Poland's second largest city.",
-      "published_at": "2026-11-07T18:22:11Z",
-      "country_code": "PL",
-      "country_name": "Poland"
     },
     {
       "source": "BBC World",
@@ -77,7 +86,7 @@
       "source": "BBC Asia",
       "title": "New Zealand election 'too close to call' - so who will be next PM?",
       "url": "https://www.bbc.co.uk/news/videos/c6kgl7m1g9m1o?at_medium=RSS&at_campaign=rss",
-      "summary": "With the New Zealand election too tight to call the BBC's Tiffanie Turnbull reports from a Labour Party gathering after an inconclusive nigh…",
+      "summary": "With the New Zealand election too tight to call, the BBC's Tiffanie Turnbull reports from a Labour Party gathering after an inconclusive nig…",
       "published_at": "2026-11-07T12:40:38Z",
       "country_code": "NZ",
       "country_name": "New Zealand"
@@ -281,15 +290,6 @@
       "country_name": "Russia"
     },
     {
-      "source": "BBC Asia",
-      "title": "Chris vs Chris: Who's running and what's at stake this New Zealand election",
-      "url": "https://www.bbc.co.uk/news/videos/cr86zxe1q5j3o?at_medium=RSS&at_campaign=rss",
-      "summary": "New Zealanders will head to the polls on 7 November to elect a new government, with rising cost of living a key concern for voters.",
-      "published_at": "2026-11-05T19:08:48Z",
-      "country_code": "NZ",
-      "country_name": "New Zealand"
-    },
-    {
       "source": "BBC Europe",
       "title": "Why are new strikes and protests taking place in France?",
       "url": "https://www.bbc.co.uk/news/videos/cqy7ll65r1eko?at_medium=RSS&at_campaign=rss",
@@ -450,15 +450,6 @@
       "published_at": "2026-11-03T07:29:46Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC Asia",
-      "title": "Indonesia's toxic haze is giving its neighbours a political headache",
-      "url": "https://www.bbc.co.uk/news/articles/c3dxwzjn2gw8o?at_medium=RSS&at_campaign=rss",
-      "summary": "Governments in Singapore and Malaysia are split between anxious citizens and an irascible neighbour.",
-      "published_at": "2026-11-02T23:02:01Z",
-      "country_code": "ID",
-      "country_name": "Indonesia"
     },
     {
       "source": "BBC Latin America",
@@ -704,7 +695,7 @@
     {
       "country_code": "IL",
       "country_name": "Israel",
-      "news_count": 8
+      "news_count": 9
     },
     {
       "country_code": "BR",
@@ -762,11 +753,6 @@
       "news_count": 2
     },
     {
-      "country_code": "ID",
-      "country_name": "Indonesia",
-      "news_count": 2
-    },
-    {
       "country_code": "IN",
       "country_name": "India",
       "news_count": 2
@@ -787,8 +773,8 @@
       "news_count": 1
     },
     {
-      "country_code": "PL",
-      "country_name": "Poland",
+      "country_code": "ID",
+      "country_name": "Indonesia",
       "news_count": 1
     },
     {
