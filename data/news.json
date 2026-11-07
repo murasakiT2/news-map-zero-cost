@@ -1,6 +1,33 @@
 {
-  "generated_at": "2026-11-07T08:59:00Z",
+  "generated_at": "2026-11-07T15:27:19Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "No clear winner after tight New Zealand general election",
+      "url": "https://www.bbc.co.uk/news/articles/c3ewev11g1e0o?at_medium=RSS&at_campaign=rss",
+      "summary": "Weeks of coalition talks could follow after preliminary results pointed to a highly divided national parliament.",
+      "published_at": "2026-11-07T15:00:10Z",
+      "country_code": "NZ",
+      "country_name": "New Zealand"
+    },
+    {
+      "source": "BBC World",
+      "title": "Russian strikes wound nine and damage Ukraine's power network ahead of talks",
+      "url": "https://www.bbc.co.uk/news/articles/cm4g1nq8158po?at_medium=RSS&at_campaign=rss",
+      "summary": "The attacks come before Ukrainian and Russian delegations are due to take part in trilateral talks in Abu Dhabi next week.",
+      "published_at": "2026-11-07T12:49:36Z",
+      "country_code": "UA",
+      "country_name": "Ukraine"
+    },
+    {
+      "source": "BBC Asia",
+      "title": "New Zealand election 'too close to call' - so who will be next PM?",
+      "url": "https://www.bbc.co.uk/news/videos/c6kgl7m1g9m1o?at_medium=RSS&at_campaign=rss",
+      "summary": "With the New Zealand election too tight to call the BBC's Tiffanie Turnbull reports from a Labour Party gathering after an inconclusive nigh…",
+      "published_at": "2026-11-07T12:40:38Z",
+      "country_code": "NZ",
+      "country_name": "New Zealand"
+    },
     {
       "source": "BBC World",
       "title": "Paraguay's president impeached and under house arrest after bank collapse",
@@ -155,7 +182,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Middle East",
       "title": "Major construction ongoing near Iran missile bases, satellite images suggest",
       "url": "https://www.bbc.co.uk/news/articles/ckjrwx1r2d5ro?at_medium=RSS&at_campaign=rss",
       "summary": "Evidence of digging and new buildings are visible in satellite imagery taken in November, satellite images suggest.",
@@ -191,20 +218,11 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "Pope begins lengthy trip to Latin America weeks after lung cancer surgery",
       "url": "https://www.bbc.co.uk/news/articles/cqn06j0y61k6o?at_medium=RSS&at_campaign=rss",
       "summary": "Pope Leo, who had part of a lung removed last month, will visit Uruguay, Argentina and Peru.",
       "published_at": "2026-11-06T00:02:57Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "California governor commutes sentences for state's 548 death row inmates",
-      "url": "https://www.bbc.co.uk/news/articles/cqrkyyd2j8mvo?at_medium=RSS&at_campaign=rss",
-      "summary": "California has historically had the largest population of people on death row in the US.",
-      "published_at": "2026-11-05T23:09:33Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -243,15 +261,6 @@
       "published_at": "2026-11-05T17:59:53Z",
       "country_code": "FR",
       "country_name": "France"
-    },
-    {
-      "source": "BBC World",
-      "title": "Paraguay President Santiago Peña resigns after bank collapse",
-      "url": "https://www.bbc.co.uk/news/articles/c6p9g39vln3yo?at_medium=RSS&at_campaign=rss",
-      "summary": "The move follows a bank collapse and after the lower house of congress voted in favour of pursuing an impeachment trial against him.",
-      "published_at": "2026-11-05T17:40:40Z",
-      "country_code": "CL",
-      "country_name": "Chile"
     },
     {
       "source": "BBC Asia",
@@ -654,7 +663,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 25
+      "news_count": 24
     },
     {
       "country_code": "IL",
@@ -687,13 +696,13 @@
       "news_count": 3
     },
     {
-      "country_code": "AU",
-      "country_name": "Australia",
-      "news_count": 2
+      "country_code": "NZ",
+      "country_name": "New Zealand",
+      "news_count": 3
     },
     {
-      "country_code": "CL",
-      "country_name": "Chile",
+      "country_code": "AU",
+      "country_name": "Australia",
       "news_count": 2
     },
     {
@@ -727,6 +736,11 @@
       "news_count": 2
     },
     {
+      "country_code": "CL",
+      "country_name": "Chile",
+      "news_count": 1
+    },
+    {
       "country_code": "CO",
       "country_name": "Colombia",
       "news_count": 1
@@ -737,13 +751,13 @@
       "news_count": 1
     },
     {
-      "country_code": "NZ",
-      "country_name": "New Zealand",
+      "country_code": "SD",
+      "country_name": "Sudan",
       "news_count": 1
     },
     {
-      "country_code": "SD",
-      "country_name": "Sudan",
+      "country_code": "UA",
+      "country_name": "Ukraine",
       "news_count": 1
     },
     {
