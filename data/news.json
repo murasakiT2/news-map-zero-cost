@@ -1,14 +1,68 @@
 {
-  "generated_at": "2026-11-07T15:27:19Z",
+  "generated_at": "2026-11-07T19:30:31Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Paraguay's former president charged after bank collapse",
+      "url": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
+      "summary": "Santiago Peña was ousted due to a banking crisis which left millions of people unable to access their money.",
+      "published_at": "2026-11-07T19:17:22Z",
+      "country_code": "CL",
+      "country_name": "Chile"
+    },
+    {
+      "source": "BBC World",
+      "title": "What we know about Krakow mass shooting so far",
+      "url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
+      "summary": "At least six people were killed by a gunman in military fatigues who opened fire in Poland's second largest city.",
+      "published_at": "2026-11-07T18:22:11Z",
+      "country_code": "PL",
+      "country_name": "Poland"
+    },
+    {
+      "source": "BBC World",
+      "title": "US offers $20m reward for information about Iran's nuclear programme",
+      "url": "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo?at_medium=RSS&at_campaign=rss",
+      "summary": "Donald Trump has repeatedly raised the prospecting of renewing strikes against Iran's nuclear facilities.",
+      "published_at": "2026-11-07T18:14:38Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Gaza wedding festival sees 250 couples married at the same time",
+      "url": "https://www.bbc.co.uk/news/videos/ckr5ygm78j76o?at_medium=RSS&at_campaign=rss",
+      "summary": "A mass wedding for Palestinian brides and grooms has taken place in the rubble-strewn streets of Gaza.",
+      "published_at": "2026-11-07T17:58:41Z",
+      "country_code": "PS",
+      "country_name": "Palestine"
+    },
+    {
+      "source": "BBC World",
+      "title": "Houthis say at least 25 killed in Saudi air strike",
+      "url": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
+      "summary": "Saudi Arabia, which leads a coalition fighting the Houthis in Yemen, has not commented.",
+      "published_at": "2026-11-07T17:09:24Z",
+      "country_code": "SA",
+      "country_name": "Saudi Arabia"
+    },
     {
       "source": "BBC World",
       "title": "No clear winner after tight New Zealand general election",
       "url": "https://www.bbc.co.uk/news/articles/c3ewev11g1e0o?at_medium=RSS&at_campaign=rss",
       "summary": "Weeks of coalition talks could follow after preliminary results pointed to a highly divided national parliament.",
-      "published_at": "2026-11-07T15:00:10Z",
+      "published_at": "2026-11-07T15:56:28Z",
       "country_code": "NZ",
       "country_name": "New Zealand"
+    },
+    {
+      "source": "BBC World",
+      "title": "UK cannot 'cherry pick' EU single market deal, Barnier tells BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c9kgjj206nzpo?at_medium=RSS&at_campaign=rss",
+      "summary": "The former Brexit negotiator says EU countries would reject any British attempts to follow economic rules \"a la carte\".",
+      "published_at": "2026-11-07T15:19:35Z",
+      "country_code": "GB",
+      "country_name": "United Kingdom"
     },
     {
       "source": "BBC World",
@@ -27,15 +81,6 @@
       "published_at": "2026-11-07T12:40:38Z",
       "country_code": "NZ",
       "country_name": "New Zealand"
-    },
-    {
-      "source": "BBC World",
-      "title": "Paraguay's president impeached and under house arrest after bank collapse",
-      "url": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
-      "summary": "Santiago Peña was ousted due to a banking crisis which left millions of people unable to access their money.",
-      "published_at": "2026-11-07T07:20:00Z",
-      "country_code": "CL",
-      "country_name": "Chile"
     },
     {
       "source": "BBC World",
@@ -119,7 +164,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "Two dead after bus crashes in France, officials say",
       "url": "https://www.bbc.co.uk/news/articles/cmly00l4p3lwo?at_medium=RSS&at_campaign=rss",
       "summary": "One child and one young adult were killed in the crash, local authorities say, with more injured.",
@@ -597,15 +642,6 @@
     },
     {
       "source": "BBC Middle East",
-      "title": "Why Israel's election is one of the most important in its history",
-      "url": "https://www.bbc.co.uk/news/videos/c64g1wje3jjwo?at_medium=RSS&at_campaign=rss",
-      "summary": "Security and democracy emerge as central issues in Israel's highly anticipated general election, as Middle East correspondent Lucy Williamso…",
-      "published_at": "2026-10-25T22:05:30Z",
-      "country_code": "IL",
-      "country_name": "Israel"
-    },
-    {
-      "source": "BBC Middle East",
       "title": "The bitter row over military service that could shape Israel's future",
       "url": "https://www.bbc.co.uk/news/articles/cmvg7w0x742do?at_medium=RSS&at_campaign=rss",
       "summary": "The ultra-Orthodox community is resisting being drafted into the Israeli army. But will they now bring down the Netanyahu government?",
@@ -663,12 +699,12 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 24
+      "news_count": 25
     },
     {
       "country_code": "IL",
       "country_name": "Israel",
-      "news_count": 9
+      "news_count": 8
     },
     {
       "country_code": "BR",
@@ -701,6 +737,11 @@
       "news_count": 3
     },
     {
+      "country_code": "PS",
+      "country_name": "Palestine",
+      "news_count": 3
+    },
+    {
       "country_code": "AU",
       "country_name": "Australia",
       "news_count": 2
@@ -716,6 +757,11 @@
       "news_count": 2
     },
     {
+      "country_code": "GB",
+      "country_name": "United Kingdom",
+      "news_count": 2
+    },
+    {
       "country_code": "ID",
       "country_name": "Indonesia",
       "news_count": 2
@@ -723,11 +769,6 @@
     {
       "country_code": "IN",
       "country_name": "India",
-      "news_count": 2
-    },
-    {
-      "country_code": "PS",
-      "country_name": "Palestine",
       "news_count": 2
     },
     {
@@ -746,8 +787,13 @@
       "news_count": 1
     },
     {
-      "country_code": "GB",
-      "country_name": "United Kingdom",
+      "country_code": "PL",
+      "country_name": "Poland",
+      "news_count": 1
+    },
+    {
+      "country_code": "SA",
+      "country_name": "Saudi Arabia",
       "news_count": 1
     },
     {
