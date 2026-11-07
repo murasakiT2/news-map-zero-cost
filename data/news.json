@@ -1,8 +1,26 @@
 {
-  "generated_at": "2026-11-07T02:12:05Z",
+  "generated_at": "2026-11-07T08:59:00Z",
   "articles": [
     {
-      "source": "BBC US & Canada",
+      "source": "BBC World",
+      "title": "Paraguay's president impeached and under house arrest after bank collapse",
+      "url": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
+      "summary": "Santiago Peña was ousted due to a banking crisis which left millions of people unable to access their money.",
+      "published_at": "2026-11-07T07:20:00Z",
+      "country_code": "CL",
+      "country_name": "Chile"
+    },
+    {
+      "source": "BBC World",
+      "title": "Pope in 'pretty good health' as he starts Latin America tour",
+      "url": "https://www.bbc.co.uk/news/articles/c60e0001ve9wo?at_medium=RSS&at_campaign=rss",
+      "summary": "Pope Leo travels to Uruguay just three weeks after having surgery for lung cancer.",
+      "published_at": "2026-11-07T06:59:48Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
       "title": "With Stephen Miller pick, Trump readies for a battle",
       "url": "https://www.bbc.co.uk/news/articles/crp3gg2z171go?at_medium=RSS&at_campaign=rss",
       "summary": "The US president's promotion of Miller, a loyal partisan firebrand to be his new chief of staff sets up likely clashes with Congress.",
@@ -110,7 +128,7 @@
       "country_name": "Nigeria"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "Homes and temples glow across India as Diwali celebrations begin",
       "url": "https://www.bbc.co.uk/news/articles/cm70pdwz122ro?at_medium=RSS&at_campaign=rss",
       "summary": "Millions of Indians will mark the festival of lights with glowing lamps, fireworks and traditional sweets",
@@ -119,7 +137,7 @@
       "country_name": "India"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "What to know about the presidential wiretapping scandal rocking Indonesia",
       "url": "https://www.bbc.co.uk/news/articles/cwkg55155mrro?at_medium=RSS&at_campaign=rss",
       "summary": "The scandal involves senior members of President Prabowo Subianto's government, and hint at growing tensions among its elites.",
@@ -155,7 +173,7 @@
       "country_name": "Australia"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "A wildfire killed their loved ones in Spain. These British families demand to know why",
       "url": "https://www.bbc.co.uk/news/articles/cm3vq4wyeld1o?at_medium=RSS&at_campaign=rss",
       "summary": "Nine British nationals were among the 15 people who died when fire ripped through the village of Bédar this summer.",
@@ -636,7 +654,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 24
+      "news_count": 25
     },
     {
       "country_code": "IL",
@@ -674,6 +692,11 @@
       "news_count": 2
     },
     {
+      "country_code": "CL",
+      "country_name": "Chile",
+      "news_count": 2
+    },
+    {
       "country_code": "CN",
       "country_name": "China",
       "news_count": 2
@@ -702,11 +725,6 @@
       "country_code": "RU",
       "country_name": "Russia",
       "news_count": 2
-    },
-    {
-      "country_code": "CL",
-      "country_name": "Chile",
-      "news_count": 1
     },
     {
       "country_code": "CO",
