@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-11-08T02:34:41Z",
+  "generated_at": "2026-11-08T09:40:39Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Houthis say at least 33 killed in Saudi air strike",
+      "url": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
+      "summary": "Saudi Arabia, which leads a coalition fighting the Houthis in Yemen, has not commented.",
+      "published_at": "2026-11-08T04:03:12Z",
+      "country_code": "SA",
+      "country_name": "Saudi Arabia"
+    },
     {
       "source": "BBC World",
       "title": "Israel's president tasks opposition leader Eisenkot with forming government",
@@ -11,7 +20,7 @@
       "country_name": "Israel"
     },
     {
-      "source": "BBC Asia",
+      "source": "BBC World",
       "title": "'Flat', 'tired', 'cynical': Unusually gloomy Kiwis deliver New Zealand's tightest election in years",
       "url": "https://www.bbc.co.uk/news/articles/cxr5yyg2nj9eo?at_medium=RSS&at_campaign=rss",
       "summary": "The national mood is low, and faith in politics even lower - with voters deserting the major parties at the polls.",
@@ -47,16 +56,25 @@
       "country_name": "Palestine"
     },
     {
-      "source": "BBC World",
-      "title": "Houthis say at least 25 killed in Saudi air strike",
-      "url": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
-      "summary": "Saudi Arabia, which leads a coalition fighting the Houthis in Yemen, has not commented.",
-      "published_at": "2026-11-07T17:09:24Z",
-      "country_code": "SA",
-      "country_name": "Saudi Arabia"
+      "source": "BBC Europe",
+      "title": "Andy Burnham wants to get closer to the EU - but he shouldn't expect a smooth ride",
+      "url": "https://www.bbc.co.uk/news/articles/cwjdmm0z74plo?at_medium=RSS&at_campaign=rss",
+      "summary": "Laura Kuenssberg talks to government insiders about the prime minister opening the conversation about the UK rejoining the EU.",
+      "published_at": "2026-11-07T17:32:42Z",
+      "country_code": "GB",
+      "country_name": "United Kingdom"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Middle East",
+      "title": "Tens of thousands of tents flooded after heavy rains in Gaza",
+      "url": "https://www.bbc.co.uk/news/articles/cx240e5py64jo?at_medium=RSS&at_campaign=rss",
+      "summary": "Heavy rain has flooded temporary shelters used by Palestinians displaced during Israel's war with Hamas.",
+      "published_at": "2026-11-07T16:25:55Z",
+      "country_code": "IL",
+      "country_name": "Israel"
+    },
+    {
+      "source": "BBC Asia",
       "title": "No clear winner after tight New Zealand general election",
       "url": "https://www.bbc.co.uk/news/articles/c3ewev11g1e0o?at_medium=RSS&at_campaign=rss",
       "summary": "Weeks of coalition talks could follow after preliminary results pointed to a highly divided national parliament.",
@@ -173,16 +191,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Europe",
-      "title": "Two dead after bus crashes in France, officials say",
-      "url": "https://www.bbc.co.uk/news/articles/cmly00l4p3lwo?at_medium=RSS&at_campaign=rss",
-      "summary": "One child and one young adult were killed in the crash, local authorities say, with more injured.",
-      "published_at": "2026-11-06T15:33:52Z",
-      "country_code": "FR",
-      "country_name": "France"
-    },
-    {
-      "source": "BBC World",
+      "source": "BBC Middle East",
       "title": "US midterm results spark fears in Israel over future of two countries' ties",
       "url": "https://www.bbc.co.uk/news/articles/cx30ee8018lvo?at_medium=RSS&at_campaign=rss",
       "summary": "Staunch US support of Israel has been raised as one of the reasons why Republicans performed so badly.",
@@ -282,15 +291,6 @@
     },
     {
       "source": "BBC Europe",
-      "title": "Who could be behind hoax bomb threats to European air travel?",
-      "url": "https://www.bbc.co.uk/news/articles/cx8dzzjg3g9zo?at_medium=RSS&at_campaign=rss",
-      "summary": "There is no hard evidence so far linking airline bomb threats to Russia, Iran or any proxy groups.",
-      "published_at": "2026-11-05T19:58:40Z",
-      "country_code": "RU",
-      "country_name": "Russia"
-    },
-    {
-      "source": "BBC Europe",
       "title": "Why are new strikes and protests taking place in France?",
       "url": "https://www.bbc.co.uk/news/videos/cqy7ll65r1eko?at_medium=RSS&at_campaign=rss",
       "summary": "More than 250,000 people had taken to the streets in almost 70 towns and cities by Thursday afternoon, and that was \"just the start\", the CG…",
@@ -344,15 +344,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Middle East",
-      "title": "Iran's chief negotiator says Americans voted 'no to war'",
-      "url": "https://www.bbc.co.uk/news/articles/c6d934npl9y8o?at_medium=RSS&at_campaign=rss",
-      "summary": "\"We endorse this message,\" Mohammed Bagher Ghalibaf says, as Donald Trump acknowledges the conflict's role in the Republican Party's defeat.",
-      "published_at": "2026-11-04T16:59:15Z",
-      "country_code": "IR",
-      "country_name": "Iran"
-    },
-    {
       "source": "BBC Africa",
       "title": "The young politicians with African roots making history in the US midterms",
       "url": "https://www.bbc.co.uk/news/articles/cmrly6j6lpydo?at_medium=RSS&at_campaign=rss",
@@ -360,15 +351,6 @@
       "published_at": "2026-11-04T16:34:32Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC Middle East",
-      "title": "Israel's president begins consultations with parties after election deadlock",
-      "url": "https://www.bbc.co.uk/news/articles/c6z98z5z91ppo?at_medium=RSS&at_campaign=rss",
-      "summary": "Herzog warns politicians that \"not every commitment and promise can be fulfilled\" if they want to avoid another election.",
-      "published_at": "2026-11-04T16:18:21Z",
-      "country_code": "IL",
-      "country_name": "Israel"
     },
     {
       "source": "BBC Africa",
@@ -407,15 +389,6 @@
       "country_name": "United Kingdom"
     },
     {
-      "source": "BBC Europe",
-      "title": "Ryanair passenger says bomb threat was 'traumatic'",
-      "url": "https://www.bbc.co.uk/news/articles/cj75pg04y231o?at_medium=RSS&at_campaign=rss",
-      "summary": "Sarah Jones says passengers had to wait in a hangar for three hours after landing at Murcia in Spain.",
-      "published_at": "2026-11-03T18:52:07Z",
-      "country_code": "ES",
-      "country_name": "Spain"
-    },
-    {
       "source": "BBC Middle East",
       "title": "Trump says US 'won't be paying Israel' by end of year",
       "url": "https://www.bbc.co.uk/news/articles/cmx2dlx86n9yo?at_medium=RSS&at_campaign=rss",
@@ -430,15 +403,6 @@
       "url": "https://www.bbc.co.uk/news/articles/cxg5jln586pno?at_medium=RSS&at_campaign=rss",
       "summary": "The US secretary of state also discusses laying the groundwork for 'free, fair, and credible elections'.",
       "published_at": "2026-11-03T12:09:20Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC Middle East",
-      "title": "US strikes Iranian island ahead of midterm elections",
-      "url": "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo?at_medium=RSS&at_campaign=rss",
-      "summary": "US officials described the attacks on Qeshm Island as limited and defensive, according to CBS, the BBC's US partner.",
-      "published_at": "2026-11-03T11:33:33Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -690,7 +654,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 25
+      "news_count": 24
     },
     {
       "country_code": "IL",
@@ -703,18 +667,13 @@
       "news_count": 4
     },
     {
-      "country_code": "IR",
-      "country_name": "Iran",
-      "news_count": 4
-    },
-    {
-      "country_code": "ES",
-      "country_name": "Spain",
+      "country_code": "GB",
+      "country_name": "United Kingdom",
       "news_count": 3
     },
     {
-      "country_code": "FR",
-      "country_name": "France",
+      "country_code": "IR",
+      "country_name": "Iran",
       "news_count": 3
     },
     {
@@ -748,18 +707,18 @@
       "news_count": 2
     },
     {
-      "country_code": "GB",
-      "country_name": "United Kingdom",
+      "country_code": "ES",
+      "country_name": "Spain",
+      "news_count": 2
+    },
+    {
+      "country_code": "FR",
+      "country_name": "France",
       "news_count": 2
     },
     {
       "country_code": "IN",
       "country_name": "India",
-      "news_count": 2
-    },
-    {
-      "country_code": "RU",
-      "country_name": "Russia",
       "news_count": 2
     },
     {
@@ -775,6 +734,11 @@
     {
       "country_code": "ID",
       "country_name": "Indonesia",
+      "news_count": 1
+    },
+    {
+      "country_code": "RU",
+      "country_name": "Russia",
       "news_count": 1
     },
     {
