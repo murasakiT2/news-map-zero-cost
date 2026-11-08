@@ -1,14 +1,50 @@
 {
-  "generated_at": "2026-11-08T16:26:19Z",
+  "generated_at": "2026-11-08T20:39:14Z",
   "articles": [
     {
-      "source": "BBC Asia",
+      "source": "BBC World",
+      "title": "Seven dead and more than 100 injured after trains collide in Egypt",
+      "url": "https://www.bbc.co.uk/news/articles/cwvgr20mmmevo?at_medium=RSS&at_campaign=rss",
+      "summary": "Several carriages derailed after two trains travelling in the same direction crashed outside the city of Giza.",
+      "published_at": "2026-11-08T19:58:02Z",
+      "country_code": "EG",
+      "country_name": "Egypt"
+    },
+    {
+      "source": "BBC Africa",
+      "title": "South Africa's ANC records worst-ever results in local elections",
+      "url": "https://www.bbc.co.uk/news/articles/cwrkygrxp11mo?at_medium=RSS&at_campaign=rss",
+      "summary": "President Cyril Ramaphosa says the verdict must be respected, while the party's secretary-general calls the outcome \"catastrophic\".",
+      "published_at": "2026-11-08T17:51:03Z",
+      "country_code": "ZA",
+      "country_name": "South Africa"
+    },
+    {
+      "source": "BBC World",
+      "title": "Footage shows derailed carriages after fatal train crash in Egypt",
+      "url": "https://www.bbc.co.uk/news/videos/cw78p2km7d94o?at_medium=RSS&at_campaign=rss",
+      "summary": "It is yet unclear what caused the accident but Egyptian President Abdel Fattah al-Sisi said an investigation is underway and will \"hold acco…",
+      "published_at": "2026-11-08T16:05:57Z",
+      "country_code": "EG",
+      "country_name": "Egypt"
+    },
+    {
+      "source": "BBC World",
       "title": "Homes and temples glow across India to mark Diwali",
       "url": "https://www.bbc.co.uk/news/articles/cm70pdwz122ro?at_medium=RSS&at_campaign=rss",
       "summary": "Millions of Indians are marking the festival of lights with glowing lamps, fireworks and traditional sweets.",
       "published_at": "2026-11-08T14:42:09Z",
       "country_code": "IN",
       "country_name": "India"
+    },
+    {
+      "source": "BBC World",
+      "title": "Iran executes three men for 'armed unrest' after January protests",
+      "url": "https://www.bbc.co.uk/news/articles/ckly0ex633ydo?at_medium=RSS&at_campaign=rss",
+      "summary": "It is claimed Hassan Dioband, Hamid Kazemi and Reza Zanganeh were part of anti-government protests earlier this year.",
+      "published_at": "2026-11-08T13:37:50Z",
+      "country_code": "IR",
+      "country_name": "Iran"
     },
     {
       "source": "BBC World",
@@ -20,7 +56,7 @@
       "country_name": "Saudi Arabia"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Middle East",
       "title": "Israel's president tasks opposition leader Eisenkot with forming government",
       "url": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&at_campaign=rss",
       "summary": "Neither PM Benjamin Netanyahu's bloc nor that of his rival secured a majority in last week's election.",
@@ -173,15 +209,6 @@
       "country_name": "Spain"
     },
     {
-      "source": "BBC Africa",
-      "title": "Will Atiku Abubakar be on Nigeria's presidential ballot after court ruling?",
-      "url": "https://www.bbc.co.uk/news/articles/cw8rzzx46jd5o?at_medium=RSS&at_campaign=rss",
-      "summary": "The high court has sacked the leadership of the opposition ADC party with only months to go until elections.",
-      "published_at": "2026-11-06T17:35:55Z",
-      "country_code": "NG",
-      "country_name": "Nigeria"
-    },
-    {
       "source": "BBC Europe",
       "title": "Self-styled 'king of Germany' goes on trial accused of heading criminal group",
       "url": "https://www.bbc.co.uk/news/articles/c5zjxxmz7mxro?at_medium=RSS&at_campaign=rss",
@@ -189,15 +216,6 @@
       "published_at": "2026-11-06T16:16:46Z",
       "country_code": "DE",
       "country_name": "Germany"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "How America voted in maps and charts",
-      "url": "https://www.bbc.co.uk/news/articles/cm4g1j0n92qdo?at_medium=RSS&at_campaign=rss",
-      "summary": "See the maps and charts that show how America voted in the US midterm elections.",
-      "published_at": "2026-11-06T15:54:14Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC Middle East",
@@ -605,15 +623,6 @@
       "country_name": "Israel"
     },
     {
-      "source": "BBC Africa",
-      "title": "Hospitals deliberately targeted by Sudan's RSF fighters, BBC finds",
-      "url": "https://www.bbc.co.uk/news/articles/c54g1kxw4nvvo?at_medium=RSS&at_campaign=rss",
-      "summary": "The UN human rights chief Volker Türk says the multiple attacks may amount to war crimes.",
-      "published_at": "2026-10-23T10:23:07Z",
-      "country_code": "SD",
-      "country_name": "Sudan"
-    },
-    {
       "source": "BBC Middle East",
       "title": "Israel's far right find fertile ground among first-time voters",
       "url": "https://www.bbc.co.uk/news/articles/cmvg632xgndeo?at_medium=RSS&at_campaign=rss",
@@ -654,7 +663,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 24
+      "news_count": 23
     },
     {
       "country_code": "IL",
@@ -667,18 +676,13 @@
       "news_count": 4
     },
     {
-      "country_code": "GB",
-      "country_name": "United Kingdom",
-      "news_count": 3
-    },
-    {
       "country_code": "IR",
       "country_name": "Iran",
-      "news_count": 3
+      "news_count": 4
     },
     {
-      "country_code": "NG",
-      "country_name": "Nigeria",
+      "country_code": "GB",
+      "country_name": "United Kingdom",
       "news_count": 3
     },
     {
@@ -707,6 +711,11 @@
       "news_count": 2
     },
     {
+      "country_code": "EG",
+      "country_name": "Egypt",
+      "news_count": 2
+    },
+    {
       "country_code": "ES",
       "country_name": "Spain",
       "news_count": 2
@@ -719,6 +728,16 @@
     {
       "country_code": "IN",
       "country_name": "India",
+      "news_count": 2
+    },
+    {
+      "country_code": "NG",
+      "country_name": "Nigeria",
+      "news_count": 2
+    },
+    {
+      "country_code": "ZA",
+      "country_name": "South Africa",
       "news_count": 2
     },
     {
@@ -747,18 +766,8 @@
       "news_count": 1
     },
     {
-      "country_code": "SD",
-      "country_name": "Sudan",
-      "news_count": 1
-    },
-    {
       "country_code": "UA",
       "country_name": "Ukraine",
-      "news_count": 1
-    },
-    {
-      "country_code": "ZA",
-      "country_name": "South Africa",
       "news_count": 1
     }
   ]
