@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T20:39:14Z",
+  "generated_at": "2026-11-09T00:16:26Z",
   "articles": [
     {
       "source": "BBC World",
@@ -23,7 +23,7 @@
       "source": "BBC World",
       "title": "Footage shows derailed carriages after fatal train crash in Egypt",
       "url": "https://www.bbc.co.uk/news/videos/cw78p2km7d94o?at_medium=RSS&at_campaign=rss",
-      "summary": "It is yet unclear what caused the accident but Egyptian President Abdel Fattah al-Sisi said an investigation is underway and will \"hold acco…",
+      "summary": "At least seven people died when two trains collided, causing several carriages to derail and fall down an embankment.",
       "published_at": "2026-11-08T16:05:57Z",
       "country_code": "EG",
       "country_name": "Egypt"
@@ -47,7 +47,7 @@
       "country_name": "Iran"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Middle East",
       "title": "Houthis say at least 33 killed in Saudi air strike",
       "url": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
       "summary": "Saudi Arabia, which leads a coalition fighting the Houthis in Yemen, has not commented.",
@@ -306,15 +306,6 @@
       "published_at": "2026-11-06T00:02:57Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC Europe",
-      "title": "Why are new strikes and protests taking place in France?",
-      "url": "https://www.bbc.co.uk/news/videos/cqy7ll65r1eko?at_medium=RSS&at_campaign=rss",
-      "summary": "More than 250,000 people had taken to the streets in almost 70 towns and cities by Thursday afternoon, and that was \"just the start\", the CG…",
-      "published_at": "2026-11-05T18:43:06Z",
-      "country_code": "FR",
-      "country_name": "France"
     },
     {
       "source": "BBC Europe",
@@ -721,11 +712,6 @@
       "news_count": 2
     },
     {
-      "country_code": "FR",
-      "country_name": "France",
-      "news_count": 2
-    },
-    {
       "country_code": "IN",
       "country_name": "India",
       "news_count": 2
@@ -748,6 +734,11 @@
     {
       "country_code": "CO",
       "country_name": "Colombia",
+      "news_count": 1
+    },
+    {
+      "country_code": "FR",
+      "country_name": "France",
       "news_count": 1
     },
     {
