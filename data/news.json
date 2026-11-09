@@ -1,6 +1,51 @@
 {
-  "generated_at": "2026-11-09T00:16:26Z",
+  "generated_at": "2026-11-09T06:56:29Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Pope delivers veiled rebuke of Milei's austerity measures",
+      "url": "https://www.bbc.co.uk/news/articles/ckj0l082jqzvo?at_medium=RSS&at_campaign=rss",
+      "summary": "Pope Leo made the comments as he arrived in Argentina on the second leg of his Latin America tour.",
+      "published_at": "2026-11-09T05:30:37Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC Asia",
+      "title": "After knife-edge vote, New Zealand parties put off coalitions talks",
+      "url": "https://www.bbc.co.uk/news/articles/cqvgj2gjdn40o?at_medium=RSS&at_campaign=rss",
+      "summary": "New Zealand has just seen its tightest general election in years, with the two major parties neck-and-neck.",
+      "published_at": "2026-11-09T05:10:33Z",
+      "country_code": "NZ",
+      "country_name": "New Zealand"
+    },
+    {
+      "source": "BBC Asia",
+      "title": "One killed in Indonesia helicopter crash during firefighting operation",
+      "url": "https://www.bbc.co.uk/news/articles/cxnv0442ml6vo?at_medium=RSS&at_campaign=rss",
+      "summary": "An Indonesian crew member was killed, while an Australian and New Zealander were rescued after the crash.",
+      "published_at": "2026-11-09T04:14:56Z",
+      "country_code": "ID",
+      "country_name": "Indonesia"
+    },
+    {
+      "source": "BBC World",
+      "title": "Cruise ship pianist rescued from sea after nine hours in Pacific Ocean",
+      "url": "https://www.bbc.co.uk/news/articles/ck1wvrrgln13o?at_medium=RSS&at_campaign=rss",
+      "summary": "Two US fishermen say they spotted the man treading water around 20 miles (32km) off the Californian coast.",
+      "published_at": "2026-11-09T02:50:13Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "Top House Democrat 'a hard yes' on impeaching Hegseth",
+      "url": "https://www.bbc.co.uk/news/articles/cj4g1nwx39wno?at_medium=RSS&at_campaign=rss",
+      "summary": "But the Pentagon said the US defence secretary would not be deterred by \"phony investigations\".",
+      "published_at": "2026-11-09T01:53:48Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "Seven dead and more than 100 injured after trains collide in Egypt",
@@ -119,15 +164,6 @@
       "country_name": "Israel"
     },
     {
-      "source": "BBC Asia",
-      "title": "No clear winner after tight New Zealand general election",
-      "url": "https://www.bbc.co.uk/news/articles/c3ewev11g1e0o?at_medium=RSS&at_campaign=rss",
-      "summary": "Weeks of coalition talks could follow after preliminary results pointed to a highly divided national parliament.",
-      "published_at": "2026-11-07T15:56:28Z",
-      "country_code": "NZ",
-      "country_name": "New Zealand"
-    },
-    {
       "source": "BBC World",
       "title": "UK cannot 'cherry pick' EU single market deal, Barnier tells BBC",
       "url": "https://www.bbc.co.uk/news/articles/c9kgjj206nzpo?at_medium=RSS&at_campaign=rss",
@@ -155,7 +191,7 @@
       "country_name": "New Zealand"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Latin America",
       "title": "Pope in 'pretty good health' as he starts Latin America tour",
       "url": "https://www.bbc.co.uk/news/articles/c60e0001ve9wo?at_medium=RSS&at_campaign=rss",
       "summary": "Pope Leo travels to Uruguay just three weeks after having surgery for lung cancer.",
@@ -200,7 +236,7 @@
       "country_name": "China"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "Spain's rail authorities face European fraud probe after Urda rail disaster",
       "url": "https://www.bbc.co.uk/news/articles/c6x2wwnz5445o?at_medium=RSS&at_campaign=rss",
       "summary": "Prosecutors begin investigating EU funds meant for upgrading the Spanish railway line where a train crash killed 69 people.",
@@ -461,15 +497,6 @@
       "country_name": "Palestine"
     },
     {
-      "source": "BBC Middle East",
-      "title": "Democratic senator blames Egypt press crackdown on US military aid decision",
-      "url": "https://www.bbc.co.uk/news/articles/c63r529wn2vzo?at_medium=RSS&at_campaign=rss",
-      "summary": "Chris Murphy said waiving a human rights condition on aid paved the way for arrests of journalists.",
-      "published_at": "2026-10-30T15:17:11Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC Africa",
       "title": "How Kenyans got caught in $130m US ghost student scam",
       "url": "https://www.bbc.co.uk/news/articles/cxvgdzpy7241o?at_medium=RSS&at_campaign=rss",
@@ -533,15 +560,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Middle East",
-      "title": "Israel's election result is messy - here's why",
-      "url": "https://www.bbc.co.uk/news/videos/c893zeknlvnno?at_medium=RSS&at_campaign=rss",
-      "summary": "Despite having the highest voter turnout in nearly three decades, Israel's elections have had no clear winner. What does this mean for the c…",
-      "published_at": "2026-10-28T14:26:24Z",
-      "country_code": "IL",
-      "country_name": "Israel"
-    },
-    {
       "source": "BBC Latin America",
       "title": "'You're lying' - US and Cuban officials get into shouting match at UN",
       "url": "https://www.bbc.co.uk/news/videos/ck5yn5rlz978o?at_medium=RSS&at_campaign=rss",
@@ -549,24 +567,6 @@
       "published_at": "2026-10-27T20:52:30Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC Middle East",
-      "title": "What does Israel's election mean for Gaza and the wider world?",
-      "url": "https://www.bbc.co.uk/news/videos/ck240dg5n4gjo?at_medium=RSS&at_campaign=rss",
-      "summary": "The BBC's diplomatic correspondent James Landale reports from Jerusalem as ballots are cast.",
-      "published_at": "2026-10-27T10:17:36Z",
-      "country_code": "IL",
-      "country_name": "Israel"
-    },
-    {
-      "source": "BBC Middle East",
-      "title": "Why it could take time for a new Israeli government to form",
-      "url": "https://www.bbc.co.uk/news/videos/c574p31l1l2no?at_medium=RSS&at_campaign=rss",
-      "summary": "Israel faces what many view as one of the most pivotal elections in the country's history.",
-      "published_at": "2026-10-27T08:37:30Z",
-      "country_code": "IL",
-      "country_name": "Israel"
     },
     {
       "source": "BBC Latin America",
@@ -654,12 +654,12 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 23
+      "news_count": 25
     },
     {
       "country_code": "IL",
       "country_name": "Israel",
-      "news_count": 9
+      "news_count": 6
     },
     {
       "country_code": "BR",
@@ -712,6 +712,11 @@
       "news_count": 2
     },
     {
+      "country_code": "ID",
+      "country_name": "Indonesia",
+      "news_count": 2
+    },
+    {
       "country_code": "IN",
       "country_name": "India",
       "news_count": 2
@@ -739,11 +744,6 @@
     {
       "country_code": "FR",
       "country_name": "France",
-      "news_count": 1
-    },
-    {
-      "country_code": "ID",
-      "country_name": "Indonesia",
       "news_count": 1
     },
     {
