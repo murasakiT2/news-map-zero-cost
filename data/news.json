@@ -1,14 +1,32 @@
 {
-  "generated_at": "2026-11-11T23:12:15Z",
+  "generated_at": "2026-11-12T03:57:06Z",
   "articles": [
     {
       "source": "BBC World",
-      "title": "Democrat Scott Colom wins Mississippi Senate race in surprise victory for party",
+      "title": "Democrat Scott Colom seals historic win in Mississippi Senate race",
       "url": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
-      "summary": "Colom's victory makes him the first black person from Mississippi to be elected to the US Senate in more than 140 years.",
-      "published_at": "2026-11-11T23:09:07Z",
+      "summary": "Colom is the first black person from the southern state elected to the US Senate in over 140 years.",
+      "published_at": "2026-11-12T02:09:08Z",
       "country_code": "US",
       "country_name": "United States"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "Why Democrat Scott Colom’s win in Mississippi Senate race is so significant",
+      "url": "https://www.bbc.co.uk/news/videos/cjy5x42p3qzko?at_medium=RSS&at_campaign=rss",
+      "summary": "Colom's victory makes him the first black person from the state to be elected to the US Senate in more than 140 years.",
+      "published_at": "2026-11-12T02:02:37Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Nigeria's president launches re-election manifesto but can he regain voters' trust?",
+      "url": "https://www.bbc.co.uk/news/articles/ck5ynyw527wdo?at_medium=RSS&at_campaign=rss",
+      "summary": "For Nigerians to feel meaningful improvements, reforms will need to go beyond the promises outlined, analysts say.",
+      "published_at": "2026-11-12T00:36:11Z",
+      "country_code": "NG",
+      "country_name": "Nigeria"
     },
     {
       "source": "BBC World",
@@ -18,15 +36,6 @@
       "published_at": "2026-11-11T22:07:37Z",
       "country_code": "ES",
       "country_name": "Spain"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "Hegseth and advisers reprimanded by guard at Tomb of the Unknown Soldier",
-      "url": "https://www.bbc.co.uk/news/videos/ck5y132yq1ymo?at_medium=RSS&at_campaign=rss",
-      "summary": "Following a wreath-laying ceremony marking Veterans Day, a group that included Defence Secretary Pete Hegseth was shouted at by a US Army se…",
-      "published_at": "2026-11-11T21:43:35Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC World",
@@ -47,7 +56,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC US & Canada",
+      "source": "BBC World",
       "title": "Famed ship SS United States to be sunk off coast of Florida",
       "url": "https://www.bbc.co.uk/news/articles/c3x298n87rn2o?at_medium=RSS&at_campaign=rss",
       "summary": "Activists unsuccessfully fought for the historic liner to be preserved and turned into a museum, but it will now become the world's largest …",
@@ -344,7 +353,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "Polish unity on show as thousands join silent march for Krakow shooting victims",
       "url": "https://www.bbc.co.uk/news/articles/cqkg5gm4nr4no?at_medium=RSS&at_campaign=rss",
       "summary": "Fiercely proud of its reputation for safety, Poland has been profoundly shaken by Saturday's attack, writes Sarah Rainsford.",
@@ -506,15 +515,6 @@
       "country_name": "Israel"
     },
     {
-      "source": "BBC Asia",
-      "title": "'Flat', 'tired', 'cynical': Unusually gloomy Kiwis deliver New Zealand's tightest election in years",
-      "url": "https://www.bbc.co.uk/news/articles/cxr5yyg2nj9eo?at_medium=RSS&at_campaign=rss",
-      "summary": "The national mood is low, and faith in politics even lower - with voters deserting the major parties at the polls.",
-      "published_at": "2026-11-07T21:36:16Z",
-      "country_code": "NZ",
-      "country_name": "New Zealand"
-    },
-    {
       "source": "BBC Latin America",
       "title": "Paraguay's former president charged after bank collapse",
       "url": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
@@ -549,15 +549,6 @@
       "published_at": "2026-11-07T16:25:55Z",
       "country_code": "IL",
       "country_name": "Israel"
-    },
-    {
-      "source": "BBC Asia",
-      "title": "New Zealand election 'too close to call' - so who will be next PM?",
-      "url": "https://www.bbc.co.uk/news/videos/c6kgl7m1g9m1o?at_medium=RSS&at_campaign=rss",
-      "summary": "With the New Zealand election too tight to call, the BBC's Tiffanie Turnbull reports from a Labour Party gathering after an inconclusive nig…",
-      "published_at": "2026-11-07T12:40:38Z",
-      "country_code": "NZ",
-      "country_name": "New Zealand"
     },
     {
       "source": "BBC Latin America",
@@ -774,15 +765,6 @@
       "published_at": "2026-10-09T15:26:33Z",
       "country_code": "PS",
       "country_name": "Palestine"
-    },
-    {
-      "source": "BBC Africa",
-      "title": "'Knowledge is power' - Awoniyi",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cm0ld8wwenw6o?at_medium=RSS&at_campaign=rss",
-      "summary": "Nigeria's Taiwo Awoniyi explains why he values education so highly, having completed a course which could see him become one of football's f…",
-      "published_at": "2026-10-02T12:48:56Z",
-      "country_code": "NG",
-      "country_name": "Nigeria"
     }
   ],
   "regions": [
@@ -814,11 +796,6 @@
     {
       "country_code": "GB",
       "country_name": "United Kingdom",
-      "news_count": 3
-    },
-    {
-      "country_code": "NZ",
-      "country_name": "New Zealand",
       "news_count": 3
     },
     {
@@ -884,6 +861,11 @@
     {
       "country_code": "MY",
       "country_name": "Malaysia",
+      "news_count": 1
+    },
+    {
+      "country_code": "NZ",
+      "country_name": "New Zealand",
       "news_count": 1
     },
     {
