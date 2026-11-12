@@ -1,23 +1,68 @@
 {
-  "generated_at": "2026-11-12T12:05:02Z",
+  "generated_at": "2026-11-12T20:11:28Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Suspected bomb hoax threats force fresh evacuations of Italian schools",
+      "url": "https://www.bbc.co.uk/news/articles/cr894w453e90o?at_medium=RSS&at_campaign=rss",
+      "summary": "Schools across Italy have received bomb threats for the second day in a row, sparking fresh panic and evacuations.",
+      "published_at": "2026-11-12T19:23:02Z",
+      "country_code": "IT",
+      "country_name": "Italy"
+    },
+    {
+      "source": "BBC Middle East",
+      "title": "Two men guilty of spying for Iran over plan to target journalists and lawyer",
+      "url": "https://www.bbc.co.uk/news/articles/ck9q8g8209l2o?at_medium=RSS&at_campaign=rss",
+      "summary": "The men were convicted of engaging in conduct likely to assist an Iranian intelligence service.",
+      "published_at": "2026-11-12T18:54:00Z",
+      "country_code": "IR",
+      "country_name": "Iran"
+    },
+    {
+      "source": "BBC World",
+      "title": "US envoys head to meet Zelensky after talks with Putin in Moscow",
+      "url": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss",
+      "summary": "US envoy Steve Witkoff says President Putin has agreed to European negotiators joining the next round of Ukraine talks.",
+      "published_at": "2026-11-12T18:28:59Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC Middle East",
+      "title": "Fourteen dead after truck loses control in 23-vehicle crash in UAE",
+      "url": "https://www.bbc.co.uk/news/articles/c804wp9013kvo?at_medium=RSS&at_campaign=rss",
+      "summary": "Authorities say the driver lost control and collided with 23 vehicles including five trucks in the traffic.",
+      "published_at": "2026-11-12T16:56:31Z",
+      "country_code": "AE",
+      "country_name": "United Arab Emirates"
+    },
     {
       "source": "BBC World",
       "title": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
       "url": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
       "summary": "Witnesses say a missile hit a building containing the surgical wards and intensive care units at Nasser hospital, the largest in southern Ga…",
-      "published_at": "2026-11-12T12:03:47Z",
+      "published_at": "2026-11-12T16:54:12Z",
       "country_code": "PS",
       "country_name": "Palestine"
     },
     {
       "source": "BBC World",
-      "title": "US envoys arrive in Moscow for Ukraine talks with Vladimir Putin",
-      "url": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss",
-      "summary": "Later on Thursday, Jared Kushner and Steve Witkoff will travel to Dublin to meet Ukraine's Volodymyr Zelensky.",
-      "published_at": "2026-11-12T10:08:38Z",
+      "title": "Before Scott Colom, these two men were the last black US senators from Mississippi",
+      "url": "https://www.bbc.co.uk/news/articles/cmde1y19g19do?at_medium=RSS&at_campaign=rss",
+      "summary": "The Democratic candidate won in a southern state that had not seated a black senator since 1874.",
+      "published_at": "2026-11-12T14:12:55Z",
       "country_code": "US",
       "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "'We've got to run': Inside ruined Ukraine power plant under constant drone threat",
+      "url": "https://www.bbc.co.uk/news/videos/cm93rp3gxn6qo?at_medium=RSS&at_campaign=rss",
+      "summary": "Dan Johnson visits one of the country's largest power stations, barely left standing after a ballistic missile strike by Russia.",
+      "published_at": "2026-11-12T13:02:46Z",
+      "country_code": "RU",
+      "country_name": "Russia"
     },
     {
       "source": "BBC World",
@@ -29,7 +74,7 @@
       "country_name": "Indonesia"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "'No light, no water, no heat': Ukrainians struggle with blackouts as Russia hits power grid",
       "url": "https://www.bbc.co.uk/news/articles/cr1ewpd95d21o?at_medium=RSS&at_campaign=rss",
       "summary": "For parents in parts of Ukraine, trying to lead a normal family life with just a few hours of power each day is taking its toll.",
@@ -164,15 +209,6 @@
       "country_name": "Kenya"
     },
     {
-      "source": "BBC US & Canada",
-      "title": "US House blocks bid to impeach Defence Secretary Pete Hegseth",
-      "url": "https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo?at_medium=RSS&at_campaign=rss",
-      "summary": "Trump welcomes the outcome, praising Hegseth as a \"Great American Patriot\", but Democrats can try again next year.",
-      "published_at": "2026-11-11T11:47:22Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC Latin America",
       "title": "Transport workers in Chile block highways in protest over surging fuel prices",
       "url": "https://www.bbc.co.uk/news/articles/c6e3d895zne7o?at_medium=RSS&at_campaign=rss",
@@ -201,7 +237,7 @@
     },
     {
       "source": "BBC Africa",
-      "title": "Vinícius Jr sends message to Sudan boy who received prosthetic legs after BBC report sparks appeal",
+      "title": "How BBC got message from Vinícius Jr to Sudan football fan who lost his legs in war",
       "url": "https://www.bbc.co.uk/news/articles/cqm26mmpp2p1o?at_medium=RSS&at_campaign=rss",
       "summary": "Double amputee Zaher told the BBC last year about his favourite footballer and a dream of being able to walk again.",
       "published_at": "2026-11-11T00:19:42Z",
@@ -209,7 +245,7 @@
       "country_name": "Sudan"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Africa",
       "title": "'It can kill us': Kenyans fear impact of El Niño with floods predicted",
       "url": "https://www.bbc.co.uk/news/articles/c8wy9y37z30vo?at_medium=RSS&at_campaign=rss",
       "summary": "Forecasters warn that this year's El Niño could be one of the strongest on record, with heavy rain and flooding in Kenya.",
@@ -227,22 +263,13 @@
       "country_name": "Russia"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "Why does Australia want Brits to swap Sydney for the outback?",
       "url": "https://www.bbc.co.uk/news/articles/cm1j3jdp7w54o?at_medium=RSS&at_campaign=rss",
       "summary": "Australia wants changes to UK deal that would push backpackers out of Bondi and into remote regions.",
       "published_at": "2026-11-10T21:17:00Z",
       "country_code": "GB",
       "country_name": "United Kingdom"
-    },
-    {
-      "source": "BBC Europe",
-      "title": "Spain's king and queen attend memorial service for rail crash victims",
-      "url": "https://www.bbc.co.uk/news/articles/ckjwew54yd4wo?at_medium=RSS&at_campaign=rss",
-      "summary": "Sixty-nine people died in the collision near Toledo two weeks ago and 28 are still in hospital.",
-      "published_at": "2026-11-10T20:46:40Z",
-      "country_code": "ES",
-      "country_name": "Spain"
     },
     {
       "source": "BBC Asia",
@@ -263,7 +290,7 @@
       "country_name": "Malaysia"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "Why are these purple flowers shutting down streets in Sydney?",
       "url": "https://www.bbc.co.uk/news/videos/c862y2dxdq45o?at_medium=RSS&at_campaign=rss",
       "summary": "Jacaranda trees typically flower for six weeks every spring, drawing visitors to Australia from across the globe.",
@@ -443,15 +470,6 @@
       "country_name": "Egypt"
     },
     {
-      "source": "BBC Middle East",
-      "title": "Iran executes three men for 'armed unrest' after January protests",
-      "url": "https://www.bbc.co.uk/news/articles/ckly0ex633ydo?at_medium=RSS&at_campaign=rss",
-      "summary": "It is claimed Hassan Dioband, Hamid Kazemi and Reza Zanganeh were part of anti-government protests earlier this year.",
-      "published_at": "2026-11-08T13:37:50Z",
-      "country_code": "IR",
-      "country_name": "Iran"
-    },
-    {
       "source": "BBC Africa",
       "title": "'I can't believe he is one of us' - inside Salah's life in Trabzon",
       "url": "https://www.bbc.co.uk/sport/football/articles/cmwyqzy934lxo?at_medium=RSS&at_campaign=rss",
@@ -468,15 +486,6 @@
       "published_at": "2026-11-08T04:03:12Z",
       "country_code": "SA",
       "country_name": "Saudi Arabia"
-    },
-    {
-      "source": "BBC Latin America",
-      "title": "Paraguay's former president charged after bank collapse",
-      "url": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
-      "summary": "Santiago Peña was ousted due to a banking crisis which left millions of people unable to access their money.",
-      "published_at": "2026-11-07T19:17:22Z",
-      "country_code": "CL",
-      "country_name": "Chile"
     },
     {
       "source": "BBC Latin America",
@@ -585,15 +594,6 @@
       "published_at": "2026-11-02T06:00:54Z",
       "country_code": "IR",
       "country_name": "Iran"
-    },
-    {
-      "source": "BBC Africa",
-      "title": "How Kenyans got caught in $130m US ghost student scam",
-      "url": "https://www.bbc.co.uk/news/articles/cxvgdzpy7241o?at_medium=RSS&at_campaign=rss",
-      "summary": "The alleged scheme used stolen identities to claim US student aid, with Kenyans among those charged.",
-      "published_at": "2026-10-30T08:32:35Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC Africa",
@@ -708,12 +708,17 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 28
+      "news_count": 27
     },
     {
       "country_code": "IL",
       "country_name": "Israel",
       "news_count": 6
+    },
+    {
+      "country_code": "RU",
+      "country_name": "Russia",
+      "news_count": 5
     },
     {
       "country_code": "IR",
@@ -726,18 +731,13 @@
       "news_count": 4
     },
     {
-      "country_code": "RU",
-      "country_name": "Russia",
-      "news_count": 4
-    },
-    {
       "country_code": "AU",
       "country_name": "Australia",
       "news_count": 3
     },
     {
-      "country_code": "ES",
-      "country_name": "Spain",
+      "country_code": "IT",
+      "country_name": "Italy",
       "news_count": 3
     },
     {
@@ -751,13 +751,13 @@
       "news_count": 2
     },
     {
-      "country_code": "CL",
-      "country_name": "Chile",
+      "country_code": "EG",
+      "country_name": "Egypt",
       "news_count": 2
     },
     {
-      "country_code": "EG",
-      "country_name": "Egypt",
+      "country_code": "ES",
+      "country_name": "Spain",
       "news_count": 2
     },
     {
@@ -771,13 +771,18 @@
       "news_count": 2
     },
     {
-      "country_code": "IT",
-      "country_name": "Italy",
-      "news_count": 2
+      "country_code": "AE",
+      "country_name": "United Arab Emirates",
+      "news_count": 1
     },
     {
       "country_code": "CA",
       "country_name": "Canada",
+      "news_count": 1
+    },
+    {
+      "country_code": "CL",
+      "country_name": "Chile",
       "news_count": 1
     },
     {
