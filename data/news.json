@@ -1,17 +1,98 @@
 {
-  "generated_at": "2026-11-13T16:35:33Z",
+  "generated_at": "2026-11-13T22:17:00Z",
   "articles": [
     {
-      "source": "BBC Europe",
-      "title": "Russia hit by second car bomb in as many days as peace talks continue",
-      "url": "https://www.bbc.co.uk/news/articles/c5gm3gnwl42eo?at_medium=RSS&at_campaign=rss",
-      "summary": "A former adviser to Ukraine's pro-Putin ex-prime minister Mykola Azarov was seriously hurt, Russia says.",
-      "published_at": "2026-11-13T13:11:23Z",
+      "source": "BBC US & Canada",
+      "title": "US Air Force says it responded to 'suspected drones' over RAF Lakenheath",
+      "url": "https://www.bbc.co.uk/news/articles/c6jd75geegzyo?at_medium=RSS&at_campaign=rss",
+      "summary": "The American military says there were no injuries or damage after \"suspected unauthorised drone activity\" this evening.",
+      "published_at": "2026-11-13T22:12:33Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC Africa",
+      "title": "Salah scores twice as Egypt and Nigeria win Afcon 2027 qualifiers",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cw1md9jx2r3po?at_medium=RSS&at_campaign=rss",
+      "summary": "Nigeria beat Tanzania to bolster their hopes of reaching the 2027 Africa Cup of Nations, while Mohamed Salah scores twice as Egypt cruise to…",
+      "published_at": "2026-11-13T22:11:27Z",
+      "country_code": "EG",
+      "country_name": "Egypt"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "Watch: How the Microsoft outage affected North America",
+      "url": "https://www.bbc.co.uk/news/videos/cmpqrzpq193do?at_medium=RSS&at_campaign=rss",
+      "summary": "The BBC's Nadine Yousif's reports that Microsoft services like Outlook are slowly coming back online, but the company noted users \"may still…",
+      "published_at": "2026-11-13T20:12:05Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Nvidia scandal fallout widens as Trump's treasury secretary blames cabinet colleague",
+      "url": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss",
+      "summary": "Scott Bessent suggests Howard Lutnick’s commerce department failed to ban exports of Nvidia's chips to a firm thought to have links with Chi…",
+      "published_at": "2026-11-13T19:53:57Z",
+      "country_code": "CN",
+      "country_name": "China"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "What could El Niño mean for winter weather in the US and Canada?",
+      "url": "https://www.bbc.co.uk/weather/articles/c6pvg22k2w2do?at_medium=RSS&at_campaign=rss",
+      "summary": "El Niño winters typically bring more rain in the southern USA and drier, warmer conditions further north but the impacts on snowfall are com…",
+      "published_at": "2026-11-13T18:50:15Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "The Peruvian city that has embraced Pope Leo as one of its own",
+      "url": "https://www.bbc.co.uk/news/articles/cwg7l8n7dx5mo?at_medium=RSS&at_campaign=rss",
+      "summary": "Pope Leo XIV is in Peru as part of his Latin America tour, just weeks after having surgery for lung cancer.",
+      "published_at": "2026-11-13T18:34:45Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Rosenberg: Uncompromising Putin ups demands for peace with Ukraine",
+      "url": "https://www.bbc.co.uk/news/articles/cq39glwprknjo?at_medium=RSS&at_campaign=rss",
+      "summary": "The fact the question of European security now features in discussions is viewed in Moscow as a victory, BBC Russia Editor Steve Rosenberg s…",
+      "published_at": "2026-11-13T16:40:31Z",
       "country_code": "RU",
       "country_name": "Russia"
     },
     {
       "source": "BBC World",
+      "title": "At least 24 killed after bus collides with truck in north-east India",
+      "url": "https://www.bbc.co.uk/news/articles/c6r7g5lp1zrxo?at_medium=RSS&at_campaign=rss",
+      "summary": "Several of the deceased are college students, according to local official Atul Bora, but they have not yet been publicly identified.",
+      "published_at": "2026-11-13T15:16:50Z",
+      "country_code": "IN",
+      "country_name": "India"
+    },
+    {
+      "source": "BBC World",
+      "title": "Watch: Divers explore US ship sunk off Florida coast to create new reef",
+      "url": "https://www.bbc.co.uk/news/videos/ckqx5ryx905qo?at_medium=RSS&at_campaign=rss",
+      "summary": "The ship was intentionally sunk off the coast of Florida in order to create the world's largest artificial ocean reef.",
+      "published_at": "2026-11-13T15:09:40Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Aide to fugitive Ukrainian ex-PM wounded in latest Moscow car bombing",
+      "url": "https://www.bbc.co.uk/news/articles/c5gm3gnwl42eo?at_medium=RSS&at_campaign=rss",
+      "summary": "Sergei Zavorotny, now a journalist and commentator, was previously an adviser to Ukrainian ex-prime minister Mykola Azarov.",
+      "published_at": "2026-11-13T13:11:23Z",
+      "country_code": "RU",
+      "country_name": "Russia"
+    },
+    {
+      "source": "BBC Middle East",
       "title": "UN watchdog 'increasingly concerned' over uninspected Iran nuclear site",
       "url": "https://www.bbc.co.uk/news/articles/cm75261e3pdko?at_medium=RSS&at_campaign=rss",
       "summary": "It says it has never been able to visit a uranium enrichment plant at Isfahan which Iran announced over a year ago.",
@@ -25,24 +106,6 @@
       "url": "https://www.bbc.co.uk/news/articles/cklyw3neqg2wo?at_medium=RSS&at_campaign=rss",
       "summary": "Hall has been seeking a US visa in South Africa as other African beauty queens face similar hurdles.",
       "published_at": "2026-11-13T07:01:43Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "Australian footballers will not be charged after hotel incident, police say",
-      "url": "https://www.bbc.co.uk/news/articles/ckregjwr7njqo?at_medium=RSS&at_campaign=rss",
-      "summary": "Four Sydney Swans players had been under investigation after an alleged sexual assault after a game in Melbourne.",
-      "published_at": "2026-11-13T03:02:54Z",
-      "country_code": "AU",
-      "country_name": "Australia"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "US doctor kills building manager after long-running dispute over mould, police say",
-      "url": "https://www.bbc.co.uk/news/articles/crgqx2qqnwpjo?at_medium=RSS&at_campaign=rss",
-      "summary": "Authorities say the shooting in Washington DC left four people injured, with the suspect dying of a self-inflicted gunshot wound.",
-      "published_at": "2026-11-13T02:35:34Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -65,7 +128,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks",
       "url": "https://www.bbc.co.uk/news/articles/ckn80j9jv3jxo?at_medium=RSS&at_campaign=rss",
       "summary": "The Ukrainian president says it makes sense for European leaders to be involved as Ukraine hopes to eventually join the EU.",
@@ -92,7 +155,7 @@
       "country_name": "Ethiopia"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "Russian warship hit by Ukrainian drone in Gulf of Finland",
       "url": "https://www.bbc.co.uk/news/articles/cmn0d33zz34zo?at_medium=RSS&at_campaign=rss",
       "summary": "The attack is thought to be the first time Ukrainian drones have attacked a Russian ship in an open stretch of the Baltic Sea.",
@@ -201,15 +264,6 @@
     },
     {
       "source": "BBC US & Canada",
-      "title": "Famed ship SS United States deliberately sunk off Florida coast to become a reef",
-      "url": "https://www.bbc.co.uk/news/articles/c3x298n87rn2o?at_medium=RSS&at_campaign=rss",
-      "summary": "Activists wanted the historic liner to be turned into a museum, but it will instead become the world's largest artificial ocean reef.",
-      "published_at": "2026-11-12T04:03:13Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC US & Canada",
       "title": "Why Democrat Scott Colom’s win in Mississippi Senate race is so significant",
       "url": "https://www.bbc.co.uk/news/videos/cjy5x42p3qzko?at_medium=RSS&at_campaign=rss",
       "summary": "Colom's victory makes him the first black person from the state to be elected to the US Senate in more than 140 years.",
@@ -227,15 +281,6 @@
       "country_name": "Spain"
     },
     {
-      "source": "BBC US & Canada",
-      "title": "Trump says 'we won' Iran war during Veterans Day service",
-      "url": "https://www.bbc.co.uk/news/videos/cke89dqmlp2eo?at_medium=RSS&at_campaign=rss",
-      "summary": "US President Donald Trump placed a wreath at the Tomb of the Unknown Soldier before making remarks at the Veterans Day ceremony at Arlington…",
-      "published_at": "2026-11-11T19:30:48Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC Middle East",
       "title": "Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says",
       "url": "https://www.bbc.co.uk/news/articles/c3rryrryk59zo?at_medium=RSS&at_campaign=rss",
@@ -245,7 +290,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC US & Canada",
+      "source": "BBC Middle East",
       "title": "US Treasury Secretary Scott Bessent relocated after alleged Iranian threats",
       "url": "https://www.bbc.co.uk/news/articles/cqr7gr0010r2o?at_medium=RSS&at_campaign=rss",
       "summary": "Bessent is now one of several Trump administration officials to live on military bases due to safety concerns.",
@@ -353,15 +398,6 @@
       "country_name": "Israel"
     },
     {
-      "source": "BBC US & Canada",
-      "title": "US inflation higher than expected in October - here's what is happening with prices",
-      "url": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&at_campaign=rss",
-      "summary": "Prices rose by 0.4% over the month, driven by increases in shelter, food and energy costs.",
-      "published_at": "2026-11-10T14:45:46Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC Middle East",
       "title": "Iran rejects French claims it was behind supermarket fridge hacking",
       "url": "https://www.bbc.co.uk/news/articles/cmg474vk6dyqo?at_medium=RSS&at_campaign=rss",
@@ -450,24 +486,6 @@
       "published_at": "2026-11-09T10:41:57Z",
       "country_code": "PS",
       "country_name": "Palestine"
-    },
-    {
-      "source": "BBC Latin America",
-      "title": "Pope delivers veiled rebuke of Milei's austerity measures",
-      "url": "https://www.bbc.co.uk/news/articles/ckj0l082jqzvo?at_medium=RSS&at_campaign=rss",
-      "summary": "Pope Leo made the comments as he arrived in Argentina on the second leg of his Latin America tour.",
-      "published_at": "2026-11-09T05:30:37Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC Asia",
-      "title": "After knife-edge vote, New Zealand parties put off coalitions talks",
-      "url": "https://www.bbc.co.uk/news/articles/cqvgj2gjdn40o?at_medium=RSS&at_campaign=rss",
-      "summary": "New Zealand has just seen its tightest general election in years, with the two major parties neck-and-neck.",
-      "published_at": "2026-11-09T05:10:33Z",
-      "country_code": "NZ",
-      "country_name": "New Zealand"
     },
     {
       "source": "BBC Africa",
@@ -693,15 +711,6 @@
       "published_at": "2026-10-09T15:26:33Z",
       "country_code": "PS",
       "country_name": "Palestine"
-    },
-    {
-      "source": "BBC Africa",
-      "title": "'Knowledge is power' - Awoniyi",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cm0ld8wwenw6o?at_medium=RSS&at_campaign=rss",
-      "summary": "Nigeria's Taiwo Awoniyi explains why he values education so highly, having completed a course which could see him become one of football's f…",
-      "published_at": "2026-10-02T12:48:56Z",
-      "country_code": "NG",
-      "country_name": "Nigeria"
     }
   ],
   "regions": [
@@ -716,19 +725,14 @@
       "news_count": 6
     },
     {
+      "country_code": "RU",
+      "country_name": "Russia",
+      "news_count": 6
+    },
+    {
       "country_code": "IR",
       "country_name": "Iran",
       "news_count": 5
-    },
-    {
-      "country_code": "RU",
-      "country_name": "Russia",
-      "news_count": 5
-    },
-    {
-      "country_code": "AU",
-      "country_name": "Australia",
-      "news_count": 4
     },
     {
       "country_code": "PS",
@@ -736,13 +740,23 @@
       "news_count": 4
     },
     {
-      "country_code": "NG",
-      "country_name": "Nigeria",
+      "country_code": "AU",
+      "country_name": "Australia",
+      "news_count": 3
+    },
+    {
+      "country_code": "IN",
+      "country_name": "India",
       "news_count": 3
     },
     {
       "country_code": "BR",
       "country_name": "Brazil",
+      "news_count": 2
+    },
+    {
+      "country_code": "EG",
+      "country_name": "Egypt",
       "news_count": 2
     },
     {
@@ -756,13 +770,13 @@
       "news_count": 2
     },
     {
-      "country_code": "IN",
-      "country_name": "India",
+      "country_code": "IT",
+      "country_name": "Italy",
       "news_count": 2
     },
     {
-      "country_code": "IT",
-      "country_name": "Italy",
+      "country_code": "NG",
+      "country_name": "Nigeria",
       "news_count": 2
     },
     {
@@ -776,8 +790,8 @@
       "news_count": 1
     },
     {
-      "country_code": "EG",
-      "country_name": "Egypt",
+      "country_code": "CN",
+      "country_name": "China",
       "news_count": 1
     },
     {
@@ -798,11 +812,6 @@
     {
       "country_code": "NL",
       "country_name": "Netherlands",
-      "news_count": 1
-    },
-    {
-      "country_code": "NZ",
-      "country_name": "New Zealand",
       "news_count": 1
     },
     {
