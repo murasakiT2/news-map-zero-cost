@@ -1,12 +1,39 @@
 {
-  "generated_at": "2026-11-14T09:37:07Z",
+  "generated_at": "2026-11-14T16:12:52Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
+      "url": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss",
+      "summary": "Trump will discuss the \"reduction of nuclear weapons\" during the unprecedented talks, a spokeswoman says.",
+      "published_at": "2026-11-14T15:53:55Z",
+      "country_code": "CN",
+      "country_name": "China"
+    },
+    {
+      "source": "BBC World",
+      "title": "Nigeria cautions against travel via Ethiopia's main airport due to altitude",
+      "url": "https://www.bbc.co.uk/news/articles/cmz6qjpdy2wqo?at_medium=RSS&at_campaign=rss",
+      "summary": "The foreign ministry in Abuja says 6 Nigerians with underlying health problems have died this year while transiting through Addis Ababa.",
+      "published_at": "2026-11-14T15:42:54Z",
+      "country_code": "NG",
+      "country_name": "Nigeria"
+    },
+    {
+      "source": "BBC World",
+      "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+      "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Ukrainian president says US envoys touted the exchange as part of efforts to end the war with Russia.",
+      "published_at": "2026-11-14T15:15:57Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "What we know about the ground stop and what to do if you're affected",
       "url": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
       "summary": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack.",
-      "published_at": "2026-11-14T07:42:11Z",
+      "published_at": "2026-11-14T14:20:57Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -15,18 +42,9 @@
       "title": "What we know about the US ground stop and what to do if your flight is affected",
       "url": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
       "summary": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack.",
-      "published_at": "2026-11-14T07:42:11Z",
+      "published_at": "2026-11-14T14:20:57Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
-      "url": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss",
-      "summary": "Trump will discuss the \"reduction of nuclear weapons\" during the unprecedented talks, a spokeswoman says.",
-      "published_at": "2026-11-14T05:52:31Z",
-      "country_code": "CN",
-      "country_name": "China"
     },
     {
       "source": "BBC World",
@@ -753,7 +771,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 29
+      "news_count": 30
     },
     {
       "country_code": "IL",
@@ -771,6 +789,11 @@
       "news_count": 5
     },
     {
+      "country_code": "NG",
+      "country_name": "Nigeria",
+      "news_count": 4
+    },
+    {
       "country_code": "PS",
       "country_name": "Palestine",
       "news_count": 4
@@ -783,11 +806,6 @@
     {
       "country_code": "IN",
       "country_name": "India",
-      "news_count": 3
-    },
-    {
-      "country_code": "NG",
-      "country_name": "Nigeria",
       "news_count": 3
     },
     {
