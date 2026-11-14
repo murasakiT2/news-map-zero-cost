@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-11-14T02:31:41Z",
+  "generated_at": "2026-11-14T09:37:07Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "What we know about the ground stop and what to do if you're affected",
+      "url": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
+      "summary": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack.",
+      "published_at": "2026-11-14T07:42:11Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "What we know about the US ground stop and what to do if your flight is affected",
+      "url": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
+      "summary": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack.",
+      "published_at": "2026-11-14T07:42:11Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
+      "url": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss",
+      "summary": "Trump will discuss the \"reduction of nuclear weapons\" during the unprecedented talks, a spokeswoman says.",
+      "published_at": "2026-11-14T05:52:31Z",
+      "country_code": "CN",
+      "country_name": "China"
+    },
+    {
+      "source": "BBC World",
+      "title": "'We'll get home one day' - US travellers impacted by nationwide ground stop",
+      "url": "https://www.bbc.co.uk/news/videos/c893ryz7lw33o?at_medium=RSS&at_campaign=rss",
+      "summary": "Passengers throughout the country were impacted over what the Federal Aviation Administration (FAA) describes as “safety and communication i…",
+      "published_at": "2026-11-14T01:47:36Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
     {
       "source": "BBC World",
       "title": "After a summer win, India's Gen Z protesters face a winter of uncertainty",
@@ -75,6 +111,15 @@
     },
     {
       "source": "BBC World",
+      "title": "Estonia bans Russian athletes as backlash intensifies",
+      "url": "https://www.bbc.co.uk/sport/articles/cm4gn9lvlgy2o?at_medium=RSS&at_campaign=rss",
+      "summary": "Estonia is the latest country to say it will not allow Russian or Belarusian athletes to compete on its territory as a result of the ongoing…",
+      "published_at": "2026-11-13T17:54:33Z",
+      "country_code": "UA",
+      "country_name": "Ukraine"
+    },
+    {
+      "source": "BBC World",
       "title": "Rosenberg: Uncompromising Putin ups demands for peace with Ukraine",
       "url": "https://www.bbc.co.uk/news/articles/cq39glwprknjo?at_medium=RSS&at_campaign=rss",
       "summary": "The fact the question of European security now features in discussions is viewed in Moscow as a victory, BBC Russia Editor Steve Rosenberg s…",
@@ -83,7 +128,7 @@
       "country_name": "Russia"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "At least 24 killed after bus collides with truck in north-east India",
       "url": "https://www.bbc.co.uk/news/articles/c6r7g5lp1zrxo?at_medium=RSS&at_campaign=rss",
       "summary": "Several of the deceased are college students, according to local official Atul Bora, but they have not yet been publicly identified.",
@@ -693,13 +738,22 @@
       "published_at": "2026-10-09T15:26:33Z",
       "country_code": "PS",
       "country_name": "Palestine"
+    },
+    {
+      "source": "BBC Africa",
+      "title": "'Knowledge is power' - Awoniyi",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cm0ld8wwenw6o?at_medium=RSS&at_campaign=rss",
+      "summary": "Nigeria's Taiwo Awoniyi explains why he values education so highly, having completed a course which could see him become one of football's f…",
+      "published_at": "2026-10-02T12:48:56Z",
+      "country_code": "NG",
+      "country_name": "Nigeria"
     }
   ],
   "regions": [
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 26
+      "news_count": 29
     },
     {
       "country_code": "IL",
@@ -732,8 +786,18 @@
       "news_count": 3
     },
     {
+      "country_code": "NG",
+      "country_name": "Nigeria",
+      "news_count": 3
+    },
+    {
       "country_code": "BR",
       "country_name": "Brazil",
+      "news_count": 2
+    },
+    {
+      "country_code": "CN",
+      "country_name": "China",
       "news_count": 2
     },
     {
@@ -757,11 +821,6 @@
       "news_count": 2
     },
     {
-      "country_code": "NG",
-      "country_name": "Nigeria",
-      "news_count": 2
-    },
-    {
       "country_code": "AE",
       "country_name": "United Arab Emirates",
       "news_count": 1
@@ -769,11 +828,6 @@
     {
       "country_code": "CL",
       "country_name": "Chile",
-      "news_count": 1
-    },
-    {
-      "country_code": "CN",
-      "country_name": "China",
       "news_count": 1
     },
     {
@@ -814,6 +868,11 @@
     {
       "country_code": "TH",
       "country_name": "Thailand",
+      "news_count": 1
+    },
+    {
+      "country_code": "UA",
+      "country_name": "Ukraine",
       "news_count": 1
     },
     {
