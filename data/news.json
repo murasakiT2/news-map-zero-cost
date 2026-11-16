@@ -1,17 +1,71 @@
 {
-  "generated_at": "2026-11-15T20:00:45Z",
+  "generated_at": "2026-11-16T00:03:40Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "Police ban protests near 10 schools and five universities in Paris",
+      "url": "https://www.bbc.co.uk/news/articles/cqm2j0jvep4eo?at_medium=RSS&at_campaign=rss",
+      "summary": "The order will be in place from 16 to 20 November, Paris police chief Patrice Faure says.",
+      "published_at": "2026-11-15T22:28:54Z",
+      "country_code": "FR",
+      "country_name": "France"
+    },
+    {
+      "source": "BBC World",
+      "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
+      "url": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions.",
+      "published_at": "2026-11-15T22:24:20Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "Canada bars Russia from Junior World Championships",
+      "url": "https://www.bbc.co.uk/sport/ice-hockey/articles/cqkgm0jgv4mdo?at_medium=RSS&at_campaign=rss",
+      "summary": "Canada says it will not allow Russian athletes to compete in the Junior Ice Hockey World Championships because of the war in Ukraine.",
+      "published_at": "2026-11-15T22:01:16Z",
+      "country_code": "RU",
+      "country_name": "Russia"
+    },
     {
       "source": "BBC World",
       "title": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
       "url": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss",
-      "summary": "The Ukrainian president says restrictions are still in place and making it difficult to stop Russian attacks.",
+      "summary": "The Ukrainian president says the slowed-down internet is making it difficult to stop Russian attacks.",
       "published_at": "2026-11-15T19:32:39Z",
       "country_code": "US",
       "country_name": "United States"
     },
     {
-      "source": "BBC Asia",
+      "source": "BBC Europe",
+      "title": "Ronaldinho makes comeback in Ravenna win",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckregz4g823xo?at_medium=RSS&at_campaign=rss",
+      "summary": "Brazil legend Ronaldinho makes his comeback aged 46 for Ravenna, playing the first half of their Italian third-tier derby against Forli.",
+      "published_at": "2026-11-15T19:31:48Z",
+      "country_code": "BR",
+      "country_name": "Brazil"
+    },
+    {
+      "source": "BBC World",
+      "title": "Thousands of US flights still cancelled or delayed two days after grounding of planes nationwide",
+      "url": "https://www.bbc.co.uk/news/articles/cw1mdlv0k2r4o?at_medium=RSS&at_campaign=rss",
+      "summary": "The US transport secretary says that normal air-traffic operations may not be restored until Monday.",
+      "published_at": "2026-11-15T19:20:53Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Pope Leo rides in helicopter cockpit during Peru trip",
+      "url": "https://www.bbc.co.uk/news/videos/c6pw4rl00lrjo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Pope took to the skies before arriving in Cusco on the penultimate day of his Latin America tour.",
+      "published_at": "2026-11-15T18:38:11Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
       "title": "Clothing factories shut in Bangladesh as workers strike over pay",
       "url": "https://www.bbc.co.uk/news/articles/cx5y1pzr9604o?at_medium=RSS&at_campaign=rss",
       "summary": "Workers are striking over demands for a minimum wage of 30,000 taka (£182) a month.",
@@ -39,15 +93,6 @@
     },
     {
       "source": "BBC World",
-      "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
-      "url": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
-      "summary": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions.",
-      "published_at": "2026-11-15T14:56:21Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
       "title": "Iran targets US military base in Bahrain with drone attack",
       "url": "https://www.bbc.co.uk/news/articles/cqn4e2py48kwo?at_medium=RSS&at_campaign=rss",
       "summary": "It marks the second attack on the country in three days and comes as the US and Iran remain locked in a stand-off over the Strait of Hormuz.",
@@ -65,16 +110,7 @@
       "country_name": "South Korea"
     },
     {
-      "source": "BBC World",
-      "title": "Israel kills Hamas commander in strike on Gaza camp, officials say",
-      "url": "https://www.bbc.co.uk/news/articles/cqrkg4r6mg7xo?at_medium=RSS&at_campaign=rss",
-      "summary": "Both Hamas and IDF officials confirm the death of Samir Abu Younis, commander of the Rafah Brigade.",
-      "published_at": "2026-11-15T08:17:41Z",
-      "country_code": "IL",
-      "country_name": "Israel"
-    },
-    {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "Copper wire upgrade behind US flight suspension, transport secretary says",
       "url": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss",
       "summary": "The US government is trying to find out whether the chaos was caused by \"incompetence\" or faulty equipment.",
@@ -101,7 +137,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "Italy fines Meta €805m over accessing users' photos",
       "url": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o?at_medium=RSS&at_campaign=rss",
       "summary": "The social media giant is accused of not informing 20 million users it had access to their photos.",
@@ -110,7 +146,7 @@
       "country_name": "Italy"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "Philippines wins first Eurovision Song Contest Asia",
       "url": "https://www.bbc.co.uk/news/articles/cqrlgnx9dx6eo?at_medium=RSS&at_campaign=rss",
       "summary": "Front-runner Carmelle emerges victorious with her women's empowerment anthem Sobra-Sobra.",
@@ -119,7 +155,7 @@
       "country_name": "Philippines"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
       "url": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss",
       "summary": "Trump will discuss the \"reduction of nuclear weapons\" during the unprecedented talks, a spokeswoman says.",
@@ -128,7 +164,7 @@
       "country_name": "China"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Africa",
       "title": "Nigeria cautions against travel via Ethiopia's main airport due to altitude",
       "url": "https://www.bbc.co.uk/news/articles/cmz6qjpdy2wqo?at_medium=RSS&at_campaign=rss",
       "summary": "The foreign ministry in Abuja says 6 Nigerians with underlying health problems have died this year while transiting through Addis Ababa.",
@@ -171,15 +207,6 @@
       "published_at": "2026-11-13T22:11:27Z",
       "country_code": "EG",
       "country_name": "Egypt"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "Watch: How the Microsoft outage affected North America",
-      "url": "https://www.bbc.co.uk/news/videos/cmpqrzpq193do?at_medium=RSS&at_campaign=rss",
-      "summary": "The BBC's Nadine Yousif's reports that Microsoft services like Outlook are slowly coming back online, but the company noted users \"may still…",
-      "published_at": "2026-11-13T20:12:05Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC US & Canada",
@@ -362,15 +389,6 @@
       "country_name": "Indonesia"
     },
     {
-      "source": "BBC Europe",
-      "title": "'No light, no water, no heat': Ukrainians struggle with blackouts as Russia hits power grid",
-      "url": "https://www.bbc.co.uk/news/articles/cr1ewpd95d21o?at_medium=RSS&at_campaign=rss",
-      "summary": "For parents in parts of Ukraine, trying to lead a normal family life with just a few hours of power each day is taking its toll.",
-      "published_at": "2026-11-12T07:59:33Z",
-      "country_code": "RU",
-      "country_name": "Russia"
-    },
-    {
       "source": "BBC Africa",
       "title": "Can Nigeria's president regain voters' trust after painful first term?",
       "url": "https://www.bbc.co.uk/news/articles/ck5ynyw527wdo?at_medium=RSS&at_campaign=rss",
@@ -407,7 +425,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Europe",
+      "source": "BBC Latin America",
       "title": "Kidnapper, 74, escapes from house arrest in Argentina by abseiling from balcony",
       "url": "https://www.bbc.co.uk/news/articles/c933gn6710lyo?at_medium=RSS&at_campaign=rss",
       "summary": "Leonardo Bertulazzi, a former member of the Marxist guerrilla group the Red Brigades, was about to be extradited to his home country of Ital…",
@@ -574,15 +592,6 @@
       "url": "https://www.bbc.co.uk/sport/football/articles/cmwyqzy934lxo?at_medium=RSS&at_campaign=rss",
       "summary": "BBC Sport travels to Turkey to watch Mohamed Salah play for Trabzonspor and discover how the 'Egyptian King' is settling into life by the Bl…",
       "published_at": "2026-11-08T07:30:01Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC Latin America",
-      "title": "Pope in 'pretty good health' as he starts Latin America tour",
-      "url": "https://www.bbc.co.uk/news/articles/c60e0001ve9wo?at_medium=RSS&at_campaign=rss",
-      "summary": "Pope Leo travels to Uruguay just three weeks after having surgery for lung cancer.",
-      "published_at": "2026-11-07T06:59:48Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -776,7 +785,7 @@
     {
       "country_code": "IL",
       "country_name": "Israel",
-      "news_count": 7
+      "news_count": 6
     },
     {
       "country_code": "IR",
@@ -799,6 +808,11 @@
       "news_count": 4
     },
     {
+      "country_code": "BR",
+      "country_name": "Brazil",
+      "news_count": 3
+    },
+    {
       "country_code": "IN",
       "country_name": "India",
       "news_count": 3
@@ -814,13 +828,13 @@
       "news_count": 2
     },
     {
-      "country_code": "BR",
-      "country_name": "Brazil",
+      "country_code": "EG",
+      "country_name": "Egypt",
       "news_count": 2
     },
     {
-      "country_code": "EG",
-      "country_name": "Egypt",
+      "country_code": "FR",
+      "country_name": "France",
       "news_count": 2
     },
     {
@@ -861,11 +875,6 @@
     {
       "country_code": "FI",
       "country_name": "Finland",
-      "news_count": 1
-    },
-    {
-      "country_code": "FR",
-      "country_name": "France",
       "news_count": 1
     },
     {
