@@ -1,8 +1,53 @@
 {
-  "generated_at": "2026-11-16T00:03:40Z",
+  "generated_at": "2026-11-16T06:54:15Z",
   "articles": [
     {
+      "source": "BBC Asia",
+      "title": "Prince and Princess of Wales arrive in India ahead of meeting with Modi",
+      "url": "https://www.bbc.co.uk/news/articles/c5lyk0e3n1jxo?at_medium=RSS&at_campaign=rss",
+      "summary": "Most of the engagements the royal couple will attend are related to the Earthshot Prize, which Prince William founded.",
+      "published_at": "2026-11-16T02:53:15Z",
+      "country_code": "IN",
+      "country_name": "India"
+    },
+    {
       "source": "BBC World",
+      "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
+      "url": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions.",
+      "published_at": "2026-11-16T01:47:57Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC Asia",
+      "title": "Clothing factories shut in Bangladesh as workers strike over pay",
+      "url": "https://www.bbc.co.uk/news/articles/cx5y1pzr9604o?at_medium=RSS&at_campaign=rss",
+      "summary": "Workers are striking over demands for a minimum wage of 30,000 taka (£182) a month.",
+      "published_at": "2026-11-16T01:05:44Z",
+      "country_code": "BD",
+      "country_name": "Bangladesh"
+    },
+    {
+      "source": "BBC Asia",
+      "title": "Is India rethinking its short-term military recruitment scheme?",
+      "url": "https://www.bbc.co.uk/news/articles/c8ly0yr7wv1no?at_medium=RSS&at_campaign=rss",
+      "summary": "India has softened its recruitment scheme, giving young soldiers a longer military stint and another shot at permanent service.",
+      "published_at": "2026-11-16T00:41:42Z",
+      "country_code": "IN",
+      "country_name": "India"
+    },
+    {
+      "source": "BBC World",
+      "title": "Russia's mega-rich are already imagining a future after Putin",
+      "url": "https://www.bbc.co.uk/news/articles/c60733mxm0x0o?at_medium=RSS&at_campaign=rss",
+      "summary": "Some Russian tycoons are pining after a return to a 1990s system of oligarchy, when businessmen enjoyed power",
+      "published_at": "2026-11-16T00:13:14Z",
+      "country_code": "RU",
+      "country_name": "Russia"
+    },
+    {
+      "source": "BBC Europe",
       "title": "Police ban protests near 10 schools and five universities in Paris",
       "url": "https://www.bbc.co.uk/news/articles/cqm2j0jvep4eo?at_medium=RSS&at_campaign=rss",
       "summary": "The order will be in place from 16 to 20 November, Paris police chief Patrice Faure says.",
@@ -12,21 +57,21 @@
     },
     {
       "source": "BBC World",
-      "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
-      "url": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
-      "summary": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions.",
-      "published_at": "2026-11-15T22:24:20Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC US & Canada",
       "title": "Canada bars Russia from Junior World Championships",
       "url": "https://www.bbc.co.uk/sport/ice-hockey/articles/cqkgm0jgv4mdo?at_medium=RSS&at_campaign=rss",
       "summary": "Canada says it will not allow Russian athletes to compete in the Junior Ice Hockey World Championships because of the war in Ukraine.",
       "published_at": "2026-11-15T22:01:16Z",
       "country_code": "RU",
       "country_name": "Russia"
+    },
+    {
+      "source": "BBC World",
+      "title": "Prince Harry praises war veterans on surprise visit to Ukraine",
+      "url": "https://www.bbc.co.uk/news/articles/c60evn992jq8o?at_medium=RSS&at_campaign=rss",
+      "summary": "He has been showing support for injured veterans in Ukraine and praising the country's resilience.",
+      "published_at": "2026-11-15T22:00:13Z",
+      "country_code": "UA",
+      "country_name": "Ukraine"
     },
     {
       "source": "BBC World",
@@ -48,15 +93,6 @@
     },
     {
       "source": "BBC World",
-      "title": "Thousands of US flights still cancelled or delayed two days after grounding of planes nationwide",
-      "url": "https://www.bbc.co.uk/news/articles/cw1mdlv0k2r4o?at_medium=RSS&at_campaign=rss",
-      "summary": "The US transport secretary says that normal air-traffic operations may not be restored until Monday.",
-      "published_at": "2026-11-15T19:20:53Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
       "title": "Pope Leo rides in helicopter cockpit during Peru trip",
       "url": "https://www.bbc.co.uk/news/videos/c6pw4rl00lrjo?at_medium=RSS&at_campaign=rss",
       "summary": "The Pope took to the skies before arriving in Cusco on the penultimate day of his Latin America tour.",
@@ -65,16 +101,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
-      "title": "Clothing factories shut in Bangladesh as workers strike over pay",
-      "url": "https://www.bbc.co.uk/news/articles/cx5y1pzr9604o?at_medium=RSS&at_campaign=rss",
-      "summary": "Workers are striking over demands for a minimum wage of 30,000 taka (£182) a month.",
-      "published_at": "2026-11-15T16:15:20Z",
-      "country_code": "BD",
-      "country_name": "Bangladesh"
-    },
-    {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "Judge blocks Trump closure of 'Trash Island' Washington DC golf course on Sunday",
       "url": "https://www.bbc.co.uk/news/articles/c6j9mn7l14y0o?at_medium=RSS&at_campaign=rss",
       "summary": "The temporary order is part of a months-long challenge to the US president's plans to upgrade East Potomac Golf Links into a championship co…",
@@ -88,15 +115,6 @@
       "url": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
       "summary": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack.",
       "published_at": "2026-11-15T14:57:15Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "Iran targets US military base in Bahrain with drone attack",
-      "url": "https://www.bbc.co.uk/news/articles/cqn4e2py48kwo?at_medium=RSS&at_campaign=rss",
-      "summary": "It marks the second attack on the country in three days and comes as the US and Iran remain locked in a stand-off over the Strait of Hormuz.",
-      "published_at": "2026-11-15T13:42:58Z",
       "country_code": "US",
       "country_name": "United States"
     },
@@ -173,7 +191,7 @@
       "country_name": "Nigeria"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "After a summer win, India's Gen Z protesters face a winter of uncertainty",
       "url": "https://www.bbc.co.uk/news/articles/cq99e0z4vg1eo?at_medium=RSS&at_campaign=rss",
       "summary": "A new wave of youth dissent swept India this summer, fuelled by frustration and irreverent online satire.",
@@ -470,33 +488,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Asia",
-      "title": "Why does Australia want Brits to swap Sydney for the outback?",
-      "url": "https://www.bbc.co.uk/news/articles/cm1j3jdp7w54o?at_medium=RSS&at_campaign=rss",
-      "summary": "Australia wants changes to UK deal that would push backpackers out of Bondi and into remote regions.",
-      "published_at": "2026-11-10T21:17:00Z",
-      "country_code": "GB",
-      "country_name": "United Kingdom"
-    },
-    {
-      "source": "BBC Asia",
-      "title": "Violence erupts in Bangladesh as ousted PM's supporters stage protest",
-      "url": "https://www.bbc.co.uk/news/articles/cwkg5g5pjpyko?at_medium=RSS&at_campaign=rss",
-      "summary": "Supporters of Sheikh Hasina want her to return from exile in India.",
-      "published_at": "2026-11-10T19:26:42Z",
-      "country_code": "IN",
-      "country_name": "India"
-    },
-    {
-      "source": "BBC Asia",
-      "title": "Why are these purple flowers shutting down streets in Sydney?",
-      "url": "https://www.bbc.co.uk/news/videos/c862y2dxdq45o?at_medium=RSS&at_campaign=rss",
-      "summary": "Jacaranda trees typically flower for six weeks every spring, drawing visitors to Australia from across the globe.",
-      "published_at": "2026-11-10T18:03:52Z",
-      "country_code": "AU",
-      "country_name": "Australia"
-    },
-    {
       "source": "BBC Middle East",
       "title": "Israel's new parliament sworn in as leaders compete to form government",
       "url": "https://www.bbc.co.uk/news/articles/crd939lpzjp9o?at_medium=RSS&at_campaign=rss",
@@ -765,22 +756,13 @@
       "published_at": "2026-10-09T15:26:33Z",
       "country_code": "PS",
       "country_name": "Palestine"
-    },
-    {
-      "source": "BBC Africa",
-      "title": "'Knowledge is power' - Awoniyi",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cm0ld8wwenw6o?at_medium=RSS&at_campaign=rss",
-      "summary": "Nigeria's Taiwo Awoniyi explains why he values education so highly, having completed a course which could see him become one of football's f…",
-      "published_at": "2026-10-02T12:48:56Z",
-      "country_code": "NG",
-      "country_name": "Nigeria"
     }
   ],
   "regions": [
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 29
+      "news_count": 27
     },
     {
       "country_code": "IL",
@@ -793,8 +775,13 @@
       "news_count": 5
     },
     {
-      "country_code": "NG",
-      "country_name": "Nigeria",
+      "country_code": "RU",
+      "country_name": "Russia",
+      "news_count": 5
+    },
+    {
+      "country_code": "IN",
+      "country_name": "India",
       "news_count": 4
     },
     {
@@ -803,18 +790,8 @@
       "news_count": 4
     },
     {
-      "country_code": "RU",
-      "country_name": "Russia",
-      "news_count": 4
-    },
-    {
       "country_code": "BR",
       "country_name": "Brazil",
-      "news_count": 3
-    },
-    {
-      "country_code": "IN",
-      "country_name": "India",
       "news_count": 3
     },
     {
@@ -823,9 +800,9 @@
       "news_count": 3
     },
     {
-      "country_code": "AU",
-      "country_name": "Australia",
-      "news_count": 2
+      "country_code": "NG",
+      "country_name": "Nigeria",
+      "news_count": 3
     },
     {
       "country_code": "EG",
@@ -838,13 +815,18 @@
       "news_count": 2
     },
     {
-      "country_code": "GB",
-      "country_name": "United Kingdom",
+      "country_code": "UA",
+      "country_name": "Ukraine",
       "news_count": 2
     },
     {
       "country_code": "AE",
       "country_name": "United Arab Emirates",
+      "news_count": 1
+    },
+    {
+      "country_code": "AU",
+      "country_name": "Australia",
       "news_count": 1
     },
     {
@@ -875,6 +857,11 @@
     {
       "country_code": "FI",
       "country_name": "Finland",
+      "news_count": 1
+    },
+    {
+      "country_code": "GB",
+      "country_name": "United Kingdom",
       "news_count": 1
     },
     {
@@ -915,11 +902,6 @@
     {
       "country_code": "TH",
       "country_name": "Thailand",
-      "news_count": 1
-    },
-    {
-      "country_code": "UA",
-      "country_name": "Ukraine",
       "news_count": 1
     },
     {
