@@ -1,6 +1,78 @@
 {
-  "generated_at": "2026-11-17T00:33:37Z",
+  "generated_at": "2026-11-17T08:39:28Z",
   "articles": [
+    {
+      "source": "BBC Africa",
+      "title": "Nigerians among 12 suspects arrested in $4.5m Canada luxury car theft syndicate",
+      "url": "https://www.bbc.co.uk/news/articles/cm5y1wr1535ko?at_medium=RSS&at_campaign=rss",
+      "summary": "Canadian authorities say they have recovered 96 luxury vehicles destined for West Africa.",
+      "published_at": "2026-11-17T08:11:20Z",
+      "country_code": "CA",
+      "country_name": "Canada"
+    },
+    {
+      "source": "BBC World",
+      "title": "Crimea bridge shut after reported Ukrainian strike, as Russia hits Kyiv crossings",
+      "url": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
+      "summary": "The bridge linking Crimea and Russia has reportedly sustained major damage, while two routes through Kyiv are closed.",
+      "published_at": "2026-11-17T08:06:32Z",
+      "country_code": "RU",
+      "country_name": "Russia"
+    },
+    {
+      "source": "BBC Asia",
+      "title": "Body of Melbourne Cup horse found dumped in Sydney skip bin",
+      "url": "https://www.bbc.co.uk/news/articles/ck1ewl2zjqgzo?at_medium=RSS&at_campaign=rss",
+      "summary": "The remains of a top Australian racehorse that died of colic on Monday were found at a public rubbish tip.",
+      "published_at": "2026-11-17T07:01:00Z",
+      "country_code": "AU",
+      "country_name": "Australia"
+    },
+    {
+      "source": "BBC World",
+      "title": "Ukraine accuses Russia of targeting rescue operation after 'double-tap' strike kills 72",
+      "url": "https://www.bbc.co.uk/news/articles/c30rk8x5g80qo?at_medium=RSS&at_campaign=rss",
+      "summary": "Efforts to recover bodies after a “double-tap” attack in southern Ukraine are being hampered by continuing Russian strikes, officials say.",
+      "published_at": "2026-11-17T05:59:01Z",
+      "country_code": "RU",
+      "country_name": "Russia"
+    },
+    {
+      "source": "BBC World",
+      "title": "Vance says he will decide 'sometime next year' about 2028 US presidential run",
+      "url": "https://www.bbc.co.uk/news/articles/cwkgr9m41engo?at_medium=RSS&at_campaign=rss",
+      "summary": "The US vice-president tells Fox News that when he makes a decision to run or otherwise, he will \"be all in on whatever that decision is\".",
+      "published_at": "2026-11-17T03:07:23Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Imran Khan seeks urgent medical care fearing he 'may not return alive'",
+      "url": "https://www.bbc.co.uk/news/articles/cr894xq5yeyko?at_medium=RSS&at_campaign=rss",
+      "summary": "Pakistan's ex-prime minister, who has been in prison since August 2023, says he has been denied justice.",
+      "published_at": "2026-11-17T01:26:01Z",
+      "country_code": "PK",
+      "country_name": "Pakistan"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "Customers report service outages at major US banks",
+      "url": "https://www.bbc.co.uk/news/articles/cj752wvqneq6o?at_medium=RSS&at_campaign=rss",
+      "summary": "Chase Bank, the largest US bank, said a software bug might be causing the issue, but that it was not \"systemic'\" or \"cyber-related\".",
+      "published_at": "2026-11-17T00:18:01Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "The AI start-ups fixing India's broken roads and messy land records",
+      "url": "https://www.bbc.co.uk/news/articles/c820vnln2lzpo?at_medium=RSS&at_campaign=rss",
+      "summary": "From legal-tech to healthcare, dozens of Indian AI start-ups are solving uniquely Indian challenges.",
+      "published_at": "2026-11-16T23:25:53Z",
+      "country_code": "IN",
+      "country_name": "India"
+    },
     {
       "source": "BBC World",
       "title": "Five EU countries announce migrant deportation centre in Rwanda",
@@ -9,6 +81,24 @@
       "published_at": "2026-11-16T23:20:45Z",
       "country_code": "DE",
       "country_name": "Germany"
+    },
+    {
+      "source": "BBC Africa",
+      "title": "'Is that not match-fixing?' - Erasmus questions officiating",
+      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/ck0jx1dnd38go?at_medium=RSS&at_campaign=rss",
+      "summary": "South Africa head coach Rassie Erasmus predicts Ireland fly-half Sam Prendergast will not face a ban after being cited, and questions standa…",
+      "published_at": "2026-11-16T23:14:48Z",
+      "country_code": "ZA",
+      "country_name": "South Africa"
+    },
+    {
+      "source": "BBC World",
+      "title": "China is hosting the world's leaders in its AI wonderland. Here's what they won't see",
+      "url": "https://www.bbc.co.uk/news/articles/cm3eg3v9jkk8o?at_medium=RSS&at_campaign=rss",
+      "summary": "Leave Shenzhen's tech-flecked city skyline and you run into the challenges confronting Xi's China.",
+      "published_at": "2026-11-16T23:07:20Z",
+      "country_code": "CN",
+      "country_name": "China"
     },
     {
       "source": "BBC Middle East",
@@ -20,7 +110,7 @@
       "country_name": "United Kingdom"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Middle East",
       "title": "Houthi rebel advance in Yemen may further destabilise global economy",
       "url": "https://www.bbc.co.uk/news/articles/cmy97qperq9eo?at_medium=RSS&at_campaign=rss",
       "summary": "The Iran-backed Houthis are gaining ground and their advance could have dangerous consequences, writes the BBC's security correspondent.",
@@ -29,7 +119,7 @@
       "country_name": "Iran"
     },
     {
-      "source": "BBC US & Canada",
+      "source": "BBC World",
       "title": "Pope Leo hit by flying rosary while waving to crowds in Peru",
       "url": "https://www.bbc.co.uk/news/videos/ckpdwn23j5j8o?at_medium=RSS&at_campaign=rss",
       "summary": "The pontiff was struck in the face by what is thought to be prayer beads while travelling aboard the popemobile to deliver a farewell Mass.",
@@ -57,39 +147,12 @@
     },
     {
       "source": "BBC World",
-      "title": "Faisal Islam: What's in the Brexit reset food deal and are there trade-offs?",
-      "url": "https://www.bbc.co.uk/news/articles/c6wy4l8nl42wo?at_medium=RSS&at_campaign=rss",
-      "summary": "EU minister Hamish Falconer insists Britain would have some influence on policy as part of a new deal.",
-      "published_at": "2026-11-16T15:40:16Z",
-      "country_code": "GB",
-      "country_name": "United Kingdom"
-    },
-    {
-      "source": "BBC World",
       "title": "Street cricket with a legend then metro ride as William and Kate begin India visit",
       "url": "https://www.bbc.co.uk/news/videos/crkgvnl51w1vo?at_medium=RSS&at_campaign=rss",
       "summary": "The Prince and Princess of Wales are visiting Mumbai for the Earthshot Prize this week, but started their trip with some fun outings.",
       "published_at": "2026-11-16T15:08:59Z",
       "country_code": "IN",
       "country_name": "India"
-    },
-    {
-      "source": "BBC World",
-      "title": "Landmark Crimea bridge hit as Russia reports biggest Ukrainian drone attack of war",
-      "url": "https://www.bbc.co.uk/news/articles/ckx27v6dpjz0o?at_medium=RSS&at_campaign=rss",
-      "summary": "Russia said Ukraine had launched over 2,000 drones over the course of a day, while Kyiv came under a record 17 air raid alerts.",
-      "published_at": "2026-11-16T14:58:12Z",
-      "country_code": "RU",
-      "country_name": "Russia"
-    },
-    {
-      "source": "BBC World",
-      "title": "Estonia to close Russia border crossings after attempted drone factory arson attack",
-      "url": "https://www.bbc.co.uk/news/articles/cqp83nk673reo?at_medium=RSS&at_campaign=rss",
-      "summary": "The Estonian government says Russia was behind the attempted sabotage, which the Kremlin denies.",
-      "published_at": "2026-11-16T14:22:36Z",
-      "country_code": "RU",
-      "country_name": "Russia"
     },
     {
       "source": "BBC World",
@@ -155,7 +218,7 @@
       "country_name": "Bangladesh"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "Is India rethinking its short-term military recruitment scheme?",
       "url": "https://www.bbc.co.uk/news/articles/c8ly0yr7wv1no?at_medium=RSS&at_campaign=rss",
       "summary": "India has softened its recruitment scheme, giving young soldiers a longer military stint and another shot at permanent service.",
@@ -164,7 +227,7 @@
       "country_name": "India"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "Russia's mega-rich are already imagining a future after Putin",
       "url": "https://www.bbc.co.uk/news/articles/c60733mxm0x0o?at_medium=RSS&at_campaign=rss",
       "summary": "Some Russian tycoons are pining after a return to a 1990s system of oligarchy, when businessmen enjoyed power.",
@@ -200,7 +263,7 @@
       "country_name": "Brazil"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Latin America",
       "title": "Pope Leo rides in helicopter cockpit during Peru trip",
       "url": "https://www.bbc.co.uk/news/videos/c6pw4rl00lrjo?at_medium=RSS&at_campaign=rss",
       "summary": "The Pope took to the skies before arriving in Cusco on the penultimate day of his Latin America tour.",
@@ -245,15 +308,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Asia",
-      "title": "South Korea's top scorer in tax accountancy exam admits cheating",
-      "url": "https://www.bbc.co.uk/news/articles/ckvg2ezvpe08o?at_medium=RSS&at_campaign=rss",
-      "summary": "Han Won-seok, 34, confessed to using a hidden camera and AI to get a near-perfect mark on the significant test.",
-      "published_at": "2026-11-15T13:37:45Z",
-      "country_code": "KR",
-      "country_name": "South Korea"
-    },
-    {
       "source": "BBC Middle East",
       "title": "Israel kills Hamas commander in strike on Gaza camp, officials say",
       "url": "https://www.bbc.co.uk/news/articles/cqrkg4r6mg7xo?at_medium=RSS&at_campaign=rss",
@@ -281,15 +335,6 @@
       "country_name": "Italy"
     },
     {
-      "source": "BBC Asia",
-      "title": "Philippines wins first Eurovision Song Contest Asia",
-      "url": "https://www.bbc.co.uk/news/articles/cqrlgnx9dx6eo?at_medium=RSS&at_campaign=rss",
-      "summary": "Front-runner Carmelle emerges victorious with her women's empowerment anthem Sobra-Sobra.",
-      "published_at": "2026-11-14T18:17:58Z",
-      "country_code": "PH",
-      "country_name": "Philippines"
-    },
-    {
       "source": "BBC Europe",
       "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
       "url": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss",
@@ -299,13 +344,13 @@
       "country_name": "China"
     },
     {
-      "source": "BBC Africa",
-      "title": "Nigeria cautions against travel via Ethiopia's main airport due to altitude",
-      "url": "https://www.bbc.co.uk/news/articles/cmz6qjpdy2wqo?at_medium=RSS&at_campaign=rss",
-      "summary": "The foreign ministry in Abuja says 6 Nigerians with underlying health problems have died this year while transiting through Addis Ababa.",
-      "published_at": "2026-11-14T15:42:54Z",
-      "country_code": "NG",
-      "country_name": "Nigeria"
+      "source": "BBC Latin America",
+      "title": "Why Pope Leo’s visit 'home' to Peru is so significant",
+      "url": "https://www.bbc.co.uk/news/videos/c6jre3vv89qqo?at_medium=RSS&at_campaign=rss",
+      "summary": "Pope Leo XIV celebrated a huge Mass for hundreds of thousands of pilgrims in Chiclayo, where he once served as bishop.",
+      "published_at": "2026-11-13T23:25:50Z",
+      "country_code": "PE",
+      "country_name": "Peru"
     },
     {
       "source": "BBC Asia",
@@ -354,15 +399,6 @@
     },
     {
       "source": "BBC Europe",
-      "title": "Estonia bans Russian athletes as backlash intensifies",
-      "url": "https://www.bbc.co.uk/sport/articles/cm4gn9lvlgy2o?at_medium=RSS&at_campaign=rss",
-      "summary": "Estonia is the latest country to say it will not allow Russian or Belarusian athletes to compete on its territory as a result of the ongoing…",
-      "published_at": "2026-11-13T17:54:33Z",
-      "country_code": "UA",
-      "country_name": "Ukraine"
-    },
-    {
-      "source": "BBC Europe",
       "title": "Rosenberg: Uncompromising Putin ups demands for peace with Ukraine",
       "url": "https://www.bbc.co.uk/news/articles/cq39glwprknjo?at_medium=RSS&at_campaign=rss",
       "summary": "The fact the question of European security now features in discussions is viewed in Moscow as a victory, BBC Russia Editor Steve Rosenberg s…",
@@ -405,24 +441,6 @@
       "published_at": "2026-11-13T00:20:24Z",
       "country_code": "ET",
       "country_name": "Ethiopia"
-    },
-    {
-      "source": "BBC Europe",
-      "title": "Russian warship hit by Ukrainian drone in Gulf of Finland",
-      "url": "https://www.bbc.co.uk/news/articles/cmn0d33zz34zo?at_medium=RSS&at_campaign=rss",
-      "summary": "The attack is thought to be the first time Ukrainian drones have attacked a Russian ship in an open stretch of the Baltic Sea.",
-      "published_at": "2026-11-12T20:09:16Z",
-      "country_code": "FI",
-      "country_name": "Finland"
-    },
-    {
-      "source": "BBC Europe",
-      "title": "Suspected bomb hoax threats force fresh evacuations of Italian schools",
-      "url": "https://www.bbc.co.uk/news/articles/cr894w453e90o?at_medium=RSS&at_campaign=rss",
-      "summary": "Schools across Italy have received bomb threats for the second day in a row, sparking fresh panic and evacuations.",
-      "published_at": "2026-11-12T19:23:02Z",
-      "country_code": "IT",
-      "country_name": "Italy"
     },
     {
       "source": "BBC Middle East",
@@ -560,13 +578,13 @@
       "country_name": "Poland"
     },
     {
-      "source": "BBC Africa",
-      "title": "'Devastating message' as ANC records worst-ever result in South Africa election",
-      "url": "https://www.bbc.co.uk/news/articles/cwrkygrxp11mo?at_medium=RSS&at_campaign=rss",
-      "summary": "President Cyril Ramaphosa says the verdict must be respected, while the party's secretary-general calls the outcome \"catastrophic\".",
-      "published_at": "2026-11-08T17:51:03Z",
-      "country_code": "ZA",
-      "country_name": "South Africa"
+      "source": "BBC Latin America",
+      "title": "Millions fill Buenos Aires streets to welcome Pope Leo XIV",
+      "url": "https://www.bbc.co.uk/news/videos/cvp8g82pled5o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Pope celebrated an outdoor Mass in Argentina's capital, the second stop on a 12-day tour of Latin America, just three weeks after having…",
+      "published_at": "2026-11-09T19:09:27Z",
+      "country_code": "US",
+      "country_name": "United States"
     },
     {
       "source": "BBC Middle East",
@@ -659,33 +677,6 @@
       "country_name": "Israel"
     },
     {
-      "source": "BBC Latin America",
-      "title": "How did Flávio Bolsonaro end up in Miami?",
-      "url": "https://www.bbc.co.uk/news/videos/ck4g1xe5xny4o?at_medium=RSS&at_campaign=rss",
-      "summary": "BBC Verify has pieced together defeated presidential candidate Flávio Bolsonaro's journey through Brazil, Argentina and Ecuador to reach Mia…",
-      "published_at": "2026-10-28T18:51:05Z",
-      "country_code": "BR",
-      "country_name": "Brazil"
-    },
-    {
-      "source": "BBC Latin America",
-      "title": "Watch: Moment Flávio Bolsonaro arrives in Florida",
-      "url": "https://www.bbc.co.uk/news/videos/ck79pj82jp4qo?at_medium=RSS&at_campaign=rss",
-      "summary": "The defeated Brazilian presidential candidate arrived in the US by private jet on Tuesday morning with his wife and two daughters.",
-      "published_at": "2026-10-28T14:58:38Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC Latin America",
-      "title": "'You're lying' - US and Cuban officials get into shouting match at UN",
-      "url": "https://www.bbc.co.uk/news/videos/ck5yn5rlz978o?at_medium=RSS&at_campaign=rss",
-      "summary": "Cuban delegates reacted in response to claims from US ambassador Mike Waltz that the Havana government has profited off the forced labor of …",
-      "published_at": "2026-10-27T20:52:30Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC Middle East",
       "title": "The bitter row over military service that could shape Israel's future",
       "url": "https://www.bbc.co.uk/news/articles/cmvg7w0x742do?at_medium=RSS&at_campaign=rss",
@@ -711,22 +702,13 @@
       "published_at": "2026-10-09T15:26:33Z",
       "country_code": "PS",
       "country_name": "Palestine"
-    },
-    {
-      "source": "BBC Africa",
-      "title": "'Knowledge is power' - Awoniyi",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cm0ld8wwenw6o?at_medium=RSS&at_campaign=rss",
-      "summary": "Nigeria's Taiwo Awoniyi explains why he values education so highly, having completed a course which could see him become one of football's f…",
-      "published_at": "2026-10-02T12:48:56Z",
-      "country_code": "NG",
-      "country_name": "Nigeria"
     }
   ],
   "regions": [
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 19
+      "news_count": 20
     },
     {
       "country_code": "RU",
@@ -734,13 +716,13 @@
       "news_count": 7
     },
     {
-      "country_code": "IL",
-      "country_name": "Israel",
-      "news_count": 5
-    },
-    {
       "country_code": "IN",
       "country_name": "India",
+      "news_count": 6
+    },
+    {
+      "country_code": "IL",
+      "country_name": "Israel",
       "news_count": 5
     },
     {
@@ -751,17 +733,22 @@
     {
       "country_code": "GB",
       "country_name": "United Kingdom",
-      "news_count": 4
+      "news_count": 3
+    },
+    {
+      "country_code": "AU",
+      "country_name": "Australia",
+      "news_count": 2
     },
     {
       "country_code": "BR",
       "country_name": "Brazil",
-      "news_count": 3
+      "news_count": 2
     },
     {
-      "country_code": "NG",
-      "country_name": "Nigeria",
-      "news_count": 3
+      "country_code": "CN",
+      "country_name": "China",
+      "news_count": 2
     },
     {
       "country_code": "EG",
@@ -774,8 +761,8 @@
       "news_count": 2
     },
     {
-      "country_code": "IT",
-      "country_name": "Italy",
+      "country_code": "PE",
+      "country_name": "Peru",
       "news_count": 2
     },
     {
@@ -799,18 +786,13 @@
       "news_count": 1
     },
     {
-      "country_code": "AU",
-      "country_name": "Australia",
-      "news_count": 1
-    },
-    {
       "country_code": "BD",
       "country_name": "Bangladesh",
       "news_count": 1
     },
     {
-      "country_code": "CN",
-      "country_name": "China",
+      "country_code": "CA",
+      "country_name": "Canada",
       "news_count": 1
     },
     {
@@ -829,18 +811,18 @@
       "news_count": 1
     },
     {
-      "country_code": "FI",
-      "country_name": "Finland",
-      "news_count": 1
-    },
-    {
       "country_code": "ID",
       "country_name": "Indonesia",
       "news_count": 1
     },
     {
-      "country_code": "KR",
-      "country_name": "South Korea",
+      "country_code": "IT",
+      "country_name": "Italy",
+      "news_count": 1
+    },
+    {
+      "country_code": "NG",
+      "country_name": "Nigeria",
       "news_count": 1
     },
     {
@@ -849,13 +831,8 @@
       "news_count": 1
     },
     {
-      "country_code": "PE",
-      "country_name": "Peru",
-      "news_count": 1
-    },
-    {
-      "country_code": "PH",
-      "country_name": "Philippines",
+      "country_code": "PK",
+      "country_name": "Pakistan",
       "news_count": 1
     },
     {
@@ -871,11 +848,6 @@
     {
       "country_code": "TH",
       "country_name": "Thailand",
-      "news_count": 1
-    },
-    {
-      "country_code": "UA",
-      "country_name": "Ukraine",
       "news_count": 1
     }
   ]
