@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-16T16:35:26Z",
+  "generated_at": "2026-11-17T00:33:37Z",
   "articles": [
     {
       "source": "BBC World",
       "title": "Five EU countries announce migrant deportation centre in Rwanda",
       "url": "https://www.bbc.co.uk/news/articles/cw987343352go?at_medium=RSS&at_campaign=rss",
       "summary": "Germany, Denmark, Austria, Greece and the Netherlands have announced a \"return hub\" for failed asylum seekers.",
-      "published_at": "2026-11-16T16:27:24Z",
+      "published_at": "2026-11-16T23:20:45Z",
       "country_code": "DE",
       "country_name": "Germany"
     },
@@ -15,9 +15,63 @@
       "title": "Bahrain court sentences dozens of Shia Muslims to life in prison, activists say",
       "url": "https://www.bbc.co.uk/news/articles/cmx20pyew3zxo?at_medium=RSS&at_campaign=rss",
       "summary": "Most of those jailed on Iran-linked terrorism charges are clerics, a UK-based human rights group, claiming confessions were forced. Bahraini…",
-      "published_at": "2026-11-16T15:46:21Z",
+      "published_at": "2026-11-16T23:01:47Z",
       "country_code": "GB",
       "country_name": "United Kingdom"
+    },
+    {
+      "source": "BBC World",
+      "title": "Houthi rebel advance in Yemen may further destabilise global economy",
+      "url": "https://www.bbc.co.uk/news/articles/cmy97qperq9eo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Iran-backed Houthis are gaining ground and their advance could have dangerous consequences, writes the BBC's security correspondent.",
+      "published_at": "2026-11-16T21:40:07Z",
+      "country_code": "IR",
+      "country_name": "Iran"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "Pope Leo hit by flying rosary while waving to crowds in Peru",
+      "url": "https://www.bbc.co.uk/news/videos/ckpdwn23j5j8o?at_medium=RSS&at_campaign=rss",
+      "summary": "The pontiff was struck in the face by what is thought to be prayer beads while travelling aboard the popemobile to deliver a farewell Mass.",
+      "published_at": "2026-11-16T21:12:13Z",
+      "country_code": "PE",
+      "country_name": "Peru"
+    },
+    {
+      "source": "BBC Europe",
+      "title": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
+      "url": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Ukrainian president says the slowed-down internet is making it difficult to stop Russian attacks.",
+      "published_at": "2026-11-16T20:16:15Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "US flights returning to normal levels after weekend of disruption",
+      "url": "https://www.bbc.co.uk/news/articles/cw1mdlv0k2r4o?at_medium=RSS&at_campaign=rss",
+      "summary": "Every US airline was affected by Friday's ground stop, as the national air-traffic control system recovered from a technical failure.",
+      "published_at": "2026-11-16T17:34:22Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Faisal Islam: What's in the Brexit reset food deal and are there trade-offs?",
+      "url": "https://www.bbc.co.uk/news/articles/c6wy4l8nl42wo?at_medium=RSS&at_campaign=rss",
+      "summary": "EU minister Hamish Falconer insists Britain would have some influence on policy as part of a new deal.",
+      "published_at": "2026-11-16T15:40:16Z",
+      "country_code": "GB",
+      "country_name": "United Kingdom"
+    },
+    {
+      "source": "BBC World",
+      "title": "Street cricket with a legend then metro ride as William and Kate begin India visit",
+      "url": "https://www.bbc.co.uk/news/videos/crkgvnl51w1vo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Prince and Princess of Wales are visiting Mumbai for the Earthshot Prize this week, but started their trip with some fun outings.",
+      "published_at": "2026-11-16T15:08:59Z",
+      "country_code": "IN",
+      "country_name": "India"
     },
     {
       "source": "BBC World",
@@ -47,15 +101,6 @@
       "country_name": "France"
     },
     {
-      "source": "BBC US & Canada",
-      "title": "US flights nearing 'full capacity' after weekend of disruption, Duffy says",
-      "url": "https://www.bbc.co.uk/news/articles/cw1mdlv0k2r4o?at_medium=RSS&at_campaign=rss",
-      "summary": "There was a weekend of disruption as the national air-traffic control system recovered from a technical failure.",
-      "published_at": "2026-11-16T11:09:01Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC World",
       "title": "Two mass shootings in South Africa leave 17 dead",
       "url": "https://www.bbc.co.uk/news/articles/c8y5x3n4kywpo?at_medium=RSS&at_campaign=rss",
@@ -63,15 +108,6 @@
       "published_at": "2026-11-16T10:57:48Z",
       "country_code": "ZA",
       "country_name": "South Africa"
-    },
-    {
-      "source": "BBC World",
-      "title": "UK and allies call on Israel to allow rapid humanitarian access to Gaza",
-      "url": "https://www.bbc.co.uk/news/articles/cwm2mllj1pp8o?at_medium=RSS&at_campaign=rss",
-      "summary": "The UK, Australia, Canada and Italy say Israeli authorities are holding back vital supplies at the borders, including 150,00 tents.",
-      "published_at": "2026-11-16T08:56:04Z",
-      "country_code": "GB",
-      "country_name": "United Kingdom"
     },
     {
       "source": "BBC Middle East",
@@ -110,7 +146,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "Clothing factories shut in Bangladesh as workers strike over pay",
       "url": "https://www.bbc.co.uk/news/articles/cx5y1pzr9604o?at_medium=RSS&at_campaign=rss",
       "summary": "Workers are striking over demands for a minimum wage of 30,000 taka (£182) a month.",
@@ -119,7 +155,7 @@
       "country_name": "Bangladesh"
     },
     {
-      "source": "BBC Asia",
+      "source": "BBC World",
       "title": "Is India rethinking its short-term military recruitment scheme?",
       "url": "https://www.bbc.co.uk/news/articles/c8ly0yr7wv1no?at_medium=RSS&at_campaign=rss",
       "summary": "India has softened its recruitment scheme, giving young soldiers a longer military stint and another shot at permanent service.",
@@ -131,7 +167,7 @@
       "source": "BBC World",
       "title": "Russia's mega-rich are already imagining a future after Putin",
       "url": "https://www.bbc.co.uk/news/articles/c60733mxm0x0o?at_medium=RSS&at_campaign=rss",
-      "summary": "Some Russian tycoons are pining after a return to a 1990s system of oligarchy, when businessmen enjoyed power",
+      "summary": "Some Russian tycoons are pining after a return to a 1990s system of oligarchy, when businessmen enjoyed power.",
       "published_at": "2026-11-16T00:13:14Z",
       "country_code": "RU",
       "country_name": "Russia"
@@ -156,15 +192,6 @@
     },
     {
       "source": "BBC Europe",
-      "title": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
-      "url": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss",
-      "summary": "The Ukrainian president says the slowed-down internet is making it difficult to stop Russian attacks.",
-      "published_at": "2026-11-15T19:32:39Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC Europe",
       "title": "Ronaldinho makes comeback in Ravenna win",
       "url": "https://www.bbc.co.uk/sport/football/articles/ckregz4g823xo?at_medium=RSS&at_campaign=rss",
       "summary": "Brazil legend Ronaldinho makes his comeback aged 46 for Ravenna, playing the first half of their Italian third-tier derby against Forli.",
@@ -173,7 +200,7 @@
       "country_name": "Brazil"
     },
     {
-      "source": "BBC Latin America",
+      "source": "BBC World",
       "title": "Pope Leo rides in helicopter cockpit during Peru trip",
       "url": "https://www.bbc.co.uk/news/videos/c6pw4rl00lrjo?at_medium=RSS&at_campaign=rss",
       "summary": "The Pope took to the skies before arriving in Cusco on the penultimate day of his Latin America tour.",
@@ -200,7 +227,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "How telecoms upgrade work sparked US flight chaos",
       "url": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
       "summary": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack.",
@@ -234,15 +261,6 @@
       "published_at": "2026-11-15T08:17:41Z",
       "country_code": "IL",
       "country_name": "Israel"
-    },
-    {
-      "source": "BBC World",
-      "title": "Judo champion shakes up French presidential race with surprise candidacy",
-      "url": "https://www.bbc.co.uk/news/articles/c6dj1e8wyykmo?at_medium=RSS&at_campaign=rss",
-      "summary": "Teddy Riner is one of the most popular figures in modern-day France, and one in five voters say they could support him.",
-      "published_at": "2026-11-15T00:06:51Z",
-      "country_code": "FR",
-      "country_name": "France"
     },
     {
       "source": "BBC Europe",
@@ -360,15 +378,6 @@
       "published_at": "2026-11-13T15:16:50Z",
       "country_code": "IN",
       "country_name": "India"
-    },
-    {
-      "source": "BBC World",
-      "title": "Watch: Divers explore US ship sunk off Florida coast to create new reef",
-      "url": "https://www.bbc.co.uk/news/videos/ckqx5ryx905qo?at_medium=RSS&at_campaign=rss",
-      "summary": "The ship was intentionally sunk off the coast of Florida in order to create the world's largest artificial ocean reef.",
-      "published_at": "2026-11-13T15:09:40Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC Middle East",
@@ -578,15 +587,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Africa",
-      "title": "She lost her sight - now she is fighting to make history for Africa",
-      "url": "https://www.bbc.co.uk/sport/articles/cj5ynlyv4xrqo?at_medium=RSS&at_campaign=rss",
-      "summary": "After losing her sight in 2009, Nigeria’s Rukayat Suleimon has overcome isolation and limited support to make history as the first blind wom…",
-      "published_at": "2026-11-06T11:04:00Z",
-      "country_code": "NG",
-      "country_name": "Nigeria"
-    },
-    {
       "source": "BBC Latin America",
       "title": "King relishes 'politically charged' deployments, Palace aide says",
       "url": "https://www.bbc.co.uk/news/articles/c8n5vvr906dvo?at_medium=RSS&at_campaign=rss",
@@ -726,7 +726,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 20
+      "news_count": 19
     },
     {
       "country_code": "RU",
@@ -739,23 +739,18 @@
       "news_count": 5
     },
     {
-      "country_code": "GB",
-      "country_name": "United Kingdom",
-      "news_count": 4
-    },
-    {
       "country_code": "IN",
       "country_name": "India",
-      "news_count": 4
+      "news_count": 5
     },
     {
       "country_code": "IR",
       "country_name": "Iran",
-      "news_count": 4
+      "news_count": 5
     },
     {
-      "country_code": "NG",
-      "country_name": "Nigeria",
+      "country_code": "GB",
+      "country_name": "United Kingdom",
       "news_count": 4
     },
     {
@@ -764,13 +759,18 @@
       "news_count": 3
     },
     {
-      "country_code": "FR",
-      "country_name": "France",
+      "country_code": "NG",
+      "country_name": "Nigeria",
       "news_count": 3
     },
     {
       "country_code": "EG",
       "country_name": "Egypt",
+      "news_count": 2
+    },
+    {
+      "country_code": "FR",
+      "country_name": "France",
       "news_count": 2
     },
     {
@@ -846,6 +846,11 @@
     {
       "country_code": "NL",
       "country_name": "Netherlands",
+      "news_count": 1
+    },
+    {
+      "country_code": "PE",
+      "country_name": "Peru",
       "news_count": 1
     },
     {
