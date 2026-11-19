@@ -1,11 +1,29 @@
 {
-  "generated_at": "2026-11-19T13:38:22Z",
+  "generated_at": "2026-11-19T21:54:34Z",
   "articles": [
     {
       "source": "BBC World",
-      "title": "Venezuela signs military deal with US less than a year after Maduro's ouster",
+      "title": "Europe ready for talks with Russia on ending war in Ukraine, leaders say",
+      "url": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go?at_medium=RSS&at_campaign=rss",
+      "summary": "European allies of Ukraine say they have a \"united\" negotiating position at a summit in Berlin.",
+      "published_at": "2026-11-19T21:21:43Z",
+      "country_code": "RU",
+      "country_name": "Russia"
+    },
+    {
+      "source": "BBC World",
+      "title": "Israeli military completes ground operation in Gaza beyond Yellow Line",
+      "url": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss",
+      "summary": "Hamas condemned the incursion, which the Israeli military said was to dismantle a \"terror tunnel\", as a \"flagrant\" ceasefire violation.",
+      "published_at": "2026-11-19T17:03:23Z",
+      "country_code": "PS",
+      "country_name": "Palestine"
+    },
+    {
+      "source": "BBC World",
+      "title": "Venezuela signs military deal with US less than a year after Maduro's removal",
       "url": "https://www.bbc.co.uk/news/articles/cmwy8pyqlq5vo?at_medium=RSS&at_campaign=rss",
-      "summary": "The US Secretary of Defence says Venezuela has 'gone from our most aggressive regional threat to a compliant security partner'.",
+      "summary": "The US Secretary of Defence says Venezuela has \"gone from our most aggressive regional threat to a compliant security partner\".",
       "published_at": "2026-11-19T13:31:23Z",
       "country_code": "US",
       "country_name": "United States"
@@ -14,10 +32,10 @@
       "source": "BBC World",
       "title": "Putin vows 'far more painful' response to Ukraine's strikes on Crimean Bridge",
       "url": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss",
-      "summary": "The Russian president said the Crimean Bridge was civilian infrastructure, which Kyiv disputes.",
+      "summary": "The bridge - a symbol of Russia's occupation of the Crimean Peninsula - suffered major damaged following a combined attack by Ukraine earlie…",
       "published_at": "2026-11-19T13:07:35Z",
-      "country_code": "UA",
-      "country_name": "Ukraine"
+      "country_code": "RU",
+      "country_name": "Russia"
     },
     {
       "source": "BBC World",
@@ -29,13 +47,13 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
-      "title": "Israeli military completes ground operation in Gaza beyond Yellow Line",
-      "url": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss",
-      "summary": "Hamas condemned the incursion, which the Israeli military said was to dismantle a \"terror tunnel\", as a \"flagrant\" ceasefire violation.",
-      "published_at": "2026-11-19T11:07:37Z",
-      "country_code": "PS",
-      "country_name": "Palestine"
+      "source": "BBC US & Canada",
+      "title": "UK joins in GTA 6 frenzy as game becomes available worldwide",
+      "url": "https://www.bbc.co.uk/news/articles/c6z74ep2n17zo?at_medium=RSS&at_campaign=rss",
+      "summary": "The game, which was in development for 13 years, is set become one of the world's most popular entertainment products ever.",
+      "published_at": "2026-11-19T12:26:39Z",
+      "country_code": "GB",
+      "country_name": "United Kingdom"
     },
     {
       "source": "BBC Africa",
@@ -56,7 +74,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "This is a remarkable diplomatic moment for China's Xi - but it comes with pitfalls",
       "url": "https://www.bbc.co.uk/news/articles/cr9d75we51j1o?at_medium=RSS&at_campaign=rss",
       "summary": "The meeting comes with challenges as there are things Xi does not appear keen to discuss with Putin and Trump.",
@@ -72,6 +90,15 @@
       "published_at": "2026-11-19T02:59:06Z",
       "country_code": "US",
       "country_name": "United States"
+    },
+    {
+      "source": "BBC Asia",
+      "title": "India's religious make-up - what a new Pew study says about Hindus and Muslims",
+      "url": "https://www.bbc.co.uk/news/articles/cqd01epyrz1do?at_medium=RSS&at_campaign=rss",
+      "summary": "India will remain predominantly Hindu, though its Muslim population is projected to grow faster, according to a new survey.",
+      "published_at": "2026-11-19T00:38:52Z",
+      "country_code": "IN",
+      "country_name": "India"
     },
     {
       "source": "BBC World",
@@ -101,16 +128,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
-      "title": "Catherine visits Mumbai maternity hospital on the last day of royal trip",
-      "url": "https://www.bbc.co.uk/news/videos/c9gkljpgdn1lo?at_medium=RSS&at_campaign=rss",
-      "summary": "The Prince and Princess of Wales ended their three-day trip to India on Wednesday, the couple's first international tour since 2022.",
-      "published_at": "2026-11-18T22:32:47Z",
-      "country_code": "IN",
-      "country_name": "India"
-    },
-    {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "Simon Jack: Can Anthropic's record-breaking IPO stop the AI bubble bursting?",
       "url": "https://www.bbc.co.uk/news/articles/cj4gnpzll020o?at_medium=RSS&at_campaign=rss",
       "summary": "Anthropic's hotly anticipated IPO is expected to put it in the top 10 most valuable US companies, but the future is uncertain.",
@@ -281,33 +299,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC US & Canada",
-      "title": "Rubio says US not 'under systemic attack' after series of tech outages",
-      "url": "https://www.bbc.co.uk/news/articles/crkgvxxwpwz2o?at_medium=RSS&at_campaign=rss",
-      "summary": "Secretary of State Marco Rubio said there was \"zero evidence\" supporting theories online that recent disruptions affecting Microsoft, banks …",
-      "published_at": "2026-11-18T04:57:06Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "Waymo pulls driverless taxis from all US freeways",
-      "url": "https://www.bbc.co.uk/news/articles/cmy86pp336qlo?at_medium=RSS&at_campaign=rss",
-      "summary": "The decision comes after California banned Waymo's driverless vehicles from operating on the state's highways following a series of traffic …",
-      "published_at": "2026-11-18T03:07:22Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "Pakistani man sentenced to 27 years for Iran-backed plot to kill Trump",
-      "url": "https://www.bbc.co.uk/news/articles/cm15ezz8n394o?at_medium=RSS&at_campaign=rss",
-      "summary": "Asif Merchant was found guilty in March of trying to hire undercover FBI agents as hitmen to assassinate US officials, including the preside…",
-      "published_at": "2026-11-18T02:29:52Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
       "source": "BBC Europe",
       "title": "The EU that Burnham is eyeing up is very different to the one Britain left",
       "url": "https://www.bbc.co.uk/news/articles/cq4gn3109pzgo?at_medium=RSS&at_campaign=rss",
@@ -408,15 +399,6 @@
     },
     {
       "source": "BBC Asia",
-      "title": "Will President Trump meet Kim Jong Un?",
-      "url": "https://www.bbc.co.uk/news/videos/c6grew79p7qdo?at_medium=RSS&at_campaign=rss",
-      "summary": "President Trump says he would be keen to meet the North Korea leader in China.",
-      "published_at": "2026-11-17T10:13:27Z",
-      "country_code": "CN",
-      "country_name": "China"
-    },
-    {
-      "source": "BBC Asia",
       "title": "Japan sends up jets after alleged Russian incursion of its airspace",
       "url": "https://www.bbc.co.uk/news/articles/c60evw20qe47o?at_medium=RSS&at_campaign=rss",
       "summary": "Taiwan and South Korea also responded to Russian military aircraft detected near their airspaces.",
@@ -486,15 +468,6 @@
       "published_at": "2026-11-16T08:56:04Z",
       "country_code": "GB",
       "country_name": "United Kingdom"
-    },
-    {
-      "source": "BBC Asia",
-      "title": "Prince and Princess of Wales arrive in India ahead of meeting with Modi",
-      "url": "https://www.bbc.co.uk/news/articles/c5lyk0e3n1jxo?at_medium=RSS&at_campaign=rss",
-      "summary": "Most of the engagements the royal couple will attend are related to the Earthshot Prize, which Prince William founded.",
-      "published_at": "2026-11-16T07:19:11Z",
-      "country_code": "IN",
-      "country_name": "India"
     },
     {
       "source": "BBC Latin America",
@@ -753,12 +726,17 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 29
+      "news_count": 26
+    },
+    {
+      "country_code": "RU",
+      "country_name": "Russia",
+      "news_count": 7
     },
     {
       "country_code": "GB",
       "country_name": "United Kingdom",
-      "news_count": 5
+      "news_count": 6
     },
     {
       "country_code": "IL",
@@ -768,22 +746,17 @@
     {
       "country_code": "IN",
       "country_name": "India",
-      "news_count": 5
-    },
-    {
-      "country_code": "RU",
-      "country_name": "Russia",
-      "news_count": 5
-    },
-    {
-      "country_code": "CN",
-      "country_name": "China",
       "news_count": 4
     },
     {
       "country_code": "IR",
       "country_name": "Iran",
       "news_count": 4
+    },
+    {
+      "country_code": "CN",
+      "country_name": "China",
+      "news_count": 3
     },
     {
       "country_code": "ES",
@@ -813,11 +786,6 @@
     {
       "country_code": "PE",
       "country_name": "Peru",
-      "news_count": 2
-    },
-    {
-      "country_code": "UA",
-      "country_name": "Ukraine",
       "news_count": 2
     },
     {
@@ -858,6 +826,11 @@
     {
       "country_code": "TH",
       "country_name": "Thailand",
+      "news_count": 1
+    },
+    {
+      "country_code": "UA",
+      "country_name": "Ukraine",
       "news_count": 1
     },
     {
