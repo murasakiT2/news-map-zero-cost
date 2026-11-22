@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-11-22T01:26:55Z",
+  "generated_at": "2026-11-22T08:25:20Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "New draft deal aims to avert collapse of talks at COP31 climate summit",
+      "url": "https://www.bbc.co.uk/news/articles/cq7827z2841zo?at_medium=RSS&at_campaign=rss",
+      "summary": "The UN COP31 meeting in Turkey enters a second day of overtime as countries struggle to reach an agreement.",
+      "published_at": "2026-11-22T06:54:06Z",
+      "country_code": "TR",
+      "country_name": "Turkey"
+    },
     {
       "source": "BBC World",
       "title": "Lock of former US President George Washington's hair sells for $4,000",
@@ -164,7 +173,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "Indian man sentenced to 19-plus years in plot to assassinate US-based Sikh separatist leader",
       "url": "https://www.bbc.co.uk/news/articles/cq702ez8d4lwo?at_medium=RSS&at_campaign=rss",
       "summary": "Nikhil Gupta pleaded guilty to murder-for-hire, conspiracy to commit murder-for-hire, and conspiracy to commit money laundering in February.",
@@ -829,6 +838,11 @@
       "news_count": 2
     },
     {
+      "country_code": "TR",
+      "country_name": "Turkey",
+      "news_count": 2
+    },
+    {
       "country_code": "ZA",
       "country_name": "South Africa",
       "news_count": 2
@@ -856,11 +870,6 @@
     {
       "country_code": "SD",
       "country_name": "Sudan",
-      "news_count": 1
-    },
-    {
-      "country_code": "TR",
-      "country_name": "Turkey",
       "news_count": 1
     },
     {
