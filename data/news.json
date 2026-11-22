@@ -1,30 +1,39 @@
 {
-  "generated_at": "2026-11-22T16:29:29Z",
+  "generated_at": "2026-11-22T21:55:59Z",
   "articles": [
     {
       "source": "BBC World",
       "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
       "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
-      "summary": "Libya's eastern government says it is working with Russia to investigate the incident.",
-      "published_at": "2026-11-22T16:05:25Z",
+      "summary": "Libya's eastern government says the ship had stopped for fuel and supplies on its way back to Russia.",
+      "published_at": "2026-11-22T20:28:09Z",
       "country_code": "RU",
       "country_name": "Russia"
     },
     {
-      "source": "BBC US & Canada",
+      "source": "BBC World",
       "title": "US Army to detonate tonnes of unstable explosives in Iowa despite court order",
       "url": "https://www.bbc.co.uk/news/articles/cvglrx764gdxo?at_medium=RSS&at_campaign=rss",
       "summary": "The Army says \"swift action\" is necessary to protect its personnel and nearby communities around its ammunition plant in Iowa.",
-      "published_at": "2026-11-22T15:50:28Z",
+      "published_at": "2026-11-22T18:29:46Z",
       "country_code": "US",
       "country_name": "United States"
     },
     {
       "source": "BBC World",
-      "title": "Russia-bound ship still on fire after attack in Gulf of Finland",
+      "title": "'Danger seems greater all the time': Ukrainians search for missing after Russian strikes",
+      "url": "https://www.bbc.co.uk/news/videos/cre3dvd1k9y1o?at_medium=RSS&at_campaign=rss",
+      "summary": "The BBC's Sarah Rainsford reports from the scene of a collapsed residential building in Ukraine's Kyiv region.",
+      "published_at": "2026-11-22T17:57:43Z",
+      "country_code": "UA",
+      "country_name": "Ukraine"
+    },
+    {
+      "source": "BBC World",
+      "title": "Russia-bound ship towed away after it was attacked in Gulf of Finland",
       "url": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
-      "summary": "Finnish defence forces say that Ukraine was likely behind the drone attack on the vessel.",
-      "published_at": "2026-11-22T11:25:14Z",
+      "summary": "Finnish defence forces say that Ukraine was likely behind the drone strike on Saturday. Kyiv has yet to comment.",
+      "published_at": "2026-11-22T17:18:26Z",
       "country_code": "RU",
       "country_name": "Russia"
     },
@@ -137,7 +146,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Africa",
       "title": "ANC fights to keep control of South Africa's key cities after election setback",
       "url": "https://www.bbc.co.uk/news/articles/cqpv94d10rwpo?at_medium=RSS&at_campaign=rss",
       "summary": "The ANC appears reluctant to replicate its national power-sharing deal with the pro-business DA at the local level.",
@@ -236,7 +245,7 @@
       "country_name": "South Africa"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "What we know about the latest Russian missile strikes on Ukraine",
       "url": "https://www.bbc.co.uk/news/videos/c65y19wy3xl8o?at_medium=RSS&at_campaign=rss",
       "summary": "Russia struck bridges and railway stations in the capital Kyiv in a major attack.",
@@ -252,15 +261,6 @@
       "published_at": "2026-11-20T14:41:53Z",
       "country_code": "BE",
       "country_name": "Belgium"
-    },
-    {
-      "source": "BBC Europe",
-      "title": "We are working together for greater prosperity'",
-      "url": "https://www.bbc.co.uk/news/videos/c60mdwj9jyywo?at_medium=RSS&at_campaign=rss",
-      "summary": "EU says it wants 'closest possible relationship' with UK",
-      "published_at": "2026-11-20T14:20:25Z",
-      "country_code": "GB",
-      "country_name": "United Kingdom"
     },
     {
       "source": "BBC Europe",
@@ -288,15 +288,6 @@
       "published_at": "2026-11-20T10:16:19Z",
       "country_code": "KR",
       "country_name": "South Korea"
-    },
-    {
-      "source": "BBC Europe",
-      "title": "What the Brussels summit could mean for the UK-EU Brexit deal",
-      "url": "https://www.bbc.co.uk/news/videos/c6lymr5x4ye5o?at_medium=RSS&at_campaign=rss",
-      "summary": "BBC political editor Chris Mason looks at the potential agreements between the UK and EU that could be reached on food, energy and youth mob…",
-      "published_at": "2026-11-20T08:07:06Z",
-      "country_code": "GB",
-      "country_name": "United Kingdom"
     },
     {
       "source": "BBC Africa",
@@ -776,7 +767,7 @@
     {
       "country_code": "GB",
       "country_name": "United Kingdom",
-      "news_count": 13
+      "news_count": 11
     },
     {
       "country_code": "RU",
@@ -834,6 +825,11 @@
       "news_count": 2
     },
     {
+      "country_code": "UA",
+      "country_name": "Ukraine",
+      "news_count": 2
+    },
+    {
       "country_code": "ZA",
       "country_name": "South Africa",
       "news_count": 2
@@ -861,11 +857,6 @@
     {
       "country_code": "TR",
       "country_name": "Turkey",
-      "news_count": 1
-    },
-    {
-      "country_code": "UA",
-      "country_name": "Ukraine",
       "news_count": 1
     }
   ]
