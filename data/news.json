@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-11-22T21:55:59Z",
+  "generated_at": "2026-11-23T02:04:53Z",
   "articles": [
+    {
+      "source": "BBC World",
+      "title": "'Danger seems greater all the time': Ukrainians search for missing after Russian strikes",
+      "url": "https://www.bbc.co.uk/news/videos/cre3dvd1k9y1o?at_medium=RSS&at_campaign=rss",
+      "summary": "The BBC's Sarah Rainsford reports from the scene of a collapsed residential building in Ukraine's Kyiv region.",
+      "published_at": "2026-11-22T22:37:43Z",
+      "country_code": "UA",
+      "country_name": "Ukraine"
+    },
     {
       "source": "BBC World",
       "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
@@ -18,15 +27,6 @@
       "published_at": "2026-11-22T18:29:46Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
-      "title": "'Danger seems greater all the time': Ukrainians search for missing after Russian strikes",
-      "url": "https://www.bbc.co.uk/news/videos/cre3dvd1k9y1o?at_medium=RSS&at_campaign=rss",
-      "summary": "The BBC's Sarah Rainsford reports from the scene of a collapsed residential building in Ukraine's Kyiv region.",
-      "published_at": "2026-11-22T17:57:43Z",
-      "country_code": "UA",
-      "country_name": "Ukraine"
     },
     {
       "source": "BBC World",
@@ -279,15 +279,6 @@
       "published_at": "2026-11-20T11:23:42Z",
       "country_code": "ES",
       "country_name": "Spain"
-    },
-    {
-      "source": "BBC Asia",
-      "title": "South Korea catches 111 students with new measures against exam cheating",
-      "url": "https://www.bbc.co.uk/news/articles/cm3vgw1xevvwo?at_medium=RSS&at_campaign=rss",
-      "summary": "The students were caught with banned smart devices while taking the high-stakes Suneung exam.",
-      "published_at": "2026-11-20T10:16:19Z",
-      "country_code": "KR",
-      "country_name": "South Korea"
     },
     {
       "source": "BBC Africa",
@@ -815,11 +806,6 @@
       "news_count": 2
     },
     {
-      "country_code": "KR",
-      "country_name": "South Korea",
-      "news_count": 2
-    },
-    {
       "country_code": "PE",
       "country_name": "Peru",
       "news_count": 2
@@ -842,6 +828,11 @@
     {
       "country_code": "FR",
       "country_name": "France",
+      "news_count": 1
+    },
+    {
+      "country_code": "KR",
+      "country_name": "South Korea",
       "news_count": 1
     },
     {
