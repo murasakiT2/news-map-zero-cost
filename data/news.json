@@ -1,6 +1,60 @@
 {
-  "generated_at": "2026-11-23T02:04:53Z",
+  "generated_at": "2026-11-23T10:57:37Z",
   "articles": [
+    {
+      "source": "BBC Europe",
+      "title": "Who is taking part in France's recent street protests?",
+      "url": "https://www.bbc.co.uk/news/videos/cw5y188vzxn8o?at_medium=RSS&at_campaign=rss",
+      "summary": "President Macron has blamed the unrest on the radical left, but who are the protesters and what are they fighting for?",
+      "published_at": "2026-11-23T09:25:52Z",
+      "country_code": "FR",
+      "country_name": "France"
+    },
+    {
+      "source": "BBC World",
+      "title": "Kenya and DR Congo agree to restore ties after tensions over conflict",
+      "url": "https://www.bbc.co.uk/news/articles/cmvg2qnn95vro?at_medium=RSS&at_campaign=rss",
+      "summary": "The two leaders committed to upholding sovereignty and \"non-interference in the internal affairs of states\".",
+      "published_at": "2026-11-23T08:53:01Z",
+      "country_code": "KE",
+      "country_name": "Kenya"
+    },
+    {
+      "source": "BBC World",
+      "title": "Russian warship hit by Ukrainian drones in Libya, Zelensky says",
+      "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
+      "summary": "Libya's eastern government says a sunken warship had stopped for fuel and supplies on its way back to Russia.",
+      "published_at": "2026-11-23T08:36:57Z",
+      "country_code": "RU",
+      "country_name": "Russia"
+    },
+    {
+      "source": "BBC Europe",
+      "title": "'I want to destroy capitalism, not France': On the streets with the French ultra left",
+      "url": "https://www.bbc.co.uk/news/articles/cw074km48myeo?at_medium=RSS&at_campaign=rss",
+      "summary": "The BBC meets the far-left protesters French President Emmanuel Macron says are trying to bring down the Republic.",
+      "published_at": "2026-11-23T06:01:31Z",
+      "country_code": "FR",
+      "country_name": "France"
+    },
+    {
+      "source": "BBC World",
+      "title": "Boy, 7, pulled alive from rubble hours after Russian strike on Ukraine, rescuers say",
+      "url": "https://www.bbc.co.uk/news/articles/cqdr15l32d3go?at_medium=RSS&at_campaign=rss",
+      "summary": "Eleven people are dead in the attack on Dymer, with rescue efforts ongoing to find those still missing from the residential building.",
+      "published_at": "2026-11-23T05:33:17Z",
+      "country_code": "UA",
+      "country_name": "Ukraine"
+    },
+    {
+      "source": "BBC World",
+      "title": "Longest-ever UN climate talks end with no deal as deep divisions exposed",
+      "url": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
+      "summary": "The prime minister of Australia, which co-hosted COP31, attributed the failure to \"difficult geopolitical times\".",
+      "published_at": "2026-11-23T05:15:06Z",
+      "country_code": "AU",
+      "country_name": "Australia"
+    },
     {
       "source": "BBC World",
       "title": "'Danger seems greater all the time': Ukrainians search for missing after Russian strikes",
@@ -9,15 +63,6 @@
       "published_at": "2026-11-22T22:37:43Z",
       "country_code": "UA",
       "country_name": "Ukraine"
-    },
-    {
-      "source": "BBC World",
-      "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
-      "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
-      "summary": "Libya's eastern government says the ship had stopped for fuel and supplies on its way back to Russia.",
-      "published_at": "2026-11-22T20:28:09Z",
-      "country_code": "RU",
-      "country_name": "Russia"
     },
     {
       "source": "BBC World",
@@ -191,7 +236,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "What the new UK-EU deal could mean for future post-Brexit relations",
       "url": "https://www.bbc.co.uk/news/videos/c90k6gl3lyxeo?at_medium=RSS&at_campaign=rss",
       "summary": "The BBC's political and Europe editors analyse the new agreements between the UK and EU.",
@@ -200,7 +245,7 @@
       "country_name": "United Kingdom"
     },
     {
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "title": "Trump threatens ban on US firms building AI data centres overseas",
       "url": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss",
       "summary": "The US president provided little detail on the potential policy, saying others in his team were hearing about it for the first time.",
@@ -216,15 +261,6 @@
       "published_at": "2026-11-20T19:27:49Z",
       "country_code": "US",
       "country_name": "United States"
-    },
-    {
-      "source": "BBC Europe",
-      "title": "Fake forests hiding locations in Russia",
-      "url": "https://www.bbc.co.uk/news/videos/cm3wg1lzwx84o?at_medium=RSS&at_campaign=rss",
-      "summary": "Fake forests on Yandex, Russia’s version of Google Maps, appear to be trying to hide military sites.",
-      "published_at": "2026-11-20T17:20:55Z",
-      "country_code": "RU",
-      "country_name": "Russia"
     },
     {
       "source": "BBC US & Canada",
@@ -279,15 +315,6 @@
       "published_at": "2026-11-20T11:23:42Z",
       "country_code": "ES",
       "country_name": "Spain"
-    },
-    {
-      "source": "BBC Africa",
-      "title": "Nigeria moves to end jail terms for attempted suicide",
-      "url": "https://www.bbc.co.uk/news/articles/cm3rgnvxj339o?at_medium=RSS&at_campaign=rss",
-      "summary": "Nigeria's proposed reform follows years of calls from psychiatrists and a parallel Senate bill.",
-      "published_at": "2026-11-20T06:32:17Z",
-      "country_code": "NG",
-      "country_name": "Nigeria"
     },
     {
       "source": "BBC Africa",
@@ -551,15 +578,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Middle East",
-      "title": "Israel kills Hamas commander in strike on Gaza camp, officials say",
-      "url": "https://www.bbc.co.uk/news/articles/cqrkg4r6mg7xo?at_medium=RSS&at_campaign=rss",
-      "summary": "Both Hamas and IDF officials confirm the death of Samir Abu Younis, commander of the Rafah Brigade.",
-      "published_at": "2026-11-15T08:17:41Z",
-      "country_code": "IL",
-      "country_name": "Israel"
-    },
-    {
       "source": "BBC Latin America",
       "title": "Why Pope Leo’s visit 'home' to Peru is so significant",
       "url": "https://www.bbc.co.uk/news/videos/c6jre3vv89qqo?at_medium=RSS&at_campaign=rss",
@@ -660,24 +678,6 @@
     },
     {
       "source": "BBC Middle East",
-      "title": "What the US midterm results mean for the Middle East",
-      "url": "https://www.bbc.co.uk/news/videos/cq74pedvwlw8o?at_medium=RSS&at_campaign=rss",
-      "summary": "Democrats' resounding victory could lead to a more critical approach to the Iran war in the next congress, Yolande Knell reports.",
-      "published_at": "2026-11-04T17:57:03Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC Middle East",
-      "title": "'I couldn't be silent': Iranian teen's mother seeking justice after daughter shot dead",
-      "url": "https://www.bbc.co.uk/news/videos/cwjdmp25mem9o?at_medium=RSS&at_campaign=rss",
-      "summary": "BBC Panorama follows grieving Samira who - after the killing of Sevda - faces up to the Tehran regime.",
-      "published_at": "2026-11-02T06:05:34Z",
-      "country_code": "IR",
-      "country_name": "Iran"
-    },
-    {
-      "source": "BBC Middle East",
       "title": "Iran killed her teenage daughter - now she is facing up to the regime",
       "url": "https://www.bbc.co.uk/news/articles/c3qjn8117kwjo?at_medium=RSS&at_campaign=rss",
       "summary": "Samira's 16-year-old daughter Sevda was shot dead as they took part in mass protests in January.",
@@ -753,7 +753,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 27
+      "news_count": 26
     },
     {
       "country_code": "GB",
@@ -763,12 +763,12 @@
     {
       "country_code": "RU",
       "country_name": "Russia",
-      "news_count": 8
+      "news_count": 7
     },
     {
       "country_code": "IL",
       "country_name": "Israel",
-      "news_count": 5
+      "news_count": 4
     },
     {
       "country_code": "IN",
@@ -781,18 +781,18 @@
       "news_count": 3
     },
     {
-      "country_code": "IR",
-      "country_name": "Iran",
-      "news_count": 3
-    },
-    {
-      "country_code": "NG",
-      "country_name": "Nigeria",
+      "country_code": "FR",
+      "country_name": "France",
       "news_count": 3
     },
     {
       "country_code": "PS",
       "country_name": "Palestine",
+      "news_count": 3
+    },
+    {
+      "country_code": "UA",
+      "country_name": "Ukraine",
       "news_count": 3
     },
     {
@@ -806,13 +806,18 @@
       "news_count": 2
     },
     {
-      "country_code": "PE",
-      "country_name": "Peru",
+      "country_code": "IR",
+      "country_name": "Iran",
       "news_count": 2
     },
     {
-      "country_code": "UA",
-      "country_name": "Ukraine",
+      "country_code": "NG",
+      "country_name": "Nigeria",
+      "news_count": 2
+    },
+    {
+      "country_code": "PE",
+      "country_name": "Peru",
       "news_count": 2
     },
     {
@@ -821,13 +826,18 @@
       "news_count": 2
     },
     {
+      "country_code": "AU",
+      "country_name": "Australia",
+      "news_count": 1
+    },
+    {
       "country_code": "BE",
       "country_name": "Belgium",
       "news_count": 1
     },
     {
-      "country_code": "FR",
-      "country_name": "France",
+      "country_code": "KE",
+      "country_name": "Kenya",
       "news_count": 1
     },
     {
