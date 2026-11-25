@@ -1,32 +1,140 @@
 {
-  "generated_at": "2026-11-25T10:51:07Z",
+  "generated_at": "2026-11-25T20:17:32Z",
   "articles": [
     {
-      "source": "BBC Middle East",
-      "title": "Protesters call on Israel to free Palestinian student held without charge",
-      "url": "https://www.bbc.co.uk/news/articles/cw62p8z9edjlo?at_medium=RSS&at_campaign=rss",
-      "summary": "Mahdi Tunsi, 26, was taken from his university dormitory earlier this month and has since been held without charge.",
-      "published_at": "2026-11-25T10:03:42Z",
-      "country_code": "IL",
-      "country_name": "Israel"
+      "source": "BBC World",
+      "title": "US Army says controlled blast of explosives in Iowa was 'huge success'",
+      "url": "https://www.bbc.co.uk/news/articles/cwg7l5ve251ko?at_medium=RSS&at_campaign=rss",
+      "summary": "Despite widespread concern from residents ahead of the blast, officials say that lead readings in the area so far have been promising.",
+      "published_at": "2026-11-25T19:54:52Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "Kilmar Ábrego García arrives in Spain, ending Trump deportation battle",
+      "url": "https://www.bbc.co.uk/news/articles/c6808pyy5dl9o?at_medium=RSS&at_campaign=rss",
+      "summary": "His deportation to and return from El Salvador became a flashpoint in the debate the US president's immigration agenda.",
+      "published_at": "2026-11-25T19:22:18Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "North Korea expels Swiss diplomat in sanctions row",
+      "url": "https://www.bbc.co.uk/news/articles/cq0l34e4kkr5o?at_medium=RSS&at_campaign=rss",
+      "summary": "Swiss officials said relations would be kept through North Korea's embassy in Bern, and its own embassy in Beijing.",
+      "published_at": "2026-11-25T19:19:06Z",
+      "country_code": "CN",
+      "country_name": "China"
+    },
+    {
+      "source": "BBC World",
+      "title": "US stocks fall further as fears over AI intensify",
+      "url": "https://www.bbc.co.uk/news/articles/cq0md8g14zryo?at_medium=RSS&at_campaign=rss",
+      "summary": "All three main US indexes were down in early trading, with the tech-dominated Nasdaq down almost 4%.",
+      "published_at": "2026-11-25T17:48:09Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "Trump's accounts traded Nvidia shares 44 times this year, records show",
+      "url": "https://www.bbc.co.uk/news/articles/cq772vk664yvo?at_medium=RSS&at_campaign=rss",
+      "summary": "A review of the US president's financial disclosures shows Donald Trump's investment portfolios have regularly traded shares in the tech gia…",
+      "published_at": "2026-11-25T16:42:11Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "US announces new tariffs on host of countries including China",
+      "url": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
+      "summary": "The new levies would hit many of America's biggest trading partners, including China and the EU.",
+      "published_at": "2026-11-25T16:21:34Z",
+      "country_code": "US",
+      "country_name": "United States"
     },
     {
       "source": "BBC World",
       "title": "South Africa's Ramaphosa wins court battle over impeachment threat",
       "url": "https://www.bbc.co.uk/news/articles/cq4gn6gj3z37o?at_medium=RSS&at_campaign=rss",
       "summary": "The break-in happened in 2020, when thieves allegedly stole bundles of US dollar bills hidden inside a sofa at the farm.",
-      "published_at": "2026-11-25T09:06:02Z",
+      "published_at": "2026-11-25T15:42:50Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC Africa",
+      "title": "Five Mexicans arrested in Nigeria over $227m meth lab",
+      "url": "https://www.bbc.co.uk/news/articles/c6x20lw8955no?at_medium=RSS&at_campaign=rss",
+      "summary": "This is the fourth industrial-scale meth laboratory with alleged links to Mexican drug cartels to have been discovered in Nigeria in recent …",
+      "published_at": "2026-11-25T15:11:15Z",
+      "country_code": "NG",
+      "country_name": "Nigeria"
+    },
+    {
+      "source": "BBC World",
+      "title": "Five Russian military jets hit in airfield strike, says Ukraine",
+      "url": "https://www.bbc.co.uk/news/articles/ck9q8xp5r5pgo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Savasleyka airfield hosts aircraft used by Russia to launch hypersonic missiles and glide bombs at Ukraine.",
+      "published_at": "2026-11-25T14:46:41Z",
+      "country_code": "RU",
+      "country_name": "Russia"
+    },
+    {
+      "source": "BBC World",
+      "title": "Israeli strike kills senior Hamas security official and family in Gaza City",
+      "url": "https://www.bbc.co.uk/news/articles/cmd718zydz9qo?at_medium=RSS&at_campaign=rss",
+      "summary": "Mohammed Abu al-Ouf, head of Hamas's internal security service in northern Gaza, was killed with his wife and two teenage daughters, doctors…",
+      "published_at": "2026-11-25T14:06:13Z",
+      "country_code": "PS",
+      "country_name": "Palestine"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "What's driving up the cost of your Thanksgiving turkey?",
+      "url": "https://www.bbc.co.uk/news/videos/cw99e4x4x84no?at_medium=RSS&at_campaign=rss",
+      "summary": "BBC Verify has looked into how prices compare with previous years as Democrats blame President Trump for recent rises.",
+      "published_at": "2026-11-25T13:59:57Z",
+      "country_code": "TR",
+      "country_name": "Turkey"
+    },
+    {
+      "source": "BBC World",
+      "title": "Russia's own figures show it has lost nearly 500,000 people in Ukraine war",
+      "url": "https://www.bbc.co.uk/news/articles/cmx27g533zwyo?at_medium=RSS&at_campaign=rss",
+      "summary": "Leaked data reveal how the full-scale invasion of Ukraine has fundamentally changed mortality patterns in Russia.",
+      "published_at": "2026-11-25T12:21:49Z",
+      "country_code": "RU",
+      "country_name": "Russia"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "'This could be apocalyptic' - a community hunkers down for US Army's controlled explosion",
+      "url": "https://www.bbc.co.uk/news/articles/cqg7l5zx4edeo?at_medium=RSS&at_campaign=rss",
+      "summary": "Some residents tell the BBC that Wednesday's detonation could be life-changing, while others just want it to be over.",
+      "published_at": "2026-11-25T12:15:36Z",
       "country_code": "US",
       "country_name": "United States"
     },
     {
       "source": "BBC World",
-      "title": "Two children among six dead after plane crash off Mississippi coast",
-      "url": "https://www.bbc.co.uk/news/articles/c6z74l1017zpo?at_medium=RSS&at_campaign=rss",
-      "summary": "Divers found the bodies of four adults and two boys, aged 8 and 10, in the fuselage, the US Coast Guard said.",
-      "published_at": "2026-11-25T07:08:22Z",
+      "title": "Huawei found guilty of stealing US trade secrets but acquitted of racketeering",
+      "url": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
+      "summary": "The verdict follows a months-long trial in New York.",
+      "published_at": "2026-11-25T10:52:09Z",
       "country_code": "US",
       "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Protesters call on Israel to free Palestinian student held without charge",
+      "url": "https://www.bbc.co.uk/news/articles/cw62p8z9edjlo?at_medium=RSS&at_campaign=rss",
+      "summary": "Mahdi Tunsi, 26, was taken from his university dormitory earlier this month and has since been held without charge.",
+      "published_at": "2026-11-25T10:03:42Z",
+      "country_code": "IL",
+      "country_name": "Israel"
     },
     {
       "source": "BBC Asia",
@@ -36,15 +144,6 @@
       "published_at": "2026-11-25T06:58:24Z",
       "country_code": "AU",
       "country_name": "Australia"
-    },
-    {
-      "source": "BBC World",
-      "title": "Kilmar Ábrego García leaves US for Spain, ending Trump deportation battle",
-      "url": "https://www.bbc.co.uk/news/articles/c6808pyy5dl9o?at_medium=RSS&at_campaign=rss",
-      "summary": "Ábrego García's deportation to El Salvador and return to the US became a flashpoint in the debate over President Donald Trump's immigration …",
-      "published_at": "2026-11-25T06:36:00Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC Africa",
@@ -57,15 +156,6 @@
     },
     {
       "source": "BBC World",
-      "title": "US attorney general dodges questions about Nvidia investigation",
-      "url": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss",
-      "summary": "Nvidia's share price have fallen 7% as lawmakers demand answers about President Donald Trump's involvement in Huang's reinstatement.",
-      "published_at": "2026-11-25T03:44:07Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
       "title": "Moment Chinese space mission lifts off with first Pakistan astronaut aboard",
       "url": "https://www.bbc.co.uk/news/videos/cmz74l0yzzvyo?at_medium=RSS&at_campaign=rss",
       "summary": "China launched its Shenzhou-24 space mission to bring three astronauts to its Tiangong space station.",
@@ -74,22 +164,13 @@
       "country_name": "China"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "Solomon Islands ends controversial security pact with China for Australian treaty",
       "url": "https://www.bbc.co.uk/news/articles/ckdd1z2gvlgno?at_medium=RSS&at_campaign=rss",
       "summary": "Solomon Islands leader Matthew Wale said his country would no longer be a point of regional uncertainty.",
       "published_at": "2026-11-25T03:15:12Z",
       "country_code": "CN",
       "country_name": "China"
-    },
-    {
-      "source": "BBC World",
-      "title": "Huawei found guilty of stealing US trade secrets but acquitted of racketeering",
-      "url": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
-      "summary": "The verdict follows a months-long trial in New York.",
-      "published_at": "2026-11-25T02:59:27Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC World",
@@ -138,30 +219,12 @@
     },
     {
       "source": "BBC World",
-      "title": "Russia's own figures show it has lost almost 500,000 people in Ukraine war",
-      "url": "https://www.bbc.co.uk/news/articles/cmx27g533zwyo?at_medium=RSS&at_campaign=rss",
-      "summary": "Leaked data reveal how the full-scale invasion of Ukraine has fundamentally changed mortality patterns in Russia.",
-      "published_at": "2026-11-25T00:56:51Z",
-      "country_code": "RU",
-      "country_name": "Russia"
-    },
-    {
-      "source": "BBC World",
-      "title": "My family died in Ukraine. My mum blamed Zelensky's troops - the truth is complicated",
+      "title": "My family were killed in Ukraine. My mum blamed Zelensky's troops - the truth is complicated",
       "url": "https://www.bbc.co.uk/news/articles/cw24e17v9e51o?at_medium=RSS&at_campaign=rss",
       "summary": "BBC journalist Anastasiya Gribanova investigates who killed her father and grandparents in the war.",
       "published_at": "2026-11-25T00:54:13Z",
       "country_code": "UA",
       "country_name": "Ukraine"
-    },
-    {
-      "source": "BBC World",
-      "title": "US preparing to unveil plan for new tariffs on global trading partners",
-      "url": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
-      "summary": "The new levies would hit many of America's biggest trading partners, including China and the EU.",
-      "published_at": "2026-11-25T00:38:01Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC World",
@@ -173,7 +236,7 @@
       "country_name": "China"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Africa",
       "title": "Nigerian monarch, 92, suspended after sexual assault claims",
       "url": "https://www.bbc.co.uk/news/articles/cmglrz462nn6o?at_medium=RSS&at_campaign=rss",
       "summary": "The Emir of Daura is one of Nigeria's best-known monarchs, with politicians often trying to gain his support.",
@@ -182,22 +245,13 @@
       "country_name": "Nigeria"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "Indian government has 'lost the plot', says 'cockroach' leader barred from UK flight",
       "url": "https://www.bbc.co.uk/news/articles/cm5y1ezx2gqyo?at_medium=RSS&at_campaign=rss",
       "summary": "Saurav Das says immigration authorities at Delhi airport told him his passport had been flagged.",
       "published_at": "2026-11-24T18:07:46Z",
       "country_code": "GB",
       "country_name": "United Kingdom"
-    },
-    {
-      "source": "BBC Europe",
-      "title": "Businesses supporting Ukraine told to 'act now' to protect against Russian sabotage",
-      "url": "https://www.bbc.co.uk/news/articles/ckpdw4d0z2dwo?at_medium=RSS&at_campaign=rss",
-      "summary": "An alert issued on Tuesday warns of an increased risk of sabotage attacks such as arson and threats to staff.",
-      "published_at": "2026-11-24T17:39:32Z",
-      "country_code": "UA",
-      "country_name": "Ukraine"
     },
     {
       "source": "BBC Europe",
@@ -209,16 +263,7 @@
       "country_name": "Russia"
     },
     {
-      "source": "BBC US & Canada",
-      "title": "US court unseals heavily redacted records on Ilhan Omar home search",
-      "url": "https://www.bbc.co.uk/news/articles/c6n831lzl5y1o?at_medium=RSS&at_campaign=rss",
-      "summary": "Prosecutors say they are pursuing evidence of crimes allegedly committed by the Democratic congresswoman over decades, and unrelated to her …",
-      "published_at": "2026-11-24T16:32:16Z",
-      "country_code": "US",
-      "country_name": "United States"
-    },
-    {
-      "source": "BBC World",
+      "source": "BBC Middle East",
       "title": "Israeli air strike kills Hamas internal security chief in Gaza",
       "url": "https://www.bbc.co.uk/news/articles/c6rrg7ggq190o?at_medium=RSS&at_campaign=rss",
       "summary": "Naeem Abu Nahel, who had been in the post for two months, is among seven Palestinians reportedly killed in Israeli strikes on Tuesday.",
@@ -227,7 +272,7 @@
       "country_name": "Palestine"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Middle East",
       "title": "Land mine casualties soar in Syria, two years after war",
       "url": "https://www.bbc.co.uk/news/articles/c893rl37ywdgo?at_medium=RSS&at_campaign=rss",
       "summary": "Nearly 1,000 children are among those killed or injured by explosives left over from the conflict, figures show.",
@@ -336,15 +381,6 @@
     },
     {
       "source": "BBC Europe",
-      "title": "Flights cancelled in Belgium due to cost-of-living strike",
-      "url": "https://www.bbc.co.uk/news/articles/cwdr155e2d05o?at_medium=RSS&at_campaign=rss",
-      "summary": "A series of strikes have hit Belgium in recent months as the prime minister struggles to agree a budget to cut costs.",
-      "published_at": "2026-11-23T13:34:02Z",
-      "country_code": "BE",
-      "country_name": "Belgium"
-    },
-    {
-      "source": "BBC Europe",
       "title": "'I want to destroy capitalism, not France': On the streets with the French ultra left",
       "url": "https://www.bbc.co.uk/news/articles/cw074km48myeo?at_medium=RSS&at_campaign=rss",
       "summary": "The BBC meets the far-left protesters French President Emmanuel Macron says are trying to bring down the Republic.",
@@ -378,15 +414,6 @@
       "published_at": "2026-11-22T22:37:43Z",
       "country_code": "UA",
       "country_name": "Ukraine"
-    },
-    {
-      "source": "BBC Europe",
-      "title": "Russia-bound ship towed away after it was attacked in Gulf of Finland",
-      "url": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
-      "summary": "Finnish defence forces say that Ukraine was likely behind the drone strike on Saturday. Kyiv has yet to comment.",
-      "published_at": "2026-11-22T17:18:26Z",
-      "country_code": "RU",
-      "country_name": "Russia"
     },
     {
       "source": "BBC Africa",
@@ -425,7 +452,7 @@
       "country_name": "India"
     },
     {
-      "source": "BBC US & Canada",
+      "source": "BBC Middle East",
       "title": "US declassifies more UFO footage filmed in the Middle East",
       "url": "https://www.bbc.co.uk/news/videos/cqdr1x8mypnko?at_medium=RSS&at_campaign=rss",
       "summary": "The Pentagon has released an eighth tranche of UFO records, which includes three video clips recorded in 2020, 2023 and 2026.",
@@ -477,15 +504,6 @@
       "published_at": "2026-11-19T17:03:23Z",
       "country_code": "PS",
       "country_name": "Palestine"
-    },
-    {
-      "source": "BBC Latin America",
-      "title": "Venezuela signs military deal with US less than a year after Maduro's removal",
-      "url": "https://www.bbc.co.uk/news/articles/cmwy8pyqlq5vo?at_medium=RSS&at_campaign=rss",
-      "summary": "The US Secretary of Defence says Venezuela has \"gone from our most aggressive regional threat to a compliant security partner\".",
-      "published_at": "2026-11-19T13:31:23Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC Europe",
@@ -762,14 +780,9 @@
       "news_count": 6
     },
     {
-      "country_code": "UA",
-      "country_name": "Ukraine",
-      "news_count": 5
-    },
-    {
       "country_code": "CN",
       "country_name": "China",
-      "news_count": 4
+      "news_count": 5
     },
     {
       "country_code": "IN",
@@ -779,6 +792,16 @@
     {
       "country_code": "PS",
       "country_name": "Palestine",
+      "news_count": 4
+    },
+    {
+      "country_code": "UA",
+      "country_name": "Ukraine",
+      "news_count": 4
+    },
+    {
+      "country_code": "NG",
+      "country_name": "Nigeria",
       "news_count": 3
     },
     {
@@ -807,23 +830,18 @@
       "news_count": 2
     },
     {
-      "country_code": "NG",
-      "country_name": "Nigeria",
-      "news_count": 2
-    },
-    {
       "country_code": "PE",
       "country_name": "Peru",
       "news_count": 2
     },
     {
-      "country_code": "BD",
-      "country_name": "Bangladesh",
-      "news_count": 1
+      "country_code": "TR",
+      "country_name": "Turkey",
+      "news_count": 2
     },
     {
-      "country_code": "BE",
-      "country_name": "Belgium",
+      "country_code": "BD",
+      "country_name": "Bangladesh",
       "news_count": 1
     },
     {
@@ -834,11 +852,6 @@
     {
       "country_code": "SY",
       "country_name": "Syria",
-      "news_count": 1
-    },
-    {
-      "country_code": "TR",
-      "country_name": "Turkey",
       "news_count": 1
     },
     {
