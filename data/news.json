@@ -1,27 +1,117 @@
 {
-  "generated_at": "2026-11-27T03:21:14Z",
+  "generated_at": "2026-11-27T12:51:50Z",
   "articles": [
     {
-      "source": "BBC World",
-      "title": "New Zealand's ruling coalition falls short of parliamentary majority by one seat",
-      "url": "https://www.bbc.co.uk/news/articles/c670278qk879o?at_medium=RSS&at_campaign=rss",
-      "summary": "The right-leaning ruling bloc led by the National Party has fallen short of the majority needed to govern.",
-      "published_at": "2026-11-27T02:55:31Z",
-      "country_code": "NZ",
-      "country_name": "New Zealand"
+      "source": "BBC Europe",
+      "title": "Who to watch in Spain's election race",
+      "url": "https://www.bbc.co.uk/news/articles/cxr5g4lyp94no?at_medium=RSS&at_campaign=rss",
+      "summary": "As Spaniards go to the polls on Sunday, these are the key political figures aiming to take power in Spain's next government.",
+      "published_at": "2026-11-27T12:48:32Z",
+      "country_code": "ES",
+      "country_name": "Spain"
+    },
+    {
+      "source": "BBC US & Canada",
+      "title": "Canada's top court to rule on Quebec's ban on wearing religious symbols",
+      "url": "https://www.bbc.co.uk/news/articles/c78j8vk3r50o?at_medium=RSS&at_campaign=rss",
+      "summary": "Legal experts say the outcome will have an impact on much more than religious expression in the country.",
+      "published_at": "2026-11-27T10:37:42Z",
+      "country_code": "CA",
+      "country_name": "Canada"
     },
     {
       "source": "BBC World",
-      "title": "Major Thanksgiving storm brings flooding, flight delays across US",
-      "url": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss",
-      "summary": "Almost one million customers in the US had no power on Thursday evening as storms descended on both US coasts, bringing wind gusts, heavy ra…",
-      "published_at": "2026-11-27T00:52:11Z",
+      "title": "Hundreds of thousands still without power after storms hit US on Thanksgiving",
+      "url": "https://www.bbc.co.uk/news/articles/cre3dj5n7dpwo?at_medium=RSS&at_campaign=rss",
+      "summary": "Pennsylvania and neighbouring states remain badly affected on Friday after both coasts were lashed with wind and rain.",
+      "published_at": "2026-11-27T10:26:28Z",
       "country_code": "US",
       "country_name": "United States"
     },
     {
       "source": "BBC World",
-      "title": "Met Police ruined my life, says Kenyan man wrongly sentenced over attack on UK couple",
+      "title": "India busts cyberfraud and trafficking network rescuing 164 foreigners",
+      "url": "https://www.bbc.co.uk/news/articles/crkgvjy7q83wo?at_medium=RSS&at_campaign=rss",
+      "summary": "Lured by IT job promises, the victims were allegedly forced into cybercrime, police say.",
+      "published_at": "2026-11-27T10:01:07Z",
+      "country_code": "IN",
+      "country_name": "India"
+    },
+    {
+      "source": "BBC World",
+      "title": "Zelensky criticises 'strange' Trump-Putin friendship in BBC interview",
+      "url": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
+      "summary": "Ukraine's president voices frustration with US and says it is not pushing Russia hard enough in peace talks to end the war.",
+      "published_at": "2026-11-27T09:07:48Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Italy's former police chief rejected mafia inquiry allegations before death",
+      "url": "https://www.bbc.co.uk/news/articles/c69q8yjj1v0po?at_medium=RSS&at_campaign=rss",
+      "summary": "The contents of an eight-page letter by Gianni De Gennaro have been revealed days after his body was found at his Tuscany home.",
+      "published_at": "2026-11-27T07:28:10Z",
+      "country_code": "IT",
+      "country_name": "Italy"
+    },
+    {
+      "source": "BBC World",
+      "title": "EU leaders fail to bridge budget splits as talks stall",
+      "url": "https://www.bbc.co.uk/news/articles/cw4gnm3m9deno?at_medium=RSS&at_campaign=rss",
+      "summary": "Aid for Ukraine was among the disputes as EU members hope to conclude talks by the end of the year.",
+      "published_at": "2026-11-27T06:11:55Z",
+      "country_code": "UA",
+      "country_name": "Ukraine"
+    },
+    {
+      "source": "BBC World",
+      "title": "'It's impossible': Spain's young people on housing ahead of Sunday's election",
+      "url": "https://www.bbc.co.uk/news/videos/cm9w9y8947xqo?at_medium=RSS&at_campaign=rss",
+      "summary": "Europe correspondent Nick Beake speaks to one couple kept apart by high rents in Valencia.",
+      "published_at": "2026-11-27T06:09:31Z",
+      "country_code": "ES",
+      "country_name": "Spain"
+    },
+    {
+      "source": "BBC Middle East",
+      "title": "Inside Saudi Arabia, Houthi attacks test kingdom's image of security",
+      "url": "https://www.bbc.co.uk/news/articles/c6ly7jgv7jzdo?at_medium=RSS&at_campaign=rss",
+      "summary": "Despite the strikes, markets and restaurants in Riyadh remain busy as residents express trust in the government to protect them.",
+      "published_at": "2026-11-27T06:04:51Z",
+      "country_code": "SA",
+      "country_name": "Saudi Arabia"
+    },
+    {
+      "source": "BBC World",
+      "title": "Leaders clash in final Spain election debate as housing dominates run-in",
+      "url": "https://www.bbc.co.uk/news/articles/ckr5gr4g8gn5o?at_medium=RSS&at_campaign=rss",
+      "summary": "The struggle many face in buying a home has been the biggest issue of a bitter campaign.",
+      "published_at": "2026-11-27T06:03:39Z",
+      "country_code": "ES",
+      "country_name": "Spain"
+    },
+    {
+      "source": "BBC World",
+      "title": "Venezuela to scrap law that bars opposition from public office",
+      "url": "https://www.bbc.co.uk/news/articles/c58j4pw9xjrlo?at_medium=RSS&at_campaign=rss",
+      "summary": "The legislation has been criticised for enabling political persecution since it was introduced two years ago.",
+      "published_at": "2026-11-27T05:35:10Z",
+      "country_code": "VE",
+      "country_name": "Venezuela"
+    },
+    {
+      "source": "BBC World",
+      "title": "New Zealand's ruling coalition falls short of parliamentary majority by one seat",
+      "url": "https://www.bbc.co.uk/news/articles/c670278qk879o?at_medium=RSS&at_campaign=rss",
+      "summary": "The right-leaning ruling bloc led by the National Party has fallen short of the majority needed to govern.",
+      "published_at": "2026-11-27T03:28:15Z",
+      "country_code": "NZ",
+      "country_name": "New Zealand"
+    },
+    {
+      "source": "BBC Africa",
+      "title": "UK police ruined my life, says Kenyan man wrongly convicted over attack on British couple",
       "url": "https://www.bbc.co.uk/news/articles/cqvg2nlr8kd8o?at_medium=RSS&at_campaign=rss",
       "summary": "Evidence from a British police officer helped convict Ali Kololo over a 2011 attack in the Kenyan resort of Lamu.",
       "published_at": "2026-11-27T00:48:11Z",
@@ -29,8 +119,8 @@
       "country_name": "United Kingdom"
     },
     {
-      "source": "BBC World",
-      "title": "Death-sentenced Sheikh Hasina's planned return puts Bangladesh on edge - and India in a bind",
+      "source": "BBC Asia",
+      "title": "Sheikh Hasina's planned return puts Bangladesh on edge - and India in a bind",
       "url": "https://www.bbc.co.uk/news/articles/cx30g71rev23o?at_medium=RSS&at_campaign=rss",
       "summary": "The ousted prime minister's December homecoming plan deepens Dhaka-Delhi tensions and risks fresh unrest.",
       "published_at": "2026-11-27T00:47:43Z",
@@ -38,13 +128,13 @@
       "country_name": "India"
     },
     {
-      "source": "BBC World",
-      "title": "US too focused on Middle East and not pushing Russia hard enough, Zelensky tells BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
-      "summary": "Ukraine's president voices frustration with US and says it is \"strange\" Trump has described Vladimir Putin as a friend.",
-      "published_at": "2026-11-26T22:49:27Z",
-      "country_code": "US",
-      "country_name": "United States"
+      "source": "BBC Europe",
+      "title": "UK to pay 'participation' fee to deliver EU deals",
+      "url": "https://www.bbc.co.uk/news/articles/ck2057x387ego?at_medium=RSS&at_campaign=rss",
+      "summary": "Details of the contribution towards EU running costs have been revealed in new legal documents.",
+      "published_at": "2026-11-26T23:17:12Z",
+      "country_code": "GB",
+      "country_name": "United Kingdom"
     },
     {
       "source": "BBC World",
@@ -102,15 +192,6 @@
     },
     {
       "source": "BBC World",
-      "title": "New UK-EU treaty has 10-year termination clause",
-      "url": "https://www.bbc.co.uk/news/articles/c98r7p65edvgo?at_medium=RSS&at_campaign=rss",
-      "summary": "Text of the treaties was published this afternoon, alongside legislation designed to enact the bulk of the deal.",
-      "published_at": "2026-11-26T15:23:17Z",
-      "country_code": "GB",
-      "country_name": "United Kingdom"
-    },
-    {
-      "source": "BBC World",
       "title": "Gérard Depardieu to stand trial for alleged rape of actress in 2018, court rules",
       "url": "https://www.bbc.co.uk/news/articles/cmlyd76kyx44o?at_medium=RSS&at_campaign=rss",
       "summary": "A Paris appeals court rules Depardieu will go on trial for the alleged rape of Charlotte Arnould.",
@@ -137,22 +218,13 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Middle East",
       "title": "Hamas political official and wife among eight Palestinians killed in Israeli strikes on Gaza",
       "url": "https://www.bbc.co.uk/news/articles/cqvg2n4mzl1jo?at_medium=RSS&at_campaign=rss",
       "summary": "The killings are the latest from a series of near daily attacks by Israel against what it says are Hamas targets.",
       "published_at": "2026-11-26T10:14:08Z",
       "country_code": "IL",
       "country_name": "Israel"
-    },
-    {
-      "source": "BBC World",
-      "title": "Watch: Alaskan flying team airdrops Thanksgiving turkeys to remote communities",
-      "url": "https://www.bbc.co.uk/news/videos/cvze7yk7dy5lo?at_medium=RSS&at_campaign=rss",
-      "summary": "For the last few years, the \"turkey bombers\" have taken to the skies for the benefit of residents in off-grid communities.",
-      "published_at": "2026-11-26T09:22:34Z",
-      "country_code": "TR",
-      "country_name": "Turkey"
     },
     {
       "source": "BBC US & Canada",
@@ -173,7 +245,7 @@
       "country_name": "India"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Middle East",
       "title": "Desperate appeals from women on death row in Iran after protests",
       "url": "https://www.bbc.co.uk/news/articles/cm8x0ve4yd7wo?at_medium=RSS&at_campaign=rss",
       "summary": "Female protesters and dissidents are being sentenced to death in numbers not seen for decades, a rights group says.",
@@ -272,15 +344,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Europe",
-      "title": "Five Russian military jets hit in airfield strike, says Ukraine",
-      "url": "https://www.bbc.co.uk/news/articles/ck9q8xp5r5pgo?at_medium=RSS&at_campaign=rss",
-      "summary": "The Savasleyka airfield hosts aircraft used by Russia to launch hypersonic missiles and glide bombs at Ukraine.",
-      "published_at": "2026-11-25T14:46:41Z",
-      "country_code": "RU",
-      "country_name": "Russia"
-    },
-    {
       "source": "BBC Middle East",
       "title": "Israeli strike kills senior Hamas security official and family in Gaza City",
       "url": "https://www.bbc.co.uk/news/articles/cmd718zydz9qo?at_medium=RSS&at_campaign=rss",
@@ -304,15 +367,6 @@
       "url": "https://www.bbc.co.uk/news/videos/cwg7l58v9jdjo?at_medium=RSS&at_campaign=rss",
       "summary": "BBC journalist Anastasiya Gribanova’s father and grandparents were killed when the front line came to their village.",
       "published_at": "2026-11-25T13:27:36Z",
-      "country_code": "RU",
-      "country_name": "Russia"
-    },
-    {
-      "source": "BBC Europe",
-      "title": "Russia's own figures show it has lost nearly 500,000 people in Ukraine war",
-      "url": "https://www.bbc.co.uk/news/articles/cmx27g533zwyo?at_medium=RSS&at_campaign=rss",
-      "summary": "Leaked data reveal how the full-scale invasion of Ukraine has fundamentally changed mortality patterns in Russia.",
-      "published_at": "2026-11-25T12:21:49Z",
       "country_code": "RU",
       "country_name": "Russia"
     },
@@ -371,15 +425,6 @@
       "country_name": "Spain"
     },
     {
-      "source": "BBC Europe",
-      "title": "My family were killed in Ukraine. My mum blamed Zelensky's troops - the truth is complicated",
-      "url": "https://www.bbc.co.uk/news/articles/cw24e17v9e51o?at_medium=RSS&at_campaign=rss",
-      "summary": "BBC journalist Anastasiya Gribanova investigates who killed her father and grandparents in the war.",
-      "published_at": "2026-11-25T00:54:13Z",
-      "country_code": "UA",
-      "country_name": "Ukraine"
-    },
-    {
       "source": "BBC Asia",
       "title": "Is China behind a wave of AI fake videos targeting Taiwan?",
       "url": "https://www.bbc.co.uk/news/articles/cv702rw7dzx5o?at_medium=RSS&at_campaign=rss",
@@ -387,15 +432,6 @@
       "published_at": "2026-11-24T23:05:11Z",
       "country_code": "CN",
       "country_name": "China"
-    },
-    {
-      "source": "BBC Asia",
-      "title": "Indian government has 'lost the plot', says 'cockroach' leader barred from UK flight",
-      "url": "https://www.bbc.co.uk/news/articles/cm5y1ezx2gqyo?at_medium=RSS&at_campaign=rss",
-      "summary": "Saurav Das says immigration authorities at Delhi airport told him his passport had been flagged.",
-      "published_at": "2026-11-24T18:07:46Z",
-      "country_code": "GB",
-      "country_name": "United Kingdom"
     },
     {
       "source": "BBC Middle East",
@@ -414,15 +450,6 @@
       "published_at": "2026-11-24T15:17:28Z",
       "country_code": "SY",
       "country_name": "Syria"
-    },
-    {
-      "source": "BBC Europe",
-      "title": "Russian governor detained in rare criminal case against regional leader",
-      "url": "https://www.bbc.co.uk/news/articles/cmwy868v3nneo?at_medium=RSS&at_campaign=rss",
-      "summary": "Andrei Chibis, head of Russia's northern Murmansk region, is the first governor to be detained for five years.",
-      "published_at": "2026-11-24T12:45:43Z",
-      "country_code": "RU",
-      "country_name": "Russia"
     },
     {
       "source": "BBC Middle East",
@@ -488,24 +515,6 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC Europe",
-      "title": "What the new UK-EU deal could mean for future post-Brexit relations",
-      "url": "https://www.bbc.co.uk/news/videos/c90k6gl3lyxeo?at_medium=RSS&at_campaign=rss",
-      "summary": "The BBC's political and Europe editors analyse the new agreements between the UK and EU.",
-      "published_at": "2026-11-20T21:43:22Z",
-      "country_code": "GB",
-      "country_name": "United Kingdom"
-    },
-    {
-      "source": "BBC Europe",
-      "title": "Who to watch in Spain's election race",
-      "url": "https://www.bbc.co.uk/news/articles/cxr5g4lyp94no?at_medium=RSS&at_campaign=rss",
-      "summary": "Spain votes on 29 November, with the conservatives leading most polls after eight years of Socialist-led rule.",
-      "published_at": "2026-11-20T11:23:42Z",
-      "country_code": "ES",
-      "country_name": "Spain"
-    },
-    {
       "source": "BBC Africa",
       "title": "More climate money for Africa? Europe says use what's already pledged",
       "url": "https://www.bbc.co.uk/news/articles/c6074k5jjrzko?at_medium=RSS&at_campaign=rss",
@@ -513,15 +522,6 @@
       "published_at": "2026-11-20T05:03:43Z",
       "country_code": "TR",
       "country_name": "Turkey"
-    },
-    {
-      "source": "BBC Middle East",
-      "title": "Israeli military completes ground operation in Gaza beyond Yellow Line",
-      "url": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss",
-      "summary": "Hamas condemned the incursion, which the Israeli military said was to dismantle a \"terror tunnel\", as a \"flagrant\" ceasefire violation.",
-      "published_at": "2026-11-19T17:03:23Z",
-      "country_code": "PS",
-      "country_name": "Palestine"
     },
     {
       "source": "BBC Africa",
@@ -576,15 +576,6 @@
       "published_at": "2026-11-13T23:25:50Z",
       "country_code": "PE",
       "country_name": "Peru"
-    },
-    {
-      "source": "BBC Africa",
-      "title": "Salah scores twice as Egypt and Nigeria win Afcon 2027 qualifiers",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cw1md9jx2r3po?at_medium=RSS&at_campaign=rss",
-      "summary": "Nigeria beat Tanzania to boost their hopes of reaching the 2027 Africa Cup of Nations, while Mohamed Salah scores twice as Egypt cruise to v…",
-      "published_at": "2026-11-13T22:11:27Z",
-      "country_code": "EG",
-      "country_name": "Egypt"
     },
     {
       "source": "BBC Latin America",
@@ -711,6 +702,15 @@
       "published_at": "2026-10-20T08:53:06Z",
       "country_code": "IL",
       "country_name": "Israel"
+    },
+    {
+      "source": "BBC Africa",
+      "title": "Watch: Who is Nobel Peace Prize winner Navi Pillay?",
+      "url": "https://www.bbc.co.uk/news/videos/cq8ezdww6w0do?at_medium=RSS&at_campaign=rss",
+      "summary": "BBC correspondent Joe Inwood explains how Pillay's childhood in South Africa led her to become a driving force in international law from Mya…",
+      "published_at": "2026-10-09T15:26:33Z",
+      "country_code": "PS",
+      "country_name": "Palestine"
     }
   ],
   "regions": [
@@ -720,24 +720,19 @@
       "news_count": 18
     },
     {
-      "country_code": "GB",
-      "country_name": "United Kingdom",
-      "news_count": 7
-    },
-    {
       "country_code": "IL",
       "country_name": "Israel",
       "news_count": 7
     },
     {
-      "country_code": "RU",
-      "country_name": "Russia",
-      "news_count": 7
-    },
-    {
       "country_code": "ES",
       "country_name": "Spain",
-      "news_count": 4
+      "news_count": 6
+    },
+    {
+      "country_code": "GB",
+      "country_name": "United Kingdom",
+      "news_count": 5
     },
     {
       "country_code": "FR",
@@ -745,19 +740,14 @@
       "news_count": 4
     },
     {
-      "country_code": "TR",
-      "country_name": "Turkey",
+      "country_code": "IN",
+      "country_name": "India",
       "news_count": 4
     },
     {
-      "country_code": "EG",
-      "country_name": "Egypt",
-      "news_count": 3
-    },
-    {
-      "country_code": "IN",
-      "country_name": "India",
-      "news_count": 3
+      "country_code": "RU",
+      "country_name": "Russia",
+      "news_count": 4
     },
     {
       "country_code": "IR",
@@ -770,8 +760,28 @@
       "news_count": 3
     },
     {
+      "country_code": "TR",
+      "country_name": "Turkey",
+      "news_count": 3
+    },
+    {
+      "country_code": "CA",
+      "country_name": "Canada",
+      "news_count": 2
+    },
+    {
       "country_code": "CN",
       "country_name": "China",
+      "news_count": 2
+    },
+    {
+      "country_code": "EG",
+      "country_name": "Egypt",
+      "news_count": 2
+    },
+    {
+      "country_code": "IT",
+      "country_name": "Italy",
       "news_count": 2
     },
     {
@@ -790,16 +800,6 @@
       "news_count": 1
     },
     {
-      "country_code": "CA",
-      "country_name": "Canada",
-      "news_count": 1
-    },
-    {
-      "country_code": "IT",
-      "country_name": "Italy",
-      "news_count": 1
-    },
-    {
       "country_code": "MA",
       "country_name": "Morocco",
       "news_count": 1
@@ -815,6 +815,11 @@
       "news_count": 1
     },
     {
+      "country_code": "SA",
+      "country_name": "Saudi Arabia",
+      "news_count": 1
+    },
+    {
       "country_code": "SD",
       "country_name": "Sudan",
       "news_count": 1
@@ -827,6 +832,11 @@
     {
       "country_code": "TH",
       "country_name": "Thailand",
+      "news_count": 1
+    },
+    {
+      "country_code": "VE",
+      "country_name": "Venezuela",
       "news_count": 1
     },
     {
