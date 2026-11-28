@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-11-27T21:43:38Z",
+  "generated_at": "2026-11-28T03:37:50Z",
   "articles": [
+    {
+      "source": "BBC US & Canada",
+      "title": "Hundreds of thousands still without power a day after US slammed with Thanksgiving storms",
+      "url": "https://www.bbc.co.uk/news/articles/cre3dj5n7dpwo?at_medium=RSS&at_campaign=rss",
+      "summary": "Pennsylvania and neighbouring states remained badly affected on Friday after both coasts were lashed with wind and rain.",
+      "published_at": "2026-11-28T01:55:33Z",
+      "country_code": "US",
+      "country_name": "United States"
+    },
+    {
+      "source": "BBC World",
+      "title": "Nigeria's 'ultimate hard man' who become an online meme",
+      "url": "https://www.bbc.co.uk/news/articles/cm3vg3lkrk03o?at_medium=RSS&at_campaign=rss",
+      "summary": "Before becoming a household name in the Nigerian film industry, Edochie built a career in broadcasting.",
+      "published_at": "2026-11-28T01:20:35Z",
+      "country_code": "NG",
+      "country_name": "Nigeria"
+    },
+    {
+      "source": "BBC World",
+      "title": "A clinic is reassessing people with ADHD and autism diagnoses - but critics fear it could deepen stigma",
+      "url": "https://www.bbc.co.uk/news/articles/cr9309nyg2vno?at_medium=RSS&at_campaign=rss",
+      "summary": "While many people find a diagnosis for ADHD or autism affirming, a government-funded clinic in Sweden is re-assessing people who feel it doe…",
+      "published_at": "2026-11-28T00:05:17Z",
+      "country_code": "SE",
+      "country_name": "Sweden"
+    },
+    {
+      "source": "BBC World",
+      "title": "Behind China's spectacular rise, voices who defied it say they are being drowned out",
+      "url": "https://www.bbc.co.uk/news/articles/cme3d4y094x7o?at_medium=RSS&at_campaign=rss",
+      "summary": "China's immense clout now also has the flex of soft power. Critics and dissidents say their voices are being drowned out.",
+      "published_at": "2026-11-27T23:02:35Z",
+      "country_code": "CN",
+      "country_name": "China"
+    },
     {
       "source": "BBC Africa",
       "title": "New satellite data shows how fast some African cities are sinking",
@@ -9,15 +45,6 @@
       "published_at": "2026-11-27T19:03:18Z",
       "country_code": "NG",
       "country_name": "Nigeria"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "Hundreds of thousands still without power after storms hit US on Thanksgiving",
-      "url": "https://www.bbc.co.uk/news/articles/cre3dj5n7dpwo?at_medium=RSS&at_campaign=rss",
-      "summary": "Pennsylvania and neighbouring states remain badly affected on Friday after both coasts were lashed with wind and rain.",
-      "published_at": "2026-11-27T18:45:05Z",
-      "country_code": "US",
-      "country_name": "United States"
     },
     {
       "source": "BBC World",
@@ -45,6 +72,15 @@
       "published_at": "2026-11-27T16:53:46Z",
       "country_code": "CA",
       "country_name": "Canada"
+    },
+    {
+      "source": "BBC World",
+      "title": "Severe Thanksgiving storms leave roads flooded and trees fallen",
+      "url": "https://www.bbc.co.uk/news/videos/ckvg20y511p4o?at_medium=RSS&at_campaign=rss",
+      "summary": "Hundreds of thousands of people were without power after severe weather hit both coasts of the United States during the Thanksgiving holiday…",
+      "published_at": "2026-11-27T16:46:47Z",
+      "country_code": "US",
+      "country_name": "United States"
     },
     {
       "source": "BBC World",
@@ -83,7 +119,7 @@
       "country_name": "Italy"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Europe",
       "title": "EU leaders fail to bridge budget splits as talks stall",
       "url": "https://www.bbc.co.uk/news/articles/cw4gnm3m9deno?at_medium=RSS&at_campaign=rss",
       "summary": "Aid for Ukraine was among the disputes as EU members hope to conclude talks by the end of the year.",
@@ -110,15 +146,6 @@
       "country_name": "Saudi Arabia"
     },
     {
-      "source": "BBC World",
-      "title": "Venezuela to scrap law that bars opposition from public office",
-      "url": "https://www.bbc.co.uk/news/articles/c58j4pw9xjrlo?at_medium=RSS&at_campaign=rss",
-      "summary": "The legislation has been criticised for enabling political persecution since it was introduced two years ago.",
-      "published_at": "2026-11-27T05:35:10Z",
-      "country_code": "VE",
-      "country_name": "Venezuela"
-    },
-    {
       "source": "BBC Asia",
       "title": "New Zealand's ruling coalition falls short of parliamentary majority by one seat",
       "url": "https://www.bbc.co.uk/news/articles/c670278qk879o?at_medium=RSS&at_campaign=rss",
@@ -126,15 +153,6 @@
       "published_at": "2026-11-27T03:28:15Z",
       "country_code": "NZ",
       "country_name": "New Zealand"
-    },
-    {
-      "source": "BBC World",
-      "title": "Met Police ruined my life, says Kenyan man wrongly convicted over attack on UK couple",
-      "url": "https://www.bbc.co.uk/news/articles/cqvg2nlr8kd8o?at_medium=RSS&at_campaign=rss",
-      "summary": "Evidence from a British police officer helped convict Ali Kololo over a 2011 attack in the Kenyan resort of Lamu.",
-      "published_at": "2026-11-27T00:48:11Z",
-      "country_code": "GB",
-      "country_name": "United Kingdom"
     },
     {
       "source": "BBC Africa",
@@ -146,7 +164,7 @@
       "country_name": "United Kingdom"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "Sheikh Hasina's planned return puts Bangladesh on edge - and India in a bind",
       "url": "https://www.bbc.co.uk/news/articles/cx30g71rev23o?at_medium=RSS&at_campaign=rss",
       "summary": "The ousted prime minister's December homecoming plan deepens Dhaka-Delhi tensions and risks fresh unrest.",
@@ -191,7 +209,7 @@
       "country_name": "United States"
     },
     {
-      "source": "BBC World",
+      "source": "BBC Asia",
       "title": "Nine injured, three critically, after Bangkok oil refinery explosion",
       "url": "https://www.bbc.co.uk/news/articles/crx209kwk4kzo?at_medium=RSS&at_campaign=rss",
       "summary": "Black smoke could be seen across Bangkok's skyline after the blast, as officials urged residents to leave the area.",
@@ -299,7 +317,7 @@
       "country_name": "France"
     },
     {
-      "source": "BBC Europe",
+      "source": "BBC US & Canada",
       "title": "Guitar wars - the transatlantic battle over the Stratocaster",
       "url": "https://www.bbc.co.uk/news/articles/cqd01l9x8k48o?at_medium=RSS&at_campaign=rss",
       "summary": "US company Fender is in dispute with a German firm that makes generic versions of its key model.",
@@ -315,15 +333,6 @@
       "published_at": "2026-11-25T22:18:06Z",
       "country_code": "EG",
       "country_name": "Egypt"
-    },
-    {
-      "source": "BBC Asia",
-      "title": "North Korea expels Swiss diplomat in sanctions row",
-      "url": "https://www.bbc.co.uk/news/articles/cq0l34e4kkr5o?at_medium=RSS&at_campaign=rss",
-      "summary": "Swiss officials said relations would be kept through North Korea's embassy in Bern, and its own embassy in Beijing.",
-      "published_at": "2026-11-25T21:51:17Z",
-      "country_code": "CN",
-      "country_name": "China"
     },
     {
       "source": "BBC Latin America",
@@ -360,15 +369,6 @@
       "published_at": "2026-11-25T14:06:13Z",
       "country_code": "PS",
       "country_name": "Palestine"
-    },
-    {
-      "source": "BBC US & Canada",
-      "title": "What's driving up the cost of your Thanksgiving turkey?",
-      "url": "https://www.bbc.co.uk/news/videos/cw99e4x4x84no?at_medium=RSS&at_campaign=rss",
-      "summary": "BBC Verify has looked into how prices compare with previous years as Democrats blame President Trump for recent rises.",
-      "published_at": "2026-11-25T13:59:57Z",
-      "country_code": "TR",
-      "country_name": "Turkey"
     },
     {
       "source": "BBC Europe",
@@ -717,7 +717,7 @@
     {
       "country_code": "US",
       "country_name": "United States",
-      "news_count": 18
+      "news_count": 19
     },
     {
       "country_code": "IL",
@@ -730,13 +730,13 @@
       "news_count": 5
     },
     {
-      "country_code": "GB",
-      "country_name": "United Kingdom",
-      "news_count": 5
-    },
-    {
       "country_code": "ES",
       "country_name": "Spain",
+      "news_count": 4
+    },
+    {
+      "country_code": "GB",
+      "country_name": "United Kingdom",
       "news_count": 4
     },
     {
@@ -755,8 +755,8 @@
       "news_count": 3
     },
     {
-      "country_code": "TR",
-      "country_name": "Turkey",
+      "country_code": "NG",
+      "country_name": "Nigeria",
       "news_count": 3
     },
     {
@@ -785,11 +785,6 @@
       "news_count": 2
     },
     {
-      "country_code": "NG",
-      "country_name": "Nigeria",
-      "news_count": 2
-    },
-    {
       "country_code": "PE",
       "country_name": "Peru",
       "news_count": 2
@@ -797,6 +792,11 @@
     {
       "country_code": "PS",
       "country_name": "Palestine",
+      "news_count": 2
+    },
+    {
+      "country_code": "TR",
+      "country_name": "Turkey",
       "news_count": 2
     },
     {
@@ -830,6 +830,11 @@
       "news_count": 1
     },
     {
+      "country_code": "SE",
+      "country_name": "Sweden",
+      "news_count": 1
+    },
+    {
       "country_code": "SY",
       "country_name": "Syria",
       "news_count": 1
@@ -837,11 +842,6 @@
     {
       "country_code": "TH",
       "country_name": "Thailand",
-      "news_count": 1
-    },
-    {
-      "country_code": "VE",
-      "country_name": "Venezuela",
       "news_count": 1
     },
     {
